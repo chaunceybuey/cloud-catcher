@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Elite Doctors Served Jeffrey Epstein While Treating His \u2018Girls\u2019",
+    "link": "https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html",
+    "content": "An exam room at Priority Private Care on the Upper East Side of Manhattan in 2018.",
+    "date": "2026-02-28T17:15:02",
+    "category": "News"
+  },
+  {
     "id": "https://www.nytimes.com/2026/02/28/opinion/international-world/the-president-of-war.html",
     "feed_name": "NYT Top Stories",
     "title": "The President of War",
@@ -123,6 +132,33 @@
     "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-boat-strikes-pentagon.html",
     "content": "Platte B. Moring III, a Defense Department lawyer in the first Trump administration, was nominated as the Pentagon\u2019s watchdog by President Trump after the president fired at least 17 inspectors general.",
     "date": "2026-02-28T10:01:29",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/arts/television/epstein-dick-cavett-film.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Epstein Effort to Finance a Dick Cavett Film Undone by Background Check",
+    "link": "https://www.nytimes.com/2026/02/28/arts/television/epstein-dick-cavett-film.html",
+    "content": "Dick Cavett had an illustrious career as a talk-show host known for his probing interviews. When a documentary about him was in the early stages, Jeffrey Epstein took an interest.",
+    "date": "2026-02-28T10:01:24",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/business/media/epstein-qanon-pizzagate.html",
+    "feed_name": "NYT Top Stories",
+    "title": "QAnon Faithful See Validation in the Epstein Files",
+    "link": "https://www.nytimes.com/2026/02/28/business/media/epstein-qanon-pizzagate.html",
+    "content": "QAnon followers see validation of their theories in some elements of the Epstein files. But other parts of their canon, including the existence of a deep-state pedophilia conspiracy, are not backed up by the files.",
+    "date": "2026-02-28T10:00:54",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Kash Patel\u2019s Girlfriend Seeks Fame and Fortune, Escorted by an F.B.I. SWAT Team",
+    "link": "https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html",
+    "content": "Alexis Wilkins with Kash Patel as he is sworn in as F.B.I. director at the White House in February 2025.",
+    "date": "2026-02-28T10:00:43",
     "category": "News"
   },
   {
