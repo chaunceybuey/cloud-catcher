@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.nytimes.com/2026/02/28/opinion/international-world/the-president-of-war.html",
+    "feed_name": "NYT Top Stories",
+    "title": "The President of War",
+    "link": "https://www.nytimes.com/2026/02/28/opinion/international-world/the-president-of-war.html",
+    "content": "The U.S. military was once a tool of last resort for American presidents.",
+    "date": "2026-02-28T15:04:58",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/business/dealbook/berkshire-hathaway-earnings-gregory-abel-warren-buffett.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Berkshire Hathaway Posts a Drop in Earnings in Buffett\u2019s Last Year",
+    "link": "https://www.nytimes.com/2026/02/28/business/dealbook/berkshire-hathaway-earnings-gregory-abel-warren-buffett.html",
+    "content": "Gregory E. Abel, right, the new chief executive of Berkshire Hathaway, with a Berkshire shareholder at the conglomerate\u2019s annual meeting last year.",
+    "date": "2026-02-28T14:59:19",
+    "category": "News"
+  },
+  {
     "id": "https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html",
     "feed_name": "NYT Top Stories",
     "title": "Why Have You Started This War, Mr. President?",
@@ -36,6 +54,15 @@
     "category": "News"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/28/business/dealbook/lloyd-blankfein-book.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Lloyd Blankfein on Trump, Epstein and Life After Goldman Sachs",
+    "link": "https://www.nytimes.com/2026/02/28/business/dealbook/lloyd-blankfein-book.html",
+    "content": "Lloyd Blankfein, a former C.E.O. of Goldman Sachs, has published a memoir.",
+    "date": "2026-02-28T13:00:03",
+    "category": "News"
+  },
+  {
     "id": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html",
     "feed_name": "NYT Top Stories",
     "title": "Chaos and Panic Grip Tehran as Airstrikes Shake City",
@@ -51,6 +78,15 @@
     "link": "https://www.nytimes.com/2026/02/28/insider/times-reporters-mexico-el-mencho-cartels.html",
     "content": "The remnants of retaliatory violence, including burned vehicles, was evident along the highway between Guadalajara and Tapalpa, in Jalisco state.",
     "date": "2026-02-28T12:46:45",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/business/media/netflix-warner-bros-discovery-analysts.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Netflix Lost Warner. Maybe That\u2019s a Good Thing.",
+    "link": "https://www.nytimes.com/2026/02/28/business/media/netflix-warner-bros-discovery-analysts.html",
+    "content": "Netflix\u2019s offices on Sunset Boulevard in Los Angeles. \u201cThe truth is, Netflix is still producing more hits than everyone else combined,\u201d one analyst said.",
+    "date": "2026-02-28T10:02:28",
     "category": "News"
   },
   {
@@ -87,6 +123,15 @@
     "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-boat-strikes-pentagon.html",
     "content": "Platte B. Moring III, a Defense Department lawyer in the first Trump administration, was nominated as the Pentagon\u2019s watchdog by President Trump after the president fired at least 17 inspectors general.",
     "date": "2026-02-28T10:01:29",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/nyregion/columbia-student-ice-arrest.html",
+    "feed_name": "NYT Top Stories",
+    "title": "A Tale of Two Seasons at Columbia, and Two Responses to Student Arrests",
+    "link": "https://www.nytimes.com/2026/02/28/nyregion/columbia-student-ice-arrest.html",
+    "content": "The message at Columbia University was clear this week after federal immigration agents again detained a student.",
+    "date": "2026-02-28T08:00:10",
     "category": "News"
   },
   {
@@ -141,6 +186,15 @@
     "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-taiwan-arms-sale.html",
     "content": "An Air Force Patriot missile system was deployed at a local park during Taiwan\u2019s annual Han Kuang military exercise last year.",
     "date": "2026-02-28T00:47:30",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/27/climate/global-fire-weather.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Fighting Wildfires Could Soon Get Harder",
+    "link": "https://www.nytimes.com/2026/02/27/climate/global-fire-weather.html",
+    "content": "A wildfire this month in Chubut Province, Argentina. Different parts of the world have historically had different fire seasons, allowing regions to rotate resources.",
+    "date": "2026-02-27T10:02:16",
     "category": "News"
   }
 ]
