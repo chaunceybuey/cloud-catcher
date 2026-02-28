@@ -1,9 +1,36 @@
 [
   {
+    "id": "https://www.nytimes.com/2026/02/28/opinion/iran-us-war-attack-protests.html",
+    "feed_name": "NYT Top Stories",
+    "title": "How Iranians Can Take Control of Their Future",
+    "link": "https://www.nytimes.com/2026/02/28/opinion/iran-us-war-attack-protests.html",
+    "content": "U.S. military interventions have often gone poorly for the countries in question. But there is much the world, and Iranians, can do.",
+    "date": "2026-02-28T20:00:05",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-iran-assassination-khamenei.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Israel Targeted Top Iranian Leaders in Attack\u2019s Opening Strikes",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-iran-assassination-khamenei.html",
+    "content": "At least one gathering of senior officials and military leaders was hit, but it was not immediately clear whether the effort to kill them had succeeded.",
+    "date": "2026-02-28T19:23:45",
+    "category": "News"
+  },
+  {
     "id": "https://www.nytimes.com/2026/02/28/world/middleeast/mapping-the-us-led-attacks-on-iran.html",
     "feed_name": "NYT Top Stories",
     "title": "Mapping the U.S.-Led Attacks on Iran",
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/mapping-the-us-led-attacks-on-iran.html",
+    "content": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
+    "date": "2026-02-28T19:11:02",
+    "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html",
+    "feed_name": "NYT Top Stories",
+    "title": "Mapping the U.S.-Led Attacks on Iran",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html",
     "content": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
     "date": "2026-02-28T19:11:02",
     "category": "News"
