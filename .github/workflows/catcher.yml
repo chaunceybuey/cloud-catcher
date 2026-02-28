@@ -1,0 +1,34 @@
+name: Cloud Catcher
+
+on:
+  schedule:
+    - cron: '0 * * * *' # This tells GitHub to run it at the top of every hour
+  workflow_dispatch: # This adds a manual "Run" button so we can test it
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # This gives the bot permission to save the JSON file back to your repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run the Cloud Catcher script
+        run: python cloud_catcher.py
+
+      - name: Commit and push new articles
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add master_articles.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Caught new articles" && git push)
