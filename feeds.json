@@ -9,6 +9,14 @@
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
     },
     {
+      "name": "NYT - Emailed",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
+    },
+    {
+      "name": "Texas Tribune",
+      "url": "https://feeds.texastribune.org/feeds/main/"
+    },
+    {
       "name": "Vanguard",
       "url": "https://www.bogleheads.org/forum/feed/topic/421345?sid=c17132729871056f618036c944d20987"
     },
@@ -21,10 +29,6 @@
       "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
     },
     {
-      "name": "Texas Tribune",
-      "url": "https://feeds.texastribune.org/feeds/main/"
-    },
-    {
       "name": "Douthat",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
     },
@@ -35,10 +39,6 @@
     {
       "name": "KMFA",
       "url": "https://www.kmfa.org/events.rss"
-    },
-    {
-      "name": "NYT - Emailed",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
     }
   ]
 }
