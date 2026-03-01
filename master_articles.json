@@ -135,6 +135,16 @@
     "category": "News"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-missiles-shelter-iran.html",
+    "feed_name": "NYT",
+    "title": "Israelis Take Shelter as Sirens Warn of Incoming Missiles",
+    "author": "Azam Ahmed, Gabby Sobelman and Aaron Boxerman",
+    "link": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-missiles-shelter-iran.html",
+    "content": "People gathered in a bomb shelter in Tel Aviv on Saturday following an air raid warning.",
+    "date": "2026-02-28T18:26:34",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html",
     "feed_name": "NYT Top Stories",
     "title": "Iran Hits Back Across the Mideast, Targeting U.S. Bases and Allies",
@@ -538,6 +548,16 @@
     "content": "People walked past a missile system and banners of Ayatollah Ali Khamenei, Iran\u2019s supreme leader, in Tehran last year.",
     "date": "2026-02-27T02:15:16",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html",
+    "feed_name": "NYT",
+    "title": "Epstein Files Are Missing Records About Woman Who Made Claim Against Trump",
+    "author": "Mike Baker and Michael Gold",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html",
+    "content": "When the Justice Department made files public late last month, officials said it included all material sent by the public to the F.B.I.",
+    "date": "2026-02-26T03:04:33",
+    "category": "My Feeds"
   },
   {
     "id": "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html",
