@@ -35,6 +35,10 @@
     {
       "name": "KMFA",
       "url": "https://www.kmfa.org/events.rss"
+    },
+    {
+      "name": "NYT - Emailed",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
     }
   ]
 }
