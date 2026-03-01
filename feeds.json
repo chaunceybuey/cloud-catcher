@@ -1,12 +1,12 @@
 {
   "My Feeds": [
     {
-      "name": "NYT",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
+      "name": "Chait",
+      "url": "https://politepaul.com/fd/W9efGjKKMzdi.xml"
     },
     {
-      "name": "Douthat",
-      "url": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
+      "name": "NYT",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
     },
     {
       "name": "Vanguard",
@@ -25,16 +25,16 @@
       "url": "https://feeds.texastribune.org/feeds/main/"
     },
     {
+      "name": "Douthat",
+      "url": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
+    },
+    {
       "name": "Stratechery",
       "url": "https://stratechery.com/feed/"
     },
     {
       "name": "KMFA",
       "url": "https://www.kmfa.org/events.rss"
-    },
-    {
-      "name": "Chait",
-      "url": "https://politepaul.com/fd/W9efGjKKMzdi.xml"
     }
   ]
 }
