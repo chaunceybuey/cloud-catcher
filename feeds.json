@@ -19,6 +19,10 @@
     {
       "name": "NYT Cooking",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
+    },
+    {
+      "name": "Texas Tribune",
+      "url": "https://feeds.texastribune.org/feeds/main/"
     }
   ]
 }
