@@ -27,6 +27,10 @@
     {
       "name": "Stratechery",
       "url": "https://stratechery.com/feed/"
+    },
+    {
+      "name": "KMFA",
+      "url": "https://www.kmfa.org/events.rss"
     }
   ]
 }
