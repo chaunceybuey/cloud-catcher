@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8701978#p8701978",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "tybob99",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8701978#p8701978",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Just started using the Medical Receipt Storage feature for HSA expense tracking in Fidelity. It\u2019s useful and has a toggle to note whether expenses have been reimbursed or Reimbursable and enables invoices uploading.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I don't see this in the app, is it web only? How did you find it? <br /><br />Gdrive is dead easy.<br /><br />Go to the Web to access receipt tracker</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=208217\">tybob99</a> \u2014 Sun Mar 01, 2026 9:04 am</p><hr />",
+    "date": "2026-03-01T15:04:29",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222115",
     "feed_name": "Texas Tribune",
     "title": "Three dead, 14 injured after shooting at Austin bar",
@@ -117,6 +127,16 @@
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html",
     "content": "Ayatollah Ali Khamenei, who ruled for more than three decades, shaped Iran\u2019s Islamic revolution far more than the Islamic Republic\u2019s founder, Ayatollah Khomeini.",
     "date": "2026-03-01T13:24:11",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html",
+    "feed_name": "NYT",
+    "title": "Why the Epstein Investigations Took So Long and Did So Little",
+    "author": "Benjamin Weiser, Matthew Goldstein and Mike Baker",
+    "link": "https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html",
+    "content": "An undated photo of Jeffrey Epstein released by the Justice Department.",
+    "date": "2026-03-01T10:00:35",
     "category": "My Feeds"
   },
   {
@@ -582,6 +602,16 @@
     "content": "The country is retaliating, and the Middle East is in crisis.",
     "date": "2026-02-28T13:35:06",
     "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/health/scams-elderly-banks.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Banks Are Becoming Bulwarks for Vulnerable Seniors",
+    "author": "Paula Span",
+    "link": "https://www.nytimes.com/2026/02/28/health/scams-elderly-banks.html",
+    "content": "Older Americans are losing billions of dollars annually to financial exploitation. Banks and investment firms are training employees to spot red flags and stop the transactions.",
+    "date": "2026-02-28T13:23:42",
+    "category": "My Feeds"
   },
   {
     "id": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html",
@@ -1805,6 +1835,16 @@
     "link": "https://www.nytimes.com/2025/12/16/dining/beef-biryani-green-chile-bean-bake-and-sheet-pan-lemon-turmeric-chicken.html",
     "content": "Five weeknight recipes that are as simple as they are supremely nourishing and delicious.",
     "date": "2025-12-17T18:33:43",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/11/books/review/best-mystery-novels-2025.html",
+    "feed_name": "NYT - Emailed",
+    "title": "The Best Mystery Novels of 2025",
+    "author": "Sarah Weinman",
+    "link": "https://www.nytimes.com/2025/12/11/books/review/best-mystery-novels-2025.html",
+    "content": "Our columnist on the books that wowed her this year.",
+    "date": "2025-12-11T10:00:05",
     "category": "My Feeds"
   },
   {
