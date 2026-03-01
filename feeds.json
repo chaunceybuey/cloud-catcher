@@ -23,6 +23,10 @@
     {
       "name": "Texas Tribune",
       "url": "https://feeds.texastribune.org/feeds/main/"
+    },
+    {
+      "name": "Stratechery",
+      "url": "https://stratechery.com/feed/"
     }
   ]
 }
