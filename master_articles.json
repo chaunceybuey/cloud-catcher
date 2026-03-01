@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8702433#p8702433",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Northern Flicker",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8702433#p8702433",
+    "content": "It was reported here previously that Fidelity was no longer supporting manual ACH configurations, requiring the use of Finicity to link a bank account, which creates some privacy concerns. Currently, manual ACH configuration is supported. No microdeposits are issued or required for validation. Without microdeposits, it may be a good idea to do a small transfer to confirm there are no errors or typos in the account number before doing a larger transfer.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=88005\">Northern Flicker</a> \u2014 Sun Mar 01, 2026 4:29 pm</p><hr />",
+    "date": "2026-03-01T22:29:36",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8702284#p8702284",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
