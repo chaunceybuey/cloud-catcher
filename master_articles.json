@@ -130,6 +130,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
+    "feed_name": "NYT",
+    "title": "How Trump Decided to Go to War With Iran",
+    "author": "Mark Mazzetti, Julian E. Barnes, Tyler Pager, Edward Wong, Eric Schmitt and Ronen Bergman",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
+    "content": "President Trump\u2019s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president\u2019s advisers voiced opposition.",
+    "date": "2026-03-02T21:04:12",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Blood Moon Lunar Eclipse 2026: Time and Visibility Guide",
+    "author": "Katrina Miller",
+    "link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
+    "content": "To best view the phenomenon, NASA recommends finding a dark place away from bright lights.",
+    "date": "2026-03-02T20:45:11",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222212",
     "feed_name": "Texas Tribune",
     "title": "Police identify downtown Austin shooting victims",
