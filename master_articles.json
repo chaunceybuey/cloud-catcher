@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2025/03/01/world/middleeast/girls-school-strike-iran-video.html",
+    "feed_name": "NYT",
+    "title": "Strike on Girls\u2019 School Kills At Least 175, Iranian State Media Says",
+    "author": "Malachy Browne, Ephrat Livni and Sanam Mahoozi",
+    "link": "https://www.nytimes.com/2025/03/01/world/middleeast/girls-school-strike-iran-video.html",
+    "content": "Videos and images verified by The New York Times showed that at least half of the school was destroyed. It was not immediately clear why the school was hit, or which country\u2019s forces had fired at it.",
+    "date": "2026-03-02T09:53:01",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8702700#p8702700",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -107,6 +117,16 @@
     "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8702700#p8702700",
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I didn't miss anything.  Your \"main\" point is ignoring half the equation.  What about the fees at the bank you do the transaction at???<br /><br />Again...I see this as such a rare thing..,How many times exactly have you done this???  I would really like to know.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I think the whole point is that many banks that offer teller cash advances often don't charge for it.<br /><br />I did this over a decade ago when I needed cleared funds quickly to get a cashier's check for a deposit on a new apartment. I was unable to set up an account at a bank with branches in the new city ahead of time.  A check from my old bank would take too long to clear, and my daily ATM limit was too low.  So, I used the cash advance feature on the debit card to get up to $5000/day fee free from a bank teller.  No fees were charged.<br /><br />I don't plan to use a teller cash advance again.  I assume teller/cash use has plummeted in the past decade and teller cash advances are less common.  I've planned ahead and I have sufficient Fidelity CMA accounts (and similar accounts from other institutions) that I can get enough cash on short notice from ATMs.  If I anticipate needing more cash, I can raise the card limits permanently, or open more CMAs. Some major banks limit ATM withdrawals to $1000/day per card, even if the ATM limit is higher.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=9124\">Lyrrad</a> \u2014 Sun Mar 01, 2026 11:04 pm</p><hr />",
     "date": "2026-03-02T05:04:27",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html",
+    "feed_name": "NYT",
+    "title": "F.B.I. Investigating if Shooting at a Bar in Austin Has Terrorism Connection",
+    "author": "Pooja Salhotra, Sonia A. Rao, Chelsia Rose Marcius and Ram\u00f3n Ramirez",
+    "link": "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html",
+    "content": "Three people, including the shooter, were pronounced dead at the scene of the shooting on Sunday in Austin, Texas, the police said.",
+    "date": "2026-03-02T04:42:10",
     "category": "My Feeds"
   },
   {
@@ -177,6 +197,26 @@
     "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8702433#p8702433",
     "content": "It was reported here previously that Fidelity was no longer supporting manual ACH configurations, requiring the use of Finicity to link a bank account, which creates some privacy concerns. Currently, manual ACH configuration is supported. No microdeposits are issued or required for validation. Without microdeposits, it may be a good idea to do a small transfer to confirm there are no errors or typos in the account number before doing a larger transfer.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=88005\">Northern Flicker</a> \u2014 Sun Mar 01, 2026 4:29 pm</p><hr />",
     "date": "2026-03-01T22:29:36",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-disbelief-khamenei-assassination.html",
+    "feed_name": "NYT",
+    "title": "\u2018It\u2019s Surreal\u2019: Iranians in Disbelief After Supreme Leader Is Killed",
+    "author": "Christina Goldbaum and Kiana Hayeri",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-disbelief-khamenei-assassination.html",
+    "content": "A rally to mourn Ayatollah Ali Khamenei, the supreme leader of Iran, in Tehran on Sunday.",
+    "date": "2026-03-01T22:05:08",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html",
+    "feed_name": "NYT",
+    "title": "Stakes Quickly Rise for U.S. in Iran War, With 3 Service Members Killed",
+    "author": "Helene Cooper and Eric Schmitt",
+    "link": "https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html",
+    "content": "Smoke rose on Sunday near Erbil International Airport, which hosts U.S.-led coalition troops in Iraq\u2019s autonomous Kurdistan region.",
+    "date": "2026-03-01T21:48:55",
     "category": "My Feeds"
   },
   {
@@ -1949,6 +1989,16 @@
     "link": "https://www.nytimes.com/2026/02/06/business/market-risk-investing-index-funds.html",
     "content": "With signs of trouble popping up in financial markets, investors need to decide whether they can ignore the turmoil, our columnist says.",
     "date": "2026-02-06T10:03:20",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/06/business/2025-taxes-return-refund-income.html",
+    "feed_name": "NYT - Emailed",
+    "title": "2025 Tax Returns: Here\u2019s What to Know About Filing This Year",
+    "author": "Tara Siegel Bernard and Ron Lieber",
+    "link": "https://www.nytimes.com/2026/02/06/business/2025-taxes-return-refund-income.html",
+    "content": "Many Americans will see bigger refunds and new deductions, while others may be revisiting the dreaded alternative minimum tax. Don\u2019t panic just yet.",
+    "date": "2026-02-06T10:02:45",
     "category": "My Feeds"
   },
   {
