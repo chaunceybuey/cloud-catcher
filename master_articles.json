@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=222212",
+    "feed_name": "Texas Tribune",
+    "title": "Police identify downtown Austin shooting victims",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17288061/austin-texas-shooting-victims-fbi-investigation-abbott",
+    "content": "FBI personnel walk toward the scene of a fatal shooting that left three dead, including the suspected shooter, and wounded at least 14 others, in downtown Austin on March 1, 2026.",
+    "date": "2026-03-02T20:21:13",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222195",
     "feed_name": "Texas Tribune",
     "title": "Republican meddling roils Senate Democratic primary in final days",
