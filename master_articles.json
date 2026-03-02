@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/opinion/trump-iran.html",
+    "feed_name": "NYT",
+    "title": "Trump Wants You to Get Used to This. Don\u2019t.",
+    "author": "Ben Rhodes",
+    "link": "https://www.nytimes.com/2026/03/02/opinion/trump-iran.html",
+    "content": "The old U.S.-led order is dead; the new one feels unstable and ominous, as if a storm could descend at any moment.",
+    "date": "2026-03-02T14:43:35",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8702923#p8702923",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -187,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/03/02/opinion/hospice-care.html",
     "content": "Too many hospice care responsibilities are placed on families.",
     "date": "2026-03-02T10:00:29",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/02/opinion/whooping-cranes-endangered-species-act.html",
+    "feed_name": "NYT",
+    "title": "The Glorious Birds We Saved",
+    "author": "Margaret Renkl",
+    "link": "https://www.nytimes.com/2026/03/02/opinion/whooping-cranes-endangered-species-act.html",
+    "content": "The whooping cranes\u2019 fragile recovery highlights the need for renewed commitment to safeguarding America\u2019s endangered species.",
+    "date": "2026-03-02T10:00:24",
     "category": "My Feeds"
   },
   {
