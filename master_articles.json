@@ -160,6 +160,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/28/dining/the-march-monthly-bake-chocolate-guinness-cake.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Chocolate Guinness Cake Is the March Monthly Bake for Bake Time",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/02/28/dining/the-march-monthly-bake-chocolate-guinness-cake.html",
+    "content": "Nigella Lawson\u2019s chocolate Guinness cake.",
+    "date": "2026-03-01T23:17:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8702433#p8702433",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -225,6 +235,16 @@
     "title": "Iran\u2019s Regime May Survive, but the Middle East Will Be Changed",
     "author": "Steven Erlanger",
     "link": "https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html",
+    "content": "Iranians mourning the killing of the supreme leader, Ayatollah Ali Khamenei, on Sunday.",
+    "date": "2026-03-01T18:02:39",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-regime-middle-east-khamenei.html",
+    "feed_name": "NYT",
+    "title": "Iran\u2019s Regime May Survive, but the Middle East Will Be Changed",
+    "author": "Steven Erlanger",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-regime-middle-east-khamenei.html",
     "content": "Iranians mourning the killing of the supreme leader, Ayatollah Ali Khamenei, on Sunday.",
     "date": "2026-03-01T18:02:39",
     "category": "My Feeds"
@@ -872,6 +892,16 @@
     "content": "The country is retaliating, and the Middle East is in crisis.",
     "date": "2026-02-28T13:35:06",
     "category": "News"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/28/climate/caesar-rodney-statue-trump.html",
+    "feed_name": "NYT",
+    "title": "Caesar Rodney statue to get place of honor in Washington",
+    "author": "Lisa Friedman",
+    "link": "https://www.nytimes.com/2026/02/28/climate/caesar-rodney-statue-trump.html",
+    "content": "A bronze statue of Caesar Rodney, a Declaration of Independence signer, on a galloping horse stood in downtown Wilmington, Del., for nearly 100 years until it was removed in 2020.",
+    "date": "2026-02-28T13:27:10",
+    "category": "My Feeds"
   },
   {
     "id": "https://www.nytimes.com/2026/02/28/health/scams-elderly-banks.html",
