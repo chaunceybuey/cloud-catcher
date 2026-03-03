@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/us/politics/trump-executive-orders-law-firms.html",
+    "feed_name": "NYT",
+    "title": "Trump Administration Abandons Efforts to Impose Executive Orders on Law Firms",
+    "author": "Jonah E. Bromwich and Michael S. Schmidt",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-executive-orders-law-firms.html",
+    "content": "The Justice Department told the U.S. Court of Appeals for the District of Columbia on Monday that it was no longer interested in pursuing the cases contesting executive orders barring law firms from government business.",
+    "date": "2026-03-03T01:01:45",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222311",
     "feed_name": "Texas Tribune",
     "title": "Texas House Republicans ask Congress to halt all immigration after Austin shooting",
@@ -127,6 +137,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17288190/texas-transgender-health-care-minors-kids-mental-therapy",
     "content": "Attorney General Ken Paxton speaks at a rally in Tyler as he campaigns for the U.S. Senate on Feb. 16, 2026.",
     "date": "2026-03-03T00:00:48",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/02/opinion/trump-iran-antiwar.html",
+    "feed_name": "NYT",
+    "title": "Trump Was Never Antiwar",
+    "author": "Michelle Goldberg",
+    "link": "https://www.nytimes.com/2026/03/02/opinion/trump-iran-antiwar.html",
+    "content": "Trump\u2019s foreign policy has often been less a repudiation of neoconservatism than a mutation of it.",
+    "date": "2026-03-03T00:00:04",
     "category": "My Feeds"
   },
   {
