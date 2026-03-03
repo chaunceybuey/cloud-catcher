@@ -230,6 +230,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/us/politics/usaid-hiring.html",
+    "feed_name": "NYT",
+    "title": "They\u2019re Hiring at U.S.A.I.D. Just Not Anyone Who Worked There.",
+    "author": "Eileen Sullivan",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/usaid-hiring.html",
+    "content": "Former staff members and supporters of the U.S. Agency for International Development held a rally last month in Washington to mark one year since the agency was largely dismantled.",
+    "date": "2026-03-02T22:36:18",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222275",
     "feed_name": "Texas Tribune",
     "title": "Muslim parent sues Texas over exclusion of Islamic private schools in voucher program",
