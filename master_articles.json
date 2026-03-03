@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/03/opinion/trump-imperialism-america.html",
+    "feed_name": "NYT",
+    "title": "Trump\u2019s Foreign Policy Vision: Imperialism",
+    "author": "Peter Beinart",
+    "link": "https://www.nytimes.com/2026/03/03/opinion/trump-imperialism-america.html",
+    "content": "Donald Trump\u2019s foreign policy vision is imperialism",
+    "date": "2026-03-03T10:08:30",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/03/opinion/law-firms-resistance-trump.html",
     "feed_name": "NYT",
     "title": "Nine Law Firms Surrendered. Four Law Firms Won.",
@@ -157,6 +167,16 @@
     "link": "https://www.nytimes.com/2026/03/03/opinion/law-firms-resistance-trump.html",
     "content": "The four law firms that fought Trump\u2019s executive orders have forced him to retreat.",
     "date": "2026-03-03T10:07:07",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/well/pet-longevity-health-benefits.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Can Owning a Pet Help You Live Longer?",
+    "author": "Dana G. Smith",
+    "link": "https://www.nytimes.com/2026/03/03/well/pet-longevity-health-benefits.html",
+    "content": "Thanks to his dog, Rumi, Dr. Dhruv Kazi says he spends more time outside and has gotten to know his neighbors \u2014 and their dogs.",
+    "date": "2026-03-03T10:00:07",
     "category": "My Feeds"
   },
   {
@@ -527,6 +547,16 @@
     "link": "https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html",
     "content": "Strikes on Tehran on Sunday.",
     "date": "2026-03-02T12:07:45",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/02/well/colorectal-cancer-young.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Half of Colorectal Cancer Cases Now Occur in Those Under 65, Study Shows",
+    "author": "Nina Agrawal",
+    "link": "https://www.nytimes.com/2026/03/02/well/colorectal-cancer-young.html",
+    "content": "It isn\u2019t clear what\u2019s driving the shift, but scientists suspect that environmental exposures may be partially to blame.",
+    "date": "2026-03-02T12:00:02",
     "category": "My Feeds"
   },
   {
