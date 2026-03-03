@@ -270,6 +270,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/03/opinion/jd-vance-has-his-reasons.html",
+    "feed_name": "NYT - Emailed",
+    "title": "JD Vance Has His Reasons",
+    "author": "Thomas B. Edsall",
+    "link": "https://www.nytimes.com/2026/03/03/opinion/jd-vance-has-his-reasons.html",
+    "content": "The vice president\u2019s political transformation from Trump skeptic to MAGA superstar has many roots.",
+    "date": "2026-03-03T10:07:10",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/03/opinion/law-firms-resistance-trump.html",
     "feed_name": "NYT",
     "title": "Nine Law Firms Surrendered. Four Law Firms Won.",
@@ -277,6 +287,26 @@
     "link": "https://www.nytimes.com/2026/03/03/opinion/law-firms-resistance-trump.html",
     "content": "The four law firms that fought Trump\u2019s executive orders have forced him to retreat.",
     "date": "2026-03-03T10:07:07",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/us/politics/south-carolina-measles-outbreak-vaccines.html",
+    "feed_name": "NYT",
+    "title": "In South Carolina Measles Outbreak, Vaccine Skepticism Led to Largest Outbreak Since 2000",
+    "author": "Anemona Hartocollis and Kaoly Gutierrez",
+    "link": "https://www.nytimes.com/2026/03/03/us/politics/south-carolina-measles-outbreak-vaccines.html",
+    "content": "Uptake of the vaccine has been slow, like at this public health fair at The University of South Carolina School of Medicine in Greenville, S.C.",
+    "date": "2026-03-03T10:06:35",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/realestate/rochester-ny-real-estate-guide.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Living in Rochester, N.Y.: A Real Estate Guide",
+    "author": "Anna Staropoli",
+    "link": "https://www.nytimes.com/2026/03/03/realestate/rochester-ny-real-estate-guide.html",
+    "content": "High Falls is one of three waterfalls in Rochester.",
+    "date": "2026-03-03T10:00:16",
     "category": "My Feeds"
   },
   {
