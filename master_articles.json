@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/03/dining/quick-craveable-dishes-to-break-me-out-of-a-cooking-rut.html",
+    "feed_name": "NYT Cooking",
+    "title": "Quick, Craveable Dishes to Break Me Out of a Cooking Rut",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/03/dining/quick-craveable-dishes-to-break-me-out-of-a-cooking-rut.html",
+    "content": "Like: crispy halloumi with tomatoes and white beans, roasted chicken thighs with hot honey and lime, Turkish eggs with yogurt.",
+    "date": "2026-03-03T16:00:06",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8704069#p8704069",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -2660,6 +2670,16 @@
     "content": "The left needs a sharper A.I. politics.",
     "date": "2026-02-11T01:04:34",
     "category": "Opinion "
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Seven Pages of a Sealed Watergate File Sat Undiscovered. Until Now.",
+    "author": "James Rosen",
+    "link": "https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html",
+    "content": "Seven pages of grand jury testimony from Richard Nixon were deemed so incendiary that they were hidden from the public for years.",
+    "date": "2026-02-10T20:01:02",
+    "category": "My Feeds"
   },
   {
     "id": "https://www.theatlantic.com/ideas/2026/02/rfk-jack-schlossberg-pelosi-kennedy/685941/",
