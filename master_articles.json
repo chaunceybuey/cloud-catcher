@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/03/world/middleeast/stock-markets-iran.html",
+    "feed_name": "NYT",
+    "title": "Stocks Tumble as Inflation Risk Emerges in Wake of Iran War",
+    "author": "Joe Rennison and Jason Karaian",
+    "link": "https://www.nytimes.com/2026/03/03/world/middleeast/stock-markets-iran.html",
+    "content": "The S&amp;P 500 slumped as investors retrenched from the unpredictable effects that the fighting could have on the world economy.",
+    "date": "2026-03-03T17:07:31",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/03/trump-iran-rubio-vance-war/686219/",
     "feed_name": "Chait",
     "title": "A Very Stable War",
@@ -107,6 +117,16 @@
     "link": "https://www.theatlantic.com/ideas/2026/03/trump-iran-rubio-vance-war/686219/",
     "content": "J. D. Vance says this Middle East entanglement can\u2019t be dumb\u2014because Trump is smart.",
     "date": "2026-03-03T16:33:37",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=222378",
+    "feed_name": "Texas Tribune",
+    "title": "Ted Cruz leads bipartisan bill that would void and prohibit confidentiality clauses in child sex abuse cases",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17288856/ted-cruz-treys-law-nda-child-sex-abuse",
+    "content": "U.S. Sen. Ted Cruz, R-Texas, speaks on Feb. 16, 2026, during a rally at the Texas T Tavern in Houston.",
+    "date": "2026-03-03T16:15:00",
     "category": "My Feeds"
   },
   {
@@ -717,6 +737,16 @@
     "link": "https://www.nytimes.com/2026/03/02/opinion/whooping-cranes-endangered-species-act.html",
     "content": "The whooping cranes\u2019 fragile recovery highlights the need for renewed commitment to safeguarding America\u2019s endangered species.",
     "date": "2026-03-02T10:00:24",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/02/us/colleges-see-spike-in-students-with-disabilities-including-elite-schools.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Colleges See Spike in Students With Disabilities, Including Elite Schools",
+    "author": "Mark Arsenault and Steven Rich",
+    "link": "https://www.nytimes.com/2026/03/02/us/colleges-see-spike-in-students-with-disabilities-including-elite-schools.html",
+    "content": "At Macalester College, a private liberal arts school in St. Paul, Minn., 29 percent of students had a disability in 2024, up from 5 percent a decade ago. Many other schools have also seen sharp rises.",
+    "date": "2026-03-02T10:00:19",
     "category": "My Feeds"
   },
   {
