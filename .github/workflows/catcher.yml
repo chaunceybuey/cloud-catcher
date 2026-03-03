@@ -1,9 +1,7 @@
 name: Cloud Catcher
 
 on:
-  schedule:
-    - cron: '14,44 * * * *' # This tells GitHub to run it at the top of every hour
-  workflow_dispatch: # This adds a manual "Run" button so we can test it
+    workflow_dispatch: # This adds a manual "Run" button so we can test it
 
 jobs:
   update-feed:
