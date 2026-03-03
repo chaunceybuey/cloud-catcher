@@ -90,6 +90,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=222432",
+    "feed_name": "Texas Tribune",
+    "title": "Austin police confident in SXSW security plans after West 6th Street shooting",
+    "author": "By Nathan Bernier,\u00a0KUT News",
+    "link": "https://feeds.texastribune.org/link/16799/17288966/sxsw-austin-2026-6th-street-shooting",
+    "content": "Austin Police Department officials investigate the area near a shooting on West 6th Street.",
+    "date": "2026-03-03T20:29:39",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/03/us/politics/trump-law-firm-orders-reversal.html",
     "feed_name": "NYT",
     "title": "Trump Administration, in Reversal, Tries to Continue Fight Against Law Firms",
