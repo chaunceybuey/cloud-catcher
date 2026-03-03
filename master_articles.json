@@ -280,6 +280,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html",
+    "feed_name": "NYT",
+    "title": "Seven Takeaways From the Clintons\u2019 Epstein Depositions",
+    "author": "Annie Karni and Michael Gold",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html",
+    "content": "Hillary Clinton speaking to reporters after her closed-door deposition before the House Oversight Committee, as part of its investigation into Jeffrey Epstein, in Chappaqua, N.Y.",
+    "date": "2026-03-03T04:06:31",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/02/us/politics/iran-trump-polls-republicans.html",
+    "feed_name": "NYT",
+    "title": "Trump Gambles His Presidency in His War With Iran",
+    "author": "Tyler Pager",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/iran-trump-polls-republicans.html",
+    "content": "President Trump leaving the White House on Friday. Interventions in the Middle East have bedeviled generations of American presidents.",
+    "date": "2026-03-03T03:44:32",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222348",
     "feed_name": "Texas Tribune",
     "title": "Anti-Muslim backlash shadows Austin after downtown shooting",
