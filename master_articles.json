@@ -140,6 +140,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/03/us/politics/trump-israel-iran.html",
+    "feed_name": "NYT",
+    "title": "Trump Tries to Quiet Claims Among Supporters That Israel Dragged Him Into War",
+    "author": "Tyler Pager",
+    "link": "https://www.nytimes.com/2026/03/03/us/politics/trump-israel-iran.html",
+    "content": "President Trump attempted to extinguish the idea that Israel forced the United States to enter a war with Iran.",
+    "date": "2026-03-04T15:20:19",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222283",
     "feed_name": "Texas Tribune",
     "title": "Green, Menefee appear headed for runoff in Houston clash of Democratic incumbents",
@@ -3459,6 +3469,16 @@
     "link": "https://www.theatlantic.com/ideas/2026/02/rfk-jack-schlossberg-pelosi-kennedy/685941/",
     "content": "Nancy Pelosi reportedly plans to endorse JFK\u2019s grandson for Congress. Why?",
     "date": "2026-02-10T14:09:28",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/08/well/aging-parents.html",
+    "feed_name": "NYT - Emailed",
+    "title": "5 Conversations to Have With Your Aging Parents",
+    "author": "Simar Bajaj",
+    "link": "https://www.nytimes.com/2026/02/08/well/aging-parents.html",
+    "content": "Many families put these talks off. But having them now can lead to better care later.",
+    "date": "2026-02-08T10:00:06",
     "category": "My Feeds"
   },
   {
