@@ -100,6 +100,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=222826",
+    "feed_name": "Texas Tribune",
+    "title": "Multiple U.S. House members face setbacks in Texas primaries",
+    "author": "Gabby Birenbaum and Patrick Svitek",
+    "link": "https://feeds.texastribune.org/link/16799/17290787/texas-congressional-primary-results-2",
+    "content": "U.S. Capitol on Jan. 6, 2022.",
+    "date": "2026-03-04T07:55:05",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=222810",
+    "feed_name": "Texas Tribune",
+    "title": "Incumbents prevail in Texas legislative races amid proxy battles over casinos, tort reform",
+    "author": "Renzo Downey and Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17290788/texas-legislature-incumbents-primary-tort-reform-casinos-tim-dunn",
+    "content": "The Capitol in  Austin on Monday Feb. 23, 2026.",
+    "date": "2026-03-04T07:48:11",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222744",
     "feed_name": "Texas Tribune",
     "title": "Nate Sheets leads three-time incumbent Sid Miller in GOP primary for Texas agriculture commissioner",
@@ -157,6 +177,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17290731/texas-chip-roy-mayes-middleton-attorney-general-republican-primary",
     "content": "From left: State Sen. Mayes Middleton, R-Galveston, and U.S. Rep. Chip Roy, R-Austin, are running in the Republican primary for Texas attorney general.",
     "date": "2026-03-04T03:54:10",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/world/middleeast/the-4-americans-killed-in-the-iran-war-who-have-been-identified.html",
+    "feed_name": "NYT",
+    "title": "These American Service Members Died in the Iran Conflict",
+    "author": "Corina Knoll, Christina Morales, Pooja Salhotra and Susan C. Beachy",
+    "link": "https://www.nytimes.com/2026/03/03/world/middleeast/the-4-americans-killed-in-the-iran-war-who-have-been-identified.html",
+    "content": "They were from Nebraska, Florida, Iowa and Minnesota. One was wrapping up his final deployment and hoped to open a martial arts studio.",
+    "date": "2026-03-04T03:51:48",
     "category": "My Feeds"
   },
   {
