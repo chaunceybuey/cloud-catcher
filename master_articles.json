@@ -1060,6 +1060,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/movies/wrong-movie-titles.html",
+    "feed_name": "NYT",
+    "title": "When \u2018Anora\u2019 Becomes \u2018Anorak\u2019: The Art of Wrong Movie Titles",
+    "author": "Matthew Huff and Tala Safie",
+    "link": "https://www.nytimes.com/2026/03/02/movies/wrong-movie-titles.html",
+    "content": "Staffers at Film at Lincoln Center keep a list of the incorrect movie titles they\u2019ve heard from patrons. That list is very, very long.",
+    "date": "2026-03-02T10:01:03",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/02/opinion/trump-usa-world-cup.html",
     "feed_name": "NYT",
     "title": "Don\u2019t Let Trump Ruin the World Cup",
