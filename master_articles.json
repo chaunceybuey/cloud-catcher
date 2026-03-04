@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=222283",
+    "feed_name": "Texas Tribune",
+    "title": "Green, Menefee appear headed for runoff in Houston clash of Democratic incumbents",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17293035/texas-christian-menefee-al-green-congress-district-18-democratic-primary",
+    "content": "From left: U.S. Reps. Al Green, D-Houston, and Christian Menefee, D-Houston.",
+    "date": "2026-03-04T13:00:41",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18432",
     "feed_name": "Stratechery",
     "title": "Anthropic\u2019s Skyrocketing Revenue, A Contract Compromise?, Nvidia Earnings",
@@ -177,6 +187,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17290729/texas-colin-allred-julie-johnson-congress-house-district-33-democratic-primary",
     "content": "Former U.S. Rep. Colin Allred and U.S. Rep. Julie Johnson, D-Farmers Branch. The two appeared headed for a runoff election to represent Texas\u2019 33rd Congressional District.",
     "date": "2026-03-04T05:57:51",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Chimpanzees Are Really Into Crystals",
+    "author": "Cara Giaimo",
+    "link": "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html",
+    "content": "In an attempt to understand our own fascination with the shiny minerals, researchers gave some to chimps.",
+    "date": "2026-03-04T05:01:06",
     "category": "My Feeds"
   },
   {
