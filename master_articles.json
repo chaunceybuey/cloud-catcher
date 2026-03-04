@@ -630,6 +630,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/us/politics/iran-ballistic-missiles.html",
+    "feed_name": "NYT",
+    "title": "Why Eliminating Iran\u2019s Ballistic Missiles Could Be Difficult",
+    "author": "John Ismay",
+    "link": "https://www.nytimes.com/2026/03/02/us/politics/iran-ballistic-missiles.html",
+    "content": "Much of Tehran\u2019s arsenal of missiles may be hidden underground, making it harder to destroy.",
+    "date": "2026-03-03T01:32:12",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/02/us/politics/trump-executive-orders-law-firms.html",
     "feed_name": "NYT",
     "title": "Trump Administration Abandons Efforts to Impose Executive Orders on Law Firms",
