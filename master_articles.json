@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://stratechery.com/?p=18432",
+    "feed_name": "Stratechery",
+    "title": "Anthropic\u2019s Skyrocketing Revenue, A Contract Compromise?, Nvidia Earnings",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/anthropics-skyrocketing-revenue-a-contract-compromise-nvidia-earnings/",
+    "content": "<p>Anthropic's enterprise business is reaching escape velocity, which increases the importance of finding a compromise with the government. Then, agents dramatically increase demand for Nvidia chips, even if they threaten software.</p>",
+    "date": "2026-03-04T11:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222855",
     "feed_name": "Texas Tribune",
     "title": "Here\u2019s what we learned from the action-packed Texas primaries",
