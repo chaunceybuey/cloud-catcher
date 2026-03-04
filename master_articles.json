@@ -160,6 +160,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/03/nyregion/nyc-congestion-pricing-ruling.html",
+    "feed_name": "NYT",
+    "title": "Congestion Pricing Wins in Court After Lengthy Battle With Trump",
+    "author": "Stefanos Chen and Winnie Hu",
+    "link": "https://www.nytimes.com/2026/03/03/nyregion/nyc-congestion-pricing-ruling.html",
+    "content": "A federal judge ruled on Tuesday that the Trump administration had unlawfully tried to end congestion pricing, which went into effect last year for drivers entering Manhattan below 60th Street.",
+    "date": "2026-03-03T20:14:35",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/03/opinion/ezra-klein-podcast-ben-rhodes.html",
     "feed_name": "NYT",
     "title": "The Great Lie of War",
