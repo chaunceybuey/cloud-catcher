@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=223056",
+    "feed_name": "Texas Tribune",
+    "title": "Texas primary voters smash recent midterm turnout records",
+    "author": "Apurva Mahajan and Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17293500/texas-2026-primary-turnout-democratic-republican",
+    "content": "Voters stand in line at the Cody Branch Library polling location on primary election day in San Antonio on March 3, 2026.",
+    "date": "2026-03-04T23:54:13",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html",
     "feed_name": "NYT",
     "title": "Justice Dept., Under Pressure From Trump, Fails to Build Autopen Case Against Biden",
@@ -150,6 +160,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html",
+    "feed_name": "NYT",
+    "title": "U.S. Submarine Torpedoed Iranian Warship Off Sri Lanka as Conflict Widens",
+    "author": "Pamodi Waravita, Anupreeta Das and Lynsey Chutel",
+    "link": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html",
+    "content": "An ambulance at the naval headquarters in Galle, Sri Lanka, on Wednesday. Sri Lanka said it had rescued 32 critically injured sailors after their ship sank earlier in the day.",
+    "date": "2026-03-04T19:34:48",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=222994",
     "feed_name": "Texas Tribune",
     "title": "With Trump endorsement looming, Cornyn and Paxton prepare for \u201cknife fight\u201d in Senate runoff",
@@ -197,6 +217,16 @@
     "link": "https://www.nytimes.com/2026/03/04/climate/sea-level-underestimated.html",
     "content": "A stretch of coast in Suriname, one of many places affected by sea level rise and erosion caused by climate change",
     "date": "2026-03-04T18:06:02",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/opinion/gen-x-retirement.html",
+    "feed_name": "NYT - Emailed",
+    "title": "The Fantasy of a Comfy Retirement Has Always Been a Mirage",
+    "author": "Jessica Grose",
+    "link": "https://www.nytimes.com/2026/03/04/opinion/gen-x-retirement.html",
+    "content": "On the sorry state of retirement savings in the United States, and a policy that could help.",
+    "date": "2026-03-04T17:44:39",
     "category": "My Feeds"
   },
   {
@@ -260,6 +290,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/science/stradaviri-violin-forest-tree-rings.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Tree Rings Reveal Origins of Some of the World\u2019s Best Violins",
+    "author": "Katherine Kornei",
+    "link": "https://www.nytimes.com/2026/03/04/science/stradaviri-violin-forest-tree-rings.html",
+    "content": "A study of over 275 violins suggests that Antonio Stradivari used wood from high-altitude forests in northern Italy to craft some of his most renowned instruments.",
+    "date": "2026-03-04T15:05:54",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/04/world/americas/cuba-tourism-travel-canada-trump.html",
     "feed_name": "NYT",
     "title": "With Fuel Running Out and Canadian Flights Suspended, Cuba\u2019s Tourism Is Collapsing",
@@ -300,6 +340,36 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/arts/music/ray-barretto-jazz-latin-music.html",
+    "feed_name": "NYT",
+    "title": "5 Minutes That Will Make You Love Ray Barretto",
+    "author": "Giovanni Russonello",
+    "link": "https://www.nytimes.com/2026/03/04/arts/music/ray-barretto-jazz-latin-music.html",
+    "content": "A son of Puerto Rican parents who grew up in the Bronx, Barretto moved between jazz and Latin music with relentless creativity. Hear 12 indestructible tracks.",
+    "date": "2026-03-04T12:35:30",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/world/europe/iran-trump-world-reaction.html",
+    "feed_name": "NYT",
+    "title": "Global Leaders Brace for the Fallout From a Fast Metastasizing War",
+    "author": "Michael D. Shear",
+    "link": "https://www.nytimes.com/2026/03/04/world/europe/iran-trump-world-reaction.html",
+    "content": "A woman cries after seeing the rubble from a building that was hit by airstrikes in Tehran on Tuesday.",
+    "date": "2026-03-04T11:37:22",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/nyregion/blakeman-militia-nassau-ny.html",
+    "feed_name": "NYT",
+    "title": "Democrats Question Credentials of Armed Squad Created by Trump Ally",
+    "author": "Ed Shanahan",
+    "link": "https://www.nytimes.com/2026/03/03/nyregion/blakeman-militia-nassau-ny.html",
+    "content": "Bruce Blakeman, the Nassau County executive, is a close ally of President Trump.",
+    "date": "2026-03-04T11:08:02",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18432",
     "feed_name": "Stratechery",
     "title": "Anthropic\u2019s Skyrocketing Revenue, A Contract Compromise?, Nvidia Earnings",
@@ -327,6 +397,16 @@
     "link": "https://www.nytimes.com/2026/03/04/us/rfk-jr-medical-school-nutrition.html",
     "content": "For months, Health Secretary Robert F. Kennedy Jr. has been pressuring medical schools to teach more about nutrition using a variety of tactics.",
     "date": "2026-03-04T10:01:43",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/arts/television/outlander-scotland.html",
+    "feed_name": "NYT - Emailed",
+    "title": "\u2018Outlander\u2019 Brought the World to Scotland, and Scotland to the World",
+    "author": "Imogen West-Knights and Ellie Smith",
+    "link": "https://www.nytimes.com/2026/03/04/arts/television/outlander-scotland.html",
+    "content": "The hit show is wrapping up, but its legacy will live on in a tourism boom and a blossoming local TV industry.",
+    "date": "2026-03-04T10:01:24",
     "category": "My Feeds"
   },
   {
@@ -737,6 +817,16 @@
     "link": "https://www.nytimes.com/2026/03/03/us/politics/labor-department-secretary-aides-resign.html",
     "content": "Lori Chavez-DeRemer, the secretary of labor, testifying at a hearing in Washington last year.",
     "date": "2026-03-03T19:29:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/arts/design/ceramics-mexico-threats.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Ceramics, Once the Lifeblood of Mexican Artisans, Are Under Pressure",
+    "author": "Michael Snyder and C\u00e9sar Rodr\u00edguez",
+    "link": "https://www.nytimes.com/2026/03/03/arts/design/ceramics-mexico-threats.html",
+    "content": "In the state of Michoac\u00e1n, industrial agriculture and organized crime threaten a cottage industry.",
+    "date": "2026-03-03T19:27:00",
     "category": "My Feeds"
   },
   {
