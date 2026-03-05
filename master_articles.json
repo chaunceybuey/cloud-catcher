@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/arts/music/john-p-hammond-dead.html",
+    "feed_name": "NYT - Emailed",
+    "title": "John P. Hammond, Pioneer in 1960s Blues Renaissance, Dies at 83",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/03/04/arts/music/john-p-hammond-dead.html",
+    "content": "John P. Hammond in 1962. \u201cWhen I first heard blues, I was completely turned on to it and it became larger than life,\u201d he said. \u201cAnd then it became my life.\u201d",
+    "date": "2026-03-05T06:16:18",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223133",
     "feed_name": "Texas Tribune",
     "title": "Court documents reveal domestic violence history of Austin shooting suspect",
@@ -287,6 +297,16 @@
     "link": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html",
     "content": "An ambulance at the naval headquarters in Galle, Sri Lanka, on Wednesday. Sri Lanka said it had rescued 32 critically injured sailors after their ship sank earlier in the day.",
     "date": "2026-03-04T19:34:48",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/world/middleeast/iran-strikes-us-military-communication-infrastructure-in-mideast.html",
+    "feed_name": "NYT",
+    "title": "Iran Strikes U.S. Military Communication Infrastructure in Mideast",
+    "author": "Devon Lum, Haley Willis and Riley Mellen",
+    "link": "https://www.nytimes.com/2026/03/03/world/middleeast/iran-strikes-us-military-communication-infrastructure-in-mideast.html",
+    "content": "Satellite images show damage near vital equipment on sites in at least five countries.",
+    "date": "2026-03-04T19:30:59",
     "category": "My Feeds"
   },
   {
@@ -537,6 +557,16 @@
     "link": "https://www.nytimes.com/2026/03/04/arts/television/outlander-scotland.html",
     "content": "The hit show is wrapping up, but its legacy will live on in a tourism boom and a blossoming local TV industry.",
     "date": "2026-03-04T10:01:24",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/well/move/for-a-simpler-workout-try-combining-moves.html",
+    "feed_name": "NYT - Emailed",
+    "title": "For a Simpler Workout, Try Combining Moves",
+    "author": "Connie Chang and Theodore Tae",
+    "link": "https://www.nytimes.com/2026/03/04/well/move/for-a-simpler-workout-try-combining-moves.html",
+    "content": "Combination exercises can help you exercise your whole body quickly.",
+    "date": "2026-03-04T10:00:07",
     "category": "My Feeds"
   },
   {
