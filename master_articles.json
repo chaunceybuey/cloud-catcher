@@ -230,6 +230,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html",
+    "feed_name": "NYT - Emailed",
+    "title": "You\u2019ve Never Seen Ants Like This Before",
+    "author": "Ari Daniel",
+    "link": "https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html",
+    "content": "The Antscan database captures the tiny insects\u2019 diversity and shows how the world\u2019s living things could be rendered in three dimensions.",
+    "date": "2026-03-05T10:03:52",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/05/us/north-carolina-primary-election-legislature.html",
+    "feed_name": "NYT",
+    "title": "North Carolina Voters Punish Incumbents in Primary Election",
+    "author": "Eduardo Medina and David W. Chen",
+    "link": "https://www.nytimes.com/2026/03/05/us/north-carolina-primary-election-legislature.html",
+    "content": "Phil Berger, the leader of the State Senate, has steered the state in a more conservative direction since 2011. He and his allies spent a staggering $10 million in his primary race.",
+    "date": "2026-03-05T10:03:42",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/05/opinion/governor-ivey-sonny-burton-alabama-clemency.html",
     "feed_name": "NYT",
     "title": "Alabama Is About to Commit a Shocking Death Row Injustice",
