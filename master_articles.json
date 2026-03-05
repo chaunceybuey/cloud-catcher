@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://stratechery.com/?p=18445",
+    "feed_name": "Stratechery",
+    "title": "An Interview with Gregory Allen About Anthropic and the U.S. Government",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/an-interview-with-gregory-allen-about-anthropic-and-the-u-s-government/",
+    "content": "<p>An interview with Gregory Allen about Anthropic's dispute with the U.S. government.</p>",
+    "date": "2026-03-05T11:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/04/world/middleeast/nato-iranian-missile-turkey.html",
     "feed_name": "NYT",
     "title": "NATO Air Defenses Shoot Down Iranian Missile Headed Toward Turkey",
