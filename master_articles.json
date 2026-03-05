@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
+    "feed_name": "NYT",
+    "title": "Senate Thwarts Bid to Curb Trump\u2019s War Powers on Iran",
+    "author": "Robert Jimison",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
+    "content": "The rubble of a police station in Tehran this week after the U.S.-Israeli airstrikes.",
+    "date": "2026-03-05T05:07:22",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223133",
     "feed_name": "Texas Tribune",
     "title": "Court documents reveal domestic violence history of Austin shooting suspect",
@@ -287,6 +297,16 @@
     "link": "https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html",
     "content": "Attorney General Pam Bondi during a House Judiciary Committee hearing last month.",
     "date": "2026-03-04T20:13:58",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/us/trader-joes-recall-frozen-asian-food.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Trader Joe\u2019s Expands Recall of Frozen Asian Foods Over Glass Risk",
+    "author": "Johnny Diaz",
+    "link": "https://www.nytimes.com/2026/03/04/us/trader-joes-recall-frozen-asian-food.html",
+    "content": "Chicken fried rice packages in a refrigerator at Trader Joe\u2019s in Meridian Township in Michigan in 2024.",
+    "date": "2026-03-04T20:12:17",
     "category": "My Feeds"
   },
   {
