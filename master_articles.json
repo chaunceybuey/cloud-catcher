@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=223086",
+    "feed_name": "Texas Tribune",
+    "title": "Rep. Tony Gonzales, forced into runoff, admits to affair with aide who died by suicide",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17293514/tony-gonzales-admits-affair-staffer-suicide-texas-23rd-district-congress",
+    "content": "U.S. Rep. Tony Gonzales, R-San Antonio, offers remarks on the introduction of legislation at the U.S. Capitol in Washington, D.C., on July 18, 2023.",
+    "date": "2026-03-05T00:34:59",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223056",
     "feed_name": "Texas Tribune",
     "title": "Texas primary voters smash recent midterm turnout records",
@@ -147,6 +157,16 @@
     "link": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html",
     "content": "State Representative James Talarico speaking to supporters at a campaign stop in Round Rock, Texas, on Tuesday.",
     "date": "2026-03-04T20:16:01",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html",
+    "feed_name": "NYT",
+    "title": "Trump Justice Dept. Seeks to Stall State Bar Discipline of Its Lawyers",
+    "author": "Devlin Barrett and Jonah E. Bromwich",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html",
+    "content": "Attorney General Pam Bondi during a House Judiciary Committee hearing last month.",
+    "date": "2026-03-04T20:13:58",
     "category": "My Feeds"
   },
   {
