@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/world/middleeast/nato-iranian-missile-turkey.html",
+    "feed_name": "NYT",
+    "title": "NATO Air Defenses Shoot Down Iranian Missile Headed Toward Turkey",
+    "author": "Ben Hubbard, Lara Jakes, Eric Schmitt and Leily Nikounazar",
+    "link": "https://www.nytimes.com/2026/03/04/world/middleeast/nato-iranian-missile-turkey.html",
+    "content": "Iranians crossing into Turkey in Van, Turkey, on Tuesday. Turkey, a NATO member, shares a 300-mile border with Iran.",
+    "date": "2026-03-05T07:43:52",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223133",
     "feed_name": "Texas Tribune",
     "title": "Court documents reveal domestic violence history of Austin shooting suspect",
@@ -140,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/us/politics/submarine-torpedo-iran-ship.html",
+    "feed_name": "NYT",
+    "title": "U.S. Submarine Launches Its First Torpedo in Combat Since World War II",
+    "author": "John Ismay",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/submarine-torpedo-iran-ship.html",
+    "content": "Health care workers transporting the bodies of Iranian sailors who were killed on the Iris Dena off the coast of Sri Lanka on Wednesday.",
+    "date": "2026-03-05T00:26:46",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223056",
     "feed_name": "Texas Tribune",
     "title": "Texas primary voters smash recent midterm turnout records",
@@ -150,6 +170,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/us/politics/gavin-newsom-israel.html",
+    "feed_name": "NYT",
+    "title": "Newsom Compares Israel to \u2018Apartheid State\u2019",
+    "author": "Jennifer Medina",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/gavin-newsom-israel.html",
+    "content": "California Gov. Gavin Newsom at a news conference on Monday. Mr. Newsom has for years been a firm supporter of Israel, but he has shifted his stance recently.",
+    "date": "2026-03-04T23:01:41",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/sports/football/lou-holtz-dead.html",
+    "feed_name": "NYT",
+    "title": "Lou Holtz, Who Coached Unbeaten Notre Dame to a Title, Dies at 89",
+    "author": "Richard Goldstein",
+    "link": "https://www.nytimes.com/2026/03/04/sports/football/lou-holtz-dead.html",
+    "content": "Lou Holtz with Notre Dame players in about 1988. Unassuming in demeanor, he had a keen football mind and a disciplinarian\u2019s resolve.",
+    "date": "2026-03-04T22:56:21",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/04/business/iran-shahed-drones-missiles-us-war.html",
     "feed_name": "NYT",
     "title": "What to Know About Iran\u2019s Drones, Which Are Cheap to Launch but Expensive to Intercept",
@@ -157,6 +197,26 @@
     "link": "https://www.nytimes.com/2026/03/04/business/iran-shahed-drones-missiles-us-war.html",
     "content": "A Shahed drone displayed as part of a military exhibit in Tehran last year.",
     "date": "2026-03-04T21:16:53",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/us/rhode-island-priests-abuse-report.html",
+    "feed_name": "NYT",
+    "title": "Rhode Island Priests Sexually Abused Hundreds of Children, Report Finds",
+    "author": "Jenna Russell",
+    "link": "https://www.nytimes.com/2026/03/04/us/rhode-island-priests-abuse-report.html",
+    "content": "Peter F. Neronha, Rhode Island\u2019s attorney general, at a news conference in December.",
+    "date": "2026-03-04T20:57:15",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/health/glp1-weight-loss-dosing.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Most Patients Keep Weight Off With Fewer GLP-1 Shots, Study Finds",
+    "author": "Roni Caryn Rabin",
+    "link": "https://www.nytimes.com/2026/03/04/health/glp1-weight-loss-dosing.html",
+    "content": "In a recent review, a small group of patients received the injections less frequently but still maintained weight loss and health benefits.",
+    "date": "2026-03-04T20:53:59",
     "category": "My Feeds"
   },
   {
@@ -3899,6 +3959,16 @@
     "content": "Is there a political prescription for our era of addiction?",
     "date": "2026-02-03T22:15:07",
     "category": "Opinion "
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/16/magazine/jeffrey-epstein-money-scams-investigation.html",
+    "feed_name": "NYT - Emailed",
+    "title": "The Untold Story of How Jeffrey Epstein Got Rich",
+    "author": "David Enrich, Steve Eder, Jessica Silver-Greenberg and Matthew Goldstein",
+    "link": "https://www.nytimes.com/2025/12/16/magazine/jeffrey-epstein-money-scams-investigation.html",
+    "content": "For years, rumors swirled about where his wealth came from. A Times investigation reveals the truth of how a college dropout clawed his way to the pinnacle of American finance and society.",
+    "date": "2026-02-03T19:43:18",
+    "category": "My Feeds"
   },
   {
     "id": "https://www.theatlantic.com/ideas/2026/02/trump-spy-shiek-corruption-emirates/685859/",
