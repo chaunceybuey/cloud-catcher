@@ -90,6 +90,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.theatlantic.com/ideas/2026/03/kristi-noem-fired/686251/",
+    "feed_name": "Chait",
+    "title": "How Kristi Noem Lost Her Job",
+    "author": "",
+    "link": "https://www.theatlantic.com/ideas/2026/03/kristi-noem-fired/686251/",
+    "content": "She probably should have seen Trump\u2019s decision to find a new homeland-security secretary coming.",
+    "date": "2026-03-05T21:54:55",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html",
+    "feed_name": "NYT",
+    "title": "Trump Announces He Is Replacing Noem With Oklahoma Senator",
+    "author": "Michael C. Bender, Michael Gold, Hamed Aleaziz and Maggie Haberman",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html",
+    "content": "Kristi Noem, the homeland security secretary, testifying before lawmakers this week on Capitol Hill.",
+    "date": "2026-03-05T21:03:04",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html",
     "feed_name": "NYT",
     "title": "Republicans Toil to Avoid Saying \u2018War\u2019 as Iran Conflict Widens",
