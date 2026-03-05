@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/05/dining/drinks/san-luis-obispo-coast-winemakers-coast-wine-california.html",
+    "feed_name": "NYT - Emailed",
+    "title": "San Luis Obispo Coast Winemakers Offer Surprises",
+    "author": "Eric Asimov",
+    "link": "https://www.nytimes.com/2026/03/05/dining/drinks/san-luis-obispo-coast-winemakers-coast-wine-california.html",
+    "content": "Gina Giugni in the Bassi Vineyard in the San Luis Obispo Coast region of California. She and her husband, Mikey Giugni, acquired the vineyard in 2024.",
+    "date": "2026-03-05T16:26:14",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/05/theater/jonathan-groff-just-in-time-broadway.html",
     "feed_name": "NYT - Emailed",
     "title": "How Jonathan Groff of \u2018Just in Time\u2019 Became Broadway\u2019s Leading Man",
@@ -187,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-deaths.html",
     "content": "Heavy smoke rising from Tehran on Tuesday after U.S.-Israeli airstrikes.",
     "date": "2026-03-05T10:03:58",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/05/opinion/governor-ivey-sonny-burton-alabama-clemency.html",
+    "feed_name": "NYT",
+    "title": "Alabama Is About to Commit a Shocking Death Row Injustice",
+    "author": "Elizabeth Vartkessian",
+    "link": "https://www.nytimes.com/2026/03/05/opinion/governor-ivey-sonny-burton-alabama-clemency.html",
+    "content": "Governor Ivey, Sonny Burton is not a killer. In his case, justice must include mercy.",
+    "date": "2026-03-05T10:02:29",
     "category": "My Feeds"
   },
   {
