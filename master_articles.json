@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/us/politics/juan-jose-valdez-dead.html",
+    "feed_name": "NYT",
+    "title": "Juan Jose Valdez, Last Marine Out of Saigon, Dies at 88",
+    "author": "Trip Gabriel",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/juan-jose-valdez-dead.html",
+    "content": "During the fall of the South Vietnamese capital in 1975, he helped evacuate thousands, and was nearly left behind.",
+    "date": "2026-03-05T07:15:16",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/04/arts/music/john-p-hammond-dead.html",
     "feed_name": "NYT - Emailed",
     "title": "John P. Hammond, Pioneer in 1960s Blues Renaissance, Dies at 83",
@@ -607,6 +617,16 @@
     "link": "https://www.nytimes.com/2026/03/04/us/rfk-jr-medical-school-nutrition.html",
     "content": "For months, Health Secretary Robert F. Kennedy Jr. has been pressuring medical schools to teach more about nutrition using a variety of tactics.",
     "date": "2026-03-04T10:01:43",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/style/france-office-workers-quick-lunch-salad-bowl.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Parisians Have Given In to the Lunch Salad",
+    "author": "Jessica Roy",
+    "link": "https://www.nytimes.com/2026/03/04/style/france-office-workers-quick-lunch-salad-bowl.html",
+    "content": "Office workers in the French capital, renowned for taking luxuriously long midday meals, have developed an appetite for the on-the-go slop bowl.",
+    "date": "2026-03-04T10:01:36",
     "category": "My Feeds"
   },
   {
