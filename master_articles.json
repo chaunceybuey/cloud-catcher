@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=223122",
+    "feed_name": "Texas Tribune",
+    "title": "Who is Steve Toth, the outspoken state House hardliner who wiped out incumbent Dan Crenshaw?",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17293739/texas-steve-toth-defeated-dan-crenshaw-texas-legislature-congress",
+    "content": "State Rep. Steve Toth, R-The Woodlands, speaks with Rep. Tom Oliverson, R-Cypress, on the House floor at the state Capitol on April 6, 2023. Toth beat out incumbent U.S. Rep. Dan Crenshaw, R-Houston, in the Texas Primary.",
+    "date": "2026-03-05T11:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/04/world/middleeast/nato-iranian-missile-turkey.html",
     "feed_name": "NYT",
     "title": "NATO Air Defenses Shoot Down Iranian Missile Headed Toward Turkey",
@@ -137,6 +147,16 @@
     "link": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
     "content": "The rubble of a police station in Tehran this week after the U.S.-Israeli airstrikes.",
     "date": "2026-03-05T05:07:22",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/04/us/politics/trump-national-security.html",
+    "feed_name": "NYT",
+    "title": "Trump Follows His Gut. His National Security Advisers Try to Keep Up.",
+    "author": "David E. Sanger",
+    "link": "https://www.nytimes.com/2026/03/04/us/politics/trump-national-security.html",
+    "content": "President Donald Trump in the Oval Office on Tuesday. His decision to attack Iran, he said, was based on gut instinct.",
+    "date": "2026-03-05T02:28:44",
     "category": "My Feeds"
   },
   {
