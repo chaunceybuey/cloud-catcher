@@ -80,6 +80,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/06/business/gas-prices-jump.html",
+    "feed_name": "NYT",
+    "title": "U.S. Gas Prices Jump Again as Oil Tops $90 for First Time in Years",
+    "author": "Emmett Lindner",
+    "link": "https://www.nytimes.com/2026/03/06/business/gas-prices-jump.html",
+    "content": "The price of a gallon of gasoline hits its highest level in a year and a half on Friday. Surging oil prices suggest that the increases will continue.",
+    "date": "2026-03-06T21:06:36",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223330",
     "feed_name": "Texas Tribune",
     "title": "How Jasmine Crockett slipped from Democratic frontrunner to decisive defeat in the Senate primary",
