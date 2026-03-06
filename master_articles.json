@@ -220,6 +220,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/06/opinion/iran-bombing-america.html",
+    "feed_name": "NYT",
+    "title": "America Won\u2019t Save Iran",
+    "author": "Reza Aslan",
+    "link": "https://www.nytimes.com/2026/03/06/opinion/iran-bombing-america.html",
+    "content": "The most likely outcome of the American-Israeli bombing campaign is not the advent of liberal democracy but something worse.",
+    "date": "2026-03-06T06:00:06",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223282",
     "feed_name": "Texas Tribune",
     "title": "Rep. Tony Gonzales drops reelection bid amid pressure over affair scandal",
@@ -2317,6 +2327,16 @@
     "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
     "content": "President Trump\u2019s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president\u2019s advisers voiced opposition.",
     "date": "2026-03-02T21:04:12",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/article/best-restaurants-austin.html",
+    "feed_name": "NYT - Emailed",
+    "title": "The Best Restaurants in Austin",
+    "author": "Priya Krishna and Brett Anderson",
+    "link": "https://www.nytimes.com/article/best-restaurants-austin.html",
+    "content": "There\u2019s plenty of barbecue and Mexican \u2014 as you\u2019d expect \u2014 but also world-class Japanese, Caribbean and more. Comments welcome, as always.",
+    "date": "2026-03-02T20:52:45",
     "category": "My Feeds"
   },
   {
