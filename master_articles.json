@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html",
+    "feed_name": "NYT",
+    "title": "Timeline: The Rise and Fall of Kristi Noem as Trump\u2019s DHS Secretary",
+    "author": "Zolan Kanno-Youngs and Hamed Aleaziz",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html",
+    "content": "Ms. Noem testified on Capitol Hill this week.",
+    "date": "2026-03-06T03:56:06",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/05/us/politics/senate-democrats-dhs-shutdown-ice-immigration.html",
     "feed_name": "NYT",
     "title": "Senate Democrats Block D.H.S. Funding Again Over Enforcement Guardrails",
