@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html",
+    "feed_name": "NYT",
+    "title": "House Turns Back Bid to Restrict Trump\u2019s War Powers in Iran",
+    "author": "Robert Jimison",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html",
+    "content": "Representative Thomas Massie of Kentucky was one of two Republicans to back the effort.",
+    "date": "2026-03-06T00:59:42",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223267",
     "feed_name": "Texas Tribune",
     "title": "Legal fight over SpaceX beach closures hits Texas Supreme Court",
@@ -167,6 +177,16 @@
     "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html",
     "content": "Kristi Noem, the homeland security secretary, testifying before lawmakers this week on Capitol Hill.",
     "date": "2026-03-05T21:03:04",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/05/climate/trump-nature-assessment.html",
+    "feed_name": "NYT",
+    "title": "Nature Report, Killed by Trump, Is Released Independently",
+    "author": "Catrin Einhorn",
+    "link": "https://www.nytimes.com/2026/03/05/climate/trump-nature-assessment.html",
+    "content": "A dried part of the Arkansas River in Garden City, Kan.",
+    "date": "2026-03-05T20:48:53",
     "category": "My Feeds"
   },
   {
