@@ -100,6 +100,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=223307",
+    "feed_name": "Texas Tribune",
+    "title": "Meet Don Huffines, the self-funding tea party activist who won the GOP Texas comptroller primary",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17294724/don-huffines-texas-comptroller-school-vouchers-abbott",
+    "content": "Don Huffines listens to a question during a Republican gubernatorial candidate forum in College Station on Jan. 19, 2022.",
+    "date": "2026-03-06T16:23:52",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/06/business/aaa-gas-prices.html",
+    "feed_name": "NYT",
+    "title": "U.S. Gas Prices, Up 11% in a Week, Pile Pressure on Trump",
+    "author": "Emmett Lindner",
+    "link": "https://www.nytimes.com/2026/03/06/business/aaa-gas-prices.html",
+    "content": "The average price of a gallon of gasoline jumped again on Friday, to $3.32 per gallon, hitting its highest level in a year and a half.",
+    "date": "2026-03-06T14:28:04",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223198",
     "feed_name": "Texas Tribune",
     "title": "Pro-gambling interests fail to gain ground in Texas primaries as legislative roadblocks remain",
