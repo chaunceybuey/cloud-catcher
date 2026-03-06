@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html",
+    "feed_name": "NYT",
+    "title": "DOJ Releases Missing Interviews With Woman Who Made Claims Against Trump in Epstein Files",
+    "author": "Devlin Barrett",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html",
+    "content": "The Justice Department acknowledged on Thursday that it had also identified about a dozen other documents that were \u201cincorrectly coded as duplicative.\u201d",
+    "date": "2026-03-06T01:57:07",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223267",
     "feed_name": "Texas Tribune",
     "title": "Legal fight over SpaceX beach closures hits Texas Supreme Court",
@@ -197,6 +207,16 @@
     "link": "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html",
     "content": "Lindsey Halligan at the White House last August.",
     "date": "2026-03-05T19:47:25",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html",
+    "feed_name": "NYT",
+    "title": "Racist, Antisemitic Slurs Surface in Florida GOP Group Chat",
+    "author": "Patricia Mazzei",
+    "link": "https://www.nytimes.com/2026/03/05/us/florida-gop-slurs-group-chat.html",
+    "content": "The WhatsApp chat was created last fall for students at Florida International University in Miami.",
+    "date": "2026-03-05T19:46:41",
     "category": "My Feeds"
   },
   {
