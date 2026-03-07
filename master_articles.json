@@ -200,6 +200,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html",
+    "feed_name": "NYT",
+    "title": "Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.",
+    "author": "Zolan Kanno-Youngs and Hamed Aleaziz",
+    "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html",
+    "content": "Kristi Noem testifying before the Senate Judiciary Committee on Tuesday, where her comments led the president to fire her later in the week.",
+    "date": "2026-03-07T02:33:53",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/06/us/politics/justice-department-law-firms-executive-orders.html",
     "feed_name": "NYT",
     "title": "Justice Dept. Denounces Federal Judges in Fight Against Law Firms",
