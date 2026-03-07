@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/06/health/fda-prasad-resigns.html",
+    "feed_name": "NYT",
+    "title": "Divisive F.D.A. Vaccine Regulator Is Resigning",
+    "author": "Christina Jewett",
+    "link": "https://www.nytimes.com/2026/03/06/health/fda-prasad-resigns.html",
+    "content": "Dr. Vinay Prasad\u2019s refusal to accept Moderna\u2019s application for a new mRNA flu vaccine, prompting an uproar among companies and experts.",
+    "date": "2026-03-07T03:03:05",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223380",
     "feed_name": "Texas Tribune",
     "title": "Footage shows the run-up to immigration officer\u2019s fatal shooting of Texas man",
@@ -107,6 +117,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17295033/south-padre-immigration-officer-shooting",
     "content": "South Padre Island Police Department body cam footage, released by Texas Department of Public Safety late Friday, shows the moment when 23-year-old Ruben Ray Martinez from San Antonio was killed  at South Padre Island in March 2025.",
     "date": "2026-03-07T02:58:11",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/06/opinion/trump-spain-sanchez-iran-military-bases.html",
+    "feed_name": "NYT - Emailed",
+    "title": "I\u2019ve Never Been a Patriot, but Spain Standing Up to Trump Has Made Me One",
+    "author": "Paco Cerd\u00e0",
+    "link": "https://www.nytimes.com/2026/03/06/opinion/trump-spain-sanchez-iran-military-bases.html",
+    "content": "There are times when it is clear what it means to stand up for what is right.",
+    "date": "2026-03-07T02:44:46",
     "category": "My Feeds"
   },
   {
@@ -397,6 +417,16 @@
     "link": "https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html",
     "content": "America\u2019s strength has always been its private sector. Empowering it can save us from A.I.\u2019s worst impacts on jobs.",
     "date": "2026-03-06T10:01:37",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/06/books/review/26-nonfiction-books-were-excited-about-this-spring.html",
+    "feed_name": "NYT - Emailed",
+    "title": "New Nonfiction to Read This Spring",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/03/06/books/review/26-nonfiction-books-were-excited-about-this-spring.html",
+    "content": "Memoirs from Liza Minnelli and Arsenio Hall; essays from David Sedaris and Jesmyn Ward; plus histories, true crime, biographies and more.",
+    "date": "2026-03-06T10:01:16",
     "category": "My Feeds"
   },
   {
@@ -5000,6 +5030,16 @@
     "link": "https://stratechery.com/2026/aggregators-and-ai/",
     "content": "<figure class=\"wp-block-embed alignfull is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p>Welcome back to This Week in Stratechery!</p>\n\n\n\n<p>As a reminder, each week, every Friday, we&#8217;re sending out this overview of content in the Stratechery bundle; <span class=\"passport-tokenized-link\">highlighted links are free for everyone</span>. Additionally, you have complete control over what we send to you. If you don&#8217;t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in <a href=\"https://stratechery.passport.online/member/account/delivery\">your delivery settings</a>.</p>\n\n\n\n<p>On that note, here were a few of our favorites this week.</p>\n\n\n\n<ol class=\"wp-block-list is-style-default\">\n<li><strong>Individualization at Scale. </strong>Spotify had a fantastic result in its quarterly earnings, but I thought the earnings call commentary \u2014 it was former CEO and founder Daniel Ek&#8217;s last \u2014 was worth <a href=\"https://stratechery.com/2026/spotify-earnings-individualized-networks-ai-and-aggregation/\">a deeper examination into the reality of modern network companies</a>. Spotify is a music streaming service that everyone is familiar with, but the actual experience of every Spotify user is unique. That&#8217;s a feature of every monolithic network-effects company, and explains why such companies are poised to be big winners from AI. \u2014 <em>Ben Thompson</em><br /></li>\n</ol>\n\n\n\n<span id=\"more-18304\"></span>\n\n\n\n<ol class=\"wp-block-list is-style-default\" start=\"2\">\n<li><strong>CapEx Explosions and Distinctions.&nbsp;</strong>The most amazing thing I read this week was a note from a Sharp Tech emailer who observed that the combined project capital expenditures of Amazon, Google and Meta in 2026 <em>\u2014</em> more than $700 billion <em>\u2014</em> net out to nearly two-thirds of the annual budget for the U.S. Department of Defense. Where is that money going, and how scared should investors be? The answer there varies. On Monday, <a href=\"https://stratechery.com/2026/google-earnings-google-cloud-crushes-search-advertising-and-llms/\" rel=\"noreferrer noopener\" target=\"_blank\">Ben explained why Google&#8217;s plans make perfect sense</a>&nbsp;given the nature of the business and their results over the past few years. <a href=\"https://stratechery.com/2026/amazon-earnings-capex-concerns-commodity-ai/\" rel=\"noreferrer noopener\" target=\"_blank\">Tuesday&#8217;s Update told a different story about Amazon</a>: their spending is defensible, but shareholders who are anxious have a few good reasons to be.&nbsp;<em>\u2014</em> <em>Andrew Sharp</em><br /><br /></li>\n\n\n\n<li><strong>The Interviewer Becomes the Interviewee.&nbsp;</strong>As Ben&#8217;s friend and colleague, I loved <a href=\"https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/\" rel=\"noreferrer noopener\" target=\"_blank\"><span class=\"passport-tokenized-link\">the inversion we got from this week&#8217;s Stratechery Interview</span></a>, cross-published from Stripe Preisdent John Collison&#8217;s <a href=\"https://open.spotify.com/show/2IHbGJJMpiFoz5YrvRfTFw\">Cheeky Pint podcast</a>. This was Collison interviewing Ben, talking from everything from the difference between pre- and post-smartphone Japan, Meta&#8217;s allergy to advertising evangelism, why Ben doesn&#8217;t cover TikTok as much, and Stratechery&#8217;s business model (which was in part enabled by Stripe). The 90-minute conversation was a delight and is also <a href=\"https://www.youtube.com/watch?v=oUSWtLu2RCE\" rel=\"noreferrer noopener\" target=\"_blank\">available to watch on YouTube</a>, if you&#8217;d like to see what Stripe&#8217;s on-premise pub looks like and get pretty jealous.&nbsp;&nbsp;<em>\u2014</em> <em>AS</em></li>\n</ol>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Stratechery Articles and Updates</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://stratechery.com/2026/google-earnings-google-cloud-crushes-search-advertising-and-llms/\">Google Earnings, Google Cloud Crushes, Search Advertising and LLMs</a> <em>\u2014 Google announced a massive increase in CapEx that blew away expectations; the companies earnings results explain why the increase is justified.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/amazon-earnings-capex-concerns-commodity-ai/\">Amazon Earnings, CapEx Concerns, Commodity AI</a> <em>\u2014 Amazon\u2019s massive CapEx increase makes me much more nervous than Google\u2019s, but it is understandable.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/spotify-earnings-individualized-networks-ai-and-aggregation/\">Spotify Earnings, Individualized Networks, AI and Aggregation</a> <em>\u2014 Spotify\u2019s nature as a content network means that AI is a sustaining technology, particularly because they have the right business model in place.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/\"><span class=\"passport-tokenized-link\">An Interview with Ben Thompson by John Collison on the Cheeky Pint Podcast</span></a> <em>\u2014 An interview with me by John Collison on the Cheeky Pint podcast about AI, ads, and the history of Stratechery.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Text by Andrew Sharp</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptext.net/2026/takaichi-tanking-and-legalization-lessons/\"><span class=\"passport-tokenized-link\">Takaichi, Tanking and Legalization Lessons</span></a> \u2014<em> On landslide elections in Japan, fixing a mess in the NBA, and a defining political challenge for the next generation in the United States.&nbsp;</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Dithering with Ben Thompson and Daring Fireball&#8217;s John Gruber</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dithering.passport.online/member/episode/ferrari-luce\">Ferrari Luce</a></li>\n\n\n\n<li><a href=\"https://dithering.passport.online/member/episode/apple-losing-control\">Apple Losing Control</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Asianometry with Jon Yu</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://asianometry.passport.online/member/episode/the-great-golden-age-of-antibiotics\">The Great Golden Age of Antibiotics</a></li>\n\n\n\n<li><a href=\"https://asianometry.passport.online/member/episode/the-epochal-ultra-supercritical-steam-turbine\">The Epochal Ultra-Supercritical Steam Turbine</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp China with Andrew Sharp and Sinocism&#8217;s Bill Bishop</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharpchina.fm/member/episode/pending-taiwan-arms-sales-jimmy-lai-sentenced-takaichi-secures-a-supermajority-ai-models-as-propaganda-vectors\">Pending Taiwan Arms Sales; Jimmy Lai Sentenced; Takaichi Secures a Supermajority; AI Models as Propaganda Vectors</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Greatest of All Talk with Andrew Sharp and WaPo&#8217;s Ben Golliver</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://goat.passport.online/member/episode/radical-transparency-roundup-the-tanking-race-gets-disgusting-giannis-takes-a-share-in-kalshi\">Radical Transparency Roundup, The Tanking Race Gets Disgusting, Giannis Takes a Share in Kalshi</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Tech with Andrew Sharp and Ben Thompson</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptech.fm/member/episode/spotify-spreads-its-wings-cap-ex-explosions-and-distinctions-q-a-on-viral-ai-tweets-anthropic-giannis\">Spotify Spreads Its Wings, CapEx Explosions and Distinctions, Q&amp;A on Viral AI Tweets, Anthropic, Giannis</a></li>\n</ul>\n\n\n\n<p>This week&#8217;s Stratechery video is on <a href=\"https://stratechery.com/2026/microsoft-and-software-survival/\"><span class=\"passport-tokenized-link\">Microsoft and Software Survival</span></a>.</p>\n\n\n\n<figure class=\"wp-block-embed alignfull is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p></p>",
     "date": "2026-02-13T18:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/12/well/alcohol-body-health-effects.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Alcohol\u2019s Effects on the Body: What Does Drinking Do to Your Health?",
+    "author": "Dana G. Smith and Montse Galbany",
+    "link": "https://www.nytimes.com/2026/02/12/well/alcohol-body-health-effects.html",
+    "content": "From the moment you take a sip, drinking starts to influence your biology. Here\u2019s an inside look.",
+    "date": "2026-02-13T15:08:20",
     "category": "My Feeds"
   },
   {
