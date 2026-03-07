@@ -160,6 +160,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/07/world/europe/russia-iran-oil-exports.html",
+    "feed_name": "NYT",
+    "title": "Russia Revels in a Sudden Reversal in Fortunes as Oil and Gas Prices Soar",
+    "author": "Paul Sonne and Jeanna Smialek",
+    "link": "https://www.nytimes.com/2026/03/07/world/europe/russia-iran-oil-exports.html",
+    "content": "Oil tankers off the coast of the United Arab Emirates. The conflict in Iran has disrupted oil production across the Middle East.",
+    "date": "2026-03-07T10:01:47",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/06/health/fda-prasad-resigns.html",
     "feed_name": "NYT",
     "title": "Divisive F.D.A. Vaccine Regulator Is Resigning",
@@ -187,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/03/06/opinion/trump-spain-sanchez-iran-military-bases.html",
     "content": "There are times when it is clear what it means to stand up for what is right.",
     "date": "2026-03-07T02:44:46",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/06/us/politics/justice-department-law-firms-executive-orders.html",
+    "feed_name": "NYT",
+    "title": "Justice Dept. Denounces Federal Judges in Fight Against Law Firms",
+    "author": "Chris Cameron and Jonah E. Bromwich",
+    "link": "https://www.nytimes.com/2026/03/06/us/politics/justice-department-law-firms-executive-orders.html",
+    "content": "The Justice Department is accusing federal judges of undermining President Trump\u2019s authority.",
+    "date": "2026-03-07T02:07:46",
     "category": "My Feeds"
   },
   {
