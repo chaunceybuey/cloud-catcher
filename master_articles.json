@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/07/opinion/iran-war-trump.html",
+    "feed_name": "NYT",
+    "title": "The \u2018Arrogance of Power\u2019 Drives War in Iran",
+    "author": "Nicholas Kristof",
+    "link": "https://www.nytimes.com/2026/03/07/opinion/iran-war-trump.html",
+    "content": "The Iranian people are not overthrowing their government, and the war is spreading across the region.",
+    "date": "2026-03-07T17:54:43",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/07/nyregion/older-adults-nyc-move.html",
     "feed_name": "NYT - Emailed",
     "title": "A Growing Number of Older Adults Are Moving to NYC, Despite High Costs and Logistical Challenges",
@@ -187,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/03/07/insider/nyt-connections-game-writer-wyna-liu.html",
     "content": "The 1,000th Connections puzzle is out today. Wyna Liu, the writer behind the game, knows you have thoughts.",
     "date": "2026-03-07T10:00:59",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/07/business/gasoline-prices.html",
+    "feed_name": "NYT",
+    "title": "Gas Prices Continue to Surge in U.S., Rising 14% in a Week",
+    "author": "Emmett Lindner",
+    "link": "https://www.nytimes.com/2026/03/07/business/gasoline-prices.html",
+    "content": "The conflict in Iran has disrupted the world\u2019s supply of oil and driven up prices at the pump.",
+    "date": "2026-03-07T08:42:58",
     "category": "My Feeds"
   },
   {
