@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-doj-dhs-firings.html",
+    "feed_name": "NYT",
+    "title": "Iran War Poses Test for Justice Dept. After Firings Deplete National Security Ranks",
+    "author": "Alan Feuer and Glenn Thrush",
+    "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-doj-dhs-firings.html",
+    "content": "Directives from the Trump administration have led to an exodus of experienced investigators and prosecutors.",
+    "date": "2026-03-06T23:35:51",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/06/magazine/zohran-mamdani-new-york-rent-landlords.html",
     "feed_name": "NYT - Emailed",
     "title": "The Apartments at the Center of Mamdani\u2019s Affordable Housing Crisis",
@@ -457,6 +467,16 @@
     "link": "https://www.nytimes.com/2026/03/06/travel/france-riviera-winter-travel.html",
     "content": "A region famous for its sun-drenched climate becomes a refreshing retreat when the summer heat, megayachts and swarms of tourists are gone.",
     "date": "2026-03-06T10:00:22",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/06/us/oat-farmers-midwest.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Where Corn and Soybeans Rule, the \u2018Oat Mafia\u2019 Fights for Turf",
+    "author": "Jacey Fortin and Tim Gruber",
+    "link": "https://www.nytimes.com/2026/03/06/us/oat-farmers-midwest.html",
+    "content": "The original Oat Mafia members: from left, Kevin Connelly, Martin Larsen and Tom Pyfferoen. They remember growing oats when they were younger for animal feed. Now they are growing it for people.",
+    "date": "2026-03-06T10:00:12",
     "category": "My Feeds"
   },
   {
