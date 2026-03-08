@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/07/world/middleeast/a-us-intelligence-assessment-in-february-found-that-an-attack-on-iran-was-unlikely-to-result-in-regime-change.html",
+    "feed_name": "NYT",
+    "title": "Recent U.S. Assessment Found an Attack on Iran Unlikely to Result in Regime Change",
+    "author": "Julian E. Barnes",
+    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/a-us-intelligence-assessment-in-february-found-that-an-attack-on-iran-was-unlikely-to-result-in-regime-change.html",
+    "content": "People in Tehran on Friday mourning Ayatollah Ali Khamenei, Iran\u2019s supreme leader, who was killed in the U.S.-Israeli strikes. There seems to be wide agreement in the U.S. intelligence community that the theological government in Iran is deeply entrenched.",
+    "date": "2026-03-07T19:06:20",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/07/opinion/iran-war-trump.html",
     "feed_name": "NYT",
     "title": "The \u2018Arrogance of Power\u2019 Drives War in Iran",
@@ -287,6 +297,16 @@
     "link": "https://www.nytimes.com/2026/03/07/world/europe/europe-iran-trump-war-dilemma.html",
     "content": "President Emmanuel Macron has declared that France is not at war. But he ordered the aircraft carrier Charles de Gaulle to the eastern Mediterranean Sea.",
     "date": "2026-03-07T10:02:03",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/07/world/middleeast/trump-iran-human-rights-international-law.html",
+    "feed_name": "NYT - Emailed",
+    "title": "How Good Intentions Helped Pave Trump\u2019s Road to Iran",
+    "author": "Amanda Taub",
+    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/trump-iran-human-rights-international-law.html",
+    "content": "Iranian expatriates around the world urged the Trump administration to intervene in Iran as the death toll from the protests rose in January.",
+    "date": "2026-03-07T10:01:51",
     "category": "My Feeds"
   },
   {
