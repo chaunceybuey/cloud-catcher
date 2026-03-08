@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html",
+    "feed_name": "NYT",
+    "title": "In War\u2019s First Week, a Punishing Military Campaign With No Coherent Endgame",
+    "author": "Mark Mazzetti, Tyler Pager, Ronen Bergman, Farnaz Fassihi, Eric Schmitt, Erika Solomon and Julian E. Barnes",
+    "link": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html",
+    "content": "A huge plume of smoke has rose in the sky after US-Israel airstrikes in the west of Tehran, on Tuesday.",
+    "date": "2026-03-08T13:01:37",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/08/opinion/james-talarico-christian-democrat-texas-primary.html",
     "feed_name": "NYT",
     "title": "James Talarico Is a Christian X-Ray",
@@ -117,6 +127,36 @@
     "link": "https://feeds.texastribune.org/link/16799/17295672/texas-corpus-christi-water-crisis",
     "content": "\u201cIt\u2019s going to be an economic disaster,\u201d said James Dodson, former director of the Corpus Christi Water Department, on March 6, 2026, at his home in Fulton, Texas. \u201cIt\u2019s the very worst scenario that I\u2019ve ever seen.\u201d",
     "date": "2026-03-08T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/08/us/politics/trump-russia-ukraine-iran-war.html",
+    "feed_name": "NYT",
+    "title": "How Trump\u2019s War in Iran Has Echoes of Putin and Ukraine",
+    "author": "Anton Troianovski",
+    "link": "https://www.nytimes.com/2026/03/08/us/politics/trump-russia-ukraine-iran-war.html",
+    "content": "Some of the Trump administration\u2019s rhetoric on Iran has been in step with Russia\u2019s rhetoric about its 2022 invasion of Ukraine.",
+    "date": "2026-03-08T09:00:54",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html",
+    "feed_name": "NYT",
+    "title": "Trump Executive Order Protected Weedkiller Roundup and a Munition, White Phosphorus",
+    "author": "Hiroko Tabuchi",
+    "link": "https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html",
+    "content": "U.S. military personnel with a round of white phosphorus in Afghanistan in 2011.",
+    "date": "2026-03-08T09:00:41",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html",
+    "feed_name": "NYT",
+    "title": "Judge Voids Mass Layoffs at Voice of America",
+    "author": "Minho Kim",
+    "link": "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html",
+    "content": "Kari Lake, a Trump ally, has led efforts to dismantle Voice of America.",
+    "date": "2026-03-08T03:18:13",
     "category": "My Feeds"
   },
   {
