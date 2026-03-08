@@ -140,6 +140,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html",
+    "feed_name": "NYT",
+    "title": "When DOGE Unleashed ChatGPT on the Humanities",
+    "author": "Jennifer Schuessler",
+    "link": "https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html",
+    "content": "The headquarters of the National Endowment for the Humanities in Washington. The agency was created in 1965 to promote a wide appreciation for the humanities and \u201cmutual respect for the diverse beliefs and values of all persons and groups.\u201d",
+    "date": "2026-03-07T20:52:38",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/07/us/politics/ice-arrests-slowdown.html",
+    "feed_name": "NYT",
+    "title": "How D.H.S. Retreated on Immigration Tactics After Minneapolis",
+    "author": "Nicholas Nehamas, Zolan Kanno-Youngs, Hamed Aleaziz, Albert Sun and Julie Bosman",
+    "link": "https://www.nytimes.com/2026/03/07/us/politics/ice-arrests-slowdown.html",
+    "content": "Immigration officers arresting a man in Minneapolis in January.",
+    "date": "2026-03-07T20:06:36",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.kmfa.org/pages/18169-atx-chamber-music-and-jazz-jeanine-de-bique",
     "feed_name": "KMFA",
     "title": "ATX Chamber Music and Jazz: Jeanine De Bique",
