@@ -320,6 +320,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/07/world/asia/china-iran-power.html",
+    "feed_name": "NYT",
+    "title": "For Xi, Trump\u2019s Embrace of War Proves China Needs More Power",
+    "author": "David Pierson",
+    "link": "https://www.nytimes.com/2026/03/07/world/asia/china-iran-power.html",
+    "content": "Xi Jinping, China\u2019s top leader, during an annual legislative meeting in Beijing on Wednesday.",
+    "date": "2026-03-07T05:15:46",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/07/world/europe/munich-surfing-wave.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Surfers in Munich (Yes, Munich) Just Want Their Wave Back",
+    "author": "Christopher F. Schuetze and Laetitia Van\u00e7on",
+    "link": "https://www.nytimes.com/2026/03/07/world/europe/munich-surfing-wave.html",
+    "content": "For decades, enthusiasts rode the cresting Eisbach creek in the southern German city, some 200 miles from the nearest coast. But the wave has vanished, prompting arguments about how to restore it.",
+    "date": "2026-03-07T05:01:09",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/06/us/haiti-tps-appeals-court.html",
     "feed_name": "NYT",
     "title": "Appeals Court Upholds Protected Status for 350,000 Haitians",
@@ -5765,6 +5785,16 @@
     "link": "https://www.nytimes.com/2025/12/30/dining/satisfying-spaghetti-carbonara.html",
     "content": "And more festive (but still fast) dinners for the new year.",
     "date": "2025-12-31T17:04:56",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/24/books/review/new-mystery-novels.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Classic Mystery Novels, Finally Back in Print",
+    "author": "Sarah Weinman",
+    "link": "https://www.nytimes.com/2025/12/24/books/review/new-mystery-novels.html",
+    "content": "Our columnist on seven terrific mysteries deservedly back in print.",
+    "date": "2025-12-24T10:00:09",
     "category": "My Feeds"
   },
   {
