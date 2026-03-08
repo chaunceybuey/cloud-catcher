@@ -310,6 +310,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/07/us/politics/economy-midterms-republicans.html",
+    "feed_name": "NYT",
+    "title": "Ahead of Midterms, Economic Warning Signs Pile Up for Republicans",
+    "author": "Reid J. Epstein and Ben Casselman",
+    "link": "https://www.nytimes.com/2026/03/07/us/politics/economy-midterms-republicans.html",
+    "content": "The oil and manufacturing industries have cut thousands of jobs since President Trump returned to office.",
+    "date": "2026-03-07T10:01:53",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/07/world/middleeast/trump-iran-human-rights-international-law.html",
     "feed_name": "NYT - Emailed",
     "title": "How Good Intentions Helped Pave Trump\u2019s Road to Iran",
