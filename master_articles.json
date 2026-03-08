@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/08/opinion/james-talarico-christian-democrat-texas-primary.html",
+    "feed_name": "NYT",
+    "title": "James Talarico Is a Christian X-Ray",
+    "author": "David French",
+    "link": "https://www.nytimes.com/2026/03/08/opinion/james-talarico-christian-democrat-texas-primary.html",
+    "content": "The Democratic senate candidate in Texas is teaching us about what faith really means.",
+    "date": "2026-03-08T10:00:25",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223403",
     "feed_name": "Texas Tribune",
     "title": "After a decade of missteps, Corpus Christi careens toward water catastrophe",
