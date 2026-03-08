@@ -170,6 +170,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/07/us/seat-11a-no-window-ryanair-airlines.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Seat 11A: The Windowless Inside Joke at 30,000 Feet",
+    "author": "Mark Walker",
+    "link": "https://www.nytimes.com/2026/03/07/us/seat-11a-no-window-ryanair-airlines.html",
+    "content": "On certain Boeing 737 and Airbus A321 jets, row 11 offers a seat sold as a window view that shows, instead, a wall. The discovery tends to arrive after boarding.",
+    "date": "2026-03-07T16:15:06",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/07/us/immigration-ice-nashville-reporter-detained-tn-estefany-rodriguez-florez.html",
     "feed_name": "NYT",
     "title": "ICE Detains Reporter Estefany Rodriguez Florez in Nashville",
@@ -5835,6 +5845,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17204694/texas-drag-show-ban-appeal",
     "content": "Drag Queen Brigitte Bandit performs during a Fight The Trump Takeover Rally at the south side steps of the Capitol on Saturday, Aug. 16, 2025.",
     "date": "2025-11-06T21:44:07",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/08/23/books/review/best-spy-novels.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Spy Novels: A Starter Pack",
+    "author": "David McCloskey",
+    "link": "https://www.nytimes.com/2025/08/23/books/review/best-spy-novels.html",
+    "content": "Interested in espionage fiction, but don\u2019t know where to start? Let our expert guide you.",
+    "date": "2025-08-23T11:17:08",
     "category": "My Feeds"
   },
   {
