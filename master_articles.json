@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/09/business/dog-grooming-wellness-costs.html",
+    "feed_name": "NYT - Emailed",
+    "title": "A $1,000 Dog Grooming Session? The Wellness Industry Is Booming.",
+    "author": "Vivian Giang and Sophia June",
+    "link": "https://www.nytimes.com/2026/03/09/business/dog-grooming-wellness-costs.html",
+    "content": "Vivian is grooming her dog, Porcini, a 2-year-old Norwich terrier, who requires a technique called hand stripping that not many groomers can do.",
+    "date": "2026-03-09T10:38:45",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18475",
     "feed_name": "Stratechery",
     "title": "MacBook Neo, The (Not-So) Thin MacBook, Apple and Memory",
@@ -157,6 +167,16 @@
     "link": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html",
     "content": "The evidence contradicts President Trump\u2019s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.",
     "date": "2026-03-09T04:03:50",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/08/us/airports-delays-security-lines-new-orleans-and-houston.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Thousands Waiting in Security Lines at Airports in New Orleans and Houston",
+    "author": "Billy Witz and Shannon Sims",
+    "link": "https://www.nytimes.com/2026/03/08/us/airports-delays-security-lines-new-orleans-and-houston.html",
+    "content": "Screening delays created lines that stretched around William P. Hobby and Louis Armstrong airports on Sunday, causing many to miss flights at the start of spring break season.",
+    "date": "2026-03-09T02:13:11",
     "category": "My Feeds"
   },
   {
