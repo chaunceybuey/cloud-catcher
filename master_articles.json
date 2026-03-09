@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/09/opinion/adam-smith-anniversary.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Why You Should Read Adam Smith",
+    "author": "Jason Furman",
+    "link": "https://www.nytimes.com/2026/03/09/opinion/adam-smith-anniversary.html",
+    "content": "The news is good. Really.",
+    "date": "2026-03-09T13:09:56",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/09/business/dog-grooming-wellness-costs.html",
     "feed_name": "NYT - Emailed",
     "title": "A $1,000 Dog Grooming Session? The Wellness Industry Is Booming.",
