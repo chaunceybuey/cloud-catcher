@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://stratechery.com/?p=18475",
+    "feed_name": "Stratechery",
+    "title": "MacBook Neo, The (Not-So) Thin MacBook, Apple and Memory",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/macbook-neo-the-not-so-thin-macbook-apple-and-memory/",
+    "content": "<p>The MacBook Neo was built to be cheap; that it is still good is not only a testament to Apple Silicon, but also the fact that the most important software runs in the cloud.</p>",
+    "date": "2026-03-09T10:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/08/business/energy-environment/oil-100-dollars-barrel.html",
     "feed_name": "NYT",
     "title": "Oil Prices Spike Over $110 a Barrel, Highest Since Pandemic",
