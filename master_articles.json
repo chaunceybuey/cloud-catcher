@@ -110,6 +110,36 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=223183",
+    "feed_name": "Texas Tribune",
+    "title": "GOP-led fight over allegations of student indoctrination raises tensions at University of Houston",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17296122/texas-university-houston-indoctrination-fight",
+    "content": "The Student Center South on the University of Houston campus on Feb. 21, 2024 in Houston.",
+    "date": "2026-03-09T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=223036",
+    "feed_name": "Texas Tribune",
+    "title": "Texas hemp businesses fear an uptick in police raids after more than 15 in the last two years",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17296123/texas-cannabis-hemp-thc-police-raids",
+    "content": "Ernesto Garcia-Dealba checks on a hemp plant before harvest at Hometown Hero&#039;s farm in San Antonio on October 17, 2025.",
+    "date": "2026-03-09T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=223342",
+    "feed_name": "Texas Tribune",
+    "title": "Questions about self-driving cars amplify after one blocked an ambulance responding to Austin shooting",
+    "author": "Joshua Fechter",
+    "link": "https://feeds.texastribune.org/link/16799/17296124/texas-austin-shooting-autonomous-vehicles-self-driving-ambulance-blocked",
+    "content": "A Waymo car in Austin on Oct. 20, 2025.",
+    "date": "2026-03-09T10:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/08/business/energy-environment/oil-100-dollars-barrel.html",
     "feed_name": "NYT",
     "title": "Oil Prices Spike Over $110 a Barrel, Highest Since Pandemic",
