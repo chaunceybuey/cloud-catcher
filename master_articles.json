@@ -100,6 +100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/08/business/energy-environment/oil-100-dollars-barrel.html",
+    "feed_name": "NYT",
+    "title": "Oil Prices Spike Over $110 a Barrel, Highest Since Pandemic",
+    "author": "Rebecca F. Elliott and Joe Rennison",
+    "link": "https://www.nytimes.com/2026/03/08/business/energy-environment/oil-100-dollars-barrel.html",
+    "content": "The price of a gallon of regular gasoline has climbed about 16 percent since the United States and Israel attacked Iran on Feb. 28.",
+    "date": "2026-03-09T07:26:51",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html",
     "feed_name": "NYT",
     "title": "U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows",
@@ -137,6 +147,16 @@
     "link": "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html",
     "content": "Two people were arrested in connection with smoking projectiles thrown near Gracie Mansion on Saturday, as far-right activists objecting to Mayor Zohran Mamdani\u2019s Muslim faith clashed with counterprotesters.",
     "date": "2026-03-08T22:00:37",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/08/us/montana-loophole-cars-california.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Have a Montana License Plate in California? Officials Have an Eye on You.",
+    "author": "Adeel Hassan",
+    "link": "https://www.nytimes.com/2026/03/08/us/montana-loophole-cars-california.html",
+    "content": "The California Attorney General\u2019s Office said that 14 people arranged tax-free sales of vehicles, including this $1.5 million Porsche 918 Spyder, by making the purchases in Montana.",
+    "date": "2026-03-08T20:05:15",
     "category": "My Feeds"
   },
   {
