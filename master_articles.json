@@ -250,6 +250,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/08/opinion/one-battle-after-another-weathermen.html",
+    "feed_name": "NYT",
+    "title": "The Popcorn Resistance of \u2018One Battle After Another\u2019",
+    "author": "Hope Reeves",
+    "link": "https://www.nytimes.com/2026/03/08/opinion/one-battle-after-another-weathermen.html",
+    "content": "My parents were radical. Paul Thomas Anderson\u2019s film is anything but.",
+    "date": "2026-03-08T10:00:21",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223403",
     "feed_name": "Texas Tribune",
     "title": "After a decade of missteps, Corpus Christi careens toward water catastrophe",
@@ -337,6 +347,16 @@
     "link": "https://www.nytimes.com/2026/03/08/opinion/birding-photography-loss.html",
     "content": "I imagine the birds I see are the family members I\u2019ve lost.",
     "date": "2026-03-08T06:39:44",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/08/world/europe/st-petersburg-restoration-activism.html",
+    "feed_name": "NYT - Emailed",
+    "title": "In Russia\u2019s Former Capital, Restoring the Past to Survive the Present",
+    "author": "Ivan Nechepurenko and Mary Gelman",
+    "link": "https://www.nytimes.com/2026/03/08/world/europe/st-petersburg-restoration-activism.html",
+    "content": "With political activism off-limits, residents of St. Petersburg are finding purpose and community in the \u201cpolitics of small deeds,\u201d repairing and cleaning architectural treasures.",
+    "date": "2026-03-08T05:01:11",
     "category": "My Feeds"
   },
   {
