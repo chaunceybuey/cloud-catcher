@@ -140,6 +140,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/us/bart-bay-area-san-francisco-transit.html",
+    "feed_name": "NYT - Emailed",
+    "title": "San Francisco Bay Area Residents Weigh Possibility of BART Reductions",
+    "author": "Heather Knight and Soumya Karlamangla",
+    "link": "https://www.nytimes.com/2026/03/10/us/bart-bay-area-san-francisco-transit.html",
+    "content": "BART directors say that Bay Area residents can rescue the system by passing a new sales tax in November.",
+    "date": "2026-03-10T16:34:52",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/10/dining/fast-chicken-fajitas-cod-with-caper-orange-sauce.html",
     "feed_name": "NYT Cooking",
     "title": "Fast Chicken Fajitas, Cod With Caper-Orange Sauce",
@@ -226,6 +236,16 @@
     "author": "Jackie Mader",
     "link": "https://www.nytimes.com/2026/03/10/nyregion/students-school-screen-time-parents-concern.html",
     "content": "Some families are reining in their children\u2019s screen time at home only to find it expanding at school.",
+    "date": "2026-03-10T07:00:19",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/10/health/canada-oil-sands-fort-chipewyan-alberta.html",
+    "feed_name": "NYT",
+    "title": "Cancer Haunts Neighbors of Canada\u2019s Oil Sands Wastelands",
+    "author": "Emily Baumgaertner Nunn",
+    "link": "https://www.nytimes.com/2026/03/10/health/canada-oil-sands-fort-chipewyan-alberta.html",
+    "content": "A Syncrude facility near Fort McMurray, Alberta.",
     "date": "2026-03-10T07:00:19",
     "category": "My Feeds"
   },
