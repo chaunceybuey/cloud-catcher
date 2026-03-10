@@ -140,6 +140,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/opinion/trumps-iran-dirsruption-destruction.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Trump\u2019s Smash-and-Grab Presidency Reaches New Heights",
+    "author": "Thomas B. Edsall",
+    "link": "https://www.nytimes.com/2026/03/10/opinion/trumps-iran-dirsruption-destruction.html",
+    "content": "When disruption becomes destruction.",
+    "date": "2026-03-10T14:17:20",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/10/us/politics/polls-wars-us-support.html",
+    "feed_name": "NYT",
+    "title": "Unlike Past U.S. Conflicts, Iran Attack Is Opposed by Most Americans",
+    "author": "Lily Boyce and Ruth Igielnik",
+    "link": "https://www.nytimes.com/2026/03/10/us/politics/polls-wars-us-support.html",
+    "content": "While the public has historically backed military intervention initially in international conflicts, deep polarization has left the latest strikes against Iran with record-low support.",
+    "date": "2026-03-10T14:16:27",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/09/world/middleeast/iran-school-strike-us-missile.html",
     "feed_name": "NYT",
     "title": "Missile in Deadly Iranian School Strike Appears to Be U.S.-Made, Photos Taken by Iran Show",
