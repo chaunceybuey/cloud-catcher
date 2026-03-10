@@ -120,6 +120,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/dining/fast-chicken-fajitas-cod-with-caper-orange-sauce.html",
+    "feed_name": "NYT Cooking",
+    "title": "Fast Chicken Fajitas, Cod With Caper-Orange Sauce",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/10/dining/fast-chicken-fajitas-cod-with-caper-orange-sauce.html",
+    "content": "Recipes with little prep, big payoff.",
+    "date": "2026-03-10T15:00:12",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/09/arts/television/monti-rock-iii-dead.html",
+    "feed_name": "NYT",
+    "title": "Monti Rock III, Gleefully Untalented \u2018Tonight Show\u2019 Favorite, Dies at 86",
+    "author": "Trip Gabriel",
+    "link": "https://www.nytimes.com/2026/03/09/arts/television/monti-rock-iii-dead.html",
+    "content": "Monti Rock III in 1975. He was a flamboyant dresser, a transparently gay man in the subversive style known as camp in the mid-60s.",
+    "date": "2026-03-10T14:19:58",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18489",
     "feed_name": "Stratechery",
     "title": "Copilot Cowork, Anthropic\u2019s Integration, Microsoft\u2019s New Bundle",
@@ -147,6 +167,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17296754/texas-paxton-el-paso-hector-granados-sb-14-transgender-puberty",
     "content": "Seven-year-old Freyja Radtke, who has Bardet-Biedl syndrome, is comforted by her grandmother, mother and dog Penelope during an emotional episode caused by her condition. Although used in transgender treatment, hormone treatment is more typically administered to treat conditions such as precocious puberty, endometriosis, hypogonadism and growth hormone deficiencies in children.",
     "date": "2026-03-10T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/10/nyregion/students-school-screen-time-parents-concern.html",
+    "feed_name": "NYT - Emailed",
+    "title": "iPads in Kindergarten, YouTube on Breaks: The School Screen-Time Battle",
+    "author": "Jackie Mader",
+    "link": "https://www.nytimes.com/2026/03/10/nyregion/students-school-screen-time-parents-concern.html",
+    "content": "Some families are reining in their children\u2019s screen time at home only to find it expanding at school.",
+    "date": "2026-03-10T07:00:19",
     "category": "My Feeds"
   },
   {
