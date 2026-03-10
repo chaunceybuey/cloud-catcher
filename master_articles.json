@@ -190,6 +190,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/arts/music/tristan-und-isolde-met-opera-review.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Review: A New \u2018Tristan und Isolde\u2019 at the Metropolitan Opera",
+    "author": "Joshua Barone",
+    "link": "https://www.nytimes.com/2026/03/10/arts/music/tristan-und-isolde-met-opera-review.html",
+    "content": "Michael Spyres, left, and Lise Davidsen in the tunnel as the title lovers in \u201cTristan und Isolde\u201d at the Metropolitan Opera.",
+    "date": "2026-03-10T16:19:34",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/10/dining/fast-chicken-fajitas-cod-with-caper-orange-sauce.html",
     "feed_name": "NYT Cooking",
     "title": "Fast Chicken Fajitas, Cod With Caper-Orange Sauce",
@@ -377,6 +387,16 @@
     "link": "https://www.nytimes.com/2026/03/09/us/politics/mariachi-teens-immigration.html",
     "content": "Representative Joaquin Castro, Democrat of Texas, greeting Caleb G\u00e1mez-Cu\u00e9llar and his family after their release from the Dilley Immigration Processing Center in Dilley, Texas, on Monday.",
     "date": "2026-03-09T22:50:54",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/09/science/meteorite-europe-crash-germany-roof.html",
+    "feed_name": "NYT",
+    "title": "Meteorite Crashes Through Roof in Germany After Fiery Light Show",
+    "author": "Robin George Andrews",
+    "link": "https://www.nytimes.com/2026/03/09/science/meteorite-europe-crash-germany-roof.html",
+    "content": "The fireball from space was spotted by a network of sky-watching cameras in Belgium, France, Luxembourg, the Netherlands and Germany.",
+    "date": "2026-03-09T22:22:42",
     "category": "My Feeds"
   },
   {
