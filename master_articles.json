@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://stratechery.com/?p=18489",
+    "feed_name": "Stratechery",
+    "title": "Copilot Cowork, Anthropic\u2019s Integration, Microsoft\u2019s New Bundle",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/copilot-cowork-anthropics-integration-microsofts-new-bundle/",
+    "content": "<p>Microsoft is seeking to commoditize its complements, but Anthropic has a point of integration of their own; it's good enough that Microsoft is making a new bundle on top of it.</p>",
+    "date": "2026-03-10T10:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html",
     "feed_name": "NYT",
     "title": "Trump Has No Idea How to End the War With Iran",
