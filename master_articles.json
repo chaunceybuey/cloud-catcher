@@ -360,6 +360,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/09/climate/space-mirror-satellite-solar.html",
+    "feed_name": "NYT",
+    "title": "A Night Light in the Sky? Reflect Orbital Wants to Launch a Big Space Mirror.",
+    "author": "Kenneth Chang and Hiroko Tabuchi",
+    "link": "https://www.nytimes.com/2026/03/09/climate/space-mirror-satellite-solar.html",
+    "content": "The start-up Reflect Orbital wants to launch mirror-bearing satellites which it says could address one of the biggest weaknesses of solar power: that electric generation stops when the sun goes down.",
+    "date": "2026-03-09T16:28:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/09/business/tariff-refunds-consumers.html",
     "feed_name": "NYT",
     "title": "Consumers Paid Tariffs on Overseas Items. Now They Want a Refund.",
