@@ -280,6 +280,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-missile-school.html",
+    "feed_name": "NYT",
+    "title": "Trump Again Suggests Without Evidence That Iran Struck Elementary School",
+    "author": "Shawn McCreesh and John Ismay",
+    "link": "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-missile-school.html",
+    "content": "The president suggested without giving evidence on Monday that Iran or another country could have fired the weapon.",
+    "date": "2026-03-10T00:59:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html",
     "feed_name": "NYT",
     "title": "Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial",
@@ -6928,6 +6938,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2025/03/28/well/bad-habits-back-spine-surgeons.html",
+    "feed_name": "NYT - Emailed",
+    "title": "The Worst Habits for Your Back, According to Spine Surgeons",
+    "author": "Jancee Dunn",
+    "link": "https://www.nytimes.com/2025/03/28/well/bad-habits-back-spine-surgeons.html",
+    "content": "Avoid a world of hurt with these four tips.",
+    "date": "2025-03-31T10:55:51",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/article/how-to-build-muscle-strength.html",
     "feed_name": "NYT - Emailed",
     "title": "How to Get Strong",
@@ -6935,6 +6955,16 @@
     "link": "https://www.nytimes.com/article/how-to-build-muscle-strength.html",
     "content": "Originally published on Sep. 1, 2018",
     "date": "2023-10-27T19:37:04",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2023/09/05/well/toenail-fungus-treatment.html",
+    "feed_name": "NYT - Emailed",
+    "title": "How Do You Treat Toenail Fungus?",
+    "author": "Caroline Hopkins",
+    "link": "https://www.nytimes.com/2023/09/05/well/toenail-fungus-treatment.html",
+    "content": "As unsightly as it is, the infection is usually manageable \u2014 but only with the right treatment. Here\u2019s how to kick it.",
+    "date": "2023-09-05T09:00:48",
     "category": "My Feeds"
   }
 ]
