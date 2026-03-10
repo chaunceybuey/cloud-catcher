@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-putin-russia-energy-oil-prices.html",
+    "feed_name": "NYT",
+    "title": "U.S. Eases Limits on Russian Energy as Oil Prices Soar",
+    "author": "Paul Sonne",
+    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-putin-russia-energy-oil-prices.html",
+    "content": "An oil refinery in Omsk, Russia, in 2023.",
+    "date": "2026-03-10T17:31:43",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html",
     "feed_name": "NYT - Emailed",
     "title": "A.I. Is Changing the Way We Think About Good and Evil",
