@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8709755#p8709755",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "dOvob",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8709755#p8709755",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br />Noticed Target Red Card was rebranded as the Target Circle Card.<br /><br />I decided to try giving the VCP linkage a try. <br /><br />Did 2 micro deposits (no way to distinguish \"checking\" vs. \"savings\"), they arrived today in the settlement fund. I confirmed the amounts. <br />The PNC account shows up on the circle card side OK.<br /><br />Did a test purchase of some online gift cards and went through OK.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Hello! Thanks for this feedback. Still getting an error when trying to add a (joint) cash plus account to Target circle card via <a class=\"postlink\" href=\"https://mytargetcirclecard.target.com/payments/payment-accounts\">https://mytargetcirclecard.target.com/p ... t-accounts</a> \"Add payment account\", that actually asks for a \"checking\" vs \"savings\" account type. Am I missing something? Did you use another way?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=214516\">dOvob</a> \u2014 Mon Mar 09, 2026 8:28 pm</p><hr />",
+    "date": "2026-03-10T01:28:12",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/09/nyregion/fbi-subpoena-arizona-maricopa-county-election.html",
     "feed_name": "NYT",
     "title": "F.B.I. Subpoenas Records in Arizona in Expansion of 2020 Voting Inquiry",
@@ -187,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html",
     "content": "Apocalyptic scenes of bombardment, like at an oil-storage facility in the Tehran area on Sunday, have contributed to many Iranians\u2019 gloominess about their nation\u2019s future.",
     "date": "2026-03-09T18:47:14",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/09/business/iran-oil-gas-asia.html",
+    "feed_name": "NYT",
+    "title": "Countries in Asia Try to Contain the Economic Fallout of the Mideast Conflict",
+    "author": "Aaron Krolik, Choe Sang-Hun, Sui-Lee Wee, Meaghan Tobin and Damien Cave",
+    "link": "https://www.nytimes.com/2026/03/09/business/iran-oil-gas-asia.html",
+    "content": "The Strait of Hormuz is a narrow passage between Iran and Oman. Historically 20 million barrels pass through it each day, most of it bound for Asia.",
+    "date": "2026-03-09T18:44:03",
     "category": "My Feeds"
   },
   {
