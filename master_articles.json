@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/11/us/politics/veterans-homeless-guardianship-trump.html",
+    "feed_name": "NYT",
+    "title": "V.A. Begins Drive to Put Homeless Veterans Into Guardianship",
+    "author": "Ellen Barry and Jason DeParle",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/veterans-homeless-guardianship-trump.html",
+    "content": "The V.A. medical center in Washington.",
+    "date": "2026-03-11T18:40:10",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
     "feed_name": "NYT",
     "title": "World Heritage Sites Hit in Airstrikes on Iran",
