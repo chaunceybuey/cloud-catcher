@@ -200,6 +200,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
+    "feed_name": "NYT - Emailed",
+    "title": "A Dublin Pub-Crawl, but Hold the Booze",
+    "author": "Megan Specia and Paulo Nunes Dos Santos",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
+    "content": "A wander through some famed watering holes in Ireland\u2019s capital reveals a booming alcohol-free scene and a cultural shift.",
+    "date": "2026-03-11T14:26:45",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/11/opinion/trump-iran-wartime-presidents.html",
     "feed_name": "NYT",
     "title": "Trump Is the Anti-Trump",
