@@ -130,6 +130,36 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=223584",
+    "feed_name": "Texas Tribune",
+    "title": "\u201cSlowly killing us on the inside\u201d: A family of 6 at Texas\u2019 Dilley ICE detention center begs for freedom",
+    "author": "Lomi Kriel",
+    "link": "https://feeds.texastribune.org/link/16799/17297345/el-gamal-texas-egyptian-family-dilley-health-care-food-ice-detention-letters-children",
+    "content": "Drawings created by Hayam El Gamal\u2019s 5-year-old twins and 9-year old daughter. The Egyptian family has been imprisoned at Texas\u2019 Dilley Immigration Processing Center for more than nine months.",
+    "date": "2026-03-11T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=223560",
+    "feed_name": "Texas Tribune",
+    "title": "Texas oil companies stand to profit from Iran war disruptions while consumers face higher gas prices",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17297346/texas-oil-iran-war-gas-prices",
+    "content": "Gas and diesel prices displayed at a Shell gas station in Austin on March 10, 2026.",
+    "date": "2026-03-11T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=223572",
+    "feed_name": "Texas Tribune",
+    "title": "Texas execution scheduled for man convicted of killing common-law wife and child",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17297347/texas-execution-cedric-ricks-2013-double-murder",
+    "content": "The exterior of the Huntsville Unit, where Texas executes death row inmates, on Oct. 17, 2024.",
+    "date": "2026-03-11T10:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html",
     "feed_name": "NYT",
     "title": "How Trump and His Advisers Miscalculated Iran\u2019s Response to War",
@@ -327,6 +357,16 @@
     "link": "https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html",
     "content": "Chatbots can teach us about human nature.",
     "date": "2026-03-10T17:31:37",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/10/world/middleeast/lebanon-evacuations-israel-strikes-bombing.html",
+    "feed_name": "NYT",
+    "title": "Nearly 700,000 Displaced by War in Lebanon, U.N. Says",
+    "author": "Euan Ward",
+    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/lebanon-evacuations-israel-strikes-bombing.html",
+    "content": "Smoke rises from an Israeli airstrike in Beirut, Lebanon, on Tuesday.",
+    "date": "2026-03-10T17:30:24",
     "category": "My Feeds"
   },
   {
