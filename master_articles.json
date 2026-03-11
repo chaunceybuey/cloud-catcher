@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/11/us/politics/supreme-court-haitians-deportation.html",
+    "feed_name": "NYT",
+    "title": "Trump Administration Asks Supreme Court to End Protections for Haitian Immigrants",
+    "author": "Abbie VanSickle and Miriam Jordan",
+    "link": "https://www.nytimes.com/2026/03/11/us/politics/supreme-court-haitians-deportation.html",
+    "content": "A detention center in San Diego. The Trump administration\u2019s filing Wednesday is the second such emergency petition pending before the court dealing with whether it can end the protected status for a group of immigrants.",
+    "date": "2026-03-11T20:28:48",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223674",
     "feed_name": "Texas Tribune",
     "title": "March primary ensures record turnover for Texas congressional delegation",
