@@ -170,6 +170,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-oil-strikes-health.html",
+    "feed_name": "NYT",
+    "title": "Black Rain and Health Fears After Strikes on Iran Fuel Depots",
+    "author": "Emily Baumgaertner Nunn and Parin Behrooz",
+    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-oil-strikes-health.html",
+    "content": "Late-night airstrikes on oil sites in Tehran still left rolling waves of smoke on Sunday.",
+    "date": "2026-03-10T18:18:39",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/10/travel/canceled-flights-middle-east-iran-war.html",
     "feed_name": "NYT - Emailed",
     "title": "4 Continents in 62 Hours: How One American Got Out of Qatar",
@@ -197,6 +207,16 @@
     "link": "https://www.nytimes.com/2026/03/10/opinion/ai-chatbots-virtue-vice.html",
     "content": "Chatbots can teach us about human nature.",
     "date": "2026-03-10T17:31:37",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-bombing-tehran.html",
+    "feed_name": "NYT",
+    "title": "\u2018Nothing Will Remain of Tehran,\u2019 Iranians Say Amid Heavy Bombing",
+    "author": "Leily Nikounazar and Erika Solomon",
+    "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-bombing-tehran.html",
+    "content": "Iran has faced ongoing bombing from the U.S. and Israel.",
+    "date": "2026-03-10T17:12:10",
     "category": "My Feeds"
   },
   {
@@ -267,6 +287,16 @@
     "link": "https://www.nytimes.com/2026/03/10/dining/fast-chicken-fajitas-cod-with-caper-orange-sauce.html",
     "content": "Recipes with little prep, big payoff.",
     "date": "2026-03-10T15:00:12",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/10/opinion/trump-iran-venezuela-cuba.html",
+    "feed_name": "NYT",
+    "title": "It\u2019s Trump\u2019s War. We\u2019re Stuck With the Bill.",
+    "author": "Kate Brannen",
+    "link": "https://www.nytimes.com/2026/03/10/opinion/trump-iran-venezuela-cuba.html",
+    "content": "What are we getting for all of President Trump\u2019s military spending?",
+    "date": "2026-03-10T15:00:04",
     "category": "My Feeds"
   },
   {
