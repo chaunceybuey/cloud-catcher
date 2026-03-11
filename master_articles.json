@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/us/politics/democrats-sue-to-find-out-if-trump-will-send-armed-officers-to-election-sites.html",
+    "feed_name": "NYT",
+    "title": "Democrats Sued to Find Out Whether Trump Will Send Armed Officers to Election Sites",
+    "author": "Nick Corasaniti",
+    "link": "https://www.nytimes.com/2026/03/10/us/politics/democrats-sue-to-find-out-if-trump-will-send-armed-officers-to-election-sites.html",
+    "content": "Voters at a polling site last week in Rockingham County, N.C.",
+    "date": "2026-03-10T20:44:38",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223554",
     "feed_name": "Texas Tribune",
     "title": "TribCast: Cornyn, Paxton, Trump and the heated U.S. Senate runoff",
@@ -437,6 +447,16 @@
     "link": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
     "content": "A solar field in Riesel, Texas, in 2023. Solar power is projected to account for just over half of the new power projects that will be added this year.",
     "date": "2026-03-10T04:01:04",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html",
+    "feed_name": "NYT",
+    "title": "Trump\u2019s War in Iran, and Rising Gas Prices, Collide With Midterm Agenda",
+    "author": "Tyler Pager",
+    "link": "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html",
+    "content": "A tanker and a cargo ship in Muscat, Oman, on Monday. The war in Iran has affected the shipping of oil through the Strait of Hormuz and the Gulf of Oman.",
+    "date": "2026-03-10T03:32:18",
     "category": "My Feeds"
   },
   {
