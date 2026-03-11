@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
+    "feed_name": "NYT",
+    "title": "World Heritage Sites Hit in Airstrikes on Iran",
+    "author": "Farnaz Fassihi",
+    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
+    "content": "The Golestan Palace was damaged badly from an Israeli attack on a police station in Tehran last week.",
+    "date": "2026-03-11T18:32:37",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
     "feed_name": "NYT",
     "title": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says",
@@ -127,6 +137,16 @@
     "link": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
     "content": "Outdated targeting data may have resulted in a mistaken missile strike, according to the ongoing military investigation, which undercuts President Trump\u2019s assertion that Iran could be to blame.",
     "date": "2026-03-11T17:26:44",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/11/opinion/trump-gas-prices.html",
+    "feed_name": "NYT",
+    "title": "Here\u2019s One Boast Trump Won\u2019t Be Making Any More",
+    "author": "Natasha Sarin",
+    "link": "https://www.nytimes.com/2026/03/11/opinion/trump-gas-prices.html",
+    "content": "The administration\u2019s attacks on renewable energy mean higher costs for everyone.",
+    "date": "2026-03-11T16:21:05",
     "category": "My Feeds"
   },
   {
@@ -297,6 +317,16 @@
     "link": "https://www.nytimes.com/2026/03/10/science/bumblebees-queens-underwater-breathe.html",
     "content": "A new study offers clues as to how the insects survive flooding as they emerge from a hibernation-like phase every winter.",
     "date": "2026-03-10T23:01:06",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/10/magazine/sync-music-songwriters-video.html",
+    "feed_name": "NYT - Emailed",
+    "title": "How \u2018Sync Music\u2019 Became the Soundtrack to Our Lives",
+    "author": "Ryan Francis Bradley",
+    "link": "https://www.nytimes.com/2026/03/10/magazine/sync-music-songwriters-video.html",
+    "content": "Kara Talve (left) and Anze Rozman, who are married to each other, collaborating on a composition at Bleeding Fingers studios in Santa Monica, Calif.",
+    "date": "2026-03-10T22:00:27",
     "category": "My Feeds"
   },
   {
