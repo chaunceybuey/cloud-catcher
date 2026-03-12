@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/health/health-costs-cutting-back.html",
+    "feed_name": "NYT",
+    "title": "A Third of Americans Have Cut Spending or Borrowed Money for Health Care",
+    "author": "Reed Abelson",
+    "link": "https://www.nytimes.com/2026/03/12/health/health-costs-cutting-back.html",
+    "content": "A recent poll found that health care costs topped a list of the public\u2019s economic anxieties, above concerns about the prices of food and groceries, gas and utilities.",
+    "date": "2026-03-12T16:08:24",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223660",
     "feed_name": "Texas Tribune",
     "title": "A plan to get more electricity to West Texas may come undone",
