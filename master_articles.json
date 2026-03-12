@@ -190,6 +190,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/us/politics/trump-epstein-statue-titanic-national-mall.html",
+    "feed_name": "NYT",
+    "title": "A Statue of Trump and Epstein Re-enacting \u2018Titanic\u2019 Pose Appears on National Mall",
+    "author": "Ashley Ahn",
+    "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-epstein-statue-titanic-national-mall.html",
+    "content": "A statue titled \u201cThe King of the World\u201d depicting President Trump and Jeffrey Epstein.",
+    "date": "2026-03-12T11:58:01",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18509",
     "feed_name": "Stratechery",
     "title": "An Interview with Robert Fishman About the Current State of Hollywood",
@@ -267,6 +277,16 @@
     "link": "https://www.nytimes.com/2026/03/12/arts/music/p-funk-mothership-george-clinton.html",
     "content": "Clinton said he told his label boss, \u201cGet the Mothership,\u201d and that he replied, \u201cOh, hell yeah.\u201d",
     "date": "2026-03-12T09:00:38",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/business/iran-oil-price-reserves.html",
+    "feed_name": "NYT",
+    "title": "Why Oil Prices Surged Even After the Release of Strategic Reserves",
+    "author": "Aaron Krolik",
+    "link": "https://www.nytimes.com/2026/03/12/business/iran-oil-price-reserves.html",
+    "content": "An oil tanker sits anchored as the traffic is down in the Strait of Hormuz in Muscat, Oman, on Tuesday.",
+    "date": "2026-03-12T08:40:29",
     "category": "My Feeds"
   },
   {
