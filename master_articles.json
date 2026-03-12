@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Coding After Coders: The End of Computer Programming as We Know It",
+    "author": "Clive Thompson",
+    "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+    "content": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they\u2019re doing is deeply, deeply weird.",
+    "date": "2026-03-12T12:53:34",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18509",
     "feed_name": "Stratechery",
     "title": "An Interview with Robert Fishman About the Current State of Hollywood",
