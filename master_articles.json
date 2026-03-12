@@ -170,6 +170,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/us/politics/trump-tariff-refunds-delay.html",
+    "feed_name": "NYT",
+    "title": "Trump Administration Suggests Tariff Refunds May Take Significant Time",
+    "author": "Tony Romm",
+    "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-tariff-refunds-delay.html",
+    "content": "To refund any tariffs collected during the most punishing phase of President Trump\u2019s trade war, the government said it would need more time.",
+    "date": "2026-03-12T18:23:54",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html",
     "feed_name": "NYT",
     "title": "Fallout From Iran War and Oil Shock Deliver Another Blow to World Economy",
