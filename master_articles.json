@@ -240,6 +240,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/11/weather/hawaii-kona-storm.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Hawaii Storm Bringing Flooding, Fierce Winds and Even Snow",
+    "author": "Nazaneen Ghaffar",
+    "link": "https://www.nytimes.com/2026/03/11/weather/hawaii-kona-storm.html",
+    "content": "Forecasters have said a severe storm will slowly cross the islands of Hawaii this week.",
+    "date": "2026-03-11T17:34:24",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
     "feed_name": "NYT",
     "title": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says",
