@@ -120,6 +120,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/arts/design/smiljan-radic-pritzker-prize-architecture.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Chilean Architect Smiljan Radic Wins Pritzker Prize",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/03/12/arts/design/smiljan-radic-pritzker-prize-architecture.html",
+    "content": "The naming of Smiljan Radic as the next Pritzker laureate was delayed by the disclosure of Jeffrey Epstein\u2019s friendship with Tom Pritzker, who has now distanced himself from the prize.",
+    "date": "2026-03-12T18:04:35",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/opinion/trump-america-first-debt.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Trump\u2019s Way of Doing Business With the World May Cost All of Us",
+    "author": "Kyla Scanlon",
+    "link": "https://www.nytimes.com/2026/03/12/opinion/trump-america-first-debt.html",
+    "content": "Either the budget changes, or America\u2019s relationship with the rest of the world does.",
+    "date": "2026-03-12T17:04:31",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223817",
     "feed_name": "Texas Tribune",
     "title": "Chip Roy faces Mayes Middleton\u2019s millions in Texas attorney general GOP runoff",
@@ -237,6 +257,16 @@
     "link": "https://www.nytimes.com/2026/03/12/realestate/massive-home-addition-nimby-debate.html",
     "content": "County officials originally approved Minh Nguyen\u2019s three-story addition to his house. His neighbors are not pleased.",
     "date": "2026-03-12T09:01:05",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/arts/music/p-funk-mothership-george-clinton.html",
+    "feed_name": "NYT",
+    "title": "The Secret History of Rock\u2019s Wildest Stage Prop: P-Funk\u2019s Mothership",
+    "author": "Steve Knopper",
+    "link": "https://www.nytimes.com/2026/03/12/arts/music/p-funk-mothership-george-clinton.html",
+    "content": "Clinton said he told his label boss, \u201cGet the Mothership,\u201d and that he replied, \u201cOh, hell yeah.\u201d",
+    "date": "2026-03-12T09:00:38",
     "category": "My Feeds"
   },
   {
