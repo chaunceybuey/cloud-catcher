@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html",
+    "feed_name": "NYT",
+    "title": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
+    "author": "Alan Rappeport",
+    "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html",
+    "content": "Treasury Secretary Scott Bessent said on Thursday that Russia would not benefit significantly from the sanctions relief but acknowledged that it would see some financial benefit.",
+    "date": "2026-03-13T01:32:01",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223897",
     "feed_name": "Texas Tribune",
     "title": "Texas clarifies voucher rules to help more families access future special ed support",
