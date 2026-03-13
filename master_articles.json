@@ -140,6 +140,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/13/us/politics/trump-seized-oil-tankers-cost.html",
+    "feed_name": "NYT",
+    "title": "Trump\u2019s Move to Seize Oil Tankers Costs the U.S. Tens of Millions of Dollars",
+    "author": "Luke Broadwater and Nicholas Nehamas",
+    "link": "https://www.nytimes.com/2026/03/13/us/politics/trump-seized-oil-tankers-cost.html",
+    "content": "The oil tanker Skipper, seized by the United States, seen off the coast of Texas near Galveston in December.",
+    "date": "2026-03-13T18:43:54",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/13/climate/epa-ethylene-oxide-cancer.html",
     "feed_name": "NYT",
     "title": "E.P.A. Moves to Weaken Limits on Ethylene Oxide",
