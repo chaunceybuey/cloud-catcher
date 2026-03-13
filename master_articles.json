@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/13/climate/epa-ethylene-oxide-cancer.html",
+    "feed_name": "NYT",
+    "title": "E.P.A. Moves to Weaken Limits on Ethylene Oxide",
+    "author": "Maxine Joselow",
+    "link": "https://www.nytimes.com/2026/03/13/climate/epa-ethylene-oxide-cancer.html",
+    "content": "A chemical and petroleum industrial corridor, a known source of ethylene oxide emissions, in Ascension Parish, La.",
+    "date": "2026-03-13T17:32:46",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/13/world/europe/russia-oil-suspended-sanctions-economy.html",
     "feed_name": "NYT",
     "title": "U.S. Sanctions Pause Adds Political Win to Russia\u2019s Economic Gain From Iran War",
