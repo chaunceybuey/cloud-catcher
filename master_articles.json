@@ -120,6 +120,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/nyregion/ernie-anastos-dead.html",
+    "feed_name": "NYT",
+    "title": "Ernie Anastos, New York\u2019s Everyman Newscaster, Dies at 82",
+    "author": "Remy Tumin",
+    "link": "https://www.nytimes.com/2026/03/12/nyregion/ernie-anastos-dead.html",
+    "content": "Ernie Anastos on the WNYW Fox set in 2010.",
+    "date": "2026-03-13T02:54:36",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html",
+    "feed_name": "NYT",
+    "title": "Old Dominion University Shooting Being Investigated as Act of Terrorism, Officials Say",
+    "author": "Campbell Robertson, Devlin Barrett and Christine Hauser",
+    "link": "https://www.nytimes.com/2026/03/12/us/shooting-old-dominion-university.html",
+    "content": "The police responded to a report of a shooting on the campus of Old Dominion University in Norfolk, Va., on Thursday morning.",
+    "date": "2026-03-13T02:15:13",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html",
     "feed_name": "NYT",
     "title": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
@@ -237,6 +257,16 @@
     "link": "https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html",
     "content": "Julie T. Le, a former government lawyer, described in stark terms how overstretched the legal system had become during the administration\u2019s immigration crackdown in Minnesota. Now, she said, she hopes to fix the \u201csystem\u2019s failures\u201d by running for Congress.",
     "date": "2026-03-12T18:47:01",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/world/middleeast/khamenei-statement.html",
+    "feed_name": "NYT",
+    "title": "Mojtaba Khamenei, Iran\u2019s New Supreme Leader, Says Strait of Hormuz Must Remain Closed in Defiant Statement",
+    "author": "Yeganeh Torbati and Sanam Mahoozi",
+    "link": "https://www.nytimes.com/2026/03/12/world/middleeast/khamenei-statement.html",
+    "content": "A billboard in Tehran depicts Ayatollah Mojtaba Khamenei taking an Iranian flag from his father, Ayatollah Ali Khamenei.",
+    "date": "2026-03-12T18:26:46",
     "category": "My Feeds"
   },
   {
@@ -7624,6 +7654,16 @@
     "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8696139#p8696139",
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I see the same thing with transaction descriptions go away for deposits/withdrawals in \"My Cash Plus Overview\".<br />However, you can go to the Transaction history menu item at the top and see descriptions there.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I see simply \"CASH\" for direct deposit there.<br /><br />And even for withdrawals, while visible, having to jump through that extra hoop every time is a nuisance.<br /><br />I am in the process of transferring bill-pays and deposits to Fidelity CMA. Cash Plus, while nice, has proven to be a three-quarter-baked product, and this is the final drop for me.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=52827\">Vulcan</a> \u2014 Mon Feb 23, 2026 3:38 pm</p><hr />",
     "date": "2026-02-23T21:38:32",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/23/opinion/pitt-america-tv.html",
+    "feed_name": "NYT - Emailed",
+    "title": "\u2018The Pitt\u2019 Is the Most Patriotic Show on Television",
+    "author": "Frank Bruni",
+    "link": "https://www.nytimes.com/2026/02/23/opinion/pitt-america-tv.html",
+    "content": "An emergency room that\u2019s a mirror.",
+    "date": "2026-02-23T17:44:21",
     "category": "My Feeds"
   },
   {
