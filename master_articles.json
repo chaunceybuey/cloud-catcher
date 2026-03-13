@@ -160,6 +160,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html",
+    "feed_name": "NYT",
+    "title": "With Disputed Legal Maneuver, Trump Tries to Set Policy Without Legislation",
+    "author": "Zach Montague",
+    "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html",
+    "content": "In some cases, the legal maneuver has helped the Trump administration lock in changes at the federal level that could persist for years after President Trump leaves office.",
+    "date": "2026-03-12T23:31:32",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/12/business/mortgage-rates-rise-above-6-percent.html",
     "feed_name": "NYT",
     "title": "U.S. Mortgage Rates Rise, Undercutting Housing Affordability Push",
@@ -327,6 +337,16 @@
     "link": "https://www.nytimes.com/2026/03/12/opinion/trump-america-first-debt.html",
     "content": "Either the budget changes, or America\u2019s relationship with the rest of the world does.",
     "date": "2026-03-12T17:04:31",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/opinion/cuba-america-war-trump-iran.html",
+    "feed_name": "NYT",
+    "title": "Trump Isn\u2019t Ready for What He\u2019s Starting in Cuba",
+    "author": "Christopher Sabatini and Katrin Hansing",
+    "link": "https://www.nytimes.com/2026/03/12/opinion/cuba-america-war-trump-iran.html",
+    "content": "Catastrophe in Cuba is not a foregone conclusion.",
+    "date": "2026-03-12T16:53:31",
     "category": "My Feeds"
   },
   {
