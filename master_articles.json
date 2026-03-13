@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html",
+    "feed_name": "NYT",
+    "title": "All 6 Crew Members Killed in U.S. Refueling Plane Crash in Iraq, Military Says",
+    "author": "Helene Cooper, Greg Jaffe and Eric Schmitt",
+    "link": "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html",
+    "content": "A U.S. KC-135 aircraft flying over Tel Aviv last week.",
+    "date": "2026-03-13T14:34:29",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/13/opinion/justice-department-lawyers-ethics.html",
     "feed_name": "NYT",
     "title": "The Trump Administration Floats a New Way to Humiliate the Legal Profession",
@@ -177,6 +187,16 @@
     "link": "https://www.nytimes.com/2026/03/13/magazine/iran-trump-regime-change-history-eisenhower.html",
     "content": "The 1953 coup in Iran \u2014 engineered by the C.I.A. \u2014 helped usher in a wave of regime change operations by the United States.",
     "date": "2026-03-13T09:03:30",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/theater/every-brilliant-thing-review-daniel-radcliffe.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Daniel Radcliffe Shines in \u2018Every Brilliant Thing\u2019 on Broadway",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/03/12/theater/every-brilliant-thing-review-daniel-radcliffe.html",
+    "content": "Daniel Radcliffe, center right, with audience members in \u201cEvery Brilliant Thing\u201d at the Hudson Theater in Manhattan.",
+    "date": "2026-03-13T03:00:07",
     "category": "My Feeds"
   },
   {
