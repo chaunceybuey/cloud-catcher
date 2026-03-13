@@ -170,6 +170,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/13/magazine/iran-trump-regime-change-history-eisenhower.html",
+    "feed_name": "NYT - Emailed",
+    "title": "When a President Gets Addicted to Regime Change",
+    "author": "Scott Anderson",
+    "link": "https://www.nytimes.com/2026/03/13/magazine/iran-trump-regime-change-history-eisenhower.html",
+    "content": "The 1953 coup in Iran \u2014 engineered by the C.I.A. \u2014 helped usher in a wave of regime change operations by the United States.",
+    "date": "2026-03-13T09:03:30",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/12/nyregion/ernie-anastos-dead.html",
     "feed_name": "NYT",
     "title": "Ernie Anastos, New York\u2019s Everyman Newscaster, Dies at 82",
@@ -217,6 +227,16 @@
     "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html",
     "content": "In some cases, the legal maneuver has helped the Trump administration lock in changes at the federal level that could persist for years after President Trump leaves office.",
     "date": "2026-03-12T23:31:32",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html",
+    "feed_name": "NYT",
+    "title": "A Weakened Iran Hits Back by Strangling the Vital Strait of Hormuz",
+    "author": "Anton Troianovski, Peter Eavis, Julian E. Barnes and Greg Jaffe",
+    "link": "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html",
+    "content": "An oil tanker anchored in Muscat, Oman, on Thursday. Iran has throttled traffic through the Strait of Hormuz, through which a fifth of the world\u2019s oil was passing before the war began.",
+    "date": "2026-03-12T23:18:43",
     "category": "My Feeds"
   },
   {
