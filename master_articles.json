@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/13/climate/ncar-breakup-plan-nasa-noaa.html",
+    "feed_name": "NYT",
+    "title": "Trump Administration Readies Plans to Dismantle NCAR Research Lab",
+    "author": "Eric Niiler",
+    "link": "https://www.nytimes.com/2026/03/13/climate/ncar-breakup-plan-nasa-noaa.html",
+    "content": "The National Center for Atmospheric Research in Boulder, Colo.",
+    "date": "2026-03-13T15:06:28",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html",
     "feed_name": "NYT",
     "title": "All 6 Crew Members Killed in U.S. Refueling Plane Crash in Iraq, Military Says",
