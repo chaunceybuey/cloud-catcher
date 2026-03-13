@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/13/us/politics/wall-street-access-pentagon.html",
+    "feed_name": "NYT",
+    "title": "Wall Street Bankers Offered Lucrative Access to Join the Pentagon",
+    "author": "Ana Swanson",
+    "link": "https://www.nytimes.com/2026/03/13/us/politics/wall-street-access-pentagon.html",
+    "content": "The Pentagon recruiting effort offers Wall Street investors the opportunity to manage \u201cmore capital than most investors deploy in their entire careers.\u201d",
+    "date": "2026-03-13T16:39:39",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/13/climate/ncar-breakup-plan-nasa-noaa.html",
     "feed_name": "NYT",
     "title": "Trump Administration Readies Plans to Dismantle NCAR Research Lab",
@@ -197,6 +207,16 @@
     "link": "https://www.nytimes.com/2026/03/13/opinion/culture/white-house-ballroom-trump.html",
     "content": "Trump\u2019s plans for Washington bring to mind what Mussolini did \u2014 and tried to do \u2014 to Rome.",
     "date": "2026-03-13T12:42:53",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/13/style/mardi-gras-indians-new-orleans-super-sunday.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Mardi Gras Indians Keep a 150-Year Tradition Alive in New Orleans",
+    "author": "Shannon Sims and Emily Kask",
+    "link": "https://www.nytimes.com/2026/03/13/style/mardi-gras-indians-new-orleans-super-sunday.html",
+    "content": "Alphonse Robair, a veteran chief of the Black Hatchet tribe in New Orleans\u2019 Ninth Ward who goes by Dowee, putting on his Mardi Gras Indian suit.",
+    "date": "2026-03-13T12:39:11",
     "category": "My Feeds"
   },
   {
