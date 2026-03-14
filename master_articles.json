@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html",
+    "feed_name": "NYT",
+    "title": "How Jeff Bezos Upended The Washington Post",
+    "author": "Benjamin Mullin, Erik Wemple and Katie Robertson",
+    "link": "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html",
+    "content": "The billionaire newspaper owner, dissatisfied by years of losses, wants the newsroom to double productivity with half its budget.",
+    "date": "2026-03-14T14:10:11",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/14/magazine/jb-pritzker-interview.html",
     "feed_name": "NYT - Emailed",
     "title": "How Tragedy, Wealth and Trump Shaped JB Pritzker",
