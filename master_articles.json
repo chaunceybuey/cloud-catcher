@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/14/opinion/iran-war-trump.html",
+    "feed_name": "NYT",
+    "title": "Does Trump Risk Turning America Into a Rogue State?",
+    "author": "Nicholas Kristof",
+    "link": "https://www.nytimes.com/2026/03/14/opinion/iran-war-trump.html",
+    "content": "A residential building in Tehran with its sides torn off.",
+    "date": "2026-03-14T11:42:07",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223949",
     "feed_name": "Texas Tribune",
     "title": "After Monica De La Cruz helps migrant teen in ICE custody, Texas man seeks similar aid for fianc\u00e9e",
@@ -117,6 +127,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17299318/monica-de-la-cruz-gamez-culler-immigration-solutions",
     "content": "Juan Rodriguez lights a candle beside a photograph of his fianc\u00e9e, Johanny Lacruz, whose return he prays for each night after she was detained by U.S. Immigration and Customs Enforcement. Lacruz, a Venezuelan woman who entered the U.S. through the CBP One app, is currently being held at a detention facility in Raymondville.",
     "date": "2026-03-14T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/13/books/margareta-magnusson-dead.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Margareta Magnusson,91, Dies; Wrote of Cleaning Up Before Dying",
+    "author": "Chris Kornelis",
+    "link": "https://www.nytimes.com/2026/03/13/books/margareta-magnusson-dead.html",
+    "content": "Her best-selling book encouraged people to tidy up homes and lives as death approached \u2014 as a gift for loved ones and to revisit memories.",
+    "date": "2026-03-14T02:43:15",
     "category": "My Feeds"
   },
   {
@@ -167,6 +187,16 @@
     "link": "https://www.nytimes.com/2026/03/13/opinion/europe-iran-trump-war.html",
     "content": "European politicians have colluded in their dependency on a rogue America.",
     "date": "2026-03-13T21:48:11",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Why I\u2019m Suing Grammarly",
+    "author": "Julia Angwin",
+    "link": "https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html",
+    "content": "A tech company made a deepfake of my mind. I\u2019m fighting back.",
+    "date": "2026-03-13T21:28:07",
     "category": "My Feeds"
   },
   {
