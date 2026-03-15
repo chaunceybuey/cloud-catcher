@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/14/us/politics/kennedy-center-judge-order.html",
+    "feed_name": "NYT",
+    "title": "Judge Rules Lawmaker Must Be Allowed to Join Kennedy Center Board Meeting",
+    "author": "Zach Montague",
+    "link": "https://www.nytimes.com/2026/03/14/us/politics/kennedy-center-judge-order.html",
+    "content": "The John F. Kennedy Center for the Performing Arts now features President Trump\u2019s name on its exterior.",
+    "date": "2026-03-15T02:46:20",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/14/us/politics/fund-raising-email-trump-ritual.html",
     "feed_name": "NYT",
     "title": "Fund-raising Email Features Trump at Ritual for Soldiers Killed in Iran War",
@@ -257,6 +267,16 @@
     "link": "https://www.nytimes.com/2026/03/14/opinion/iran-war-trump.html",
     "content": "A residential building in Tehran with its sides torn off.",
     "date": "2026-03-14T11:42:07",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/14/opinion/trump-iran-war-midterms-voters.html",
+    "feed_name": "NYT - Emailed",
+    "title": "\u2018This Spells Real Trouble for Republicans\u2019",
+    "author": "E.J. Dionne Jr., Robert Siegel, Kristen Soltis Anderson and Vishakha Darbha",
+    "link": "https://www.nytimes.com/2026/03/14/opinion/trump-iran-war-midterms-voters.html",
+    "content": "The Republican pollster Kristen Soltis Anderson joins E.J. Dionne Jr. and Robert Siegel to discuss Trump\u2019s falling approval rating and what it portends for November.",
+    "date": "2026-03-14T11:40:03",
     "category": "My Feeds"
   },
   {
