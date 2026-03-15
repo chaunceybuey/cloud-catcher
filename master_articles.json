@@ -220,6 +220,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/14/us/john-m-perkins-dead.html",
+    "feed_name": "NYT",
+    "title": "John M. Perkins Dies at 95; Evangelical Minister Espoused Social Justice",
+    "author": "Sarah Pulliam Bailey",
+    "link": "https://www.nytimes.com/2026/03/14/us/john-m-perkins-dead.html",
+    "content": "Mr. Perkins spoke to a crowd in 2018 at an event sponsored by his foundation in Stone Mountain, Ga.",
+    "date": "2026-03-14T19:32:04",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/14/us/politics/marines-iran-war.html",
     "feed_name": "NYT",
     "title": "How a Marine Unit in the Middle East Could Open New Phase of Iran War",
