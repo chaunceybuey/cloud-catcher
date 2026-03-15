@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/15/opinion/columnists/minneapolis-ice-trump-neighbor.html",
+    "feed_name": "NYT",
+    "title": "How Minnesota Beat Trump",
+    "author": "Thomas L. Friedman",
+    "link": "https://www.nytimes.com/2026/03/15/opinion/columnists/minneapolis-ice-trump-neighbor.html",
+    "content": "Moms donating their breast milk to strangers, dads taking someone else\u2019s kids to school: Minnesotans showed a basic human impulse to look out for their neighbors.",
+    "date": "2026-03-15T10:00:22",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html",
     "feed_name": "NYT",
     "title": "F.C.C. Chair Threatens to Revoke Broadcasters\u2019 Licenses Over War Coverage",
