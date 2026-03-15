@@ -110,6 +110,46 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/14/books/jurgen-habermas-dead.html",
+    "feed_name": "NYT",
+    "title": "J\u00fcrgen Habermas Dies at 96; One of Postwar Germany\u2019s Most Influential Thinkers",
+    "author": "Gal Beckerman",
+    "link": "https://www.nytimes.com/2026/03/14/books/jurgen-habermas-dead.html",
+    "content": "Jurgen Habermas at the University of Frankfurt in 1969. He was best known for introducing the idea of a \u201cpublic sphere\u201d in the early 1960s.",
+    "date": "2026-03-14T20:07:31",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/14/climate/trump-bp-gulf-of-mexico-drilling.html",
+    "feed_name": "NYT",
+    "title": "Trump Administration Approves Ultra-Deepwater Oil Drilling Plan",
+    "author": "Lisa Friedman and Rebecca F. Elliott",
+    "link": "https://www.nytimes.com/2026/03/14/climate/trump-bp-gulf-of-mexico-drilling.html",
+    "content": "An oil platform in the Gulf of Mexico in 2024.",
+    "date": "2026-03-14T18:31:52",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/14/business/china-oil-cars.html",
+    "feed_name": "NYT",
+    "title": "China\u2019s Edge in an Oil Shock: Electric Cars and Renewables",
+    "author": "Alexandra Stevenson and Murphy Zhao",
+    "link": "https://www.nytimes.com/2026/03/14/business/china-oil-cars.html",
+    "content": "Chinese demand for refined oil, gasoline and diesel fell last year as many people in China have switched to electric vehicles.",
+    "date": "2026-03-14T17:10:09",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/14/opinion/trump-hegseth.html",
+    "feed_name": "NYT",
+    "title": "Is There Method to Trump\u2019s Madness?",
+    "author": "Jamelle Bouie",
+    "link": "https://www.nytimes.com/2026/03/14/opinion/trump-hegseth.html",
+    "content": "Don\u2019t hold your breath.",
+    "date": "2026-03-14T15:40:07",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/14/arts/design/rothko-in-florence-palazzo-strozzi.html",
     "feed_name": "NYT - Emailed",
     "title": "The City That Inspired Rothko (It\u2019s Not New York)",
@@ -297,6 +337,26 @@
     "link": "https://www.nytimes.com/2026/03/13/dining/rene-redzepi-noma-chef-reaction.html",
     "content": "Ren\u00e9 Redzepi stepped down Wednesday as the chef of Noma, the restaurant that made Copenhagen a global dining destination, after he was accused of past physical abuse.",
     "date": "2026-03-14T00:44:37",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/13/us/politics/trumps-war-alliance-with-israel-is-reshaping-the-middle-east-but-it-carries-risks.html",
+    "feed_name": "NYT",
+    "title": "Trump\u2019s War Alliance With Israel Is Reshaping the Middle East. But It Carries Risks.",
+    "author": "Anton Troianovski",
+    "link": "https://www.nytimes.com/2026/03/13/us/politics/trumps-war-alliance-with-israel-is-reshaping-the-middle-east-but-it-carries-risks.html",
+    "content": "President Donald J. Trump and Prime Minister Benjamin Netanyahu of Israel at Mar-a-Lago in December.",
+    "date": "2026-03-14T00:11:12",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/13/nyregion/doge-depositions-musk-lawsuit.html",
+    "feed_name": "NYT",
+    "title": "After DOGE Deposition Videos Go Viral, Judge Orders Them Taken Down",
+    "author": "Benjamin Weiser and Jennifer Schuessler",
+    "link": "https://www.nytimes.com/2026/03/13/nyregion/doge-depositions-musk-lawsuit.html",
+    "content": "The building in Washington housing the National Endowment for the Humanities, where Elon Musk\u2019s Department of Government Efficiency helped carry out sweeping cuts last year.",
+    "date": "2026-03-13T23:44:43",
     "category": "My Feeds"
   },
   {
