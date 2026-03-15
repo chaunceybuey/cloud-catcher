@@ -450,6 +450,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/13/us/politics/va-union-contract-judge-ruling.html",
+    "feed_name": "NYT",
+    "title": "Judge Orders V.A. to Restore Union Contract With 300,000 Workers",
+    "author": "Zach Montague",
+    "link": "https://www.nytimes.com/2026/03/13/us/politics/va-union-contract-judge-ruling.html",
+    "content": "Doug Collins, the secretary of veterans affairs, on Capitol Hill last year.",
+    "date": "2026-03-13T21:33:13",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/13/opinion/ai-doppelganger-deepfake-grammarly.html",
     "feed_name": "NYT - Emailed",
     "title": "Why I\u2019m Suing Grammarly",
