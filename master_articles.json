@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/14/us/lobbyist-trump-pardon-extortion-charge.html",
+    "feed_name": "NYT",
+    "title": "Trump Pardons: Lobbyist Charged in Extortion Attempt",
+    "author": "Kenneth P. Vogel, William K. Rashbaum and Santul Nerkar",
+    "link": "https://www.nytimes.com/2026/03/14/us/lobbyist-trump-pardon-extortion-charge.html",
+    "content": "Josh Nass, a lawyer and lobbyist who recently represented a former nursing home executive seeking a pardon, was arrested on an extortion charge on Friday.",
+    "date": "2026-03-14T19:41:30",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/14/climate/trump-bp-gulf-of-mexico-drilling.html",
     "feed_name": "NYT",
     "title": "Trump Administration Approves Ultra-Deepwater Oil Drilling Plan",
