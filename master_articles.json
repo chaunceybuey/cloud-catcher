@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/15/books/paul-r-ehrlich-dead.html",
+    "feed_name": "NYT",
+    "title": "Paul R. Ehrlich, Who Alarmed the World With \u2018The Population Bomb,\u2019 Dies at 93",
+    "author": "Keith Schneider",
+    "link": "https://www.nytimes.com/2026/03/15/books/paul-r-ehrlich-dead.html",
+    "content": "\u201cThe Population Bomb\u201d sold three million copies and turned Dr. Ehrlich into one of the global environmental movement\u2019s most recognized leaders.",
+    "date": "2026-03-16T00:02:05",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html",
     "feed_name": "NYT",
     "title": "Entering War\u2019s Third Week, Trump Faces Stark Choices",
