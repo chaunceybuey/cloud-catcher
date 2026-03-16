@@ -410,6 +410,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/14/us/politics/white-house-visitor-center.html",
+    "feed_name": "NYT",
+    "title": "Trump Proposes New White House Visitor Screening Center",
+    "author": "Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/03/14/us/politics/white-house-visitor-center.html",
+    "content": "Construction of a new ballroom continued at the White House this month.",
+    "date": "2026-03-14T19:14:39",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/14/us/politics/marines-iran-war.html",
     "feed_name": "NYT",
     "title": "How a Marine Unit in the Middle East Could Open New Phase of Iran War",
