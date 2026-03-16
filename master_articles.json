@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/16/us/politics/trump-justice-department-investigations.html",
+    "feed_name": "NYT",
+    "title": "Trump\u2019s Effort to Target Rivals Stall as Judges Cut Short Basic Investigative Steps",
+    "author": "Michael S. Schmidt and Alan Feuer",
+    "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-justice-department-investigations.html",
+    "content": "Judge James E. Boasberg ruled on Friday that there was \u201cessentially zero evidence to suspect\u201d that Jerome H. Powell, the Federal Reserve chair, had committed a crime.",
+    "date": "2026-03-16T11:43:51",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18541",
     "feed_name": "Stratechery",
     "title": "Agents Over Bubbles",
