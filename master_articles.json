@@ -850,6 +850,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/13/obituaries/eleanor-abbott-overlooked.html",
+    "feed_name": "NYT",
+    "title": "Overlooked No More: Eleanor Abbott, the Creator of Candy Land",
+    "author": "Sandra A. Miller and Margaret Muirhead",
+    "link": "https://www.nytimes.com/2026/03/13/obituaries/eleanor-abbott-overlooked.html",
+    "content": "She invented the game nearly 80 years ago to distract children who were suffering in the hospital during a polio outbreak.",
+    "date": "2026-03-13T21:43:31",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/13/us/politics/va-union-contract-judge-ruling.html",
     "feed_name": "NYT",
     "title": "Judge Orders V.A. to Restore Union Contract With 300,000 Workers",
