@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html",
+    "feed_name": "NYT",
+    "title": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
+    "author": "David M. Halbfinger, Natan Odenheimer and Fatima AbdulKarim",
+    "link": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html",
+    "content": "Palestinians mourning the deaths of four members of the Odeh family in Tammun, West Bank, on Sunday.",
+    "date": "2026-03-16T04:26:57",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html",
     "feed_name": "NYT",
     "title": "Entering War\u2019s Third Week, Trump Faces Stark Choices",
