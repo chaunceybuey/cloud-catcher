@@ -170,6 +170,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/opinion/mass-shooters-online-radicalization.html",
+    "feed_name": "NYT",
+    "title": "Mass Shooters Are Getting Younger and More Online",
+    "author": "James Densley and Jillian Peterson",
+    "link": "https://www.nytimes.com/2026/03/17/opinion/mass-shooters-online-radicalization.html",
+    "content": "The violence is not a means to an end. It is the end.",
+    "date": "2026-03-17T09:01:18",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html",
     "feed_name": "NYT",
     "title": "Trump\u2019s Dangerous Lack of a Strategy in Iran",
@@ -9915,16 +9925,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/01/elizabeth-warren-democrats-billionaires/685615/",
     "content": "Her critique of moderate Democrats is a mischaracterization of her opponents within the party.",
     "date": "2026-01-15T16:49:11",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/15/well/move/sports-exercise-longevity.html",
-    "feed_name": "NYT - Emailed",
-    "title": "The Best Sports for Longevity",
-    "author": "Simar Bajaj",
-    "link": "https://www.nytimes.com/2026/01/15/well/move/sports-exercise-longevity.html",
-    "content": "All forms of exercise help you live longer, but some activities come with extra benefits.",
-    "date": "2026-01-15T16:25:35",
     "category": "My Feeds"
   }
 ]
