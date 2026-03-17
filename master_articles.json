@@ -180,6 +180,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/16/us/politics/dan-caldwell-pentagon-dni.html",
+    "feed_name": "NYT",
+    "title": "Aide Accused by Hegseth of Leaking Is Hired for Intelligence Job",
+    "author": "Greg Jaffe and Julian E. Barnes",
+    "link": "https://www.nytimes.com/2026/03/16/us/politics/dan-caldwell-pentagon-dni.html",
+    "content": "An investigation turned up no proof that Dan Caldwell or two other Trump administration officials committed any wrongdoing.",
+    "date": "2026-03-17T00:32:38",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-presidents-democrats.html",
+    "feed_name": "NYT",
+    "title": "Trump Claims an Ex-President Confided His Regrets on Iran. But Who?",
+    "author": "Chris Cameron",
+    "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-presidents-democrats.html",
+    "content": "President Trump at the White House on Monday.",
+    "date": "2026-03-17T00:05:24",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html",
     "feed_name": "NYT",
     "title": "Cuba Ready to Accept Outside Investment, Top Official Says",
@@ -9905,26 +9925,6 @@
     "link": "https://www.nytimes.com/2026/01/05/well/health-benefits-sleep-consistency.html",
     "content": "Working this overlooked practice into your sleep routine could have real benefits for your health.",
     "date": "2026-01-11T18:45:50",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/06/dining/five-weeknight-dishes-for-2026.html",
-    "feed_name": "NYT Cooking",
-    "title": "Five Weeknight Dishes for 2026",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/01/06/dining/five-weeknight-dishes-for-2026.html",
-    "content": "Spicy chicken thighs and mushrooms, seared tofu with kimchi and turkey chili start the year with flavor and ease.",
-    "date": "2026-01-06T16:00:03",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/12/30/dining/satisfying-spaghetti-carbonara.html",
-    "feed_name": "NYT Cooking",
-    "title": "Spaghetti Carbonara Recipe for New Year\u2019s Eve",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2025/12/30/dining/satisfying-spaghetti-carbonara.html",
-    "content": "And more festive (but still fast) dinners for the new year.",
-    "date": "2025-12-31T17:04:56",
     "category": "My Feeds"
   }
 ]
