@@ -250,6 +250,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/world/europe/peter-thiel-rome-antichrist-catholics.html",
+    "feed_name": "NYT",
+    "title": "Peter Thiel Fears the Antichrist Is Coming. In Rome, Some Call His View Heresy.",
+    "author": "Elisabetta Povoledo",
+    "link": "https://www.nytimes.com/2026/03/17/world/europe/peter-thiel-rome-antichrist-catholics.html",
+    "content": "Peter Thiel speaking in Cambridge, England, in 2024. He previously delivered lectures on the Antichrist in Paris in January and in San Francisco last year.",
+    "date": "2026-03-17T12:58:53",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/climate/offshore-wind-settlements-trump.html",
     "feed_name": "NYT",
     "title": "Trump Officials Weigh New Plan to Stop Offshore Wind Farms",
@@ -257,6 +267,16 @@
     "link": "https://www.nytimes.com/2026/03/17/climate/offshore-wind-settlements-trump.html",
     "content": "Under proposed settlements, the Interior Department would cancel the leases for two offshore wind projects, while the Justice Department would pay more than $928 million to the developers to reimburse them for their winning bids in lease sales.",
     "date": "2026-03-17T11:39:52",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/briefing/america-alone.html",
+    "feed_name": "NYT",
+    "title": "America, Alone",
+    "author": "Sam Sifton",
+    "link": "https://www.nytimes.com/2026/03/17/briefing/america-alone.html",
+    "content": "We explain why America\u2019s allies aren\u2019t coming to the rescue in the Strait of Hormuz.",
+    "date": "2026-03-17T10:58:40",
     "category": "My Feeds"
   },
   {
@@ -9908,25 +9928,5 @@
     "content": "A new world, hard to grasp and even harder to predict.",
     "date": "2026-02-01T17:20:02",
     "category": "Opinion "
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/31/opinion/trump-midterms-election-security.html",
-    "feed_name": "NYT",
-    "title": "Trump Could Interfere With the Midterm Elections. Here\u2019s How to Help.",
-    "author": "The Editorial Board",
-    "link": "https://www.nytimes.com/2026/01/31/opinion/trump-midterms-election-security.html",
-    "content": "The sanctity of the 2026 vote is indeed under threat.",
-    "date": "2026-01-31T15:43:49",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/31/health/parents-teens-social-life.html",
-    "feed_name": "NYT - Emailed",
-    "title": "A Predictor of a Good Social Life? Your Parents.",
-    "author": "Emily Baumgaertner Nunn",
-    "link": "https://www.nytimes.com/2026/01/31/health/parents-teens-social-life.html",
-    "content": "High social connection in adulthood was more than twice as common among people who had the strongest family ties in youth, compared with those who had the weakest.",
-    "date": "2026-01-31T10:02:34",
-    "category": "My Feeds"
   }
 ]
