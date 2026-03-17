@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/dining/gorgeously-green-kale-sauce-pasta.html",
+    "feed_name": "NYT Cooking",
+    "title": "Gorgeously Green Kale Sauce Pasta",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/17/dining/gorgeously-green-kale-sauce-pasta.html",
+    "content": "Says one reader: \u201cI made this and called it \u2018Shrek pasta.\u2019 Was delicious.\u201d",
+    "date": "2026-03-17T15:00:06",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/climate/offshore-wind-settlements-trump.html",
     "feed_name": "NYT",
     "title": "Trump Officials Weigh New Plan to Stop Offshore Wind Farms",
@@ -9915,16 +9925,6 @@
     "link": "https://www.nytimes.com/2026/01/13/dining/steakhouse-inspired-sheet-pan-gnocchi-with-mushrooms-and-spinach.html",
     "content": "Fast dinners for cold nights (and some longer cooks for slow days).",
     "date": "2026-01-13T16:00:06",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=216361",
-    "feed_name": "Texas Tribune",
-    "title": "Texas 2026 primary elections voter guide: What you need to know",
-    "author": "Mar\u00eda M\u00e9ndez",
-    "link": "https://feeds.texastribune.org/link/16799/17252279/texas-voting-guide-2026",
-    "content": "Polls will be open from 7 a.m. to 7 p.m. Here\u2019s what\u2019s on the ballot and more about voting requirements.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17252279.gif\" width=\"1\" />",
-    "date": "2026-01-13T11:00:00",
     "category": "My Feeds"
   }
 ]
