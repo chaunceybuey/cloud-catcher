@@ -330,6 +330,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/16/opinion/iran-war-us-israel-mideast-transformation.html",
+    "feed_name": "NYT",
+    "title": "A Weakened Iran Won\u2019t Transform the Middle East",
+    "author": "Daniel C. Kurtzer and Aaron David Miller",
+    "link": "https://www.nytimes.com/2026/03/16/opinion/iran-war-us-israel-mideast-transformation.html",
+    "content": "A defeated Iran will not produce the transformation of the Middle East sought by many.",
+    "date": "2026-03-16T15:57:28",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/16/movies/oscars-moments-best-worst.html",
     "feed_name": "NYT - Emailed",
     "title": "Best and Worst Moments From the 2026 Oscars",
@@ -9915,16 +9925,6 @@
     "link": "https://www.nytimes.com/article/how-to-build-muscle-strength.html",
     "content": "Originally published on Sep. 1, 2018",
     "date": "2023-10-27T19:37:04",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2023/09/05/well/toenail-fungus-treatment.html",
-    "feed_name": "NYT - Emailed",
-    "title": "How Do You Treat Toenail Fungus?",
-    "author": "Caroline Hopkins",
-    "link": "https://www.nytimes.com/2023/09/05/well/toenail-fungus-treatment.html",
-    "content": "As unsightly as it is, the infection is usually manageable \u2014 but only with the right treatment. Here\u2019s how to kick it.",
-    "date": "2023-09-05T09:00:48",
     "category": "My Feeds"
   }
 ]
