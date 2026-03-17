@@ -120,6 +120,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224133",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi\u2019s water woes will be center stage at City Council meeting",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17300649/texas-corpus-christi-water-supply-guide-city-council-meeting",
+    "content": "A Corpus Christi water intake plant on the Nueces River on Oct. 20, 2025.",
+    "date": "2026-03-17T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=224129",
+    "feed_name": "Texas Tribune",
+    "title": "Applications for private school vouchers close today. Demand already exceeds available money.",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17300650/texas-vouchers-private-school-deadline",
+    "content": "The Capitol dome is seen from the north side of the complex in Austin on March 18, 2025.",
+    "date": "2026-03-17T10:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html",
     "feed_name": "NYT",
     "title": "Trump Administration Seeks to Remove Cuba\u2019s President From Power During Negotiations",
@@ -127,6 +147,16 @@
     "link": "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html",
     "content": "President Miguel D\u00edaz-Canel of Cuba during a visit to Venezuela last year.",
     "date": "2026-03-17T01:54:40",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/16/opinion/trump-iran-war-support.html",
+    "feed_name": "NYT",
+    "title": "How Trump Destroyed the Aura of the Wartime President",
+    "author": "Michelle Goldberg",
+    "link": "https://www.nytimes.com/2026/03/16/opinion/trump-iran-war-support.html",
+    "content": "Even as he\u2019s wrecking American institutions, he is revealing the limits of his cultural influence.",
+    "date": "2026-03-17T01:15:53",
     "category": "My Feeds"
   },
   {
@@ -9895,36 +9925,6 @@
     "link": "https://www.nytimes.com/2025/12/24/books/review/new-mystery-novels.html",
     "content": "Our columnist on seven terrific mysteries deservedly back in print.",
     "date": "2025-12-24T10:00:09",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/12/23/dining/fancy-mains-without-the-time-commitment.html",
-    "feed_name": "NYT Cooking",
-    "title": "Fancy Mains Without the Time Commitment",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2025/12/23/dining/fancy-mains-without-the-time-commitment.html",
-    "content": "Chile crisp and honey roasted salmon, garlicky beef tenderloin and butter paneer for your holiday table.",
-    "date": "2025-12-23T16:00:02",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/12/16/dining/beef-biryani-green-chile-bean-bake-and-sheet-pan-lemon-turmeric-chicken.html",
-    "feed_name": "NYT Cooking",
-    "title": "Beef Biryani, Green Chile Bean Bake and Sheet-Pan Lemon Turmeric Chicken",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2025/12/16/dining/beef-biryani-green-chile-bean-bake-and-sheet-pan-lemon-turmeric-chicken.html",
-    "content": "Five weeknight recipes that are as simple as they are supremely nourishing and delicious.",
-    "date": "2025-12-17T18:33:43",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/12/11/books/review/best-mystery-novels-2025.html",
-    "feed_name": "NYT - Emailed",
-    "title": "The Best Mystery Novels of 2025",
-    "author": "Sarah Weinman",
-    "link": "https://www.nytimes.com/2025/12/11/books/review/best-mystery-novels-2025.html",
-    "content": "Our columnist on the books that wowed her this year.",
-    "date": "2025-12-11T10:00:05",
     "category": "My Feeds"
   }
 ]
