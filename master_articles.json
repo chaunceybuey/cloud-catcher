@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224230",
+    "feed_name": "Texas Tribune",
+    "title": "Harris County to vote on means for labor groups to represent employees for salary, policy talks",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17301117/texas-harris-county-employees-labor-relations-union",
+    "content": "Harris County Commissioner Rodney Ellis speaks at a press conference at the state Capitol on Feb. 14, 2023.",
+    "date": "2026-03-17T20:26:39",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html",
     "feed_name": "NYT - Emailed",
     "title": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
@@ -9918,14 +9928,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Has anyone successfully paid a Chubb insurance bill online pulling from Cash Plus?  I just tried, and Chubb's payments vendor (One Inc) rejected the transaction.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I'd send a message to Vanguard and let them know, it did seem at one point Vanguard or PNC might have been working with some vendors to fix problems.  The list is shorter than it used to be but a few big names still on it like Comcast, Nationwide, PSE&amp;G, and now Chubb.  None known as IT innovators.  I'll add you to the front page.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=3663\">stan1</a> \u2014 Wed Jan 28, 2026 9:14 pm</p><hr />",
     "date": "2026-01-29T03:14:30",
     "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/27/opinion/ice-minneapolis-immigration-republicans.html",
-    "feed_name": "Douthat",
-    "title": "Immigration Enforcement Is Unavoidably Upsetting. But This Is Something Else.",
-    "link": "https://www.nytimes.com/2026/01/27/opinion/ice-minneapolis-immigration-republicans.html",
-    "content": "Is this really the only way to enforce the law?",
-    "date": "2026-01-28T00:21:24",
-    "category": "Opinion "
   }
 ]
