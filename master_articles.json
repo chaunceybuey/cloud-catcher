@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html",
+    "feed_name": "NYT",
+    "title": "Cuba Ready to Accept Outside Investment, Top Official Says",
+    "author": "Annie Correal, Jack Nicas and Frances Robles",
+    "link": "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html",
+    "content": "The G\u00fcinera neighborhood of Havana on Friday.",
+    "date": "2026-03-17T00:02:03",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/15/arts/brene-brown-adam-grant-podcast.html",
     "feed_name": "NYT - Emailed",
     "title": "Bren\u00e9 Brown and Adam Grant Want to Repair the Discourse",
@@ -9915,16 +9925,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17204694/texas-drag-show-ban-appeal",
     "content": "Drag Queen Brigitte Bandit performs during a Fight The Trump Takeover Rally at the south side steps of the Capitol on Saturday, Aug. 16, 2025.",
     "date": "2025-11-06T21:44:07",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/08/23/books/review/best-spy-novels.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Spy Novels: A Starter Pack",
-    "author": "David McCloskey",
-    "link": "https://www.nytimes.com/2025/08/23/books/review/best-spy-novels.html",
-    "content": "Interested in espionage fiction, but don\u2019t know where to start? Let our expert guide you.",
-    "date": "2025-08-23T11:17:08",
     "category": "My Feeds"
   }
 ]
