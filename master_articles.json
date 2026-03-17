@@ -120,6 +120,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224211",
+    "feed_name": "Texas Tribune",
+    "title": "Ex-Uvalde schools police chief sues CBP, seeking agents\u2019 testimony in his criminal trial",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17301080/cbp-pete-arredondo-lawsuit-uvalde-school-shooting-trial",
+    "content": "Former Uvalde school police Chief Pete Arredondo on June 8.",
+    "date": "2026-03-17T19:18:29",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=224190",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Corpus Christi\u2019s water woes",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17301081/tribcast-corpus-christi-water",
+    "content": "Downtown Corpus Christi in May, 2022.",
+    "date": "2026-03-17T19:04:40",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224180",
     "feed_name": "Texas Tribune",
     "title": "Tuesday is the deadline for candidates to get off the Texas Senate GOP runoff ballot",
@@ -127,6 +147,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17301051/texas-senate-gop-primary-runoff-deadline-remove-name-from-ballot-cornyn-paxton",
     "content": "Texas Attorney General Ken Paxton speaks during a campaign stop in Tyler on Feb. 16, 2026.",
     "date": "2026-03-17T17:55:39",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html",
+    "feed_name": "NYT",
+    "title": "Dozens Dead in Pakistani Airstrike on Kabul",
+    "author": "Safiullah Padshah and Elian Peltier",
+    "link": "https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html",
+    "content": "The airstrike hit a drug rehabilitation center in Kabul, Afghan officials said.",
+    "date": "2026-03-17T17:44:29",
     "category": "My Feeds"
   },
   {
@@ -9896,35 +9926,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/01/trump-retreats-minneapolis-natcons/685776/",
     "content": "The president\u2019s retreat in Minneapolis is a stinging defeat for the national conservatives.",
     "date": "2026-01-27T17:28:12",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/01/maga-second-amendment-minneapolis/685752/",
-    "feed_name": "Chait",
-    "title": "The Logical End Point of Trump Saying He Could Shoot Somebody on Fifth Avenue",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/01/maga-second-amendment-minneapolis/685752/",
-    "content": "His administration is trying to distort the reality of Alex Pretti\u2019s killing.",
-    "date": "2026-01-25T18:30:51",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/24/opinion/trump-carney-china-rupture.html",
-    "feed_name": "Douthat",
-    "title": "The Binary Logic of the Carney Doctrine",
-    "link": "https://www.nytimes.com/2026/01/24/opinion/trump-carney-china-rupture.html",
-    "content": "Can middle powers like Canada exist between America and China?",
-    "date": "2026-01-24T19:39:48",
-    "category": "Opinion "
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/24/well/move/muscle-strength-versus-mass.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Forget About Muscle Mass as You Age, Focus on Strength",
-    "author": "Hilary Achauer",
-    "link": "https://www.nytimes.com/2026/01/24/well/move/muscle-strength-versus-mass.html",
-    "content": "When it comes to longevity, bigger is not always better. Aim for everyday strength.",
-    "date": "2026-01-24T10:00:13",
     "category": "My Feeds"
   }
 ]
