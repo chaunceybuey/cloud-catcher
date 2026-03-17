@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
+    "author": "Julian E. Barnes, Robert Draper and Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
+    "content": "\u201cI cannot in good conscience support the ongoing war in Iran,\u201d Joe Kent, the director of the National Counterterrorism Center, wrote in a letter to President Trump that he posted Tuesday.",
+    "date": "2026-03-17T17:05:41",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/dining/gorgeously-green-kale-sauce-pasta.html",
     "feed_name": "NYT Cooking",
     "title": "Gorgeously Green Kale Sauce Pasta",
@@ -217,6 +227,16 @@
     "link": "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html",
     "content": "With Transportation Security Administration officers missing paychecks as the partial government shutdown enters its fifth week, long lines are beginning to form at major airports.",
     "date": "2026-03-17T01:37:58",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-war.html",
+    "feed_name": "NYT",
+    "title": "What Are Trump\u2019s Positions on Iran? They Can Change by the Sentence.",
+    "author": "Zolan Kanno-Youngs",
+    "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-war.html",
+    "content": "President Trump leaving the White House last month. The conflict in Iran has come with consequences including a rising death toll and soaring gas prices.",
+    "date": "2026-03-17T01:36:46",
     "category": "My Feeds"
   },
   {
@@ -9905,26 +9925,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/01/gavin-newsom-record-democrat-california/685423/",
     "content": "The California governor\u2019s pivot to the center may be too late for 2028.",
     "date": "2026-01-22T13:53:11",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/22/well/aging-tests-longevity.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Are You Aging Well? 4 Simple Tests to Find Out.",
-    "author": "Dana G. Smith",
-    "link": "https://www.nytimes.com/2026/01/22/well/aging-tests-longevity.html",
-    "content": "They can\u2019t guarantee future health, but they can tell you the trajectory you\u2019re on.",
-    "date": "2026-01-22T10:00:11",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/20/dining/sticky-miso-salmon-lemony-chicken-and-a-brothy-thai-curry.html",
-    "feed_name": "NYT Cooking",
-    "title": "Sticky Miso Salmon, Lemony Chicken and a Brothy Thai Curry",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/01/20/dining/sticky-miso-salmon-lemony-chicken-and-a-brothy-thai-curry.html",
-    "content": "Quick and cozy weeknight meals to help you stick to (or revive) your healthy eating goals.",
-    "date": "2026-01-21T16:58:39",
     "category": "My Feeds"
   }
 ]
