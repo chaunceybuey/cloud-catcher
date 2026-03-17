@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
+    "author": "Julian E. Barnes, Robert Draper and Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html",
+    "content": "\u201cI cannot in good conscience support the ongoing war in Iran,\u201d Joe Kent, the director of the National Counterterrorism Center, wrote in a letter to President Trump that he posted Tuesday.",
+    "date": "2026-03-17T19:38:28",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224211",
     "feed_name": "Texas Tribune",
     "title": "Ex-Uvalde schools police chief sues CBP, seeking agents\u2019 testimony in his criminal trial",
@@ -357,6 +367,16 @@
     "link": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
     "content": "A meeting of the Advisory Committee on Immunization Practices in Atlanta in December.",
     "date": "2026-03-16T22:00:11",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/16/us/politics/trump-news-conference-kennedy-center-iran.html",
+    "feed_name": "NYT",
+    "title": "War Isn\u2019t the Only Thing on Trump\u2019s Mind",
+    "author": "Erica L. Green",
+    "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-news-conference-kennedy-center-iran.html",
+    "content": "President Trump on Monday at the White House, where he went on a series of tangents that were notable even for a president who boasts about his oratorical \u201cweave.\u201d",
+    "date": "2026-03-16T21:41:39",
     "category": "My Feeds"
   },
   {
@@ -9907,25 +9927,5 @@
     "content": "Is this really the only way to enforce the law?",
     "date": "2026-01-28T00:21:24",
     "category": "Opinion "
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/27/well/food-diet-nutrition-cancer-risk.html",
-    "feed_name": "NYT - Emailed",
-    "title": "These Foods Might Lower Cancer Risk",
-    "author": "Nina Agrawal",
-    "link": "https://www.nytimes.com/2026/01/27/well/food-diet-nutrition-cancer-risk.html",
-    "content": "Decades of research suggests that your diet can influence the risk of various cancers. Here\u2019s what we know.",
-    "date": "2026-01-27T17:32:10",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/01/trump-retreats-minneapolis-natcons/685776/",
-    "feed_name": "Chait",
-    "title": "Donald Trump Can Be Stopped",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/01/trump-retreats-minneapolis-natcons/685776/",
-    "content": "The president\u2019s retreat in Minneapolis is a stinging defeat for the national conservatives.",
-    "date": "2026-01-27T17:28:12",
-    "category": "My Feeds"
   }
 ]
