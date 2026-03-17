@@ -190,6 +190,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
+    "author": "Erin Griffith",
+    "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
+    "content": "Self-driving cars have introduced novel and sometimes worrisome quirks to car travel.",
+    "date": "2026-03-17T17:22:57",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
     "feed_name": "NYT - Emailed",
     "title": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
@@ -9917,16 +9927,6 @@
     "link": "https://www.nytimes.com/2026/01/31/health/parents-teens-social-life.html",
     "content": "High social connection in adulthood was more than twice as common among people who had the strongest family ties in youth, compared with those who had the weakest.",
     "date": "2026-01-31T10:02:34",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/01/katie-miller-constitution-liberalism/685814/",
-    "feed_name": "Chait",
-    "title": "Katie Miller Makes a Classic Error",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/01/katie-miller-constitution-liberalism/685814/",
-    "content": "Does she oppose Enlightenment virtues, as her X posts suggest? Or is she just confused?",
-    "date": "2026-01-30T17:16:25",
     "category": "My Feeds"
   }
 ]
