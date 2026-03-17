@@ -140,6 +140,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html",
+    "feed_name": "NYT",
+    "title": "Trump\u2019s Dangerous Lack of a Strategy in Iran",
+    "author": "The Editorial Board",
+    "link": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html",
+    "content": "The early reality of the Iran war is not cooperating with President Trump\u2019s bluster.",
+    "date": "2026-03-17T06:28:22",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html",
     "feed_name": "NYT",
     "title": "Trump Administration Seeks to Remove Cuba\u2019s President From Power During Negotiations",
@@ -9915,16 +9925,6 @@
     "link": "https://www.nytimes.com/2025/12/30/dining/satisfying-spaghetti-carbonara.html",
     "content": "And more festive (but still fast) dinners for the new year.",
     "date": "2025-12-31T17:04:56",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/12/24/books/review/new-mystery-novels.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Classic Mystery Novels, Finally Back in Print",
-    "author": "Sarah Weinman",
-    "link": "https://www.nytimes.com/2025/12/24/books/review/new-mystery-novels.html",
-    "content": "Our columnist on seven terrific mysteries deservedly back in print.",
-    "date": "2025-12-24T10:00:09",
     "category": "My Feeds"
   }
 ]
