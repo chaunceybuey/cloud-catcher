@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224298",
+    "feed_name": "Texas Tribune",
+    "title": "136 measles cases reported in Texas so far this year, most of them in federal detention centers",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17301173/texas-measles-hudspeth-county-health-department",
+    "content": "A measles, mumps and rubella vaccine.",
+    "date": "2026-03-17T22:56:59",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224278",
     "feed_name": "Texas Tribune",
     "title": "Dallas County GOP will agree to  countywide voting sites after primary election chaos",
@@ -187,6 +197,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17301081/tribcast-corpus-christi-water",
     "content": "Downtown Corpus Christi in May, 2022.",
     "date": "2026-03-17T19:04:40",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html",
+    "feed_name": "NYT",
+    "title": "Inside the Supply Line Delivering American Guns to Mexican Cartels",
+    "author": "Paulina Villegas and Paul Ratje",
+    "link": "https://www.nytimes.com/2026/03/17/world/americas/mexico-us-guns-trafficking-cartels.html",
+    "content": "A surge of weapons is flowing from the U.S. to Mexico. These firearms \u2014 sourced from gun shops, shows, websites and apps \u2014 are funneled across the border to fuel the country\u2019s most violent crimes.",
+    "date": "2026-03-17T19:02:25",
     "category": "My Feeds"
   },
   {
@@ -9910,24 +9930,5 @@
     "content": "Tips from experts who know dark winter days \u2014 and design \u2014 like no others.",
     "date": "2026-02-04T16:26:45",
     "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/article/how-to-make-friends-as-an-adult.html",
-    "feed_name": "NYT - Emailed",
-    "title": "How to Make Friends as an Adult: 11 Ways to Build Lasting Connections",
-    "author": "Laura Regensdorf",
-    "link": "https://www.nytimes.com/article/how-to-make-friends-as-an-adult.html",
-    "content": "A practical guide for expanding your circle, with advice from sociable people.",
-    "date": "2026-02-03T22:35:26",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/03/opinion/vice-liberalism-addiction-gambling-drugs.html",
-    "feed_name": "Douthat",
-    "title": "Vice and the Crisis of Liberalism",
-    "link": "https://www.nytimes.com/2026/02/03/opinion/vice-liberalism-addiction-gambling-drugs.html",
-    "content": "Is there a political prescription for our era of addiction?",
-    "date": "2026-02-03T22:15:07",
-    "category": "Opinion "
   }
 ]
