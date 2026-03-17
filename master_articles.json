@@ -320,6 +320,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/16/us/politics/trump-deportations-appeals-ruling.html",
+    "feed_name": "NYT",
+    "title": "Appeals Court Allows Trump Administration\u2019s Third-Country Deportations, for Now",
+    "author": "Mattathias Schwartz",
+    "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-deportations-appeals-ruling.html",
+    "content": "Migrants landing in Costa Rica last year after being deported from the United States.",
+    "date": "2026-03-16T16:27:24",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/16/opinion/kash-patel-fbi-iran.html",
     "feed_name": "NYT",
     "title": "I Was an F.B.I. Agent for 25 Years. Kash Patel Is Playing a Dangerous Game.",
@@ -9915,16 +9925,6 @@
     "link": "https://www.nytimes.com/2025/03/26/well/mind/retirement-brain-mental-health-tips.html",
     "content": "It\u2019s challenging to stay mentally sharp and healthy through the major transition. Careful planning is key.",
     "date": "2025-03-26T09:00:06",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/02/27/well/family/declutter-hoarding-sentimental.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Too Sentimental to Declutter? Start Here.",
-    "author": "Christina Caron",
-    "link": "https://www.nytimes.com/2025/02/27/well/family/declutter-hoarding-sentimental.html",
-    "content": "Lee Shuer holds a mushroom trinket autographed by a psychedelics expert, one of the sentimental items that he plans to keep. In his quest to declutter, he has faced tough decisions about objects that he has held onto for years. \u201cSome day I\u2019ll display this, or use it in an art project, or sell it, or gift it,\u201d he would say to himself. But that day rarely came.",
-    "date": "2025-03-07T13:29:43",
     "category": "My Feeds"
   }
 ]
