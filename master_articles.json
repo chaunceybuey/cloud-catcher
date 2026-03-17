@@ -120,6 +120,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224278",
+    "feed_name": "Texas Tribune",
+    "title": "Dallas County GOP will agree to  countywide voting sites after primary election chaos",
+    "author": "By Natalia Contreras,\u00a0Votebeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17301165/dallas-county-republican-party-voting-sites-primary-runoff",
+    "content": "Voters line up at the Oak Lawn Branch Library voting center on primary election day in Dallas on March 3, 2026. The voting center judge on location said that between 7 a.m. and 11:30 a.m., the center had 113 Democratic ballots submitted and 119 Democratic voters turned away because they had been assigned to another voting center.",
+    "date": "2026-03-17T22:05:02",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=224236",
+    "feed_name": "Texas Tribune",
+    "title": "Jace Yarbrough is GOP nominee in North Texas congressional district after second-place finisher bows out",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17301166/texas-32nd-congressional-district-jace-yarbrough-ryan-binkley-gop-primary",
+    "content": "Jace Yarbrough is the GOP nominee for the Republican-leaning 32nd Congressional District in North Texas.",
+    "date": "2026-03-17T21:50:59",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/03/joe-kent-resignation-trump/686428/",
     "feed_name": "Chait",
     "title": "Joe Kent\u2019s Secret",
@@ -317,6 +337,16 @@
     "link": "https://www.nytimes.com/2026/03/17/opinion/mass-shooters-online-radicalization.html",
     "content": "The violence is not a means to an end. It is the end.",
     "date": "2026-03-17T09:01:18",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/realestate/kingston-new-york-pike-plan-sidewalks-time-capsule.html",
+    "feed_name": "NYT - Emailed",
+    "title": "The Removal of Kingston\u2019s Sidewalk Canopies Reveals a Time Capsule",
+    "author": "Alexandra Marvar",
+    "link": "https://www.nytimes.com/2026/03/17/realestate/kingston-new-york-pike-plan-sidewalks-time-capsule.html",
+    "content": "Dozens of buildings in Kingston, N.Y., have had parts of their facades torn off as part of a community-led refurbishment effort.",
+    "date": "2026-03-17T09:00:48",
     "category": "My Feeds"
   },
   {
@@ -9898,35 +9928,6 @@
     "link": "https://www.nytimes.com/2026/02/03/opinion/vice-liberalism-addiction-gambling-drugs.html",
     "content": "Is there a political prescription for our era of addiction?",
     "date": "2026-02-03T22:15:07",
-    "category": "Opinion "
-  },
-  {
-    "id": "https://www.nytimes.com/2025/12/16/magazine/jeffrey-epstein-money-scams-investigation.html",
-    "feed_name": "NYT - Emailed",
-    "title": "The Untold Story of How Jeffrey Epstein Got Rich",
-    "author": "David Enrich, Steve Eder, Jessica Silver-Greenberg and Matthew Goldstein",
-    "link": "https://www.nytimes.com/2025/12/16/magazine/jeffrey-epstein-money-scams-investigation.html",
-    "content": "For years, rumors swirled about where his wealth came from. A Times investigation reveals the truth of how a college dropout clawed his way to the pinnacle of American finance and society.",
-    "date": "2026-02-03T19:43:18",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/02/trump-spy-shiek-corruption-emirates/685859/",
-    "feed_name": "Chait",
-    "title": "Trump\u2019s Crypto Defenses Aren\u2019t Reassuring",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/02/trump-spy-shiek-corruption-emirates/685859/",
-    "content": "An Abu Dhabi royal seems to have gotten what he paid for, according to a <em>Wall Street Journal </em>report.",
-    "date": "2026-02-03T18:51:15",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html",
-    "feed_name": "Douthat",
-    "title": "Pay More Attention to A.I.",
-    "link": "https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html",
-    "content": "A new world, hard to grasp and even harder to predict.",
-    "date": "2026-02-01T17:20:02",
     "category": "Opinion "
   }
 ]
