@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/climate/offshore-wind-settlements-trump.html",
+    "feed_name": "NYT",
+    "title": "Trump Officials Weigh New Plan to Stop Offshore Wind Farms",
+    "author": "Maxine Joselow",
+    "link": "https://www.nytimes.com/2026/03/17/climate/offshore-wind-settlements-trump.html",
+    "content": "Under proposed settlements, the Interior Department would cancel the leases for two offshore wind projects, while the Justice Department would pay more than $928 million to the developers to reimburse them for their winning bids in lease sales.",
+    "date": "2026-03-17T11:39:52",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18549",
     "feed_name": "Stratechery",
     "title": "An Interview with Nvidia CEO Jensen Huang About Accelerated Computing",
@@ -9915,16 +9925,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17252279/texas-voting-guide-2026",
     "content": "Polls will be open from 7 a.m. to 7 p.m. Here\u2019s what\u2019s on the ballot and more about voting requirements.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17252279.gif\" width=\"1\" />",
     "date": "2026-01-13T11:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/05/well/health-benefits-sleep-consistency.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Why Sleeping on a Consistent Schedule Is Important For Health",
-    "author": "Caroline Hopkins Legaspi",
-    "link": "https://www.nytimes.com/2026/01/05/well/health-benefits-sleep-consistency.html",
-    "content": "Working this overlooked practice into your sleep routine could have real benefits for your health.",
-    "date": "2026-01-11T18:45:50",
     "category": "My Feeds"
   }
 ]
