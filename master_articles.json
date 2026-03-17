@@ -110,6 +110,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html",
+    "feed_name": "NYT",
+    "title": "Trump Administration Seeks to Remove Cuba\u2019s President From Power During Negotiations",
+    "author": "Frances Robles, Edward Wong and Annie Correal",
+    "link": "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html",
+    "content": "President Miguel D\u00edaz-Canel of Cuba during a visit to Venezuela last year.",
+    "date": "2026-03-17T01:54:40",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224143",
     "feed_name": "Texas Tribune",
     "title": "Rep. Jasmine Crockett confirms security team member killed by Dallas police in standoff",
@@ -137,6 +147,16 @@
     "link": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
     "content": "A meeting of the Advisory Committee on Immunization Practices in Atlanta in December.",
     "date": "2026-03-16T22:00:11",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/16/us/politics/uss-ford-fire-iran-venezuela.html",
+    "feed_name": "NYT",
+    "title": "Fire on the U.S. Aircraft Carrier Gerald R. Ford Raged for Hours, Sailors Say",
+    "author": "Helene Cooper",
+    "link": "https://www.nytimes.com/2026/03/16/us/politics/uss-ford-fire-iran-venezuela.html",
+    "content": "The crew on the U.S.S. Gerald R. Ford have been told that their deployment will likely be extended into May, which would put them at an entire year at sea.",
+    "date": "2026-03-16T21:33:24",
     "category": "My Feeds"
   },
   {
@@ -177,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/03/16/health/zambia-hiv-aid-minerals-trump.html",
     "content": "Health workers unloaded medicines at the Chipulukusu Health Center in northern Zambia earlier this month.",
     "date": "2026-03-16T20:07:20",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/16/climate/god-squad-whales-gulf-oil.html",
+    "feed_name": "NYT",
+    "title": "Administration to Convene \u2018God Squad\u2019 With Power to Override Environmental Law",
+    "author": "Catrin Einhorn",
+    "link": "https://www.nytimes.com/2026/03/16/climate/god-squad-whales-gulf-oil.html",
+    "content": "Interior Secretary Doug Burgum called a meeting of the so-called God Squad. It will be the first gathering of the panel in three decades.",
+    "date": "2026-03-16T20:04:59",
     "category": "My Feeds"
   },
   {
@@ -9895,36 +9925,6 @@
     "link": "https://www.nytimes.com/2025/08/23/books/review/best-spy-novels.html",
     "content": "Interested in espionage fiction, but don\u2019t know where to start? Let our expert guide you.",
     "date": "2025-08-23T11:17:08",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/04/05/well/move/agility-workout-aging.html",
-    "feed_name": "NYT - Emailed",
-    "title": "The 20-Minute Agility Workout",
-    "author": "Amanda Loudin and Theodore Tae",
-    "link": "https://www.nytimes.com/2025/04/05/well/move/agility-workout-aging.html",
-    "content": "Training yourself to pivot and weave can help you feel more stable. These six exercises can help.",
-    "date": "2025-04-11T18:52:11",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/03/28/well/bad-habits-back-spine-surgeons.html",
-    "feed_name": "NYT - Emailed",
-    "title": "The Worst Habits for Your Back, According to Spine Surgeons",
-    "author": "Jancee Dunn",
-    "link": "https://www.nytimes.com/2025/03/28/well/bad-habits-back-spine-surgeons.html",
-    "content": "Avoid a world of hurt with these four tips.",
-    "date": "2025-03-31T10:55:51",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2025/03/26/well/mind/retirement-brain-mental-health-tips.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Retirement Can Harm Your Brain. Here\u2019s How to Keep It Healthy.",
-    "author": "Mohana Ravindranath",
-    "link": "https://www.nytimes.com/2025/03/26/well/mind/retirement-brain-mental-health-tips.html",
-    "content": "It\u2019s challenging to stay mentally sharp and healthy through the major transition. Careful planning is key.",
-    "date": "2025-03-26T09:00:06",
     "category": "My Feeds"
   }
 ]
