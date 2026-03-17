@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224180",
+    "feed_name": "Texas Tribune",
+    "title": "Tuesday is the deadline for candidates to get off the Texas Senate GOP runoff ballot",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17301051/texas-senate-gop-primary-runoff-deadline-remove-name-from-ballot-cornyn-paxton",
+    "content": "Texas Attorney General Ken Paxton speaks during a campaign stop in Tyler on Feb. 16, 2026.",
+    "date": "2026-03-17T17:55:39",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
     "feed_name": "NYT - Emailed",
     "title": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
@@ -127,6 +137,16 @@
     "link": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
     "content": "\u201cI cannot in good conscience support the ongoing war in Iran,\u201d Joe Kent, the director of the National Counterterrorism Center, wrote in a letter to President Trump that he posted Tuesday.",
     "date": "2026-03-17T17:05:41",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/opinion/scranton-biden-2026-midterms.html",
+    "feed_name": "NYT - Emailed",
+    "title": "The Scrappy Mayor Showing Democrats How It\u2019s Done",
+    "author": "Michelle Cottle",
+    "link": "https://www.nytimes.com/2026/03/17/opinion/scranton-biden-2026-midterms.html",
+    "content": "Democrats can\u2019t just sit back and expect the prevailing political winds to produce a blue wave.",
+    "date": "2026-03-17T16:18:42",
     "category": "My Feeds"
   },
   {
@@ -9905,26 +9925,6 @@
     "link": "https://www.nytimes.com/2026/01/24/well/move/muscle-strength-versus-mass.html",
     "content": "When it comes to longevity, bigger is not always better. Aim for everyday strength.",
     "date": "2026-01-24T10:00:13",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/01/ice-conservatives-minnesota-dhs-protests/685705/",
-    "feed_name": "Chait",
-    "title": "Why Conservatives Defend ICE",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/01/ice-conservatives-minnesota-dhs-protests/685705/",
-    "content": "Republicans deplore the mayhem in Minnesota\u2014but blame protesters and Democrats for it.",
-    "date": "2026-01-22T18:57:30",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/01/gavin-newsom-record-democrat-california/685423/",
-    "feed_name": "Chait",
-    "title": "Gavin Newsom\u2019s Record Is a Problem",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/01/gavin-newsom-record-democrat-california/685423/",
-    "content": "The California governor\u2019s pivot to the center may be too late for 2028.",
-    "date": "2026-01-22T13:53:11",
     "category": "My Feeds"
   }
 ]
