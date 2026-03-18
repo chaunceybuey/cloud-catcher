@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/16/us/santa-barbara-oil-pipeline-trump.html",
+    "feed_name": "NYT",
+    "title": "Oil Begins Flowing Through California Pipeline Under Trump Order",
+    "author": "Soumya Karlamangla",
+    "link": "https://www.nytimes.com/2026/03/16/us/santa-barbara-oil-pipeline-trump.html",
+    "content": "A leaky pipeline was the source of a spill, seen in this 2015 file photo, that polluted Refugio State Beach, north of Goleta, Calif., and killed hundreds of birds and marine mammals. The pipeline\u2019s new owner, Sable Offshore, says the problems have been fixed and that it has restarted the flow of oil at the direction of the Trump administration.",
+    "date": "2026-03-17T22:53:53",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224278",
     "feed_name": "Texas Tribune",
     "title": "Dallas County GOP will agree to  countywide voting sites after primary election chaos",
@@ -197,6 +207,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17301117/texas-harris-county-employees-labor-relations-union",
     "content": "Harris County Commissioner Rodney Ellis speaks at a press conference at the state Capitol on Feb. 14, 2023.",
     "date": "2026-03-17T20:26:39",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/nyregion/eric-adams-sexual-assault-lawsuit.html",
+    "feed_name": "NYT",
+    "title": "Mamdani Moves to End City\u2019s Defense of Adams in Sexual Assault Lawsuit",
+    "author": "Dana Rubinstein and William K. Rashbaum",
+    "link": "https://www.nytimes.com/2026/03/17/nyregion/eric-adams-sexual-assault-lawsuit.html",
+    "content": "A former employee of New York City\u2019s transit police bureau filed the lawsuit against former Mayor Eric Adams in 2024. He denies the allegations.",
+    "date": "2026-03-17T20:03:30",
     "category": "My Feeds"
   },
   {
@@ -417,6 +437,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17300650/texas-vouchers-private-school-deadline",
     "content": "The Capitol dome is seen from the north side of the complex in Austin on March 18, 2025.",
     "date": "2026-03-17T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/cluster-munitions-iran.html",
+    "feed_name": "NYT",
+    "title": "Admiral\u2019s Comments Undercut Pentagon\u2019s Cluster Munition Policy",
+    "author": "John Ismay",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/cluster-munitions-iran.html",
+    "content": "Adm. Brad Cooper, the leader of U.S. Central Command, in November.",
+    "date": "2026-03-17T09:03:47",
     "category": "My Feeds"
   },
   {
@@ -9900,35 +9930,6 @@
     "link": "https://www.nytimes.com/2026/02/10/well/lyubomirsky-reis-how-to-feel-loved.html",
     "content": "A new book, \u201cHow to Feel Loved,\u201d links our social skills to how content we are.",
     "date": "2026-02-11T17:18:52",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/10/dining/doing-the-dishes-is-romantic.html",
-    "feed_name": "NYT Cooking",
-    "title": "Five One-Pan Recipes for Valentine\u2019s Day Dinner",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/02/10/dining/doing-the-dishes-is-romantic.html",
-    "content": "But not fun. Which is why I have five delightful, one-pan dinner options for your Valentine\u2019s Day (or any weeknight).",
-    "date": "2026-02-11T16:09:05",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/10/opinion/ai-politics-left-progressive.html",
-    "feed_name": "Douthat",
-    "title": "A.I. May Put Progressives to the Test",
-    "link": "https://www.nytimes.com/2026/02/10/opinion/ai-politics-left-progressive.html",
-    "content": "The left needs a sharper A.I. politics.",
-    "date": "2026-02-11T01:04:34",
-    "category": "Opinion "
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Seven Pages of a Sealed Watergate File Sat Undiscovered. Until Now.",
-    "author": "James Rosen",
-    "link": "https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html",
-    "content": "Seven pages of grand jury testimony from Richard Nixon were deemed so incendiary that they were hidden from the public for years.",
-    "date": "2026-02-10T20:01:02",
     "category": "My Feeds"
   }
 ]
