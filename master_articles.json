@@ -160,6 +160,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html",
+    "feed_name": "NYT",
+    "title": "How TrumpRx Drug Prices Compare With Those in Other Countries",
+    "author": "Rebecca Robbins",
+    "link": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html",
+    "content": "President Trump unveiled the TrumpRx website last month. Visitors to the site are greeted by a promise: \u201cFind the world\u2019s lowest prices on prescription drugs.\u201d",
+    "date": "2026-03-18T04:01:07",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224331",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi water emergency may be just two months away, city leaders say",
@@ -9923,15 +9933,5 @@
     "content": "Iran\u2019s extensive military abilities and network of regional proxies could draw the United States into a prolonged conflict.",
     "date": "2026-02-21T11:30:02",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8693198#p8693198",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "Vulcan",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8693198#p8693198",
-    "content": "Anyone else had transaction descriptions go away for deposits/withdrawals after Feb. 2 in \"My Cash Plus Overview\"?<br /><br />They show while pending but get replaced by \"\u2014\" once complete.<br /><br /><img alt=\"Image\" class=\"postimage\" src=\"https://i.ibb.co/SHzjWMB/image.png\" /><br /><br />I finally called Vanguard, and the phone rep. wasn't exactly sure what's going on with Cash Plus, but suggested I look for descriptions under the \"Activity\" tab in the Dashboard. The descriptions for withdrawals (but not deposits) are indeed available there, but that is too cumbersome of an option as it requires additional clicks to get there and set up appropriate filtering.<br /><br />If this is not resolved in another week or two I will likely move our cash flow to Fidelity CMA.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=52827\">Vulcan</a> \u2014 Fri Feb 20, 2026 9:43 pm</p><hr />",
-    "date": "2026-02-21T03:43:49",
-    "category": "My Feeds"
   }
 ]
