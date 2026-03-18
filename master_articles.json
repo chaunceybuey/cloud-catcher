@@ -6200,6 +6200,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/world/africa/ethiopia-eritrea-war-tensions.html",
+    "feed_name": "NYT",
+    "title": "Ethiopia\u2019s Demand for a Port Drives Fear of New War With Eritrea",
+    "author": "Matthew Mpoke Bigg",
+    "link": "https://www.nytimes.com/2026/03/04/world/africa/ethiopia-eritrea-war-tensions.html",
+    "content": "Marking the 130th anniversary of the Battle of Adwa in Addis Ababa, Ethiopia, on Monday.",
+    "date": "2026-03-04T23:27:20",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/04/us/politics/gavin-newsom-israel.html",
     "feed_name": "NYT",
     "title": "Newsom Compares Israel to \u2018Apartheid State\u2019",
@@ -9922,16 +9932,6 @@
     "link": "https://www.nytimes.com/2026/02/18/well/weight-loss-drugs-retatrutide.html",
     "content": "Some patients in a clinical trial of one new drug lost so much weight that they became concerned and dropped out.",
     "date": "2026-02-18T14:18:59",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://stratechery.com/?p=18337",
-    "feed_name": "Stratechery",
-    "title": "Shopify Earnings, Shopify\u2019s AI Advantages",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/shopify-earnings-shopifys-ai-advantages/",
-    "content": "<p>Shopify is poised to be one of the biggest winners from AI; it would behoove investors to actually understand the businesses they are selling.</p>",
-    "date": "2026-02-18T11:00:00",
     "category": "My Feeds"
   }
 ]
