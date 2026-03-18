@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224331",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi water emergency may be just two months away, city leaders say",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17301246/texas-corpus-christi-water-emergency-city-council-meeting",
+    "content": "The Corpus Christi City Council meets to discuss the city&#039;s depleting water supplies on March 17, 2026.",
+    "date": "2026-03-18T02:54:16",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/nyregion/judge-quraishi-new-jersey-attorneys-office.html",
     "feed_name": "NYT",
     "title": "Judge Ejects Federal Prosecutor From Court and Orders Bosses to Testify",
@@ -9920,16 +9930,6 @@
     "link": "https://www.nytimes.com/2026/02/13/your-money/monthly-bills-phone-internet-streaming-subscriptions.html",
     "content": "It\u2019s cold outside \u2014 and a fine time to look over your bills and see where you can save.",
     "date": "2026-02-13T14:00:15",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/12/us/elliq-ai-robot-senior-companion.html",
-    "feed_name": "NYT - Emailed",
-    "title": "To Stay in Her Home, She Let In an A.I. Robot",
-    "author": "Eli Saslow",
-    "link": "https://www.nytimes.com/2026/02/12/us/elliq-ai-robot-senior-companion.html",
-    "content": "At 85, Jan Worrell lived alone on a remote corner of the Washington coast. Could ElliQ become her companion?",
-    "date": "2026-02-12T17:57:29",
     "category": "My Feeds"
   }
 ]
