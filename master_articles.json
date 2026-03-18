@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/trump-obama-iran-nuclear.html",
+    "feed_name": "NYT",
+    "title": "The Alternative to Obama\u2019s Nuclear Deal Was War. Why Did Trump Tear It Up?",
+    "author": "Suzanne Maloney",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/trump-obama-iran-nuclear.html",
+    "content": "There\u2019s little evidence that the better deal that many opponents demanded was ever within reach.",
+    "date": "2026-03-18T20:53:43",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html",
     "feed_name": "NYT",
     "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years",
@@ -9925,15 +9935,5 @@
     "content": "We need stories that are more adult than Y.A. and less explicit than HBO.",
     "date": "2026-02-24T23:16:11",
     "category": "Opinion "
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8696916#p8696916",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "urban",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8696916#p8696916",
-    "content": "retiringwhen,<br /><br />Thank you for the explanation.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=174169\">urban</a> \u2014 Tue Feb 24, 2026 11:21 am</p><hr />",
-    "date": "2026-02-24T17:21:59",
-    "category": "My Feeds"
   }
 ]
