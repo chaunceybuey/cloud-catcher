@@ -120,6 +120,36 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224271",
+    "feed_name": "Texas Tribune",
+    "title": "Here\u2019s how to vote in Texas\u2019 May 26 primary runoff elections",
+    "author": "Mar\u00eda M\u00e9ndez",
+    "link": "https://feeds.texastribune.org/link/16799/17301395/texas-primary-runoff-elections-2026",
+    "content": "A volunteer and a voter exit and enter the polling location at Westbury Baptist Church during primary election day on Tuesday, March 3, 2026, in Houston.",
+    "date": "2026-03-18T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=223714",
+    "feed_name": "Texas Tribune",
+    "title": "What Texans need to know about upcoming SNAP restrictions",
+    "author": "Riddhi Bora and Dan Keemahill",
+    "link": "https://feeds.texastribune.org/link/16799/17301396/texas-food-stamps-snap-lone-star-card-sweet-drinks-candy",
+    "content": "Candy bars and other sweets are displayed in the candy aisle of a convenience store in Austin on March 11, 2026. Beginning April 1, people will not be allowed to purchase candy and certain sweetened beverages using SNAP benefits.",
+    "date": "2026-03-18T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://stratechery.com/?p=18560",
+    "feed_name": "Stratechery",
+    "title": "Jensen Huang and Andy Grove, Groq LPUs and Vera CPUs, Hotel California",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/jensen-huang-and-andy-grove-groq-lpus-and-vera-cpus-hotel-california/",
+    "content": "<p>GTC 2026 marked an important inflection point for Nvidia, as the company is selling multiple architectures, instead of focusing on just one GPU. The motivation is serve all needs and keep all customers.</p>",
+    "date": "2026-03-18T10:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224331",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi water emergency may be just two months away, city leaders say",
@@ -9902,35 +9932,6 @@
     "link": "https://stratechery.com/2026/shopify-earnings-shopifys-ai-advantages/",
     "content": "<p>Shopify is poised to be one of the biggest winners from AI; it would behoove investors to actually understand the businesses they are selling.</p>",
     "date": "2026-02-18T11:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/17/opinion/rubio-munich-security-conference.html",
-    "feed_name": "Douthat",
-    "title": "What the American Right Wants From Europe",
-    "link": "https://www.nytimes.com/2026/02/17/opinion/rubio-munich-security-conference.html",
-    "content": "The tensions in Marco Rubio\u2019s trans-Atlantic vision.",
-    "date": "2026-02-17T23:00:10",
-    "category": "Opinion "
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/17/us/jesse-jackson-dead.html",
-    "feed_name": "NYT",
-    "title": "Jesse Jackson, Charismatic Champion of Civil Rights, Dies at 84",
-    "author": "Peter Applebome",
-    "link": "https://www.nytimes.com/2026/02/17/us/jesse-jackson-dead.html",
-    "content": "The Rev. Jesse Jackson acknowledged the applause of delegates at the 2000 Democratic National Convention in Los Angeles.",
-    "date": "2026-02-17T18:10:32",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/17/dining/budget-friendly-and-downright-delicious.html",
-    "feed_name": "NYT Cooking",
-    "title": "Budget-Friendly and Downright Delicious",
-    "author": "Margaux Laskey",
-    "link": "https://www.nytimes.com/2026/02/17/dining/budget-friendly-and-downright-delicious.html",
-    "content": "",
-    "date": "2026-02-17T16:00:03",
     "category": "My Feeds"
   }
 ]
