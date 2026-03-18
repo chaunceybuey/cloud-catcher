@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html",
+    "feed_name": "NYT",
+    "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years",
+    "author": "Manny Fernandez and Sarah Hurtes",
+    "link": "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html",
+    "content": "Cesar Chavez during a demonstration in New York in 1969.",
+    "date": "2026-03-18T17:00:35",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html",
     "feed_name": "NYT",
     "title": "The Last Thing Trump Wants to Do Is Save America",
@@ -9924,16 +9934,6 @@
     "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8696262#p8696262",
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Cash Plus, while nice, has proven to be a three-quarter-baked product, and this is the final drop for me.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I agree Vanguard is up to their same old low cost tricks, and seems to have done 75% of the job then stopped work on improvement while heavily marketing a mediocre product to customers.  Not asking for paper checks or a debit card, but the user interface and difficulty of moving money between purchased money market funds is a barrier for me.  As far as paying bills goes, everything about using our credit union checking account is simpler.  If I just need to move some cash from credit union to Vanguard, and vice versa, regular taxable brokerage account does that just as well without the extra account and 1099.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=3663\">stan1</a> \u2014 Mon Feb 23, 2026 5:46 pm</p><hr />",
     "date": "2026-02-23T23:46:17",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8696139#p8696139",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "Vulcan",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8696139#p8696139",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I see the same thing with transaction descriptions go away for deposits/withdrawals in \"My Cash Plus Overview\".<br />However, you can go to the Transaction history menu item at the top and see descriptions there.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I see simply \"CASH\" for direct deposit there.<br /><br />And even for withdrawals, while visible, having to jump through that extra hoop every time is a nuisance.<br /><br />I am in the process of transferring bill-pays and deposits to Fidelity CMA. Cash Plus, while nice, has proven to be a three-quarter-baked product, and this is the final drop for me.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=52827\">Vulcan</a> \u2014 Mon Feb 23, 2026 3:38 pm</p><hr />",
-    "date": "2026-02-23T21:38:32",
     "category": "My Feeds"
   }
 ]
