@@ -210,6 +210,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
+    "feed_name": "NYT",
+    "title": "What\u2019s in Trump\u2019s SAVE Act, the Voter ID Bill Republicans Are Pushing?",
+    "author": "Minho Kim",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
+    "content": "A polling station in New York City during a mayoral election last year.",
+    "date": "2026-03-17T20:27:33",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224230",
     "feed_name": "Texas Tribune",
     "title": "Harris County to vote on means for labor groups to represent employees for salary, policy talks",
@@ -9920,16 +9930,6 @@
     "link": "https://www.nytimes.com/2026/02/12/us/elliq-ai-robot-senior-companion.html",
     "content": "At 85, Jan Worrell lived alone on a remote corner of the Washington coast. Could ElliQ become her companion?",
     "date": "2026-02-12T17:57:29",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/02/trump-detroit-windsor-bridge/685967/",
-    "feed_name": "Chait",
-    "title": "Trump Has a Bridge He Wants to Sell You",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/02/trump-detroit-windsor-bridge/685967/",
-    "content": "The president\u2019s closure of a trade route from Detroit to Windsor will help a billionaire and hurt basically everyone else.",
-    "date": "2026-02-12T13:45:24",
     "category": "My Feeds"
   }
 ]
