@@ -1,8 +1,10 @@
 name: Cloud Catcher
 
 on:
-    workflow_dispatch: # This adds a manual "Run" button so we can test it
-
+  workflow_dispatch: # This keeps your manual button on the website
+  repository_dispatch:
+    types: [webhook] # This is the antenna for Google Apps Script!
+    
 jobs:
   update-feed:
     runs-on: ubuntu-latest
