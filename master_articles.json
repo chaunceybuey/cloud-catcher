@@ -120,6 +120,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/nyregion/judge-quraishi-new-jersey-attorneys-office.html",
+    "feed_name": "NYT",
+    "title": "Judge Ejects Federal Prosecutor From Court and Orders Bosses to Testify",
+    "author": "Jonah E. Bromwich and Tracey Tully",
+    "link": "https://www.nytimes.com/2026/03/17/nyregion/judge-quraishi-new-jersey-attorneys-office.html",
+    "content": "Judge Zahid Quraishi fiercely interrogated a prosecutor on Monday about whether the former interim U.S. attorney in New Jersey, Alina Habba, still had some role in operating the office.",
+    "date": "2026-03-17T23:37:31",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/nyregion/2nd-avenue-subway-lawsuit-mta-trump.html",
+    "feed_name": "NYT",
+    "title": "M.T.A. Sues Trump Administration to Release 2nd Avenue Subway Funding",
+    "author": "Stefanos Chen",
+    "link": "https://www.nytimes.com/2026/03/17/nyregion/2nd-avenue-subway-lawsuit-mta-trump.html",
+    "content": "New York transit officials are seeking nearly $60 million in overdue federal funding to extend the subway line to East Harlem. The administration\u2019s rationale for the freeze has been inconsistent.",
+    "date": "2026-03-17T23:09:03",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224298",
     "feed_name": "Texas Tribune",
     "title": "136 measles cases reported in Texas so far this year, most of them in federal detention centers",
@@ -160,6 +180,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/opinion/ai-economy-trump-future.html",
+    "feed_name": "NYT - Emailed",
+    "title": "A.I. Is Coming for Politics",
+    "author": "Thomas B. Edsall",
+    "link": "https://www.nytimes.com/2026/03/17/opinion/ai-economy-trump-future.html",
+    "content": "How ready are we?",
+    "date": "2026-03-17T20:38:20",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224230",
     "feed_name": "Texas Tribune",
     "title": "Harris County to vote on means for labor groups to represent employees for salary, policy talks",
@@ -167,6 +197,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17301117/texas-harris-county-employees-labor-relations-union",
     "content": "Harris County Commissioner Rodney Ellis speaks at a press conference at the state Capitol on Feb. 14, 2023.",
     "date": "2026-03-17T20:26:39",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/business/self-driving-semi-trucks-texas-us.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Driverless Big Rigs Are Coming to American Highways, and Soon",
+    "author": "Jim Motavalli",
+    "link": "https://www.nytimes.com/2026/03/17/business/self-driving-semi-trucks-texas-us.html",
+    "content": "Putting driverless trucks, like the ones made by Aurora Innovation, onto regular interstate routes will be a turning point for the industry.",
+    "date": "2026-03-17T19:42:46",
     "category": "My Feeds"
   },
   {
@@ -270,6 +310,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/us/mobile-alabama-leprechaun-st-patricks-day.html",
+    "feed_name": "NYT",
+    "title": "The Mobile, Ala., Leprechaun Lives On 20 Years Later",
+    "author": "Rick Rojas",
+    "link": "https://www.nytimes.com/2026/03/17/us/mobile-alabama-leprechaun-st-patricks-day.html",
+    "content": "The purported sighting in March 2006, covered by a local TV news station, made a lasting impression on the internet \u2014 and on Mobile, Ala.",
+    "date": "2026-03-17T15:59:40",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/dining/gorgeously-green-kale-sauce-pasta.html",
     "feed_name": "NYT Cooking",
     "title": "Gorgeously Green Kale Sauce Pasta",
@@ -287,6 +337,16 @@
     "link": "https://www.nytimes.com/2026/03/17/opinion/trump-administration-music-fans-kid-rock.html",
     "content": "The Justice Department\u2019s Live Nation settlement took everyone by surprise, even its lead counsel.",
     "date": "2026-03-17T14:49:40",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html",
+    "feed_name": "NYT",
+    "title": "Sucked Into War, Gulf Countries Face the Limits of U.S. Security Guarantees",
+    "author": "Vivian Nereim",
+    "link": "https://www.nytimes.com/2026/03/17/world/middleeast/iran-war-gulf-saudi-arabia-qatar-emirates.html",
+    "content": "Smoke billowing near the Dubai International Airport on Monday.",
+    "date": "2026-03-17T13:12:00",
     "category": "My Feeds"
   },
   {
@@ -387,6 +447,16 @@
     "link": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html",
     "content": "The early reality of the Iran war is not cooperating with President Trump\u2019s bluster.",
     "date": "2026-03-17T06:28:22",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/business/iran-war-boats-russian-oil.html",
+    "feed_name": "NYT",
+    "title": "As War With Iran Hurts Oil Prices, U.S. Turns to Iranian Boats for Help",
+    "author": "Aaron Krolik",
+    "link": "https://www.nytimes.com/2026/03/17/business/iran-war-boats-russian-oil.html",
+    "content": "A tanker in the Persian Gulf last week. Ships carrying Russian oil as of Thursday are temporarily exempt from U.S. sanctions.",
+    "date": "2026-03-17T04:00:07",
     "category": "My Feeds"
   },
   {
@@ -9685,6 +9755,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/18/well/weight-loss-drugs-retatrutide.html",
+    "feed_name": "NYT - Emailed",
+    "title": "A New Concern About Weight Loss Drugs: What if They Work Too Well?",
+    "author": "Dani Blum",
+    "link": "https://www.nytimes.com/2026/02/18/well/weight-loss-drugs-retatrutide.html",
+    "content": "Some patients in a clinical trial of one new drug lost so much weight that they became concerned and dropped out.",
+    "date": "2026-02-18T14:18:59",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18337",
     "feed_name": "Stratechery",
     "title": "Shopify Earnings, Shopify\u2019s AI Advantages",
@@ -9849,86 +9929,6 @@
     "link": "https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html",
     "content": "Seven pages of grand jury testimony from Richard Nixon were deemed so incendiary that they were hidden from the public for years.",
     "date": "2026-02-10T20:01:02",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/02/rfk-jack-schlossberg-pelosi-kennedy/685941/",
-    "feed_name": "Chait",
-    "title": "Please, Not Another Kennedy",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/02/rfk-jack-schlossberg-pelosi-kennedy/685941/",
-    "content": "Nancy Pelosi reportedly plans to endorse JFK\u2019s grandson for Congress. Why?",
-    "date": "2026-02-10T14:09:28",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/07/magazine/michael-pollan-interview.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Michael Pollan Says Humanity Is About to Undergo a Revolutionary Change",
-    "author": "David Marchese",
-    "link": "https://www.nytimes.com/2026/02/07/magazine/michael-pollan-interview.html",
-    "content": "The best-selling author grapples with big questions about A.I., consciousness and the distractions polluting our minds.",
-    "date": "2026-02-09T11:28:08",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/08/well/aging-parents.html",
-    "feed_name": "NYT - Emailed",
-    "title": "5 Conversations to Have With Your Aging Parents",
-    "author": "Simar Bajaj",
-    "link": "https://www.nytimes.com/2026/02/08/well/aging-parents.html",
-    "content": "Many families put these talks off. But having them now can lead to better care later.",
-    "date": "2026-02-08T10:00:06",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/06/business/market-risk-investing-index-funds.html",
-    "feed_name": "NYT - Emailed",
-    "title": "It\u2019s Time to Rethink the Standard Investment Advice. But Not Too Much.",
-    "author": "Jeff Sommer",
-    "link": "https://www.nytimes.com/2026/02/06/business/market-risk-investing-index-funds.html",
-    "content": "With signs of trouble popping up in financial markets, investors need to decide whether they can ignore the turmoil, our columnist says.",
-    "date": "2026-02-06T10:03:20",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/06/business/2025-taxes-return-refund-income.html",
-    "feed_name": "NYT - Emailed",
-    "title": "2025 Tax Returns: Here\u2019s What to Know About Filing This Year",
-    "author": "Tara Siegel Bernard and Ron Lieber",
-    "link": "https://www.nytimes.com/2026/02/06/business/2025-taxes-return-refund-income.html",
-    "content": "Many Americans will see bigger refunds and new deductions, while others may be revisiting the dreaded alternative minimum tax. Don\u2019t panic just yet.",
-    "date": "2026-02-06T10:02:45",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/02/democrats-texas-senate-talarico-crockett/685895/",
-    "feed_name": "Chait",
-    "title": "Democrats Mess With Winning in Texas",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/02/democrats-texas-senate-talarico-crockett/685895/",
-    "content": "Once again, the party\u2019s statewide candidates seem to have grander ambitions than victory.",
-    "date": "2026-02-06T01:32:48",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=219753",
-    "feed_name": "Texas Tribune",
-    "title": "Lecturer no longer teaching at Texas State University after expletive-filled message goes public",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17271114/texas-state-lecturer-expletives-facebook-message",
-    "content": "Students walk past the Alkek Library at Texas State University on Sept. 2, 2025, in San Marcos.",
-    "date": "2026-02-05T23:52:29",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/03/dining/chilly-chili.html",
-    "feed_name": "NYT Cooking",
-    "title": "Melissa Clark\u2019s Vegetarian Chili Recipe and More Cold-Weather Cooking",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/02/03/dining/chilly-chili.html",
-    "content": "Melissa Clark\u2019s five-star vegetarian chili is the pantriest pantry recipe of them all \u2014 a quick-simmered jumble of canned tomatoes, beans, garlic, onion and spices.",
-    "date": "2026-02-04T18:13:01",
     "category": "My Feeds"
   }
 ]
