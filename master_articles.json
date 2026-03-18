@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/economy-us-trump-biden.html",
+    "feed_name": "NYT - Emailed",
+    "title": "If You Hate Trump\u2019s Economy, I Have News for You",
+    "author": "Jason Furman",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/economy-us-trump-biden.html",
+    "content": "It\u2019s all a matter of perspective.",
+    "date": "2026-03-18T13:45:48",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224271",
     "feed_name": "Texas Tribune",
     "title": "Here\u2019s how to vote in Texas\u2019 May 26 primary runoff elections",
@@ -217,6 +227,16 @@
     "link": "https://www.nytimes.com/2026/03/17/nyregion/judge-quraishi-new-jersey-attorneys-office.html",
     "content": "Judge Zahid Quraishi fiercely interrogated a prosecutor on Monday about whether the former interim U.S. attorney in New Jersey, Alina Habba, still had some role in operating the office.",
     "date": "2026-03-17T23:37:31",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/opinion/iran-war-israel-us-allies.html",
+    "feed_name": "NYT - Emailed",
+    "title": "For Once, We Fight With an Equal Ally",
+    "author": "Bret Stephens",
+    "link": "https://www.nytimes.com/2026/03/17/opinion/iran-war-israel-us-allies.html",
+    "content": "Israel is the rare U.S. ally that pulls its weight, shares the risk and contributes to victory.",
+    "date": "2026-03-17T23:20:47",
     "category": "My Feeds"
   },
   {
@@ -9915,24 +9935,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I see the same thing with transaction descriptions go away for deposits/withdrawals in \"My Cash Plus Overview\".<br />However, you can go to the Transaction history menu item at the top and see descriptions there.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I see simply \"CASH\" for direct deposit there.<br /><br />And even for withdrawals, while visible, having to jump through that extra hoop every time is a nuisance.<br /><br />I am in the process of transferring bill-pays and deposits to Fidelity CMA. Cash Plus, while nice, has proven to be a three-quarter-baked product, and this is the final drop for me.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=52827\">Vulcan</a> \u2014 Mon Feb 23, 2026 3:38 pm</p><hr />",
     "date": "2026-02-23T21:38:32",
     "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/23/opinion/pitt-america-tv.html",
-    "feed_name": "NYT - Emailed",
-    "title": "\u2018The Pitt\u2019 Is the Most Patriotic Show on Television",
-    "author": "Frank Bruni",
-    "link": "https://www.nytimes.com/2026/02/23/opinion/pitt-america-tv.html",
-    "content": "An emergency room that\u2019s a mirror.",
-    "date": "2026-02-23T17:44:21",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
-    "feed_name": "Douthat",
-    "title": "4 Big U.F.O. Questions for the White House",
-    "link": "https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
-    "content": "What a declassification effort could help us resolve.",
-    "date": "2026-02-22T18:30:57",
-    "category": "Opinion "
   }
 ]
