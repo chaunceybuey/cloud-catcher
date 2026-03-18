@@ -180,6 +180,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/opinion/hiv-medication-access-florida.html",
+    "feed_name": "NYT",
+    "title": "It\u2019s Cruel to Take Away People\u2019s H.I.V. Medication",
+    "author": "Maia Szalavitz",
+    "link": "https://www.nytimes.com/2026/03/17/opinion/hiv-medication-access-florida.html",
+    "content": "States are rolling back coverage for lifesaving medications.",
+    "date": "2026-03-17T19:27:19",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224211",
     "feed_name": "Texas Tribune",
     "title": "Ex-Uvalde schools police chief sues CBP, seeking agents\u2019 testimony in his criminal trial",
@@ -9919,16 +9929,6 @@
     "link": "https://www.nytimes.com/2026/02/03/dining/chilly-chili.html",
     "content": "Melissa Clark\u2019s five-star vegetarian chili is the pantriest pantry recipe of them all \u2014 a quick-simmered jumble of canned tomatoes, beans, garlic, onion and spices.",
     "date": "2026-02-04T18:13:01",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/03/t-magazine/dark-winter-lighting-swedish-design.html",
-    "feed_name": "NYT - Emailed",
-    "title": "How to Light a Room Like a Swede",
-    "author": "Alexa Brazilian",
-    "link": "https://www.nytimes.com/2026/02/03/t-magazine/dark-winter-lighting-swedish-design.html",
-    "content": "Tips from experts who know dark winter days \u2014 and design \u2014 like no others.",
-    "date": "2026-02-04T16:26:45",
     "category": "My Feeds"
   }
 ]
