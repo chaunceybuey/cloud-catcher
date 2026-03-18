@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html",
+    "feed_name": "NYT",
+    "title": "The Last Thing Trump Wants to Do Is Save America",
+    "author": "Jamelle Bouie",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html",
+    "content": "Trump\u2019s SAVE Act would do anything but save America.",
+    "date": "2026-03-18T14:24:50",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224271",
     "feed_name": "Texas Tribune",
     "title": "Here\u2019s how to vote in Texas\u2019 May 26 primary runoff elections",
@@ -9924,14 +9934,5 @@
     "content": "I see the same thing with transaction descriptions go away for deposits/withdrawals in \"My Cash Plus Overview\".<br />However, you can go to the Transaction history menu item at the top and see descriptions there.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=174169\">urban</a> \u2014 Sat Feb 21, 2026 8:22 pm</p><hr />",
     "date": "2026-02-22T02:22:59",
     "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
-    "feed_name": "Most Shared",
-    "title": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
-    "link": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
-    "content": "Iran\u2019s extensive military abilities and network of regional proxies could draw the United States into a prolonged conflict.",
-    "date": "2026-02-21T11:30:02",
-    "category": "NYT"
   }
 ]
