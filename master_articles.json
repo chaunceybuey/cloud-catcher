@@ -160,6 +160,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/us/politics/jan-6-contracts.html",
+    "feed_name": "NYT",
+    "title": "Firm That Planned Trump\u2019s Jan. 6 Rally Received No-Bid Contracts",
+    "author": "David A. Fahrenthold and Andrea Fuller",
+    "link": "https://www.nytimes.com/2026/03/18/us/politics/jan-6-contracts.html",
+    "content": "President Trump addressing the crowd at his rally on Jan. 6, 2021, that Event Strategies Inc. helped organize. Attendees overran the Capitol later that day.",
+    "date": "2026-03-18T09:01:25",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
     "feed_name": "NYT",
     "title": "Trump\u2019s Next Decision in War: Whether to Retrieve Iran\u2019s Nuclear Fuel",
@@ -9924,15 +9934,5 @@
     "content": "What a declassification effort could help us resolve.",
     "date": "2026-02-22T18:30:57",
     "category": "Opinion "
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8694272#p8694272",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "urban",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8694272#p8694272",
-    "content": "I see the same thing with transaction descriptions go away for deposits/withdrawals in \"My Cash Plus Overview\".<br />However, you can go to the Transaction history menu item at the top and see descriptions there.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=174169\">urban</a> \u2014 Sat Feb 21, 2026 8:22 pm</p><hr />",
-    "date": "2026-02-22T02:22:59",
-    "category": "My Feeds"
   }
 ]
