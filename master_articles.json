@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
+    "feed_name": "NYT",
+    "title": "Trump\u2019s Next Decision in War: Whether to Retrieve Iran\u2019s Nuclear Fuel",
+    "author": "David E. Sanger",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
+    "content": "A satellite image of the Pickaxe Mountain tunnel complex near the Natanz nuclear facility in central Iran last week. It is not certain where all of Iran\u2019s nuclear material resides.",
+    "date": "2026-03-18T06:35:06",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224331",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi water emergency may be just two months away, city leaders say",
@@ -9922,16 +9932,6 @@
     "link": "https://stratechery.com/2026/an-interview-with-matthew-ball-about-gaming-and-the-fight-for-attention/",
     "content": "<p>An interview with Matthew Ball about the state of the video gaming industry in 2026, and why everything is a fight for attention.</p>",
     "date": "2026-02-19T11:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/18/well/weight-loss-drugs-retatrutide.html",
-    "feed_name": "NYT - Emailed",
-    "title": "A New Concern About Weight Loss Drugs: What if They Work Too Well?",
-    "author": "Dani Blum",
-    "link": "https://www.nytimes.com/2026/02/18/well/weight-loss-drugs-retatrutide.html",
-    "content": "Some patients in a clinical trial of one new drug lost so much weight that they became concerned and dropped out.",
-    "date": "2026-02-18T14:18:59",
     "category": "My Feeds"
   }
 ]
