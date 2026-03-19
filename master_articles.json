@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8717338#p8717338",
+    "feed_name": "Vanguard",
+    "title": "alerts [not available] for Vanguard Cash Plus account activity",
+    "author": "couchmarie",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8717338#p8717338",
+    "content": "<span style=\"color: #0000FF;\">{This thread merged into this on-going mega-thread. Moderator Pops1860]</span><br /><br />It did not occur to me when I established my Vanguard Cash Plus account that this account would be excluded from account activity alerts, alas it is so.  Vanguard is considering inclusion of Vanguard Cash Plus accounts in their alerts system but no guarantees this will happen.  Caveat Emptor, if there were a withdrawal from your Vanguard Cash Plus account done surreptiously, you would not know it until you happened to check your account balance by going online. Seems to be a design flaw, perhaps Fidelity's cash management account is better about activity alerts.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=221369\">couchmarie</a> \u2014 Thu Mar 19, 2026 8:23 am</p><hr />",
+    "date": "2026-03-19T13:23:48",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
     "feed_name": "NYT",
     "title": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
@@ -160,6 +170,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/19/us/politics/trump-fraudsters-pardons.html",
+    "feed_name": "NYT",
+    "title": "Trump Vowed to Crack Down on Fraudsters, but He\u2019s Pardoned Dozens",
+    "author": "Matthew Purdy and Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-fraudsters-pardons.html",
+    "content": "Across both of his terms, President Trump has granted clemency to more than 70 allies, donors and others convicted in fraud cases.",
+    "date": "2026-03-19T09:00:45",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html",
     "feed_name": "NYT",
     "title": "Palestinian Man Recounts Brutal Sexual Assault by Israeli Settlers",
@@ -177,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/03/18/us/politics/fbi-joe-kent-intelligence-leak.html",
     "content": "Joe Kent during a debate in Portland, Ore., in 2024.",
     "date": "2026-03-19T03:00:13",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/us/family-minneapolis-boy-ice-deportation.html",
+    "feed_name": "NYT",
+    "title": "Family of Minneapolis Boy Detained by ICE Faces Fast-Track Deportation",
+    "author": "Miriam Jordan",
+    "link": "https://www.nytimes.com/2026/03/18/us/family-minneapolis-boy-ice-deportation.html",
+    "content": "A photo of Liam Conejo Ramos was displayed during a Congressional hearing in Washington in February.",
+    "date": "2026-03-19T01:54:00",
     "category": "My Feeds"
   },
   {
@@ -9909,36 +9939,6 @@
     "link": "https://www.nytimes.com/2026/02/26/business/st-kitts-nevis-destiny-olivier-janssens-crypto-libertarian.html",
     "content": "Olivier Janssens, propelled by his cryptocurrency fortune, wants to build an enclave where residents would have special rights on Nevis.",
     "date": "2026-02-27T11:40:29",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221870",
-    "feed_name": "Texas Tribune",
-    "title": "Behind the scenes, Texas narrows list to replace Fort Worth ISD\u2019s elected trustees",
-    "author": "By Jacob Sanchez and Matthew Sgroi,\u00a0Fort Worth Report",
-    "link": "https://feeds.texastribune.org/link/16799/17285002/texas-fort-worth-school-takeover-managers",
-    "content": "Texas Education Commissioner Mike Morath watches a group of seventh graders read a poem in Fort Worth ISD\u2019s William James Middle School on Aug. 28, 2025.",
-    "date": "2026-02-27T11:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221874",
-    "feed_name": "Texas Tribune",
-    "title": "Before scandal, Rep. Tony Gonzales had complicated relationship with his West Texas constituents",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17285001/tony-gonzales-west-texas-election-2026",
-    "content": "U.S. Rep. Tony Gonzales, R-San Antonio, has represented West Texas in Congress since 2021.",
-    "date": "2026-02-27T11:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/realestate/1-million-homes-on-croatias-coast.html",
-    "feed_name": "NYT - Emailed",
-    "title": "$1 Million Homes on Croatia\u2019s Coast",
-    "author": "Alison Gregor",
-    "link": "https://www.nytimes.com/2026/02/27/realestate/1-million-homes-on-croatias-coast.html",
-    "content": "The Istrian Peninsula offers traditional stone villas near the Adriatic Sea.",
-    "date": "2026-02-27T10:02:27",
     "category": "My Feeds"
   }
 ]
