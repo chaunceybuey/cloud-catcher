@@ -43,6 +43,10 @@
     {
       "name": "KMFA",
       "url": "https://www.kmfa.org/events.rss"
+    },
+    {
+      "name": "NYRB",
+      "url": "https://feeder.co/discover/bf497233f9/nybooks-com"
     }
   ]
 }
