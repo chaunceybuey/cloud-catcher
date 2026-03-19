@@ -55,6 +55,10 @@
     {
       "name": "Wired",
       "url": "https://www.wired.com/feed/category/backchannel/latest/rss"
+    },
+    {
+      "name": "Wired (Science)",
+      "url": "https://www.wired.com/feed/category/science/latest/rss"
     }
   ]
 }
