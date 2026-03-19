@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://stratechery.com/?p=18576",
+    "feed_name": "Stratechery",
+    "title": "Spring Break",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/spring-break/",
+    "content": "<p>Stratechery is on a bit of a disjointed Spring Break, as my usual week off will be spread out:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>There will be no Update on Thursday, March 19</li>\n\n\n\n<li>There will be no Update on Monday and Tuesday, March 23\u201324; there will be an Update and Interview on Wednesday and Thursday, March 25\u201326</li>\n\n\n\n<li>There will be no Update on Monday, March 30</li>\n</ul>\n\n\n\n<p>I will return to my usual <a href=\"https://stratechery.com/stratechery-plus/schedule/\">posting schedule</a> on Tuesday, March 31.</p>\n\n\n\n<p>All other Stratechery Plus content, including my podcasts, will stay on schedule. </p>\n\n\n\n<p></p>",
+    "date": "2026-03-19T10:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html",
     "feed_name": "NYT",
     "title": "Palestinian Man Recounts Brutal Sexual Assault by Israeli Settlers",
@@ -177,6 +187,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17301766/cesar-chavez-day-texas-fallout-sexual-abuse-allegations",
     "content": "A portrait of the late Cesar Chavez at Courthouse Park in Merced, California before the beginning of the United Farm Workers March on August 15, 2002.",
     "date": "2026-03-18T22:06:25",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/nyregion/nyc-high-school-student-ice-freed.html",
+    "feed_name": "NYT",
+    "title": "NYC High School Student Freed After 10 Months in ICE Detention",
+    "author": "Ana Ley",
+    "link": "https://www.nytimes.com/2026/03/18/nyregion/nyc-high-school-student-ice-freed.html",
+    "content": "Raiza Contreras, the mother of Dylan Lopez Contreras, fought for the release of her son from immigration detention.",
+    "date": "2026-03-18T21:27:06",
     "category": "My Feeds"
   },
   {
@@ -9918,25 +9938,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17284788/texas-el-paso-border-drone-laser-airspace-closure",
     "content": "The use of an anti-drone laser Thursday prompted the Federal Aviation Administration to shut airspace in the El Paso area again, but this time the El Paso airport was not affected, as it was two weeks ago in another incident involving a laser.",
     "date": "2026-02-27T03:12:40",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-claims-nuclear-weapons.html",
-    "feed_name": "Most Shared",
-    "title": "Fact-check: In Trump\u2019s Case for an Attack on Iran, False or Unproven Claims",
-    "link": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-claims-nuclear-weapons.html",
-    "content": "People walked past a missile system and banners of Ayatollah Ali Khamenei, Iran\u2019s supreme leader, in Tehran last year.",
-    "date": "2026-02-27T02:15:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221925",
-    "feed_name": "Texas Tribune",
-    "title": "17 measles cases reported in El Paso, including 13 at ICE detention facility",
-    "author": "By El Paso Matters",
-    "link": "https://feeds.texastribune.org/link/16799/17284765/measles-el-paso-camp-east-montana-ice",
-    "content": "Camp East Montana seen under construction in East El Paso, days before it was set to begin receiving U.S. Immigration and Customs Enforcement detainees, on Aug. 11, 2025.",
-    "date": "2026-02-27T02:05:38",
     "category": "My Feeds"
   }
 ]
