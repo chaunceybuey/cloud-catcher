@@ -59,6 +59,10 @@
     {
       "name": "Wired (Science)",
       "url": "https://www.wired.com/feed/category/science/latest/rss"
+    },
+    {
+      "name": "Atlantic",
+      "url": "https://www.theatlantic.com/feed/all/"
     }
   ]
 }
