@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
+    "feed_name": "NYT",
+    "title": "Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change",
+    "author": "Adam Rasgon, Ronen Bergman and David M. Halbfinger",
+    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
+    "content": "A new billboard in Tehran shows Iran\u2019s three supreme leaders.",
+    "date": "2026-03-18T23:16:35",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224388",
     "feed_name": "Texas Tribune",
     "title": "Court approves new manager for Dallas-area foster care program after deaths of 2 infants",
@@ -327,6 +337,16 @@
     "link": "https://www.nytimes.com/2026/03/18/us/california-winter-heat-wave.html",
     "content": "Sunbathers enjoyed an unusually warm March at Baker Beach, just west of the Golden Gate Bridge.",
     "date": "2026-03-18T09:02:15",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/realestate/paris-studio-apartment-downsize.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Fitting Her Life Into a 400-Square-Foot Paris Studio",
+    "author": "Julie Lasky and Dmitry Kostyukov",
+    "link": "https://www.nytimes.com/2026/03/18/realestate/paris-studio-apartment-downsize.html",
+    "content": "Chloe Legras at home in the Marais district, where she rents a studio apartment.",
+    "date": "2026-03-18T09:01:36",
     "category": "My Feeds"
   },
   {
@@ -9917,26 +9937,6 @@
     "link": "https://www.nytimes.com/2026/02/26/dining/silken-tofu-salad-dressing-rvr-los-angeles.html",
     "content": "Silken tofu gives this salad dressing a light yet satisfying creaminess.",
     "date": "2026-02-26T18:22:52",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221754",
-    "feed_name": "Texas Tribune",
-    "title": "Can Jasmine Crockett\u2019s East Texas past give her an electoral boost in rural Texas?",
-    "author": "Gabby Birenbaum and Jess Huff",
-    "link": "https://feeds.texastribune.org/link/16799/17284449/jasmine-crockett-texarkana-east-texas-senate-election-2026",
-    "content": "U.S. Rep. Jasmine Crockett, D-Dallas, spent eight years in East Texas before moving to Dallas. She hopes that time there will boost her appeal to rural voters.",
-    "date": "2026-02-26T17:02:21",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221775",
-    "feed_name": "Texas Tribune",
-    "title": "Rep. Veronica Escobar, two dozen Democrats call on ICE to close troubled El Paso detention camp",
-    "author": "Lomi Kriel and Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17284372/democrats-veronica-escobar-detention-deaths-texas-east-montana-campos",
-    "content": "U.S. Rep. Veronica Escobar, D-El Paso, introduces the &quot;Dignity Act&quot; outside the Capitol during a news conference on immigration policy, Tuesday, May 23, 2023, in Washington, D.C.",
-    "date": "2026-02-26T15:00:00",
     "category": "My Feeds"
   }
 ]
