@@ -240,6 +240,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/manosphere-trump-maga-documentary.html",
+    "feed_name": "NYT",
+    "title": "The Manosphere Continues to Devolve",
+    "author": "Jessica Grose",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/manosphere-trump-maga-documentary.html",
+    "content": "A new documentary shows that social media misogyny is just a new way to sell old garbage.",
+    "date": "2026-03-18T14:35:10",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html",
     "feed_name": "NYT",
     "title": "The Last Thing Trump Wants to Do Is Save America",
@@ -497,6 +507,16 @@
     "link": "https://www.nytimes.com/2026/03/17/us/ohio-cleveland-meteor.html",
     "content": "NASA confirmed that the loud boom heard and felt by people in northern Ohio was indeed caused by a meteor.",
     "date": "2026-03-17T22:02:33",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
+    "feed_name": "NYT",
+    "title": "Kharg Island Is an Appealing Target for Trump, With High Risks",
+    "author": "Anton Troianovski, Rebecca F. Elliott and Peter Eavis",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
+    "content": "The Kharg Island oil facility off the coast of Iran in 2017.",
+    "date": "2026-03-17T21:58:31",
     "category": "My Feeds"
   },
   {
@@ -9917,26 +9937,6 @@
     "link": "https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html",
     "content": "[PHOTO ONLY:] The LA Breakers U13 soccer team who regularly does the \u201cFIFA 11+,\u201d a series of exercises designed to prevent ACL tears and other injuries.",
     "date": "2026-02-26T22:51:17",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/26/climate/bird-declines.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Bird Losses Are Accelerating, New Study Finds",
-    "author": "Catrin Einhorn",
-    "link": "https://www.nytimes.com/2026/02/26/climate/bird-declines.html",
-    "content": "The steepest losses in the study, from 1987 to 2021, were seen in Florida, Texas, Louisiana and Arizona.",
-    "date": "2026-02-26T19:00:06",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/26/dining/silken-tofu-salad-dressing-rvr-los-angeles.html",
-    "feed_name": "NYT - Emailed",
-    "title": "RVR\u2019s Silken Tofu Salad Dressing Will Change Your Life",
-    "author": "Genevieve Ko",
-    "link": "https://www.nytimes.com/2026/02/26/dining/silken-tofu-salad-dressing-rvr-los-angeles.html",
-    "content": "Silken tofu gives this salad dressing a light yet satisfying creaminess.",
-    "date": "2026-02-26T18:22:52",
     "category": "My Feeds"
   }
 ]
