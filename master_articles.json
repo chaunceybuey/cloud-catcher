@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/us/politics/fbi-joe-kent-intelligence-leak.html",
+    "feed_name": "NYT",
+    "title": "F.B.I. Investigates Joe Kent, Whose Resignation Over Iran War Angered Trump",
+    "author": "Glenn Thrush and Chris Cameron",
+    "link": "https://www.nytimes.com/2026/03/18/us/politics/fbi-joe-kent-intelligence-leak.html",
+    "content": "Joe Kent during a debate in Portland, Ore., in 2024.",
+    "date": "2026-03-19T03:00:13",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
     "feed_name": "NYT",
     "title": "Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change",
@@ -9928,16 +9938,6 @@
     "link": "https://www.nytimes.com/2026/02/27/realestate/st-marks-landlord-charles-fitzgerald.html",
     "content": "Charles FitzGerald in his apartment on St. Marks Place, where he has lived for more than half a century.",
     "date": "2026-02-27T10:02:09",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/travel/honolulu-budget-travel.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Honolulu on a Budget",
-    "author": "Elaine Glusac and Michelle Mishina Kunz",
-    "link": "https://www.nytimes.com/2026/02/27/travel/honolulu-budget-travel.html",
-    "content": "Hawaii is expensive, but basing yourself in the capital, where local culture and nature are within easy reach, can save you money on lodgings and food, leaving funds for a few splurges.",
-    "date": "2026-02-27T10:00:18",
     "category": "My Feeds"
   }
 ]
