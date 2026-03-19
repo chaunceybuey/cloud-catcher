@@ -140,6 +140,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/us/politics/tulsi-gabbard-iran-trump.html",
+    "feed_name": "NYT",
+    "title": "What\u2019s a Threat? Gabbard Says It\u2019s Up to Trump, on Iran and Elsewhere.",
+    "author": "David E. Sanger and Julian E. Barnes",
+    "link": "https://www.nytimes.com/2026/03/18/us/politics/tulsi-gabbard-iran-trump.html",
+    "content": "Tulsi Gabbard, the director of national intelligence, during a Senate hearing into worldwide threats on Wednesday. She said only the president can decide what constitutes an imminent threat.",
+    "date": "2026-03-18T22:59:15",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224388",
     "feed_name": "Texas Tribune",
     "title": "Court approves new manager for Dallas-area foster care program after deaths of 2 infants",
@@ -9927,16 +9937,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17284765/measles-el-paso-camp-east-montana-ice",
     "content": "Camp East Montana seen under construction in East El Paso, days before it was set to begin receiving U.S. Immigration and Customs Enforcement detainees, on Aug. 11, 2025.",
     "date": "2026-02-27T02:05:38",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221903",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Tech regents unexpectedly take no public action on what can be taught on race, gender",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17284683/texas-tech-regents-meeting-race-gender-instruction",
-    "content": "The Texas Tech University Board of Regents meets at the Texas Tech University Health Sciences Center in Dallas on February 26, 2026.",
-    "date": "2026-02-27T00:14:39",
     "category": "My Feeds"
   }
 ]
