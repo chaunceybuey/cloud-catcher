@@ -210,6 +210,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "69baf1afb2b641906b1ec590",
+    "feed_name": "Wired",
+    "title": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
+    "author": "Brian Barrett, Zo\u00eb Schiffer",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+    "content": "In this episode, we dive into Nvidia\u2019s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+    "date": "2026-03-19T21:43:56",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/04/09/in-defense-of-algebra-paul-lockhart/",
     "feed_name": "NYYRB",
     "title": "In Defense of Algebra",
@@ -240,6 +250,26 @@
     "category": "My Feeds"
   },
   {
+    "id": "69bbfe9b32d17161ad16193a",
+    "feed_name": "Wired",
+    "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
+    "author": "Maxwell Zeff",
+    "link": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+    "content": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
+    "date": "2026-03-19T18:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69badfbb490221c281b2be77",
+    "feed_name": "Wired",
+    "title": "A New Game Turns the H-1B Visa System Into a Surreal Simulation",
+    "author": "Zeyi Yang",
+    "link": "https://www.wired.com/story/made-in-china-a-new-game-turns-the-h-1b-visa-system-into-a-surreal-simulation/",
+    "content": "Inspired by real immigrant stories, H1B.Life captures the uncertainty, trade-offs, and pure luck that shape the lives of people trying to build a future in the US.",
+    "date": "2026-03-19T16:59:50",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8717487#p8717487",
     "feed_name": "Vanguard",
     "title": "Re: alerts [not available] for Vanguard Cash Plus account activity",
@@ -247,6 +277,16 @@
     "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8717487#p8717487",
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><span style=\"color: #0000FF;\">{This thread merged into this on-going mega-thread. Moderator Pops1860]</span><br /><br />It did not occur to me when I established my Vanguard Cash Plus account that this account would be excluded from account activity alerts, alas it is so.  Vanguard is considering inclusion of Vanguard Cash Plus accounts in their alerts system but no guarantees this will happen.  Caveat Emptor, if there were a withdrawal from your Vanguard Cash Plus account done surreptiously, you would not know it until you happened to check your account balance by going online. Seems to be a design flaw, perhaps Fidelity's cash management account is better about activity alerts.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I get an email every time cash is pulled from my Vanguard Cash Plus Account.  I am not sure if that is equivalent to activity alerts, as I am not sure exactly what that entails.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=188\">kramer</a> \u2014 Thu Mar 19, 2026 10:51 am</p><hr />",
     "date": "2026-03-19T15:51:53",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69baaa2eb29ba5f706fcfd9a",
+    "feed_name": "Wired",
+    "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+    "content": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+    "date": "2026-03-19T14:09:51",
     "category": "My Feeds"
   },
   {
@@ -296,6 +336,16 @@
     "author": "Ayden Runnels and Alex Nguyen",
     "link": "https://feeds.texastribune.org/link/16799/17302014/texas-jail-oversentencing-dallas-smith-counties",
     "content": "The Smith County Jail, on September 10, 2024, in Tyler.",
+    "date": "2026-03-19T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "691cbd27c32b98bfa2a4ae32",
+    "feed_name": "Wired",
+    "title": "The Fight to Hold AI Companies Accountable for Children\u2019s Deaths",
+    "author": "Varsha Bansal",
+    "link": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
+    "content": "After a series of suicides allegedly linked to AI chatbots, one lawyer is trying to hold companies like OpenAI accountable.",
     "date": "2026-03-19T10:00:00",
     "category": "My Feeds"
   },
@@ -460,6 +510,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "69b9a94a8332a5b66668179d",
+    "feed_name": "Wired",
+    "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+    "author": "Paresh Dave",
+    "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+    "content": "After OpenAI\u2019s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
+    "date": "2026-03-18T18:01:18",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html",
     "feed_name": "NYT",
     "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years",
@@ -547,6 +607,16 @@
     "link": "https://www.nytimes.com/2026/03/18/world/middleeast/ukrainian-experts-in-middle-east-fight-drones.html",
     "content": "President Volodymyr Zelensky of Ukraine speaking to British lawmakers in London, on Tuesday.",
     "date": "2026-03-18T11:48:40",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69b83122b407b6eb08339b6d",
+    "feed_name": "Wired",
+    "title": "Join Our Next Livestream: The War Machine",
+    "author": "Tim Marchman, Paresh Dave, Carla Sertin",
+    "link": "https://www.wired.com/story/livestream-the-war-machine/",
+    "content": "On March 26, a panel of WIRED experts will dissect the defense tech industry\u2019s impact on modern warfare. Submit your questions now.",
+    "date": "2026-03-18T10:30:00",
     "category": "My Feeds"
   },
   {
@@ -677,6 +747,16 @@
     "link": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html",
     "content": "Joe Kent, the director of the National Counterterrorism Center, resigned on Tuesday.",
     "date": "2026-03-18T01:17:43",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69b9ab33ff58f8e90ded9eff",
+    "feed_name": "Wired",
+    "title": "Justice Department Says Anthropic Can\u2019t Be Trusted With Warfighting Systems",
+    "author": "Paresh Dave",
+    "link": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+    "content": "In response to Anthropic\u2019s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+    "date": "2026-03-18T00:51:14",
     "category": "My Feeds"
   },
   {
@@ -1097,6 +1177,16 @@
     "link": "https://www.nytimes.com/2026/03/17/climate/offshore-wind-settlements-trump.html",
     "content": "Under proposed settlements, the Interior Department would cancel the leases for two offshore wind projects, while the Justice Department would pay more than $928 million to the developers to reimburse them for their winning bids in lease sales.",
     "date": "2026-03-17T11:39:52",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69a2019a8533c8c776f70541",
+    "feed_name": "Wired",
+    "title": "How Invisalign Became the World\u2019s Biggest User of 3D Printers",
+    "author": "Paresh Dave",
+    "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
+    "content": "Joe Hogan, Align Technology\u2019s plastics-nerd CEO, says you shouldn\u2019t eat with your aligners and that you don\u2019t need to wear your retainers every night.",
+    "date": "2026-03-17T11:00:00",
     "category": "My Feeds"
   },
   {
@@ -1610,6 +1700,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "6977ec5ca3bc39e5e3f6400e",
+    "feed_name": "Wired",
+    "title": "COBOL Is the Asbestos of Programming Languages",
+    "author": "Zeb Larson",
+    "link": "https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/",
+    "content": "The most widely adopted computer language in history, COBOL is now causing a host of problems. It's also dangerously difficult to remove.",
+    "date": "2026-03-16T11:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18541",
     "feed_name": "Stratechery",
     "title": "Agents Over Bubbles",
@@ -1627,6 +1727,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17300040/east-texas-water-trust-rights-conservation",
     "content": "Bob Sanders of Cypress River Ranch looks over Big Cypress Bayou while speaking about the flow of water from Lake O&#039; the Pines to Caddo Lake and Big Cypress Bayou on Oct. 9, 2025. Sanders is one of only three donors to the Texas Water Trust, a program created in 1997 to allow landowners and water rights holders to voluntarily dedicate water rights to the state.",
     "date": "2026-03-16T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "6995f1eb99c9ac0e8b7635e8",
+    "feed_name": "Wired",
+    "title": "Wall Street Is Already Betting on Prediction Markets",
+    "author": "Kate Knibbs",
+    "link": "https://www.wired.com/story/prediction-markets-find-a-welcome-on-wall-street/",
+    "content": "As the legal war over how to regulate prediction markets rages on, financial institutions are embracing the industry anyway.",
+    "date": "2026-03-16T09:30:00",
     "category": "My Feeds"
   },
   {
@@ -2660,6 +2770,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "69af0b20b7192b94664b1835",
+    "feed_name": "Wired",
+    "title": "The Iran War Is Throwing Global Shipping Into Chaos",
+    "author": "Steven Levy",
+    "link": "https://www.wired.com/story/iran-war-global-supply-chain-chaos/",
+    "content": "Flexport CEO Ryan Petersen says the conflict is stranding cargo and threatening inflation.",
+    "date": "2026-03-13T15:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html",
     "feed_name": "NYT",
     "title": "All 6 Crew Members Killed in U.S. Refueling Plane Crash in Iraq, Military Says",
@@ -2750,6 +2870,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "69af1f80cfee37417ffdeed0",
+    "feed_name": "Wired",
+    "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
+    "author": "Zeyi Yang",
+    "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+    "content": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+    "date": "2026-03-13T12:00:00",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/13/opinion/death-penalty-comeback.html",
     "feed_name": "NYT",
     "title": "The Death Penalty Is Indefensible. It\u2019s Also on the Rise.",
@@ -2766,6 +2896,16 @@
     "author": "Alejandro Serrano",
     "link": "https://feeds.texastribune.org/link/16799/17298692/texas-latino-voters-primary-democrats-republicans-rio-grande-valley",
     "content": "Bobby Pulido, Latin Grammy winner and now the Democratic congressional nominee for District 15, speaks during a Texas Together Rally at Cine El Rey in McAllen on March 9, 2026.",
+    "date": "2026-03-13T10:00:00",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69af1a3ed391a3e90c3e9c5c",
+    "feed_name": "Wired",
+    "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+    "author": "Caroline Haskins",
+    "link": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+    "content": "Software demos and Pentagon records detail how chatbots like Anthropic\u2019s Claude could help the Pentagon analyze intelligence and suggest next steps.",
     "date": "2026-03-13T10:00:00",
     "category": "My Feeds"
   },
@@ -2960,6 +3100,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "69b1aaf9a225b84c1169f179",
+    "feed_name": "Wired",
+    "title": "\u2018Uncanny Valley\u2019: Anthropic\u2019s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+    "author": "Brian Barrett, Zo\u00eb Schiffer, Leah Feiger",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+    "content": "In today\u2019s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
+    "date": "2026-03-12T19:48:21",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/12/well/weight-loss-drugs-response-wegovy-zepbound.html",
     "feed_name": "NYT - Emailed",
     "title": "When Weight-Loss Drugs Don\u2019t Work",
@@ -3047,6 +3197,16 @@
     "link": "https://www.nytimes.com/2026/03/12/opinion/who-will-farm-america.html",
     "content": "Many young people want to farm. They just can\u2019t afford it.",
     "date": "2026-03-12T18:15:28",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69aef82366cd6250765aff05",
+    "feed_name": "Wired",
+    "title": "Google Is Not Ruling Out Ads in Gemini",
+    "author": "Maxwell Zeff",
+    "link": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+    "content": "WIRED spoke with Nick Fox, Google\u2019s SVP of knowledge and information, about how AI is changing the company\u2019s advertising business.",
+    "date": "2026-03-12T18:15:00",
     "category": "My Feeds"
   },
   {
@@ -3520,6 +3680,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "69b191ae0d370b6cf72cfd5d",
+    "feed_name": "Wired",
+    "title": "Iran Warns US Tech Firms Could Become Targets as War Expands",
+    "author": "Dana Alomar",
+    "link": "https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/",
+    "content": "Companies including Google, Microsoft, and Palantir were listed as targets by Iranian media as the conflict with Israel and the US spills into digital infrastructure.",
+    "date": "2026-03-11T18:38:21",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-heritage-sites-damaged.html",
     "feed_name": "NYT",
     "title": "World Heritage Sites Hit in Airstrikes on Iran",
@@ -3547,6 +3717,16 @@
     "link": "https://www.nytimes.com/2026/03/11/us/politics/thune-trump-voter-bill-senate.html",
     "content": "The fierce intraparty feud over the legislation has created the first significant blowback of Senator John Thune\u2019s tenure as majority leader.",
     "date": "2026-03-11T18:19:57",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69aef91af68fc9e6f3d26fae",
+    "feed_name": "Wired",
+    "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
+    "author": "Will Knight",
+    "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+    "content": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
+    "date": "2026-03-11T18:00:00",
     "category": "My Feeds"
   },
   {
@@ -3680,6 +3860,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "69af1cc761b0f5301ec00df1",
+    "feed_name": "Wired",
+    "title": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
+    "author": "Lauren Goode",
+    "link": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+    "content": "The MTIA processors are the tech giant\u2019s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+    "date": "2026-03-11T14:23:05",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/11/opinion/trump-iran-wartime-presidents.html",
     "feed_name": "NYT",
     "title": "Trump Is the Anti-Trump",
@@ -3697,6 +3887,16 @@
     "link": "https://www.nytimes.com/2026/03/11/nyregion/nyc-tax-rich.html",
     "content": "Craig Kaplan, Marissa Hersh and Marc Baum of the New York chapter of Patriotic Millionaires. All of them support Mayor Zohran Mamdani\u2019s tax plan.",
     "date": "2026-03-11T13:55:18",
+    "category": "My Feeds"
+  },
+  {
+    "id": "69b0cffc08d13e567b3b2cff",
+    "feed_name": "Wired",
+    "title": "Meta Ramps Up Efforts to Disrupt Industrialized Scamming",
+    "author": "Lily Hay Newman",
+    "link": "https://www.wired.com/story/meta-ramps-up-efforts-to-disrupt-industrialized-scamming/",
+    "content": "Meta removed 10.9 million Facebook and Instagram accounts linked to \u201ccriminal scam centers\u201d last year, the company announced on Wednesday.",
+    "date": "2026-03-11T12:01:28",
     "category": "My Feeds"
   },
   {
@@ -9756,192 +9956,6 @@
     "link": "https://www.nytimes.com/2026/02/28/business/retirement-savings-spending-finances.html",
     "content": "LeeAnn and Randy Smith had spent decades saving and investing, but were afraid they\u2019d run out of money and have to rely on their children.",
     "date": "2026-02-28T10:00:50",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html",
-    "feed_name": "NYT Top Stories",
-    "title": "Kash Patel\u2019s Girlfriend Seeks Fame and Fortune, Escorted by an F.B.I. SWAT Team",
-    "link": "https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html",
-    "content": "Alexis Wilkins with Kash Patel as he is sworn in as F.B.I. director at the White House in February 2025.",
-    "date": "2026-02-28T10:00:43",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/28/t-magazine/resorts-that-are-family-friendly-and-actually-cool.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Resorts That Are Family Friendly and Actually Cool",
-    "author": "Sara Clemence",
-    "link": "https://www.nytimes.com/2026/02/28/t-magazine/resorts-that-are-family-friendly-and-actually-cool.html",
-    "content": "Luxury travel with children? At places like these, it\u2019s highly possible.",
-    "date": "2026-02-28T10:00:35",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/28/us/politics/supreme-court-voting-rights-act-midterms.html",
-    "feed_name": "NYT Top Stories",
-    "title": "Could the Supreme Court\u2019s Voting Rights Act Decision Affect the Midterms?",
-    "link": "https://www.nytimes.com/2026/02/28/us/politics/supreme-court-voting-rights-act-midterms.html",
-    "content": "The court is set to decide a major case that could scramble the country\u2019s congressional maps. One crucial factor for this year\u2019s elections is when the ruling lands.",
-    "date": "2026-02-28T10:00:12",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/28/nyregion/columbia-student-ice-arrest.html",
-    "feed_name": "NYT Top Stories",
-    "title": "A Tale of Two Seasons at Columbia, and Two Responses to Student Arrests",
-    "link": "https://www.nytimes.com/2026/02/28/nyregion/columbia-student-ice-arrest.html",
-    "content": "The message at Columbia University was clear this week after federal immigration agents again detained a student.",
-    "date": "2026-02-28T08:00:10",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/arts/television/heated-rivalry-gay-representation-connor-storrie.html",
-    "feed_name": "NYT - Emailed",
-    "title": "I Needed \u2018Heated Rivalry\u2019: Gay Romance Minus the Tragedy",
-    "author": "Wesley Morris",
-    "link": "https://www.nytimes.com/2026/02/27/arts/television/heated-rivalry-gay-representation-connor-storrie.html",
-    "content": "After a lifetime of settling for shame, secrecy and death onscreen, I had my doubts about \u201cHeated Rivalry.\u201d Then it seduced me, too.",
-    "date": "2026-02-28T05:33:36",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
-    "feed_name": "NYT Top Stories",
-    "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
-    "link": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
-    "content": "Sam Altman of OpenAI, which reached an agreement with the Department of Defense on A.I. on classified systems on Friday.",
-    "date": "2026-02-28T05:27:33",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html",
-    "feed_name": "NYT Top Stories",
-    "title": "Carney Visiting India, Australia and Japan to Build Canada\u2019s \u2018Middle Power\u2019 Bonds",
-    "link": "https://www.nytimes.com/2026/02/28/world/canada/carney-asia-australia-visit.html",
-    "content": "Prime Minister Mark Carney of Canada, with his wife, Diana Fox Carney, arriving in Mumbai, India, on Friday.",
-    "date": "2026-02-28T05:01:06",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/28/business/germany-geothermal-renewable-energy.html",
-    "feed_name": "NYT Top Stories",
-    "title": "New Geothermal Technology Aims to Produce Clean Energy in Germany",
-    "link": "https://www.nytimes.com/2026/02/28/business/germany-geothermal-renewable-energy.html",
-    "content": "Detail of the teeth of a drill bit that will be used in the next phase of drilling.",
-    "date": "2026-02-28T05:00:10",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html",
-    "feed_name": "NYT",
-    "title": "Silicon Valley Rallies Behind Anthropic in A.I. Clash With Trump",
-    "link": "https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html",
-    "content": "The Pentagon underestimated how strongly Anthropic felt, current and former defense officials said.",
-    "date": "2026-02-28T04:46:11",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html",
-    "feed_name": "NYT Top Stories",
-    "title": "Neil Sedaka, Singing Craftsman of Memorable Pop Songs, Dies at 86",
-    "link": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html",
-    "content": "Neil Sedaka performing onstage in London in 1977. He intersected in his career with a remarkably diverse array of musicians.",
-    "date": "2026-02-28T03:59:49",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html",
-    "feed_name": "NYT Top Stories",
-    "title": "Trump Orders U.S. Agencies to Stop Using Anthropic AI Tech After Pentagon Standoff",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html",
-    "content": "\u201cIn a narrow set of cases, we believe A.I. can undermine, rather than defend, democratic values,\u201d Dario Amodei, the chief executive of Anthropic, had said in a statement explaining his refusal of the Pentagon\u2019s terms.",
-    "date": "2026-02-28T03:52:12",
-    "category": "News"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=222066",
-    "feed_name": "Texas Tribune",
-    "title": "President Trump endorses Sid Miller and Don Huffines, countering Abbott\u2019s picks",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17285500/trump-endorsement-don-huffines-sid-miller-abbott-republican-primary-2026-election",
-    "content": "From left: Incumbent Texas Agriculture Commissioner Sid Miller and Don Huffines, Republican primary candidate for Texas comptroller.",
-    "date": "2026-02-28T03:26:09",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8700906#p8700906",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "NYCaviator",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8700906#p8700906",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br />This is the use case I\u2019ve settled on as well. The Chase checking/JPM \u201csavings\u201d. <br /> ...<br /><img alt=\":sharebeer\" class=\"smilies\" height=\"40\" src=\"https://www.bogleheads.org/forum/images/smilies/beerbuddies10.gif\" title=\"celebrate\" width=\"60\" /></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Sapphire checking is nice, but VUSXX has never been available the same day for me, regardless of when I initiate the sell order. It's always the next business day. Even more annoying is that Chase only allows you to transfer money from brokerage to checking, or vice versa, during bankers' hours. So if you forget, and it's after 5pm or on a weekend, the transfer won't go through until the next business day. Thus, while Chase has some good options, it's not without its flaws and you need to plan ahead.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Has anyone tested whether JP Morgan MM funds sale proceeds are available the same day? JPMorgan U.S. Government Money Market Fund MJGXX 7 day yield is 3.21%. It might be a good plan to keep some cash in MJGXX for fast access, if the cash can be accessed on the same day, and the bulk of cash reserve in higher yielding VUSXX.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I have not, but their Premium Deposit is paying 3% and has been available same day for me. A 0.2% difference isn\u2019t a big deal so I\u2019d just stick with the FDIC product.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=108504\">NYCaviator</a> \u2014 Fri Feb 27, 2026 8:34 pm</p><hr />",
-    "date": "2026-02-28T02:34:24",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/us/politics/scouting-america-dei-pentagon-hegseth.html",
-    "feed_name": "NYT",
-    "title": "Scouts Will Abandon D.E.I. Policies Under Agreement With Pentagon, Hegseth Says",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/scouting-america-dei-pentagon-hegseth.html",
-    "content": "Scouting America said it had staved off a demand from the Pentagon to ban girls from the organization and change its name back to Boy Scouts of America.",
-    "date": "2026-02-28T02:16:11",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html",
-    "feed_name": "NYT Top Stories",
-    "title": "L.A.U.S.D. Chief Alberto Carvalho Is Placed on Leave Following F.B.I. Raid",
-    "link": "https://www.nytimes.com/2026/02/27/us/lausd-superintendent-alberto-carvalho-fbi.html",
-    "content": "Alberto Carvalho has led the Los Angeles district since 2022.",
-    "date": "2026-02-28T01:34:22",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/us/politics/trump-taiwan-arms-sale.html",
-    "feed_name": "NYT Top Stories",
-    "title": "Taiwan Arms Sale Approved by Congress Is Delayed as Trump Plans Visit to Beijing",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-taiwan-arms-sale.html",
-    "content": "An Air Force Patriot missile system was deployed at a local park during Taiwan\u2019s annual Han Kuang military exercise last year.",
-    "date": "2026-02-28T00:47:30",
-    "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/us/politics/college-student-honduras-deportation.html",
-    "feed_name": "Most Shared",
-    "title": "Student Remains in Honduras After ICE Vows to Deport Her Again",
-    "link": "https://www.nytimes.com/2026/02/27/us/politics/college-student-honduras-deportation.html",
-    "content": "A photo provided by Any Lucia L\u00f3pez Belloza\u2019s lawyer of her at her high school graduation.",
-    "date": "2026-02-28T00:11:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-songs.html",
-    "feed_name": "Most Shared",
-    "title": "Neil Sedaka: 14 Essential Songs",
-    "link": "https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-songs.html",
-    "content": "Neil Sedaka at home in California last summer, when he was playing a residency at a lounge called Vitello\u2019s.",
-    "date": "2026-02-27T23:44:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=222040",
-    "feed_name": "Texas Tribune",
-    "title": "Tony Gonzales heads into Election Day with political future imperiled, Democrats eyeing his district",
-    "author": "Patrick Svitek",
-    "link": "https://feeds.texastribune.org/link/16799/17285454/tony-gonzales-affair-texas-23rd-congressional-district-brandon-herrera",
-    "content": "Brandon Herrera, left, and Rep. Tony Gonzales, Republican primary candidates for Texas&#039; 23rd Congressional District.",
-    "date": "2026-02-27T23:38:59",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8700770#p8700770",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "mbltna",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8700770#p8700770",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>How easy is the Premium Deposit transfer process?  Does it just show up as an account you can transfer from to your Chase Checking or are there interim steps?  Also, can you transfer directly from Prem Dep to another account or does it have to flow through a Chase Checking account?<br /><br />I've been eyeing this (and my Chase page keeps putting it in a big block in the upper right when I go to my JPM Account (lol) so I've been curious about how it works.  The online documentation makes it sound easy, but it's light on details.  TIA!</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>It's presented as another position in the investment side.  You actually start by placing a trade, but instead of buy/sell, it's labelled deposit/withdraw.  The funds go to/from the cash/sweep side of JPM, and from there you can do a transfer to checking (or wherever you like, I believe, but I haven't ever set up a link to anything else to be sure).  I've done the sequence in under a minute during business hours, so pretty easy.  Not nearly as nice as the auto-sell Fidelity does with MM funds, but fine for the \"backup\" account I'm using it for.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=180890\">mbltna</a> \u2014 Fri Feb 27, 2026 5:34 pm</p><hr />",
-    "date": "2026-02-27T23:34:46",
     "category": "My Feeds"
   }
 ]
