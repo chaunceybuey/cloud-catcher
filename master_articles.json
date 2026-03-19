@@ -130,6 +130,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/19/opinion/anti-muslim-islamophobia-trump-republicans.html",
+    "feed_name": "NYT",
+    "title": "Trump\u2019s Hypocrisy on Religious Freedom",
+    "author": "The Editorial Board",
+    "link": "https://www.nytimes.com/2026/03/19/opinion/anti-muslim-islamophobia-trump-republicans.html",
+    "content": "The attacks are shameful and full of lies.",
+    "date": "2026-03-19T12:30:58",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18576",
     "feed_name": "Stratechery",
     "title": "Spring Break",
@@ -9930,14 +9940,5 @@
     "content": "The Istrian Peninsula offers traditional stone villas near the Adriatic Sea.",
     "date": "2026-02-27T10:02:27",
     "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/climate/global-fire-weather.html",
-    "feed_name": "NYT Top Stories",
-    "title": "Fighting Wildfires Could Soon Get Harder",
-    "link": "https://www.nytimes.com/2026/02/27/climate/global-fire-weather.html",
-    "content": "A wildfire this month in Chubut Province, Argentina. Different parts of the world have historically had different fire seasons, allowing regions to rotate resources.",
-    "date": "2026-02-27T10:02:16",
-    "category": "News"
   }
 ]
