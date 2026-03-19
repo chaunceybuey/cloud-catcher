@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
+    "feed_name": "NYT",
+    "title": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
+    "author": "Neil MacFarquhar",
+    "link": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
+    "content": "An Iranian flag wrapping a building that was damaged in an airstrike in Tehran on Sunday.",
+    "date": "2026-03-19T13:12:23",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://stratechery.com/?p=18576",
     "feed_name": "Stratechery",
     "title": "Spring Break",
@@ -9929,15 +9939,5 @@
     "content": "A wildfire this month in Chubut Province, Argentina. Different parts of the world have historically had different fire seasons, allowing regions to rotate resources.",
     "date": "2026-02-27T10:02:16",
     "category": "News"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/27/realestate/st-marks-landlord-charles-fitzgerald.html",
-    "feed_name": "NYT",
-    "title": "The Benevolent Landlord of St. Marks Place",
-    "author": "Alessandra Schade and Amir Hamja",
-    "link": "https://www.nytimes.com/2026/02/27/realestate/st-marks-landlord-charles-fitzgerald.html",
-    "content": "Charles FitzGerald in his apartment on St. Marks Place, where he has lived for more than half a century.",
-    "date": "2026-02-27T10:02:09",
-    "category": "My Feeds"
   }
 ]
