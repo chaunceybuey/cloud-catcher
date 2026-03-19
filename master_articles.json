@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html",
+    "feed_name": "NYT",
+    "title": "Palestinian Man Recounts Brutal Sexual Assault by Israeli Settlers",
+    "author": "David M. Halbfinger and Fatima AbdulKarim",
+    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/west-bank-sexual-assault-israel-settlers.html",
+    "content": "Suhaib Abualkebash, with a bruised eye, in Khirbet Humsa, in the Israeli-occupied West Bank. He said he had been assaulted by Israeli settlers.",
+    "date": "2026-03-19T05:43:32",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
     "feed_name": "NYT",
     "title": "Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change",
@@ -137,6 +147,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17301802/texas-foster-care-empower-receivership",
     "content": "The Texas Department of Family and Protective Services logo found in a poster in the Child Protective Services office in Austin on Nov. 14, 2019.",
     "date": "2026-03-18T22:46:47",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/trump-iran-war.html",
+    "feed_name": "NYT",
+    "title": "How Trump Should Extricate Himself From His Iran Quagmire",
+    "author": "Nicholas Kristof",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/trump-iran-war.html",
+    "content": "Declaring victory and ending the war might not be so easy.",
+    "date": "2026-03-18T22:29:20",
     "category": "My Feeds"
   },
   {
@@ -9917,26 +9937,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17284683/texas-tech-regents-meeting-race-gender-instruction",
     "content": "The Texas Tech University Board of Regents meets at the Texas Tech University Health Sciences Center in Dallas on February 26, 2026.",
     "date": "2026-02-27T00:14:39",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221879",
-    "feed_name": "Texas Tribune",
-    "title": "With his personal life under scrutiny, Ken Paxton\u2019s family defends his character in Senate race",
-    "author": "Patrick Svitek",
-    "link": "https://feeds.texastribune.org/link/16799/17284675/ken-paxton-john-cornyn-texas-senate-gop-primary-family-character",
-    "content": "Texas Attorney General Ken Paxton speaks during the first stop on his Texas First Tour during his campaign for the U.S. Senate on Feb, 16, 2026, at Republic Icehouse in Tyler.",
-    "date": "2026-02-26T23:12:43",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Why Are So Many Teen Girls Still Tearing Their A.C.L.s?",
-    "author": "Craig Welch",
-    "link": "https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html",
-    "content": "[PHOTO ONLY:] The LA Breakers U13 soccer team who regularly does the \u201cFIFA 11+,\u201d a series of exercises designed to prevent ACL tears and other injuries.",
-    "date": "2026-02-26T22:51:17",
     "category": "My Feeds"
   }
 ]
