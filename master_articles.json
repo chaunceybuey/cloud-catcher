@@ -200,6 +200,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/us/politics/senate-republicans-trump-iran-war-authorization.html",
+    "feed_name": "NYT",
+    "title": "Senate G.O.P. Again Blocks Bid to Stop Iran War Until Trump Wins Authorization",
+    "author": "Robert Jimison",
+    "link": "https://www.nytimes.com/2026/03/18/us/politics/senate-republicans-trump-iran-war-authorization.html",
+    "content": "An explosion in Tehran earlier this month. Since the United States and Israel began joint airstrikes against Iran, Democrats have demanded that the Trump administration share more information on the objectives, timeline and costs associated with the military campaign.",
+    "date": "2026-03-19T02:19:22",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/us/family-minneapolis-boy-ice-deportation.html",
     "feed_name": "NYT",
     "title": "Family of Minneapolis Boy Detained by ICE Faces Fast-Track Deportation",
@@ -9929,16 +9939,6 @@
     "link": "https://www.nytimes.com/2026/02/27/arts/television/the-pitt.html",
     "content": "The medical drama tests viewers with protruding bones, visible organs and buckets of blood. Here\u2019s how makeup and effects artists created seven gory afflictions.",
     "date": "2026-02-27T14:57:01",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/26/business/st-kitts-nevis-destiny-olivier-janssens-crypto-libertarian.html",
-    "feed_name": "NYT - Emailed",
-    "title": "He Hopes to Turn the Island of Nevis Into a Libertarian Paradise, With Crypto",
-    "author": "Atossa Araxia Abrahamian",
-    "link": "https://www.nytimes.com/2026/02/26/business/st-kitts-nevis-destiny-olivier-janssens-crypto-libertarian.html",
-    "content": "Olivier Janssens, propelled by his cryptocurrency fortune, wants to build an enclave where residents would have special rights on Nevis.",
-    "date": "2026-02-27T11:40:29",
     "category": "My Feeds"
   }
 ]
