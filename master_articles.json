@@ -490,6 +490,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/style/men-big-shoes-trump-administration.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Why Do Men in the Trump Administration Wear Shoes That Are Too Big?",
+    "author": "Jacob Gallagher",
+    "link": "https://www.nytimes.com/2026/03/17/style/men-big-shoes-trump-administration.html",
+    "content": "Secretary of State Marco Rubio, seen here in January with shoes that have a visible gap at the back.",
+    "date": "2026-03-17T23:32:32",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/17/opinion/iran-war-israel-us-allies.html",
     "feed_name": "NYT - Emailed",
     "title": "For Once, We Fight With an Equal Ally",
@@ -9928,16 +9938,6 @@
     "link": "https://www.nytimes.com/2026/02/27/books/review/patricia-finn-novelist-golden-boy.html",
     "content": "\u201cLife does have a way of rearranging your plans,\u201d says Patricia Finn, in her Vancouver home,",
     "date": "2026-02-27T10:00:14",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221932",
-    "feed_name": "Texas Tribune",
-    "title": "Lawmakers say U.S. military used laser to take down Border Protection drone in Texas",
-    "author": "Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17284788/texas-el-paso-border-drone-laser-airspace-closure",
-    "content": "The use of an anti-drone laser Thursday prompted the Federal Aviation Administration to shut airspace in the El Paso area again, but this time the El Paso airport was not affected, as it was two weeks ago in another incident involving a laser.",
-    "date": "2026-02-27T03:12:40",
     "category": "My Feeds"
   }
 ]
