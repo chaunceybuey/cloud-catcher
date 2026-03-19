@@ -150,6 +150,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/minimum-wage-hours-work-part-time.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Let Americans Work 40 Hours a Week",
+    "author": "Adelle Waldman and Matt Bruenig",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/minimum-wage-hours-work-part-time.html",
+    "content": "Americans are stuck in dead-end, exploitative part-time jobs.",
+    "date": "2026-03-18T20:14:36",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/18/opinion/joe-kent-israel-iran.html",
     "feed_name": "NYT",
     "title": "Joe Kent\u2019s Resignation Letter Is Dangerous Because It\u2019s Half True",
@@ -237,6 +247,26 @@
     "link": "https://www.nytimes.com/2026/03/18/opinion/economy-us-trump-biden.html",
     "content": "It\u2019s all a matter of perspective.",
     "date": "2026-03-18T13:45:48",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+    "feed_name": "NYT - Emailed",
+    "title": "Turing Award Goes to Inventors of Quantum Cryptography",
+    "author": "Cade Metz",
+    "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+    "content": "On Wednesday, the Association for Computing Machinery said Charles Bennett, left, and Gilles Brassard had won this year\u2019s Turing Award, often called the Nobel Prize of computing.",
+    "date": "2026-03-18T12:19:10",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/world/middleeast/ukrainian-experts-in-middle-east-fight-drones.html",
+    "feed_name": "NYT",
+    "title": "Over 200 Ukrainian Experts in Middle East to Help Fight Drones, Zelensky Says",
+    "author": "Cassandra Vinograd",
+    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/ukrainian-experts-in-middle-east-fight-drones.html",
+    "content": "President Volodymyr Zelensky of Ukraine speaking to British lawmakers in London, on Tuesday.",
+    "date": "2026-03-18T11:48:40",
     "category": "My Feeds"
   },
   {
@@ -337,6 +367,16 @@
     "link": "https://feeds.texastribune.org/link/16799/17301246/texas-corpus-christi-water-emergency-city-council-meeting",
     "content": "The Corpus Christi City Council meets to discuss the city&#039;s depleting water supplies on March 17, 2026.",
     "date": "2026-03-18T02:54:16",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/usps-postal-service-finances.html",
+    "feed_name": "NYT",
+    "title": "U.S.P.S. Postmaster Says Service Will Be \u2018Out of Cash\u2019 in Under a Year",
+    "author": "Adam Sella",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/usps-postal-service-finances.html",
+    "content": "Postmaster General David Steiner",
+    "date": "2026-03-18T01:32:11",
     "category": "My Feeds"
   },
   {
@@ -457,6 +497,16 @@
     "link": "https://www.theatlantic.com/ideas/2026/03/joe-kent-resignation-trump/686428/",
     "content": "If Trump can never be wrong, then he can only be wronged.",
     "date": "2026-03-17T21:34:01",
+    "category": "My Feeds"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/well/dyslexia-trump-newsom-stigma.html",
+    "feed_name": "NYT - Emailed",
+    "title": "What\u2019s It Like to Have Dyslexia? Trump\u2019s Attack on Newsom Exposes Stigma",
+    "author": "Simar Bajaj and Christina Caron",
+    "link": "https://www.nytimes.com/2026/03/17/well/dyslexia-trump-newsom-stigma.html",
+    "content": "As many as 20 percent of Americans have dyslexia, a learning disorder that is not connected to IQ.",
+    "date": "2026-03-17T21:07:45",
     "category": "My Feeds"
   },
   {
@@ -9887,56 +9937,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17284372/democrats-veronica-escobar-detention-deaths-texas-east-montana-campos",
     "content": "U.S. Rep. Veronica Escobar, D-El Paso, introduces the &quot;Dignity Act&quot; outside the Capitol during a news conference on immigration policy, Tuesday, May 23, 2023, in Washington, D.C.",
     "date": "2026-02-26T15:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221759",
-    "feed_name": "Texas Tribune",
-    "title": "West Texas congressional candidates split on campaign strategy: Defend farmers or Trump",
-    "author": "Olivia Borgula",
-    "link": "https://feeds.texastribune.org/link/16799/17284234/texas-congressional-19-tom-sell-abraham-enriquez-lubbock-election-2026",
-    "content": "Seven candidates from West Texas are competing to represent the congressional district that includes Lubbock and Abilene.",
-    "date": "2026-02-26T11:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=221741",
-    "feed_name": "Texas Tribune",
-    "title": "Flores vs. Flores: GOP primary for South Texas congressional seat hinges on who can beat the Democrats",
-    "author": "Patrick Svitek",
-    "link": "https://feeds.texastribune.org/link/16799/17284235/south-texas-34th-congressional-district-eric-mayra-flores-vicente-gonzalez",
-    "content": "The Gateway International Bridge is seen Thursday, Feb. 29, 2024, in Brownsville.",
-    "date": "2026-02-26T11:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://stratechery.com/?p=18390",
-    "feed_name": "Stratechery",
-    "title": "An Interview with Bill Gurley About Runnin\u2019 Down a Dream",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/an-interview-with-bill-gurley-about-runnin-down-a-dream/",
-    "content": "<p>An interview with long-time (retired) VC Bill Gurley about his new book about building a career you love, Uber, and the modern state of VC.</p>",
-    "date": "2026-02-26T11:00:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/26/travel/montreal-with-an-airplane-pilot.html",
-    "feed_name": "NYT - Emailed",
-    "title": "A 48-Hour Layover in Montreal With an Airline Pilot",
-    "author": "Mark Vanhoenacker and Nasuna Stuart-Ulin",
-    "link": "https://www.nytimes.com/2026/02/26/travel/montreal-with-an-airplane-pilot.html",
-    "content": "On a recent stopover, the writer savors the wintry charms of this Canadian city, taking time out for a little urban skiing, bagels and his favorite Leonard Cohen songs.",
-    "date": "2026-02-26T10:01:00",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html",
-    "feed_name": "NYT",
-    "title": "Epstein Files Are Missing Records About Woman Who Made Claim Against Trump",
-    "author": "Mike Baker and Michael Gold",
-    "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html",
-    "content": "When the Justice Department made files public late last month, officials said it included all material sent by the public to the F.B.I.",
-    "date": "2026-02-26T03:04:33",
     "category": "My Feeds"
   }
 ]
