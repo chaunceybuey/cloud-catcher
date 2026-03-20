@@ -69,6 +69,10 @@
     {
       "name": "Atlantic Ideas",
       "url": "https://feed-forge-server.onrender.com/feed/TheAtlantic.xml"
+    },
+    {
+      "name": "New Yorker",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/new_yorker.xml"
     }
   ],
   "Tech": [
