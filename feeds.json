@@ -9,6 +9,12 @@
       "url": "https://www.slowboring.com/feed"
     }
   ],
+  "NYT": [
+    {
+      "name": "NYT (Shared)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
+    }
+  ],
   "Texas": [
     {
       "name": "Texas Tribune",
