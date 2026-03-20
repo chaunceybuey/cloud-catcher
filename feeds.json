@@ -65,6 +65,10 @@
     {
       "name": "NY Review",
       "url": "https://ezproxy.lib.utexas.edu/login?url=https://go-gale-com.ezproxy.lib.utexas.edu/ps/i.do?p=AONE&qt=MC~49PS&sw=w&u=txshracd2598&searchType=AdvancedSearchForm&ty=as&v=2.1&it=rss&sid=rss&digest=ecc57c778360bed9cc1d55bab2e90212"
+    },
+    {
+      "name": "Atlantic Ideas",
+      "url": "https://feed-forge-server.onrender.com/feed/TheAtlantic.xml"
     }
   ],
   "Tech": [
