@@ -7,6 +7,10 @@
     {
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/feed"
+    },
+    {
+      "name": "NYT",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
     }
   ],
   "Texas": [
