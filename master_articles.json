@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.theatlantic.com/magazine/2026/05/mexico-cartel-la-union-tepito/686453/",
+    "feed_name": "Atlantic Ideas",
+    "title": "The Incredible Story of the Cartel Olympics",
+    "author": "McKay Coppins",
+    "link": "https://www.theatlantic.com/magazine/2026/05/mexico-cartel-la-union-tepito/686453/",
+    "content": "A Mexican athlete said he was kidnapped and forced to compete for his life in a tournament of gangs. But was he actually playing a different game?",
+    "date": "2026-03-20T10:49:12.165355",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.slowboring.com/p/the-racial-justice-case-for-zoning",
     "feed_name": "Slow Boring",
     "title": "The racial justice case for zoning reform",
@@ -158,6 +168,26 @@
     "content": "When social media is constantly exhorting people to use AI, what is the point of not letting AI agents participate?",
     "date": "2026-03-20T10:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=224471",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi\u2019s crucial refineries look for alternate water supplies amid looming water crisis",
+    "author": "Paul Cobler and Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17302536/texas-corpus-christi-water-shortage-oil-gas-refineries",
+    "content": "A house next to a refinery in the Hillcrest neighborhood in Corpus Christi on Feb. 7, 2022.",
+    "date": "2026-03-20T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=224429",
+    "feed_name": "Texas Tribune",
+    "title": "Texas has taken over issuing permits to store carbon underground. Here\u2019s what to know.",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17302537/texas-carbon-storage-permits-class-6-epa-primacy",
+    "content": "A house next to a refinery in the Hillcrest neighborhood in Corpus Christi on Feb. 7, 2022.",
+    "date": "2026-03-20T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.propublica.org/article/idaho-voter-data-trump-justice-department",
@@ -9967,36 +9997,6 @@
     "link": "https://www.nytimes.com/2026/03/03/opinion/trump-imperialism-america.html",
     "content": "Donald Trump\u2019s foreign policy vision is imperialism",
     "date": "2026-03-03T10:08:30",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/03/us/politics/veterans-affairs-nurses-doctors-cut.html",
-    "feed_name": "NYT",
-    "title": "Veterans Affairs Department Cut Thousands of Roles for Doctors and Nurses",
-    "author": "Nicholas Nehamas, Andrea Fuller, Danielle Ivory and Ellen Barry",
-    "link": "https://www.nytimes.com/2026/03/03/us/politics/veterans-affairs-nurses-doctors-cut.html",
-    "content": "Dr. Katie Phelps, a psychiatrist who left the V.A. last spring, said the departure of medical staff was \u201cvery worrisome.\u201d",
-    "date": "2026-03-03T10:08:20",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/03/opinion/jd-vance-has-his-reasons.html",
-    "feed_name": "NYT - Emailed",
-    "title": "JD Vance Has His Reasons",
-    "author": "Thomas B. Edsall",
-    "link": "https://www.nytimes.com/2026/03/03/opinion/jd-vance-has-his-reasons.html",
-    "content": "The vice president\u2019s political transformation from Trump skeptic to MAGA superstar has many roots.",
-    "date": "2026-03-03T10:07:10",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/03/opinion/law-firms-resistance-trump.html",
-    "feed_name": "NYT",
-    "title": "Nine Law Firms Surrendered. Four Law Firms Won.",
-    "author": "The Editorial Board",
-    "link": "https://www.nytimes.com/2026/03/03/opinion/law-firms-resistance-trump.html",
-    "content": "The four law firms that fought Trump\u2019s executive orders have forced him to retreat.",
-    "date": "2026-03-03T10:07:07",
     "category": "My Feeds"
   }
 ]
