@@ -310,6 +310,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Last Thing Trump Wants to Do Is Save America",
+    "author": "Jamelle Bouie",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html",
+    "content": "Trump\u2019s SAVE Act would do anything but save America.",
+    "date": "2026-03-20T21:15:48",
+    "category": "NYT"
+  },
+  {
     "id": "b6db52a9cfce972d6346e0f123618f9e",
     "feed_name": "New Yorker",
     "title": "\u201cThe Wild Party\u201d Returns",
@@ -830,6 +840,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/16/opinion/financial-crisis-private-credit-ai-iran-taiwan.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "I Predicted the 2008 Financial Crisis. What Is Coming May Be Worse.",
+    "author": "Richard Bookstaber",
+    "link": "https://www.nytimes.com/2026/03/16/opinion/financial-crisis-private-credit-ai-iran-taiwan.html",
+    "content": "Richard Bookstaber warns that what appears to be disparate forces adding risk to our economy are all part of one deeply connected system.",
+    "date": "2026-03-20T18:44:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
     "feed_name": "NYT",
     "title": "Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods",
@@ -880,6 +900,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/joe-kent-israel-iran.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Joe Kent\u2019s Resignation Letter Is Dangerous Because It\u2019s Half True",
+    "author": "Michelle Goldberg",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/joe-kent-israel-iran.html",
+    "content": "Kent\u2019s resignation letter is partly rooted in truth, even if it taps into old antisemitic tropes about occult Jewish control.",
+    "date": "2026-03-20T17:02:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=18570",
     "feed_name": "Stratechery",
     "title": "2026.12: Please Listen to My Podcast",
@@ -897,7 +927,7 @@
     "link": "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html",
     "content": "Cesar Chavez during a demonstration in New York in 1969.",
     "date": "2026-03-20T16:59:10",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/03/20/nyregion/jailhouse-lawyer-quentin-lewis.html",
@@ -1220,6 +1250,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What\u2019s in Trump\u2019s SAVE Act, the Voter ID Bill Republicans Are Pushing?",
+    "author": "Minho Kim",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
+    "content": "A polling station in New York City during a mayoral election last year.",
+    "date": "2026-03-19T17:46:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8717487#p8717487",
     "feed_name": "Vanguard",
     "title": "Re: alerts [not available] for Vanguard Cash Plus account activity",
@@ -1230,6 +1270,16 @@
     "category": "Money"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/magazine/sled-dogs-pack-racing-mushing.html",
+    "feed_name": "NYT (Shared)",
+    "title": "\u2018Their Power Feels Like Mine\u2019: A Dog Sled Racer Says Goodbye to Her Pack",
+    "author": "Blair Braverman",
+    "link": "https://www.nytimes.com/2026/03/18/magazine/sled-dogs-pack-racing-mushing.html",
+    "content": "Dora (center left) and her grandmother Pep\u00e9 leading Blair Braverman\u2019s pack of retired sled dogs in northern Minnesota.",
+    "date": "2026-03-19T15:34:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/19/movies/project-hail-mary-gosling-review.html",
     "feed_name": "NYT",
     "title": "\u2018Project Hail Mary\u2019 Review: Ryan Gosling Is Lost and Found in Space",
@@ -1238,6 +1288,16 @@
     "content": "The actor plays a molecular biologist trying to help save the world in this upbeat science-fiction fantasy from Phil Lord and Christopher Miller.",
     "date": "2026-03-19T14:10:03",
     "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
+    "author": "Neil MacFarquhar",
+    "link": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
+    "content": "An Iranian flag wrapping a building that was damaged in an airstrike in Tehran on Sunday.",
+    "date": "2026-03-19T13:31:53",
+    "category": "NYT"
   },
   {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8717338#p8717338",
@@ -1310,6 +1370,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/us/politics/senate-republicans-trump-iran-war-authorization.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Senate G.O.P. Again Blocks Bid to Stop Iran War Until Trump Wins Authorization",
+    "author": "Robert Jimison",
+    "link": "https://www.nytimes.com/2026/03/18/us/politics/senate-republicans-trump-iran-war-authorization.html",
+    "content": "An explosion in Tehran earlier this month. Since the United States and Israel began joint airstrikes against Iran, Democrats have demanded that the Trump administration share more information on the objectives, timeline and costs associated with the military campaign.",
+    "date": "2026-03-19T02:19:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change",
+    "author": "Adam Rasgon, Ronen Bergman and David M. Halbfinger",
+    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
+    "content": "A new billboard in Tehran shows Iran\u2019s three supreme leaders.",
+    "date": "2026-03-18T23:16:35",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224388",
     "feed_name": "Texas Tribune",
     "title": "Court approves new manager for Dallas-area foster care program after deaths of 2 infants",
@@ -1318,6 +1398,16 @@
     "content": "The Texas Department of Family and Protective Services logo found in a poster in the Child Protective Services office in Austin on Nov. 14, 2019.",
     "date": "2026-03-18T22:46:47",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/opinion/trump-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How Trump Should Extricate Himself From His Iran Quagmire",
+    "author": "Nicholas Kristof",
+    "link": "https://www.nytimes.com/2026/03/18/opinion/trump-iran-war.html",
+    "content": "Declaring victory and ending the war might not be so easy.",
+    "date": "2026-03-18T22:29:20",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=224382",
@@ -1348,6 +1438,56 @@
     "content": "<p>The $16 billion Hudson Tunnel Project, under construction between Manhattan and New Jersey, will improve passenger rail service, an important issue for New York City commuters. It would seem to have nothing to do with what\u2019s happening in northern Wisconsin.&nbsp;</p>\n\n\n\n<p>But after the White House <a href=\"https://nypost.com/2025/10/01/us-news/18b-in-nyc-infrastructure-funding-on-hold-to-probe-whether-it-was-going-to-illegal-dei-practices-omb/\">froze federal grant funding</a> for the project in the fall, citing concerns about diversity and equity measures, lobbyists with an interest in the tunnel donated $2,500 to a political novice running in the Republican primary in Wisconsin\u2019s 7th Congressional District.&nbsp;</p>\n\n\n\n<p>The young candidate, Michael Alfonso, has no sway over the matter. However, his father-in-law does: Sean Duffy is secretary of the U.S. Department of Transportation.</p>\n\n\n\n<p>The contributions are among dozens to Alfonso\u2019s campaign from lobbyists, business executives and political action committees tied to industries \u2014 from rails and highways to shipping and air travel \u2014 that Duffy\u2019s department funds and regulates. His department also oversees the Federal Aviation Administration.</p>\n\n\n\n<p>Duffy held the 7th Congressional District seat for nearly a decade before resigning in 2019. He was succeeded by Tom Tiffany, who is now running for Wisconsin governor, leaving the seat open again. Alfonso, 26, who has worked in construction and podcasting, has been endorsed by&nbsp; President Donald Trump.&nbsp;</p>\n\n\n\n<p>A ProPublica analysis found that many of the Alfonso donors with transportation interests had never given to Duffy or Tiffany. While legal, such donations set up the appearance that helping Alfonso might assist the donors with issues influenced by Duffy. (Politico <a href=\"https://www.politico.com/newsletters/politico-influence/2026/03/13/canada-hires-cogent-to-help-maximize-its-social-media-influence-in-the-u-s-00828720\">has reported</a> on some of these contributions.)</p>\n\n\n\n<p>\u201cThe law, as it stands, provides very little constraint,\u201d said Daniel Weiner, director of the Elections and Government Program at the Brennan Center for Justice, a law and policy institute based in New York. \u201cThere\u2019s a very large gulf between what is legal and what is ethical. Obviously, this raises numerous ethical questions.\u201d</p>\n\n\n\n<p>This is not the first time a Cabinet secretary\u2019s relative has created thorny ethical issues. During the first Trump administration, Transportation Secretary Elaine Chao <a href=\"https://www.salon.com/2019/06/10/elaine-chao-trumps-transportation-secretary-used-her-office-to-boost-mitch-mcconnell-report/\">made headlines</a> for appearing to give preferential treatment to Kentucky officials for millions of dollars in infrastructure grants. Kentucky is the home state of her husband, Mitch McConnell, then Senate majority leader. At the time, Chao\u2019s office denied showing any favoritism, saying that Kentucky\u2019s share was not out of the ordinary.</p>\n\n\n\n<p>And in 2012, under President Barack Obama, Agriculture Secretary Tom Vilsack, an Iowa Democrat, <a href=\"https://www.agri-pulse.com/articles/1498-christie-vilsack-reports-strong-fund-raising-in-race-vs-rep-king/amp\">fielded questions</a> about the separation between U.S. Department of Agriculture business and the campaign of his wife, Christie, who was running for Congress. Christie Vilsack told ProPublica in an interview that the couple was careful about making sure her husband was not involved in the campaign, other than to support her at some debates and on election night. He \u201cnever did any fundraising at all,\u201d she said.</p>\n\n\n\n<p>An influential member of Trump\u2019s Cabinet, Duffy has been openly assisting his son-in-law\u2019s campaign. The notice for a November \u201cmeet and greet\u201d with Alfonso in Wausau, Wisconsin, mentioned that Duffy would be a special guest, as did an invitation for another December fundraiser.&nbsp;</p>\n\n\n\n<p>Among the sponsors for the December event was the political action committee for Delta Air Lines. The invitation included a caveat: \u201cSean Duffy is not soliciting funds in connection with this event.\u201d&nbsp;</p>\n\n\n\n<p>Alfonso\u2019s campaign did not respond to requests from ProPublica for an interview or for comment. A spokesperson for Duffy, Nathaniel Sizemore, provided a written statement saying: &#8220;The Secretary attends fundraising events in his personal capacity. Regulatory decisions are guided by career safety professionals, the law, and the facts.&#8221;</p>\n\n\n\n<p>Nothing in law bars Duffy from campaigning for his son-in-law, so long as he goes about it on his personal time, does not use government resources and does not promise to take some official action in exchange for a contribution.&nbsp;</p>\n\n\n\n<p>Alfonso is using the same fundraising consultant, Kirstin Hopkins, that Duffy employed, Federal Election Commission records show. In addition, Alfonso has received help with ads and mailers from a super PAC, the Northwoods Future PAC, that is funded with $1 million from Duffy\u2019s former campaign committee. Alfonso\u2019s familial advantage <a href=\"http://wisconsinrightnow.com/michael-alfonso-sean-duffy-john-righeimer-sawyer-county/\">has irked some Wisconsin Republicans</a> who don\u2019t want the newcomer to glide into such an important position.</p>\n\n\n\n<p>Through his own campaign committee, Alfonso had raised a little over $305,000 as of the end of 2025, the latest filing available. By law, contributions for each election are limited to $3,500 from individuals and $5,000 from political action committees. Donors can contribute to more than one election at the same time, such as a primary race and a general.</p>\n\n\n\n<p>Alfonso\u2019s donors include lobbyist Jeffrey Miller, a finance chair of Trump\u2019s most recent inaugural committee. In December, Miller and his company\u2019s chief operating officer donated separately to Alfonso, for a combined $8,500. No one listing their firm, Miller Strategies, as an employer had donated to either Duffy or Tiffany in the past, according to FEC records.&nbsp;</p>\n\n\n\n<p>Lobbyist disclosure reports show that Miller lobbied the Transportation Department in 2025 on behalf of at least nine companies, one New York county and one Native American tribe. The issues included airport signage regulation, aviation permitting for the developer of a supersonic airliner and advancements in GPS technology. Miller reported advocating for Archer Aviation regarding electric vertical takeoff and landing aircraft technology, known as eVTOL \u2014 the basis for future flying cars.</p>\n\n\n\n<p>Earlier this month, Duffy announced <a href=\"https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil\">a first-of-its-kind FAA pilot program</a> to test eVTOL technology in eight demonstration projects across 26 states. <a href=\"https://archer.com/\">Archer was among the companies</a> selected to participate, according to the Transportation Department. In a video accompanying the announcement, Duffy spoke enthusiastically about the technology, envisioning \u201cUbers in the air\u201d taking people from one airport to the next and beyond. He said, \u201ceVTOLs are going to make the airspace far more interesting and far more fun, and we have to be prepared for that.\u201d&nbsp;</p>\n\n\n\n<p>Miller did not return calls or emails seeking comment.&nbsp;</p>\n\n\n\n<p>Alfonso graduated in 2022 from the University of Wisconsin with a math degree. He moved to Florida for a time to help produce a popular podcast hosted by Dan Bongino, a Trump supporter who later served a brief stint as deputy director of the FBI. (Bongino is back podcasting again.)&nbsp;</p>\n\n\n\n<p>By Alfonso\u2019s account, he and Trump first met in 2022 at Alfonso\u2019s wedding to Duffy\u2019s daughter, Evita. The reception took place at one of Trump\u2019s New Jersey golf courses.</p>\n\n\n\n<p>Alfonso has said that in an Oval Office meeting after he decided to run for Congress, he pledged loyalty to the president. \u201cI promised him that I would always be America first, I would always fight for his agenda and that nobody would ever outwork me,\u201d Alfonso told Mark Halperin, another podcaster.</p>\n\n\n\n<p>On social media in November, Alfonso thanked Duffy for coming to his first campaign event in Wausau, the city where the candidate met his future wife while they were in middle school.</p>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-small bb--size-small-right\"><img alt=\"A screenshot of a post to X from @MikeAlfonsoWI with text that reads, \u201cHuge thank you to Sean Duffy and everyone who came out to our first official campaign event in my hometown of Wausau! Grateful for the support \u2014 and fired up for what\u2019s ahead! &#x1f1fa;&#x1f1f8;\u201d and four photographs of a political campaign event taking place in a conference room.\" class=\"wp-image-70774\" height=\"464\" src=\"https://www.propublica.org/wp-content/uploads/2026/03/DuffyAlfonso-Twitter-grey_maxHeight_3000_maxWidth_3000.jpg?w=527\" width=\"527\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">In a post on X, Alfonso thanked his father-in-law for joining him on the campaign trail in Wisconsin last November.</span> <span class=\"attribution__credit\">X</span></figcaption></figure>\n\n\n\n<p>The following month, the transportation secretary appeared at a campaign fundraiser for Alfonso at a hotel in Green Bay, near the storied Lambeau Field. The donors in attendance included Sharad Tak of Bethesda, Maryland, the CEO of ST LNG, a company <a href=\"https://www.regulations.gov/document/MARAD-2025-0096-0003\">seeking a DOT-issued license</a> to construct and operate a deep-water port offshore of Matagorda, Texas, to load liquefied natural gas onto carriers.&nbsp;</p>\n\n\n\n<p>Tak gave $500 to the campaign, and his wife, Mahinder, who did not attend the function, gave $7,000. Neither had donated to Duffy or Tiffany.&nbsp;</p>\n\n\n\n<p>Tak did not reply to ProPublica\u2019s request for an interview but asked a longtime friend of his, Ann Murphy of Green Bay, who works as a consultant for him, to respond. Tak owns a paper mill in Oconto Falls, north of Green Bay. It is not in the 7th Congressional District. But Murphy said Tak was visiting the state and agreed, at her request, to attend the fundraiser for Alfonso.&nbsp;</p>\n\n\n\n<p>She said in an interview that the Texas liquefied natural gas project had no bearing on Tak\u2019s campaign contribution. \u201cAbsolutely not.\u201d&nbsp;</p>\n\n\n\n<p>It\u2019s typical, she said, for Tak and his wife to support causes, both political and philanthropic, that Murphy and her husband find worthwhile \u2014 and vice versa.</p>\n\n\n\n<p>\u201cWe were very excited about Michael,\u201d Murphy said of Alfonso, likening him to Charlie Kirk, the founder of Turning Point USA who inspired many young people before being killed last year. \u201cAnd he does have the endorsement of President Trump.\u201d</p>\n\n\n\n<p>Others donating to Alfonso\u2019s candidacy include political action committees for employees of the military jetmaker Lockheed Martin, which is subject to FAA safety regulations and has lucrative government contracts, and for T-Mobile, which is working on a <a href=\"https://investor.iridium.com/2025-10-21-Iridium-Awarded-U-S-Department-of-Transportation-Contract-for-Complementary-Positioning,-Navigation,-and-Timing-Services-Deployment-and-Testing\">DOT project</a> to enhance the resilience of critical 5G infrastructure. PACs for unions and trade associations for heavy equipment operators, engineers, aeronautical services and the travel industry have also pitched in.&nbsp;</p>\n\n\n\n<p>The PAC for Brightline, a high-speed train service in Florida, also donated, giving $2,500 in December. Brightline trains have struck and killed more than 180 pedestrians or drivers at crossings since 2017, according to an investigation by the <a href=\"https://www.miamiherald.com/news/local/article308679915.html\">Miami Herald and WLRN</a>. Duffy promised at <a href=\"https://transportation.house.gov/calendar/eventsingle.aspx?EventID=408886\">a congressional committee</a> hearing in July to work to \u201cdrive down the number of deaths.\u201d In September, <a href=\"https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-announces-over-42-million-critical\">he announced t</a>hat his department would distribute <a href=\"https://www.gobrightline.com/press-room/2025/usdot-announces-funding-for-florida-rail-safety-improvements\">$42 million</a> to improve safety along the line. In a statement to the Florida news organizations, <a href=\"https://www.miamiherald.com/static/hi/2025/miami-brightline/data/brightline_statement.pdf\">Brightline officials blamed the deaths</a> on suicides and the \u201creckless\u201d behavior of people who put themselves in harm\u2019s way.&nbsp;</p>\n\n\n\n<p>Brightline, T-Mobile and Lockheed Martin did not respond to ProPublica\u2019s requests for comment. On its website, <a href=\"https://www.lockheedmartin.com/en-us/who-we-are/leadership-governance/board-of-directors/political-disclosures.html\">Lockheed notes</a> that it complies with all applicable laws and regulations with regard to its political and public policy activities.&nbsp;</p>\n\n\n\n<p>Alfonso\u2019s campaign has drawn donations from others in the heavily regulated railroad sector. They include Peter Bartek, founder of FTS Rail, which manufactures battery-powered railroad repair tools and sensors that detect rail breaks caused by extreme heat or cold. He gave $3,644&nbsp; in November. Duffy appointed <a href=\"https://www.transportation.gov/briefing-room/president-trumps-transportation-secretary-sean-p-duffy-appoints-members-united-states#:~:text=On%20July%2016%2C%202025%2C%20U.S.%20Transportation%20Secretary,*%20Michael%20Capasso%2C%20Chief%20Executive%20Officer%2C%20C.A.C.\">Bartek last July to serve</a> on a DOT advisory committee.&nbsp;</p>\n\n\n\n<p>Bartek had never given to a candidate in the district before. In an interview, he said he read a news article about Alfonso\u2019s campaign and decided to donate. \u201cI like Secretary Duffy very much,\u201d he said, \u201cand I thought very simply, boy, if he\u2019s anything like his father-in-law, it would be nice to support him as well.\u201d</p>\n\n\n\n<p>He said in a text that he didn\u2019t know Duffy personally and was not involved in Alfonso\u2019s campaign or fundraising.</p>\n\n\n\n<p>In New York, construction on the Hudson Tunnel Project to improve commuter rail service came to a screeching halt in early February after the federal government <a href=\"https://www.transportation.gov/briefing-room/us-department-transportation-statement-review-chicagos-discriminatory\">cut off funds</a>. A court intervened, ordering the money released, and work resumed. A bistate commission overseeing the project <a href=\"https://www.gatewayprogram.org/wp-content/uploads/2026/03/GDC-Press-Release-March-2026-Construction-Update-for-website.pdf\">warned this month</a> that it could face disruptions again in upcoming months if federal disbursements do not continue.</p>\n\n\n\n<p>In response to outreach from ProPublica, an executive at Venture Government Strategies, whose lobbyists for the tunnel project gave a combined $2,500 to Alfonso, said in an email the company had no comment.&nbsp;</p>\n\n\n\n<p>On his campaign website, Alfonso lists a dozen issues \u201cthat matter to us\u201d \u2014 ranging from education and health care to immigration. He wants to \u201cmake farms and families strong,\u201d \u201cgive Gen Z a voice\u201d and work against access to abortion.&nbsp;</p>\n\n\n\n<p>Transportation issues are not among those priorities, but he still is getting support from General Motors, which regularly lobbies DOT on various issues, including fuel economy, vehicle safety and emissions standards, and other mandates. The giant car manufacturer also gave to Duffy when he was running for the congressional seat, and the transportation secretary has become a booster. (GM did not respond to ProPublica\u2019s request for comment.)</p>\n\n\n\n<p>In mid-December, viewers of social media saw Duffy slide behind the wheel of a sleek, black, limited-edition Corvette, imbued with patriotic insignia to celebrate the nation\u2019s upcoming 250th birthday.&nbsp;</p>\n\n\n\n<p>\u201cOver 1,000 horsepower,\u201d Duffy said <a href=\"https://x.com/secduffy/status/2000638791065952536?s=46\">in a promotional video</a>, emphasizing the dynamic features&nbsp;of the $200,000 supercar. \u201cWe\u2019re going to take this bad boy on a little test drive to the Army-Navy game.\u201d Off he went.&nbsp;</p>\n\n\n\n<p>The video, uploaded to the social media platform X, highlighted a travel app the carmaker made in partnership with the Department of Transportation, while also showcasing Chevrolet\u2019s automotive series dubbed Stars and Steel.&nbsp;</p>\n\n\n\n<p>The post received over 130,000 views: valuable advertisement for the storied carmaker, General Motors. A couple of weeks later, GM\u2019s political action committee donated $1,000 to Alfonso.</p>\n<p>The post <a href=\"https://www.propublica.org/article/sean-duffy-michael-alfonso-congress-transportation\">Transportation Lobbyists Have Donated Thousands to Sean Duffy\u2019s Son-in-Law as He Runs for Congress</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
     "date": "2026-03-18T18:15:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Next Decision in War: Whether to Retrieve Iran\u2019s Nuclear Fuel",
+    "author": "David E. Sanger",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
+    "content": "A satellite image of the Pickaxe Mountain tunnel complex near the Natanz nuclear facility in central Iran last week. It is not certain where all of Iran\u2019s nuclear material resides.",
+    "date": "2026-03-18T17:07:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/dining/gorgeously-green-kale-sauce-pasta.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Gorgeously Green Kale Sauce Pasta",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/17/dining/gorgeously-green-kale-sauce-pasta.html",
+    "content": "Says one reader: \u201cI made this and called it \u2018Shrek pasta.\u2019 Was delicious.\u201d",
+    "date": "2026-03-18T17:01:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/podcasts/joan-price-widow-sex.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Author Joan Price Teaches Other Widows How To Get Their Sex Drive Back",
+    "author": "Anna Martin",
+    "link": "https://www.nytimes.com/2026/03/18/podcasts/joan-price-widow-sex.html",
+    "content": "When Joan Price lost her husband, her sex drive disappeared. Now, she\u2019s teaching others how she got it back.",
+    "date": "2026-03-18T16:27:50",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/arts/design/gardner-museum-heist-theories.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Got an Idea About Who Robbed the Gardner Museum? Get in Line.",
+    "author": "Tom Mashberg",
+    "link": "https://www.nytimes.com/2026/03/18/arts/design/gardner-museum-heist-theories.html",
+    "content": "Theories abound as to who pulled off the largest art heist in U.S. history. In a new book, the former F.B.I. agent who handled the case dismisses many of them.",
+    "date": "2026-03-18T15:24:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Turing Award Goes to Inventors of Quantum Cryptography",
+    "author": "Cade Metz",
+    "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+    "content": "On Wednesday, the Association for Computing Machinery said Charles Bennett, left, and Gilles Brassard had won this year\u2019s Turing Award, often called the Nobel Prize of computing.",
+    "date": "2026-03-18T12:19:10",
+    "category": "NYT"
   },
   {
     "id": "https://www.slowboring.com/p/worry-less-do-more",
@@ -1420,6 +1560,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/science/bird-nests-cigarettes.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Why Some Birds Seem to Be Developing a Cigarette Habit",
+    "author": "Lesley Evans Ogden",
+    "link": "https://www.nytimes.com/2026/03/18/science/bird-nests-cigarettes.html",
+    "content": "A blue tit nesting in a cigarette disposal bin in Surrey, England.",
+    "date": "2026-03-18T09:03:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/18/us/politics/jan-6-contracts.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Firm That Planned Trump\u2019s Jan. 6 Rally Received No-Bid Contracts",
+    "author": "David A. Fahrenthold and Andrea Fuller",
+    "link": "https://www.nytimes.com/2026/03/18/us/politics/jan-6-contracts.html",
+    "content": "President Trump addressing the crowd at his rally on Jan. 6, 2021, that Event Strategies Inc. helped organize. Attendees overran the Capitol later that day.",
+    "date": "2026-03-18T09:01:25",
+    "category": "NYT"
+  },
+  {
     "id": "69b9514ad8d631c623d330c2",
     "feed_name": "Wired (Science)",
     "title": "A Quantum Leap for the Turing Award",
@@ -1430,6 +1590,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How TrumpRx Drug Prices Compare With Those in Other Countries",
+    "author": "Rebecca Robbins",
+    "link": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html",
+    "content": "President Trump unveiled the TrumpRx website last month. Visitors to the site are greeted by a promise: \u201cFind the world\u2019s lowest prices on prescription drugs.\u201d",
+    "date": "2026-03-18T04:01:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224331",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi water emergency may be just two months away, city leaders say",
@@ -1438,6 +1608,36 @@
     "content": "The Corpus Christi City Council meets to discuss the city&#039;s depleting water supplies on March 17, 2026.",
     "date": "2026-03-18T02:54:16",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html",
+    "feed_name": "NYT (Shared)",
+    "title": "In His Resignation Letter, Joe Kent Spoke About the Death of His Wife",
+    "author": "John Ismay",
+    "link": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html",
+    "content": "Joe Kent, the director of the National Counterterrorism Center, resigned on Tuesday.",
+    "date": "2026-03-18T01:17:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/style/men-big-shoes-trump-administration.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Why Do Men in the Trump Administration Wear Shoes That Are Too Big?",
+    "author": "Jacob Gallagher",
+    "link": "https://www.nytimes.com/2026/03/17/style/men-big-shoes-trump-administration.html",
+    "content": "Secretary of State Marco Rubio, seen here in January with shoes that have a visible gap at the back.",
+    "date": "2026-03-17T23:32:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/opinion/iran-war-israel-us-allies.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "For Once, We Fight With an Equal Ally",
+    "author": "Bret Stephens",
+    "link": "https://www.nytimes.com/2026/03/17/opinion/iran-war-israel-us-allies.html",
+    "content": "Israel is the rare U.S. ally that pulls its weight, shares the risk and contributes to victory.",
+    "date": "2026-03-17T23:20:47",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=224298",
@@ -1497,7 +1697,27 @@
     "link": "https://www.nytimes.com/2026/03/17/arts/design/banksy-identity-robin-gunningham-david-jones.html",
     "content": "Banksy transformed his artwork \u201cGirl With Balloon\u201d into \u201cLove Is in the Bin\u201d when it was shredded after being sold at auction.",
     "date": "2026-03-17T19:50:37",
-    "category": "Uncategorized"
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/us/trump-newsom-dyslexic-president-learning-disabilities.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Says Newsom Shouldn\u2019t Be President Because He Is Dyslexic",
+    "author": "Tim Balk",
+    "link": "https://www.nytimes.com/2026/03/17/us/trump-newsom-dyslexic-president-learning-disabilities.html",
+    "content": "Gov. Gavin Newsom of California addressing the crowd at an event hosted by the South Carolina Democratic Party in February.",
+    "date": "2026-03-17T19:33:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/16/dining/us-alcohol-restaurants.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Dinner and No Drinks: Restaurants Are Struggling as Americans Drink Less",
+    "author": "Meghan McCarron",
+    "link": "https://www.nytimes.com/2026/03/16/dining/us-alcohol-restaurants.html",
+    "content": "Traditionally a reliable revenue stream for restaurants, alcoholic drinks are down markedly \u2014 and the bottom line is, too.",
+    "date": "2026-03-17T18:23:22",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=224180",
@@ -1508,6 +1728,26 @@
     "content": "Texas Attorney General Ken Paxton speaks during a campaign stop in Tyler on Feb. 16, 2026.",
     "date": "2026-03-17T17:55:39",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Dangerous Lack of a Strategy in Iran",
+    "author": "The Editorial Board",
+    "link": "https://www.nytimes.com/2026/03/17/opinion/trump-iran-war-strategy.html",
+    "content": "The early reality of the Iran war is not cooperating with the president\u2019s bluster.",
+    "date": "2026-03-17T16:33:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/world/europe/peter-thiel-rome-antichrist-catholics.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Peter Thiel Fears the Antichrist Is Coming. In Rome, Some Call His View Heresy.",
+    "author": "Elisabetta Povoledo",
+    "link": "https://www.nytimes.com/2026/03/17/world/europe/peter-thiel-rome-antichrist-catholics.html",
+    "content": "Peter Thiel speaking in Cambridge, England, in 2024. He previously delivered lectures on the Antichrist in Paris in January and in San Francisco last year.",
+    "date": "2026-03-17T12:58:53",
+    "category": "NYT"
   },
   {
     "id": "https://www.slowboring.com/p/why-silicon-valley-hasnt-done-more",
@@ -1550,6 +1790,46 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/17/realestate/plant-this-not-that-native-garden-swaps.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How to Grow a Mainly Native Garden",
+    "author": "Margaret Roach",
+    "link": "https://www.nytimes.com/2026/03/17/realestate/plant-this-not-that-native-garden-swaps.html",
+    "content": "In her book \u201cPlant This, Not That,\u201d Elise Howard offers more than 200 substitution ideas for invasive plants.",
+    "date": "2026-03-17T09:02:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/science/birds-honeyeater-birdsong-conservation.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How To Bring a Bird\u2019s Song Back from the Edge of Extinction",
+    "author": "Emily Anthes",
+    "link": "https://www.nytimes.com/2026/03/17/science/birds-honeyeater-birdsong-conservation.html",
+    "content": "The regent honeyeater population of Australia has dropped sharply since the mid-20th century. Today scientists estimate that roughly 250 wild birds live in the fragmented forests across an area about the size of Spain.",
+    "date": "2026-03-17T09:01:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/realestate/kingston-new-york-pike-plan-sidewalks-time-capsule.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Removal of Kingston\u2019s Sidewalk Canopies Reveals a Time Capsule",
+    "author": "Alexandra Marvar",
+    "link": "https://www.nytimes.com/2026/03/17/realestate/kingston-new-york-pike-plan-sidewalks-time-capsule.html",
+    "content": "Dozens of buildings in Kingston, N.Y., have had parts of their facades torn off as part of a community-led refurbishment effort.",
+    "date": "2026-03-17T09:00:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/17/travel/belize-tobacco-caye-budget-travel.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Dreaming of a Budget Version of a Private Island? Tobacco Caye Fits the Bill.",
+    "author": "Elaine Glusac and Scott Mcintyre For The New York Times",
+    "link": "https://www.nytimes.com/2026/03/17/travel/belize-tobacco-caye-budget-travel.html",
+    "content": "Waterside cabanas at the Tobacco Caye Paradise resort off the coast of Belize.",
+    "date": "2026-03-17T09:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/oklahoma-injection-wells-oil-regulators-database",
     "feed_name": "ProPublica",
     "title": "Oil Regulators Found Hundreds of Wells Violating Oklahoma Rules. Then They Ignored Their Findings.",
@@ -1588,6 +1868,16 @@
     "content": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" href=\"https://substackcdn.com/image/fetch/$s_!N37F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7eb05f59-bb59-46c2-87f9-5606b1b37c24_5000x3333.jpeg\" target=\"_blank\"><div class=\"image2-inset\"><source type=\"image/webp\" /><img alt=\"\" class=\"sizing-normal\" height=\"971\" src=\"https://substackcdn.com/image/fetch/$s_!N37F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7eb05f59-bb59-46c2-87f9-5606b1b37c24_5000x3333.jpeg\" width=\"1456\" /><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button class=\"pencraft pc-reset pencraft icon-container restack-image\" tabindex=\"0\" type=\"button\"><svg fill=\"none\" height=\"20\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button class=\"pencraft pc-reset pencraft icon-container view-image\" tabindex=\"0\" type=\"button\"><svg class=\"lucide lucide-maximize2 lucide-maximize-2\" fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Democratic candidate for Texas&#8217;s 15th Congressional District Bobby Pulido sings to Summer Love Cantu during her quincea&#241;era party on March 14. (Photo by <a href=\"https://www.gettyimages.com/search/2/image?artistexact=Pool\">Pool</a>)</figcaption></figure></div><p>The results from Tuesday&#8217;s special and primary elections did not provide answers about Democrats&#8217; ability to flip seats in Trump country, but they offered some encouraging, if incomplete, evidence &#8230;</p>\n      <p>\n          <a href=\"https://www.slowboring.com/p/quinceaneras-and-republican-tumult\">\n              Read more\n          </a>\n      </p>",
     "date": "2026-03-16T22:01:38",
     "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/16/us/politics/uss-ford-fire-iran-venezuela.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Fire on the U.S. Aircraft Carrier Gerald R. Ford Raged for Hours, Sailors Say",
+    "author": "Helene Cooper",
+    "link": "https://www.nytimes.com/2026/03/16/us/politics/uss-ford-fire-iran-venezuela.html",
+    "content": "The crew on the U.S.S. Gerald R. Ford have been told that their deployment will likely be extended into May, which would put them at an entire year at sea.",
+    "date": "2026-03-16T21:33:24",
+    "category": "NYT"
   },
   {
     "id": "https://www.slowboring.com/p/upscale-liberals-are-developing-class",
@@ -1638,6 +1928,16 @@
     "content": "<p>Ask your questions below.</p>\n      <p>\n          <a href=\"https://www.slowboring.com/p/sunday-thread-mailbag-377\">\n              Read more\n          </a>\n      </p>",
     "date": "2026-03-15T17:01:33",
     "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/15/opinion/columnists/minneapolis-ice-trump-neighbor.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Why Minnesota Matters More Than Iran for America\u2019s Future",
+    "author": "Thomas L. Friedman",
+    "link": "https://www.nytimes.com/2026/03/15/opinion/columnists/minneapolis-ice-trump-neighbor.html",
+    "content": "Moms donating their breast milk to strangers, dads taking someone else\u2019s kids to school: Minnesotans showed a basic human impulse to look out for their neighbors.",
+    "date": "2026-03-15T14:51:04",
+    "category": "NYT"
   },
   {
     "id": "69b478914c5f5e935676dae2",
@@ -1728,6 +2028,16 @@
     "content": "If you want to believe the Iran war is going as planned, don\u2019t listen to the defense secretary.",
     "date": "2026-03-13T20:03:36",
     "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Coding After Coders: The End of Computer Programming as We Know It",
+    "author": "Clive Thompson",
+    "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+    "content": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they\u2019re doing is deeply, deeply weird.",
+    "date": "2026-03-13T18:54:23",
+    "category": "NYT"
   },
   {
     "id": "https://stratechery.com/?p=18521",
@@ -1950,6 +2260,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/dining/fast-chicken-fajitas-cod-with-caper-orange-sauce.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Fast Chicken Fajitas, Cod With Caper-Orange Sauce",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/10/dining/fast-chicken-fajitas-cod-with-caper-orange-sauce.html",
+    "content": "Recipes with little prep, big payoff.",
+    "date": "2026-03-10T15:00:12",
+    "category": "NYT"
+  },
+  {
     "id": "699213bd7f3d1906e4e84222",
     "feed_name": "Wired (Science)",
     "title": "How Can a Locomotive Pull a Long Train That\u2019s Much Heavier?",
@@ -2000,6 +2320,16 @@
     "category": "Money"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html",
+    "feed_name": "NYT (Shared)",
+    "title": "America\u2019s Billionaires Continue to Flock to Wyoming",
+    "author": "Katie Benner, Steven Rich, Mike Baker, John Branch and Will Warasila",
+    "link": "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html",
+    "content": "Jackson, Wyo. Teton County is both the richest county in America and a place that in some areas is struggling to maintain basic services.",
+    "date": "2026-03-09T14:17:41",
+    "category": "NYT"
+  },
+  {
     "id": "699c6058cd03b9e4a41bdf86",
     "feed_name": "Wired (Science)",
     "title": "Don\u2019t Expect Big Surprises in the Government\u2019s Alien Files",
@@ -2038,6 +2368,16 @@
     "content": "A recent study suggests that left-handed people have an advantage in competitive contexts, while righties tend to cooperate better.",
     "date": "2026-03-08T09:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/07/opinion/trump-iran-george-w-bush-iraq.html",
+    "feed_name": "Douthat",
+    "title": "Trump\u2019s Iran War and the Shadow of Iraq",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/03/07/opinion/trump-iran-george-w-bush-iraq.html",
+    "content": "The desire for a revolutionary presidency gives hubris a lot of space to work.",
+    "date": "2026-03-07T12:54:04",
+    "category": "NYT"
   },
   {
     "id": "69a83dd503783f3ea965bb3d",
@@ -2160,6 +2500,16 @@
     "category": "Money"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/04/world/africa/ethiopia-eritrea-war-tensions.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Ethiopia\u2019s Demand for a Port Drives Fear of New War With Eritrea",
+    "author": "Matthew Mpoke Bigg",
+    "link": "https://www.nytimes.com/2026/03/04/world/africa/ethiopia-eritrea-war-tensions.html",
+    "content": "Marking the 130th anniversary of the Battle of Adwa in Addis Ababa, Ethiopia, on Monday.",
+    "date": "2026-03-04T23:27:20",
+    "category": "NYT"
+  },
+  {
     "id": "69a836b8e6bce564b2476064",
     "feed_name": "Wired (Science)",
     "title": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
@@ -2178,6 +2528,16 @@
     "content": "The Middle East supplies a huge amount of the world\u2019s fertilizer. Conflict in the region has sent prices soaring ahead of the critical spring planting season.",
     "date": "2026-03-04T19:08:46",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/opinion/iran-trump.html",
+    "feed_name": "Douthat",
+    "title": "The Iran War Is Trump\u2019s War",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/03/03/opinion/iran-trump.html",
+    "content": "Has the president\u2019s unerring instinct for vulnerability finally failed him?",
+    "date": "2026-03-04T17:44:29",
+    "category": "NYT"
   },
   {
     "id": "698bc61826aca79c141aa588",
@@ -2208,6 +2568,16 @@
     "content": "J. D. Vance says this Middle East entanglement can\u2019t be dumb\u2014because Trump is smart.",
     "date": "2026-03-03T16:33:37",
     "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/03/dining/quick-craveable-dishes-to-break-me-out-of-a-cooking-rut.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Quick, Craveable Dishes to Break Me Out of a Cooking Rut",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/03/dining/quick-craveable-dishes-to-break-me-out-of-a-cooking-rut.html",
+    "content": "Like: crispy halloumi with tomatoes and white beans, roasted chicken thighs with hot honey and lime, Turkish eggs with yogurt.",
+    "date": "2026-03-03T16:00:06",
+    "category": "NYT"
   },
   {
     "id": "6943221264a0ac3791662b80",
@@ -2250,6 +2620,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/28/opinion/artificial-intelligence-trump-hegseth-anthropic.html",
+    "feed_name": "Douthat",
+    "title": "If A.I. Is a Weapon, Who Should Control It?",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/02/28/opinion/artificial-intelligence-trump-hegseth-anthropic.html",
+    "content": "Better to put this power in the hands of private industry or government officials?",
+    "date": "2026-02-28T12:00:10",
+    "category": "NYT"
+  },
+  {
     "id": "c52d42b15329ff4292c062f95b35c0a8",
     "feed_name": "Outside",
     "title": "Heli-Skiing in California Seemed Like a Pipe Dream. Then These Two Guys Showed Up.",
@@ -2290,6 +2670,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/24/dining/salmon-and-cherry-tomato-curry-sheet-pan-steak-and-pepper-tacos.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Salmon and Cherry Tomato Curry, Sheet-Pan Steak and Pepper Tacos",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/02/24/dining/salmon-and-cherry-tomato-curry-sheet-pan-steak-and-pepper-tacos.html",
+    "content": "Quick, bright dinners that fully ignore the snow.",
+    "date": "2026-02-25T18:24:59",
+    "category": "NYT"
+  },
+  {
     "id": "6973cebdbbe5270f3f25c5d3",
     "feed_name": "Wired",
     "title": "This Is the Worst Thing That Could Happen to the International Space Station",
@@ -2298,6 +2688,16 @@
     "content": "There\u2019s a good way to throw out the ISS. And then there\u2019s a really bad way.",
     "date": "2026-02-25T11:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
+    "feed_name": "Douthat",
+    "title": "Whatever Happened to Grown-Up Movies for Kids?",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
+    "content": "We need stories that are more adult than Y.A. and less explicit than HBO.",
+    "date": "2026-02-24T23:16:11",
+    "category": "NYT"
   },
   {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8696916#p8696916",
@@ -2400,6 +2800,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
+    "feed_name": "Douthat",
+    "title": "4 Big U.F.O. Questions for the White House",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
+    "content": "What a declassification effort could help us resolve.",
+    "date": "2026-02-22T18:30:57",
+    "category": "NYT"
+  },
+  {
     "id": "6977ebfee4802fe5f44062e3",
     "feed_name": "Wired",
     "title": "Inside the Gay Tech Mafia",
@@ -2410,6 +2820,36 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/17/opinion/rubio-munich-security-conference.html",
+    "feed_name": "Douthat",
+    "title": "What the American Right Wants From Europe",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/02/17/opinion/rubio-munich-security-conference.html",
+    "content": "The tensions in Marco Rubio\u2019s trans-Atlantic vision.",
+    "date": "2026-02-17T23:00:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/17/dining/budget-friendly-and-downright-delicious.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Budget-Friendly and Downright Delicious",
+    "author": "Margaux Laskey",
+    "link": "https://www.nytimes.com/2026/02/17/dining/budget-friendly-and-downright-delicious.html",
+    "content": "",
+    "date": "2026-02-17T16:00:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html",
+    "feed_name": "Douthat",
+    "title": "How Fast Can A.I. Change the Workplace?",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html",
+    "content": "Every great innovation has led to fears of mass unemployment.",
+    "date": "2026-02-14T12:39:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/02/trump-detroit-windsor-bridge/685967/",
     "feed_name": "Chait",
     "title": "Trump Has a Bridge He Wants to Sell You",
@@ -2418,6 +2858,26 @@
     "content": "The president\u2019s closure of a trade route from Detroit to Windsor will help a billionaire and hurt basically everyone else.",
     "date": "2026-02-12T13:45:24",
     "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/10/dining/doing-the-dishes-is-romantic.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Five One-Pan Recipes for Valentine\u2019s Day Dinner",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/02/10/dining/doing-the-dishes-is-romantic.html",
+    "content": "But not fun. Which is why I have five delightful, one-pan dinner options for your Valentine\u2019s Day (or any weeknight).",
+    "date": "2026-02-11T16:09:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/10/opinion/ai-politics-left-progressive.html",
+    "feed_name": "Douthat",
+    "title": "A.I. May Put Progressives to the Test",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/02/10/opinion/ai-politics-left-progressive.html",
+    "content": "The left needs a sharper A.I. politics.",
+    "date": "2026-02-11T01:04:34",
+    "category": "NYT"
   },
   {
     "id": "https://www.theatlantic.com/ideas/2026/02/rfk-jack-schlossberg-pelosi-kennedy/685941/",
@@ -2450,6 +2910,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/02/03/dining/chilly-chili.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Melissa Clark\u2019s Vegetarian Chili Recipe and More Cold-Weather Cooking",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/02/03/dining/chilly-chili.html",
+    "content": "Melissa Clark\u2019s five-star vegetarian chili is the pantriest pantry recipe of them all \u2014 a quick-simmered jumble of canned tomatoes, beans, garlic, onion and spices.",
+    "date": "2026-02-04T18:13:01",
+    "category": "NYT"
+  },
+  {
     "id": "69716563c07588134e8f157d",
     "feed_name": "Wired",
     "title": "Why Are Some Women Training for Pregnancy Like It\u2019s a Marathon?",
@@ -2458,6 +2928,16 @@
     "content": "A growing legion of \u201czero trimester\u201d influencers are convincing followers that healthy pregnancies are a choice\u2014and that raw milk, watching sunsets, and pricey specialized courses can help.",
     "date": "2026-02-04T11:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/02/03/opinion/vice-liberalism-addiction-gambling-drugs.html",
+    "feed_name": "Douthat",
+    "title": "Vice and the Crisis of Liberalism",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/02/03/opinion/vice-liberalism-addiction-gambling-drugs.html",
+    "content": "Is there a political prescription for our era of addiction?",
+    "date": "2026-02-03T22:15:07",
+    "category": "NYT"
   },
   {
     "id": "https://www.theatlantic.com/ideas/2026/02/trump-spy-shiek-corruption-emirates/685859/",
@@ -2478,6 +2958,16 @@
     "content": "WIRED attended two documentary screening parties\u2014one on each coast\u2014for the First Lady\u2019s film. What a time.",
     "date": "2026-02-03T11:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html",
+    "feed_name": "Douthat",
+    "title": "Pay More Attention to A.I.",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/01/31/opinion/artificial-intelligence-new-world.html",
+    "content": "A new world, hard to grasp and even harder to predict.",
+    "date": "2026-02-01T17:20:02",
+    "category": "NYT"
   },
   {
     "id": "https://www.theatlantic.com/ideas/2026/01/katie-miller-constitution-liberalism/685814/",
@@ -2540,6 +3030,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/01/20/dining/sticky-miso-salmon-lemony-chicken-and-a-brothy-thai-curry.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Sticky Miso Salmon, Lemony Chicken and a Brothy Thai Curry",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/01/20/dining/sticky-miso-salmon-lemony-chicken-and-a-brothy-thai-curry.html",
+    "content": "Quick and cozy weeknight meals to help you stick to (or revive) your healthy eating goals.",
+    "date": "2026-01-21T16:58:39",
+    "category": "NYT"
+  },
+  {
     "id": "e7f77714ea187022510cc41b8fbd6fbf",
     "feed_name": "Outside",
     "title": "At Minnesota\u2019s Coldest Ice Fishing Derby, You Don\u2019t Want to Fall in",
@@ -2548,6 +3048,26 @@
     "content": "Outdoor recreation in Minnesota isn\u2019t for the faint of heart. We spent a day at an ice fishing competition in the Land of 10,000 Lakes, where Mother Nature calls the shots, the fabric of community is thicker than denim, and tenacity is everything.",
     "date": "2026-01-14T09:00:24",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/13/dining/steakhouse-inspired-sheet-pan-gnocchi-with-mushrooms-and-spinach.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Sheet-Pan Gnocchi With Mushrooms and Spinach and More Fast Dinners for Cold Nights",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/01/13/dining/steakhouse-inspired-sheet-pan-gnocchi-with-mushrooms-and-spinach.html",
+    "content": "Fast dinners for cold nights (and some longer cooks for slow days).",
+    "date": "2026-01-13T16:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/06/dining/five-weeknight-dishes-for-2026.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Five Weeknight Dishes for 2026",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/01/06/dining/five-weeknight-dishes-for-2026.html",
+    "content": "Spicy chicken thighs and mushrooms, seared tofu with kimchi and turkey chili start the year with flavor and ease.",
+    "date": "2026-01-06T16:00:03",
+    "category": "NYT"
   },
   {
     "id": "40766b353b52e2edec22d9f37d6d6c35",
