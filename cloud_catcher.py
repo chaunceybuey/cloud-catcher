@@ -7,7 +7,7 @@ from time import mktime
 MASTER_FILE = 'master_articles.json'
 FEEDS_FILE = 'feeds.json'
 
-# NEW: A fake ID badge to trick publisher firewalls into thinking this is a real human's browser.
+# The disguise that tricks publisher firewalls into thinking this is a real web browser
 MAGIC_USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 def main():
@@ -25,14 +25,14 @@ def main():
             except: archive = []
     else: archive = []
 
-    # UPGRADE 1: Change memory to a dictionary so we can edit existing articles
+    # Change memory to a dictionary so we can edit existing articles
     existing_articles = {article['id']: article for article in archive}
     new_articles = []
 
     for category, urls in FEEDS.items():
         for feed_info in urls:
             try:
-                # NEW: We pass our fake browser ID into the agent parameter
+                # Pass our fake browser ID into the agent parameter
                 parsed = feedparser.parse(feed_info['url'], agent=MAGIC_USER_AGENT)
                 
                 for entry in parsed.entries:
@@ -66,7 +66,7 @@ def main():
                         new_articles.append(new_article)
                         existing_articles[entry_id] = new_article # Add to memory
                         
-                    # UPGRADE 2: If the article exists, check if you moved its category!
+                    # If the article exists, check if you moved its category
                     else:
                         if existing_articles[entry_id]['category'] != category:
                             existing_articles[entry_id]['category'] = category
