@@ -9,24 +9,6 @@
       "url": "https://www.slowboring.com/feed"
     }
   ],
-  "NYT": [
-    {
-      "name": "NYT - Emailed",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
-    },
-    {
-      "name": "Douthat",
-      "url": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
-    },
-    {
-      "name": "NYT Cooking",
-      "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
-    },
-    {
-      "name": "NYT - Shared",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
-    }
-  ],
   "Texas": [
     {
       "name": "Texas Tribune",
