@@ -5,6 +5,11 @@ on:
   repository_dispatch:
     types: [webhook] # This is the antenna for Google Apps Script!
     
+# NEW: The Traffic Cop. Prevents Git merge conflicts by forcing runs to wait in line.
+concurrency:
+  group: rss-sync
+  cancel-in-progress: false
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
