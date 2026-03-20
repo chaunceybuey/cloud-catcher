@@ -77,6 +77,10 @@
     {
       "name": "New Yorker",
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/new_yorker.xml"
+    },
+    {
+      "name": "Outside",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/outside.xml"
     }
   ],
   "Tech": [
