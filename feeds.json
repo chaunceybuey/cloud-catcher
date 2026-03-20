@@ -7,14 +7,6 @@
     {
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/feed"
-    },
-    {
-      "name": "NPR Test",
-      "url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "name": "NYT Test",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
     }
   ],
   "NYT": [
