@@ -22,7 +22,8 @@ def main():
             except: archive = []
     else: archive = []
 
-    existing_ids = {article['id'] for article in archive}
+    # UPGRADE 1: Change memory to a dictionary so we can edit existing articles
+    existing_articles = {article['id']: article for article in archive}
     new_articles = []
 
     for category, urls in FEEDS.items():
@@ -32,12 +33,12 @@ def main():
                 for entry in parsed.entries:
                     entry_id = getattr(entry, 'id', entry.link)
                     
-                    if entry_id not in existing_ids:
+                    # Check if this is a brand new article
+                    if entry_id not in existing_articles:
                         content = ""
                         if hasattr(entry, 'content'): content = entry.content[0].value
                         elif hasattr(entry, 'summary'): content = entry.summary
                         
-                        # NEW: Grab the author!
                         author = ""
                         if hasattr(entry, 'author'): author = entry.author
                         elif hasattr(entry, 'creator'): author = entry.creator
@@ -47,20 +48,30 @@ def main():
                             pub_date = dt.isoformat()
                         except: pub_date = datetime.now().isoformat()
 
-                        new_articles.append({
+                        new_article = {
                             'id': entry_id,
                             'feed_name': feed_info['name'],
                             'title': entry.title,
-                            'author': author,  # Save it to the database
+                            'author': author,  
                             'link': entry.link,
                             'content': content,
                             'date': pub_date,
                             'category': category
-                        })
-                        existing_ids.add(entry_id)
+                        }
+                        new_articles.append(new_article)
+                        existing_articles[entry_id] = new_article # Add to memory
+                        
+                    # UPGRADE 2: If the article exists, check if you moved its category!
+                    else:
+                        if existing_articles[entry_id]['category'] != category:
+                            existing_articles[entry_id]['category'] = category
+                            
             except Exception as e: print(f"Error fetching {feed_info['name']}: {e}")
 
+    # Add the new articles to the archive
     archive.extend(new_articles)
+    
+    # Sort and cap the archive size
     archive.sort(key=lambda x: x['date'], reverse=True)
     archive = archive[:1000]
 
