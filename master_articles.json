@@ -120,6 +120,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.texastribune.org/?p=224462",
+    "feed_name": "Texas Tribune",
+    "title": "Texas inmate seeks to stop looming execution after codefendant confesses to double murders",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17302353/texas-execution-james-broadnax-codefendant-confession",
+    "content": "The Texas Court of Criminal Appeals on Jan. 15, 2020.",
+    "date": "2026-03-19T23:29:59",
+    "category": "My Feeds"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/04/09/the-possibility-of-humor-fools-kabbalah-steve-stern/",
     "feed_name": "NYYRB",
     "title": "The Possibility of Humor",
@@ -9987,16 +9997,6 @@
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html",
     "content": "Some Iranians said on social media that they were privately mourning the supreme leader. But displays of exuberance broke out in cities across the country.",
     "date": "2026-03-01T07:48:13",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html",
-    "feed_name": "NYT",
-    "title": "The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.",
-    "author": "Julian E. Barnes, Ronen Bergman, Eric Schmitt and Tyler Pager",
-    "link": "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html",
-    "content": "A satellite image shows black smoke rising and heavy damage at Iranian Supreme Leader Ayatollah Ali Khamenei\u2019s compound, following strikes by the United States and Israel against Iran, on Saturday.",
-    "date": "2026-03-01T07:41:15",
     "category": "My Feeds"
   }
 ]
