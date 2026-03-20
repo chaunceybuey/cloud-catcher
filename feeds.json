@@ -81,6 +81,10 @@
     {
       "name": "Outside",
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/outside.xml"
+    },
+    {
+      "name": "Compact",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/compact.xml"
     }
   ],
   "Tech": [
