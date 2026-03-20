@@ -120,6 +120,106 @@
     "category": "My Feeds"
   },
   {
+    "id": "9156b1336eb9ad636c5382f79a33b475",
+    "feed_name": "Interesting Times",
+    "title": "White Identity Is Galvanizing the Right",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/03/12/opinion/trump-democrats-chris-hayes.html",
+    "content": "He wrote a book on anti-white bias. The White House noticed.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "ca4ce2b2fdf0284881a91c4f34eedad0",
+    "feed_name": "Interesting Times",
+    "title": "The Democrats Could Still Mess This Up",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/03/05/opinion/iran-us-foreign-policy-curt-mills.html",
+    "content": "MS NOW anchor Chris Hayes says the party still can\u2019t articulate its vision.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "65c3763f2b147fb0ce5f82e083cf67d8",
+    "feed_name": "Interesting Times",
+    "title": "Does the Iran War Put America First?",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/02/26/opinion/space-nasa-elon-musk.html",
+    "content": "How the antiwar right sees Trump\u2019s foreign policy.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "968bd9b7676838815bad1037d8d49a0a",
+    "feed_name": "Interesting Times",
+    "title": "\u2018We\u2019re Going to the Moon and Mars\u2019",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/02/19/opinion/interesting-times-amitav-acharya.html",
+    "content": "The new head of NASA predicts a manned mission to Mars in 10 years.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "b7794c3c6d4ab9df385c9e213fce4167",
+    "feed_name": "Interesting Times",
+    "title": "Welcome to the Indian Century",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html",
+    "content": "India is winning the standoff between America and China.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "fb3bdf0a21d3da9480e0c42f2f712005",
+    "feed_name": "Interesting Times",
+    "title": "Anthropic\u2019s Chief on A.I.: \u2018We Don\u2019t Know if the Models Are Conscious\u2019",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/02/05/opinion/pro-life-roe-v-wade-lila-rose.html",
+    "content": "Dario Amodei shares his utopian \u2014 and dystopian \u2014 predictions in the near term for artificial intelligence.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "78050229506cee27c57ef185d3206ea9",
+    "feed_name": "Interesting Times",
+    "title": "Why Ending Roe Wasn\u2019t Enough for the Pro-Life Movement",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/01/29/opinion/jay-bhattacharya-public-health-covid-trust.html",
+    "content": "Activists won the legal battle. Are they losing the culture war?",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "3108674b605a2ba9e6b19a35f2c0083e",
+    "feed_name": "Interesting Times",
+    "title": "A Plan to Restore Trust in Science From a \u2018Fringe Epidemiologist\u2019",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/01/22/opinion/interesting-times-ryan-burge.html",
+    "content": "Jay Bhattacharya, the N.I.H. director, says authorities broke the public\u2019s trust in the Covid era. Now it\u2019s up to outsiders to restore it.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "2ab038b061335aa20015793c3d3225bf",
+    "feed_name": "Interesting Times",
+    "title": "No, Young Men Are Not Returning to Church",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/01/16/opinion/ice-minneapolis-protest.html",
+    "content": "All the religious trends you\u2019re wrong about.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
+    "id": "be4a07ad766e91dc8382f9e2d52944f0",
+    "feed_name": "Interesting Times",
+    "title": "Minneapolis Feels \u2018Like Being in a Civil War\u2019",
+    "author": "",
+    "link": "https://www.nytimes.com/column/interesting-times",
+    "content": "Documenting ICE is dangerous. This man wants you to do it anyway.",
+    "date": "2026-03-20T04:58:25",
+    "category": "NYT"
+  },
+  {
     "id": "b6db52a9cfce972d6346e0f123618f9e",
     "feed_name": "New Yorker",
     "title": "\u201cThe Wild Party\u201d Returns",
@@ -6130,6 +6230,16 @@
     "category": "My Feeds"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html",
+    "feed_name": "NYT",
+    "title": "America\u2019s Billionaires Continue to Flock to Wyoming",
+    "author": "Katie Benner, Steven Rich, Mike Baker, John Branch and Will Warasila",
+    "link": "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html",
+    "content": "Jackson, Wyo. Teton County is both the richest county in America and a place that in some areas is struggling to maintain basic services.",
+    "date": "2026-03-09T14:17:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/09/us/billionaires-federal-election-campaign-contributions.html",
     "feed_name": "NYT",
     "title": "Billionaires Made 19% of Federal Election Campaign Contributions in 2024",
@@ -9887,116 +9997,6 @@
     "link": "https://www.nytimes.com/2026/03/02/opinion/international-world/iran-hegseth-war.html",
     "content": "The American public has received too little information to effectively judge the goals and objectives of the largest U.S. military operation in the Middle East in a generation.",
     "date": "2026-03-02T21:36:13",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=222252",
-    "feed_name": "Texas Tribune",
-    "title": "Austin downtown shooting: What we know about the gunman, victims and motive",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17288106/texas-austin-shooting-ndiaga-diagne",
-    "content": "An Austin police officer cleans up crime scene remnants near the bar where a fatal shooting left three dead and at least 14  wounded, in downtown Austin on March 1, 2026.",
-    "date": "2026-03-02T21:27:33",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=222247",
-    "feed_name": "Texas Tribune",
-    "title": "Business owners sue comptroller after their removal from state minority business program",
-    "author": "Paul Cobler",
-    "link": "https://feeds.texastribune.org/link/16799/17288107/texas-minority-women-business-hub-program-lawsuit-comptroller",
-    "content": "State Sen. Royce West, D-Dallas, left, listens as Ipsum General\nContractors owner Ruben Mercado Jr. speaks at a press conference about a lawsuit against the state comptroller&#039;s office, at the Capitol in Austin on Monday, March 2, 2026.",
-    "date": "2026-03-02T21:17:34",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
-    "feed_name": "NYT",
-    "title": "How Trump Decided to Go to War With Iran",
-    "author": "Mark Mazzetti, Julian E. Barnes, Tyler Pager, Edward Wong, Eric Schmitt and Ronen Bergman",
-    "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
-    "content": "President Trump\u2019s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president\u2019s advisers voiced opposition.",
-    "date": "2026-03-02T21:04:12",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/article/best-restaurants-austin.html",
-    "feed_name": "NYT - Emailed",
-    "title": "The Best Restaurants in Austin",
-    "author": "Priya Krishna and Brett Anderson",
-    "link": "https://www.nytimes.com/article/best-restaurants-austin.html",
-    "content": "There\u2019s plenty of barbecue and Mexican \u2014 as you\u2019d expect \u2014 but also world-class Japanese, Caribbean and more. Comments welcome, as always.",
-    "date": "2026-03-02T20:52:45",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Blood Moon Lunar Eclipse 2026: Time and Visibility Guide",
-    "author": "Katrina Miller",
-    "link": "https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html",
-    "content": "To best view the phenomenon, NASA recommends finding a dark place away from bright lights.",
-    "date": "2026-03-02T20:45:11",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=222212",
-    "feed_name": "Texas Tribune",
-    "title": "Police identify downtown Austin shooting victims",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17288061/austin-texas-shooting-victims-fbi-investigation-abbott",
-    "content": "FBI personnel walk toward the scene of a fatal shooting that left three dead, including the suspected shooter, and wounded at least 14 others, in downtown Austin on March 1, 2026.",
-    "date": "2026-03-02T20:21:13",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-trump-war-goals.html",
-    "feed_name": "NYT",
-    "title": "Iran\u2019s Top Security Official Calls Trump\u2019s War Aims \u2018Delusional\u2019 and Says Iran \u2018Will Not Negotiate\u2019",
-    "author": "Erika Solomon",
-    "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-trump-war-goals.html",
-    "content": "Ali Larijani, Iran\u2019s top security official, at a news conference in 2024. He has accused President Trump of getting into a war that harmed U.S. interests, and vowed to fight on.",
-    "date": "2026-03-02T20:10:03",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/business/alysa-liu-eileen-gu-china.html",
-    "feed_name": "NYT - Emailed",
-    "title": "In Alysa Liu and Eileen Gu, China and America See a Mirror Image",
-    "author": "Li Yuan",
-    "link": "https://www.nytimes.com/2026/03/02/business/alysa-liu-eileen-gu-china.html",
-    "content": "Ms. Liu during a training session at the Milan ice skating arena.",
-    "date": "2026-03-02T19:47:08",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/world/middleeast/starmer-faces-dilemma-as-british-base-in-cyprus-hit-by-drone.html",
-    "feed_name": "NYT",
-    "title": "After a Drone Strikes RAF Base in Cyprus, UK Risks Being Dragged Further Into Iran Conflict",
-    "author": "Stephen Castle",
-    "link": "https://www.nytimes.com/2026/03/02/world/middleeast/starmer-faces-dilemma-as-british-base-in-cyprus-hit-by-drone.html",
-    "content": "An aircraft leaving R.A.F. Akrotiri, a British military base in Cyprus, on Monday. The base was hit by a drone Sunday night.",
-    "date": "2026-03-02T19:39:44",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=222195",
-    "feed_name": "Texas Tribune",
-    "title": "Republican meddling roils Senate Democratic primary in final days",
-    "author": "Patrick Svitek and Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17287995/republicans-jasmine-crockett-boost-texas-senate-democratic-primary",
-    "content": "U.S. Rep. Jasmine Crockett, right, Democratic primary candidate for U.S. Senate, answers a question during a debate at the 2026 Texas AFL-CIO COPE Convention in Georgetown on Jan. 24, 2026. Her opponent, state Rep. James Talarico, looks on.",
-    "date": "2026-03-02T17:54:50",
-    "category": "My Feeds"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/well/glp-1-muscle-loss.html",
-    "feed_name": "NYT - Emailed",
-    "title": "Why You Shouldn\u2019t Panic About GLP-1 Muscle Loss",
-    "author": "Simar Bajaj",
-    "link": "https://www.nytimes.com/2026/03/02/well/glp-1-muscle-loss.html",
-    "content": "Social media influencers and supplement companies have stoked concerns, but experts say the issue is a lot more complicated.",
-    "date": "2026-03-02T17:38:27",
     "category": "My Feeds"
   }
 ]
