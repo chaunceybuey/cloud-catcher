@@ -63,6 +63,10 @@
     {
       "name": "Atlantic",
       "url": "https://www.theatlantic.com/feed/channel/ideas/"
+    },
+    {
+      "name": "ProPublica",
+      "url": "https://www.propublica.org/feeds/propublica/main"
     }
   ]
 }
