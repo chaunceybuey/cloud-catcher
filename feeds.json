@@ -11,10 +11,6 @@
   ],
   "NYT": [
     {
-      "name": "NYT",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
-    },
-    {
       "name": "NYT - Emailed",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
     },
@@ -25,6 +21,10 @@
     {
       "name": "NYT Cooking",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
+    },
+    {
+      "name": "NYT - Shared",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
     }
   ],
   "Texas": [
