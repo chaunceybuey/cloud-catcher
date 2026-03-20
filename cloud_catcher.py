@@ -7,6 +7,9 @@ from time import mktime
 MASTER_FILE = 'master_articles.json'
 FEEDS_FILE = 'feeds.json'
 
+# NEW: A fake ID badge to trick publisher firewalls into thinking this is a real human's browser.
+MAGIC_USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
 def main():
     if os.path.exists(FEEDS_FILE):
         with open(FEEDS_FILE, 'r') as f:
@@ -29,7 +32,9 @@ def main():
     for category, urls in FEEDS.items():
         for feed_info in urls:
             try:
-                parsed = feedparser.parse(feed_info['url'])
+                # NEW: We pass our fake browser ID into the agent parameter
+                parsed = feedparser.parse(feed_info['url'], agent=MAGIC_USER_AGENT)
+                
                 for entry in parsed.entries:
                     entry_id = getattr(entry, 'id', entry.link)
                     
