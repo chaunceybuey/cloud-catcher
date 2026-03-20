@@ -25,6 +25,10 @@
     {
       "name": "NYT Cooking",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
+    },
+    {
+      "name": "Interesting Times",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/interesting_times.xml"
     }
   ],
   "Texas": [
