@@ -25,28 +25,12 @@
       "url": "https://www.propublica.org/feeds/propublica/main"
     },
     {
-      "name": "Wired (Science)",
-      "url": "https://www.wired.com/feed/category/science/latest/rss"
-    },
-    {
-      "name": "Atlantic",
-      "url": "https://www.theatlantic.com/feed/channel/ideas/"
-    },
-    {
       "name": "Wired",
       "url": "https://www.wired.com/feed/category/backchannel/latest/rss"
     },
     {
-      "name": "NYYRB",
-      "url": "https://politepaul.com/fd/ONCQMCTPB65a.xml"
-    },
-    {
-      "name": "NYRB",
-      "url": "https://feeder.co/discover/bf497233f9/nybooks-com"
-    },
-    {
-      "name": "NY Review",
-      "url": "https://ezproxy.lib.utexas.edu/login?url=https://go-gale-com.ezproxy.lib.utexas.edu/ps/i.do?p=AONE&qt=MC~49PS&sw=w&u=txshracd2598&searchType=AdvancedSearchForm&ty=as&v=2.1&it=rss&sid=rss&digest=ecc57c778360bed9cc1d55bab2e90212"
+      "name": "Wired (Science)",
+      "url": "https://www.wired.com/feed/category/science/latest/rss"
     },
     {
       "name": "Atlantic Ideas",
@@ -57,12 +41,24 @@
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/new_yorker.xml"
     },
     {
-      "name": "Outside",
-      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/outside.xml"
+      "name": "NYYRB",
+      "url": "https://politepaul.com/fd/ONCQMCTPB65a.xml"
     },
     {
       "name": "Compact",
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/compact.xml"
+    },
+    {
+      "name": "Outside",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/outside.xml"
+    },
+    {
+      "name": "NY Review",
+      "url": "https://ezproxy.lib.utexas.edu/login?url=https://go-gale-com.ezproxy.lib.utexas.edu/ps/i.do?p=AONE&qt=MC~49PS&sw=w&u=txshracd2598&searchType=AdvancedSearchForm&ty=as&v=2.1&it=rss&sid=rss&digest=ecc57c778360bed9cc1d55bab2e90212"
+    },
+    {
+      "name": "NYRB",
+      "url": "https://feeder.co/discover/bf497233f9/nybooks-com"
     }
   ],
   "Tech": [
