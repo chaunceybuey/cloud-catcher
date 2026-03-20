@@ -3,22 +3,6 @@
     {
       "name": "Chait",
       "url": "https://politepaul.com/fd/W9efGjKKMzdi.xml"
-    },
-    {
-      "name": "Texas Tribune",
-      "url": "https://feeds.texastribune.org/feeds/main/"
-    },
-    {
-      "name": "NYT Cooking",
-      "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
-    },
-    {
-      "name": "Stratechery",
-      "url": "https://stratechery.com/feed/"
-    },
-    {
-      "name": "KMFA",
-      "url": "https://www.kmfa.org/events.rss"
     }
   ],
   "NYT": [
@@ -33,16 +17,20 @@
     {
       "name": "Douthat",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
-    }
-  ],
-  "Money": [
-    {
-      "name": "Vanguard",
-      "url": "https://www.bogleheads.org/forum/feed/topic/421345?sid=c17132729871056f618036c944d20987"
     },
     {
-      "name": "Fidelity",
-      "url": "https://www.bogleheads.org/forum/feed/topic/266538?sid=9501690e51c24849dbec5932cfad514a"
+      "name": "NYT Cooking",
+      "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
+    }
+  ],
+  "Texas": [
+    {
+      "name": "Texas Tribune",
+      "url": "https://feeds.texastribune.org/feeds/main/"
+    },
+    {
+      "name": "KMFA",
+      "url": "https://www.kmfa.org/events.rss"
     }
   ],
   "Magazines": [
@@ -73,6 +61,22 @@
     {
       "name": "NY Review",
       "url": "https://ezproxy.lib.utexas.edu/login?url=https://go-gale-com.ezproxy.lib.utexas.edu/ps/i.do?p=AONE&qt=MC~49PS&sw=w&u=txshracd2598&searchType=AdvancedSearchForm&ty=as&v=2.1&it=rss&sid=rss&digest=ecc57c778360bed9cc1d55bab2e90212"
+    }
+  ],
+  "Tech": [
+    {
+      "name": "Stratechery",
+      "url": "https://stratechery.com/feed/"
+    }
+  ],
+  "Money": [
+    {
+      "name": "Vanguard",
+      "url": "https://www.bogleheads.org/forum/feed/topic/421345?sid=c17132729871056f618036c944d20987"
+    },
+    {
+      "name": "Fidelity",
+      "url": "https://www.bogleheads.org/forum/feed/topic/266538?sid=9501690e51c24849dbec5932cfad514a"
     }
   ]
 }
