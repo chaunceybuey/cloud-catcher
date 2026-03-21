@@ -85,6 +85,10 @@
     {
       "name": "LRB",
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/london_review.xml"
+    },
+    {
+      "name": "LRB Issue",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/lrb.xml"
     }
   ],
   "Tech": [
