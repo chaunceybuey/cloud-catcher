@@ -81,6 +81,10 @@
     {
       "name": "NYRB",
       "url": "https://feeder.co/discover/bf497233f9/nybooks-com"
+    },
+    {
+      "name": "LRB",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/london_review.xml"
     }
   ],
   "Tech": [
