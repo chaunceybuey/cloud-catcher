@@ -7,6 +7,10 @@
     {
       "name": "Slow Boring",
       "url": "https://www.slowboring.com/feed"
+    },
+    {
+      "name": "Interesting Times",
+      "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/interesting-times/rss.xml"
     }
   ],
   "NYT": [
