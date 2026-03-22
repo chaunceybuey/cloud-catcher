@@ -1,0 +1,280 @@
+import os
+import secrets
+from fastapi import FastAPI, Request, Form, Response, Depends, HTTPException, status
+from fastapi.security import HTTPBasic, HTTPBasicCredentials
+from fastapi.templating import Jinja2Templates
+from fastapi.responses import HTMLResponse, RedirectResponse
+import uvicorn
+import rss_engine
+from urllib.parse import quote
+
+# --- SECURITY BOUNCER ---
+security = HTTPBasic()
+APP_USERNAME = os.environ.get("APP_USERNAME", "admin")
+APP_PASSWORD = os.environ.get("APP_PASSWORD", "secret")
+
+def verify_user(credentials: HTTPBasicCredentials = Depends(security)):
+    is_correct_username = secrets.compare_digest(credentials.username.encode("utf8"), APP_USERNAME.encode("utf8"))
+    is_correct_password = secrets.compare_digest(credentials.password.encode("utf8"), APP_PASSWORD.encode("utf8"))
+    if not (is_correct_username and is_correct_password):
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Incorrect username or password",
+            headers={"WWW-Authenticate": "Basic"},
+        )
+    return credentials.username
+
+# Apply the bouncer to the entire app
+app = FastAPI(dependencies=[Depends(verify_user)])
+
+templates = Jinja2Templates(directory="templates")
+templates.env.filters["urlquote"] = lambda s: quote(str(s), safe='')
+
+state = {
+    "view_mode": "Unread",
+    "active_feed_filter": "All Feeds",
+    "active_category_filter": None,
+    "current_idx": 0,
+    "active_id": None,
+    "full_fetch": False,
+    "fetched_bodies": {},
+    "undo_stack": []
+}
+
+def build_feed_groups(my_feeds):
+    from collections import OrderedDict
+    groups = OrderedDict()
+    for f in my_feeds:
+        cat = f.get('_category', 'My Feeds')
+        groups.setdefault(cat, []).append(f)
+    return groups
+
+def get_filtered_articles():
+    my_feeds = rss_engine.fetch_feeds_config()
+    all_articles = rss_engine.fetch_master_archive()
+    history = rss_engine.get_history()
+
+    if state["view_mode"] == 'Unread':
+        base = [a for a in all_articles if a['id'] not in history]
+    elif state["view_mode"] == 'Bookmarks':
+        bookmarks = rss_engine.get_bookmarks()
+        base = [a for a in all_articles if a['id'] in bookmarks]
+    else:
+        base = [a for a in all_articles if a['id'] in history]
+
+    active_feed_names = [f.get('name') for f in my_feeds]
+    valid = [a for a in base if a.get('feed_name') in active_feed_names]
+
+    all_feeds_count = len(valid)
+    feed_counts = {name: 0 for name in active_feed_names}
+    for a in valid:
+        feed_counts[a.get('feed_name')] += 1
+
+    if state["active_feed_filter"] != 'All Feeds':
+        candidates = [a for a in valid if a.get('feed_name') == state["active_feed_filter"]]
+    elif state["active_category_filter"]:
+        cat_feed_names = {f.get('name') for f in my_feeds if f.get('_category') == state["active_category_filter"]}
+        candidates = [a for a in valid if a.get('feed_name') in cat_feed_names]
+    else:
+        candidates = valid
+
+    candidates.sort(key=lambda x: x.get('date', '1970-01-01'), reverse=True)
+    return candidates, my_feeds, feed_counts, all_feeds_count
+
+def get_active_info(candidates=None):
+    if candidates is None:
+        candidates, _, _, _ = get_filtered_articles()
+    if not candidates:
+        return None, []
+        
+    if state["current_idx"] >= len(candidates):
+        state["current_idx"] = max(0, len(candidates) - 1)
+
+    active_article = candidates[state["current_idx"]]
+    active_id = active_article['id']
+    state["active_id"] = active_id
+    
+    if active_id in state["fetched_bodies"]:
+        state["full_fetch"] = True
+        html_body = state["fetched_bodies"][active_id]
+    else:
+        html_body = rss_engine.render_article_html(active_article, state["full_fetch"])
+        if state["full_fetch"]:
+            state["fetched_bodies"][active_id] = html_body
+            
+    active_article['html_body'] = html_body
+    active_article['formatted_date'] = rss_engine._format_date(active_article.get('date'))
+    
+    bookmarks = rss_engine.get_bookmarks()
+    state["is_bookmarked"] = active_id in bookmarks
+    state["saved_progress"] = bookmarks.get(active_id, 0)
+    
+    return active_article, candidates
+
+@app.get("/", response_class=HTMLResponse)
+async def home(request: Request):
+    candidates, my_feeds, feed_counts, all_feeds_count = get_filtered_articles()
+    return templates.TemplateResponse("index.html", {
+        "request": request,
+        "state": state,
+        "total_count": len(candidates),
+        "my_feeds": my_feeds,
+        "feed_groups": build_feed_groups(my_feeds),
+        "feed_counts": feed_counts,
+        "all_feeds_count": all_feeds_count,
+        "active_category_filter": state["active_category_filter"],
+        "is_htmx": False
+    })
+
+@app.get("/load-article", response_class=HTMLResponse)
+async def load_article(request: Request):
+    candidates, _, _, _ = get_filtered_articles()
+    active_article, candidates = get_active_info(candidates)
+    return templates.TemplateResponse("article_partial.html", {
+        "request": request,
+        "state": state,
+        "active_article": active_article,
+        "total_count": len(candidates) if candidates else 0,
+        "is_htmx": False,
+        "toast_msg": ""
+    })
+
+@app.get("/sync")
+async def sync_queue():
+    rss_engine.force_sync()
+    state["current_idx"] = 0
+    state["full_fetch"] = False
+    state["active_category_filter"] = None
+    state["fetched_bodies"].clear()
+    return RedirectResponse(url="/")
+
+@app.post("/action/mark_all")
+async def mark_all_read():
+    candidates, _, _, _ = get_filtered_articles()
+    if candidates and state["view_mode"] == "Unread":
+        ids = [c['id'] for c in candidates]
+        rss_engine.mark_many_read(ids)
+        state["current_idx"] = 0
+        state["active_id"] = None
+        state["full_fetch"] = False
+        
+    resp = Response(status_code=200)
+    resp.headers["HX-Redirect"] = "/"
+    return resp
+
+@app.post("/feeds/update")
+async def update_feeds(request: Request):
+    data = await request.json()
+    success, msg = rss_engine.update_feeds_on_github(data)
+    if success:
+        state["active_feed_filter"] = "All Feeds"
+        
+    resp = Response(status_code=200)
+    resp.headers["HX-Redirect"] = "/"
+    return resp
+
+@app.get("/filter-category/{cat_name}")
+async def filter_category(cat_name: str):
+    state["active_category_filter"] = cat_name
+    state["active_feed_filter"] = "All Feeds"
+    state["current_idx"] = 0
+    state["full_fetch"] = False
+    return RedirectResponse(url="/")
+
+@app.get("/filter/{feed_name}")
+async def filter_feed(feed_name: str):
+    state["active_feed_filter"] = feed_name
+    state["active_category_filter"] = None
+    state["current_idx"] = 0
+    state["full_fetch"] = False
+    return RedirectResponse(url="/")
+
+@app.get("/mode/{mode}")
+async def switch_mode(mode: str):
+    state["view_mode"] = mode
+    state["current_idx"] = 0
+    state["full_fetch"] = False
+    state["active_feed_filter"] = "All Feeds"
+    state["active_category_filter"] = None
+    return RedirectResponse(url="/")
+
+@app.post("/action/{action}", response_class=HTMLResponse)
+async def handle_action(request: Request, action: str, progress: float = Form(0.0)):
+    active_article, candidates = get_active_info()
+    toast_msg = ""
+    
+    if candidates and active_article:
+        if action == "next" and state["current_idx"] < len(candidates) - 1:
+            state["current_idx"] += 1
+            state["full_fetch"] = False
+        elif action == "prev" and state["current_idx"] > 0:
+            state["current_idx"] -= 1
+            state["full_fetch"] = False
+        elif action == "fetch":
+            state["full_fetch"] = True
+        elif action == "archive":
+            rss_engine.mark_read(active_article['id'])
+            state["undo_stack"].append({"id": active_article['id'], "type": "archive"})
+            state["undo_stack"] = state["undo_stack"][-20:]
+            state["full_fetch"] = False
+            toast_msg = "Archived."
+            
+            bms = rss_engine.get_bookmarks()
+            if active_article['id'] in bms:
+                del bms[active_article['id']]
+                rss_engine.save_bookmarks(bms)
+                
+        elif action == "skip":
+            toast_msg = "Skipped."
+            if state["current_idx"] < len(candidates) - 1:
+                state["current_idx"] += 1
+            state["full_fetch"] = False
+            
+        elif action == "bookmark":
+            bms = rss_engine.get_bookmarks()
+            bms[active_article['id']] = progress
+            rss_engine.save_bookmarks(bms)
+            state["saved_progress"] = progress
+            toast_msg = "Spot saved!"
+            
+        elif action == "unbookmark":
+            bms = rss_engine.get_bookmarks()
+            aid = active_article['id']
+            if aid in bms:
+                del bms[aid]
+                rss_engine.save_bookmarks(bms)
+            toast_msg = "Bookmark removed."
+
+    if action == "undo":
+        if state["view_mode"] == "Archive" and active_article:
+            rss_engine.mark_unread(active_article['id'])
+            state["full_fetch"] = False
+            toast_msg = "Unarchived."
+        elif state["undo_stack"]:
+            last = state["undo_stack"].pop()
+            rss_engine.mark_unread(last["id"])
+            candidates, _, _, _ = get_filtered_articles()
+            ids = [c['id'] for c in candidates]
+            if last["id"] in ids:
+                state["current_idx"] = ids.index(last["id"])
+            state["full_fetch"] = False
+            toast_msg = "Undid archive."
+
+    new_active, new_candidates = get_active_info()
+    
+    if action == "bookmark":
+        state["saved_progress"] = progress
+    
+    return templates.TemplateResponse("article_partial.html", {
+        "request": request,
+        "state": state,
+        "active_article": new_active,
+        "total_count": len(new_candidates) if new_candidates else 0,
+        "is_htmx": True,
+        "toast_msg": toast_msg
+    })
+
+if __name__ == "__main__":
+    # Cloud-ready server launch
+    port = int(os.environ.get("PORT", 8088))
+    uvicorn.run(app, host="0.0.0.0", port=port)

@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-[#0a0a0a] text-[#8A8F98] antialiased">
+<head>
+    <meta charset="UTF-8">
+    <title>RSS Triage</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
+    <style>
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #222; border-radius: 3px; }
+        .htmx-swapping #article-view { opacity: 0; transition: opacity 0.15s ease-out; }
+    </style>
+</head>
+<body class="h-screen overflow-hidden flex relative">
+
+    <div class="hidden" id="trigger-j" hx-trigger="click" hx-post="/action/next" hx-target="#article-view" hx-swap="outerHTML"></div>
+    <div class="hidden" id="trigger-k" hx-trigger="click" hx-post="/action/prev" hx-target="#article-view" hx-swap="outerHTML"></div>
+    <div class="hidden" id="trigger-a" hx-trigger="click" hx-post="/action/archive" hx-target="#article-view" hx-swap="outerHTML swap:0.15s"></div>
+    <div class="hidden" id="trigger-s" hx-trigger="click" hx-post="/action/skip" hx-target="#article-view" hx-swap="outerHTML swap:0.15s"></div>
+    <div class="hidden" id="trigger-w" hx-trigger="click" hx-post="/action/fetch" hx-target="#article-view" hx-swap="outerHTML"></div>
+    <div class="hidden" id="trigger-u" hx-trigger="click" hx-post="/action/undo" hx-target="#article-view" hx-swap="outerHTML swap:0.15s"></div>
+    <div class="hidden" id="trigger-c" hx-trigger="click" hx-post="/action/open" hx-swap="none"></div>
+    <div class="hidden" id="trigger-b" hx-trigger="click" hx-post="/action/bookmark" hx-target="#article-view" hx-swap="outerHTML" hx-vals='js:{progress: getReadProgress()}'></div>
+    <div class="hidden" id="trigger-x" hx-trigger="click" hx-post="/action/unbookmark" hx-target="#article-view" hx-swap="outerHTML swap:0.15s"></div>
+
+    <div class="w-80 border-r border-[#1a1a1a] flex flex-col p-6 bg-[#0f0f0f] shadow-2xl z-10 overflow-y-auto shrink-0">
+        <h1 class="text-xs font-bold uppercase tracking-widest text-[#4B5563] mb-6">RSS Triage</h1>
+        
+        <div class="flex gap-3 mb-8 bg-[#1a1a1a] p-1.5 rounded-lg shrink-0">
+            <a href="/mode/Unread" class="flex-1 py-1.5 rounded text-[13px] font-semibold text-center {% if state.view_mode == 'Unread' %}bg-[#2a2a2a] text-[#D94A00] shadow{% else %}text-[#8A8F98] hover:text-[#E5E7EB]{% endif %}">Unread</a>
+            <a href="/mode/Bookmarks" class="flex-1 py-1.5 rounded text-[13px] font-semibold text-center {% if state.view_mode == 'Bookmarks' %}bg-[#2a2a2a] text-[#D94A00] shadow{% else %}text-[#8A8F98] hover:text-[#E5E7EB]{% endif %}">Saved</a>
+            <a href="/mode/Archive" class="flex-1 py-1.5 rounded text-[13px] font-semibold text-center {% if state.view_mode == 'Archive' %}bg-[#2a2a2a] text-[#D94A00] shadow{% else %}text-[#8A8F98] hover:text-[#E5E7EB]{% endif %}">Archive</a>
+        </div>
+
+        <div class="flex justify-between items-center mb-3">
+            <h2 class="text-[10px] font-bold text-[#4B5563] tracking-wider">FEEDS</h2>
+            {% if state.view_mode == 'Unread' and total_count > 0 %}
+            <button hx-post="/action/mark_all" class="text-[10px] font-bold text-[#D94A00] hover:text-[#ff661a] transition-colors" title="Mark visible as read">CLEAR</button>
+            {% endif %}
+        </div>
+
+        <div class="flex flex-col gap-1 mb-6">
+            <a href="/filter/All Feeds" class="py-1.5 px-3 rounded text-sm font-medium flex justify-between items-center {% if state.active_feed_filter == 'All Feeds' and not active_category_filter %}text-[#D94A00] bg-[#1a1a1a]{% else %}text-[#8A8F98] hover:bg-[#111]{% endif %}">
+                <span>All Feeds</span>
+                <span class="text-[10px] font-bold opacity-50">{{ all_feeds_count }}</span>
+            </a>
+
+            {% for category, feeds in feed_groups.items() %}
+            {% set cat_id = category | replace(' ', '_') | lower %}
+            {% set cat_total = namespace(n=0) %}
+            {% for feed in feeds %}{% set cat_total.n = cat_total.n + feed_counts.get(feed.name, 0) %}{% endfor %}
+            {% set cat_active = active_category_filter == category %}
+
+            {% if category == 'Uncategorized' %}
+                {% if feeds %}
+                <div class="mt-1 mb-1 border-t border-[#1a1a1a]"></div>
+                {% endif %}
+                {% for feed in feeds %}
+                {% set count = feed_counts.get(feed.name, 0) %}
+                <a href="/filter/{{ feed.name }}"
+                    class="py-1.5 px-3 rounded text-sm font-medium flex justify-between items-center {% if state.active_feed_filter == feed.name %}text-[#D94A00] bg-[#1a1a1a]{% else %}text-[#8A8F98] hover:bg-[#111]{% endif %}">
+                    <span class="truncate">{{ feed.name }}</span>
+                    <span class="text-[10px] font-bold opacity-50">{{ count }}</span>
+                </a>
+                {% endfor %}
+
+            {% else %}
+                <div class="feed-category" data-cat="{{ cat_id }}">
+                    <div class="flex items-center rounded overflow-hidden {% if cat_active %}bg-[#1a1a1a]{% else %}hover:bg-[#111]{% endif %} transition-colors">
+                        <button onclick="toggleCategory('{{ cat_id }}')"
+                            class="pl-3 pr-1 py-1.5 text-[9px] shrink-0 {% if cat_active %}text-[#D94A00]{% else %}text-[#8A8F98] hover:text-[#E5E7EB]{% endif %} transition-colors">
+                            <span class="cat-arrow inline-block transition-transform duration-200" id="arrow-{{ cat_id }}">▶</span>
+                        </button>
+                        <a href="/filter-category/{{ category | urlquote }}"
+                            class="flex-1 py-1.5 pr-3 text-sm font-semibold flex justify-between items-center {% if cat_active %}text-[#D94A00]{% else %}text-[#8A8F98] hover:text-[#E5E7EB]{% endif %} transition-colors">
+                            <span>{{ category }}</span>
+                            <span class="text-[10px] font-bold opacity-50">{{ cat_total.n }}</span>
+                        </a>
+                    </div>
+                    <div class="cat-feeds pl-3 flex flex-col gap-0.5" id="cat-{{ cat_id }}" style="display:none;">
+                        {% for feed in feeds %}
+                        {% set count = feed_counts.get(feed.name, 0) %}
+                        <a href="/filter/{{ feed.name }}"
+                            class="py-1.5 px-3 rounded text-sm font-medium flex justify-between items-center {% if state.active_feed_filter == feed.name %}text-[#D94A00] bg-[#1a1a1a]{% else %}text-[#8A8F98] hover:bg-[#111]{% endif %}">
+                            <span class="truncate">{{ feed.name }}</span>
+                            <span class="text-[10px] font-bold opacity-50">{{ count }}</span>
+                        </a>
+                        {% endfor %}
+                    </div>
+                </div>
+            {% endif %}
+
+            {% endfor %}
+        </div>
+
+        <div class="mt-auto flex flex-col gap-4 shrink-0">
+            <a href="/sync" class="w-full py-3 bg-[#1a1a1a] hover:bg-[#222] border border-[#2a2a2a] hover:border-[#D94A00] rounded-lg text-sm font-semibold transition-colors flex items-center justify-center text-[#8A8F98]">
+                Sync Queue
+            </a>
+
+            <div class="flex items-center justify-center gap-6 mt-2">
+                
+                <div class="relative">
+                    <button id="text-toggle-btn" class="text-[11px] font-bold tracking-widest text-[#5A5F67] hover:text-[#8A8F98] transition-colors text-center uppercase outline-none">
+                        Aa Text
+                    </button>
+                    <div id="typography-controls" class="hidden absolute bottom-full left-1/2 -translate-x-1/2 mb-3 bg-[#18181b] border border-[#2a2a2a] rounded shadow-xl z-50 flex gap-1 p-1">
+                        <button onclick="adjustAppearance('font', -1)" class="text-[#a1a1aa] hover:text-[#e4e4e7] hover:bg-[#2a2a2a] rounded px-3 py-1.5 text-xs font-semibold transition-colors">A-</button>
+                        <button onclick="adjustAppearance('font', 1)" class="text-[#a1a1aa] hover:text-[#e4e4e7] hover:bg-[#2a2a2a] rounded px-3 py-1.5 text-xs font-semibold transition-colors">A+</button>
+                        <div class="w-[1px] bg-[#2a2a2a] mx-1"></div>
+                        <button onclick="adjustAppearance('line', -0.1)" class="text-[#a1a1aa] hover:text-[#e4e4e7] hover:bg-[#2a2a2a] rounded px-3 py-1.5 text-xs font-semibold transition-colors">Line-</button>
+                        <button onclick="adjustAppearance('line', 0.1)" class="text-[#a1a1aa] hover:text-[#e4e4e7] hover:bg-[#2a2a2a] rounded px-3 py-1.5 text-xs font-semibold transition-colors">Line+</button>
+                    </div>
+                </div>
+
+                <button onclick="document.getElementById('feed-modal').showModal()" class="text-[11px] font-bold tracking-widest text-[#5A5F67] hover:text-[#8A8F98] transition-colors text-center uppercase outline-none">
+                    ⚙️ Feeds
+                </button>
+            </div>
+
+            <div id="undo-section"></div>
+            
+            <div class="text-center text-[10px] font-mono text-[#4B5563]">
+                <span class="text-[#7A7F87] font-bold">j/k</span> move | 
+                <span class="text-[#7A7F87] font-bold">w</span> fetch |
+                <span class="text-[#7A7F87] font-bold">a</span> arc <br>
+                <span class="text-[#7A7F87] font-bold mt-1 inline-block">s</span> skip |
+                <span class="text-[#7A7F87] font-bold">b</span> save |
+                <span class="text-[#7A7F87] font-bold">x</span> drop mark |
+                <span class="text-[#7A7F87] font-bold">u</span> undo
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-1 flex flex-col h-screen relative bg-[#050505]" id="article-view"
+         hx-get="/load-article"
+         hx-trigger="load"
+         hx-swap="outerHTML">
+        <div class="flex-1 flex items-center justify-center">
+            <div class="flex flex-col items-center gap-4">
+                <div class="w-6 h-6 border-2 border-[#D94A00] border-t-transparent rounded-full animate-spin"></div>
+                <p class="text-sm text-[#4B5563]">Loading articles…</p>
+            </div>
+        </div>
+    </div>
+    <div id="toast-message"></div>
+
+    <dialog id="feed-modal" class="bg-[#0a0a0a] border border-[#222] text-[#8A8F98] rounded-xl shadow-2xl p-0 w-[680px] backdrop:bg-black/80 backdrop:backdrop-blur-sm m-auto outline-none">
+        <div class="p-6 border-b border-[#222] flex justify-between items-start">
+            <div>
+                <h2 class="text-lg font-bold text-[#E5E7EB]">Manage Feeds</h2>
+                <p class="text-xs text-[#5A5F67] mt-1">Drag to reorder within a category. Changes sync to GitHub.</p>
+            </div>
+            <button onclick="document.getElementById('feed-modal').close()" class="text-[#5A5F67] hover:text-[#8A8F98] text-xl leading-none mt-0.5">✕</button>
+        </div>
+
+        <div class="flex gap-1 px-6 pt-4 pb-0 overflow-x-auto" id="category-tabs"></div>
+
+        <div class="p-6 overflow-y-auto" style="max-height:42vh;">
+            <ul id="feed-list" class="space-y-2"></ul>
+
+            <div class="mt-4 pt-4 border-t border-[#222] flex gap-2">
+                <input type="text" id="new-feed-name" placeholder="Feed name" class="flex-1 bg-[#111] border border-[#222] rounded px-3 py-2 text-sm text-[#E5E7EB] outline-none focus:border-[#D94A00]">
+                <input type="text" id="new-feed-url" placeholder="RSS URL" class="flex-[2] bg-[#111] border border-[#222] rounded px-3 py-2 text-sm text-[#E5E7EB] outline-none focus:border-[#D94A00]">
+                <button id="add-feed-btn" class="bg-[#222] hover:bg-[#D94A00] hover:text-white text-[#8A8F98] px-4 py-2 rounded text-sm font-bold transition-colors whitespace-nowrap">+ Add</button>
+            </div>
+        </div>
+
+        <div class="p-6 border-t border-[#222] flex justify-between items-center bg-[#0f0f0f] rounded-b-xl gap-3">
+            <div class="flex gap-2 flex-1">
+                <input type="text" id="new-cat-name" placeholder="New category name…" class="flex-1 bg-[#111] border border-[#222] rounded px-3 py-2 text-sm text-[#E5E7EB] outline-none focus:border-[#D94A00]">
+                <button id="add-cat-btn" class="bg-[#222] hover:bg-[#2a2a2a] text-[#8A8F98] px-4 py-2 rounded text-sm font-bold transition-colors whitespace-nowrap">+ Category</button>
+                <button id="no-cat-btn" class="bg-[#222] hover:bg-[#2a2a2a] text-[#5A5F67] px-3 py-2 rounded text-sm font-bold transition-colors whitespace-nowrap" title="Add feeds without a category">⊘ None</button>
+            </div>
+            <button id="save-feeds-btn" class="bg-[#D94A00] text-white px-6 py-2 rounded text-sm font-bold hover:bg-[#ff661a] transition-colors whitespace-nowrap">Save to GitHub</button>
+        </div>
+    </dialog>
+
+    <script>
+        // Helper to grab the progress bar width for bookmarks
+        function getReadProgress() {
+            const bar = document.getElementById('read-progress-bar');
+            return bar ? parseFloat(bar.style.width) || 0 : 0;
+        }
+
+        // ── Sidebar: collapsible categories ──────────────────────────────────
+        function toggleCategory(catId) {
+            const el = document.getElementById('cat-' + catId);
+            const arrow = document.getElementById('arrow-' + catId);
+            const open = el.style.display !== 'none';
+            el.style.display = open ? 'none' : 'flex';
+            el.style.flexDirection = 'column';
+            arrow.style.transform = open ? '' : 'rotate(90deg)';
+            const saved = JSON.parse(localStorage.getItem('catOpen') || '{}');
+            saved[catId] = !open;
+            localStorage.setItem('catOpen', JSON.stringify(saved));
+        }
+
+        (function restoreCategories() {
+            const saved = JSON.parse(localStorage.getItem('catOpen') || '{}');
+            document.querySelectorAll('.feed-category').forEach(div => {
+                const catId = div.dataset.cat;
+                const el = document.getElementById('cat-' + catId);
+                const arrow = document.getElementById('arrow-' + catId);
+                
+                const hasActiveLink = el.querySelector('a.text-\\[\\#D94A00\\]');
+                const shouldOpen = hasActiveLink || saved[catId];
+                
+                if (shouldOpen) {
+                    el.style.display = 'flex';
+                    el.style.flexDirection = 'column';
+                    arrow.style.transform = 'rotate(90deg)';
+                }
+            });
+        })();
+
+        // ── Hotkeys ───────────────────────────────────────────────────────────
+        function fireHotkey(key) {
+            const el = document.getElementById('trigger-' + key);
+            if (el) htmx.trigger(el, 'click');
+        }
+
+        window.addEventListener('keydown', (e) => {
+            if (document.getElementById('feed-modal').open) return;
+            if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+            if (e.metaKey || e.ctrlKey || e.altKey) return;
+
+            if (e.code === 'Space') {
+                e.preventDefault();
+                const iframe = document.querySelector('#iframe-container iframe');
+                if (iframe && iframe.contentWindow) {
+                    const scrollDist = iframe.clientWidth;
+                    const dist = e.shiftKey ? -scrollDist : scrollDist;
+                    iframe.contentWindow.scrollBy({ left: dist, behavior: 'auto' });
+                }
+                return;
+            }
+
+            const key = e.key.toLowerCase();
+            if (['j', 'k', 'a', 's', 'w', 'c', 'u', 'b', 'x'].includes(key)) {
+                e.preventDefault();
+                fireHotkey(key);
+            }
+        });
+
+        // ── Typography & Scroll Progress ───────────────────────────────────────
+        let appSettings = JSON.parse(localStorage.getItem('rssSettings') || '{"fontSize": 20, "lineHeight": 1.7}');
+
+        function applyIframeSettings(iframe) {
+            if (iframe && iframe.contentWindow) {
+                iframe.contentWindow.postMessage({
+                    type: 'applySettings',
+                    fontSize: appSettings.fontSize,
+                    lineHeight: appSettings.lineHeight,
+                    color: '#a1a1aa'
+                }, '*');
+
+                if (iframe.dataset.savedProgress > 0) {
+                    iframe.contentWindow.postMessage({
+                        type: 'restoreScroll',
+                        value: parseFloat(iframe.dataset.savedProgress)
+                    }, '*');
+                }
+            }
+        }
+
+        function adjustAppearance(type, amount) {
+            if (type === 'font') {
+                appSettings.fontSize = Math.max(12, Math.min(36, appSettings.fontSize + amount));
+            } else if (type === 'line') {
+                appSettings.lineHeight = Math.max(1.0, Math.min(3.0, appSettings.lineHeight + amount));
+                appSettings.lineHeight = Math.round(appSettings.lineHeight * 10) / 10;
+            }
+            localStorage.setItem('rssSettings', JSON.stringify(appSettings));
+
+            const iframe = document.querySelector('#iframe-container iframe');
+            if (iframe) {
+                iframe.contentWindow.postMessage({
+                    type: 'applySettings',
+                    fontSize: appSettings.fontSize,
+                    lineHeight: appSettings.lineHeight,
+                    color: '#a1a1aa'
+                }, '*');
+            }
+        }
+
+        // Just listens for your backend's progress pings
+        window.addEventListener('message', (e) => {
+            if (e.data && e.data.type === 'progress') {
+                const bar = document.getElementById('read-progress-bar');
+                if (bar) {
+                    bar.style.width = e.data.value + '%';
+                }
+            }
+        });
+        
+        // Typography UI Toggle Logic
+        const textBtn = document.getElementById('text-toggle-btn');
+        const controlsPanel = document.getElementById('typography-controls');
+        if (textBtn && controlsPanel) {
+            textBtn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                controlsPanel.classList.toggle('hidden');
+            });
+            document.addEventListener('click', function(e) {
+                if (!controlsPanel.contains(e.target) && e.target !== textBtn) {
+                    controlsPanel.classList.add('hidden');
+                }
+            });
+        }
+
+        // ── Feed Modal Logic ─────────────────────────────────
+        let feedData = {};
+        let activeTab = null;
+        let sortableInstance = null;
+
+        {% for category, feeds in feed_groups.items() %}
+        feedData[{{ category | tojson }}] = [{% for feed in feeds %}{ name: {{ feed.name | tojson }}, url: {{ feed.url | tojson }} },{% endfor %}];
+        {% endfor %}
+
+        let tabSortable = null;
+
+        function renderTabs() {
+            const tabBar = document.getElementById('category-tabs');
+            tabBar.innerHTML = '';
+            Object.keys(feedData).forEach(cat => {
+                const wrap = document.createElement('div');
+                wrap.dataset.cat = cat;
+                wrap.className = 'flex items-center gap-1 ' + (cat === activeTab
+                    ? 'bg-[#1a1a1a] border border-b-0 border-[#333] rounded-t px-3 py-2'
+                    : 'px-3 py-2');
+
+                const btn = document.createElement('button');
+                btn.textContent = cat;
+                btn.className = 'text-sm font-semibold whitespace-nowrap cursor-grab active:cursor-grabbing ' +
+                    (cat === activeTab ? 'text-[#D94A00]' : 'text-[#5A5F67] hover:text-[#8A8F98]');
+                btn.addEventListener('click', () => { activeTab = cat; renderTabs(); renderFeedList(); });
+
+                const del = document.createElement('button');
+                del.textContent = '✕';
+                del.title = 'Delete category';
+                del.className = 'text-[10px] text-[#5A5F67] hover:text-red-500 transition-colors ml-1 leading-none';
+                del.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    const cats = Object.keys(feedData);
+                    if (cats.length === 1) {
+                        alert('You need at least one category.');
+                        return;
+                    }
+                    const orphans = feedData[cat] || [];
+                    delete feedData[cat];
+                    const fallback = feedData['Uncategorized'] !== undefined
+                        ? 'Uncategorized'
+                        : Object.keys(feedData)[0];
+                    if (orphans.length) {
+                        if (!feedData[fallback]) feedData[fallback] = [];
+                        if (confirm(`Move ${orphans.length} feed(s) from "${cat}" to "${fallback}"?`)) {
+                            feedData[fallback].push(...orphans);
+                        }
+                    }
+                    activeTab = fallback;
+                    renderTabs();
+                    renderFeedList();
+                });
+
+                wrap.appendChild(btn);
+                wrap.appendChild(del);
+                tabBar.appendChild(wrap);
+            });
+
+            if (tabSortable) tabSortable.destroy();
+            tabSortable = new Sortable(tabBar, {
+                animation: 150,
+                ghostClass: 'opacity-40',
+                onEnd: () => {
+                    const newOrder = [...tabBar.querySelectorAll('[data-cat]')].map(b => b.dataset.cat);
+                    const reordered = {};
+                    newOrder.forEach(cat => { reordered[cat] = feedData[cat]; });
+                    feedData = reordered;
+                }
+            });
+        }
+
+        function makeFeedLI(feed) {
+            const li = document.createElement('li');
+            li.className = 'feed-item flex items-center gap-2 bg-[#111] p-3 rounded-lg border border-[#222]';
+            li.innerHTML = `
+                <span class="drag-handle cursor-grab text-[#5A5F67] hover:text-[#D94A00] select-none shrink-0">☰</span>
+                <input type="text" class="feed-name flex-1 bg-transparent text-sm text-[#E5E7EB] outline-none min-w-0" value="" placeholder="Feed Name">
+                <input type="text" class="feed-url flex-[2] bg-transparent text-sm text-[#5A5F67] outline-none min-w-0" value="" placeholder="RSS URL">
+                <select class="feed-cat bg-[#1a1a1a] border border-[#333] text-[#5A5F67] rounded px-2 py-1 text-xs outline-none cursor-pointer shrink-0"></select>
+                <button class="delete-feed text-[#5A5F67] hover:text-red-500 transition-colors shrink-0">🗑️</button>`;
+
+            li.querySelector('.feed-name').value = feed.name;
+            li.querySelector('.feed-url').value = feed.url;
+
+            const sel = li.querySelector('.feed-cat');
+            Object.keys(feedData).forEach(cat => {
+                const opt = document.createElement('option');
+                opt.value = cat;
+                opt.textContent = cat === activeTab ? ('📁 ' + cat) : ('→ ' + cat);
+                opt.selected = cat === activeTab;
+                sel.appendChild(opt);
+            });
+            sel.addEventListener('change', () => {
+                const newCat = sel.value;
+                if (newCat === activeTab) return;
+                feedData[newCat].push({ name: li.querySelector('.feed-name').value, url: li.querySelector('.feed-url').value });
+                li.remove();
+                syncListToData();
+            });
+
+            li.querySelector('.delete-feed').addEventListener('click', () => li.remove());
+            return li;
+        }
+
+        function renderFeedList() {
+            const ul = document.getElementById('feed-list');
+            ul.innerHTML = '';
+            if (!activeTab || !feedData[activeTab]) return;
+            feedData[activeTab].forEach(feed => ul.appendChild(makeFeedLI(feed)));
+            if (sortableInstance) sortableInstance.destroy();
+            sortableInstance = new Sortable(ul, { handle: '.drag-handle', animation: 150, ghostClass: 'opacity-40' });
+        }
+
+        function syncListToData() {
+            if (!activeTab) return;
+            feedData[activeTab] = [];
+            document.querySelectorAll('#feed-list .feed-item').forEach(li => {
+                feedData[activeTab].push({
+                    name: li.querySelector('.feed-name').value,
+                    url: li.querySelector('.feed-url').value
+                });
+            });
+        }
+
+        document.querySelector('button[onclick*="feed-modal"]').addEventListener('click', () => {
+            if (!activeTab || !feedData[activeTab]) {
+                activeTab = feedData['Uncategorized'] !== undefined
+                    ? 'Uncategorized'
+                    : Object.keys(feedData)[0] || null;
+            }
+            renderTabs();
+            renderFeedList();
+        });
+
+        document.getElementById('add-feed-btn').addEventListener('click', () => {
+            const nameInp = document.getElementById('new-feed-name');
+            const urlInp = document.getElementById('new-feed-url');
+            if (!nameInp.value || !urlInp.value || !activeTab) return;
+            feedData[activeTab].push({ name: nameInp.value, url: urlInp.value });
+            nameInp.value = ''; urlInp.value = '';
+            renderFeedList();
+        });
+
+        document.getElementById('add-cat-btn').addEventListener('click', () => {
+            const inp = document.getElementById('new-cat-name');
+            const name = inp.value.trim();
+            if (!name || feedData[name]) return;
+            feedData[name] = [];
+            activeTab = name;
+            inp.value = '';
+            renderTabs();
+            renderFeedList();
+        });
+
+        document.getElementById('no-cat-btn').addEventListener('click', () => {
+            if (!feedData['Uncategorized']) feedData['Uncategorized'] = [];
+            activeTab = 'Uncategorized';
+            renderTabs();
+            renderFeedList();
+        });
+
+        document.getElementById('save-feeds-btn').addEventListener('click', async function() {
+            syncListToData();
+            const payload = {};
+            Object.entries(feedData).forEach(([cat, feeds]) => {
+                if (feeds.length > 0) payload[cat] = feeds;
+            });
+
+            const btn = this;
+            btn.textContent = 'Saving...';
+            btn.disabled = true;
+
+            await fetch('/feeds/update', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            const toast = document.createElement('div');
+            toast.style.cssText = 'position:fixed;bottom:32px;right:32px;background:#1a1a1a;border:1px solid #D94A00;color:#E5E7EB;padding:14px 20px;border-radius:10px;font-size:13px;font-weight:600;z-index:9999;line-height:1.5;';
+            toast.innerHTML = '✅ Feeds saved to GitHub<br><span style="color:#9C8B5E;font-weight:400;">GitHub Action triggered — new articles in ~60s.<br>Hit Sync Queue when ready.</span>';
+            document.body.appendChild(toast);
+
+            setTimeout(() => { window.location.href = '/'; }, 2500);
+        });
+    </script>
+</body>
+</html>

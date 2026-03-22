@@ -1,0 +1,81 @@
+<div class="flex-1 flex flex-col h-screen relative bg-[#050505]" id="article-view">
+    
+    {% if active_article %}
+    <div class="px-10 pt-10 pb-6 border-b border-[#1a1a1a] bg-[#0a0a0a] sticky top-0 z-10 flex flex-col gap-2 shrink-0 relative">
+        <div class="flex items-center gap-3">
+            <h2 class="text-lg font-bold text-[#D94A00] uppercase tracking-widest flex items-center">
+                {{ active_article.feed_name }}
+                {% if state.is_bookmarked %} 
+                <span class="ml-3 text-[10px] font-bold tracking-widest text-[#9C8B5E] bg-[#1a1a1a] px-2 py-0.5 rounded-sm border border-[#333]">SAVED</span> 
+                {% endif %}
+            </h2>
+        </div>
+        <h3 class="text-3xl font-semibold text-[#A3A3A3] leading-snug">{{ active_article.title }}</h3>
+        
+        <div class="flex items-baseline gap-3 mt-1">
+            {% if active_article.author %}
+            <span class="text-[15px] font-medium text-[#7A7A7A]">By {{ active_article.author }}</span>
+            {% endif %}
+            <span class="text-[12px] font-bold text-[#9C8B5E] uppercase tracking-wider shrink-0">{{ active_article.formatted_date }}</span>
+        </div>
+        
+        <div class="mt-4 flex justify-between items-end text-[10px] font-bold text-[#4B5563] tracking-wider">
+            <span>{{ state.active_feed_filter | upper }}</span>
+            <div class="flex items-center gap-6">
+                
+                <div class="flex flex-col items-end gap-1.5 w-32">
+                    <span>ARTICLE {{ state.current_idx + 1 }} OF {{ total_count }}</span>
+                    <div class="h-1 w-full bg-[#1a1a1a] rounded-full overflow-hidden">
+                        <div class="h-full bg-[#4B5563] transition-all duration-300" style="width: {{ ((state.current_idx + 1) / total_count * 100) if total_count > 0 else 0 }}%;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        {% if state.full_fetch %}
+        <div class="absolute bottom-0 left-0 w-full h-[2px] bg-transparent">
+            <div id="read-progress-bar" class="h-full bg-[#D94A00] transition-all duration-150 w-0"></div>
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="flex-1 p-10 flex flex-col min-h-0 overflow-hidden">
+        <div class="w-full flex-1 h-full" tabindex="0" id="iframe-container">
+            <iframe data-saved-progress="{{ state.saved_progress }}" onload="applyIframeSettings(this)" class="w-full h-full bg-transparent outline-none" allowtransparency="true" srcdoc="{{ active_article.html_body | escape }}"></iframe>
+        </div>
+    </div>
+    
+    {% else %}
+    <div class="flex-1 flex items-center justify-center p-10">
+        <p class="text-xl text-[#5A5F67] italic text-center max-w-lg">"You are completely caught up."</p>
+    </div>
+    {% endif %}
+</div>
+
+{% if is_htmx %}
+<div id="undo-section" hx-swap-oob="true">
+    {% if state.undo_stack %}
+    <button onclick="fireHotkey('u')" class="w-full py-3 bg-[#1a1a1a] border border-[#2a2a2a] hover:bg-[#222] hover:border-[#5A5F67] text-[#8A8F98] rounded-lg text-sm font-semibold transition-colors flex items-center justify-center">
+        Undo Archive
+    </button>
+    {% endif %}
+</div>
+
+<div id="toast-message" hx-swap-oob="true">
+    {% if toast_msg %}
+    <div class="fixed bottom-8 right-8 bg-[#E5E7EB] text-[#0a0a0a] px-6 py-3 rounded-lg shadow-2xl font-bold text-sm z-50 transition-all duration-300 transform translate-y-0 opacity-100" id="toast-element">
+        {{ toast_msg }}
+        <script>
+            setTimeout(() => {
+                const el = document.getElementById('toast-element');
+                if (el) {
+                    el.style.opacity = '0';
+                    el.style.transform = 'translateY(10px)';
+                    setTimeout(() => el.remove(), 300);
+                }
+            }, 3000);
+        </script>
+    </div>
+    {% endif %}
+</div>
+{% endif %}
