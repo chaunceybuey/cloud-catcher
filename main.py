@@ -95,30 +95,39 @@ def get_active_info(candidates=None):
 async def home(request: Request):
     candidates, my_feeds, feed_counts, all_feeds_count = get_filtered_articles()
 
-    return templates.TemplateResponse("index.html", {
-        "request": request,
-        "state": state,
-        "total_count": len(candidates),
-        "my_feeds": my_feeds,
-        "feed_groups": build_feed_groups(my_feeds),
-        "feed_counts": feed_counts,
-        "all_feeds_count": all_feeds_count,
-        "active_category_filter": state["active_category_filter"],
-        "is_htmx": False
-    })
+    return templates.TemplateResponse(
+        request=request, 
+        name="index.html", 
+        context={
+            "request": request,
+            "state": state,
+            "total_count": len(candidates),
+            "my_feeds": my_feeds,
+            "feed_groups": build_feed_groups(my_feeds),
+            "feed_counts": feed_counts,
+            "all_feeds_count": all_feeds_count,
+            "active_category_filter": state["active_category_filter"],
+            "is_htmx": False
+        }
+    )
 
 @app.get("/load-article", response_class=HTMLResponse)
 async def load_article(request: Request):
     candidates, _, _, _ = get_filtered_articles()
     active_article, candidates = get_active_info(candidates)
-    return templates.TemplateResponse("article_partial.html", {
-        "request": request,
-        "state": state,
-        "active_article": active_article,
-        "total_count": len(candidates) if candidates else 0,
-        "is_htmx": False,
-        "toast_msg": ""
-    })
+    
+    return templates.TemplateResponse(
+        request=request, 
+        name="article_partial.html", 
+        context={
+            "request": request,
+            "state": state,
+            "active_article": active_article,
+            "total_count": len(candidates) if candidates else 0,
+            "is_htmx": False,
+            "toast_msg": ""
+        }
+    )
 
 @app.get("/sync")
 async def sync_queue():
@@ -253,14 +262,18 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
     if action == "bookmark":
         state["saved_progress"] = progress
     
-    return templates.TemplateResponse("article_partial.html", {
-        "request": request,
-        "state": state,
-        "active_article": new_active,
-        "total_count": len(new_candidates) if new_candidates else 0,
-        "is_htmx": True,
-        "toast_msg": toast_msg
-    })
+    return templates.TemplateResponse(
+        request=request, 
+        name="article_partial.html", 
+        context={
+            "request": request,
+            "state": state,
+            "active_article": new_active,
+            "total_count": len(new_candidates) if new_candidates else 0,
+            "is_htmx": True,
+            "toast_msg": toast_msg
+        }
+    )
 
 if __name__ == "__main__":
     import threading
@@ -268,7 +281,7 @@ if __name__ == "__main__":
     import os
 
     def run_server():
-        uvicorn.run(app, host="127.0.0.1", port=8088, log_level="info")
+        uvicorn.run(app, host="127.0.0.1", port=8088, log_level="critical")
 
     def prewarm_cache():
         import time
