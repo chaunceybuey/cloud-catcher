@@ -21,25 +21,17 @@ GITHUB_TOKEN    = os.environ.get('GITHUB_TOKEN',    '')
 # --- FIREBASE SETUP ---
 FIREBASE_DB_URL = os.environ.get('FIREBASE_DB_URL', '')
 FIREBASE_CRED_PATH = os.environ.get('FIREBASE_CRED_PATH', 'firebase-credentials.json')
-FIREBASE_CRED_JSON = os.environ.get('FIREBASE_CRED_JSON', '')
 
 if not firebase_admin._apps and FIREBASE_DB_URL:
     try:
-        # Check if we are on a cloud server using a string variable first
-        if FIREBASE_CRED_JSON:
-            cred_dict = json.loads(FIREBASE_CRED_JSON)
-            cred = credentials.Certificate(cred_dict)
-        else:
-            # Fallback to local file if we are running on your laptop
-            cred = credentials.Certificate(FIREBASE_CRED_PATH)
-            
+        cred = credentials.Certificate(FIREBASE_CRED_PATH)
         firebase_admin.initialize_app(cred, {
             'databaseURL': FIREBASE_DB_URL
         })
     except Exception as e:
         print(f"Firebase init error: {e}")
 
-# --- MISSING SESSIONS AND CACHE RESTORED ---
+# --- SESSIONS AND CACHE ---
 _SSL_CONTEXT = ssl.create_default_context()
 _REQ_SESSION = requests.Session()
 _ARTICLE_SESSION = requests.Session()
@@ -58,8 +50,6 @@ def force_sync():
     CACHE['master']['expires'] = 0
 
 # --- CLOUD HISTORY & BOOKMARKS ---
-# We store these as JSON strings to bypass Firebase's strict key character limits (no '.' or '/')
-
 def get_history() -> set:
     if not FIREBASE_DB_URL: return set()
     try:
@@ -188,7 +178,7 @@ def fetch_master_archive() -> list:
         pass
     return []
 
-# --- ARTICLE FETCHER ---
+# --- ARTICLE FETCHER (LOCAL BROWSER COOKIES RESTORED) ---
 def fetch_full_article(url: str) -> str:
     if url in CACHE['articles']:
         return CACHE['articles'][url]
@@ -198,35 +188,22 @@ def fetch_full_article(url: str) -> str:
     except ImportError:
         return "<i>trafilatura not installed. Run: pip install trafilatura</i>"
 
-    # Bring in the stealth library
-    try:
-        from curl_cffi import requests as stealth_requests
-    except ImportError:
-        return "<i>curl_cffi not installed. Run: pip install curl-cffi</i>"
-
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Language': 'en-US,en;q=0.5',
         'Referer': 'https://www.google.com/',
     }
     
-    # Grab the manual NYT VIP pass from Render
-    request_cookies = {}
-    nyt_cookie_val = os.environ.get('NYT_COOKIE', '')
-    if nyt_cookie_val and 'nytimes.com' in url:
-        request_cookies['NYT-S'] = nyt_cookie_val
+    cookies = None
+    try:
+        import browser_cookie3
+        cookies = browser_cookie3.load()
+    except Exception as e:
+        print(f"Cookie Error: {e}")
 
     try:
-        # The magic keyword here is impersonate="chrome110"
-        res = stealth_requests.get(
-            url, 
-            headers=headers, 
-            cookies=request_cookies, 
-            timeout=15, 
-            impersonate="chrome110" 
-        )
-        
+        res = _ARTICLE_SESSION.get(url, headers=headers, cookies=cookies, timeout=10)
         if res.status_code != 200:
             return f"<i>Request blocked (HTTP {res.status_code}).</i>"
 
