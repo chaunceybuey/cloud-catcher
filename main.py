@@ -1,32 +1,12 @@
-import os
-import secrets
-from fastapi import FastAPI, Request, Form, Response, Depends, HTTPException, status
-from fastapi.security import HTTPBasic, HTTPBasicCredentials
+from fastapi import FastAPI, Request, Form, Response
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse, RedirectResponse
 import uvicorn
+import webbrowser
 import rss_engine
 from urllib.parse import quote
 
-# --- SECURITY BOUNCER ---
-security = HTTPBasic()
-APP_USERNAME = os.environ.get("APP_USERNAME", "admin")
-APP_PASSWORD = os.environ.get("APP_PASSWORD", "secret")
-
-def verify_user(credentials: HTTPBasicCredentials = Depends(security)):
-    is_correct_username = secrets.compare_digest(credentials.username.encode("utf8"), APP_USERNAME.encode("utf8"))
-    is_correct_password = secrets.compare_digest(credentials.password.encode("utf8"), APP_PASSWORD.encode("utf8"))
-    if not (is_correct_username and is_correct_password):
-        raise HTTPException(
-            status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Incorrect username or password",
-            headers={"WWW-Authenticate": "Basic"},
-        )
-    return credentials.username
-
-# Apply the bouncer to the entire app
-app = FastAPI(dependencies=[Depends(verify_user)])
-
+app = FastAPI()
 templates = Jinja2Templates(directory="templates")
 templates.env.filters["urlquote"] = lambda s: quote(str(s), safe='')
 
@@ -114,6 +94,7 @@ def get_active_info(candidates=None):
 @app.get("/", response_class=HTMLResponse)
 async def home(request: Request):
     candidates, my_feeds, feed_counts, all_feeds_count = get_filtered_articles()
+
     return templates.TemplateResponse("index.html", {
         "request": request,
         "state": state,
@@ -198,6 +179,13 @@ async def switch_mode(mode: str):
     state["active_category_filter"] = None
     return RedirectResponse(url="/")
 
+@app.post("/action/open")
+async def open_web():
+    active_article, _ = get_active_info()
+    if active_article:
+        webbrowser.open(active_article['link'])
+    return HTMLResponse("")
+
 @app.post("/action/{action}", response_class=HTMLResponse)
 async def handle_action(request: Request, action: str, progress: float = Form(0.0)):
     active_article, candidates = get_active_info()
@@ -275,6 +263,23 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
     })
 
 if __name__ == "__main__":
-    # Cloud-ready server launch
-    port = int(os.environ.get("PORT", 8088))
-    uvicorn.run(app, host="0.0.0.0", port=port)
+    import threading
+    import webview
+    import os
+
+    def run_server():
+        uvicorn.run(app, host="127.0.0.1", port=8088, log_level="critical")
+
+    def prewarm_cache():
+        import time
+        time.sleep(1.5)
+        rss_engine.fetch_feeds_config()
+        rss_engine.fetch_master_archive()
+
+    threading.Thread(target=run_server, daemon=True).start()
+    threading.Thread(target=prewarm_cache, daemon=True).start()
+    
+    webview.create_window("RSS Triage", "http://127.0.0.1:8088/?nocache=1", width=1300, height=900)
+    webview.start()
+    
+    os._exit(0)
