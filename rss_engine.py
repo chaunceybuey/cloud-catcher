@@ -198,8 +198,14 @@ def fetch_full_article(url: str) -> str:
     except ImportError:
         return "<i>trafilatura not installed. Run: pip install trafilatura</i>"
 
+    # Bring in the stealth library
+    try:
+        from curl_cffi import requests as stealth_requests
+    except ImportError:
+        return "<i>curl_cffi not installed. Run: pip install curl-cffi</i>"
+
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Language': 'en-US,en;q=0.5',
         'Referer': 'https://www.google.com/',
@@ -209,10 +215,18 @@ def fetch_full_article(url: str) -> str:
     request_cookies = {}
     nyt_cookie_val = os.environ.get('NYT_COOKIE', '')
     if nyt_cookie_val and 'nytimes.com' in url:
-        request_cookies['NYT-S'] = nyt_cookie_val  # <--- Fixed!
+        request_cookies['NYT-S'] = nyt_cookie_val
 
     try:
-        res = _ARTICLE_SESSION.get(url, headers=headers, cookies=request_cookies, timeout=10)
+        # The magic keyword here is impersonate="chrome110"
+        res = stealth_requests.get(
+            url, 
+            headers=headers, 
+            cookies=request_cookies, 
+            timeout=15, 
+            impersonate="chrome110" 
+        )
+        
         if res.status_code != 200:
             return f"<i>Request blocked (HTTP {res.status_code}).</i>"
 
