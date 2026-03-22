@@ -209,7 +209,7 @@ def fetch_full_article(url: str) -> str:
     request_cookies = {}
     nyt_cookie_val = os.environ.get('NYT_COOKIE', '')
     if nyt_cookie_val and 'nytimes.com' in url:
-        request_cookies['nyt-s'] = nyt_cookie_val
+        request_cookies['NYT-S'] = nyt_cookie_val  # <--- Fixed!
 
     try:
         res = _ARTICLE_SESSION.get(url, headers=headers, cookies=request_cookies, timeout=10)
