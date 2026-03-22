@@ -205,15 +205,14 @@ def fetch_full_article(url: str) -> str:
         'Referer': 'https://www.google.com/',
     }
     
-    cookies = None
-    try:
-        import browser_cookie3
-        cookies = browser_cookie3.load()
-    except Exception as e:
-        print(f"Cookie Error: {e}")
+    # Grab the manual NYT VIP pass from Render
+    request_cookies = {}
+    nyt_cookie_val = os.environ.get('NYT_COOKIE', '')
+    if nyt_cookie_val and 'nytimes.com' in url:
+        request_cookies['nyt-s'] = nyt_cookie_val
 
     try:
-        res = _ARTICLE_SESSION.get(url, headers=headers, cookies=cookies, timeout=10)
+        res = _ARTICLE_SESSION.get(url, headers=headers, cookies=request_cookies, timeout=10)
         if res.status_code != 200:
             return f"<i>Request blocked (HTTP {res.status_code}).</i>"
 
