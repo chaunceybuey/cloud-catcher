@@ -39,6 +39,24 @@ if not firebase_admin._apps and FIREBASE_DB_URL:
     except Exception as e:
         print(f"Firebase init error: {e}")
 
+# --- MISSING SESSIONS AND CACHE RESTORED ---
+_SSL_CONTEXT = ssl.create_default_context()
+_REQ_SESSION = requests.Session()
+_ARTICLE_SESSION = requests.Session()
+_ARTICLE_SESSION.verify = False
+
+ARTICLE_CACHE_MAX = 100
+
+CACHE = {
+    'feeds': {'data': [], 'expires': 0},
+    'master': {'data': [], 'expires': 0},
+    'articles': {} 
+}
+
+def force_sync():
+    CACHE['feeds']['expires'] = 0
+    CACHE['master']['expires'] = 0
+
 # --- CLOUD HISTORY & BOOKMARKS ---
 # We store these as JSON strings to bypass Firebase's strict key character limits (no '.' or '/')
 
