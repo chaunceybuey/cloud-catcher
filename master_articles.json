@@ -350,6 +350,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html",
+    "feed_name": "NYT (Popular)",
+    "title": "Deadly Plane Crash at LaGuardia Airport: What We Know",
+    "author": "Ali Watkins and Christine Hauser",
+    "link": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html",
+    "content": "An Air Canada jet collided with a truck at LaGuardia Airport on Sunday.",
+    "date": "2026-03-23T23:12:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224676",
     "feed_name": "Texas Tribune",
     "title": "Texas Education Agency orders public schools to remove mentions of Cesar Chavez from lessons",
