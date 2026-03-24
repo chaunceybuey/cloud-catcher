@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/24/dining/chicken-with-black-beans-and-tortellini-with-peas.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Chicken With Black Beans and Tortellini With Peas",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/24/dining/chicken-with-black-beans-and-tortellini-with-peas.html",
+    "content": "Five quick recipes that pair go-to ingredients to great effect.",
+    "date": "2026-03-24T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=224735",
+    "feed_name": "Texas Tribune",
+    "title": "Florida educator tapped to lead Fort Worth schools under Texas takeover",
+    "author": "By Jacob Sanchez and Matthew Sgroi,\u00a0Fort Worth Report",
+    "link": "https://feeds.texastribune.org/link/16799/17305235/texas-fort-worth-isd-superintendent-takeover",
+    "content": "Then-Broward Schools Superintendent Peter Licata on Nov. 28, 2023. Texas Education Commissioner Mike Morath appointed Licata as Fort Worth ISD\u2019s new leader.",
+    "date": "2026-03-24T14:32:48",
+    "category": "Texas"
+  },
+  {
     "id": "63e7b88c870b512ac0a350e4a7d2a534",
     "feed_name": "LRB",
     "title": "Under Bombardment in Tehran",
