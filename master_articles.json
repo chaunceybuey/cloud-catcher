@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "69b1c240c0efa4d50c96a15c",
+    "feed_name": "Wired",
+    "title": "Your Body Is Betraying Your Right to Privacy",
+    "author": "Andrew Guthrie Ferguson",
+    "link": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
+    "content": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
+    "date": "2026-03-24T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "698d09eec092dc0d6c3de041",
+    "feed_name": "Wired",
+    "title": "\u2018Get Down! Get Down! They\u2019re Gonna See Us!\u2019: Six Months of Hiding From ICE",
+    "author": "Maddy Crowell",
+    "link": "https://www.wired.com/story/get-down-get-down-six-months-of-hiding-from-ice/",
+    "content": "A family in Chicago has been terrified to leave their apartment. Agents could be anywhere.",
+    "date": "2026-03-24T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/hugo-holland-louisiana-judge-race-controversies",
     "feed_name": "ProPublica",
     "title": "He Compared a Black Child to a Dog and Withheld Evidence in Death Row Cases. Now He\u2019s Running for Judge.",
