@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=224762",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Inside Texas\u2019 massive ICE detention facilities",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17305426/tribcast-ice-detention-immigration",
+    "content": "The South Texas Family Residential Center in Dilley on Jan. 28, 2026.",
+    "date": "2026-03-24T20:00:37",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/american-kids-detained-trump-immigration-deportation-democrats-investigation",
     "feed_name": "ProPublica",
     "title": "How American Kids Have Been Collateral Damage in Trump\u2019s Immigration Crackdown",
@@ -128,6 +138,16 @@
     "content": "Attorney General Ken Paxton confers with Gov. Greg Abbott outside the Senate chamber before his swearing-in ceremony on Jan. 10, 2023.",
     "date": "2026-03-24T16:46:29",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
+    "feed_name": "NYT (Popular)",
+    "title": "Saudi Leader Is Said to Push Trump to Continue Iran War in Recent Calls",
+    "author": "Julian E. Barnes, Tyler Pager and Eric Schmitt",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
+    "content": "President Trump hosted Crown Prince Mohammed bin Salman of Saudi Arabia at the White House last year.",
+    "date": "2026-03-24T15:24:44",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/03/24/dining/chicken-with-black-beans-and-tortellini-with-peas.html",
