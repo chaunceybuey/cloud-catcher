@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8723143#p8723143",
+    "feed_name": "Vanguard",
+    "title": "Re: alerts [not available] for Vanguard Cash Plus account activity",
+    "author": "ftobin",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8723143#p8723143",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I get an email every time cash is pulled from my Vanguard Cash Plus Account.  I am not sure if that is equivalent to activity alerts, as I am not sure exactly what that entails.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>The right way to do it is how Fidelity does it: alert the first time a new counterparty withdraws from your account.<br />Otherwise you're going to get alert fatigue.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=12943\">ftobin</a> \u2014 Thu Mar 26, 2026 11:12 am</p><hr />",
+    "date": "2026-03-26T16:12:05",
+    "category": "Finance"
+  },
+  {
+    "id": "aa79fe19e22aad0a66fff98aa746886e",
+    "feed_name": "LRB",
+    "title": "On Nicola Barker",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n06/leo-robson/toxic-inner-critic",
+    "content": "Nicola Barker\u2019s\u200b latest novel,TonyInterruptor, is a reaction to, and reflection on, a moment of creative crisis. While writingH(A)PPY(2017), Barker has said, she stopped sleeping for nine or ten months. On completing the book she was convinced that her relationship with the novel form was over: \u2018I felt everything falling away around me, the entire construct of my life, my...",
+    "date": "2026-03-26T15:58:28",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=224982",
     "feed_name": "Texas Tribune",
     "title": "Legislators, business leaders highlight Texas policies driving competition with Wall Street",
