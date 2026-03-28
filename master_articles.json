@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=225163",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Supreme Court ends lawsuits against power generators over 2021 winter storm",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17307884/texas-supreme-court-2021-winter-storm-lawsuits",
+    "content": "A neighborhood in Argyle during Winter Storm Yuri, on Feb. 15, 2021.",
+    "date": "2026-03-27T23:59:27",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/18168-ballet-austin-marie-antoinette",
     "feed_name": "KMFA",
     "title": "Ballet Austin: Marie Antoinette",
@@ -2708,6 +2718,16 @@
     "content": "In Shenzhen, the successes and failures of China\u2019s remarkable new economy are on full display.",
     "date": "2026-03-22T15:18:47",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html",
+    "feed_name": "NYT (Popular)",
+    "title": "Trump\u2019s Reaction to Mueller\u2019s Death: \u2018Good, I\u2019m Glad.\u2019",
+    "author": "Erica L. Green",
+    "link": "https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html",
+    "content": "Robert S. Mueller III appeared before the House Intelligence Committee in 2019.",
+    "date": "2026-03-22T14:43:22",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html",
