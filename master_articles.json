@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html",
+    "feed_name": "NYT (Popular)",
+    "title": "Wild Ultimatums and \u2018Bombing Our Little Hearts Out\u2019: A Portrait of Trump at War",
+    "author": "Erica L. Green",
+    "link": "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html",
+    "content": "The president\u2019s allies have always said that his unpredictability is his superpower, and that it keeps his enemies guessing.",
+    "date": "2026-03-28T16:03:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/03/28/opinion/religious-revival-america.html",
     "feed_name": "Douthat",
     "title": "Is Religion Reviving or Declining? Both.",
@@ -1868,6 +1878,16 @@
     "content": "Attorney General Ken Paxton confers with Gov. Greg Abbott outside the Senate chamber before his swearing-in ceremony on Jan. 10, 2023.",
     "date": "2026-03-24T16:46:29",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/03/24/us/david-a-ross-jeffrey-epstein-donations.html",
+    "feed_name": "NYT (Popular)",
+    "title": "David A. Ross Sought Epstein\u2019s Help to Build Art Museums. Now He\u2019s Facing the Fallout.",
+    "author": "Eli Saslow and Erin Schaff",
+    "link": "https://www.nytimes.com/2026/03/24/us/david-a-ross-jeffrey-epstein-donations.html",
+    "content": "He mastered the world of the \u201cEpstein Class\u201d to build great museums. Now he\u2019s confronting the cost.",
+    "date": "2026-03-24T15:32:41",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
