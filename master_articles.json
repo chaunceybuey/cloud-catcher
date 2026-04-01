@@ -110,6 +110,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=225458",
+    "feed_name": "Texas Tribune",
+    "title": "AI-aligned super PACs are pouring millions into Texas congressional races",
+    "author": "Olivia Borgula",
+    "link": "https://feeds.texastribune.org/link/16799/17311507/texas-congress-ai-super-pacs-artificial-intelligence-regulation-2026-midterms",
+    "content": "The U.S. Capitol in Washington, D.C., seen on April 14, 2022.",
+    "date": "2026-04-01T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=225316",
+    "feed_name": "Texas Tribune",
+    "title": "T-Squared: We\u2019re relaunching our Texas Public Schools Explorer to better serve parents and teachers",
+    "author": "Chris Essig, Rob Reid and Alex Ford",
+    "link": "https://feeds.texastribune.org/link/16799/17311508/texas-tribune-public-schools-explorer-relaunch",
+    "content": "Today, we are unveiling our most ambitious update yet to The Texas Tribune\u2019s schools explorer, with more information and added context to help Texans interpret information about our schools.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17311508.gif\" width=\"1\" />",
+    "date": "2026-04-01T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=225319",
+    "feed_name": "Texas Tribune",
+    "title": "Explore our newly redesigned Texas Public Schools Explorer with expanded data",
+    "author": "Rob Reid and Alex Ford",
+    "link": "https://feeds.texastribune.org/link/16799/7720311/",
+    "content": "The explorer now shows long-term trends, school funding data, and newly released Texas Academic Performance Reports, among other updates.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/7720311.gif\" width=\"1\" />",
+    "date": "2026-04-01T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "69cc2ca80de85ad4ac5186fb",
+    "feed_name": "Wired (Science)",
+    "title": "These Are the 4 Artemis II Astronauts Leading the Historic Return to the Moon",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/these-are-the-4-artemis-ii-astronauts-leading-the-historic-return-to-the-moon/",
+    "content": "The Artemis II mission crew includes the first woman, the first Black person, and the first non-American astronaut to travel to the lunar environment.",
+    "date": "2026-04-01T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=18663",
+    "feed_name": "Stratechery",
+    "title": "Axios Supply Chain Attack, Claude Code Code Leaked, AI and Security",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/",
+    "content": "<p>AI is going to be bad for security in the short-term, but much better than humans in the long-term.</p>",
+    "date": "2026-04-01T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc",
     "feed_name": "ProPublica",
     "title": "The Trump EPA Official in Charge of Methane Regulations Helped Write Oil Industry Argument Against Those Rules",
