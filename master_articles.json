@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html",
+    "feed_name": "NYT (Popular)",
+    "title": "Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.",
+    "author": "Motoko Rich",
+    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html",
+    "content": "Pope Leo, during the Holy Thursday Mass in Rome, said the Christian mission had often been \u201cdistorted by a desire for domination.\u201d",
+    "date": "2026-04-03T17:30:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=18677",
     "feed_name": "Stratechery",
     "title": "2026.14: Apple, Acceleration, and AI",
