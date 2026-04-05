@@ -140,6 +140,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
+    "feed_name": "NYT (Popular)",
+    "title": "How the CIA Helped Locate a Missing Airman After Iran Downed a U.S. Fighter Jet",
+    "author": "Julian E. Barnes",
+    "link": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
+    "content": "A still image from a video of U.S. aircraft over southwest Iran on Friday.",
+    "date": "2026-04-05T14:46:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8730834#p8730834",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
