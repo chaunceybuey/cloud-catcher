@@ -110,6 +110,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=225684",
+    "feed_name": "Texas Tribune",
+    "title": "Texas to launch a statewide food truck permit on July 1",
+    "author": "Zahiyah Carter",
+    "link": "https://feeds.texastribune.org/link/16799/17314350/texas-food-truck-statewide-licensing-fee",
+    "content": "Eloisa Schessler outside of her food truck, Eloisa\u2019s Kitchen, located at Klyde Warren Park near downtown Dallas, on March 12, 2026.",
+    "date": "2026-04-06T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=225778",
+    "feed_name": "Texas Tribune",
+    "title": "These Texans want better schools for Black students. They disagree on vouchers as the answer.",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17314351/texas-school-vouchers-black-students-segregation",
+    "content": "Jennifer Lee and Kyev Tatum.",
+    "date": "2026-04-06T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "6984e5185d7af74810a82006",
+    "feed_name": "Wired",
+    "title": "Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them",
+    "author": "Claire McNear",
+    "link": "https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/",
+    "content": "Your venomous serpent bites you, and the clock is ticking. America\u2019s zookeepers\u2014and a cooler full of rare antivenom\u2014are your best chance of survival.",
+    "date": "2026-04-06T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=18705",
+    "feed_name": "Stratechery",
+    "title": "OpenAI Buys TBPN, Tech and the Token Tsunami",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/",
+    "content": "<p>OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.</p>",
+    "date": "2026-04-06T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "69cfd125d58115aaf3077544",
     "feed_name": "Wired (Science)",
     "title": "5 Mysteries That the Artemis Missions to the Moon Could Finally Solve",
