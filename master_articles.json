@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "ef79e65bc868a324d41fab3f512ca9b9",
+    "feed_name": "LRB",
+    "title": "At a Budapest Scruton Caf\u00e9",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/april/at-a-budapest-scruton-cafe",
+    "content": "Tourists might stumble into a Scruton caf\u00e9 in quite different parts of Budapest: one is on the second floor of a shopping centre called Mammut.\u00a0.\u00a0.",
+    "date": "2026-04-07T20:51:43",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19290-texas-state-university-theatre-division-resucito",
     "feed_name": "KMFA",
     "title": "Texas State University: Theatre Division - RESUCIT\u00d3",
@@ -488,6 +498,16 @@
     "content": "",
     "date": "2026-04-07T03:27:38",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/06/opinion/women-workplace-dei-feminism.html",
+    "feed_name": "NYT (Popular)",
+    "title": "I\u2019ve Covered Women in the Workplace for 15 Years. Something Alarming Is Happening.",
+    "author": "Joanne Lipman",
+    "link": "https://www.nytimes.com/2026/04/06/opinion/women-workplace-dei-feminism.html",
+    "content": "As women are erased from the narrative, injustices against them go unnoticed.",
+    "date": "2026-04-07T00:24:02",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=225949",
