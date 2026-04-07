@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "eb73414b312e32529bd9b66a9984aea7",
+    "feed_name": "LRB",
+    "title": "Amy Larocca & Gaby Wood: How to Be Well",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/amy-larocca-gaby-wood-how-to-be-well-tickets-1983450568042",
+    "content": "",
+    "date": "2026-04-07T19:08:22",
+    "category": "Magazines"
+  },
+  {
     "id": "69d541888a99327c6fc967b8",
     "feed_name": "Wired (Science)",
     "title": "Artemis II\u2019s Breathtaking View of the Far Side of the Moon",
@@ -118,6 +128,16 @@
     "content": "The first images from Artemis II reveal what the moon looks like just 7,000 km from the surface\u2014and confirm that NASA is ready to return to Earth\u2019s satellite.",
     "date": "2026-04-07T18:34:52",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/07/opinion/jd-vance-trump-iran-hungary-orban.html",
+    "feed_name": "NYT (Popular)",
+    "title": "How Much Humiliation Can Vance Take?",
+    "author": "Dana Milbank",
+    "link": "https://www.nytimes.com/2026/04/07/opinion/jd-vance-trump-iran-hungary-orban.html",
+    "content": "The vice president gets saddled with the Iran war and eroding popularity.",
+    "date": "2026-04-07T16:34:30",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/07/dining/the-five-weeknight-dishes-in-my-current-rotation.html",
