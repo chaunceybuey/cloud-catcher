@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html",
+    "feed_name": "NYT (Popular)",
+    "title": "How Trump Took the U.S. to War With Iran",
+    "author": "Jonathan Swan and Maggie Haberman",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html",
+    "content": "The decision by President Trump to give the go-ahead to join Israel in attacking Iran was influenced by a presentation by Prime Minister Benjamin Netanyahu in February that led to a series of discussions inside the White House over the following days and weeks.",
+    "date": "2026-04-07T22:18:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=226028",
     "feed_name": "Texas Tribune",
     "title": "TribCast: Anti-Muslim rhetoric in Texas politics",
