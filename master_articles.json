@@ -420,6 +420,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/10/us/politics/arch-washington-trump.html",
+    "feed_name": "NYT (Popular)",
+    "title": "Officials Release Design for 250-Foot Arch in Washington, as Trump Seeks Another Imprint",
+    "author": "Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/04/10/us/politics/arch-washington-trump.html",
+    "content": "A rendering released by the U.S. Commission of Fine Arts of plans for a 250-foot triumphal arch in Washington.",
+    "date": "2026-04-10T19:17:01",
+    "category": "NYT"
+  },
+  {
     "id": "69d9224e4fbd3a67c34042d5",
     "feed_name": "Wired (Science)",
     "title": "The Future of the Artemis Program Is Riding on Reentry",
