@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8736353#p8736353",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "dOvob",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8736353#p8736353",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br /><br />Hello! Thanks for this feedback. Still getting an error when trying to add a (joint) cash plus account to Target circle card via <a class=\"postlink\" href=\"https://mytargetcirclecard.target.com/payments/payment-accounts\">https://mytargetcirclecard.target.com/p ... t-accounts</a> \"Add payment account\", that actually asks for a \"checking\" vs \"savings\" account type. Am I missing something? Did you use another way?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Just checked my settings and it says Checking now. Used the PNC routing and account #.<br />I entered it again to see if it would take and it started another round of micro deposits. So seems to still be working for me.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Thanks, much appreciated. I had given up but based on your feedback I tried again today and it was accepted.<br />It did not ask for micro deposits though, and the auto pay enrollment failed and can't be reinstated on the previous account... Maybe it's because I stopped using the card and there is no recent statement. Anyway, more likely a target quirk than a Vanguard Cash plus issue at this stage...<br />Thanks again!<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=214516\">dOvob</a> \u2014 Sat Apr 11, 2026 11:16 pm</p><hr />",
+    "date": "2026-04-12T04:16:24",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html",
     "feed_name": "NYT (Popular)",
     "title": "The Sphinx Thinks It Stinks",
