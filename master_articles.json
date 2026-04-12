@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html",
+    "feed_name": "NYT (Popular)",
+    "title": "The Sphinx Thinks It Stinks",
+    "author": "Maureen Dowd",
+    "link": "https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html",
+    "content": "Melania creates another mystery with a surprise statement.",
+    "date": "2026-04-11T15:57:52",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/04/23/from-the-rooftops-of-tehran/",
     "feed_name": "NYYRB",
     "title": "From the Rooftops of Tehran",
