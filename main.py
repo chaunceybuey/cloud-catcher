@@ -248,10 +248,20 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
 
         elif action == "listen":
             state["full_fetch"] = True
-            toast_msg = "Generating audio..."
-            # Generate the MP3 and save the filepath
-            filepath = rss_engine.generate_audio(active_article['id'], active_article.get('html_body', ''))
-            state["audio_path"] = filepath
+            
+            # Force the engine to grab the FULL article text right now, not just the summary
+            full_text = rss_engine.fetch_full_article(active_article.get('link', ''))
+            
+            # Generate the audio
+            filepath = rss_engine.generate_audio(active_article['id'], full_text)
+            
+            # Smart Toast Logic
+            if filepath.startswith("ERROR:"):
+                toast_msg = filepath # Display Google's exact error in the popup!
+                state["audio_path"] = ""
+            else:
+                toast_msg = "Audio generated!"
+                state["audio_path"] = filepath
 
     if action == "undo":
         if state["view_mode"] == "Archive" and active_article:
