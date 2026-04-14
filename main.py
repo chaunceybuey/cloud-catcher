@@ -42,7 +42,7 @@ def _generate_audio_bg(article_id: str, article_link: str):
         state["audio_error"] = ""
     state["audio_generating"] = False
 
-
+def build_feed_groups(my_feeds):
     from collections import OrderedDict
     groups = OrderedDict()
     for f in my_feeds:
