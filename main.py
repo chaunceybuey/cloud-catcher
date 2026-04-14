@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Request, Form, Response
 from fastapi.templating import Jinja2Templates
-from fastapi.responses import HTMLResponse, RedirectResponse, FileResponse
+from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 import uvicorn
 import webbrowser
@@ -35,15 +35,21 @@ state = {
 
 def _generate_audio_bg(article_id: str, article_link: str):
     """Runs in a background thread so the UI doesn't block during TTS."""
-    full_text = rss_engine.fetch_full_article(article_link)
-    filepath = rss_engine.generate_audio(article_id, full_text)
-    if filepath.startswith("ERROR:"):
-        state["audio_error"] = filepath
+    try:
+        full_text = rss_engine.fetch_full_article(article_link)
+        filepath = rss_engine.generate_audio(article_id, full_text)
+        if filepath.startswith("ERROR:"):
+            state["audio_error"] = filepath
+            state["audio_path"] = ""
+        else:
+            state["audio_path"] = filepath
+            state["audio_error"] = ""
+    except Exception as e:
+        state["audio_error"] = f"ERROR: {e}"
         state["audio_path"] = ""
-    else:
-        state["audio_path"] = filepath
-        state["audio_error"] = ""
-    state["audio_generating"] = False
+    finally:
+        # Always runs — guarantees the spinner never hangs forever
+        state["audio_generating"] = False
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -276,80 +282,4 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
                 del bms[active_article['id']]
                 rss_engine.save_bookmarks(bms)
         elif action == "skip":
-            toast_msg = "Skipped."
-            if state["current_idx"] < len(candidates) - 1:
-                state["current_idx"] += 1
-            state["full_fetch"] = False
-            _clear_audio()
-        elif action == "bookmark":
-            bms = rss_engine.get_bookmarks()
-            bms[active_article['id']] = progress
-            rss_engine.save_bookmarks(bms)
-            state["saved_progress"] = progress
-            toast_msg = "Spot saved!"
-        elif action == "unbookmark":
-            bms = rss_engine.get_bookmarks()
-            aid = active_article['id']
-            if aid in bms:
-                del bms[aid]
-                rss_engine.save_bookmarks(bms)
-            toast_msg = "Bookmark removed."
-        elif action == "listen":
-            state["full_fetch"] = True
-            _clear_audio()
-            state["audio_generating"] = True
-            t = threading.Thread(
-                target=_generate_audio_bg,
-                args=(active_article['id'], active_article.get('link', '')),
-                daemon=True,
-            )
-            t.start()
-
-    if action == "undo":
-        if state["view_mode"] == "Archive" and active_article:
-            rss_engine.mark_unread(active_article['id'])
-            state["full_fetch"] = False
-            toast_msg = "Unarchived."
-        elif state["undo_stack"]:
-            last = state["undo_stack"].pop()
-            rss_engine.mark_unread(last["id"])
-            candidates, _, _, _ = get_filtered_articles()
-            ids = [c['id'] for c in candidates]
-            if last["id"] in ids:
-                state["current_idx"] = ids.index(last["id"])
-            state["full_fetch"] = False
-            toast_msg = "Undid archive."
-
-    new_active, new_candidates = get_active_info()
-
-    return templates.TemplateResponse("article_partial.html", {
-        "request": request,
-        "state": state,
-        "active_article": new_active,
-        "total_count": len(new_candidates) if new_candidates else 0,
-        "is_htmx": True,
-        "toast_msg": toast_msg,
-    })
-
-# ── Entry point ───────────────────────────────────────────────────────────────
-
-if __name__ == "__main__":
-    import webview
-
-    def run_server():
-        uvicorn.run(app, host="127.0.0.1", port=8088, log_level="critical")
-
-    def prewarm_cache():
-        import time
-        time.sleep(1.5)
-        rss_engine.fetch_feeds_config()
-        rss_engine.fetch_master_archive()
-
-    threading.Thread(target=run_server, daemon=True).start()
-    threading.Thread(target=prewarm_cache, daemon=True).start()
-
-    webview.create_window("RSS Triage", "http://127.0.0.1:8088/?nocache=1", width=1300, height=900)
-    webview.start()
-
-    # Zombie Slayer — runs the moment the webview window closes
-    os._exit(0)
+            toast_msg = "Skipped

@@ -328,6 +328,7 @@ def render_article_html(article: dict, full_fetch: bool) -> str:
             document.documentElement.style.setProperty('--line-height', e.data.lineHeight);
             setTimeout(updateProgress, 50); 
         }
+
     });
     
     window.addEventListener('DOMContentLoaded', updateProgress);
