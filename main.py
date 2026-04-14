@@ -4,12 +4,13 @@ from fastapi.responses import HTMLResponse, RedirectResponse, FileResponse
 from fastapi.staticfiles import StaticFiles
 import uvicorn
 import webbrowser
+import threading
+import os
 import rss_engine
 from urllib.parse import quote
 
 app = FastAPI()
-import os
-os.makedirs("static", exist_ok=True) # Ensure the folder exists
+os.makedirs("static", exist_ok=True)
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 templates.env.filters["urlquote"] = lambda s: quote(str(s), safe='')
@@ -23,12 +24,14 @@ state = {
     "full_fetch": False,
     "fetched_bodies": {},
     "undo_stack": [],
+    "is_bookmarked": False,
+    "saved_progress": 0,
     "audio_path": "",
     "audio_generating": False,
     "audio_error": "",
 }
 
-import threading
+# ── Background audio generation ───────────────────────────────────────────────
 
 def _generate_audio_bg(article_id: str, article_link: str):
     """Runs in a background thread so the UI doesn't block during TTS."""
@@ -42,7 +45,10 @@ def _generate_audio_bg(article_id: str, article_link: str):
         state["audio_error"] = ""
     state["audio_generating"] = False
 
+# ── Helpers ───────────────────────────────────────────────────────────────────
+
 def build_feed_groups(my_feeds):
+    """Return OrderedDict of {category: [feed, ...]} preserving feed order."""
     from collections import OrderedDict
     groups = OrderedDict()
     for f in my_feeds:
@@ -87,14 +93,14 @@ def get_active_info(candidates=None):
         candidates, _, _, _ = get_filtered_articles()
     if not candidates:
         return None, []
-        
+
     if state["current_idx"] >= len(candidates):
         state["current_idx"] = max(0, len(candidates) - 1)
 
     active_article = candidates[state["current_idx"]]
     active_id = active_article['id']
     state["active_id"] = active_id
-    
+
     if active_id in state["fetched_bodies"]:
         state["full_fetch"] = True
         html_body = state["fetched_bodies"][active_id]
@@ -102,91 +108,55 @@ def get_active_info(candidates=None):
         html_body = rss_engine.render_article_html(active_article, state["full_fetch"])
         if state["full_fetch"]:
             state["fetched_bodies"][active_id] = html_body
-            
+
     active_article['html_body'] = html_body
     active_article['formatted_date'] = rss_engine._format_date(active_article.get('date'))
-    
+
     bookmarks = rss_engine.get_bookmarks()
     state["is_bookmarked"] = active_id in bookmarks
     state["saved_progress"] = bookmarks.get(active_id, 0)
-    
+
     return active_article, candidates
+
+def _clear_audio():
+    state["audio_path"] = ""
+    state["audio_generating"] = False
+    state["audio_error"] = ""
+
+# ── Routes ────────────────────────────────────────────────────────────────────
 
 @app.get("/", response_class=HTMLResponse)
 async def home(request: Request):
     candidates, my_feeds, feed_counts, all_feeds_count = get_filtered_articles()
-
-    return templates.TemplateResponse(
-        request=request, 
-        name="index.html", 
-        context={
-            "request": request,
-            "state": state,
-            "total_count": len(candidates),
-            "my_feeds": my_feeds,
-            "feed_groups": build_feed_groups(my_feeds),
-            "feed_counts": feed_counts,
-            "all_feeds_count": all_feeds_count,
-            "active_category_filter": state["active_category_filter"],
-            "is_htmx": False
-        }
-    )
+    return templates.TemplateResponse("index.html", {
+        "request": request,
+        "state": state,
+        "total_count": len(candidates),
+        "my_feeds": my_feeds,
+        "feed_groups": build_feed_groups(my_feeds),
+        "feed_counts": feed_counts,
+        "all_feeds_count": all_feeds_count,
+        "active_category_filter": state["active_category_filter"],
+        "is_htmx": False,
+    })
 
 @app.get("/load-article", response_class=HTMLResponse)
 async def load_article(request: Request):
+    """Called by HTMX once the page is visible. Does the actual article fetch."""
     candidates, _, _, _ = get_filtered_articles()
     active_article, candidates = get_active_info(candidates)
-    
-    return templates.TemplateResponse(
-        request=request, 
-        name="article_partial.html", 
-        context={
-            "request": request,
-            "state": state,
-            "active_article": active_article,
-            "total_count": len(candidates) if candidates else 0,
-            "is_htmx": False,
-            "toast_msg": ""
-        }
-    )
-
-@app.get("/sync")
-async def sync_queue():
-    rss_engine.force_sync()
-    state["current_idx"] = 0
-    state["full_fetch"] = False
-    state["active_category_filter"] = None
-    state["fetched_bodies"].clear()
-    return RedirectResponse(url="/")
-
-@app.post("/action/mark_all")
-async def mark_all_read():
-    candidates, _, _, _ = get_filtered_articles()
-    if candidates and state["view_mode"] == "Unread":
-        ids = [c['id'] for c in candidates]
-        rss_engine.mark_many_read(ids)
-        state["current_idx"] = 0
-        state["active_id"] = None
-        state["full_fetch"] = False
-        
-    resp = Response(status_code=200)
-    resp.headers["HX-Redirect"] = "/"
-    return resp
-
-@app.post("/feeds/update")
-async def update_feeds(request: Request):
-    data = await request.json()
-    success, msg = rss_engine.update_feeds_on_github(data)
-    if success:
-        state["active_feed_filter"] = "All Feeds"
-        
-    resp = Response(status_code=200)
-    resp.headers["HX-Redirect"] = "/"
-    return resp
+    return templates.TemplateResponse("article_partial.html", {
+        "request": request,
+        "state": state,
+        "active_article": active_article,
+        "total_count": len(candidates) if candidates else 0,
+        "is_htmx": False,
+        "toast_msg": "",
+    })
 
 @app.get("/audio-status", response_class=HTMLResponse)
 async def audio_status():
-    """Polled by HTMX every 2s while audio is generating. Returns just the audio section."""
+    """Polled by HTMX every 2s while audio is generating."""
     if state["audio_generating"]:
         return HTMLResponse("""
         <div id="audio-section" hx-get="/audio-status" hx-trigger="every 2s" hx-target="#audio-section" hx-swap="outerHTML"
@@ -210,12 +180,46 @@ async def audio_status():
     else:
         return HTMLResponse('<div id="audio-section"></div>')
 
+@app.get("/sync")
+async def sync_queue():
+    rss_engine.force_sync()
+    state["current_idx"] = 0
+    state["full_fetch"] = False
+    state["active_category_filter"] = None
+    state["fetched_bodies"].clear()
+    _clear_audio()
+    return RedirectResponse(url="/")
 
+@app.post("/action/mark_all")
+async def mark_all_read():
+    candidates, _, _, _ = get_filtered_articles()
+    if candidates and state["view_mode"] == "Unread":
+        ids = [c['id'] for c in candidates]
+        rss_engine.mark_many_read(ids)
+        state["current_idx"] = 0
+        state["active_id"] = None
+        state["full_fetch"] = False
+    resp = Response(status_code=200)
+    resp.headers["HX-Redirect"] = "/"
+    return resp
+
+@app.post("/feeds/update")
+async def update_feeds(request: Request):
+    data = await request.json()
+    success, msg = rss_engine.update_feeds_on_github(data)
+    if success:
+        state["active_feed_filter"] = "All Feeds"
+    resp = Response(status_code=200)
+    resp.headers["HX-Redirect"] = "/"
+    return resp
+
+@app.get("/filter-category/{cat_name}")
 async def filter_category(cat_name: str):
     state["active_category_filter"] = cat_name
     state["active_feed_filter"] = "All Feeds"
     state["current_idx"] = 0
     state["full_fetch"] = False
+    _clear_audio()
     return RedirectResponse(url="/")
 
 @app.get("/filter/{feed_name}")
@@ -224,6 +228,7 @@ async def filter_feed(feed_name: str):
     state["active_category_filter"] = None
     state["current_idx"] = 0
     state["full_fetch"] = False
+    _clear_audio()
     return RedirectResponse(url="/")
 
 @app.get("/mode/{mode}")
@@ -233,6 +238,7 @@ async def switch_mode(mode: str):
     state["full_fetch"] = False
     state["active_feed_filter"] = "All Feeds"
     state["active_category_filter"] = None
+    _clear_audio()
     return RedirectResponse(url="/")
 
 @app.post("/action/open")
@@ -246,20 +252,16 @@ async def open_web():
 async def handle_action(request: Request, action: str, progress: float = Form(0.0)):
     active_article, candidates = get_active_info()
     toast_msg = ""
-    
+
     if candidates and active_article:
         if action == "next" and state["current_idx"] < len(candidates) - 1:
             state["current_idx"] += 1
             state["full_fetch"] = False
-            state["audio_path"] = ""
-            state["audio_generating"] = False
-            state["audio_error"] = ""
+            _clear_audio()
         elif action == "prev" and state["current_idx"] > 0:
             state["current_idx"] -= 1
             state["full_fetch"] = False
-            state["audio_path"] = ""
-            state["audio_generating"] = False
-            state["audio_error"] = ""
+            _clear_audio()
         elif action == "fetch":
             state["full_fetch"] = True
         elif action == "archive":
@@ -267,32 +269,24 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
             state["undo_stack"].append({"id": active_article['id'], "type": "archive"})
             state["undo_stack"] = state["undo_stack"][-20:]
             state["full_fetch"] = False
-            state["audio_path"] = ""
-            state["audio_generating"] = False
-            state["audio_error"] = ""
+            _clear_audio()
             toast_msg = "Archived."
-            
             bms = rss_engine.get_bookmarks()
             if active_article['id'] in bms:
                 del bms[active_article['id']]
                 rss_engine.save_bookmarks(bms)
-                
         elif action == "skip":
             toast_msg = "Skipped."
             if state["current_idx"] < len(candidates) - 1:
                 state["current_idx"] += 1
             state["full_fetch"] = False
-            state["audio_path"] = ""
-            state["audio_generating"] = False
-            state["audio_error"] = ""
-            
+            _clear_audio()
         elif action == "bookmark":
             bms = rss_engine.get_bookmarks()
             bms[active_article['id']] = progress
             rss_engine.save_bookmarks(bms)
             state["saved_progress"] = progress
             toast_msg = "Spot saved!"
-            
         elif action == "unbookmark":
             bms = rss_engine.get_bookmarks()
             aid = active_article['id']
@@ -300,17 +294,14 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
                 del bms[aid]
                 rss_engine.save_bookmarks(bms)
             toast_msg = "Bookmark removed."
-
         elif action == "listen":
             state["full_fetch"] = True
-            state["audio_path"] = ""
-            state["audio_error"] = ""
+            _clear_audio()
             state["audio_generating"] = True
-            # Kick off generation in background — returns immediately
             t = threading.Thread(
                 target=_generate_audio_bg,
                 args=(active_article['id'], active_article.get('link', '')),
-                daemon=True
+                daemon=True,
             )
             t.start()
 
@@ -330,30 +321,23 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
             toast_msg = "Undid archive."
 
     new_active, new_candidates = get_active_info()
-    
-    if action == "bookmark":
-        state["saved_progress"] = progress
-    
-    return templates.TemplateResponse(
-        request=request, 
-        name="article_partial.html", 
-        context={
-            "request": request,
-            "state": state,
-            "active_article": new_active,
-            "total_count": len(new_candidates) if new_candidates else 0,
-            "is_htmx": True,
-            "toast_msg": toast_msg
-        }
-    )
+
+    return templates.TemplateResponse("article_partial.html", {
+        "request": request,
+        "state": state,
+        "active_article": new_active,
+        "total_count": len(new_candidates) if new_candidates else 0,
+        "is_htmx": True,
+        "toast_msg": toast_msg,
+    })
+
+# ── Entry point ───────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    import threading
     import webview
-    import os
 
     def run_server():
-        uvicorn.run(app, host="127.0.0.1", port=8088, log_level="info")
+        uvicorn.run(app, host="127.0.0.1", port=8088, log_level="critical")
 
     def prewarm_cache():
         import time
@@ -363,8 +347,9 @@ if __name__ == "__main__":
 
     threading.Thread(target=run_server, daemon=True).start()
     threading.Thread(target=prewarm_cache, daemon=True).start()
-    
+
     webview.create_window("RSS Triage", "http://127.0.0.1:8088/?nocache=1", width=1300, height=900)
     webview.start()
-    
+
+    # Zombie Slayer — runs the moment the webview window closes
     os._exit(0)
