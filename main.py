@@ -1,12 +1,16 @@
 from fastapi import FastAPI, Request, Form, Response
 from fastapi.templating import Jinja2Templates
-from fastapi.responses import HTMLResponse, RedirectResponse
+from fastapi.responses import HTMLResponse, RedirectResponse, FileResponse
+from fastapi.staticfiles import StaticFiles
 import uvicorn
 import webbrowser
 import rss_engine
 from urllib.parse import quote
 
 app = FastAPI()
+import os
+os.makedirs("static", exist_ok=True) # Ensure the folder exists
+app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 templates.env.filters["urlquote"] = lambda s: quote(str(s), safe='')
 
