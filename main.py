@@ -8,12 +8,36 @@ import threading
 import os
 import rss_engine
 from urllib.parse import quote
+from typing import Optional
 
 app = FastAPI()
 os.makedirs("static", exist_ok=True)
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 templates.env.filters["urlquote"] = lambda s: quote(str(s), safe='')
+
+# ── Thread-safe audio state ───────────────────────────────────────────────────
+# Kept separate so background threads never touch the main UI state dict.
+
+_audio_lock = threading.Lock()
+_audio_state = {
+    "article_id": None,
+    "generating": False,
+    "path": "",
+    "error": "",
+}
+
+def _get_audio_snapshot() -> dict:
+    """Return a safe copy of the audio state for template rendering."""
+    with _audio_lock:
+        return dict(_audio_state)
+
+def _clear_audio():
+    """Reset audio state (call from main thread when navigating away)."""
+    with _audio_lock:
+        _audio_state.update(article_id=None, generating=False, path="", error="")
+
+# ── Main UI state ─────────────────────────────────────────────────────────────
 
 state = {
     "view_mode": "Unread",
@@ -26,9 +50,6 @@ state = {
     "undo_stack": [],
     "is_bookmarked": False,
     "saved_progress": 0,
-    "audio_path": "",
-    "audio_generating": False,
-    "audio_error": "",
 }
 
 # ── Background audio generation ───────────────────────────────────────────────
@@ -37,19 +58,27 @@ def _generate_audio_bg(article_id: str, article_link: str):
     """Runs in a background thread so the UI doesn't block during TTS."""
     try:
         full_text = rss_engine.fetch_full_article(article_link)
+        if not full_text or full_text.startswith("<i>"):
+            with _audio_lock:
+                _audio_state["error"] = "Could not extract article text."
+                _audio_state["path"] = ""
+            return
+
         filepath = rss_engine.generate_audio(article_id, full_text)
-        if filepath.startswith("ERROR:"):
-            state["audio_error"] = filepath
-            state["audio_path"] = ""
-        else:
-            state["audio_path"] = filepath
-            state["audio_error"] = ""
+        with _audio_lock:
+            if filepath.startswith("ERROR:"):
+                _audio_state["error"] = filepath
+                _audio_state["path"] = ""
+            else:
+                _audio_state["path"] = filepath
+                _audio_state["error"] = ""
     except Exception as e:
-        state["audio_error"] = f"ERROR: {e}"
-        state["audio_path"] = ""
+        with _audio_lock:
+            _audio_state["error"] = f"ERROR: {e}"
+            _audio_state["path"] = ""
     finally:
-        # Always runs — guarantees the spinner never hangs forever
-        state["audio_generating"] = False
+        with _audio_lock:
+            _audio_state["generating"] = False
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -94,6 +123,13 @@ def get_filtered_articles():
     candidates.sort(key=lambda x: x.get('date', '1970-01-01'), reverse=True)
     return candidates, my_feeds, feed_counts, all_feeds_count
 
+def _merge_audio_into_state():
+    """Copy audio snapshot into state dict for template rendering."""
+    snap = _get_audio_snapshot()
+    state["audio_generating"] = snap["generating"]
+    state["audio_path"] = snap["path"]
+    state["audio_error"] = snap["error"]
+
 def get_active_info(candidates=None):
     if candidates is None:
         candidates, _, _, _ = get_filtered_articles()
@@ -122,12 +158,10 @@ def get_active_info(candidates=None):
     state["is_bookmarked"] = active_id in bookmarks
     state["saved_progress"] = bookmarks.get(active_id, 0)
 
-    return active_article, candidates
+    # Merge audio state so templates can read it
+    _merge_audio_into_state()
 
-def _clear_audio():
-    state["audio_path"] = ""
-    state["audio_generating"] = False
-    state["audio_error"] = ""
+    return active_article, candidates
 
 # ── Routes ────────────────────────────────────────────────────────────────────
 
@@ -163,24 +197,27 @@ async def load_article(request: Request):
 @app.get("/audio-status", response_class=HTMLResponse)
 async def audio_status():
     """Polled by HTMX every 2s while audio is generating."""
-    if state["audio_generating"]:
+    snap = _get_audio_snapshot()
+
+    if snap["generating"]:
         return HTMLResponse("""
         <div id="audio-section" hx-get="/audio-status" hx-trigger="every 2s" hx-target="#audio-section" hx-swap="outerHTML"
              class="mt-3 flex flex-col gap-2">
             <span class="w-fit px-3 py-1 bg-[#1a1a1a] border border-[#333] rounded text-[10px] font-bold text-[#5A5F67] uppercase tracking-widest animate-pulse">
-                Generating audio...
+                Generating audio…
             </span>
         </div>""")
-    elif state["audio_error"]:
+    elif snap["error"]:
+        err = snap["error"].replace("<", "&lt;").replace(">", "&gt;")
         return HTMLResponse(f"""
         <div id="audio-section" class="mt-3 flex flex-col gap-2">
-            <span class="text-[11px] text-red-400 font-mono">{state["audio_error"]}</span>
+            <span class="text-[11px] text-red-400 font-mono">{err}</span>
         </div>""")
-    elif state["audio_path"]:
+    elif snap["path"]:
         return HTMLResponse(f"""
         <div id="audio-section" class="mt-3 flex flex-col gap-2">
             <audio controls autoplay class="w-full max-w-md h-8 outline-none rounded opacity-80 hover:opacity-100 transition-opacity">
-                <source src="/{state["audio_path"]}" type="audio/mpeg">
+                <source src="/{snap["path"]}" type="audio/mpeg">
             </audio>
         </div>""")
     else:
@@ -255,9 +292,10 @@ async def open_web():
     return HTMLResponse("")
 
 @app.post("/action/{action}", response_class=HTMLResponse)
-async def handle_action(request: Request, action: str, progress: float = Form(0.0)):
+async def handle_action(request: Request, action: str, progress: Optional[float] = Form(None)):
     active_article, candidates = get_active_info()
     toast_msg = ""
+    safe_progress = progress if progress is not None else 0.0
 
     if candidates and active_article:
         if action == "next" and state["current_idx"] < len(candidates) - 1:
@@ -289,9 +327,9 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
             _clear_audio()
         elif action == "bookmark":
             bms = rss_engine.get_bookmarks()
-            bms[active_article['id']] = progress
+            bms[active_article['id']] = safe_progress
             rss_engine.save_bookmarks(bms)
-            state["saved_progress"] = progress
+            state["saved_progress"] = safe_progress
             toast_msg = "Spot saved!"
         elif action == "unbookmark":
             bms = rss_engine.get_bookmarks()
@@ -301,9 +339,14 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
                 rss_engine.save_bookmarks(bms)
             toast_msg = "Bookmark removed."
         elif action == "listen":
-            state["full_fetch"] = True
+            # KEY FIX: Do NOT set full_fetch here.
+            # The background thread fetches the article independently.
+            # Setting full_fetch caused get_active_info() below to
+            # synchronously block on trafilatura, hanging the response.
             _clear_audio()
-            state["audio_generating"] = True
+            with _audio_lock:
+                _audio_state["article_id"] = active_article['id']
+                _audio_state["generating"] = True
             t = threading.Thread(
                 target=_generate_audio_bg,
                 args=(active_article['id'], active_article.get('link', '')),
