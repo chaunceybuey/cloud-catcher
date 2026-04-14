@@ -219,6 +219,59 @@ def fetch_full_article(url: str) -> str:
     except Exception as e:
         return f"<i>Error fetching article: {e}</i>"
 
+# --- AUDIO ENGINE ---
+def generate_audio(article_id: str, html_content: str) -> str:
+    """Sends text to Google Cloud TTS and saves an MP3, returning the file path."""
+    import os
+    from google.cloud import texttospeech
+    from bs4 import BeautifulSoup
+    
+    # 1. Point Google Cloud to your existing Firebase VIP pass
+    cred_path = os.environ.get('FIREBASE_CRED_PATH', 'firebase-credentials.json')
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.path.abspath(cred_path)
+    
+    # 2. Strip all the HTML tags so the AI doesn't read out "<p> and <div>"
+    clean_text = BeautifulSoup(html_content, "html.parser").get_text(separator=' ')
+    
+    # Google TTS has a 5000 byte limit per request. For now, we truncate at 4800.
+    # (We can easily build a chunking loop later if you want to listen to massive essays!)
+    clean_text = clean_text[:4800] 
+
+    if not clean_text.strip():
+        return ""
+
+    # 3. Connect to the Engine
+    try:
+        client = texttospeech.TextToSpeechClient()
+        synthesis_input = texttospeech.SynthesisInput(text=clean_text)
+
+        # 4. Request the hyper-realistic "Journey" voice
+        voice = texttospeech.VoiceSelectionParams(
+            language_code="en-US",
+            name="en-US-Journey-D" # 'D' is a fantastic, natural narrator
+        )
+
+        audio_config = texttospeech.AudioConfig(
+            audio_encoding=texttospeech.AudioEncoding.MP3
+        )
+
+        # 5. Generate and Save the MP3
+        response = client.synthesize_speech(
+            input=synthesis_input, voice=voice, audio_config=audio_config
+        )
+        
+        # Save it to a static folder so the web interface can play it
+        os.makedirs("static", exist_ok=True)
+        filepath = f"static/audio_{article_id}.mp3"
+        
+        with open(filepath, "wb") as out:
+            out.write(response.audio_content)
+            
+        return filepath
+    except Exception as e:
+        print(f"Voice Engine Error: {e}")
+        return ""
+        
 # --- HTML RENDERER ---
 def _format_date(raw: str) -> str:
     if not raw: return ''
