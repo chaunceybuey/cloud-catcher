@@ -328,12 +328,6 @@ def render_article_html(article: dict, full_fetch: bool) -> str:
             document.documentElement.style.setProperty('--line-height', e.data.lineHeight);
             setTimeout(updateProgress, 50); 
         }
-        if (e.data.type === 'restoreScroll' && e.data.value) {
-            const maxScroll = document.documentElement.scrollWidth - window.innerWidth;
-            if (maxScroll > 0) {
-                window.scrollTo({ left: (e.data.value / 100) * maxScroll, behavior: 'instant' });
-            }
-        }
     });
     
     window.addEventListener('DOMContentLoaded', updateProgress);
