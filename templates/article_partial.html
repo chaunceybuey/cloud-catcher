@@ -32,12 +32,7 @@
             {% endif %}
         </div>
         ```
-
-### What this does:
-1. **The Button:** It creates a small, dark, unobtrusive "🔊 LISTEN" button underneath the byline.
-2. **The Swap:** When you click it, HTMX tells your Python server to generate the MP3. Once the server finishes, it sends the page back, but...
-3. **The Player:** The button disappears and is instantly replaced by a sleek audio player that automatically starts reading the article to you. And because it's in your sticky header, you can pause or scrub through the audio at any time while reading.
-
+        
         <div class="mt-4 flex justify-between items-end text-[10px] font-bold text-[#4B5563] tracking-wider">
             <span>{{ state.active_feed_filter | upper }}</span>
             <div class="flex items-center gap-6">
