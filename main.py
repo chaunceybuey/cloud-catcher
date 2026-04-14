@@ -246,6 +246,13 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
                 rss_engine.save_bookmarks(bms)
             toast_msg = "Bookmark removed."
 
+        elif action == "listen":
+            state["full_fetch"] = True
+            toast_msg = "Generating audio..."
+            # Generate the MP3 and save the filepath
+            filepath = rss_engine.generate_audio(active_article['id'], active_article.get('html_body', ''))
+            state["audio_path"] = filepath
+
     if action == "undo":
         if state["view_mode"] == "Archive" and active_article:
             rss_engine.mark_unread(active_article['id'])
