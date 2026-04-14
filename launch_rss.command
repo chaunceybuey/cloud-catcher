@@ -1,25 +1,29 @@
 #!/bin/bash
 
+# Move into the folder where this script is located
 cd "$(dirname "$0")"
 
-# Reach out to GitHub and save its response to a variable
-UPDATE_MSG=$(git pull origin main)
+echo "📥 Checking GitHub for updates..."
+git pull origin main
 
+# Check if the secret files are missing
 if [ ! -f ".env" ] || [ ! -f "firebase-credentials.json" ]; then
     echo "🚨 STOP: Missing secret files!"
+    echo "Please put your .env and firebase-credentials.json in this folder."
     exit 1
 fi
 
+# Create a virtual environment if it doesn't exist yet
 if [ ! -d "venv" ]; then
+    echo "🛠️ Creating Python virtual environment..."
     python3 -m venv venv
 fi
 
+# Activate the environment and install packages
+echo "📦 Loading packages..."
 source venv/bin/activate
+pip install -r requirements.txt -q
 
-# Only run the slow package installer if Git actually downloaded something new!
-if [[ "$UPDATE_MSG" != *"Already up to date."* ]]; then
-    echo "📦 New code detected! Verifying packages (this will take a few seconds)..."
-    pip install -r requirements.txt -q
-fi
-
+# Run the app
+echo "🚀 Launching RSS Triage..."
 python main.py
