@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "a9dcb7dd1a1125d811714f6cb2c07b64",
+    "feed_name": "LRB",
+    "title": "City of Peace",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/april/city-of-peace",
+    "content": "The 2300 workers at the Volkswagen factory in Osnabr\u00fcck, northwest Germany, have been confronted with an unexpected plan for industrial transformation.\u00a0.\u00a0.",
+    "date": "2026-04-14T13:48:07",
+    "category": "Magazines"
+  },
+  {
     "id": "1ddbc7d50d46e32af934cf8a67d1a2c3",
     "feed_name": "Compact",
     "title": "The New Face of the French Right",
@@ -88,6 +98,16 @@
     "content": "",
     "date": "2026-04-14T11:05:56",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=226427",
+    "feed_name": "Texas Tribune",
+    "title": "Harris County Area Agency on Aging: Planning for the Future of Healthy Aging",
+    "author": "Melissa Brooks",
+    "link": "https://feeds.texastribune.org/link/16799/17318929/harris-county-area-agency-on-aging-planning-for-the-future-of-healthy-aging",
+    "content": "A three-year roadmap to strengthen services, expand access, and support older adults, caregivers, and communities across Harris County<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17318929.gif\" width=\"1\" />",
+    "date": "2026-04-14T11:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.texastribune.org/?p=226515",
