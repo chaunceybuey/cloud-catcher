@@ -18,7 +18,26 @@
             {% endif %}
             <span class="text-[12px] font-bold text-[#9C8B5E] uppercase tracking-wider shrink-0">{{ active_article.formatted_date }}</span>
         </div>
-        
+
+        <div class="mt-3 flex flex-col gap-2">
+            {% if not state.audio_path %}
+            <button hx-post="/action/listen" hx-target="#article-view" hx-swap="outerHTML" 
+                    class="w-fit px-3 py-1 bg-[#1a1a1a] hover:bg-[#222] border border-[#333] rounded text-[10px] font-bold text-[#8A8F98] uppercase tracking-widest flex items-center gap-2 transition-colors">
+                🔊 Listen
+            </button>
+            {% else %}
+            <audio controls autoplay class="w-full max-w-md h-8 outline-none rounded opacity-80 hover:opacity-100 transition-opacity">
+                <source src="/{{ state.audio_path }}" type="audio/mpeg">
+            </audio>
+            {% endif %}
+        </div>
+        ```
+
+### What this does:
+1. **The Button:** It creates a small, dark, unobtrusive "🔊 LISTEN" button underneath the byline.
+2. **The Swap:** When you click it, HTMX tells your Python server to generate the MP3. Once the server finishes, it sends the page back, but...
+3. **The Player:** The button disappears and is instantly replaced by a sleek audio player that automatically starts reading the article to you. And because it's in your sticky header, you can pause or scrub through the audio at any time while reading.
+
         <div class="mt-4 flex justify-between items-end text-[10px] font-bold text-[#4B5563] tracking-wider">
             <span>{{ state.active_feed_filter | upper }}</span>
             <div class="flex items-center gap-6">
