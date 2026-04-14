@@ -22,10 +22,27 @@ state = {
     "active_id": None,
     "full_fetch": False,
     "fetched_bodies": {},
-    "undo_stack": []
+    "undo_stack": [],
+    "audio_path": "",
+    "audio_generating": False,
+    "audio_error": "",
 }
 
-def build_feed_groups(my_feeds):
+import threading
+
+def _generate_audio_bg(article_id: str, article_link: str):
+    """Runs in a background thread so the UI doesn't block during TTS."""
+    full_text = rss_engine.fetch_full_article(article_link)
+    filepath = rss_engine.generate_audio(article_id, full_text)
+    if filepath.startswith("ERROR:"):
+        state["audio_error"] = filepath
+        state["audio_path"] = ""
+    else:
+        state["audio_path"] = filepath
+        state["audio_error"] = ""
+    state["audio_generating"] = False
+
+
     from collections import OrderedDict
     groups = OrderedDict()
     for f in my_feeds:
@@ -167,7 +184,33 @@ async def update_feeds(request: Request):
     resp.headers["HX-Redirect"] = "/"
     return resp
 
-@app.get("/filter-category/{cat_name}")
+@app.get("/audio-status", response_class=HTMLResponse)
+async def audio_status():
+    """Polled by HTMX every 2s while audio is generating. Returns just the audio section."""
+    if state["audio_generating"]:
+        return HTMLResponse("""
+        <div id="audio-section" hx-get="/audio-status" hx-trigger="every 2s" hx-target="#audio-section" hx-swap="outerHTML"
+             class="mt-3 flex flex-col gap-2">
+            <span class="w-fit px-3 py-1 bg-[#1a1a1a] border border-[#333] rounded text-[10px] font-bold text-[#5A5F67] uppercase tracking-widest animate-pulse">
+                Generating audio…
+            </span>
+        </div>""")
+    elif state["audio_error"]:
+        return HTMLResponse(f"""
+        <div id="audio-section" class="mt-3 flex flex-col gap-2">
+            <span class="text-[11px] text-red-400 font-mono">{state["audio_error"]}</span>
+        </div>""")
+    elif state["audio_path"]:
+        return HTMLResponse(f"""
+        <div id="audio-section" class="mt-3 flex flex-col gap-2">
+            <audio controls autoplay class="w-full max-w-md h-8 outline-none rounded opacity-80 hover:opacity-100 transition-opacity">
+                <source src="/{state["audio_path"]}" type="audio/mpeg">
+            </audio>
+        </div>""")
+    else:
+        return HTMLResponse('<div id="audio-section"></div>')
+
+
 async def filter_category(cat_name: str):
     state["active_category_filter"] = cat_name
     state["active_feed_filter"] = "All Feeds"
@@ -208,9 +251,15 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
         if action == "next" and state["current_idx"] < len(candidates) - 1:
             state["current_idx"] += 1
             state["full_fetch"] = False
+            state["audio_path"] = ""
+            state["audio_generating"] = False
+            state["audio_error"] = ""
         elif action == "prev" and state["current_idx"] > 0:
             state["current_idx"] -= 1
             state["full_fetch"] = False
+            state["audio_path"] = ""
+            state["audio_generating"] = False
+            state["audio_error"] = ""
         elif action == "fetch":
             state["full_fetch"] = True
         elif action == "archive":
@@ -218,6 +267,9 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
             state["undo_stack"].append({"id": active_article['id'], "type": "archive"})
             state["undo_stack"] = state["undo_stack"][-20:]
             state["full_fetch"] = False
+            state["audio_path"] = ""
+            state["audio_generating"] = False
+            state["audio_error"] = ""
             toast_msg = "Archived."
             
             bms = rss_engine.get_bookmarks()
@@ -230,6 +282,9 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
             if state["current_idx"] < len(candidates) - 1:
                 state["current_idx"] += 1
             state["full_fetch"] = False
+            state["audio_path"] = ""
+            state["audio_generating"] = False
+            state["audio_error"] = ""
             
         elif action == "bookmark":
             bms = rss_engine.get_bookmarks()
@@ -248,20 +303,16 @@ async def handle_action(request: Request, action: str, progress: float = Form(0.
 
         elif action == "listen":
             state["full_fetch"] = True
-            
-            # Force the engine to grab the FULL article text right now, not just the summary
-            full_text = rss_engine.fetch_full_article(active_article.get('link', ''))
-            
-            # Generate the audio
-            filepath = rss_engine.generate_audio(active_article['id'], full_text)
-            
-            # Smart Toast Logic
-            if filepath.startswith("ERROR:"):
-                toast_msg = filepath # Display Google's exact error in the popup!
-                state["audio_path"] = ""
-            else:
-                toast_msg = "Audio generated!"
-                state["audio_path"] = filepath
+            state["audio_path"] = ""
+            state["audio_error"] = ""
+            state["audio_generating"] = True
+            # Kick off generation in background — returns immediately
+            t = threading.Thread(
+                target=_generate_audio_bg,
+                args=(active_article['id'], active_article.get('link', '')),
+                daemon=True
+            )
+            t.start()
 
     if action == "undo":
         if state["view_mode"] == "Archive" and active_article:
