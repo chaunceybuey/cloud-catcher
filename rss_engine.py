@@ -99,6 +99,7 @@ def save_bookmarks(bookmarks: dict) -> None:
     except Exception as e:
         print(f"Error saving bookmarks to Firebase: {e}")
 
+
 # --- GITHUB API ---
 def _gh_headers() -> dict:
     return {'Authorization': f'token {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
@@ -218,51 +219,6 @@ def fetch_full_article(url: str) -> str:
     except Exception as e:
         return f"<i>Error fetching article: {e}</i>"
 
-# --- AUDIO ENGINE ---
-def generate_audio(article_id: str, html_content: str) -> str:
-    """Sends text to Google Cloud TTS and saves an MP3, returning the file path."""
-    import os
-    from google.cloud import texttospeech
-    from bs4 import BeautifulSoup
-    
-    cred_path = os.environ.get('FIREBASE_CRED_PATH', 'firebase-credentials.json')
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.path.abspath(cred_path)
-    
-    clean_text = BeautifulSoup(html_content, "html.parser").get_text(separator=' ')
-    clean_text = clean_text[:4800] 
-
-    if not clean_text.strip():
-        return "ERROR: No text found to read."
-
-    try:
-        # The Magic Fix: Force standard web traffic to bypass 30-second network hangs
-        client = texttospeech.TextToSpeechClient(transport="rest")
-        synthesis_input = texttospeech.SynthesisInput(text=clean_text)
-
-        voice = texttospeech.VoiceSelectionParams(
-            language_code="en-US",
-            name="en-US-Journey-D" 
-        )
-
-        audio_config = texttospeech.AudioConfig(
-            audio_encoding=texttospeech.AudioEncoding.MP3
-        )
-
-        response = client.synthesize_speech(
-            input=synthesis_input, voice=voice, audio_config=audio_config
-        )
-        
-        os.makedirs("static", exist_ok=True)
-        filepath = f"static/audio_{article_id}.mp3"
-        
-        with open(filepath, "wb") as out:
-            out.write(response.audio_content)
-            
-        return filepath
-    except Exception as e:
-        # If Google blocks us, return the exact reason so it shows up on screen
-        return f"ERROR: {str(e)}"
-        
 # --- HTML RENDERER ---
 def _format_date(raw: str) -> str:
     if not raw: return ''
@@ -328,7 +284,12 @@ def render_article_html(article: dict, full_fetch: bool) -> str:
             document.documentElement.style.setProperty('--line-height', e.data.lineHeight);
             setTimeout(updateProgress, 50); 
         }
-
+        if (e.data.type === 'restoreScroll' && e.data.value) {
+            const maxScroll = document.documentElement.scrollWidth - window.innerWidth;
+            if (maxScroll > 0) {
+                window.scrollTo({ left: (e.data.value / 100) * maxScroll, behavior: 'instant' });
+            }
+        }
     });
     
     window.addEventListener('DOMContentLoaded', updateProgress);
