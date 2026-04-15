@@ -8,5 +8,5 @@ browser_cookie3
 firebase-admin
 pywebview
 python-dotenv
-google-cloud-texttospeech
-beautifulsoup4
+google-genai
+BeautifulSoup

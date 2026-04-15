@@ -99,6 +99,24 @@ def save_bookmarks(bookmarks: dict) -> None:
     except Exception as e:
         print(f"Error saving bookmarks to Firebase: {e}")
 
+# --- AUDIO BIN MEMORY ---
+def get_audio_bin() -> dict:
+    if not FIREBASE_DB_URL: return {}
+    try:
+        data_str = db.reference('app_data/audio_bin').get()
+        if data_str:
+            return json.loads(data_str)
+    except Exception as e:
+        print(f"Error reading audio_bin from Firebase: {e}")
+    return {}
+
+def save_audio_bin(bin_data: dict) -> None:
+    if not FIREBASE_DB_URL: return
+    try:
+        db.reference('app_data/audio_bin').set(json.dumps(bin_data))
+    except Exception as e:
+        print(f"Error saving audio_bin to Firebase: {e}")
+
 # --- GITHUB API ---
 def _gh_headers() -> dict:
     return {'Authorization': f'token {GITHUB_TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
@@ -177,7 +195,7 @@ def fetch_master_archive() -> list:
         pass
     return []
 
-# --- ARTICLE FETCHER (LOCAL BROWSER COOKIES RESTORED) ---
+# --- ARTICLE FETCHER ---
 def fetch_full_article(url: str) -> str:
     if url in CACHE['articles']:
         return CACHE['articles'][url]
@@ -197,7 +215,13 @@ def fetch_full_article(url: str) -> str:
     cookies = None
     try:
         import browser_cookie3
-        cookies = browser_cookie3.load()
+        for browser_fn in [browser_cookie3.chrome, browser_cookie3.firefox]:
+            try:
+                cookies = browser_fn()
+                if cookies:
+                    break
+            except Exception:
+                continue
     except Exception as e:
         print(f"Cookie Error: {e}")
 
@@ -218,49 +242,81 @@ def fetch_full_article(url: str) -> str:
     except Exception as e:
         return f"<i>Error fetching article: {e}</i>"
 
-# --- AUDIO ENGINE ---
+# --- AUDIO ENGINE (Gemini 2.5 Flash TTS) ---
 def generate_audio(article_id: str, html_content: str) -> str:
-    """Sends text to Google Cloud TTS and saves an MP3, returning the file path."""
+    """Sends full article text to Gemini TTS for natural, multimodal audio generation."""
     import os
-    from google.cloud import texttospeech
+    import wave  # <-- NEW: Needed to format raw PCM bytes
+    import hashlib
     from bs4 import BeautifulSoup
+    from google import genai
+    from google.genai import types
     
-    cred_path = os.environ.get('FIREBASE_CRED_PATH', 'firebase-credentials.json')
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.path.abspath(cred_path)
-    
+    # 1. Scrub the text
     clean_text = BeautifulSoup(html_content, "html.parser").get_text(separator=' ')
-    clean_text = clean_text[:4800] 
+    clean_text = ' '.join(clean_text.split()) 
+    clean_text = clean_text[:100000].strip() 
 
-    if not clean_text.strip():
+    if not clean_text:
         return "ERROR: No text found to read."
 
+    if not os.environ.get("GEMINI_API_KEY"):
+        return "ERROR: GEMINI_API_KEY missing in .env file."
+
     try:
-        # The Magic Fix: Force standard web traffic to bypass 30-second network hangs
-        client = texttospeech.TextToSpeechClient(transport="rest")
-        synthesis_input = texttospeech.SynthesisInput(text=clean_text)
+        client = genai.Client()
+        
+        # The prompt is your "Director" giving instructions to the AI voice actor
+        prompt = f"""
+        You are a podcaster. 
+        Read the following article aloud in a clear, restrained, but still lively way. 
+        Avoid any exaggerated marketing cliches.
+        
+        Article Text: 
+        {clean_text}
+        """
 
-        voice = texttospeech.VoiceSelectionParams(
-            language_code="en-US",
-            name="en-US-Journey-D" 
+        # Make the single request to the dedicated TTS model
+        response = client.models.generate_content(
+            model='gemini-2.5-flash-preview-tts', # <-- THE FIX: The correct TTS model!
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_modalities=["AUDIO"],
+                speech_config=types.SpeechConfig(
+                    voice_config=types.VoiceConfig(
+                        prebuilt_voice_config=types.PrebuiltVoiceConfig(
+                            voice_name="Aoede"
+                        )
+                    )
+                )
+            )
         )
 
-        audio_config = texttospeech.AudioConfig(
-            audio_encoding=texttospeech.AudioEncoding.MP3
-        )
+        # Extract the raw PCM audio bytes directly from the AI's response
+        master_audio = None
+        for part in response.candidates[0].content.parts:
+            if part.inline_data:
+                master_audio = part.inline_data.data
+                break
 
-        response = client.synthesize_speech(
-            input=synthesis_input, voice=voice, audio_config=audio_config
-        )
+        if not master_audio:
+             return "ERROR: No audio data returned by Gemini."
         
         os.makedirs("static", exist_ok=True)
-        filepath = f"static/audio_{article_id}.mp3"
         
-        with open(filepath, "wb") as out:
-            out.write(response.audio_content)
+        safe_id = hashlib.md5(article_id.encode()).hexdigest()[:15]
+        filepath = f"static/audio_{safe_id}.wav"  # <-- THE FIX: Changed to .wav
+        
+        # THE FIX: Wrap the raw PCM bytes into a valid, playable .wav file
+        with wave.open(filepath, "wb") as wf:
+            wf.setnchannels(1)       # Mono
+            wf.setsampwidth(2)       # 16-bit
+            wf.setframerate(24000)   # Gemini natively outputs 24kHz
+            wf.writeframes(master_audio)
             
         return filepath
     except Exception as e:
-        # If Google blocks us, return the exact reason so it shows up on screen
+        print(f"Gemini Voice Engine Error: {str(e)}")
         return f"ERROR: {str(e)}"
         
 # --- HTML RENDERER ---
@@ -328,7 +384,12 @@ def render_article_html(article: dict, full_fetch: bool) -> str:
             document.documentElement.style.setProperty('--line-height', e.data.lineHeight);
             setTimeout(updateProgress, 50); 
         }
-
+        if (e.data.type === 'restoreScroll' && e.data.value) {
+            const maxScroll = document.documentElement.scrollWidth - window.innerWidth;
+            if (maxScroll > 0) {
+                window.scrollTo({ left: (e.data.value / 100) * maxScroll, behavior: 'instant' });
+            }
+        }
     });
     
     window.addEventListener('DOMContentLoaded', updateProgress);
