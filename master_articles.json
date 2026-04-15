@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=226673",
+    "feed_name": "Texas Tribune",
+    "title": "Texas cities try to address citizen anger over immigration crackdown without riling state leaders",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17319412/texas-houston-police-ice-city-policy",
+    "content": "People chant during a protest at Houston City Hall over recent fatal shootings by U.S. Immigration and Customs Enforcement on Jan. 10, 2026.",
+    "date": "2026-04-15T10:01:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://stratechery.com/?p=18791",
+    "feed_name": "Stratechery",
+    "title": "Amazon Buys Globalstar, Delta to Add Leo, The Apple Angle",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/amazon-buys-globalstar-delta-to-add-leo-the-apple-angle/",
+    "content": "<p>Apple's Globalstar acquisition is being framed as Apple versus SpaceX, but I think the real story is about Apple.</p>",
+    "date": "2026-04-15T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.propublica.org/article/memphis-safe-task-force-immigration-arrests-crime-data",
     "feed_name": "ProPublica",
     "title": "Trump\u2019s Memphis Crime Task Force Arrested Over 800 Immigrants, Records Show. Only 2% of the Arrests Were for Violent Crimes.",
