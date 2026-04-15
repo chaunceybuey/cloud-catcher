@@ -1,0 +1,15 @@
+# Secrets (NEVER PUSH THESE)
+.env
+firebase-credentials.json
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Mac OS junk
+.DS_Store
+
+# Audio Files (Don't push heavy media)
+static/*.mp3
+static/*.wav
