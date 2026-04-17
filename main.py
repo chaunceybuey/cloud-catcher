@@ -46,10 +46,12 @@ def _process_audio_queue(article_id: str, html_body: str):
     try:
         filepath = rss_engine.generate_audio(article_id, html_body)
         if filepath.startswith("ERROR:"):
+            print(f"\n⚠️ Audio Engine Failed for {article_id}: {filepath}\n")
             state["audio_bin"][article_id] = {"status": "error", "path": ""}
         else:
             state["audio_bin"][article_id] = {"status": "ready", "path": filepath}
-    except Exception:
+    except Exception as e:
+        print(f"\n🛑 CRITICAL Audio Thread Crash: {str(e)}\n")
         state["audio_bin"][article_id] = {"status": "error", "path": ""}
     finally:
         # Save the updated bin to Firebase!
