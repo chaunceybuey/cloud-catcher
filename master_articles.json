@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/17/us/politics/supreme-court-oil-louisiana.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Supreme Court Sides With Oil Companies in Louisiana Coastal Lawsuits",
+    "author": "Abbie VanSickle",
+    "link": "https://www.nytimes.com/2026/04/17/us/politics/supreme-court-oil-louisiana.html",
+    "content": "Wetlands along the Mississippi River as it nears the Gulf of Mexico in southeast Louisiana.",
+    "date": "2026-04-17T17:34:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=18807",
     "feed_name": "Stratechery",
     "title": "2026.16: Servers, Satellites, and Stars",
@@ -160,6 +170,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/17/us/politics/fisa-702-surveillance-house-vote-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "House Votes to Extend Expiring FISA Surveillance Law for 10 Days",
+    "author": "Charlie Savage, Robert Jimison and Megan Mineiro",
+    "link": "https://www.nytimes.com/2026/04/17/us/politics/fisa-702-surveillance-house-vote-trump.html",
+    "content": "Gen. Joshua M. Rudd, the director of the National Security Agency, during his confirmation hearing in January.",
+    "date": "2026-04-17T16:30:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html",
     "feed_name": "NYT (Shared)",
     "title": "Marie-Th\u00e9r\u00e8se Ross-Mah\u00e9, Detained by ICE in Alabama, Is Released",
@@ -167,6 +187,26 @@
     "link": "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html",
     "content": "Marie-Th\u00e9r\u00e8se Ross-Mah\u00e9, 85, who was arrested amid an inheritance dispute, has returned to France, its foreign affairs minister said. She came to America last year after reconnecting with and marrying a former G.I.",
     "date": "2026-04-17T16:17:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/17/opinion/ezra-klein-podcast-ray-madoff.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Our Tax System Should Make You Furious",
+    "author": "Ezra Klein and Rollin Hu",
+    "link": "https://www.nytimes.com/2026/04/17/opinion/ezra-klein-podcast-ray-madoff.html",
+    "content": "The tax expert Ray Madoff explains why the American tax system is broken, and how to make it fairer.",
+    "date": "2026-04-17T16:15:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop",
+    "author": "Evan Gorelick and Anna Griffin",
+    "link": "https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html",
+    "content": "Michael and Mark Wisnovsky had to battle their sister and her fictitious artificial-intelligence output to keep control of the Oregon winery their mother left to them.",
+    "date": "2026-04-17T14:44:43",
     "category": "NYT"
   },
   {
@@ -197,6 +237,16 @@
     "link": "https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump-immigration.html",
     "content": "This immigration case is really about procedure.",
     "date": "2026-04-17T14:12:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/17/realestate/flatiron-revolving-door-restoration.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Century Later, the Flatiron\u2019s Revolving Door Is Restored",
+    "author": "Zoe Rosenberg",
+    "link": "https://www.nytimes.com/2026/04/17/realestate/flatiron-revolving-door-restoration.html",
+    "content": "The revolving door\u2019s inventor built this one over 100 years ago. It was reinstalled this week.",
+    "date": "2026-04-17T13:54:52",
     "category": "NYT"
   },
   {
@@ -520,6 +570,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Acting ICE Director Says He Plans to Resign in May",
+    "author": "Madeleine Ngo and Hamed Aleaziz",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html",
+    "content": "The exit of Todd Lyons as acting director of Immigration and Customs Enforcement raises more questions about the direction of the agency, which has faced dimming public opinion.",
+    "date": "2026-04-17T01:34:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/16/us/virginia-lt-governor-justin-fairfax-murder-wife-suicide.html",
     "feed_name": "NYT (Emailed)",
     "title": "Virginia Ex-Lt. Gov. Justin Fairfax Kills Wife and Self, Police Say",
@@ -660,6 +720,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Senate Votes to Allow Mining Near Boundary Waters Wilderness",
+    "author": "Maxine Joselow",
+    "link": "https://www.nytimes.com/2026/04/16/climate/boundary-waters-senate-vote.html",
+    "content": "The Boundary Waters Canoe Area Wilderness is one of the largest and most visited expanses of federally protected lakes and forests in the United States.",
+    "date": "2026-04-16T19:17:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/16/well/death-doulas-nicole-kidman.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Nicole Kidman Wants to Become a Death Doula. What Is That?",
+    "author": "Melinda Wenner Moyer",
+    "link": "https://www.nytimes.com/2026/04/16/well/death-doulas-nicole-kidman.html",
+    "content": "Nicole Kidman recently said she wanted to become a death doula after wishing for more support at the end of her mother\u2019s life.",
+    "date": "2026-04-16T19:17:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html",
     "feed_name": "NYT (Shared)",
     "title": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
@@ -757,6 +837,16 @@
     "link": "https://www.nytimes.com/2026/04/15/world/europe/shakespeare-london-property-house.html",
     "content": "William Shakespeare\u2019s property was just across the river from the Globe Theater, left, which staged his plays then and does so today, having been recreated and reopened in 1997.",
     "date": "2026-04-16T14:28:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/16/realestate/storage-unit-photo-tour.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Inside the Storage Units of Six New Yorkers",
+    "author": "Anna Kod\u00e9 and Vincent Alban",
+    "link": "https://www.nytimes.com/2026/04/16/realestate/storage-unit-photo-tour.html",
+    "content": "In a city of notoriously small apartments, New Yorkers keep their meaningful mementos and quirky collections elsewhere.",
+    "date": "2026-04-16T13:25:11",
     "category": "NYT"
   },
   {
@@ -910,6 +1000,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/15/style/emily-sweeney-boston-globe-reporter.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Why Is Everyone Wicked Obsessed With This Boston Globe Reporter?",
+    "author": "Kasia Pilat",
+    "link": "https://www.nytimes.com/2026/04/15/style/emily-sweeney-boston-globe-reporter.html",
+    "content": "Emily Sweeney, a veteran journalist at the newspaper, is a social media sensation, bringing joy to all with her \u201chahd\u201d Boston accent.",
+    "date": "2026-04-15T23:59:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/15/us/politics/labor-secretary-text-messages.html",
     "feed_name": "NYT (Popular)",
     "title": "Labor Department Investigates Texts Sent Among Staff, Secretary and Her Family",
@@ -998,6 +1098,16 @@
     "content": "Democratic nominee James Talarico speaks to supporters just before midnight after winning the primary for U.S. Senate on March 3, 2026.",
     "date": "2026-04-15T14:37:21",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/15/science/pets-dogs-intelligence.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "In Defense of Dumb Dogs",
+    "author": "Emily Anthes",
+    "link": "https://www.nytimes.com/2026/04/15/science/pets-dogs-intelligence.html",
+    "content": "Your pet is (probably) not a genius, and that\u2019s OK.",
+    "date": "2026-04-15T14:00:07",
+    "category": "NYT"
   },
   {
     "id": "90c280d89512be72eeac6e3835dae042",
@@ -15698,6 +15808,16 @@
     "content": "All the religious trends you\u2019re wrong about.",
     "date": "2026-01-22T18:23:02",
     "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/22/well/aging-tests-longevity.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Are You Aging Well? 4 Simple Tests to Find Out.",
+    "author": "Dana G. Smith",
+    "link": "https://www.nytimes.com/2026/01/22/well/aging-tests-longevity.html",
+    "content": "They can\u2019t guarantee future health, but they can tell you the trajectory you\u2019re on.",
+    "date": "2026-01-22T10:00:11",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/01/20/dining/sticky-miso-salmon-lemony-chicken-and-a-brothy-thai-curry.html",
