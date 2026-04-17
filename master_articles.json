@@ -610,6 +610,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/16/well/measles-cases-utah.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Utah Becomes the New Center of U.S. Measles Cases",
+    "author": "Teddy Rosenbluth",
+    "link": "https://www.nytimes.com/2026/04/16/well/measles-cases-utah.html",
+    "content": "Nearly 600 people have been sickened across the state, which has seen an increase in vaccine exemptions among children in recent years.",
+    "date": "2026-04-16T22:42:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=226872",
     "feed_name": "Texas Tribune",
     "title": "West Texas residents sue Trump administration over Big Bend border wall plans",
@@ -677,7 +687,7 @@
     "link": "https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump.html",
     "content": "A conservative court watcher explains why the president has failed to bend the judicial branch to his will.",
     "date": "2026-04-16T20:22:19",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/16/us/ice-detention-alabama-french-woman.html",
@@ -737,6 +747,16 @@
     "link": "https://www.nytimes.com/2026/04/16/well/death-doulas-nicole-kidman.html",
     "content": "Nicole Kidman recently said she wanted to become a death doula after wishing for more support at the end of her mother\u2019s life.",
     "date": "2026-04-16T19:17:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/16/us/carnival-cruise-lawsuit-damages-tequila-shots.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Woman Who Took 15 Tequila Shots on Carnival Cruise Gets $300,000 in Damages",
+    "author": "Michael Levenson",
+    "link": "https://www.nytimes.com/2026/04/16/us/carnival-cruise-lawsuit-damages-tequila-shots.html",
+    "content": "A jury found Carnival responsible for some of the injuries and distress a customer said she had experienced after being served 15 tequila shots.",
+    "date": "2026-04-16T18:59:00",
     "category": "NYT"
   },
   {
@@ -1078,6 +1098,26 @@
     "content": "The White House has announced that NASA will work with the Departments of Defense and Energy to put nuclear reactors in orbit and on the surface of the moon.",
     "date": "2026-04-15T18:55:52",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/15/travel/cape-town-south-africa-gardens.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Witnessing the Shift in Cape Town\u2019s Gardens and Green Spaces",
+    "author": "Paula Deitz and Lee-Ann Olwage",
+    "link": "https://www.nytimes.com/2026/04/15/travel/cape-town-south-africa-gardens.html",
+    "content": "Works by the artist Anton Smit on view at Kirstenbosch Botanical gardens in Cape Town.",
+    "date": "2026-04-15T16:23:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/15/well/uplifting-books.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "5 Books That Can Help You Navigate Stressful Times",
+    "author": "Louisa Kamps",
+    "link": "https://www.nytimes.com/2026/04/15/well/uplifting-books.html",
+    "content": "Experts share the literature that has helped them cope with death, illness and despair.",
+    "date": "2026-04-15T16:09:43",
+    "category": "NYT"
   },
   {
     "id": "69de53e65d2c3f0eeb1e09e4",
