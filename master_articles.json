@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=226982",
+    "feed_name": "Texas Tribune",
+    "title": "Texas grid operator forecasts massive growth in demand, but says data is likely flawed",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17321168/texas-power-grid-electricity-ercot-load-forecast-puc",
+    "content": "ERCOT CEO Pablo Vegas and Texas Public Utility Commission Chairman Thomas Gleeson attend a briefing on an incoming winter storm on Jan 22, 2026, in Austin.",
+    "date": "2026-04-17T21:20:06",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=226979",
+    "feed_name": "Texas Tribune",
+    "title": "Three dozen Texas Democrats urge Kendall Scudder not to seek reelection as state party chair",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17321169/texas-democratic-party-kendall-scudder-open-letter",
+    "content": "Texas Democratic Party Chair Kendall Scudder speaks with attendees at an event in Brownsville on April 12, 2025.",
+    "date": "2026-04-17T21:16:17",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/18729-austin-chamber-music-center-acmc-friends",
     "feed_name": "KMFA",
     "title": "Austin Chamber Music Center: ACMC &amp; Friends",
@@ -687,7 +707,7 @@
     "link": "https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump.html",
     "content": "A conservative court watcher explains why the president has failed to bend the judicial branch to his will.",
     "date": "2026-04-16T20:22:19",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/16/us/ice-detention-alabama-french-woman.html",
