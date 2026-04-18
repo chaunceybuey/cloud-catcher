@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Pope Bedevils Trump",
+    "author": "Maureen Dowd",
+    "link": "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html",
+    "content": "A higher authority finally tells Trump he\u2019s no messiah.",
+    "date": "2026-04-18T13:39:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
     "feed_name": "Douthat",
     "title": "What Liberals Should Learn From the End of Orbanism",
@@ -4058,6 +4068,16 @@
     "content": "Entire space programs have been canceled after a failure in the reentry phase. In the final test for Artemis II, astronauts will travel at 32 times the speed of sound as they return from the moon.",
     "date": "2026-04-10T18:07:45",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/10/opinion/trump-iran-psychotic-state-institutions.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Is Turning America Into a Psychotic State",
+    "author": "Jonathan Rauch and Peter Wehner",
+    "link": "https://www.nytimes.com/2026/04/10/opinion/trump-iran-psychotic-state-institutions.html",
+    "content": "What are the implications if the government of the world\u2019s most powerful country is chaotic in its thinking and not reliably in touch with reality?",
+    "date": "2026-04-10T17:41:30",
+    "category": "NYT"
   },
   {
     "id": "https://stratechery.com/?p=18749",
