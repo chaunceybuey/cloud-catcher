@@ -1,0 +1,57 @@
+<div class="flex-1 flex flex-col h-screen relative bg-[#050505]" id="article-view"
+     hx-get="/listen-queue" hx-trigger="every 5s" hx-swap="outerHTML">
+    
+    <div class="px-10 pt-10 pb-6 border-b border-[#1a1a1a] bg-[#0a0a0a] sticky top-0 z-10 shrink-0">
+        <div class="flex items-center justify-between">
+            <h2 class="text-lg font-bold text-[#8A8F98] uppercase tracking-widest">🎧 Listening Queue</h2>
+            <span class="text-[10px] font-bold text-[#5A5F67] uppercase tracking-widest">
+                {{ counts.ready }} ready / {{ counts.total }} total
+            </span>
+        </div>
+    </div>
+
+    <div class="flex-1 p-10 overflow-y-auto">
+        {% if queue %}
+        <div class="max-w-2xl mx-auto flex flex-col gap-4">
+            {% for item in queue %}
+            <div class="bg-[#0a0a0a] border border-[#1a1a1a] rounded-lg p-5 flex flex-col gap-3
+                        {% if item.status == 'generating' %}border-[#D94A00]/30{% endif %}">
+                <div class="flex items-start justify-between gap-4">
+                    <div class="flex-1 min-w-0">
+                        <span class="text-[10px] font-bold text-[#D94A00] uppercase tracking-widest">{{ item.feed_name }}</span>
+                        <h3 class="text-base font-semibold text-[#A3A3A3] leading-snug mt-1 line-clamp-2">{{ item.title }}</h3>
+                    </div>
+                    <div class="flex items-center gap-3 shrink-0">
+                        {% if item.status == 'pending' %}
+                        <span class="text-[10px] font-bold text-[#5A5F67] uppercase tracking-widest">Queued</span>
+                        {% elif item.status == 'generating' %}
+                        <span class="text-[10px] font-bold text-[#D94A00] uppercase tracking-widest animate-pulse">Generating</span>
+                        {% elif item.status == 'error' %}
+                        <span class="text-[10px] font-bold text-red-400 uppercase tracking-widest">Error</span>
+                        {% endif %}
+                        <button hx-post="/listen-queue-remove/{{ item.id | urlencode }}"
+                                hx-target="#article-view" hx-swap="outerHTML"
+                                class="text-[#5A5F67] hover:text-red-400 transition-colors text-xs" title="Remove">✕</button>
+                    </div>
+                </div>
+
+                {% if item.status == 'ready' and item.path %}
+                <audio controls class="w-full h-10 outline-none rounded opacity-80 hover:opacity-100 transition-opacity">
+                    <source src="/{{ item.path }}" type="audio/mpeg">
+                </audio>
+                {% elif item.status == 'error' %}
+                <span class="text-[11px] text-red-400/70 font-mono">{{ item.error }}</span>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="flex-1 flex items-center justify-center h-full">
+            <div class="text-center">
+                <p class="text-xl text-[#5A5F67] italic">No articles queued for listening.</p>
+                <p class="text-sm text-[#4B5563] mt-2">Press <span class="font-bold text-[#7A7F87]">l</span> on any article to queue it.</p>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</div>

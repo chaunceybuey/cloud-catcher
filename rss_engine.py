@@ -245,59 +245,74 @@ def fetch_full_article(url: str) -> str:
 # --- AUDIO ENGINE (Gemini 2.5 Flash TTS) ---
 def generate_audio(article_id: str, html_content: str) -> str:
     """Sends full article text to Gemini TTS for natural, multimodal audio generation."""
-    import os
-    import wave  # <-- NEW: Needed to format raw PCM bytes
-    import hashlib
-    from bs4 import BeautifulSoup
-    from google import genai
-    from google.genai import types
-    
-    # 1. Scrub the text
-    clean_text = BeautifulSoup(html_content, "html.parser").get_text(separator=' ')
-    clean_text = ' '.join(clean_text.split()) 
-    clean_text = clean_text[:100000].strip() 
-
-    if not clean_text:
-        return "ERROR: No text found to read."
-
-    if not os.environ.get("GEMINI_API_KEY"):
-        return "ERROR: GEMINI_API_KEY missing in .env file."
-
     try:
-        client = genai.Client()
+        import os
+        import wave  
+        import hashlib
+        import time
+        from bs4 import BeautifulSoup
+        from google import genai
+        from google.genai import types
         
-        # The prompt is your "Director" giving instructions to the AI voice actor
-        prompt = f"""
-        You are a podcaster. 
-        Read the following article aloud in a clear, restrained, but still lively way. 
-        Avoid any exaggerated marketing cliches.
-        
-        Article Text: 
-        {clean_text}
-        """
+        # 1. Scrub the text
+        clean_text = BeautifulSoup(html_content, "html.parser").get_text(separator='\n')
+        paragraphs = [p.strip() for p in clean_text.split('\n') if len(p.strip()) > 30]
 
-        # Make the single request to the dedicated TTS model
-        response = client.models.generate_content(
-            model='gemini-2.5-flash-preview-tts', # <-- THE FIX: The correct TTS model!
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_modalities=["AUDIO"],
-                speech_config=types.SpeechConfig(
-                    voice_config=types.VoiceConfig(
-                        prebuilt_voice_config=types.PrebuiltVoiceConfig(
-                            voice_name="Aoede"
+        if not paragraphs:
+            return "ERROR: Article text is too short. Try clicking 'Fetch Full Article' first!"
+
+        if not os.environ.get("GEMINI_API_KEY"):
+            return "ERROR: GEMINI_API_KEY missing in .env file."
+
+        # 2. Smart Chunking (Group paragraphs to prevent AI pacing issues)
+        text_batches = []
+        current_batch = ""
+        for p in paragraphs:
+            if len(current_batch) + len(p) < 1500:
+                current_batch += p + "\n\n"
+            else:
+                text_batches.append(current_batch.strip())
+                current_batch = p + "\n\n"
+        if current_batch:
+            text_batches.append(current_batch.strip())
+
+        client = genai.Client()
+        master_audio = bytearray()
+        
+        # 3. The Unrestricted API Loop
+        for i, batch in enumerate(text_batches):
+            prompt = f"""
+            You are a podcaster. 
+            Read the following passage aloud in a clear, restrained, but still lively way. 
+            Avoid any exaggerated marketing cliches or overly promotional tones.
+            
+            Passage: 
+            {batch}
+            """
+
+            response = client.models.generate_content(
+                model='gemini-2.5-flash-preview-tts',
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_modalities=["AUDIO"],
+                    speech_config=types.SpeechConfig(
+                        voice_config=types.VoiceConfig(
+                            prebuilt_voice_config=types.PrebuiltVoiceConfig(
+                                voice_name="Aoede"
+                            )
                         )
                     )
                 )
             )
-        )
 
-        # Extract the raw PCM audio bytes directly from the AI's response
-        master_audio = None
-        for part in response.candidates[0].content.parts:
-            if part.inline_data:
-                master_audio = part.inline_data.data
-                break
+            for part in response.candidates[0].content.parts:
+                if part.inline_data:
+                    master_audio.extend(part.inline_data.data)
+                    break
+            
+            # A tiny 0.5s pause between chunks just to keep the connection stable
+            if i < len(text_batches) - 1:
+                time.sleep(0.5) 
 
         if not master_audio:
              return "ERROR: No audio data returned by Gemini."
@@ -305,18 +320,16 @@ def generate_audio(article_id: str, html_content: str) -> str:
         os.makedirs("static", exist_ok=True)
         
         safe_id = hashlib.md5(article_id.encode()).hexdigest()[:15]
-        filepath = f"static/audio_{safe_id}.wav"  # <-- THE FIX: Changed to .wav
+        filepath = f"static/audio_{safe_id}.wav"
         
-        # THE FIX: Wrap the raw PCM bytes into a valid, playable .wav file
         with wave.open(filepath, "wb") as wf:
-            wf.setnchannels(1)       # Mono
-            wf.setsampwidth(2)       # 16-bit
-            wf.setframerate(24000)   # Gemini natively outputs 24kHz
+            wf.setnchannels(1)       
+            wf.setsampwidth(2)       
+            wf.setframerate(24000)   
             wf.writeframes(master_audio)
             
         return filepath
     except Exception as e:
-        print(f"Gemini Voice Engine Error: {str(e)}")
         return f"ERROR: {str(e)}"
         
 # --- HTML RENDERER ---
