@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Inside the Supreme Court\u2019s Risky New Way of Doing Business",
+    "author": "Jodi Kantor and Adam Liptak",
+    "link": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket.html",
+    "content": "Secret memos obtained by The New York Times illuminate the origins of the court\u2019s now-routine \u201cshadow docket\u201d rulings on presidential power.",
+    "date": "2026-04-18T14:13:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html",
     "feed_name": "NYT (Shared)",
     "title": "The Pope Bedevils Trump",
@@ -107,6 +117,16 @@
     "link": "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html",
     "content": "A higher authority finally tells Trump he\u2019s no messiah.",
     "date": "2026-04-18T13:39:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/18/opinion/aging-women-beauty.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Singular Beauty of Old Ladies",
+    "author": "Roger Rosenblatt",
+    "link": "https://www.nytimes.com/2026/04/18/opinion/aging-women-beauty.html",
+    "content": "The old ladies that I know have a grace and stature that only long years of hoping and striving \u2014 and living \u2014 can bestow.",
+    "date": "2026-04-18T11:12:01",
     "category": "NYT"
   },
   {
