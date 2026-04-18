@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227045",
+    "feed_name": "Texas Tribune",
+    "title": "Trump taps Texas\u2019 top public health official as CDC chief medical officer",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17321529/texas-dshs-jennifer-shuford-tapped-cdc",
+    "content": "Dr. Jennifer Shuford, commissioner of the Texas Department of State Health Services, has been tapped chief medical officer of the Centers for Disease Control and Prevention.",
+    "date": "2026-04-18T16:18:36",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket.html",
     "feed_name": "NYT (Shared)",
     "title": "Inside the Supreme Court\u2019s Risky New Way of Doing Business",
@@ -147,6 +157,16 @@
     "link": "https://www.nytimes.com/2026/04/18/opinion/wall-street-markets-iran-ai.html",
     "content": "It will always be saved.",
     "date": "2026-04-18T11:00:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist",
+    "author": "Ashley Ahn",
+    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html",
+    "content": "Treasury Secretary Scott Bessent said on Wednesday that the U.S. government would not renew the sanctions exemption on Russian oil already at sea.",
+    "date": "2026-04-18T09:36:55",
     "category": "NYT"
   },
   {
