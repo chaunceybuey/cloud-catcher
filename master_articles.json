@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.",
+    "author": "Eric Lipton",
+    "link": "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html",
+    "content": "Moutaz and Ramez Al-Khayyat, two of three Syrian-born brothers, at their company\u2019s headquarters in Doha, Qatar.",
+    "date": "2026-04-19T14:20:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/business/career-graduation-jobs-gen-z.html",
     "feed_name": "NYT (Emailed)",
     "title": "This Is a Hard Time to Start a Career. These Two Words Can Help.",
@@ -237,6 +247,16 @@
     "link": "https://www.nytimes.com/interactive/2026/04/11/nyregion/routine-david-cross.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T07:03:47",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/19/opinion/lucid-dreams.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Mind-Altering Power of Lucid Dreaming",
+    "author": "Cody Delistraty",
+    "link": "https://www.nytimes.com/2026/04/19/opinion/lucid-dreams.html",
+    "content": "Few people experience lucid dreams, yet those who do are able to appreciate as much asleep as the rest of us do awake.",
+    "date": "2026-04-19T06:58:09",
     "category": "NYT"
   },
   {
