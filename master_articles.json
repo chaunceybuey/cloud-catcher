@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A Mild-Mannered Pope Finds His Voice",
+    "author": "Motoko Rich",
+    "link": "https://www.nytimes.com/2026/04/18/world/europe/trump-pope-leo-iran.html",
+    "content": "Pope Leo XIV in Cameroon on Friday. His strident speeches in Africa this week have marked a shift in his rhetoric.",
+    "date": "2026-04-18T16:23:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227045",
     "feed_name": "Texas Tribune",
     "title": "Trump taps Texas\u2019 top public health official as CDC chief medical officer",
@@ -967,6 +977,16 @@
     "link": "https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html",
     "content": "Five years out of college, Samuel Samson has driven the Trump administration\u2019s push to upend America\u2019s postwar relationship with Europe.",
     "date": "2026-04-17T09:07:36",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/17/travel/travel-light-pack-babies-children.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How to Pack Light When Traveling With Babies and Young Children",
+    "author": "Danielle Gelfand",
+    "link": "https://www.nytimes.com/2026/04/17/travel/travel-light-pack-babies-children.html",
+    "content": "If you\u2019re throwing out your back to take a trip with your kids, use these tips to lighten the load.",
+    "date": "2026-04-17T09:02:20",
     "category": "NYT"
   },
   {
