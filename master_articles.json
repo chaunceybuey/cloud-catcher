@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "For Iran, Flexing Control Over Waterway Is New Deterrent",
+    "author": "Mark Mazzetti, Adam Entous and Julian E. Barnes",
+    "link": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html",
+    "content": "A satellite image showing ships\u2019 movements in a section of the Strait of Hormuz this month.",
+    "date": "2026-04-18T20:08:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/18696-texas-early-music-project-purcell-henry-purcell-a-license-to-trill",
     "feed_name": "KMFA",
     "title": "Texas Early Music Project: Purcell. Henry Purcell: A License to Trill",
@@ -17578,5 +17588,15 @@
     "content": "Two weeks in Austin with Moriah Wilson\u2019s family",
     "date": "2024-01-25T03:00:55",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2019/01/12/opinion/sunday/women-older-happiness.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Joy of Being a Woman in Her 70s",
+    "author": "Mary Pipher",
+    "link": "https://www.nytimes.com/2019/01/12/opinion/sunday/women-older-happiness.html",
+    "content": "",
+    "date": "2019-01-14T16:15:08",
+    "category": "NYT"
   }
 ]
