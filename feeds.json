@@ -81,6 +81,10 @@
     {
       "name": "LRB",
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/london_review.xml"
+    },
+    {
+      "name": "Economist",
+      "url": "https://www.economist.com/finance-and-economics/rss.xml"
     }
   ],
   "Tech": [
