@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/19/business/career-graduation-jobs-gen-z.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "This Is a Hard Time to Start a Career. These Two Words Can Help.",
+    "author": "Jodi Kantor",
+    "link": "https://www.nytimes.com/2026/04/19/business/career-graduation-jobs-gen-z.html",
+    "content": "Advice on building a rewarding work life, even amid employment gloom.",
+    "date": "2026-04-19T13:45:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
     "feed_name": "NYT (Shared)",
     "title": "The Divine Right of Presidents Is a Dangerous Idea",
@@ -107,6 +117,16 @@
     "link": "https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html",
     "content": "It didn\u2019t work out too well for kings, either.",
     "date": "2026-04-19T12:57:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/19/opinion/trump-war-thucydides.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Warmongers Are Getting History All Wrong",
+    "author": "Stewart Patrick",
+    "link": "https://www.nytimes.com/2026/04/19/opinion/trump-war-thucydides.html",
+    "content": "As in Thucydides\u2019 time, the Trump administration\u2019s war posture promises short-term gains but long-run disaster.",
+    "date": "2026-04-19T12:47:47",
     "category": "NYT"
   },
   {
