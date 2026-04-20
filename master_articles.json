@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742857#p8742857",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "lostdog",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8742857#p8742857",
+    "content": "I am disappointed that I cannot setup an automated transfer from my brokerage settlement fund to cash plus. I have to do it manually.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=106596\">lostdog</a> \u2014 Mon Apr 20, 2026 9:50 am</p><hr />",
+    "date": "2026-04-20T14:50:30",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/20/opinion/america-manufacturing-recovery-china.html",
     "feed_name": "NYT (Emailed)",
     "title": "The Town That Reveals All of Trump\u2019s Bad Economic Ideas",
@@ -448,6 +458,16 @@
     "content": "<p>TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.</p>",
     "date": "2026-04-20T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/books/could-a-river-runs-through-it-have-been-a-hit-today.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Could \u2018A River Runs Through It\u2019 Have Been a Hit Today?",
+    "author": "Monte Burke",
+    "link": "https://www.nytimes.com/2026/04/20/books/could-a-river-runs-through-it-have-been-a-hit-today.html",
+    "content": "The autobiographical novella, first published 50 years ago, arguably created a new type of guy: the literary fly fisherman.",
+    "date": "2026-04-20T09:02:29",
+    "category": "NYT"
   },
   {
     "id": "https://www.propublica.org/article/trump-joseph-schwartz-pardon-lawsuit",
@@ -5898,6 +5918,16 @@
     "content": "Yesterday morning, after the ceasefire agreement between the United States and Iran, many displaced people in Lebanon started heading back to.\u00a0.\u00a0.",
     "date": "2026-04-09T17:10:44",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/09/well/cholesterol-guidelines-heart-disease.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Confused About the New Cholesterol Guidelines? Here\u2019s What to Know.",
+    "author": "Nina Agrawal",
+    "link": "https://www.nytimes.com/2026/04/09/well/cholesterol-guidelines-heart-disease.html",
+    "content": "New recommendations suggest that some people should start trying to lower their cholesterol as early as age 30.",
+    "date": "2026-04-09T17:01:34",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=225985",
@@ -19967,36 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/09/front-line-economics-lessons-from-russias-neighbours",
     "content": "How to survive on the border of war",
     "date": "2025-10-09T10:10:02",
-    "category": "Magazines"
-  },
-  {
-    "id": "fa68bda8-7045-47f2-8a54-47693a551041",
-    "feed_name": "Economist",
-    "title": "Narendra Modi\u2019s paltry target for India\u2019s growth",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/09/narendra-modis-paltry-target-for-indias-growth",
-    "content": "The prime minister wants a $10trn economy by 2047. He should be bolder",
-    "date": "2025-10-09T10:02:38",
-    "category": "Magazines"
-  },
-  {
-    "id": "9d00d860-b112-47cb-ab5b-78a9696e01fb",
-    "feed_name": "Economist",
-    "title": "The most dangerous corner of a balance-sheet",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/08/the-most-dangerous-corner-of-a-balance-sheet",
-    "content": "Forget debt. Here is something to villainise",
-    "date": "2025-10-08T19:13:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "52173a7a-b449-4894-90b7-37cd7445f8bb",
-    "feed_name": "Economist",
-    "title": "Why Donald Trump\u2019s tariffs are failing to break global trade",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/08/why-donald-trumps-tariffs-are-failing-to-break-global-trade",
-    "content": "Six months on from \u201cLiberation Day\u201d, things look surprisingly rosy",
-    "date": "2025-10-08T18:20:12",
     "category": "Magazines"
   }
 ]
