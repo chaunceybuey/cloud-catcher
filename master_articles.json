@@ -110,6 +110,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=226936",
+    "feed_name": "Texas Tribune",
+    "title": "On the issues: A Q&A with Ken Paxton and John Cornyn",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17322165/cornyn-paxton-texas-us-senate-runoff-2026-q-and-a",
+    "content": "From left: John Cornyn and Ken Paxton, Republican candidates for U.S. Senate.",
+    "date": "2026-04-20T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=226926",
+    "feed_name": "Texas Tribune",
+    "title": "Low-producing oil wells linger for years, causing headaches for Texas landowners",
+    "author": "By\u00a0Martha Pskowski, Inside Climate News",
+    "link": "https://feeds.texastribune.org/link/16799/17322166/texas-oil-wells-low-producing-railroad-commission-pollution",
+    "content": "Jackie Chesnutt props up a sign next to a leaking oil well operated by CORE Petro on her property near Knickerbocker on Nov. 18, 2025.",
+    "date": "2026-04-20T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=226930",
+    "feed_name": "Texas Tribune",
+    "title": "Cryptocurrency industry is on track to surpass 2024 spending on Texas midterm races",
+    "author": "By Olivia Borgula, graphic by Apurva Mahajan",
+    "link": "https://feeds.texastribune.org/link/16799/17322167/texas-crypto-currency-pacs-fairshake-menefee-green",
+    "content": "Sen. Ted Cruz speaks to Peter McCormack about bitcoin at the Texas Blockchain Summit in Austin on Nov 18, 2022.",
+    "date": "2026-04-20T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://stratechery.com/?p=18826",
+    "feed_name": "Stratechery",
+    "title": "TSMC Earnings, New N3 Fabs, The Nvidia Ramp",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/",
+    "content": "<p>TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.</p>",
+    "date": "2026-04-20T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-joseph-schwartz-pardon-lawsuit",
     "feed_name": "ProPublica",
     "title": "Trump Pardoned a Nursing Home Owner Who Owed Almost $19 Million to a Grieving Family",
@@ -19957,46 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/09/01/america-is-escaping-its-office-crisis",
     "content": "The torment caused by covid-19 and high interest rates appears to be over",
     "date": "2025-09-01T19:20:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "85e6bb2f-68bc-430b-891c-06977f723ae7",
-    "feed_name": "Economist",
-    "title": "The threat of deflation stalks Asia\u2019s economies",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/01/the-threat-of-deflation-stalks-asias-economies",
-    "content": "Blame China, slumping commodities and creaky growth",
-    "date": "2025-09-01T17:31:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "0f8068ba-4ed5-4702-89df-f2d5c1528bb5",
-    "feed_name": "Economist",
-    "title": "Trump\u2019s interest-rate crusade will be self-defeating",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/28/trumps-interest-rate-crusade-will-be-self-defeating",
-    "content": "New research shows the importance of central-bank credibility",
-    "date": "2025-08-28T10:00:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "e45d60bf-cbb9-4d28-a172-21f4e57d3ab1",
-    "feed_name": "Economist",
-    "title": "Gambling or investing? In America, the line is increasingly blurred",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/28/gambling-or-investing-in-america-the-line-is-increasingly-blurred",
-    "content": "Bet on stocks in a prediction market run by a sports-betting firm and a futures exchange",
-    "date": "2025-08-28T09:59:44",
-    "category": "Magazines"
-  },
-  {
-    "id": "d5854ffc-34af-4585-b995-dcb45c0516ac",
-    "feed_name": "Economist",
-    "title": "How Trump\u2019s war on the Federal Reserve could do serious damage",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/28/how-trumps-war-on-the-federal-reserve-could-do-serious-damage",
-    "content": "Just consider what happens if inflation starts to rise again",
-    "date": "2025-08-28T09:56:45",
     "category": "Magazines"
   }
 ]
