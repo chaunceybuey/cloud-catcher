@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Bulgarian Voters Back New Political Coalition Led by Radev",
+    "author": "Carlotta Gall",
+    "link": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html",
+    "content": "Former President Rumen Radev of Bulgaria at a polling station in Sofia on Sunday.",
+    "date": "2026-04-19T20:53:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html",
     "feed_name": "NYT (Shared)",
     "title": "8 Children Killed in Domestic Mass Shooting in Shreveport, Louisiana, Police Say",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/08/25/trumps-interest-rate-crusade-will-be-self-defeating",
     "content": "The president\u2019s threats loomed over this year\u2019s Jackson Hole conference",
     "date": "2025-08-25T17:55:29",
-    "category": "Magazines"
-  },
-  {
-    "id": "e2a8c763-cfe9-4677-b141-5454f2d5284b",
-    "feed_name": "Economist",
-    "title": "Fear the deficit-populism doom loop",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/24/fear-the-deficit-populism-doom-loop",
-    "content": "Politicians, particularly in Europe, are in a terrible bind",
-    "date": "2025-08-24T13:28:41",
     "category": "Magazines"
   }
 ]
