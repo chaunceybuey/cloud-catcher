@@ -260,6 +260,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How Gen Z Protests Have Fared Around the World",
+    "author": "Hannah Beech",
+    "link": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html",
+    "content": "Young people at a concert last year celebrating the impeachment of President Andry Rajoelina of Madagascar.",
+    "date": "2026-04-19T09:02:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/us/politics/anti-muslim-politics-south.html",
     "feed_name": "NYT (Shared)",
     "title": "Muslim Southerners Face a Fresh Wave of Hateful Political Rhetoric",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/08/21/economists-disagree-about-everything-dont-they",
     "content": "Their discipline is famous for its fissiparousness",
     "date": "2025-08-21T10:15:22",
-    "category": "Magazines"
-  },
-  {
-    "id": "0a909a2a-d709-4d8d-9f3f-4d3220ad2885",
-    "feed_name": "Economist",
-    "title": "The green transition has a surprising new home",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/21/the-green-transition-has-a-surprising-new-home",
-    "content": "Forget about northern Europeans, with their coalition governments and love of cycling",
-    "date": "2025-08-21T09:55:36",
     "category": "Magazines"
   }
 ]
