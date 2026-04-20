@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Takes Steps to Refund $166 Billion in Tariffs",
+    "author": "Tony Romm and Ana Swanson",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html",
+    "content": "President Trump opposed tariff refunds until the Court of International Trade intervened in March and ordered the government to return the money to importers.",
+    "date": "2026-04-20T17:10:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
     "feed_name": "NYT (Shared)",
     "title": "Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts",
@@ -127,6 +137,16 @@
     "link": "https://www.nytimes.com/2026/04/20/opinion/movies-runtime-long.html",
     "content": "\u201cProject Hail Mary\u201d is just the latest overlong blockbuster.",
     "date": "2026-04-20T16:11:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Justices to Hear Case on Catholic Preschools That Reject Children of Gay Parents",
+    "author": "Ann E. Marimow",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html",
+    "content": "The Archdiocese of Denver campus in 2023. The archdiocese asked the Supreme Court to reconsider a First Amendment precedent unpopular with conservative Christians.",
+    "date": "2026-04-20T14:52:57",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/13/joel-mokyr-deserves-his-nobel-prize",
     "content": "The Nobel committee is belatedly recognising economic history",
     "date": "2025-10-13T18:17:40",
-    "category": "Magazines"
-  },
-  {
-    "id": "41010eee-1051-4ddb-8651-369441da9532",
-    "feed_name": "Economist",
-    "title": "Why the ultra-rich are giving up on luxury assets",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/12/why-the-ultra-rich-are-giving-up-on-luxury-assets",
-    "content": "Forget fine wine, great art and glitzy mansions. There are finer things in life",
-    "date": "2025-10-12T16:34:13",
-    "category": "Magazines"
-  },
-  {
-    "id": "f98d6a48-eed1-46d4-8063-9f8bdefa2cf1",
-    "feed_name": "Economist",
-    "title": "America and China return to fierce trade conflict",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/11/america-and-china-return-to-fierce-trade-conflict",
-    "content": "Donald Trump threatens an extra 100% levy as rare-earth minerals prompt a fresh spat",
-    "date": "2025-10-11T07:09:57",
     "category": "Magazines"
   }
 ]
