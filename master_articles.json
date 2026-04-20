@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/opinion/movies-runtime-long.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Hollywood Movies Like \u2018Project Hail Mary\u2019 Are Too Long These Days",
+    "author": "Frank Bruni",
+    "link": "https://www.nytimes.com/2026/04/20/opinion/movies-runtime-long.html",
+    "content": "\u201cProject Hail Mary\u201d is just the latest overlong blockbuster.",
+    "date": "2026-04-20T16:11:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742857#p8742857",
     "feed_name": "Vanguard",
     "title": "Re: Vanguard Cash Plus Account",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/09/the-stockmarket-is-fuelling-americas-economy",
     "content": "What happens in the event of a slump?",
     "date": "2025-10-09T10:21:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "c00e8930-2e3e-46e6-ab87-83c729d93615",
-    "feed_name": "Economist",
-    "title": "Front-line economics: lessons from Russia\u2019s neighbours",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/09/front-line-economics-lessons-from-russias-neighbours",
-    "content": "How to survive on the border of war",
-    "date": "2025-10-09T10:10:02",
     "category": "Magazines"
   }
 ]
