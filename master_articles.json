@@ -610,6 +610,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/movies/reefer-madness-psa-1936.html",
+    "feed_name": "NYT (Shared)",
+    "title": "\u2018Reefer Madness,\u2019 the P.S.A. That Backfired Spectacularly",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/04/20/movies/reefer-madness-psa-1936.html",
+    "content": "The comically self-serious and outrageous 1936 morality tale, which warned the public about marijuana, became an unintentional parody and midnight-movie classic decades later.",
+    "date": "2026-04-20T09:00:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-joseph-schwartz-pardon-lawsuit",
     "feed_name": "ProPublica",
     "title": "Trump Pardoned a Nursing Home Owner Who Owed Almost $19 Million to a Grieving Family",
@@ -19987,16 +19997,6 @@
     "link": "https://www.outsideonline.com/adventure-travel/national-parks/great-smoky-mountains-national-park-crowds/",
     "content": "Outside\u2019s national parks columnist braved America\u2019s busiest national park before a coalition of local governments and nonprofits had to chip in to keep the gates open",
     "date": "2025-10-22T03:04:20",
-    "category": "Magazines"
-  },
-  {
-    "id": "ce0ba29c-8510-46de-a1bf-3a9d83e19054",
-    "feed_name": "Economist",
-    "title": "Why are American women leaving the labour force?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/21/why-are-american-women-leaving-the-labour-force",
-    "content": "Maybe they are becoming tradwives. Or maybe there is a more straightforward explanation",
-    "date": "2025-10-21T15:21:23",
     "category": "Magazines"
   }
 ]
