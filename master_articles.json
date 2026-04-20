@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227139",
+    "feed_name": "Texas Tribune",
+    "title": "Federal judge orders release of Egyptian family of six who have spent 10 months detained in Dilley detention center",
+    "author": "Lomi Kriel",
+    "link": "https://feeds.texastribune.org/link/16799/17322494/el-gamal-family-dilley-family-detention-texas-released",
+    "content": "The South Texas Family Residential Center in Dilley on Jan. 28, 2026.",
+    "date": "2026-04-20T20:57:17",
+    "category": "Texas"
+  },
+  {
     "id": "eb9a95d7-1273-4ea3-97b7-9552e04e3b32",
     "feed_name": "Economist",
     "title": "American corporate profits keep shrugging off global tumult",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/20/the-world-economy-shrugs-off-both-the-trade-war-and-ai-fears",
     "content": "Can anything bring it down?",
     "date": "2025-10-20T16:07:32",
-    "category": "Magazines"
-  },
-  {
-    "id": "23eb944c-471e-4c1d-bf3b-6804fb31f61e",
-    "feed_name": "Economist",
-    "title": "Why Wall Street is fearful of more lending blow-ups",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/19/why-wall-street-is-fearful-of-more-lending-blow-ups",
-    "content": "Both banks and private-markets giants are on cockroach-watch",
-    "date": "2025-10-19T16:13:11",
     "category": "Magazines"
   }
 ]
