@@ -420,6 +420,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/19/world/asia/running-robot-sets-record.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A Humanoid Robot Races to a Record Half-Marathon Finish",
+    "author": "Adeel Hassan",
+    "link": "https://www.nytimes.com/2026/04/19/world/asia/running-robot-sets-record.html",
+    "content": "The 5-foot-5 humanoid robot Lightning, with its approximately 3-foot-long legs striding, showed its form in a half-marathon race on Sunday in Beijing.",
+    "date": "2026-04-19T23:59:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html",
     "feed_name": "NYT (Shared)",
     "title": "Bulgarian Voters Back New Political Coalition Led by Radev",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/09/28/the-economics-of-self-driving-taxis",
     "content": "Waymo is a case study in automation",
     "date": "2025-09-28T13:10:07",
-    "category": "Magazines"
-  },
-  {
-    "id": "5b9525bf-fc1c-441c-823d-5d3b289d1212",
-    "feed_name": "Economist",
-    "title": "The AI talent war is becoming fiercer",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/25/the-ai-talent-war-is-becoming-fiercer",
-    "content": "How other countries hope to challenge America",
-    "date": "2025-09-25T10:08:31",
     "category": "Magazines"
   }
 ]
