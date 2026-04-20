@@ -110,6 +110,36 @@
     "category": "Texas"
   },
   {
+    "id": "7ff8b8148be6c5d49d634e4b785b4780",
+    "feed_name": "LRB",
+    "title": "A Kilo of\u00a0Flour",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/april/a-kilo-of-flour",
+    "content": "My father called from the market to say he needed my help. It was the end of February. Tensions between Israel and Iran were escalating and prices.\u00a0.\u00a0.",
+    "date": "2026-04-20T12:06:29",
+    "category": "Magazines"
+  },
+  {
+    "id": "7ac521eaf0386f16f4462f6282d681aa",
+    "feed_name": "Compact",
+    "title": "The Marijuana Backlash Is Here",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-marijuana-backlash-is-here/",
+    "content": "",
+    "date": "2026-04-20T12:06:26",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742718#p8742718",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "VG81",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8742718#p8742718",
+    "content": "I had no problem using mine with Google Wallet this morning in Enkuizen in the Netherlands.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=186354\">VG81</a> \u2014 Mon Apr 20, 2026 7:04 am</p><hr />",
+    "date": "2026-04-20T12:04:28",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742691#p8742691",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -408,6 +438,16 @@
     "content": "A longitudinal study found that loneliness is more closely linked to lapses in immediate and delayed recall than to the overall speed of cognitive decline.",
     "date": "2026-04-20T09:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Iran War Sent Shock Waves Through Asia That Are Likely to Spread",
+    "author": "Damien Cave",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html",
+    "content": "A floating fuel station selling diesel last month in the Mekong River delta. Vietnam has been hit hard by rising fuel costs because of the war in Iran.",
+    "date": "2026-04-20T05:39:43",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/02/credit-markets-look-increasingly-dangerous",
     "content": "A pair of bankruptcies highlight the risks",
     "date": "2025-10-02T10:22:25",
-    "category": "Magazines"
-  },
-  {
-    "id": "d8c07519-c1e1-4cbd-a29c-a28e8cc3af3f",
-    "feed_name": "Economist",
-    "title": "How the Trump administration learned to love foreign aid",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/02/how-the-trump-administration-learned-to-love-foreign-aid",
-    "content": "America\u2019s international assistance has not been destroyed\u2014it has been transformed",
-    "date": "2025-10-02T10:19:44",
-    "category": "Magazines"
-  },
-  {
-    "id": "bd89ed9c-2627-4c44-b41e-3d51724acf1d",
-    "feed_name": "Economist",
-    "title": "The eccentric investment strategy that beats the rest",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/01/the-eccentric-investment-strategy-that-beats-the-rest",
-    "content": "Introducing the 25/25/25/25 portfolio",
-    "date": "2025-10-01T18:45:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "1574b006-43bc-46be-abf3-bbb9ab091a4c",
-    "feed_name": "Economist",
-    "title": "China\u2019s stockmarket rally may hurt the economy",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/29/chinas-stockmarket-rally-may-hurt-the-economy",
-    "content": "The \u201cwealth effect\u201d is not the only way it has an impact",
-    "date": "2025-09-29T16:46:19",
-    "category": "Magazines"
-  },
-  {
-    "id": "3723a2f3-dd72-4882-b374-48f5f9c7d613",
-    "feed_name": "Economist",
-    "title": "The economics of self-driving taxis",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/28/the-economics-of-self-driving-taxis",
-    "content": "Waymo is a case study in automation",
-    "date": "2025-09-28T13:10:07",
     "category": "Magazines"
   }
 ]
