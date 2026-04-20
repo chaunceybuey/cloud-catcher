@@ -170,6 +170,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/18/magazine/husband-illness-trapped-ethics.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "My Husband\u2019s Illness Has Me Feeling Trapped. Do I Have to Stay?",
+    "author": "Kwame Anthony Appiah",
+    "link": "https://www.nytimes.com/2026/04/18/magazine/husband-illness-trapped-ethics.html",
+    "content": "I don\u2019t feel morally that I could leave. But I have healthy years ahead and I wish to enjoy what\u2019s left of my life.",
+    "date": "2026-04-19T12:55:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/opinion/trump-war-thucydides.html",
     "feed_name": "NYT (Shared)",
     "title": "The Warmongers Are Getting History All Wrong",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/08/24/fear-the-deficit-populism-doom-loop",
     "content": "Politicians, particularly in Europe, are in a terrible bind",
     "date": "2025-08-24T13:28:41",
-    "category": "Magazines"
-  },
-  {
-    "id": "e9ddf403-6d78-4492-97c8-10829906aaa0",
-    "feed_name": "Economist",
-    "title": "Economists disagree about everything. Don\u2019t they?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/21/economists-disagree-about-everything-dont-they",
-    "content": "Their discipline is famous for its fissiparousness",
-    "date": "2025-08-21T10:15:22",
     "category": "Magazines"
   }
 ]
