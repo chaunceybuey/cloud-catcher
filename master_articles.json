@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "eb9a95d7-1273-4ea3-97b7-9552e04e3b32",
+    "feed_name": "Economist",
+    "title": "American corporate profits keep shrugging off global tumult",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/04/20/american-corporate-profits-keep-shrugging-off-global-tumult",
+    "content": "Earnings expectations are through the roof",
+    "date": "2026-04-20T19:49:36",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227122",
     "feed_name": "Texas Tribune",
     "title": "Speaker Dustin Burrows asks Texas House to investigate Roblox in response to game simulating Uvalde shooting",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/19/why-wall-street-is-fearful-of-more-lending-blow-ups",
     "content": "Both banks and private-markets giants are on cockroach-watch",
     "date": "2025-10-19T16:13:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "d097b0b0-0521-45ae-a0b1-e60c8267c9d9",
-    "feed_name": "Economist",
-    "title": "Indian microfinance is in trouble",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/16/indian-microfinance-is-in-trouble",
-    "content": "A model that has lifted millions out of poverty is threatened by rising defaults",
-    "date": "2025-10-16T09:08:43",
     "category": "Magazines"
   }
 ]
