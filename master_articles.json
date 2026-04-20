@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts",
+    "author": "Maria Varenikova",
+    "link": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
+    "content": "Ukrainian soldiers training with an unmanned ground vehicle in the Donbas region of eastern Ukraine last year. The country is eager to highlight its advances in technological warfare.",
+    "date": "2026-04-20T16:43:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/20/opinion/movies-runtime-long.html",
     "feed_name": "NYT (Emailed)",
     "title": "Hollywood Movies Like \u2018Project Hail Mary\u2019 Are Too Long These Days",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/11/america-and-china-return-to-fierce-trade-conflict",
     "content": "Donald Trump threatens an extra 100% levy as rare-earth minerals prompt a fresh spat",
     "date": "2025-10-11T07:09:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "7e5ab952-058a-49a9-a897-681654e8c1f0",
-    "feed_name": "Economist",
-    "title": "The stockmarket is fuelling America\u2019s economy",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/09/the-stockmarket-is-fuelling-americas-economy",
-    "content": "What happens in the event of a slump?",
-    "date": "2025-10-09T10:21:12",
     "category": "Magazines"
   }
 ]
