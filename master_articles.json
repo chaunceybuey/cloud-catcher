@@ -110,6 +110,246 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742691#p8742691",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "kojima",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8742691#p8742691",
+    "content": "A lot of people are having issues with using their Fidelity Rewards Visa Credit Card through Apple Pay / Google Pay. Seems like all wallet transactions outside of the US are being declined, and some within the US are being declined. There are already a few posts about it on Fidelity's subreddit. It's been happening since Friday and to me, this should be an incident that should have been resolved days ago. <br /><br />I know technically Fidelity Credit Card is through Elan but wanted to share it here.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=191671\">kojima</a> \u2014 Mon Apr 20, 2026 5:51 am</p><hr />",
+    "date": "2026-04-20T10:51:59",
+    "category": "Finance"
+  },
+  {
+    "id": "f32134871dd164d12b39a37e8d57f073",
+    "feed_name": "New Yorker",
+    "title": "David Armstrong\u2019s Probing Gaze",
+    "author": "",
+    "link": "https://www.newyorker.com/culture/goings-on/the-photographer-david-armstrongs-probing-gaze",
+    "content": "Also: Jennifer Tilly in the surreal world of \u201cThe Adding Machine,\u201d New York City Ballet\u2019s spring season, Anne Hathaway and Michaela Coel in \u201cMother Mary,\u201d and more.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "83b20dc9cd964b4fc1792da143bef18e",
+    "feed_name": "New Yorker",
+    "title": "A Reading List from the Director of the Noguchi Museum",
+    "author": "",
+    "link": "https://www.newyorker.com/books/book-currents/a-reading-list-from-the-director-of-the-noguchi-museum",
+    "content": "Amy Hau discusses some books by Marilyn Chase, Karin Higa, and Edmund de Waal that have guided her work as a curator.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "e8b263a4aa766b53953fd024574b8912",
+    "feed_name": "New Yorker",
+    "title": "J. D. Vance\u2019s Bumpy Ride",
+    "author": "ByAmy Davidson Sorkin",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/j-d-vances-bumpy-ride",
+    "content": "It wasn\u2019t the first time that Trump had debased someone who serves him. It wasn\u2019t even the first time that Vance had had to downplay a blasphemy-themed A.I. image.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "cb56a10515ea31509196bd930ad1ff0e",
+    "feed_name": "New Yorker",
+    "title": "The Popes That Trump Might\u2019ve Liked",
+    "author": "ByJane Bua",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/the-popes-that-trump-mightve-liked",
+    "content": "The President thinks Pope Leo XIV is a wuss. Meet some real tough-guy Pontiffs who might have fit the bill.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "b825b6227df909ebc8274019e91bca25",
+    "feed_name": "New Yorker",
+    "title": "When Soul Food Met Daniel Boulud",
+    "author": "ByZach Helfand",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/when-soul-food-met-daniel-boulud",
+    "content": "The Harlem franchise Charles Pan-Fried Chicken invited a bunch of chefs to take over for the weekend. Up next: oxtails from Lana Lagomarsini.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "1574301362d6f28a186529696ea88360",
+    "feed_name": "New Yorker",
+    "title": "Daphne Rubin-Vega Comes Home",
+    "author": "BySarah Larson",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/daphne-rubin-vega-comes-home",
+    "content": "Strolling through Hell\u2019s Kitchen, the actress recalls old celeb sightings (Jane Fonda! Donald Sutherland!) on her way to playing the swaggering Mr. Zero in \u201cThe Adding Machine,\u201d Off Broadway.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "69ca4dd1fbf385547a8d32f3e51c2509",
+    "feed_name": "New Yorker",
+    "title": "The Anatomy of a Failure",
+    "author": "ByLauren Collins",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/the-anatomy-of-a-failure",
+    "content": "From spray-on condoms to radioactive wrinkle cream, \u201cFlops?!,\u201d at the Mus\u00e9e des Arts et M\u00e9tiers, in Paris, puts terrible inventions in the spotlight.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "743cf47cfa196ccbc13ecd42493690ac",
+    "feed_name": "New Yorker",
+    "title": "When Your Digital Life Vanishes",
+    "author": "ByJulian Lucas",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
+    "content": "A broken phone or corrupted drive can mean the loss of work, evidence, art, or the last traces of the dead. But sometimes data-recovery experts can summon lost files from the void.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "cf7e19b107989c0869c3ef155d9b298c",
+    "feed_name": "New Yorker",
+    "title": "Tabula Rasa: Volume Six",
+    "author": "ByJohn McPhee",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/tabula-rasa-volume-six",
+    "content": "A project meant not to end.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "66c8c9b62f7994c2fb266f555c0f2843",
+    "feed_name": "New Yorker",
+    "title": "How Professional Wrestling Prepared Linda McMahon for Trump\u2019s Cabinet",
+    "author": "ByZach Helfand",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/linda-mcmahon-profile",
+    "content": "The Education Secretary ran the W.W.E. for years with her husband, Vince, an unstable man who, like her new boss, has a genius for inflaming the crowd.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "4160779512957dfa5067ac2511a8ea50",
+    "feed_name": "New Yorker",
+    "title": "The Action-Film Director Who\u2019s Taking On Michael Jackson",
+    "author": "ByKelefa Sanneh",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/antoine-fuqua-profile",
+    "content": "Antoine Fuqua has built a career on movies with irresistible heroes. Now he\u2019s telling the story of the King of Pop.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "7686ae17762d6ae3972463eecef386e1",
+    "feed_name": "New Yorker",
+    "title": "Escape Rooms for Middle-Aged People",
+    "author": "ByCharles Yu",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/escape-rooms-for-middle-aged-people",
+    "content": "Work as a team as you and other dads chat about pro sports, college sports, kids (and their sports), while avoiding eye contact, politics, and any hint of vulnerability.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "54ceae3f0de5f5600bf1ddf29010f010",
+    "feed_name": "New Yorker",
+    "title": "\u201cOrdinary Wear and Tear\u201d",
+    "author": "ByThomas McGuane",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/ordinary-wear-and-tear-fiction-thomas-mcguane",
+    "content": "She broke Carl\u2019s heart, he thought, but she\u2019s not breaking mine.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "cc7c327bcd7eb60815b89dbcffecea43",
+    "feed_name": "New Yorker",
+    "title": "Was Raphael the Runt of the Renaissance?",
+    "author": "ByZachary Fine",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/was-raphael-the-runt-of-the-renaissance",
+    "content": "Many have called him boring, a peddler of simpleminded beauty. At the Met, a blockbuster exhibition restores his standing.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "ae9564ec61d85cf1daa9d6be1a8facca",
+    "feed_name": "New Yorker",
+    "title": "Briefly Noted",
+    "author": "",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/the-power-of-life-how-it-feels-to-be-alive-go-gentle-exemplary-humans",
+    "content": "\u201cThe Power of Life,\u201d \u201cHow It Feels to Be Alive,\u201d \u201cGo Gentle,\u201d and \u201cExemplary Humans.\u201d",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "11faa9e6287c16310c96b8c181aca4f1",
+    "feed_name": "New Yorker",
+    "title": "In Defense of the Moderate",
+    "author": "ByNikhil Krishnan",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/being-reasonable-the-case-for-a-misunderstood-virtue-krista-lawlor-book-review",
+    "content": "In an era that prizes passion, \u201creasonableness\u201d gets caricatured as political cowardice or bloodless neutrality. A new book says it\u2019s exactly what we need.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "e719d94fcf7a38cfa28389951d3a89ec",
+    "feed_name": "New Yorker",
+    "title": "The Novelist Reimagining the Japanese American Internment",
+    "author": "ByHua Hsu",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/questions-27-and-28-karen-tei-yamashita-book-review",
+    "content": "In \u201cQuestions 27 & 28,\u201d Karen Tei Yamashita opens an inquiry into how the story of the past gets made.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "3e3bd26ea8617d76515ad725163983f2",
+    "feed_name": "New Yorker",
+    "title": "Sharp Claws at \u201cBecky Shaw\u201d and \u201cCats: The Jellicle Ball\u201d",
+    "author": "ByEmily Nussbaum",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/becky-shaw-theatre-review-cats-the-jellicle-ball",
+    "content": "Gina Gionfriddo\u2019s zinger-filled sex farce and the celebratory ballroom-culture adaptation of Andrew Lloyd Webber\u2019s confounding musical are cathartic catnip.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "8da5d7196592ff4e2680c40d006a5325",
+    "feed_name": "New Yorker",
+    "title": "The Calculated Uplift of \u201cI Swear\u201d",
+    "author": "ByJustin Chang",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/i-swear-movie-review",
+    "content": "Kirk Jones\u2019s bio-pic of the activist John Davidson, who has worked to destigmatize Tourette\u2019s syndrome, is effective as an educational tool but mechanical as a drama.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "81dbafc0d6e1ddcbc6019ac751182c35",
+    "feed_name": "New Yorker",
+    "title": "\u201cSpring Comes and I Finally Throw Out the Last Flowers I Bought You\u201d",
+    "author": "ByAriel Francisco",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/spring-comes-and-i-finally-throw-out-the-last-flowers-i-bought-you-ariel-francisco-poem",
+    "content": "\u201cIt\u2019s been weeks. / It\u2019s been months. It\u2019s been seasons.\u201d",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "80e36b6e37f8a7862425c4cb669926a7",
+    "feed_name": "New Yorker",
+    "title": "\u201cFavor\u201d",
+    "author": "ByFranz Wright",
+    "link": "https://www.newyorker.com/magazine/2026/04/27/favor-franz-wright-poem",
+    "content": "\u201cMy death is in the second drawer.\u201d",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "a155ec0b47488d2d3e8a689179272867",
+    "feed_name": "New Yorker",
+    "title": "Cartoons from the Issue",
+    "author": "",
+    "link": "https://www.newyorker.com/gallery/cartoons-from-the-april-27-2026-issue",
+    "content": "Drawings from the April 27, 2026, magazine.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a9aba82bd1ae642709014c79093ce32",
+    "feed_name": "New Yorker",
+    "title": "The Crossword: Wednesday, April 15, 2026",
+    "author": "ByRobyn Weintraub",
+    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/04/15",
+    "content": "A beginner-friendly puzzle.",
+    "date": "2026-04-20T10:50:55",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=226936",
     "feed_name": "Texas Tribune",
     "title": "On the issues: A Q&A with Ken Paxton and John Cornyn",
@@ -168,6 +408,16 @@
     "content": "A longitudinal study found that loneliness is more closely linked to lapses in immediate and delayed recall than to the overall speed of cognitive decline.",
     "date": "2026-04-20T09:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Does the Trump Administration Really Want More Teen Pregnancies?",
+    "author": "Jill Filipovic",
+    "link": "https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html",
+    "content": "The new Title X guidance from the Trump administration mentions contraception only once.",
+    "date": "2026-04-20T05:00:04",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html",
@@ -19747,256 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/09/25/the-ai-talent-war-is-becoming-fiercer",
     "content": "How other countries hope to challenge America",
     "date": "2025-09-25T10:08:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "0dcce2c2-ca21-4a6b-961b-ef057981e104",
-    "feed_name": "Economist",
-    "title": "Investing like the ultra-rich is easier than ever",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/24/investing-like-the-ultra-rich-is-easier-than-ever",
-    "content": "And that worries regulators",
-    "date": "2025-09-24T19:19:24",
-    "category": "Magazines"
-  },
-  {
-    "id": "634c9c68-7f7c-4d7a-9ab8-6a7a645ba7ad",
-    "feed_name": "Economist",
-    "title": "Will Dubai\u2019s super-hot property market avoid a crash?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/24/will-dubais-super-hot-property-market-avoid-a-crash",
-    "content": "Despite fears of a reckoning, its fundamentals look solid",
-    "date": "2025-09-24T16:18:15",
-    "category": "Magazines"
-  },
-  {
-    "id": "51cb64cb-beb9-4072-aaf5-c4924da75d77",
-    "feed_name": "Economist",
-    "title": "How to spot a genius",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/23/how-to-spot-a-genius",
-    "content": "In an age of artificial intelligence, the human kind is increasingly important",
-    "date": "2025-09-23T17:31:41",
-    "category": "Magazines"
-  },
-  {
-    "id": "cb5e61e17a2cad15dded10b9ebf5c444",
-    "feed_name": "Outside",
-    "title": "Michelle Vanek Vanished on a Hike 19 Years Ago. This Is How We Finally Found Her Remains.",
-    "author": "Ted Katauskas",
-    "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/michelle-vanek-mount-holy-cross/",
-    "content": "She was the only hiker ever to die while seeking the summit of central Colorado\u2019s most famous 14er. A member of the successful search team investigates who she was, how her death\u2014and her recovery 19 years later\u2014impacted her family, and what we all need to consider before heading into the alpine.",
-    "date": "2025-09-23T03:34:41",
-    "category": "Magazines"
-  },
-  {
-    "id": "1b3d7fb4-87a3-4f1d-807a-88be77b59aae",
-    "feed_name": "Economist",
-    "title": "Russia\u2019s besieged economy is clinging on",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/21/russias-besieged-economy-is-clinging-on",
-    "content": "The good times have firmly come to an end, but wage growth remains strong",
-    "date": "2025-09-21T08:58:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "1a3fb93a-8ca0-4f12-b109-174dd51f13a3",
-    "feed_name": "Economist",
-    "title": "Would an all-out trade war be better?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/18/would-an-all-out-trade-war-be-better",
-    "content": "Donald Trump has so far avoided retaliation, which might carry a cost of its own",
-    "date": "2025-09-18T10:26:22",
-    "category": "Magazines"
-  },
-  {
-    "id": "be401e55-af96-4c79-ae9d-62bbd509249d",
-    "feed_name": "Economist",
-    "title": "Why European workers need to switch jobs",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/18/why-european-workers-need-to-switch-jobs",
-    "content": "The continent\u2019s labour market is ill-suited to an age of disruption",
-    "date": "2025-09-18T10:15:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "404520f8-812e-4ede-8a9a-a9a32363f724",
-    "feed_name": "Economist",
-    "title": "China\u2019s future rests on 200m precarious workers",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/18/chinas-future-rests-on-200m-precarious-workers",
-    "content": "They may work in factories or for delivery apps, but are united by common struggles",
-    "date": "2025-09-18T09:50:24",
-    "category": "Magazines"
-  },
-  {
-    "id": "09d716c6-b6a3-433f-847c-0c1168759168",
-    "feed_name": "Economist",
-    "title": "Ukraine faces a $19bn budget black hole",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/17/ukraine-faces-a-19bn-budget-black-hole",
-    "content": "Without funding, the country will be left vulnerable",
-    "date": "2025-09-17T19:44:22",
-    "category": "Magazines"
-  },
-  {
-    "id": "e1bedb42-d95e-4b16-9472-f32754435157",
-    "feed_name": "Economist",
-    "title": "Europe\u2019s great stockmarket inversion",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/17/europes-great-stockmarket-inversion",
-    "content": "The hottest places to invest are on the continent\u2019s periphery",
-    "date": "2025-09-17T19:35:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "b5ab1c93373b1c8ee4b9883fe6bdb555",
-    "feed_name": "Outside",
-    "title": "Outdoor Gear\u2019s Upcycling Revolution Is Here. This Designer Is Leading the Charge.",
-    "author": "Corey Buhay",
-    "link": "https://www.outsideonline.com/outdoor-adventure/environment/nicole-mclaughlin-upcycling/",
-    "content": "Known for both her gorpcore experiments and collabs with big-name design brands, Nicole McLaughlin has bridged the gap between outdoor gear and high fashion\u2014and could very well transform both for the better",
-    "date": "2025-09-15T09:55:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "89eeb649-1999-4862-9973-0ac1df9be400",
-    "feed_name": "Economist",
-    "title": "America\u2019s economy defies gloomy expectations",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/14/americas-economy-defies-gloomy-expectations",
-    "content": "As the Federal Reserve cuts interest rates, growth is holding up",
-    "date": "2025-09-14T13:39:13",
-    "category": "Magazines"
-  },
-  {
-    "id": "76c53af9-8960-4571-9cd8-89cc524b8751",
-    "feed_name": "Economist",
-    "title": "Can you make it to the end of this column?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/11/can-you-make-it-to-the-end-of-this-column",
-    "content": "Understanding the new economics of attention",
-    "date": "2025-09-11T09:35:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "e12a10c7-dc12-4ac8-a307-69f9035fc6be",
-    "feed_name": "Economist",
-    "title": "How grain has gone from famine to feast",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/11/how-grain-has-gone-from-famine-to-feast",
-    "content": "Prices are close to a five-year low",
-    "date": "2025-09-11T09:33:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "5c1094f6-8149-4c28-9f5b-53321fd12352",
-    "feed_name": "Economist",
-    "title": "Meet Donald Trump\u2019s aid agency",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/11/meet-donald-trumps-aid-agency",
-    "content": "Or is it a sovereign-wealth fund in disguise?",
-    "date": "2025-09-11T09:31:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "9179ca8f-dd93-4b37-afc7-8378f4fa78b3",
-    "feed_name": "Economist",
-    "title": "Why American bondholders are jumpy about inflation",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
-    "content": "The Federal Reserve prepares to cut interest rates in tricky circumstances",
-    "date": "2025-09-10T19:05:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "3ba6b0c7-4b29-45e6-b4e5-2dc9c61fa72b",
-    "feed_name": "Economist",
-    "title": "Europe\u2019s economy at last shows signs of a recovery",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/10/europes-economy-at-last-shows-signs-of-a-recovery",
-    "content": "Even if there is plenty that could yet kill it",
-    "date": "2025-09-10T16:27:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "9ec79a3d-54fc-4a71-a400-a7458e3e20c1",
-    "feed_name": "Economist",
-    "title": "Chinese trade is thriving despite America\u2019s attacks",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/09/chinese-trade-is-thriving-despite-americas-attacks",
-    "content": "The rest of the world is willing to be \u201cripped off\u201d",
-    "date": "2025-09-09T15:55:29",
-    "category": "Magazines"
-  },
-  {
-    "id": "6393bbd9-a608-4e3d-beec-cfc845ffb7b0",
-    "feed_name": "Economist",
-    "title": "What if the AI stockmarket blows up?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/07/what-if-the-ai-stockmarket-blows-up",
-    "content": "We find that the potential cost has risen alarmingly high",
-    "date": "2025-09-07T16:19:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "4111c56e-d8da-4a08-a6ac-176ad0d4a735",
-    "feed_name": "Economist",
-    "title": "What if artificial intelligence is just a \u201cnormal\u201d technology?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/04/what-if-artificial-intelligence-is-just-a-normal-technology",
-    "content": "Its rise might yet follow the path of previous technological revolutions",
-    "date": "2025-09-04T09:22:04",
-    "category": "Magazines"
-  },
-  {
-    "id": "37a83389-cd36-4cd3-a173-0fa6636f9ab1",
-    "feed_name": "Economist",
-    "title": "Bond vigilantes take aim at France",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/04/bond-vigilantes-take-aim-at-france",
-    "content": "With any luck, the stand-off might focus politicians\u2019 minds",
-    "date": "2025-09-04T09:21:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "75a25bc8-3b54-4c52-a3d0-249ecb37deed",
-    "feed_name": "Economist",
-    "title": "The hard right\u2019s plans for Europe\u2019s economy",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/04/the-hard-rights-plans-for-europes-economy",
-    "content": "It has moderated, but offers little hope of growth-boosting reform",
-    "date": "2025-09-04T09:21:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "dab3cfd0-e648-4e64-8167-c6a8ac7300fc",
-    "feed_name": "Economist",
-    "title": "Why supply shocks are a trap for commodity investors",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/03/why-supply-shocks-are-a-trap-for-commodity-investors",
-    "content": "Lessons from lithium\u2019s fake rally",
-    "date": "2025-09-03T18:45:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "e7731029-e0c4-4b9b-9e40-ce9de6b0eac5",
-    "feed_name": "Economist",
-    "title": "China turns crypto-curious",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/02/china-turns-crypto-curious",
-    "content": "But would the country\u2019s leaders really want stablecoins to succeed?",
-    "date": "2025-09-02T17:55:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "f1c753b1-95a6-4589-a849-85fe89405967",
-    "feed_name": "Economist",
-    "title": "America is escaping its office crisis",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/09/01/america-is-escaping-its-office-crisis",
-    "content": "The torment caused by covid-19 and high interest rates appears to be over",
-    "date": "2025-09-01T19:20:16",
     "category": "Magazines"
   }
 ]
