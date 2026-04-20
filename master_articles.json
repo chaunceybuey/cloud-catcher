@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227122",
+    "feed_name": "Texas Tribune",
+    "title": "Speaker Dustin Burrows asks Texas House to investigate Roblox in response to game simulating Uvalde shooting",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17322466/texas-speaker-dustin-burrows-roblox-legislature-child-gaming",
+    "content": "Arthur Grenner, 13, left, Chad Darden, 12, and Steve Yanes, 13, at right, engage with the video game platform Roblox during the Thousand Oaks Teen Center&#039;s reopening celebration in Thousand Oaks, California on March 10, 2023.",
+    "date": "2026-04-20T19:43:47",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/us/michigan-gas-clerk-saves-teen.html",
     "feed_name": "NYT (Shared)",
     "title": "Michigan Gas Clerk Helps Save Kidnapped Teen Girl Who Mouthed \u2018Help\u2019",
@@ -157,6 +167,16 @@
     "link": "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html",
     "content": "President Trump opposed tariff refunds until the Court of International Trade intervened in March and ordered the government to return the money to importers.",
     "date": "2026-04-20T17:10:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Israeli Soldier in Lebanon Sledgehammered a Statue of Jesus",
+    "author": "David M. Halbfinger",
+    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
+    "content": "The military is investigating the soldier. Prime Minister Benjamin Netanyahu expressed regret for any hurt caused to \u201cbelievers in Lebanon and around the world.\u201d",
+    "date": "2026-04-20T17:08:24",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/16/indian-microfinance-is-in-trouble",
     "content": "A model that has lifted millions out of poverty is threatened by rising defaults",
     "date": "2025-10-16T09:08:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "0697dcbf-6a54-4098-9cc8-cc9efd0ceb51",
-    "feed_name": "Economist",
-    "title": "The new economics of babymaking",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/16/the-new-economics-of-babymaking",
-    "content": "A postcard from one of America\u2019s youngest towns",
-    "date": "2025-10-16T09:08:15",
-    "category": "Magazines"
-  },
-  {
-    "id": "85156a98-95ae-4a28-808f-fa8011bd24df",
-    "feed_name": "Economist",
-    "title": "America\u2019s bankers are riding high. Why are they so worried?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/15/americas-bankers-are-riding-high-why-are-they-so-worried",
-    "content": "Their latest earnings do not represent unalloyed good news",
-    "date": "2025-10-15T20:25:30",
     "category": "Magazines"
   }
 ]
