@@ -160,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/19/books/review/rachel-goldberg-polin-when-we-see-you-again.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Book Review: \u2018When We See You Again,\u2019 by Rachel Goldberg-Polin",
+    "author": "Alexandra Jacobs",
+    "link": "https://www.nytimes.com/2026/04/19/books/review/rachel-goldberg-polin-when-we-see-you-again.html",
+    "content": "Rachel Goldberg-Polin during her remarks at the 2024 Democratic National Convention, where she called for help in getting her son released after 320 days.",
+    "date": "2026-04-19T13:57:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/business/career-graduation-jobs-gen-z.html",
     "feed_name": "NYT (Emailed)",
     "title": "This Is a Hard Time to Start a Career. These Two Words Can Help.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/08/27/even-as-chinas-economy-suffers-stocks-soar-whats-going-on",
     "content": "The Shanghai composite is defying gravity",
     "date": "2025-08-27T12:55:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "87524f63-8deb-4ee8-81cc-928c16771afd",
-    "feed_name": "Economist",
-    "title": "Trump \u201cfires\u201d Lisa Cook, escalating his war on the Federal Reserve",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/26/trump-fires-lisa-cook-escalating-his-war-on-the-federal-reserve",
-    "content": "There is little precedent: no Fed governor has been dismissed for cause before",
-    "date": "2025-08-26T08:36:17",
     "category": "Magazines"
   }
 ]
