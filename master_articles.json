@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/opinion/america-manufacturing-recovery-china.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Town That Reveals All of Trump\u2019s Bad Economic Ideas",
+    "author": "Bob Davis",
+    "link": "https://www.nytimes.com/2026/04/20/opinion/america-manufacturing-recovery-china.html",
+    "content": "The jobs are coming back, despite President Trump\u2019s tariffs and harsh immigration enforcement.",
+    "date": "2026-04-20T12:54:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742738#p8742738",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/08/why-donald-trumps-tariffs-are-failing-to-break-global-trade",
     "content": "Six months on from \u201cLiberation Day\u201d, things look surprisingly rosy",
     "date": "2025-10-08T18:20:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "29b31940-2465-46f4-a70b-d7dbb96f158b",
-    "feed_name": "Economist",
-    "title": "Welcome to Zero Migration America",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/07/welcome-to-zero-migration-america",
-    "content": "Closed borders will make the country smaller, poorer and less innovative",
-    "date": "2025-10-07T18:05:01",
     "category": "Magazines"
   }
 ]
