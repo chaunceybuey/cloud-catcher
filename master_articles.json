@@ -120,6 +120,16 @@
     "category": "Finance"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration to Begin Refunding $166 Billion in Tariffs",
+    "author": "Tony Romm and Ana Swanson",
+    "link": "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html",
+    "content": "President Trump opposed tariff refunds until the Court of International Trade intervened in March and ordered the government to return the money to importers.",
+    "date": "2026-04-20T12:09:55",
+    "category": "NYT"
+  },
+  {
     "id": "7ff8b8148be6c5d49d634e4b785b4780",
     "feed_name": "LRB",
     "title": "A Kilo of\u00a0Flour",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/07/welcome-to-zero-migration-america",
     "content": "Closed borders will make the country smaller, poorer and less innovative",
     "date": "2025-10-07T18:05:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "0ad5f475-de6f-4185-be01-f89656f22f13",
-    "feed_name": "Economist",
-    "title": "Don\u2019t tax wealth",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/02/dont-tax-wealth",
-    "content": "Even the most sophisticated arguments in favour of doing so make no sense",
-    "date": "2025-10-02T10:23:50",
     "category": "Magazines"
   }
 ]
