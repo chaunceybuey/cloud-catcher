@@ -16530,6 +16530,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/10/well/wash-new-clothes-before-wearing.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Do You Really Need to Wash New Clothes Before Wearing Them?",
+    "author": "Jillian Pretzel",
+    "link": "https://www.nytimes.com/2026/03/10/well/wash-new-clothes-before-wearing.html",
+    "content": "We asked experts whether they can irritate your skin or cause other problems.",
+    "date": "2026-03-15T00:05:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/david-harvilicz-homeland-security-voting-machines",
     "feed_name": "ProPublica",
     "title": "This DHS Official Oversees the Security of Federal Elections. He Wants to Ban Voting Machines.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/08/26/trump-fires-lisa-cook-escalating-his-war-on-the-federal-reserve",
     "content": "There is little precedent: no Fed governor has been dismissed for cause before",
     "date": "2025-08-26T08:36:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "3126dabf-0bd2-4cc2-8f52-40c2cce79201",
-    "feed_name": "Economist",
-    "title": "Trump\u2019s interest-rate crusade will be self-defeating",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/25/trumps-interest-rate-crusade-will-be-self-defeating",
-    "content": "The president\u2019s threats loomed over this year\u2019s Jackson Hole conference",
-    "date": "2025-08-25T17:55:29",
     "category": "Magazines"
   }
 ]
