@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/19/world/middleeast/energy-secretary-gas-prices.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Energy Secretary Says Gas Prices May Stay Above $3 Until 2027",
+    "author": "Minho Kim and Tim Balk",
+    "link": "https://www.nytimes.com/2026/04/19/world/middleeast/energy-secretary-gas-prices.html",
+    "content": "The price of gas has increased significantly since the war with Iran began in late February.",
+    "date": "2026-04-19T20:47:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html",
     "feed_name": "NYT (Shared)",
     "title": "8 Children Killed in Domestic Mass Shooting in Shreveport, Louisiana, Police Say",
@@ -127,6 +137,16 @@
     "link": "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html",
     "content": "The authorities said a total of 10 people had been shot in a crime scene in Shreveport that involved multiple sites. The gunman was fatally shot by officers.",
     "date": "2026-04-19T19:56:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/19/us/michigan-trump-ballots-election.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Demand for Ballot Info Rebuffed by Michigan",
+    "author": "Sonia A. Rao",
+    "link": "https://www.nytimes.com/2026/04/19/us/michigan-trump-ballots-election.html",
+    "content": "A voter is handed a ballot in Woodworth School in Dearborn, Mich., during the 2024 election.",
+    "date": "2026-04-19T18:03:14",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/08/27/why-you-should-buy-your-employers-shares",
     "content": "Even though doing so flies in the face of most financial advice",
     "date": "2025-08-27T19:21:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "bbfe81f4-5724-4235-901c-e38e21ac895a",
-    "feed_name": "Economist",
-    "title": "The Economist\u2019s finance and economics internship",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/27/the-economists-finance-and-economics-internship",
-    "content": "We invite applications for our Marjorie Deane scheme",
-    "date": "2025-08-27T13:26:14",
-    "category": "Magazines"
-  },
-  {
-    "id": "8309056e-fcc0-45df-ac42-3fcbcfa8b5f7",
-    "feed_name": "Economist",
-    "title": "Even as China\u2019s economy suffers, stocks soar. What\u2019s going on?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/08/27/even-as-chinas-economy-suffers-stocks-soar-whats-going-on",
-    "content": "The Shanghai composite is defying gravity",
-    "date": "2025-08-27T12:55:18",
     "category": "Magazines"
   }
 ]
