@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "69e262d5d39fc3dc2151a576",
+    "feed_name": "Wired",
+    "title": "The Internet\u2019s Favorite Lawyer Says We\u2019re Living Through \u2018Multiple Watergates per Week\u2019",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/",
+    "content": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he\u2019s warning that the sheer volume of Trump administration scandals is distorting reality itself.",
+    "date": "2026-04-21T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227105",
     "feed_name": "Texas Tribune",
     "title": "AI is changing how Texas universities teach computer science as job market slows",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/06/what-explains-indias-peculiar-stability",
     "content": "In a tricky neighbourhood the country remains calm",
     "date": "2025-11-06T11:01:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "90ed817b-75b7-485a-aba9-e0fc35779dc4",
-    "feed_name": "Economist",
-    "title": "Don\u2019t blame AI for your job woes",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/06/dont-blame-ai-for-your-job-woes",
-    "content": "The white-collar chill has more to do with the economy than with tech",
-    "date": "2025-11-06T10:51:00",
     "category": "Magazines"
   }
 ]
