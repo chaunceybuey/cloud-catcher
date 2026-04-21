@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "These Are the Very Best Scrambled Eggs",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
+    "content": "Kenji L\u00f3pez-Alt\u2019s extra-creamy scrambled eggs are the perfect dinner for busy, scrambled weeknights.",
+    "date": "2026-04-21T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html",
     "feed_name": "NYT (Emailed)",
     "title": "Older Americans Are Hoarding America\u2019s Potential",
@@ -117,6 +127,16 @@
     "link": "https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html",
     "content": "Older Americans need incentives to give up accumulated housing, jobs and wealth.",
     "date": "2026-04-21T14:44:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/opinion/measles-child-britain-vaccination.html",
+    "feed_name": "NYT (Shared)",
+    "title": "My Child Died of Measles",
+    "author": "Rebecca Archer",
+    "link": "https://www.nytimes.com/2026/04/21/opinion/measles-child-britain-vaccination.html",
+    "content": "A photo illustration based on a photograph of Renae Walker that was provided by the author, her mother, Rebecca Archer.",
+    "date": "2026-04-21T14:00:01",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking",
     "content": "The slump could spread across financial markets",
     "date": "2025-11-18T21:57:29",
-    "category": "Magazines"
-  },
-  {
-    "id": "d728c90b777701222e6e05f25c17c486",
-    "feed_name": "Outside",
-    "title": "At 41, Lindsey Vonn Is Redefining What an Athlete Can Be",
-    "author": "Sierra Shafer",
-    "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/lindsey-vonn-olympic-comeback/",
-    "content": "Freed from years of pain by a knee replacement\u2014she\u2019s back racing at 41, chasing Olympic glory in Cortina. Here\u2019s how one of the world\u2019s most dominant skiers is reclaiming what her legacy means beyond the podium.",
-    "date": "2025-11-18T03:30:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "6706b8b6-1232-4b2a-892a-07639f07b526",
-    "feed_name": "Economist",
-    "title": "Is this the end of the scorching gold rally?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/16/is-this-the-end-of-the-scorching-gold-rally",
-    "content": "As bullish stories get tested, investors should worry",
-    "date": "2025-11-16T15:15:18",
     "category": "Magazines"
   }
 ]
