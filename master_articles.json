@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227313",
+    "feed_name": "Texas Tribune",
+    "title": "Eva-Marie Ayala will lead the Tribune\u2019s education team into a new era",
+    "author": "Brandon Formby",
+    "link": "https://feeds.texastribune.org/link/16799/17323241/eva-marie-ayala-education-editor-texas-tribune",
+    "content": "Eva-Marie Ayala joins The Texas Tribune as its new education editor.",
+    "date": "2026-04-21T22:51:52",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo",
@@ -117,6 +127,16 @@
     "link": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
     "content": "A photograph released by the U.S. Army showing Afghans being processed at Camp As Sayliyah, in Qatar, in August 2021.",
     "date": "2026-04-21T21:36:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/us/politics/cherfilus-mccormick-florida.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Sheila Cherfilus-McCormick, a Florida Democrat, Resigns From Congress",
+    "author": "Annie Karni and Soumya Karlamangla",
+    "link": "https://www.nytimes.com/2026/04/21/us/politics/cherfilus-mccormick-florida.html",
+    "content": "Representative Sheila Cherfilus-McCormick wrote on social media that the House Ethics Committee had refused to give her lawyers time to prepare her defense",
+    "date": "2026-04-21T21:24:38",
     "category": "NYT"
   },
   {
@@ -19480,6 +19500,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=216962",
+    "feed_name": "Texas Tribune",
+    "title": "Texas can force schools to post Ten Commandments, federal appeals court rules",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17258411/texas-ten-commandments-5th-circuit-court",
+    "content": "The Ten Commandments in the foreground of the Texas Capitol, seen on June 30, 2025.",
+    "date": "2026-01-20T11:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "e1cb3c7f-75de-4db5-896f-338ed7cf4f10",
     "feed_name": "Economist",
     "title": "Donald Trump\u2019s Greenland tariffs are no great blow to Europe",
@@ -19967,36 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/12/04/american-sanctions-are-putting-russia-under-pressure",
     "content": "In time, though, its tankers will find new routes",
     "date": "2025-12-04T10:24:26",
-    "category": "Magazines"
-  },
-  {
-    "id": "b6653919-e356-4778-9c07-886f193b546f",
-    "feed_name": "Economist",
-    "title": "Stockholm is Europe\u2019s new capital of capital",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/03/stockholm-is-europes-new-capital-of-capital",
-    "content": "And with Sweden embarking on a borrowing spree, it is a bond trader\u2019s paradise",
-    "date": "2025-12-03T20:06:58",
-    "category": "Magazines"
-  },
-  {
-    "id": "abebb69e-8095-4890-b32c-0c3d5bf4e5e1",
-    "feed_name": "Economist",
-    "title": "Which Kevin Hassett would lead the Federal Reserve?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/03/which-kevin-hassett-would-lead-the-federal-reserve",
-    "content": "He was once a right-of-centre tax expert. He has become a partisan hack",
-    "date": "2025-12-03T19:26:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "0c8ba5b9-1b46-42e1-a271-eb69b60c3bda",
-    "feed_name": "Economist",
-    "title": "How to spot a bubble bursting",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/01/how-to-spot-a-bubble-bursting",
-    "content": "Forget valuations. Look out for search-engine hits and fund managers getting fired",
-    "date": "2025-12-01T19:49:24",
     "category": "Magazines"
   }
 ]
