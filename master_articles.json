@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227239",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi leaders weigh how to reduce customers\u2019 water use amid growing crisis",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17323003/texas-corpus-christi-water-crisis-curtailment-cuts",
+    "content": "Corpus Christi City Manager Peter Zanoni presents to the city council during a meeting on March 17, 2026.",
+    "date": "2026-04-21T15:24:22",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
     "feed_name": "Weeknight Dishes",
     "title": "These Are the Very Best Scrambled Eggs",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/19/americas-huge-mortgage-market-is-slowly-dying",
     "content": "Donald Trump\u2019s remedies threaten to inflame a housing crisis",
     "date": "2025-11-19T19:46:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "f656b66a-7e4e-49b1-aaa0-7c33e0da7e94",
-    "feed_name": "Economist",
-    "title": "Crypto got everything it wanted. Now it\u2019s sinking",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/18/crypto-got-everything-it-wanted-now-its-sinking",
-    "content": "The slump could spread across financial markets",
-    "date": "2025-11-18T21:57:29",
     "category": "Magazines"
   }
 ]
