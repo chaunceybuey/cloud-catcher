@@ -170,6 +170,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/opinion/trump-legacy-history-presidents.html",
+    "feed_name": "NYT (Shared)",
+    "title": "There Is a Contest Trump Is Winning",
+    "author": "Thomas B. Edsall",
+    "link": "https://www.nytimes.com/2026/04/21/opinion/trump-legacy-history-presidents.html",
+    "content": "\u201cTrump is among the most consequential presidents in U.S. history, and not in a good way.\u201d",
+    "date": "2026-04-21T09:03:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/sebastian-gorka-trump-counterterrorism-czar-iran-terrorism",
     "feed_name": "ProPublica",
     "title": "The Counterterrorism Czar Without a Counterterrorism Plan",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/12/in-defence-of-personal-finance",
     "content": "It may widen inequality. But it has many advantages",
     "date": "2025-11-12T20:38:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "a7e6c5f1-6246-4076-a3f7-0d4148afc0c2",
-    "feed_name": "Economist",
-    "title": "Old folk are seized by stockmarket mania",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/11/old-folk-are-seized-by-stockmarket-mania",
-    "content": "Investing in equities may make sense for individuals\u2014but it could also exacerbate a crash",
-    "date": "2025-11-11T19:04:37",
     "category": "Magazines"
   }
 ]
