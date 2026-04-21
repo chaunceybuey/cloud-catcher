@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227292",
+    "feed_name": "Texas Tribune",
+    "title": "James Talarico calls for federal gas tax pause to combat surging fuel prices",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17323169/james-talarico-federal-gas-tax-suspension-iran-war",
+    "content": "Texas Rep. James Talarico, D-Austin speaks at an event to introduce his Anti-Corruption platform on Thursday, Jan. 15, 2026 in Austin, TX. Talarico called for term limits and an end to congressional stock trading, along with other financial reforms in elections. His announcement was made across the street from his potential U.S. Senate opponent, Ken Paxton&#039;s office. Sergio Flores for The Texas Tribune",
+    "date": "2026-04-21T20:32:15",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=227272",
+    "feed_name": "Texas Tribune",
+    "title": "Testing finds toxic metals where Tesla lithium refinery discharges wastewater in South Texas",
+    "author": "By Arcelia Martin,\u00a0Inside Climate News",
+    "link": "https://feeds.texastribune.org/link/16799/17323159/texas-tesla-lithium-battery-plant-pollution-tceq-robstown-drainage",
+    "content": "A Texas Commission on Environmental Quality investigator tested wastewater from Tesla\u2019s Robstown lithium refinery on Feb. 12.",
+    "date": "2026-04-21T20:15:40",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227257",
     "feed_name": "Texas Tribune",
     "title": "Some Dallas County Republicans trying to revive precinct voting that created chaos in primary",
@@ -177,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html",
     "content": "Older Americans need incentives to give up accumulated housing, jobs and wealth.",
     "date": "2026-04-21T14:44:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A Year After U.S.A.I.D.\u2019s Death, Fired Workers Find Few Jobs and Much Loss",
+    "author": "Elisabeth Bumiller and Eileen Sullivan",
+    "link": "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html",
+    "content": "People have plowed through savings, cashed out retirement funds and moved in with relatives. Former U.S.A.I.D. workers estimate that less than half have found full-time work.",
+    "date": "2026-04-21T14:10:24",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/27/one-weird-trick-to-solve-the-affordability-crisis",
     "content": "If voters dislike big numbers, there is a purely nominal fix",
     "date": "2025-11-27T10:47:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "88a42c96-e9dc-40ad-bab1-420d0eee6faa",
-    "feed_name": "Economist",
-    "title": "How to short the bubbliest firms",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms",
-    "content": "Private markets present fearsome challenges",
-    "date": "2025-11-26T21:30:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "a31ec620-332d-412c-8937-fcab6caaef15",
-    "feed_name": "Economist",
-    "title": "Investors expect AI use to soar. That\u2019s not happening",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
-    "content": "Recent surveys point to flatlining business adoption",
-    "date": "2025-11-26T16:30:42",
-    "category": "Magazines"
-  },
-  {
-    "id": "313cd864-d12e-43fc-b9f7-6a4b2ecd51b8",
-    "feed_name": "Economist",
-    "title": "Why investors are increasingly fatalistic",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/23/why-investors-are-increasingly-fatalistic",
-    "content": "Everyone knows share prices have a long way to fall. Even so, getting out now might be a mistake",
-    "date": "2025-11-23T12:19:52",
     "category": "Magazines"
   }
 ]
