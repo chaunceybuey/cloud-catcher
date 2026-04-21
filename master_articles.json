@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Older Americans Are Hoarding America\u2019s Potential",
+    "author": "Samuel Moyn",
+    "link": "https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html",
+    "content": "Older Americans need incentives to give up accumulated housing, jobs and wealth.",
+    "date": "2026-04-21T14:44:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/18895-kmfa-midday-concert-series-alternative-improvisation-music-ensemble",
     "feed_name": "KMFA",
     "title": "KMFA Midday Concert Series: Alternative Improvisation Music Ensemble",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/16/is-this-the-end-of-the-scorching-gold-rally",
     "content": "As bullish stories get tested, investors should worry",
     "date": "2025-11-16T15:15:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "3a498139-2c26-407d-b0a6-31d26cbde288",
-    "feed_name": "Economist",
-    "title": "Tree murders and the economics of crime",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/13/tree-murders-and-the-economics-of-crime",
-    "content": "Rich people can\u2019t stop cutting down each other\u2019s woodland",
-    "date": "2025-11-13T11:47:10",
     "category": "Magazines"
   }
 ]
