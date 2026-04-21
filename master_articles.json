@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "94dffc00-cbba-4b30-a820-a7d3924a21f4",
+    "feed_name": "Economist",
+    "title": "Global energy markets are on the verge of a disaster",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/04/21/global-energy-markets-are-on-the-verge-of-a-disaster",
+    "content": "Scenarios now range from bad to awful",
+    "date": "2026-04-21T20:46:14",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227275",
     "feed_name": "Texas Tribune",
     "title": "Michael and Susan Dell become UT Austin\u2019s first $1 billion donors",
@@ -148,6 +158,16 @@
     "content": "A Texas Commission on Environmental Quality investigator tested wastewater from Tesla\u2019s Robstown lithium refinery on Feb. 12.",
     "date": "2026-04-21T20:15:40",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/business/economy/us-uae-financial-support.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Considers Financial Support for Oil-Rich U.A.E.",
+    "author": "Alan Rappeport",
+    "link": "https://www.nytimes.com/2026/04/21/business/economy/us-uae-financial-support.html",
+    "content": "President Trump visiting the United Arab Emirates last May.",
+    "date": "2026-04-21T20:02:31",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=227257",
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/30/why-worries-about-american-job-losses-are-overstated",
     "content": "Bosses, investors, policymakers\u2014all are fearful of a jobs-pocalypse",
     "date": "2025-11-30T15:27:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "7a829e67-7583-4125-af57-5f37123ba1d9",
-    "feed_name": "Economist",
-    "title": "Self-driving cars will transform urban economies",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/27/self-driving-cars-will-transform-urban-economies",
-    "content": "A robotaxi boom is coming. The impacts might be broader than you expect",
-    "date": "2025-11-27T11:41:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "afae694f-1e30-4c8a-ad6e-36d093af52fa",
-    "feed_name": "Economist",
-    "title": "China\u2019s property market is (somehow) worsening",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/27/chinas-property-market-is-somehow-worsening",
-    "content": "Government remedies are not up to the job",
-    "date": "2025-11-27T11:37:22",
     "category": "Magazines"
   }
 ]
