@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo",
+    "author": "Megha Rajagopalan, Eileen Sullivan and Zolan Kanno-Youngs",
+    "link": "https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html",
+    "content": "A photograph released by the U.S. Army showing Afghans being processed at Camp As Sayliyah, in Qatar, in August 2021.",
+    "date": "2026-04-21T21:36:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
     "feed_name": "Douthat",
     "title": "Does Israel Want to Be Saudi Arabia?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/12/01/how-to-spot-a-bubble-bursting",
     "content": "Forget valuations. Look out for search-engine hits and fund managers getting fired",
     "date": "2025-12-01T19:49:24",
-    "category": "Magazines"
-  },
-  {
-    "id": "f9d4ea3c-7599-47b4-8176-21435fe51f1a",
-    "feed_name": "Economist",
-    "title": "Why worries about American job losses are overstated",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/30/why-worries-about-american-job-losses-are-overstated",
-    "content": "Bosses, investors, policymakers\u2014all are fearful of a jobs-pocalypse",
-    "date": "2025-11-30T15:27:52",
     "category": "Magazines"
   }
 ]
