@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "b1be7026a20c52be5e0b22db6455f947",
+    "feed_name": "LRB",
+    "title": "\u2018Nayatt School Redux\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/april/nayatt-school-redux",
+    "content": "In Nayatt School, Spalding Gray played a \u2018pedantic schoolteacher\u2019 and the psychiatrist from The Cocktail Party, using a recording of its.\u00a0.\u00a0.",
+    "date": "2026-04-21T17:05:51",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227239",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi leaders weigh how to reduce customers\u2019 water use amid growing crisis",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/20/can-the-chinese-economy-match-arubas",
     "content": "Xi Jinping has lofty goals for 2035. But China faces a real problem",
     "date": "2025-11-20T11:24:05",
-    "category": "Magazines"
-  },
-  {
-    "id": "72b5785c-8e29-47aa-9d67-f905e70efbf0",
-    "feed_name": "Economist",
-    "title": "America\u2019s huge mortgage market is slowly dying",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/19/americas-huge-mortgage-market-is-slowly-dying",
-    "content": "Donald Trump\u2019s remedies threaten to inflame a housing crisis",
-    "date": "2025-11-19T19:46:56",
     "category": "Magazines"
   }
 ]
