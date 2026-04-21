@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227257",
+    "feed_name": "Texas Tribune",
+    "title": "Some Dallas County Republicans trying to revive precinct voting that created chaos in primary",
+    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17323139/dallas-county-primary-runoff-2026-voting-locations",
+    "content": "Voters line up and are turned away from the Oak Lawn Branch Library voting center on primary election day in Dallas on March 3, 2026.",
+    "date": "2026-04-21T19:26:09",
+    "category": "Texas"
+  },
+  {
+    "id": "25f6e526-5a16-4b54-b677-4af03725c2b4",
+    "feed_name": "Economist",
+    "title": "The stablecoin market has got too stable",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/04/21/the-stablecoin-market-has-got-too-stable",
+    "content": "Rapid growth in dollar-backed cryto has stalled",
+    "date": "2026-04-21T19:10:20",
+    "category": "Magazines"
+  },
+  {
     "id": "b1be7026a20c52be5e0b22db6455f947",
     "feed_name": "LRB",
     "title": "\u2018Nayatt School Redux\u2019",
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/20/visa-restrictions-are-bad-for-indians-but-maybe-not-for-india",
     "content": "Remittances may fall, but opportunities are opening up",
     "date": "2025-11-20T11:24:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "412da7ce-8326-4d25-908f-95c61e7d09f3",
-    "feed_name": "Economist",
-    "title": "Economists get cold feet about high minimum wages",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/20/economists-get-cold-feet-about-high-minimum-wages",
-    "content": "Governments are pushing the policy to its limits",
-    "date": "2025-11-20T11:24:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "e4f699fc-42d8-4f6d-87dc-f5adb0bb6707",
-    "feed_name": "Economist",
-    "title": "Can the Chinese economy match Aruba\u2019s?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/20/can-the-chinese-economy-match-arubas",
-    "content": "Xi Jinping has lofty goals for 2035. But China faces a real problem",
-    "date": "2025-11-20T11:24:05",
     "category": "Magazines"
   }
 ]
