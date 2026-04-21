@@ -480,6 +480,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/nyregion/new-york-chess-kids.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Day in the Life of New York City\u2019s Young Chess Stars",
+    "author": "Emily Belz and Sara Naomi Lewkowicz",
+    "link": "https://www.nytimes.com/2026/04/20/nyregion/new-york-chess-kids.html",
+    "content": "Ayden Spellman, 11, is one of the top young chess players in New York City.",
+    "date": "2026-04-20T15:20:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html",
     "feed_name": "NYT (Shared)",
     "title": "Why Gas Prices Go Up Fast and Take So Long to Fall",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/13/how-ai-is-breaking-cover-letters",
     "content": "And leading to lower pay",
     "date": "2025-11-13T11:03:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "dfa8fb17-dc54-4154-8b07-4dc0428f9c75",
-    "feed_name": "Economist",
-    "title": "In defence of personal finance",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/12/in-defence-of-personal-finance",
-    "content": "It may widen inequality. But it has many advantages",
-    "date": "2025-11-12T20:38:33",
     "category": "Magazines"
   }
 ]
