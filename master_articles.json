@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "c4d40a4a18e027c50009a2dc5565eafb",
+    "feed_name": "Compact",
+    "title": "The Russiagate Playbook Fails in Bulgaria",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-russiagate-playbook-fails-in-bulgaria/",
+    "content": "",
+    "date": "2026-04-21T11:10:11",
+    "category": "Magazines"
+  },
+  {
     "id": "69e262d5d39fc3dc2151a576",
     "feed_name": "Wired",
     "title": "The Internet\u2019s Favorite Lawyer Says We\u2019re Living Through \u2018Multiple Watergates per Week\u2019",
@@ -208,6 +218,16 @@
     "content": "Former Vice President Mike Pence speaks during Texas A&amp;M University\u2019s Civil Discourse Symposium at the Rudder Auditorium in College Station on April 20, 2026.",
     "date": "2026-04-21T02:32:16",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/us/politics/lori-chavez-deremer-labor-secretary-steps-down.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Lori Chavez-DeRemer, Trump\u2019s Labor Secretary, Steps Down Amid Internal Investigation",
+    "author": "Rebecca Davis O\u2019Brien",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/lori-chavez-deremer-labor-secretary-steps-down.html",
+    "content": "Labor Secretary Lori Chavez-DeRemer has been accused of having an affair with a member of her security team and using department resources for personal trips.",
+    "date": "2026-04-21T01:23:11",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/09/the-problem-with-americas-shutdown-economy",
     "content": "Gridlock in Washington has prevented official data releases. And unofficial ones disagree",
     "date": "2025-11-09T15:10:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=209789",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 drag show restrictions take effect after years of court challenges",
-    "author": "By Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17204694/texas-drag-show-ban-appeal",
-    "content": "Drag Queen Brigitte Bandit performs during a Fight The Trump Takeover Rally at the south side steps of the Capitol on Aug. 16, 2025.",
-    "date": "2025-11-06T21:44:07",
-    "category": "Texas"
-  },
-  {
-    "id": "c6c408fc-9488-41b2-a9c0-338da88574d0",
-    "feed_name": "Economist",
-    "title": "What explains India\u2019s peculiar stability?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/06/what-explains-indias-peculiar-stability",
-    "content": "In a tricky neighbourhood the country remains calm",
-    "date": "2025-11-06T11:01:03",
     "category": "Magazines"
   }
 ]
