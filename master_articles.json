@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/travel/treviso-italy-canal-fishing-little-venice-local-guide.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Street Fishing in Treviso, Italy: Exploring the Canals of \u2018Little Venice\u2019",
+    "author": "Paul Abercrombie and Matteo de Mayda",
+    "link": "https://www.nytimes.com/2026/04/21/travel/treviso-italy-canal-fishing-little-venice-local-guide.html",
+    "content": "For Damiano Molon, a guide in Treviso, Italy, sharing his hometown\u2019s fishing holes with visitors gives him a chance to do what he loves.",
+    "date": "2026-04-21T09:01:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/sebastian-gorka-trump-counterterrorism-czar-iran-terrorism",
     "feed_name": "ProPublica",
     "title": "The Counterterrorism Czar Without a Counterterrorism Plan",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/13/tree-murders-and-the-economics-of-crime",
     "content": "Rich people can\u2019t stop cutting down each other\u2019s woodland",
     "date": "2025-11-13T11:47:10",
-    "category": "Magazines"
-  },
-  {
-    "id": "ba85d8f8-97f1-49ab-a8a5-5eebe944c5ef",
-    "feed_name": "Economist",
-    "title": "How AI is breaking cover letters",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/13/how-ai-is-breaking-cover-letters",
-    "content": "And leading to lower pay",
-    "date": "2025-11-13T11:03:43",
     "category": "Magazines"
   }
 ]
