@@ -260,6 +260,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Touska, the Iranian-Flagged Ship Seized by U.S. Forces, Was Under Sanctions",
+    "author": "Eric Schmitt",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html",
+    "content": "The Strait of Hormuz off the coast of Musandam, Oman, last week.",
+    "date": "2026-04-20T21:59:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/20/opinion/military-child-care-cuts.html",
     "feed_name": "NYT (Shared)",
     "title": "You Can\u2019t Defend a Nation When Soldiers Don\u2019t Have Child Care",
@@ -327,6 +337,16 @@
     "link": "https://www.nytimes.com/2026/04/20/opinion/antitrust-jury-live-nation-amazon.html",
     "content": "Lina Khan and Doha Mekki on three court rulings that illustrate the power juries and local officials have to enforce antitrust laws.",
     "date": "2026-04-20T19:24:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/realestate/detroit-home-extension-courtyard-house.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "In Detroit, a Family Builds a Home \u2018Extension\u2019 \u2014 a 7-Minute Drive Away",
+    "author": "Diana Budds",
+    "link": "https://www.nytimes.com/2026/04/20/realestate/detroit-home-extension-courtyard-house.html",
+    "content": "Designed by Dash Marshall, this bedroom-free experimental courtyard house serves as an office, a place to entertain and a weekend retreat.",
+    "date": "2026-04-20T19:20:46",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/11/old-folk-are-seized-by-stockmarket-mania",
     "content": "Investing in equities may make sense for individuals\u2014but it could also exacerbate a crash",
     "date": "2025-11-11T19:04:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "5e07e28c-b362-4559-89a7-7f2d090646bf",
-    "feed_name": "Economist",
-    "title": "Recessions have become ultra-rare. That is storing up trouble",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/10/recessions-have-become-ultra-rare-that-is-storing-up-trouble",
-    "content": "Continuous growth can make economies fat and slow",
-    "date": "2025-11-10T19:33:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "fb5001f5-42b6-4679-a908-c67d5705efc5",
-    "feed_name": "Economist",
-    "title": "The problem with America\u2019s shutdown economy",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/09/the-problem-with-americas-shutdown-economy",
-    "content": "Gridlock in Washington has prevented official data releases. And unofficial ones disagree",
-    "date": "2025-11-09T15:10:30",
     "category": "Magazines"
   }
 ]
