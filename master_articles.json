@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Kash Patel Sues The Atlantic for $250 Million Over Article Claiming Excessive Drinking",
+    "author": "Katie Robertson",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html",
+    "content": "Kash Patel, the F.B.I. director, sued The Atlantic.",
+    "date": "2026-04-20T18:22:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/19/us/michigan-gas-clerk-saves-teen.html",
     "feed_name": "NYT (Shared)",
     "title": "Michigan Gas Clerk Helps Save Kidnapped Teen Girl Who Mouthed \u2018Help\u2019",
@@ -297,6 +307,16 @@
     "link": "https://www.nytimes.com/2026/04/20/opinion/movies-runtime-long.html",
     "content": "\u201cProject Hail Mary\u201d is just the latest overlong blockbuster.",
     "date": "2026-04-20T16:11:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Ferrari of Espresso Machines Is Fueling a Hot Resale Market",
+    "author": "Priya Krishna",
+    "link": "https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html",
+    "content": "La Marzocco espresso machines have become a status symbol for coffee shops across the United States.",
+    "date": "2026-04-20T15:41:19",
     "category": "NYT"
   },
   {
@@ -758,6 +778,16 @@
     "content": "A longitudinal study found that loneliness is more closely linked to lapses in immediate and delayed recall than to the overall speed of cognitive decline.",
     "date": "2026-04-20T09:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/es/2026/04/20/espanol/opinion/trump-guerra.html",
+    "feed_name": "NYT (Shared)",
+    "title": "El gobierno de Trump est\u00e1 malinterpretando la historia",
+    "author": "Stewart Patrick",
+    "link": "https://www.nytimes.com/es/2026/04/20/espanol/opinion/trump-guerra.html",
+    "content": "Como en tiempos de Tuc\u00eddides, la postura b\u00e9lica del gobierno de Estados Unidos promete beneficios a corto plazo pero desastre a largo plazo.",
+    "date": "2026-04-20T07:22:07",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/30/the-new-globalisation-paradox",
     "content": "In the age of Donald Trump, national autonomy requires deeper integration. Brazil shows why",
     "date": "2025-10-30T11:20:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "12cbd8e0-86cb-4a9f-ad21-552c43775a0c",
-    "feed_name": "Economist",
-    "title": "India\u2019s IPO boom is good news for its economy",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/29/indias-ipo-boom-is-good-news-for-its-economy",
-    "content": "Stockmarkets appear to be fuelling investment",
-    "date": "2025-10-29T21:13:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "cbe6cc34-76c1-4442-942c-90bb2a945592",
-    "feed_name": "Economist",
-    "title": "A letter to investors from the White House Opportunities Fund",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/29/a-letter-to-investors-from-the-white-house-opportunities-fund",
-    "content": "How the shift to state capitalism is panning out for America LLC",
-    "date": "2025-10-29T19:44:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "d3abde3e-a831-4274-a1d2-5d337c858cd8",
-    "feed_name": "Economist",
-    "title": "The end of the rip-off economy",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy",
-    "content": "From finance and medicine to used cars, artificial intelligence is radically improving market efficiency",
-    "date": "2025-10-27T16:58:08",
     "category": "Magazines"
   }
 ]
