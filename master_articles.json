@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Singer D4vd Charged With Murder of Celeste Rivas Hernandez",
+    "author": "Matt Stevens and Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html",
+    "content": "The singer D4vd, 21, created the anthem for Fortnite. The severely decomposed remains of Celeste Rivas Hernandez were discovered in his car\u2019s trunk in September.",
+    "date": "2026-04-21T00:29:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/20/arts/television/patrick-muldoon-dead.html",
     "feed_name": "NYT (Shared)",
     "title": "Patrick Muldoon, Actor on \u2018Days of Our Lives\u2019 and \u2018Melrose Place,\u2019 Dies at 57",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/05/universal-child-care-can-harm-children",
     "content": "Its growing popularity in America is a concern",
     "date": "2025-11-05T20:27:38",
-    "category": "Magazines"
-  },
-  {
-    "id": "7578c326-7cf7-46b5-b4c0-f357669095f1",
-    "feed_name": "Economist",
-    "title": "Investors are telling Britain to cheer up a bit",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/05/investors-are-telling-britain-to-cheer-up-a-bit",
-    "content": "The country\u2019s economic problems are real, but its assets are doing surprisingly well",
-    "date": "2025-11-05T19:58:37",
     "category": "Magazines"
   }
 ]
