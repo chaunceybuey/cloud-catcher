@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
+    "feed_name": "Douthat",
+    "title": "Does Israel Want to Be Saudi Arabia?",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html",
+    "content": "Americans hold Israel to a higher standard than their other allies. That\u2019s a good thing.",
+    "date": "2026-04-21T21:05:40",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=227275",
+    "feed_name": "Texas Tribune",
+    "title": "Michael and Susan Dell become UT Austin\u2019s first $1 billion donors",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17323180/texas-austin-dell-michael-susan-billion-research-medical-university",
+    "content": "UT Board of Regents Chair Kevin Eltife, left, joins Michael and Susan Dell on stage to celebrate a $750 million donation for a new Dell Medical Center in Northwest Austin on April 21, 2026.",
+    "date": "2026-04-21T20:45:32",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227292",
     "feed_name": "Texas Tribune",
     "title": "James Talarico calls for federal gas tax pause to combat surging fuel prices",
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/27/chinas-property-market-is-somehow-worsening",
     "content": "Government remedies are not up to the job",
     "date": "2025-11-27T11:37:22",
-    "category": "Magazines"
-  },
-  {
-    "id": "c86e8bbe-5cec-4e62-bac4-8edc1d6fd26c",
-    "feed_name": "Economist",
-    "title": "Narendra Modi plans to free up India\u2019s giant labour force",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/27/narendra-modi-plans-to-free-up-indias-giant-labour-force",
-    "content": "Socialist employment restrictions will be swept away",
-    "date": "2025-11-27T11:14:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "cb001d3a-83e1-41d7-8608-af2ea31d4c68",
-    "feed_name": "Economist",
-    "title": "One weird trick to solve the affordability crisis",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/27/one-weird-trick-to-solve-the-affordability-crisis",
-    "content": "If voters dislike big numbers, there is a purely nominal fix",
-    "date": "2025-11-27T10:47:18",
     "category": "Magazines"
   }
 ]
