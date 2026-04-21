@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227187",
+    "feed_name": "Texas Tribune",
+    "title": "Protesters challenge premise of Texas A&M civil discourse symposium amid new restrictions",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17322631/texas-am-civil-discourse-symposium-mike-pence",
+    "content": "Former Vice President Mike Pence speaks during Texas A&amp;M University\u2019s Civil Discourse Symposium at the Rudder Auditorium in College Station on April 20, 2026.",
+    "date": "2026-04-21T02:32:16",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
     "feed_name": "NYT (Shared)",
     "title": "Tim Cook Will Step Down as Apple C.E.O.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/30/investors-will-help-jamaica-recover-from-hurricane-melissa",
     "content": "The country is in line for a pay-out from catastrophe bonds",
     "date": "2025-10-30T11:22:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "bb3b80ac-3c1f-4e75-aeae-7fcafb429652",
-    "feed_name": "Economist",
-    "title": "The new globalisation paradox",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/30/the-new-globalisation-paradox",
-    "content": "In the age of Donald Trump, national autonomy requires deeper integration. Brazil shows why",
-    "date": "2025-10-30T11:20:51",
     "category": "Magazines"
   }
 ]
