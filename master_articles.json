@@ -130,6 +130,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/dining/wagyu-beef.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "\u2018Wagyu\u2019 Used to Guarantee Quality Beef. What Are You Paying for Today?",
+    "author": "Tejal Rao",
+    "link": "https://www.nytimes.com/2026/04/21/dining/wagyu-beef.html",
+    "content": "Wagyu Butcher, a restaurant in Torrance, Calif., uses a mix of Wagyu, slicing it all for quick cooking.",
+    "date": "2026-04-21T18:30:34",
+    "category": "NYT"
+  },
+  {
     "id": "b1be7026a20c52be5e0b22db6455f947",
     "feed_name": "LRB",
     "title": "\u2018Nayatt School Redux\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/23/why-investors-are-increasingly-fatalistic",
     "content": "Everyone knows share prices have a long way to fall. Even so, getting out now might be a mistake",
     "date": "2025-11-23T12:19:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "7163409d-c337-486d-b52f-e3864c3bc5a2",
-    "feed_name": "Economist",
-    "title": "Visa restrictions are bad for Indians\u2014but maybe not for India",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/20/visa-restrictions-are-bad-for-indians-but-maybe-not-for-india",
-    "content": "Remittances may fall, but opportunities are opening up",
-    "date": "2025-11-20T11:24:54",
     "category": "Magazines"
   }
 ]
