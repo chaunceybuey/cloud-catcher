@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/opinion/military-child-care-cuts.html",
+    "feed_name": "NYT (Shared)",
+    "title": "You Can\u2019t Defend a Nation When Soldiers Don\u2019t Have Child Care",
+    "author": "Lisa Levenstein",
+    "link": "https://www.nytimes.com/2026/04/20/opinion/military-child-care-cuts.html",
+    "content": "Trump wants to pay for the military, not child care. History shows that the armed services are at their best only when soldiers\u2019 kids are cared for.",
+    "date": "2026-04-20T21:36:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/20/opinion/trump-economy-jobs-mergers.html",
     "feed_name": "NYT (Shared)",
     "title": "The Economic Cost of Donald Trump\u2019s Constant Chaos",
@@ -767,6 +777,16 @@
     "link": "https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html",
     "content": "The new Title X guidance from the Trump administration mentions contraception only once.",
     "date": "2026-04-20T05:00:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/19/us/politics/us-military-strike-boat-strike-caribbean.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Military Strikes a Boat in the Caribbean, Killing 3",
+    "author": "Eric Schmitt",
+    "link": "https://www.nytimes.com/2026/04/19/us/politics/us-military-strike-boat-strike-caribbean.html",
+    "content": "Gen. Francis L. Donovan of the Marine Corps, the head of the Southern Command, ordered the strike in the Caribbean Sea on Sunday.",
+    "date": "2026-04-20T03:02:28",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy",
     "content": "From finance and medicine to used cars, artificial intelligence is radically improving market efficiency",
     "date": "2025-10-27T16:58:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "30303608fad998137be1e738e24d94dc",
-    "feed_name": "Outside",
-    "title": "To Hold His Breath for 24 Minutes, a Freediver Learned to Turn Off His Brain",
-    "author": "Sean Williams",
-    "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/budimir-sobat-breath-hold/",
-    "content": "After his daughter's diagnosis, Budimir \u0160obat gave up drinking and devoted himself to her care. Years later, he found a new obsession: holding his breath longer than anyone in history.",
-    "date": "2025-10-27T03:46:02",
-    "category": "Magazines"
-  },
-  {
-    "id": "6bf91e57-61ab-44f6-81cd-e1b69fdf6bcb",
-    "feed_name": "Economist",
-    "title": "China\u2019s secret stockpiles have been a great success\u2014so far",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/26/chinas-secret-stockpiles-have-been-a-great-success-so-far",
-    "content": "Xi Jinping is desperate for Trump-proof access to food, fuels and metals",
-    "date": "2025-10-26T12:28:31",
     "category": "Magazines"
   }
 ]
