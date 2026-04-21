@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Canadian Tourist Is Killed in Shooting at Mexico\u2019s Pyramids",
+    "author": "Emiliano Rodr\u00edguez Mega and Cyntia Barrera D\u00edaz",
+    "link": "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html",
+    "content": "Police officers at the Pyramid of the Moon at the Teotihuac\u00e1n pyramids in Mexico after a deadly shooting on Monday.",
+    "date": "2026-04-21T03:58:28",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/well/live/dry-needling-benefits-safety.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "What Is Dry Needling? And Does It Work?",
+    "author": "Andrea Javor",
+    "link": "https://www.nytimes.com/2026/04/20/well/live/dry-needling-benefits-safety.html",
+    "content": "Having tiny needles poked into a painful muscle knot is unnerving. But can it help?",
+    "date": "2026-04-21T03:10:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227187",
     "feed_name": "Texas Tribune",
     "title": "Protesters challenge premise of Texas A&M civil discourse symposium amid new restrictions",
@@ -128,6 +148,16 @@
     "content": "Former Vice President Mike Pence speaks during Texas A&amp;M University\u2019s Civil Discourse Symposium at the Rudder Auditorium in College Station on April 20, 2026.",
     "date": "2026-04-21T02:32:16",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/arts/television/patrick-muldoon-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Patrick Muldoon, Actor on \u2018Days of Our Lives\u2019 and \u2018Melrose Place,\u2019 Dies at 57",
+    "author": "Johnny Diaz",
+    "link": "https://www.nytimes.com/2026/04/20/arts/television/patrick-muldoon-dead.html",
+    "content": "Patrick Muldoon in 2024 at the Toronto International Film Festival.",
+    "date": "2026-04-20T22:44:59",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/11/04/how-donald-trump-can-dodge-a-supreme-court-tariff-block",
     "content": "No matter its ruling, the president has back-up powers",
     "date": "2025-11-04T15:17:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "fee6339b-3dec-46a8-a75e-5f00757c8889",
-    "feed_name": "Economist",
-    "title": "The mystery of China\u2019s slumping investment",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/03/the-mystery-of-chinas-slumping-investment",
-    "content": "Its leaders don\u2019t seem concerned. Should they be?",
-    "date": "2025-11-03T19:08:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "13fad10f-1658-4b23-ae1b-9a73a0ed648a",
-    "feed_name": "Economist",
-    "title": "Why Wall Street won\u2019t see the next crash coming",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/11/02/why-wall-street-wont-see-the-next-crash-coming",
-    "content": "Even the best traders struggle to predict sudden jumps in volatility",
-    "date": "2025-11-02T11:46:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "19ef3b6b-f5d4-4328-b0ea-4dc5654cb299",
-    "feed_name": "Economist",
-    "title": "Investors will help Jamaica recover from Hurricane Melissa",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/10/30/investors-will-help-jamaica-recover-from-hurricane-melissa",
-    "content": "The country is in line for a pay-out from catastrophe bonds",
-    "date": "2025-10-30T11:22:35",
     "category": "Magazines"
   }
 ]
