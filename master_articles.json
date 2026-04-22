@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/business/pancreas-cancer-experimental-drugs.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Two Drugs Stir Hope for Treatment of Deadly Pancreatic Cancer",
+    "author": "Rebecca Robbins and Gina Kolata",
+    "link": "https://www.nytimes.com/2026/04/21/business/pancreas-cancer-experimental-drugs.html",
+    "content": "An animated image showing the human body highlighting the pancreas.",
+    "date": "2026-04-22T03:48:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html",
     "feed_name": "NYT (Shared)",
     "title": "Justice Dept. Charges Prominent Civil Rights Group With Financial Crimes",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/01/11/pessimism-is-the-worlds-main-economic-problem",
     "content": "Gloomy expectations are starting to matter more than the data",
     "date": "2026-01-11T17:41:22",
-    "category": "Magazines"
-  },
-  {
-    "id": "20922fbd-3ca3-40d0-8d46-a35f04b3cb63",
-    "feed_name": "Economist",
-    "title": "What \u201cPluribus\u201d reveals about economics",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/08/what-pluribus-reveals-about-economics",
-    "content": "A hit Apple TV show offers useful lessons",
-    "date": "2026-01-08T11:56:32",
     "category": "Magazines"
   }
 ]
