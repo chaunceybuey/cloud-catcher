@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "69d4ff57cb9e23f493c78304",
+    "feed_name": "Wired (Science)",
+    "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+    "content": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
+    "date": "2026-04-22T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227332",
     "feed_name": "Texas Tribune",
     "title": "Houston to vote on changes to ICE policy. Civil rights groups say the amendments would gut it.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/",
     "content": "How two big names in mainstream disaster preparedness helped sell Americans on fear, anxiety, and a new generator.",
     "date": "2026-01-08T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "7418399b-2f86-4ba2-b1da-d01e44207ac8",
-    "feed_name": "Economist",
-    "title": "Vietnam\u2019s growth is fast\u2014but fragile",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/08/vietnams-growth-is-fast-but-fragile",
-    "content": "The economy is unduly reliant on a handful of conglomerates",
-    "date": "2026-01-08T10:30:05",
     "category": "Magazines"
   }
 ]
