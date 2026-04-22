@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html",
+    "feed_name": "NYT (Shared)",
+    "title": "In Virginia Redistricting Win, Democrats Play Hardball to Thwart Trump",
+    "author": "Kellen Browning",
+    "link": "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html",
+    "content": "Signs in support of the Virginia redistricting referendum at a polling location at Nottingham Elementary School in Arlington, Va., on Tuesday.",
+    "date": "2026-04-22T12:47:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/22/arts/music/dave-mason-dead.html",
     "feed_name": "NYT (Shared)",
     "title": "Dave Mason, Songwriter Who Co-Founded Traffic, Dies at 79",
@@ -19988,15 +19998,5 @@
     "content": "Documenting ICE is dangerous. This man wants you to do it anyway.",
     "date": "2026-01-16T10:04:25",
     "category": "Uncategorized"
-  },
-  {
-    "id": "e73b46f3-2e2b-43cd-b9a5-de88d1032939",
-    "feed_name": "Economist",
-    "title": "The economics of regime change",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/15/the-economics-of-regime-change",
-    "content": "Lessons from history for Venezuela and Iran",
-    "date": "2026-01-15T10:28:46",
-    "category": "Magazines"
   }
 ]
