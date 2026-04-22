@@ -130,6 +130,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/opinion/trump-crypto-pardons-corruption.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Corrupts, and Absolute Trump Corrupts Absolutely",
+    "author": "Jamelle Bouie",
+    "link": "https://www.nytimes.com/2026/04/22/opinion/trump-crypto-pardons-corruption.html",
+    "content": "The president is one of a kind.",
+    "date": "2026-04-22T13:05:58",
+    "category": "NYT"
+  },
+  {
     "id": "2229a9d3af0ea7ab3e1de3b41444a324",
     "feed_name": "Compact",
     "title": "Heinrich Heine Answered the Jewish Question",
@@ -230,6 +240,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Virginia Passes Gerrymandered Map to Help Democrats in Midterms: 4 Takeaways",
+    "author": "Reid J. Epstein",
+    "link": "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html",
+    "content": "National party leaders were heavily invested in Virginia\u2019s referendum, and tens of millions of dollars flowed in.",
+    "date": "2026-04-22T06:31:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/22/arts/music/mason-dave-dead.html",
     "feed_name": "NYT (Shared)",
     "title": "Dave Mason, Songwriter Who Co-Founded Traffic, Dies at 79",
@@ -247,6 +267,16 @@
     "link": "https://www.nytimes.com/2026/04/21/business/pancreas-cancer-experimental-drugs.html",
     "content": "An animated image showing the human body highlighting the pancreas.",
     "date": "2026-04-22T03:48:01",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What Was the 2015 Iran Nuclear Deal?",
+    "author": "Michael Crowley",
+    "link": "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html",
+    "content": "Negotiators from the United States, Iran and European countries meeting to discuss a nuclear deal in Vienna in 2015.",
+    "date": "2026-04-22T01:05:36",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/01/14/donald-trumps-crusade-against-usury-reaches-wall-street",
     "content": "His fight against high interest rates could get messy",
     "date": "2026-01-14T22:09:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "c04895f6-cd6a-44dc-8cd6-36f1683063ba",
-    "feed_name": "Economist",
-    "title": "Is passive investment inflating a stockmarket bubble?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/14/is-passive-investment-inflating-a-stockmarket-bubble",
-    "content": "A widely circulated working paper suggests so",
-    "date": "2026-01-14T21:02:41",
-    "category": "Magazines"
-  },
-  {
-    "id": "faa1f0aa-968a-475b-b07f-cca781a9bfbb",
-    "feed_name": "Economist",
-    "title": "It\u2019s not just the Fed. Politics looms over central banks everywhere",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/14/its-not-just-the-fed-politics-looms-over-central-banks-everywhere",
-    "content": "But can the public stomach higher inflation?",
-    "date": "2026-01-14T18:19:02",
-    "category": "Magazines"
-  },
-  {
-    "id": "695c6de51ee067be8f015d5b",
-    "feed_name": "Wired",
-    "title": "How AI Companies Got Caught Up in US Military Efforts",
-    "author": "Nick Srnicek",
-    "link": "https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/",
-    "content": "Two years ago, companies like Meta and OpenAI were united against military use of their tools. Now all of that has changed.",
-    "date": "2026-01-14T12:00:00",
     "category": "Magazines"
   }
 ]
