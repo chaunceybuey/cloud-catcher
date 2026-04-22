@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/arts/music/dave-mason-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Dave Mason, Songwriter Who Co-Founded Traffic, Dies at 79",
+    "author": "Jim Farber",
+    "link": "https://www.nytimes.com/2026/04/22/arts/music/dave-mason-dead.html",
+    "content": "Dave Mason performing in Chicago in 1980.",
+    "date": "2026-04-22T11:46:11",
+    "category": "NYT"
+  },
+  {
     "id": "2229a9d3af0ea7ab3e1de3b41444a324",
     "feed_name": "Compact",
     "title": "Heinrich Heine Answered the Jewish Question",
@@ -277,6 +287,16 @@
     "link": "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html",
     "content": "Negotiators from the United States, Iran and European countries meeting to discuss a nuclear deal in Vienna in 2015.",
     "date": "2026-04-22T01:05:36",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Federal Appeals Court Upholds Texas Ten Commandments Law",
+    "author": "Pooja Salhotra",
+    "link": "https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html",
+    "content": "A Ten Commandments poster in an English classroom at Fossil Ridge High School in Fort Worth.",
+    "date": "2026-04-22T01:04:25",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/01/15/the-economics-of-regime-change",
     "content": "Lessons from history for Venezuela and Iran",
     "date": "2026-01-15T10:28:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "b8489c4b-95ab-4973-8e39-629f511a0ace",
-    "feed_name": "Economist",
-    "title": "Jerome Powell punches back",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/14/jerome-powell-punches-back",
-    "content": "The administration\u2019s latest attack on America\u2019s central bank has not gone well",
-    "date": "2026-01-14T22:18:38",
-    "category": "Magazines"
-  },
-  {
-    "id": "c790f862-268d-46ea-92fb-de233495477b",
-    "feed_name": "Economist",
-    "title": "Donald Trump\u2019s crusade against usury reaches Wall Street",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/14/donald-trumps-crusade-against-usury-reaches-wall-street",
-    "content": "His fight against high interest rates could get messy",
-    "date": "2026-01-14T22:09:39",
     "category": "Magazines"
   }
 ]
