@@ -160,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/arts/design/lacma-david-geffen-galleries.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Inside LACMA\u2019s Eye-Popping New Home, How Do You Find the Art?",
+    "author": "Holland Cotter and Jennelle Fong",
+    "link": "https://www.nytimes.com/2026/04/22/arts/design/lacma-david-geffen-galleries.html",
+    "content": "Our critic calls the David Geffen Galleries \u201ca beacon of glam with brains.\u201d As a space to show art, it has problems. The Latino art is a revelation (if you can navigate the maze).",
+    "date": "2026-04-22T16:19:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19587-austin-film-society-indie-meme-festival",
     "feed_name": "KMFA",
     "title": "Austin Film Society: Indie Meme Festival",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/01/20/denmark-braces-for-donald-trumps-greenland-tariffs",
     "content": "The economy is well prepared, but more exposed than it used to be",
     "date": "2026-01-20T18:25:26",
-    "category": "Magazines"
-  },
-  {
-    "id": "695d92bf6fc6e2d6635bf9b0",
-    "feed_name": "Wired",
-    "title": "China\u2019s Renewable Energy Revolution Is a Huge Mess That Might Save the World",
-    "author": "Jeremy Wallace",
-    "link": "https://www.wired.com/story/china-renewable-energy-revolution/",
-    "content": "A global onslaught of cheap Chinese green power is upending everything in its path. No one is ready for its repercussions.",
-    "date": "2026-01-20T11:00:00",
     "category": "Magazines"
   }
 ]
