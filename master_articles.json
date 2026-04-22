@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.theatlantic.com/politics/2026/04/abdul-el-sayed-michigan-race/686882/",
+    "feed_name": "Chait",
+    "title": "How Democrats Can Lose Michigan, Again",
+    "author": "",
+    "link": "https://www.theatlantic.com/politics/2026/04/abdul-el-sayed-michigan-race/686882/",
+    "content": "What Abdul El-Sayed doesn\u2019t get about Trump\nDelivered by PolitePaul service",
+    "date": "2026-04-22T13:19:12",
+    "category": "Uncategorized"
+  },
+  {
     "id": "2229a9d3af0ea7ab3e1de3b41444a324",
     "feed_name": "Compact",
     "title": "Heinrich Heine Answered the Jewish Question",
@@ -188,6 +198,26 @@
     "content": "<p>The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.</p>",
     "date": "2026-04-22T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "4 Medications That May Increase Dementia Risk",
+    "author": "Dana G. Smith",
+    "link": "https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html",
+    "content": "Experts have flagged several over-the-counter and prescription medications.",
+    "date": "2026-04-22T09:00:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/opinion/graham-platner-forever-war-trump.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Graham Platner Went to Hell and Back. He Has a Simple Message for Democrats.",
+    "author": "Ben Rhodes",
+    "link": "https://www.nytimes.com/2026/04/22/opinion/graham-platner-forever-war-trump.html",
+    "content": "Graham Platner",
+    "date": "2026-04-22T09:00:41",
+    "category": "NYT"
   },
   {
     "id": "https://www.propublica.org/article/3d-printer-cairo-illinois-housing",
@@ -19967,36 +19997,6 @@
     "link": "https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/",
     "content": "Two years ago, companies like Meta and OpenAI were united against military use of their tools. Now all of that has changed.",
     "date": "2026-01-14T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "e7f77714ea187022510cc41b8fbd6fbf",
-    "feed_name": "Outside",
-    "title": "At Minnesota\u2019s Coldest Ice Fishing Derby, You Don\u2019t Want to Fall in",
-    "author": "Stephanie Pearson",
-    "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/minnesota-ice-fishing-derby/",
-    "content": "Outdoor recreation in Minnesota isn\u2019t for the faint of heart. We spent a day at an ice fishing competition in the Land of 10,000 Lakes, where Mother Nature calls the shots, the fabric of community is thicker than denim, and tenacity is everything.",
-    "date": "2026-01-14T09:00:24",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/13/dining/steakhouse-inspired-sheet-pan-gnocchi-with-mushrooms-and-spinach.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Sheet-Pan Gnocchi With Mushrooms and Spinach and More Fast Dinners for Cold Nights",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/01/13/dining/steakhouse-inspired-sheet-pan-gnocchi-with-mushrooms-and-spinach.html",
-    "content": "Fast dinners for cold nights (and some longer cooks for slow days).",
-    "date": "2026-01-13T16:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "2a5690cb-014b-411e-b059-7690a8eee16d",
-    "feed_name": "Economist",
-    "title": "The Trump administration threatens the Fed with a criminal cudgel",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/12/jerome-powell-says-donald-trump-has-launched-a-criminal-investigation-against-the-fed",
-    "content": "The president denies all knowledge. A bizarre fight could get nasty",
-    "date": "2026-01-12T04:34:13",
     "category": "Magazines"
   }
 ]
