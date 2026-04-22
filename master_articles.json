@@ -120,6 +120,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/us/politics/fbi-times-reporter.html",
+    "feed_name": "NYT (Shared)",
+    "title": "F.B.I. Said to Have Investigated Times Reporter After Article on Patel\u2019s Girlfriend",
+    "author": "Michael S. Schmidt",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/fbi-times-reporter.html",
+    "content": "Kash Patel, the F.B.I. director, during a House hearing last month. A New York Times reporter wrote about how he used bureau personnel to provide his girlfriend with government security and transportation.",
+    "date": "2026-04-22T21:26:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227482",
     "feed_name": "Texas Tribune",
     "title": "Texas Republican candidate suspended by Kalshi for betting on his own election",
@@ -677,6 +687,16 @@
     "link": "https://www.nytimes.com/2026/04/21/opinion/russia-drones-putin-ukraine-war.html",
     "content": "A Russian kamikaze drone in Kyiv, Ukraine, last week.",
     "date": "2026-04-21T18:18:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/well/fall-prevention.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How Do I Prevent Falls at Home?",
+    "author": "Louisa Kamps",
+    "link": "https://www.nytimes.com/2026/04/21/well/fall-prevention.html",
+    "content": "Dangerous trips and slips can happen to anyone, but they can often be averted by taking a few common-sense steps.",
+    "date": "2026-04-21T17:32:43",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Quick and cozy weeknight meals to help you stick to (or revive) your healthy eating goals.",
     "date": "2026-01-21T16:58:39",
     "category": "NYT"
-  },
-  {
-    "id": "696815792e8186519254af3f",
-    "feed_name": "Wired",
-    "title": "\u2018I\u2019m Witnessing a Lot of Emptiness\u2019: How ICE Uprooted Normal Life in Minneapolis",
-    "author": "Lina Misitzis, Katie Thornton",
-    "link": "https://www.wired.com/story/how-ice-uprooted-normal-life-in-minneapolis/",
-    "content": "WIRED talks to a postal worker, a teacher, two US citizens detained by federal agents, and six more Minnesota residents about life in an occupied American city.",
-    "date": "2026-01-21T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "58e2b0de-2684-4260-9300-9416df6ae873",
-    "feed_name": "Economist",
-    "title": "Denmark braces for Donald Trump\u2019s Greenland tariffs",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/20/denmark-braces-for-donald-trumps-greenland-tariffs",
-    "content": "The economy is well prepared, but more exposed than it used to be",
-    "date": "2026-01-20T18:25:26",
-    "category": "Magazines"
   }
 ]
