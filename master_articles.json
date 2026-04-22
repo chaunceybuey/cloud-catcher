@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "69e8f9e066ef7baae78bc50e",
+    "feed_name": "Wired (Science)",
+    "title": "Cocaine-Fueled Wild Salmon Swam Twice as Far as Sober Ones",
+    "author": "Marta Musso",
+    "link": "https://www.wired.com/story/cocaine-fueled-wild-salmon-swam-twice-as-far-as-sober-ones/",
+    "content": "After scientists exposed wild fish to cocaine and a cocaine metabolite, they observed that as in the lab, fish on cocaine do not act like normal fish.",
+    "date": "2026-04-22T21:34:03",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227482",
     "feed_name": "Texas Tribune",
     "title": "Texas Republican candidate suspended by Kalshi for betting on his own election",
@@ -118,6 +128,16 @@
     "content": "Ezekiel Enriquez, formerly a candidate for Texas&#039; 21st Congressional District.",
     "date": "2026-04-22T20:30:47",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/business/lufthansa-cancels-flights-iran-jet-fuel.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Lufthansa Cuts 20,000 Flights to Save Fuel Amid Iran War Price Surge",
+    "author": "Eshe Nelson",
+    "link": "https://www.nytimes.com/2026/04/22/business/lufthansa-cancels-flights-iran-jet-fuel.html",
+    "content": "Lufthansa said it would cancel short-haul flights, focusing on unprofitable routes from Frankfurt and Munich.",
+    "date": "2026-04-22T19:38:30",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/22/business/trump-spirit-airlines-loan.html",
@@ -19976,26 +19996,6 @@
     "author": "Jeremy Wallace",
     "link": "https://www.wired.com/story/china-renewable-energy-revolution/",
     "content": "A global onslaught of cheap Chinese green power is upending everything in its path. No one is ready for its repercussions.",
-    "date": "2026-01-20T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "692dd2c954bc86901c669564",
-    "feed_name": "Wired",
-    "title": "Thousands of Companies Are Driving China\u2019s AI Boom. A Government Registry Tracks Them All",
-    "author": "Yi-Ling Liu",
-    "link": "https://www.wired.com/story/china-ai-boom-algorithm-registry/",
-    "content": "How the Cyberspace Administration of China inadvertently made a guide to the country\u2019s homegrown AI revolution.",
-    "date": "2026-01-20T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "692dd707f6f72d479485558f",
-    "feed_name": "Wired",
-    "title": "You\u2019ve Never Heard of China\u2019s Greatest Sci-Fi Novel",
-    "author": "Afra Wang",
-    "link": "https://www.wired.com/story/china-sci-fi-morning-star-lingao/",
-    "content": "Millions of words. Thousands of authors. The Morning Star of Lingao is barely known outside China\u2014but it contains the secret to the country\u2019s modernization and malaise.",
     "date": "2026-01-20T11:00:00",
     "category": "Magazines"
   }
