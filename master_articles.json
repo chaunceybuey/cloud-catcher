@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Justice Dept. Charges Prominent Civil Rights Group With Financial Crimes",
+    "author": "Devlin Barrett",
+    "link": "https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html",
+    "content": "The Southern Poverty Law Center said that it was being investigated by the Justice Department over its past use of paid informants to infiltrate extremist groups.",
+    "date": "2026-04-22T00:06:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227313",
     "feed_name": "Texas Tribune",
     "title": "Eva-Marie Ayala will lead the Tribune\u2019s education team into a new era",
@@ -260,6 +270,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/world/europe/turkey-kurdish-poet-comak.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Imprisoned for 30 Years, He Wooed Her With Love Poems",
+    "author": "Silvana Paternostro",
+    "link": "https://www.nytimes.com/2026/04/21/world/europe/turkey-kurdish-poet-comak.html",
+    "content": "The poet Ilhan Sami \u00c7omak, right, and his partner, Ipek Ozel, left, at home in Istanbul.",
+    "date": "2026-04-21T18:57:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html",
     "feed_name": "NYT (Emailed)",
     "title": "A.I. Is Eliminating Jobs on Wall Street",
@@ -270,6 +290,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/20/arts/john-keats-letters-fanny-brawne-stolen.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Stolen Letters That John Keats Sent to His Beloved Are Found",
+    "author": "Tom Mashberg",
+    "link": "https://www.nytimes.com/2026/04/20/arts/john-keats-letters-fanny-brawne-stolen.html",
+    "content": "The dozens of letters that John Keats wrote to Fanny Brawne between 1819 and 1820 have long been considered literary treasures.",
+    "date": "2026-04-21T18:33:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/21/dining/wagyu-beef.html",
     "feed_name": "NYT (Emailed)",
     "title": "\u2018Wagyu\u2019 Used to Guarantee Quality Beef. What Are You Paying for Today?",
@@ -277,6 +307,16 @@
     "link": "https://www.nytimes.com/2026/04/21/dining/wagyu-beef.html",
     "content": "Wagyu Butcher, a restaurant in Torrance, Calif., uses a mix of Wagyu, slicing it all for quick cooking.",
     "date": "2026-04-21T18:30:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon",
+    "author": "David M. Halbfinger",
+    "link": "https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html",
+    "content": "A statue of the crucifixion of Christ has been replaced after one soldier photographed another swinging what looked like a sledgehammer at its head.",
+    "date": "2026-04-21T18:24:12",
     "category": "NYT"
   },
   {
@@ -347,6 +387,16 @@
     "link": "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html",
     "content": "People have plowed through savings, cashed out retirement funds and moved in with relatives. Former U.S.A.I.D. workers estimate that less than half have found full-time work.",
     "date": "2026-04-21T14:10:24",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/arts/television/this-is-a-gardening-show-zach-galifianakis.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "On \u2018This Is a Gardening Show,\u2019 Zach Galifianakis Plays Dirty",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/04/21/arts/television/this-is-a-gardening-show-zach-galifianakis.html",
+    "content": "The actor and comedian digs into one of his greatest passions in this new Netflix series.",
+    "date": "2026-04-21T14:00:44",
     "category": "NYT"
   },
   {
@@ -787,6 +837,16 @@
     "link": "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html",
     "content": "Oil prices climbed in recent weeks to the highest level since 2022. Gas station owners don\u2019t like price spikes any more than their customers do.",
     "date": "2026-04-20T15:19:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/science/cocaine-salmon-sweden.html",
+    "feed_name": "NYT (Shared)",
+    "title": "These Salmon Got High on Cocaine. That Wasn\u2019t the Craziest Part.",
+    "author": "Annie Roth",
+    "link": "https://www.nytimes.com/2026/04/20/science/cocaine-salmon-sweden.html",
+    "content": "Scientists in Sweden made an unexpected discovery when they exposed the fish to the illegal drug as well as another substance.",
+    "date": "2026-04-20T15:00:21",
     "category": "NYT"
   },
   {
@@ -19937,66 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/12/18/watch-who-youre-calling-childless",
     "content": "Women in America are having as many babies over their lifetimes as they did two decades ago",
     "date": "2025-12-18T10:42:36",
-    "category": "Magazines"
-  },
-  {
-    "id": "5290db32-c5de-4fc8-9242-eb87cfda26a1",
-    "feed_name": "Economist",
-    "title": "Meet the American investors rushing into Congo",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/18/meet-the-american-investors-rushing-into-congo",
-    "content": "They are taking on war, corruption and China",
-    "date": "2025-12-18T10:40:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "0830b226-8b8b-47c8-9110-db87001aceb5",
-    "feed_name": "Economist",
-    "title": "This Christmas, raise a glass to concentrated market returns",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/17/this-christmas-raise-a-glass-to-concentrated-market-returns",
-    "content": "A surprisingly large share of companies lag far behind their former greatness",
-    "date": "2025-12-17T19:14:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "ee161c9d-14a7-41c6-a737-8c9484defcf1",
-    "feed_name": "Economist",
-    "title": "Where America\u2019s most prominent short-sellers are placing their bets",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/16/where-americas-most-prominent-short-sellers-are-placing-their-bets",
-    "content": "We interview three financial sleuths",
-    "date": "2025-12-16T18:44:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "4f803540ee000a0869276b29a3200609",
-    "feed_name": "Outside",
-    "title": "200 Degrees and Sweaty Strangers. Welcome to Sauna Fest.",
-    "author": "Amelia Arvesen",
-    "link": "https://www.outsideonline.com/health/wellness/seattle-sauna-festival/",
-    "content": "An honest account of my questionable journey into the hot-and-cold chaos of the Seattle Sauna Festival.",
-    "date": "2025-12-16T03:42:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "f73ec8e8-6608-4776-a13e-901960555439",
-    "feed_name": "Economist",
-    "title": "Crypto\u2019s real threat to banks",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/15/cryptos-real-threat-to-banks",
-    "content": "The industry is supplanting Wall Street\u2019s privileged position on the American right",
-    "date": "2025-12-15T19:44:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "9e6921e0-35cc-4c52-8edf-08363c13f3ff",
-    "feed_name": "Economist",
-    "title": "Germany has a lawyer problem",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/11/germany-has-a-lawyer-problem",
-    "content": "Its endless bureaucratic rules trap would-be reformers",
-    "date": "2025-12-11T11:14:59",
     "category": "Magazines"
   }
 ]
