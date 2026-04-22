@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trust Trump? Iran\u2019s Doubts Shadow Peace Talks.",
+    "author": "Michael Crowley",
+    "link": "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html",
+    "content": "Vice President JD Vance during peace talks with Iran in Islamabad earlier this month.",
+    "date": "2026-04-21T20:50:43",
+    "category": "NYT"
+  },
+  {
     "id": "94dffc00-cbba-4b30-a820-a7d3924a21f4",
     "feed_name": "Economist",
     "title": "Global energy markets are on the verge of a disaster",
@@ -367,6 +377,16 @@
     "link": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
     "content": "Kenji L\u00f3pez-Alt\u2019s extra-creamy scrambled eggs are the perfect dinner for busy, scrambled weeknights.",
     "date": "2026-04-21T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
+    "author": "Douglas Martin",
+    "link": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
+    "content": "Desmond Morris in 1956 with the chimpanzees Congo and Charlie on the show \u201cZoo Time,\u201d a Granada Television series he hosted about animals at the London Zoo.",
+    "date": "2026-04-21T14:56:39",
     "category": "NYT"
   },
   {
@@ -577,6 +597,16 @@
     "link": "https://www.nytimes.com/2026/04/20/us/politics/lori-chavez-deremer-labor-secretary-steps-down.html",
     "content": "Labor Secretary Lori Chavez-DeRemer has been accused of having an affair with a member of her security team and using department resources for personal trips.",
     "date": "2026-04-21T01:23:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How Eric Swalwell Implosion Has Changed the California Governor\u2019s Race",
+    "author": "Laurel Rosenhall",
+    "link": "https://www.nytimes.com/2026/04/20/us/california-governor-democrat-betty-yee.html",
+    "content": "Xavier Becerra, the former California attorney general, has had a resurgence after the sudden departure of Eric Swalwell from the governor\u2019s race.",
+    "date": "2026-04-21T01:22:15",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/ice-rink/",
     "content": "A full day inside a suburban rink revealed how one place can hold ambition, grief, faith, and escape\u2014sometimes all at once.",
     "date": "2025-12-22T07:02:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "bac6c8d7-b006-409c-8dd2-5d7cb9a446a0",
-    "feed_name": "Economist",
-    "title": "The five biggest market developments of 2025",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/21/the-five-biggest-market-developments-of-2025",
-    "content": "Looking back on a rollercoaster year for investors",
-    "date": "2025-12-21T13:18:27",
-    "category": "Magazines"
-  },
-  {
-    "id": "77b564cf-9e9c-4892-92b1-1586ca5920ec",
-    "feed_name": "Economist",
-    "title": "How to interpret the pain at the edge of America\u2019s labour market",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/21/how-to-interpret-the-pain-at-the-edge-of-americas-labour-market",
-    "content": "In the past it has foretold wider weakness. This time may be different",
-    "date": "2025-12-21T13:03:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "784a952c-6dd0-4b54-9496-aa8d89839173",
-    "feed_name": "Economist",
-    "title": "Watch who you\u2019re calling childless",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/18/watch-who-youre-calling-childless",
-    "content": "Women in America are having as many babies over their lifetimes as they did two decades ago",
-    "date": "2025-12-18T10:42:36",
     "category": "Magazines"
   }
 ]
