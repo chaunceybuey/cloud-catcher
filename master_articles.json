@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Sightings of Meteors Surge, and Scientists Aren\u2019t Sure Why",
+    "author": "Robin George Andrews",
+    "link": "https://www.nytimes.com/2026/04/21/science/march-fireballs-meteors-astronomy.html",
+    "content": "The frequency of fireballs in our planet\u2019s skies seemed to grow in recent months. NASA and other meteor experts can\u2019t agree on what explains it.",
+    "date": "2026-04-21T21:34:28",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/21/us/politics/cherfilus-mccormick-florida.html",
     "feed_name": "NYT (Shared)",
     "title": "Sheila Cherfilus-McCormick, a Florida Democrat, Resigns From Congress",
@@ -547,6 +557,16 @@
     "link": "https://www.nytimes.com/2026/04/21/science/marine-snails-mexico-indigenous-textiles.html",
     "content": "Scientists are debating the classification of threatened mollusks that an Indigenous community relies on for their way of life.",
     "date": "2026-04-21T07:00:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+    "author": "Javier C. Hern\u00e1ndez",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+    "content": "A Japanese marine unit takes part in exercises in Tokunoshima, Japan, in 2023.",
+    "date": "2026-04-21T06:03:47",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/12/30/forget-affordability-europe-has-an-availability-crisis",
     "content": "Tight regulation is largely to blame",
     "date": "2025-12-30T11:42:29",
-    "category": "Magazines"
-  },
-  {
-    "id": "460c8842-e324-4094-af66-6600e7edb1b2",
-    "feed_name": "Economist",
-    "title": "Why fewer Americans are giving than before",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/23/why-fewer-americans-are-giving-than-before",
-    "content": "The decline of philanthropy is not just about Donald Trump",
-    "date": "2025-12-23T11:45:05",
-    "category": "Magazines"
-  },
-  {
-    "id": "40766b353b52e2edec22d9f37d6d6c35",
-    "feed_name": "Outside",
-    "title": "What I Learned After Spending 14 Hours at a Suburban Ice Rink",
-    "author": "Blair Braverman",
-    "link": "https://www.outsideonline.com/outdoor-adventure/snow-sports/ice-rink/",
-    "content": "A full day inside a suburban rink revealed how one place can hold ambition, grief, faith, and escape\u2014sometimes all at once.",
-    "date": "2025-12-22T07:02:12",
     "category": "Magazines"
   }
 ]
