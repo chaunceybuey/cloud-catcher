@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/business/trump-spirit-airlines-loan.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Nears Loan Deal to Rescue Spirit Airlines",
+    "author": "Lauren Hirsch and Niraj Chokshi",
+    "link": "https://www.nytimes.com/2026/04/22/business/trump-spirit-airlines-loan.html",
+    "content": "Spirit Airlines has not reported a profit since 2019 and is currently in its second bankruptcy.",
+    "date": "2026-04-22T19:30:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
     "feed_name": "NYT (Shared)",
     "title": "To Iran, Trump Blinked First by Extending the Cease-Fire",
@@ -19988,15 +19998,5 @@
     "content": "Gen Z women in China are all in on digital companionship\u2014even setting up dates with real-world versions of their AI boyfriends.",
     "date": "2026-01-20T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=216962",
-    "feed_name": "Texas Tribune",
-    "title": "Texas can force schools to post Ten Commandments, federal appeals court rules",
-    "author": "Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17258411/texas-ten-commandments-5th-circuit-court",
-    "content": "The Ten Commandments in the foreground of the Texas Capitol, seen on June 30, 2025.",
-    "date": "2026-01-20T11:00:00",
-    "category": "Texas"
   }
 ]
