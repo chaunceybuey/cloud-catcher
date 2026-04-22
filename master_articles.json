@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
+    "feed_name": "NYT (Shared)",
+    "title": "To Iran, Trump Blinked First by Extending the Cease-Fire",
+    "author": "Erika Solomon",
+    "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
+    "content": "An Iran expert said the major impediment to negotiations restarting was the same as it was before talks \u2014 both countries see themselves as having the advantage.",
+    "date": "2026-04-22T16:21:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19587-austin-film-society-indie-meme-festival",
     "feed_name": "KMFA",
     "title": "Austin Film Society: Indie Meme Festival",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe",
     "content": "An escalating trade war would be another matter, however",
     "date": "2026-01-19T21:31:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "a9678ded-2ca7-4f9a-ab85-2e90203ffb24",
-    "feed_name": "Economist",
-    "title": "China hits its GDP target\u2014in a weird way",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/19/china-hits-its-gdp-target-in-a-weird-way",
-    "content": "Strong exports make up for weak investment",
-    "date": "2026-01-19T15:02:41",
     "category": "Magazines"
   }
 ]
