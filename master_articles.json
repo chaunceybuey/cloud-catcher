@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227482",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Republican candidate suspended by Kalshi for betting on his own election",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17323797/texas-candidate-kalshi-suspended-betting-congress-election",
+    "content": "Ezekiel Enriquez, formerly a candidate for Texas&#039; 21st Congressional District.",
+    "date": "2026-04-22T20:30:47",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/22/business/trump-spirit-airlines-loan.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Administration Nears Loan Deal to Rescue Spirit Airlines",
@@ -268,6 +278,16 @@
     "content": "<p>The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.</p>",
     "date": "2026-04-22T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Dark Skies and Dark Energy Converge in West Texas",
+    "author": "Katrina Miller and Emily Elconin",
+    "link": "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html",
+    "content": "In the Big Bend region, a portal to the early universe is enabled by the largest dark-sky reserve on Earth.",
+    "date": "2026-04-22T09:02:01",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html",
@@ -19976,26 +19996,6 @@
     "author": "Afra Wang",
     "link": "https://www.wired.com/story/china-sci-fi-morning-star-lingao/",
     "content": "Millions of words. Thousands of authors. The Morning Star of Lingao is barely known outside China\u2014but it contains the secret to the country\u2019s modernization and malaise.",
-    "date": "2026-01-20T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6969308f0c83d3fa3f25aafb",
-    "feed_name": "Wired",
-    "title": "Your First Humanoid Robot Coworker Will Probably Be Chinese",
-    "author": "Will Knight",
-    "link": "https://www.wired.com/story/china-humanoid-robot-coworkers/",
-    "content": "Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong?",
-    "date": "2026-01-20T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "695d905a622a5fef5397a0ad",
-    "feed_name": "Wired",
-    "title": "China\u2019s AI Boyfriend Business Is Taking On a Life of Its Own",
-    "author": "Johanna Costigan",
-    "link": "https://www.wired.com/story/china-ai-boyfriends/",
-    "content": "Gen Z women in China are all in on digital companionship\u2014even setting up dates with real-world versions of their AI boyfriends.",
     "date": "2026-01-20T11:00:00",
     "category": "Magazines"
   }
