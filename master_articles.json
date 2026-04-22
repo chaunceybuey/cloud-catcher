@@ -250,6 +250,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/us/politics/tucker-carlson-trump-apology.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Tucker Carlson Says He Is \u2018Tormented\u2019 by His Past Support for Trump",
+    "author": "Tim Balk",
+    "link": "https://www.nytimes.com/2026/04/21/us/politics/tucker-carlson-trump-apology.html",
+    "content": "Tucker Carlson, the former Fox News host, has feuded with President Trump and his allies for weeks over the war with Iran.",
+    "date": "2026-04-21T22:54:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227313",
     "feed_name": "Texas Tribune",
     "title": "Eva-Marie Ayala will lead the Tribune\u2019s education team into a new era",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/01/12/jerome-powell-says-donald-trump-has-launched-a-criminal-investigation-against-the-fed",
     "content": "The president denies all knowledge. A bizarre fight could get nasty",
     "date": "2026-01-12T04:34:13",
-    "category": "Magazines"
-  },
-  {
-    "id": "f4f71bd9-2770-47c4-8772-a6635c37811a",
-    "feed_name": "Economist",
-    "title": "Pessimism is the world\u2019s main economic problem",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/11/pessimism-is-the-worlds-main-economic-problem",
-    "content": "Gloomy expectations are starting to matter more than the data",
-    "date": "2026-01-11T17:41:22",
     "category": "Magazines"
   }
 ]
