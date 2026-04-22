@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A $440,000 Breast Reduction: How Doctors Cashed In on the No Surprises Act and Arbitration",
+    "author": "Sarah Kliff and Margot Sanger-Katz",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html",
+    "content": "A law meant to end surprise medical billing accidentally created a multibillion-dollar industry that is making doctors richer.",
+    "date": "2026-04-22T13:24:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/politics/2026/04/abdul-el-sayed-michigan-race/686882/",
     "feed_name": "Chait",
     "title": "How Democrats Can Lose Michigan, Again",
@@ -427,6 +437,16 @@
     "link": "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html",
     "content": "Vice President JD Vance during peace talks with Iran in Islamabad earlier this month.",
     "date": "2026-04-21T20:50:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/us/politics/justice-dept-john-brennan-subpoenas.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Abruptly Rescinds Subpoenas in John Brennan Inquiry",
+    "author": "Charlie Savage",
+    "link": "https://www.nytimes.com/2026/04/21/us/politics/justice-dept-john-brennan-subpoenas.html",
+    "content": "John O. Brennan testifying to Congress in 2017.",
+    "date": "2026-04-21T20:49:23",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Strong exports make up for weak investment",
     "date": "2026-01-19T15:02:41",
     "category": "Magazines"
-  },
-  {
-    "id": "82e1f3e2-90ee-4407-8797-72db7571f03a",
-    "feed_name": "Economist",
-    "title": "Why America\u2019s bond market just keeps winning",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/18/why-americas-bond-market-just-keeps-winning",
-    "content": "Vigilantes have shrugged off ballooning debt and attacks on the Fed",
-    "date": "2026-01-18T11:18:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/01/16/opinion/ice-minneapolis-protest.html",
-    "feed_name": "Interesting Times",
-    "title": "Minneapolis Feels \u2018Like Being in a Civil War\u2019",
-    "author": "Ross Douthat and Victoria Chamberlin",
-    "link": "https://www.nytimes.com/2026/01/16/opinion/ice-minneapolis-protest.html",
-    "content": "Documenting ICE is dangerous. This man wants you to do it anyway.",
-    "date": "2026-01-16T10:04:25",
-    "category": "Uncategorized"
   }
 ]
