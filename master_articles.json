@@ -130,6 +130,26 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Proposed Lifetime Smoking Ban to Become Law in Britain",
+    "author": "Ephrat Livni",
+    "link": "https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html",
+    "content": "The proposed lifetime smoking ban will apply in England, Scotland, Wales and Northern Ireland.",
+    "date": "2026-04-21T23:38:28",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/21/nyregion/sullivan-cromwell-ai-hallucination.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A.I. \u2018Hallucinations\u2019 Created Errors in Court Filing, Top Law Firm Says",
+    "author": "Santul Nerkar",
+    "link": "https://www.nytimes.com/2026/04/21/nyregion/sullivan-cromwell-ai-hallucination.html",
+    "content": "Lawyers for Sullivan & Cromwell apologized for submitting a court filing that had fake citations created by artificial intelligence.",
+    "date": "2026-04-21T23:32:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227313",
     "feed_name": "Texas Tribune",
     "title": "Eva-Marie Ayala will lead the Tribune\u2019s education team into a new era",
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2025/12/30/redbird-a-small-firm-doing-big-media-deals",
     "content": "Its wingspan stretches from Hollywood to AC Milan",
     "date": "2025-12-30T13:48:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "bc8b1034-d448-458c-a311-3658fabc80e0",
-    "feed_name": "Economist",
-    "title": "America\u2019s economy looks set to accelerate",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/30/americas-economy-looks-set-to-accelerate",
-    "content": "A monetary-fiscal loosening is coming",
-    "date": "2025-12-30T13:48:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "b94f48ee-aad8-4103-9a94-95917f098f51",
-    "feed_name": "Economist",
-    "title": "Forget affordability. Europe has an availability crisis",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2025/12/30/forget-affordability-europe-has-an-availability-crisis",
-    "content": "Tight regulation is largely to blame",
-    "date": "2025-12-30T11:42:29",
     "category": "Magazines"
   }
 ]
