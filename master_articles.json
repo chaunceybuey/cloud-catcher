@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Lost Tribe in India Makes Its Exodus to Israel",
+    "author": "Hari Kumar, Alex Travelli and Atul Loke",
+    "link": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html",
+    "content": "People from B\u2019nei Menashe community pray at a synagogue in the kibbutz near Churachandpur, in India\u2019s Manipur state, in March.",
+    "date": "2026-04-23T14:30:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/05/14/londons-brutal-underground-london-falling-radden-keefe/",
     "feed_name": "NYRB",
     "title": "London\u2019s Brutal Underground",
@@ -19988,15 +19998,5 @@
     "content": "Nancy Pelosi reportedly plans to endorse JFK\u2019s grandson for Congress. Why?",
     "date": "2026-02-10T14:09:28",
     "category": "Uncategorized"
-  },
-  {
-    "id": "21667d15-4d47-4a35-87e9-5b9733c1e888",
-    "feed_name": "Economist",
-    "title": "How to hedge a bubble, AI edition",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/08/how-to-hedge-a-bubble-ai-edition",
-    "content": "Protecting your portfolio from a crash looks harder than ever",
-    "date": "2026-02-08T14:23:50",
-    "category": "Magazines"
   }
 ]
