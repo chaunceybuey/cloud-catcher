@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227629",
+    "feed_name": "Texas Tribune",
+    "title": "ICE deported man who says he\u2019s a U.S. citizen after traffic stop in Central Texas",
+    "author": "Uriel J. Garc\u00eda and Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17324409/texas-united-states-citizen-deported-ice-detention-brian-morales",
+    "content": "Brian Jos\u00e9 Morales Garcia has a birth certificate showing he was born in Denver. Homeland Security accused him of entering the country illegally and deported him to Mexico.",
+    "date": "2026-04-23T21:57:42",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227618",
     "feed_name": "Texas Tribune",
     "title": "TribCast: Greg Abbott battles cities over working with ICE",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/02/19/did-americas-war-on-poverty-fail",
     "content": "Deprivation has fallen dramatically\u2014but not necessarily because of the welfare state",
     "date": "2026-02-19T10:52:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "7a6acb17-5cef-461f-9c9a-dafbc797a10d",
-    "feed_name": "Economist",
-    "title": "Prediction markets are rife with insider betting",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/19/prediction-markets-are-rife-with-insider-betting",
-    "content": "That does not mean regulators should stamp it out",
-    "date": "2026-02-19T10:33:12",
     "category": "Magazines"
   }
 ]
