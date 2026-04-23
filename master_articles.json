@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227571",
+    "feed_name": "Texas Tribune",
+    "title": "The number of child care deserts in Texas is growing",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17324315/texas-child-care-deserts",
+    "content": "Texas families increasingly lack access to child care options, a new report found.",
+    "date": "2026-04-23T18:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "b6dd027c9bace4bebd4c991ec6febae2",
     "feed_name": "LRB",
     "title": "Britain\u2019s Nuclear Subservience",
@@ -118,6 +128,16 @@
     "content": "The UK\u2019s nuclear weapons capability is dependent on the US. Not only does Britain rent its Trident missiles from America, but the British-built.\u00a0.\u00a0.",
     "date": "2026-04-23T17:24:34",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Michael Tilson Thomas, Celebrated American Conductor, Dies at 81",
+    "author": "Anthony Tommasini",
+    "link": "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html",
+    "content": "Michael Tilson Thomas conducting at Carnegie Hall in 2009.",
+    "date": "2026-04-23T17:16:48",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=227580",
@@ -197,6 +217,16 @@
     "link": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html",
     "content": "People from B\u2019nei Menashe community pray at a synagogue in the kibbutz near Churachandpur, in India\u2019s Manipur state, in March.",
     "date": "2026-04-23T14:30:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Generals Who Are Now Running Iran",
+    "author": "Farnaz Fassihi",
+    "link": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
+    "content": "Iranians gathered last month in Tehran with flags and posters to show their support for Mojtaba Khamenei, the new supreme leader.",
+    "date": "2026-04-23T13:55:37",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "",
     "date": "2026-02-17T16:00:03",
     "category": "NYT"
-  },
-  {
-    "id": "eda9ec2e-f3a1-4158-b265-e80d34bfb8d3",
-    "feed_name": "Economist",
-    "title": "Donald Trump\u2019s schemes to juice the economy",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/15/donald-trumps-schemes-to-juice-the-economy",
-    "content": "Watch out for sneaky stimulus",
-    "date": "2026-02-15T18:08:19",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html",
-    "feed_name": "Douthat",
-    "title": "How Fast Can A.I. Change the Workplace?",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html",
-    "content": "Every great innovation has led to fears of mass unemployment.",
-    "date": "2026-02-14T12:39:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html",
-    "feed_name": "Interesting Times",
-    "title": "Anthropic\u2019s Chief on A.I.: \u2018We Don\u2019t Know if the Models Are Conscious\u2019",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html",
-    "content": "Dario Amodei shares his utopian \u2014 and dystopian \u2014 predictions in the near term for artificial intelligence.",
-    "date": "2026-02-12T19:45:56",
-    "category": "Uncategorized"
   }
 ]
