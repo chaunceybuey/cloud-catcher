@@ -230,6 +230,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Senate Adopts GOP Budget, Laying the Groundwork to Fund ICE and Reopen DHS",
+    "author": "Michael Gold and Megan Mineiro",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html",
+    "content": "The Senate in an overnight session took steps toward adopting a budget plan that would lead to a $70 billion increase in immigration enforcement.",
+    "date": "2026-04-23T13:37:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/05/14/londons-brutal-underground-london-falling-radden-keefe/",
     "feed_name": "NYRB",
     "title": "London\u2019s Brutal Underground",
@@ -19988,15 +19998,5 @@
     "content": "Get ready for a new wave of securities, hedges and collateral",
     "date": "2026-02-17T19:16:31",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/17/dining/budget-friendly-and-downright-delicious.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Budget-Friendly and Downright Delicious",
-    "author": "Margaux Laskey",
-    "link": "https://www.nytimes.com/2026/02/17/dining/budget-friendly-and-downright-delicious.html",
-    "content": "",
-    "date": "2026-02-17T16:00:03",
-    "category": "NYT"
   }
 ]
