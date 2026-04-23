@@ -450,6 +450,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/us/california-hospice-fraud.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "California Is Rife With Hospice Fraud. But Whose Fault Is It?",
+    "author": "Soumya Karlamangla",
+    "link": "https://www.nytimes.com/2026/04/22/us/california-hospice-fraud.html",
+    "content": "Dr. Mehmet Oz, the former talk show host who now runs the Centers for Medicare and Medicaid Services, has been an outspoken emissary of the Trump administration\u2019s campaign against California.",
+    "date": "2026-04-22T09:01:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html",
     "feed_name": "NYT (Emailed)",
     "title": "4 Medications That May Increase Dementia Risk",
@@ -19988,15 +19998,5 @@
     "content": "The president\u2019s retreat in Minneapolis is a stinging defeat for the national conservatives.",
     "date": "2026-01-27T17:28:12",
     "category": "Uncategorized"
-  },
-  {
-    "id": "983d55eb-8202-4f3c-8f33-327f432c8e15",
-    "feed_name": "Economist",
-    "title": "What is driving gold\u2019s relentless rally?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/27/what-is-driving-golds-relentless-rally",
-    "content": "The ancient asset is attracting new investors",
-    "date": "2026-01-27T12:15:35",
-    "category": "Magazines"
   }
 ]
