@@ -280,6 +280,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/us/politics/cdc-covid-vaccine-study.html",
+    "feed_name": "NYT (Shared)",
+    "title": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines",
+    "author": "Apoorva Mandavilli",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/cdc-covid-vaccine-study.html",
+    "content": "A Health Department official said Dr. Jay Bhattacharya had met with the study\u2019s authors but that they had not wanted to change its design.",
+    "date": "2026-04-22T15:08:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19587-austin-film-society-indie-meme-festival",
     "feed_name": "KMFA",
     "title": "Austin Film Society: Indie Meme Festival",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/01/27/what-is-driving-golds-relentless-rally",
     "content": "The ancient asset is attracting new investors",
     "date": "2026-01-27T12:15:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "692dd1e8f984cdd1142a0e78",
-    "feed_name": "Wired",
-    "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
-    "author": "Andy Greenberg",
-    "link": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
-    "content": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors\u2019 crimes\u2014and then escape. This is his story.",
-    "date": "2026-01-27T11:00:00",
     "category": "Magazines"
   }
 ]
