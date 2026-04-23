@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration",
+    "author": "Greg Jaffe, Eric Schmitt and Helene Cooper",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
+    "content": "Secretary of the Navy John Phelan championed a major investment in new ships including a \u201cTrump-class\u201d battleship, but his superiors were dissatisfied with his handling of the initiative.",
+    "date": "2026-04-23T05:02:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/22/us/chemical-emergency-west-virginia-deaths.html",
     "feed_name": "NYT (Shared)",
     "title": "2 Dead and More Injured After \u2018Chemical Release\u2019 at West Virginia Plant",
@@ -130,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/opinion/shoplifting-political-protest-microlooting-whole-foods.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "\u2018The Rich Don\u2019t Play by the Rules. So Why Should I?\u2019",
+    "author": "Nadja Spiegelman, Hasan Piker, Jia Tolentino and Vishakha Darbha",
+    "link": "https://www.nytimes.com/2026/04/22/opinion/shoplifting-political-protest-microlooting-whole-foods.html",
+    "content": "Why petty theft might be the new political protest.",
+    "date": "2026-04-22T21:46:31",
+    "category": "NYT"
+  },
+  {
     "id": "69e8f9e066ef7baae78bc50e",
     "feed_name": "Wired (Science)",
     "title": "Cocaine-Fueled Wild Salmon Swam Twice as Far as Sober Ones",
@@ -147,6 +167,16 @@
     "link": "https://www.nytimes.com/2026/04/22/us/politics/fbi-times-reporter.html",
     "content": "Kash Patel, the F.B.I. director, during a House hearing last month. A New York Times reporter wrote about how he used bureau personnel to provide his girlfriend with government security and transportation.",
     "date": "2026-04-22T21:26:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/opinion/yale-has-come-up-with-a-surefire-way-to-make-a-terrible-situation-worse.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Yale Has Come Up With a Surefire Way to Make a Terrible Situation Worse",
+    "author": "Michael S. Roth",
+    "link": "https://www.nytimes.com/2026/04/22/opinion/yale-has-come-up-with-a-surefire-way-to-make-a-terrible-situation-worse.html",
+    "content": "Don\u2019t retreat from the world; engage it.",
+    "date": "2026-04-22T21:00:06",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "It isn\u2019t just Japan: other currencies also look cheap",
     "date": "2026-01-29T10:00:43",
     "category": "Magazines"
-  },
-  {
-    "id": "76e94a39-c2c6-4ec7-b2ca-189469d5268f",
-    "feed_name": "Economist",
-    "title": "Just how debased is the dollar?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/28/just-how-debased-is-the-dollar",
-    "content": "Not nearly as much as it could be",
-    "date": "2026-01-28T23:18:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "3e983fab-455f-42ce-b356-e774e7d949df",
-    "feed_name": "Economist",
-    "title": "The West and Ukraine are capsizing Russia\u2019s shadow fleet",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/01/27/the-west-and-ukraine-are-capsizing-russias-shadow-fleet",
-    "content": "And sinking its oil revenues in the process",
-    "date": "2026-01-27T20:23:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/01/trump-retreats-minneapolis-natcons/685776/",
-    "feed_name": "Chait",
-    "title": "Donald Trump Can Be Stopped",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/01/trump-retreats-minneapolis-natcons/685776/",
-    "content": "The president\u2019s retreat in Minneapolis is a stinging defeat for the national conservatives.",
-    "date": "2026-01-27T17:28:12",
-    "category": "Uncategorized"
   }
 ]
