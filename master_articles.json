@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227580",
+    "feed_name": "Texas Tribune",
+    "title": "Study finds toxic benzene emissions along the Texas Gulf Coast are among the highest in the nation",
+    "author": "By Elena Bruess,\u00a0Capital & Main",
+    "link": "https://feeds.texastribune.org/link/16799/17324291/texas-gulf-coast-benzene-pollution-refineries-leaks",
+    "content": "A flare stack burns next to a refinery on Feb. 6, 2023 in Deer Park.",
+    "date": "2026-04-23T17:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "8620661d-a7c9-4bda-a4c1-f8b1f091d130",
+    "feed_name": "Economist",
+    "title": "Wanted: a new finance writer",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/04/23/wanted-a-new-finance-writer",
+    "content": "An opportunity to join the staff of The Economist",
+    "date": "2026-04-23T16:45:12",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/05/14/the-right-amount-of-crazy-fintan-otoole/",
     "feed_name": "NYRB",
     "title": "\u2018The Right Amount of Crazy\u2019",
@@ -557,6 +577,16 @@
     "link": "https://www.nytimes.com/2026/04/22/business/trump-spirit-airlines-loan.html",
     "content": "Spirit Airlines has not reported a profit since 2019 and is currently in its second bankruptcy.",
     "date": "2026-04-22T19:30:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How the Southern Poverty Law Center Drew the Ire of Conservatives",
+    "author": "Richard Fausset",
+    "link": "https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html",
+    "content": "Todd Blanche, left, the acting attorney general, and Kash Patel, the F.B.I. director, at a news conference on Tuesday announcing the indictment against the Southern Poverty Law Center.",
+    "date": "2026-04-22T18:51:17",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "The president\u2019s closure of a trade route from Detroit to Windsor will help a billionaire and hurt basically everyone else.",
     "date": "2026-02-12T13:45:24",
     "category": "Uncategorized"
-  },
-  {
-    "id": "56638d76-1c93-4c4b-8f3a-335ab33759b2",
-    "feed_name": "Economist",
-    "title": "Ethnic minorities are driving America\u2019s startup boom",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/12/ethnic-minorities-are-driving-americas-startup-boom",
-    "content": "The covid-19 pandemic set entrepreneurial spirits surging\u2014for some",
-    "date": "2026-02-12T10:37:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "bf998336-cd0e-4d04-b9d2-596a6f25e044",
-    "feed_name": "Economist",
-    "title": "Why China\u2019s central bank won\u2019t save the country from deflation",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/12/why-chinas-central-bank-wont-save-the-country-from-deflation",
-    "content": "It\u2019s not about the exchange rate any more",
-    "date": "2026-02-12T10:34:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "5b89b113-5908-477c-b928-c8431f79d2a1",
-    "feed_name": "Economist",
-    "title": "Chinese homebuyers are enraged by shoddy building standards",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/12/chinese-homebuyers-are-enraged-by-shoddy-building-standards",
-    "content": "Crooked walls and broken promises are harming China\u2019s property market",
-    "date": "2026-02-12T10:33:19",
-    "category": "Magazines"
   }
 ]
