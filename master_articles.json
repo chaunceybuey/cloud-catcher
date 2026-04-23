@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227618",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Greg Abbott battles cities over working with ICE",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17324402/tribcast-abbott-immigration-houston-ice",
+    "content": "Governor Greg Abbott speaks during a campaign event in Houston on Feb. 11, 2026.",
+    "date": "2026-04-23T21:24:19",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/23/opinion/trump-cabinet-patel-noem-labor-hegseth.html",
     "feed_name": "NYT (Shared)",
     "title": "And Then There Were None, Trump Administration Edition",
@@ -19988,15 +19998,5 @@
     "content": "That does not mean regulators should stamp it out",
     "date": "2026-02-19T10:33:12",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/17/opinion/rubio-munich-security-conference.html",
-    "feed_name": "Douthat",
-    "title": "What the American Right Wants From Europe",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/02/17/opinion/rubio-munich-security-conference.html",
-    "content": "The tensions in Marco Rubio\u2019s trans-Atlantic vision.",
-    "date": "2026-02-17T23:00:10",
-    "category": "NYT"
   }
 ]
