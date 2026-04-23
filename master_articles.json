@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.theatlantic.com/politics/2026/04/trump-iran-posts/686909/",
+    "feed_name": "Chait",
+    "title": "The Posting Will Continue Until Morale Improves",
+    "author": "",
+    "link": "https://www.theatlantic.com/politics/2026/04/trump-iran-posts/686909/",
+    "content": "Trump\u2019s Iran messaging seems desperate.\nDelivered by PolitePaul service",
+    "date": "2026-04-23T15:48:45",
+    "category": "Uncategorized"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227564",
     "feed_name": "Texas Tribune",
     "title": "Texas names new superintendent, board to lead Lake Worth ISD under takeover",
@@ -320,6 +330,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
+    "feed_name": "NYT (Shared)",
+    "title": "There Is Much More to Pope vs. President Than Meets the Eye",
+    "author": "David French",
+    "link": "https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
+    "content": "What fighting an unjust war really means.",
+    "date": "2026-04-23T09:04:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/purdue-settlement-leaves-opioid-victims-behind",
     "feed_name": "ProPublica",
     "title": "\u201cA Punch in the Gut\u201d: After Years of Waiting, Many Opioid Victims Will Be Shut Out of Purdue Settlement",
@@ -387,6 +407,16 @@
     "link": "https://www.nytimes.com/2026/04/22/opinion/shoplifting-political-protest-microlooting-whole-foods.html",
     "content": "Why petty theft might be the new political protest.",
     "date": "2026-04-22T21:46:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How the War Powers Act Could Pressure Trump to End the Iran War",
+    "author": "Robert Jimison",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html",
+    "content": "Loading bombs onto a U.S. Air Force B-1 bomber at an air base in Britain last month.",
+    "date": "2026-04-22T21:43:55",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "But not fun. Which is why I have five delightful, one-pan dinner options for your Valentine\u2019s Day (or any weeknight).",
     "date": "2026-02-11T16:09:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/10/opinion/ai-politics-left-progressive.html",
-    "feed_name": "Douthat",
-    "title": "A.I. May Put Progressives to the Test",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/02/10/opinion/ai-politics-left-progressive.html",
-    "content": "The left needs a sharper A.I. politics.",
-    "date": "2026-02-11T01:04:34",
-    "category": "NYT"
-  },
-  {
-    "id": "cddf6d74-192e-4806-8871-c3987d401430",
-    "feed_name": "Economist",
-    "title": "Who wrangled the best trade deal from Donald Trump?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump",
-    "content": "The agreements look one-sided. Their consequences may not be",
-    "date": "2026-02-10T19:16:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "e4206d94-cdf1-4f00-8595-e91c365de735",
-    "feed_name": "Economist",
-    "title": "The coldest crypto winter yet",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/10/the-coldest-crypto-winter-yet",
-    "content": "An asset class that is all about vibes suddenly has awful vibes",
-    "date": "2026-02-10T18:50:48",
-    "category": "Magazines"
   }
 ]
