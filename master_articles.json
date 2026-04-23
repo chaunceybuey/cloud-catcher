@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/opinion/trump-cabinet-patel-noem-labor-hegseth.html",
+    "feed_name": "NYT (Shared)",
+    "title": "And Then There Were None, Trump Administration Edition",
+    "author": "Frank Bruni and Bret Stephens",
+    "link": "https://www.nytimes.com/2026/04/23/opinion/trump-cabinet-patel-noem-labor-hegseth.html",
+    "content": "Normal language is inadequate and precedents are irrelevant when it comes to appraising the senior administration officials of the president\u2019s second term.",
+    "date": "2026-04-23T18:17:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227571",
     "feed_name": "Texas Tribune",
     "title": "The number of child care deserts in Texas is growing",
@@ -19988,15 +19998,5 @@
     "content": "The tensions in Marco Rubio\u2019s trans-Atlantic vision.",
     "date": "2026-02-17T23:00:10",
     "category": "NYT"
-  },
-  {
-    "id": "9027502d-9585-48be-97d2-418f9049c16a",
-    "feed_name": "Economist",
-    "title": "How big is the prize of reopening Russia?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/17/how-big-is-the-prize-of-reopening-russia",
-    "content": "The Kremlin is promising $12trn-worth of deals to Donald Trump\u2019s administration",
-    "date": "2026-02-17T20:30:52",
-    "category": "Magazines"
   }
 ]
