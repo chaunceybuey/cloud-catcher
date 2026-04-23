@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push",
+    "author": "Mike Isaac and Eli Tan",
+    "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
+    "content": "Meta\u2019s headquarters in Menlo Park, Calif.",
+    "date": "2026-04-23T20:20:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/23/opinion/trump-cabinet-patel-noem-labor-hegseth.html",
     "feed_name": "NYT (Shared)",
     "title": "And Then There Were None, Trump Administration Edition",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/02/19/the-eu-is-thrashing-out-a-more-muscular-set-of-economic-policies",
     "content": "The bloc is done playing nicely",
     "date": "2026-02-19T10:52:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "15ae3d76-b3ec-4338-84ed-355e482d285e",
-    "feed_name": "Economist",
-    "title": "Did America\u2019s war on poverty fail?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/19/did-americas-war-on-poverty-fail",
-    "content": "Deprivation has fallen dramatically\u2014but not necessarily because of the welfare state",
-    "date": "2026-02-19T10:52:23",
     "category": "Magazines"
   }
 ]
