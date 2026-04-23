@@ -130,6 +130,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/justice-dept-citizens-denaturalization.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Aims to Strip Citizenship From Hundreds of Naturalized Americans",
+    "author": "Ernesto Londo\u00f1o and Hamed Aleaziz",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/justice-dept-citizens-denaturalization.html",
+    "content": "People reciting an oath during a naturalization ceremony at Liberty State Park in Jersey City, N.J.",
+    "date": "2026-04-23T17:17:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/23/arts/music/michael-tilson-thomas-dead.html",
     "feed_name": "NYT (Shared)",
     "title": "Michael Tilson Thomas, Celebrated American Conductor, Dies at 81",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/02/17/how-big-is-the-prize-of-reopening-russia",
     "content": "The Kremlin is promising $12trn-worth of deals to Donald Trump\u2019s administration",
     "date": "2026-02-17T20:30:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "5cb4fdb0-df7f-47fa-bf34-c6b0318c2426",
-    "feed_name": "Economist",
-    "title": "The financialisation of AI is just beginning",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/17/the-financialisation-of-ai-is-just-beginning",
-    "content": "Get ready for a new wave of securities, hedges and collateral",
-    "date": "2026-02-17T19:16:31",
     "category": "Magazines"
   }
 ]
