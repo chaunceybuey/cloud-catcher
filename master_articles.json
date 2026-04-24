@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/24/opinion/conspiracy-theory-tucker-antisemitism.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Conspiracy Theory Behind Tucker Carlson\u2019s Apology",
+    "author": "Michelle Goldberg",
+    "link": "https://www.nytimes.com/2026/04/24/opinion/conspiracy-theory-tucker-antisemitism.html",
+    "content": "Rather than honestly reckoning with their role in America\u2019s derangement, MAGA apostates are creating a scapegoat\u00a0to explain it away.",
+    "date": "2026-04-24T09:04:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/michigan-solar-farms-health-concerns-st-clair-county",
     "feed_name": "ProPublica",
     "title": "Unfounded Health Concerns Are Powering a Solar Backlash",
@@ -377,6 +387,16 @@
     "link": "https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html",
     "content": "Candidates in California\u2019s race for governor (from left): Matt Mahan, Xavier Becerra, Chad Bianco, Steve Hilton, Tom Steyer and Katie Porter.",
     "date": "2026-04-23T18:15:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Youth Suicides Declined After Creation of National Hotline",
+    "author": "Ellen Barry",
+    "link": "https://www.nytimes.com/2026/04/22/science/988-youth-suicides-decline.html",
+    "content": "A crisis line specialist working the phone at a mental health crisis center in Houston in 2022.",
+    "date": "2026-04-23T18:05:36",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "State Sen. Royce West, D-Dallas, left, listens as Ipsum General\nContractors owner Ruben Mercado Jr. speaks at a press conference about a lawsuit against the state comptroller&#039;s office, at the Capitol in Austin on Monday, March 2, 2026.",
     "date": "2026-03-02T21:17:34",
     "category": "Texas"
-  },
-  {
-    "id": "69a57dc199ba745596a012d0",
-    "feed_name": "Wired (Science)",
-    "title": "War in Iran Spiked Oil Prices. Trump Will Decide How High They Go",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/war-in-iran-sent-oil-prices-up-trump-will-decide-how-high-they-go/",
-    "content": "The conflict in the Middle East is driving oil prices up in a midterm year when Americans are already focused on high energy bills.",
-    "date": "2026-03-02T16:03:36",
-    "category": "Magazines"
-  },
-  {
-    "id": "69a395aab0935ac67e7e680b",
-    "feed_name": "Wired",
-    "title": "The 5 Big \u2018Known Unknowns\u2019 of Donald Trump\u2019s New War With Iran",
-    "author": "Garrett M. Graff",
-    "link": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
-    "content": "The all-out air assault on the Islamic Republic might be the biggest gamble of the president\u2019s career.",
-    "date": "2026-03-01T17:47:31",
-    "category": "Magazines"
   }
 ]
