@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227748",
+    "feed_name": "Texas Tribune",
+    "title": "North Texas Rep. Pat Fallon running to lead GOP on influential House Oversight Committee",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17325007/texas-pat-fallon-ronny-jackson-oversight-armed-services-republican-committee-leadership-congress",
+    "content": "U.S. Rep. Pat Fallon, R-Sherman, speaks during a congressional task force hearing on Sept. 26, 2024, in Washington, D.C., on the assassination attempt of then-candidate Donald Trump in Butler, Pennsylvania.",
+    "date": "2026-04-24T19:10:28",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227718",
     "feed_name": "Texas Tribune",
     "title": "How Texans can purchase tax free emergency supplies",
@@ -19988,15 +19998,5 @@
     "content": "Has the president\u2019s unerring instinct for vulnerability finally failed him?",
     "date": "2026-03-04T17:44:29",
     "category": "NYT"
-  },
-  {
-    "id": "698bc61826aca79c141aa588",
-    "feed_name": "Wired",
-    "title": "How Is Kalshi Not Gambling?",
-    "author": "Steven Levy",
-    "link": "https://www.wired.com/story/big-interview-tarek-mansour-kalshi/",
-    "content": "On Kalshi, people have placed bets on everything from football games to foreign affairs. The prediction market\u2019s CEO, Tarek Mansour, says this doesn\u2019t count as gambling\u2014and is actually good for society.",
-    "date": "2026-03-04T11:00:00",
-    "category": "Magazines"
   }
 ]
