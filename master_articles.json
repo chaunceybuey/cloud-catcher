@@ -120,6 +120,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Soldier Used Classified Information to Bet on Maduro\u2019s Ouster, U.S. Says",
+    "author": "Benjamin Weiser and Jonah E. Bromwich",
+    "link": "https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html",
+    "content": "Nicol\u00e1s Maduro, former President of Venezuela, being escorted off a helicopter to be taken to the federal courthouse in Manhattan in January.",
+    "date": "2026-04-24T01:52:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
     "feed_name": "NYT (Shared)",
     "title": "Iran War Has Drained U.S. Supplies of Critical, Costly Weapons",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/why-sierra-the-supercomputer-had-to-die/",
     "content": "For seven years, she ran high-security nuclear simulations for the US government. Now, this famous supercomputer is being put to death.",
     "date": "2026-02-26T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "f7607d88-c2ff-4243-8f52-3e9377adc96e",
-    "feed_name": "Economist",
-    "title": "America\u2019s trade chaos is just beginning",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/26/americas-trade-chaos-is-just-beginning",
-    "content": "Tariff wrangling will stretch through the rest of Donald Trump\u2019s term, and beyond",
-    "date": "2026-02-26T10:37:01",
     "category": "Magazines"
   }
 ]
