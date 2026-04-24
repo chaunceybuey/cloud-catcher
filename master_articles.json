@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227718",
+    "feed_name": "Texas Tribune",
+    "title": "How Texans can purchase tax free emergency supplies",
+    "author": "Mar\u00eda M\u00e9ndez and Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17324973/texas-emergency-supplies-sales-tax-free",
+    "content": "Illustration by",
+    "date": "2026-04-24T18:15:32",
+    "category": "Texas"
+  },
+  {
     "id": "69ea1e41ace51dfd0585df9d",
     "feed_name": "Wired (Science)",
     "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/big-interview-tarek-mansour-kalshi/",
     "content": "On Kalshi, people have placed bets on everything from football games to foreign affairs. The prediction market\u2019s CEO, Tarek Mansour, says this doesn\u2019t count as gambling\u2014and is actually good for society.",
     "date": "2026-03-04T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69a1ae24bdaf19324fb7d8ff",
-    "feed_name": "Wired (Science)",
-    "title": "What It\u2019s Like to Have a Brain Implant for 5 Years",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/",
-    "content": "No one has had a Synchron brain-computer interface longer than Rodney Gorham. He\u2019s still finding new ways to use it.",
-    "date": "2026-03-04T10:00:00",
     "category": "Magazines"
   }
 ]
