@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227772",
+    "feed_name": "Texas Tribune",
+    "title": "Texas police can arrest people suspected of entering country illegally, federal court rules",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17325032/texas-immigration-law-sb-4-5th-circuit-court-of-appeals-ruling",
+    "content": "Texas Department of Public Safety troopers make a traffic stop in southeast Austin on Aug. 7, 2023.",
+    "date": "2026-04-24T20:19:04",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/24/opinion/international-world/iran-war-trump-deal.html",
     "feed_name": "NYT (Emailed)",
     "title": "Here\u2019s How Trump Can Get Us Out of the Mess in Iran",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/03/04/european-pensions-are-a-30trn-missed-opportunity",
     "content": "If only more countries went Dutch",
     "date": "2026-03-04T22:58:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "69a836b8e6bce564b2476064",
-    "feed_name": "Wired (Science)",
-    "title": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
-    "content": "\u201cData centers \u2026 they need some PR help,\u201dPresident Donald Trump said at the event.",
-    "date": "2026-03-04T22:13:27",
     "category": "Magazines"
   }
 ]
