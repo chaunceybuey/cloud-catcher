@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Iran War Has Drained U.S. Supplies of Critical, Costly Weapons",
+    "author": "Eric Schmitt and Jonathan Swan",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
+    "content": "The remains of a university building in Tehran. Two independent groups say the U.S. expense of the war in Iran so far is between $28 billion and $35 billion.",
+    "date": "2026-04-24T01:04:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/trump-china-india-immigrants.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Reposts Anti-Immigrant Tirade Calling China and India \u2018Hellhole\u2019 Places",
+    "author": "Amy Qin",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-china-india-immigrants.html",
+    "content": "President Trump posted the transcript on his Truth Social account on Wednesday night.",
+    "date": "2026-04-24T00:42:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227660",
     "feed_name": "Texas Tribune",
     "title": "Dallas police revise policy allowing more ICE cooperation after Abbott threatened to cut funding",
@@ -130,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The \u2018Make America Healthy Again\u2019 Movement Is Cooling on Trump and Republicans",
+    "author": "Sheryl Gay Stolberg",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html",
+    "content": "Tricia Busch, a former elementary schoolteacher and a MAHA voter, felt betrayed by President Trump\u2019s recent executive order promoting glyphosate, the weedkiller marketed as Roundup.",
+    "date": "2026-04-23T21:42:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227618",
     "feed_name": "Texas Tribune",
     "title": "TribCast: Greg Abbott battles cities over working with ICE",
@@ -138,6 +168,16 @@
     "content": "Governor Greg Abbott speaks during a campaign event in Houston on Feb. 11, 2026.",
     "date": "2026-04-23T21:24:19",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Dreams for a Battleship Led to His Navy Secretary\u2019s Ouster",
+    "author": "Greg Jaffe and Helene Cooper",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html",
+    "content": "John Phelan, the Navy secretary, in December. President Trump\u2019s frustration over Mr. Phelan\u2019s management of his prized battleship program grew over the past two weeks.",
+    "date": "2026-04-23T20:51:30",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html",
@@ -368,6 +408,16 @@
     "content": "A sign promoting Virginia&#039;s redistricting referendum vote in a Norfolk, Virginia neighborhood on April 15, 2026.",
     "date": "2026-04-23T15:49:03",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "New Phishing Scam: Fake Invitations",
+    "author": "Steven Kurutz",
+    "link": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
+    "content": "Hackers are spoofing Paperless Post, Evite and Punchbowl to creep into your hard drive.",
+    "date": "2026-04-23T15:48:55",
+    "category": "NYT"
   },
   {
     "id": "https://www.theatlantic.com/politics/2026/04/trump-iran-posts/686909/",
@@ -19947,56 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/02/26/protectionists-dislike-trade-and-migration-and-capital-flows",
     "content": "The amount of money crossing borders has flattened off\u2014but not because of capital controls",
     "date": "2026-02-26T10:36:29",
-    "category": "Magazines"
-  },
-  {
-    "id": "55ffd7e6-6bab-47f5-b93c-06ebe6f00200",
-    "feed_name": "Economist",
-    "title": "Why Chinese people spend so much on food",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/26/why-chinese-people-spend-so-much-on-food",
-    "content": "A 21st-century test of a 19th-century observation",
-    "date": "2026-02-26T10:31:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "771a1267-5633-48f4-a2e0-84c3c3de8f4f",
-    "feed_name": "Economist",
-    "title": "America\u2019s welfare state is more European than you think",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/25/americas-welfare-state-is-more-european-than-you-think",
-    "content": "State-level policies are making up for stingy federal provision",
-    "date": "2026-02-25T22:55:06",
-    "category": "Magazines"
-  },
-  {
-    "id": "01a063f2-5cdc-45b4-8f82-9e0eedc94c8e",
-    "feed_name": "Economist",
-    "title": "A viral research note on AI gets its economics wrong",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/25/a-viral-research-note-on-ai-gets-its-economics-wrong",
-    "content": "Too much of a good thing",
-    "date": "2026-02-25T22:21:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/24/dining/salmon-and-cherry-tomato-curry-sheet-pan-steak-and-pepper-tacos.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Salmon and Cherry Tomato Curry, Sheet-Pan Steak and Pepper Tacos",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/02/24/dining/salmon-and-cherry-tomato-curry-sheet-pan-steak-and-pepper-tacos.html",
-    "content": "Quick, bright dinners that fully ignore the snow.",
-    "date": "2026-02-25T18:24:59",
-    "category": "NYT"
-  },
-  {
-    "id": "6973cebdbbe5270f3f25c5d3",
-    "feed_name": "Wired",
-    "title": "This Is the Worst Thing That Could Happen to the International Space Station",
-    "author": "Rebecca Heilweil",
-    "link": "https://www.wired.com/story/this-is-the-worst-thing-that-could-happen-to-the-international-space-station/",
-    "content": "There\u2019s a good way to throw out the ISS. And then there\u2019s a really bad way.",
-    "date": "2026-02-25T11:00:00",
     "category": "Magazines"
   }
 ]
