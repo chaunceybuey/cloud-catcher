@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227660",
+    "feed_name": "Texas Tribune",
+    "title": "Dallas police revise policy allowing more ICE cooperation after Abbott threatened to cut funding",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17324467/dallas-police-ice-policy-update-abbott",
+    "content": "U.S. Immigration and Customs Enforcement facility in Dallas on Sept. 24, 2025.",
+    "date": "2026-04-23T23:35:52",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227629",
     "feed_name": "Texas Tribune",
     "title": "ICE deported man who says he\u2019s a U.S. citizen after traffic stop in Central Texas",
@@ -140,6 +150,36 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/opinion/apple-tim-cook-outsourcing-china.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Tim Cook Did Wonders for Apple. He Also Did a Lot for Xi Jinping.",
+    "author": "Patrick McGee",
+    "link": "https://www.nytimes.com/2026/04/23/opinion/apple-tim-cook-outsourcing-china.html",
+    "content": "He made his company a juggernaut, but he did so by risking America\u2019s economic and political security.",
+    "date": "2026-04-23T20:10:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/arts/music/met-opera-saudi-deal-funding.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Saudis Withdraw Offer of Millions to Metropolitan Opera",
+    "author": "Adam Nagourney",
+    "link": "https://www.nytimes.com/2026/04/23/arts/music/met-opera-saudi-deal-funding.html",
+    "content": "Opening night at the Metropolitan Opera in September.",
+    "date": "2026-04-23T20:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/trump-approval-rating-poll.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Disapproval Rating Hits Highest Point of His Second Term",
+    "author": "Ruth Igielnik",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-approval-rating-poll.html",
+    "content": "The president\u2019s weakening poll numbers come as the war in Iran has driven up gas prices, and more Americans are expressing concerns about the economy.",
+    "date": "2026-04-23T19:10:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/23/opinion/trump-cabinet-patel-noem-labor-hegseth.html",
     "feed_name": "NYT (Shared)",
     "title": "And Then There Were None, Trump Administration Edition",
@@ -147,6 +187,26 @@
     "link": "https://www.nytimes.com/2026/04/23/opinion/trump-cabinet-patel-noem-labor-hegseth.html",
     "content": "Normal language is inadequate and precedents are irrelevant when it comes to appraising the senior administration officials of the president\u2019s second term.",
     "date": "2026-04-23T18:17:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/your-money/401ks-and-similar-plans/401k-private-credit-crypto.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Trump Wants Private Equity and Crypto Accessible in 401(k)s. There Are Risks.",
+    "author": "Tara Siegel Bernard",
+    "link": "https://www.nytimes.com/2026/04/23/your-money/401ks-and-similar-plans/401k-private-credit-crypto.html",
+    "content": "Alternative investments could appear on some 401(k) menus in the year ahead. Here\u2019s what that means for investors.",
+    "date": "2026-04-23T18:15:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Candidates for California Governor Debate: 5 Takeaways",
+    "author": "Jennifer Medina",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html",
+    "content": "Candidates in California\u2019s race for governor (from left): Matt Mahan, Xavier Becerra, Chad Bianco, Steve Hilton, Tom Steyer and Katie Porter.",
+    "date": "2026-04-23T18:15:21",
     "category": "NYT"
   },
   {
@@ -287,6 +347,16 @@
     "link": "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html",
     "content": "The Senate in an overnight session took steps toward adopting a budget plan that would lead to a $70 billion increase in immigration enforcement.",
     "date": "2026-04-23T13:37:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/seth-bodnar-montana-senate.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Independent Senate Hopeful Seth Bodnar Tries to Scare Off Montana Democrats",
+    "author": "Jack Healy",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/seth-bodnar-montana-senate.html",
+    "content": "\u201cI\u2019m angry about the direction of this country,\u201d Seth Bodnar, 47, said. \u201cWe need a new approach.\u201d",
+    "date": "2026-04-23T13:20:27",
     "category": "NYT"
   },
   {
@@ -520,6 +590,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/22/climate/clothing-recycling-trashie-helpsy.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Does Clothing Recycling Really Work?",
+    "author": "Rachel Cernansky",
+    "link": "https://www.nytimes.com/2026/04/22/climate/clothing-recycling-trashie-helpsy.html",
+    "content": "A sorting facility for Supercircle in North Las Vegas this month. The start-up aims to help the fashion industry use discarded textiles to make new clothes.",
+    "date": "2026-04-23T00:49:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/22/us/chemical-emergency-west-virginia-deaths.html",
     "feed_name": "NYT (Shared)",
     "title": "2 Dead and More Injured After \u2018Chemical Release\u2019 at West Virginia Plant",
@@ -537,6 +617,16 @@
     "link": "https://www.nytimes.com/2026/04/22/us/texas-abbott-trump-ice-cities-funding.html",
     "content": "Gov. Greg Abbott of Texas intensified his rhetoric on Monday on social media.",
     "date": "2026-04-22T22:34:47",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/22/movies/joy-harmon-dead.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Joy Harmon, Car-Washing Temptress in \u2018Cool Hand Luke,\u2019 Dies at 87",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/04/22/movies/joy-harmon-dead.html",
+    "content": "All it took was a bucket of soapy water and a slinky housedress for her to achieve movie immortality in the 1967 Paul Newman classic.",
+    "date": "2026-04-22T22:03:42",
     "category": "NYT"
   },
   {
@@ -19908,95 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I see the same thing with transaction descriptions go away for deposits/withdrawals in \"My Cash Plus Overview\".<br />However, you can go to the Transaction history menu item at the top and see descriptions there.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I see simply \"CASH\" for direct deposit there.<br /><br />And even for withdrawals, while visible, having to jump through that extra hoop every time is a nuisance.<br /><br />I am in the process of transferring bill-pays and deposits to Fidelity CMA. Cash Plus, while nice, has proven to be a three-quarter-baked product, and this is the final drop for me.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=52827\">Vulcan</a> \u2014 Mon Feb 23, 2026 3:38 pm</p><hr />",
     "date": "2026-02-23T21:38:32",
     "category": "Finance"
-  },
-  {
-    "id": "6973d07ab45c9c900b2aa2a2",
-    "feed_name": "Wired",
-    "title": "Say Goodbye to the Undersea Cable That Made the Global Internet Possible",
-    "author": "Jane Ruffino",
-    "link": "https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/",
-    "content": "History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don\u2019t mention sharks.",
-    "date": "2026-02-23T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "f80a602908aa6efd116b6e40ea0fe200",
-    "feed_name": "Outside",
-    "title": "\u2018Be Intentional with Risk\u2019 and Other Hard-Earned Advice from Alex Honnold",
-    "author": "Frederick Dreier",
-    "link": "https://www.outsideonline.com/outdoor-adventure/climbing/alex-honnold-nevada/",
-    "content": "Honnold talks \u2018Skyscraper Live,\u2019 his relationship with the core climbing community, and how he assesses risk and danger as a 40-year-old father of two",
-    "date": "2026-02-23T03:01:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
-    "feed_name": "Douthat",
-    "title": "4 Big U.F.O. Questions for the White House",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/02/21/opinion/obama-trump-aliens.html",
-    "content": "What a declassification effort could help us resolve.",
-    "date": "2026-02-22T18:30:57",
-    "category": "NYT"
-  },
-  {
-    "id": "160f151b-2ec0-4c63-806d-2f2e38ead54a",
-    "feed_name": "Economist",
-    "title": "The AI productivity boom is not here (yet)",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet",
-    "content": "Artificial intelligence is improving fast. Its effect on output, not so much",
-    "date": "2026-02-22T12:41:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "d3db7759-dc62-46da-b848-080561d7f1aa",
-    "feed_name": "Economist",
-    "title": "Markets are churning furiously beneath the surface",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/22/markets-are-churning-furiously-beneath-the-surface",
-    "content": "AI is prompting investors to reassess every business model under the sun",
-    "date": "2026-02-22T12:29:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "18e6307e-48a7-4394-a8cc-657b11b10168",
-    "feed_name": "Economist",
-    "title": "Donald Trump answers a Supreme Court rebuke with new tariff threats",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/20/donald-trump-answers-a-supreme-court-rebuke-with-new-tariff-threats",
-    "content": "The immediate economic impact will be more uncertainty",
-    "date": "2026-02-20T17:52:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/19/opinion/interesting-times-amitav-acharya.html",
-    "feed_name": "Interesting Times",
-    "title": "Welcome to the Indian Century",
-    "author": "Ross Douthat and Victoria Chamberlin",
-    "link": "https://www.nytimes.com/2026/02/19/opinion/interesting-times-amitav-acharya.html",
-    "content": "India is winning the standoff between America and China.",
-    "date": "2026-02-19T21:05:49",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "6977ebfee4802fe5f44062e3",
-    "feed_name": "Wired",
-    "title": "Inside the Gay Tech Mafia",
-    "author": "Zo\u00eb Bernard",
-    "link": "https://www.wired.com/story/inside-the-gay-tech-mafia/",
-    "content": "Gay men have long been rumored to run Silicon Valley. WIRED investigates.",
-    "date": "2026-02-19T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "429531f8-e6b2-4441-998b-8eabd20308ea",
-    "feed_name": "Economist",
-    "title": "The EU is thrashing out a more muscular set of economic policies",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/02/19/the-eu-is-thrashing-out-a-more-muscular-set-of-economic-policies",
-    "content": "The bloc is done playing nicely",
-    "date": "2026-02-19T10:52:50",
-    "category": "Magazines"
   }
 ]
