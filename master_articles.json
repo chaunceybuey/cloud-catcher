@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227720",
+    "feed_name": "Texas Tribune",
+    "title": "Texas child abuse investigations over gender-affirming care no longer blocked",
+    "author": "Brandon Formby",
+    "link": "https://feeds.texastribune.org/link/16799/17324927/texas-transgender-cps-child-abuse-lawsuit-supreme-court",
+    "content": "The Texas Supreme Court lifted temporary injunctions protecting three families and members of PFLAG, Inc., after CPS cases were dropped or trans kids aged into adults.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17324927.gif\" width=\"1\" />",
+    "date": "2026-04-24T16:18:14",
+    "category": "Texas"
+  },
+  {
     "id": "1bba384d7550c2da4b1ea99779f58219",
     "feed_name": "LRB",
     "title": "The Man Behind the Curtain: \u2018Frankenstein\u2019 by Mary Shelley",
@@ -118,6 +128,16 @@
     "content": "Mary Shelley signed off her introduction to the 1831 edition ofFrankensteinby bidding her \u2018hideous progeny go forth and prosper\u2019. In this episode of The Man Behind the Curtain, Tom McCarthy and Thomas Jones look at the machinery that Shelley used to assemble her immortal creature and bring it to life. As well as its origins and afterlives, they consider the many systems that the...",
     "date": "2026-04-24T16:05:40",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Tariffs Raised Consumers\u2019 Prices, but the Refunds Go Only to Businesses",
+    "author": "Tony Romm",
+    "link": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
+    "content": "The biggest beneficiaries of tariff refunds may include retail giants like Costco, even if companies passed the costs onto their customers.",
+    "date": "2026-04-24T13:57:43",
+    "category": "NYT"
   },
   {
     "id": "f99b92f0d80a49aedd8a90f223682d63",
@@ -19978,25 +19998,5 @@
     "content": "J. D. Vance says this Middle East entanglement can\u2019t be dumb\u2014because Trump is smart.",
     "date": "2026-03-03T16:33:37",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/03/dining/quick-craveable-dishes-to-break-me-out-of-a-cooking-rut.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Quick, Craveable Dishes to Break Me Out of a Cooking Rut",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/03/03/dining/quick-craveable-dishes-to-break-me-out-of-a-cooking-rut.html",
-    "content": "Like: crispy halloumi with tomatoes and white beans, roasted chicken thighs with hot honey and lime, Turkish eggs with yogurt.",
-    "date": "2026-03-03T16:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "6943221264a0ac3791662b80",
-    "feed_name": "Wired",
-    "title": "The Untold Story of the Birth of the iPhone",
-    "author": "David Pogue",
-    "link": "https://www.wired.com/story/the-untold-story-of-the-birth-of-the-iphone-david-pogue-book-excerpt/",
-    "content": "Apple turns 50 on April 1. In his new book, Apple: The First 50 Years, David Pogue chronicles the secrecy-laden environment in which Steve Jobs willed the first iPhone into existence.",
-    "date": "2026-03-03T11:00:00",
-    "category": "Magazines"
   }
 ]
