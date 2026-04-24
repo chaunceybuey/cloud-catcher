@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227614",
+    "feed_name": "Texas Tribune",
+    "title": "Texas lieutenant governor Democratic runoff: Who is running and what to know",
+    "author": "Renzo Downey and Mar\u00eda M\u00e9ndez",
+    "link": "https://feeds.texastribune.org/link/16799/17324662/texas-2026-lieutenant-governor-democratic-runoff-vikki-goodwin-marcos-velez",
+    "content": "The lieutenant governor\u2019s office is one of the most powerful in Texas government, and the 2026 race features a Democratic runoff between Vikki Goodwin and Marcos Velez.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17324662.gif\" width=\"1\" />",
+    "date": "2026-04-24T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=227667",
+    "feed_name": "Texas Tribune",
+    "title": "Two years after a judge recommended her murder conviction be tossed, Melissa Lucio still waits for freedom",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17324663/melissa-lucio-capital-murder-conviction-court-status",
+    "content": "Melissa Lucio was convicted and sentenced to death in 2008 for the murder of her 2-year-old daughter, Mariah Alvarez.",
+    "date": "2026-04-24T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/michigan-solar-farms-health-concerns-st-clair-county",
     "feed_name": "ProPublica",
     "title": "Unfounded Health Concerns Are Powering a Solar Backlash",
@@ -247,6 +267,16 @@
     "link": "https://www.nytimes.com/2026/04/23/arts/music/met-opera-saudi-deal-funding.html",
     "content": "Opening night at the Metropolitan Opera in September.",
     "date": "2026-04-23T20:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/business/manufactured-homes-chassis.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Congress May Finally Recognize That Mobile Homes Aren\u2019t Really That Mobile",
+    "author": "Matthew Goldstein",
+    "link": "https://www.nytimes.com/2026/04/23/business/manufactured-homes-chassis.html",
+    "content": "Manufactured homes being installed in Petersburg, Va. A 1970s law requires all manufactured homes to have a steel chassis, a rule from the days when these structures were called mobile homes.",
+    "date": "2026-04-23T19:37:21",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.wired.com/story/tin-can-is-a-dumb-phone-for-kids-can-someone-teach-them-how-to-use-it/",
     "content": "With its twirly cord and landline-like features, the Tin Can is giving kids a crash course in phone etiquette. For example: Talk!",
     "date": "2026-02-27T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "1228bd18af405245010ddb27788f9b7a",
-    "feed_name": "Outside",
-    "title": "How I Battled the Sizing Gap in Ski Gear\u2014Even After Losing 100 Pounds",
-    "author": "Marisa McMillan",
-    "link": "https://www.outsideonline.com/outdoor-gear/snow-sports-gear/sizing-inclusivity-ski-gear/",
-    "content": "I realized that gear isn\u2019t just gear. It\u2019s a gatekeeper. And gear that hugs and tugs in all the wrong places doesn\u2019t whisper. It declares: this ain\u2019t for you, girl.",
-    "date": "2026-02-27T03:05:06",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/26/opinion/space-nasa-elon-musk.html",
-    "feed_name": "Interesting Times",
-    "title": "\u2018We\u2019re Going to the Moon and Mars\u2019",
-    "author": "Ross Douthat and Victoria Chamberlin",
-    "link": "https://www.nytimes.com/2026/02/26/opinion/space-nasa-elon-musk.html",
-    "content": "The new head of NASA predicts a manned mission to Mars in 10 years.",
-    "date": "2026-02-26T23:40:52",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "6973d10bb45c9c900b2aa2a3",
-    "feed_name": "Wired",
-    "title": "Why Sierra the Supercomputer Had to Die",
-    "author": "Rebecca Heilweil",
-    "link": "https://www.wired.com/story/why-sierra-the-supercomputer-had-to-die/",
-    "content": "For seven years, she ran high-security nuclear simulations for the US government. Now, this famous supercomputer is being put to death.",
-    "date": "2026-02-26T11:00:00",
     "category": "Magazines"
   }
 ]
