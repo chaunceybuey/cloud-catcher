@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
+    "feed_name": "NYT (Shared)",
+    "title": "$106 Billion Loan Reflects E.U.\u2019s View That Peace in Ukraine Is Far Away",
+    "author": "Constant M\u00e9heut",
+    "link": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
+    "content": "A funeral for victims of a Russian strike in Ternopil, Ukraine, in November.",
+    "date": "2026-04-23T18:20:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/23/opinion/trump-cabinet-patel-noem-labor-hegseth.html",
     "feed_name": "NYT (Shared)",
     "title": "And Then There Were None, Trump Administration Edition",
@@ -268,6 +278,16 @@
     "content": "An opportunity to join the staff of The Economist",
     "date": "2026-04-23T16:45:12",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/opinion/bobby-pulido-texas-latinos-democrats.html",
+    "feed_name": "NYT (Shared)",
+    "title": "\u2018People Here Do Not Consider Themselves Poor. They Consider Themselves Broke.\u2019",
+    "author": "Michelle Cottle",
+    "link": "https://www.nytimes.com/2026/04/23/opinion/bobby-pulido-texas-latinos-democrats.html",
+    "content": "Big parts of the Rio Grande Valley turned against the party in recent years. One candidate is trying to win it back, one quincea\u00f1era at a time.",
+    "date": "2026-04-23T16:27:19",
+    "category": "NYT"
   },
   {
     "id": "https://www.nybooks.com/articles/2026/05/14/the-right-amount-of-crazy-fintan-otoole/",
@@ -557,6 +577,16 @@
     "link": "https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
     "content": "What fighting an unjust war really means.",
     "date": "2026-04-23T09:04:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/23/business/energy-environment/iran-war-diesel-prices-gasoline.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Why Diesel Has Become a Much Bigger Economic Problem Than Gasoline",
+    "author": "Emmett Lindner",
+    "link": "https://www.nytimes.com/2026/04/23/business/energy-environment/iran-war-diesel-prices-gasoline.html",
+    "content": "The Port of Los Angeles. Large semi trucks and some ships run on diesel fuel.",
+    "date": "2026-04-23T09:02:31",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "Fisker went out of business in 2024, but its biggest fans want to bring the \u201cright to repair\u201d to the masses.",
     "date": "2026-02-24T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "696a9f53e4e293a81f04fb7c",
-    "feed_name": "Wired",
-    "title": "AI Will Never Be Conscious",
-    "author": "Michael Pollan",
-    "link": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
-    "content": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things\u2014it just can\u2019t be a person.",
-    "date": "2026-02-24T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8696262#p8696262",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "stan1",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8696262#p8696262",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Cash Plus, while nice, has proven to be a three-quarter-baked product, and this is the final drop for me.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I agree Vanguard is up to their same old low cost tricks, and seems to have done 75% of the job then stopped work on improvement while heavily marketing a mediocre product to customers.  Not asking for paper checks or a debit card, but the user interface and difficulty of moving money between purchased money market funds is a barrier for me.  As far as paying bills goes, everything about using our credit union checking account is simpler.  If I just need to move some cash from credit union to Vanguard, and vice versa, regular taxable brokerage account does that just as well without the extra account and 1099.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=3663\">stan1</a> \u2014 Mon Feb 23, 2026 5:46 pm</p><hr />",
-    "date": "2026-02-23T23:46:17",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8696139#p8696139",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "Vulcan",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8696139#p8696139",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I see the same thing with transaction descriptions go away for deposits/withdrawals in \"My Cash Plus Overview\".<br />However, you can go to the Transaction history menu item at the top and see descriptions there.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I see simply \"CASH\" for direct deposit there.<br /><br />And even for withdrawals, while visible, having to jump through that extra hoop every time is a nuisance.<br /><br />I am in the process of transferring bill-pays and deposits to Fidelity CMA. Cash Plus, while nice, has proven to be a three-quarter-baked product, and this is the final drop for me.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=52827\">Vulcan</a> \u2014 Mon Feb 23, 2026 3:38 pm</p><hr />",
-    "date": "2026-02-23T21:38:32",
-    "category": "Finance"
   }
 ]
