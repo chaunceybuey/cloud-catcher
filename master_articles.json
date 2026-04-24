@@ -300,6 +300,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/24/magazine/eternal-life-longevity-world-leaders.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Rich and Powerful Want to Live Forever",
+    "author": "Mark O\u2019Connell",
+    "link": "https://www.nytimes.com/2026/04/24/magazine/eternal-life-longevity-world-leaders.html",
+    "content": "From the Kremlin to Silicon Valley, some of the most powerful people in the world now want something more: eternal life.",
+    "date": "2026-04-24T09:02:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/24/opinion/trucking-safety.html",
     "feed_name": "NYT (Emailed)",
     "title": "Why Trucking is So Deadly",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/03/05/indias-economy-is-not-as-big-as-economists-thought",
     "content": "But it is growing faster",
     "date": "2026-03-05T10:33:42",
-    "category": "Magazines"
-  },
-  {
-    "id": "7efdc278-a933-4295-8e7e-fcb4c460f75d",
-    "feed_name": "Economist",
-    "title": "Americans\u2019 electricity bills are up. Don\u2019t blame AI",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/05/americans-electricity-bills-are-up-dont-blame-ai",
-    "content": "Were it not for data centres, prices might be even higher",
-    "date": "2026-03-05T10:31:41",
     "category": "Magazines"
   }
 ]
