@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "1bba384d7550c2da4b1ea99779f58219",
+    "feed_name": "LRB",
+    "title": "The Man Behind the Curtain: \u2018Frankenstein\u2019 by Mary Shelley",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/the-man-behind-the-curtain-frankenstein-by-mary-shelley",
+    "content": "Mary Shelley signed off her introduction to the 1831 edition ofFrankensteinby bidding her \u2018hideous progeny go forth and prosper\u2019. In this episode of The Man Behind the Curtain, Tom McCarthy and Thomas Jones look at the machinery that Shelley used to assemble her immortal creature and bring it to life. As well as its origins and afterlives, they consider the many systems that the...",
+    "date": "2026-04-24T16:05:40",
+    "category": "Magazines"
+  },
+  {
     "id": "f99b92f0d80a49aedd8a90f223682d63",
     "feed_name": "LRB",
     "title": "Gospel Furbelow Dastard",
@@ -167,6 +177,16 @@
     "link": "https://www.nytimes.com/2026/04/24/opinion/conspiracy-theory-tucker-antisemitism.html",
     "content": "Rather than honestly reckoning with their role in America\u2019s derangement, MAGA apostates are creating a scapegoat\u00a0to explain it away.",
     "date": "2026-04-24T09:04:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/24/opinion/trucking-safety.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Why Trucking is So Deadly",
+    "author": "Craig Fuller",
+    "link": "https://www.nytimes.com/2026/04/24/opinion/trucking-safety.html",
+    "content": "The trucking industry captured its regulator, and safety suffered.",
+    "date": "2026-04-24T09:00:31",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Apple turns 50 on April 1. In his new book, Apple: The First 50 Years, David Pogue chronicles the secrecy-laden environment in which Steve Jobs willed the first iPhone into existence.",
     "date": "2026-03-03T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=222275",
-    "feed_name": "Texas Tribune",
-    "title": "Texas accepts some Islamic schools into voucher program after lawsuits",
-    "author": "By Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17288140/texas-lawsuit-school-vouchers-muslim-parent",
-    "content": "Acting Texas Comptroller Kelly Hancock answers a question during a Republican candidate forum the Civic Center in Canton on Saturday, Jan. 17, 2026.",
-    "date": "2026-03-02T22:30:50",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=222247",
-    "feed_name": "Texas Tribune",
-    "title": "Judge temporarily reinstates women, minority-owned businesses into Texas HUB program",
-    "author": "Paul Cobler and Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17288107/texas-minority-women-business-hub-program-lawsuit-comptroller",
-    "content": "State Sen. Royce West, D-Dallas, left, listens as Ipsum General\nContractors owner Ruben Mercado Jr. speaks at a press conference about a lawsuit against the state comptroller&#039;s office, at the Capitol in Austin on Monday, March 2, 2026.",
-    "date": "2026-03-02T21:17:34",
-    "category": "Texas"
   }
 ]
