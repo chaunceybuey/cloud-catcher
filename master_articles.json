@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "69ea1e41ace51dfd0585df9d",
+    "feed_name": "Wired (Science)",
+    "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+    "content": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a \u201cbroad and exciting pipeline of new medicines.\u201d",
+    "date": "2026-04-24T17:17:36",
+    "category": "Magazines"
+  },
+  {
     "id": "69de59bd455eb0d7015b2d5d",
     "feed_name": "Wired (Science)",
     "title": "Designer Baby Companies Are in Turmoil",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/",
     "content": "No one has had a Synchron brain-computer interface longer than Rodney Gorham. He\u2019s still finding new ways to use it.",
     "date": "2026-03-04T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6feb40fc-9960-445f-af9a-16590b270cd0",
-    "feed_name": "Economist",
-    "title": "Why war isn\u2019t always good for defence stocks",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/03/why-war-isnt-always-good-for-defence-stocks",
-    "content": "They win only if governments want just enough weapons\u2014but not too many",
-    "date": "2026-03-03T20:19:26",
     "category": "Magazines"
   }
 ]
