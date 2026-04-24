@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=227781",
+    "feed_name": "Texas Tribune",
+    "title": "Texas agency finds Camp Mystic emergency plan insufficient",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17325042/texas-floods-camp-mystic-emergency-plan-deficiencies-license",
+    "content": "Camp Mystic on Nov. 21, 2025, months after the devastating flood that took the lives of 27 girls and counselors as well as the camp&#039;s director on July 4.",
+    "date": "2026-04-24T20:35:30",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227772",
     "feed_name": "Texas Tribune",
     "title": "Texas police can arrest people suspected of entering country illegally, federal court rules",
@@ -138,6 +148,16 @@
     "content": "TEXAS PERFORMING ARTS PRESENTS\n\nRIVERDANCE 30\n\nTHE NEW GENERATION\n\nAPRIL 24 - 26 | BASS CONCERT HALL\n\n\n\nSince Riverdance first emerged onto the world stage, its fusion of Irish and international dance and music has captured the hearts of millions worldwide. The Grammy award-winning music and the infectious energy of its mesmerising choreography and breathtaking performances has left audiences in awe and established Riverdance as a global cultural sensation.\n\nTo celebrate this incredible 30th year milestone, Riverdance will embark on a special anniversary tour, bringing its magic to audiences around the world. This spectacular production rejuvenates the much-loved original show with new innovative choreography and costumes and state of the art lighting, projection and motion graphics. And for the first time Riverdance welcomes \u201cThe New Generation\u201d of performers, all of whom were not born when show began 30 years ago.\n\nBUY TICKETS!\n\nEvent Details\nDate: Friday, April 24, 2026 - Sunday, April 26, 2026\nTime: Friday and Saturday 7:30 P.M. | Sunday 2:00 P.M.\nVenue: Bass Concert Hall\n\nTicket Information\nCost: $47.40 - $95.40\nPhone: \n\nPresenter Details: Texas Performing Arts is the University of Texas at Austin\u2019s performing arts center.\n\nOne of the largest and most active live arts organizations in the U.S., TPA operates venues on the UT campus including Austin\u2019s largest theatre, Bass Concert Hall.\n\nOur presenting programs include Broadway in Austin, the Texas Welcomes series of national touring artists, and a curated Performing Arts Season of international theatre, music, dance, and more. TPA is also a leading producer of new performance, offering creative opportunities to both local artists and national productions.\n\nTPA is part of UT\u2019s College of Fine Arts and fulfills the university\u2019s public service, research, and educational missions. More than twenty thousand students throughout Central Texas and across the university experience the arts through TPA\u2019s extensive educational programs.",
     "date": "2026-04-24T19:30:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/24/us/politics/trump-firing-squad-executions-death-penalty.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Approves Firing Squad Executions for Death Penalty",
+    "author": "Devlin Barrett and Nicholas Bogel-Burroughs",
+    "link": "https://www.nytimes.com/2026/04/24/us/politics/trump-firing-squad-executions-death-penalty.html",
+    "content": "The Justice Department has reauthorized the use of pentobarbital in executions of federal inmates and will also allow the use of firing squads and \u201cadditional methods of execution.\u201d",
+    "date": "2026-04-24T19:19:24",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=227748",
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/03/05/americans-electricity-bills-are-up-dont-blame-ai",
     "content": "Were it not for data centres, prices might be even higher",
     "date": "2026-03-05T10:31:41",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/04/world/africa/ethiopia-eritrea-war-tensions.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Ethiopia\u2019s Demand for a Port Drives Fear of New War With Eritrea",
-    "author": "Matthew Mpoke Bigg",
-    "link": "https://www.nytimes.com/2026/03/04/world/africa/ethiopia-eritrea-war-tensions.html",
-    "content": "Marking the 130th anniversary of the Battle of Adwa in Addis Ababa, Ethiopia, on Monday.",
-    "date": "2026-03-04T23:27:20",
-    "category": "NYT"
-  },
-  {
-    "id": "2e67eaf5-e4bb-42d3-99d7-11df1e2e8ca8",
-    "feed_name": "Economist",
-    "title": "European pensions are a $30trn missed opportunity",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/04/european-pensions-are-a-30trn-missed-opportunity",
-    "content": "If only more countries went Dutch",
-    "date": "2026-03-04T22:58:03",
     "category": "Magazines"
   }
 ]
