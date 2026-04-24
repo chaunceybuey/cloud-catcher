@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/24/opinion/international-world/iran-war-trump-deal.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Here\u2019s How Trump Can Get Us Out of the Mess in Iran",
+    "author": "William J. Burns",
+    "link": "https://www.nytimes.com/2026/04/24/opinion/international-world/iran-war-trump-deal.html",
+    "content": "To salvage a decent peace with Iran, President Trump must learn the lessons of his war.",
+    "date": "2026-04-24T20:06:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/24/opinion/ezra-klein-podcast-stewart-brand.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Stewart Brand on the Ideals the Tech Industry Forgot",
+    "author": "Ezra Klein and Annie Galvin",
+    "link": "https://www.nytimes.com/2026/04/24/opinion/ezra-klein-podcast-stewart-brand.html",
+    "content": "The counterculture icon Stewart Brand is advocating values that are more countercultural than ever.",
+    "date": "2026-04-24T19:40:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19422-texas-performing-arts-riverdance-30-the-new-generation",
     "feed_name": "KMFA",
     "title": "Texas Performing Arts: Riverdance 30, The New Generation",
@@ -19978,25 +19998,5 @@
     "content": "\u201cData centers \u2026 they need some PR help,\u201dPresident Donald Trump said at the event.",
     "date": "2026-03-04T22:13:27",
     "category": "Magazines"
-  },
-  {
-    "id": "69a83663e166ef7297c6e3df",
-    "feed_name": "Wired (Science)",
-    "title": "Trump\u2019s War on Iran Could Screw Over US Farmers",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/trumps-war-on-iran-could-screw-over-us-farmers/",
-    "content": "The Middle East supplies a huge amount of the world\u2019s fertilizer. Conflict in the region has sent prices soaring ahead of the critical spring planting season.",
-    "date": "2026-03-04T19:08:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/03/opinion/iran-trump.html",
-    "feed_name": "Douthat",
-    "title": "The Iran War Is Trump\u2019s War",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/03/03/opinion/iran-trump.html",
-    "content": "Has the president\u2019s unerring instinct for vulnerability finally failed him?",
-    "date": "2026-03-04T17:44:29",
-    "category": "NYT"
   }
 ]
