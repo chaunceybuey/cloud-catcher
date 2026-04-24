@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "New Gene Therapy Enables Children With a Rare Form of Deafness to Hear",
+    "author": "Gina Kolata",
+    "link": "https://www.nytimes.com/2026/04/23/science/deaf-gene-therapy.html",
+    "content": "Miles was born with otoferlin deafness, a rare form of deafness caused by a mutation in a single gene. But with a new gene therapy, he can hear.",
+    "date": "2026-04-23T20:38:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
     "feed_name": "NYT (Shared)",
     "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push",
@@ -19988,15 +19998,5 @@
     "content": "There\u2019s a good way to throw out the ISS. And then there\u2019s a really bad way.",
     "date": "2026-02-25T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
-    "feed_name": "Douthat",
-    "title": "Whatever Happened to Grown-Up Movies for Kids?",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/02/24/opinion/entertainment-kids-adults.html",
-    "content": "We need stories that are more adult than Y.A. and less explicit than HBO.",
-    "date": "2026-02-24T23:16:11",
-    "category": "NYT"
   }
 ]
