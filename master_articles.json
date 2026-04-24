@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/23/us/politics/trump-reflecting-pool-renovation.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Says He\u2019s Renovating \u2018Filthy\u2019 Reflecting Pool on the National Mall",
+    "author": "Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-reflecting-pool-renovation.html",
+    "content": "President Trump discussed renovations to the reflecting pool near the Lincoln Memorial during an event on health care on Thursday.",
+    "date": "2026-04-23T22:40:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227629",
     "feed_name": "Texas Tribune",
     "title": "ICE deported man who says he\u2019s a U.S. citizen after traffic stop in Central Texas",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
     "content": "The all-out air assault on the Islamic Republic might be the biggest gamble of the president\u2019s career.",
     "date": "2026-03-01T17:47:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "d1946dba-4766-4249-91a1-d7d712ffbfd8",
-    "feed_name": "Economist",
-    "title": "War in Iran could cause the biggest oil shock in years",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years",
-    "content": "Prices have surged\u2014and may stay high for a while",
-    "date": "2026-03-01T12:28:02",
     "category": "Magazines"
   }
 ]
