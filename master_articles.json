@@ -410,6 +410,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/24/arts/design/san-giacomo-in-paludo-island-venice.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "This \u2018Sustainable\u2019 Island Is Venice\u2019s Newest Art Oasis",
+    "author": "Scott Reyburn",
+    "link": "https://www.nytimes.com/2026/04/24/arts/design/san-giacomo-in-paludo-island-venice.html",
+    "content": "Installing Pamela Rosenkranz\u2019s \u201cOld Tree (Pink Seas)\u201d on the island of San Giacomo in Paludo, in Venice.",
+    "date": "2026-04-24T10:34:44",
+    "category": "NYT"
+  },
+  {
     "id": "9ac73d92fd94112b197211a2c92c586b",
     "feed_name": "LRB",
     "title": "J.H. Prynne 1936-2026",
@@ -19988,15 +19998,5 @@
     "content": "Jackson, Wyo. Teton County is both the richest county in America and a place that in some areas is struggling to maintain basic services.",
     "date": "2026-03-09T14:17:41",
     "category": "NYT"
-  },
-  {
-    "id": "699c6058cd03b9e4a41bdf86",
-    "feed_name": "Wired (Science)",
-    "title": "Don\u2019t Expect Big Surprises in the Government\u2019s Alien Files",
-    "author": "Becky Ferreira",
-    "link": "https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/",
-    "content": "Donald Trump has ordered the release of files related to aliens, UAP, and UFOs. If previous disclosures are any indication, get ready for a letdown.",
-    "date": "2026-03-09T10:00:00",
-    "category": "Magazines"
   }
 ]
