@@ -470,6 +470,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/24/realestate/how-to-lay-the-perfect-pavers.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How to Lay the Perfect Pavers",
+    "author": "Tim Heffernan",
+    "link": "https://www.nytimes.com/2026/04/24/realestate/how-to-lay-the-perfect-pavers.html",
+    "content": "It\u2019s time to get outside and do something nice for your property.",
+    "date": "2026-04-24T09:02:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/24/magazine/eternal-life-longevity-world-leaders.html",
     "feed_name": "NYT (Emailed)",
     "title": "The Rich and Powerful Want to Live Forever",
@@ -19988,15 +19998,5 @@
     "content": "For investors, the war is like the invasion of Ukraine all over again",
     "date": "2026-03-09T19:49:06",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html",
-    "feed_name": "NYT (Shared)",
-    "title": "America\u2019s Billionaires Continue to Flock to Wyoming",
-    "author": "Katie Benner, Steven Rich, Mike Baker, John Branch and Will Warasila",
-    "link": "https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html",
-    "content": "Jackson, Wyo. Teton County is both the richest county in America and a place that in some areas is struggling to maintain basic services.",
-    "date": "2026-03-09T14:17:41",
-    "category": "NYT"
   }
 ]
