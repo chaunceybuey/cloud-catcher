@@ -110,6 +110,26 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/24/business/media/david-ellison-trump-cbs-news.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Inside Trump and David Ellison\u2019s Private Party in Washington",
+    "author": "Michael M. Grynbaum",
+    "link": "https://www.nytimes.com/2026/04/24/business/media/david-ellison-trump-cbs-news.html",
+    "content": "The gathering included executives and leading journalists from CBS News, which Paramount owns, and the head of the Justice Department, which is reviewing the acquisition.",
+    "date": "2026-04-24T22:41:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/24/us/politics/appeals-court-trump-asylum-claims.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Appeals Court Says Trump\u2019s Ban on Asylum Claims at Border Is Illegal",
+    "author": "Mattathias Schwartz",
+    "link": "https://www.nytimes.com/2026/04/24/us/politics/appeals-court-trump-asylum-claims.html",
+    "content": "Migrants approved for asylum appointments with Customs and Border Protection last year in Tapachula, Mexico.",
+    "date": "2026-04-24T20:50:46",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227781",
     "feed_name": "Texas Tribune",
     "title": "Texas agency finds Camp Mystic emergency plan insufficient",
@@ -137,6 +157,26 @@
     "link": "https://www.nytimes.com/2026/04/24/opinion/international-world/iran-war-trump-deal.html",
     "content": "To salvage a decent peace with Iran, President Trump must learn the lessons of his war.",
     "date": "2026-04-24T20:06:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/24/travel/flight-cancellations-europe-summer-vacation.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How Jet Fuel Shortages Could Affect Summer Travel to Europe and Beyond",
+    "author": "Christine Chung",
+    "link": "https://www.nytimes.com/2026/04/24/travel/flight-cancellations-europe-summer-vacation.html",
+    "content": "The German airline Lufthansa cut nearly 20,000 flights over the next six months to conserve jet fuel, which could begin to run low in Europe as soon as next month.",
+    "date": "2026-04-24T20:01:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/24/us/politics/white-house-texts-records-lawsuit.html",
+    "feed_name": "NYT (Shared)",
+    "title": "White House Allowed Officials\u2019 Text Messages to Be Deleted, Lawsuit Says",
+    "author": "Minho Kim",
+    "link": "https://www.nytimes.com/2026/04/24/us/politics/white-house-texts-records-lawsuit.html",
+    "content": "The lawsuit comes amid a torrent of accusations that President Trump and his administration have disregarded record-keeping and document disclosure required by law.",
+    "date": "2026-04-24T19:53:44",
     "category": "NYT"
   },
   {
@@ -227,6 +267,16 @@
     "link": "https://www.nytimes.com/2026/04/23/business/pentagon-fires-stars-and-stripes-ombudsman.html",
     "content": "The Pentagon has been taking steps to increase its editorial control of Stars and Stripes, which has covered the military continuously since World War II.",
     "date": "2026-04-24T17:42:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/24/us/elections/deb-haaland-sam-bregman-new-mexico-governor.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Deb Haaland\u2019s Historic Run for New Mexico Governor Hits a Primary Snag",
+    "author": "Reis Thebault",
+    "link": "https://www.nytimes.com/2026/04/24/us/elections/deb-haaland-sam-bregman-new-mexico-governor.html",
+    "content": "Deb Haaland, former Interior secretary and congresswoman, seemed like a shoo-in for New Mexico governor, but she finds herself in a real Democratic primary race.",
+    "date": "2026-04-24T17:25:41",
     "category": "NYT"
   },
   {
@@ -19947,56 +19997,6 @@
     "link": "https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/",
     "content": "Donald Trump has ordered the release of files related to aliens, UAP, and UFOs. If previous disclosures are any indication, get ready for a letdown.",
     "date": "2026-03-09T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=18475",
-    "feed_name": "Stratechery",
-    "title": "MacBook Neo, The (Not-So) Thin MacBook, Apple and Memory",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/macbook-neo-the-not-so-thin-macbook-apple-and-memory/",
-    "content": "<p>The MacBook Neo was built to be cheap; that it is still good is not only a testament to Apple Silicon, but also the fact that the most important software runs in the cloud.</p>",
-    "date": "2026-03-09T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "69ab1b9143edae1fce00c6a4",
-    "feed_name": "Wired (Science)",
-    "title": "Why RFK\u2019s CDC Is Endorsing \u2018Shared Decisionmaking\u2019 for Vaccines",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/why-rfks-cdc-is-endorsing-shared-decision-making-for-vaccines/",
-    "content": "The MAHA movement is recasting the term\u2014developed in the 1980s to help protect patients against paternalistic medicine\u2014in service of its own agenda.",
-    "date": "2026-03-09T09:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "1a246078-7b90-4da6-b3aa-8a881122f5d0",
-    "feed_name": "Economist",
-    "title": "The Iran war puts Asia in an energy panic",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/08/the-iran-war-puts-asia-in-an-energy-panic",
-    "content": "Stranded Gulf supplies are choking off the region\u2019s economies",
-    "date": "2026-03-08T17:48:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/07/us/seat-11a-no-window-ryanair-airlines.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Seat 11A: The Windowless Inside Joke at 30,000 Feet",
-    "author": "Mark Walker",
-    "link": "https://www.nytimes.com/2026/03/07/us/seat-11a-no-window-ryanair-airlines.html",
-    "content": "On certain Boeing 737 and Airbus A321 jets, row 11 offers a seat sold as a window view that shows, instead, a wall. The discovery tends to arrive after boarding.",
-    "date": "2026-03-08T16:26:54",
-    "category": "NYT"
-  },
-  {
-    "id": "9aed7544-c8fe-429e-9298-f1d1c2b7604f",
-    "feed_name": "Economist",
-    "title": "Would America be in recession without the super-rich?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich",
-    "content": "American anxieties are K-shaped. The economy is more like a slash-mark",
-    "date": "2026-03-08T12:36:30",
     "category": "Magazines"
   }
 ]
