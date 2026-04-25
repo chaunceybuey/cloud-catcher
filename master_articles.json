@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/05/14/art-for-our-age-of-chaos-new-humans-new-museum-whitney-biennial/",
+    "feed_name": "NYRB",
+    "title": "Art for Our Age of Chaos",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/05/14/art-for-our-age-of-chaos-new-humans-new-museum-whitney-biennial/",
+    "content": "The 2026 Whitney Biennial and the New Museum\u2019s exhibition \u201cNew Humans: Memories of the Future\u201d are attempts to respond to a world full of darkness, trauma, and strife.\n\nDelivered by PolitePaul service",
+    "date": "2026-04-25T18:48:48",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227837",
     "feed_name": "Texas Tribune",
     "title": "ICE re-arrests Egyptian family after Texas judges freed them following 10 months in detention",
@@ -19988,15 +19998,5 @@
     "content": "Why is the biggest name in AI late to the AI coding revolution?",
     "date": "2026-03-11T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=18501",
-    "feed_name": "Stratechery",
-    "title": "Oracle Earnings, Oracle\u2019s Cloud Growth, Oracle\u2019s Software Defense",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/oracle-earnings-oracles-cloud-growth-oracles-software-defense/",
-    "content": "<p>Oracle crushed earnings in a way that not only speaks to the secular AI wave they are riding but also to Oracle's strong position</p>",
-    "date": "2026-03-11T10:00:00",
-    "category": "Tech"
   }
 ]
