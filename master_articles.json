@@ -110,6 +110,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The 85-Year-Old Widow Snagged by Trump\u2019s Immigration Crackdown",
+    "author": "Catherine Porter",
+    "link": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
+    "content": "In her first interview since being deported, Marie-Th\u00e9r\u00e8se Ross-Mah\u00e9, the French widow of a former G.I., recounted her experience in ICE detention.",
+    "date": "2026-04-25T09:32:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/23/arts/music/ruth-slenczynska-dead.html",
     "feed_name": "NYT (Shared)",
     "title": "Ruth Slenczynska, 101, Dies; Piano Prodigy Overcame Father\u2019s Abuse",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-03-10T03:50:47",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8709762#p8709762",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "stan1",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8709762#p8709762",
-    "content": "My Cash Plus balance is now zero and I'll close the account in 2027 after I get the 1099.  Reason:  I was still using ACH pushes from Vanguard to my credit union, and the credit union had a low max limit on credit card payments from an external account.  Didn't need the Cash Plus account, didn't replace the credit union account, and didn't want the extra 1099.  Will reconsider in the future if something changes.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=3663\">stan1</a> \u2014 Mon Mar 09, 2026 8:33 pm</p><hr />",
-    "date": "2026-03-10T01:33:54",
-    "category": "Finance"
   }
 ]
