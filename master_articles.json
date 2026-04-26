@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "688d2c72-0b02-42b4-afd0-eb33d261f0e3",
+    "feed_name": "Economist",
+    "title": "San Francisco, AI capital of the world, is an economic laggard",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+    "content": "Artificial intelligence is booming. Its heartland is not",
+    "date": "2026-04-26T16:23:37",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Dwarkesh Patel\u2019s Podcast Lets You Eavesdrop on the A.I. Elite",
+    "author": "Benjamin Wallace",
+    "link": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html",
+    "content": "Dwarkesh Patel in his office and studio in San Francisco. \u201cHe\u2019s very much in the community, in the inner ring,\u201d one tech executive said.",
+    "date": "2026-04-26T15:09:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/18466-armstrong-community-music-school-sound-bath-for-wellness-relaxation",
     "feed_name": "KMFA",
     "title": "Armstrong Community Music School: Sound Bath for Wellness &amp; Relaxation",
@@ -167,6 +187,26 @@
     "link": "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html",
     "content": "President Trump speaking in the White House briefing room on Saturday night.",
     "date": "2026-04-26T09:20:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/26/opinion/iran-cost-united-states-iraq-ukraine.html",
+    "feed_name": "NYT (Shared)",
+    "title": "We Will Be Paying for the Iran War for a Very Long Time",
+    "author": "Haider Ali Hussein Mullick",
+    "link": "https://www.nytimes.com/2026/04/26/opinion/iran-cost-united-states-iraq-ukraine.html",
+    "content": "The Iran conflict resembles others the United States has been involved in recently: easy to start and hard to end.",
+    "date": "2026-04-26T09:02:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/26/well/south-carolina-measles-outbreak-ends.html",
+    "feed_name": "NYT (Shared)",
+    "title": "South Carolina Measles Outbreak Ends After Sickening Nearly 1,000",
+    "author": "Teddy Rosenbluth",
+    "link": "https://www.nytimes.com/2026/04/26/well/south-carolina-measles-outbreak-ends.html",
+    "content": "A mobile clinic offered free measles, mumps and rubella vaccinations amid a measles outbreak in South Carolina.",
+    "date": "2026-04-26T09:00:25",
     "category": "NYT"
   },
   {
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/15/opinion/columnists/minneapolis-ice-trump-neighbor.html",
     "content": "Moms donating their breast milk to strangers, dads taking someone else\u2019s kids to school: Minnesotans showed a basic human impulse to look out for their neighbors.",
     "date": "2026-03-15T14:51:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/15/us/politics/farm-labor-trump-migrant-workers-h2a.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Trump Administration Turns to Migrant Workers to Help Farm Labor Shortage",
-    "author": "Linda Qiu",
-    "link": "https://www.nytimes.com/2026/03/15/us/politics/farm-labor-trump-migrant-workers-h2a.html",
-    "content": "Ernesto Martinez and Noe Rub\u00edo, both workers from the H-2A program, pruning peach trees on at Talbott Farms on Monday.",
-    "date": "2026-03-15T09:00:19",
-    "category": "NYT"
-  },
-  {
-    "id": "69b478914c5f5e935676dae2",
-    "feed_name": "Wired (Science)",
-    "title": "A New Study Details How Cats Almost Always Land on Their Feet",
-    "author": "Marta Musso",
-    "link": "https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/",
-    "content": "The secret to this acrobatic skill lies in an extremely flexible part of the spine that allows cats to twist in the air and land safely.",
-    "date": "2026-03-15T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html",
-    "feed_name": "NYT (Popular)",
-    "title": "FCC Chair Threatens to Revoke Broadcasters\u2019 Licenses Over Iran War Coverage",
-    "author": "Ashley Ahn",
-    "link": "https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html",
-    "content": "Brendan Carr in Washington in January.",
-    "date": "2026-03-15T04:37:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/10/well/wash-new-clothes-before-wearing.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Do You Really Need to Wash New Clothes Before Wearing Them?",
-    "author": "Jillian Pretzel",
-    "link": "https://www.nytimes.com/2026/03/10/well/wash-new-clothes-before-wearing.html",
-    "content": "We asked experts whether they can irritate your skin or cause other problems.",
-    "date": "2026-03-15T00:05:03",
     "category": "NYT"
   }
 ]
