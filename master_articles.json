@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/26/us/politics/trump-gunman-security-violence.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A Gunman Got Close to Trump Again, Raising More Questions About Political Violence",
+    "author": "Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/trump-gunman-security-violence.html",
+    "content": "Heavy security was evident at the White House on Saturday night.",
+    "date": "2026-04-26T04:55:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/26/world/europe/nieves-gonzalez-lily-allen-artist-west-end-girl-spain.html",
     "feed_name": "NYT (Emailed)",
     "title": "How Nieves Gonz\u00e1lez\u2019s Painting of Lily Allen Made Her Famous",
@@ -19988,15 +19998,5 @@
     "content": "<p>Ask your questions below.</p>\n      <p>\n          <a href=\"https://www.slowboring.com/p/sunday-thread-mailbag-377\">\n              Read more\n          </a>\n      </p>",
     "date": "2026-03-15T17:01:33",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/15/opinion/columnists/minneapolis-ice-trump-neighbor.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Why Minnesota Matters More Than Iran for America\u2019s Future",
-    "author": "Thomas L. Friedman",
-    "link": "https://www.nytimes.com/2026/03/15/opinion/columnists/minneapolis-ice-trump-neighbor.html",
-    "content": "Moms donating their breast milk to strangers, dads taking someone else\u2019s kids to school: Minnesotans showed a basic human impulse to look out for their neighbors.",
-    "date": "2026-03-15T14:51:04",
-    "category": "NYT"
   }
 ]
