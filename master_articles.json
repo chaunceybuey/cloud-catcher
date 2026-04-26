@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/26/us/politics/trump-white-house-ballroom-dinner-shooting.html",
+    "feed_name": "NYT (Shared)",
+    "title": "After Shooting, Trump Demands Approval for His White House Ballroom",
+    "author": "Luke Broadwater, Ali Watkins and Zach Montague",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/trump-white-house-ballroom-dinner-shooting.html",
+    "content": "The construction site for the new White House ballroom last month.",
+    "date": "2026-04-26T16:50:13",
+    "category": "NYT"
+  },
+  {
     "id": "688d2c72-0b02-42b4-afd0-eb33d261f0e3",
     "feed_name": "Economist",
     "title": "San Francisco, AI capital of the world, is an economic laggard",
@@ -258,6 +268,16 @@
     "content": "KMFA &amp; Drift Out West Present:\n\nSPRING GARDEN PARTY w/ Special Musical Guest VAMP Vocals!\n\n\u00a0\n\n\n\nKMFA &amp; Drift Out West invite you to a Spring Garden Party this April 25th, from 5-8PM! Taking place at their beautiful location in Driftwood, TX, only a 25 minute drive from downtown Austin. Guests will enjoy a catered meal from Son of the Wild Catering, a welcome glass of bubbly, wine pours from some of Central Texas' finest vineyards, a sunset walking trail, live music, and more! Space is limited; get your ticket today!\n\n\n\nVAMP VOCALS\n\nJoining us for a special performance is VAMP Vocals!\u00a0VAMP is a vocal quartet of formidable female artists touting a motley songbook and a bold red lip. Versatile in style and genre, they are committed to programming and commissioning new work and making classical vocal music relatable for audiences. VAMP Vocals seeks to create unconventional musical experiences that embrace vulnerability and emotional intensity and provide audiences with a unique \u200bwomen-led perspective and a renewed sense of connection to their community, themselves, and the world.\n\n\n\nEvent Details\nDate: Saturday, April 25th, 2026\nTime: 5:00PM - 8:00PM\nVenue: Drift Out West\n\nTicket Information\nCost: $95\nPhone: \n\nPresenter Details: Whether hosting an intimate Hill Country wedding, a yoga or wellness retreat, or a micro-wedding with loved ones, Drift Out West offers versatile event spaces designed to accommodate any occasion. From sprawling prairies to curated gardens, the venue caters to both small gatherings and grand celebrations. The wrap-around porch and outdoor areas effortlessly blend the charm of nature with modern amenities, creating a flawless backdrop for unforgettable moments. More than an event rental space, Drift Out West is a destination where nature and thoughtful design converge to transform every event into a lasting memory. Plan your next corporate retreat, rehearsal dinner, or private party here, and experience the unmatched magic of Hill Country.",
     "date": "2026-04-25T21:27:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/25/health/eugene-braunwald-dead.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Eugene Braunwald, Whose Research Reshaped Cardiology, Dies at 96",
+    "author": "Jonathan Kandell",
+    "link": "https://www.nytimes.com/2026/04/25/health/eugene-braunwald-dead.html",
+    "content": "His work changed how doctors understood heart attacks, heart failure and coronary artery disease, and helped lead to therapies that saved millions of lives.",
+    "date": "2026-04-25T21:03:46",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/25/us/house-black-republicans-congress-diversity.html",
@@ -19978,25 +19998,5 @@
     "content": "",
     "date": "2026-03-16T08:45:21",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Entering War\u2019s Third Week, Trump Faces Stark Choices",
-    "author": "David E. Sanger, Eric Schmitt, Tyler Pager, Ronen Bergman and Julian E. Barnes",
-    "link": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html",
-    "content": "President Trump has wrestled publicly with his stay-or-leave options, sometimes suggesting that the war is all but won and at others seeming to acknowledge that there is still heavy fighting ahead.",
-    "date": "2026-03-15T22:25:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.slowboring.com/p/sunday-thread-mailbag-377",
-    "feed_name": "Slow Boring",
-    "title": "Sunday Thread + Mailbag",
-    "author": "Halina Bennet",
-    "link": "https://www.slowboring.com/p/sunday-thread-mailbag-377",
-    "content": "<p>Ask your questions below.</p>\n      <p>\n          <a href=\"https://www.slowboring.com/p/sunday-thread-mailbag-377\">\n              Read more\n          </a>\n      </p>",
-    "date": "2026-03-15T17:01:33",
-    "category": "Uncategorized"
   }
 ]
