@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "3dd325ece1cdc70d1c4c7bae94e264ea",
+    "feed_name": "LRB",
+    "title": "Displaced",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/april/displaced",
+    "content": "Last Wednesday, the reporter Amal Khalil and photojournalist Zeinab Faraj were on assignment in south Lebanon when Israeli drones struck the.\u00a0.\u00a0.",
+    "date": "2026-04-27T15:56:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227913",
     "feed_name": "Texas Tribune",
     "title": "U.S. Supreme Court upholds Texas\u2019 newly redrawn congressional map",
@@ -19988,15 +19998,5 @@
     "content": "A portrait of the late Cesar Chavez at Courthouse Park in Merced, California before the beginning of the United Farm Workers March on August 15, 2002.",
     "date": "2026-03-18T22:06:25",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.slowboring.com/p/washington-goes-yimby",
-    "feed_name": "Slow Boring",
-    "title": "Washington goes YIMBY?",
-    "author": "Halina Bennet",
-    "link": "https://www.slowboring.com/p/washington-goes-yimby",
-    "content": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" href=\"https://substackcdn.com/image/fetch/$s_!sPm3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe536770-6eb2-4334-81b4-57b020770880_7008x4672.jpeg\" target=\"_blank\"><div class=\"image2-inset\"><source type=\"image/webp\" /><img alt=\"\" class=\"sizing-normal\" height=\"971\" src=\"https://substackcdn.com/image/fetch/$s_!sPm3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe536770-6eb2-4334-81b4-57b020770880_7008x4672.jpeg\" width=\"1456\" /><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button class=\"pencraft pc-reset pencraft icon-container restack-image\" tabindex=\"0\" type=\"button\"><svg fill=\"none\" height=\"20\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button class=\"pencraft pc-reset pencraft icon-container view-image\" tabindex=\"0\" type=\"button\"><svg class=\"lucide lucide-maximize2 lucide-maximize-2\" fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Housing policy is on the agenda. (Photo by <a href=\"https://www.gettyimages.com/search/2/image?artistexact=aire%20images\">Aire Images</a>)</figcaption></figure></div><p><em>This was a particularly exciting week in federal housing policy. In Washington, the Senate passed its first major housing bill in more than a decade, while the White House signed two executive orders. Across the country, starter, missing-middle, and faith-based housing are up for debate. </em></p><h4><strong>A major hou&#8230;</strong></h4>\n      <p>\n          <a href=\"https://www.slowboring.com/p/washington-goes-yimby\">\n              Read more\n          </a>\n      </p>",
-    "date": "2026-03-18T22:01:08",
-    "category": "Uncategorized"
   }
 ]
