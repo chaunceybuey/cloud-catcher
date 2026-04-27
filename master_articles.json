@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "d467ddfdffa1c5bb4cc2e0b2495950ab",
+    "feed_name": "New Yorker",
+    "title": "Donald Trump\u2019s Pardon Economy",
+    "author": "ByRuth Marcus",
+    "link": "https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy",
+    "content": "For some wealthy offenders, clemency is just a golf game\u2014or a million-dollar plate at Mar-a-Lago\u2014away.",
+    "date": "2026-04-27T19:27:01",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html",
     "feed_name": "NYT (Emailed)",
     "title": "Canada\u2019s New Route to Citizenship Has Thousands of Americans Lining Up to Apply",
@@ -19988,15 +19998,5 @@
     "content": "<p>Stratechery is on a bit of a disjointed Spring Break, as my usual week off will be spread out:</p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>There will be no Update on Thursday, March 19</li>\n\n\n\n<li>There will be no Update on Monday and Tuesday, March 23\u201324; there will be an Update and Interview on Wednesday and Thursday, March 25\u201326</li>\n\n\n\n<li>There will be no Update on Monday, March 30</li>\n</ul>\n\n\n\n<p>I will return to my usual <a href=\"https://stratechery.com/stratechery-plus/schedule/\">posting schedule</a> on Tuesday, March 31.</p>\n\n\n\n<p>All other Stratechery Plus content, including my podcasts, will stay on schedule. </p>\n\n\n\n<p></p>",
     "date": "2026-03-19T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "69b84b9e0c033a958e517137",
-    "feed_name": "Wired (Science)",
-    "title": "Get Ready for a Year of Chaotic Weather in the US",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/",
-    "content": "A massive Western heat wave and a potential El Ni\u00f1o event raise concerns about a long stretch of unpredictable and extreme weather.",
-    "date": "2026-03-19T09:00:00",
-    "category": "Magazines"
   }
 ]
