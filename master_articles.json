@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "69ef5bf11bd4101a6eaf9acb",
+    "feed_name": "Wired (Science)",
+    "title": "A Brain Implant for Depression Is About to Be Tested in Humans",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/a-brain-implant-for-depression-is-about-to-be-tested-in-humans/",
+    "content": "While many brain-computer interface companies are focused on helping paralyzed people communicate, Motif Neurotech is targeting mental health disorders.",
+    "date": "2026-04-27T17:02:29",
+    "category": "Magazines"
+  },
+  {
     "id": "3dd325ece1cdc70d1c4c7bae94e264ea",
     "feed_name": "LRB",
     "title": "Displaced",
@@ -19988,15 +19998,5 @@
     "content": "Declaring victory and ending the war might not be so easy.",
     "date": "2026-03-18T22:29:20",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224382",
-    "feed_name": "Texas Tribune",
-    "title": "Texas cities, state government cancel Cesar Chavez Day in wake of report on activist",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17301766/cesar-chavez-day-texas-fallout-sexual-abuse-allegations",
-    "content": "A portrait of the late Cesar Chavez at Courthouse Park in Merced, California before the beginning of the United Farm Workers March on August 15, 2002.",
-    "date": "2026-03-18T22:06:25",
-    "category": "Texas"
   }
 ]
