@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Cellular Rejuvenation Has the Potential to Reverse Aging",
+    "author": "Susan Dominus",
+    "link": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
+    "content": "A new therapy has the potential to cure hundreds of diseases \u2014 and even reverse aging.",
+    "date": "2026-04-27T13:42:17",
+    "category": "NYT"
+  },
+  {
     "id": "f99a434a3fde56e8fa6367d298dc13b8",
     "feed_name": "New Yorker",
     "title": "Oneohtrix Point Never\u2019s Sense of the Uncanny",
@@ -19988,15 +19998,5 @@
     "content": "Tulsi Gabbard, the director of national intelligence, during a Senate hearing into worldwide threats on Wednesday. She said only the president can decide what constitutes an imminent threat.",
     "date": "2026-03-18T22:59:15",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224388",
-    "feed_name": "Texas Tribune",
-    "title": "Court approves new manager for Dallas-area foster care program after deaths of 2 infants",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17301802/texas-foster-care-empower-receivership",
-    "content": "The Texas Department of Family and Protective Services logo found in a poster in the Child Protective Services office in Austin on Nov. 14, 2019.",
-    "date": "2026-03-18T22:46:47",
-    "category": "Texas"
   }
 ]
