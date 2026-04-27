@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/26/briefing/apocalypse.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Apocalypse Goes Mainstream",
+    "author": "Lauren Jackson",
+    "link": "https://www.nytimes.com/2026/04/26/briefing/apocalypse.html",
+    "content": "The Ruby Ridge standoff in Idaho, in August 1992.",
+    "date": "2026-04-26T16:51:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/26/us/politics/trump-white-house-ballroom-dinner-shooting.html",
     "feed_name": "NYT (Shared)",
     "title": "After Shooting, Trump Demands Approval for His White House Ballroom",
@@ -260,6 +270,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
+    "feed_name": "NYT (Shared)",
+    "title": "40 Years After the Meltdown, War Layers Another Disaster on Chernobyl",
+    "author": "Andrew E. Kramer, Evelina Riabenko and Brendan Hoffman",
+    "link": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
+    "content": "Ideas have been floated for how the contaminated zone could bring economic benefits to Ukraine. But for the foreseeable future, it will be an army-controlled security belt.",
+    "date": "2026-04-26T10:32:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Describes His Mind-Set After Shooting at White House Correspondents\u2019 Dinner",
@@ -287,6 +307,16 @@
     "link": "https://www.nytimes.com/2026/04/26/us/trump-administration-food-stamps.html",
     "content": "Legislation and regulatory tweaks enacted over the past year have altered who is eligible, what recipients can buy and how much some receive in benefits, among other changes.",
     "date": "2026-04-26T09:02:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How We Traced U.S. Government Gold to a Drug Cartel",
+    "author": "Justin Scheck",
+    "link": "https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html",
+    "content": "The reporter Justin Scheck of The Times at La Mandinga, in Colombia. It\u2019s a government-owned cattle ranch where illegal miners tear up the earth.",
+    "date": "2026-04-26T09:02:15",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.outsideonline.com/adventure-travel/national-parks/most-endangered-public-lands-america/",
     "content": "",
     "date": "2026-03-17T05:00:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224143",
-    "feed_name": "Texas Tribune",
-    "title": "Rep. Jasmine Crockett confirms security team member killed by Dallas police in standoff",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17300496/texas-jasmine-crockett-security-team-member-alias-killed",
-    "content": "U.S. Rep. Jasmine Crockett speaks at a campaign event during her Democratic primary bid for the U.S. Senate, in Brownsville on Jan. 10, 2026.",
-    "date": "2026-03-17T01:13:32",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Judge Strikes Down RFK Jr.\u2019s Vaccine Policies in Blow to Trump\u2019s Health Agenda",
-    "author": "Apoorva Mandavilli",
-    "link": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
-    "content": "A meeting of the Advisory Committee on Immunization Practices in Atlanta in December.",
-    "date": "2026-03-17T00:46:21",
-    "category": "NYT"
-  },
-  {
-    "id": "04727bb4-bf3a-4145-ac2a-0bf6153ead0a",
-    "feed_name": "Economist",
-    "title": "The Iran war is roiling commodities far beyond oil",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil",
-    "content": "Shortages of fuels and chemicals threaten industries from farming to pharmaceuticals",
-    "date": "2026-03-16T22:34:40",
     "category": "Magazines"
   }
 ]
