@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/26/us/california-billionaire-tax.html",
+    "feed_name": "NYT (Shared)",
+    "title": "California Billionaire Tax Has Enough Signatures to Land on Ballot, Backers Say",
+    "author": "Laurel Rosenhall",
+    "link": "https://www.nytimes.com/2026/04/26/us/california-billionaire-tax.html",
+    "content": "The billionaire tax\u2019s supporters, who have been gathering signatures for months, promoted the measure at a booth at the California Democratic Convention in November.",
+    "date": "2026-04-27T04:17:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
     "feed_name": "NYT (Shared)",
     "title": "Israel\u2019s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/17/science/birds-honeyeater-birdsong-conservation.html",
     "content": "The regent honeyeater population of Australia has dropped sharply since the mid-20th century. Today scientists estimate that roughly 250 wild birds live in the fragmented forests across an area about the size of Spain.",
     "date": "2026-03-17T09:01:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/17/realestate/kingston-new-york-pike-plan-sidewalks-time-capsule.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Removal of Kingston\u2019s Sidewalk Canopies Reveals a Time Capsule",
-    "author": "Alexandra Marvar",
-    "link": "https://www.nytimes.com/2026/03/17/realestate/kingston-new-york-pike-plan-sidewalks-time-capsule.html",
-    "content": "Dozens of buildings in Kingston, N.Y., have had parts of their facades torn off as part of a community-led refurbishment effort.",
-    "date": "2026-03-17T09:00:48",
     "category": "NYT"
   }
 ]
