@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "7ab6aec1ac2266df834b8400686f6fd7",
+    "feed_name": "LRB",
+    "title": "Politics on Speed",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n08/william-davies/easy-to-join-easy-to-leave",
+    "content": "One\u200bmorningin the summer of 2016, a few weeks into the disorientating aftermath of Britain\u2019s vote to leave the European Union, my wife and I sat in a community centre in Poplar, East London with our baby son. Our three-year-old daughter must have been at nursery. The occasion was a \u2018consultation\u2019 hosted by Tower Hamlets Council on the \u2018future of Children\u2019s...",
+    "date": "2026-04-27T17:26:28",
+    "category": "Magazines"
+  },
+  {
     "id": "69ef5bf11bd4101a6eaf9acb",
     "feed_name": "Wired (Science)",
     "title": "A Brain Implant for Depression Is About to Be Tested in Humans",
@@ -98,6 +108,16 @@
     "content": "While many brain-computer interface companies are focused on helping paralyzed people communicate, Motif Neurotech is targeting mental health disorders.",
     "date": "2026-04-27T17:02:29",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/climate/60-countries-to-meet-on-phasing-out-fossil-fuels-but-are-excluding-the-us.html",
+    "feed_name": "NYT (Shared)",
+    "title": "60 Countries to Meet on Phasing Out Fossil Fuels but Are Excluding the U.S.",
+    "author": "Lisa Friedman",
+    "link": "https://www.nytimes.com/2026/04/27/climate/60-countries-to-meet-on-phasing-out-fossil-fuels-but-are-excluding-the-us.html",
+    "content": "Dutch and Colombian environment officials at last year\u2019s U.N. climate summit in Bel\u00e9m, Brazil, where this week\u2019s First Conference on Transitioning Away from Fossil Fuels in Santa Marta was announced.",
+    "date": "2026-04-27T16:19:50",
+    "category": "NYT"
   },
   {
     "id": "3dd325ece1cdc70d1c4c7bae94e264ea",
@@ -19978,25 +19998,5 @@
     "content": "The Texas Department of Family and Protective Services logo found in a poster in the Child Protective Services office in Austin on Nov. 14, 2019.",
     "date": "2026-03-18T22:46:47",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/opinion/economy-us-trump-biden.html",
-    "feed_name": "NYT (Popular)",
-    "title": "If You Hate Trump\u2019s Economy, I Have News for You",
-    "author": "Jason Furman",
-    "link": "https://www.nytimes.com/2026/03/18/opinion/economy-us-trump-biden.html",
-    "content": "It\u2019s all a matter of perspective.",
-    "date": "2026-03-18T22:42:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/opinion/trump-iran-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "How Trump Should Extricate Himself From His Iran Quagmire",
-    "author": "Nicholas Kristof",
-    "link": "https://www.nytimes.com/2026/03/18/opinion/trump-iran-war.html",
-    "content": "Declaring victory and ending the war might not be so easy.",
-    "date": "2026-03-18T22:29:20",
-    "category": "NYT"
   }
 ]
