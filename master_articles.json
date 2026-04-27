@@ -330,6 +330,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The War in Iran Has Upended the Global Economy. The U.S. Has Been Mostly Spared.",
+    "author": "Patricia Cohen and Ben Casselman",
+    "link": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
+    "content": "A farmer in Vietnam preparing plastic containers of diesel he had just purchased.",
+    "date": "2026-04-27T10:27:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227600",
     "feed_name": "Texas Tribune",
     "title": "See what state employees in Texas are paid: Search our updated database.",
@@ -390,6 +400,26 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/opinion/trump-iran-war-powers.html",
+    "feed_name": "NYT (Shared)",
+    "title": "By Week\u2019s End, Trump\u2019s War Will Be Plainly Illegal",
+    "author": "Erwin Chemerinsky",
+    "link": "https://www.nytimes.com/2026/04/27/opinion/trump-iran-war-powers.html",
+    "content": "Federal judges have a duty to enforce the War Powers Act.",
+    "date": "2026-04-27T09:02:28",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/opinion/trump-attorney-general.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Why Trump Wants Unqualified U.S. Attorneys",
+    "author": "Jeffrey Toobin",
+    "link": "https://www.nytimes.com/2026/04/27/opinion/trump-attorney-general.html",
+    "content": "Revenge-based criminal cases against the president\u2019s enemies have not come to fruition. That\u2019s where the U.S. attorneys come in.",
+    "date": "2026-04-27T09:02:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/connecticut-towing-companies-ignore-new-law",
     "feed_name": "ProPublica",
     "title": "Some Connecticut Towing Companies Are Ignoring New Law Aimed at Helping Low-Income Residents",
@@ -417,6 +447,26 @@
     "link": "https://www.nytimes.com/2026/04/26/us/california-billionaire-tax.html",
     "content": "The billionaire tax\u2019s supporters, who have been gathering signatures for months, promoted the measure at a booth at the California Democratic Convention in November.",
     "date": "2026-04-27T04:17:45",
+    "category": "NYT"
+  },
+  {
+    "id": "dabbcadc571bd53852af85b28e7be487",
+    "feed_name": "Outside",
+    "title": "I Spent a Week in the Jungle to Find Out Why Women Are Paying Thousands to Talk About Hormones",
+    "author": "Christine Yu",
+    "link": "https://www.outsideonline.com/health/wellness/menopause-retreats/",
+    "content": "",
+    "date": "2026-04-27T03:17:08",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/article/best-miami-restaurants.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Best Miami Restaurants",
+    "author": "Carlos Fr\u00edas and Brett Anderson",
+    "link": "https://www.nytimes.com/article/best-miami-restaurants.html",
+    "content": "The culinary capital of South Florida has outstanding Cuban and Caribbean cuisine \u2014 of course \u2014 but also world-class Japanese, Italian, Ethiopian and more.",
+    "date": "2026-04-27T02:59:19",
     "category": "NYT"
   },
   {
@@ -1138,6 +1188,16 @@
     "content": "Texas Department of Public Safety troopers make a traffic stop in southeast Austin on Aug. 7, 2023.",
     "date": "2026-04-24T20:19:04",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/article/best-restaurants-new-orleans.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Best New Orleans Restaurants",
+    "author": "Brett Anderson",
+    "link": "https://www.nytimes.com/article/best-restaurants-new-orleans.html",
+    "content": "There\u2019s plenty of great Creole and Cajun food, of course, but also outstanding Vietnamese, Indian and Trinbagonian cuisine.",
+    "date": "2026-04-24T20:13:24",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/24/opinion/international-world/iran-war-trump-deal.html",
@@ -19938,65 +19998,5 @@
     "content": "Trying to keep prices low that way could backfire spectacularly",
     "date": "2026-03-18T20:54:20",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.propublica.org/article/sean-duffy-michael-alfonso-congress-transportation",
-    "feed_name": "ProPublica",
-    "title": "Transportation Lobbyists Have Donated Thousands to Sean Duffy\u2019s Son-in-Law as He Runs for Congress",
-    "author": "Megan O\u2019Matz",
-    "link": "https://www.propublica.org/article/sean-duffy-michael-alfonso-congress-transportation",
-    "content": "<p>The $16 billion Hudson Tunnel Project, under construction between Manhattan and New Jersey, will improve passenger rail service, an important issue for New York City commuters. It would seem to have nothing to do with what\u2019s happening in northern Wisconsin.&nbsp;</p>\n\n\n\n<p>But after the White House <a href=\"https://nypost.com/2025/10/01/us-news/18b-in-nyc-infrastructure-funding-on-hold-to-probe-whether-it-was-going-to-illegal-dei-practices-omb/\">froze federal grant funding</a> for the project in the fall, citing concerns about diversity and equity measures, lobbyists with an interest in the tunnel donated $2,500 to a political novice running in the Republican primary in Wisconsin\u2019s 7th Congressional District.&nbsp;</p>\n\n\n\n<p>The young candidate, Michael Alfonso, has no sway over the matter. However, his father-in-law does: Sean Duffy is secretary of the U.S. Department of Transportation.</p>\n\n\n\n<p>The contributions are among dozens to Alfonso\u2019s campaign from lobbyists, business executives and political action committees tied to industries \u2014 from rails and highways to shipping and air travel \u2014 that Duffy\u2019s department funds and regulates. His department also oversees the Federal Aviation Administration.</p>\n\n\n\n<p>Duffy held the 7th Congressional District seat for nearly a decade before resigning in 2019. He was succeeded by Tom Tiffany, who is now running for Wisconsin governor, leaving the seat open again. Alfonso, 26, who has worked in construction and podcasting, has been endorsed by&nbsp; President Donald Trump.&nbsp;</p>\n\n\n\n<p>A ProPublica analysis found that many of the Alfonso donors with transportation interests had never given to Duffy or Tiffany. While legal, such donations set up the appearance that helping Alfonso might assist the donors with issues influenced by Duffy. (Politico <a href=\"https://www.politico.com/newsletters/politico-influence/2026/03/13/canada-hires-cogent-to-help-maximize-its-social-media-influence-in-the-u-s-00828720\">has reported</a> on some of these contributions.)</p>\n\n\n\n<p>\u201cThe law, as it stands, provides very little constraint,\u201d said Daniel Weiner, director of the Elections and Government Program at the Brennan Center for Justice, a law and policy institute based in New York. \u201cThere\u2019s a very large gulf between what is legal and what is ethical. Obviously, this raises numerous ethical questions.\u201d</p>\n\n\n\n<p>This is not the first time a Cabinet secretary\u2019s relative has created thorny ethical issues. During the first Trump administration, Transportation Secretary Elaine Chao <a href=\"https://www.salon.com/2019/06/10/elaine-chao-trumps-transportation-secretary-used-her-office-to-boost-mitch-mcconnell-report/\">made headlines</a> for appearing to give preferential treatment to Kentucky officials for millions of dollars in infrastructure grants. Kentucky is the home state of her husband, Mitch McConnell, then Senate majority leader. At the time, Chao\u2019s office denied showing any favoritism, saying that Kentucky\u2019s share was not out of the ordinary.</p>\n\n\n\n<p>And in 2012, under President Barack Obama, Agriculture Secretary Tom Vilsack, an Iowa Democrat, <a href=\"https://www.agri-pulse.com/articles/1498-christie-vilsack-reports-strong-fund-raising-in-race-vs-rep-king/amp\">fielded questions</a> about the separation between U.S. Department of Agriculture business and the campaign of his wife, Christie, who was running for Congress. Christie Vilsack told ProPublica in an interview that the couple was careful about making sure her husband was not involved in the campaign, other than to support her at some debates and on election night. He \u201cnever did any fundraising at all,\u201d she said.</p>\n\n\n\n<p>An influential member of Trump\u2019s Cabinet, Duffy has been openly assisting his son-in-law\u2019s campaign. The notice for a November \u201cmeet and greet\u201d with Alfonso in Wausau, Wisconsin, mentioned that Duffy would be a special guest, as did an invitation for another December fundraiser.&nbsp;</p>\n\n\n\n<p>Among the sponsors for the December event was the political action committee for Delta Air Lines. The invitation included a caveat: \u201cSean Duffy is not soliciting funds in connection with this event.\u201d&nbsp;</p>\n\n\n\n<p>Alfonso\u2019s campaign did not respond to requests from ProPublica for an interview or for comment. A spokesperson for Duffy, Nathaniel Sizemore, provided a written statement saying: &#8220;The Secretary attends fundraising events in his personal capacity. Regulatory decisions are guided by career safety professionals, the law, and the facts.&#8221;</p>\n\n\n\n<p>Nothing in law bars Duffy from campaigning for his son-in-law, so long as he goes about it on his personal time, does not use government resources and does not promise to take some official action in exchange for a contribution.&nbsp;</p>\n\n\n\n<p>Alfonso is using the same fundraising consultant, Kirstin Hopkins, that Duffy employed, Federal Election Commission records show. In addition, Alfonso has received help with ads and mailers from a super PAC, the Northwoods Future PAC, that is funded with $1 million from Duffy\u2019s former campaign committee. Alfonso\u2019s familial advantage <a href=\"http://wisconsinrightnow.com/michael-alfonso-sean-duffy-john-righeimer-sawyer-county/\">has irked some Wisconsin Republicans</a> who don\u2019t want the newcomer to glide into such an important position.</p>\n\n\n\n<p>Through his own campaign committee, Alfonso had raised a little over $305,000 as of the end of 2025, the latest filing available. By law, contributions for each election are limited to $3,500 from individuals and $5,000 from political action committees. Donors can contribute to more than one election at the same time, such as a primary race and a general.</p>\n\n\n\n<p>Alfonso\u2019s donors include lobbyist Jeffrey Miller, a finance chair of Trump\u2019s most recent inaugural committee. In December, Miller and his company\u2019s chief operating officer donated separately to Alfonso, for a combined $8,500. No one listing their firm, Miller Strategies, as an employer had donated to either Duffy or Tiffany in the past, according to FEC records.&nbsp;</p>\n\n\n\n<p>Lobbyist disclosure reports show that Miller lobbied the Transportation Department in 2025 on behalf of at least nine companies, one New York county and one Native American tribe. The issues included airport signage regulation, aviation permitting for the developer of a supersonic airliner and advancements in GPS technology. Miller reported advocating for Archer Aviation regarding electric vertical takeoff and landing aircraft technology, known as eVTOL \u2014 the basis for future flying cars.</p>\n\n\n\n<p>Earlier this month, Duffy announced <a href=\"https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil\">a first-of-its-kind FAA pilot program</a> to test eVTOL technology in eight demonstration projects across 26 states. <a href=\"https://archer.com/\">Archer was among the companies</a> selected to participate, according to the Transportation Department. In a video accompanying the announcement, Duffy spoke enthusiastically about the technology, envisioning \u201cUbers in the air\u201d taking people from one airport to the next and beyond. He said, \u201ceVTOLs are going to make the airspace far more interesting and far more fun, and we have to be prepared for that.\u201d&nbsp;</p>\n\n\n\n<p>Miller did not return calls or emails seeking comment.&nbsp;</p>\n\n\n\n<p>Alfonso graduated in 2022 from the University of Wisconsin with a math degree. He moved to Florida for a time to help produce a popular podcast hosted by Dan Bongino, a Trump supporter who later served a brief stint as deputy director of the FBI. (Bongino is back podcasting again.)&nbsp;</p>\n\n\n\n<p>By Alfonso\u2019s account, he and Trump first met in 2022 at Alfonso\u2019s wedding to Duffy\u2019s daughter, Evita. The reception took place at one of Trump\u2019s New Jersey golf courses.</p>\n\n\n\n<p>Alfonso has said that in an Oval Office meeting after he decided to run for Congress, he pledged loyalty to the president. \u201cI promised him that I would always be America first, I would always fight for his agenda and that nobody would ever outwork me,\u201d Alfonso told Mark Halperin, another podcaster.</p>\n\n\n\n<p>On social media in November, Alfonso thanked Duffy for coming to his first campaign event in Wausau, the city where the candidate met his future wife while they were in middle school.</p>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-small bb--size-small-right\"><img alt=\"A screenshot of a post to X from @MikeAlfonsoWI with text that reads, \u201cHuge thank you to Sean Duffy and everyone who came out to our first official campaign event in my hometown of Wausau! Grateful for the support \u2014 and fired up for what\u2019s ahead! &#x1f1fa;&#x1f1f8;\u201d and four photographs of a political campaign event taking place in a conference room.\" class=\"wp-image-70774\" height=\"464\" src=\"https://www.propublica.org/wp-content/uploads/2026/03/DuffyAlfonso-Twitter-grey_maxHeight_3000_maxWidth_3000.jpg?w=527\" width=\"527\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">In a post on X, Alfonso thanked his father-in-law for joining him on the campaign trail in Wisconsin last November.</span> <span class=\"attribution__credit\">X</span></figcaption></figure>\n\n\n\n<p>The following month, the transportation secretary appeared at a campaign fundraiser for Alfonso at a hotel in Green Bay, near the storied Lambeau Field. The donors in attendance included Sharad Tak of Bethesda, Maryland, the CEO of ST LNG, a company <a href=\"https://www.regulations.gov/document/MARAD-2025-0096-0003\">seeking a DOT-issued license</a> to construct and operate a deep-water port offshore of Matagorda, Texas, to load liquefied natural gas onto carriers.&nbsp;</p>\n\n\n\n<p>Tak gave $500 to the campaign, and his wife, Mahinder, who did not attend the function, gave $7,000. Neither had donated to Duffy or Tiffany.&nbsp;</p>\n\n\n\n<p>Tak did not reply to ProPublica\u2019s request for an interview but asked a longtime friend of his, Ann Murphy of Green Bay, who works as a consultant for him, to respond. Tak owns a paper mill in Oconto Falls, north of Green Bay. It is not in the 7th Congressional District. But Murphy said Tak was visiting the state and agreed, at her request, to attend the fundraiser for Alfonso.&nbsp;</p>\n\n\n\n<p>She said in an interview that the Texas liquefied natural gas project had no bearing on Tak\u2019s campaign contribution. \u201cAbsolutely not.\u201d&nbsp;</p>\n\n\n\n<p>It\u2019s typical, she said, for Tak and his wife to support causes, both political and philanthropic, that Murphy and her husband find worthwhile \u2014 and vice versa.</p>\n\n\n\n<p>\u201cWe were very excited about Michael,\u201d Murphy said of Alfonso, likening him to Charlie Kirk, the founder of Turning Point USA who inspired many young people before being killed last year. \u201cAnd he does have the endorsement of President Trump.\u201d</p>\n\n\n\n<p>Others donating to Alfonso\u2019s candidacy include political action committees for employees of the military jetmaker Lockheed Martin, which is subject to FAA safety regulations and has lucrative government contracts, and for T-Mobile, which is working on a <a href=\"https://investor.iridium.com/2025-10-21-Iridium-Awarded-U-S-Department-of-Transportation-Contract-for-Complementary-Positioning,-Navigation,-and-Timing-Services-Deployment-and-Testing\">DOT project</a> to enhance the resilience of critical 5G infrastructure. PACs for unions and trade associations for heavy equipment operators, engineers, aeronautical services and the travel industry have also pitched in.&nbsp;</p>\n\n\n\n<p>The PAC for Brightline, a high-speed train service in Florida, also donated, giving $2,500 in December. Brightline trains have struck and killed more than 180 pedestrians or drivers at crossings since 2017, according to an investigation by the <a href=\"https://www.miamiherald.com/news/local/article308679915.html\">Miami Herald and WLRN</a>. Duffy promised at <a href=\"https://transportation.house.gov/calendar/eventsingle.aspx?EventID=408886\">a congressional committee</a> hearing in July to work to \u201cdrive down the number of deaths.\u201d In September, <a href=\"https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-announces-over-42-million-critical\">he announced t</a>hat his department would distribute <a href=\"https://www.gobrightline.com/press-room/2025/usdot-announces-funding-for-florida-rail-safety-improvements\">$42 million</a> to improve safety along the line. In a statement to the Florida news organizations, <a href=\"https://www.miamiherald.com/static/hi/2025/miami-brightline/data/brightline_statement.pdf\">Brightline officials blamed the deaths</a> on suicides and the \u201creckless\u201d behavior of people who put themselves in harm\u2019s way.&nbsp;</p>\n\n\n\n<p>Brightline, T-Mobile and Lockheed Martin did not respond to ProPublica\u2019s requests for comment. On its website, <a href=\"https://www.lockheedmartin.com/en-us/who-we-are/leadership-governance/board-of-directors/political-disclosures.html\">Lockheed notes</a> that it complies with all applicable laws and regulations with regard to its political and public policy activities.&nbsp;</p>\n\n\n\n<p>Alfonso\u2019s campaign has drawn donations from others in the heavily regulated railroad sector. They include Peter Bartek, founder of FTS Rail, which manufactures battery-powered railroad repair tools and sensors that detect rail breaks caused by extreme heat or cold. He gave $3,644&nbsp; in November. Duffy appointed <a href=\"https://www.transportation.gov/briefing-room/president-trumps-transportation-secretary-sean-p-duffy-appoints-members-united-states#:~:text=On%20July%2016%2C%202025%2C%20U.S.%20Transportation%20Secretary,*%20Michael%20Capasso%2C%20Chief%20Executive%20Officer%2C%20C.A.C.\">Bartek last July to serve</a> on a DOT advisory committee.&nbsp;</p>\n\n\n\n<p>Bartek had never given to a candidate in the district before. In an interview, he said he read a news article about Alfonso\u2019s campaign and decided to donate. \u201cI like Secretary Duffy very much,\u201d he said, \u201cand I thought very simply, boy, if he\u2019s anything like his father-in-law, it would be nice to support him as well.\u201d</p>\n\n\n\n<p>He said in a text that he didn\u2019t know Duffy personally and was not involved in Alfonso\u2019s campaign or fundraising.</p>\n\n\n\n<p>In New York, construction on the Hudson Tunnel Project to improve commuter rail service came to a screeching halt in early February after the federal government <a href=\"https://www.transportation.gov/briefing-room/us-department-transportation-statement-review-chicagos-discriminatory\">cut off funds</a>. A court intervened, ordering the money released, and work resumed. A bistate commission overseeing the project <a href=\"https://www.gatewayprogram.org/wp-content/uploads/2026/03/GDC-Press-Release-March-2026-Construction-Update-for-website.pdf\">warned this month</a> that it could face disruptions again in upcoming months if federal disbursements do not continue.</p>\n\n\n\n<p>In response to outreach from ProPublica, an executive at Venture Government Strategies, whose lobbyists for the tunnel project gave a combined $2,500 to Alfonso, said in an email the company had no comment.&nbsp;</p>\n\n\n\n<p>On his campaign website, Alfonso lists a dozen issues \u201cthat matter to us\u201d \u2014 ranging from education and health care to immigration. He wants to \u201cmake farms and families strong,\u201d \u201cgive Gen Z a voice\u201d and work against access to abortion.&nbsp;</p>\n\n\n\n<p>Transportation issues are not among those priorities, but he still is getting support from General Motors, which regularly lobbies DOT on various issues, including fuel economy, vehicle safety and emissions standards, and other mandates. The giant car manufacturer also gave to Duffy when he was running for the congressional seat, and the transportation secretary has become a booster. (GM did not respond to ProPublica\u2019s request for comment.)</p>\n\n\n\n<p>In mid-December, viewers of social media saw Duffy slide behind the wheel of a sleek, black, limited-edition Corvette, imbued with patriotic insignia to celebrate the nation\u2019s upcoming 250th birthday.&nbsp;</p>\n\n\n\n<p>\u201cOver 1,000 horsepower,\u201d Duffy said <a href=\"https://x.com/secduffy/status/2000638791065952536?s=46\">in a promotional video</a>, emphasizing the dynamic features&nbsp;of the $200,000 supercar. \u201cWe\u2019re going to take this bad boy on a little test drive to the Army-Navy game.\u201d Off he went.&nbsp;</p>\n\n\n\n<p>The video, uploaded to the social media platform X, highlighted a travel app the carmaker made in partnership with the Department of Transportation, while also showcasing Chevrolet\u2019s automotive series dubbed Stars and Steel.&nbsp;</p>\n\n\n\n<p>The post received over 130,000 views: valuable advertisement for the storied carmaker, General Motors. A couple of weeks later, GM\u2019s political action committee donated $1,000 to Alfonso.</p>\n<p>The post <a href=\"https://www.propublica.org/article/sean-duffy-michael-alfonso-congress-transportation\">Transportation Lobbyists Have Donated Thousands to Sean Duffy\u2019s Son-in-Law as He Runs for Congress</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-03-18T18:15:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s Next Decision in War: Whether to Retrieve Iran\u2019s Nuclear Fuel",
-    "author": "David E. Sanger",
-    "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
-    "content": "A satellite image of the Pickaxe Mountain tunnel complex near the Natanz nuclear facility in central Iran last week. It is not certain where all of Iran\u2019s nuclear material resides.",
-    "date": "2026-03-18T17:07:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/17/dining/gorgeously-green-kale-sauce-pasta.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Gorgeously Green Kale Sauce Pasta",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/03/17/dining/gorgeously-green-kale-sauce-pasta.html",
-    "content": "Says one reader: \u201cI made this and called it \u2018Shrek pasta.\u2019 Was delicious.\u201d",
-    "date": "2026-03-18T17:01:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/podcasts/joan-price-widow-sex.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Author Joan Price Teaches Other Widows How To Get Their Sex Drive Back",
-    "author": "Anna Martin",
-    "link": "https://www.nytimes.com/2026/03/18/podcasts/joan-price-widow-sex.html",
-    "content": "When Joan Price lost her husband, her sex drive disappeared. Now, she\u2019s teaching others how she got it back.",
-    "date": "2026-03-18T16:27:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/arts/design/gardner-museum-heist-theories.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Got an Idea About Who Robbed the Gardner Museum? Get in Line.",
-    "author": "Tom Mashberg",
-    "link": "https://www.nytimes.com/2026/03/18/arts/design/gardner-museum-heist-theories.html",
-    "content": "Theories abound as to who pulled off the largest art heist in U.S. history. In a new book, the former F.B.I. agent who handled the case dismisses many of them.",
-    "date": "2026-03-18T15:24:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Turing Award Goes to Inventors of Quantum Cryptography",
-    "author": "Cade Metz",
-    "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
-    "content": "On Wednesday, the Association for Computing Machinery said Charles Bennett, left, and Gilles Brassard had won this year\u2019s Turing Award, often called the Nobel Prize of computing.",
-    "date": "2026-03-18T12:19:10",
-    "category": "NYT"
   }
 ]
