@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Canada\u2019s New Route to Citizenship Has Thousands of Americans Lining Up to Apply",
+    "author": "Vjosa Isai and Matina Stevis-Gridneff",
+    "link": "https://www.nytimes.com/2026/04/27/world/canada/canadian-citizenship-by-descent-applications-americans-us.html",
+    "content": "A citizenship ceremony for new Canadians last year in Montreal.",
+    "date": "2026-04-27T18:34:41",
+    "category": "NYT"
+  },
+  {
     "id": "7ab6aec1ac2266df834b8400686f6fd7",
     "feed_name": "LRB",
     "title": "Politics on Speed",
@@ -148,6 +158,16 @@
     "content": "The United States Supreme Court is seen on Saturday, May 18, 2024, in Washington, D.C.",
     "date": "2026-04-27T15:27:37",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
+    "feed_name": "NYT (Shared)",
+    "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
+    "author": "Meaghan Tobin",
+    "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
+    "content": "Meta has described the two teams already as \u201cdeeply integrated.\u201d",
+    "date": "2026-04-27T14:08:53",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
@@ -487,6 +507,16 @@
     "link": "https://www.nytimes.com/2026/04/27/opinion/trump-attorney-general.html",
     "content": "Revenge-based criminal cases against the president\u2019s enemies have not come to fruition. That\u2019s where the U.S. attorneys come in.",
     "date": "2026-04-27T09:02:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/movies/film-lighting-quality.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Are Movies Really Getting Darker? Let\u2019s Shine Some Light on the Issue.",
+    "author": "Jessica M. Goldstein",
+    "link": "https://www.nytimes.com/2026/04/27/movies/film-lighting-quality.html",
+    "content": "Movie watchers are often left wondering why today\u2019s films look murkier than films of years past. Here\u2019s how some experts diagnose the issue.",
+    "date": "2026-04-27T09:00:41",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "A massive Western heat wave and a potential El Ni\u00f1o event raise concerns about a long stretch of unpredictable and extreme weather.",
     "date": "2026-03-19T09:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "1fbdea47882499f7ed825f41671ffd42",
-    "feed_name": "Outside",
-    "title": "At a Tree-Climbing Competition, the Most Important Rule Is Don't Look Down",
-    "author": "Calin Van Paris",
-    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/most-dangerous-jobs-america-arborist-tree-climbing/",
-    "content": "",
-    "date": "2026-03-19T03:25:07",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/us/politics/senate-republicans-trump-iran-war-authorization.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Senate G.O.P. Again Blocks Bid to Stop Iran War Until Trump Wins Authorization",
-    "author": "Robert Jimison",
-    "link": "https://www.nytimes.com/2026/03/18/us/politics/senate-republicans-trump-iran-war-authorization.html",
-    "content": "An explosion in Tehran earlier this month. Since the United States and Israel began joint airstrikes against Iran, Democrats have demanded that the Trump administration share more information on the objectives, timeline and costs associated with the military campaign.",
-    "date": "2026-03-19T02:19:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change",
-    "author": "Adam Rasgon, Ronen Bergman and David M. Halbfinger",
-    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
-    "content": "A new billboard in Tehran shows Iran\u2019s three supreme leaders.",
-    "date": "2026-03-18T23:16:35",
-    "category": "NYT"
   }
 ]
