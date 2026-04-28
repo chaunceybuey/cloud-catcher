@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/upshot/cheap-electric-cars-gas-prices.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Rise of the High-Range, Less Expensive E.V.",
+    "author": "Francesca Paris",
+    "link": "https://www.nytimes.com/2026/04/27/upshot/cheap-electric-cars-gas-prices.html",
+    "content": "Even as the electric vehicle market has slumped, there are more long-range E.V.s under $40,000 than ever before.",
+    "date": "2026-04-27T20:15:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
     "feed_name": "NYT (Emailed)",
     "title": "Supreme Court Wrangles With Police Use of Cell Location Data to Find Suspects",
@@ -580,6 +590,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/us/bernie-sanders-super-pacs-democrats-primaries.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Bernie Sanders Pressures Democrats to Reject Super PAC Support in Primaries",
+    "author": "Reid J. Epstein",
+    "link": "https://www.nytimes.com/2026/04/27/us/bernie-sanders-super-pacs-democrats-primaries.html",
+    "content": "The pressure from Senator Bernie Sanders highlights the tension in Democratic politics over how campaigns are funded.",
+    "date": "2026-04-27T09:04:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/opinion/trump-iran-war-powers.html",
     "feed_name": "NYT (Shared)",
     "title": "By Week\u2019s End, Trump\u2019s War Will Be Plainly Illegal",
@@ -677,6 +697,16 @@
     "link": "https://www.nytimes.com/article/best-restaurants-los-angeles.html",
     "content": "Our current favorites in one of the greatest food cities in the world.",
     "date": "2026-04-27T02:41:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-lapid-bennett.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Former Israeli Premiers Join in Bid to Oust Netanyahu in Elections",
+    "author": "Isabel Kershner",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-lapid-bennett.html",
+    "content": "Naftali Bennett, left, and Yair Lapid on Sunday in Herzliya, Israel, where they said they would unite in a party to be called Yachad, Hebrew for \u201ctogether.\u201d",
+    "date": "2026-04-26T22:00:17",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
     "content": "A polling station in New York City during a mayoral election last year.",
     "date": "2026-03-19T17:46:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html",
-    "feed_name": "NYT (Popular)",
-    "title": "A Gift From Trump to the Supreme Court",
-    "author": "Adam Liptak",
-    "link": "https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html",
-    "content": "President Trump announcing international tariffs at the White House last April.",
-    "date": "2026-03-19T16:01:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8717487#p8717487",
-    "feed_name": "Vanguard",
-    "title": "Re: alerts [not available] for Vanguard Cash Plus account activity",
-    "author": "kramer",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8717487#p8717487",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><span style=\"color: #0000FF;\">{This thread merged into this on-going mega-thread. Moderator Pops1860]</span><br /><br />It did not occur to me when I established my Vanguard Cash Plus account that this account would be excluded from account activity alerts, alas it is so.  Vanguard is considering inclusion of Vanguard Cash Plus accounts in their alerts system but no guarantees this will happen.  Caveat Emptor, if there were a withdrawal from your Vanguard Cash Plus account done surreptiously, you would not know it until you happened to check your account balance by going online. Seems to be a design flaw, perhaps Fidelity's cash management account is better about activity alerts.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I get an email every time cash is pulled from my Vanguard Cash Plus Account.  I am not sure if that is equivalent to activity alerts, as I am not sure exactly what that entails.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=188\">kramer</a> \u2014 Thu Mar 19, 2026 10:51 am</p><hr />",
-    "date": "2026-03-19T15:51:53",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/magazine/sled-dogs-pack-racing-mushing.html",
-    "feed_name": "NYT (Shared)",
-    "title": "\u2018Their Power Feels Like Mine\u2019: A Dog Sled Racer Says Goodbye to Her Pack",
-    "author": "Blair Braverman",
-    "link": "https://www.nytimes.com/2026/03/18/magazine/sled-dogs-pack-racing-mushing.html",
-    "content": "Dora (center left) and her grandmother Pep\u00e9 leading Blair Braverman\u2019s pack of retired sled dogs in northern Minnesota.",
-    "date": "2026-03-19T15:34:41",
     "category": "NYT"
   }
 ]
