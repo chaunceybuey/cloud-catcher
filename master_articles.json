@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228122",
+    "feed_name": "Texas Tribune",
+    "title": "Disaster declarations ripple through South Texas amid water crisis",
+    "author": "By Dylan Baddour,\u00a0Inside Climate News, Neena Satija,\u00a0KUT News\u00a0and Emily Salazar, KEDT",
+    "link": "https://feeds.texastribune.org/link/16799/17327380/texas-drought-corpus-christi-water-crisis-towns-declare-emergencies",
+    "content": "Elida Castillo, mayor of Taft, speaks at a city park on March 31.",
+    "date": "2026-04-28T21:48:36",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228153",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Texas\u2019 looming data center fight",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17327381/tribcast-data-center-virginia-texas",
+    "content": "A pickup on U.S. 277 North passes the glow coming from the Lancium Clean Campus, the home of the Abilene DC1 Stargate Project data center Tuesday April 21, 2026. The data center is scheduled to be complete by 2028.",
+    "date": "2026-04-28T21:20:21",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
     "feed_name": "NYT (Shared)",
     "title": "FCC Orders a Review of ABC\u2019s Licenses Amid Feud Between Trump and Kimmel",
@@ -108,6 +128,16 @@
     "content": "Brendan Carr, the chairman of the Federal Communications Commission, has repeatedly threatened to take action against broadcasters.",
     "date": "2026-04-28T21:12:07",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228142",
+    "feed_name": "Texas Tribune",
+    "title": "Texas DACA recipient will be allowed to return after Trump administration deported him",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17327382/texas-daca-father-deported-rio-grande-valley-return",
+    "content": "The U.S. Department of Homeland Security seal is displayed in Washington on Jan. 24, 2026.",
+    "date": "2026-04-28T20:37:52",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/04/28/nyregion/maurene-comey-lawsuit-trump.html",
@@ -19965,36 +19995,6 @@
     "title": "I am a wheelchair user. My life is worth living.",
     "author": "",
     "link": "https://www.compactmag.com/article/i-am-a-wheelchair-user-my-life-is-worth-living/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "64e8564f433c105626f59f79072b0dda",
-    "feed_name": "Compact",
-    "title": "What the Tech Right Learned from Habermas",
-    "author": "",
-    "link": "https://www.compactmag.com/article/what-the-tech-right-learned-from-habermas/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "ae14a158d4706bc7d1e9e0708cb99ba1",
-    "feed_name": "Compact",
-    "title": "The Movies Against MeToo",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-movies-against-metoo/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "39f8fc0e93f0a1a6c4d46827b4844dd5",
-    "feed_name": "Compact",
-    "title": "Russiagate Redux in Hungary?",
-    "author": "",
-    "link": "https://www.compactmag.com/article/russiagate-redux-in-hungary/",
     "content": "",
     "date": "2026-03-20T21:02:54",
     "category": "Magazines"
