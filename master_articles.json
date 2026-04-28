@@ -590,6 +590,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/us/bees-attack-eviction-massachusetts.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Beekeeper Gets Jail After a Swarm Is Unleashed During an Eviction",
+    "author": "Adeel Hassan",
+    "link": "https://www.nytimes.com/2026/04/27/us/bees-attack-eviction-massachusetts.html",
+    "content": "The woman, who is a beekeeper, was sentenced to six months after being convicted of using the bees as a weapon against deputies during a 2022 eviction.",
+    "date": "2026-04-27T09:04:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/us/bernie-sanders-super-pacs-democrats-primaries.html",
     "feed_name": "NYT (Shared)",
     "title": "Bernie Sanders Pressures Democrats to Reject Super PAC Support in Primaries",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/04/09/not-insane-firesign-theatre/",
     "content": "The Firesign Theatre, a comedy group formed in the 1960s, created surreal albums that mixed satire and science fiction, and inspired a generation of misfits.",
     "date": "2026-03-19T21:18:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/09/who-built-france-by-flesh-and-toil-lamotte/",
-    "feed_name": "NYYRB",
-    "title": "Who Built France?",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/09/who-built-france-by-flesh-and-toil-lamotte/",
-    "content": "A new history explores France\u2019s empire from the perspective of the indigenous and enslaved people who participated, willingly or not, in its creation.",
-    "date": "2026-03-19T20:48:37",
     "category": "Magazines"
   }
 ]
