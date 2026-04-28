@@ -130,6 +130,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How South Korea Uses A.I. to Check on Its Elderly",
+    "author": "Choe Sang-Hun",
+    "link": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
+    "content": "In the world\u2019s fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia.",
+    "date": "2026-04-28T11:02:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228005",
     "feed_name": "Texas Tribune",
     "title": "Talarico leads both Cornyn, Paxton in new poll of Texas\u2019 U.S. Senate race",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/",
     "content": "\u201cThis will be so, so, so, so, so bad,\u201d one analyst says.",
     "date": "2026-03-20T16:20:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/09/rivals-of-the-landscape-turner-and-constable/",
-    "feed_name": "NYYRB",
-    "title": "Rivals of the Landscape",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/09/rivals-of-the-landscape-turner-and-constable/",
-    "content": "The more we learn about J.\u00a0M.\u00a0W. Turner and John Constable, the more extraordinary it seems that two such breathtakingly original painters could emerge and flourish at the same time in the British art world.",
-    "date": "2026-03-20T16:03:44",
     "category": "Magazines"
   }
 ]
