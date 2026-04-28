@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
+    "feed_name": "NYT (Shared)",
+    "title": "FCC Orders a Review of ABC\u2019s Licenses Amid Feud Between Trump and Kimmel",
+    "author": "Jim Rutenberg and John Koblin",
+    "link": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
+    "content": "Brendan Carr, the chairman of the Federal Communications Commission, has repeatedly threatened to take action against broadcasters.",
+    "date": "2026-04-28T21:12:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/28/nyregion/maurene-comey-lawsuit-trump.html",
     "feed_name": "NYT (Shared)",
     "title": "Judge Says Maurene Comey Can Sue the Trump Administration for Firing Her",
@@ -1057,6 +1067,16 @@
     "link": "https://www.nytimes.com/2026/04/27/movies/film-lighting-quality.html",
     "content": "Movie watchers are often left wondering why today\u2019s films look murkier than films of years past. Here\u2019s how some experts diagnose the issue.",
     "date": "2026-04-27T09:00:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/well/move/full-body-workout-park-outdoors.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Full-Body Workout You Can Do In the Park",
+    "author": "Alyssa Ages and Theodore Tae",
+    "link": "https://www.nytimes.com/2026/04/27/well/move/full-body-workout-park-outdoors.html",
+    "content": "All you need for this routine is a bench and a patch of grass.",
+    "date": "2026-04-27T09:00:24",
     "category": "NYT"
   },
   {
@@ -19975,26 +19995,6 @@
     "title": "Russiagate Redux in Hungary?",
     "author": "",
     "link": "https://www.compactmag.com/article/russiagate-redux-in-hungary/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "f851b7a56cd43c61d622a9d5f5229a41",
-    "feed_name": "Compact",
-    "title": "Josh Hawley: We Must \u2018Bend\u2019 AI to Serve the Good",
-    "author": "",
-    "link": "https://www.compactmag.com/article/josh-hawley-we-must-bend-ai-to-serve-the-good/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "d3e9e533b409f85a5ed9176819cb5d7c",
-    "feed_name": "Compact",
-    "title": "There Is No Post-Liberal International Order",
-    "author": "",
-    "link": "https://www.compactmag.com/article/there-is-no-post-liberal-international-order/",
     "content": "",
     "date": "2026-03-20T21:02:54",
     "category": "Magazines"
