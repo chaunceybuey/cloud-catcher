@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html",
+    "feed_name": "NYT (Shared)",
+    "title": "DOJ Secures New James Comey Indictment Over Alleged Threat Against Trump",
+    "author": "Devlin Barrett and Tyler Pager",
+    "link": "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html",
+    "content": "James B. Comey, the former F.B.I. director, was indicted last year by a grand jury in Virginia, accused of lying and obstructing a congressional investigation over testimony he gave in 2020. The charge was later dismissed.",
+    "date": "2026-04-28T21:50:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228122",
     "feed_name": "Texas Tribune",
     "title": "Disaster declarations ripple through South Texas amid water crisis",
@@ -19985,16 +19995,6 @@
     "title": "The Long Shadow of Paul Ehrlich",
     "author": "",
     "link": "https://www.compactmag.com/article/the-long-shadow-of-paul-ehrlich/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "526b51f7a38a85989f05c10b5d9944c3",
-    "feed_name": "Compact",
-    "title": "I am a wheelchair user. My life is worth living.",
-    "author": "",
-    "link": "https://www.compactmag.com/article/i-am-a-wheelchair-user-my-life-is-worth-living/",
     "content": "",
     "date": "2026-03-20T21:02:54",
     "category": "Magazines"
