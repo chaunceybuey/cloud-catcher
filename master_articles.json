@@ -100,6 +100,46 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Canada Says Its Gold Is Traceable and Clean. So We Traced It.",
+    "author": "Justin Scheck",
+    "link": "https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html",
+    "content": "This illegal mine near Caucasia, Colombia, sells gold into the Royal Canadian Mint\u2019s supply chain.",
+    "date": "2026-04-27T20:20:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html",
+    "feed_name": "NYT (Shared)",
+    "title": "President and First Lady Melania Trump Demand ABC Fire Jimmy Kimmel Over \u2018Widow\u2019 Joke",
+    "author": "Shawn McCreesh",
+    "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html",
+    "content": "Melania Trump, the first lady, at a press briefing at the White House on Saturday night following the shooting at the White House Correspondent\u2019s Dinner.",
+    "date": "2026-04-27T20:18:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Supreme Court Wrangles With Police Use of Cell Location Data to Find Suspects",
+    "author": "Ann E. Marimow",
+    "link": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-cell-data-geofence.html",
+    "content": "A 2019 robbery at the Call Federal Credit Union in Midlothian, Va., led law enforcement officials to turn to a so-called geofence warrant in an effort to find leads.",
+    "date": "2026-04-27T20:14:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Sergey Brin Moves to the Right, With a \u2018MAGA Girlfriend\u2019 by His Side",
+    "author": "Theodore Schleifer and Kate Conger",
+    "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
+    "content": "Sergey Brin and his girlfriend, Gerelyn \u201cGG\u201d Soto, at a White House artificial-intelligence dinner last year.",
+    "date": "2026-04-27T20:12:38",
+    "category": "NYT"
+  },
+  {
     "id": "d467ddfdffa1c5bb4cc2e0b2495950ab",
     "feed_name": "New Yorker",
     "title": "Donald Trump\u2019s Pardon Economy",
@@ -167,6 +207,16 @@
     "link": "https://www.nytimes.com/2026/04/27/climate/60-countries-to-meet-on-phasing-out-fossil-fuels-but-are-excluding-the-us.html",
     "content": "Dutch and Colombian environment officials at last year\u2019s U.N. climate summit in Bel\u00e9m, Brazil, where this week\u2019s First Conference on Transitioning Away from Fossil Fuels in Santa Marta was announced.",
     "date": "2026-04-27T16:19:50",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/27/opinion/the-prepper-delusion.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Prepper Delusion",
+    "author": "Kit Dillon",
+    "link": "https://www.nytimes.com/2026/04/27/opinion/the-prepper-delusion.html",
+    "content": "As the environment becomes more treacherous, stuff won\u2019t keep us safe.",
+    "date": "2026-04-27T16:10:32",
     "category": "NYT"
   },
   {
@@ -580,6 +630,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/world/americas/us-military-boat-strike-pacific-drugs.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Military Strikes Another Boat in Eastern Pacific, Killing 3",
+    "author": "Jin Yu Young",
+    "link": "https://www.nytimes.com/2026/04/27/world/americas/us-military-boat-strike-pacific-drugs.html",
+    "content": "An image from a video provided by the U.S. military shows what it said was a strike on a boat in the eastern Pacific Ocean on Sunday.",
+    "date": "2026-04-27T04:54:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/26/us/california-billionaire-tax.html",
     "feed_name": "NYT (Shared)",
     "title": "California Billionaire Tax Has Enough Signatures to Land on Ballot, Backers Say",
@@ -798,6 +858,16 @@
     "content": "Wifredo Lam\u2019s paintings spring from a unique synthesis of European modernism and Afro-Cuban consciousness.\n\nDelivered by PolitePaul service",
     "date": "2026-04-26T12:18:45",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/26/business/children-rising-costs.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Rising Costs Are Causing Couples to Delay or Forgo Having Children",
+    "author": "Kailyn Rhone",
+    "link": "https://www.nytimes.com/2026/04/26/business/children-rising-costs.html",
+    "content": "Brock Goodwin, left, and Rilee Stewart had long expected that they would have several children. But after weighing all the costs, they decided not to have children at all.",
+    "date": "2026-04-26T12:01:55",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
@@ -19928,75 +19998,5 @@
     "content": "Dora (center left) and her grandmother Pep\u00e9 leading Blair Braverman\u2019s pack of retired sled dogs in northern Minnesota.",
     "date": "2026-03-19T15:34:41",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
-    "author": "Neil MacFarquhar",
-    "link": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
-    "content": "An Iranian flag wrapping a building that was damaged in an airstrike in Tehran on Sunday.",
-    "date": "2026-03-19T13:31:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8717338#p8717338",
-    "feed_name": "Vanguard",
-    "title": "alerts [not available] for Vanguard Cash Plus account activity",
-    "author": "couchmarie",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8717338#p8717338",
-    "content": "<span style=\"color: #0000FF;\">{This thread merged into this on-going mega-thread. Moderator Pops1860]</span><br /><br />It did not occur to me when I established my Vanguard Cash Plus account that this account would be excluded from account activity alerts, alas it is so.  Vanguard is considering inclusion of Vanguard Cash Plus accounts in their alerts system but no guarantees this will happen.  Caveat Emptor, if there were a withdrawal from your Vanguard Cash Plus account done surreptiously, you would not know it until you happened to check your account balance by going online. Seems to be a design flaw, perhaps Fidelity's cash management account is better about activity alerts.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=221369\">couchmarie</a> \u2014 Thu Mar 19, 2026 8:23 am</p><hr />",
-    "date": "2026-03-19T13:23:48",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html",
-    "feed_name": "NYT (Popular)",
-    "title": "U.S. Intelligence Saw No Change in Iran\u2019s Missile Capabilities Before War",
-    "author": "Robert Jimison",
-    "link": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html",
-    "content": "Tulsi Gabbard, the director of national intelligence, testified before the Senate Intelligence Committee on Wednesday.",
-    "date": "2026-03-19T12:47:59",
-    "category": "NYT"
-  },
-  {
-    "id": "0f64cc95-9af6-4d0a-a4ab-7cdc4bed3796",
-    "feed_name": "Economist",
-    "title": "America may be a petrostate. But the energy shock still hurts",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/19/america-may-be-a-petrostate-but-the-energy-shock-still-hurts",
-    "content": "And further angers economically frustrated citizens",
-    "date": "2026-03-19T11:21:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "af929633-a281-4571-a24e-93d50e88c6ad",
-    "feed_name": "Economist",
-    "title": "Which country is the biggest loser from the energy shock?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/19/which-country-is-the-biggest-loser-from-the-energy-shock",
-    "content": "We rank the poor world\u2019s exposure and buffers",
-    "date": "2026-03-19T11:18:58",
-    "category": "Magazines"
-  },
-  {
-    "id": "00c7cc50-addd-4eae-8833-6945156b57c0",
-    "feed_name": "Economist",
-    "title": "The new economics of sex work",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/19/the-new-economics-of-sex-work",
-    "content": "As the sex economy grows, it deserves serious analysis",
-    "date": "2026-03-19T11:16:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.slowboring.com/p/the-obama-of-2028",
-    "feed_name": "Slow Boring",
-    "title": "The Obama of 2028?",
-    "author": "Matthew Yglesias",
-    "link": "https://www.slowboring.com/p/the-obama-of-2028",
-    "content": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" href=\"https://substackcdn.com/image/fetch/$s_!D6Wm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc8f099d-dc0b-4319-a759-418575f73486_5420x3613.jpeg\" target=\"_blank\"><div class=\"image2-inset\"><source type=\"image/webp\" /><img alt=\"\" class=\"sizing-normal\" height=\"971\" src=\"https://substackcdn.com/image/fetch/$s_!D6Wm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc8f099d-dc0b-4319-a759-418575f73486_5420x3613.jpeg\" width=\"1456\" /><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button class=\"pencraft pc-reset pencraft icon-container restack-image\" tabindex=\"0\" type=\"button\"><svg fill=\"none\" height=\"20\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button class=\"pencraft pc-reset pencraft icon-container view-image\" tabindex=\"0\" type=\"button\"><svg class=\"lucide lucide-maximize2 lucide-maximize-2\" fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Senator Jon Ossoff of Georgia (Photo by <a href=\"https://www.gettyimages.com/search/2/image?artistexact=Heather%20Diehl\">Heather Diehl</a>)</figcaption></figure></div><p>I&#8217;m obsessed (in a bad way) with Gavin Newsom&#8217;s status as the Democratic Party front-runner for 2028. </p><p>He&#8217;s a guy who is perceived as quite left-wing based on his record in California but is also generally disliked by the left. This is a disastrous dead zone for a nominee to be in &#8212; it&#8217;s exactly where we landed with both Hillary Clinton in 2016 and Kamala Harris in 2024. And while Joe Biden succeeded in being perceived as moderate by voters during the 2020 campaign, he lost that sheen almost immediately after taking office. </p><p>Barack Obama was notably different. </p><p>By the standards of today&#8217;s Democrats, he was shockingly moderate on questions of enduring political controversy. He was a big proponent of merit pay for teachers and <a href=\"https://www.politico.com/story/2008/08/obama-shifts-affirmative-action-rhetoric-012421\">ran in 2008 as a critic of affirmative action in admissions</a>, though he later shifted left on that. </p><p>Maybe it&#8217;s just a coincidence but, as I wrote <a href=\"https://www.nytimes.com/2026/03/16/opinion/democrats-senate-moderate.html\">earlier this week in a New York Times op-ed</a>, those are literally the two most potent issues for Democrats to moderate on. And beyond those two issues, think about the &#8220;all of the above&#8221; energy policy, Obama&#8217;s embrace of the Secure Communities deportation program (another thing he <a href=\"https://www.nbcnews.com/storyline/immigration-reform/obama-ends-secure-communities-program-helped-hike-deportations-n253541\">shifted left on later</a>), and his approach to deficit reduction and spending cuts. </p><p>Obama was also notably cautious on gay marriage. He kind of winked at supporters periodically to indicate that he was probably on their side, but he ran in 2008 saying that marriage is the union of a man and a woman, only to flip-flop after the public support crossed 50 percent. </p><p>And yet what&#8217;s definitely true is that despite his heterodoxies and political caution, Obama is someone who progressives were very excited about in 2007 and 2008, in large part because of his early stance against the Iraq war.</p><p>In the primary against Hillary Clinton, he had a notable dual base: Black Democrats, who are ideologically diverse but mostly moderate, and also educated white progressives. Those educated progressives were probably numerically less important to his primary win than the African-American moderates. But they provided the money that made his insurgent campaign viable, and they also generated a lot of positive press for Obama. </p><p>Progressive support carried over into the general election, where the vibe was in favor of letting Obama cook, allowing him to say and do whatever was necessary to win the election. It was the exact opposite of Harris&#8217;s situation. </p><p>Could anyone pull off something like that today? </p><p>There&#8217;s no exact analog to Obama&#8217;s <a href=\"https://www.npr.org/2009/01/20/99591469/transcript-obamas-speech-against-the-iraq-war\">big speech</a> opposing the Iraq war in 2002. But there is one issue that has the following characteristics: </p><ol><li><p>Progressive activists and intellectuals care a lot about it </p></li><li><p>It&#8217;s a low priority for most voters</p></li><li><p>The whole party establishment has lined up against the progressives</p></li><li><p>The progressive stand is no longer unpopular</p></li></ol><p>The issue is Israel. </p><p>Probably not the topic that thought leaders in the moderation space are eager to embrace the left-wing view of, but it&#8217;s pretty clearly the best way for a pragmatic Democrat to gain progressive cred without alienating the electorate and perhaps secure space for Obama-style moderation. </p><h4>How Obama became a moderate left-wing factionalist</h4>\n      <p>\n          <a href=\"https://www.slowboring.com/p/the-obama-of-2028\">\n              Read more\n          </a>\n      </p>",
-    "date": "2026-03-19T10:02:45",
-    "category": "Uncategorized"
   }
 ]
