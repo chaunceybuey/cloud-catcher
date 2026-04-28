@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/climate/trump-administration-wind-farms.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Will Pay to Cancel More Wind Farms",
+    "author": "Maxine Joselow and Brad Plumer",
+    "link": "https://www.nytimes.com/2026/04/27/climate/trump-administration-wind-farms.html",
+    "content": "President Trump has disparaged wind power for decades, claiming falsely that offshore wind turbines do not work and that they are killing whales.",
+    "date": "2026-04-27T22:37:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/climate/epa-science-trump-cuts.html",
     "feed_name": "NYT (Shared)",
     "title": "How the Trump Administration Ended Independent Science at E.P.A.",
@@ -19988,15 +19998,5 @@
     "content": "A.\u00a0E. Stallings\u2019s reflections on the Elgin Marbles illustrate how beautiful objects have the power to inspire both the noblest effusions and the pettiest efforts at acquisition.",
     "date": "2026-03-19T21:48:37",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/19/opinion/interesting-times-podcast-jeremy-carl.html",
-    "feed_name": "Interesting Times",
-    "title": "White Identity Is Galvanizing the Right",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/03/19/opinion/interesting-times-podcast-jeremy-carl.html",
-    "content": "He wrote a book on anti-white bias. The White House noticed.",
-    "date": "2026-03-19T21:41:44",
-    "category": "Uncategorized"
   }
 ]
