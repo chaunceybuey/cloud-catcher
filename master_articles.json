@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/nyregion/maurene-comey-lawsuit-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Judge Says Maurene Comey Can Sue the Trump Administration for Firing Her",
+    "author": "Benjamin Weiser and Jonah E. Bromwich",
+    "link": "https://www.nytimes.com/2026/04/28/nyregion/maurene-comey-lawsuit-trump.html",
+    "content": "Maurene Comey had been one of the most highly regarded trial lawyers in the Southern District of New York when she was fired last year.",
+    "date": "2026-04-28T18:29:16",
+    "category": "NYT"
+  },
+  {
     "id": "69eba962c53bb73158216314",
     "feed_name": "Wired (Science)",
     "title": "The UK\u2019s Answer to Darpa Wants to Rewire the Human Brain",
@@ -158,6 +168,16 @@
     "content": "Families embrace at a hearing of the legislative committee investigating the July 4 floods on Monday, April 27, 2026.",
     "date": "2026-04-28T16:39:47",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Gas Prices Hit Highest Level Since Beginning of War in Iran",
+    "author": "Emmett Lindner",
+    "link": "https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html",
+    "content": "The jump on Tuesday of 1.6 percent was the highest percentage increase in more than a month.",
+    "date": "2026-04-28T15:55:57",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/28/dining/a-warm-filling-salad-fit-for-dinner.html",
@@ -317,6 +337,16 @@
     "link": "https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html",
     "content": "The far right is conflating Israel with Jewishness.",
     "date": "2026-04-28T09:02:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/well/doctors-using-ai.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Your Doctor\u2019s Notes Might Be Written by an A.I. Algorithm. Here\u2019s What to Know.",
+    "author": "Simar Bajaj",
+    "link": "https://www.nytimes.com/2026/04/28/well/doctors-using-ai.html",
+    "content": "Apps that record visits are becoming popular, but they come with privacy and accuracy concerns.",
+    "date": "2026-04-28T09:00:31",
     "category": "NYT"
   },
   {
@@ -19965,36 +19995,6 @@
     "title": "For Kristi Noem, Campaign Season Never Ended",
     "author": "",
     "link": "https://www.compactmag.com/article/for-kristi-noem-election-season-never-ended/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "09ba9f1af499caa8790b516724379086",
-    "feed_name": "Compact",
-    "title": "Abundance Is Not Enough",
-    "author": "",
-    "link": "https://www.compactmag.com/article/abundance-is-not-enough/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "1649ff59c89936786aa31b47ad3fdd18",
-    "feed_name": "Compact",
-    "title": "Big Tech\u2019s War on Democracy",
-    "author": "",
-    "link": "https://www.compactmag.com/article/big-techs-war-on-democracy/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "d2a41e4114ba1de027557d44de4679d7",
-    "feed_name": "Compact",
-    "title": "Neoliberalism in One Country?",
-    "author": "",
-    "link": "https://www.compactmag.com/article/neoliberalism-in-one-country/",
     "content": "",
     "date": "2026-03-20T21:02:54",
     "category": "Magazines"
