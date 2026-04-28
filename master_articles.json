@@ -180,6 +180,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How Taylor Swift Writes a Song, In Her Own Words",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html",
+    "content": "The artist shares stories behind some of her biggest hits, her love of a \u201crant bridge\u201d and how life in the public eye informs the stories she tells in her songs.",
+    "date": "2026-04-28T08:14:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/us/trump-iran-proposal.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Is Dissatisfied With Iran\u2019s Plan to Reopen Strait of Hormuz",
@@ -19986,16 +19996,6 @@
     "author": "Carlos Nogueras Ramos",
     "link": "https://feeds.texastribune.org/link/16799/17302537/texas-carbon-storage-permits-class-6-epa-primacy",
     "content": "Texas oil and gas companies celebrated the state winning the authority to permit certain types of carbon capture projects that would inject carbon from the atmosphere into the ground.",
-    "date": "2026-03-20T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224471",
-    "feed_name": "Texas Tribune",
-    "title": "Corpus Christi\u2019s crucial refineries look for alternate water supplies amid looming water crisis",
-    "author": "Paul Cobler and Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17302536/texas-corpus-christi-water-shortage-oil-gas-refineries",
-    "content": "A house next to a refinery in the Hillcrest neighborhood in Corpus Christi on Feb. 7, 2022.",
     "date": "2026-03-20T10:00:00",
     "category": "Texas"
   }
