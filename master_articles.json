@@ -140,6 +140,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/opinion/catholic-church-trump.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "What a Catholic Church Unafraid of Donald Trump Means to the World",
+    "author": "Christine Emba",
+    "link": "https://www.nytimes.com/2026/04/28/opinion/catholic-church-trump.html",
+    "content": "The resonance of the pontiff-versus-president imbroglio reveals a hunger for moral authority at a time that feels deeply disoriented and spiritually thin.",
+    "date": "2026-04-28T17:31:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=18891",
     "feed_name": "Stratechery",
     "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
@@ -177,6 +187,16 @@
     "link": "https://www.nytimes.com/2026/04/28/business/oil-gas-stocks-iran-war.html",
     "content": "The jump on Tuesday of 1.6 percent was the highest percentage increase in more than a month.",
     "date": "2026-04-28T15:55:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/us/elections/ballroom-filing-trump-truth-social.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Adopting Trump\u2019s Voice, Justice Dept. Asks Judge to Let Ballroom Proceed",
+    "author": "Luke Broadwater and Zach Montague",
+    "link": "https://www.nytimes.com/2026/04/28/us/elections/ballroom-filing-trump-truth-social.html",
+    "content": "Todd Blanche, the acting attorney general, spoke Monday about the attempted attack at the White House correspondents\u2019 dinner and signed a motion linking the breach to President Trump\u2019s ballroom project.",
+    "date": "2026-04-28T15:51:25",
     "category": "NYT"
   },
   {
@@ -19975,26 +19995,6 @@
     "title": "Trump\u2019s Land-and-Brand Foreign Policy",
     "author": "",
     "link": "https://www.compactmag.com/article/trumps-non-liberal-foreign-policy/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "44dd47d9746ed1a7d440d486c27242da",
-    "feed_name": "Compact",
-    "title": "The Moment Mass Migration Started",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-moment-mass-migration-started/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "6763c0a0799bee192529b79ef842f860",
-    "feed_name": "Compact",
-    "title": "For Kristi Noem, Campaign Season Never Ended",
-    "author": "",
-    "link": "https://www.compactmag.com/article/for-kristi-noem-election-season-never-ended/",
     "content": "",
     "date": "2026-03-20T21:02:54",
     "category": "Magazines"
