@@ -640,6 +640,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/books/best-books-2026-so-far.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Best Books of 2026 So Far: \u2018Kin,\u2019 \u2018London Falling\u2019 and More",
+    "author": "The New York Times Books Staff",
+    "link": "https://www.nytimes.com/2026/04/27/books/best-books-2026-so-far.html",
+    "content": "The nonfiction and novels we can\u2019t stop thinking about.",
+    "date": "2026-04-27T09:00:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/movies/film-lighting-quality.html",
     "feed_name": "NYT (Emailed)",
     "title": "Are Movies Really Getting Darker? Let\u2019s Shine Some Light on the Issue.",
@@ -19988,15 +19998,5 @@
     "content": "He wrote a book on anti-white bias. The White House noticed.",
     "date": "2026-03-19T21:41:44",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/09/in-defense-of-algebra-paul-lockhart/",
-    "feed_name": "NYYRB",
-    "title": "In Defense of Algebra",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/09/in-defense-of-algebra-paul-lockhart/",
-    "content": "The mathematician Paul Lockhart believes to his core that math is the purest of the arts, and anyone can learn to love it.",
-    "date": "2026-03-19T21:33:37",
-    "category": "Magazines"
   }
 ]
