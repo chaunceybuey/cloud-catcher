@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "China\u2019s Economy Starts to Show Cracks From Iran War",
+    "author": "Keith Bradsher",
+    "link": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
+    "content": "Chinese-made cars waiting to be exported at a port in Suzhou, China, on Monday. China has sought to increase exports as demand has weakened at home.",
+    "date": "2026-04-27T20:13:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
     "feed_name": "NYT (Emailed)",
     "title": "Sergey Brin Moves to the Right, With a \u2018MAGA Girlfriend\u2019 by His Side",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/04/09/in-defense-of-algebra-paul-lockhart/",
     "content": "The mathematician Paul Lockhart believes to his core that math is the purest of the arts, and anyone can learn to love it.",
     "date": "2026-03-19T21:33:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/09/not-insane-firesign-theatre/",
-    "feed_name": "NYYRB",
-    "title": "\u2018Not Insane!\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/09/not-insane-firesign-theatre/",
-    "content": "The Firesign Theatre, a comedy group formed in the 1960s, created surreal albums that mixed satire and science fiction, and inspired a generation of misfits.",
-    "date": "2026-03-19T21:18:37",
     "category": "Magazines"
   }
 ]
