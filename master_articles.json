@@ -8340,6 +8340,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/13/fashion/suit-two-button-rule.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Do I Really Have to Leave One Suit Button Open?",
+    "author": "Vanessa Friedman",
+    "link": "https://www.nytimes.com/2026/04/13/fashion/suit-two-button-rule.html",
+    "content": "Lil Nas X, buttoned up in Los Angeles last month.",
+    "date": "2026-04-13T09:03:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html",
     "feed_name": "NYT (Today\u2019s Paper)",
     "title": "Rejected by Dozens of Emergency Rooms: South Korea\u2019s Medical Crisis",
@@ -19988,15 +19998,5 @@
     "content": "A new history explores France\u2019s empire from the perspective of the indigenous and enslaved people who participated, willingly or not, in its creation.",
     "date": "2026-03-19T20:48:37",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
-    "feed_name": "NYT (Shared)",
-    "title": "What\u2019s in Trump\u2019s SAVE Act, the Voter ID Bill Republicans Are Pushing?",
-    "author": "Minho Kim",
-    "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
-    "content": "A polling station in New York City during a mayoral election last year.",
-    "date": "2026-03-19T17:46:14",
-    "category": "NYT"
   }
 ]
