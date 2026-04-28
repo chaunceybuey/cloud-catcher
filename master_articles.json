@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "69ea323ff0e3ce74376afe37",
+    "feed_name": "Wired",
+    "title": "Stop Trying to Unmask Satoshi Nakamoto",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-ben-mckenzie-crypto/",
+    "content": "On this week\u2019s Big Interview podcast, actor-director Ben McKenzie talks about the rise of crypto, why he finds it dangerous, and why it benefits from having a mysterious creator.",
+    "date": "2026-04-28T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=227907",
     "feed_name": "Texas Tribune",
     "title": "Data center boom strains Texas homebuilders\u2019 need for electricians",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html",
     "content": "Taylor Frankie Paul, right, in a preview for her season of \u201cThe Bachelorette.\u201d",
     "date": "2026-03-20T01:17:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Trump Jokes About Pearl Harbor in Meeting With Japan\u2019s Prime Minister",
-    "author": "Javier C. Hern\u00e1ndez",
-    "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html",
-    "content": "Breaking a taboo, President Trump needled Japan\u2019s prime minister about the World War II attack, as she widened her eyes and appeared to take a deep breath in the Oval Office.",
-    "date": "2026-03-19T23:44:42",
     "category": "NYT"
   }
 ]
