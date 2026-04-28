@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Republicans Brace for Brutal Midterms as Trump\u2019s Popularity Slips",
+    "author": "Shane Goldmacher",
+    "link": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html",
+    "content": "The Republican Party\u2019s outlook has dimmed along with voter faith that President Trump can fix the economy.",
+    "date": "2026-04-28T12:53:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/28/travel/california-highway-1.html",
     "feed_name": "NYT (Emailed)",
     "title": "Tight Curves and Wide Horizons: The Return of Highway 1",
@@ -19988,15 +19998,5 @@
     "content": "Cesar Chavez during a demonstration in New York in 1969.",
     "date": "2026-03-20T16:59:10",
     "category": "NYT"
-  },
-  {
-    "id": "69bc07fc52cda55f85725178",
-    "feed_name": "Wired (Science)",
-    "title": "Iran War Puts Global Energy Markets on the Brink of a Worst-Case Scenario",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/",
-    "content": "\u201cThis will be so, so, so, so, so bad,\u201d one analyst says.",
-    "date": "2026-03-20T16:20:52",
-    "category": "Magazines"
   }
 ]
