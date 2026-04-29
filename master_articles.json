@@ -470,6 +470,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Internet Restrictions Spur Russians to Openly Question Putin\u2019s Moves",
+    "author": "Nataliya Vasilyeva and Valerie Hopkins",
+    "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+    "content": "On a subway in Moscow. As Russians criticize the internet restrictions, the discontent has helped send the approval rating of President Vladimir V. Putin to its lowest level since before the war with Ukraine.",
+    "date": "2026-04-28T09:03:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/28/opinion/cybersecurity-mythos.html",
     "feed_name": "NYT (Emailed)",
     "title": "After Mythos, Nobody Is Safe From Cybersecurity Threats",
@@ -19986,16 +19996,6 @@
     "author": "ByKaty Waldman",
     "link": "https://www.newyorker.com/magazine/2026/03/23/what-egon-schiele-saw-at-the-hospital",
     "content": "In a new book, Adam Phillips wages a playful war on the strictures of traditional talk therapy.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "fb562911f08f04ebb02d741b48476360",
-    "feed_name": "New Yorker",
-    "title": "What Egon Schiele Saw at the Hospital",
-    "author": "ByZachary Fine",
-    "link": "https://www.newyorker.com/magazine/2026/03/23/you-got-older-theatre-review-what-we-did-before-our-moth-days",
-    "content": "At the Neue Galerie, a show suggests that the artist\u2019s raw, contorted depictions of the body were influenced by a formative relationship with a doctor.",
     "date": "2026-03-20T21:02:55",
     "category": "Magazines"
   }
