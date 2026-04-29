@@ -120,6 +120,16 @@
     "category": "Magazines"
   },
   {
+    "id": "18fb79b8fe93363eae398aeb8f2ca820",
+    "feed_name": "New Yorker",
+    "title": "Cartoon Caption Contest",
+    "author": "",
+    "link": "https://www.newyorker.com/cartoons/contest",
+    "content": "Submit a caption, plus vote on other entries and finalists.",
+    "date": "2026-04-28T23:56:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228182",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi delays action on plan to cut water use by 25% if emergency is declared",
@@ -477,6 +487,16 @@
     "link": "https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html",
     "content": "The far right is conflating Israel with Jewishness.",
     "date": "2026-04-28T09:02:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What Elon Musk\u2019s Clash With Sam Altman of OpenAI Is Really About",
+    "author": "David Streitfeld",
+    "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
+    "content": "Mr. Musk\u2019s lawsuit against Mr. Altman and OpenAI makes the case that all-encompassing greed is Silicon Valley\u2019s defining feature.",
+    "date": "2026-04-28T09:02:04",
     "category": "NYT"
   },
   {
@@ -19976,26 +19996,6 @@
     "author": "ByZachary Fine",
     "link": "https://www.newyorker.com/magazine/2026/03/23/you-got-older-theatre-review-what-we-did-before-our-moth-days",
     "content": "At the Neue Galerie, a show suggests that the artist\u2019s raw, contorted depictions of the body were influenced by a formative relationship with a doctor.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "0e5c5e3198845ecca285c7baa870539f",
-    "feed_name": "New Yorker",
-    "title": "Two Playwrights Tackle Father Figures",
-    "author": "ByEmily Nussbaum",
-    "link": "https://www.newyorker.com/magazine/2026/03/23/project-hail-mary-movie-review",
-    "content": "Clare Barron\u2019s \u201cYou Got Older\u201d is a rare play about a good dad. Wallace Shawn\u2019s \u201cWhat We Did Before Our Moth Days\u201d is defiantly tender about an amoral one.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "99b49afa308601d7172cc95d92d0715c",
-    "feed_name": "New Yorker",
-    "title": "\u201cProject Hail Mary\u201d: In Space, No One Should Hear Your Glib Jokes",
-    "author": "ByJustin Chang",
-    "link": "https://www.newyorker.com/magazine/2026/03/23/reservoir-tove-gannana-poem",
-    "content": "In Phil Lord and Christopher Miller\u2019s adaptation of Andy Weir\u2019s novel, Ryan Gosling\u2019s star power fuels an unlikely tale of far-flung friendship.",
     "date": "2026-03-20T21:02:55",
     "category": "Magazines"
   }
