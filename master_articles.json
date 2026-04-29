@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "69cafcc56dd94342bce0ed8e",
+    "feed_name": "Wired",
+    "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
+    "author": "Will Knight",
+    "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "content": "From sorting chicken nuggets to screwing in light bulbs, Eka\u2019s robots are eerily lifelike. But do they have real physical smarts?",
+    "date": "2026-04-29T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=18898",
+    "feed_name": "Stratechery",
+    "title": "Intel Earnings, Intel\u2019s Differentiation?, Whither Terafab",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
+    "content": "<p>Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?</p>",
+    "date": "2026-04-29T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-immigration-scams-complaints-doubled-ice",
     "feed_name": "ProPublica",
     "title": "Fear and Opportunity: Immigration Scams Surged as Trump\u2019s Sweeps Lured Desperate People to Eager Defrauders",
@@ -19976,26 +19996,6 @@
     "author": "ByMichael Schulman",
     "link": "https://www.newyorker.com/magazine/2026/03/23/how-to-be-your-own-super",
     "content": "As the ballroom legend makes their Broadway d\u00e9but in \u201cCats: The Jellicle Ball,\u201d they reflect on accessorizing with raw chicken and dressing like Al Capone.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "26466e4d674b4fd03c13e44bcc8e35e9",
-    "feed_name": "New Yorker",
-    "title": "How to Be Your Own Super",
-    "author": "ByDiego Lasarte",
-    "link": "https://www.newyorker.com/magazine/2026/03/23/whats-behind-trumps-new-world-disorder",
-    "content": "Doorknob troubles? No sweat\u2014an Upper West Side handyman is helping the helpless, with a beginner\u2019s class on how to fix your (many) apartment problems.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "7cfca020f52924febe197290f199d92c",
-    "feed_name": "New Yorker",
-    "title": "What\u2019s Behind Trump\u2019s New World Disorder?",
-    "author": "ByDaniel Immerwahr",
-    "link": "https://www.newyorker.com/magazine/2026/03/23/how-doodles-became-the-dog-du-jour",
-    "content": "A foreign policy freed of liberal pretenses and imperial ambitions could lead to restraint\u2014or, as the Iran attack shows, simply license hit-and-run belligerence.",
     "date": "2026-03-20T21:02:55",
     "category": "Magazines"
   }
