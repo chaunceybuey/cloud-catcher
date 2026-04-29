@@ -550,6 +550,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/arts/television/late-night-white-house-correspondents-dinner.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Late Night Downloads the White House Correspondents\u2019 Dinner",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/04/28/arts/television/late-night-white-house-correspondents-dinner.html",
+    "content": "The event \u201cwas supposed to be an evening of fun and merriment,\u201d Jon Stewart said, \u201cuntil, like most things in America, it was interrupted by gunfire.\u201d",
+    "date": "2026-04-28T07:31:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/27/us/trump-iran-proposal.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Is Dissatisfied With Iran\u2019s Plan to Reopen Strait of Hormuz",
@@ -19986,16 +19996,6 @@
     "author": "ByAdam Gopnik",
     "link": "https://www.newyorker.com/magazine/2026/03/23/the-life-you-want-adam-phillips-book-review",
     "content": "Our history too often sidesteps the question of finances. But sonorous ideals don\u2019t keep an army supplied with uniforms, guns, and grub.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "6d9266b12d118ae77fe808e4de88ab41",
-    "feed_name": "New Yorker",
-    "title": "Can Psychoanalysis Help You Get the Life You Want?",
-    "author": "ByKaty Waldman",
-    "link": "https://www.newyorker.com/magazine/2026/03/23/what-egon-schiele-saw-at-the-hospital",
-    "content": "In a new book, Adam Phillips wages a playful war on the strictures of traditional talk therapy.",
     "date": "2026-03-20T21:02:55",
     "category": "Magazines"
   }
