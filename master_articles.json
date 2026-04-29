@@ -180,6 +180,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Beneath King Charles\u2019s Jokes and Decorum, Some Subtle Rebuttals to Trump",
+    "author": "Michael D. Shear and Zolan Kanno-Youngs",
+    "link": "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html",
+    "content": "King Charles III addressing Congress on Tuesday.",
+    "date": "2026-04-29T02:45:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/28/us/politics/menu-british-royal-state-dinner.html",
     "feed_name": "NYT (Emailed)",
     "title": "See the Menu for the British Royal State Dinner",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/culture/photo-booth/martin-parrs-eye-for-human-folly",
     "content": "Also: FKA twigs, \u201cMother Russia,\u201d Caravaggio, and more.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "2fe8584ed9c3d1a2042ded75bd3d2c5b",
-    "feed_name": "New Yorker",
-    "title": "Martin Parr\u2019s Eye for Human Folly",
-    "author": "ByLauren Collins",
-    "link": "https://www.newyorker.com/magazine/2026/03/23/trumps-mass-detention-campaign",
-    "content": "The British photographer spent his career examining appetites and the contradictions they engender.",
     "date": "2026-03-20T21:02:55",
     "category": "Magazines"
   }
