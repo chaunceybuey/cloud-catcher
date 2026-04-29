@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228195",
+    "feed_name": "Texas Tribune",
+    "title": "Texas voters can face confusion as political parties run primary as they wish",
+    "author": "By Natalia Contreras,\u00a0Votebeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17327863/texas-primary-confusion-precinct-dallas-williamson-eastland-county",
+    "content": "Electioneer Charhonda Hardeman (blue hat) hands Votika Mitchell an example ballot while helping her find her correct voting center after being turned away at Disciple Central Community Church due to the location not being her assigned precinct voting center on primary election day in Dallas on March 3, 2026.",
+    "date": "2026-04-29T14:32:57",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228236",
+    "feed_name": "Texas Tribune",
+    "title": "U.S. Supreme Court weakens key pillar of Voting Rights Act",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17327864/us-supreme-court-voting-rights-act-section-2-decision-texas-redistricting-maps",
+    "content": "The United States Supreme Court building in Washington, D.C., on May 18, 2024.",
+    "date": "2026-04-29T14:24:15",
+    "category": "Texas"
+  },
+  {
     "id": "3677fb59111f7be248ed121071220e30",
     "feed_name": "LRB",
     "title": "Who owns the Arctic?",
@@ -286,6 +306,16 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n08/peter-phillips/what-the-maths-mean",
     "content": "In\u200b the 1938 edition of theOxford Companion to Music, Percy Scholes defined composition as \u2018the culmination of the mental and psychological process of a remarkable and inspired personality\u2019. Even today, the notion of the Great Composer \u2013 the individual genius, whose inimitable music is an expression of a singular mind \u2013 still holds sway: the composers guaranteed to...",
+    "date": "2026-04-29T14:03:45",
+    "category": "Magazines"
+  },
+  {
+    "id": "cf5073aa4b806b752ff0ce4dfc4820b8",
+    "feed_name": "LRB",
+    "title": "Newsletter Preferences",
+    "author": "",
+    "link": "https://www.lrb.co.uk/newsletters",
+    "content": "In the next issue:James Butler on the local elections; Tom Stevenson on Afghanistan.",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
   },
@@ -19966,36 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/albert-camus-a-short-life",
     "content": "Albert Camus\u2019s short life began in Algiers in 1913 and ended in a car crash near Paris in 1960. After being rejected from the \u00c9cole Normale because of a failed medical assessment, Camus became a journalist in Algiers and planned his writing career around three concepts based on the figures of Sisyphus, Prometheus and Nemesis, a scheme that he never finished.",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "8a8df8b13270db8d5e50c2561ffd8266",
-    "feed_name": "LRB",
-    "title": "Eric Hobsbawm: The Consolations of History",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/eric-hobsbawm-the-consolations-of-history",
-    "content": "In this feature-length documentary,\u00a0Anthony Wilks traces the connections between the events of Hobsbawm\u2019s life and the history he told, from his teenage years in Germany as Hitler came to power\u00a0and his communist membership, to the jazz clubs of 1950s Soho and the makings of New Labour, taking in Italian bandits, Peruvian peasant movements and the development of nationalism in...",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "927d641935e1fe2984bdab128d5a00e6",
-    "feed_name": "LRB",
-    "title": "Close Readings 2026",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings",
-    "content": "On the Close Readings podcast,\u00a0longstandingLRBcontributors explore a literary period or theme through a selection of key works.",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "843f326dec056a4bdae042a644e30ce0",
-    "feed_name": "LRB",
-    "title": "LRB 45s: Poetry on vinyl",
-    "author": "",
-    "link": "https://www.lrb.co.uk/45s",
-    "content": "Why is theLondon Review of Booksputting out records?",
     "date": "2026-03-21T15:09:56",
     "category": "Magazines"
   }
