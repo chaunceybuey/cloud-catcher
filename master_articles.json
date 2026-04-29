@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
+    "author": "Gabriel J.X. Dance",
+    "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+    "content": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
+    "date": "2026-04-29T17:57:21",
+    "category": "NYT"
+  },
+  {
     "id": "4229e3e70bb18027cbcf4c2e7e28337b",
     "feed_name": "LRB",
     "title": "The Tobacco Endgame",
@@ -677,6 +687,16 @@
     "link": "https://www.nytimes.com/2026/04/29/world/europe/france-american-universities-trump-sciences-po.html",
     "content": "Worries about visas, academic freedom and safety are making foreign schools, like Sciences Po in Paris, more attractive to some students than the Ivy League.",
     "date": "2026-04-29T09:51:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/us/politics/trump-justice-department-lawsuit-tax-returns-disclosure.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Judge Asks Justice Department: Will You Oppose Trump?",
+    "author": "Andrew Duehren",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/trump-justice-department-lawsuit-tax-returns-disclosure.html",
+    "content": "President Trump sued the Internal Revenue Service over the leak of his tax returns to news media outlets, arguing that the agency should have done more to prevent the disclosures.",
+    "date": "2026-04-29T09:04:05",
     "category": "NYT"
   },
   {
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n05/steven-shapin/heart-head-life-fate",
     "content": "What\u200barethe people in our lives really like \u2013 inside? Seeming and being may not be the same. Smiles may be false and vows of love insincere. Appearances are deceptive; you can\u2019t tell a book by its cover; beauty is only skin deep. Yet, in ordinary circumstances, surfaces are all we have to go on. We do often infer something about books from their covers.",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "2fd8ed01f4fbf2b85884a1443c99dd70",
-    "feed_name": "LRB",
-    "title": "Late Soviet Spiritualism",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/sheila-fitzpatrick/apocalypse-forgotten",
-    "content": "Remember\u200b perestroika? That was Mikhail Gorbachev\u2019s ill-fated experiment in reform in the late 1980s which ended with the sudden collapse of the Soviet Union in 1991. The perestroika story, as we read it in the West, was about an enlightened Soviet leader\u2019s effort to democratise internally, while at the same time ending the Cold War. The first part failed; the second succeeded, but...",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "3be06f976632de8b16fac4bc0e03965f",
-    "feed_name": "LRB",
-    "title": "Communards in Exile",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/neal-ascherson/soup-at-la-marmite",
-    "content": "Just north\u200b of Oxford Street, at its eastern end, a dim entry called Newman Passage curves away from the plate glass and glitz into a silent Victorian alley. Wet cobbles gleam; the narrowing walls have survived slum clearance, redevelopment and the Blitz.",
     "date": "2026-03-21T15:09:56",
     "category": "Magazines"
   }
