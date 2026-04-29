@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228182",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi delays action on plan to cut water use by 25% if emergency is declared",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17327472/texas-corpus-christi-emergency-water-restrictions",
+    "content": "Corpus Christi CIty Hall in downtown Corpus Christi on March 17, 2026.",
+    "date": "2026-04-28T23:45:28",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html",
     "feed_name": "NYT (Shared)",
     "title": "DOJ Secures New James Comey Indictment Over Alleged Threat Against Trump",
@@ -148,6 +158,16 @@
     "content": "The U.S. Department of Homeland Security seal is displayed in Washington on Jan. 24, 2026.",
     "date": "2026-04-28T20:37:52",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/us/offbeat-obituaries-brutal-honesty.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Offbeat Obituaries Celebrate Loss With Levity (and Brutal Honesty)",
+    "author": "Johnny Diaz",
+    "link": "https://www.nytimes.com/2026/04/28/us/offbeat-obituaries-brutal-honesty.html",
+    "content": "Irreverent tributes filled with unvarnished truths and funny anecdotes, which run counter to more somber traditional obituaries, have gained attention for \u201chow alive they feel,\u201d a researcher said.",
+    "date": "2026-04-28T19:45:17",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/28/nyregion/maurene-comey-lawsuit-trump.html",
@@ -257,6 +277,16 @@
     "link": "https://www.nytimes.com/2026/04/28/dining/a-warm-filling-salad-fit-for-dinner.html",
     "content": "A substantial mix of charred broccoli, salmon and soba catapults this salad out of side territory.",
     "date": "2026-04-28T15:01:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/us/kid-rock-hegseth-apache-helicopter.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Kid Rock and Hegseth Ride in Army Helicopters Weeks After Flyby at Singer\u2019s Nashville Home",
+    "author": "Ali Watkins",
+    "link": "https://www.nytimes.com/2026/04/28/us/kid-rock-hegseth-apache-helicopter.html",
+    "content": "Robert Ritchie, known as \u201cKid Rock,\u201d during a hearing at the U.S. Capitol in January.",
+    "date": "2026-04-28T13:12:02",
     "category": "NYT"
   },
   {
@@ -370,6 +400,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/opinion/political-campaigns-artificial-intelligence.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Political Campaigns Have No Idea What\u2019s About to Hit Them",
+    "author": "Thomas B. Edsall",
+    "link": "https://www.nytimes.com/2026/04/28/opinion/political-campaigns-artificial-intelligence.html",
+    "content": "Social media helped put Trump over the top. What\u2019s A.I. going to do to us?",
+    "date": "2026-04-28T09:05:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/28/business/media/stephen-colbert-late-night-show.html",
     "feed_name": "NYT (Emailed)",
     "title": "Stephen Colbert Gets Ready to Hang It Up",
@@ -427,6 +467,16 @@
     "link": "https://www.nytimes.com/2026/04/28/well/doctors-using-ai.html",
     "content": "Apps that record visits are becoming popular, but they come with privacy and accuracy concerns.",
     "date": "2026-04-28T09:00:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Top Child Care Official Wants a \u2018Bonfire of Regulations\u2019",
+    "author": "Coral Davenport",
+    "link": "https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html",
+    "content": "As Americans face soaring child care costs, Alex Adams wants to loosen rules and tighten spending. Critics say that will harm children and shutter day cares.",
+    "date": "2026-04-28T09:00:19",
     "category": "NYT"
   },
   {
@@ -19947,56 +19997,6 @@
     "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/03/10",
     "content": "Drawings from the March 23, 2026, magazine.",
     "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "ff9920824ba4c687282095e35f4e8cd4",
-    "feed_name": "Compact",
-    "title": "Podcast",
-    "author": "",
-    "link": "https://www.compactmag.com/podcast/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "be9831d94055de1abb1cb322fcab715a",
-    "feed_name": "Compact",
-    "title": "Compact",
-    "author": "",
-    "link": "https://www.compactmag.com/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "c82db64d2531bdfdbeb53e3f4761a7df",
-    "feed_name": "Compact",
-    "title": "The Age of Fortress Liberalism",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-age-of-fortress-liberalism/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "d692576f1ebf14bd8ac8ccd0d3c08d09",
-    "feed_name": "Compact",
-    "title": "AI and the Myth of the Machine",
-    "author": "",
-    "link": "https://www.compactmag.com/article/ai-and-the-myth-of-the-machine/",
-    "content": "Sign up for our free newsletter today.",
-    "date": "2026-03-20T21:02:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "e2287bc32c42d0bae7ddfdb3862f3fc8",
-    "feed_name": "Compact",
-    "title": "The Long Shadow of Paul Ehrlich",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-long-shadow-of-paul-ehrlich/",
-    "content": "",
-    "date": "2026-03-20T21:02:54",
     "category": "Magazines"
   }
 ]
