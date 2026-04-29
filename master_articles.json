@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/opinion/trump-assassination-attempts-political-violence.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Loneliness of Donald Trump",
+    "author": "Jamelle Bouie",
+    "link": "https://www.nytimes.com/2026/04/29/opinion/trump-assassination-attempts-political-violence.html",
+    "content": "This is a man who rarely travels beyond the confines of the White House compound or Mar-a-Lago.",
+    "date": "2026-04-29T12:26:41",
+    "category": "NYT"
+  },
+  {
     "id": "d400ec0c1b679901473b493a7b29d053",
     "feed_name": "Compact",
     "title": "Against the Screen-Time Panic",
@@ -19988,15 +19998,5 @@
     "content": "Trump\u2019s SAVE Act would do anything but save America.",
     "date": "2026-03-20T21:15:48",
     "category": "NYT"
-  },
-  {
-    "id": "b6db52a9cfce972d6346e0f123618f9e",
-    "feed_name": "New Yorker",
-    "title": "\u201cThe Wild Party\u201d Returns",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/photo-booth/martin-parrs-eye-for-human-folly",
-    "content": "Also: FKA twigs, \u201cMother Russia,\u201d Caravaggio, and more.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
   }
 ]
