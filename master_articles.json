@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/28/us/politics/trump-passports.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Face Will Appear on Limited-Edition U.S. Passports, State Dept. Says",
+    "author": "Taylor Robinson",
+    "link": "https://www.nytimes.com/2026/04/28/us/politics/trump-passports.html",
+    "content": "An image of the proposed limited-edition passport design released by the State Department.",
+    "date": "2026-04-28T20:53:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228142",
     "feed_name": "Texas Tribune",
     "title": "Texas DACA recipient will be allowed to return after Trump administration deported him",
@@ -19986,16 +19996,6 @@
     "author": "ByJennifer Wilson",
     "link": "https://www.newyorker.com/magazine/2026/03/23/on-morrison-scale-boy-sisters-in-yellow-white-river-crossing",
     "content": "His show became the epicenter of early-nineties cool, with the decade\u2019s biggest names, from Tom Cruise to Bill Clinton, stopping by to earn street cred.",
-    "date": "2026-03-20T21:02:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "bfb2f716841caf8cf68265ea8763aeb8",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/03/23/the-banker-who-made-america-richard-vague-book-review",
-    "content": "\u201cOn Morrison,\u201d \u201cScale Boy,\u201d \u201cSisters in Yellow,\u201d and \u201cWhite River Crossing.\u201d",
     "date": "2026-03-20T21:02:55",
     "category": "Magazines"
   }
