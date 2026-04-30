@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "J. Craig Venter, Scientist Who Decoded the Human Genome, Dies at 79",
+    "author": "Nicholas Wade",
+    "link": "https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html",
+    "content": "J. Craig Venter, next to Algae growth in his greenhouse in La Jolla, Calif., competed with a rival team of scientists in assembling the first human genome.",
+    "date": "2026-04-30T04:29:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
     "feed_name": "NYT (Shared)",
     "title": "U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel",
@@ -127,6 +137,16 @@
     "link": "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html",
     "content": "The stabbing occurred in the Golders Green neighborhood of London, home to a large Jewish population, and came at a time of heightened anxiety after several antisemitic attacks.",
     "date": "2026-04-29T23:16:20",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-act.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Supreme Court Strikes Down Louisiana Map, Another Blow to Voting Rights Act",
+    "author": "Abbie VanSickle",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-act.html",
+    "content": "The U.S. Supreme Court on Wednesday.",
+    "date": "2026-04-29T22:44:37",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/03/how-to-fix-dhs/686495/",
     "content": "The answer to the agency\u2019s abuses is not reform; it is wholesale disassembly and restructuring.",
     "date": "2026-03-22T11:19:20.254111",
-    "category": "Magazines"
-  },
-  {
-    "id": "edc3ea48-74c2-47ef-b2aa-5b8e20619875",
-    "feed_name": "Economist",
-    "title": "Westerners are fleeing their countries in record numbers",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/22/westerners-are-fleeing-their-countries-in-record-numbers",
-    "content": "This will have economic consequences for the places they flee and their destinations",
-    "date": "2026-03-22T10:41:41",
-    "category": "Magazines"
-  },
-  {
-    "id": "b0f16f4a-5cef-4557-ace2-99e85abcfc78",
-    "feed_name": "Economist",
-    "title": "Even the best-case scenario for energy markets is disastrous",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/22/even-the-best-case-scenario-for-energy-markets-is-disastrous",
-    "content": "Whatever happens, high prices will outlive the Iran war",
-    "date": "2026-03-22T10:15:15",
     "category": "Magazines"
   }
 ]
