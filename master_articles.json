@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel",
+    "author": "Jack Nicas, Maria Abi-Habib and Emiliano Rodr\u00edguez Mega",
+    "link": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
+    "content": "Rub\u00e9n Rocha Moya, the governor of Sinaloa state, is the highest-ranking member of Mexico\u2019s dominant political party, Morena, to be indicted by the United States.",
+    "date": "2026-04-29T23:58:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/sports/hockey/buffalo-sabres-nhl-canadian-anthem.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Hockey Fans in Buffalo Finish \u2018O Canada\u2019 After Singer\u2019s Mic Malfunctions",
+    "author": "Jin Yu Young",
+    "link": "https://www.nytimes.com/2026/04/29/sports/hockey/buffalo-sabres-nhl-canadian-anthem.html",
+    "content": "A crowd in Buffalo chimed in to sing the Canadian national anthem before an N.H.L. playoff game. That presented a contrast to ongoing U.S.-Canada tensions.",
+    "date": "2026-04-29T22:34:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/04/trump-king-charles-speech-white-house/686996/",
     "feed_name": "Chait",
     "title": "Donald Trump\u2019s Disturbing Welcome for King Charles",
@@ -280,6 +300,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/movies/devil-wears-prada-meryl-streep-anne-hathaway.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Meryl Streep, Anne Hathaway and the \u2018Devil Wears Prada\u2019 Cast on the Sequel",
+    "author": "Melena Ryzik and Thea Traff",
+    "link": "https://www.nytimes.com/2026/04/29/movies/devil-wears-prada-meryl-streep-anne-hathaway.html",
+    "content": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci and the director David Frankel on \u201cThe Devil Wears Prada,\u201d the sequel and who\u2019s mean in real life.",
+    "date": "2026-04-29T16:38:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228232",
     "feed_name": "Texas Tribune",
     "title": "Family seeks answers on Afghan man\u2019s death in ICE custody",
@@ -288,6 +318,16 @@
     "content": "Paktyawal with two of his children.",
     "date": "2026-04-29T16:30:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Epstein Obtained Objects From Islam\u2019s Holiest Site for His Island \u2018Mosque\u2019",
+    "author": "Ephrat Livni",
+    "link": "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html",
+    "content": "Jeffrey Epstein\u2019s messages cast light on an unusual building on his private island and show how his connections helped him secure tapestries from Mecca for it.",
+    "date": "2026-04-29T16:16:16",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=228195",
@@ -640,6 +680,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html",
+    "feed_name": "NYT (Shared)",
+    "title": "At State Dinner, King Charles Charms the Court of Trump",
+    "author": "Shawn McCreesh",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html",
+    "content": "President Trump and the first lady, Melania Trump, welcomed King Charles III of Britain and Queen Camilla to the White House on Tuesday evening for a state dinner.",
+    "date": "2026-04-29T11:46:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/28/us/politics/state-dinner-guest-list.html",
     "feed_name": "NYT (Emailed)",
     "title": "Full Guest List for Trump\u2019s State Dinner With Charles and Camilla",
@@ -740,6 +790,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/realestate/small-tiny-homes-minnesota.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "She Gave Her Second Tiny Home a Wee Upgrade",
+    "author": "Tim McKeough",
+    "link": "https://www.nytimes.com/2026/04/29/realestate/small-tiny-homes-minnesota.html",
+    "content": "Alchemy Architects pioneered the weeHouse after building a home for Stephanie Arado. Decades later, she wanted another one \u2014 this time with plumbing.",
+    "date": "2026-04-29T09:03:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-immigration-scams-complaints-doubled-ice",
     "feed_name": "ProPublica",
     "title": "Fear and Opportunity: Immigration Scams Surged as Trump\u2019s Sweeps Lured Desperate People to Eager Defrauders",
@@ -758,6 +818,16 @@
     "content": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
     "date": "2026-04-29T09:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/opinion/international-world/putin-russia-nato-attack.html",
+    "feed_name": "NYT (Shared)",
+    "title": "I Played Putin in a War Game. He Could Invade Again.",
+    "author": "Alexander Gabuev",
+    "link": "https://www.nytimes.com/2026/04/29/opinion/international-world/putin-russia-nato-attack.html",
+    "content": "NATO countries need to get their act together.",
+    "date": "2026-04-29T06:13:34",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html",
@@ -877,6 +947,16 @@
     "link": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
     "content": "Brendan Carr, the chairman of the Federal Communications Commission, has repeatedly threatened to take action against broadcasters.",
     "date": "2026-04-28T21:12:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/opinion/whcd-shooting-trump-manifesto.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Banality of Evil, Again",
+    "author": "Bret Stephens",
+    "link": "https://www.nytimes.com/2026/04/28/opinion/whcd-shooting-trump-manifesto.html",
+    "content": "The distinguishing feature of Cole Tomas Allen\u2019s manifesto is its insipidity.",
+    "date": "2026-04-28T21:00:06",
     "category": "NYT"
   },
   {
@@ -19917,86 +19997,6 @@
     "link": "https://www.lrb.co.uk/about",
     "content": "",
     "date": "2026-03-21T15:33:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "c8a479a83266501eaf86c1978990efea",
-    "feed_name": "LRB",
-    "title": "Flannery O\u2019Connor\u2019s Judgments",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/edmund-gordon/atheist-with-a-wooden-leg",
-    "content": "In 1936\u200b, two very different novels about plantation culture and the Southern experience of the Civil War received verdicts from theNew York Times. Margaret Mitchell\u2019sGone with the Wind\u2013 with its cast of gallant gentlemen and cheerful slaves \u2013 was \u2018in sheer readability, surpassed by nothing in American fiction\u2019. William Faulkner\u2019sAbsalom, Absalom!...",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "02c6d33189671499150bf8a954414fb5",
-    "feed_name": "LRB",
-    "title": "Men explain Epstein to me",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/susan-pedersen/diary",
-    "content": "I\u2019m\u200bnoton social media, in part because the level of my rage and anxiety about American politics doesn\u2019t need to get any higher. But I do feel obliged to keep an eye on the polity: I read the papers, go occasionally to demonstrations and, each morning, as I walk the twenty blocks from my apartment to Columbia to teach my classes, listen to news podcasts. Which means I spent the...",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "ac00a2162d0dbe605d58e335fb8b0334",
-    "feed_name": "LRB",
-    "title": "Mummy\u2019s Favourite",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/andrew-o-hagan/stay-classy",
-    "content": "In the days\u200b of disco and Aramis 900, when the relationship between entitlement and sleaze could still seem novel, Prince Andrew came across like the more relatable sort of wanker, high on royal privilege but in touch with the inner life of the standard British male. \u2018If he wasn\u2019t a member of the royal family,\u2019 the astrologer Russell Grant said, \u2018his ideal role would...",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "9961da79ade9776e213bb3be617b1ba9",
-    "feed_name": "LRB",
-    "title": "Eliot on the Run",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/stefan-collini/capital-brandy",
-    "content": "Humankind,\u200b he told us himself, \u2018cannot bear very much reality\u2019. One way to escape having to confront that disagreeable element was to go into hiding. For much of the second half of his life, T.S. Eliot was a man on the run, retreating to actual or symbolic boltholes, wearing a succession of masks, relying on routine to help him escape detection \u2013 even, it sometimes seemed,...",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "45fd75c846c6a0a57978745d7d1d1373",
-    "feed_name": "LRB",
-    "title": "Chantal Akerman\u2019s Predicament",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/daniella-shreir/my-mother-s-prison",
-    "content": "At the age\u200b of fifteen, Chantal Akerman sneaked into a screening of Jean-Luc Godard\u2019sPierrot le fou. She was in the habit of skipping school with her friends and the cinema was one of their preferred hangout spots. But until that moment, Akerman had thought of it as a place for flirting and kissing, which were \u2018the same thing as dancing\u2019. She hadn\u2019t heard of Godard...",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "d7864c8783404f0dbbb2684b0dbb02a0",
-    "feed_name": "LRB",
-    "title": "Schubert\u2019s\u200b Imagination",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/nicholas-spice/butter-wouldn-t-melt",
-    "content": "Had Franz Schubert\u200b been asked how he had come to write the song \u2018Am Meer\u2019 \u2013 he, who had never seen the sea and whose knowledge of it was limited to hearsay and the stylised depictions of painting and literature \u2013 he might have answered as, a hundred years later, Maurice Ravel answered, when a friend teasingly asked him how, since he never got up before ten thirty, he...",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "4a8c09bc60268ed7cb6f3920ef291948",
-    "feed_name": "LRB",
-    "title": "In the latest issue",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05",
-    "content": "",
-    "date": "2026-03-21T15:09:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "a8d4b103c679a0c41253c824c56310d1",
-    "feed_name": "LRB",
-    "title": "Letters",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n05/letters",
-    "content": "",
-    "date": "2026-03-21T15:09:56",
     "category": "Magazines"
   }
 ]
