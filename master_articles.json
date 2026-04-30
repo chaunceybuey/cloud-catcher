@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "69eb9f69c53bb731582162df",
+    "feed_name": "Wired (Science)",
+    "title": "The Summer the American Water Crisis Turned Real",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/",
+    "content": "Concern over water access are poised to consume summer in the US, as crises in Corpus Christi and across the Colorado River threaten to boil over.",
+    "date": "2026-04-30T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/04/29/us/trump-news/pete-hegseth-falsehood-firings",
+    "feed_name": "NYT (Shared)",
+    "title": "Hegseth Cites Falsehood to Defend His Firing of Senior Officers",
+    "author": "Greg Jaffe",
+    "link": "https://www.nytimes.com/live/2026/04/29/us/trump-news/pete-hegseth-falsehood-firings",
+    "content": "Defense Secretary Pete Hegseth\u2019s actions to fire senior military leaders are without precedent in recent decades and have come with little explanation.",
+    "date": "2026-04-30T10:02:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228273",
     "feed_name": "Texas Tribune",
     "title": "High gas prices eating into Texans\u2019 budgets, fueling inflation",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/20/business/oil-jetfuel-asia.html",
     "content": "",
     "date": "2026-03-23T08:59:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.propublica.org/article/nursing-home-inspect-database-update",
-    "feed_name": "ProPublica",
-    "title": "ProPublica Adds Ownership Search to Nursing Home Inspect Database",
-    "author": "Ruth Talbot",
-    "link": "https://www.propublica.org/article/nursing-home-inspect-database-update",
-    "content": "<p>The owner of a nursing home can significantly impact the quality of care that home\u2019s residents receive, <a href=\"https://pubmed.ncbi.nlm.nih.gov/19654184/\">research has shown</a>. One owner\u2019s influence can be widespread: Nearly one-fifth of people or companies who report an ownership interest in a nursing home have a financial stake in five or more homes, according to data from the Centers for Medicaid and Medicare Services. Nearly 100 owners have direct or indirect ownership in 50 or more homes.</p>\n\n\n\n<p>One such owner, Benjamin Landa, was nominated by President Donald Trump in October to be ambassador to Hungary. ProPublica reported Monday that <a href=\"https://projects.propublica.org/nursing-homes/homes/h-335581/\">Pinnacle Multicare Nursing and Rehabilitation Center</a>, which Landa co-owns, is <a href=\"https://www.propublica.org/article/benjamin-landa-ambassador-company-lawsuit\">suing the Trump administration following a Department of Health and Human Services audit</a> that estimated more than $30 million in Medicare overpayments had been made to the facility.</p>\n\n\n\n<p>An attorney for Landa denied wrongdoing in a statement, saying the issues identified in the audit occurred during the COVID-19 pandemic when nursing homes were in the midst of a crisis.</p>\n\n\n\n<p>To give the public more insight into who owns American nursing homes, ProPublica has added the ability to search by owner, manager or officer name to <a href=\"https://projects.propublica.org/nursing-homes/\">Nursing Home Inspect</a>, our database that helps you find issues that federal inspectors have identified in more than 14,000 facilities. The update allows users to find all references to an owner\u2019s name across homes and filter results based on location or the person\u2019s role in the nursing home.</p>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium bb--size-medium\"><img alt=\"A screenshot from ProPublica\u2019s Nursing Home Inspect database, showing results for a search for the name Benjamin Landa.\" class=\"wp-image-71046\" height=\"537\" src=\"https://www.propublica.org/wp-content/uploads/2026/03/Data-Update-promo_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">The database now allows users to search by owner, manager or officer name.</span> <span class=\"attribution__credit\">ProPublica</span></figcaption></figure>\n\n\n\n<p>ProPublica <a href=\"https://www.propublica.org/article/find-nursing-home-ownership-information\">already publishes</a> data provided by CMS on \u201caffiliated entities,\u201d groups of homes determined to share an owner, officer or entity with managerial control. However, these groups do not always capture every home a person or company has a relationship with. For example, CMS lists <a href=\"https://projects.propublica.org/nursing-homes/affiliate/a-646\">Landa</a> as an affiliated entity associated with 55 nursing homes across four states. But the name \u201c<a href=\"https://projects.propublica.org/nursing-homes/findings/search?search=benjamin+landa&amp;toggle=owner\">Benjamin Landa</a>\u201d appears in the CMS ownership data for 102 nursing homes in eight states.&nbsp;</p>\n\n\n\n<p>To make connections between owners more visible, if you search for a specific person or company name, the database now also surfaces others who frequently appear alongside the searched name.</p>\n\n\n\n<p>ProPublica plans to continue improving Nursing Home Inspect in the coming months. If you write a story using the ownership search, come across issues or have ideas for improvements, <a href=\"mailto:ruth.talbot@propublica.org\">please let us know</a>!</p>\n<p>The post <a href=\"https://www.propublica.org/article/nursing-home-inspect-database-update\">ProPublica Adds Ownership Search to Nursing Home Inspect Database</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-03-23T08:55:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
-    "content": "",
-    "date": "2026-03-23T08:44:25",
     "category": "NYT"
   }
 ]
