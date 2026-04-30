@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What the Supreme Court\u2019s Voting Rights Ruling Could Mean for the Midterms",
+    "author": "Nick Corasaniti, Emily Cochrane and Tim Balk",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html",
+    "content": "Senator Marsha Blackburn of Tennessee issued a statement calling on the state legislature to reconvene and pass a new map that eliminates a majority-Black district in Memphis.",
+    "date": "2026-04-29T22:34:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/29/sports/hockey/buffalo-sabres-nhl-canadian-anthem.html",
     "feed_name": "NYT (Shared)",
     "title": "Hockey Fans in Buffalo Finish \u2018O Canada\u2019 After Singer\u2019s Mic Malfunctions",
@@ -127,6 +137,26 @@
     "link": "https://www.nytimes.com/2026/04/29/sports/hockey/buffalo-sabres-nhl-canadian-anthem.html",
     "content": "A crowd in Buffalo chimed in to sing the Canadian national anthem before an N.H.L. playoff game. That presented a contrast to ongoing U.S.-Canada tensions.",
     "date": "2026-04-29T22:34:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A.I. Helps Online Ad Businesses Boom",
+    "author": "Tripp Mickle and Eli Tan",
+    "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+    "content": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
+    "date": "2026-04-29T20:59:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/us/florida-house-gop-map.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Florida Approves Redistricting Map That Could Add 4 Republican House Seats",
+    "author": "Patricia Mazzei",
+    "link": "https://www.nytimes.com/2026/04/29/us/florida-house-gop-map.html",
+    "content": "The Florida Legislature gave final approval on Wednesday to an aggressive new map of the state\u2019s congressional districts sought by Gov. Ron DeSantis.",
+    "date": "2026-04-29T20:23:50",
     "category": "NYT"
   },
   {
@@ -320,6 +350,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/us/voting-rights-act-history.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Key Moments in the Life of the Voting Rights Act",
+    "author": "Audra D. S. Burch, Emily Cochrane and Jamie Leventhal",
+    "link": "https://www.nytimes.com/2026/04/29/us/voting-rights-act-history.html",
+    "content": "Here\u2019s a look at some key events that led to and followed the Voting Rights Act of 1965.",
+    "date": "2026-04-29T16:21:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/29/world/americas/jeffrey-epstein-islam-mosque-island-kaaba-sex-offender-kiswa.html",
     "feed_name": "NYT (Shared)",
     "title": "Epstein Obtained Objects From Islam\u2019s Holiest Site for His Island \u2018Mosque\u2019",
@@ -337,6 +377,16 @@
     "link": "https://www.nytimes.com/2026/04/29/us/san-antonio-texas-poverty-rate-census.html",
     "content": "Olivia Cruz takes an hourlong bus ride in the morning to clean clients\u2019 homes in the Olmos Park neighborhood.",
     "date": "2026-04-29T16:08:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+    "author": "Natasha Singer",
+    "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+    "content": "Sandra Martinez Roe, with her son, is a leader of a Los Angeles parents\u2019 group pushing the district to audit its technology contracts and limit the use of tech in schools.",
+    "date": "2026-04-29T16:04:58",
     "category": "NYT"
   },
   {
@@ -938,6 +988,16 @@
     "content": "Elida Castillo, mayor of Taft, speaks at a city park on March 31.",
     "date": "2026-04-28T21:48:36",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/28/world/europe/britain-iran-ambassador-summons.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Britain Summons Iran\u2019s Ambassador Over Message to Iranians in U.K.",
+    "author": "Megan Specia",
+    "link": "https://www.nytimes.com/2026/04/28/world/europe/britain-iran-ambassador-summons.html",
+    "content": "The Iranian ambassador to Britain, Seyed Ali Mousavi, presenting his credentials to King Charles III at Buckingham Palace in June.",
+    "date": "2026-04-28T21:35:44",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=228153",
@@ -19938,65 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Having transferred FRSXX from Wells Fargo to Fidelity, I clicked \"Make Core Position\" under FRSXX. To my surprise, a new cash transfer a few days later was swept into FZFXX; I had never owned FZFXX prior to this transaction. In Documents section, a trade confirmation was generated on the day I intended to make FRSXX a core position, \"Your Core Acct has been changed from (SPAXX) to<br /> (FZFXX).\" I presume FZFXX is a non institutional version of FRSXX and while Fidelity turns a blind eye on FRSXX in kind transfers and manual purchases, only its retail version, FZFXX, is allowed as a core position for clients who never bought $10 million of FRSXX. Is my understanding correct? Any workaround besides manual purchases?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>No, FZFXX is not a different share class of the same fund as FRSXX.  It's a completely different fund.<br /><br />I do not believe FRSXX is available to be used as a core position.<br /><br />I schedule recurring purchases to sweep cash into lower cost Fidelity money market funds automatically.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Having transferred FRSXX from Wells Fargo to Fidelity, I clicked \"Make Core Position\" under FRSXX. To my surprise, a new cash transfer a few days later was swept into FZFXX; I had never owned FZFXX prior to this transaction. In Documents section, a trade confirmation was generated on the day I intended to make FRSXX a core position, \"Your Core Acct has been changed from (SPAXX) to<br /> (FZFXX).\" I presume FZFXX is a non institutional version of FRSXX and while Fidelity turns a blind eye on FRSXX in kind transfers and manual purchases, only its retail version, FZFXX, is allowed as a core position for clients who never bought $10 million of FRSXX. Is my understanding correct? Any workaround besides manual purchases?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Not sure where you clicked, but the only available core positions in regular brokerage accounts are SPAXX and FZFXX. In retirement accounts FDRXX is an option. And as already mentioned, FZFXX has a different composition (a significant part is in repos, which means it doesn't have the same state tax advantages as FRSXX and other treasury only funds). Just enjoy your 25 BPs and don't overdo it with the micro-management.   <img alt=\":wink:\" class=\"smilies\" height=\"15\" src=\"https://www.bogleheads.org/forum/images/smilies/icon_wink.gif\" title=\"Wink\" width=\"15\" /></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Any workaround besides manual purchases?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Automatic purchases - Fidelity's MMF will auto-liquidate to purchase themselves ... for example you have $100 in core position and $1000 in FRSXX then automatic purchase of FRSXX for $500 will sell $400 of FRSXX to buy $500 of FRSXX ( $100 from core position $400 from FRSXX itself ) <br /><br />PS: and set distributions from core position into FRSXX as well</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Lyrrad, Eno Deb, and SP000, thank you for your informative replies!  <img alt=\":sharebeer\" class=\"smilies\" height=\"40\" src=\"https://www.bogleheads.org/forum/images/smilies/beerbuddies10.gif\" title=\"celebrate\" width=\"60\" /><br /><br />An automatic purchase, partially funded by a fund buying itself, is a clever setup that I might implement.<br /><br />Fidelity customer service AI suggests that other options may be available for a core fund by calling your representative. I called and was told \"No\".  <img alt=\":(\" class=\"smilies\" height=\"15\" src=\"https://www.bogleheads.org/forum/images/smilies/icon_sad.gif\" title=\"Sad\" width=\"15\" /><br /><img alt=\"Image\" class=\"postimage\" src=\"https://i.postimg.cc/wMFjYJgg/Core-Options.png\" /><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=165362\">SU-1977</a> \u2014 Sat Mar 21, 2026 4:15 pm</p><hr />",
     "date": "2026-03-21T21:15:01",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Robert Mueller, Former FBI Director Who Led Trump Inquiry, Dies at 81",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html",
-    "content": "Robert S. Mueller III in 2019, while serving as special counsel investigating Russia\u2019s attack on the 2016 presidential election.",
-    "date": "2026-03-21T19:29:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.slowboring.com/p/saturday-discussion-post-c98",
-    "feed_name": "Slow Boring",
-    "title": "Saturday discussion post",
-    "author": "Halina Bennet",
-    "link": "https://www.slowboring.com/p/saturday-discussion-post-c98",
-    "content": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" href=\"https://substackcdn.com/image/fetch/$s_!2m_m!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2218e14b-56de-4be0-b3ca-229da51cfbb7_4024x3018.jpeg\" target=\"_blank\"><div class=\"image2-inset\"><source type=\"image/webp\" /><img alt=\"\" class=\"sizing-normal\" height=\"3018\" src=\"https://substackcdn.com/image/fetch/$s_!2m_m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2218e14b-56de-4be0-b3ca-229da51cfbb7_4024x3018.jpeg\" width=\"4024\" /><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button class=\"pencraft pc-reset pencraft icon-container restack-image\" tabindex=\"0\" type=\"button\"><svg fill=\"none\" height=\"20\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button class=\"pencraft pc-reset pencraft icon-container view-image\" tabindex=\"0\" type=\"button\"><svg class=\"lucide lucide-maximize2 lucide-maximize-2\" fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p>\n      <p>\n          <a href=\"https://www.slowboring.com/p/saturday-discussion-post-c98\">\n              Read more\n          </a>\n      </p>",
-    "date": "2026-03-21T17:01:54",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "b517e01bd133d7c1389e102952b134a0",
-    "feed_name": "LRB Issue",
-    "title": "More search Options",
-    "author": "",
-    "link": "https://www.lrb.co.uk/search-results#advanced",
-    "content": "",
-    "date": "2026-03-21T15:33:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "0d2ca3ad3e0ece3a3080d2ed2a4b3839",
-    "feed_name": "LRB Issue",
-    "title": "Cover Artist",
-    "author": "",
-    "link": "https://www.lrb.co.uk/archive/v48",
-    "content": "",
-    "date": "2026-03-21T15:33:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "1cfcebf9affac1d4b80b077b4715138f",
-    "feed_name": "LRB Issue",
-    "title": "Cover Artist",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n04",
-    "content": "Browse other issues from this\u00a0year",
-    "date": "2026-03-21T15:33:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "7b6537eda21a602e2a273f8c9806a469",
-    "feed_name": "LRB Issue",
-    "title": "Download theLRBapp",
-    "author": "",
-    "link": "https://www.lrb.co.uk/app",
-    "content": "Read anywhere with theLondon Review of Booksapp, available now from theApp Storefor Apple devices,Google Playfor Android devices andAmazonfor your Kindle Fire.",
-    "date": "2026-03-21T15:33:17",
-    "category": "Magazines"
   }
 ]
