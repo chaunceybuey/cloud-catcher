@@ -110,6 +110,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228458",
+    "feed_name": "Texas Tribune",
+    "title": "Camp Mystic abandons bid to reopen this summer",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17328752/texas-camp-mystic-reopen-canceled-2025-flood",
+    "content": "Camp Mystic in Hunt on July 9, 2025. The camp announced that it will withdraw its application to renew its operating license.",
+    "date": "2026-04-30T18:15:37",
+    "category": "Texas"
+  },
+  {
+    "id": "f48ef1beee572311b0b4f3a58f271c82",
+    "feed_name": "LRB",
+    "title": "May Late Shopping Evening",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/may-late-shopping-evening-tickets-1988323526191",
+    "content": "",
+    "date": "2026-04-30T18:11:02",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228433",
+    "feed_name": "Texas Tribune",
+    "title": "Supreme Court voting rights ruling empowers Texas Republicans to redraw more partisan maps",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17328730/texas-redistricting-supreme-court-voting-rights-act-louisiana-callais-section-2",
+    "content": "Lawmakers debate bills on the floor of the Texas House at the state Capitol on May 26, 2025.",
+    "date": "2026-04-30T17:44:13",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228416",
     "feed_name": "Texas Tribune",
     "title": "Texas DACA recipient detained again after ICE deported him, then allowed his return",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/22/us/pacific-northwest-flooding-fights.html",
     "content": "",
     "date": "2026-03-23T11:14:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "ICE to Aid Airport Security Amid Partial Shutdown, Border Czar Says",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html",
-    "content": "",
-    "date": "2026-03-23T10:59:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/21/us/trump-campus-antisemitism-fight-universities.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Trump\u2019s Contested Campus Antisemitism Fight Is Accelerating Again",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/21/us/trump-campus-antisemitism-fight-universities.html",
-    "content": "",
-    "date": "2026-03-23T10:44:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/21/technology/personaltech/paul-brainerd-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Paul Brainerd Dies at 78; Pioneered Desktop Publishing With PageMaker",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/21/technology/personaltech/paul-brainerd-dead.html",
-    "content": "",
-    "date": "2026-03-23T10:29:25",
     "category": "NYT"
   }
 ]
