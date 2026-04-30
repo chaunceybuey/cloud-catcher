@@ -1420,6 +1420,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Charges Against Suspect in Trump Assassination Attempt Based on Shotgun Shell and a Screed",
+    "author": "Devlin Barrett, Zach Montague and Michael Levenson",
+    "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html",
+    "content": "Todd Blanche, the acting attorney general, said on Monday that investigators were working to determine if the suspect had any connections to left-wing activists.",
+    "date": "2026-04-28T10:55:21",
+    "category": "NYT"
+  },
+  {
     "id": "69ea323ff0e3ce74376afe37",
     "feed_name": "Wired",
     "title": "Stop Trying to Unmask Satoshi Nakamoto",
@@ -19988,15 +19998,5 @@
     "content": "Whatever short-term gain the president thinks he is getting by lying about the war in Iran is far exceeded by the cost, for him, the country and the world.",
     "date": "2026-03-22T16:58:49",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/09/deciphering-dame-muriel-electric-spark-frances-wilson/",
-    "feed_name": "NYYRB",
-    "title": "Deciphering Dame Muriel",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/09/deciphering-dame-muriel-electric-spark-frances-wilson/",
-    "content": "In <em>Electric Spark</em>, Frances Wilson attempts to crack the ingenious codes that were of prime importance in Muriel Spark\u2019s life and writing.",
-    "date": "2026-03-22T15:48:47",
-    "category": "Magazines"
   }
 ]
