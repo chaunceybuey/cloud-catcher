@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/arts/design/israel-artist-venice-biennale.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Venice Biennale Jury Resigns Amid Tension Over Awards Ban",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/04/30/arts/design/israel-artist-venice-biennale.html",
+    "content": "The Israel pavilion at the Venice Biennale in 2024.",
+    "date": "2026-04-30T17:14:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228416",
     "feed_name": "Texas Tribune",
     "title": "Texas DACA recipient detained again after ICE deported him, then allowed his return",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
     "content": "",
     "date": "2026-03-23T11:29:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/22/us/pacific-northwest-flooding-fights.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "As Northwest Flooding Worsens, Conflicting Interests Stymie Solutions",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/22/us/pacific-northwest-flooding-fights.html",
-    "content": "",
-    "date": "2026-03-23T11:14:25",
     "category": "NYT"
   }
 ]
