@@ -100,6 +100,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8751315#p8751315",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "cbgb",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8751315#p8751315",
+    "content": "After several attempts to add my cash plus account to Comenity over the years, my routing # and account # were accepted today. I still haven't confirmed that it will pull money from the account, but autopay is set to draw from cash plus next month. Curious if others have had any success recently.<br /><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I'm unable to link my Schwab Checking Account to the Vanguard CashPlus account. Schwab keeps saying error about the routing number. I have selected Savings. <br /><br />No issues linking to other banks. I found one post on Reddit withe the same problem and no resolution either.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I was trying to use Schwab's MoneyLInk to ACH link my brokerage account to VG CP, from the Schwab side. Schwab said they will not do it because VG is the brokerage, and they would not ACH link Schwab to another brokerage, only to a bank. I said that VG uses a real bank for the actual transactions, and the provided routing number is for the PNC Bank. They said that they will only do it if I provide them a letter from VG that VG Cash Plus account is a checking or a savings account. Obviously I cannot do it because somewhere in FAQs it stated that the VG Cash Plus account is a brokerage account. So I dropped it for the time being.<br /><br />Another financial institution I could not link VG Cash Plus to is Comenity Capital Bank, issuer of the Bread Cashback AMEX credit card.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=217211\">cbgb</a> \u2014 Thu Apr 30, 2026 5:52 pm</p><hr />",
+    "date": "2026-04-30T22:52:54",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228535",
+    "feed_name": "Texas Tribune",
+    "title": "Proposed Fort Bliss data center could use more power than all of El Paso",
+    "author": "By Diego Mendoza-Moyers, \u00a0El Paso Matters",
+    "link": "https://feeds.texastribune.org/link/16799/17328922/el-paso-fort-bliss-data-center-water-electricity",
+    "content": "The Buffalo Soldier Gate at Fort Bliss.",
+    "date": "2026-04-30T22:32:23",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228538",
+    "feed_name": "Texas Tribune",
+    "title": "Chad Hasty, West Texas conservative talk show host, dies unexpectedly",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17328923/chad-hasty-texas-talk-show-host-dies",
+    "content": "Chad Hasty speaks with Dallas Mayor Eric Johnson at The Texas Tribune Festival in Austin on Sept. 22, 2023.",
+    "date": "2026-04-30T22:08:33",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/connecticut-towing-reforms",
     "feed_name": "ProPublica",
     "title": "Connecticut Senate Approves More Towing Reforms, Expanding on Landmark 2025 Legislation",
@@ -198,6 +228,16 @@
     "content": "At WIRED Health, immunologist Daniel Davis detailed the ways in which new technologies are enabling a better understanding of the human immune system.",
     "date": "2026-04-30T16:32:14",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/30/us/ai-students-cheating-homework-classrooms.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How A.I. Killed Student Writing (and Revived It)",
+    "author": "Dana Goldstein and Lauren Lancaster",
+    "link": "https://www.nytimes.com/2026/04/30/us/ai-students-cheating-homework-classrooms.html",
+    "content": "High school and college teachers are watching students write, in the classroom, in order to protect against the incursion of artificial intelligence.",
+    "date": "2026-04-30T16:25:53",
+    "category": "NYT"
   },
   {
     "id": "35ed7e6e1865432566aafcdcb3813636",
@@ -19958,45 +19998,5 @@
     "content": "At a Broadway studio, the actor busts a move with his daughter, Audrey, who also happens to be his inspiration (and co-star) for his new film, \u201cShe Dances.\u201d",
     "date": "2026-03-23T18:34:27",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224661",
-    "feed_name": "Texas Tribune",
-    "title": "Supreme Court rejects appeal from Texas death row inmate Rodney Reed",
-    "author": "By Mark Sherman,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17304652/rodney-reed-texas-death-row-supreme-court",
-    "content": "Family members of Rodney Reed walk to the Supreme Court in Washington, D.C., on Oct. 11, 2022.",
-    "date": "2026-03-23T16:28:42",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/22/arts/television/taylor-frankie-paul-bachelorette-canceled.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Chaotic Downfall of the \u2018Bachelor\u2019 Empire",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/22/arts/television/taylor-frankie-paul-bachelorette-canceled.html",
-    "content": "",
-    "date": "2026-03-23T14:48:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/business/jeffrey-epstein-leon-black.html",
-    "feed_name": "NYT (Popular)",
-    "title": "How Epstein Helped Solve a Billionaire\u2019s Problems With Women",
-    "author": "Matthew Goldstein, Jessica Silver-Greenberg, Steve Eder and David Enrich",
-    "link": "https://www.nytimes.com/2026/03/23/business/jeffrey-epstein-leon-black.html",
-    "content": "The Wall Street titan Leon Black paid Jeffrey Epstein $170 million for what he said was tax and estate work. But his services went beyond that.",
-    "date": "2026-03-23T14:39:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224581",
-    "feed_name": "Texas Tribune",
-    "title": "Dead gardens, dusty cars: Frustrated Corpus Christi residents take precautions as water crisis nears",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17304548/corpus-christi-water-crisis-residents-precautions",
-    "content": "The New Harbor Bridge in Corpus Christi is shown just before sunset, with industrial development in the background, on March 19, 2026.",
-    "date": "2026-03-23T14:00:00",
-    "category": "Texas"
   }
 ]
