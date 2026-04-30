@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/opinion/prediction-markets-regulation.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A Journalist Covered a Missile Strike. Then the Death Threats Started.",
+    "author": "Sean Anthony Guillory and Amy J. Nelson",
+    "link": "https://www.nytimes.com/2026/04/29/opinion/prediction-markets-regulation.html",
+    "content": "Washington should govern prediction markets as if national security were at stake, because it is.",
+    "date": "2026-04-29T18:42:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
     "feed_name": "NYT (Shared)",
     "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
@@ -19988,15 +19998,5 @@
     "content": "Whatever happens, high prices will outlive the Iran war",
     "date": "2026-03-22T10:15:15",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/21/us/politics/beshear-vance-2028-presidential-race.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Beshear Criticizes Vance in Ohio, Stoking 2028 Presidential Tensions",
-    "author": "Tim Balk",
-    "link": "https://www.nytimes.com/2026/03/21/us/politics/beshear-vance-2028-presidential-race.html",
-    "content": "Gov. Andy Beshear\u2019s rivalry with the vice president goes back years.",
-    "date": "2026-03-22T08:05:58",
-    "category": "NYT"
   }
 ]
