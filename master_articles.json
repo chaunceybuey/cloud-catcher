@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html",
+    "feed_name": "NYT (Shared)",
+    "title": "House Passes DHS Funding Bill, Ending Shutdown",
+    "author": "Carl Hulse and Michael Gold",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html",
+    "content": "The legislation pays for Department of Homeland Security operations through Sept. 30, except for Immigration and Customs Enforcement and parts of border patrol, which received an earlier influx of money from a Republican-only bill.",
+    "date": "2026-04-30T19:08:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228458",
     "feed_name": "Texas Tribune",
     "title": "Camp Mystic abandons bid to reopen this summer",
@@ -19988,15 +19998,5 @@
     "content": "The New Harbor Bridge in Corpus Christi is shown just before sunset, with industrial development in the background, on March 19, 2026.",
     "date": "2026-03-23T14:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Spain Says the Sun Shields It From Rising Gas Costs. Is That True?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html",
-    "content": "",
-    "date": "2026-03-23T11:59:25",
-    "category": "NYT"
   }
 ]
