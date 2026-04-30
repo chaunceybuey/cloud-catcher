@@ -130,6 +130,36 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/opinion/supreme-court-voting-rights-act-2026.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Justices Acted as Partisans in the Voting Rights Ruling",
+    "author": "The Editorial Board",
+    "link": "https://www.nytimes.com/2026/04/29/opinion/supreme-court-voting-rights-act-2026.html",
+    "content": "In the name of disentangling race from politics, the court has given white voters more power at the expense of racial minorities.",
+    "date": "2026-04-29T23:39:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/us/politics/trump-gun-control.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Announces Moves to Sharply Curtail Gun Regulations",
+    "author": "Devlin Barrett",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/trump-gun-control.html",
+    "content": "Visitors looked over weapons displayed at the Crossroads of the West Gun Show in Phoenix in January.",
+    "date": "2026-04-29T23:28:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/books/queen-camilla-winnie-the-pooh.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Queen Camilla Unites Winnie-the-Pooh With a Long-Lost Friend",
+    "author": "Sarah Lyall",
+    "link": "https://www.nytimes.com/2026/04/29/books/queen-camilla-winnie-the-pooh.html",
+    "content": "Queen Camilla presents a specially made replica of Roo, the baby kangaroo companion of Winnie-the-Pooh, to Anthony Marx, the president and chief executive of the New York Public Library.",
+    "date": "2026-04-29T23:19:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html",
     "feed_name": "NYT (Shared)",
     "title": "Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say",
@@ -19967,36 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/03/lindy-west-millennial-feminism/686488/",
     "content": "Lindy West has unwittingly written the obituary for an era.",
     "date": "2026-03-22T12:19:33.661140",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/03/pete-hegseth-trump-military-education/686484/",
-    "feed_name": "Atlantic Ideas",
-    "title": "The Lecture I Couldn\u2019t Give",
-    "author": "Kori Schake",
-    "link": "https://www.theatlantic.com/ideas/2026/03/pete-hegseth-trump-military-education/686484/",
-    "content": "Now more than ever, our armed forces need to understand the history of civil-military relations.",
-    "date": "2026-03-22T11:49:14.131711",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/03/ai-confidence-trust/686464/",
-    "feed_name": "Atlantic Ideas",
-    "title": "The First AI Crisis Is Psychological",
-    "author": "Nick Doth\u00e9e",
-    "link": "https://www.theatlantic.com/ideas/2026/03/ai-confidence-trust/686464/",
-    "content": "The economic shocks may well be coming, but we have already entered an age of profound uncertainty about ourselves and the world around us.",
-    "date": "2026-03-22T11:19:20.254131",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/03/how-to-fix-dhs/686495/",
-    "feed_name": "Atlantic Ideas",
-    "title": "How to Fix DHS",
-    "author": "Paul Rosenzweig",
-    "link": "https://www.theatlantic.com/ideas/2026/03/how-to-fix-dhs/686495/",
-    "content": "The answer to the agency\u2019s abuses is not reform; it is wholesale disassembly and restructuring.",
-    "date": "2026-03-22T11:19:20.254111",
     "category": "Magazines"
   }
 ]
