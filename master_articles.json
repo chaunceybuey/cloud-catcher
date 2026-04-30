@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228311",
+    "feed_name": "Texas Tribune",
+    "title": "Once thriving, Laredo\u2019s growth stalls under Trump\u2019s immigration crackdown",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17328681/laredo-economic-growth-stall-trump-immigration",
+    "content": "A Laredo storefront displays \u201cstore closing\u201d signs across its windows on April 9, 2026. Business owners say the distance between open stores has made it harder to attract consistent foot traffic.",
+    "date": "2026-04-30T16:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228409",
+    "feed_name": "Texas Tribune",
+    "title": "Christian Menefee\u2019s district sat vacant for 11 months. His first bill in Congress would set a deadline for special elections.",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17328658/texas-christian-menefee-first-bill-congress-vacancies-180-day-deadline-special-election",
+    "content": "U.S. Rep. Christian Menefee, D-Houston, poses for a portrait during a block walk to encourage people to vote on Jan. 17, 2026, in Houston.",
+    "date": "2026-04-30T15:49:02",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
     "feed_name": "NYT (Shared)",
     "title": "Janet Mills Bows Out of Maine Senate Race as an Insurgent Democrat Rises",
@@ -19976,26 +19996,6 @@
     "author": "Mahmoud Mushtaha",
     "link": "https://www.wired.com/story/hassan-took-a-bike-ride-now-hes-one-of-the-thousands-missing-in-gaza/",
     "content": "In a place denied access to basic forensic technology\u2014and where people disappear into Israeli detention\u2014the fate of thousands remains unknown. One of them is an autistic teenager.",
-    "date": "2026-03-23T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69a0c75b58396a06d6048432",
-    "feed_name": "Wired",
-    "title": "Meet the Gods of AI Warfare",
-    "author": "Katrina Manson",
-    "link": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
-    "content": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
-    "date": "2026-03-23T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69b4485f4c5f5e935676d78c",
-    "feed_name": "Wired",
-    "title": "What Happens When You Can\u2019t Get a Death Certificate in Gaza",
-    "author": "Mahmoud Mushtaha",
-    "link": "https://www.wired.com/story/what-happens-when-you-cant-get-a-death-certificate-in-gaza/",
-    "content": "For families of the missing, systemic obstacles to identifying remains and locating people in Israeli detention has created a kind of social and legal purgatory.",
     "date": "2026-03-23T10:00:00",
     "category": "Magazines"
   }
