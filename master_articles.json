@@ -330,6 +330,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/29/us/san-antonio-texas-poverty-rate-census.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "San Antonio Poverty Rate Remains High Despite Rapid Growth, Census Data Shows",
+    "author": "Edgar Sandoval and Tierney L. Cross",
+    "link": "https://www.nytimes.com/2026/04/29/us/san-antonio-texas-poverty-rate-census.html",
+    "content": "Olivia Cruz takes an hourlong bus ride in the morning to clean clients\u2019 homes in the Olmos Park neighborhood.",
+    "date": "2026-04-29T16:08:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228195",
     "feed_name": "Texas Tribune",
     "title": "Texas voters can face confusion as political parties run primary as they wish",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/app",
     "content": "Read anywhere with theLondon Review of Booksapp, available now from theApp Storefor Apple devices,Google Playfor Android devices andAmazonfor your Kindle Fire.",
-    "date": "2026-03-21T15:33:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "b343b1a2aa3a98454bba5aa66d04263d",
-    "feed_name": "LRB Issue",
-    "title": "About",
-    "author": "",
-    "link": "https://www.lrb.co.uk/about",
-    "content": "",
     "date": "2026-03-21T15:33:17",
     "category": "Magazines"
   }
