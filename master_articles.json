@@ -140,6 +140,36 @@
     "category": "Tech"
   },
   {
+    "id": "4ee3c87f-cd2c-4ffd-8d2c-ba77f2560f6d",
+    "feed_name": "Economist",
+    "title": "Can countries grow richer by exporting people, not goods?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods",
+    "content": "That depends where those people end up",
+    "date": "2026-04-30T09:40:15",
+    "category": "Magazines"
+  },
+  {
+    "id": "48017aa0-c912-4f7e-8612-338050d293d6",
+    "feed_name": "Economist",
+    "title": "India\u2019s weak currency reflects deeper problems than the Iran war",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war",
+    "content": "It highlight a persistent inability to draw in foreign investors",
+    "date": "2026-04-30T09:38:15",
+    "category": "Magazines"
+  },
+  {
+    "id": "7c1e8b59-524b-46c8-980b-91af7b103433",
+    "feed_name": "Economist",
+    "title": "How Kalshi can help the Federal Reserve",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/04/30/how-kalshi-can-help-the-federal-reserve",
+    "content": "Prediction markets may be a win for central banking",
+    "date": "2026-04-30T09:29:30",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html",
     "feed_name": "Interesting Times",
     "title": "Why Are We Still Driving?",
@@ -1037,6 +1067,16 @@
     "link": "https://www.nytimes.com/2026/04/29/realestate/small-tiny-homes-minnesota.html",
     "content": "Alchemy Architects pioneered the weeHouse after building a home for Stephanie Arado. Decades later, she wanted another one \u2014 this time with plumbing.",
     "date": "2026-04-29T09:03:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/travel/road-trip-hotels-united-states.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "5 Hotels for Your Next U.S. Road Trip",
+    "author": "Stephanie Rosenbloom",
+    "link": "https://www.nytimes.com/2026/04/29/travel/road-trip-hotels-united-states.html",
+    "content": "Add these new or newly revamped accommodations to your summer driving itinerary.",
+    "date": "2026-04-29T09:02:48",
     "category": "NYT"
   },
   {
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
     "content": "",
     "date": "2026-03-23T08:44:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/16/business/car-ownership-prices-interest-rates.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018It\u2019s Just Crazy\u2019: High Car Payments Make Ownership Feel Impossible",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/16/business/car-ownership-prices-interest-rates.html",
-    "content": "",
-    "date": "2026-03-23T08:29:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/arts/design/hurvin-anderson.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Painter Faces His Biggest Show, and the Truth About Success",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/arts/design/hurvin-anderson.html",
-    "content": "",
-    "date": "2026-03-23T08:14:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/22/arts/taylor-frankie-paul-bachelorette-canceled.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Chaotic Downfall of the \u2018Bachelor\u2019 Empire",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/22/arts/taylor-frankie-paul-bachelorette-canceled.html",
-    "content": "",
-    "date": "2026-03-23T07:59:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/19/arts/crimson-desert-south-korea-k-games.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "After K-Pop and K-Drama, Here Come K-Games",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/19/arts/crimson-desert-south-korea-k-games.html",
-    "content": "",
-    "date": "2026-03-23T07:44:25",
     "category": "NYT"
   }
 ]
