@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Janet Mills Bows Out of Maine Senate Race as an Insurgent Democrat Rises",
+    "author": "Lisa Lerer, Katie Glueck and Reid J. Epstein",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
+    "content": "Gov. Janet Mills of Maine was not able to match the fund-raising of Graham Platner, a progressive political newcomer, or his standing in polls of Maine Democrats.",
+    "date": "2026-04-30T14:53:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/30/arts/music/david-allan-coe-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "David Allan Coe, Singer Who Personified Outlaw Country, Dies at 86",
+    "author": "Bill Friskics-Warren",
+    "link": "https://www.nytimes.com/2026/04/30/arts/music/david-allan-coe-dead.html",
+    "content": "David Allan Coe around 1970. From his debut, he registered as an original with an offbeat sense of humor, a deep baritone and a fierce resolve to be different.",
+    "date": "2026-04-30T13:52:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html",
     "feed_name": "NYT (Shared)",
     "title": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues",
@@ -138,6 +158,16 @@
     "content": "",
     "date": "2026-04-30T11:38:55",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Silicon Valley Is Bracing for a Permanent Underclass",
+    "author": "Jasmine Sun",
+    "link": "https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html",
+    "content": "The people building A.I. fear that we have only a short time before advanced A.I. disrupts the labor force.",
+    "date": "2026-04-30T11:00:33",
+    "category": "NYT"
   },
   {
     "id": "69eb9f69c53bb731582162df",
@@ -19968,35 +19998,5 @@
     "content": "For families of the missing, systemic obstacles to identifying remains and locating people in Israeli detention has created a kind of social and legal purgatory.",
     "date": "2026-03-23T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224572",
-    "feed_name": "Texas Tribune",
-    "title": "Blocked from Texas vouchers, this private Islamic school wants a chance to prove its pro-America values",
-    "author": "Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17304048/texas-school-vouchers-islam-iman-academy",
-    "content": "Students translate digital time to analog clocks at Iman Academy in southwest Houston on Wednesday, March 4, 2026.",
-    "date": "2026-03-23T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224422",
-    "feed_name": "Texas Tribune",
-    "title": "Feds plan to install 536 miles of floating barriers on Rio Grande to deter migrants",
-    "author": "By Martha Pskowski,\u00a0Inside Climate News",
-    "link": "https://feeds.texastribune.org/link/16799/17304049/texas-border-rio-grande-buoys-federal-barrier-brownsville",
-    "content": "Buoy barriers are installed in the Rio Grande in Brownsville on March 6, 2026.",
-    "date": "2026-03-23T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/world/asia/shigeaki-mori-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Shigeaki Mori, Hiroshima Survivor Photographed With Obama, Dies at 88",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/world/asia/shigeaki-mori-dead.html",
-    "content": "",
-    "date": "2026-03-23T09:59:25",
-    "category": "NYT"
   }
 ]
