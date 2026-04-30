@@ -170,6 +170,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/opinion/plastic-surgery-rich-face.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Rich People Didn\u2019t Look Like This Before",
+    "author": "Amy Odell",
+    "link": "https://www.nytimes.com/2026/04/30/opinion/plastic-surgery-rich-face.html",
+    "content": "Cosmetic surgery is a sign of making it in the most Kardashian-coded way \u2014 get rich, then buy a face.",
+    "date": "2026-04-30T14:47:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/30/arts/music/david-allan-coe-dead.html",
     "feed_name": "NYT (Shared)",
     "title": "David Allan Coe, Singer Who Personified Outlaw Country, Dies at 86",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/21/technology/personaltech/paul-brainerd-dead.html",
     "content": "",
     "date": "2026-03-23T10:29:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/17/business/media/richard-mauer-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Richard Mauer, Reporter Who Probed Corruption in Alaska, Dies at 76",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/17/business/media/richard-mauer-dead.html",
-    "content": "",
-    "date": "2026-03-23T10:14:25",
     "category": "NYT"
   }
 ]
