@@ -120,6 +120,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/arts/design/art-barack-obama-presidential-center-bradford-mehretu-gibson.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Audacity of Art at the Obama Presidential Center",
+    "author": "Robin Pogrebin and Kevin Serna",
+    "link": "https://www.nytimes.com/2026/05/01/arts/design/art-barack-obama-presidential-center-bradford-mehretu-gibson.html",
+    "content": "Barack and Michelle Obama commissioned 30 artists to create work for their campus, which starts visitor previews next week on the South Side of Chicago.",
+    "date": "2026-05-01T14:02:23",
+    "category": "NYT"
+  },
+  {
     "id": "14c8dfdae523843b6014cd3ecf8a9f7b",
     "feed_name": "LRB",
     "title": "On Julian Barnes",
@@ -468,6 +478,16 @@
     "content": "Lawmakers debate bills on the floor of the Texas House at the state Capitol on May 26, 2025.",
     "date": "2026-04-30T17:44:13",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/30/well/sleep-supplements-magnesium-melatonin.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Do Supplements Help You Sleep? Here\u2019s What to Know.",
+    "author": "Amanda Schupak",
+    "link": "https://www.nytimes.com/2026/04/30/well/sleep-supplements-magnesium-melatonin.html",
+    "content": "New data show that 1 in 8 Americans are using sleep aids such as magnesium, melatonin or C.B.D.",
+    "date": "2026-04-30T17:30:51",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/30/arts/design/israel-artist-venice-biennale.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
     "content": "",
     "date": "2026-03-24T05:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/business/student-loan-deliquency-default.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Record Number of Student Loan Borrowers Are in Delinquency and Default",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/business/student-loan-deliquency-default.html",
-    "content": "",
-    "date": "2026-03-24T05:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/17/business/media/wired-editor-katie-drummond-tech-politics.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Wired\u2019s New Editor Doesn\u2019t Care if the Tech Bros Are Mad",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/17/business/media/wired-editor-katie-drummond-tech-politics.html",
-    "content": "",
-    "date": "2026-03-24T05:03:50",
     "category": "NYT"
   }
 ]
