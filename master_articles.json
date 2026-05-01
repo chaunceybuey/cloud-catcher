@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/us/camp-mystic-texas-floods-closure.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Camp Mystic Says It Will Not Reopen This Summer After Fatal Texas Floods",
+    "author": "J. David Goodman",
+    "link": "https://www.nytimes.com/2026/04/30/us/camp-mystic-texas-floods-closure.html",
+    "content": "Camp Mystic, where 28 people died in catastrophic flooding last year, said on Thursday that it would not reopen this summer.",
+    "date": "2026-04-30T19:26:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html",
     "feed_name": "NYT (Shared)",
     "title": "House Passes DHS Funding Bill, Ending Shutdown",
@@ -19986,16 +19996,6 @@
     "author": "Photography byBob Miller",
     "link": "https://www.newyorker.com/magazine/2026/03/30/the-last-generation",
     "content": "Life on a family farm.",
-    "date": "2026-03-23T23:58:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "7a40fdaf1189d773b42760fa2aa69978",
-    "feed_name": "New Yorker",
-    "title": "Schools to Root for After Your Bracket Fails",
-    "author": "ByTalib Babb",
-    "link": "https://www.newyorker.com/magazine/2026/03/30/schools-to-root-for-after-your-bracket-fails",
-    "content": "To keep March Madness interesting, why not go with your mom\u2019s alma mater? Or the college with a celebrity\u2019s kid?",
     "date": "2026-03-23T23:58:57",
     "category": "Magazines"
   }
