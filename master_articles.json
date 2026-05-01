@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "69dd443e0d4515fda63e6d15",
+    "feed_name": "Wired (Science)",
+    "title": "This Treatment Could Reverse Osteoarthritis Joint Damage With a Single Injection",
+    "author": "Javier Carbajal",
+    "link": "https://www.wired.com/story/osteoarthritis-joint-damage-single-injection-treatment/",
+    "content": "Osteoarthritis has no cure, but researchers have developed new therapies that help aging or damaged joints repair themselves in a matter of weeks.",
+    "date": "2026-05-01T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8751365#p8751365",
     "feed_name": "Vanguard",
     "title": "Re: Vanguard Cash Plus Account",
@@ -837,6 +847,16 @@
     "link": "https://www.nytimes.com/2026/04/29/science/tourism-killer-whales-orcas.html",
     "content": "Only two places in the world allow tourists to enter the water with the ocean\u2019s apex predator. But the safety of both species is a growing concern.",
     "date": "2026-04-29T21:10:20",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/t-magazine/gardening-style-quiz.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Quiz: Find Out What Garden Style Best Suits Your Personality",
+    "author": "Aileen Kwun",
+    "link": "https://www.nytimes.com/2026/04/29/t-magazine/gardening-style-quiz.html",
+    "content": "Find out how to match your dream plot to your personality.",
+    "date": "2026-04-29T21:04:47",
     "category": "NYT"
   },
   {
@@ -19976,26 +19996,6 @@
     "author": "BySarah Larson",
     "link": "https://www.newyorker.com/magazine/2026/03/30/between-sting-and-the-deep-blue-sea",
     "content": "The Police front man\u2019s 2014 musical, \u201cThe Last Ship,\u201d was inspired by his gritty working-class childhood in England. Now a revamped production\u2014featuring Shaggy\u2014is docking at the Metropolitan Opera.",
-    "date": "2026-03-23T23:58:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "1c78cdbeb031ced866cfa2f53d593f6a",
-    "feed_name": "New Yorker",
-    "title": "Steve Zahn\u2019s Father-Daughter Dance",
-    "author": "ByBrian Seibert",
-    "link": "https://www.newyorker.com/magazine/2026/03/30/steve-zahns-father-daughter-dance",
-    "content": "At a Broadway studio, the actor busts a move with his daughter, Audrey, who also happens to be his inspiration (and co-star) for his new film, \u201cShe Dances.\u201d",
-    "date": "2026-03-23T23:58:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "2a6754ba5dbb8a02143b7fa7530dfc79",
-    "feed_name": "New Yorker",
-    "title": "Robyn, on Her Own",
-    "author": "ByJia Tolentino",
-    "link": "https://www.newyorker.com/magazine/2026/03/30/robyn-profile",
-    "content": "The pop star brings motherhood and middle age to the dance floor.",
     "date": "2026-03-23T23:58:57",
     "category": "Magazines"
   }
