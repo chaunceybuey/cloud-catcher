@@ -100,6 +100,36 @@
     "category": "Texas"
   },
   {
+    "id": "14c8dfdae523843b6014cd3ecf8a9f7b",
+    "feed_name": "LRB",
+    "title": "On Julian Barnes",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n08/michael-wood/lucid-wailing",
+    "content": "Julian Barnes\u2019s\u200b latest book is full of broken rules. In the second chapter we\u2019re invited to look back at his early novelFlaubert\u2019s Parrot(1984), which contained, along with much else, \u2018a list \u2026 of subjects which should be banned from fiction on a temporary or permanent basis\u2019. The narrator\u2019s list, with which Barnes himself \u2018largely...",
+    "date": "2026-05-01T13:24:02",
+    "category": "Magazines"
+  },
+  {
+    "id": "08fbc0567c01ad4ac7f4b6e3ae9f8b88",
+    "feed_name": "LRB",
+    "title": "Labour in Wales",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n08/richard-king/labour-in-wales",
+    "content": "Since\u200b 1922, the Labour Party has won in Wales at every general election, and has been the largest party in all of the country\u2019s devolved governments since the National Assembly, now known as the Senedd, was convened in May 1999. During the extended periods when the UK has been under Conservative rule, Welsh Labour has made much of its political integrity and electoral success. Such...",
+    "date": "2026-05-01T13:24:02",
+    "category": "Magazines"
+  },
+  {
+    "id": "e401749a73d3db4937a235e4bf2e09ec",
+    "feed_name": "LRB",
+    "title": "Dependency Culture",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/april/dependency-culture",
+    "content": "Charles III\u2019s state visit to the US occasioned a good deal of commentary either celebrating the \u2018special relationship\u2019 between Britain.\u00a0.\u00a0.",
+    "date": "2026-05-01T13:24:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/05/obama-son-trayvon-martin/687018/",
     "feed_name": "Chait",
     "title": "The Mysterious Obsession With Obama\u2019s Fake Son",
@@ -168,6 +198,16 @@
     "content": "Osteoarthritis has no cure, but researchers have developed new therapies that help aging or damaged joints repair themselves in a matter of weeks.",
     "date": "2026-05-01T09:30:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Obamacare Enrollment Drops Sharply as Costs Rise",
+    "author": "Reed Abelson and Margot Sanger-Katz",
+    "link": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html",
+    "content": "Although the government has not yet reported enrollment numbers, insurers and analysts are estimating overall declines of about 20 percent compared with last year.",
+    "date": "2026-05-01T09:02:02",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/24/health/mdma-therapy-ptsd-psychedelic-australia.html",
     "content": "",
     "date": "2026-03-24T04:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/science/archaeology-egypt-hatshepsut.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Wicked Stepmother No Longer, a Female Pharaoh Gets a Reputational Makeover",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/24/science/archaeology-egypt-hatshepsut.html",
-    "content": "",
-    "date": "2026-03-24T03:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/science/trees-glowing-st-elmos-fire.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Your Closest Forest Gets Lit Up by a Hidden Purple Glow",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/02/science/trees-glowing-st-elmos-fire.html",
-    "content": "",
-    "date": "2026-03-24T03:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/crosswords/midi-crossword-new.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "We Made a Crossword That\u2019s Just Right",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/02/crosswords/midi-crossword-new.html",
-    "content": "",
-    "date": "2026-03-24T03:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/pageoneplus/quote-of-the-day-wests-oil-producers-reap-profits-now-but-stay-wary.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: West\u2019s Oil Producers Reap Profits Now but Stay Wary",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/pageoneplus/quote-of-the-day-wests-oil-producers-reap-profits-now-but-stay-wary.html",
-    "content": "",
-    "date": "2026-03-24T03:03:50",
     "category": "NYT"
   }
 ]
