@@ -420,6 +420,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html",
+    "feed_name": "NYT (Shared)",
+    "title": "New Banksy Statue Causes Stir in Central London",
+    "author": "Michael Levenson",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html",
+    "content": "The artist Banksy appeared to have taken credit for statue of a man holding a flag covering his face that stood in Waterloo Place in London.",
+    "date": "2026-04-30T21:35:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/connecticut-towing-reforms",
     "feed_name": "ProPublica",
     "title": "Connecticut Senate Approves More Towing Reforms, Expanding on Landmark 2025 Legislation",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/20/us/ice-arrests-immigration-enforcement.html",
     "content": "",
     "date": "2026-03-24T07:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Pro-Palestinian Activists Rally in Support of Freed Columbia Protester",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/22/nyregion/columbia-protester-palestinian-ice-detention-new-jersey.html",
-    "content": "",
-    "date": "2026-03-24T07:18:50",
     "category": "NYT"
   }
 ]
