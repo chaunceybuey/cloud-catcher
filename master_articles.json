@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "69eba5db08042dab5165a458",
+    "feed_name": "Wired (Science)",
+    "title": "The Next Alzheimer\u2019s Breakthrough Will Take More Than Just Science",
+    "author": "Anna McKie",
+    "link": "https://www.wired.com/story/john-hardy-dementia-wired-health/",
+    "content": "At WIRED Health, pioneering Alzheimer's researcher John Hardy outlined the stakes\u2014and next steps\u2014of where treatment is headed next.",
+    "date": "2026-05-01T18:55:56",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=18915",
     "feed_name": "Stratechery",
     "title": "2026.18: Long-term, Peripheral & Myopic Visions",
@@ -168,6 +178,16 @@
     "content": "Charles III\u2019s state visit to the US occasioned a good deal of commentary either celebrating the \u2018special relationship\u2019 between Britain.\u00a0.\u00a0.",
     "date": "2026-05-01T13:24:02",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/science/psychiatry-kennedy-ssris-maha-antidepressants.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Top Psychiatrists Call for a Greater Focus on Ceasing Medication",
+    "author": "Ellen Barry",
+    "link": "https://www.nytimes.com/2026/05/01/science/psychiatry-kennedy-ssris-maha-antidepressants.html",
+    "content": "With Health Secretary Robert F. Kennedy Jr. aiming to rein in the use of psychiatric drugs, psychiatrists are preemptively addressing how and when patients should quit taking them.",
+    "date": "2026-05-01T12:33:07",
+    "category": "NYT"
   },
   {
     "id": "https://www.theatlantic.com/ideas/2026/05/obama-son-trayvon-martin/687018/",
@@ -257,6 +277,16 @@
     "link": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html",
     "content": "Although the government has not yet reported enrollment numbers, insurers and analysts are estimating overall declines of about 20 percent compared with last year.",
     "date": "2026-05-01T09:02:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/magazine/kushner-witkoff-board-of-peace-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Jared Kushner, Steve Witkoff and the Profitable Business of Peace",
+    "author": "Linda Kinstler",
+    "link": "https://www.nytimes.com/2026/05/01/magazine/kushner-witkoff-board-of-peace-iran.html",
+    "content": "The Trump administration is turning diplomacy into an asset to be leveraged.",
+    "date": "2026-05-01T09:01:23",
     "category": "NYT"
   },
   {
@@ -388,6 +418,16 @@
     "content": "Texas\u2019 execution chamber in Huntsville.",
     "date": "2026-04-30T20:23:22",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/30/us/chonkers-sea-lion-san-francisco.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Chonkers the \u2018Food-Motivated\u2019 Sea Lion Plops Into San Francisco",
+    "author": "Livia Albeck-Ripka",
+    "link": "https://www.nytimes.com/2026/04/30/us/chonkers-sea-lion-san-francisco.html",
+    "content": "Wildlife experts have been tracking the Steller sea lion since he appeared last month at a popular tourist spot near the end of Fisherman\u2019s Wharf.",
+    "date": "2026-04-30T20:21:37",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/20/science/david-botstein-dead.html",
     "content": "",
     "date": "2026-03-24T06:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/arts/music/bernard-rands-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Bernard Rands, Pulitzer-Winning Composer, Dies at 92",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/arts/music/bernard-rands-dead.html",
-    "content": "",
-    "date": "2026-03-24T06:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/opinion/iran-israel-united-states-hamas.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018Once and for All\u2019 Means Never",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/opinion/iran-israel-united-states-hamas.html",
-    "content": "",
-    "date": "2026-03-24T06:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/opinion/chuck-schumer-save-act.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Chuck Schumer: This Is Trump\u2019s Plan to \u2018Guarantee the Midterms\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/opinion/chuck-schumer-save-act.html",
-    "content": "",
-    "date": "2026-03-24T06:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Denmark Has Changed",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/opinion/denmark-mette-frederiksen-election.html",
-    "content": "",
-    "date": "2026-03-24T05:48:50",
     "category": "NYT"
   }
 ]
