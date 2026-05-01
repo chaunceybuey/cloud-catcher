@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Spirit Airlines Prepares to Shut Down After Trump Administration Bailout Falls Through",
+    "author": "Lauren Hirsch and Niraj Chokshi",
+    "link": "https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html",
+    "content": "Spirit Airlines will stop flying after failing to find a way to emerge from bankruptcy in a time of high fuel prices and stiff competition.",
+    "date": "2026-05-01T21:59:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/us/david-rivera-florida-verdict-trial.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Jury Convicts Florida Ex-Rep. David Rivera in Conspiracy Trial",
+    "author": "David C. Adams and Patricia Mazzei",
+    "link": "https://www.nytimes.com/2026/05/01/us/david-rivera-florida-verdict-trial.html",
+    "content": "Former U.S. Representative David Rivera at the James Lawrence King Federal Justice Building in Miami in March.",
+    "date": "2026-05-01T21:40:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19521-beerthoven-concert-series-origin-stories-featuring-duo-b",
     "feed_name": "KMFA",
     "title": "Beerthoven Concert Series: Origin Stories, featuring Duo-B",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/23/world/middleeast/energy-crisis-iea-warning.html",
     "content": "",
     "date": "2026-03-24T08:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/us/politics/us-airborne-troops-iran.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Pentagon Officials Weigh Deployment of Airborne Troops for Iran War",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/us/politics/us-airborne-troops-iran.html",
-    "content": "",
-    "date": "2026-03-24T07:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/us/ice-arrests-immigration-enforcement.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "New Data Shows Where ICE Has Been Most Active This Year",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/us/ice-arrests-immigration-enforcement.html",
-    "content": "",
-    "date": "2026-03-24T07:33:50",
     "category": "NYT"
   }
 ]
