@@ -160,6 +160,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/opinion/iran-hormuz-navy-south-china-sea-naval-power.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Tragic Decline of the American Navy",
+    "author": "Robert D. Kaplan",
+    "link": "https://www.nytimes.com/2026/05/01/opinion/iran-hormuz-navy-south-china-sea-naval-power.html",
+    "content": "A 19th-century military strategist should be required reading at the Pentagon.",
+    "date": "2026-05-01T11:10:52",
+    "category": "NYT"
+  },
+  {
     "id": "cc1aa08fde53ac2b1a4b3cd08f46131f",
     "feed_name": "Compact",
     "title": "How Occultists Remade the World",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/17/business/media/wired-editor-katie-drummond-tech-politics.html",
     "content": "",
     "date": "2026-03-24T05:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/06/theater/jordan-fein-broken-glass.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Fast-Rising American Director Is Wowing the West End",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/06/theater/jordan-fein-broken-glass.html",
-    "content": "",
-    "date": "2026-03-24T04:48:50",
     "category": "NYT"
   }
 ]
