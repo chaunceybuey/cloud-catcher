@@ -170,6 +170,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Trump Is the One Without the Cards at the Poker Table",
+    "author": "Thomas L. Friedman",
+    "link": "https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html",
+    "content": "A.I. will drastically increase the power of small states and groups in conflict with the great powers.",
+    "date": "2026-05-01T05:37:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8751365#p8751365",
     "feed_name": "Vanguard",
     "title": "Re: Vanguard Cash Plus Account",
@@ -647,7 +657,7 @@
     "link": "https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html",
     "content": "Confronting the weirdness of a Waymo future.",
     "date": "2026-04-30T09:02:48",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/04/30/realestate/zombie-homes-exit-taxes.html",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/23/pageoneplus/quote-of-the-day-wests-oil-producers-reap-profits-now-but-stay-wary.html",
     "content": "",
     "date": "2026-03-24T03:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/pageoneplus/corrections-march-24-2026.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Corrections: March 24, 2026",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/24/pageoneplus/corrections-march-24-2026.html",
-    "content": "",
-    "date": "2026-03-24T02:48:50",
     "category": "NYT"
   }
 ]
