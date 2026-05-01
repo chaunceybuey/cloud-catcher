@@ -110,6 +110,16 @@
     "category": "Finance"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Picks Nicole Saphier for Surgeon General After Withdrawing Casey Means Nomination",
+    "author": "Sheryl Gay Stolberg and Dani Blum",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html",
+    "content": "The withdrawal of Dr. Casey Means\u2019s nomination is bound to be a deep disappointment for the Make America Healthy Again movement.",
+    "date": "2026-04-30T23:46:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8751315#p8751315",
     "feed_name": "Vanguard",
     "title": "Re: Vanguard Cash Plus Account",
@@ -597,6 +607,16 @@
     "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
     "content": "Conceived in 1806 by Napoleon, the Arc de Triomphe has come to symbolize very different things in modern France.",
     "date": "2026-04-30T04:01:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/29/us/politics/trump-germany-us-troops.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Threatens to Pull Troops From Germany as He Lashes Out at Chancellor",
+    "author": "David E. Sanger",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/trump-germany-us-troops.html",
+    "content": "U.S. soldiers on a combat exercise in Bavaria, Germany.",
+    "date": "2026-04-30T03:40:13",
     "category": "NYT"
   },
   {
@@ -19976,26 +19996,6 @@
     "author": "BySouvankham Thammavongsa",
     "link": "https://www.newyorker.com/magazine/2026/03/30/floating-fiction-souvankham-thammavongsa",
     "content": "After he left, I said to my friend, \u201cI like him. Is he single?\u201d My friend said he\u2019d never mentioned a partner.",
-    "date": "2026-03-23T23:58:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "53c7fbcbece916279008983a9d0c1d52",
-    "feed_name": "New Yorker",
-    "title": "A Bingo Card for Spring in New York City",
-    "author": "ByEmily Flake",
-    "link": "https://www.newyorker.com/magazine/2026/03/30/nyc-spring-bingo",
-    "content": "Do you have \u201cUPS Guy in Shorts,\u201d \u201cStoop Weirdo,\u201d or \u201cPark Teeming with Hinge Dates\u201d?",
-    "date": "2026-03-23T23:58:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "48cf298d4c0f1d949e0a23be9ea77e58",
-    "feed_name": "New Yorker",
-    "title": "Under the Influence at the Whitney Biennial",
-    "author": "ByHilton Als",
-    "link": "https://www.newyorker.com/magazine/2026/03/30/the-anxiety-of-influence-in-the-whitney-biennial",
-    "content": "How the artists in this year\u2019s survey do or, more often, don\u2019t acknowledge those who paved the way for them.",
     "date": "2026-03-23T23:58:57",
     "category": "Magazines"
   }
