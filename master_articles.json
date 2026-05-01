@@ -250,6 +250,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Attacks on Jewish Targets in Europe Suggest Hybrid Warfare",
+    "author": "Megan Specia and Koba Ryckewaert",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
+    "content": "An arson attack in the Golders Green neighborhood of London in March destroyed four ambulances run by a Jewish organization.",
+    "date": "2026-04-30T18:27:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228458",
     "feed_name": "Texas Tribune",
     "title": "Camp Mystic abandons bid to reopen this summer",
@@ -557,7 +567,7 @@
     "link": "https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html",
     "content": "Confronting the weirdness of a Waymo future.",
     "date": "2026-04-30T09:02:48",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/04/30/realestate/zombie-homes-exit-taxes.html",
@@ -19986,16 +19996,6 @@
     "author": "ByJia Tolentino",
     "link": "https://www.newyorker.com/magazine/2026/03/30/robyn-profile",
     "content": "The pop star brings motherhood and middle age to the dance floor.",
-    "date": "2026-03-23T23:58:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "9fe50b851329f3ace799abc374e21728",
-    "feed_name": "New Yorker",
-    "title": "Does A.I. Need a Constitution?",
-    "author": "ByJill Lepore",
-    "link": "https://www.newyorker.com/magazine/2026/03/30/does-ai-need-a-constitution",
-    "content": "A new set of precepts is meant to make the chatbot Claude wise, decent, and safe. It also marks a striking transfer of public responsibility from constitutional government to private tech firms.",
     "date": "2026-03-23T23:58:57",
     "category": "Magazines"
   }
