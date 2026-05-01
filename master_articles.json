@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228697",
+    "feed_name": "Texas Tribune",
+    "title": "UNT approves buyouts for professors, faculty as it tackles budget shortfalls",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17330531/university-of-north-texas-approves-buyouts",
+    "content": "Students walked through the University of North Texas campus in Denton on March 22, 2022.",
+    "date": "2026-05-01T22:43:27",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html",
     "feed_name": "NYT (Shared)",
     "title": "Spirit Airlines Prepares to Shut Down After Trump Administration Bailout Falls Through",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html",
     "content": "",
     "date": "2026-03-24T08:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/world/middleeast/energy-crisis-iea-warning.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Energy Crisis Will Not Be Resolved Quickly if War Ends, I.E.A. Chief Warns",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/world/middleeast/energy-crisis-iea-warning.html",
-    "content": "",
-    "date": "2026-03-24T08:03:50",
     "category": "NYT"
   }
 ]
