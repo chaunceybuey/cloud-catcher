@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8752916#p8752916",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "klemani",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8752916#p8752916",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><ol><li>To transfer cash from my trust brokerage account settlement fund to the trust CP account (sweep account), after having initiated the transfer by CALLING Vanguard, I am told there is a \"special process\" involved (because \"[Vanguard] is still working to <strong class=\"text-strong\"><em class=\"text-italics\">fully</em></strong> support Trust CP accounts...\") and it will take 3-5 biz days for the transfer to take place (and that this is what I can expect going forward).</li></ol></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>P.S.  The funds slated to be transferred are as of this writing still sitting in the trust brokerage account's settlement fund, so Vanguard is definitely going to hit the 5 end of their claimed 3-5 biz day range (and that's a best-case scenario at this point).</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Does anyone have more recent experiences with a trust Cash Plus account? Is Vanguard still working to \"fully\" support it or has it improved?<br /><br />@SunnySideUp has the situation improved since August 2025?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I ended up trying a Trust Cash Plus account and it seems to have gotten better now. I did not observe longer transfer times when transferring money between my trust CP and trust brokerage than between my non-trust CP and non-trust brokerage. I also called Vanguard and they confirmed there should not be differences in transfer times between a trust CP and a non-trust CP account.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=199745\">klemani</a> \u2014 Sat May 02, 2026 5:08 pm</p><hr />",
+    "date": "2026-05-02T22:08:50",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.kmfa.org/pages/18828-texas-performing-arts-rhiannon-giddens",
     "feed_name": "KMFA",
     "title": "Texas Performing Arts: Rhiannon Giddens",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/23/world/europe/lionel-jospin-dead.html",
     "content": "",
     "date": "2026-03-25T07:48:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/nyregion/catherine-t-nolan-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Catherine T. Nolan, a State Assembly Power From Queens, Is Dead at 67",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/nyregion/catherine-t-nolan-dead.html",
-    "content": "",
-    "date": "2026-03-25T07:33:49",
     "category": "NYT"
   }
 ]
