@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Vision for D.C. \u2018Garden of Heroes\u2019 Statues Grows in Size and Cost",
+    "author": "Luke Broadwater and Zachary Small",
+    "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html",
+    "content": "Based on the latest renderings, the Garden of Heroes could rank among the more expensive and time-consuming projects President Trump has undertaken.",
+    "date": "2026-05-02T09:01:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/well/live/tick-bites-diseases-symptoms.html",
     "feed_name": "NYT (Emailed)",
     "title": "Tick Season: What to Know About Bites and Symptoms",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
     "content": "",
     "date": "2026-03-25T06:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/business/media/buzzfeed-jonah-peretti-ai-future.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Can Jonah Peretti Save BuzzFeed From Extinction?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/business/media/buzzfeed-jonah-peretti-ai-future.html",
-    "content": "",
-    "date": "2026-03-25T05:48:49",
     "category": "NYT"
   }
 ]
