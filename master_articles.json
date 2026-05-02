@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Tucker Carlson Discusses Breaking With Trump, the Iran War and Antisemitism",
+    "author": "Lulu Garcia-Navarro",
+    "link": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html",
+    "content": "The conservative media commentator split with the administration over the war in Iran. Will the breakup last?",
+    "date": "2026-05-02T13:43:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/opinion/trump-thomas-jefferson-founding-fathers.html",
     "feed_name": "NYT (Shared)",
     "title": "What Would the Nation\u2019s Founders Think of Trump? 250 Years Later, Here Is the Answer.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html",
     "content": "",
     "date": "2026-03-25T07:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/opinion/crypto-ai-politics.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The New Moneyed Interests: Crypto and A.I.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/opinion/crypto-ai-politics.html",
-    "content": "",
-    "date": "2026-03-25T07:03:49",
     "category": "NYT"
   }
 ]
