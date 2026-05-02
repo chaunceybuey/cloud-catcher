@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228780",
+    "feed_name": "Texas Tribune",
+    "title": "Sen. Ted Cruz makes Iowa appearance, fueling speculation about another presidential bid",
+    "author": "Gabby Birenbaum and Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17330940/texas-ted-cruz-iowa-visit-presidential-bid",
+    "content": "U.S. Sen. Ted Cruz comes to the stage during the Texas Youth Summit on Sept. 19, 2025 in The Woodlands, Texas.",
+    "date": "2026-05-02T23:24:43",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8752916#p8752916",
     "feed_name": "Vanguard",
     "title": "Re: Vanguard Cash Plus Account",
@@ -78,6 +88,16 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><ol><li>To transfer cash from my trust brokerage account settlement fund to the trust CP account (sweep account), after having initiated the transfer by CALLING Vanguard, I am told there is a \"special process\" involved (because \"[Vanguard] is still working to <strong class=\"text-strong\"><em class=\"text-italics\">fully</em></strong> support Trust CP accounts...\") and it will take 3-5 biz days for the transfer to take place (and that this is what I can expect going forward).</li></ol></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>P.S.  The funds slated to be transferred are as of this writing still sitting in the trust brokerage account's settlement fund, so Vanguard is definitely going to hit the 5 end of their claimed 3-5 biz day range (and that's a best-case scenario at this point).</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Does anyone have more recent experiences with a trust Cash Plus account? Is Vanguard still working to \"fully\" support it or has it improved?<br /><br />@SunnySideUp has the situation improved since August 2025?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I ended up trying a Trust Cash Plus account and it seems to have gotten better now. I did not observe longer transfer times when transferring money between my trust CP and trust brokerage than between my non-trust CP and non-trust brokerage. I also called Vanguard and they confirmed there should not be differences in transfer times between a trust CP and a non-trust CP account.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=199745\">klemani</a> \u2014 Sat May 02, 2026 5:08 pm</p><hr />",
     "date": "2026-05-02T22:08:50",
     "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/02/world/europe/timmy-whale-germany-released.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Timmy the Stranded Whale Is Released After an Elaborate Rescue",
+    "author": "Jenny Gross",
+    "link": "https://www.nytimes.com/2026/05/02/world/europe/timmy-whale-germany-released.html",
+    "content": "Timmy the humpback whale, seen on April 29, 2026, during the effort to move it in a water-filled barge from the coast of Germany to the open sea.",
+    "date": "2026-05-02T21:07:22",
+    "category": "NYT"
   },
   {
     "id": "https://www.kmfa.org/pages/18828-texas-performing-arts-rhiannon-giddens",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/22/us/meteorite-crash-texas-home.html",
     "content": "",
     "date": "2026-03-25T08:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/us/marco-rubio-trial-witness-miami-venezuela.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Miami Corruption Trial Gets a Marquee Witness: Marco Rubio",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/24/us/marco-rubio-trial-witness-miami-venezuela.html",
-    "content": "",
-    "date": "2026-03-25T08:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/world/europe/lionel-jospin-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Lionel Jospin, Who Helped Set France on Socialist Path, Dies at 88",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/world/europe/lionel-jospin-dead.html",
-    "content": "",
-    "date": "2026-03-25T07:48:49",
     "category": "NYT"
   }
 ]
