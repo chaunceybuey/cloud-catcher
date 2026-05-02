@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Tells Congress Why He Doesn\u2019t Need Its Authorization for the Iran War",
+    "author": "Erica L. Green and Megan Mineiro",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html",
+    "content": "President Trump spoke to reporters before boarding Marine One at the White House on Friday.",
+    "date": "2026-05-01T22:00:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html",
     "feed_name": "NYT (Shared)",
     "title": "Spirit Airlines Prepares to Shut Down After Trump Administration Bailout Falls Through",
@@ -597,6 +607,16 @@
     "link": "https://www.nytimes.com/2026/05/01/magazine/kushner-witkoff-board-of-peace-iran.html",
     "content": "The Trump administration is turning diplomacy into an asset to be leveraged.",
     "date": "2026-05-01T09:01:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/travel/stockholm-bakeries.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "5 New Stockholm Bakeries",
+    "author": "Ingrid K. Williams and Sofia Runarsdotter",
+    "link": "https://www.nytimes.com/2026/05/01/travel/stockholm-bakeries.html",
+    "content": "The Swedish appetite for sweets, caffeine and hanging out has led to a profusion of new convivial bakeries.",
+    "date": "2026-05-01T09:00:30",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/20/dining/jacket-potatoes-uk-food-trend-social-media.html",
     "content": "",
     "date": "2026-03-25T04:48:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/21/dining/noma-abuse-copenhagen.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Copenhagen Grapples With the Abuse Allegations Against Noma\u2019s Chef",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/21/dining/noma-abuse-copenhagen.html",
-    "content": "",
-    "date": "2026-03-25T04:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/low-sodium-recipes",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Watching Your Sodium? You\u2019ll Love These Easy, Big Flavor Dinners.",
-    "author": "",
-    "link": "https://cooking.nytimes.com/article/low-sodium-recipes",
-    "content": "",
-    "date": "2026-03-25T04:18:49",
     "category": "NYT"
   }
 ]
