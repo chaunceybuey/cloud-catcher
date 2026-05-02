@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/opinion/data-centers-detention-rural-america.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Rural America Is Getting Blindsided by Data and Detention Centers",
+    "author": "Rotimi Adeoye",
+    "link": "https://www.nytimes.com/2026/05/02/opinion/data-centers-detention-rural-america.html",
+    "content": "Namely, immigrant detention centers and data centers.",
+    "date": "2026-05-02T11:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump\u2019s Vision for D.C. \u2018Garden of Heroes\u2019 Statues Grows in Size and Cost",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/21/business/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility.html",
     "content": "",
     "date": "2026-03-25T06:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Smart Home Never Quite Worked. Now It\u2019s Getting an A.I. Reboot.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
-    "content": "",
-    "date": "2026-03-25T06:03:49",
     "category": "NYT"
   }
 ]
