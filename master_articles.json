@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
+    "author": "Aaron Boxerman and Edward Wong",
+    "link": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+    "content": "Marco Rubio, the U.S. secretary of state, invoked an emergency provision to allow the \u201cimmediate sale\u201d of weapons to Israel, Qatar, Kuwait and the United Arab Emirates.",
+    "date": "2026-05-02T16:18:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/nyregion/new-jersey-diners-soda-pop-act.html",
     "feed_name": "NYT (Shared)",
     "title": "Diners in New Jersey Are Struggling to Survive",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/23/nyregion/catherine-t-nolan-dead.html",
     "content": "",
     "date": "2026-03-25T07:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Valerie Perrine, Screen Siren Who Won Critical Acclaim, Dies at 82",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/movies/valerie-perrine-dead.html",
-    "content": "",
-    "date": "2026-03-25T07:18:49",
     "category": "NYT"
   }
 ]
