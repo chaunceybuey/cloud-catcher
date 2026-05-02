@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Federal Appeals Court Temporarily Halts Abortion Pill Access by Mail",
+    "author": "Pam Belluck",
+    "link": "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html",
+    "content": "The court order, in a lawsuit by the state of Louisiana, pauses a Food and Drug Administration regulation that greatly expanded access to the abortion pill mifepristone.",
+    "date": "2026-05-02T01:16:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. to Withdraw 5,000 Troops From Germany, Pentagon Says",
+    "author": "Julian E. Barnes and Helene Cooper",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
+    "content": "Members of the Army participated in a military exercise in Hohenfels, Germany, on Thursday.",
+    "date": "2026-05-02T00:51:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228715",
     "feed_name": "Texas Tribune",
     "title": "South Texas residents suing SpaceX over alleged home damage",
@@ -98,6 +118,16 @@
     "content": "A SpaceX Super Heavy booster carrying the Starship spacecraft lifts off on its 11th test flight at the company&#039;s launch pad in Starbase on Oct. 13, 2025.",
     "date": "2026-05-01T23:48:37",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/us/bard-president-leon-botstein-jeffrey-epstein.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Bard College\u2019s President, Leon Botstein, Will Retire After Epstein Revelations",
+    "author": "Vimal Patel",
+    "link": "https://www.nytimes.com/2026/05/01/us/bard-president-leon-botstein-jeffrey-epstein.html",
+    "content": "Leon Botstein on the Bard College campus in Annandale-On-Hudson, N.Y.",
+    "date": "2026-05-01T23:45:37",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=228712",
@@ -19968,35 +19998,5 @@
     "content": "",
     "date": "2026-03-25T03:34:48",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/pageoneplus/corrections-march-25-2026.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Corrections: March 25, 2026",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/pageoneplus/corrections-march-25-2026.html",
-    "content": "",
-    "date": "2026-03-25T03:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224829",
-    "feed_name": "Texas Tribune",
-    "title": "After killing its desalination project, Corpus Christi explores buying water from a privately owned plant",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17305574/texas-corpus-christi-water-supply-desalination-plant-offer",
-    "content": "The Corpus Christi City Council voted to negotiate to buy water from a private desalination plant, six months after voting to kill a city-owned desalination project.",
-    "date": "2026-03-25T02:15:38",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224816",
-    "feed_name": "Texas Tribune",
-    "title": "Elon Musk company selects proposed mile-long Dallas tunnel",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17305557/dallas-boring-company-tunnel-underground-transit-elon-musk",
-    "content": "Elon Musk, co-founder and chief executive officer of Tesla Inc., arrives in a modified Tesla Model X electric vehicle during an unveiling event for the Boring Co. Hawthorne test tunnel in Hawthorne, California, on Dec. 18, 2018.",
-    "date": "2026-03-25T01:05:27",
-    "category": "Texas"
   }
 ]
