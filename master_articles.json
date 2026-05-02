@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/well/live/tick-bites-diseases-symptoms.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Tick Season: What to Know About Bites and Symptoms",
+    "author": "Maggie Astor",
+    "link": "https://www.nytimes.com/2026/05/02/well/live/tick-bites-diseases-symptoms.html",
+    "content": "Ticks are expanding into new places, and more are carrying multiple diseases.",
+    "date": "2026-05-02T09:00:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/climate-science-oil-gas-fossil-fuel-judges-jim-jordan",
     "feed_name": "ProPublica",
     "title": "Event With Links to Oil Industry Teaches Judges \u201cHealthy Skepticism\u201d of Climate Science",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/20/business/media/buzzfeed-jonah-peretti-ai-future.html",
     "content": "",
     "date": "2026-03-25T05:48:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/theater/giant-review-broadway-lithgow-dahl.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018Giant\u2019 Review: As Roald Dahl, John Lithgow Is a Study in Monstrosity",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/theater/giant-review-broadway-lithgow-dahl.html",
-    "content": "",
-    "date": "2026-03-25T05:33:49",
     "category": "NYT"
   }
 ]
