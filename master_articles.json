@@ -430,6 +430,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores",
+    "author": "John S.W. MacDonald",
+    "link": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+    "content": "The Maryland bill comes amid increasing pushback against so-called dynamic pricing in states across America.",
+    "date": "2026-05-01T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228589",
     "feed_name": "Texas Tribune",
     "title": "Rep. Greg Casar unveils bill targeting utility costs as part of progressives\u2019 \u201caffordability agenda\u201d",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/23/opinion/electric-vehicles-solar-gas-prices.html",
     "content": "",
     "date": "2026-03-25T06:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/21/business/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Laid Off in Midlife, China\u2019s Reform Generation Braces for Downward Mobility",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/21/business/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility.html",
-    "content": "",
-    "date": "2026-03-25T06:18:49",
     "category": "NYT"
   }
 ]
