@@ -160,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-centers.html",
+    "feed_name": "NYT (Shared)",
+    "title": "\u2018The Most Bipartisan Issue Since Beer\u2019: Opposition to Data Centers",
+    "author": "Sabrina Tavernise",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-centers.html",
+    "content": "Americans have soured on data centers, polls show, and the sentiment is profoundly bipartisan. How will that change our politics?",
+    "date": "2026-05-01T19:52:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19521-beerthoven-concert-series-origin-stories-featuring-duo-b",
     "feed_name": "KMFA",
     "title": "Beerthoven Concert Series: Origin Stories, featuring Duo-B",
@@ -350,6 +360,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/01/well/calf-pain-achilles-popliteal-artery-entrapment.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "It Felt Like a Pulled Muscle, but the Pain Kept Coming Back",
+    "author": "Lisa Sanders, M.D.",
+    "link": "https://www.nytimes.com/2026/05/01/well/calf-pain-achilles-popliteal-artery-entrapment.html",
+    "content": "Hobbled by a mysterious problem with his calf, a man traveled far and wide in search of answers.",
+    "date": "2026-05-01T12:50:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/01/science/psychiatry-kennedy-ssris-maha-antidepressants.html",
     "feed_name": "NYT (Emailed)",
     "title": "Top Psychiatrists Call for a Greater Focus on Ceasing Medication",
@@ -527,6 +547,16 @@
     "link": "https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html",
     "content": "A.I. will drastically increase the power of small states and groups in conflict with the great powers.",
     "date": "2026-05-01T05:37:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/30/arts/design/george-baselitz-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Georg Baselitz, German Neo-Expressionist Painter, Dies at 88",
+    "author": "William Grimes",
+    "link": "https://www.nytimes.com/2026/04/30/arts/design/george-baselitz-dead.html",
+    "content": "Along with contemporaries like Anselm Kiefer, he mounted a frontal attack on Minimalism and Conceptualism, the dominant \u201ccool\u201d styles of the 1970s.",
+    "date": "2026-05-01T04:08:08",
     "category": "NYT"
   },
   {
@@ -19350,6 +19380,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/24/dining/chicken-with-black-beans-and-tortellini-with-peas.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Chicken With Black Beans and Tortellini With Peas",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/24/dining/chicken-with-black-beans-and-tortellini-with-peas.html",
+    "content": "Five quick recipes that pair go-to ingredients to great effect.",
+    "date": "2026-03-25T16:46:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/article/laguardia-airport-air-canada-plane-crash.html",
     "feed_name": "NYT (Popular)",
     "title": "LaGuardia Plane Crash: What We Know About the Victims, Investigation and Flight Delays",
@@ -19958,45 +19998,5 @@
     "content": "Scissors and other barbershop tools at shown at Marchica&#039;s Barbershop in Austin on May 28, 2020.",
     "date": "2026-03-24T22:37:27",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
-    "feed_name": "Douthat",
-    "title": "Iran\u2019s \u2018Nuclear\u2019 Option",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
-    "content": "How U.S. strategy encouraged mutually assured destruction.",
-    "date": "2026-03-24T21:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224762",
-    "feed_name": "Texas Tribune",
-    "title": "TribCast: Inside Texas\u2019 massive ICE detention facilities",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17305426/tribcast-ice-detention-immigration",
-    "content": "The South Texas Family Residential Center in Dilley on Jan. 28, 2026.",
-    "date": "2026-03-24T20:00:37",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Gregory Bovino\u2019s Final Days: Harsh Words and Few Regrets",
-    "author": "Katie J.M. Baker and Hamed Aleaziz",
-    "link": "https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html",
-    "content": "Border Patrol official Gregory Bovino is retiring this week.",
-    "date": "2026-03-24T19:29:38",
-    "category": "NYT"
-  },
-  {
-    "id": "c8eaf135-9653-4fa9-b986-23cbd94d1a15",
-    "feed_name": "Economist",
-    "title": "Markets are gripped by an alarming cognitive dissonance",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/24/markets-are-gripped-by-an-alarming-cognitive-dissonance",
-    "content": "Investors all seem to think everyone else is wrong",
-    "date": "2026-03-24T19:14:39",
-    "category": "Magazines"
   }
 ]
