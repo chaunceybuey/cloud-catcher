@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/opinion/trump-thomas-jefferson-founding-fathers.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What Would the Nation\u2019s Founders Think of Trump? 250 Years Later, Here Is the Answer.",
+    "author": "Stacy Schiff",
+    "link": "https://www.nytimes.com/2026/05/02/opinion/trump-thomas-jefferson-founding-fathers.html",
+    "content": "Jefferson\u2019s quill pen drew blood.",
+    "date": "2026-05-02T11:43:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html",
     "feed_name": "Douthat",
     "title": "Slouching Toward Kamala Harris",
@@ -97,6 +107,16 @@
     "link": "https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html",
     "content": "The Democrats\u2019 fundamental condition is a late-Trumpian stasis.",
     "date": "2026-05-02T11:00:18",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/02/opinion/king-charles-america-visit-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "His Majesty and Our Travesty",
+    "author": "Maureen Dowd",
+    "link": "https://www.nytimes.com/2026/05/02/opinion/king-charles-america-visit-trump.html",
+    "content": "The real king delivers a needed royal lesson on democracy.",
+    "date": "2026-05-02T11:00:12",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/24/arts/design/brooklyn-museum-african-art.html",
     "content": "",
     "date": "2026-03-25T05:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/nyregion/banksy-identity-robin-gunningham-arrest.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Inside the Arrest That Led to Banksy\u2019s Possible Unmasking Decades Later",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/nyregion/banksy-identity-robin-gunningham-arrest.html",
-    "content": "",
-    "date": "2026-03-25T05:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/dining/jacket-potatoes-uk-food-trend-social-media.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "What Are Jacket Potatoes, and Why Are the English Waiting Hours for Them?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/dining/jacket-potatoes-uk-food-trend-social-media.html",
-    "content": "",
-    "date": "2026-03-25T04:48:49",
     "category": "NYT"
   }
 ]
