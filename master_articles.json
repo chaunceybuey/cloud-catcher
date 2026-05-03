@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228739",
+    "feed_name": "Texas Tribune",
+    "title": "Republican Brett Ligon, former Montgomery County DA, wins special election for open Texas Senate seat",
+    "author": "Alejandro Serrano and Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17330955/texas-senate-district-4-special-election",
+    "content": "Brett Ligon, Republican candidate for Texas&#039; Senate District 4 and former Montgomery County district attorney",
+    "date": "2026-05-03T00:37:02",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
     "feed_name": "NYT (Shared)",
     "title": "How Germany May Have Misjudged Trump\u2019s Anger on Iran",
@@ -197,6 +207,26 @@
     "link": "https://www.nytimes.com/2026/05/02/nyregion/new-jersey-diners-soda-pop-act.html",
     "content": "New Jersey bills itself as the \u201cdiner capital of the world.\u201d Lawmakers are trying to help it stay that way, despite economic turmoil causing food prices to skyrocket.",
     "date": "2026-05-02T15:38:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/travel/spirit-airlines-bankruptcy-tickets-refunds.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Spirit Airlines Is Shutting Down. Here\u2019s What to Do if You\u2019re Scheduled to Fly.",
+    "author": "Seth Kugel",
+    "link": "https://www.nytimes.com/2026/05/01/travel/spirit-airlines-bankruptcy-tickets-refunds.html",
+    "content": "Spirit Airlines, squeezed by spiking jet fuel prices, shut down on Saturday after a proposed government bailout fell apart.",
+    "date": "2026-05-02T15:29:37",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/01/us/secret-service-whcd-hearings.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Secret Service Avoids Hearings for Now on Correspondents\u2019 Dinner Shooting",
+    "author": "Nicholas Nehamas and Eileen Sullivan",
+    "link": "https://www.nytimes.com/2026/05/01/us/secret-service-whcd-hearings.html",
+    "content": "President Trump and the first lady, Melania Trump, at the White House Correspondents\u2019 Association dinner in Washington in April.",
+    "date": "2026-05-02T14:47:59",
     "category": "NYT"
   },
   {
@@ -1427,6 +1457,16 @@
     "link": "https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
     "content": "What should we do when a chatbot behaves like a criminal?",
     "date": "2026-04-30T09:04:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/04/30/arts/television/wowsabout-jim-henson-pbs-kids.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "\u2018Wowsabout\u2019 Looks to Nature, and Jim Henson, in Hopes of Inspiring Awe",
+    "author": "Laurel Graeber",
+    "link": "https://www.nytimes.com/2026/04/30/arts/television/wowsabout-jim-henson-pbs-kids.html",
+    "content": "Ronald the pig and Roxy the hedgehog lead \u201cWowsabout,\u201d a new children\u2019s special about the awe-inspiring power of nature that producers hope will expand into a series.",
+    "date": "2026-04-30T09:03:22",
     "category": "NYT"
   },
   {
@@ -19957,46 +19997,6 @@
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-why-you-can-t-change-someone-s-mind",
     "content": "Something has gone wrong in the way we discuss politics. If democratic systems since the Athenian polity have been founded on debate, then what does debate do for us today, aside from making us angrier and filling billionaire-owned social media sites with monetisable content? Sarah Stein Lubrano has argued that the \u2018marketplace of ideas\u2019 is a myth and the best ideas often...",
     "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Democrat Emily Gregory Wins Florida Special Election in Mar-a-Lago\u2019s District",
-    "author": "David W. Chen",
-    "link": "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html",
-    "content": "Emily Gregory\u2019s district includes President Trump\u2019s Mar-a-Lago estate in Palm Beach, Fla.",
-    "date": "2026-03-25T14:04:30",
-    "category": "NYT"
-  },
-  {
-    "id": "69c3cf94d93cb01f52357a7e",
-    "feed_name": "Wired",
-    "title": "When Satellite Data Becomes a Weapon",
-    "author": "Gia Chaudry",
-    "link": "https://www.wired.com/story/when-satellite-data-becomes-a-weapon/",
-    "content": "As war reshapes the Gulf, the satellite infrastructure the world relies on to see conflict clearly is being delayed, spoofed, and privately controlled\u2014and nobody is sure who is responsible.",
-    "date": "2026-03-25T13:00:42",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/03/republican-hawks-israel-iran/686521/",
-    "feed_name": "Chait",
-    "title": "The Deep Risk That Republican Hawks Overlooked",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/03/republican-hawks-israel-iran/686521/",
-    "content": "If the Iran war goes badly, the isolationist, anti-Israel wing of the party is likely to steer the GOP\u2019s future.",
-    "date": "2026-03-25T11:48:48",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "190d3ed0af514aabf4ca5d836d9556c2",
-    "feed_name": "Compact",
-    "title": "The Mexican Left\u2019s War on NGOs",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-mexican-lefts-war-on-ngos/",
-    "content": "",
-    "date": "2026-03-25T11:29:33",
     "category": "Magazines"
   }
 ]
