@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/opinion/abortion-telehealth.html",
+    "feed_name": "NYT (Shared)",
+    "title": "It Just Got Harder to Get an Abortion for Every Woman in America",
+    "author": "Jill Filipovic",
+    "link": "https://www.nytimes.com/2026/05/02/opinion/abortion-telehealth.html",
+    "content": "A ruling by a federal appeals court has blocked access to abortion pills via telemedicine.",
+    "date": "2026-05-02T18:55:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html",
     "feed_name": "NYT (Shared)",
     "title": "New Video Analysis Suggests Suspect in Correspondents\u2019 Dinner Attack Fired First",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n06/james-butler/am-i-perhaps-in-italy",
     "content": "\u2018You\u2019re not men.\u200b\u00a0You\u2019re boys. If there was no social media, you would be my concubines.\u2019 One of the weirdest lines of the 2024 US election came from Robert J. O\u2019Neill, a pro-Trump former Navy SEAL who claims to have been one of those who shot Osama bin Laden. Respondents to O\u2019Neill\u2019s post on X, which was directed at a gaggle of young, male...",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "fa5e69744e4e7094a17dd528b8743fcc",
-    "feed_name": "LRB",
-    "title": "Caillebotte\u2019s Gaze",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/tom-crewe/men-watching-men",
-    "content": "On\u200b 3 November 1876, two days after the unexpected death of his younger brother Ren\u00e9, Gustave Caillebotte made his will. He was 28.",
     "date": "2026-03-25T15:53:01",
     "category": "Magazines"
   }
