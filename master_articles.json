@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/us/politics/boebert-mace-luna-republican-women.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Mace, Boebert and Luna Want Congress Members to Pay a Price for Sexual Abuse. Will It Work?",
+    "author": "Annie Karni",
+    "link": "https://www.nytimes.com/2026/05/02/us/politics/boebert-mace-luna-republican-women.html",
+    "content": "Representatives Nancy Mace, Anna Paulina Luna and Lauren Boebert.",
+    "date": "2026-05-02T20:53:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/18828-texas-performing-arts-rhiannon-giddens",
     "feed_name": "KMFA",
     "title": "Texas Performing Arts: Rhiannon Giddens",
@@ -270,6 +280,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "UK Driving-Test Backlog Leaves Learners Waiting Months",
+    "author": "Stephen Castle",
+    "link": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
+    "content": "Grace Reynolds, right, taking a driving lesson with Dean Batchelor in March in London. \u201cIt feels like I\u2019ve got to pass \u2014 otherwise Christmas will be probably the next time,\u201d Ms. Reynolds said.",
+    "date": "2026-05-02T12:33:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/business/japan-bathhouse-oil-iran.html",
     "feed_name": "NYT (Emailed)",
     "title": "Not Even Japanese Bathhouses Are Immune From Shocks of Iran War",
@@ -327,6 +347,16 @@
     "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html",
     "content": "Based on the latest renderings, the Garden of Heroes could rank among the more expensive and time-consuming projects President Trump has undertaken.",
     "date": "2026-05-02T09:01:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Push for Electoral Retribution Heads to the Ballot Box",
+    "author": "Shane Goldmacher",
+    "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html",
+    "content": "President Donald Trump is seeking to unseat a raft of elected Republicans he perceives as political enemies in a series of primaries this month.",
+    "date": "2026-05-02T09:01:30",
     "category": "NYT"
   },
   {
@@ -1107,6 +1137,16 @@
     "link": "https://www.nytimes.com/2026/04/30/us/camp-mystic-texas-floods-closure.html",
     "content": "Camp Mystic, where 28 people died in catastrophic flooding last year, said on Thursday that it would not reopen this summer.",
     "date": "2026-04-30T19:26:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/10/13/travel/eu-biometric-border-checks.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "What Travelers Need to Know About the EU\u2019s New Biometric Border Checks",
+    "author": "Christine Chung",
+    "link": "https://www.nytimes.com/2025/10/13/travel/eu-biometric-border-checks.html",
+    "content": "Europe\u2019s new Entry/Exit System was scheduled to be fully in place by April 10, but its debut has been inconsistent.",
+    "date": "2026-04-30T19:26:28",
     "category": "NYT"
   },
   {
@@ -19956,46 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n06/liam-shaw/bring-me-bimagrumab",
     "content": "In\u200b 1889 Charles-\u00c9douard Brown-S\u00e9quard, a 72-year-old professor at the Coll\u00e8ge de France, wrote a letter to theLancetin which he reported the effects of injecting himself with guinea pig semen. The results were remarkable. He could once more lift heavy weights, no longer had to hold the banister when going down the stairs and his youthful vigour had returned in other...",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "239fa3767979c616f519392542520e67",
-    "feed_name": "LRB",
-    "title": "Wifredo Lam Reconsidered",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/tony-wood/at-moma",
-    "content": "The Cuban artist\u200b Wifredo Lam\u2019s best-known work,La jungla(1942-43), is a riotous and unsettling painting. Measuring nearly eight feet by seven-and-a-half, it features a series of anthropomorphic figures standing amid dense green vegetation. They are long-limbed, with outsize feet and curving buttocks; parts of faces, somewhere between stylised human and totemic animal, float above...",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "5af8fd363832ff43b8e13ab0ba0a6251",
-    "feed_name": "LRB",
-    "title": "Serbia\u2019s Student Movement",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/vincent-bevins/diary",
-    "content": "On\u200b 1November2024, the canopy of a recently renovated train station in Novi Sad collapsed, killing sixteen people. In the weeks that followed, a new protest movement coalesced; it continues to demonstrate sixteen months later. For its leaders, the collapse is symptomatic of the corruption at the heart of Aleksandar Vu\u010di\u0107\u2019s increasingly authoritarian government. Questions around...",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "af774f843110b15143579f28143d854e",
-    "feed_name": "LRB",
-    "title": "Early Modern Women\u2019s Writing",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/katie-ebner-landy/gender-wonder",
-    "content": "Dare you but write, you are Minerva\u2019s bird,The owl at which these bats and crows must wonder,They\u2019ll criticise upon the smallest word:This wanteth number, case, that tense and gender.",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "274a8d2ff681b83be49fda497b643c29",
-    "feed_name": "LRB",
-    "title": "On Politics: Why you can\u2019t change someone\u2019s mind",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-why-you-can-t-change-someone-s-mind",
-    "content": "Something has gone wrong in the way we discuss politics. If democratic systems since the Athenian polity have been founded on debate, then what does debate do for us today, aside from making us angrier and filling billionaire-owned social media sites with monetisable content? Sarah Stein Lubrano has argued that the \u2018marketplace of ideas\u2019 is a myth and the best ideas often...",
     "date": "2026-03-25T15:53:01",
     "category": "Magazines"
   }
