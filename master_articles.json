@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Blanche Says Others Who Post \u201886 47\u2019 Message Won\u2019t Be Charged Like Comey",
+    "author": "Devlin Barrett",
+    "link": "https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html",
+    "content": "Todd Blanche, the acting attorney general, at the Justice Department last week.",
+    "date": "2026-05-03T15:38:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/03/us/dairy-farm-butter-ridge-pennsylvania.html",
     "feed_name": "NYT (Shared)",
     "title": "The Last Days of Butter Ridge",
@@ -19988,15 +19998,5 @@
     "content": "J\u00fcrgen Habermas may be variously described as the moral conscience of postwar Germany, the last great systematic philosopher, the dominant figure.\u00a0.\u00a0.",
     "date": "2026-03-25T18:38:25",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224849",
-    "feed_name": "Texas Tribune",
-    "title": "New study says Austin restaurant permitting can cost nearly $9,000 and requires up to 105 steps",
-    "author": "By Sam Stark,\u00a0Austin Current",
-    "link": "https://feeds.texastribune.org/link/16799/17306043/austin-small-businesses-fees-city-permitting-delays",
-    "content": "Justin Shugrue in his bagel shop, Shug&#039;s Bagels on March 23, 2026.. Shugrue started Shugs Bagels in Dallas during the pandemic. Now, after moving to Austin, he\u2019s preparing to open a fourth location, but says the process has been the most onerous yet.",
-    "date": "2026-03-25T18:00:10",
-    "category": "Texas"
   }
 ]
