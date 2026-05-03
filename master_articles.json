@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/briefing/bruce-springsteen-donald-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Bruce vs. Donald",
+    "author": "Nick Corasaniti",
+    "link": "https://www.nytimes.com/2026/05/03/briefing/bruce-springsteen-donald-trump.html",
+    "content": "Bruce Springsteen in Newark last month.",
+    "date": "2026-05-03T11:37:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228791",
     "feed_name": "Texas Tribune",
     "title": "Dallas\u2019 Highland Park votes to leave Texas\u2019 second-largest public transit system",
@@ -19988,15 +19998,5 @@
     "content": "Justin Shugrue in his bagel shop, Shug&#039;s Bagels on March 23, 2026.. Shugrue started Shugs Bagels in Dallas during the pandemic. Now, after moving to Austin, he\u2019s preparing to open a fourth location, but says the process has been the most onerous yet.",
     "date": "2026-03-25T18:00:10",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html",
-    "feed_name": "NYT (Popular)",
-    "title": "This Muscle Is the Unsung Hero of Longevity",
-    "author": "Hilary Achauer",
-    "link": "https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html",
-    "content": "Building your butt muscles will help you stay injury free and independent in midlife and beyond.",
-    "date": "2026-03-25T17:58:43",
-    "category": "NYT"
   }
 ]
