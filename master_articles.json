@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/us/dairy-farm-butter-ridge-pennsylvania.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Last Days of Butter Ridge",
+    "author": "Eli Saslow and Erin Schaff",
+    "link": "https://www.nytimes.com/2026/05/03/us/dairy-farm-butter-ridge-pennsylvania.html",
+    "content": "The Watsons were dairy farmers for generations, the rhythms of their lives defined by their cows. Until this spring.",
+    "date": "2026-05-03T12:30:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228791",
     "feed_name": "Texas Tribune",
     "title": "Dallas\u2019 Highland Park votes to leave Texas\u2019 second-largest public transit system",
@@ -19987,16 +19997,6 @@
     "link": "https://lrb-website-production-assets.s3.eu-west-2.amazonaws.com/images/2/7/8/1/31061872-1-eng-GB/6b56389ea69d-b5b2dcdaf2024b129cd798a97c407ca9.jpg",
     "content": "",
     "date": "2026-03-25T15:53:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "8cd1a35d8f4ed4b1304eb58d4699abb8",
-    "feed_name": "LRB",
-    "title": "Willa Cather\u2019s Substance",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/patricia-lockwood/supersensual-ear",
-    "content": "Halfway\u200b through Willa Cather\u2019sThe Song of the Lark(1915), the heroine, a young singer called Thea Kronborg, travels to the Southwest and takes for herself a little rock room among the cliff dwellings. She is accompanied by her soon-to-be-lover Fred Ottenburg \u2013 wealthy and secretly married \u2013 but the purpose of the pilgrimage is to be alone, to think and to strengthen her...",
-    "date": "2026-03-25T15:53:01",
     "category": "Magazines"
   }
 ]
