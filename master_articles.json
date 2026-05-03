@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/opinion/public-schools-politics-democracy-minnesota.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "In a Minneapolis Public School, a Cure for Toxic Politics",
+    "author": "James Traub",
+    "link": "https://www.nytimes.com/2026/05/03/opinion/public-schools-politics-democracy-minnesota.html",
+    "content": "This school gave me hope for our democracy.",
+    "date": "2026-05-03T12:07:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228791",
     "feed_name": "Texas Tribune",
     "title": "Dallas\u2019 Highland Park votes to leave Texas\u2019 second-largest public transit system",
@@ -19988,15 +19998,5 @@
     "content": "An Air Canada jet collided with a truck at LaGuardia Airport on Sunday.",
     "date": "2026-03-25T16:28:29",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=224853",
-    "feed_name": "Texas Tribune",
-    "title": "Ken Paxton assails acting Comptroller Kelly Hancock as \u201closer,\u201d calls for his removal amid fiery grudge match",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17305976/attorney-general-ken-paxton-kelly-hancock-removal-loser-comptroller-texas",
-    "content": "From left: Texas Attorney General Ken Paxton and state Comptroller Kelly Hancock during Paxton&#039;s September 2023 impeachment trial on the Senate floor at the Austin Capitol.",
-    "date": "2026-03-25T16:19:41",
-    "category": "Texas"
   }
 ]
