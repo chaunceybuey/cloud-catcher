@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Head-Turning Hats of the 2026 Kentucky Derby",
+    "author": "The Styles Desk and Tierney L. Cross",
+    "link": "https://www.nytimes.com/2026/05/02/style/kentucky-derby-2026-hats.html",
+    "content": "At the 152nd annual horse race at Churchill Downs, attendees trotted out some eye-catching ensembles.",
+    "date": "2026-05-03T00:09:52",
+    "category": "NYT"
+  },
+  {
     "id": "274a8d2ff681b83be49fda497b643c29",
     "feed_name": "LRB",
     "title": "On Politics: Why you can\u2019t change someone\u2019s mind",
@@ -407,6 +417,16 @@
     "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html",
     "content": "President Donald Trump is seeking to unseat a raft of elected Republicans he perceives as political enemies in a series of primaries this month.",
     "date": "2026-05-02T09:01:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/02/style/moth-hole-mending-pratt-institute-brooklyn.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Pratt Students Patching Pants in a Brooklyn Mending Circle",
+    "author": "Callie Holtermann and Elinor Kry",
+    "link": "https://www.nytimes.com/2026/05/02/style/moth-hole-mending-pratt-institute-brooklyn.html",
+    "content": "A group of students at the Pratt Institute in Brooklyn is meeting up to mend clothes that might otherwise be thrown out.",
+    "date": "2026-05-02T09:00:44",
     "category": "NYT"
   },
   {
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n06/dinah-birch/born-with-a-hitler-moustache",
     "content": "In June\u200b 1934, Richmal Crompton published \u2018William and the Nasties\u2019 in theHappy Magazine, an interwar journal that provided readers with a cheerful stream of popular fiction. In this story, William Brown, 11-year-old leader of the Outlaws, decides to become a Nazi. Despite his interest in \u2018rightin\u2019 people\u2019s wrongs\u2019, he has been impressed by his friend...",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "165797e8fe8260384332b4b33bad77a9",
-    "feed_name": "LRB",
-    "title": "In the latest issue",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06",
-    "content": "",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "6073a5907674f5f2be2216bde0179813",
-    "feed_name": "LRB",
-    "title": "Letters",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/letters",
-    "content": "",
     "date": "2026-03-25T15:53:01",
     "category": "Magazines"
   }
