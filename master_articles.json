@@ -190,6 +190,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html",
+    "feed_name": "NYT (Shared)",
+    "title": "New Video Analysis Suggests Suspect in Correspondents\u2019 Dinner Attack Fired First",
+    "author": "Malachy Browne and McKinnon de Kuyper, Rafaela Balster, Alex Cardia and Monika Cvorak",
+    "link": "https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html",
+    "content": "A Times analysis of footage released by the F.B.I. on Thursday night appears to show the assailant shot at a Secret Service officer, who then returned fire.",
+    "date": "2026-05-02T18:08:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19224-soco-women-s-chorus-spring-concert-space",
     "feed_name": "KMFA",
     "title": "SoCo Women's Chorus Spring Concert: Space",
@@ -297,6 +307,16 @@
     "link": "https://www.nytimes.com/2026/05/02/opinion/trump-us-oil-crisis-strait-of-hormuz.html",
     "content": "The idea that the U.S. is immune to the oil crisis is a mistaken one.",
     "date": "2026-05-02T12:56:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/02/business/aging-parents-money-finances-retirement.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "5 Money Lessons From People Caring for Their Elderly Parents",
+    "author": "Elizabeth Harris",
+    "link": "https://www.nytimes.com/2026/05/02/business/aging-parents-money-finances-retirement.html",
+    "content": "Sarah Coomber and her father, James Coomber, 84, at his retirement community in Fargo, N.D. Seeing her parents struggle prompted conversations with her husband about what the two of them want, Ms. Coomber said.",
+    "date": "2026-05-02T12:34:19",
     "category": "NYT"
   },
   {
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n06/andrew-cockburn/beware-the-mattress",
     "content": "The killing\u200b of Ayatollah Ali Khamenei, along with a number of other leading officials, in the first few hours of the Iran War has confirmed that assassination is a routine tool of Israeli policy. Over the past two years, Israel has successfully targeted the military and political leadership of Hizbullah, Hamas and the Houthis, serially eliminating officials almost as soon as they step into...",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "15d1233057274b4c6887118448bdd8f0",
-    "feed_name": "LRB",
-    "title": "Industrious Revolution",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/tom-johnson/save-my-beer",
-    "content": "Adam Smith\u200b began hisInquiry into the Nature and Causes of the Wealth of Nationsby arguing that the division of labour was the key to the prosperity of advanced economies. It made the production of goods far more efficient, allowing the creation of cheap commodities that could be enjoyed by everyone. \u2018The woollen coat,\u2019 he writes, \u2018which covers the day labourer, as...",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "c81f253eb92998bc6822a74cf32b4f58",
-    "feed_name": "LRB",
-    "title": "Adventures of Raffles",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/ferdinand-mount/pavilion-of-heaven",
-    "content": "Revisiting\u200b old haunts is a hazardous pastime. The beloved buildings may look smaller or shabbier, the unforgettable view is ruined by the new solar farm, the once fascinating characters in the novel have lost their power to enchant, everything seems blurred or \u2013 the verdict from which there is no appeal \u2013 dated. Surely Raffles would be the least likely fictional hero to survive...",
     "date": "2026-03-25T15:53:01",
     "category": "Magazines"
   }
