@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/02/arts/design/nicole-hollander-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Nicole Hollander, Acerbic Feminist Cartoonist, Dies at 86",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/05/02/arts/design/nicole-hollander-dead.html",
+    "content": "For more than 30 years, she wrote and illustrated \u201cSylvia,\u201d a comic strip about a tart-tongued, witty woman unafraid of expressing her many opinions.",
+    "date": "2026-05-02T17:42:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/02/opinion/supreme-court-voting-rights-act.html",
     "feed_name": "NYT (Shared)",
     "title": "Who Will Stand Up to the Supreme Court Justices?",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n06/letters",
     "content": "",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "0e1ca8e452072c07611610555063f945",
-    "feed_name": "LRB",
-    "title": "Mossad\u2019s Kill List",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/andrew-cockburn/beware-the-mattress",
-    "content": "The killing\u200b of Ayatollah Ali Khamenei, along with a number of other leading officials, in the first few hours of the Iran War has confirmed that assassination is a routine tool of Israeli policy. Over the past two years, Israel has successfully targeted the military and political leadership of Hizbullah, Hamas and the Houthis, serially eliminating officials almost as soon as they step into...",
     "date": "2026-03-25T15:53:01",
     "category": "Magazines"
   }
