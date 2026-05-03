@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/opinion/iran-us-empire.html",
+    "feed_name": "NYT (Shared)",
+    "title": "With Iran, the U.S. Stands to Lose Its Reputation, Its Friends or Its Soul",
+    "author": "Christopher Caldwell",
+    "link": "https://www.nytimes.com/2026/05/03/opinion/iran-us-empire.html",
+    "content": "President Trump has overextended the empire dangerously.",
+    "date": "2026-05-03T05:41:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228739",
     "feed_name": "Texas Tribune",
     "title": "Republican Brett Ligon, former Montgomery County DA, wins special election for open Texas Senate seat",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n06/patricia-lockwood/supersensual-ear",
     "content": "Halfway\u200b through Willa Cather\u2019sThe Song of the Lark(1915), the heroine, a young singer called Thea Kronborg, travels to the Southwest and takes for herself a little rock room among the cliff dwellings. She is accompanied by her soon-to-be-lover Fred Ottenburg \u2013 wealthy and secretly married \u2013 but the purpose of the pilgrimage is to be alone, to think and to strengthen her...",
-    "date": "2026-03-25T15:53:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "ad1abde6c3e585c2c6a7bab55a669362",
-    "feed_name": "LRB",
-    "title": "Christopher Steele\u2019s Assertions",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/vadim-nikitin/among-the-private-spies",
-    "content": "\u2018The name\u2019s Steele, Christopher Steele.\u2019 That\u2019s the way a former MI6 operative who wrote the notorious dossier alleging collusion between Trump and Putin introduced himself at a debate at the Cambridge Union last October. \u2018And as you can see, sir,\u2019 he told the union president to giggles from the audience, \u2018tonight I\u2019ve come dressed in my usual...",
     "date": "2026-03-25T15:53:01",
     "category": "Magazines"
   }
