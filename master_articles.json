@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "69f4eb5971104de85b81ef00",
+    "feed_name": "Wired (Science)",
+    "title": "Science Has Found Even More Ways Coffee Is Good for You",
+    "author": "Javier Carbajal",
+    "link": "https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/",
+    "content": "A new study shows the mechanisms of how coffee modifies the microbiome, reduces inflammation, and influences mood. Even decaf has its perks.",
+    "date": "2026-05-04T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/sebastian-gorka-counterterrorism-reporting",
     "feed_name": "ProPublica",
     "title": "I Reached Out to the White House Counterterrorism Czar for Comment. He Lashed Out on X.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/24/arts/music/robert-white-dead.html",
     "content": "",
     "date": "2026-03-26T06:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/dining/drinks/michel-rolland-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Michel Rolland, 78, Renowned but Polarizing Global Wine Maven, Dies",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/24/dining/drinks/michel-rolland-dead.html",
-    "content": "",
-    "date": "2026-03-26T06:18:50",
     "category": "NYT"
   }
 ]
