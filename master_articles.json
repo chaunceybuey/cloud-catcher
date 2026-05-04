@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/us/did-school-cellphone-bans-study.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "School Cellphone Ban Study Finds Mixed Results",
+    "author": "Dana Goldstein",
+    "link": "https://www.nytimes.com/2026/05/04/us/did-school-cellphone-bans-study.html",
+    "content": "Cellphone use declined in schools that adopted strict bans, though test scores did not immediately improve.",
+    "date": "2026-05-04T16:42:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/opinion/platner-trump-democrats.html",
     "feed_name": "NYT (Shared)",
     "title": "If Democrats Have Appropriate Fear of Trump, They Will Elect Platner",
@@ -97,6 +107,16 @@
     "link": "https://www.nytimes.com/2026/05/04/opinion/platner-trump-democrats.html",
     "content": "Don\u2019t let the Platner be the enemy of the good.",
     "date": "2026-05-04T13:33:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/03/us/mariachi-brothers-ice-kacey-musgraves-texas.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Mariachi Brothers Detained by ICE Invited to Open for Kacey Musgraves After Release",
+    "author": "Edgar Sandoval",
+    "link": "https://www.nytimes.com/2026/05/03/us/mariachi-brothers-ice-kacey-musgraves-texas.html",
+    "content": "The G\u00e1mez-Cu\u00e9llar family took the stage to open at Gruene Hall in New Braunfels, Texas, on Sunday.",
+    "date": "2026-05-04T13:27:27",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/25/us/cesar-chavez-san-jose-reckoning.html",
     "content": "",
     "date": "2026-03-27T07:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/climate/schumer-democrats-clean-energy.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Schumer Says Democrats Will Try to Restore Clean Energy Tax Credits",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/climate/schumer-democrats-clean-energy.html",
-    "content": "",
-    "date": "2026-03-27T07:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/us/politics/congress-betting-ban.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Lawmakers Press to Limit Prediction Bets by Policymakers",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/us/politics/congress-betting-ban.html",
-    "content": "",
-    "date": "2026-03-27T07:03:49",
     "category": "NYT"
   }
 ]
