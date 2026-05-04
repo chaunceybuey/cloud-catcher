@@ -510,6 +510,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/us/trump-travel-ban-doctors-us-immigration.html",
+    "feed_name": "NYT (Shared)",
+    "title": "In a Reversal, Doctors From Countries Under Trump\u2019s Travel Ban Are Allowed to Stay in U.S.",
+    "author": "Miriam Jordan",
+    "link": "https://www.nytimes.com/2026/05/03/us/trump-travel-ban-doctors-us-immigration.html",
+    "content": "Ezequiel Veliz, a family doctor from Venezuela, was detained by federal agents when he fell out of legal status because his new visa application had not been processed. He was released 10 days later.",
+    "date": "2026-05-03T17:04:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/03/arts/television/aziz-ansari-kash-patel-snl-olivia-rodrigo.html",
     "feed_name": "NYT (Shared)",
     "title": "\u2018S.N.L.\u2019 Recruits Aziz Ansari to Play F.B.I. Director Kash Patel",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/26/opinion/iran-war-messages.html",
     "content": "",
     "date": "2026-03-27T05:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Juries Take the Lead in the Push for Child Online Safety",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
-    "content": "",
-    "date": "2026-03-27T05:18:49",
     "category": "NYT"
   }
 ]
