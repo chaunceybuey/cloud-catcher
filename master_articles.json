@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/opinion/platner-trump-democrats.html",
+    "feed_name": "NYT (Shared)",
+    "title": "If Democrats Have Appropriate Fear of Trump, They Will Elect Platner",
+    "author": "Frank Bruni",
+    "link": "https://www.nytimes.com/2026/05/04/opinion/platner-trump-democrats.html",
+    "content": "Don\u2019t let the Platner be the enemy of the good.",
+    "date": "2026-05-04T13:33:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
     "feed_name": "NYT (Shared)",
     "title": "Bison Have Grazed These Lands for Centuries. Trump Wants to Evict Them.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/26/us/politics/congress-betting-ban.html",
     "content": "",
     "date": "2026-03-27T07:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/arts/design/pat-steir-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Pat Steir, Painter of Luminous \u2018Waterfalls,\u2019 Dies at 87",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/arts/design/pat-steir-dead.html",
-    "content": "",
-    "date": "2026-03-27T06:48:49",
     "category": "NYT"
   }
 ]
