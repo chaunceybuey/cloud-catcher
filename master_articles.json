@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/us/by-the-wind-sailors-invade-california-beaches.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "\u2018By the Wind Sailors\u2019 Invade California Beaches by the Thousands",
+    "author": "Sonia A. Rao",
+    "link": "https://www.nytimes.com/2026/05/03/us/by-the-wind-sailors-invade-california-beaches.html",
+    "content": "Velella velella washed up on Baker Beach in San Francisco, Calif., in April.",
+    "date": "2026-05-03T18:51:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19950-austin-polish-society-dominika-zamara-in-concert-on-polish-constitution-day",
     "feed_name": "KMFA",
     "title": "Austin Polish Society: Dominika Zamara in Concert on Polish Constitution Day",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/25/opinion/laguardia-crash-air-travel.html",
     "content": "",
     "date": "2026-03-26T06:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/opinion/shy-girl-ai-publishing.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The \u2018Shy Girl\u2019 Fiasco Shows Why Trust in Writers Is Plummeting",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/opinion/shy-girl-ai-publishing.html",
-    "content": "",
-    "date": "2026-03-26T05:48:50",
     "category": "NYT"
   }
 ]
