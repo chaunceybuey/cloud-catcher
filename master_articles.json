@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Bison Have Grazed These Lands for Centuries. Trump Wants to Evict Them.",
+    "author": "Jack Healy",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
+    "content": "The Trump administration is evicting bison herds from federal grasslands in Montana, siding with ranchers and Republican leaders over environmentalists and tribal leaders.",
+    "date": "2026-05-04T12:35:07",
+    "category": "NYT"
+  },
+  {
     "id": "42b8aac2739eeebaaa8efee13105e662",
     "feed_name": "New Yorker",
     "title": "\u201cHeated Rivalry\u201d and Its Wine-Mom Fans Reunite",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
     "content": "",
     "date": "2026-03-27T05:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
-    "content": "",
-    "date": "2026-03-27T05:03:49",
     "category": "NYT"
   }
 ]
