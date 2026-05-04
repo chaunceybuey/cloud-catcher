@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228911",
+    "feed_name": "Texas Tribune",
+    "title": "Civil rights groups sue to stop Texas immigration law",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17332321/texas-senate-bill-4-lawsuit",
+    "content": "The Texas Capitol on March 19, 2026.",
+    "date": "2026-05-04T18:03:05",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/credit-report-mistakes-lawmakers-letter",
     "feed_name": "ProPublica",
     "title": "Lawmakers Demand Answers About Growing Number of Unfixed Mistakes on Credit Reports",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/26/world/asia/india-pakistan-iran-trump-modi.html",
     "content": "",
     "date": "2026-03-27T08:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Sudden Death of a Man Who Told Chinese Kids How to Succeed",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html",
-    "content": "",
-    "date": "2026-03-27T07:48:49",
     "category": "NYT"
   }
 ]
