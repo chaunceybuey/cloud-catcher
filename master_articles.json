@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/us/politics/mississippi-hyde-smith-senate-election.html",
+    "feed_name": "NYT (Shared)",
+    "title": "In Mississippi, a Democrat Challenges the Senator Who Blocked His Judgeship",
+    "author": "Carl Hulse",
+    "link": "https://www.nytimes.com/2026/05/03/us/politics/mississippi-hyde-smith-senate-election.html",
+    "content": "Scott Colom taking part in a hearing in West Point, Miss., in 2022.",
+    "date": "2026-05-03T16:39:46",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/03/opinion/old-age-planning-parents-family.html",
     "feed_name": "NYT (Emailed)",
     "title": "My Parents Are Old. They Need to Plan for It.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
     "content": "",
     "date": "2026-03-26T05:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "More! More! More! Tech Workers Max Out Their A.I. Use.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
-    "content": "",
-    "date": "2026-03-26T04:48:50",
     "category": "NYT"
   }
 ]
