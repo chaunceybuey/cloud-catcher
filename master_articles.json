@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/utah-homeless-camp-stalls.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Backed Forced Treatment for Homeless People. Utah Shows the Challenges.",
+    "author": "Jason DeParle",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/utah-homeless-camp-stalls.html",
+    "content": "Tyler Clancy, Utah\u2019s new homelessness coordinator, is leading the state\u2019s effort to design a plan to serve \u201chigh utilizers\u201d of public services, increase shelter and housing capacity, and expand mental health care.",
+    "date": "2026-05-04T13:08:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
     "feed_name": "NYT (Shared)",
     "title": "Bison Have Grazed These Lands for Centuries. Trump Wants to Evict Them.",
@@ -19988,15 +19998,5 @@
     "content": "A child sits in a bookshelf at Kid&#039;s Castle Family Daycare and Preschool in Pflugerville in 2022.",
     "date": "2026-03-27T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "69a8d73b573c3f6469b0bc31",
-    "feed_name": "Wired",
-    "title": "At Gaza\u2019s Al-Shifa Hospital, the War Isn\u2019t Over",
-    "author": "Spencer Ackerman",
-    "link": "https://www.wired.com/story/gaza-war-al-shifa-hospital-ghosts/",
-    "content": "Months into a supposed ceasefire in Gaza, doctors still have to smuggle in basic medical supplies\u2014and treat new casualties of war.",
-    "date": "2026-03-27T10:00:00",
-    "category": "Magazines"
   }
 ]
