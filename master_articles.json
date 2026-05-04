@@ -160,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/books/review/kathryn-stockett-interview-calamity-club.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Kathryn Stockett Has Finally Followed Up \u2018The Help\u2019",
+    "author": "Elisabeth Egan",
+    "link": "https://www.nytimes.com/2026/05/03/books/review/kathryn-stockett-interview-calamity-club.html",
+    "content": "\u201cIt\u2019s impossible to write about a place like Mississippi, especially in the 1930s, and not talk racism and sexism,\u201d Kathryn Stockett says of her new novel, \u201cThe Calamity Club.\u201d",
+    "date": "2026-05-03T12:50:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/03/us/dairy-farm-butter-ridge-pennsylvania.html",
     "feed_name": "NYT (Shared)",
     "title": "The Last Days of Butter Ridge",
@@ -257,6 +267,16 @@
     "link": "https://www.nytimes.com/2026/05/03/us/politics/supreme-court-voting-rights-act.html",
     "content": "Justice Elena Kagan took issue with the decision, which weakened the 1965 Voting Rights Act.",
     "date": "2026-05-03T09:01:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/03/well/urgent-care.html",
+    "feed_name": "NYT (Shared)",
+    "title": "There\u2019s a Right and Wrong Way to Use Urgent Care",
+    "author": "Simar Bajaj",
+    "link": "https://www.nytimes.com/2026/05/03/well/urgent-care.html",
+    "content": "We asked experts when you should use one, and when you\u2019re better off visiting an ER or primary care doctor instead.",
+    "date": "2026-05-03T09:00:55",
     "category": "NYT"
   },
   {
@@ -417,6 +437,16 @@
     "link": "https://www.nytimes.com/2026/05/02/opinion/abortion-telehealth.html",
     "content": "A ruling by a federal appeals court has blocked access to abortion pills via telemedicine.",
     "date": "2026-05-02T18:55:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/02/us/san-francisco-buried-treasure-chest.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Race Is On to Find the Treasure Buried in San Francisco",
+    "author": "Heather Knight",
+    "link": "https://www.nytimes.com/2026/05/02/us/san-francisco-buried-treasure-chest.html",
+    "content": "From the gold seekers of 1849 to the dot-com entrepreneurs of the 1990s and 2000s to the A.I. masterminds of today, San Francisco has always been a place where enterprising people seek their riches.",
+    "date": "2026-05-02T18:49:20",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
     "content": "",
     "date": "2026-03-26T04:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/movies/sylvain-chomet-a-magnificent-life.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Master of Animation Is Back, With a \u2018Magnificent\u2019 Story",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/movies/sylvain-chomet-a-magnificent-life.html",
-    "content": "",
-    "date": "2026-03-26T04:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/17/arts/music/katseye-fans-pop-music-manon-boycott.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Fandom Is Driving Katseye\u2019s Pop Music Machine",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/17/arts/music/katseye-fans-pop-music-manon-boycott.html",
-    "content": "",
-    "date": "2026-03-26T04:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/arts/music/mozart-salzburg-morgan-library.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Mozart Wouldn\u2019t Be Mozart Without These Three Objects",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/arts/music/mozart-salzburg-morgan-library.html",
-    "content": "",
-    "date": "2026-03-26T04:03:50",
     "category": "NYT"
   }
 ]
