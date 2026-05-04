@@ -440,6 +440,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "With World Distracted by Iran War, Israeli Settlers Intensify Attacks in West Bank",
+    "author": "Natan Odenheimer, David M. Halbfinger and Fatima AbdulKarim",
+    "link": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
+    "content": "Mourners carrying the body of Amir Odeh, 28, who was killed in an attack by Israeli settlers in the village of Qusra, in the West Bank, in March.",
+    "date": "2026-05-04T09:08:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/dining/food-pleasure-mindful-eating.html",
     "feed_name": "NYT (Emailed)",
     "title": "Is Loving Food the Secret to Eating Less of It?",
@@ -447,6 +457,16 @@
     "link": "https://www.nytimes.com/2026/05/04/dining/food-pleasure-mindful-eating.html",
     "content": "The case for ditching self-denial and embracing enjoyment.",
     "date": "2026-05-04T09:01:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/opinion/health-care-hospitals-insurance.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "This Is the Biggest Culprit for High Health Care Spending",
+    "author": "Zack Cooper",
+    "link": "https://www.nytimes.com/2026/05/04/opinion/health-care-hospitals-insurance.html",
+    "content": "Prices at hospitals have grown faster than prices in virtually any other sector of the economy.",
+    "date": "2026-05-04T09:01:06",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/25/arts/design/pat-steir-dead.html",
     "content": "",
     "date": "2026-03-27T06:48:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/style/daphne-selfe-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Daphne Selfe, World\u2019s Oldest Professional Model, Dies at 97",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/style/daphne-selfe-dead.html",
-    "content": "",
-    "date": "2026-03-27T06:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "J. Michael Bishop, Nobel Prize Winner for Cancer Research, Dies at 90",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-    "content": "",
-    "date": "2026-03-27T06:18:49",
     "category": "NYT"
   }
 ]
