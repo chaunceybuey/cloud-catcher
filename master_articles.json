@@ -90,6 +90,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228632",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 18th Congressional District Democratic runoff: Who is running and what to know",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17331770/texas-18th-congressional-district-democratic-runoff-christian-menefee-al-green",
+    "content": "From left: U.S. Reps. Al Green and Christian Menefee, both Democrats of Houston, will face each each other in the May runoff to be the nominee for Texas Congressional District 18 in November.",
+    "date": "2026-05-04T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228724",
+    "feed_name": "Texas Tribune",
+    "title": "How the Voting Rights Act reshaped Texas\u2019 electoral maps by empowering voters, candidates of color",
+    "author": "Eleanor Klibanoff and Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17331771/texas-section-2-voting-rights-act-supreme-court-voters-of-color-history",
+    "content": "President Lyndon B. Johnson, Martin Luther King Jr., Clarence Mitchell Jr., Patricia Roberts Harris, and other guests at the signing of the Voting Rights Act on August 6, 1965.",
+    "date": "2026-05-04T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228280",
+    "feed_name": "Texas Tribune",
+    "title": "How the unreported killing of an American by ICE shattered two Texas families",
+    "author": "Lomi Kriel",
+    "link": "https://feeds.texastribune.org/link/16799/17331772/ruben-ray-martinez-josh-orta-south-padre-ice-shooting-death",
+    "content": "A photo of best friends Joshua Orta and Ruben Ray Martinez at Orta\u2019s grave in San Antonio on April 16, 2026. Orta died in a car accident in February. He was a passenger in the same car when ICE shot and killed Martinez in South Padre Island a year earlier.",
+    "date": "2026-05-04T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://stratechery.com/?p=18936",
+    "feed_name": "Stratechery",
+    "title": "Google Earnings, Meta Earnings",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/google-earnings-meta-earnings/",
+    "content": "<p>Wall Street loved Google's earnings, and hated Meta's, even though the latter's core business was more impressive. The difference is that Google is monetizing its investments now (and it might be all Anthropic).</p>",
+    "date": "2026-05-04T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "69f4eb5971104de85b81ef00",
     "feed_name": "Wired (Science)",
     "title": "Science Has Found Even More Ways Coffee Is Good for You",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/23/us/politics/when-voters-worry-about-affordability-many-point-to-health-care.html",
     "content": "",
     "date": "2026-03-26T07:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/world/canada/air-canada-ceo-speech-french.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Air Canada C.E.O. Draws Scorn for Delivering Condolences Only in English",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/world/canada/air-canada-ceo-speech-french.html",
-    "content": "",
-    "date": "2026-03-26T07:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/us/tsa-airport-delays-houston-bush.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Why Are Delays at Houston\u2019s Bush Airport Worse Than at Others?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/us/tsa-airport-delays-houston-bush.html",
-    "content": "",
-    "date": "2026-03-26T07:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Tracy Kidder, Author of \u2018The Soul of a New Machine,\u2019 Dies at 80",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html",
-    "content": "",
-    "date": "2026-03-26T06:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/arts/music/robert-white-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Robert White, Tenor Renowned for Irish Ballads, Dies at 89",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/24/arts/music/robert-white-dead.html",
-    "content": "",
-    "date": "2026-03-26T06:33:50",
     "category": "NYT"
   }
 ]
