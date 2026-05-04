@@ -300,6 +300,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html",
+    "feed_name": "NYT (Popular)",
+    "title": "A California Dream? Some Democrats Fear Harris Picked the Wrong Race.",
+    "author": "Jennifer Medina",
+    "link": "https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html",
+    "content": "As the California primary for governor approaches, some Democrats wish former Vice President Kamala Harris had jumped into the race.",
+    "date": "2026-05-03T09:01:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/03/well/urgent-care.html",
     "feed_name": "NYT (Shared)",
     "title": "There\u2019s a Right and Wrong Way to Use Urgent Care",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/25/opinion/shy-girl-ai-publishing.html",
     "content": "",
     "date": "2026-03-26T05:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/opinion/semiconductor-chips-natcast-biden-research.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Trump Killed an Effort to Secure Our Technological Future",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/24/opinion/semiconductor-chips-natcast-biden-research.html",
-    "content": "",
-    "date": "2026-03-26T05:33:50",
     "category": "NYT"
   }
 ]
