@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Insurgency Threatening to Derail a U.S.-Pakistan Pact",
+    "author": "Elian Peltier, Zia ur-Rehman, Christiaan Triebert, Pablo Robles and Asim Hafeez",
+    "link": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
+    "content": "Attacks by the Baloch Liberation Army could derail Pakistan\u2019s plans for a billion-dollar mining deal with the Trump administration.",
+    "date": "2026-05-03T16:40:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/03/us/politics/mississippi-hyde-smith-senate-election.html",
     "feed_name": "NYT (Shared)",
     "title": "In Mississippi, a Democrat Challenges the Senator Who Blocked His Judgeship",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/25/business/energy-environment/iran-california-gas-prices.html",
     "content": "",
     "date": "2026-03-26T05:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Polymarket Says It Predicts the Truth. Its Social Feeds Are Filled With Falsehoods.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
-    "content": "",
-    "date": "2026-03-26T05:03:50",
     "category": "NYT"
   }
 ]
