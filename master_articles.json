@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/opinion/yuppies-merit-society-politics-cities.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How Yuppies Changed America",
+    "author": "Dylan Gottlieb",
+    "link": "https://www.nytimes.com/2026/05/04/opinion/yuppies-merit-society-politics-cities.html",
+    "content": "The young urban professionals of the 1980s changed our cities, our politics and our meritocratic work lives.",
+    "date": "2026-05-04T12:26:55",
+    "category": "NYT"
+  },
+  {
     "id": "42b8aac2739eeebaaa8efee13105e662",
     "feed_name": "New Yorker",
     "title": "\u201cHeated Rivalry\u201d and Its Wine-Mom Fans Reunite",
@@ -430,6 +440,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/dining/food-pleasure-mindful-eating.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Is Loving Food the Secret to Eating Less of It?",
+    "author": "Pete Wells",
+    "link": "https://www.nytimes.com/2026/05/04/dining/food-pleasure-mindful-eating.html",
+    "content": "The case for ditching self-denial and embracing enjoyment.",
+    "date": "2026-05-04T09:01:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/sebastian-gorka-counterterrorism-reporting",
     "feed_name": "ProPublica",
     "title": "I Reached Out to the White House Counterterrorism Czar for Comment. He Lashed Out on X.",
@@ -447,6 +467,16 @@
     "link": "https://www.nytimes.com/2026/05/04/opinion/iran-us-israel-war-drones-strait-of-hormuz.html",
     "content": "With the threat of a future closing of the Strait of Hormuz a drone strike away, the Iranians appear to actually hold the cards.",
     "date": "2026-05-04T05:00:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How the Kremlin Lures Africans Into Russia\u2019s War in Ukraine",
+    "author": "Matthew Mpoke Bigg, John Eligon, Zimasa Matiwane and Ed Ram",
+    "link": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html",
+    "content": "A growing number of men across the continent say they are being promised jobs in Russia, only to be forced into the war. Some go as mercenaries, but many more are drawn unwittingly.",
+    "date": "2026-05-04T04:01:20",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
     "content": "",
     "date": "2026-03-27T06:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018Everything After This Will Be Harder\u2019: Gen. Stanley McChrystal on Iran",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/opinion/trump-iran-general-mcchrystal.html",
-    "content": "",
-    "date": "2026-03-27T06:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/opinion/trump-war-democrats.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Men of the Trump Administration, 2026",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/opinion/trump-war-democrats.html",
-    "content": "",
-    "date": "2026-03-27T05:48:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/opinion/iran-war-messages.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Memes and Mixed Messages on the Iran War",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/opinion/iran-war-messages.html",
-    "content": "",
-    "date": "2026-03-27T05:33:49",
     "category": "NYT"
   }
 ]
