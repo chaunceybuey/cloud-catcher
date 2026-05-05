@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229122",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi to begin talks on privately built desalinization plant",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17335121/texas-corpus-christi-private-desalinization-water-plant",
+    "content": "Refineries line the landscape between U.S. Highway 37 and the Nueces River in Corpus Christi on April 15, 2026.",
+    "date": "2026-05-05T23:28:27",
+    "category": "Texas"
+  },
+  {
     "id": "69f8d3540f112c70100e96dd",
     "feed_name": "Wired (Science)",
     "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/29/nyregion/metropolitan-diary.html",
     "content": "",
     "date": "2026-03-29T06:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/arts/sauna-fest-sketchpad.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Yearning for Sun, New Yorkers Soak Up the Sauna",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/arts/sauna-fest-sketchpad.html",
-    "content": "",
-    "date": "2026-03-29T05:48:50",
     "category": "NYT"
   }
 ]
