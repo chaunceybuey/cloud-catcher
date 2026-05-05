@@ -240,6 +240,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/science/rfk-antidepressants-ssris-hhs-maha.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Kennedy Starts a Push to Help Americans Quit Antidepressants",
+    "author": "Ellen Barry",
+    "link": "https://www.nytimes.com/2026/05/04/science/rfk-antidepressants-ssris-hhs-maha.html",
+    "content": "Monday\u2019s announcements were Health Secretary Kennedy\u2019s first significant step to reduce the use of antidepressants.",
+    "date": "2026-05-05T00:29:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228999",
     "feed_name": "Texas Tribune",
     "title": "Texas leads nation in utility shutoffs as electric bills rise, federal report finds",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/28/realestate/renovations-damage.html",
     "content": "",
     "date": "2026-03-29T00:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/realestate/housing-market-nyc.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Homes for Sale in Manhattan and Brooklyn",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/realestate/housing-market-nyc.html",
-    "content": "",
-    "date": "2026-03-29T00:03:50",
     "category": "NYT"
   }
 ]
