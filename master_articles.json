@@ -100,6 +100,36 @@
     "category": "Texas"
   },
   {
+    "id": "69f8d3540f112c70100e96dd",
+    "feed_name": "Wired (Science)",
+    "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
+    "author": "Kate Knibbs, Emily Mullin",
+    "link": "https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/",
+    "content": "Courts may restrict access to the popular abortion medication mifepristone in the United States. Telehealth providers have backup plans in place.",
+    "date": "2026-05-05T21:05:40",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/05/opinion/trump-ukraine-iran.html",
+    "feed_name": "Douthat",
+    "title": "Trump\u2019s Ukraine Policy Is Succeeding While His Iran Policy Flails",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/05/05/opinion/trump-ukraine-iran.html",
+    "content": "With Ukraine, you can glimpse the shape of success.",
+    "date": "2026-05-05T21:00:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229090",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: The past and future of the Voting Rights Act in Texas",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17335042/tribcast-voting-elections-supreme-court",
+    "content": "Then-state Rep. Barbara Jordan, D-Houston, at her desk in Washington on April 7, 1976.",
+    "date": "2026-05-05T20:51:47",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229067",
     "feed_name": "Texas Tribune",
     "title": "Dan Patrick picks sides in Texas attorney general, Railroad Commission GOP runoffs",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/21/arts/television/scott-evans-house-guest-access-hollywood.html",
     "content": "",
     "date": "2026-03-29T05:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/arts/feel-good-podcasts-amy-poehler.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "7 Podcasts to Boost Your Spirits",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/arts/feel-good-podcasts-amy-poehler.html",
-    "content": "",
-    "date": "2026-03-29T05:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/09/business/dog-grooming-wellness-costs.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A $1,000 Dog Grooming Session? The Pet Wellness Industry Is Booming.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/09/business/dog-grooming-wellness-costs.html",
-    "content": "",
-    "date": "2026-03-29T05:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/business/oil-shocks-1970s-iran-war.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Oil Shocks of the \u201970s Changed the World. Will the Iran War Do the Same?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/business/oil-shocks-1970s-iran-war.html",
-    "content": "",
-    "date": "2026-03-29T04:48:50",
     "category": "NYT"
   }
 ]
