@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "612f43f7-3a8b-44d3-9fc9-56ec6cca196e",
+    "feed_name": "Economist",
+    "title": "Can Bill Ackman save the closed-end fund?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/05/can-bill-ackman-save-the-closed-end-fund",
+    "content": "An outspoken financier wants to build a modern-day Berkshire Hathaway",
+    "date": "2026-05-05T19:59:27",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229046",
     "feed_name": "Texas Tribune",
     "title": "Two killed, three injured in shooting at Carrollton shopping mall",
@@ -118,6 +128,16 @@
     "content": "",
     "date": "2026-05-05T18:11:49",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/style/met-gala-2026-red-carpet.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Our 15 Favorite Looks at the 2026 Met Gala",
+    "author": "The Styles Desk",
+    "link": "https://www.nytimes.com/2026/05/04/style/met-gala-2026-red-carpet.html",
+    "content": "Regardless of the theme, these people just looked great.",
+    "date": "2026-05-05T15:59:41",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html",
@@ -167,6 +187,16 @@
     "link": "https://www.nytimes.com/2026/05/05/opinion/ai-doctor.html",
     "content": "I use A.I. all the time to help me diagnose and treat my patients. I also know where it falls short.",
     "date": "2026-05-05T14:59:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/05/travel/dublin-budget-travel.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Exploring Dublin on a Budget",
+    "author": "Elaine Glusac and Michael Vince Kim",
+    "link": "https://www.nytimes.com/2026/05/05/travel/dublin-budget-travel.html",
+    "content": "A horse-drawn carriage takes tourists past St. Patrick\u2019s Tower in the Liberties neighborhood in Dublin.",
+    "date": "2026-05-05T13:35:29",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
     "content": "",
     "date": "2026-03-29T04:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/opinion/trump-iran-opposition-solipsism.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Trump Cannot See That the Opposition Is Real",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/opinion/trump-iran-opposition-solipsism.html",
-    "content": "",
-    "date": "2026-03-29T04:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/opinion/trump-does-anything-he-wants-and-more.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Trump Does Anything He Wants \u2014 and More",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/opinion/trump-does-anything-he-wants-and-more.html",
-    "content": "",
-    "date": "2026-03-29T03:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/magazine/epstein-scandal-meme-nick-fuentes.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Epstein Scandal Has Reached the Far-Right Meme Stage",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/magazine/epstein-scandal-meme-nick-fuentes.html",
-    "content": "",
-    "date": "2026-03-29T03:33:50",
     "category": "NYT"
   }
 ]
