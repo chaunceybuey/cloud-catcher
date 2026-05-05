@@ -90,6 +90,36 @@
     "category": "Texas"
   },
   {
+    "id": "f95e6cb9bbc618da6d4213a3d333b094",
+    "feed_name": "Compact",
+    "title": "The Folly of Anti-Growth Economics",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-folly-of-anti-growth-economics/",
+    "content": "",
+    "date": "2026-05-05T11:16:27",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=228955",
+    "feed_name": "Texas Tribune",
+    "title": "The first 2026 TribFest speakers are here",
+    "author": "Matt Ewalt",
+    "link": "https://feeds.texastribune.org/link/16799/17334728/the-first-2026-tribfest-speakers-are-here",
+    "content": "Rahm Emanuel, Tate Reeves, Gina Hinojosa, Erin Harkey and more join us in downtown Austin in September\n<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17334728.gif\" width=\"1\" />",
+    "date": "2026-05-05T11:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "69e79cece71e88c4e31ef580",
+    "feed_name": "Wired",
+    "title": "The iPhone That Never Was",
+    "author": "David Epstein",
+    "link": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
+    "content": "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone\u2014more than a decade earlier. The device never came to be.",
+    "date": "2026-05-05T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "69f275cdb031343a840375a2",
     "feed_name": "Wired",
     "title": "The Secret to Amelia Dimoldenberg\u2019s Online Superstardom? Control",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/05/t-magazine/megumi-yuasa-ortuzar.html",
     "content": "",
     "date": "2026-03-28T23:33:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/t-magazine/jerk-seasoning-restaurants-cocktails.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Jerk Became \u2018a Culinary Language\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/t-magazine/jerk-seasoning-restaurants-cocktails.html",
-    "content": "",
-    "date": "2026-03-28T23:18:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Reporters Seek Comment. What Happens Next May Surprise You.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html",
-    "content": "",
-    "date": "2026-03-28T23:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/29/pageoneplus/quote-of-the-day-on-irans-rugged-frontier-kurds-yearn-to-join-the-fight.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: On Iran\u2019s Rugged Frontier, Kurds Yearn to Join the Fight",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/29/pageoneplus/quote-of-the-day-on-irans-rugged-frontier-kurds-yearn-to-join-the-fight.html",
-    "content": "",
-    "date": "2026-03-28T22:48:50",
     "category": "NYT"
   }
 ]
