@@ -300,6 +300,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/homeland-security-smartphones-inspector-general.html",
+    "feed_name": "NYT (Shared)",
+    "title": "D.H.S. Intelligence Office Did Not Properly Secure Smartphones, Watchdog Says",
+    "author": "Madeleine Ngo and Hamed Aleaziz",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/homeland-security-smartphones-inspector-general.html",
+    "content": "The inspector general\u2019s report found that 76 percent of apps installed on devices used by the department\u2019s intelligence office posed security risks, were prohibited or allowed prohibited activities.",
+    "date": "2026-05-04T17:11:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/well/cavity-filling-second-opinion.html",
     "feed_name": "NYT (Emailed)",
     "title": "A Cavity Doesn\u2019t Always Need a Filling",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/25/arts/design/dave-eggers-jd-beltran-art-water-san-francisco.html",
     "content": "",
     "date": "2026-03-28T05:18:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/business/diesel-prices-inflation-consumer-prices.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Diesel Is a Bigger Problem for Consumers Than Gasoline. Here\u2019s Why.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/business/diesel-prices-inflation-consumer-prices.html",
-    "content": "",
-    "date": "2026-03-28T05:03:51",
     "category": "NYT"
   }
 ]
