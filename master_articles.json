@@ -90,6 +90,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
+    "author": "Jin Yu Young and Claire Moses",
+    "link": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
+    "content": "The cruise ship MV Hondius stationed off the port of Praia, Cape Verde, on Sunday.",
+    "date": "2026-05-05T06:16:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Met Gala 2026 Red Carpet Photos: All the Looks",
+    "author": "The Styles Desk, Nina Westervelt and Amir Hamja",
+    "link": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
+    "content": "See the arrivals on the cobblestone carpet.",
+    "date": "2026-05-05T02:38:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Secret Service Shoots and Wounds Armed Man Near Washington Monument",
+    "author": "Glenn Thrush, Michael Gold, Minho Kim and Pooja Salhotra",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html",
+    "content": "A law enforcement officer at the scene of a shooting near the Washington Monument on Monday.",
+    "date": "2026-05-05T01:13:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228999",
     "feed_name": "Texas Tribune",
     "title": "Texas leads nation in utility shutoffs as electric bills rise, federal report finds",
@@ -147,6 +177,26 @@
     "link": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
     "content": "A government-organized march in Tehran on Wednesday in support of Iran\u2019s new supreme leader, Ayatollah Mojtaba Khamenei.",
     "date": "2026-05-04T21:33:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/climate/hunting-federal-lands-burgum.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Orders Rapid End to Hunting Regulations on Federal Lands",
+    "author": "Lisa Friedman",
+    "link": "https://www.nytimes.com/2026/05/04/climate/hunting-federal-lands-burgum.html",
+    "content": "Curecanti National Recreation Area in Colorado, where a prohibition on discharging firearms around trails is one of dozens of hunting regulations that will be taken off the books.",
+    "date": "2026-05-04T21:11:01",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/business/pulitzer-prizes-2026-winners-list.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Pulitzer Prizes: 2026 Winners List",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/05/04/business/pulitzer-prizes-2026-winners-list.html",
+    "content": "This image, showing displaced Palestinians walking to Gaza City in October 2025, was part of the entry by Saher Alghorra, a contributor to The New York Times who won for breaking news photography.",
+    "date": "2026-05-04T21:06:27",
     "category": "NYT"
   },
   {
@@ -377,6 +427,16 @@
     "link": "https://www.nytimes.com/2026/05/03/us/mariachi-brothers-ice-kacey-musgraves-texas.html",
     "content": "The G\u00e1mez-Cu\u00e9llar family took the stage to open at Gruene Hall in New Braunfels, Texas, on Sunday.",
     "date": "2026-05-04T13:27:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/travel/italy-surreal-land-art-gardens.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Surreal, Cryptic and Just Plain Strange: 4 Fantastical Places in Italy",
+    "author": "Laura Rysman",
+    "link": "https://www.nytimes.com/2026/05/04/travel/italy-surreal-land-art-gardens.html",
+    "content": "In Tuscany, at a sculpture park called the Tarot Garden, which was created by the artist Niki de Saint Phalle, a hulking monster-like sculpture marks the entrance to the park with a waterfall spilling from its mouth.",
+    "date": "2026-05-04T13:21:42",
     "category": "NYT"
   },
   {
@@ -19937,66 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/26/arts/music/dash-crofts-dead.html",
     "content": "",
     "date": "2026-03-28T07:03:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/theater/larry-reed-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Larry Reed, Master of Shadow Puppetry, Dies at 81",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/theater/larry-reed-dead.html",
-    "content": "",
-    "date": "2026-03-28T06:48:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "It Was One of the Cold War\u2019s Greatest Crimes. No One Has Paid a Price.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html",
-    "content": "",
-    "date": "2026-03-28T06:33:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Republicans Know This War Is Going Badly",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html",
-    "content": "",
-    "date": "2026-03-28T06:18:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/opinion/trump-america-iran-war.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "It\u2019s Not Trump. It\u2019s America.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/opinion/trump-america-iran-war.html",
-    "content": "",
-    "date": "2026-03-28T06:03:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/arts/television/jo-nesbos-detective-hole-netflix.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Don\u2019t Let the Name Harry Hole Fool You. The Important One Is Jo Nesbo.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/arts/television/jo-nesbos-detective-hole-netflix.html",
-    "content": "",
-    "date": "2026-03-28T05:48:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/theater/tickets-theater-broadway-west-end-london.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Why Are Theater Tickets So Much Cheaper in London Than New York?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/theater/tickets-theater-broadway-west-end-london.html",
-    "content": "",
-    "date": "2026-03-28T05:33:51",
     "category": "NYT"
   }
 ]
