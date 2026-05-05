@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "feed_name": "NYT (Shared)",
+    "title": "White House Considers Vetting A.I. Models Before They Are Released",
+    "author": "Tripp Mickle, Julian E. Barnes, Sheera Frenkel and Dustin Volz",
+    "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "content": "The Trump administration\u2019s shift in policy began after Anthropic introduced a powerful artificial intelligence model called Mythos.",
+    "date": "2026-05-04T22:37:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=228947",
     "feed_name": "Texas Tribune",
     "title": "\u201cClassic unfunded mandate\u201d: San Antonio school districts reveal costs of new seat belt requirements",
@@ -118,6 +128,16 @@
     "content": "A Northside ISD public school bus is stopped and parked outside of an elementary school in a student pick up and drop off crossing.",
     "date": "2026-05-04T21:53:46",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/style/met-gala-jeff-bezos-backlash.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Met Gala\u2019s Embrace of Jeff Bezos Causes a Backlash",
+    "author": "Jesse McKinley and Alisha Haridasani Gupta",
+    "link": "https://www.nytimes.com/2026/05/04/style/met-gala-jeff-bezos-backlash.html",
+    "content": "In the weeks leading up to the event, an increasingly visible anti-Bezos campaign has erupted on New York\u2019s streets and subways. On social media, users have described the event as the \u201cAmazon Prime Gala\u201d or \u201cBezos Ball.\u201d",
+    "date": "2026-05-04T20:56:11",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/04/business/media/pulitzer-prizes-2026.html",
@@ -148,6 +168,16 @@
     "content": "Eurocrats are belatedly developing a healthy distaste for red tape",
     "date": "2026-05-04T19:47:42",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/theater/streisand-holliday-broadway-michele-chenoweth-menzel.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Streisand, LuPone, Holliday, Menzel: Broadway\u2019s Biggest Voices",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/05/04/theater/streisand-holliday-broadway-michele-chenoweth-menzel.html",
+    "content": "Lea Michele, Christine Ebersole, Jennifer Hudson, Kristin Chenoweth, Adam Lambert and 10 others reflect on their favorite belters.",
+    "date": "2026-05-04T19:25:52",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/04/sports/john-sterling-dead.html",
@@ -647,6 +677,36 @@
     "link": "https://www.nytimes.com/2026/05/04/opinion/health-care-hospitals-insurance.html",
     "content": "Prices at hospitals have grown faster than prices in virtually any other sector of the economy.",
     "date": "2026-05-04T09:01:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/business/pittsboro-north-carolina-master-planned-development.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A 22,000-Home Community Is Being Built in a 5,000-Person Town",
+    "author": "Amanda Abrams",
+    "link": "https://www.nytimes.com/2026/05/04/business/pittsboro-north-carolina-master-planned-development.html",
+    "content": "The Chatham County Historic Courthouse in downtown Pittsboro, N.C.",
+    "date": "2026-05-04T09:00:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/health/knoxville-medical-examiners-drugs-cychlorphine.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Medical Examiner Chases Down an Elusive Killer",
+    "author": "Jan Hoffman and Brett Carlsen",
+    "link": "https://www.nytimes.com/2026/05/04/health/knoxville-medical-examiners-drugs-cychlorphine.html",
+    "content": "Unusual opioids are infiltrating street drugs. Knoxville\u2019s top forensic doctor is on the front lines, pressing to quickly identify the most lethal.",
+    "date": "2026-05-04T09:00:40",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/arts/music/peter-frampton-carry-the-light.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Zen of Peter Frampton",
+    "author": "Grayson Haver Currin and Eric Ryan Anderson",
+    "link": "https://www.nytimes.com/2026/05/04/arts/music/peter-frampton-carry-the-light.html",
+    "content": "Grappling with a progressive muscular disease and making a new album with his son, the onetime British guitar hero may be happier than ever.",
+    "date": "2026-05-04T09:00:39",
     "category": "NYT"
   },
   {
@@ -19938,65 +19998,5 @@
     "content": "Just as we changed our thinking around physical fitness, we need to change our attitude toward cognitive fitness.",
     "date": "2026-03-27T20:30:54",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/18168-ballet-austin-marie-antoinette",
-    "feed_name": "KMFA",
-    "title": "Ballet Austin: Marie Antoinette",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/18168-ballet-austin-marie-antoinette",
-    "content": "BALLET AUSTIN PRESENTS\n\nMARIE ANTOINETTE\n\nVAMPIRE QUEEN OF VERSAILLES\n\nMARCH 27 - 29 | LONG CENTER DELL HALL\n\n\n\nMarie Antoinette: Vampire Queen of Versailles\n\nConcept &amp; Choreography \u2013 Stephen Mills\n\nLive Accompaniment \u2013 Austin Symphony Orchestra\n\nMusic \u2013 Graham Reynolds\n\nTHE STORY\n\nThe ballet opens with the marriage of Marie Antoinette. Married to King Louis XVI, she becomes trapped inside the gilded cage of Versailles, where she is scrutinized, mistrusted, and denied agency over nearly every aspect of her life. She is publicly examined, judged, and longing for affection in a loveless marriage.\n\nDuring an evening at the theater, she glimpses scenes of passion and devotion which awaken her forbidden desire. In the Hall of Mirrors, she encounters Axel von Fersen, a military man who offers earthly romance \u2014 as well as a mysterious vampire who offers something far more intoxicating: power, immortality, and vengeance.\n\nFaced with an impossible choice between human love and supernatural seduction, Marie Antoinette chooses to be \u201cturned.\u201d As her transformation unfolds, innocence fractures, betrayal sharpens, and the line between victim and villain blurs.\n\nSeductive. Decadent. Deliciously dangerous.\u00a0Marie Antoinette: Vampire Queen of Versailles\u00a0reframes one of history\u2019s most infamous women as the antiheroine of her own macabre fairytale.\n\nCommissioned by The Butler New Choreography Endowment\n\nBUY TICKETS!\n\nEvent Details\nDate: Friday, March 27, 2026 - Sunday, March 29, 2026\nTime: Friday and Saturday 7:30 P.M. | Sunday 3:00 P.M.\nVenue: Long Center Dell Hall\n\nTicket Information\nCost: $35.00 - $125.00\nPhone: \n\nPresenter Details: Ballet Austin welcomes audiences near and far to participate in its \u201cclassically innovative\u201d vision for the democratization of dance. Established in 1956, the 501(c)3 nonprofit organization has a rich history, featuring original, acclaimed productions and a commitment to creating access to programs. Ballet Austin owns and operates a combined training facility located in the heart of downtown Austin and is among the\u00a015 largest classical ballet companies\u00a0in the country.\n\nFrom its home at the\u00a0Butler Dance Education Center\u00a0in downtown Austin, Ballet Austin and\u00a0Stephen Mills,\u00a0Ballet Austin\u2019s Sarah and Ernest Butler Family Fund artistic director, actively engage the community, dancers, and audiences alike.\u00a0The New York Times\u00a0proclaims Ballet Austin \u201ca company with big ambitions\u201d originating work that is \u201cabsorbing.\u201d Hailed by\u00a0The Washington Post\u00a0as \u201cone of the nation\u2019s best-kept ballet secrets,\u201d Stephen Mills works closely with the 22 full-time professional dancers.\n\nBallet Austin has participated in international festivals including\u00a0les Rencontres Chor\u00e9graphiques Internationals de Seine-Saint-Denis\u00a0in Paris, France, one of the premier modern dance festivals in Europe, and\u00a0le Festival des arts de Saint-Sauveur\u00a0in Montreal, Canada. In the summer of 2005, at the invitation of the U.S. State Department, the company performed in Italy and Slovenia. In 2002, Mills led the Company to the Kennedy Center to perform to seven sold-out houses of\u00a0A Midsummer Night\u2019s Dream\u00a0as part of the Center\u2019s Youth and Family Public Performance Series. Mills was subsequently commissioned by the Center to create\u00a0The Taming of the Shrew\u00a0which made its world premiere in Washington, D.C. in 2004\u2014after which\u00a0The New York Times\u00a0dubbed him \u201cthe bard of ballet.\u201d The following year, the company was invited to perform at the Joyce Theater in NYC for a week\u2019s engagement. Also in 2005, Mills\u2019 landmark\u00a0Light / The Holocaust &amp; Humanity Project\u00a0was awarded the Audrey &amp; Raymond Maislin Humanitarian Award by the Anti-Defamation League.",
-    "date": "2026-03-27T19:30:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/18597-austin-wine-food-foundation-big-reds-and-bubbles",
-    "feed_name": "KMFA",
-    "title": "Austin Wine &amp; Food Foundation: Big Reds and Bubbles",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/18597-austin-wine-food-foundation-big-reds-and-bubbles",
-    "content": "AUSTIN WINE &amp; FOOD FOUNDATION PRESENTS\n\nBIG REDS AND BUBBLES\n\nMARCH 27 | 7:30 P.M. | LZR\n\n\n\nThis elevated sip-and-stroll style tasting event will include more than 100 of the best sparkling and red wines from around the world, alongside bites from some of the best restaurants in Austin!\n\nOur theme this year is \"Midnight Masquerade\", so\u00a0prepare your best\u00a0Venetian\u00a0garb, ball gowns, and masks.\n\nAt our Members-Only VIP Tasting that precedes the Grand Tasting, we\u2019ll pop some highly-allocated bottles paired with elevated bites at a sommelier-led experience. Your VIP ticket includes entry to the Grand Tasting Room. This VIP Tasting always sells out quickly, get your tickets now!\n\nBUY TICKETS!\n\nEvent Details\nDate: Friday, March 27, 2026\nTime: 7:30 P.M.\nVenue: LZR\n\nTicket Information\nCost: $175.00 - $215.00\nPhone: \n\nPresenter Details: The Austin Wine &amp; Food Foundation is centered around community and connects like-minded individuals who enjoy learning about, talking about, and engaging in all things wine &amp; food. Our programming is educational, fun, mission-focused, and open to all.\n\nIf you enjoy wine, food, and community, we would love to meet you!",
-    "date": "2026-03-27T19:30:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi",
-    "author": "Edward Wong, Theodore Schleifer, Tyler Pager and Ryan Mac",
-    "link": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
-    "content": "Elon Musk and Shivon Zilis arriving for a wedding at Mar-a-Lago last month.",
-    "date": "2026-03-27T19:11:58",
-    "category": "NYT"
-  },
-  {
-    "id": "d8c3f4fae9c0029919d94b2cde75102a",
-    "feed_name": "LRB",
-    "title": "Digging up the Dead",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/march/digging-up-the-dead",
-    "content": "The attack on the small town of Nabi Chit in the eastern Bekaa Valley on 6 March shows the value placed on human lives by the regime in Israel.\u00a0.\u00a0.",
-    "date": "2026-03-27T18:37:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225125",
-    "feed_name": "Texas Tribune",
-    "title": "Dan Patrick adds data centers, prediction markets and THC to Senate priorities",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17307703/dan-patrick-texas-senate-priorities-data-centers-thc-prediction-markets",
-    "content": "Texas Lt. Gov. Dan Patrick announces a &quot;Double Nickel&quot; tax proposal to reduce the age on freezing property taxes from its current 65 to 55 years of age on December 9, 2025.",
-    "date": "2026-03-27T18:19:29",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225117",
-    "feed_name": "Texas Tribune",
-    "title": "At CPAC, Texas Railroad Commissioner candidate Bo French calls for deportation of 100 million people",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17307669/texas-cpac-bo-french-islamophobia-muslim-railroad-commissioner-deport",
-    "content": "Former Tarrant County GOP Chair Bo French speaks during a rally at the Tarrant County Republican Party headquarters in Fort Worth on Jan. 6, 2025.",
-    "date": "2026-03-27T17:25:17",
-    "category": "Texas"
   }
 ]
