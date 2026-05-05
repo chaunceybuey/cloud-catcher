@@ -280,6 +280,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Tries to Downplay Economic Effects of the Iran War",
+    "author": "Erica L. Green and Zolan Kanno-Youngs",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html",
+    "content": "President Trump speaking to small-business owners before Monday\u2019s event, which the White House described as highlighting \u201cthe extraordinary revival of Main Street under his America First agenda.\u201d",
+    "date": "2026-05-05T01:40:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html",
     "feed_name": "NYT (Shared)",
     "title": "Secret Service Shoots and Wounds Armed Man Near Washington Monument",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/26/style/carole-radziwill-rhony-love-story-epstein-files.html",
     "content": "",
     "date": "2026-03-29T01:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/style/antwerp-six-momu-belgium.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Everyone Thinks Parisians Rule Fashion. Everyone Is Wrong.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/style/antwerp-six-momu-belgium.html",
-    "content": "",
-    "date": "2026-03-29T01:33:50",
     "category": "NYT"
   }
 ]
