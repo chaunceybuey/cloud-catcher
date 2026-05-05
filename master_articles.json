@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/us/politics/fda-covid-vaccine-studies.html",
+    "feed_name": "NYT (Shared)",
+    "title": "F.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe",
+    "author": "Christina Jewett",
+    "link": "https://www.nytimes.com/2026/05/05/us/politics/fda-covid-vaccine-studies.html",
+    "content": "A Covid-19 vaccine distribution site in Salt Lake City in 2022.",
+    "date": "2026-05-05T18:37:35",
+    "category": "NYT"
+  },
+  {
     "id": "c95e5d8688b03b3861e31cf2d97e8a35",
     "feed_name": "LRB",
     "title": "Brian Dillon & Olivia Laing: Ambivalence",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/28/arts/sauna-fest-sketchpad.html",
     "content": "",
     "date": "2026-03-29T05:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/21/arts/television/scott-evans-house-guest-access-hollywood.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Scott Evans Recommends These Books to the Women in His Life",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/21/arts/television/scott-evans-house-guest-access-hollywood.html",
-    "content": "",
-    "date": "2026-03-29T05:33:50",
     "category": "NYT"
   }
 ]
