@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229067",
+    "feed_name": "Texas Tribune",
+    "title": "Dan Patrick picks sides in Texas attorney general, Railroad Commission GOP runoffs",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17335026/dan-patrick-mayes-middleton-endorsement-texas-attorney-general-chip-roy-2026-gop-runoff",
+    "content": "Texas Lt. Gov. Dan Patrick speaks during the Texas Public Policy Foundation\u2019s Texas Policy Summit at the AT&amp;T Executive Hotel &amp; Conference Center in Austin on April 8, 2026.",
+    "date": "2026-05-05T20:21:47",
+    "category": "Texas"
+  },
+  {
     "id": "612f43f7-3a8b-44d3-9fc9-56ec6cca196e",
     "feed_name": "Economist",
     "title": "Can Bill Ackman save the closed-end fund?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/28/business/oil-shocks-1970s-iran-war.html",
     "content": "",
     "date": "2026-03-29T04:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Smaller Is Better in Silicon Valley\u2019s \u2018Tiny Team\u2019 Moment",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
-    "content": "",
-    "date": "2026-03-29T04:33:50",
     "category": "NYT"
   }
 ]
