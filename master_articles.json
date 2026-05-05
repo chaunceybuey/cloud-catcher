@@ -850,6 +850,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/well/cannabis-marijuana-health-risks.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "What Doctors Want You to Know About Cannabis and Health",
+    "author": "Roni Caryn Rabin",
+    "link": "https://www.nytimes.com/2026/05/04/well/cannabis-marijuana-health-risks.html",
+    "content": "The government recently loosened medical marijuana rules. Experts separate fact from fiction about the drug\u2019s safety and benefits.",
+    "date": "2026-05-04T09:01:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/dining/food-pleasure-mindful-eating.html",
     "feed_name": "NYT (Emailed)",
     "title": "Is Loving Food the Secret to Eating Less of It?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/27/world/middleeast/iran-israel-us-rubio-war.html",
     "content": "",
     "date": "2026-03-28T08:18:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/23/climate/beer-carbon-capture.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "There\u2019s a New Place to Store Greenhouse Gases: In Your Beer",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/23/climate/beer-carbon-capture.html",
-    "content": "",
-    "date": "2026-03-28T08:03:51",
     "category": "NYT"
   }
 ]
