@@ -810,6 +810,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/world/africa/africans-russia-war-ukraine.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Why Are Africans Fighting in Russia\u2019s War in Ukraine?",
+    "author": "Matthew Mpoke Bigg",
+    "link": "https://www.nytimes.com/2026/05/04/world/africa/africans-russia-war-ukraine.html",
+    "content": "Family members of people recruited by Russia for the war in Ukraine protested in Nairobi, Kenya, in March. The lack of information on missing loved ones spurred their appeal to lawmakers.",
+    "date": "2026-05-04T07:53:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/opinion/iran-us-israel-war-drones-strait-of-hormuz.html",
     "feed_name": "NYT (Shared)",
     "title": "Operation Epic Fury, Meet Operation Colossal Blunder",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/27/theater/tickets-theater-broadway-west-end-london.html",
     "content": "",
     "date": "2026-03-28T05:33:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/arts/design/dave-eggers-jd-beltran-art-water-san-francisco.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Free Home for San Francisco Artists, From Dave Eggers and Friends",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/arts/design/dave-eggers-jd-beltran-art-water-san-francisco.html",
-    "content": "",
-    "date": "2026-03-28T05:18:51",
     "category": "NYT"
   }
 ]
