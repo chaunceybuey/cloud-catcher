@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Oil Jumps as Violence Flares After Trump\u2019s Offer to Help Ships Through Strait",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html",
+    "content": "Oil prices fell and futures on the S&amp;P 500 rose slightly on Sunday as investors reacted to continued uncertainty about the war in Iran.",
+    "date": "2026-05-04T20:47:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/business/media/pulitzer-prizes-2026.html",
     "feed_name": "NYT (Shared)",
     "title": "New York Times Wins 3 Pulitzer Prizes",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/27/business/inflation-federal-reserve-iran-war.html",
     "content": "",
     "date": "2026-03-28T04:48:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Trail of Clues Leading to Iran That Binance Missed",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
-    "content": "",
-    "date": "2026-03-28T04:33:51",
     "category": "NYT"
   }
 ]
