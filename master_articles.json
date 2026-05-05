@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
+    "feed_name": "NYT (Shared)",
+    "title": "As Oil Prices Stay High, China Doubles Down on Wind Power",
+    "author": "Keith Bradsher and Qilai Shen",
+    "link": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
+    "content": "An industrial policy of subsidies and import restrictions laid the foundations for China to become almost as dominant in wind turbines as in solar panels.",
+    "date": "2026-05-05T04:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
     "feed_name": "NYT (Emailed)",
     "title": "Met Gala 2026 Red Carpet Photos: All the Looks",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/26/realestate/housing-market-nyc.html",
     "content": "",
     "date": "2026-03-29T00:03:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/19/t-magazine/design-interior-style.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Let Your Home Be",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/19/t-magazine/design-interior-style.html",
-    "content": "",
-    "date": "2026-03-28T23:48:50",
     "category": "NYT"
   }
 ]
