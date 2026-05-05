@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "69f275cdb031343a840375a2",
+    "feed_name": "Wired",
+    "title": "The Secret to Amelia Dimoldenberg\u2019s Online Superstardom? Control",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-amelia-dimoldenberg/",
+    "content": "The host of Chicken Shop Date joined WIRED\u2019s Big Interview podcast to talk about turning down bad deals, beating the algorithm, and the importance of being over-prepared.",
+    "date": "2026-05-05T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=18945",
     "feed_name": "Stratechery",
     "title": "Amazon\u2019s Durability",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/29/pageoneplus/quote-of-the-day-on-irans-rugged-frontier-kurds-yearn-to-join-the-fight.html",
     "content": "",
     "date": "2026-03-28T22:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/02/19/well/setting-boundaries-books.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "5 Books for Setting Better Boundaries",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/02/19/well/setting-boundaries-books.html",
-    "content": "",
-    "date": "2026-03-28T22:33:50",
     "category": "NYT"
   }
 ]
