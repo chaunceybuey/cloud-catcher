@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=228985",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton narrowly leads John Cornyn in new poll of Texas\u2019 Senate GOP runoff",
+    "author": "Gabby Birenbaum and Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17334764/texas-us-senate-gop-runoff-cornyn-paxton-university-of-houston-poll-attorney-general",
+    "content": "From left: Texas Attorney General Ken Paxton, U.S. Sen. John Cornyn, state Sen. Mayes Middleton, R-Galveston, and U.S. Rep. Chip Roy, R-Austin. Paxton and Cornyn face each other in the May runoff to be the Republican nominee for the U.S. Senate; Middleton and Roy are vying to get the GOP nod for attorney general.",
+    "date": "2026-05-05T12:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "f95e6cb9bbc618da6d4213a3d333b094",
     "feed_name": "Compact",
     "title": "The Folly of Anti-Growth Economics",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/19/t-magazine/design-interior-style.html",
     "content": "",
     "date": "2026-03-28T23:48:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/05/t-magazine/megumi-yuasa-ortuzar.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "An Artist\u2019s Six-Decade-Long Love Affair With Clay",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/05/t-magazine/megumi-yuasa-ortuzar.html",
-    "content": "",
-    "date": "2026-03-28T23:33:50",
     "category": "NYT"
   }
 ]
