@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "China Seeks an Advantage With Both Trump and Iran as War Evolves",
+    "author": "Edward Wong",
+    "link": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
+    "content": "A government-organized march in Tehran on Wednesday in support of Iran\u2019s new supreme leader, Ayatollah Mojtaba Khamenei.",
+    "date": "2026-05-04T21:33:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/04/style/met-gala-jeff-bezos-backlash.html",
     "feed_name": "NYT (Shared)",
     "title": "The Met Gala\u2019s Embrace of Jeff Bezos Causes a Backlash",
@@ -307,6 +317,16 @@
     "link": "https://www.nytimes.com/2026/05/03/us/politics/butler-pennsylvania-assassination-attempt-comperatore.html",
     "content": "The conspiracy theories around the Butler, Pa., assassination attempt hurt Helen Comperatore, but in this age of distrust, partisanship and social media, she nurtures a conspiracy theory of her own.",
     "date": "2026-05-04T16:31:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/03/obituaries/jack-thornell-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Jack Thornell, Pulitzer Winning A.P. Photographer, Dies",
+    "author": "Adam Nossiter",
+    "link": "https://www.nytimes.com/2026/05/03/obituaries/jack-thornell-dead.html",
+    "content": "Jack Thornhill\u2019s Pulitzer Prize-winning photo showing the civil rights activist James Meredith on the ground after being shot in Hernando, Miss., on June 6, 1966. He is looking at the man who shot him, hiding in the woods.",
+    "date": "2026-05-04T13:40:37",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
     "content": "",
     "date": "2026-03-28T04:33:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/pageoneplus/quote-of-the-day-an-irish-village-lifts-together-to-free-children-from-phones.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: An Irish Village Lifts Together To Free Children From Phones",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/pageoneplus/quote-of-the-day-an-irish-village-lifts-together-to-free-children-from-phones.html",
-    "content": "",
-    "date": "2026-03-28T04:18:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/pageoneplus/corrections-march-28-2026.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Corrections: March 28, 2026",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/pageoneplus/corrections-march-28-2026.html",
-    "content": "",
-    "date": "2026-03-28T04:03:51",
     "category": "NYT"
   }
 ]
