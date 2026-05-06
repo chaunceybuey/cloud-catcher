@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/well/als-treatment-tofersen-qalsody.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Tofersen, a New Treatment for A.L.S., Reverses Symptoms for Some",
+    "author": "Pam Belluck",
+    "link": "https://www.nytimes.com/2026/05/06/well/als-treatment-tofersen-qalsody.html",
+    "content": "The drug is for a small subset of patients. But evidence that breathing and strength can get better for some of them is remarkable for a paralyzing, usually fatal disease.",
+    "date": "2026-05-06T12:18:25",
+    "category": "NYT"
+  },
+  {
     "id": "b446bb3a3068082c2157276f2daf7296",
     "feed_name": "LRB",
     "title": "Something Broken or Nothing at All",
@@ -168,6 +178,16 @@
     "content": "<p>Microsoft unveils its new agentic business model, and Apple confronts shortages in memory and chips even as the Mac benefits from AI.</p>",
     "date": "2026-05-06T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A Look Inside the Case That Enshrined Political Power for Billionaires",
+    "author": "Danny Hakim",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html",
+    "content": "A landmark Supreme Court case laid the groundwork for the tremendous amounts spent on today\u2019s elections.",
+    "date": "2026-05-06T09:00:15",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=228919",
@@ -19976,26 +19996,6 @@
     "author": "ByBob Holman",
     "link": "https://www.newyorker.com/magazine/2026/04/06/following-bashos-narrow-walk-into-the-interior-bob-holman-poem",
     "content": "\u201cWhite water-filled spheres / Floating in a rock garden / Ah! Whose dream is this?\u201d",
-    "date": "2026-03-30T10:48:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "dd3253c19097cc3f2631afdccce9ed21",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-april-6-2026-issue",
-    "content": "Drawings from the April 6, 2026, magazine.",
-    "date": "2026-03-30T10:48:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "ce7b2c23eec3e53b7a2238f5c2425f10",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Monday, March 30, 2026",
-    "author": "ByAnna Shechtman",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/03/30",
-    "content": "A challenging puzzle.",
     "date": "2026-03-30T10:48:34",
     "category": "Magazines"
   }
