@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/opinion/trump-xi-summit-ai-global-threats.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The U.S. and China Have a Common Foe. Hint: It\u2019s Not the U.S.S.R.",
+    "author": "Thomas L. Friedman",
+    "link": "https://www.nytimes.com/2026/05/05/opinion/trump-xi-summit-ai-global-threats.html",
+    "content": "A new level of global disorder will face the American and Chinese presidents at their summit. Like Mao and Nixon, they face a common threat.",
+    "date": "2026-05-05T22:19:44",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/05/us/pope-leo-xiv-bank-customer-service.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "What Happened When Pope Leo XIV Had to Call Customer Service",
+    "author": "Julie Bosman",
+    "link": "https://www.nytimes.com/2026/05/05/us/pope-leo-xiv-bank-customer-service.html",
+    "content": "Pope Leo XIV has a palace, the Swiss Guard and the popemobile. But he also has hassles, just like everyone else.",
+    "date": "2026-05-05T21:39:02",
+    "category": "NYT"
+  },
+  {
     "id": "69f8d3540f112c70100e96dd",
     "feed_name": "Wired (Science)",
     "title": "Telehealth Abortion Is Still Possible Without Mifepristone",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/29/business/energy-environment/iran-war-natural-gas.html",
     "content": "",
     "date": "2026-03-30T06:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/24/business/media/reality-tv-era-ending.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Reality TV Confronts a Harsh TV Reality",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/24/business/media/reality-tv-era-ending.html",
-    "content": "",
-    "date": "2026-03-30T06:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/business/iran-propaganda-war-ai.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "In an Asymmetrical War, Iran Seeks an Edge With Its Information War",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/business/iran-propaganda-war-ai.html",
-    "content": "",
-    "date": "2026-03-30T05:48:49",
     "category": "NYT"
   }
 ]
