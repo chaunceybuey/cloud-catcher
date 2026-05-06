@@ -160,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Cruise Ship Struck by Hantavirus Is to Head to Canary Islands, W.H.O. Says",
+    "author": "Max Kim, Lynsey Chutel and Claire Moses",
+    "link": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html",
+    "content": "The MV Hondius moored off the coast of Cape Verde, an archipelago in the Atlantic Ocean, on Monday.",
+    "date": "2026-05-05T21:49:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/us/pope-leo-xiv-bank-customer-service.html",
     "feed_name": "NYT (Emailed)",
     "title": "What Happened When Pope Leo XIV Had to Call Customer Service",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/24/us/kermit-gosnell-dead.html",
     "content": "",
     "date": "2026-03-30T07:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/obituaries/gertrude-chandler-warner-overlooked.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Overlooked No More: Gertrude Chandler Warner, Author of \u2018The Boxcar Children\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/obituaries/gertrude-chandler-warner-overlooked.html",
-    "content": "",
-    "date": "2026-03-30T07:18:49",
     "category": "NYT"
   }
 ]
