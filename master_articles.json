@@ -370,6 +370,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/dining/restaurant-review-paper-bridge-portland.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Hunting for the Rare Thrills of Northern Vietnamese Food? Try Portland.",
+    "author": "Tejal Rao",
+    "link": "https://www.nytimes.com/2026/05/05/dining/restaurant-review-paper-bridge-portland.html",
+    "content": "At the Paper Bridge in Oregon, a husband-and-wife chef team is expanding the story of Viet restaurants in the United States.",
+    "date": "2026-05-05T14:52:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/arts/television/david-letterman-stephen-colbert-the-late-show-cbs.html",
     "feed_name": "NYT (Shared)",
     "title": "David Letterman Reflects on \u2018The Late Show\u2019 and Has Harsh Words for New CBS Owners",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/07/briefing/hanging-up.html",
     "content": "",
     "date": "2026-03-30T04:48:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/29/pageoneplus/quote-of-the-day-catholic-church-has-surge-of-converts-in-us.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: Catholic Church Has Surge of Converts in U.S.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/29/pageoneplus/quote-of-the-day-catholic-church-has-surge-of-converts-in-us.html",
-    "content": "",
-    "date": "2026-03-30T04:33:49",
     "category": "NYT"
   }
 ]
