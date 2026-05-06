@@ -370,6 +370,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/books/pulitzer-prizes-books-winners-finalists.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Books That Won the 2026 Pulitzer Prizes",
+    "author": "Alexandra Alter, Joumana Khatib and Gregory Cowles",
+    "link": "https://www.nytimes.com/2026/05/04/books/pulitzer-prizes-books-winners-finalists.html",
+    "content": "Jill Lepore won the 2026 Pulitzer Prize for a book of history for \u201cWe the People: A History of the U.S. Constitution\u201d",
+    "date": "2026-05-05T13:18:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/us/usc-ai-200-million-donation.html",
     "feed_name": "NYT (Emailed)",
     "title": "U.S.C. Will Infuse A.I. Across University with $200 Million Donation",
@@ -19988,15 +19998,5 @@
     "content": "China is helping the Revolutionary Guards profit from Iranian crude",
     "date": "2026-03-29T11:44:15",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html",
-    "feed_name": "NYT (Popular)",
-    "title": "No Kings Protests Held Across the U.S.: Photos and Videos",
-    "author": "Ernesto Londo\u00f1o and Sonia A. Rao",
-    "link": "https://www.nytimes.com/2026/03/28/us/no-kings-protest-photos-videos.html",
-    "content": "Protesters gather in front of the Idaho State Capitol during the No Kings Day protest in Boise, Idaho.",
-    "date": "2026-03-29T09:36:07",
-    "category": "NYT"
   }
 ]
