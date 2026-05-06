@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229172",
+    "feed_name": "Texas Tribune",
+    "title": "World Cup hotel bookings short of expectations in Texas amid anti-U.S. sentiment abroad",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17335620/texas-world-cup-tourists-economic-impact",
+    "content": "The AT&amp;T Stadium in Arlington on April 24, 2026.",
+    "date": "2026-05-06T17:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
+    "author": "Jonathan Kandell",
+    "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+    "content": "Ted Turner was a visionary media mogul who dominated the cable television industry, and extended his reach into movies, major league baseball and even yachting.",
+    "date": "2026-05-06T16:27:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/06/opinion/callais-voting-rights-act-discrimination.html",
     "feed_name": "NYT (Shared)",
     "title": "John Roberts Believes in an America That Doesn\u2019t Exist",
@@ -19976,26 +19996,6 @@
     "author": "ByBecca Rothfeld",
     "link": "https://www.newyorker.com/magazine/2026/04/06/the-meaning-of-your-life-arthur-c-brooks-book-review",
     "content": "In a new book, the conservative pundit Arthur C. Brooks offers tips to \u201cyoung strivers\u201d on maximizing their daily meaning quotient.",
-    "date": "2026-03-30T10:48:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a79e4f82654e918de500f5a240bc60c",
-    "feed_name": "New Yorker",
-    "title": "The Ample Rewards of Ben Lerner\u2019s Slender New Novel",
-    "author": "ByGiles Harvey",
-    "link": "https://www.newyorker.com/magazine/2026/04/06/transcription-ben-lerner-book-review",
-    "content": "In \u201cTranscription,\u201d a novel about memory and influence, an interview with an aging intellectual goes unrecorded. Or does it?",
-    "date": "2026-03-30T10:48:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "fec03779f3b05c01cb5f783bf9ac420d",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/04/06/kids-wait-till-you-hear-this-money-beyond-borders-a-beautiful-loan-spoiled-milk",
-    "content": "Short reviews of recent releases.",
     "date": "2026-03-30T10:48:34",
     "category": "Magazines"
   }
