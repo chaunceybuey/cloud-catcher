@@ -280,6 +280,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/04/opinion/devil-wears-prada-feminism-girlboss.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Movie About Women Who Love Their Work? Groundbreaking.",
+    "author": "Michelle Goldberg",
+    "link": "https://www.nytimes.com/2026/05/04/opinion/devil-wears-prada-feminism-girlboss.html",
+    "content": "It turns out that some women do, in fact, dream of labor, at least the kind that comes with a sense of mastery, agency and glamour.",
+    "date": "2026-05-05T17:47:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html",
     "feed_name": "NYT (Emailed)",
     "title": "New Musicals \u2018Schmigadoon!\u2019 and \u2018Lost Boys\u2019 Lead List of Tony Nominees",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/28/arts/music/bruce-hornsby-indigo-park.html",
     "content": "",
     "date": "2026-03-30T05:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/arts/television/taylor-frankie-paul-child-endangerment.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Her Past Was No Secret. Footage of a Child\u2019s Cry Changed Everything.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/arts/television/taylor-frankie-paul-child-endangerment.html",
-    "content": "",
-    "date": "2026-03-30T05:18:49",
     "category": "NYT"
   }
 ]
