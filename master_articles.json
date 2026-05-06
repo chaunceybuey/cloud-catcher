@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/opinion/callais-voting-rights-act-discrimination.html",
+    "feed_name": "NYT (Shared)",
+    "title": "John Roberts Believes in an America That Doesn\u2019t Exist",
+    "author": "Jamelle Bouie",
+    "link": "https://www.nytimes.com/2026/05/06/opinion/callais-voting-rights-act-discrimination.html",
+    "content": "Guess who benefits from a \u201ccolorblind Constitution.\u201d",
+    "date": "2026-05-06T14:16:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/06/well/als-treatment-tofersen-qalsody.html",
     "feed_name": "NYT (Emailed)",
     "title": "Tofersen, a New Treatment for A.L.S., Reverses Symptoms for Some",
@@ -19986,16 +19996,6 @@
     "author": "BySandra Lim",
     "link": "https://www.newyorker.com/magazine/2026/04/06/the-great-grandmothers-sandra-lim-poem",
     "content": "\u201cOne paid the rent with a row of her teeth.\u201d",
-    "date": "2026-03-30T10:48:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "3c9ba7b85c8211867795fe7fee1f2789",
-    "feed_name": "New Yorker",
-    "title": "Following Bash\u014d\u2019s Narrow Walk Into the Interior",
-    "author": "ByBob Holman",
-    "link": "https://www.newyorker.com/magazine/2026/04/06/following-bashos-narrow-walk-into-the-interior-bob-holman-poem",
-    "content": "\u201cWhite water-filled spheres / Floating in a rock garden / Ah! Whose dream is this?\u201d",
     "date": "2026-03-30T10:48:34",
     "category": "Magazines"
   }
