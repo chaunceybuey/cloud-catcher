@@ -270,6 +270,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The FBI Searched a Washington Post Reporter\u2019s Home. She Is Now a Pulitzer Prize Winner.",
+    "author": "Erik Wemple",
+    "link": "https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html",
+    "content": "Hannah Natanson, a reporter and member of the winning team for the Pulitzer Prize for Public Service, in the Washington Post newsroom on Monday.",
+    "date": "2026-05-05T17:53:28",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html",
     "feed_name": "NYT (Emailed)",
     "title": "New Musicals \u2018Schmigadoon!\u2019 and \u2018Lost Boys\u2019 Lead List of Tony Nominees",
@@ -297,6 +307,16 @@
     "link": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
     "content": "A photograph released by Saudi Royal Court showing Crown Prince Mohammed bin Salman, right, and the Emirati leader, Sheikh Mohammed bin Zayed, in Riyadh, Saudi Arabia, in 2023.",
     "date": "2026-05-05T16:38:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/05/books/publishers-turow-meta-zuckerberg-lawsuit-copyright.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Five Publishers and Scott Turow Sue Meta and Mark Zuckerberg",
+    "author": "Alexandra Alter",
+    "link": "https://www.nytimes.com/2026/05/05/books/publishers-turow-meta-zuckerberg-lawsuit-copyright.html",
+    "content": "Mark Zuckerberg in March 2026.",
+    "date": "2026-05-05T16:05:11",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/28/arts/television/taylor-frankie-paul-child-endangerment.html",
     "content": "",
     "date": "2026-03-30T05:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/29/theater/the-wild-party-musical-poem-new-york-city-center.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Vivacious Play That Started as a Scandalous Poem a Century Ago",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/29/theater/the-wild-party-musical-poem-new-york-city-center.html",
-    "content": "",
-    "date": "2026-03-30T05:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/07/briefing/hanging-up.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Hanging Up",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/07/briefing/hanging-up.html",
-    "content": "",
-    "date": "2026-03-30T04:48:49",
     "category": "NYT"
   }
 ]
