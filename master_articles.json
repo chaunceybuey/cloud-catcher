@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/us/palm-beach-florida-trump-airport.html",
+    "feed_name": "NYT (Shared)",
+    "title": "To Rename Its Airport After Trump, Palm Beach Had to License His Name",
+    "author": "Patricia Mazzei",
+    "link": "https://www.nytimes.com/2026/05/05/us/palm-beach-florida-trump-airport.html",
+    "content": "Originally opened in 1936 as Morrison Field, the Florida airport was renamed Palm Beach International Airport in 1948.",
+    "date": "2026-05-06T00:38:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229122",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi to begin talks on privately built desalinization plant",
@@ -19988,15 +19998,5 @@
     "content": "Galen Buckwalter says brain-computer interfaces will have to be enjoyable to use if the technology is going to be successful.",
     "date": "2026-03-30T10:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225140",
-    "feed_name": "Texas Tribune",
-    "title": "\u201cDon\u2019t take me to the hospital\u201d: Undocumented immigrants in Texas are delaying medical care",
-    "author": "By Colleen DeGuzman, Stephen Simpson\u00a0and\u00a0Terri Langford, DATA ANALYSIS BY\u00a0Dan Keemahill",
-    "link": "https://feeds.texastribune.org/link/16799/17309389/texas-undocumented-immigrants-health-care-hospitals",
-    "content": "A 54-year-old woman from Edinburg holds her hands as she poses for a photo at her home in the Rio Grande Valley on March 18, 2026. After suffering a bad fall in October, she refused to go to the hospital over fears she could be deported.",
-    "date": "2026-03-30T10:00:00",
-    "category": "Texas"
   }
 ]
