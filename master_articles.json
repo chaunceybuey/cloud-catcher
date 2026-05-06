@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/us/politics/republicans-immigration-bill-trump-ballroom.html",
+    "feed_name": "NYT (Shared)",
+    "title": "G.O.P. Proposes $1 Billion in Immigration Bill for Trump\u2019s Ballroom Project",
+    "author": "Carl Hulse",
+    "link": "https://www.nytimes.com/2026/05/05/us/politics/republicans-immigration-bill-trump-ballroom.html",
+    "content": "Construction at the White House last month.",
+    "date": "2026-05-06T01:14:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229137",
+    "feed_name": "Texas Tribune",
+    "title": "Top Texas lawmakers support lifting summer camp safety requirement made in wake of deadly floods",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17335154/texas-summer-camps-internet-floods-regulations",
+    "content": "Speaker of the House Dustin Burrows, R-Lubbock, and Lt. Gov. Dan Patrick speak at a press conference during a joint committee hearing at the Hill Country Youth Event Center in Kerrville on July 31, 2025.",
+    "date": "2026-05-06T00:46:20",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229122",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi to begin talks on privately built desalinization plant",
@@ -19978,25 +19998,5 @@
     "content": "I asked an Iran hawk what victory looks like now.",
     "date": "2026-03-29T23:08:53",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
-    "feed_name": "NYT (Popular)",
-    "title": "I Saw Something New in San Francisco",
-    "author": "Ezra Klein",
-    "link": "https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html",
-    "content": "Marshall McLuhan was right about Claude, too.",
-    "date": "2026-03-29T16:05:08",
-    "category": "NYT"
-  },
-  {
-    "id": "a0925fa6-6228-4115-add3-6c69c3199163",
-    "feed_name": "Economist",
-    "title": "How Iran is making a mint from Donald Trump\u2019s war",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war",
-    "content": "China is helping the Revolutionary Guards profit from Iranian crude",
-    "date": "2026-03-29T11:44:15",
-    "category": "Magazines"
   }
 ]
