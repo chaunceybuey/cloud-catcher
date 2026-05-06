@@ -390,6 +390,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+    "author": "Jin Yu Young and Claire Moses",
+    "link": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
+    "content": "The cruise ship MV Hondius stationed off the port of Praia, Cape Verde, on Sunday.",
+    "date": "2026-05-05T19:07:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/opinion/jake-auchincloss-democrat-massachusetts.html",
     "feed_name": "NYT (Emailed)",
     "title": "A Democrat Who Makes Me Listen",
@@ -19987,16 +19997,6 @@
     "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/03/30",
     "content": "A challenging puzzle.",
     "date": "2026-03-30T10:48:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "69c413f3f05764fb8cd64f60",
-    "feed_name": "Wired (Science)",
-    "title": "Meet the Man Making Music With His Brain Implant",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/meet-the-man-making-music-with-his-brain-implant/",
-    "content": "Galen Buckwalter says brain-computer interfaces will have to be enjoyable to use if the technology is going to be successful.",
-    "date": "2026-03-30T10:30:00",
     "category": "Magazines"
   }
 ]
