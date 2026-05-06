@@ -260,6 +260,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/magazine/argentina-president-javier-milei-maga.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Can Javier Milei\u2019s Deregulatory Frenzy Buoy the Global Right?",
+    "author": "Roger Cohen",
+    "link": "https://www.nytimes.com/2026/05/05/magazine/argentina-president-javier-milei-maga.html",
+    "content": "With his signature chain saw, Javier Milei became a MAGA superstar. At home, his state-slashing experiment is on the line.",
+    "date": "2026-05-05T17:56:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/theater/2026-tony-nominations.html",
     "feed_name": "NYT (Emailed)",
     "title": "New Musicals \u2018Schmigadoon!\u2019 and \u2018Lost Boys\u2019 Lead List of Tony Nominees",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-03-30T04:33:49",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/opinion/interesting-times-podcast-mark-dubowitz.html",
-    "feed_name": "Interesting Times",
-    "title": "How Far Will Trump Go in Iran?",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/03/26/opinion/interesting-times-podcast-mark-dubowitz.html",
-    "content": "I asked an Iran hawk what victory looks like now.",
-    "date": "2026-03-29T23:08:53",
-    "category": "Uncategorized"
   }
 ]
