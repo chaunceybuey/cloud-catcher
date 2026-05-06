@@ -100,6 +100,36 @@
     "category": "Texas"
   },
   {
+    "id": "b446bb3a3068082c2157276f2daf7296",
+    "feed_name": "LRB",
+    "title": "Something Broken or Nothing at All",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/may/something-broken-or-nothing-at-all",
+    "content": "He said the boiler could be fixed but it would be better to replace it. He put the call to the supplier on speakerphone. We were told a new boiler.\u00a0.\u00a0.",
+    "date": "2026-05-06T11:49:43",
+    "category": "Magazines"
+  },
+  {
+    "id": "099917df0d2a5f964778a151fc47b2e9",
+    "feed_name": "LRB",
+    "title": "Dependency Culture",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/may/dependency-culture",
+    "content": "Charles III\u2019s state visit to the US occasioned a good deal of commentary either celebrating the \u2018special relationship\u2019 between Britain.\u00a0.\u00a0.",
+    "date": "2026-05-06T11:49:43",
+    "category": "Magazines"
+  },
+  {
+    "id": "ffd33746b0cfb7f6adf59bc04a4af003",
+    "feed_name": "Compact",
+    "title": "If You Love Reading, Skip Grad School",
+    "author": "",
+    "link": "https://www.compactmag.com/article/if-you-love-reading-skip-grad-school/",
+    "content": "",
+    "date": "2026-05-06T11:49:40",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229030",
     "feed_name": "Texas Tribune",
     "title": "Texas\u2019 33rd Congressional District Democratic runoff: Who is running and what to know",
@@ -19968,35 +19998,5 @@
     "content": "A 54-year-old woman from Edinburg holds her hands as she poses for a photo at her home in the Rio Grande Valley on March 18, 2026. After suffering a bad fall in October, she refused to go to the hospital over fears she could be deported.",
     "date": "2026-03-30T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225155",
-    "feed_name": "Texas Tribune",
-    "title": "Strict schedules, long days, high pay: What Waco schools can expect from new charter operator",
-    "author": "By Raquel Villatoro,\u00a0The Waco Bridge",
-    "link": "https://feeds.texastribune.org/link/16799/17309390/texas-waco-third-future-charter-school",
-    "content": "Hirschi Middle School in Wichita Falls is now being operated by Third Future Schools.",
-    "date": "2026-03-30T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "69a8d2223abb8898930d98fb",
-    "feed_name": "Wired",
-    "title": "\u2018Guns, Beer, Titties, Freedom\u2019: Inside the World\u2019s Toughest Off-Road Race",
-    "author": "Matthew Reamer",
-    "link": "https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/",
-    "content": "Every winter, 80,000 people gather in the California desert for King of the Hammers, a popular racing series featuring high-speed relays and rock crawling with dirt bikes, stock VW Bugs, and million-dollar trophy trucks.",
-    "date": "2026-03-30T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "U.S. May Label Brazilian Gangs as Terror Groups, After Push by the Bolsonaros",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html",
-    "content": "",
-    "date": "2026-03-30T09:18:49",
-    "category": "NYT"
   }
 ]
