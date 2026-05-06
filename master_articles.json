@@ -250,6 +250,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html",
+    "feed_name": "NYT (Shared)",
+    "title": "In Indiana Primary Elections, Most Trump-Backed Challengers Beat Incumbents",
+    "author": "Mitch Smith",
+    "link": "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html",
+    "content": "Voters at the polls in West Lafayette, Ind., on Tuesday.",
+    "date": "2026-05-06T02:42:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/magazine/2026/04/06/kids-wait-till-you-hear-this-money-beyond-borders-a-beautiful-loan-spoiled-milk",
     "content": "Short reviews of recent releases.",
-    "date": "2026-03-30T10:48:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "72164631fd1d52801ddd6ac10c53158a",
-    "feed_name": "New Yorker",
-    "title": "Kia Damon\u2019s Audacious Florida Cooking",
-    "author": "ByHannah Goldfield",
-    "link": "https://www.newyorker.com/magazine/2026/04/06/kia-damons-audacious-florida-cooking",
-    "content": "A young Black chef from Orlando conjures a distinctive image of her home state, beyond the loud luxury of Miami and the kitsch of the Keys.",
     "date": "2026-03-30T10:48:34",
     "category": "Magazines"
   }
