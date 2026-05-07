@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "cbf71a90d9e40ed8634fdf884dffdf9b",
+    "feed_name": "LRB",
+    "title": "Daniel Trilling & William Davies: If We Tolerate This",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/daniel-trilling-william-davies-if-we-tolerate-this-tickets-1986078167262",
+    "content": "",
+    "date": "2026-05-07T20:16:03",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229355",
+    "feed_name": "Texas Tribune",
+    "title": "Austin bar shooter didn\u2019t have international terrorism ties, FBI says",
+    "author": "By\u00a0Leigh Walden,\u00a0KUT News",
+    "link": "https://feeds.texastribune.org/link/16799/17336396/austin-bufords-shooting-march-2026-terrorism-gunman",
+    "content": "The March 1 shooting took place in Austin&#039;s crowded entertainment district.",
+    "date": "2026-05-07T19:42:22",
+    "category": "Texas"
+  },
+  {
     "id": "69fb437ab2e25917ff0d3424",
     "feed_name": "Wired (Science)",
     "title": "Why the Hantavirus Cruise Ship Outbreak Isn't Likely to Become a Global Crisis",
@@ -437,7 +457,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/climate/america-the-undammed.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/30/theater/dog-day-afternoon-review-bernthal-moss-bachrach.html",
     "content": "",
     "date": "2026-04-01T04:33:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Instagram\u2019s \u2018PG-13\u2019 Branding for Teens Unraveled",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
-    "content": "",
-    "date": "2026-04-01T04:18:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/books/review/arsenio-hall-memoir.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Arsenio Hall Shares How the Shy Kid Became the Life of the Party",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/books/review/arsenio-hall-memoir.html",
-    "content": "",
-    "date": "2026-04-01T04:03:52",
     "category": "NYT"
   }
 ]
