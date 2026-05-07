@@ -330,6 +330,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/world/asia/japan-takaichi-australia-vietnam.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Japan\u2019s Takaichi Pitches Strength and Stability in Visits to Australia and Vietnam",
+    "author": "Javier C. Hern\u00e1ndez",
+    "link": "https://www.nytimes.com/2026/05/06/world/asia/japan-takaichi-australia-vietnam.html",
+    "content": "Prime Minister Sanae Takaichi of Japan arriving in Canberra, Australia, on Sunday.",
+    "date": "2026-05-06T13:10:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/06/science/tsunami-landslide-alaska-climate-arctic.html",
     "feed_name": "NYT (Emailed)",
     "title": "A Landslide in Alaska Set Off a Tsunami. There May Be More to Come.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/30/arts/television/sarah-shahi-paradise.html",
     "content": "",
     "date": "2026-03-31T04:33:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/arts/music/symphony-space-renovation-bloomsday.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Symphony Space to Undergo a $45 Million Makeover",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/arts/music/symphony-space-renovation-bloomsday.html",
-    "content": "",
-    "date": "2026-03-31T04:18:54",
     "category": "NYT"
   }
 ]
