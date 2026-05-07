@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "3c2e0730-d517-4b9b-9f47-2d13204fcd98",
+    "feed_name": "Economist",
+    "title": "The myth of the petrodollar",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/07/the-myth-of-the-petrodollar",
+    "content": "The dominance of America\u2019s currency runs deeper than oil",
+    "date": "2026-05-07T10:29:11",
+    "category": "Magazines"
+  },
+  {
     "id": "fa0bd91c-3ce4-4b58-be14-3add8903bf4c",
     "feed_name": "Economist",
     "title": "DeepSeek and Alibaba rescue China\u2019s office landlords",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/29/world/asia/china-artist-gao-trial.html",
     "content": "",
     "date": "2026-03-31T07:48:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/us/politics/las-vegas-economy.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Downturn in Las Vegas Could Signal Tough Times for the Nation",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/us/politics/las-vegas-economy.html",
-    "content": "",
-    "date": "2026-03-31T07:33:54",
     "category": "NYT"
   }
 ]
