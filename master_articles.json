@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "fa0bd91c-3ce4-4b58-be14-3add8903bf4c",
+    "feed_name": "Economist",
+    "title": "DeepSeek and Alibaba rescue China\u2019s office landlords",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords",
+    "content": "Technology firms are reviving (a few) Chinese commercial-property markets",
+    "date": "2026-05-07T10:19:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "c5bd51d7-2e7f-427a-9dc1-eb7470f6fc61",
+    "feed_name": "Economist",
+    "title": "Unicredit\u2019s lowball bid for Commerzbank causes consternation",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/07/unicredits-lowball-bid-for-commerzbank-causes-consternation",
+    "content": "A bad-tempered battle for a big German bank",
+    "date": "2026-05-07T10:19:27",
+    "category": "Magazines"
+  },
+  {
+    "id": "80902133-de3c-4441-a2c5-b068de5ac250",
+    "feed_name": "Economist",
+    "title": "Donald Trump\u2019s foreign policy gets a muscular finance arm",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/07/donald-trumps-foreign-policy-gets-a-muscular-finance-arm",
+    "content": "The Development Finance Corporation\u2019s loan book may soon rival the World Bank\u2019s",
+    "date": "2026-05-07T10:12:19",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229163",
     "feed_name": "Texas Tribune",
     "title": "Gas power leapfrogs wind for first time in 10 years in Texas\u2019 grid connection queue",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/28/us/politics/las-vegas-economy.html",
     "content": "",
     "date": "2026-03-31T07:33:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/us/politics/us-census-county-immigration.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Immigration Slowdown Hits Every Metro Area in the U.S., Census Shows",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/us/politics/us-census-county-immigration.html",
-    "content": "",
-    "date": "2026-03-31T07:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/us/senate-republicans-dhs-shutdown.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Senate Convenes, but G.O.P. Makes No Move to Pass House Bill to Reopen D.H.S.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/us/senate-republicans-dhs-shutdown.html",
-    "content": "",
-    "date": "2026-03-31T07:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/science/robert-trivers-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Robert Trivers, Eccentric Scientist Who Probed Human Nature, Dies at 83",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/science/robert-trivers-dead.html",
-    "content": "",
-    "date": "2026-03-31T06:48:54",
     "category": "NYT"
   }
 ]
