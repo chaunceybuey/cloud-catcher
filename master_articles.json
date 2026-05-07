@@ -150,6 +150,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.",
+    "author": "Anna Louie Sussman",
+    "link": "https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html",
+    "content": "We can\u2019t be certain \u2014\u00a0and that\u2019s the point.",
+    "date": "2026-05-07T12:33:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/05/28/scarred-in-hong-kong-city-like-water-dorothy-tse/",
     "feed_name": "NYRB",
     "title": "Scarred in Hong Kong",
@@ -307,7 +317,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/travel/henry-knox-trip-revolutionary-war.html",
@@ -19988,15 +19998,5 @@
     "content": "Trump\u2019s war has deepened the already-widening cracks in the MAGA coalition.",
     "date": "2026-03-31T16:49:14",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/03/trump-iran-markets-messaging/686626/",
-    "feed_name": "Chait",
-    "title": "Trump Can\u2019t Scare Iran and Reassure Oil Markets at the Same Time",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/03/trump-iran-markets-messaging/686626/",
-    "content": "But he\u2019s trying.",
-    "date": "2026-03-31T16:49:11",
-    "category": "Uncategorized"
   }
 ]
