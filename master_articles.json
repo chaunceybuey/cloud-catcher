@@ -130,6 +130,26 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Giuliani Seeks to Have Health Care Covered by 9/11 Program",
+    "author": "Joseph Goldstein and Jonah E. Bromwich",
+    "link": "https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html",
+    "content": "Rudolph W. Giuliani, the former New York City mayor, attended the ceremony commemorating the 24th anniversary of the Sept. 11, 2001, terrorist attacks.",
+    "date": "2026-05-06T23:32:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/us/politics/jack-smith-justice-dept-trump.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Jack Smith Calls the Justice Dept. \u2018Corrupted\u2019 by Trump and His Allies",
+    "author": "Glenn Thrush",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/jack-smith-justice-dept-trump.html",
+    "content": "Jack Smith, the special counsel who twice indicted President Trump, testifying at a hearing in January in Washington.",
+    "date": "2026-05-06T22:52:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229235",
     "feed_name": "Texas Tribune",
     "title": "Texas Tech cautions broadcasting research restrictions to prospective students",
@@ -197,6 +217,16 @@
     "link": "https://www.nytimes.com/2026/05/06/opinion/neil-gorsuch-america-250-supreme-court.html",
     "content": "David French and the Supreme Court justice discuss how the ideals of 1776 shaped \u2014 and strain \u2014 the country today.",
     "date": "2026-05-06T19:49:46",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/us/obama-colbert-interview-trump.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Obama Talks Trump, Mamdani, Aliens and More in Colbert Interview",
+    "author": "Tim Balk",
+    "link": "https://www.nytimes.com/2026/05/06/us/obama-colbert-interview-trump.html",
+    "content": "The former president was critical of President Trump, without ever naming him. Mr. Obama also urged Democrats to be plain-spoken, and talked about aliens.",
+    "date": "2026-05-06T19:35:29",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/27/opinion/trump-georgia-save-act.html",
     "content": "",
     "date": "2026-03-31T05:33:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "This Is What Happens When the Gas Runs Out",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html",
-    "content": "",
-    "date": "2026-03-31T05:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/22/your-money/taxes/federal-tax-protest-resistance.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "They Want to Stop Paying Taxes as a Protest. There Are Consequences.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/22/your-money/taxes/federal-tax-protest-resistance.html",
-    "content": "",
-    "date": "2026-03-31T05:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/business/private-credit-risks-trump-administration.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Private-Credit Wobbles Could Prove Perilous for Trump",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/business/private-credit-risks-trump-administration.html",
-    "content": "",
-    "date": "2026-03-31T04:48:54",
     "category": "NYT"
   }
 ]
