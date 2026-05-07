@@ -160,6 +160,16 @@
     "category": "Magazines"
   },
   {
+    "id": "c4756ea1ae43efddc8c64e7fbf696a94",
+    "feed_name": "The Atlantic",
+    "title": "The Secret to Understanding AI",
+    "author": "Josh Tyrangiel",
+    "link": "https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/",
+    "content": "\u201cImagine the tech without the tech companies.\u201d",
+    "date": "2026-05-07T14:52:31",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/05/28/irans-new-winter-christopher-de-bellaigue/",
     "feed_name": "NYRB",
     "title": "Iran\u2019s New Winter",
@@ -287,6 +297,16 @@
     "link": "https://www.nybooks.com/articles/2026/05/28/against-nostalgia-kathleen-jamie-peter-davidson/",
     "content": "In their poems and essays, Kathleen Jamie and Peter Davidson transcend Scottish sentimentalism and find new points of entry into their shared past.\n\nDelivered by PolitePaul service",
     "date": "2026-05-07T11:18:48",
+    "category": "Magazines"
+  },
+  {
+    "id": "c48221665251c0e075e5eebb74b3f1a6",
+    "feed_name": "The Atlantic",
+    "title": "The Savannah Bananas Bring Back a Negro Leagues Team",
+    "author": "Josh Levin",
+    "link": "https://www.theatlantic.com/magazine/2026/06/savannah-bananas-indianapolis-clowns-baseball-history/686942/",
+    "content": "The organization is best known for its dance numbers and trick plays. Now it\u2019s reviving one of the most entertaining\u2014and controversial\u2014franchises in baseball history.",
+    "date": "2026-05-07T11:00:00",
     "category": "Magazines"
   },
   {
@@ -428,6 +448,16 @@
     "content": "A federal judge released the note, which Jeffrey Epstein\u2019s former cellmate said he found in a graphic novel. The New York Times has not authenticated that Mr. Epstein wrote it.",
     "date": "2026-05-07T01:25:36",
     "category": "NYT"
+  },
+  {
+    "id": "7b8a8d420d1eed161bdbc59c55f9e936",
+    "feed_name": "The Atlantic",
+    "title": "Trump Shows He\u2019s Still Got Juice",
+    "author": "David Frum",
+    "link": "https://www.theatlantic.com/ideas/2026/05/indiana-republicans-primary-midterm/687084/",
+    "content": "Yesterday\u2019s election in Indiana sent a message to all Republicans of conscience.",
+    "date": "2026-05-07T00:35:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html",
@@ -650,6 +680,16 @@
     "category": "NYT"
   },
   {
+    "id": "341a49b8e71c335aa6d778d8f5afe112",
+    "feed_name": "The Atlantic",
+    "title": "A Dangerous New Attack on Press Freedom",
+    "author": "David A. Graham",
+    "link": "https://www.theatlantic.com/ideas/2026/05/kash-patel-fitzpatrick-fbi-investigation/687077/",
+    "content": "According to MS NOW, the FBI has launched an investigation into anAtlanticreporter.",
+    "date": "2026-05-06T15:01:37",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/06/opinion/alien-files-trump-release.html",
     "feed_name": "NYT (Shared)",
     "title": "Neil deGrasse Tyson: Give Us the Aliens",
@@ -668,6 +708,16 @@
     "content": "Guess who benefits from a \u201ccolorblind Constitution.\u201d",
     "date": "2026-05-06T14:16:23",
     "category": "NYT"
+  },
+  {
+    "id": "26705164e4c34bd8fb4f0775e715aec9",
+    "feed_name": "The Atlantic",
+    "title": "The Perverse Tyranny of a Perfect Transcript",
+    "author": "Joshua Greene",
+    "link": "https://www.theatlantic.com/ideas/2026/05/harvard-grade-inflation-gpa/687074/",
+    "content": "Why Harvard should cap A grades.",
+    "date": "2026-05-06T13:33:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/05/06/podcasts/the-daily/artemis-astronauts-questions-and-answers.html",
@@ -1330,6 +1380,26 @@
     "category": "NYT"
   },
   {
+    "id": "0fd6401f55ccf5bbd267f2c48a578c8e",
+    "feed_name": "The Atlantic",
+    "title": "Progressive Activists Are Sometimes on the Wrong Side of History",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/05/israel-palestine-activists-left/687065/",
+    "content": "Thinking otherwise can enable the left\u2019s worst instincts, as a speech at the University of Michigan\u2019s commencement showed.",
+    "date": "2026-05-05T14:51:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "2ea45cb21e1fb7ddf6e18e581c2e1825",
+    "feed_name": "The Atlantic",
+    "title": "Judicial Supremacy Has Arrived",
+    "author": "Duncan Hosie",
+    "link": "https://www.theatlantic.com/ideas/2026/05/voting-rights-act-callais/687064/",
+    "content": "Last week\u2019s Supreme Court decision didn\u2019t just undermine the Voting Rights Act. It foreclosed the possibility of any new Voting Rights Act in the future, too.",
+    "date": "2026-05-05T14:49:21",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/arts/television/david-letterman-stephen-colbert-the-late-show-cbs.html",
     "feed_name": "NYT (Shared)",
     "title": "David Letterman Reflects on \u2018The Late Show\u2019 and Has Harsh Words for New CBS Owners",
@@ -1920,6 +1990,16 @@
     "category": "NYT"
   },
   {
+    "id": "774d12dbee95348c4d0621071cf142b7",
+    "feed_name": "The Atlantic",
+    "title": "Why Stocks Keep Going Up",
+    "author": "James Surowiecki",
+    "link": "https://www.theatlantic.com/economy/2026/05/stock-market-iran-war-bullish/687041/",
+    "content": "The boom is not as untethered from reality as it may look.",
+    "date": "2026-05-04T16:38:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/03/us/politics/butler-pennsylvania-assassination-attempt-comperatore.html",
     "feed_name": "NYT (Shared)",
     "title": "The Widow of the Firefighter Slain by a Would-Be Assassin Speaks Out",
@@ -1938,6 +2018,16 @@
     "content": "Scientists keep learning more about the connection between the brain and the gastrointestinal system.",
     "date": "2026-05-04T15:00:06",
     "category": "NYT"
+  },
+  {
+    "id": "5e2cc64459e75ff9591149815475e17f",
+    "feed_name": "The Atlantic",
+    "title": "The End of Cigarettes Is Coming",
+    "author": "Charles Fain Lehman",
+    "link": "https://www.theatlantic.com/ideas/2026/05/smoking-ban-uk-cigarettes/687050/",
+    "content": "The U.K. is phasing out smoking. How long will Americans tolerate tobacco\u2014and other vices?",
+    "date": "2026-05-04T15:00:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/05/03/obituaries/jack-thornell-dead.html",
@@ -2286,6 +2376,16 @@
     "author": "Rhett Allain",
     "link": "https://www.wired.com/story/do-lightsaber-blades-have-mass/",
     "content": "On Star Wars Day, we put to rest a question that has bedeviled sci-fi nerds for years.",
+    "date": "2026-05-04T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "f12e0c47e87eeeb888c308801b134fd9",
+    "feed_name": "The Atlantic",
+    "title": "The One Tax the Rich Can\u2019t Escape",
+    "author": "Richard Florida",
+    "link": "https://www.theatlantic.com/ideas/2026/05/mamdani-property-tax-new-york/687031/",
+    "content": "New York\u2019s proposed pied-\u00e0-terre tax is unlikely to chase anyone away.",
     "date": "2026-05-04T11:00:00",
     "category": "Magazines"
   },
@@ -19898,105 +19998,5 @@
     "content": "",
     "date": "2026-04-01T03:18:52",
     "category": "NYT"
-  },
-  {
-    "id": "e01c82d681e82a3a59a66517c150e687",
-    "feed_name": "Outside",
-    "title": "\u201cThey Put Something in Me.\u201d Neil Whitehead Was Haunted by Guyana\u2019s Dark Shamans Until His Death.",
-    "author": "Frank Bures",
-    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/neil-whitehead-death-kanaima-guyana/",
-    "content": "",
-    "date": "2026-04-01T03:16:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/briefing/your-questions-about-the-news.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Your Questions About the News",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/briefing/your-questions-about-the-news.html",
-    "content": "",
-    "date": "2026-04-01T03:03:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/pageoneplus/quote-of-the-day-trump-facing-hard-decision-as-war-rages.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: Trump Facing Hard Decision As War Rages",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/pageoneplus/quote-of-the-day-trump-facing-hard-decision-as-war-rages.html",
-    "content": "",
-    "date": "2026-04-01T02:48:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/pageoneplus/editors-note-april-1-2026.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Editors\u2019 Note: April 1, 2026",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/pageoneplus/editors-note-april-1-2026.html",
-    "content": "",
-    "date": "2026-04-01T02:33:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225423",
-    "feed_name": "Texas Tribune",
-    "title": "Trump issues order to impose new rules on mailing of ballots",
-    "author": "By\u00a0Nathaniel Rakich,\u00a0Votebeat",
-    "link": "https://feeds.texastribune.org/link/16799/17311191/trump-2026-election-executive-order-absentee-mail-ballots-postal-service",
-    "content": "President Donald Trump signs an executive order on election integrity in the Oval Office of the White House in Washington on March 31, 2026.",
-    "date": "2026-04-01T00:08:52",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
-    "feed_name": "Douthat",
-    "title": "Can Christianity Be Restored to the Center of American Life?",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
-    "content": "Why none of America\u2019s faiths have taken mainline Protestantism\u2019s place.",
-    "date": "2026-03-31T23:50:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225420",
-    "feed_name": "Texas Tribune",
-    "title": "Texas will launch its own clinical trials into ibogaine psychedelic after failing to find a drug company to help",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17311186/texas-ibogaine-research-clinical-trials-psychedelics",
-    "content": "Speaker of the House Dustin Burrows, R-Lubbock and Lt. Gov. Dan Patrick speak at a press conference in Kerrville on July 31, 2025.",
-    "date": "2026-03-31T23:34:12",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225397",
-    "feed_name": "Texas Tribune",
-    "title": "Texas judge rejects push to let churches make political endorsements",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17311179/texas-johnson-amendment-churches-political-endorsements-nonprofits-federal-judge",
-    "content": "President Donald Trump addresses the 2024 National Religious Broadcasters Association International Christian Media Convention, as part of the NRB Presidential Forum in Nashville, Tennessee, on Feb. 22, 2024.",
-    "date": "2026-03-31T23:03:15",
-    "category": "Texas"
-  },
-  {
-    "id": "e13be69f80042c95335c828603183cf6",
-    "feed_name": "LRB",
-    "title": "April Late Shopping Evening",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/april-late-shopping-evening-tickets-1985731233574",
-    "content": "",
-    "date": "2026-03-31T22:37:10",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225332",
-    "feed_name": "Texas Tribune",
-    "title": "Photos: The last day Texas stores can sell smokeable hemp cannabis",
-    "author": "By Leila Saidane",
-    "link": "https://feeds.texastribune.org/link/16799/17310810/hemp-last-day-sale-ban-thc-austin-smoke-shop-texas",
-    "content": "At 12:07 A.M on March 31, Cheyenne Soto removes THC smokeable hemp cannabis from shelves at a Happy Clouds smoke shop in Austin minutes after the ban of THC sales.",
-    "date": "2026-03-31T22:35:13",
-    "category": "Texas"
   }
 ]
