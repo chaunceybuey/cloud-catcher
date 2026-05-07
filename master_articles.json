@@ -140,6 +140,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/business/us-debt-trump-policies-budget.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Debt Hits a Concerning Milestone, and Experts Say Trump\u2019s Policies Could Worsen It",
+    "author": "Tony Romm",
+    "link": "https://www.nytimes.com/2026/05/07/business/us-debt-trump-policies-budget.html",
+    "content": "The reaction to the U.S. debt has appeared muted on Capitol Hill, despite years of hand-wringing among Republicans, in particular, about the need for fiscal restraint.",
+    "date": "2026-05-07T17:31:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229041",
     "feed_name": "Texas Tribune",
     "title": "Ken Paxton demanded Odessa freeze its tax hike. Then, he went silent.",
@@ -158,6 +168,16 @@
     "content": "Blood glucose levels can be a reliable indicator of diabetes risk. But in some populations, it's not enough to catch the disease early.",
     "date": "2026-05-07T15:32:45",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/07/us/politics/california-governors-debate-takeaways.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "5 Takeaways From the California Governor Debate",
+    "author": "Soumya Karlamangla and Laurel Rosenhall",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/california-governors-debate-takeaways.html",
+    "content": "Seven candidates competing to be the next governor of California met for a debate at the Skirball Cultural Center in Los Angeles on Wednesday.",
+    "date": "2026-05-07T15:06:48",
+    "category": "NYT"
   },
   {
     "id": "c4756ea1ae43efddc8c64e7fbf696a94",
@@ -19977,26 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/passover-chicken-marbella-seder",
     "content": "",
     "date": "2026-04-01T03:48:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/homemade-matzo-passover",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Melissa Clark Thinks This Is the Best Homemade Matzo",
-    "author": "",
-    "link": "https://cooking.nytimes.com/article/homemade-matzo-passover",
-    "content": "",
-    "date": "2026-04-01T03:33:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/dining/at-restaurants-fusion-is-no-longer-a-dirty-word.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "At Restaurants, Fusion Is No Longer a Dirty Word",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/dining/at-restaurants-fusion-is-no-longer-a-dirty-word.html",
-    "content": "",
-    "date": "2026-04-01T03:18:52",
     "category": "NYT"
   }
 ]
