@@ -160,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/science/a-mutation-gave-humans-the-gift-of-speech-these-mice-have-it-too.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A Mutation Gave Humans the Gift of Speech. These Mice Have It, Too.",
+    "author": "Annie Roth",
+    "link": "https://www.nytimes.com/2026/05/06/science/a-mutation-gave-humans-the-gift-of-speech-these-mice-have-it-too.html",
+    "content": "Scientists wanted to know why the chatter of Alston\u2019s singing mice sounds so much like human conversation. What they found might change how we study both species.",
+    "date": "2026-05-06T19:24:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229194",
     "feed_name": "Texas Tribune",
     "title": "Connally schools superintendent appointed during Texas\u2019 takeover of district",
@@ -168,6 +178,16 @@
     "content": "Texas Education Agency Commissioner Mike Morath named Dr. Josie Gutierrez as the new superintendent of Connally ISD.",
     "date": "2026-05-06T18:20:07",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/climate/weather-service-staff-storms.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Weather Service Races to Rehire as Storm Season Arrives",
+    "author": "Scott Dance, Judson Jones and Amy Graff",
+    "link": "https://www.nytimes.com/2026/05/06/climate/weather-service-staff-storms.html",
+    "content": "A member of the National Weather Service surveying a storm-damaged area in Mineral Wells, Texas, last week.",
+    "date": "2026-05-06T18:07:28",
+    "category": "NYT"
   },
   {
     "id": "https://www.kmfa.org/pages/19257-texas-performing-arts-2026-heller-awards-for-young-artists",
@@ -410,6 +430,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/arts/television/late-night-trump-war-children.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Late Night Cringes at Trump\u2019s Chatter in Front of Children",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/06/arts/television/late-night-trump-war-children.html",
+    "content": "\u201cHow are you talking about nuclear war in front of children?\u201d Desi Lydic asked after the president discussed the Iran conflict in a room full of students on Tuesday.",
+    "date": "2026-05-06T06:20:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/06/opinion/french-publishing-grasset-olivier-nora.html",
     "feed_name": "NYT (Emailed)",
     "title": "French Literature Is in an Uproar",
@@ -567,6 +597,16 @@
     "link": "https://www.nytimes.com/2026/05/05/us/politics/smith-college-transgender-admissions.html",
     "content": "Smith College, one of the nation\u2019s largest single-sex schools with about 2,500 students, has been admitting transgender students since 2015, along with several other top women\u2019s colleges.",
     "date": "2026-05-05T20:50:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/05/nyregion/james-wilson-nypd-mamdani-democrats.html",
+    "feed_name": "NYT (Shared)",
+    "title": "N.Y.P.D. Captain Is Transferred After Calling Mamdani \u2018Total Nonsense\u2019",
+    "author": "Maria Cramer and Andy Newman",
+    "link": "https://www.nytimes.com/2026/05/05/nyregion/james-wilson-nypd-mamdani-democrats.html",
+    "content": "The captain, James G. Wilson, was also filmed calling Democrats a \u201cwaste of human race.\u201d",
+    "date": "2026-05-05T20:24:15",
     "category": "NYT"
   },
   {
@@ -19958,45 +19998,5 @@
     "content": "Almost every ideology can be wielded to make women feel that they\u2019re failing.",
     "date": "2026-03-30T23:55:36",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/business/air-canada-ceo-crash-retire.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Michael Rousseau, Air Canada\u2019s CEO, to Step Down Amid Backlash Over Comments After Crash",
-    "author": "Kailyn Rhone",
-    "link": "https://www.nytimes.com/2026/03/30/business/air-canada-ceo-crash-retire.html",
-    "content": "Michael Rousseau, an Air Canada veteran, took over as chief executive of the airline in 2021.",
-    "date": "2026-03-30T21:42:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225252",
-    "feed_name": "Texas Tribune",
-    "title": "Texas high school student kills himself after shooting teacher",
-    "author": "By The\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17309826/texas-bulverde-high-school-shooting",
-    "content": "Hill Country College Preparatory High School in Bulverde is part of the Comal Independent School District.",
-    "date": "2026-03-30T21:35:09",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/us/politics/supreme-court-trump-birthright-conservatives.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Trump\u2019s Birthright Citizenship Order at Supreme Court Splits Conservative Scholars",
-    "author": "Ann E. Marimow",
-    "link": "https://www.nytimes.com/2026/03/30/us/politics/supreme-court-trump-birthright-conservatives.html",
-    "content": "Before President Trump\u2019s order to limit birthright citizenship, there was widespread agreement that the 14th Amendment guaranteed citizenship for U.S.-born babies.",
-    "date": "2026-03-30T20:09:06",
-    "category": "NYT"
-  },
-  {
-    "id": "a598b3fa-cb9d-4c5c-976e-01262c4e5108",
-    "feed_name": "Economist",
-    "title": "After Iran, gold is looking less glittery",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/03/30/after-iran-gold-is-looking-less-glittery",
-    "content": "Is the yellow metal the new crypto?",
-    "date": "2026-03-30T15:54:52",
-    "category": "Magazines"
   }
 ]
