@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229371",
+    "feed_name": "Texas Tribune",
+    "title": "Texas agency that inspects jails doesn\u2019t go far to find its new director",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17336430/texas-commission-jail-standards-executive-director",
+    "content": "Ricky Armstrong, named executive director of the Texas Commission on Jail Standards, stands for a portrait in Austin on Jan. 08, 2026.",
+    "date": "2026-05-07T20:48:13",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229359",
+    "feed_name": "Texas Tribune",
+    "title": "What to know about the federal rule that Texans have used to mail in abortion pills",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17336431/texas-abortion-pills-ban-mifepristone-explainer",
+    "content": "Mifepristone pills on Aug. 18, 2023.",
+    "date": "2026-05-07T20:34:40",
+    "category": "Texas"
+  },
+  {
     "id": "cbf71a90d9e40ed8634fdf884dffdf9b",
     "feed_name": "LRB",
     "title": "Daniel Trilling & William Davies: If We Tolerate This",
@@ -188,6 +208,16 @@
     "content": "Texas Attorney General Ken Paxton demanded Odessa city officials present documents to justify a tax hike proposal. After scrambling to comply, Odessa officials haven&#039;t heard from Paxton since.",
     "date": "2026-05-07T16:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/books/fantasy-sci-fi-books-adults.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Epic Fantasy and Sci-Fi Books for Adults",
+    "author": "Fonda Lee",
+    "link": "https://www.nytimes.com/2026/05/06/books/fantasy-sci-fi-books-adults.html",
+    "content": "The best-selling author Fonda Lee recommends fantasy and science fiction novels with older, wiser, absolutely epic heroes.",
+    "date": "2026-05-07T15:36:20",
+    "category": "NYT"
   },
   {
     "id": "69ebac20331847d4469f04e7",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html",
     "content": "",
     "date": "2026-04-01T05:18:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/business/food-distributors-surcharges-fuel.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Fresh Food Distributors Add Surcharges as Fuel Costs Rise",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/business/food-distributors-surcharges-fuel.html",
-    "content": "",
-    "date": "2026-04-01T05:03:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
-    "content": "",
-    "date": "2026-04-01T04:48:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/theater/dog-day-afternoon-review-bernthal-moss-bachrach.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018Dog Day Afternoon\u2019 Review: A 1970s Classic, Onstage and Underbaked",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/theater/dog-day-afternoon-review-bernthal-moss-bachrach.html",
-    "content": "",
-    "date": "2026-04-01T04:33:52",
     "category": "NYT"
   }
 ]
