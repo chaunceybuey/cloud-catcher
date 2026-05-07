@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "5c4b3cdfad6fc2f70bcbd9f417c7825f",
+    "feed_name": "Compact",
+    "title": "Medicine Without Merit",
+    "author": "",
+    "link": "https://www.compactmag.com/article/medicine-without-merit/",
+    "content": "",
+    "date": "2026-05-07T11:49:37",
+    "category": "Magazines"
+  },
+  {
     "id": "3c2e0730-d517-4b9b-9f47-2d13204fcd98",
     "feed_name": "Economist",
     "title": "The myth of the petrodollar",
@@ -368,6 +378,16 @@
     "content": "TEXAS PERFORMING ARTS PRESENTS\n\n2026 HELLER AWARDS FOR YOUNG ARTISTS\n\nMAY 6 | BASS CONCERT HALL\n\n\n\nCentral Texas\u2019s Tony Awards for High School Musical Theatre\n\nThe Heller Awards for Young Artists (HAYAs) celebrate outstanding achievement in high school musical theatre. Presented by Texas Performing Arts in association with Impact Arts, the program recognizes students, teachers, and schools for their creativity, collaboration, and excellence.\n\nThe Heller Awards for Young Artists (HAYAs) is one of Central Texas\u2019s most exciting and impactful cultural programs\u2014a year-round initiative that celebrates excellence in high school musical theatre while expanding access to arts education and building lasting connections among students, educators, and communities.\n\nProduced by Texas Performing Arts in association with Impact Arts, the HAYAs support more than 40 area high schools, including approximately 30% Title I campuses, reaching over 80,000 students each year.\n\nThrough free, high-quality training, mentorship, and performance opportunities, the program empowers educators and students to grow their theatre programs, build confidence, and engage their communities. The Heller Awards strengthen school theatre across the region\u2014helping students develop creativity, collaboration, and leadership skills that extend far beyond the stage.\n\nThe program culminates in a spectacular red-carpet ceremony at Bass Concert Hall, where thousands gather to celebrate student achievement through live performances, awards, and scholarship presentations. It\u2019s a night that showcases the next generation of artists, educators, and innovators shaping the future of the performing arts in Central Texas.\n\nSupport for the Heller Awards for Young Artists is provided by H-E-B and H-E-B Tournament of Champions, Heller Awards for Young Artists Endowment, Marc and Carolyn Seriff Endowment for High School Musical Theater, the Cipione Family Foundation, and the Heller Awards for Young Artists Executive Producers: Andrew and Mary Ann Heller, Bettye Nowlin, Heather Petkovsek, and an anonymous donor.\n\nEvent Details\nDate: Wednesday, May 6, 2026\nTime: \nVenue: Bass Concert Hall\n\nTicket Information\nCost: Tickets on sale April 15\nPhone: \n\nPresenter Details: Texas Performing Arts is the University of Texas at Austin\u2019s performing arts center.\n\nOne of the largest and most active live arts organizations in the U.S., TPA operates venues on the UT campus including Austin\u2019s largest theatre, Bass Concert Hall.\n\nOur presenting programs include Broadway in Austin, the Texas Welcomes series of national touring artists, and a curated Performing Arts Season of international theatre, music, dance, and more. TPA is also a leading producer of new performance, offering creative opportunities to both local artists and national productions.\n\nTPA is part of UT\u2019s College of Fine Arts and fulfills the university\u2019s public service, research, and educational missions. More than twenty thousand students throughout Central Texas and across the university experience the arts through TPA\u2019s extensive educational programs.",
     "date": "2026-05-06T18:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How the Fight Over Israel Is Playing Out Inside MAGA",
+    "author": "Anton Troianovski",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html",
+    "content": "Laura Loomer, the far-right media figure, has emerged as one of the president\u2019s most aggressive, pro-Israel enforcers.",
+    "date": "2026-05-06T17:47:12",
+    "category": "NYT"
   },
   {
     "id": "69fb47a7239299e39f2d43a3",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html",
     "content": "",
     "date": "2026-03-31T08:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/world/asia/myanmar-min-aung-hlaing-president.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Myanmar\u2019s Military Leader Moves One Step Closer to Becoming President",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/world/asia/myanmar-min-aung-hlaing-president.html",
-    "content": "",
-    "date": "2026-03-31T08:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/29/world/asia/china-artist-gao-trial.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Secret Trial of a Chinese Artist Accused of Mocking Mao Zedong",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/29/world/asia/china-artist-gao-trial.html",
-    "content": "",
-    "date": "2026-03-31T07:48:54",
     "category": "NYT"
   }
 ]
