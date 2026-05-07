@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/05/28/irans-new-winter-christopher-de-bellaigue/",
+    "feed_name": "NYRB",
+    "title": "Iran\u2019s New Winter",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/05/28/irans-new-winter-christopher-de-bellaigue/",
+    "content": "The US-Israeli war against Iran, far from encouraging a popular uprising, has strengthened the regime\u2019s grip and set back the cause of Iranian freedom indefinitely.\n\nDelivered by PolitePaul service",
+    "date": "2026-05-07T14:19:09",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/05/28/the-sage-of-washington-walter-lippmann/",
     "feed_name": "NYRB",
     "title": "The Sage of Washington",
@@ -287,7 +297,17 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/07/travel/henry-knox-trip-revolutionary-war.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Retracing Henry Knox\u2019s Revolutionary War Trek Across the Wilderness",
+    "author": "Richard Rubin and Tony Cenicola",
+    "link": "https://www.nytimes.com/2026/05/07/travel/henry-knox-trip-revolutionary-war.html",
+    "content": "Henry Knox and his Noble Train of Artillery crossed 300 miles of snowy wilderness and icy lakes between northern New York and Cambridge, Mass., to supply George Washington with weapons.",
+    "date": "2026-05-07T09:00:41",
+    "category": "NYT"
   },
   {
     "id": "https://www.propublica.org/article/kids-tear-gas-trump-immigration-crackdown",
@@ -497,6 +517,16 @@
     "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
     "content": "Ted Turner was a visionary media mogul who dominated the cable television industry, and extended his reach into movies, major league baseball and even yachting.",
     "date": "2026-05-06T16:27:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/t-magazine/midcentury-design-home-restoration.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Massachusetts Home that Channels Frank Lloyd Wright",
+    "author": "Jason Chen and Chris Mottalini",
+    "link": "https://www.nytimes.com/2026/05/06/t-magazine/midcentury-design-home-restoration.html",
+    "content": "A Brooklyn contractor claimed a midcentury Massachusetts house \u2014 and most of its furniture \u2014 and had the good sense to leave it more or less alone.",
+    "date": "2026-05-06T16:18:39",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "Celebrities are obsessed. People swear it gives them thicker hair and perfect skin. But what if the biggest effect of red light is stranger than that?",
     "date": "2026-03-31T15:30:55",
     "category": "NYT"
-  },
-  {
-    "id": "0ad6d9c4fb3017c61245d76414f786ae",
-    "feed_name": "LRB",
-    "title": "The Epstein Marbles",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/march/the-epstein-marbles",
-    "content": "On 20 April 2018, bidders gathered at Christie\u2019s showrooms in Rockefeller Plaza for the auction house\u2019s annual \u2018exceptional sale\u2019. The.\u00a0.\u00a0.",
-    "date": "2026-03-31T15:04:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/dining/a-slurp-of-noodle-soup-the-pucker-of-piccata.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "A Slurp of Noodle Soup, the Pucker of Piccata",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/03/31/dining/a-slurp-of-noodle-soup-the-pucker-of-piccata.html",
-    "content": "Five weeknight recipes to delight and refresh.",
-    "date": "2026-03-31T15:00:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/online/2026/03/23/bottling-the-world-economy-hormuz-gulf/",
-    "feed_name": "NYYRB",
-    "title": "Bottling the World Economy",
-    "author": "",
-    "link": "https://www.nybooks.com/online/2026/03/23/bottling-the-world-economy-hormuz-gulf/",
-    "content": "Now that the Gulf states have become diversified industrial giants, blocking the Strait of Hormuz will have catastrophic effects on trade networks and food systems across the globe.",
-    "date": "2026-03-31T13:48:57",
-    "category": "Magazines"
   }
 ]
