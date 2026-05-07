@@ -170,6 +170,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/us/florida-conservative-history-course-ap.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Florida Creates a More Conservative Course to Rival A.P. History",
+    "author": "Dana Goldstein",
+    "link": "https://www.nytimes.com/2026/05/07/us/florida-conservative-history-course-ap.html",
+    "content": "Gov. Ron DeSantis has pushed forward a more conservative agenda for Florida\u2019s schools, including through criticism of Advanced Placement courses.",
+    "date": "2026-05-07T11:54:44",
+    "category": "NYT"
+  },
+  {
     "id": "5c4b3cdfad6fc2f70bcbd9f417c7825f",
     "feed_name": "Compact",
     "title": "Medicine Without Merit",
@@ -297,7 +307,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/travel/henry-knox-trip-revolutionary-war.html",
@@ -19440,6 +19450,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/03/31/dining/a-slurp-of-noodle-soup-the-pucker-of-piccata.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "A Slurp of Noodle Soup, the Pucker of Piccata",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/03/31/dining/a-slurp-of-noodle-soup-the-pucker-of-piccata.html",
+    "content": "Five weeknight recipes to delight and refresh.",
+    "date": "2026-04-01T17:43:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19191-balcones-community-orchestra-ian-davidson-oboe",
     "feed_name": "KMFA",
     "title": "Balcones Community Orchestra: Ian Davidson, Oboe",
@@ -19978,25 +19998,5 @@
     "content": "But he\u2019s trying.",
     "date": "2026-03-31T16:49:11",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/opinion/trump-jan-6-pardons-crimes-recidivism.html",
-    "feed_name": "NYT (Popular)",
-    "title": "The People Trump Pardoned Are on a Crime Spree",
-    "author": "The Editorial Board",
-    "link": "https://www.nytimes.com/2026/03/31/opinion/trump-jan-6-pardons-crimes-recidivism.html",
-    "content": "The president and the Republican Party deserve to pay a political price for the pardons.",
-    "date": "2026-03-31T15:35:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/magazine/red-light-therapy-blanket-wellness-benefits.html",
-    "feed_name": "NYT (Popular)",
-    "title": "What One Month of Intense Red-Light Therapy Did to My Mind",
-    "author": "Amy X. Wang",
-    "link": "https://www.nytimes.com/2026/03/31/magazine/red-light-therapy-blanket-wellness-benefits.html",
-    "content": "Celebrities are obsessed. People swear it gives them thicker hair and perfect skin. But what if the biggest effect of red light is stranger than that?",
-    "date": "2026-03-31T15:30:55",
-    "category": "NYT"
   }
 ]
