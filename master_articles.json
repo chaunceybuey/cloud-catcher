@@ -190,6 +190,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/nyregion/hochul-taxes-budget-ny.html",
+    "feed_name": "NYT (Shared)",
+    "title": "New York\u2019s $268 Billion Budget Deal Includes New Second-Home Tax",
+    "author": "Grace Ashford and Benjamin Oreskes",
+    "link": "https://www.nytimes.com/2026/05/07/nyregion/hochul-taxes-budget-ny.html",
+    "content": "The state budget agreement announced by Gov. Kathy Hochul on Thursday came more than five weeks after the April 1 deadline.",
+    "date": "2026-05-07T17:41:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/business/us-debt-trump-policies-budget.html",
     "feed_name": "NYT (Shared)",
     "title": "U.S. Debt Hits a Concerning Milestone, and Experts Say Trump\u2019s Policies Could Worsen It",
@@ -197,6 +207,16 @@
     "link": "https://www.nytimes.com/2026/05/07/business/us-debt-trump-policies-budget.html",
     "content": "The reaction to the U.S. debt has appeared muted on Capitol Hill, despite years of hand-wringing among Republicans, in particular, about the need for fiscal restraint.",
     "date": "2026-05-07T17:31:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Hantavirus Response Shows How Trump Cuts Have Compromised U.S. Preparedness",
+    "author": "Apoorva Mandavilli",
+    "link": "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html",
+    "content": "An ambulance crew awaiting an evacuated passenger with a suspected hantavirus infection in Amsterdam on Wednesday. The U.S. government has released very little information about the outbreak on a cruise ship, which has affected several Americans.",
+    "date": "2026-05-07T16:17:08",
     "category": "NYT"
   },
   {
@@ -277,6 +297,16 @@
     "link": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
     "content": "Oil storage tanks at a depot in Hong Kong. Shipments of Chinese oil products to select countries have offered relief during the war and underscored how Beijing engenders good will in times of crisis, experts say.",
     "date": "2026-05-07T13:15:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/07/science/dementia-memory-brain-injury.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "What My Father\u2019s Experience Taught Me About Memory and the Brain",
+    "author": "Ellen Barry and Graham Dickie",
+    "link": "https://www.nytimes.com/2026/05/07/science/dementia-memory-brain-injury.html",
+    "content": "In the final stages of his dementia, a long-lost memory from childhood returned, perfectly formed. What was going on in his brain?",
+    "date": "2026-05-07T12:55:31",
     "category": "NYT"
   },
   {
@@ -487,7 +517,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/climate/america-the-undammed.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/30/opinion/birthright-citizenship-supreme-court.html",
     "content": "",
     "date": "2026-04-01T06:03:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/opinion/trump-iran-war-nuclear-regime-change-peace.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Trump Has a Way Out of the War",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/opinion/trump-iran-war-nuclear-regime-change-peace.html",
-    "content": "",
-    "date": "2026-04-01T05:48:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/opinion/cesar-chavez-sexual-abuse-allegations-biographer.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "I Wrote a Cesar Chavez Biography. This Is How His Secrets Stayed Buried.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/opinion/cesar-chavez-sexual-abuse-allegations-biographer.html",
-    "content": "",
-    "date": "2026-04-01T05:33:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Average Gasoline Price Hits $4 in U.S., a \u2018Headache\u2019 for Drivers and Trump",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html",
-    "content": "",
-    "date": "2026-04-01T05:18:52",
     "category": "NYT"
   }
 ]
