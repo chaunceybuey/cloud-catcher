@@ -81,6 +81,10 @@
     {
       "name": "Economist",
       "url": "https://www.economist.com/finance-and-economics/rss.xml"
+    },
+    {
+      "name": "Atlantic",
+      "url": "https://github.com/chaunceybuey/feed-maker/blob/main/feeds/the_atlantic.xml"
     }
   ],
   "Tech": [
