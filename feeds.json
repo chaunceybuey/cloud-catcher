@@ -55,10 +55,6 @@
       "url": "https://www.wired.com/feed/category/science/latest/rss"
     },
     {
-      "name": "Atlantic Ideas",
-      "url": "https://feed-forge-server.onrender.com/feed/TheAtlantic.xml"
-    },
-    {
       "name": "New Yorker",
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/new_yorker.xml"
     },
