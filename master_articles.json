@@ -510,6 +510,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/opinion/cuba-president-diaz-canel.html",
+    "feed_name": "NYT (Shared)",
+    "title": "My Father Wrote Letters to the Cuban Government. Here Is Mine.",
+    "author": "Ada Ferrer",
+    "link": "https://www.nytimes.com/2026/05/06/opinion/cuba-president-diaz-canel.html",
+    "content": "Please do not take the fact that I am writing this letter to you as a defense of U.S. policy toward Cuba, much less a call for American intervention.",
+    "date": "2026-05-06T05:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Says U.S. Pausing Efforts to Guide Ships Through Strait Blocked by Iran",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/30/arts/music/symphony-space-renovation-bloomsday.html",
     "content": "",
     "date": "2026-03-31T04:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/29/movies/project-hail-mary-rocky-alien-voice.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How a Mistake Led to the Breakout Star of \u2018Project Hail Mary\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/29/movies/project-hail-mary-rocky-alien-voice.html",
-    "content": "",
-    "date": "2026-03-31T04:03:54",
     "category": "NYT"
   }
 ]
