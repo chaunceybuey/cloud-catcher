@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229163",
+    "feed_name": "Texas Tribune",
+    "title": "Gas power leapfrogs wind for first time in 10 years in Texas\u2019 grid connection queue",
+    "author": "By Brandon Mulder, graphic by Chris Essig",
+    "link": "https://feeds.texastribune.org/link/16799/17335996/texas-power-grid-ercot-interconnection-queue-gas-wind",
+    "content": "The list of power projects that want to connect to Texas&#039; grid includes a surge of natural gas power plants.",
+    "date": "2026-05-07T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229237",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Republicans have a data center problem",
+    "author": "Taylor Goldenstein",
+    "link": "https://feeds.texastribune.org/link/16799/17335997/texas-republicans-data-centers-rural",
+    "content": "Rena Schroeder poses for a portrait on her ranch where she runs an equine learning nonprofit and cares for rescue livestock in Lott on May 4, 2026.",
+    "date": "2026-05-07T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://stratechery.com/?p=18960",
+    "feed_name": "Stratechery",
+    "title": "An Interview with Joanna Stern About Living With AI",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
+    "content": "<p>An interview with Joanna Stern about her new book about living with AI, and starting her own media company.</p>",
+    "date": "2026-05-07T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "feed_name": "Interesting Times",
     "title": "A Legendary Investor on How to Prevent America\u2019s Coming \u2018Heart Attack\u2019",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/27/science/robert-trivers-dead.html",
     "content": "",
     "date": "2026-03-31T06:48:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/books/coleman-barks-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Coleman Barks, Who Popularized the Islamic Poet Rumi in the West, Dies at 88",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/books/coleman-barks-dead.html",
-    "content": "",
-    "date": "2026-03-31T06:33:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/science/henry-lee-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Henry C. Lee Dies at 87; Forensic Scientist Testified in Defense of O.J. Simpson",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/science/henry-lee-dead.html",
-    "content": "",
-    "date": "2026-03-31T06:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/29/opinion/israel-us-war-iran-literature.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Is It 1914 in America?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/29/opinion/israel-us-war-iran-literature.html",
-    "content": "",
-    "date": "2026-03-31T06:03:54",
     "category": "NYT"
   }
 ]
