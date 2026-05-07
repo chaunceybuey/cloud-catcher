@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html",
+    "feed_name": "NYT (Popular)",
+    "title": "Jeffrey Epstein\u2019s Purported Suicide Note Is Released by Federal Judge",
+    "author": "Benjamin Weiser, Jan Ransom and Steve Eder",
+    "link": "https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html",
+    "content": "A federal judge released the note, which Jeffrey Epstein\u2019s former cellmate said he found in a graphic novel. The New York Times has not authenticated that Mr. Epstein wrote it.",
+    "date": "2026-05-07T01:25:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229235",
     "feed_name": "Texas Tribune",
     "title": "Texas Tech cautions broadcasting research restrictions to prospective students",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/29/movies/project-hail-mary-rocky-alien-voice.html",
     "content": "",
     "date": "2026-03-31T04:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/interactive/2026/03/30/science/nasa-artemis-ii-moon-mission-what-to-know.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Around the Moon and Back in 10 Days",
-    "author": "",
-    "link": "https://www.nytimes.com/interactive/2026/03/30/science/nasa-artemis-ii-moon-mission-what-to-know.html",
-    "content": "",
-    "date": "2026-03-31T03:48:54",
     "category": "NYT"
   }
 ]
