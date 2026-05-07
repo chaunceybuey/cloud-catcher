@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/arts/television/the-other-bennet-sister-bbc-britbox.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "\u2018The Other Bennet Sister\u2019 Celebrates Jane Austen\u2019s Awkward, Lovable Middle Sister",
+    "author": "Eleanor Stanford",
+    "link": "https://www.nytimes.com/2026/05/06/arts/television/the-other-bennet-sister-bbc-britbox.html",
+    "content": "Ella Bruccoleri as Mary Bennet in \u201cThe Other Bennet Sister,\u201d the BBC\u2019s most-watched new drama of the past year in Britain.",
+    "date": "2026-05-06T18:08:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/06/climate/weather-service-staff-storms.html",
     "feed_name": "NYT (Shared)",
     "title": "Weather Service Races to Rehire as Storm Season Arrives",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/interactive/2026/03/30/science/nasa-artemis-ii-moon-mission-what-to-know.html",
     "content": "",
     "date": "2026-03-31T03:48:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Americans Have Never Been All That Excited About Going to the Moon",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/science/nasa-astronauts-moon-americans-mood.html",
-    "content": "",
-    "date": "2026-03-31T03:33:54",
     "category": "NYT"
   }
 ]
