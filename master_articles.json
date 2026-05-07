@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/opinion/el-nino-climate.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The New El Ni\u00f1o Might Make 2027 the Hottest Year on Record",
+    "author": "David Wallace-Wells",
+    "link": "https://www.nytimes.com/2026/05/06/opinion/el-nino-climate.html",
+    "content": "The El Ni\u00f1o brewing this year might make 2027 the hottest year on record.",
+    "date": "2026-05-06T20:49:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html",
     "feed_name": "NYT (Shared)",
     "title": "Tennessee Republicans Unveil New Congressional Map Carving Up Majority-Black House District",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/30/business/private-credit-risks-trump-administration.html",
     "content": "",
     "date": "2026-03-31T04:48:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/arts/television/sarah-shahi-paradise.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Sarah Shahi Plays a Therapist on \u2018Paradise\u2019 and Nearly Everywhere Else",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/arts/television/sarah-shahi-paradise.html",
-    "content": "",
-    "date": "2026-03-31T04:33:54",
     "category": "NYT"
   }
 ]
