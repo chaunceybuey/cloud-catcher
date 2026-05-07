@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229041",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton demanded Odessa freeze its tax hike. Then, he went silent.",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17336283/odessa-tax-increase-suspended-ken-paxton",
+    "content": "Texas Attorney General Ken Paxton demanded Odessa city officials present documents to justify a tax hike proposal. After scrambling to comply, Odessa officials haven&#039;t heard from Paxton since.",
+    "date": "2026-05-07T16:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "69ebac20331847d4469f04e7",
     "feed_name": "Wired (Science)",
     "title": "Diabetes Detection Needs Better Tools. They\u2019re on the Way",
@@ -147,6 +157,16 @@
     "link": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html",
     "content": "Shell reported huge profits for the oil company in the first three months of the year.",
     "date": "2026-05-07T13:50:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "War and Energy Shortages Boost China\u2019s Influence in Asia",
+    "author": "Alexandra Stevenson and Murphy Zhao",
+    "link": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
+    "content": "Oil storage tanks at a depot in Hong Kong. Shipments of Chinese oil products to select countries have offered relief during the war and underscored how Beijing engenders good will in times of crisis, experts say.",
+    "date": "2026-05-07T13:15:56",
     "category": "NYT"
   },
   {
@@ -337,7 +357,17 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/07/climate/america-the-undammed.html",
+    "feed_name": "NYT (Shared)",
+    "title": "America the Undammed",
+    "author": "Cara Buckley",
+    "link": "https://www.nytimes.com/2026/05/07/climate/america-the-undammed.html",
+    "content": "More miles of the country\u2019s rivers were reconnected last year thanks to dam removals than at any other time in history.",
+    "date": "2026-05-07T09:01:24",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/travel/henry-knox-trip-revolutionary-war.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/31/opinion/religion-revival-america.html",
     "content": "Why none of America\u2019s faiths have taken mainline Protestantism\u2019s place.",
     "date": "2026-03-31T21:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/18564-butler-school-of-music-university-of-texas-symphony-orchestra-choirs",
-    "feed_name": "KMFA",
-    "title": "Butler School of Music: University of Texas Symphony Orchestra &amp; Choirs",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/18564-butler-school-of-music-university-of-texas-symphony-orchestra-choirs",
-    "content": "BUTLER SCHOOL OF MUSIC PRESENTS\n\nUNIVERSITY OF TEXAS SYMPHONY ORCHESTRA &amp; CHOIRS\n\nMARCH 31 | 8:00 P.M. | DELL HALL\n\n\n\nOne of the most beloved symphonies in the canon, Mahler's \"Resurrection\" symphony boasts a large orchestra, mezzo and soprano soloists, and similarly to Beethoven's 9th Symphony, a large choir in the final movement. For this performance, the Butler School's Concert Chorale and University Chorus ensembles will join forces; they will be joined by Butler School alumni singers and community choral singers from around Austin.\n\nGustav Mahler\u00a0\nSymphony No. 2 in C Minor,\u00a0Resurrection\u00a0\n\nLeah Crocetto, soprano\u00a0\nSophio Dzidziguri, mezzo soprano\n\nBUY TICKETS!\n\nEvent Details\nDate: Tuesday, March 31, 2026\nTime: 8:00 P.M.\nVenue: Long Center\n\nTicket Information\nCost: $18.00 - $48.05\nPhone: \n\nPresenter Details: The Sarah and Ernest Butler School of Music offers a wide array of programs that prepare artists, thinkers, and teachers to make profound contributions to the music world and beyond through engaging study and exceptional performances.",
-    "date": "2026-03-31T20:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/03/trump-iran-markets-messaging/686626/",
-    "feed_name": "Chait",
-    "title": "Trump Is Flailing on Iran",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/03/trump-iran-markets-messaging/686626/",
-    "content": "He can\u2019t scare Iran and reassure the markets at the same time. But he\u2019s trying.\nDelivered by PolitePaul service",
-    "date": "2026-03-31T19:48:49",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Supreme Court Rejects Colorado Law Banning \u2018Conversion Therapy\u2019 for L.G.B.T.Q. Minors",
-    "author": "Ann E. Marimow",
-    "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html",
-    "content": "Kaley Chiles, a licensed professional counselor, at her office in Colorado Springs in September. Mrs. Chiles filed suit in 2022 over Colorado\u2019s ban on conversion therapy for minors.",
-    "date": "2026-03-31T17:43:42",
     "category": "NYT"
   }
 ]
