@@ -250,6 +250,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/06/well/hantavirus-symptoms-strains.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Should You Worry About Hantavirus?",
+    "author": "Nina Agrawal and Dani Blum",
+    "link": "https://www.nytimes.com/2026/05/06/well/hantavirus-symptoms-strains.html",
+    "content": "Here\u2019s what to know about the virus, how it spreads and the risk to the general public.",
+    "date": "2026-05-07T19:07:37",
+    "category": "NYT"
+  },
+  {
     "id": "7c6868eb9acbf378125c469a81e7a494",
     "feed_name": "LRB",
     "title": "In Taos",
@@ -620,6 +630,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Ted Turner\u2019s Legacy as a Landowner and Conservationist",
+    "author": "Ronda Kaysen, Kevin Draper and Jack Healy",
+    "link": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
+    "content": "Ted Turner, a media giant, was also a visionary landowner, reshaping American conservation.",
+    "date": "2026-05-07T09:03:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/climate/america-the-undammed.html",
     "feed_name": "NYT (Shared)",
     "title": "America the Undammed",
@@ -777,6 +797,16 @@
     "link": "https://www.nytimes.com/2026/05/06/science/a-mutation-gave-humans-the-gift-of-speech-these-mice-have-it-too.html",
     "content": "Scientists wanted to know why the chatter of Alston\u2019s singing mice sounds so much like human conversation. What they found might change how we study both species.",
     "date": "2026-05-06T19:24:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
+    "feed_name": "NYT (Shared)",
+    "title": "New Study Shows Risks of Amazon Deforestation. And Rewards of Protection.",
+    "author": "Sachi Kitajima Mulkey",
+    "link": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
+    "content": "A timber truck rolled through a deforested section of the Amazon in Par\u00e1 State, Brazil, in November.",
+    "date": "2026-05-06T18:25:04",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "The explorer now shows long-term trends, school funding data, and newly released Texas Academic Performance Reports, among other updates.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/7720311.gif\" width=\"1\" />",
     "date": "2026-04-01T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "69cc2ca80de85ad4ac5186fb",
-    "feed_name": "Wired (Science)",
-    "title": "These Are the 4 Artemis II Astronauts Leading the Historic Return to the Moon",
-    "author": "Fernanda Gonz\u00e1lez",
-    "link": "https://www.wired.com/story/these-are-the-4-artemis-ii-astronauts-leading-the-historic-return-to-the-moon/",
-    "content": "The Artemis II mission crew includes the first woman, the first Black person, and the first non-American astronaut to travel to the lunar environment.",
-    "date": "2026-04-01T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=18663",
-    "feed_name": "Stratechery",
-    "title": "Axios Supply Chain Attack, Claude Code Code Leaked, AI and Security",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/",
-    "content": "<p>AI is going to be bad for security in the short-term, but much better than humans in the long-term.</p>",
-    "date": "2026-04-01T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc",
-    "feed_name": "ProPublica",
-    "title": "The Trump EPA Official in Charge of Methane Regulations Helped Write Oil Industry Argument Against Those Rules",
-    "author": "Alex Cuadros",
-    "link": "https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc",
-    "content": "<p>The Trump administration official leading an effort to loosen rules on methane pollution was an unnamed author of key industry arguments against those same rules just four years ago when he was an oil and gas lobbyist.</p>\n\n\n\n<p>Aaron Szabo, an assistant administrator at the Environmental Protection Agency, is listed in PDF metadata as the author of a January 2022 comment letter objecting to proposed controls on methane emissions in the oil and gas industry. The letter was submitted to the EPA by the American Exploration and Production Council, which represents some of the industry\u2019s largest emitters of the planet-warming gas, including ConocoPhillips, Diversified Energy and Hilcorp. Szabo\u2019s name does not appear in the document itself, but it can be found in information embedded by the software used to create the PDF file.</p>\n\n\n\n<p>Szabo was registered as a lobbyist for one of the AXPC\u2019s lesser-known members, Ovintiv, when he drafted the arguments against the restrictions, which were finalized later in the Biden administration. He has also lobbied for other clients in the oil and chemicals sectors. While he did not hide that work during his confirmation last year as head of the EPA\u2019s Office of Air and Radiation, he described it in terms that avoided any mention of efforts to influence climate policy: \u201cI learned how regulated entities comply with the federal government\u2019s thousands of regulations and policies. I also saw firsthand that the people working in these companies want to ensure the environment is properly protected.\u201d</p>\n\n\n\n<p>In his current role overseeing federal climate rules at the EPA, Szabo has been soliciting input and even specific regulatory language from oil industry groups that stand to gain from watered-down methane rules, according to internal emails, calendar entries and records of closed-door conversations reviewed by ProPublica.</p>\n\n\n\n<p>Sen. Sheldon Whitehouse, D-R.I., the ranking Democrat on the Senate\u2019s Environment and Public Works Committee, pointed to Szabo\u2019s previous lobbying as evidence that the EPA had effectively been captured by the oil and gas industry. \u201cNow he can do Big Oil\u2019s dirty work from inside the EPA,\u201d Whitehouse told ProPublica in an email.</p>\n\n\n\n<p>As part of its plan to \u201cunleash American energy,\u201d the Trump administration has waged an unprecedented campaign against regulations on fossil fuels, the main cause of global warming. One of its biggest moves was to repeal the \u201cendangerment finding\u201d that classified greenhouse gases as pollutants \u2014 the basis for the EPA\u2019s authority to limit emissions at all. Rather than throw out the methane rules entirely, however, Szabo\u2019s office is working to revise them, emails and documents show. It has already delayed many of the compliance deadlines until next year.</p>\n\n\n\n<p>Methane, the main component of natural gas, is a climate superpollutant, responsible for one-third of the rise in global temperatures since preindustrial times, according to the United Nations Environment Programme. When it escapes into the atmosphere without being burned for energy, it can trap 80 times more heat than carbon dioxide, research shows. The oil and gas business is the largest industrial source of U.S. methane emissions, in part because of leaks from poorly maintained equipment. If it is uneconomical to collect the gas for sale, companies sometimes intentionally release it in a process known as venting.</p>\n\n\n\n<p>To cut down on methane discharges, President Joe Biden\u2019s EPA imposed much stricter controls on oil and gas operations, including requiring increased monitoring for leaks and equipment upgrades. According to agency estimates, the new rules would have lowered the industry\u2019s methane emissions by nearly 80%. And, given that the gas breaks down relatively quickly, this would have been one of the fastest ways to reduce global warming.</p>\n\n\n\n<p>Industry groups pushed back. In the January 2022 letter that Szabo helped to draft, the AXPC used the word \u201cburdensome\u201d 10 times to describe the new requirements and pushed for more \u201cflexibility\u201d to allow for less expensive leak-detection methods and less frequent monitoring, among other requests.</p>\n\n\n\n<p>The group also cast doubt on the rules\u2019 expected climate and health benefits, highlighting what it called \u201cthe importance of communicating the significant uncertainties within the estimates.\u201d The AXPC\u2019s chief executive, Anne Bradbury, added in a later statement that the rules risked \u201cundercutting US production in the near and long-term \u2014 which will lead to increased energy costs and reduced energy security.\u201d</p>\n\n\n<aside class=\"wp-block-propublica-aside bb--size-small-right\">\n\t\n\n<p>Do you have any information we should know about Trump\u2019s EPA, oil industry lobbying or methane pollution? Alex Cuadros can be reached by email at <a href=\"mailto:alex.cuadros@propublica.org\">alex.cuadros@propublica.org</a> and on Signal at alexcuadros.63.</p>\n\n</aside>\n\n\n\n<p>The AXPC failed to persuade the Biden administration to change its approach. But it renewed its push after President Donald Trump returned to office and ordered federal agencies to \u201csuspend, revise, or rescind\u201d any \u201cundue burden\u201d on domestic energy production.</p>\n\n\n\n<p>Szabo, after two years as a fellow at the Trump-aligned America First Policy Institute, joined the administration on Day 1 as an adviser to EPA chief Lee Zeldin. He immediately signaled that he planned to weaken the regulations he had argued against as a lobbyist. His staff met with AXPC representatives as early as Feb. 6, 2025, less than three weeks after Trump\u2019s inauguration, to discuss its petition to \u201creconsider\u201d the methane rules, according to emails and calendar entries obtained through public records requests and shared with ProPublica by Fieldnotes, a watchdog group that investigates the oil and gas industry. His staff went on to meet with them at least twice more, and Szabo himself was listed as a required attendee for a meeting with Bradbury last July.</p>\n\n\n\n<p>The AXPC didn\u2019t respond to emails from ProPublica seeking comment.</p>\n\n\n\n<p>According to records of closed-door conversations reviewed by ProPublica, other oil industry representatives have described their meetings with Szabo and his staff as highly favorable to their interests. \u201cMr. Szabo assured us that the EPA is focused on these [methane] rules and doing everything that can be done to limit the damage they will cause,\u201d the leadership of a major trade group wrote to its members last year in an internal newsletter.</p>\n\n\n\n<p>Lee Fuller, of the Independent Petroleum Association of America, also spoke glowingly about his meeting with Szabo\u2019s office on a conference call with industry representatives last year.</p>\n\n\n\n<p>\u201cIt was one of the more fascinating meetings that we\u2019ve ever had, just because they were suddenly willing to talk to us,\u201d he said. \u201cAnd they\u2019re also suddenly willing to talk about things that we\u2019ve been trying to get them to do for years, and they\u2019ve never even let it kind of come onto the radar screen.\u201d</p>\n\n\n\n<p>The IPAA declined to answer specific questions from ProPublica but linked to a September 2025 letter in which the group publicly asked the EPA for exceptions to the methane rules.</p>\n\n\n\n<p>Szabo\u2019s office has even invited oil industry groups to offer specific wording for the revised rules. \u201cWe had a call several weeks back re. pneumatics on temporary equipment,\u201d Mike O\u2019Connor of the American Petroleum Institute wrote to an EPA official, referring to devices that are a major source of methane emissions. \u201cEPA had informally requested input on this topic and any suggested reg. text language. We are providing the attached draft document as informal input to EPA\u2019s inquiry.\u201d The draft called for a number of exemptions.</p>\n\n\n\n<p>The shift in priorities under Szabo can also be seen in communications from the EPA itself. In a June 2025 email reviewed by ProPublica, an agency official asked O\u2019Connor to meet and discuss alternative leak-detection methods. Echoing the language in the AXPC comment that Szabo helped to draft, the official spoke of \u201cthe additional flexibility we would like to pursue.\u201d</p>\n\n\n\n<p>\u201cI think their agenda was, from what I could tell, to do what industry wanted,\u201d one former EPA official, who spoke on the condition of anonymity to describe confidential discussions, said of Szabo and other Trump appointees at the agency.</p>\n\n\n\n<p>\u201cSince when is it a bad thing for public officials to ask the public what they think?\u201d the EPA said in an emailed statement, referring to Szabo\u2019s interactions with oil industry representatives. Szabo \u201cfulfilled all his ethical obligations to the letter. He met with EPA career ethics staff when he started at EPA to ensure he is aware of and complies with federal ethics requirements.\u201d</p>\n\n\n\n<p>Szabo\u2019s affinities are hardly a secret. He is thanked by name in the EPA chapter of Project 2025, the deregulatory blueprint for the second Trump administration. As part of the nomination process for his appointment at the EPA, he also submitted ethics disclosures listing oil, natural gas and chemicals companies he had lobbied for.</p>\n\n\n\n<p>Still, at his confirmation hearing on March 5 last year, he repeatedly declined to elaborate on his role in Project 2025, beyond saying he provided \u201cgeneral advice and thoughts\u201d on the Clean Air Act.</p>\n<p>The post <a href=\"https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc\">The Trump EPA Official in Charge of Methane Regulations Helped Write Oil Industry Argument Against Those Rules</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-04-01T09:00:00",
-    "category": "Magazines"
   }
 ]
