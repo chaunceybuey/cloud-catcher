@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Pentagon Releases Files on U.F.O.s",
+    "author": "Helene Cooper",
+    "link": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html",
+    "content": "The initial files are murky images that show what could be anything. The government said more would be released on a rolling basis.",
+    "date": "2026-05-08T15:28:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/magazine/ai-populism-backlash-altman.html",
     "feed_name": "NYT (Emailed)",
     "title": "A.I. Populism Is Here. And No One Is Ready.",
@@ -197,6 +207,16 @@
     "link": "https://www.nytimes.com/2026/05/08/opinion/permit-reform-economy-climate-us.html",
     "content": "The American economy and the climate would both benefit from permitting reform.",
     "date": "2026-05-08T10:17:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/08/upshot/public-schools-enrollment-crisis.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Schools Face a Crisis as the Number of Children Drops",
+    "author": "Sarah Mervosh, Francesca Paris and Claire Cain Miller",
+    "link": "https://www.nytimes.com/2026/05/08/upshot/public-schools-enrollment-crisis.html",
+    "content": "With fewer students, many public school districts are confronting unfilled classrooms, and hard choices about school closures.",
+    "date": "2026-05-08T10:08:48",
     "category": "NYT"
   },
   {
@@ -357,6 +377,16 @@
     "link": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html",
     "content": "President Trump meeting with China\u2019s leader, Xi Jinping, in Busan, South Korea, in October. Both sides agreed to extend a trade truce to limit tariffs.",
     "date": "2026-05-08T04:43:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/08/business/europe-solar-panels-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How Energy Prices Are Driving Demand for Solar Panels and Heat Pumps",
+    "author": "Eshe Nelson",
+    "link": "https://www.nytimes.com/2026/05/08/business/europe-solar-panels-iran-war.html",
+    "content": "A worker in Vienna installing a heat pump for the company Heizma, which said it had record sales in March and April.",
+    "date": "2026-05-08T04:00:09",
     "category": "NYT"
   },
   {
@@ -1057,7 +1087,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19968,35 +19998,5 @@
     "content": "The Davis Mountain Clinic in Fort Davis, housed in a shipping container, serves as a telehealth hub, with hands-on support, to connect residents with remote medical and mental health professionals.",
     "date": "2026-04-02T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225518",
-    "feed_name": "Texas Tribune",
-    "title": "Texas is cutting undocumented immigrants off from school, work and driving",
-    "author": "By Eleanor Klibanoff\u00a0and\u00a0Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17312220/texas-immigration-crackdown-regulatory-legal-changes-undocumented-immigrants-daca",
-    "content": "The Texas Capitol is shown on March 19, 2026.",
-    "date": "2026-04-02T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=18668",
-    "feed_name": "Stratechery",
-    "title": "An Interview with Asymco\u2019s Horace Dediu About Apple at 50",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/",
-    "content": "<p>An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI</p>",
-    "date": "2026-04-02T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.nybooks.com/online/2026/03/29/tell-me-your-worst-helene-schjerfbeck/",
-    "feed_name": "NYYRB",
-    "title": "\u2018Tell Me Your Worst\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/online/2026/03/29/tell-me-your-worst-helene-schjerfbeck/",
-    "content": "Helene Schjerfbeck captured the difficulty\u2014even the terror\u2014of confronting the self.",
-    "date": "2026-04-02T09:48:52",
-    "category": "Magazines"
   }
 ]
