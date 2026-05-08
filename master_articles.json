@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict \u2018Limited\u2019 Spread",
+    "author": "Claire Moses, Aimee Ortiz and Rylee Kirk",
+    "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
+    "content": "An ambulance during an evacuation of suspected hantavirus patients, in Praia, Cape Verde, on Wednesday.",
+    "date": "2026-05-08T00:55:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/us/politics/trump-afrikaner-refugees-emergency.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Administration Weighs Citing \u2018Emergency\u2019 to Admit More White South Africans as Refugees",
@@ -767,7 +777,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html",
     "content": "Among President Trump\u2019s top complaints about Attorney General Pam Bondi is her handling of the Epstein files, which has become a political liability for the president among his supporters.",
     "date": "2026-04-02T00:25:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Bondi Is Vulnerable as Republican Frustrations Over DOJ\u2019s Epstein Files Missteps Grow",
-    "author": "Glenn Thrush and Michael Gold",
-    "link": "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html",
-    "content": "Ms. Bondi\u2019s critics inside and outside the administration say she has made unforced errors that have turned the Justice Department\u2019s handling of the Epstein files into a political crisis.",
-    "date": "2026-04-01T23:18:40",
     "category": "NYT"
   }
 ]
