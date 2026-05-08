@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Tennessee Approves New Map Aimed at Flipping the Last Democratic Seat",
+    "author": "Emily Cochrane",
+    "link": "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html",
+    "content": "Representative Steve Cohen, left, Tennessee State Senator Raumesh Akbari, center, and Tennessee State Senator London Lamar, right, discuss the new House map unveiled by Tennessee Republicans on Wednesday.",
+    "date": "2026-05-08T00:41:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html",
     "feed_name": "NYT (Shared)",
     "title": "The Paramount Merger Can (and Should) Be Stopped",
@@ -657,7 +667,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/04/01/liberation-day-has-reshaped-trade-but-not-as-donald-trump-hoped",
     "content": "In many ways, global commerce has strengthened",
     "date": "2026-04-01T11:00:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "28cb8966-302a-4384-a698-31159ec85269",
-    "feed_name": "Economist",
-    "title": "Can a country get too rich?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/01/can-a-country-get-too-rich",
-    "content": "Norway shows the potential pitfalls of uncommon prosperity",
-    "date": "2026-04-01T10:59:08",
     "category": "Magazines"
   }
 ]
