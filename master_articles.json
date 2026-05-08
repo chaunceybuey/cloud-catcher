@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "8a915d54fec1c96916d03184826a6aa8",
+    "feed_name": "The Atlantic",
+    "title": "Software Ate My Homework",
+    "author": "Ian Bogost",
+    "link": "https://www.theatlantic.com/ideas/2026/05/canvas-hack-campus-fragility/687115/",
+    "content": "A ransomware attack took down a popular university-course-management software right in the middle of finals.",
+    "date": "2026-05-08T20:41:45",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20016-philharmonie-austin-mendelssohn-schuman",
     "feed_name": "KMFA",
     "title": "Philharmonie Austin: Mendelssohn &amp; Schuman",
@@ -1187,7 +1197,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/04/23/living-through-the-civil-war-george-templeton-strong/",
     "content": "George Templeton Strong\u2019s diaries provide the North\u2019s best record of daily passions and woes during its struggle against the South.",
     "date": "2026-04-02T12:03:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "dbf18b041a108f40a7c1dc773940f2ac",
-    "feed_name": "Compact",
-    "title": "The Death of Trucking",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-death-of-trucking/",
-    "content": "",
-    "date": "2026-04-02T11:49:07",
     "category": "Magazines"
   }
 ]
