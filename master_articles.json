@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/us/politics/trump-afrikaner-refugees-emergency.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Weighs Citing \u2018Emergency\u2019 to Admit More White South Africans as Refugees",
+    "author": "Zolan Kanno-Youngs, Hamed Aleaziz and Miriam Jordan",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/trump-afrikaner-refugees-emergency.html",
+    "content": "White South Africans arriving in Virginia last year after having been granted refugee status by the Trump administration.",
+    "date": "2026-05-08T00:48:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html",
     "feed_name": "NYT (Shared)",
     "title": "The Paramount Merger Can (and Should) Be Stopped",
@@ -19986,16 +19996,6 @@
     "author": "Olivia Borgula",
     "link": "https://feeds.texastribune.org/link/16799/17311507/texas-congress-ai-super-pacs-artificial-intelligence-regulation-2026-midterms",
     "content": "The U.S. Capitol in Washington, D.C., seen on April 14, 2022.",
-    "date": "2026-04-01T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225316",
-    "feed_name": "Texas Tribune",
-    "title": "T-Squared: We\u2019re relaunching our Texas Public Schools Explorer to better serve parents and teachers",
-    "author": "Chris Essig, Rob Reid and Alex Ford",
-    "link": "https://feeds.texastribune.org/link/16799/17311508/texas-tribune-public-schools-explorer-relaunch",
-    "content": "Today, we are unveiling our most ambitious update yet to The Texas Tribune\u2019s schools explorer, with more information and added context to help Texans interpret information about our schools.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17311508.gif\" width=\"1\" />",
     "date": "2026-04-01T10:00:00",
     "category": "Texas"
   }
