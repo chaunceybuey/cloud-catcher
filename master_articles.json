@@ -180,6 +180,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Canvas Online Learning Platform Disabled After Breach by Hackers",
+    "author": "Hannah Ziegler",
+    "link": "https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html",
+    "content": "Harvard is one of the schools that experienced Canvas outages on Thursday.",
+    "date": "2026-05-08T06:16:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229423",
     "feed_name": "Texas Tribune",
     "title": "Deported Texas DACA recipient returned to U.S. freed after detainment",
@@ -777,7 +787,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19988,15 +19998,5 @@
     "content": "The Starr County Jail in Rio Grande City on April 9, 2022.",
     "date": "2026-04-02T02:56:12",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Trump Has Discussed Firing Attorney General Pam Bondi",
-    "author": "Tyler Pager",
-    "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html",
-    "content": "Among President Trump\u2019s top complaints about Attorney General Pam Bondi is her handling of the Epstein files, which has become a political liability for the president among his supporters.",
-    "date": "2026-04-02T00:25:39",
-    "category": "NYT"
   }
 ]
