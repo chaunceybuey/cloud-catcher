@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229521",
+    "feed_name": "Texas Tribune",
+    "title": "Feds investigate Houston ISD for plans to separate students with disabilities",
+    "author": "Sneha Dey",
+    "link": "https://feeds.texastribune.org/link/16799/17337204/houston-schools-special-education-investigation",
+    "content": "People walk in front of the Department of Education building in Washington, D.C., on Feb. 4, 2025.",
+    "date": "2026-05-08T23:19:32",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229510",
     "feed_name": "Texas Tribune",
     "title": "Big Bend border wall plans cancelled after Texas backlash, Border Patrol commissioner says",
@@ -118,6 +128,16 @@
     "content": "Stars are seen above the Chisos Mountains Sunday, Dec. 17, 2023, in Big Bend National Park.",
     "date": "2026-05-08T22:20:30",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/08/opinion/hegseth-kelly-military-free-speech.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Hegseth Is Sending Us a Warning",
+    "author": "Frank Kendall",
+    "link": "https://www.nytimes.com/2026/05/08/opinion/hegseth-kelly-military-free-speech.html",
+    "content": "The secretary of defense has argued that military retirees are subject to freedom of speech restrictions. Let that sink in.",
+    "date": "2026-05-08T20:59:12",
+    "category": "NYT"
   },
   {
     "id": "8a915d54fec1c96916d03184826a6aa8",
@@ -1207,7 +1227,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/april/walking-the-way-of-st-augustine",
     "content": "The Way of St Augustine runs from Ramsgate to Canterbury, a walk of just under twenty miles across open country. You begin by the sea. After.\u00a0.\u00a0.",
     "date": "2026-04-02T17:51:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225649",
-    "feed_name": "Texas Tribune",
-    "title": "Judge allows Attorney General Ken Paxton to withdraw from representing comptroller\u2019s office in voucher case",
-    "author": "Colleen DeGuzman and Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17312503/texas-attorney-general-paxton-withdraw-voucher-lawsuit-comptroller-hancock",
-    "content": "Attorney General Ken Paxton, left, moved to withdraw his agency from defending acting Comptroller Kelly Hancock, right, in a lawsuit challenging Texas&#039; school voucher program. The matter went before a Houston federal judge Thursday.",
-    "date": "2026-04-02T16:29:21",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/23/misjudgment-at-nuremberg-james-vanderbilt/",
-    "feed_name": "NYYRB",
-    "title": "Misjudgment at Nuremberg",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/23/misjudgment-at-nuremberg-james-vanderbilt/",
-    "content": "In James Vanderbilt\u2019s film <em>Nuremberg</em>, about the trial of the major Nazi war criminals, the questioning of Russell Crowe\u2019s all too charming Hermann G\u00f6ring becomes a moment of invented high drama.",
-    "date": "2026-04-02T12:18:52",
     "category": "Magazines"
   }
 ]
