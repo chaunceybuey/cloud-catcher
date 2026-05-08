@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "2f9a0e78df5d33a75d963781f0937005",
+    "feed_name": "LRB",
+    "title": "Crackpot Realists",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/may/crackpot-realists",
+    "content": "In the month since the ceasefire on 8 April, Trump\u2019s rhetoric has swung erratically between talk of total victory and apocalyptic ultimatums.\u00a0.\u00a0.",
+    "date": "2026-05-08T19:22:32",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html",
     "feed_name": "NYT (Shared)",
     "title": "ABC Accuses Government of Violating First Amendment",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/04/23/a-vast-symphony-of-stone-viollet-le-duc/",
     "content": "In his renovation of Notre-Dame, Eug\u00e8ne Viollet-le-Duc projected his own Romantic vision of the Middle Ages onto the Gothic cathedral.",
     "date": "2026-04-02T11:48:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/23/the-painters-shadow-world-morgan-meis/",
-    "feed_name": "NYYRB",
-    "title": "The Painter\u2019s Shadow World",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/23/the-painters-shadow-world-morgan-meis/",
-    "content": "Morgan Meis\u2019s Three Paintings Trilogy is the most exciting new writing about the visual arts to appear in a generation.",
-    "date": "2026-04-02T11:33:52",
     "category": "Magazines"
   }
 ]
