@@ -310,6 +310,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/business/stocks-bonds-markets-iran-war.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Why Stocks and Bonds Are Responding Differently to the Iran War",
+    "author": "Jeff Sommer",
+    "link": "https://www.nytimes.com/2026/05/07/business/stocks-bonds-markets-iran-war.html",
+    "content": "People attending a pro-government demonstration in Tehran last month. The S&P 500 has hit new highs since the start of the war in Iran.",
+    "date": "2026-05-07T16:37:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/health/hantavirus-americans-cdc.html",
     "feed_name": "NYT (Shared)",
     "title": "Hantavirus Response Shows How Trump Cuts Have Compromised U.S. Preparedness",
@@ -19988,15 +19998,5 @@
     "content": "Norway shows the potential pitfalls of uncommon prosperity",
     "date": "2026-04-01T10:59:08",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225458",
-    "feed_name": "Texas Tribune",
-    "title": "AI-aligned super PACs are pouring millions into Texas congressional races",
-    "author": "Olivia Borgula",
-    "link": "https://feeds.texastribune.org/link/16799/17311507/texas-congress-ai-super-pacs-artificial-intelligence-regulation-2026-midterms",
-    "content": "The U.S. Capitol in Washington, D.C., seen on April 14, 2022.",
-    "date": "2026-04-01T10:00:00",
-    "category": "Texas"
   }
 ]
