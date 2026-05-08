@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html",
+    "feed_name": "NYT (Shared)",
+    "title": "ABC Accuses Government of Violating First Amendment",
+    "author": "Jim Rutenberg and John Koblin",
+    "link": "https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html",
+    "content": "The filing on Friday was registered on behalf of a single ABC station in Houston and involved a minor regulatory dispute over the talk show \u201cThe View,\u201d which regularly hosts politicians and cultural figures.",
+    "date": "2026-05-08T18:36:51",
+    "category": "NYT"
+  },
+  {
+    "id": "69fdebba64b2ad9bfec62f4f",
+    "feed_name": "Wired (Science)",
+    "title": "The Pentagon Releases New Trove of Declassified UFO Files",
+    "author": "Becky Ferreira",
+    "link": "https://www.wired.com/story/pentagon-drops-new-ufo-files/",
+    "content": "The Defense Department has released a new trove of declassified documents about government UFO sightings.",
+    "date": "2026-05-08T18:18:24",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/puerto-rico-trump-drugs-votes-prisons-elections-jenniffer-gonzalez-colon",
     "feed_name": "ProPublica",
     "title": "Puerto Rico Lawmakers Call for Investigation Into Alleged Drugs-for-Votes Scheme After ProPublica Report",
@@ -297,6 +317,16 @@
     "link": "https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html",
     "content": "Meta has commenced a long, slow slide into irrelevance.",
     "date": "2026-05-08T09:04:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/08/realestate/maurice-tempelsman-penthouse-sale.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Maurice Tempelsman\u2019s Penthouse Is on the Market for $5.5 Million",
+    "author": "Vivian Marino",
+    "link": "https://www.nytimes.com/2026/05/08/realestate/maurice-tempelsman-penthouse-sale.html",
+    "content": "Mr. Tempelsman, Jacqueline Kennedy Onassis\u2019s longtime companion, bought the Park Avenue apartment five years after her death. He died last summer.",
+    "date": "2026-05-08T09:02:34",
     "category": "NYT"
   },
   {
@@ -1127,7 +1157,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/",
     "content": "Epia Neuro\u2019s brain-computer interface will include a motorized glove to help stroke patients recover movement in their hand.",
     "date": "2026-04-02T11:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/23/a-devotee-of-deception-old-man-by-the-sea-starnone/",
-    "feed_name": "NYYRB",
-    "title": "A Devotee of Deception",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/23/a-devotee-of-deception-old-man-by-the-sea-starnone/",
-    "content": "In Domenico Starnone\u2019s <em>The Old Man by the Sea</em>, an elderly writer looks back across a life in which he has always sought distance and control rather than passion.",
-    "date": "2026-04-02T11:18:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/23/blood-in-the-game-bloodline-fever-beach/",
-    "feed_name": "NYYRB",
-    "title": "Blood in the Game",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/23/blood-in-the-game-bloodline-fever-beach/",
-    "content": "For two novels that address the escalating violence, rampant corruption, and class resentment poisoning our society, Lee Clay Johnson\u2019s <em>Bloodline</em> and Carl Hiaasen\u2019s <em>Fever Beach</em> are also surprisingly funny.",
-    "date": "2026-04-02T11:03:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/23/heavens-elegist-tennyson-boundless-deep-holmes/",
-    "feed_name": "NYYRB",
-    "title": "Heaven\u2019s Elegist",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/23/heavens-elegist-tennyson-boundless-deep-holmes/",
-    "content": "Alfred Tennyson\u2019s poetry addressed the central anxiety of his day: how to live in a world where scientific discoveries were slowly replacing religious faith.",
-    "date": "2026-04-02T10:48:52",
     "category": "Magazines"
   }
 ]
