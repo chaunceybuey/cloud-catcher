@@ -250,6 +250,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Reversed Hormuz Plan After Saudis Denied Airspace Access",
+    "author": "Michael Crowley, Eric Schmitt and Vivian Nereim",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html",
+    "content": "Crown Prince Mohammed bin Salman of Saudi Arabia at the White House with President Trump in November.",
+    "date": "2026-05-08T00:04:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html",
     "feed_name": "NYT (Shared)",
     "title": "The Paramount Merger Can (and Should) Be Stopped",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-04-02T03:33:47",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225585",
-    "feed_name": "Texas Tribune",
-    "title": "South Texas woman loses wrongful arrest lawsuit in controversial abortion case",
-    "author": "Lomi Kriel",
-    "link": "https://feeds.texastribune.org/link/16799/17312036/abortion-south-texas-starr-county-lizelle-gonzalez",
-    "content": "The Starr County Jail in Rio Grande City on April 9, 2022.",
-    "date": "2026-04-02T02:56:12",
-    "category": "Texas"
   }
 ]
