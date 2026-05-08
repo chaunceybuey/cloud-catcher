@@ -230,6 +230,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/opinion/graham-platner-nazi-tattoo-maine.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Graham Platner Is No Nazi",
+    "author": "Michelle Goldberg",
+    "link": "https://www.nytimes.com/2026/05/08/opinion/graham-platner-nazi-tattoo-maine.html",
+    "content": "Conservative attacks are premised on a deliberate misreading of both the candidate and his progressive fans.",
+    "date": "2026-05-08T09:05:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html",
     "feed_name": "NYT (Shared)",
     "title": "Mark Zuckerberg Is Running Meta Into the Ground",
@@ -308,6 +318,16 @@
     "content": "Diabetes has been recognised as a fatal condition for thousands of years: its symptoms are described in ancient Chinese, Sanskrit and Greek texts. But it wasn\u2019t until the late 19th century that its cause began to be understood, as scientists conducted experiments on dogs. It was a pair of researchers at the University of Toronto in the early 1920s who \u2013 through a gruelling series...",
     "date": "2026-05-08T07:52:55",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/05/arts/venice-biennale-photos-video.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Venice Biennale: In Photos and Video",
+    "author": "Matteo de Mayda",
+    "link": "https://www.nytimes.com/2026/05/05/arts/venice-biennale-photos-video.html",
+    "content": "Scenes from the highly anticipated art event.",
+    "date": "2026-05-08T07:05:21",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html",
@@ -1037,7 +1057,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -18060,6 +18080,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/02/opinion/christian-atheist-debate-religion.html",
+    "feed_name": "Interesting Times",
+    "title": "Did Jesus Rise From the Dead? A Debate.",
+    "author": "Ross Douthat and Emily Holzknecht",
+    "link": "https://www.nytimes.com/2026/04/02/opinion/christian-atheist-debate-religion.html",
+    "content": "A \u2018Christian Atheist\u2019 joins Ross Douthat.",
+    "date": "2026-04-06T13:12:44",
+    "category": "Uncategorized"
+  },
+  {
     "id": "7a4edb5ca41b92faf69f57c6db725316",
     "feed_name": "Compact",
     "title": "The Information State Isn\u2019t Going Away",
@@ -19968,35 +19998,5 @@
     "content": "Helene Schjerfbeck captured the difficulty\u2014even the terror\u2014of confronting the self.",
     "date": "2026-04-02T09:48:52",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html",
-    "feed_name": "NYT (Popular)",
-    "title": "5 Takeaways From Trump\u2019s Speech on Iran",
-    "author": "Luke Broadwater and Tyler Pager",
-    "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html",
-    "content": "President Trump giving a prime-time address from the White House on Wednesday.",
-    "date": "2026-04-02T09:45:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/online/2026/03/27/syphoning-morale-hegseth-stars-and-stripes/",
-    "feed_name": "NYYRB",
-    "title": "Syphoning Morale",
-    "author": "",
-    "link": "https://www.nybooks.com/online/2026/03/27/syphoning-morale-hegseth-stars-and-stripes/",
-    "content": "The attack on the independence of <em>Stars and Stripes\u00a0</em>is a window into Hegseth\u2019s unaccountable military.",
-    "date": "2026-04-02T09:33:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Try Living in Cape Town, Where 70% of Downtown Housing Is for Tourists",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/01/world/africa/cape-town-housing-crisis.html",
-    "content": "",
-    "date": "2026-04-02T09:18:47",
-    "category": "NYT"
   }
 ]
