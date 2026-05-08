@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229399",
+    "feed_name": "Texas Tribune",
+    "title": "By threatening public safety grants, Greg Abbott exerts control over Texas cities",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17336733/abbott-texas-cities-public-safety-grants-threatened",
+    "content": "Texas Gov. Greg Abbott participates in the ringing of the closing bell for Nasdaq at the grounds of the Alamo in San Antonio on March 5, 2026.",
+    "date": "2026-05-08T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229200",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 35th Congressional District primary runoffs: Who is running and what to know",
+    "author": "Olivia Borgula",
+    "link": "https://feeds.texastribune.org/link/16799/17336734/texas-35th-congressional-district-democratic-republican-runoffs",
+    "content": "Top, from left: Democratic candidates in the runoff for the newly-drawn 35th Congressional District Maureen Galindo and Johnny Garcia. Bottom, from left: GOP runoff candidates for TX-35 Carlos De La Cruz and state Rep. John Lujan, R-San Antonio.",
+    "date": "2026-05-08T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229213",
+    "feed_name": "Texas Tribune",
+    "title": "In parched Texas, a state fund to boost water projects falls almost $3 billion short of demand",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17336735/texas-swift-water-development-board-falls-short",
+    "content": "Downtown Corpus Christi on March 19, 2026. The city, approaching a water crisis, hopes to acquire water from a planned desalination plant that did not make the cut this year to receive state seed money.",
+    "date": "2026-05-08T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/clean-air-act-exemptions-trump-emails",
     "feed_name": "ProPublica",
     "title": "Trump Exempted Some of the Nation\u2019s Biggest Polluters From Air Quality Rules. All It Took Was an Email.",
@@ -737,7 +767,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19968,35 +19998,5 @@
     "content": "Ms. Bondi\u2019s critics inside and outside the administration say she has made unforced errors that have turned the Justice Department\u2019s handling of the Epstein files into a political crisis.",
     "date": "2026-04-01T23:18:40",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225556",
-    "feed_name": "Texas Tribune",
-    "title": "Elon Musk\u2019s Texas-based SpaceX files initial paperwork to sell shares to the public",
-    "author": "By Bernard Condon and Ken Sweet,\u00a0\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17311957/spacex-elon-musk-ipo-shares-public",
-    "content": "A SpaceX Super Heavy booster carrying the Starship spacecraft lifts off on its 11th test flight at the company&#039;s launch pad in Starbase, on Oct. 13, 2025.",
-    "date": "2026-04-01T22:10:55",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.propublica.org/article/ad-tear-gassed-kids",
-    "feed_name": "ProPublica",
-    "title": "[AD] Tear Gassed Kids",
-    "author": "",
-    "link": "https://www.propublica.org/article/ad-tear-gassed-kids",
-    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n\n\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n\n\n\n\n\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n\n\n<figure class=\"graphics-embed wp-block-propublica-graphics\">\n\t\n<div class=\"tear-gas-symptom-leadin\">\n    <h3>How Tear Gas Affects the Body</h3>\n    <h5>Possible Immediate Symptoms</h5>\n</div>\n<div class=\"tear-gas-symptom-wrapper\">\n    <div class=\"tear-gas-symptom-block\">\n        <img src=\"https://propublica.s3.amazonaws.com/projects/graphics/2026-tear-gassed-kids/tear-gas-imgs/Teargas-1.jpg\" />\n        <p>eye and facial pain, blurry vision, increase of mucus, snot, and tears</p>\n    </div>\n       <div class=\"tear-gas-symptom-block\">\n        <img src=\"https://propublica.s3.amazonaws.com/projects/graphics/2026-tear-gassed-kids/tear-gas-imgs/Teargas-2.jpg\" />\n        <p>burning sensation in lungs and throats, difficulty breathing, triggered asthma attacks</p>\n    </div>\n       <div class=\"tear-gas-symptom-block\">\n        <img src=\"https://propublica.s3.amazonaws.com/projects/graphics/2026-tear-gassed-kids/tear-gas-imgs/Teargas-3.jpg\" />\n        <p>nausea, vomiting and prolonged coughing</p>\n    </div>\n       <div class=\"tear-gas-symptom-block\">\n        <img src=\"https://propublica.s3.amazonaws.com/projects/graphics/2026-tear-gassed-kids/tear-gas-imgs/Teargas-4.jpg\" />\n        <p>skin rashes, pain, irritation and sometimes chemical burns  </p>\n    </div>\n</div>\n\n<div class=\"tear-gas-symptom-leadin set-2\">\n    <h5>Possible Long Term Symptoms</h5>\n</div>\n<div class=\"tear-gas-symptom-wrapper\">\n    <div class=\"tear-gas-symptom-block\">\n        <img src=\"https://propublica.s3.amazonaws.com/projects/graphics/2026-tear-gassed-kids/tear-gas-imgs/Teargas-5.jpg\" />\n        <p>corneal scarring </p>\n    </div>\n       <div class=\"tear-gas-symptom-block\">\n        <img src=\"https://propublica.s3.amazonaws.com/projects/graphics/2026-tear-gassed-kids/tear-gas-imgs/Teargas-6.jpg\" />\n        <p>bronchitis, inflammation of the lungs, and respiratory illnesses </p>\n    </div>\n       <div class=\"tear-gas-symptom-block\">\n        <img src=\"https://propublica.s3.amazonaws.com/projects/graphics/2026-tear-gassed-kids/tear-gas-imgs/Teargas-7.jpg\" />\n        <p>abnormal menstrual cycles and miscarriage </p>\n    </div>\n       <div class=\"tear-gas-symptom-block\">\n        <img src=\"https://propublica.s3.amazonaws.com/projects/graphics/2026-tear-gassed-kids/tear-gas-imgs/Teargas-8.jpg\" />\n        <p>in extreme cases, death </p>\n    </div>\n</div>\n</figure>\n<p>The post <a href=\"https://www.propublica.org/article/ad-tear-gassed-kids\">[AD] Tear Gassed Kids</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-04-01T19:19:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "69cd4d6af243cbfc29e1f979",
-    "feed_name": "Wired (Science)",
-    "title": "FDA Approves Eli Lilly\u2019s GLP-1 Pill",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
-    "content": "Eli Lilly\u2019s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk\u2019s pill version of Wegovy.",
-    "date": "2026-04-01T18:56:03",
-    "category": "Magazines"
   }
 ]
