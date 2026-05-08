@@ -350,6 +350,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/arts/television/late-night-rubio-pope.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Late Night Recaps Rubio\u2019s Peacemaking Visit to Pope Leo",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/08/arts/television/late-night-rubio-pope.html",
+    "content": "Jimmy Fallon joked that President Trump and Pope Leo are putting Marco Rubio, who is Catholic, \u201cin the middle and seeing which parent he goes to.\u201d",
+    "date": "2026-05-08T06:34:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html",
     "feed_name": "NYT (Shared)",
     "title": "Canvas Online Learning Platform Disabled After Breach by Hackers",
@@ -1087,7 +1097,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19988,15 +19998,5 @@
     "content": "Medieval ideas about sex and love, both rowdy and reverent, are recorded on objects meant for everyday use.",
     "date": "2026-04-02T10:03:52",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225545",
-    "feed_name": "Texas Tribune",
-    "title": "Hands-on telehealth helps reach rural Texas communities",
-    "author": "By Madeline de Figueiredo,\u00a0The Daily Yonder",
-    "link": "https://feeds.texastribune.org/link/16799/17312219/telehealth-rural-texas-fort-davis",
-    "content": "The Davis Mountain Clinic in Fort Davis, housed in a shipping container, serves as a telehealth hub, with hands-on support, to connect residents with remote medical and mental health professionals.",
-    "date": "2026-04-02T10:00:00",
-    "category": "Texas"
   }
 ]
