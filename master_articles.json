@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/your-money/tax-refund-penalties-pandemic.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "You May Be Owed a Tax Refund From the Covid Era",
+    "author": "Ann Carrns",
+    "link": "https://www.nytimes.com/2026/05/08/your-money/tax-refund-penalties-pandemic.html",
+    "content": "A court ruling found that the I.R.S. shouldn\u2019t have charged penalties and interest during the pandemic. But the government may appeal the decision.",
+    "date": "2026-05-08T14:01:13",
+    "category": "NYT"
+  },
+  {
     "id": "6b53b6de21f95227ab68b97df16ec1e3",
     "feed_name": "New Yorker",
     "title": "Rachel Syme Gets Suited Up",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/the-death-of-trucking/",
     "content": "",
     "date": "2026-04-02T11:49:07",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/23/a-vast-symphony-of-stone-viollet-le-duc/",
-    "feed_name": "NYYRB",
-    "title": "\u2018A Vast Symphony of Stone\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/23/a-vast-symphony-of-stone-viollet-le-duc/",
-    "content": "In his renovation of Notre-Dame, Eug\u00e8ne Viollet-le-Duc projected his own Romantic vision of the Middle Ages onto the Gothic cathedral.",
-    "date": "2026-04-02T11:48:52",
     "category": "Magazines"
   }
 ]
