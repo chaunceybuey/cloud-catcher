@@ -140,6 +140,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
+    "feed_name": "NYT (Shared)",
+    "title": "David Attenborough, a Voice of Nature, Turns 100",
+    "author": "Jonathan Wolfe",
+    "link": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
+    "content": "Mr. Attenborough enrolled at the University of Cambridge in 1945, where he studied natural sciences, including geology and zoology.",
+    "date": "2026-05-08T17:29:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/puerto-rico-trump-drugs-votes-prisons-elections-jenniffer-gonzalez-colon",
     "feed_name": "ProPublica",
     "title": "Puerto Rico Lawmakers Call for Investigation Into Alleged Drugs-for-Votes Scheme After ProPublica Report",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/04/23/the-painters-shadow-world-morgan-meis/",
     "content": "Morgan Meis\u2019s Three Paintings Trilogy is the most exciting new writing about the visual arts to appear in a generation.",
     "date": "2026-04-02T11:33:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "69cd14662475eb40d2309adb",
-    "feed_name": "Wired (Science)",
-    "title": "A New Implant Aims to Rewire Stroke Patients\u2019 Brains",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/",
-    "content": "Epia Neuro\u2019s brain-computer interface will include a motorized glove to help stroke patients recover movement in their hand.",
-    "date": "2026-04-02T11:30:00",
     "category": "Magazines"
   }
 ]
