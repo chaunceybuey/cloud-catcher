@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229423",
+    "feed_name": "Texas Tribune",
+    "title": "Deported Texas DACA recipient returned to U.S. freed after detainment",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17336567/texas-daca-recipient-immigration-deportation-detainment-release",
+    "content": "Jos\u00e9 Contreras Diaz.",
+    "date": "2026-05-08T01:42:35",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html",
     "feed_name": "NYT (Shared)",
     "title": "The Paramount Merger Can (and Should) Be Stopped",
@@ -627,7 +637,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19986,16 +19996,6 @@
     "author": "Chris Essig, Rob Reid and Alex Ford",
     "link": "https://feeds.texastribune.org/link/16799/17311508/texas-tribune-public-schools-explorer-relaunch",
     "content": "Today, we are unveiling our most ambitious update yet to The Texas Tribune\u2019s schools explorer, with more information and added context to help Texans interpret information about our schools.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17311508.gif\" width=\"1\" />",
-    "date": "2026-04-01T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225319",
-    "feed_name": "Texas Tribune",
-    "title": "Explore our newly redesigned Texas Public Schools Explorer with expanded data",
-    "author": "Rob Reid and Alex Ford",
-    "link": "https://feeds.texastribune.org/link/16799/7720311/",
-    "content": "The explorer now shows long-term trends, school funding data, and newly released Texas Academic Performance Reports, among other updates.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/7720311.gif\" width=\"1\" />",
     "date": "2026-04-01T10:00:00",
     "category": "Texas"
   }
