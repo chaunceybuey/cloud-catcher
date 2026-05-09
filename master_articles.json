@@ -320,6 +320,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War",
+    "author": "Vivian Nereim",
+    "link": "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html",
+    "content": "The Emirates leader, Sheikh Mohammed bin Zayed, and President Trump in Abu Dhabi, last year.",
+    "date": "2026-05-08T12:59:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-julia-belluz.html",
     "feed_name": "NYT (Shared)",
     "title": "We\u2019re at the Dawn of the Ozempic Era \u2014 and It\u2019s Really Weird",
@@ -1237,7 +1247,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19988,15 +19998,5 @@
     "content": "Andrea Tucker and her daughter Marciella, 8, spend their evening on a bench at Bergfeld Park as her twin daughters Jhene and Javeya play, on Jan. 6, in Tyler.",
     "date": "2026-04-02T18:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "e7e704677db2ddb541e3612d2486e5f0",
-    "feed_name": "LRB",
-    "title": "On Soaps",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n06/susannah-clapp/on-soaps",
-    "content": "Not exactly\u200b an addiction but a compulsion. When I started to write full-time about the theatre, I was fixated on television soaps. Not all of them. I didn\u2019t have an afternoon habit. JustEastEnders, which I had watched from the beginning (and failed to persuade the then editor would be a subject for this paper),Coronation StreetandBrookside. I would come home fromKing Learor the",
-    "date": "2026-04-02T17:51:39",
-    "category": "Magazines"
   }
 ]
