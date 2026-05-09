@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/business/retirement-home-equity-selling-your-house.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Retirees Expect Their Home to Be a Financial Safety Net. They Shouldn\u2019t.",
+    "author": "Martha C. White",
+    "link": "https://www.nytimes.com/2026/05/09/business/retirement-home-equity-selling-your-house.html",
+    "content": "Older homeowners often don\u2019t see the value of, or can\u2019t afford to, maintain and renovate their homes of many years. And that can mean thousands lost when they sell.",
+    "date": "2026-05-09T12:45:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/09/opinion/foreign-aid-cuts.html",
     "feed_name": "NYT (Shared)",
     "title": "This Is What Happened After We Gutted U.S.A.I.D.",
@@ -147,6 +157,16 @@
     "link": "https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html",
     "content": "Ramit Sethi wants everyone to have a healthier relationship to money, and thinks he knows how to get us there.",
     "date": "2026-05-09T09:15:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How Republicans Gained an Edge on the Midterm House Map Over 10 Days",
+    "author": "Shane Goldmacher and Tim Balk",
+    "link": "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html",
+    "content": "Democrats are still widely favored to win control of the House in the November midterm elections, but Republicans have gained a new structural edge through their redistricting efforts.",
+    "date": "2026-05-09T09:02:23",
     "category": "NYT"
   },
   {
@@ -1327,7 +1347,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19978,25 +19998,5 @@
     "content": "Attorney General Pam Bondi at a cabinet meeting in January. She met with President Trump on Wednesday to make her case to stay on.",
     "date": "2026-04-03T03:26:41",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Hegseth Fires Army Chief Amid Battle With Its Leaders",
-    "author": "Greg Jaffe, Helene Cooper and Eric Schmitt",
-    "link": "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html",
-    "content": "Gen. Randy George is expected to be replaced by Gen. Christopher LaNeve, who previously served as Defense Secretary Pete Hegseth\u2019s senior military assistant in the Pentagon.",
-    "date": "2026-04-02T23:18:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225723",
-    "feed_name": "Texas Tribune",
-    "title": "Texas attorney general\u2019s office under scrutiny for letting donors use hotel room bookings",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17312704/texas-attorney-general-ken-paxton-hotel-rooms-donors-audit",
-    "content": "Attorney General Ken Paxton speaks at an event for his U.S. Senate campaign in Tyler on Feb. 16, 2026.",
-    "date": "2026-04-02T22:27:26",
-    "category": "Texas"
   }
 ]
