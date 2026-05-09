@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+    "feed_name": "Douthat",
+    "title": "The Atheist and the Machine God",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
+    "content": "What are the implications of artificial intelligence for religion?",
+    "date": "2026-05-09T11:00:18",
+    "category": "NYT"
+  },
+  {
     "id": "e381d1a4ce5c3e1a1c210fa60f8f7fc2",
     "feed_name": "LRB",
     "title": "Labour\u2019s Failure",
@@ -1277,7 +1287,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19988,15 +19998,5 @@
     "content": "Sunday church service at King\u2019s Way Church in Prescott, Ariz.",
     "date": "2026-04-02T18:55:06",
     "category": "NYT"
-  },
-  {
-    "id": "69cc083c6cab226b3ec29afe",
-    "feed_name": "Wired (Science)",
-    "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
-    "content": "Documents show that one of Google\u2019s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year\u2014an increasingly common trend in the industry.",
-    "date": "2026-04-02T18:27:29",
-    "category": "Magazines"
   }
 ]
