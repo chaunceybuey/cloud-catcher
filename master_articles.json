@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Gave Out a No-Bid Contract to Turn D.C.\u2019s Reflecting Pool Blue",
+    "author": "David A. Fahrenthold and Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html",
+    "content": "President Trump handpicked a firm he said had worked on his swimming pool to repair the iconic site near the Lincoln Memorial.",
+    "date": "2026-05-08T23:21:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229521",
     "feed_name": "Texas Tribune",
     "title": "Feds investigate Houston ISD for plans to separate students with disabilities",
@@ -1227,7 +1237,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n06/susannah-clapp/on-soaps",
     "content": "Not exactly\u200b an addiction but a compulsion. When I started to write full-time about the theatre, I was fixated on television soaps. Not all of them. I didn\u2019t have an afternoon habit. JustEastEnders, which I had watched from the beginning (and failed to persuade the then editor would be a subject for this paper),Coronation StreetandBrookside. I would come home fromKing Learor the",
-    "date": "2026-04-02T17:51:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "40a55660345cb7e7b86835460a6f3b64",
-    "feed_name": "LRB",
-    "title": "Walking the Way of St Augustine",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/april/walking-the-way-of-st-augustine",
-    "content": "The Way of St Augustine runs from Ramsgate to Canterbury, a walk of just under twenty miles across open country. You begin by the sea. After.\u00a0.\u00a0.",
     "date": "2026-04-02T17:51:39",
     "category": "Magazines"
   }
