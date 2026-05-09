@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "e381d1a4ce5c3e1a1c210fa60f8f7fc2",
+    "feed_name": "LRB",
+    "title": "Labour\u2019s Failure",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n09/james-butler/labour-s-failure",
+    "content": "People\u200b vote irrationally in local elections, at least according to the standards of political scientists. That is, their vote is often motivated by factors outside the purview of local government. The dismal result for Labour in England\u2019s local elections on 7 May was not predominantly a revolt over bin collections. It was strongly related to national revulsion for Labour, and to the...",
+    "date": "2026-05-09T07:08:32",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Gave Out a No-Bid Contract to Turn D.C.\u2019s Reflecting Pool Blue",
@@ -1247,7 +1257,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19986,16 +19996,6 @@
     "author": "Jess Huff",
     "link": "https://feeds.texastribune.org/link/16799/17312543/tyler-texas-infants-at-work-parental-leave",
     "content": "Tyler employee Teresa Tudor and her children Cecilia Tudor, 4, and Natalia Hurtado, 8 months, in her office at the Tyler Water Utilities service center on Nov. 21, 2025.",
-    "date": "2026-04-02T18:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225525",
-    "feed_name": "Texas Tribune",
-    "title": "Tyler embraces a families-first approach as it grows faster than any other East Texas city",
-    "author": "By Jess Huff, Photos by Michael Cavazos, Graphics by\u00a0Apurva Mahajan",
-    "link": "https://feeds.texastribune.org/link/16799/17312544/tyler-texas-families-growth-economic-development-support",
-    "content": "Andrea Tucker and her daughter Marciella, 8, spend their evening on a bench at Bergfeld Park as her twin daughters Jhene and Javeya play, on Jan. 6, in Tyler.",
     "date": "2026-04-02T18:00:00",
     "category": "Texas"
   }
