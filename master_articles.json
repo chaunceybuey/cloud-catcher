@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/well/move/shoulder-pain-exercises.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Shoulder Pain Exercises: 7 Moves to Improve Mobility",
+    "author": "Christine Yu and Theodore Tae",
+    "link": "https://www.nytimes.com/2026/05/09/well/move/shoulder-pain-exercises.html",
+    "content": "These exercises can help you avoid discomfort by improving your strength and mobility.",
+    "date": "2026-05-09T09:00:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/09/magazine/dog-longevity-treatments.html",
     "feed_name": "NYT (Emailed)",
     "title": "What if You Could Give Your Dog a Longer Life?",
@@ -1377,7 +1387,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/01/arts/34-things-to-do-in-nyc-in-april.html",
     "content": "",
     "date": "2026-04-03T05:33:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/insider/affording-new-york-city-apartments.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How New Yorkers Spend, Splurge and Scrimp to Live in the City",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/insider/affording-new-york-city-apartments.html",
-    "content": "",
-    "date": "2026-04-03T05:18:46",
     "category": "NYT"
   }
 ]
