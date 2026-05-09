@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/opinion/foreign-aid-cuts.html",
+    "feed_name": "NYT (Shared)",
+    "title": "This Is What Happened After We Gutted U.S.A.I.D.",
+    "author": "Nicholas Kristof",
+    "link": "https://www.nytimes.com/2026/05/09/opinion/foreign-aid-cuts.html",
+    "content": "Nine-year-old Maria, right, is one of thousands of children in South Sudan suffering from severe malnutrition.",
+    "date": "2026-05-09T11:26:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
     "feed_name": "Douthat",
     "title": "The Atheist and the Machine God",
@@ -19988,15 +19998,5 @@
     "content": "Signs let people know that measles vaccines are available at the old City Hall in Andrews on March 6, 2025.",
     "date": "2026-04-02T19:45:27",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/02/us/household-vote-women.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Supporters of Household Voting Believe U.S. Would Be Better Off Without Women\u2019s Vote",
-    "author": "Vivian Yee",
-    "link": "https://www.nytimes.com/2026/04/02/us/household-vote-women.html",
-    "content": "Sunday church service at King\u2019s Way Church in Prescott, Ariz.",
-    "date": "2026-04-02T18:55:06",
-    "category": "NYT"
   }
 ]
