@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Personal Finance Star on What Millennials Need From Their Boomer Parents",
+    "author": "David Marchese",
+    "link": "https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html",
+    "content": "Ramit Sethi wants everyone to have a healthier relationship to money, and thinks he knows how to get us there.",
+    "date": "2026-05-09T09:15:05",
+    "category": "NYT"
+  },
+  {
     "id": "e381d1a4ce5c3e1a1c210fa60f8f7fc2",
     "feed_name": "LRB",
     "title": "Labour\u2019s Failure",
@@ -1297,7 +1307,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19988,15 +19998,5 @@
     "content": "She did what Donald Trump wanted her to do. That turned out to be part of the problem.",
     "date": "2026-04-02T20:29:58",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225682",
-    "feed_name": "Texas Tribune",
-    "title": "At least 175 measles cases reported in Texas this year, most of them in West Texas Detention Facility",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17312590/texas-measles-hudspeth-el-paso-federal-detention-immigration",
-    "content": "Signs let people know that measles vaccines are available at the old City Hall in Andrews on March 6, 2025.",
-    "date": "2026-04-02T19:45:27",
-    "category": "Texas"
   }
 ]
