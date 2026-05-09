@@ -120,6 +120,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/us/politics/trump-immigrants-citizenship.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Wants to Strip 12 Immigrants of U.S. Citizenship",
+    "author": "Hamed Aleaziz and Madeleine Ngo",
+    "link": "https://www.nytimes.com/2026/05/08/us/politics/trump-immigrants-citizenship.html",
+    "content": "A naturalization ceremony for new citizens in Chicago last year.",
+    "date": "2026-05-08T23:26:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Gave Out a No-Bid Contract to Turn D.C.\u2019s Reflecting Pool Blue",
@@ -168,6 +178,16 @@
     "content": "A ransomware attack took down a popular university-course-management software right in the middle of finals.",
     "date": "2026-05-08T20:41:45",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/08/nyregion/mahmoud-khalil-deportation-case.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Mahmoud Khalil Hurtles Toward Potential Deportation as U.S. Speeds Case",
+    "author": "Jonah E. Bromwich and Nicholas Nehamas",
+    "link": "https://www.nytimes.com/2026/05/08/nyregion/mahmoud-khalil-deportation-case.html",
+    "content": "Mahmoud Khalil, who became the face of President Trump\u2019s crackdown on pro-Palestinian protesters, is facing possible expulsion from the United States.",
+    "date": "2026-05-08T19:40:49",
+    "category": "NYT"
   },
   {
     "id": "https://www.kmfa.org/pages/20016-philharmonie-austin-mendelssohn-schuman",
@@ -19978,25 +19998,5 @@
     "content": "Documents show that one of Google\u2019s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year\u2014an increasingly common trend in the industry.",
     "date": "2026-04-02T18:27:29",
     "category": "Magazines"
-  },
-  {
-    "id": "69ce780c156741c71fc382eb",
-    "feed_name": "Wired (Science)",
-    "title": "Here's What Can Happen When the US Bombs Iran's Nuclear Sites",
-    "author": "Jethu Abraham",
-    "link": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
-    "content": "As strikes continue on Iran\u2019s nuclear facilities, the real danger isn\u2019t the explosion, but what happens if critical safety systems fail\u2014and how that risk could spread across the Gulf.",
-    "date": "2026-04-02T18:08:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225558",
-    "feed_name": "Texas Tribune",
-    "title": "Tyler city employees are bringing their newborns to work",
-    "author": "Jess Huff",
-    "link": "https://feeds.texastribune.org/link/16799/17312543/tyler-texas-infants-at-work-parental-leave",
-    "content": "Tyler employee Teresa Tudor and her children Cecilia Tudor, 4, and Natalia Hurtado, 8 months, in her office at the Tyler Water Utilities service center on Nov. 21, 2025.",
-    "date": "2026-04-02T18:00:00",
-    "category": "Texas"
   }
 ]
