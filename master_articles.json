@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
+    "author": "John Yoon and Chris Hippensteel",
+    "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
+    "content": "A Frontier Airlines plane at Denver International Airport this month.",
+    "date": "2026-05-09T20:40:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19554-austin-civic-orchestra-the-extraordinary-woman",
     "feed_name": "KMFA",
     "title": "Austin Civic Orchestra: The Extraordinary Woman",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/01/arts/music/tristan-und-isolde-met-opera.html",
     "content": "",
     "date": "2026-04-03T05:48:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/arts/34-things-to-do-in-nyc-in-april.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "34 Things to Do in N.Y.C. in April",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/01/arts/34-things-to-do-in-nyc-in-april.html",
-    "content": "",
-    "date": "2026-04-03T05:33:46",
     "category": "NYT"
   }
 ]
