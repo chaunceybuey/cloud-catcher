@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "My Ted Talk",
+    "author": "Maureen Dowd",
+    "link": "https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html",
+    "content": "Captain Courageous cut a cool swath, in contrast to today\u2019s creepy oligarchs.",
+    "date": "2026-05-09T11:00:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
     "feed_name": "Douthat",
     "title": "The Atheist and the Machine God",
@@ -137,6 +147,16 @@
     "link": "https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html",
     "content": "Ramit Sethi wants everyone to have a healthier relationship to money, and thinks he knows how to get us there.",
     "date": "2026-05-09T09:15:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/09/magazine/dog-longevity-treatments.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "What if You Could Give Your Dog a Longer Life?",
+    "author": "Amanda Hess",
+    "link": "https://www.nytimes.com/2026/05/09/magazine/dog-longevity-treatments.html",
+    "content": "The business of pet longevity is booming \u2014 driven, in part, by experimental treatments that might also have implications for us.",
+    "date": "2026-05-09T09:00:41",
     "category": "NYT"
   },
   {
@@ -1307,7 +1327,7 @@
     "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
@@ -19978,25 +19998,5 @@
     "content": "Attorney General Ken Paxton speaks at an event for his U.S. Senate campaign in Tyler on Feb. 16, 2026.",
     "date": "2026-04-02T22:27:26",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225709",
-    "feed_name": "Texas Tribune",
-    "title": "Democratic congressional candidate Bobby Pulido toured with bandmate convicted of child sex crime",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17312648/bobby-pulido-texas-congressional-democrat-bandmate-sex-offender",
-    "content": "Bobby Pulido, Latin Grammy winner and  Democratic nominee for the 15th Congressional District, speaks during a Texas Together Rally at Cine El Rey in McAllen on March 9, 2026.",
-    "date": "2026-04-02T21:05:29",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/04/pam-bondi-fired-trump/686671/",
-    "feed_name": "Chait",
-    "title": "Pam Bondi Couldn\u2019t Possibly Succeed",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/04/pam-bondi-fired-trump/686671/",
-    "content": "She did what Donald Trump wanted her to do. That turned out to be part of the problem.",
-    "date": "2026-04-02T20:29:58",
-    "category": "Uncategorized"
   }
 ]
