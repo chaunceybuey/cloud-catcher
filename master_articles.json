@@ -110,6 +110,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/arts/design/paul-klee-angelus-novus-jewish-museum.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Paul Klee\u2019s \u2018Angelus Novus\u2019 Joins Show at Jewish Museum in New York",
+    "author": "Deborah Solomon",
+    "link": "https://www.nytimes.com/2026/05/08/arts/design/paul-klee-angelus-novus-jewish-museum.html",
+    "content": "\u201cAngelus Novus,\u201d an artwork with a fascinating back story, including most recently a wartime delay, is a late addition to an already impressive Klee survey at the Jewish Museum.",
+    "date": "2026-05-09T20:50:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
     "feed_name": "NYT (Shared)",
     "title": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
@@ -19988,15 +19998,5 @@
     "content": "The Chisos Mountains, part of the Big Bend National Park, on Jan. 23, 2024.",
     "date": "2026-04-03T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "In a Muzzled Russia, He Still Speaks His Mind",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
-    "content": "",
-    "date": "2026-04-03T09:48:46",
-    "category": "NYT"
   }
 ]
