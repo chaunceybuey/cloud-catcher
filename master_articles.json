@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "For Some Patients, Cancer Is Becoming Like a Chronic Illness",
+    "author": "Daniela J. Lamas",
+    "link": "https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html",
+    "content": "For some patients, cancer is becoming like a chronic illness.",
+    "date": "2026-05-10T15:34:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
     "feed_name": "NYT (Shared)",
     "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking",
@@ -147,6 +157,26 @@
     "link": "https://www.nytimes.com/2026/05/10/opinion/hasan-piker-democratic-party-antisemitism.html",
     "content": "When we\u2019re talking about which allies to support or which communities we defend, our principles shouldn\u2019t shift.",
     "date": "2026-05-10T10:00:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
+    "author": "Leily Nikounazar and Arash Khamooshi",
+    "link": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
+    "content": "Crowds inside the sprawling Grand Bazaar in Tehran on Saturday. Imports of goods have been affected by the war.",
+    "date": "2026-05-10T09:01:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/10/opinion/erica-jong-mothers-day-dementia.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Molly Jong-Fast on Her Mother, Erica Jong, on Mother\u2019s Day",
+    "author": "Molly Jong-Fast",
+    "link": "https://www.nytimes.com/2026/05/10/opinion/erica-jong-mothers-day-dementia.html",
+    "content": "I\u2019m realizing that a sort of gooey sitcom resolution is not in the cards for my mother and me.",
+    "date": "2026-05-10T07:00:44",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/02/business/media/trump-media-courts.html",
     "content": "",
     "date": "2026-04-04T05:18:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/business/economy/jobs-unemployment-inflation-fed-rates.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Strong Jobs Numbers Make the Fed\u2019s Job Easier",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/business/economy/jobs-unemployment-inflation-fed-rates.html",
-    "content": "",
-    "date": "2026-04-04T05:03:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/business/las-vegas-march-madness-tourism.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Las Vegas Is Still a March Madness Mecca",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/business/las-vegas-march-madness-tourism.html",
-    "content": "",
-    "date": "2026-04-04T04:48:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/pageoneplus/quote-of-the-day-the-mystifying-drunken-episodes-of-teetotalers.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: The Mystifying Drunken Episodes of Teetotalers",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/pageoneplus/quote-of-the-day-the-mystifying-drunken-episodes-of-teetotalers.html",
-    "content": "",
-    "date": "2026-04-04T04:33:44",
     "category": "NYT"
   }
 ]
