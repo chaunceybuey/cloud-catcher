@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Bobby Cox, One of Baseball\u2019s Top Managers, Dies at 84",
+    "author": "Richard Goldstein",
+    "link": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html",
+    "content": "Bobby Cox, the Atlanta Braves manager, waved to fans in 2010. He was voted manager of the year four times by the Baseball Writers\u2019 Association of America.",
+    "date": "2026-05-10T13:46:51",
+    "category": "NYT"
+  },
+  {
     "id": "0b3b3be1739888173f550f5e04529bf0",
     "feed_name": "The Atlantic",
     "title": "Save the Taxi Drivers",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/03/arts/design/seats-left-empty-on-smithsonian-board-as-strain-with-white-house-persists.html",
     "content": "",
     "date": "2026-04-04T05:48:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Economists Once Dismissed the A.I. Job Threat, but Not Anymore",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html",
-    "content": "",
-    "date": "2026-04-04T05:33:44",
     "category": "NYT"
   }
 ]
