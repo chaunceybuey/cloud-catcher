@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229565",
+    "feed_name": "Texas Tribune",
+    "title": "Webb County Sheriff Martin Cuellar faces removal attempt following federal fraud indictment",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17337868/webb-county-sheriff-martin-cuellar-removal-petition",
+    "content": "From left: Webb County Sheriff Martin Cuellar poses with his brother, U.S. Rep. Henry Cuellar, D-Laredo, and Gov. Greg Abbott in downtown Laredo on Feb. 23, 2019.",
+    "date": "2026-05-10T16:40:03",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html",
     "feed_name": "NYT (Emailed)",
     "title": "For Some Patients, Cancer Is Becoming Like a Chronic Illness",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/03/business/economists-once-dismissed-the-ai-job-threat-but-not-anymore.html",
     "content": "",
     "date": "2026-04-04T05:33:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/02/business/media/trump-media-courts.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Trump\u2019s Media-Bashing Is Coming Back to Bite Him in Court",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/02/business/media/trump-media-courts.html",
-    "content": "",
-    "date": "2026-04-04T05:18:44",
     "category": "NYT"
   }
 ]
