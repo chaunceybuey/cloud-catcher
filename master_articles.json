@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/05/28/mommie-dearest-kids-wait-till-you-hear-this-liza-minnelli/",
+    "feed_name": "NYRB",
+    "title": "Mommie Dearest",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/05/28/mommie-dearest-kids-wait-till-you-hear-this-liza-minnelli/",
+    "content": "In Liza Minnelli\u2019s riveting memoir, the ghost of Judy Garland is felt on every page.\n\nDelivered by PolitePaul service",
+    "date": "2026-05-10T19:48:49",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20050-austin-symphony-orchestra-hartman-foundation-concerts-in-the-park",
     "feed_name": "KMFA",
     "title": "Austin Symphony Orchestra: Hartman Foundation Concerts in the Park",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/01/books/review/page-break-reading-aloud-jordy-rosenberg.html",
     "content": "",
     "date": "2026-04-04T06:03:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/arts/design/seats-left-empty-on-smithsonian-board-as-strain-with-white-house-persists.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Seats Left Empty on Smithsonian Board as Strain With White House Persists",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/arts/design/seats-left-empty-on-smithsonian-board-as-strain-with-white-house-persists.html",
-    "content": "",
-    "date": "2026-04-04T05:48:44",
     "category": "NYT"
   }
 ]
