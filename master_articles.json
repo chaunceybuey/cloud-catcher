@@ -520,6 +520,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/opinion/old-age.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "What to Do for the Elderly? Stop Badgering Them!",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/05/08/opinion/old-age.html",
+    "content": "Readers respond to an essay about old people preparing (or not) for the end. Also: Antisemitism online; Trump the destroyer; two types of dreaming.",
+    "date": "2026-05-08T18:47:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html",
     "feed_name": "NYT (Shared)",
     "title": "ABC Accuses Government of Violating First Amendment",
@@ -19988,15 +19998,5 @@
     "content": "President Trump shared some of his plans for the bunker, referring to the secure underground facility as a \u201cmassive complex.\u201d",
     "date": "2026-04-03T15:46:28",
     "category": "NYT"
-  },
-  {
-    "id": "a5a0649b03a9ebfa359241817c6a6871",
-    "feed_name": "Compact",
-    "title": "Noelia Castillo Ramos and the Dictatorship of Happiness",
-    "author": "",
-    "link": "https://www.compactmag.com/article/noelia-castillo-ramos-and-the-dictatorship-of-happiness/",
-    "content": "",
-    "date": "2026-04-03T11:39:57",
-    "category": "Magazines"
   }
 ]
