@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/09/opinion/virginia-supreme-court-ruling.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Democrats Who Are Soft on Republicans Have Got to Go",
+    "author": "Jamelle Bouie",
+    "link": "https://www.nytimes.com/2026/05/09/opinion/virginia-supreme-court-ruling.html",
+    "content": "Virginians must fight back against its Supreme Court in the name of popular sovereignty.",
+    "date": "2026-05-09T15:28:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/09/opinion/iran-war-global-economy-risk-green-energy-shift.html",
     "feed_name": "NYT (Shared)",
     "title": "High Gas Prices Are Just the Beginning",
@@ -297,6 +307,16 @@
     "link": "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html",
     "content": "Democrats are still widely favored to win control of the House in the November midterm elections, but Republicans have gained a new structural edge through their redistricting efforts.",
     "date": "2026-05-09T09:02:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How Minority Districts Fueled the G.O.P.\u2019s Southern Ascendancy in Congress",
+    "author": "Carl Hulse",
+    "link": "https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html",
+    "content": "The new congressional map of Tennessee is displayed during a House committee meeting in Nashville, Tennessee.",
+    "date": "2026-05-09T09:02:02",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "",
     "date": "2026-04-03T11:39:57",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225716",
-    "feed_name": "Texas Tribune",
-    "title": "This state agency was created to investigate Texas universities. How that works is a mystery.",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17312954/texas-ombudsman-investigate-university-complaints",
-    "content": "Illustrated posters reading \u201cWe Belong Here\u201d sit on the Capitol\u2019s rotunda floor during Texas Students for Diversity, Equity and Inclusion\u2019s protest of anti-DEI initiatives for public universities, on Mar. 23, 2023. One responsibility of the new Office of the Ombudsman is to investigate allegations that anti-DEI laws have been broken.",
-    "date": "2026-04-03T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225733",
-    "feed_name": "Texas Tribune",
-    "title": "A border wall through Big Bend appears to be on hold after public outcry, but questions remain",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17312955/texas-border-wall-big-bend-national-park-ranch-state-park",
-    "content": "The Chisos Mountains, part of the Big Bend National Park, on Jan. 23, 2024.",
-    "date": "2026-04-03T10:00:00",
-    "category": "Texas"
   }
 ]
