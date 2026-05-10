@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/08/books/edith-eger-dead.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Edith Eva Eger, Psychologist Who Barely Survived Auschwitz, Dies at 98",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/05/08/books/edith-eger-dead.html",
+    "content": "Her time in concentration camps brought her an understanding of humanity that helped her treat her patients.",
+    "date": "2026-05-09T13:43:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html",
     "feed_name": "NYT (Shared)",
     "title": "Republicans Are Building an Advantage in Redistricting. How Much Is It Worth?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/02/world/europe/dimitri-muratov-russia-ukraine-war-nobel.html",
     "content": "",
     "date": "2026-04-03T09:48:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/world/middleeast/shelly-kittleson-kidnapping-iraq.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Iraqi Militia Offers to Negotiate Release of Kidnapped U.S. Journalist",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/01/world/middleeast/shelly-kittleson-kidnapping-iraq.html",
-    "content": "",
-    "date": "2026-04-03T09:33:46",
     "category": "NYT"
   }
 ]
