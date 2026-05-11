@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Passengers Exposed to Hantavirus Begin Quarantine, Including One With Positive Test",
+    "author": "Sonia A. Rao, Jacey Fortin and Jin Yu Young",
+    "link": "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html",
+    "content": "Passengers being evacuated from the MV Hondius on Sunday.",
+    "date": "2026-05-11T18:52:18",
+    "category": "NYT"
+  },
+  {
     "id": "69ebadd68b7bc454d07e6a4b",
     "feed_name": "Wired (Science)",
     "title": "Testing for \u2018Bad Cholesterol\u2019 Doesn\u2019t Tell the Whole Story",
@@ -188,6 +198,16 @@
     "content": "He can no longer hide the consequences from the Russian public.",
     "date": "2026-05-11T15:31:32",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
+    "feed_name": "NYT (Shared)",
+    "title": "How Israel Turned Eurovision\u2019s Stage Into a Soft Power Tool",
+    "author": "Mara Hvistendahl and Alex Marshall",
+    "link": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
+    "content": "Israel\u2019s efforts to influence Eurovision\u2019s vote were broader and started years earlier than previously known.",
+    "date": "2026-05-11T15:23:28",
+    "category": "NYT"
   },
   {
     "id": "1eac8330088b09c2f164e79a41d8766c",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/03/world/asia/philippines-holy-week-oil-fuel-prices.html",
     "content": "",
     "date": "2026-04-05T09:18:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/04/world/asia/epstein-india-ambani.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Epstein Presented Himself to Indian Tycoon as a Trump White House Insider",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/04/world/asia/epstein-india-ambani.html",
-    "content": "",
-    "date": "2026-04-05T09:03:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/world/asia/india-census-population.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Do You Count 1.4 Billion People? India Is Trying.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/world/asia/india-census-population.html",
-    "content": "",
-    "date": "2026-04-05T08:48:46",
     "category": "NYT"
   }
 ]
