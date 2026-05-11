@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "69ebadd68b7bc454d07e6a4b",
+    "feed_name": "Wired (Science)",
+    "title": "Testing for \u2018Bad Cholesterol\u2019 Doesn\u2019t Tell the Whole Story",
+    "author": "Anna McKie",
+    "link": "https://www.wired.com/story/moving-beyond-bad-cholesterol-test/",
+    "content": "There\u2019s a more accurate way of measuring who\u2019s at risk for cholesterol-related health issues. So why don\u2019t more doctors use it?",
+    "date": "2026-05-11T18:40:37",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/opinion/bill-cassidy-louisiana-republican-primary.html",
     "feed_name": "NYT (Shared)",
     "title": "Bill Cassidy Sold His Soul and Got Nothing in Return",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/03/world/asia/india-census-population.html",
     "content": "",
     "date": "2026-04-05T08:48:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/us/a-border-wall-plan-unites-republicans-and-democrats-in-texas-this-is-insane.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Border Wall Plan Unites Republicans and Democrats in Texas: \u2018This Is Insane\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/us/a-border-wall-plan-unites-republicans-and-democrats-in-texas-this-is-insane.html",
-    "content": "",
-    "date": "2026-04-05T08:33:46",
     "category": "NYT"
   }
 ]
