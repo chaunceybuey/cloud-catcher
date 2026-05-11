@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/10/business/consumers-credit-inflation-costs.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Consumers Lean on a \u2018Hamster Wheel\u2019 of Credit to Manage Rising Costs",
+    "author": "Stacy Cowley",
+    "link": "https://www.nytimes.com/2026/05/10/business/consumers-credit-inflation-costs.html",
+    "content": "The cost of a gallon of gas near Mr. Watts\u2019s home rose 70 cents overnight one day late last month.",
+    "date": "2026-05-10T23:08:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/10/us/politics/virginia-democratic-candidates-redistricting.html",
     "feed_name": "NYT (Shared)",
     "title": "Democratic Candidates Scramble in Virginia After Court Tosses Map",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/04/pageoneplus/quote-of-the-day-how-a-man-his-brother-and-ai-built-a-1-8-billion-company.html",
     "content": "",
     "date": "2026-04-05T00:03:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/well/flourish-stress-anxiety.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "4 Ways to Flourish (in Good Times and Bad)",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/well/flourish-stress-anxiety.html",
-    "content": "",
-    "date": "2026-04-04T23:48:46",
     "category": "NYT"
   }
 ]
