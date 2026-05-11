@@ -190,6 +190,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/11/opinion/water-southwest-climate-change.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Forests of the American West Are in Danger",
+    "author": "Gary Ferguson",
+    "link": "https://www.nytimes.com/2026/05/11/opinion/water-southwest-climate-change.html",
+    "content": "The demise of pine forests could make snow virtually disappear from the Southwest in 50 or so years.",
+    "date": "2026-05-11T09:01:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/opinion/ai-jobs-chores-work.html",
     "feed_name": "NYT (Shared)",
     "title": "A.I. Claims to Make Our Lives Easier. Does It?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/27/magazine/iran-war-energy-climate-change.html",
     "content": "",
     "date": "2026-04-05T04:03:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/26/magazine/lethality-us-military-pete-hegseth.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Every Pentagon Has Its Buzzword. For Hegseth\u2019s, It\u2019s \u2018Lethality.\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/26/magazine/lethality-us-military-pete-hegseth.html",
-    "content": "",
-    "date": "2026-04-05T03:48:46",
     "category": "NYT"
   }
 ]
