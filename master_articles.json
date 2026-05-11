@@ -260,6 +260,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/11/dining/bromated-flour-ban-new-york-pizza-bagels.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Will a Ban on Bromated Flour Change New York Bagels and Pizza?",
+    "author": "Julia Moskin",
+    "link": "https://www.nytimes.com/2026/05/11/dining/bromated-flour-ban-new-york-pizza-bagels.html",
+    "content": "At Utopia Bagels, in Whitestone, Queens, they\u2019ll have to change the recipe if New York\u2019s governor signs legislation banning potassium bromate.",
+    "date": "2026-05-11T15:14:32",
+    "category": "NYT"
+  },
+  {
     "id": "13de877a0b9b129dac8b0b5288da42ae",
     "feed_name": "The Atlantic",
     "title": "Send the Frigates",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/04/23/to-share-is-our-duty-uncollected-letters-of-virginia-woolf/",
     "content": "Two consummate Virginia Woolf scholars have added more than 1,400 letters to the corpus. On show are charm, careful condolence, generosity, candor about her reading and writing, and a belief that \u201ccommunication is health.\u201d",
     "date": "2026-04-05T17:48:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/04/23/reimagining-the-future-of-ireland-otoole-mcbride-toibin/",
-    "feed_name": "NYYRB",
-    "title": "Reimagining the Future of Ireland",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/04/23/reimagining-the-future-of-ireland-otoole-mcbride-toibin/",
-    "content": "Two writers from different parts and traditions of the island argue with each other and themselves about the advantages and disadvantages of Irish unification.",
-    "date": "2026-04-05T17:33:53",
     "category": "Magazines"
   }
 ]
