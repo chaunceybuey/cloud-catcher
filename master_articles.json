@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229673",
+    "feed_name": "Texas Tribune",
+    "title": "Excessive heat suspected as cause of death after six bodies found in rail car near Laredo",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17338744/texas-laredo-railroad-car-six-dead-heat-suspected",
+    "content": "A train crosses the Rio Grande near the Laredo Convent Avenue Port of Entry between Laredo and Nuevo Laredo on Nov. 5, 2015.",
+    "date": "2026-05-11T21:35:42",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/us/politics/trump-china-musk-cook.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump to Be Joined by Elon Musk and Other CEOs at Xi Summit in China",
@@ -19988,15 +19998,5 @@
     "content": "For the Supreme Court to accept the Trump administration\u2019s attempt to revoke birthright citizenship, it would have to repudiate the Constitution, its own precedents, and the long-standing position of all three branches of the US government.",
     "date": "2026-04-05T17:18:53",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
-    "feed_name": "NYT (Popular)",
-    "title": "How the CIA Helped Locate a Missing Airman After Iran Downed a U.S. Fighter Jet",
-    "author": "Julian E. Barnes",
-    "link": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
-    "content": "A still image from a video of U.S. aircraft over southwest Iran on Friday.",
-    "date": "2026-04-05T14:46:41",
-    "category": "NYT"
   }
 ]
