@@ -990,6 +990,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
+    "feed_name": "NYT (Popular)",
+    "title": "New NTSB Report Into Deadly China Eastern Crash Suggests Struggle in Cockpit",
+    "author": "James Glanz",
+    "link": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
+    "content": "Emergency workers searching for the black box at the crash site of the China Eastern flight in Teng County, China in 2022.",
+    "date": "2026-05-08T13:08:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/08/world/middleeast/uae-iran-war.html",
     "feed_name": "NYT (Shared)",
     "title": "Emirates Doubles Down on U.S. and Israeli Ties Amid Iran War",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
     "content": "An F-15E Strike Eagle, the type of plane shot down in Iran.",
     "date": "2026-04-04T14:37:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/04/opinion/trump-bondi-hegseth-noem.html",
-    "feed_name": "Douthat",
-    "title": "Trump Needs Smarter Sycophants",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/04/04/opinion/trump-bondi-hegseth-noem.html",
-    "content": "Loyal losers don\u2019t go very far with this president.",
-    "date": "2026-04-04T11:00:18",
     "category": "NYT"
   }
 ]
