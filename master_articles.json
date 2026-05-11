@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "26217734-5556-4ab9-9e5d-d852c0e1bf0f",
+    "feed_name": "Economist",
+    "title": "America is experiencing a productivity miracle",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/11/america-is-experiencing-a-productivity-miracle",
+    "content": "AI hasn\u2019t\u2014yet\u2014got much to do with it",
+    "date": "2026-05-11T16:50:23",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229592",
     "feed_name": "Texas Tribune",
     "title": "Texas public schools see first non-pandemic enrollment drop in decades",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/01/nyregion/jupiter-joe-bronx-murder.html",
     "content": "",
     "date": "2026-04-05T07:03:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/nyregion/car-free-parks-nyc.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Push to Ban Cars From All New York City Parks",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/nyregion/car-free-parks-nyc.html",
-    "content": "",
-    "date": "2026-04-05T06:48:46",
     "category": "NYT"
   }
 ]
