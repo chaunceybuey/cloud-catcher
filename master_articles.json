@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/11/opinion/bill-cassidy-louisiana-republican-primary.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Bill Cassidy Sold His Soul and Got Nothing in Return",
+    "author": "Gary Sernovitz",
+    "link": "https://www.nytimes.com/2026/05/11/opinion/bill-cassidy-louisiana-republican-primary.html",
+    "content": "A doctor and senator who voted to confirm Robert Kennedy still was snubbed by Trump in the Republican primary in Louisiana.",
+    "date": "2026-05-11T18:07:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229615",
+    "feed_name": "Texas Tribune",
+    "title": "Federal appeals court temporarily halts execution of Texas death row inmate Edward Busby",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17338593/texas-execution-edward-busby-appeal",
+    "content": "The Huntsville Unit in Huntsville. Prisoners on death row are transported there for execution.",
+    "date": "2026-05-11T17:50:20",
+    "category": "Texas"
+  },
+  {
     "id": "6a01e56c00e9528f31d8189f",
     "feed_name": "Wired (Science)",
     "title": "A New Hantavirus Vaccine Is in the Works",
@@ -138,6 +158,26 @@
     "content": "Texas schools saw a decline of more than 76,000 students this academic school year, according to a report released ahead of today&#039;s public education committee in the Texas House.",
     "date": "2026-05-11T16:02:31",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/us/politics/reflecting-pool-paint-contract-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Reflecting Pool Repairs to Cost $13.1 Million. Trump Had Promised $1.8 Million.",
+    "author": "David A. Fahrenthold and Luke Broadwater",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/reflecting-pool-paint-contract-trump.html",
+    "content": "Atlantic Industrial Coatings was hired to repair leaking joints between the pool\u2019s concrete slabs, waterproof the pool\u2019s bottom and paint it a shade called \u201cAmerican flag blue.\u201d",
+    "date": "2026-05-11T15:42:35",
+    "category": "NYT"
+  },
+  {
+    "id": "30ed0ce3fe786c2ccfb4c613291a593e",
+    "feed_name": "The Atlantic",
+    "title": "Putin\u2019s War Comes Home to Moscow",
+    "author": "Anne Applebaum",
+    "link": "https://www.theatlantic.com/ideas/2026/05/russian-discontent-ukraine-war/687131/",
+    "content": "He can no longer hide the consequences from the Russian public.",
+    "date": "2026-05-11T15:31:32",
+    "category": "Magazines"
   },
   {
     "id": "1eac8330088b09c2f164e79a41d8766c",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/30/us/a-border-wall-plan-unites-republicans-and-democrats-in-texas-this-is-insane.html",
     "content": "",
     "date": "2026-04-05T08:33:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Trump Contemplates Other Cabinet Changes as He Faces Political Clock",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html",
-    "content": "",
-    "date": "2026-04-05T08:18:46",
-    "category": "NYT"
-  },
-  {
-    "id": "11152c2d-424d-440f-a26f-3428e5bd03d3",
-    "feed_name": "Economist",
-    "title": "Inflation or recession? The tug of war in bond markets",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/05/inflation-or-recession-the-tug-of-war-in-bond-markets",
-    "content": "Governments\u2019 borrowing costs are being pulled in opposite directions",
-    "date": "2026-04-05T08:17:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/04/us/politics/attorney-general-trump.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "New Attorney General, Same Albatross: Trump\u2019s Quest for Retribution",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/04/us/politics/attorney-general-trump.html",
-    "content": "",
-    "date": "2026-04-05T08:03:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/31/arts/melvin-edwards-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Melvin Edwards, Sculptor Who Wove Black History Into Art, Dies at 88",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/31/arts/melvin-edwards-dead.html",
-    "content": "",
-    "date": "2026-04-05T07:48:46",
     "category": "NYT"
   }
 ]
