@@ -320,6 +320,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/10/nyregion/straw-house-hudson-ny.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Beware of Wolves, but Straw Houses Could Help With Climate Change",
+    "author": "Hilary Howard",
+    "link": "https://www.nytimes.com/2026/05/10/nyregion/straw-house-hudson-ny.html",
+    "content": "A straw house built as an experiment stands 28 feet tall and has a sleeping loft, a daybed, five windows and a kitchen.",
+    "date": "2026-05-10T07:00:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/10/opinion/china-trump-us-power.html",
     "feed_name": "NYT (Shared)",
     "title": "An Emboldened New China Spells Trouble for Trump",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranians-mark-a-nature-festival-in-the-shadow-of-war",
     "content": "",
     "date": "2026-04-04T09:03:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html",
-    "feed_name": "NYT (Popular)",
-    "title": "\u2018I Got Back Every Penny\u2019: Inside Trump\u2019s Supercharged Tax Season",
-    "author": "Andrew Duehren",
-    "link": "https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html",
-    "content": "The law Republicans passed last year has so far been largely imperceptible to most Americans. That\u2019s changing as tens of millions file their taxes this spring.",
-    "date": "2026-04-04T09:00:33",
     "category": "NYT"
   }
 ]
