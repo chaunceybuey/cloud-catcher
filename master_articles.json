@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229592",
+    "feed_name": "Texas Tribune",
+    "title": "Texas public schools see first non-pandemic enrollment drop in decades",
+    "author": "Eva-Marie Ayala and Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17338526/texas-public-schools-see-historic-enrollment-drop",
+    "content": "Texas schools saw a decline of more than 76,000 students this academic school year, according to a report released ahead of today&#039;s public education committee in the Texas House.",
+    "date": "2026-05-11T16:02:31",
+    "category": "Texas"
+  },
+  {
     "id": "1eac8330088b09c2f164e79a41d8766c",
     "feed_name": "LRB",
     "title": "Where\u2019s all the cash?",
@@ -128,6 +138,16 @@
     "content": "Despite their anger at Donald Trump, European nations have an interest in defending the freedom of navigation.",
     "date": "2026-05-11T14:27:11",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "NBC to Turn Wordle Into a TV Game Show, With Savannah Guthrie as Host",
+    "author": "Michael M. Grynbaum",
+    "link": "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html",
+    "content": "The word puzzle published by The New York Times is the inspiration for a game show that will begin airing next year. Jimmy Fallon is a producer.",
+    "date": "2026-05-11T13:28:35",
+    "category": "NYT"
   },
   {
     "id": "ea08c89a0e99eea2cea474409678ca8a",
@@ -230,6 +250,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html",
+    "feed_name": "NYT (Shared)",
+    "title": "As Trump Heads to Beijing, China Is \u2018Locked and Loaded\u2019 for a Fight",
+    "author": "Alexandra Stevenson and Murphy Zhao",
+    "link": "https://www.nytimes.com/2026/05/11/business/trump-xi-economic-warfare.html",
+    "content": "The port in Ningbo, China. \u201cWe are on the brink of a much more frequent or widespread use of Chinese countermeasures against U.S. sanctions,\u201d said Andrew Gillholm, a China expert at Control Risks.",
+    "date": "2026-05-11T09:02:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/opinion/water-southwest-climate-change.html",
     "feed_name": "NYT (Shared)",
     "title": "The Forests of the American West Are in Danger",
@@ -287,6 +317,16 @@
     "link": "https://www.nytimes.com/2026/05/11/opinion/adhd-autism-depression-diagnoses.html",
     "content": "Neither genetics nor brain scans can distinguish a person with depression, A.D.H.D. or autism from one without.",
     "date": "2026-05-11T09:00:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/us/cursive-clubs-students.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Cursive Club, Where Students Learn With a Flourish",
+    "author": "Rylee Kirk",
+    "link": "https://www.nytimes.com/2026/05/11/us/cursive-clubs-students.html",
+    "content": "Chris Kobara practices writing his name in a cursive writing club at the Urban Assembly Early College High School of Emergency Medicine in Manhattan.",
+    "date": "2026-05-11T09:00:07",
     "category": "NYT"
   },
   {
@@ -1357,6 +1397,16 @@
     "link": "https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html",
     "content": "Meta has commenced a long, slow slide into irrelevance.",
     "date": "2026-05-08T09:04:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/08/movies/the-sheep-detectives-hugh-jackman-julia-louis-dreyfus.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How \u2018The Sheep Detectives\u2019 Brought its Ovine Sleuths to Life",
+    "author": "Sarah Lyall",
+    "link": "https://www.nytimes.com/2026/05/08/movies/the-sheep-detectives-hugh-jackman-julia-louis-dreyfus.html",
+    "content": "The filmmakers behind this adaptation of a best-selling novel were adamant that their ovine sleuths not seem like humans in, well, sheep\u2019s clothing.",
+    "date": "2026-05-08T09:03:36",
     "category": "NYT"
   },
   {
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/31/nyregion/car-free-parks-nyc.html",
     "content": "",
     "date": "2026-04-05T06:48:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/05/nyregion/metropolitan-diary.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018The Two of Them Looked at Each Other and Burst Into Laughter \u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/05/nyregion/metropolitan-diary.html",
-    "content": "",
-    "date": "2026-04-05T06:33:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/theater/dog-day-afternoon-broadway-jon-bernthal-ebon-moss-bachrach.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Can Two Stars of \u2018The Bear\u2019 Take On a Pacino Classic?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/theater/dog-day-afternoon-broadway-jon-bernthal-ebon-moss-bachrach.html",
-    "content": "",
-    "date": "2026-04-05T06:18:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/arts/dance/dancers-gravity-scientists-space.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Dancing in Space: Rethinking Bodies Without Gravity",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/arts/dance/dancers-gravity-scientists-space.html",
-    "content": "",
-    "date": "2026-04-05T06:03:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/arts/music/thundercat-favorites.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Thundercat Can Geek Out With the Best of Them",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/arts/music/thundercat-favorites.html",
-    "content": "",
-    "date": "2026-04-05T05:48:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/20/business/middle-class-sell-their-plasma.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Middle-Class Suburbanites Who Sell Their Blood Plasma to Get By",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/20/business/middle-class-sell-their-plasma.html",
-    "content": "",
-    "date": "2026-04-05T05:33:46",
     "category": "NYT"
   }
 ]
