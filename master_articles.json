@@ -110,6 +110,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/10/us/elections/republican-primary-governor-iowa.html",
+    "feed_name": "NYT (Shared)",
+    "title": "G.O.P. Fatigue in Iowa Strains the Republican Primary for Governor",
+    "author": "Pooja Salhotra",
+    "link": "https://www.nytimes.com/2026/05/10/us/elections/republican-primary-governor-iowa.html",
+    "content": "Campaign signs for various Republican candidates for office line a road at the Iowa Faith & Freedom Coalition\u2019s Spring Kickoff in Clive, Iowa last week.",
+    "date": "2026-05-10T19:51:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/10/us/politics/vance-rubio-trump-succession.html",
     "feed_name": "NYT (Shared)",
     "title": "Vance or Rubio? Trump Muses on Successor as the \u2018Kids\u2019 Fill Bigger Roles.",
@@ -227,6 +237,16 @@
     "link": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html",
     "content": "Bobby Cox, the Atlanta Braves manager, waved to fans in 2010. He was voted manager of the year four times by the Baseball Writers\u2019 Association of America.",
     "date": "2026-05-10T13:46:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+    "author": "Pranav Baskar and Devon Lum",
+    "link": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
+    "content": "Tankers anchored in the Strait of Hormuz off the coast of Qeshm Island, Iran, last month.",
+    "date": "2026-05-10T13:26:57",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/04/opinion/trump-bondi-hegseth-noem.html",
     "content": "Loyal losers don\u2019t go very far with this president.",
     "date": "2026-04-04T11:00:18",
-    "category": "NYT"
-  },
-  {
-    "id": "69cfc8e8bb5fa9b3a9065404",
-    "feed_name": "Wired (Science)",
-    "title": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
-    "author": "Luca Nardi",
-    "link": "https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/",
-    "content": "The astronauts will arrive about 10,300 kilometers beyond our satellite, breaking all previous records for distance from Earth. But how was their route chosen?",
-    "date": "2026-04-04T09:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/interactive/2026/03/29/world/middleeast/iran-war-global-impact-economy-fuel.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How the Iran War Has Rippled Across the World",
-    "author": "",
-    "link": "https://www.nytimes.com/interactive/2026/03/29/world/middleeast/iran-war-global-impact-economy-fuel.html",
-    "content": "",
-    "date": "2026-04-04T09:18:44",
     "category": "NYT"
   }
 ]
