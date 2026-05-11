@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a01e56c00e9528f31d8189f",
+    "feed_name": "Wired (Science)",
+    "title": "A New Hantavirus Vaccine Is in the Works",
+    "author": "Javier Carbajal",
+    "link": "https://www.wired.com/story/a-new-hantavirus-vaccine-is-in-the-works/",
+    "content": "Since 2023, Moderna and Korea University have been developing a new mRNA vaccine for hantavirus. The work has been promising so far, but a finished product isn't likely coming any time soon.",
+    "date": "2026-05-11T17:16:02",
+    "category": "Magazines"
+  },
+  {
+    "id": "ad9a9300-0974-48f0-8fa9-79615b859a82",
+    "feed_name": "Economist",
+    "title": "China wants more robots but not fewer workers",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers",
+    "content": "A human-first approach to automation",
+    "date": "2026-05-11T17:15:55",
+    "category": "Magazines"
+  },
+  {
     "id": "26217734-5556-4ab9-9e5d-d852c0e1bf0f",
     "feed_name": "Economist",
     "title": "America is experiencing a productivity miracle",
@@ -357,6 +377,16 @@
     "link": "https://www.nytimes.com/2026/05/11/opinion/cuba-us-blockade.html",
     "content": "If Americans knew what Cuba was enduring, they would demand an end to the U.S. blockade.",
     "date": "2026-05-11T05:31:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What Middle Powers Fear from the Trump-Xi Summit",
+    "author": "Damien Cave",
+    "link": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
+    "content": "President Trump and Xi Jinping after their meeting in Busan, South Korea, in 2025.",
+    "date": "2026-05-11T04:01:08",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/31/arts/melvin-edwards-dead.html",
     "content": "",
     "date": "2026-04-05T07:48:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/02/world/africa/liamine-zeroual-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Liamine Zeroual, Algerian President During Civil War, Dies at 84",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/02/world/africa/liamine-zeroual-dead.html",
-    "content": "",
-    "date": "2026-04-05T07:33:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/arts/music/dolores-keane-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Dolores Keane, Singer Known as the \u2018Soul of Ireland,\u2019 Dies at 72",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/arts/music/dolores-keane-dead.html",
-    "content": "",
-    "date": "2026-04-05T07:18:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/nyregion/jupiter-joe-bronx-murder.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Who Murdered Minerliz? How a Diner Meet-up Cracked the Case.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/01/nyregion/jupiter-joe-bronx-murder.html",
-    "content": "",
-    "date": "2026-04-05T07:03:46",
     "category": "NYT"
   }
 ]
