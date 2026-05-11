@@ -110,6 +110,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Is Considering Pausing the Federal Gas Tax to Lower Prices, Energy Secretary Says",
+    "author": "Adam Sella",
+    "link": "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html",
+    "content": "The average national price for a gallon of gasoline was $4.52 on Sunday, according to the AAA motor club.",
+    "date": "2026-05-10T19:52:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/10/us/elections/republican-primary-governor-iowa.html",
     "feed_name": "NYT (Shared)",
     "title": "G.O.P. Fatigue in Iowa Strains the Republican Primary for Governor",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/04/business/student-loans-abroad-default.html",
     "content": "Amanda Lynn Tully, 37, moved to Prague and defaulted on her student loans. She hasn\u2019t made a payment in over seven years.",
     "date": "2026-04-04T17:29:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-    "feed_name": "NYT (Popular)",
-    "title": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-    "author": "Neil Vigdor and Aurelien Breeden",
-    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-    "content": "An F-15E Strike Eagle, the type of plane shot down in Iran.",
-    "date": "2026-04-04T14:37:40",
     "category": "NYT"
   }
 ]
