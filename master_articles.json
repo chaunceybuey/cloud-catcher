@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/us/obama-james-talarico-texas-senate-2026-democrats.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Obama Enters Texas Senate Fight With Support for Talarico",
+    "author": "J. David Goodman",
+    "link": "https://www.nytimes.com/2026/05/12/us/obama-james-talarico-texas-senate-2026-democrats.html",
+    "content": "Texas gubernatorial candidate Gina Hinojosa (D-TX), Texas Senate candidate James Talarico (D-TX) and Former President Barack Obama meet patrons at the restaurant Taco Joint on the campaign trail on Tuesday in Austin.",
+    "date": "2026-05-12T22:29:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229870",
     "feed_name": "Texas Tribune",
     "title": "Barack Obama appears with James Talarico and Gina Hinojosa at Austin restaurant",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/06/style/easter-egg-roll-melania-trump-ralph-lauren.html",
     "content": "The president and first lady mingled with young guests at the White House Easter Egg Roll on Monday.",
     "date": "2026-04-06T23:48:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ",
-    "author": "Chris Cameron",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html",
-    "content": "Defense Secretary Pete Hegseth speaking at a news conference at the White House on Monday.",
-    "date": "2026-04-06T23:38:58",
     "category": "NYT"
   }
 ]
