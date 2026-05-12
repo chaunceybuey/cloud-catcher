@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
+    "feed_name": "NYT (Shared)",
+    "title": "U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities",
+    "author": "Adam Entous, Maggie Haberman and Jonathan Swan",
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
+    "content": "Missile displays in Tehran in 2024. According to classified U.S. intelligence assessments, Iran retains roughly 70 percent of its prewar missile stockpile.",
+    "date": "2026-05-12T23:01:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=229889",
+    "feed_name": "Texas Tribune",
+    "title": "Former Texas lottery director was indicted by grand jury before case got dismissed",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17339510/texas-lottery-gary-grief-indictment",
+    "content": "Lottery tickets sit near the cash register in Hyde Park Market in Austin on May 5, 2025.",
+    "date": "2026-05-12T22:51:06",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229870",
     "feed_name": "Texas Tribune",
     "title": "Barack Obama appears with James Talarico and Gina Hinojosa at Austin restaurant",
@@ -108,6 +128,16 @@
     "content": "Will they lose their nerve before Hormuz reopens?",
     "date": "2026-05-12T21:15:08",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/us/politics/lincoln-memorial-pool-repairs.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Reflecting Pool Repairs Appear Uneven and Behind Schedule, Officials Say",
+    "author": "David A. Fahrenthold and Maxine Joselow",
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/lincoln-memorial-pool-repairs.html",
+    "content": "About 35 percent of the Lincoln Memorial Reflecting Pool\u2019s surface had been fully coated as of Sunday, according to a government document. The repair work is supposed to be done by May 22.",
+    "date": "2026-05-12T20:46:59",
+    "category": "NYT"
   },
   {
     "id": "https://www.kmfa.org/pages/19884-broadway-in-austin-presented-by-texas-performing-arts-the-wiz",
@@ -19968,35 +19998,5 @@
     "content": "Defense Secretary Pete Hegseth speaking at a news conference at the White House on Monday.",
     "date": "2026-04-06T23:38:58",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225949",
-    "feed_name": "Texas Tribune",
-    "title": "Iranian asylum seeker detained in El Paso and New Mexico for months despite release orders",
-    "author": "By Cindy Ramirez,\u00a0El Paso Matters",
-    "link": "https://feeds.texastribune.org/link/16799/17314801/ice-detention-el-paso-iranian-asylum-seeker",
-    "content": "Argam Nazarian, an Iranian asylum seeker escaping religious persecution, has been in Immigration and Customs Enforcement detention since June 2025.",
-    "date": "2026-04-06T22:27:57",
-    "category": "Texas"
-  },
-  {
-    "id": "69d3cedfa45f810621c3c9f6",
-    "feed_name": "Wired (Science)",
-    "title": "A Single Strike Won\u2019t Shut Off the Gulf\u2019s Desalination System",
-    "author": "Dana Alomar",
-    "link": "https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/",
-    "content": "The Gulf\u2019s water system is built with layers of backup, but it relies on continuous operation to hold.",
-    "date": "2026-04-06T20:23:04",
-    "category": "Magazines"
-  },
-  {
-    "id": "da99a3a9-fc4f-416a-a133-17a1349239cc",
-    "feed_name": "Economist",
-    "title": "As Iran\u2019s civilian economy crumbles, its military economy grows stronger",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/06/as-irans-civilian-economy-crumbles-its-military-economy-grows-stronger",
-    "content": "War has split the country in two",
-    "date": "2026-04-06T19:45:06",
-    "category": "Magazines"
   }
 ]
