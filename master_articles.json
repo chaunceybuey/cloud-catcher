@@ -110,6 +110,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "cbdf4c87-57c6-4e64-bd50-ae6d0fadec41",
+    "feed_name": "Economist",
+    "title": "Index rebalancing is now the biggest event in markets",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/12/index-rebalancing-is-now-the-biggest-event-in-markets",
+    "content": "But profiting from it is another matter",
+    "date": "2026-05-12T19:05:21",
+    "category": "Magazines"
+  },
+  {
     "id": "613c07bd992c64ada3dfbc182dc0e601",
     "feed_name": "The Atlantic",
     "title": "Big Brother Is ReTruthing You",
@@ -19988,15 +19998,5 @@
     "content": "Artemis II remains on course for its lunar flyby as the crew shares historic photos of Earth, tests key systems for future lunar missions, and attempts to fix the toilet.",
     "date": "2026-04-06T14:21:04",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/02/opinion/christian-atheist-debate-religion.html",
-    "feed_name": "Interesting Times",
-    "title": "Did Jesus Rise From the Dead? A Debate.",
-    "author": "Ross Douthat and Emily Holzknecht",
-    "link": "https://www.nytimes.com/2026/04/02/opinion/christian-atheist-debate-religion.html",
-    "content": "A \u2018Christian Atheist\u2019 joins Ross Douthat.",
-    "date": "2026-04-06T13:12:44",
-    "category": "Uncategorized"
   }
 ]
