@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229745",
+    "feed_name": "Texas Tribune",
+    "title": "UT-Austin defends its handling of pro-Palestinian protest in federal trial",
+    "author": "Sneha Dey",
+    "link": "https://feeds.texastribune.org/link/16799/17338836/university-texas-austin-student-lawsuit-2024-palestinian-protest",
+    "content": "Texas Department of Public Safety troopers surround a pro-Palestinian encampment on the University of Texas at Austin campus on Monday, April 29, 2024.",
+    "date": "2026-05-12T00:24:22",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229694",
     "feed_name": "Texas Tribune",
     "title": "With Trump and Talarico aligned on a gas tax holiday, Cornyn gets on board",
@@ -137,6 +147,16 @@
     "link": "https://www.nytimes.com/2026/05/11/us/politics/trump-china-musk-cook.html",
     "content": "The delegation includes business leaders across a wide range of industries, including Tim Cook of Apple and Elon Musk of Tesla.",
     "date": "2026-05-11T19:34:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/upshot/family-leave-cuts-deloitte-zoom.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Why Two Big Companies Just Cut Paid Family Leave",
+    "author": "Claire Cain Miller",
+    "link": "https://www.nytimes.com/2026/05/11/upshot/family-leave-cuts-deloitte-zoom.html",
+    "content": "The U.S. is the only industrialized nation not to have paid family leave as a federal benefit.",
+    "date": "2026-05-11T19:27:54",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html",
     "content": "",
     "date": "2026-04-06T05:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/04/business/media/hollywood-writers-contract-deal.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Screenwriters Union and Studios Swiftly Reach Tentative Deal",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/04/business/media/hollywood-writers-contract-deal.html",
-    "content": "",
-    "date": "2026-04-06T04:48:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/theater/burnout-paradise-treadmills-theater-off-broadway.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Show That Gives \u2018Running Time\u2019 a New Meaning",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/theater/burnout-paradise-treadmills-theater-off-broadway.html",
-    "content": "",
-    "date": "2026-04-06T04:33:49",
     "category": "NYT"
   }
 ]
