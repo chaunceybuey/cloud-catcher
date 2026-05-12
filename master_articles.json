@@ -370,6 +370,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/magazine/testosterone-masculinity-trump-rfk.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Why So Many Guys Are Obsessed With Testosterone",
+    "author": "Azeen Ghorayshi",
+    "link": "https://www.nytimes.com/2026/05/12/magazine/testosterone-masculinity-trump-rfk.html",
+    "content": "From the Trump administration to online influencers, the hormone is increasingly seen as the key to achieving a new male ideal.",
+    "date": "2026-05-12T09:01:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/california-fired-teacher-sexual-harassment",
     "feed_name": "ProPublica",
     "title": "He Was Fired for Sexually Harassing Students. California Allowed Him to Keep Teaching Anyway.",
@@ -19986,16 +19996,6 @@
     "author": "ByBenjamin Wallace-Wells",
     "link": "https://www.newyorker.com/magazine/2026/04/13/donald-trump-and-pete-hegseths-warped-vision-of-the-iran-war",
     "content": "The two men might wish that they lived in a world where whoever dropped the most bombs got whatever he wanted. But the war has shown that this isn\u2019t true.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "814b70084c36836baf521dbe9c91f0cd",
-    "feed_name": "New Yorker",
-    "title": "Geese, Cooked",
-    "author": "ByEmma Allen",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/geese-cooked",
-    "content": "As bird flu hits the Hamptons, Long Island\u2019s fanciest beaches are becoming mass graves for felled fowl.",
     "date": "2026-04-06T10:59:46",
     "category": "Magazines"
   }
