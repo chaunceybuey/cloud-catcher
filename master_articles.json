@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "44e422429cc7672474a733d4de2f039c",
+    "feed_name": "The Atlantic",
+    "title": "How Does It Spread?",
+    "author": "Joseph Allen",
+    "link": "https://www.theatlantic.com/ideas/2026/05/hantavirus-outbreak-cruise-ship/687140/",
+    "content": "Answering this question is essential to public health, but people keep getting it wrong.",
+    "date": "2026-05-12T19:20:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/05/trump-truth-social-obama-conspiracy-theories/687143/",
     "feed_name": "Chait",
     "title": "Big Brother Is ReTruthing You",
@@ -178,6 +188,16 @@
     "content": "Here\u2019s what you need to know, from why the cruise ship outbreak won\u2019t spark the next pandemic to how hantavirus spreads.",
     "date": "2026-05-12T15:33:59",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/style/the-pitt-joy-kwon-irene-choi-work-life-balance.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "On \u2018The Pitt,\u2019 She Clocked Out on Time. In Real Life, It Started a Debate.",
+    "author": "Alisha Haridasani Gupta",
+    "link": "https://www.nytimes.com/2026/05/11/style/the-pitt-joy-kwon-irene-choi-work-life-balance.html",
+    "content": "When Joy Kwon, a third-year medical student on TV, set a boundary, she stirred a work-life balance debate among medical professionals and fans.",
+    "date": "2026-05-12T15:33:17",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/12/dining/20-minute-dinners-for-when-you-are-dunzo.html",
@@ -407,6 +427,16 @@
     "link": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
     "content": "The new strategy also holds promise for lung and colon tumors. Here\u2019s how scientists discovered it.",
     "date": "2026-05-12T09:02:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/us/san-antonio-texas-rainbow-crosswalks.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Texas Rainbow Crosswalk Ban Leads San Antonio to Paint Sidewalks Instead",
+    "author": "Edgar Sandoval",
+    "link": "https://www.nytimes.com/2026/05/12/us/san-antonio-texas-rainbow-crosswalks.html",
+    "content": "The rainbows on crosswalks began disappearing after the state ordered all Texas cities to remove the colorful crosswalks and similar markings, citing safety issues and opposition to political messaging.",
+    "date": "2026-05-12T09:01:52",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Okay, but if you are using bill pay or have something like a paycheck or SS deposited, it won't happen. That seems like a big problem. What if you have an urgent need for money and can't get it?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Hopefully its something that can be done on a per account basis and not on ALL accounts, so you could leave a CMA unlocked for bill pay / ACH but lock down your brokerage.  But overall it seems limited you'd have to have a specific use case.<br /><br />Likely this would be most useful if you are traveling out of county or would otherwise be unavailable for a short period of time and are worried about not having monitoring / access in case there was a problem.<br /><br />Like, if I were on the Artemis II right now, I would of totally called Fidelity and lock down my brokerage account  <img alt=\":D\" class=\"smilies\" height=\"15\" src=\"https://www.bogleheads.org/forum/images/smilies/icon_biggrin.gif\" title=\"Very Happy\" width=\"15\" />, otherwise....<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=182916\">volstagg</a> \u2014 Mon Apr 06, 2026 11:56 am</p><hr />",
     "date": "2026-04-06T16:56:07",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/05/us/ice-detains-military-wife-soldier-deployment.html",
-    "feed_name": "NYT (Popular)",
-    "title": "ICE Agents Detain Newlywed Spouse of Soldier Training to Deploy",
-    "author": "Miriam Jordan",
-    "link": "https://www.nytimes.com/2026/04/05/us/ice-detains-military-wife-soldier-deployment.html",
-    "content": "Staff Sergeant Matthew Blank and his mother, Jen Rickling, outside the detention center in Basile, La., where his wife is being held.",
-    "date": "2026-04-06T16:11:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225879",
-    "feed_name": "Texas Tribune",
-    "title": "This Texas House GOP nominee once urged Republicans to soften their immigration rhetoric. He\u2019s changed his tune.",
-    "author": "Renzo Downey",
-    "link": "https://feeds.texastribune.org/link/16799/17314594/texas-house-brad-bailey-immigration-republican",
-    "content": "Brad Bailey is a conservative candidate for the Texas House of Representatives District 15.",
-    "date": "2026-04-06T16:06:12",
-    "category": "Texas"
-  },
-  {
-    "id": "69d3b6e717c9ea871124b42f",
-    "feed_name": "Wired (Science)",
-    "title": "Artemis II: Everything We Know as Its Crew Approaches the Far Side of the Moon",
-    "author": "Javier Carbajal",
-    "link": "https://www.wired.com/story/artemis-ii-everything-we-know-as-orion-approaches-the-far-side-of-the-moon/",
-    "content": "Artemis II remains on course for its lunar flyby as the crew shares historic photos of Earth, tests key systems for future lunar missions, and attempts to fix the toilet.",
-    "date": "2026-04-06T14:21:04",
-    "category": "Magazines"
   }
 ]
