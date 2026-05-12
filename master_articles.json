@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a021be221cf4dd30c9746a6",
+    "feed_name": "Wired (Science)",
+    "title": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/all-your-hantavirus-questions-answered-by-an-infectious-disease-expert/",
+    "content": "Here\u2019s what you need to know, from why the cruise ship outbreak won\u2019t spark the next pandemic to how hantavirus spreads.",
+    "date": "2026-05-12T15:33:59",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/12/dining/20-minute-dinners-for-when-you-are-dunzo.html",
     "feed_name": "Weeknight Dishes",
     "title": "20-Minute Dinners for When You Are Dunzo",
@@ -19986,16 +19996,6 @@
     "author": "ByAntonia Hitchens",
     "link": "https://www.newyorker.com/magazine/2026/04/13/how-the-internet-fringe-infiltrated-republican-politics",
     "content": "Inside the battle for the post-MAGAG.O.P.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "71dc5c4daba7b3f6c2543e71b38d66a6",
-    "feed_name": "New Yorker",
-    "title": "Our Mom-and-Pop Data Center",
-    "author": "ByJed FeimanandNehemiah Markos",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/our-mom-and-pop-data-center",
-    "content": "Mornin\u2019, tech brothers and sisters! Come take a walk on our information super country road.",
     "date": "2026-04-06T10:59:46",
     "category": "Magazines"
   }
