@@ -100,6 +100,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/05/28/whither-the-nerd-bully-bill-gates/",
+    "feed_name": "NYRB",
+    "title": "Whither the Nerd-Bully?",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/05/28/whither-the-nerd-bully-bill-gates/",
+    "content": "Bill Gates was the monopolistic father figure who Silicon Valley\u2019s young founders rebelled against\u2014and, in so rebelling, became.\n\nDelivered by PolitePaul service",
+    "date": "2026-05-12T14:48:57",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
+    "feed_name": "NYT (Shared)",
+    "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
+    "author": "Lydia DePillis",
+    "link": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
+    "content": "The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans.",
+    "date": "2026-05-12T14:41:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/05/28/indianas-indiana-jones-the-grave-robber-carpenter/",
+    "feed_name": "NYRB",
+    "title": "Indiana\u2019s Indiana Jones",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/05/28/indianas-indiana-jones-the-grave-robber-carpenter/",
+    "content": "FBI agents who raided an Indiana farm in 2014 were astonished to find some 42,000 artifacts and bones looted by an amateur archaeologist.\n\nDelivered by PolitePaul service",
+    "date": "2026-05-12T14:33:57",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/05/12/business/inflation-report-cpi/cpi-inflation-report-consumer-prices",
     "feed_name": "NYT (Shared)",
     "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
@@ -150,6 +180,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
+    "author": "Constant M\u00e9heut",
+    "link": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
+    "content": "A rescue worker at a Philip Morris factory in Kharkiv, Ukraine, which was hit in a Russian missile strike in January.",
+    "date": "2026-05-12T10:46:19",
+    "category": "NYT"
+  },
+  {
     "id": "6a0217b383b086caa78022a2",
     "feed_name": "Wired",
     "title": "The Creators of \u2018Hacks\u2019 Really, Really, Really Hate AI",
@@ -198,6 +238,26 @@
     "content": "<p>The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.</p>",
     "date": "2026-05-12T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/opinion/trump-is-fighting-the-worlds-stupidest-culture-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Is Fighting the World\u2019s Stupidest Culture War",
+    "author": "Thomas B. Edsall",
+    "link": "https://www.nytimes.com/2026/05/12/opinion/trump-is-fighting-the-worlds-stupidest-culture-war.html",
+    "content": "\u201cHe sees fossil fuels as manly and renewables as woke.\u201d",
+    "date": "2026-05-12T09:03:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/opinion/hantavirus-complacency.html",
+    "feed_name": "NYT (Shared)",
+    "title": "We Should Be Taking Hantavirus More Seriously",
+    "author": "Zeynep Tufekci",
+    "link": "https://www.nytimes.com/2026/05/12/opinion/hantavirus-complacency.html",
+    "content": "There are too many unknowns to be certain about much.",
+    "date": "2026-05-12T09:03:48",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html",
@@ -19936,66 +19996,6 @@
     "author": "ByJerome Groopman",
     "link": "https://www.newyorker.com/magazine/2026/04/13/beyond-inheritance-roxanne-khamsi-book-review",
     "content": "Genetic research has been complicating the idea of the genome as a determinative blueprint.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "a5987838050e792d84262e1e67fd1d8a",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/in-the-days-of-my-youth-i-was-told-what-it-means-to-be-a-man-true-color-half-his-age-and-under-water",
-    "content": "\u201cIn the Days of My Youth I Was Told What It Means to Be a Man,\u201d \u201cTrue Color,\u201d \u201cHalf His Age,\u201d and \u201cUnder Water.\u201d",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "438effb849558574459db35362b23df5",
-    "feed_name": "New Yorker",
-    "title": "Will Biblical Womanhood Box You In or Set You Free?",
-    "author": "ByEmma Green",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/awake-jen-hatmaker-book-review-lead-like-jael-emma-waters",
-    "content": "Two writers of different evangelical generations offer rival visions of marriage, motherhood, and ambition.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "fad81f1ed2d4eb49c8de75f50db4d773",
-    "feed_name": "New Yorker",
-    "title": "In Marie NDiaye\u2019s Spellbinding New Novel, Witchcraft Stays in the Family",
-    "author": "ByKristen Roupenian",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/the-witch-marie-ndiaye-book-review",
-    "content": "In \u201cThe Witch,\u201d a mother passes to her daughters a secret, burdensome power, but sorcery can\u2019t fix a household that\u2019s coming apart.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "7ff21a0683f04662efd66eca90570676",
-    "feed_name": "New Yorker",
-    "title": "The New Museum Returns, but Humans Are Left Behind",
-    "author": "ByZachary Fine",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/the-new-museum-returns-but-humans-are-left-behind",
-    "content": "After an eighty-two-million-dollar renovation, the museum has put on a sprawling show about the war between humanity and technology. We seem to be losing.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "afa9a293df0c322160afecd2d5b1ee51",
-    "feed_name": "New Yorker",
-    "title": "Kanye West Makes a Record for the A.I. Era",
-    "author": "ByKelefa Sanneh",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/kanye-west-music-review-bully",
-    "content": "Fans want to know whether the vocals on his new album, \u201cBully,\u201d are truly his. But the question of what the \u201creal\u201d Ye sounds like has never been simple.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "08b6ffe586e46abac242a5ba19910648",
-    "feed_name": "New Yorker",
-    "title": "Broadway\u2019s \u201cDog Day Afternoon\u201d Is a Dog",
-    "author": "ByEmily Nussbaum",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/dog-day-afternoon-theatre-review",
-    "content": "Sidney Lumet\u2019s kinetic, emotionally complex film has been transformed into a hokey sitcom with gunshots.",
     "date": "2026-04-06T10:59:46",
     "category": "Magazines"
   }
