@@ -100,6 +100,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.theatlantic.com/ideas/2026/05/trump-truth-social-obama-conspiracy-theories/687143/",
+    "feed_name": "Chait",
+    "title": "Big Brother Is ReTruthing You",
+    "author": "",
+    "link": "https://www.theatlantic.com/ideas/2026/05/trump-truth-social-obama-conspiracy-theories/687143/",
+    "content": "Donald Trump is a victim of propaganda as much as he is a manipulator of it.\nDelivered by PolitePaul service",
+    "date": "2026-05-12T19:18:44",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "613c07bd992c64ada3dfbc182dc0e601",
+    "feed_name": "The Atlantic",
+    "title": "Big Brother Is ReTruthing You",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/05/trump-truth-social-obama-conspiracy-theories/687143/",
+    "content": "Donald Trump is a victim of propaganda as much as he is a manipulator of it.",
+    "date": "2026-05-12T18:01:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "b1471d1562e0bc6254c17a367e6232fa",
+    "feed_name": "The Atlantic",
+    "title": "How AI Killed a 133-Year-Old Princeton Tradition",
+    "author": "Rose Horowitch",
+    "link": "https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/",
+    "content": "The school\u2019s famous Honor Code was no match for chatbot-enabled cheating.",
+    "date": "2026-05-12T16:32:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/12/movies/rex-reed-dead.html",
     "feed_name": "NYT (Shared)",
     "title": "Rex Reed, Film Critic Known for Acerbic Reviews, Dies at 87",
@@ -19968,35 +19998,5 @@
     "content": "A \u2018Christian Atheist\u2019 joins Ross Douthat.",
     "date": "2026-04-06T13:12:44",
     "category": "Uncategorized"
-  },
-  {
-    "id": "7a4edb5ca41b92faf69f57c6db725316",
-    "feed_name": "Compact",
-    "title": "The Information State Isn\u2019t Going Away",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-information-state-isnt-going-away/",
-    "content": "",
-    "date": "2026-04-06T11:55:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "8eb66c39ba5d3447fc9d8a2950b8bbc6",
-    "feed_name": "New Yorker",
-    "title": "New Directors, New Films",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/new-directors-new-films",
-    "content": "Also: Zendaya and Robert Pattinson in \u201cThe Drama,\u201d Michael Schulman on spring fabulosity, Rachel Syme on the latest in trenchcoats, and more.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "26a318aa13f2632c0b57963c9f21b3d3",
-    "feed_name": "New Yorker",
-    "title": "Donald Trump and Pete Hegseth\u2019s Warped Vision of the Iran War",
-    "author": "ByBenjamin Wallace-Wells",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/donald-trump-and-pete-hegseths-warped-vision-of-the-iran-war",
-    "content": "The two men might wish that they lived in a world where whoever dropped the most bombs got whatever he wanted. But the war has shown that this isn\u2019t true.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
   }
 ]
