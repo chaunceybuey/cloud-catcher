@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229686",
+    "feed_name": "Texas Tribune",
+    "title": "Christian Menefee, Alex Mealer lead Houston-area congressional runoffs, new poll finds",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17339156/texas-houston-congressional-runoffs-hobby-school-poll-menefee-green-mealer-cain",
+    "content": "From left: State Rep. Briscoe Cain, R-Deer Park and Alex Mealer, Republican candidates for the newly drawn 9th Congressional District, and U.S. Reps. Al Green and Christian Menefee, Democratic candidates for the 18th Congressional District. The May 26 primary runoff elections will determine who will advance as their party&#039;s nominee in November.",
+    "date": "2026-05-12T12:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "69ea3ca5a5897da10992ccf4",
     "feed_name": "Wired",
     "title": "Why Soccer Still Defies Statistical Analysis",
@@ -158,6 +168,16 @@
     "content": "<p>The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.</p>",
     "date": "2026-05-12T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How an \u2018Impossible\u2019 Idea Led to a Pancreatic Cancer Breakthrough",
+    "author": "Gina Kolata and Rebecca Robbins",
+    "link": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
+    "content": "The new strategy also holds promise for lung and colon tumors. Here\u2019s how scientists discovered it.",
+    "date": "2026-05-12T09:02:10",
+    "category": "NYT"
   },
   {
     "id": "https://www.propublica.org/article/california-fired-teacher-sexual-harassment",
@@ -19978,25 +19998,5 @@
     "content": "Today\u2019s theme: Overdrive.",
     "date": "2026-04-06T10:59:46",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225684",
-    "feed_name": "Texas Tribune",
-    "title": "Texas to launch a statewide food truck permit on July 1",
-    "author": "Zahiyah Carter",
-    "link": "https://feeds.texastribune.org/link/16799/17314350/texas-food-truck-statewide-licensing-fee",
-    "content": "Eloisa Schessler outside of her food truck, Eloisa\u2019s Kitchen, located at Klyde Warren Park near downtown Dallas, on March 12, 2026.",
-    "date": "2026-04-06T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225778",
-    "feed_name": "Texas Tribune",
-    "title": "These Texans want better schools for Black students. They disagree on vouchers as the answer.",
-    "author": "Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17314351/texas-school-vouchers-black-students-segregation",
-    "content": "Jennifer Lee and Kyev Tatum.",
-    "date": "2026-04-06T10:00:00",
-    "category": "Texas"
   }
 ]
