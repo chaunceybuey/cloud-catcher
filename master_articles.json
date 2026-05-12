@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/dining/20-minute-dinners-for-when-you-are-dunzo.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "20-Minute Dinners for When You Are Dunzo",
+    "author": "Margaux Laskey",
+    "link": "https://www.nytimes.com/2026/05/12/dining/20-minute-dinners-for-when-you-are-dunzo.html",
+    "content": "The dead-simple dinners \u2014 like halloumi tacos and creamy cabbage pastina \u2014 we turn to when Maycember ramps up.",
+    "date": "2026-05-12T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/05/28/whither-the-nerd-bully-bill-gates/",
     "feed_name": "NYRB",
     "title": "Whither the Nerd-Bully?",
@@ -257,6 +267,16 @@
     "link": "https://www.nytimes.com/2026/05/12/opinion/hantavirus-complacency.html",
     "content": "There are too many unknowns to be certain about much.",
     "date": "2026-05-12T09:03:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Former Congressman Barney Frank, Now in Hospice, Offers Democrats Frank Words of Advice",
+    "author": "Jenna Russell",
+    "link": "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html",
+    "content": "Former Representative Barney Frank in Ogunquit, Maine, in 2017. Mr. Frank, who has congestive heart failure, is speaking out on the future of the Democratic Party.",
+    "date": "2026-05-12T09:02:24",
     "category": "NYT"
   },
   {
@@ -19976,26 +19996,6 @@
     "author": "ByJed FeimanandNehemiah Markos",
     "link": "https://www.newyorker.com/magazine/2026/04/13/our-mom-and-pop-data-center",
     "content": "Mornin\u2019, tech brothers and sisters! Come take a walk on our information super country road.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "e8d144b464701f37e1ec958e8637e006",
-    "feed_name": "New Yorker",
-    "title": "\u201cRate Your Happiness\u201d",
-    "author": "ByCatherine Lacey",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/rate-your-happiness-fiction-catherine-lacey",
-    "content": "How natural it is to fail, to fail to decide, to remain in meaningless motion.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "225212e5782292ef33e780d030a22ef3",
-    "feed_name": "New Yorker",
-    "title": "We Are All Constantly Mutating\u2014and That\u2019s a Good Thing",
-    "author": "ByJerome Groopman",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/beyond-inheritance-roxanne-khamsi-book-review",
-    "content": "Genetic research has been complicating the idea of the genome as a determinative blueprint.",
     "date": "2026-04-06T10:59:46",
     "category": "Magazines"
   }
