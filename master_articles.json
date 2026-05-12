@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/live/2026/05/12/business/inflation-report-cpi/cpi-inflation-report-consumer-prices",
+    "feed_name": "NYT (Shared)",
+    "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
+    "author": "Lydia DePillis",
+    "link": "https://www.nytimes.com/live/2026/05/12/business/inflation-report-cpi/cpi-inflation-report-consumer-prices",
+    "content": "The consumer price index increased X.X% in April from a year earlier as higher energy costs raised a range of prices for Americans.",
+    "date": "2026-05-12T13:51:25",
+    "category": "NYT"
+  },
+  {
     "id": "6a170438cbdd136c295bc4c9f19efb77",
     "feed_name": "Compact",
     "title": "Who Benefits from Urban Poverty?",
@@ -188,6 +198,16 @@
     "content": "<p>The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.</p>",
     "date": "2026-05-12T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Your Decision Making Is All Wrong",
+    "author": "David Epstein",
+    "link": "https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html",
+    "content": "Why searching for the best is the wrong goal.",
+    "date": "2026-05-12T09:02:17",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
@@ -547,6 +567,16 @@
     "link": "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html",
     "content": "The word puzzle published by The New York Times is the inspiration for a game show that will begin airing next year. Jimmy Fallon is a producer.",
     "date": "2026-05-11T13:28:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/science/a-fish-that-hitches-rides-where-the-sun-doesnt-shine.html",
+    "feed_name": "NYT (Shared)",
+    "title": "A Fish That Hitches Rides Where the Sun Doesn\u2019t Shine",
+    "author": "Jason Bittel",
+    "link": "https://www.nytimes.com/2026/05/11/science/a-fish-that-hitches-rides-where-the-sun-doesnt-shine.html",
+    "content": "Traditionally, experts have seen the relationship between remoras and manta rays as either commensal or mutualistic, but this arrangement may veer into the parasitic.",
+    "date": "2026-05-11T13:00:05",
     "category": "NYT"
   },
   {
@@ -19966,36 +19996,6 @@
     "author": "ByEmily Nussbaum",
     "link": "https://www.newyorker.com/magazine/2026/04/13/dog-day-afternoon-theatre-review",
     "content": "Sidney Lumet\u2019s kinetic, emotionally complex film has been transformed into a hokey sitcom with gunshots.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "75a827e5fcdb52bba6774c3ddb96b335",
-    "feed_name": "New Yorker",
-    "title": "Savannah Guthrie\u2019s Excruciating Story, on \u201cToday\u201d",
-    "author": "ByVinson Cunningham",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/savannah-guthries-excruciating-story-on-today",
-    "content": "The morning-show host recounted the disappearance of her mother, Nancy, and its aftermath in boldly religious terms, as millions of viewers watched.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "488450d840a524a7dc5e9801a299e45f",
-    "feed_name": "New Yorker",
-    "title": "An Artists\u2019 Duel Proves Restorative in \u201cThe Christophers\u201d",
-    "author": "ByJustin Chang",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/the-christophers-movie-review",
-    "content": "In Steven Soderbergh\u2019s film, Ian McKellen and Michaela Coel are superbly matched as two skilled painters who find their way from slippery deception to common ground.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "63a8f612e63f4a69457fd87e5381616c",
-    "feed_name": "New Yorker",
-    "title": "\u201cTheodore Roosevelt Taylor\u201d",
-    "author": "ByTyehimba Jess",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/theodore-roosevelt-taylor-tyehimba-jess-poem",
-    "content": "\u201cIn short, he slid metal on string till the devil / got tickled and laughed up the Blues.\u201d",
     "date": "2026-04-06T10:59:46",
     "category": "Magazines"
   }
