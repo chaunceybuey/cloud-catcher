@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "69ea3ca5a5897da10992ccf4",
+    "feed_name": "Wired",
+    "title": "Why Soccer Still Defies Statistical Analysis",
+    "author": "Nick Greene",
+    "link": "https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/",
+    "content": "Sarah Rudd, who once ran analytics for Arsenal, made her name applying the tenets of probability theory to movements on the pitch. Even she admits not everything can be solved with data.",
+    "date": "2026-05-12T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a0217b383b086caa78022a2",
     "feed_name": "Wired",
     "title": "The Creators of \u2018Hacks\u2019 Really, Really, Really Hate AI",
@@ -238,6 +248,16 @@
     "content": "A train crosses the Rio Grande near the Laredo Convent Avenue Port of Entry between Laredo and Nuevo Laredo on Nov. 5, 2015.",
     "date": "2026-05-11T21:35:42",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/climate/trump-fema-cameron-hilton.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Nominates Cameron Hamilton to Lead FEMA",
+    "author": "Scott Dance",
+    "link": "https://www.nytimes.com/2026/05/11/climate/trump-fema-cameron-hilton.html",
+    "content": "Cameron Hamilton campaigning in 2024 during his unsuccessful run as a Republican for a congressional seat in Virginia.",
+    "date": "2026-05-11T21:21:43",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/11/arts/music/gustavo-dudamel-ny-philharmonic-spanish-harlem-orchestra.html",
@@ -19978,25 +19998,5 @@
     "content": "Jennifer Lee and Kyev Tatum.",
     "date": "2026-04-06T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "6984e5185d7af74810a82006",
-    "feed_name": "Wired",
-    "title": "Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them",
-    "author": "Claire McNear",
-    "link": "https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/",
-    "content": "Your venomous serpent bites you, and the clock is ticking. America\u2019s zookeepers\u2014and a cooler full of rare antivenom\u2014are your best chance of survival.",
-    "date": "2026-04-06T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=18705",
-    "feed_name": "Stratechery",
-    "title": "OpenAI Buys TBPN, Tech and the Token Tsunami",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/",
-    "content": "<p>OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.</p>",
-    "date": "2026-04-06T10:00:00",
-    "category": "Tech"
   }
 ]
