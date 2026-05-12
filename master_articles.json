@@ -120,6 +120,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html",
+    "feed_name": "NYT (Shared)",
+    "title": "China Increasingly Views Trump\u2019s America as an Empire in Decline",
+    "author": "Li Yuan",
+    "link": "https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html",
+    "content": "The port at Tianjin, China. In response to President Trump\u2019s tariffs, China has become more assertive on the global stage.",
+    "date": "2026-05-12T04:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/climate/public-land-rule-repeal.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Administration to Scrap Rule Encouraging Conservation",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/03/21/us/new-apple-climate-change.html",
     "content": "",
     "date": "2026-04-06T07:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/us/politics/dark-money-nonprofits-explainer.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Democrats Are Embracing Dark Money",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/us/politics/dark-money-nonprofits-explainer.html",
-    "content": "",
-    "date": "2026-04-06T07:18:49",
     "category": "NYT"
   }
 ]
