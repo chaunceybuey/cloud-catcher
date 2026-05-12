@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
+    "feed_name": "NYT (Shared)",
+    "title": "RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence",
+    "author": "Christina Jewett and Sheryl Gay Stolberg",
+    "link": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
+    "content": "Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.",
+    "date": "2026-05-11T20:02:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/us/politics/trump-china-musk-cook.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump to Be Joined by Elon Musk and Other CEOs at Xi Summit in China",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/04/opinion/iran-war-trump-win.html",
     "content": "",
     "date": "2026-04-06T06:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/opinion/trump-europe-iran-meloni-italy.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Giorgia Meloni Fell to Earth",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/opinion/trump-europe-iran-meloni-italy.html",
-    "content": "",
-    "date": "2026-04-06T05:48:49",
     "category": "NYT"
   }
 ]
