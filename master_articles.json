@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a170438cbdd136c295bc4c9f19efb77",
+    "feed_name": "Compact",
+    "title": "Who Benefits from Urban Poverty?",
+    "author": "",
+    "link": "https://www.compactmag.com/article/who-benefits-from-urban-poverty/",
+    "content": "",
+    "date": "2026-05-12T13:05:01",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229686",
     "feed_name": "Texas Tribune",
     "title": "Christian Menefee, Alex Mealer lead Houston-area congressional runoffs, new poll finds",
@@ -116,6 +126,16 @@
     "author": "Nick Greene",
     "link": "https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/",
     "content": "Sarah Rudd, who once ran analytics for Arsenal, made her name applying the tenets of probability theory to movements on the pitch. Even she admits not everything can be solved with data.",
+    "date": "2026-05-12T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "b19ab98aba07f1bbca3d409283cf579c",
+    "feed_name": "The Atlantic",
+    "title": "The Assassin\u2019s Delusion",
+    "author": "Adam Serwer",
+    "link": "https://www.theatlantic.com/ideas/2026/05/assassins-delusion-backfiring-violence/687135/",
+    "content": "Violence serves an authoritarian agenda.",
     "date": "2026-05-12T11:00:00",
     "category": "Magazines"
   },
@@ -19976,26 +19996,6 @@
     "author": "ByTyehimba Jess",
     "link": "https://www.newyorker.com/magazine/2026/04/13/theodore-roosevelt-taylor-tyehimba-jess-poem",
     "content": "\u201cIn short, he slid metal on string till the devil / got tickled and laughed up the Blues.\u201d",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "98f1f91ea95d70b11445ba2cdcec3389",
-    "feed_name": "New Yorker",
-    "title": "\u201cMeanwhile It Rains for Two Weeks and the Heat Never Breaks\u201d",
-    "author": "ByMorgan Parker",
-    "link": "https://www.newyorker.com/magazine/2026/04/13/meanwhile-it-rains-for-two-weeks-and-the-heat-never-break-morgan-parker-poem",
-    "content": "\u201cSometimes I text my friends I\u2019m crying / and they replylol.\u201d",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "216c8c487ca22c1f821913612d006996",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-april-13-2026-issue",
-    "content": "Drawings from the April 13, 2026, magazine.",
     "date": "2026-04-06T10:59:46",
     "category": "Magazines"
   }
