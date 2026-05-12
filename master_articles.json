@@ -270,6 +270,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/10/dining/best-nyc-restaurant-neighborhoods.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Best New York City Neighborhoods for Restaurants",
+    "author": "Ligaya Mishan",
+    "link": "https://www.nytimes.com/2026/05/10/dining/best-nyc-restaurant-neighborhoods.html",
+    "content": "Great meals can be found in virtually any corner of the five boroughs, but here are some areas that stood out to our critic.",
+    "date": "2026-05-11T15:29:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
     "feed_name": "NYT (Shared)",
     "title": "How Israel Turned Eurovision\u2019s Stage Into a Soft Power Tool",
@@ -540,6 +550,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/11/arts/music/beatles-museum-london.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "London Rooftop Where Beatles Played Last Gig to Become Museum",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/05/11/arts/music/beatles-museum-london.html",
+    "content": "The Beatles playing their final performance on the roof of 3 Savile Row in London in 1969.",
+    "date": "2026-05-11T09:00:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/opinion/adhd-autism-depression-diagnoses.html",
     "feed_name": "NYT (Emailed)",
     "title": "We\u2019re Thinking About Mental Health Diagnoses All Wrong",
@@ -607,6 +627,16 @@
     "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
     "content": "Tehran on Saturday. Iran gave its response through Pakistan to an American proposal to end the conflict, Iranian state media reported.",
     "date": "2026-05-11T00:48:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/10/us/politics/trump-netanyahu-iran-war.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump and Netanyahu Say Iran War Is Not Over",
+    "author": "Ephrat Livni",
+    "link": "https://www.nytimes.com/2026/05/10/us/politics/trump-netanyahu-iran-war.html",
+    "content": "Prime Minister Benjamin Netanyahu of Israel and President Trump both suggested in interviews aired on Sunday that there was unfinished business in the conflict with Iran.",
+    "date": "2026-05-11T00:39:36",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/03/opinion/trump-europe-iran-meloni-italy.html",
     "content": "",
     "date": "2026-04-06T05:48:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/opinion/oil-crisis-iran-electric-solar.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Remember the Oil Shocks of the \u201970s? This Is Going to Be Worse. Much Worse.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/01/opinion/oil-crisis-iran-electric-solar.html",
-    "content": "",
-    "date": "2026-04-06T05:33:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/business/trump-foreign-disinformation-iran.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Trump Officials Try to Fight Foreign Disinformation They Once Dismissed",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/01/business/trump-foreign-disinformation-iran.html",
-    "content": "",
-    "date": "2026-04-06T05:18:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A.I. Could Change the World. But First It Is Changing Silicon Valley.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html",
-    "content": "",
-    "date": "2026-04-06T05:03:49",
     "category": "NYT"
   }
 ]
