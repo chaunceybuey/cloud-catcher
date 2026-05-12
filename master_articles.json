@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/11/opinion/maureen-galindo-antisemitic-conspiracies.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Democrats Can\u2019t Let This Antisemitic Sex Therapist Win Her Runoff",
+    "author": "Michelle Goldberg",
+    "link": "https://www.nytimes.com/2026/05/11/opinion/maureen-galindo-antisemitic-conspiracies.html",
+    "content": "Maureen Galindo\u2019s rise demonstrates how even justified rage and despair can curdle into hateful paranoia.",
+    "date": "2026-05-12T02:11:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/11/climate/public-land-rule-repeal.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump Administration to Scrap Rule Encouraging Conservation",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/gallery/cartoons-from-the-april-13-2026-issue",
     "content": "Drawings from the April 13, 2026, magazine.",
-    "date": "2026-04-06T10:59:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "52ae20f92d96797fc038efc5ea9df8ea",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Monday, April 6, 2026",
-    "author": "ByKareem Ayas",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/04/06",
-    "content": "Today\u2019s theme: Overdrive.",
     "date": "2026-04-06T10:59:46",
     "category": "Magazines"
   }
