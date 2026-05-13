@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a036342c6beeb5243773b4e",
+    "feed_name": "Wired (Science)",
+    "title": "What It Will Take to Make AI Sustainable",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+    "content": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
+    "date": "2026-05-13T19:15:59",
+    "category": "Magazines"
+  },
+  {
+    "id": "94f80d104979948114d03a14f5c9b5b6",
+    "feed_name": "LRB",
+    "title": "Right of Return",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/may/right-of-return",
+    "content": "The Haganah\u00a0attacked Beersheba on 21 October 1948. A week later, David Ben-Gurion came to inspect the town. He admired the fine stone government.\u00a0.\u00a0.",
+    "date": "2026-05-13T18:57:28",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html",
     "feed_name": "NYT (Shared)",
     "title": "Alex Murdaugh Murder Convictions Overturned by South Carolina\u2019s Top Court",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/world/middleeast/houthis-iran-yemen-war.html",
     "content": "",
     "date": "2026-04-08T08:18:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/us/international-students-decrease-under-trump.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "International Students Remade a College. What\u2019s Left When They\u2019re Gone?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/06/us/international-students-decrease-under-trump.html",
-    "content": "",
-    "date": "2026-04-08T08:03:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Artemis II Astronauts Head Home After Historic Journey Around the Moon",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html",
-    "content": "",
-    "date": "2026-04-08T07:48:52",
     "category": "NYT"
   }
 ]
