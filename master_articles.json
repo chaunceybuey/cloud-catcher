@@ -230,6 +230,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/opinion/pediatric-cancer-cuts-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "We Cannot Let Trump Cut Childhood Cancer Research",
+    "author": "Zain Habboo",
+    "link": "https://www.nytimes.com/2026/05/13/opinion/pediatric-cancer-cuts-trump.html",
+    "content": "More children will die because the Trump administration is cutting pediatric cancer research.",
+    "date": "2026-05-13T15:06:58",
+    "category": "NYT"
+  },
+  {
     "id": "46c08e28cf8162a5e1952c8488722ffa",
     "feed_name": "The Atlantic",
     "title": "The Trump Counterterrorism Strategy Is a Dangerous Joke",
@@ -537,6 +547,16 @@
     "link": "https://www.nytimes.com/2026/05/13/us/texas-corpus-christi-water-crisis.html",
     "content": "Corpus Christi\u2019s industrial port has been expanding, but new water sources have not been keeping pace, especially amid a drought that has stretched on far longer than local officials expected.",
     "date": "2026-05-13T09:00:18",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/travel/ben-franklin-paris.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Walking the Streets of Ben Franklin\u2019s Paris",
+    "author": "Eric Weiner and Camille McOuat",
+    "link": "https://www.nytimes.com/2026/05/13/travel/ben-franklin-paris.html",
+    "content": "The aging statesman braved rough seas and arduous carriage rides to reach Paris, where he persuaded the French to back the American rebels. We followed in his footsteps.",
+    "date": "2026-05-13T09:00:17",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17315843/texas-hhsc-snap-fraud-food-stamp-big-beautiful-bill-senate-hearing",
     "content": "Customers stock up on groceries at an Austin H-E-B on Jan. 13, 2024.",
     "date": "2026-04-08T14:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "b81518c14d29b22537b1de2b3f83b53d",
-    "feed_name": "Compact",
-    "title": "How Political Violence Failed in the 1990s",
-    "author": "",
-    "link": "https://www.compactmag.com/article/how-political-violence-failed-in-the-1990s/",
-    "content": "",
-    "date": "2026-04-08T12:00:04",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226061",
-    "feed_name": "Texas Tribune",
-    "title": "Texas high school students are applying for college financial aid at a record pace",
-    "author": "Sneha Dey",
-    "link": "https://feeds.texastribune.org/link/16799/17315744/texas-fafsa-college-aid-high-school-students",
-    "content": "Tina-Rose Chipeta pulls up her financial aid portal online on Aug. 19, 2024, in College Station. Chipeta was one of the many students affected by FAFSA delays around the nation.",
-    "date": "2026-04-08T10:00:00",
     "category": "Texas"
   }
 ]
