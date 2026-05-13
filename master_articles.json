@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "da07244d50975bee0b463ab6a51b377e",
+    "feed_name": "LRB",
+    "title": "Narrative Poems: \u2018Tam o\u2019 Shanter\u2019 by Robert Burns and \u2018Peter Grimes\u2019 by George Crabbe",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/narrative-poems-tam-o-shanter-by-robert-burns-and-peter-grimes-by-george-crabbe",
+    "content": "\u2018Tam o\u2019 Shanter\u2019 first appeared as a lengthy footnote in Francis Grose's Antiquities of Scotland (1791) after Robert Burns convinced Grose to include the ruined Alloway Kirk in his volume, and its supernatural associations (invented by Burns). Its story of the drunken Tam's encounter with witches in the stormy Ayrshire landscape has served as both a celebration and...",
+    "date": "2026-05-13T16:21:03",
+    "category": "Magazines"
+  },
+  {
+    "id": "46c08e28cf8162a5e1952c8488722ffa",
+    "feed_name": "The Atlantic",
+    "title": "The Trump Counterterrorism Strategy Is a Dangerous Joke",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/05/trump-sebastian-gorka-counterterrorism/687148/",
+    "content": "The policy is unfocused, run by amateurs, and concerned more with the president\u2019s many grievances than the security of the United States.",
+    "date": "2026-05-13T14:58:47",
+    "category": "Magazines"
+  },
+  {
     "id": "2e3ec0fa310afb2dafdd0ae9e0fc754c",
     "feed_name": "LRB",
     "title": "America\u2019s Afghanistan Delusion",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/06/opinion/college-uncertainty.html",
     "content": "",
     "date": "2026-04-08T06:18:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Bill Ackman\u2019s Fund Offers to Buy Universal Music in $64 Billion Deal",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html",
-    "content": "",
-    "date": "2026-04-08T06:03:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Big Bang: A.I. Has Created a Code Overload",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
-    "content": "",
-    "date": "2026-04-08T05:48:52",
     "category": "NYT"
   }
 ]
