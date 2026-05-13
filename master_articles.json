@@ -250,6 +250,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/realestate/the-sheer-joy-of-cut-flowers.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Sheer Joy of Cut Flowers",
+    "author": "Margaret Roach",
+    "link": "https://www.nytimes.com/2026/05/12/realestate/the-sheer-joy-of-cut-flowers.html",
+    "content": "Sarah Raven, the celebrated British gardener, indulges her obsession with homegrown cutting gardens and shares tips on creating spectacular arrangements.",
+    "date": "2026-05-12T19:17:47",
+    "category": "NYT"
+  },
+  {
     "id": "cbdf4c87-57c6-4e64-bd50-ae6d0fadec41",
     "feed_name": "Economist",
     "title": "Index rebalancing is now the biggest event in markets",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/06/us/politics/republican-midterms-fundraising-super-pac.html",
     "content": "",
     "date": "2026-04-07T08:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/04/dining/tom-valenti-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Tom Valenti, Who Made Lamb Shanks a Showstopper, Dies at 67",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/04/dining/tom-valenti-dead.html",
-    "content": "",
-    "date": "2026-04-07T07:48:47",
     "category": "NYT"
   }
 ]
