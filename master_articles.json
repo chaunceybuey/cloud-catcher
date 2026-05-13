@@ -280,6 +280,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The Supreme Court Has Left Us in a Dangerous Place",
+    "author": "Jamelle Bouie",
+    "link": "https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html",
+    "content": "The ruling in Louisiana v. Callais might drive America\u2019s politics to an even more precarious place of partisan tension and ideological Balkanization.",
+    "date": "2026-05-13T12:33:18",
+    "category": "NYT"
+  },
+  {
     "id": "1a4a780e6c0d500d08dfb72c941885d1",
     "feed_name": "The Atlantic",
     "title": "The Democrats Can\u2019t Let Go of Racial Preferences",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/arts/music/innocence-met-opera-review.html",
     "content": "",
     "date": "2026-04-08T05:18:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/arts/music/melvin-gibbs-how-black-music-took-over-the-world.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Did Black Music Take Over the World? Let Melvin Gibbs Explain.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/arts/music/melvin-gibbs-how-black-music-took-over-the-world.html",
-    "content": "",
-    "date": "2026-04-08T05:03:52",
     "category": "NYT"
   }
 ]
