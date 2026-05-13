@@ -540,6 +540,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/style/hacky-sack-gen-z.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Hacky Sack Mounts a Comeback With Gen Z",
+    "author": "Callie Holtermann",
+    "link": "https://www.nytimes.com/2026/05/12/style/hacky-sack-gen-z.html",
+    "content": "Teenagers are booting the game out of the 1990s. \u201cIt\u2019s kind of bringing everybody together,\u201d one said.",
+    "date": "2026-05-12T09:02:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html",
     "feed_name": "NYT (Emailed)",
     "title": "Former Congressman Barney Frank, Now in Hospice, Offers Democrats Frank Words of Advice",
@@ -677,6 +687,16 @@
     "link": "https://www.nytimes.com/2026/05/11/climate/public-land-rule-repeal.html",
     "content": "The repeal of the Biden-era rule affects roughly 245 million acres of public lands, mostly in the American West, about one-tenth of the country.",
     "date": "2026-05-12T01:41:55",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/11/us/arcadia-california-mayor-chinese-agent.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Arcadia Mayor Eileen Wang Will Plead Guilty to Working as Chinese Agent",
+    "author": "Pooja Salhotra",
+    "link": "https://www.nytimes.com/2026/05/11/us/arcadia-california-mayor-chinese-agent.html",
+    "content": "Eileen Wang at the Asian Hall of Fame induction ceremony in Los Angeles in 2023.",
+    "date": "2026-05-12T00:45:11",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/04/technology/uber-lyft-drivers-gas-prices-relief.html",
     "content": "",
     "date": "2026-04-07T06:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/25/business/daily-money-managers-finances.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Coach, Mechanic or Housekeeper, but for Your Finances",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/25/business/daily-money-managers-finances.html",
-    "content": "",
-    "date": "2026-04-07T06:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "This Is Not China\u2019s War, but Beijing Started Preparing for It Years Ago",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html",
-    "content": "",
-    "date": "2026-04-07T05:48:47",
     "category": "NYT"
   }
 ]
