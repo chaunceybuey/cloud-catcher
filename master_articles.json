@@ -410,6 +410,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Video Shows Philippine Senator Outrunning Agents and Avoiding I.C.C. Warrant",
+    "author": "Jason Gutierrez",
+    "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html",
+    "content": "Senator Ronald dela Rosa, who once was the chief enforcer of former President Rodrigo Duterte\u2019s deadly \u201cwar on drugs,\u201d talking to journalists at the Senate in Manila on Tuesday.",
+    "date": "2026-05-12T14:33:28",
+    "category": "NYT"
+  },
+  {
     "id": "0e6481f3fc5c0712f6dee97fcb6fe57c",
     "feed_name": "The Atlantic",
     "title": "What Did Jamaica Do to Deserve This?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/04/sports/mary-rand-dead.html",
     "content": "",
     "date": "2026-04-07T07:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/arts/design/pedro-friedeberg-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Pedro Friedeberg, Whose Hand Chair Drew Outsize Attention, Dies at 90",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/arts/design/pedro-friedeberg-dead.html",
-    "content": "",
-    "date": "2026-04-07T07:18:47",
     "category": "NYT"
   }
 ]
