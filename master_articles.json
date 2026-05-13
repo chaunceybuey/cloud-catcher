@@ -19710,6 +19710,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
+    "feed_name": "Douthat",
+    "title": "The Idealism of the Space Program Isn\u2019t Enough",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/04/07/opinion/artemis-apollo-kennedy-musk.html",
+    "content": "We\u2019re racing a civilizational clock.",
+    "date": "2026-04-08T18:57:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=226122",
     "feed_name": "Texas Tribune",
     "title": "Amid license review, Camp Mystic being investigated by Texas Rangers and state health officials",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/06/theater/becky-shaw-review-alden-ehrenreich.html",
     "content": "",
     "date": "2026-04-08T04:48:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/30/well/eat/meat-beef-rfk-jr.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Dogma of Meat",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/30/well/eat/meat-beef-rfk-jr.html",
-    "content": "",
-    "date": "2026-04-08T04:33:52",
     "category": "NYT"
   }
 ]
