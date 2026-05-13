@@ -140,6 +140,16 @@
     "category": "Magazines"
   },
   {
+    "id": "8eaa2b10-5ad1-45d5-bcf3-095aa5f6355c",
+    "feed_name": "Economist",
+    "title": "Is AI putting graduates out of work already?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/13/is-ai-putting-graduates-out-of-work-already",
+    "content": "If you are studying coding, we might have some bad news",
+    "date": "2026-05-13T18:44:01",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html",
     "feed_name": "NYT (Shared)",
     "title": "Alex Murdaugh Murder Convictions Overturned by South Carolina\u2019s Top Court",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html",
     "content": "",
     "date": "2026-04-08T08:33:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/world/middleeast/houthis-iran-yemen-war.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Weakened and Reluctant, Yemen\u2019s Houthis Belatedly Enter War",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/houthis-iran-yemen-war.html",
-    "content": "",
-    "date": "2026-04-08T08:18:52",
     "category": "NYT"
   }
 ]
