@@ -160,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html",
+    "feed_name": "NYT (Popular)",
+    "title": "Jason Collins, First Active N.B.A. Player to Come Out as Gay, Dies at 47",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html",
+    "content": "Jason Collins in 2014, the year after he announced he was gay in a front-page essay in Sports Illustrated magazine.",
+    "date": "2026-05-12T23:00:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229889",
     "feed_name": "Texas Tribune",
     "title": "Former Texas lottery director was indicted by grand jury before case got dismissed",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/05/us/midwest-food-bank-rubys-pantry.html",
     "content": "",
     "date": "2026-04-07T08:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/us/politics/republican-midterms-fundraising-super-pac.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Republicans Unveil a $342 Million Battle Plan to Keep the Senate",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/republican-midterms-fundraising-super-pac.html",
-    "content": "",
-    "date": "2026-04-07T08:03:47",
     "category": "NYT"
   }
 ]
