@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=229849",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Previewing the primary runoffs as early voting approaches",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17339543/tribcast-runoffs-paxton-cornyn",
+    "content": "Voters stand in line at the Semmes Branch Library polling location on primary election day in San Antonio on Monday, March 3, 2026.",
+    "date": "2026-05-13T01:02:01",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229902",
     "feed_name": "Texas Tribune",
     "title": "Texas county pauses data center construction in rural areas for a year",
@@ -200,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/us/politics/gop-mystery-pac-midterms.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Mysterious Meddling in Democratic Primaries Has G.O.P. Fingerprints",
+    "author": "Shane Goldmacher",
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/gop-mystery-pac-midterms.html",
+    "content": "Voters waiting in line to cast ballots in the Texas primary in Austin in March 3.",
+    "date": "2026-05-12T20:05:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19884-broadway-in-austin-presented-by-texas-performing-arts-the-wiz",
     "feed_name": "KMFA",
     "title": "Broadway in Austin presented by Texas Performing Arts: The Wiz",
@@ -247,6 +267,16 @@
     "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html",
     "content": "Dr. Marty Makary at times tried to advance his own principles alongside the administration\u2019s goals, which at times were at odds with the powerful food, tobacco and pharmaceutical industries.",
     "date": "2026-05-12T18:56:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/business/inflation-tomatoes-prices.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Tomato Prices Soar as War, Tariffs and Weather Affect a Popular Crop",
+    "author": "Julie Creswell",
+    "link": "https://www.nytimes.com/2026/05/12/business/inflation-tomatoes-prices.html",
+    "content": "Tomatoes were the culprit behind a rise in food prices at grocery stores in April.",
+    "date": "2026-05-12T18:52:12",
     "category": "NYT"
   },
   {
@@ -637,6 +667,16 @@
     "link": "https://www.nytimes.com/2026/05/12/opinion/sanchez-trump-spain-europe.html",
     "content": "Pedro S\u00e1nchez has established an alternative governing philosophy to Trumpism.",
     "date": "2026-05-12T07:56:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/arts/television/stephen-colbert-strike-force-five.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Stephen Colbert Hosts 4 of His \u2018Best Television Friends\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/12/arts/television/stephen-colbert-strike-force-five.html",
+    "content": "Jimmy Kimmel, Jimmy Fallon, John Oliver and Seth Meyers, co-hosts of the Strike Force Five podcast along with Colbert, joined as guests on what is likely their last appearance together on the \u201cLate Show.\u201d",
+    "date": "2026-05-12T06:49:24",
     "category": "NYT"
   },
   {
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/03/arts/design/pedro-friedeberg-dead.html",
     "content": "",
     "date": "2026-04-07T07:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/opinion/iran-war-strait-hormuz.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The War Is Turning Iran Into a Major World Power",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/06/opinion/iran-war-strait-hormuz.html",
-    "content": "",
-    "date": "2026-04-07T07:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/opinion/banking-crisis-private-credit.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "This Is Starting to Look Like a Slow-Motion Bank Run",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/06/opinion/banking-crisis-private-credit.html",
-    "content": "",
-    "date": "2026-04-07T06:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/05/opinion/politics-midterms-tiktok-attention-content.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Old Way of Campaigning Won\u2019t Cut It Anymore",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/05/opinion/politics-midterms-tiktok-attention-content.html",
-    "content": "",
-    "date": "2026-04-07T06:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/04/technology/uber-lyft-drivers-gas-prices-relief.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Uber and Lyft Offer Gas Price Relief, but Drivers Say It\u2019s Not Enough",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/04/technology/uber-lyft-drivers-gas-prices-relief.html",
-    "content": "",
-    "date": "2026-04-07T06:18:47",
     "category": "NYT"
   }
 ]
