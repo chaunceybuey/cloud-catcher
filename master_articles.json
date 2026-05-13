@@ -430,6 +430,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/us/texas-corpus-christi-water-crisis.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Corpus Christi Faces Water Crisis as Drought and Industrial Growth Strain Supply",
+    "author": "Lauren McGaughy and Meridith Kohut",
+    "link": "https://www.nytimes.com/2026/05/13/us/texas-corpus-christi-water-crisis.html",
+    "content": "Corpus Christi\u2019s industrial port has been expanding, but new water sources have not been keeping pace, especially amid a drought that has stretched on far longer than local officials expected.",
+    "date": "2026-05-13T09:00:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/noncitizen-voter-detained-airport-customs",
     "feed_name": "ProPublica",
     "title": "A Noncitizen Says She Was Told She Could Vote. Then Customs Detained Her at the Airport and Threatened to Deport Her.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html",
     "content": "",
     "date": "2026-04-08T07:33:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/06/books/ronald-spector-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Ronald H. Spector, Who Traced Social History in Books on War, Dies at 83",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/06/books/ronald-spector-dead.html",
-    "content": "",
-    "date": "2026-04-08T07:18:52",
     "category": "NYT"
   }
 ]
