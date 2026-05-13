@@ -670,6 +670,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/opinion/china-power-trump-xi-beijing.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "China Is Much Weaker Than It Seems. That\u2019s the Problem.",
+    "author": "Bret Stephens",
+    "link": "https://www.nytimes.com/2026/05/12/opinion/china-power-trump-xi-beijing.html",
+    "content": "History shows there is no more productive national asset than freedom.",
+    "date": "2026-05-12T18:44:53",
+    "category": "NYT"
+  },
+  {
     "id": "613c07bd992c64ada3dfbc182dc0e601",
     "feed_name": "The Atlantic",
     "title": "Big Brother Is ReTruthing You",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/06/business/nuclear-energy-iran-war.html",
     "content": "",
     "date": "2026-04-08T05:33:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/arts/music/innocence-met-opera-review.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Review: Seeing a School Shooting on America\u2019s Biggest Opera Stage",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/arts/music/innocence-met-opera-review.html",
-    "content": "",
-    "date": "2026-04-08T05:18:52",
     "category": "NYT"
   }
 ]
