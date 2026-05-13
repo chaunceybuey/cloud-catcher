@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Alex Murdaugh Murder Convictions Overturned by South Carolina\u2019s Top Court",
+    "author": "Nicholas Bogel-Burroughs",
+    "link": "https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html",
+    "content": "Alex Murdaugh, convicted of killing his wife, Maggie, and younger son, Paul, in June 2021, sits during a hearing on a motion for a retrial in 2024.",
+    "date": "2026-05-13T18:19:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=229977",
     "feed_name": "Texas Tribune",
     "title": "Greg Abbott expands task force targeting repeat offenders from Houston to other large cities",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html",
     "content": "",
     "date": "2026-04-08T07:48:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Houston, We Have No Problem. But We Do Have a Lot of \u2018Moon Joy.\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html",
-    "content": "",
-    "date": "2026-04-08T07:33:52",
     "category": "NYT"
   }
 ]
