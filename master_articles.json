@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "ac09e08e01a61f9dabce59573d287a6a",
+    "feed_name": "LRB",
+    "title": "Lauren Elkin & Shahidha Bari: Vocal Break",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/lauren-elkin-shahidha-bari-vocal-break-tickets-1984474597943",
+    "content": "",
+    "date": "2026-05-13T20:49:25",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230066",
     "feed_name": "Texas Tribune",
     "title": "Parts of Texas immigration law are likely unconstitutional, federal judge signals",
@@ -218,6 +228,16 @@
     "content": "The policy is unfocused, run by amateurs, and concerned more with the president\u2019s many grievances than the security of the United States.",
     "date": "2026-05-13T14:58:47",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/realestate/jacob-riis-rockaway-ocean-beach-club.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Private Club Plans a Grand Debut on the \u2018People\u2019s Beach\u2019",
+    "author": "Alyson Krueger and Winnie Au For The New York Times",
+    "link": "https://www.nytimes.com/2026/05/12/realestate/jacob-riis-rockaway-ocean-beach-club.html",
+    "content": "The Rockaway Ocean Club will open in the historic Jacob Riis Park Bathhouse this summer.",
+    "date": "2026-05-13T13:48:59",
+    "category": "NYT"
   },
   {
     "id": "2e3ec0fa310afb2dafdd0ae9e0fc754c",
@@ -19978,25 +19998,5 @@
     "content": "Construction continues on the Meta Platforms data center complex on a 1,000-acre site in far Northeast El Paso, near the Texas-New Mexico state line, as seen March 12, 2026.",
     "date": "2026-04-08T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=18723",
-    "feed_name": "Stratechery",
-    "title": "Anthropic\u2019s New Model, The Mythos Wolf, Glasswing and Alignment",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/",
-    "content": "<p>Anthropic says its new model is too dangerous to release; there are reasons to be skeptical, but to the extent Anthropic is right, that raises even deeper concerns.</p>",
-    "date": "2026-04-08T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "0799c33896981a4bc3bf5b5d4f4aca03",
-    "feed_name": "LRB",
-    "title": "The Philosophy of \u2018To the Lighthouse\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/the-philosophy-of-to-the-lighthouse",
-    "content": "In 1908, Virginia Woolf wrote that she hoped to revolutionise the novel and \u2018capture multitudes of things at present fugitive\u2019.To the Lighthouse(1927) marks perhaps her fullest realisation of the novel as philosophical enterprise, and not simply because one of its central characters is engaged with the problem of \u2018subject and object and the nature of reality\u2019.",
-    "date": "2026-04-08T09:05:00",
-    "category": "Magazines"
   }
 ]
