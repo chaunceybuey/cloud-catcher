@@ -160,6 +160,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html",
+    "feed_name": "NYT (Popular)",
+    "title": "How China Sent a Message to Trump on His Arrival",
+    "author": "Lily Kuo, Pei-Lin Wu and Pablo Robles",
+    "link": "https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html",
+    "content": "Beijing welcomed President Trump with a high-ranking vice president, but the choice of a ceremonial leader suggests China is trading symbolism for substance.",
+    "date": "2026-05-13T20:37:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230066",
     "feed_name": "Texas Tribune",
     "title": "Parts of Texas immigration law are likely unconstitutional, federal judge signals",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/theater/cats-jellicle-ball-review-broadway.html",
     "content": "",
     "date": "2026-04-09T04:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/08/arts/design/lacma-museum-geffen-galleries.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "An Audacious $724 Million Building Reinvents LACMA",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/08/arts/design/lacma-museum-geffen-galleries.html",
-    "content": "",
-    "date": "2026-04-09T04:18:47",
     "category": "NYT"
   }
 ]
