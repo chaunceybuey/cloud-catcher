@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
+    "feed_name": "Interesting Times",
+    "title": "China Doesn\u2019t Worry About A.I. Like We Do",
+    "author": "Ross Douthat and Sophia Alvarez Boyd",
+    "link": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
+    "content": "The difference in perspectives between superpowers is shaping the race for A.I. dominance.",
+    "date": "2026-05-14T09:05:32",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Judge Orders U.S. to Return Colombian Woman Deported to Congo",
+    "author": "Pranav Baskar",
+    "link": "https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html",
+    "content": "The Colombian woman and other migrants are housed in a hotel outside Kinshasa, the capital of the Democratic Republic of Congo.",
+    "date": "2026-05-14T02:00:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
     "feed_name": "NYT (Shared)",
     "title": "Chaos in Philippines Senate as Duterte Ally Faces Arrest",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/us/norman-bussel-dead.html",
     "content": "",
     "date": "2026-04-09T06:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/books/peter-schrag-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Peter Schrag Dies at 94; Wrote of Dangers of California\u2019s Populist Streak",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/books/peter-schrag-dead.html",
-    "content": "",
-    "date": "2026-04-09T06:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/style/linda-dresner-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Linda Dresner, Old-School Guru of Avant-Garde Fashion, Dies at 88",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/style/linda-dresner-dead.html",
-    "content": "",
-    "date": "2026-04-09T06:18:47",
     "category": "NYT"
   }
 ]
