@@ -260,6 +260,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/12/us/south-carolina-shane-massey-redistricting.html",
+    "feed_name": "NYT (Shared)",
+    "title": "The South Carolina Republican Who Defied Trump on Redistricting",
+    "author": "Eduardo Medina and Nick Corasaniti",
+    "link": "https://www.nytimes.com/2026/05/12/us/south-carolina-shane-massey-redistricting.html",
+    "content": "Shane Massey said on Tuesday that defying President Trump was a political risk he was willing to take.",
+    "date": "2026-05-13T16:57:49",
+    "category": "NYT"
+  },
+  {
     "id": "da07244d50975bee0b463ab6a51b377e",
     "feed_name": "LRB",
     "title": "Narrative Poems: \u2018Tam o\u2019 Shanter\u2019 by Robert Burns and \u2018Peter Grimes\u2019 by George Crabbe",
@@ -288,6 +298,16 @@
     "content": "The policy is unfocused, run by amateurs, and concerned more with the president\u2019s many grievances than the security of the United States.",
     "date": "2026-05-13T14:58:47",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/us/trump-vapes-cigarettes-big-tobacco.html",
+    "feed_name": "NYT (Shared)",
+    "title": "With a Friend in Trump, the Tobacco Industry Secures a Lucrative Win",
+    "author": "Christina Jewett and Kenneth P. Vogel",
+    "link": "https://www.nytimes.com/2026/05/13/us/trump-vapes-cigarettes-big-tobacco.html",
+    "content": "The F.D.A. issued new guidance that could pave the way for major tobacco companies to begin selling flavored vapes less than a week after industry executives met with President Trump.",
+    "date": "2026-05-13T14:37:31",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/13/business/economy/tariff-refunds-trump.html",
@@ -568,6 +588,16 @@
     "content": "An Afghan family\u2019s flight to safety",
     "date": "2026-05-13T11:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Cindy Burbank Wins Senate Primary in Nebraska, but Plans to Drop Out to Help Dan Osborn",
+    "author": "Kellen Browning",
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html",
+    "content": "Cindy Burbank, pictured during a recent motorcycle ride, won the Democratic nomination for the U.S. Senate in Nebraska, but she said she planned to drop out of the race in an effort to help Dan Osborn, an independent, win instead.",
+    "date": "2026-05-13T10:37:00",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=229828",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/02/style/bard-president-epstein-botstein.html",
     "content": "",
     "date": "2026-04-09T03:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/28/style/nuns-podcast-ultimate-frisbee-tiktok.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Don\u2019t Call Them Nuns. They\u2019re Podcasters.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/28/style/nuns-podcast-ultimate-frisbee-tiktok.html",
-    "content": "",
-    "date": "2026-04-09T03:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/t-magazine/patrick-taylor-fashion.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Artistic Clothes Inspired by the Slopes and Seas",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/01/t-magazine/patrick-taylor-fashion.html",
-    "content": "",
-    "date": "2026-04-09T03:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/climate/electric-truck-sales-united-staes.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Why Electric Trucks Haven\u2019t Taken Off in the U.S.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/climate/electric-truck-sales-united-staes.html",
-    "content": "",
-    "date": "2026-04-09T03:03:47",
     "category": "NYT"
   }
 ]
