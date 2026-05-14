@@ -970,6 +970,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/well/move/exercise-workout-routine-mindset.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How an All-or-Nothing Mindset Can Sabotage Your Workout",
+    "author": "Danielle Friedman",
+    "link": "https://www.nytimes.com/2026/05/13/well/move/exercise-workout-routine-mindset.html",
+    "content": "It\u2019s not about discipline.",
+    "date": "2026-05-13T09:01:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/us/ak-47.html",
     "feed_name": "NYT (Emailed)",
     "title": "Where Did All the AK-47s Go?",
@@ -19988,15 +19998,5 @@
     "content": "New recommendations suggest that some people should start trying to lower their cholesterol as early as age 30.",
     "date": "2026-04-09T17:01:34",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=225985",
-    "feed_name": "Texas Tribune",
-    "title": "Trump\u2019s DOJ plans to settle Colony Ridge case without compensating victims",
-    "author": "By Zach Despart, The Texas Tribune and ProPublica",
-    "link": "https://feeds.texastribune.org/link/16799/17316547/colony-ridge-doj-settlement",
-    "content": "The Colony Ridge development, in the far north Houston suburbs, targeted Hispanic applicants with high-interest loans, according to a lawsuit the government has proposed to settle.",
-    "date": "2026-04-09T17:00:00",
-    "category": "Texas"
   }
 ]
