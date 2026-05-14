@@ -700,6 +700,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/travel/stargazing-train-rides.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "5 Great Stargazing Trains",
+    "author": "Michael Harmon",
+    "link": "https://www.nytimes.com/2026/05/13/travel/stargazing-train-rides.html",
+    "content": "On nighttime excursions in dark-sky hot spots like Norway, New Zealand and Nevada, all you have to do is relax and look up. The stars will do the rest.",
+    "date": "2026-05-13T09:00:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/us/texas-corpus-christi-water-crisis.html",
     "feed_name": "NYT (Emailed)",
     "title": "Corpus Christi Faces Water Crisis as Drought and Industrial Growth Strain Supply",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/business/companies-deals-iran-oil-stocks.html",
     "content": "",
     "date": "2026-04-09T04:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/theater/cats-jellicle-ball-review-broadway.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018Cats: The Jellicle Ball\u2019 Review: Fanciful and Fabulous",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/theater/cats-jellicle-ball-review-broadway.html",
-    "content": "",
-    "date": "2026-04-09T04:33:47",
     "category": "NYT"
   }
 ]
