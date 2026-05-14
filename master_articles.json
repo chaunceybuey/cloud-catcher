@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a062d7e01885d55b1a59bfc",
+    "feed_name": "Wired (Science)",
+    "title": "We Now Know How Many People the CDC Is Monitoring for Hantavirus",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/",
+    "content": "There are no confirmed cases in the US, but 41 people who were potentially exposed to the Andes virus are in quarantine or being monitored for symptoms.",
+    "date": "2026-05-14T21:00:29",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=230200",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Attorney General Ken Paxton blocks more than 130 cities from raising property taxes",
+    "author": "Joshua Fechter",
+    "link": "https://feeds.texastribune.org/link/16799/17341457/texas-cities-property-taxes-audits-sb-1851",
+    "content": "A neighborhood in Victoria on April 6, 2021. Attorney General Ken Paxton&#039;s office sent letters to it and dozens of other cities saying they cannot raise property taxes because they had violated state law.",
+    "date": "2026-05-14T20:59:22",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/05/trump-inflation-economy/687175/",
     "feed_name": "Chait",
     "title": "Donald Trump\u2019s Inflationary Agenda",
@@ -19978,25 +19998,5 @@
     "content": "The exterior of the Texas State Penitentiary&#039;s Walls Unit, which houses the state&#039;s primary execution chamber, is seen on Aug. 20, 2020, in Huntsville.",
     "date": "2026-04-10T04:12:49",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/pageoneplus/quote-of-the-day-suez-signaled-britains-slide-could-iran-do-that-for-us.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: Suez Signaled Britain\u2019s Slide. Could Iran Do That for U.S.?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/pageoneplus/quote-of-the-day-suez-signaled-britains-slide-could-iran-do-that-for-us.html",
-    "content": "",
-    "date": "2026-04-10T04:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/10/pageoneplus/corrections-april-10-2026.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Corrections: April 10, 2026",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/10/pageoneplus/corrections-april-10-2026.html",
-    "content": "",
-    "date": "2026-04-10T03:48:54",
-    "category": "NYT"
   }
 ]
