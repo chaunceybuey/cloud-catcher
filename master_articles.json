@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Chaos in Philippines Senate as Duterte Ally Faces Arrest",
+    "author": "Jason Gutierrez",
+    "link": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
+    "content": "Police personnel arrive as people react to the gunshots heard inside the Senate of the Philippines in Manila on Monday.",
+    "date": "2026-05-14T00:12:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump\u2019s Shrinking Ambitions on China",
@@ -137,6 +147,26 @@
     "link": "https://www.nytimes.com/2026/05/13/opinion/hegseth-pentagon-military-budget.html",
     "content": "\u201cYou name it, we\u2019re investing in it\u201d does not inspire confidence.",
     "date": "2026-05-13T23:19:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/us/politics/vance-medicaid-fraud-california.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Administration Will Withhold $1.3 Billion in Medicaid Payments to California",
+    "author": "Sarah Kliff",
+    "link": "https://www.nytimes.com/2026/05/13/us/politics/vance-medicaid-fraud-california.html",
+    "content": "Vice President JD Vance said that California had failed to combat fraud in Medicaid.",
+    "date": "2026-05-13T22:35:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/opinion/trump-arrives-china-xi-beijing.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s China Policy Has Weakened America",
+    "author": "The Editorial Board",
+    "link": "https://www.nytimes.com/2026/05/13/opinion/trump-arrives-china-xi-beijing.html",
+    "content": "In Beijing this week, Mr. Trump should not hand China more victories.",
+    "date": "2026-05-13T21:55:51",
     "category": "NYT"
   },
   {
@@ -170,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Iran War Powers Vote Fails Again in Senate, but GOP Opposition Grows",
+    "author": "Megan Mineiro",
+    "link": "https://www.nytimes.com/2026/05/13/us/politics/iran-war-powers-trump.html",
+    "content": "Senator Lisa Murkowski, Republican of Alaska, during a committee hearing. She previously opposed similar resolutions.",
+    "date": "2026-05-13T20:35:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230066",
     "feed_name": "Texas Tribune",
     "title": "Parts of Texas immigration law are likely unconstitutional, federal judge signals",
@@ -178,6 +218,16 @@
     "content": "A Laredo Police Department officer at the World Trade Bridge in Laredo on Feb. 17, 2023.",
     "date": "2026-05-13T20:34:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/theater/joshua-henry-ragtime-broadway.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "\u2018Ragtime\u2019 Star Joshua Henry Is Bringing Broadway to Its Feet",
+    "author": "Brittani Samuel and Vincent Tullo",
+    "link": "https://www.nytimes.com/2026/05/13/theater/joshua-henry-ragtime-broadway.html",
+    "content": "Joshua Henry, a Tony nominee for his thrilling performance in the musical, credits the demanding role with helping him \u201cfeel like I have mastered the voice.\u201d",
+    "date": "2026-05-13T20:30:22",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=230046",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/style/linda-dresner-dead.html",
     "content": "",
     "date": "2026-04-09T06:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/opinion/orban-hungary-election-trump.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Orban\u2019s Fate Is a Warning Not to Get Too Close to Trump",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/opinion/orban-hungary-election-trump.html",
-    "content": "",
-    "date": "2026-04-09T06:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/opinion/anthropic-ai-claude-mythos.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Anthropic\u2019s Restraint Is a Terrifying Warning Sign",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/opinion/anthropic-ai-claude-mythos.html",
-    "content": "",
-    "date": "2026-04-09T05:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/opinion/israel-palestinians-west-bank-death-penalty.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Israel\u2019s New Death Penalty Law Is a Warning",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/opinion/israel-palestinians-west-bank-death-penalty.html",
-    "content": "",
-    "date": "2026-04-09T05:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/08/business/oil-stocks-gas-prices-iran.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Oil Prices Plunge and Stocks Surge After Cease-Fire Deal",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/08/business/oil-stocks-gas-prices-iran.html",
-    "content": "",
-    "date": "2026-04-09T05:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/business/companies-deals-iran-oil-stocks.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Companies See Opening for Deals Despite Market Volatility",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/business/companies-deals-iran-oil-stocks.html",
-    "content": "",
-    "date": "2026-04-09T04:48:47",
     "category": "NYT"
   }
 ]
