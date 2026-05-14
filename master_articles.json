@@ -310,6 +310,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/us/politics/trump-vapes-cigarettes-big-tobacco.html",
+    "feed_name": "NYT (Shared)",
+    "title": "With a Friend in Trump, the Tobacco Industry Secures a Lucrative Win",
+    "author": "Christina Jewett and Kenneth P. Vogel",
+    "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-vapes-cigarettes-big-tobacco.html",
+    "content": "The F.D.A. issued new guidance that could pave the way for major tobacco companies to begin selling flavored vapes less than a week after industry executives met with President Trump.",
+    "date": "2026-05-13T14:37:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/business/economy/tariff-refunds-trump.html",
     "feed_name": "NYT (Shared)",
     "title": "Tariff Refunds Begin to Reach Businesses as Trump Lashes Out at Court",
@@ -667,6 +677,16 @@
     "link": "https://www.nytimes.com/2026/05/13/us/ak-47.html",
     "content": "Jim Fuller, who builds AK-47-style rifles, in his office in Scottsdale, Ariz.",
     "date": "2026-05-13T09:01:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/style/biblical-eating-tiktok-maha-rfk.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Eating Healthy? No, They\u2019re Eating Biblically.",
+    "author": "Madison Malone Kircher",
+    "link": "https://www.nytimes.com/2026/05/13/style/biblical-eating-tiktok-maha-rfk.html",
+    "content": "A diet inspired by the Bible has found new audiences online in the Make America Healthy Again era.",
+    "date": "2026-05-13T09:00:57",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/08/arts/design/lacma-museum-geffen-galleries.html",
     "content": "",
     "date": "2026-04-09T04:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/arts/television/taylor-frankie-paul-court-filing-abuse.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Taylor Frankie Paul Details Abuse Allegations in Custody Battle",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/arts/television/taylor-frankie-paul-court-filing-abuse.html",
-    "content": "",
-    "date": "2026-04-09T04:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/02/style/bard-president-epstein-botstein.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A College Is Split Over Its President and His Epstein Ties",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/02/style/bard-president-epstein-botstein.html",
-    "content": "",
-    "date": "2026-04-09T03:48:47",
     "category": "NYT"
   }
 ]
