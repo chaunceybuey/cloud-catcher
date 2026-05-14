@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Inside Jack Schlossberg\u2019s Chaotic Campaign to Revive Camelot",
+    "author": "Nicholas Fandos",
+    "link": "https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html",
+    "content": "Jack Schlossberg, a Kennedy heir who is running to represent much of Manhattan in Congress, has churned through campaign staff at an unusual pace.",
+    "date": "2026-05-14T15:15:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/t-magazine/nepal-buddha-kathmandu-buddhism.html",
     "feed_name": "NYT (Emailed)",
     "title": "Life, Death and Rebirth in Nepal, the Land of the Buddha",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/carbon-credits-are-destroying-the-amazon/",
     "content": "",
     "date": "2026-04-09T11:01:41",
-    "category": "Magazines"
-  },
-  {
-    "id": "3beeb601-b2d0-4164-8c48-6d4b1039fd53",
-    "feed_name": "Economist",
-    "title": "One neat trick to end extreme poverty",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty",
-    "content": "An age-old problem might have a surprisingly simple solution",
-    "date": "2026-04-09T10:03:52",
     "category": "Magazines"
   }
 ]
