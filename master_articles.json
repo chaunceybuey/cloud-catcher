@@ -200,6 +200,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/arts/design/met-museum-neue-galerie-merger-lauder.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "The Met Will Expand by Merging With the Nearby Neue Galerie",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/05/14/arts/design/met-museum-neue-galerie-merger-lauder.html",
+    "content": "Beginning in 2028, the Metropolitan Museum of Art will own the Neue\u2019s Fifth Avenue home and the prestige collection of 20th-century Austrian and German art built by Ronald S. Lauder.",
+    "date": "2026-05-14T15:53:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html",
     "feed_name": "NYT (Emailed)",
     "title": "Inside Jack Schlossberg\u2019s Chaotic Campaign to Revive Camelot",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-04-10T03:48:54",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226326",
-    "feed_name": "Texas Tribune",
-    "title": "Texas education board gives preliminary OK to required reading list that includes Bible material",
-    "author": "Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17316791/texas-education-board-required-reading-list-bible",
-    "content": "Books line shelves at the Walsh Middle School library in Round Rock on July 11, 2022.",
-    "date": "2026-04-10T03:42:11",
-    "category": "Texas"
   }
 ]
