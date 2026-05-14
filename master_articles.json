@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/t-magazine/nepal-buddha-kathmandu-buddhism.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Life, Death and Rebirth in Nepal, the Land of the Buddha",
+    "author": "Aatish Taseer and Keerthana Kunnath",
+    "link": "https://www.nytimes.com/2026/05/14/t-magazine/nepal-buddha-kathmandu-buddhism.html",
+    "content": "Starting at the birthplace of Buddhism, a writer traces how its teachings spread across Asia, transforming the continent forever.",
+    "date": "2026-05-14T13:09:58",
+    "category": "NYT"
+  },
+  {
     "id": "889ebbb534e12c641cd3fa306a849d80",
     "feed_name": "Compact",
     "title": "The Bizarre Theory Behind RFK\u2019s Attack on Vaccines",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/04/09/can-the-secondary-market-allay-private-credit-fears",
     "content": "In the short run, a bit. In the long run, a lot more",
     "date": "2026-04-09T10:03:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "8d5692af-8fcb-4393-940e-a538ce4de276",
-    "feed_name": "Economist",
-    "title": "The latest Italian banking whodunnit has it all",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/09/the-latest-italian-banking-whodunnit-has-it-all",
-    "content": "A a coup, a conspiracy and even a (possibly unrelated) corpse",
-    "date": "2026-04-09T10:03:24",
     "category": "Magazines"
   }
 ]
