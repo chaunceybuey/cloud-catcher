@@ -210,6 +210,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/climate/trump-coal-plants-cost.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Push to Keep Coal Plants Open Is Costing Hundreds of Millions",
+    "author": "Claire Brown",
+    "link": "https://www.nytimes.com/2026/05/14/climate/trump-coal-plants-cost.html",
+    "content": "The J.H. Campbell coal-fired power plant in West Olive, Mich., one of five coal plants in the United States that President Trump ordered to remain open. The plant has reported $180 million in expenses associated with running the facility since last May.",
+    "date": "2026-05-14T16:36:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-counterterrorism-plan-ignores-far-rights-gorka",
     "feed_name": "ProPublica",
     "title": "Counterterrorism Czar\u2019s Blueprint Targets Leftists, Ignores Far-Right Violence and Heaps Praise on Trump",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/01/theater/off-broadway-shows-jane-fonda-jennifer-tilly.html",
     "content": "",
     "date": "2026-04-10T04:33:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/04/insider/iran-war-reporting-israel-us.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Our New Iran Reporter Covers the Country Without Being in It",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/04/insider/iran-war-reporting-israel-us.html",
-    "content": "",
-    "date": "2026-04-10T04:18:54",
     "category": "NYT"
   }
 ]
