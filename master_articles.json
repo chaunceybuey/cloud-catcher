@@ -290,6 +290,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/business/economy/tariff-refunds-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Tariff Refunds Begin to Reach Businesses as Trump Lashes Out at Court",
+    "author": "Tony Romm",
+    "link": "https://www.nytimes.com/2026/05/13/business/economy/tariff-refunds-trump.html",
+    "content": "The tariff refunds come at a difficult political moment for President Trump, who is visiting China this week for a series of high-stakes trade talks.",
+    "date": "2026-05-13T14:28:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/12/realestate/jacob-riis-rockaway-ocean-beach-club.html",
     "feed_name": "NYT (Emailed)",
     "title": "A Private Club Plans a Grand Debut on the \u2018People\u2019s Beach\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/climate/electric-truck-sales-united-staes.html",
     "content": "",
     "date": "2026-04-09T03:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/08/pageoneplus/quote-of-the-day-lack-of-snowpack-spells-dry-summer-for-west.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: Lack of Snowpack Spells Dry Summer for West",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/08/pageoneplus/quote-of-the-day-lack-of-snowpack-spells-dry-summer-for-west.html",
-    "content": "",
-    "date": "2026-04-09T02:48:47",
     "category": "NYT"
   }
 ]
