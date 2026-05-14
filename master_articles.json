@@ -260,6 +260,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html",
+    "feed_name": "NYT (Shared)",
+    "title": "What People in China Say of Trump",
+    "author": "Ana Swanson",
+    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html",
+    "content": "President Trump at the state banquet in Beijing on Thursday.",
+    "date": "2026-05-14T13:17:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/t-magazine/nepal-buddha-kathmandu-buddhism.html",
     "feed_name": "NYT (Emailed)",
     "title": "Life, Death and Rebirth in Nepal, the Land of the Buddha",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-04-10T04:18:54",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226330",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 highest criminal court overturns sentence of inmate who has been on death row for 47 years",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17316804/texas-death-row-clarence-curtis-jordan-sentence-overturn-harris-county",
-    "content": "The exterior of the Texas State Penitentiary&#039;s Walls Unit, which houses the state&#039;s primary execution chamber, is seen on Aug. 20, 2020, in Huntsville.",
-    "date": "2026-04-10T04:12:49",
-    "category": "Texas"
   }
 ]
