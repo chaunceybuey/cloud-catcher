@@ -240,6 +240,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Why Xi Doesn\u2019t Need a Deal With Trump",
+    "author": "Lily Kuo",
+    "link": "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html",
+    "content": "President Xi Jinping of China, seen here in Beijing on Tuesday, has been seeking to redefine the terms of how China and the United States should engage.",
+    "date": "2026-05-14T04:25:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/us/politics/nyu-graduation-speaker-free-speech-jonathan-haidt.html",
     "feed_name": "NYT (Emailed)",
     "title": "N.Y.U. Students Object to Graduation Speaker Jonathan Haidt, Who Calls Their Generation \u2018Coddled\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/04/09/the-latest-italian-banking-whodunnit-has-it-all",
     "content": "A a coup, a conspiracy and even a (possibly unrelated) corpse",
     "date": "2026-04-09T10:03:24",
-    "category": "Magazines"
-  },
-  {
-    "id": "00b01535-f2ef-4122-ba1e-bc34441cf7d5",
-    "feed_name": "Economist",
-    "title": "South Korea\u2019s AI industrial policy meets the energy shock",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/09/south-koreas-ai-industrial-policy-meets-the-energy-shock",
-    "content": "The collision will not be pretty",
-    "date": "2026-04-09T10:03:13",
     "category": "Magazines"
   }
 ]
