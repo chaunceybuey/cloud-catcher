@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://stratechery.com/?p=19032",
+    "feed_name": "Stratechery",
+    "title": "An Interview with Ben Thompson at the MoffettNathanson Media, Internet & Communications Conference",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/an-interview-with-ben-thompson-at-the-moffettnathanson-media-internet-communications-conference/",
+    "content": "<p>An interview with me about the implications of the compute shortage on Aggregation Theory, consumer AI, and more.</p>",
+    "date": "2026-05-14T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
     "feed_name": "Interesting Times",
     "title": "China Doesn\u2019t Worry About A.I. Like We Do",
@@ -158,6 +168,16 @@
     "content": "Mass unemployment induced by AI would be unprecedented",
     "date": "2026-05-14T08:58:08",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/us/politics/nyu-graduation-speaker-free-speech-jonathan-haidt.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "N.Y.U. Students Object to Graduation Speaker Jonathan Haidt, Who Calls Their Generation \u2018Coddled\u2019",
+    "author": "Jeremy W. Peters and Matthew Haag",
+    "link": "https://www.nytimes.com/2026/05/13/us/politics/nyu-graduation-speaker-free-speech-jonathan-haidt.html",
+    "content": "Jonathan Haidt at New York University in 2024.",
+    "date": "2026-05-14T02:56:22",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/08/world/asia/singapore-watchfund-dominic-khoo.html",
     "content": "",
     "date": "2026-04-09T08:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Pakistan Says It Hit a Military Target. Investigations Suggest It Was a Rehab Center.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/world/asia/kabul-drug-rehab-pakistan-airstrike.html",
-    "content": "",
-    "date": "2026-04-09T08:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Why Hungary\u2019s Election Could Swing on Roma Votes",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html",
-    "content": "",
-    "date": "2026-04-09T07:48:47",
     "category": "NYT"
   }
 ]
