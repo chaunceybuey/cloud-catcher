@@ -280,6 +280,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-american-finances-republicans-midterms.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Remark on Americans\u2019 Finances and Iran War Points to GOP Midterm Challenges",
+    "author": "Katie Glueck",
+    "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-american-finances-republicans-midterms.html",
+    "content": "Asked if he was motivated by Americans\u2019 financial woes to make a deal to end the war with Iran, he responded, \u201cNot even a little bit.\u201d",
+    "date": "2026-05-14T00:42:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
     "feed_name": "NYT (Shared)",
     "title": "Chaos in Philippines Senate as Duterte Ally Faces Arrest",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/04/09/one-neat-trick-to-end-extreme-poverty",
     "content": "An age-old problem might have a surprisingly simple solution",
     "date": "2026-04-09T10:03:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "a7873e58-0c64-4fa2-bf9f-da1cde697ebf",
-    "feed_name": "Economist",
-    "title": "Can the secondary market allay private-credit fears?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/09/can-the-secondary-market-allay-private-credit-fears",
-    "content": "In the short run, a bit. In the long run, a lot more",
-    "date": "2026-04-09T10:03:33",
     "category": "Magazines"
   }
 ]
