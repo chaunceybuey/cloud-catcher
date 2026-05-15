@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/15/business/media/joe-sedelmaier-dead.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Joe Sedelmaier, Auteur Behind \u2018Where\u2019s the Beef?\u2019 Ad, Dies at 92",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/05/15/business/media/joe-sedelmaier-dead.html",
+    "content": "Clara Peller, the octogenarian star of a classic Wendy\u2019s commercial directed by Joe Sedelmaier, asks her famous question during a news conference in 1984.",
+    "date": "2026-05-15T14:36:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230296",
     "feed_name": "Texas Tribune",
     "title": "Settlement: Texas Children\u2019s Hospital must create country\u2019s first clinic to reverse transgender care",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/09/us/ice-detention-center-tremont-pennsylvania-dhs.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-11T07:33:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/10/us/san-francisco-ballot-signatures-california-masks.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "These Masked Men in San Francisco Want One Thing: Your Signature",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/10/us/san-francisco-ballot-signatures-california-masks.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-11T07:18:46",
     "category": "NYT"
   }
 ]
