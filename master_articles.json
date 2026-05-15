@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/us/politics/doj-lawsuit-yale-medical.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Justice Dept. Accuses Yale Medical School of Discriminating Against White and Asian Applicants",
+    "author": "Michael C. Bender",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/doj-lawsuit-yale-medical.html",
+    "content": "Harmeet K. Dhillon, the assistant attorney general for civil rights, said in a letter that since a Supreme Court ruling barring race-conscious admissions policies, Yale employed a holistic review process \u201cto uncover and then use applicants\u2019 race through direct and indirect means.\u201d",
+    "date": "2026-05-14T23:05:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230243",
     "feed_name": "Texas Tribune",
     "title": "Abbott\u2019s public safety wish list includes statewide prosecutor, more bail restrictions",
@@ -310,6 +320,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/us/university-of-chicago-free-tuition-250000-income.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "University of Chicago Makes Tuition Free for Families Making Under $250,000",
+    "author": "Vimal Patel",
+    "link": "https://www.nytimes.com/2026/05/14/us/university-of-chicago-free-tuition-250000-income.html",
+    "content": "The University of Chicago campus.",
+    "date": "2026-05-14T15:23:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html",
     "feed_name": "NYT (Emailed)",
     "title": "Inside Jack Schlossberg\u2019s Chaotic Campaign to Revive Camelot",
@@ -337,6 +357,16 @@
     "link": "https://www.nytimes.com/2026/05/14/opinion/southern-baptist-convention-paul-pressler.html",
     "content": "The secrets of one of the architects of the religious right are being revealed. One of the secrets is that they weren\u2019t really secrets.",
     "date": "2026-05-14T15:09:01",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/14/t-magazine/taiwan-chinese-buddhism.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "How Taiwan Became a Refuge for Buddhism",
+    "author": "Aatish Taseer and Maxime Fossat",
+    "link": "https://www.nytimes.com/2026/05/14/t-magazine/taiwan-chinese-buddhism.html",
+    "content": "A Sinicized form of the religion has been preserved on the island, where daily life itself now sometimes seems like an exercise in Buddhist practice.",
+    "date": "2026-05-14T14:47:24",
     "category": "NYT"
   },
   {
@@ -487,6 +517,16 @@
     "link": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
     "content": "The difference in perspectives between superpowers is shaping the race for A.I. dominance.",
     "date": "2026-05-14T09:05:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Why the Migrant Child Crisis Is Roiling the California Governor Race",
+    "author": "Hannah Dreier",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html",
+    "content": "Xavier Becerra, the former secretary of Health and Human Services, is campaigning for California governor.",
+    "date": "2026-05-14T09:05:20",
     "category": "NYT"
   },
   {
@@ -19958,45 +19998,5 @@
     "content": "Robert F. Kennedy Jr.\u2019s sweeping changes to federal vaccine guidance are paused for now. But even if they\u2019re reversed, lasting damage has already been done.",
     "date": "2026-04-10T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "69d810a7318d5781f6dd7983",
-    "feed_name": "Wired (Science)",
-    "title": "How and When to Watch the Artemis II Mission\u2019s Return to Earth",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/how-and-when-to-watch-the-artemis-ii-missions-return-to-earth/",
-    "content": "Splashdown for the Artemis II crew is scheduled for Friday evening, and NASA will livestream the historic homecoming.",
-    "date": "2026-04-10T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/world/europe/ukraine-defense-technology-companies.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "He Made a Gadget to Amuse Pets. Then He Turned to Killer Drones.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/world/europe/ukraine-defense-technology-companies.html",
-    "content": "",
-    "date": "2026-04-10T08:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/world/europe/afd-germany-saxony-anhalt-plan.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "In Germany\u2019s East, the Far Right Could Soon Take Power. This Is Its Plan.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/world/europe/afd-germany-saxony-anhalt-plan.html",
-    "content": "",
-    "date": "2026-04-10T08:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "North Korea Tests New Weapons, Drawing Lessons from Iran War",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
-    "content": "",
-    "date": "2026-04-10T07:48:54",
-    "category": "NYT"
   }
 ]
