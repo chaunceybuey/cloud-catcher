@@ -1630,6 +1630,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/13/technology/personaltech/passwords-managers-passkeys.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Tired of Hacked Passwords? Help Is on the Way.",
+    "author": "J. D. Biersdorfer",
+    "link": "https://www.nytimes.com/2026/05/13/technology/personaltech/passwords-managers-passkeys.html",
+    "content": "A password manager, like the 1Password app shown here, serves as a secure vault for all your user names, passwords and other private information.",
+    "date": "2026-05-13T09:02:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/world/europe/three-musketeers-maastricht-dumas-netherlands-dartagnan.html",
     "feed_name": "NYT (Shared)",
     "title": "Are These the Bones of the Fourth Musketeer? This Dutch Village Hopes So.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/10/us/san-francisco-ballot-signatures-california-masks.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-11T07:18:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/10/us/voting-by-mail-trump-pacific-northwest.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Where Mail Voting Began, Worries Spread Over Trump\u2019s Attacks",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/10/us/voting-by-mail-trump-pacific-northwest.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-11T07:03:46",
     "category": "NYT"
   }
 ]
