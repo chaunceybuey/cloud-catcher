@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/arts/music/clarence-carter-dead.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Clarence Carter, Singer of Lust-Filled Soul Hits, Dies at 90",
+    "author": "Bill Friskics-Warren",
+    "link": "https://www.nytimes.com/2026/05/14/arts/music/clarence-carter-dead.html",
+    "content": "Clarence Carter in 1975. Blind from youth, he had a deep, declamatory baritone and lecherous, full-throated laugh.",
+    "date": "2026-05-15T00:09:18",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=230263",
+    "feed_name": "Texas Tribune",
+    "title": "Federal judge halts Texas immigration law the day before it was set to take effect",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17341571/texas-immigration-law-state-police-arrests-sb4-halt",
+    "content": "Texas Department of Public Safety special agents monitor four undocumented immigrants from Honduras who were caught on private property in Kinney County on Nov. 9, 2021.",
+    "date": "2026-05-14T23:49:04",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230243",
     "feed_name": "Texas Tribune",
     "title": "Abbott\u2019s public safety wish list includes statewide prosecutor, more bail restrictions",
@@ -110,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/opinion/trump-domestic-violence-authoritarian.html",
+    "feed_name": "NYT (Shared)",
+    "title": "There\u2019s a Pattern of Abuse in America",
+    "author": "M. Gessen, Rachel Louise Snyder and Jillian Weinberger",
+    "link": "https://www.nytimes.com/2026/05/14/opinion/trump-domestic-violence-authoritarian.html",
+    "content": "M. Gessen and Rachel Louise Snyder on the parallels between authoritarianism and domestic violence.",
+    "date": "2026-05-14T22:17:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230235",
     "feed_name": "Texas Tribune",
     "title": "Texas can execute death row inmate Edward Busby, U.S. Supreme Court says",
@@ -118,6 +148,16 @@
     "content": "The Supreme Court building in Washington, D.C. on Nov. 1, 2021.",
     "date": "2026-05-14T22:15:18",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
+    "author": "David E. Sanger",
+    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
+    "content": "President Trump with President Xi Jinping of China in Beijing on Thursday.",
+    "date": "2026-05-14T21:46:30",
+    "category": "NYT"
   },
   {
     "id": "6a062d7e01885d55b1a59bfc",
@@ -230,6 +270,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/opinion/jerome-powell-fed-chair.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "He Was Good at Steering the Fed, but He Was a Genius at Ignoring Trump\u2019s Threats",
+    "author": "Jason Furman",
+    "link": "https://www.nytimes.com/2026/05/14/opinion/jerome-powell-fed-chair.html",
+    "content": "A model for all who follow.",
+    "date": "2026-05-14T16:42:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/climate/trump-coal-plants-cost.html",
     "feed_name": "NYT (Shared)",
     "title": "Trump\u2019s Push to Keep Coal Plants Open Is Costing Hundreds of Millions",
@@ -290,6 +340,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-thucydides-trap-us-china.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Xi Warned Trump About the \u2018Thucydides Trap\u2019 for U.S. and China. What Is It?",
+    "author": "Leo Sands",
+    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-thucydides-trap-us-china.html",
+    "content": "A statue of Thucydides, the Athenian general and historian, outside the parliament building in Vienna.",
+    "date": "2026-05-14T14:40:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html",
     "feed_name": "NYT (Shared)",
     "title": "What People in China Say of Trump",
@@ -307,6 +367,16 @@
     "link": "https://www.nytimes.com/2026/05/14/t-magazine/nepal-buddha-kathmandu-buddhism.html",
     "content": "Starting at the birthplace of Buddhism, a writer traces how its teachings spread across Asia, transforming the continent forever.",
     "date": "2026-05-14T13:09:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/14/nyregion/gen-z-nyc-unaffordable.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "In a City of Big Dreams, Many Young Adults See a Cloudy Future",
+    "author": "Troy Closson",
+    "link": "https://www.nytimes.com/2026/05/14/nyregion/gen-z-nyc-unaffordable.html",
+    "content": "Soban Ali moved to New York eager to make his way in a new city. Like so many other young adults, he discovered hardship and disappointment.",
+    "date": "2026-05-14T13:05:27",
     "category": "NYT"
   },
   {
@@ -417,7 +487,17 @@
     "link": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
     "content": "The difference in perspectives between superpowers is shaping the race for A.I. dominance.",
     "date": "2026-05-14T09:05:32",
-    "category": "Uncategorized"
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Ishmael Reed Is Writing a Play About Elon Musk",
+    "author": "David Streitfeld",
+    "link": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
+    "content": "Ishmael Reed, 88, an author who has frequently challenged American political culture, at his home in Oakland, Calif. He is writing a play about Elon Musk and other tech billionaires.",
+    "date": "2026-05-14T09:02:52",
+    "category": "NYT"
   },
   {
     "id": "4d1c1130-68ea-4ea5-8a07-22a01ba41666",
@@ -450,6 +530,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/arts/television/late-night-trump-china-musk.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Stephen Colbert Slams \u2018Trump\u2019s Fabulous Billionaire Boys Trip\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/14/arts/television/late-night-trump-china-musk.html",
+    "content": "Late night hosts responded to President Trump\u2019s arrival in Beijing on Wednesday, accompanied by 17 chief executives including Tim Cook and Elon Musk.",
+    "date": "2026-05-14T05:50:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/14/arts/music/world-cup-halftime-shakira-madonna-bts.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Shakira, Madonna and BTS Are First World Cup Final Halftime Show",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/05/14/arts/music/world-cup-halftime-shakira-madonna-bts.html",
+    "content": "Shakira recorded the official World Cup song, \u201cDai Dai,\u201d which features the Afrobeats star Burna Boy.",
+    "date": "2026-05-14T05:09:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html",
     "feed_name": "NYT (Shared)",
     "title": "Why Xi Doesn\u2019t Need a Deal With Trump",
@@ -477,6 +577,26 @@
     "link": "https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html",
     "content": "The Colombian woman and other migrants are housed in a hotel outside Kinshasa, the capital of the Democratic Republic of Congo.",
     "date": "2026-05-14T02:00:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/us/road-trip-duffy.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Duffy\u2019s \u2018Great American Road Trip\u2019 Prompts Ethical Concerns",
+    "author": "Karoun Demirjian",
+    "link": "https://www.nytimes.com/2026/05/13/us/road-trip-duffy.html",
+    "content": "Mr. Duffy has insisted that the department\u2019s career ethics and budget officials reviewed and approved his participation in the YouTube series.",
+    "date": "2026-05-14T01:32:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/us/doj-lawsuit-dc-bar-trump.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Justice Dept. Sues D.C. Bar Over Efforts to Discipline Government Lawyers",
+    "author": "Devlin Barrett",
+    "link": "https://www.nytimes.com/2026/05/13/us/doj-lawsuit-dc-bar-trump.html",
+    "content": "Todd Blanche, the acting attorney general, accused the D.C. Bar, which handles complaints of lawyer misconduct, of acting as a \u201cblatantly partisan arm of leftist causes.\u201d",
+    "date": "2026-05-14T00:58:52",
     "category": "NYT"
   },
   {
@@ -19877,126 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/09/world/asia/north-korea-weapons-iran.html",
     "content": "",
     "date": "2026-04-10T07:48:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/01/climate/new-england-fishermen-ocean-data.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "In New England, Catching Climate Data Along With Fish",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/01/climate/new-england-fishermen-ocean-data.html",
-    "content": "",
-    "date": "2026-04-10T07:33:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/us/army-leaker-fbi-arrest-courtney-williams.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "F.B.I. Arrests Ex-Army Employee Who Detailed Harassment to Journalist",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/us/army-leaker-fbi-arrest-courtney-williams.html",
-    "content": "",
-    "date": "2026-04-10T07:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/us/phoenix-salt-river-project-election-results.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Clean Energy Slate Wins Control of Arizona\u2019s Biggest Utility",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/us/phoenix-salt-river-project-election-results.html",
-    "content": "",
-    "date": "2026-04-10T07:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/arts/nathan-farb-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Nathan Farb, 85, Dies; Photographed Hippies, Siberians and Mountains",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/arts/nathan-farb-dead.html",
-    "content": "",
-    "date": "2026-04-10T06:48:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/opinion/gas-prices-iran-war-travel-food-fed.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Our Vacations. Our Food. Our Mortgages. The Iran War Will Change Our Lives.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/opinion/gas-prices-iran-war-travel-food-fed.html",
-    "content": "",
-    "date": "2026-04-10T06:33:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/08/opinion/nasa-climate-science-earth.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "NASA Flew by the Moon, but Behind the Scenes, Its Science Is a Chaotic Mess",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/08/opinion/nasa-climate-science-earth.html",
-    "content": "",
-    "date": "2026-04-10T06:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/07/opinion/political-power-citizens-assemblies.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "No Shy Person Left Behind",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/07/opinion/political-power-citizens-assemblies.html",
-    "content": "",
-    "date": "2026-04-10T06:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/08/business/economy/blue-collar-trades-jobs.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Blue-Collar Work Has Plateaued, Narrowing Options for Young Workers",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/08/business/economy/blue-collar-trades-jobs.html",
-    "content": "",
-    "date": "2026-04-10T05:48:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/10/arts/television/jimmy-kimmel-melania-epstein.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Jimmy Kimmel Salutes Melania\u2019s White House Surprise",
-    "author": "Trish Bendix",
-    "link": "https://www.nytimes.com/2026/04/10/arts/television/jimmy-kimmel-melania-epstein.html",
-    "content": "The first lady addressed her relationship with Jeffrey Epstein in a prepared statement that the talk show host called \u201cbetter than her movie.\u201d",
-    "date": "2026-04-10T05:35:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "What to Know About the Strait of Hormuz Under the Cease-Fire",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html",
-    "content": "",
-    "date": "2026-04-10T05:33:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/business/federal-reserve-inflation.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Fed\u2019s Inflation Woes Preceded the War With Iran",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/business/federal-reserve-inflation.html",
-    "content": "",
-    "date": "2026-04-10T05:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/theater/death-of-a-salesman-review-broadway-lane-metcalf.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Review: A Cold, Perfect \u2018Death of a Salesman\u2019 for Our Time",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/theater/death-of-a-salesman-review-broadway-lane-metcalf.html",
-    "content": "",
-    "date": "2026-04-10T05:03:54",
     "category": "NYT"
   }
 ]
