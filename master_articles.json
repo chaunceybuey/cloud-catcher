@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=230257",
+    "feed_name": "Texas Tribune",
+    "title": "Texas executes 600th inmate since death penalty was reinstated in 1976",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17341590/texas-600-execution-edward-busby-death-penalty",
+    "content": "The Texas execution chamber in Huntsville.",
+    "date": "2026-05-15T01:21:31",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/arts/music/clarence-carter-dead.html",
     "feed_name": "NYT (Shared)",
     "title": "Clarence Carter, Singer of Lust-Filled Soul Hits, Dies at 90",
@@ -317,6 +327,16 @@
     "link": "https://www.nytimes.com/2026/05/14/arts/design/met-museum-neue-galerie-merger-lauder.html",
     "content": "Beginning in 2028, the Metropolitan Museum of Art will own the Neue\u2019s Fifth Avenue home and the prestige collection of 20th-century Austrian and German art built by Ronald S. Lauder.",
     "date": "2026-05-14T15:53:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/14/t-magazine/buddhism-thailand-religion-politics.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "In Thailand, Buddhism Is Twinned With Political Power",
+    "author": "Aatish Taseer and Tomoko Yoneda",
+    "link": "https://www.nytimes.com/2026/05/14/t-magazine/buddhism-thailand-religion-politics.html",
+    "content": "In Thailand, where it\u2019s the state-sanctioned religion, practices have proved to be surprisingly mutable.",
+    "date": "2026-05-14T15:30:25",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "A sign at an H-E-B in Austin on March 23, 2026 alerts shoppers of new restrictions on what they can purchase with SNAP benefits.",
     "date": "2026-04-10T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226302",
-    "feed_name": "Texas Tribune",
-    "title": "Here\u2019s how to cast a ballot in Texas\u2019 May 2 local elections",
-    "author": "Mar\u00eda M\u00e9ndez",
-    "link": "https://feeds.texastribune.org/link/16799/17316923/texas-2026-local-elections-guide-arlington-school-board-dallas-isd",
-    "content": "An abundance of election signs reflecting the large number of local elections on the ballot are seen at the Brook Hollow Branch Library polling location on primary election day in San Antonio on March 3, 2026.",
-    "date": "2026-04-10T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "69d6a4c141a14dfb6c828edf",
-    "feed_name": "Wired (Science)",
-    "title": "No One Knows Where US Vaccine Policy Goes Next",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/no-one-knows-where-us-vaccine-policy-goes-next/",
-    "content": "Robert F. Kennedy Jr.\u2019s sweeping changes to federal vaccine guidance are paused for now. But even if they\u2019re reversed, lasting damage has already been done.",
-    "date": "2026-04-10T10:00:00",
-    "category": "Magazines"
   }
 ]
