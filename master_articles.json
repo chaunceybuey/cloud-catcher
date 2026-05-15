@@ -650,6 +650,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/opinion/gas-prices-fuel-oil-trump-poor.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Trump\u2019s Iran War Is Punishing America\u2019s Working Class",
+    "author": "Jeff D. Colgan",
+    "link": "https://www.nytimes.com/2026/05/14/opinion/gas-prices-fuel-oil-trump-poor.html",
+    "content": "Higher fuel prices are a burden on low-income families.",
+    "date": "2026-05-14T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/14/t-magazine/taiwan-chinese-buddhism.html",
     "feed_name": "NYT (Emailed)",
     "title": "How Taiwan Became a Refuge for Buddhism",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/09/arts/music/afrika-bambaataa-dead.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-11T06:18:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/10/opinion/putin-russia-iran.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "For Putin, Iran Is Something Close to Irreplaceable",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/10/opinion/putin-russia-iran.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-11T06:03:46",
     "category": "NYT"
   }
 ]
