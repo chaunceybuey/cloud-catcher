@@ -310,6 +310,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/15/movies/martin-short-marty-life-is-short.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Martin Short and the Secret to Finding Joy While Surviving Tragedy",
+    "author": "Jason Zinoman and Thea Traff",
+    "link": "https://www.nytimes.com/2026/05/15/movies/martin-short-marty-life-is-short.html",
+    "content": "Grieving gives you \u201cmuscles to survive,\u201d Martin Short said.",
+    "date": "2026-05-15T09:02:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html",
     "feed_name": "NYT (Emailed)",
     "title": "The Strange Alliance Trying to Remake American Psychiatry",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-11T08:03:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Lebanon: A Nation Uprooted by War",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-11T07:48:46",
     "category": "NYT"
   }
 ]
