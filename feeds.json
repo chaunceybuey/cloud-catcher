@@ -11,18 +11,6 @@
   ],
   "NYT": [
     {
-      "name": "NYT (Shared)",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
-    },
-    {
-      "name": "NYT (Emailed)",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
-    },
-    {
-      "name": "NYT (Popular)",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml"
-    },
-    {
       "name": "Douthat",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
     },
