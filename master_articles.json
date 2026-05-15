@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html",
+    "feed_name": "NYT (Shared)",
+    "title": "Supreme Court Allows Abortion Pill Access by Mail to Continue",
+    "author": "Ann E. Marimow",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html",
+    "content": "The clash over access to mifepristone has put the Trump administration in a difficult political position ahead of the midterm election.",
+    "date": "2026-05-14T22:51:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230243",
     "feed_name": "Texas Tribune",
     "title": "Abbott\u2019s public safety wish list includes statewide prosecutor, more bail restrictions",
@@ -290,6 +300,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/14/style/ucf-commencement-ai-booed-gloria-caulfield.html",
+    "feed_name": "NYT (Shared)",
+    "title": "UCF Commencement Speaker Draws Boos After A.I. Remarks",
+    "author": "Gabriella Gershenson",
+    "link": "https://www.nytimes.com/2026/05/14/style/ucf-commencement-ai-booed-gloria-caulfield.html",
+    "content": "Humanities students made their displeasure known at the University of Central Florida.",
+    "date": "2026-05-14T17:05:58",
+    "category": "NYT"
+  },
+  {
     "id": "0145d007cbb7a06a9d71fcc3bab31c38",
     "feed_name": "The Atlantic",
     "title": "Pay Attention",
@@ -407,6 +427,16 @@
     "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-thucydides-trap-us-china.html",
     "content": "A statue of Thucydides, the Athenian general and historian, outside the parliament building in Vienna.",
     "date": "2026-05-14T14:40:33",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/14/travel/sweden-skane-culinary-travel.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "A Food-Lover\u2019s Paradise in the Swedish Countryside",
+    "author": "Lisa Abend and Hilary Swift For The New York Times",
+    "link": "https://www.nytimes.com/2026/05/14/travel/sweden-skane-culinary-travel.html",
+    "content": "In Skane, a fertile agricultural area bordered on three sides by the Baltic Sea, visitors will find delightful meals, baked goods and sweets, all made with a certain \u2018craft nerdiness.\u2019",
+    "date": "2026-05-14T14:34:02",
     "category": "NYT"
   },
   {
@@ -557,7 +587,7 @@
     "link": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
     "content": "The difference in perspectives between superpowers is shaping the race for A.I. dominance.",
     "date": "2026-05-14T09:05:32",
-    "category": "NYT"
+    "category": "Uncategorized"
   },
   {
     "id": "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html",
@@ -19968,35 +19998,5 @@
     "content": "<figure class=\"wp-block-image size-full\"><img alt=\"\" class=\"wp-image-18754\" height=\"736\" src=\"https://i0.wp.com/stratechery.com/wp-content/uploads/2026/04/twis-mythos-1.png?resize=1330%2C736&#038;ssl=1\" width=\"1330\" /><figcaption class=\"wp-element-caption\">Anthropic CEO Dario Amodei never appeared on the TBPN podcast; now that <a href=\"https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/\">it has been acquired by OpenAI</a>, he probably never will</figcaption></figure>\n\n\n\n<p>Welcome back to This Week in Stratechery!</p>\n\n\n\n<p>As a reminder, each week, every Friday, we&#8217;re sending out this overview of content in the Stratechery bundle; <span class=\"passport-tokenized-link\">highlighted links are free for everyone</span>. Additionally, you have complete control over what we send to you. If you don&#8217;t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in <a href=\"https://stratechery.passport.online/member/account/delivery\">your delivery settings</a>.</p>\n\n\n\n<p>On that note, here were a few of our favorites this week.</p>\n\n\n\n<ol class=\"wp-block-list is-style-default\">\n<li><strong>Anthropic Anthropic Anthropic</strong>. In the current AI era, it feels like a new company is crowned the winner every few months, and right now Anthropic is wearing the crown. However, a point <a href=\"https://sharptech.fm/member/episode/mythos-and-project-glasswing-the-year-of-anthropic-continues-apace-q-a-on-the-nyt-altman-de-globalization\">I make on Sharp Tech</a> is that Anthropic&#8217;s exponential growth includes the part of the curve everyone misses: the company has been on this once-barely-visible trajectory for nearly two years now. Now the company has what is undoubtedly the most powerful model in the world, so powerful, in fact, that Anthropic says it can&#8217;t release it publicly. There&#8217;s reason for cynicism, given Anthropic&#8217;s history, but <a href=\"https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/\">the part of the &#8220;Boy Cries Wolf&#8221; myth everyone forgets</a> is that the wolf did come in the end. <em>\u2014</em> <em>Ben Thompson</em><br /></li>\n</ol>\n\n\n\n<span id=\"more-18749\"></span>\n\n\n\n<ol class=\"wp-block-list is-style-default\" start=\"2\">\n<li><strong>The <em>New York Times</em> and Another Paradigm Shift.</strong> If you&#8217;re interested in media, <a href=\"https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/\"><span class=\"passport-tokenized-link\">this week&#8217;s Stratechery Interview with <em>New York Times</em> CEO Meredith Kopit Levien</span></a> is a fantastic listen. The&nbsp;<em>Times&nbsp;</em>has nailed the internet era better than media company in the world, and they&#8217;ve succeeded by making deliberate choices <em>\u2014</em> a paywall before it was cool, a clear point of view, integrated business and editorial strategies <em>\u2014</em> to differentiate themselves from a sea of commoditized content in an era of aggregators and content abundance. That playbook worked wonders for the <em>Times </em>in the previous generation of the internet, and I enjoyed hearing Levien&#8217;s thoughts on updating it for an era dominated by AI and video.&nbsp;<em>\u2014</em> <em><em>Andrew Sharp</em></em><br /><br /></li>\n\n\n\n<li><strong>The <em>New Yorker</em>&nbsp;Explains Sam Altman. </strong>This week&#8217;s Sharp Text hit a few different beats, including thoughts on the Strait of Hormuz and a fun bit of E-ZPass history, but I opened with <a href=\"https://sharptext.net/2026/hormuz-rushmore-and-a-sam-altman-story-that-missed-the-story/\"><span class=\"passport-tokenized-link\">a take on the sprawling Sam Altman profile from the <em>New Yorker</em></span></a>. The <a href=\"https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=dhtwitter&amp;utm_content=null\">16,000 word profile</a> is certainly an exhaustive recital of questions that have been asked about Altman for more than a decade, but better topics went unexplored. It&#8217;s frustrating \u2014 and representative of too much tech coverage \u2014 that so much effort went into what&#8217;s effectively a well-written Wikipedia entry, anchored by a predetermined conclusion, and ignoring more dramatic questions than whether Sam Altman is a good person. <em>\u2014</em> <em>AS</em></li>\n</ol>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Stratechery Articles and Updates</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/\">OpenAI Buys TBPN, Tech and the Token Tsunami</a> <em>\u2014 OpenAI\u2019s purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/anthropics-new-tpu-deal-anthropics-computing-crunch-the-anthropic-google-alliance/\">Anthropic\u2019s New TPU Deal, Anthropic\u2019s Computing Crunch, The Anthropic-Google Alliance</a> <em>\u2014 Anthropic needs compute, and Google has the most: it\u2019s a natural partnership, particularly for Google.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/anthropics-new-model-the-mythos-wolf-glasswing-and-alignment/\">Anthropic\u2019s New Model, The Mythos Wolf, Glasswing and Alignment</a> <em>\u2014 Anthropic says its new model is too dangerous to release; there are reasons to be skeptical, but to the extent Anthropic is right, that raises even deeper concerns.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/\"><span class=\"passport-tokenized-link\">An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise</span></a> <em>\u2014 An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Text by Andrew Sharp</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptext.net/2026/hormuz-rushmore-and-a-sam-altman-story-that-missed-the-story/\"><span class=\"passport-tokenized-link\">Hormuz, Rushmore and a Sam Altman Story That Missed the Story</span></a> \u2014 <em>On the New Yorker&#8217;s profile of Sam Altman, the future in the Middle East, and the power of E-ZPass history</em>.</li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Dithering with Ben Thompson and Daring Fireball&#8217;s John Gruber</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dithering.passport.online/member/episode/open-ai-buys-tbpn\">OpenAI Buys TBPN</a></li>\n\n\n\n<li><a href=\"https://dithering.passport.online/member/episode/mythos-altman-new-york-times\">Mythos, Altman, New York Times</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Asianometry with Jon Yu</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://asianometry.passport.online/member/episode/vliw-the-impossible-computer\">VLIW: The \u201cImpossible\u201d Computer</a></li>\n\n\n\n<li><a href=\"https://asianometry.passport.online/member/episode/gas-turbine-blades-and-their-heat-defying-single-crystal-superalloys\">Gas Turbine Blades and their Heat-Defying Single-Crystal Superalloys</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp China with Andrew Sharp and Sinocism&#8217;s Bill Bishop</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharpchina.fm/member/episode/a-ceasefire-and-reports-of-prc-pressure-another-politburo-investigation-mythos-deep-seek-and-a-token-crunch\">A Ceasefire and Reports of PRC Pressure; Another Politburo Investigation; Mythos, DeepSeek, and a Token Crunch</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Greatest of All Talk with Andrew Sharp and Ben Golliver</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://goat.passport.online/member/episode/an-exclusive-hornets-suns-report-and-mail-on-le-bron-wemby-the-pistons-abs-in-the-nba-bulls-fandom-for-kids\">An Exclusive Hornets-Suns Report and Mail on LeBron, Wemby, the Pistons, ABS in the NBA, Bulls Fandom for Kids</a></li>\n\n\n\n<li><a href=\"https://goat.passport.online/member/episode/malone-to-carolina-and-karnisovas-out-in-chicago-cooper-and-kon-battling-to-the-finish-a-jokic-wemby-classic-in-denver\">Malone to Carolina and Karnisovas Out in Chicago, Cooper and Kon Battling to the Finish, A Jokic-Wemby Classic in Denver</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Tech with Andrew Sharp and Ben Thompson</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptech.fm/member/episode/mythos-and-project-glasswing-the-year-of-anthropic-continues-apace-q-a-on-the-nyt-altman-de-globalization\">Mythos and Project Glasswing, The Year of Anthropic Continues Apace, Q&amp;A on the NYT, Altman, De-globalization</a></li>\n</ul>\n\n\n\n<p>This week&#8217;s Sharp Tech video is on why OpenAI&#8217;s enterprise pivot makes sense.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p></p>",
     "date": "2026-04-10T17:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226373",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Tech System leader cancels academic programs \u201ccentered on\u201d sexual orientation, gender identity",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17317085/texas-tech-ban-gender-identity-sexual-orientation-academics",
-    "content": "Texas Tech students and faculty protest recent curriculum changes at Memorial Circle on campus in Lubbock on Feb. 26, 2026.",
-    "date": "2026-04-10T16:35:55",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/opinion/genetic-editing-diseases-health-care.html",
-    "feed_name": "NYT (Popular)",
-    "title": "We Are on the Cusp of a Revolution in Rare Disease Treatment",
-    "author": "Jeff Coller",
-    "link": "https://www.nytimes.com/2026/04/09/opinion/genetic-editing-diseases-health-care.html",
-    "content": "We can\u2019t let the most important medical achievement of a decade slip through our fingers.",
-    "date": "2026-04-10T16:24:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.propublica.org/article/tennessee-school-threats-law-changed",
-    "feed_name": "ProPublica",
-    "title": "Tennessee Lawmakers Pass Fix to School Threats Law After Kids Were Arrested for Jokes and Misunderstandings",
-    "author": "Paige Pfleger",
-    "link": "https://www.propublica.org/article/tennessee-school-threats-law-changed",
-    "content": "<p>Tennessee lawmakers passed legislation this week to fix the state\u2019s controversial threats of mass violence law, which had resulted in children being charged with felonies over jokes and misunderstandings.</p>\n\n\n\n<p>Gov. Bill Lee is expected to sign the bill, which will require that school officials only report student threats to police if a threat is \u201ccredible,\u201d meaning reasonably expected to be carried out. Previously, a school administrator who failed to report any threat of mass violence could be charged with a misdemeanor.</p>\n\n\n\n<p>The change comes after pressure from advocates and <a href=\"https://www.propublica.org/series/crackdown-on-student-threats#:~:text=A%20state%20law%20makes%20threats,the%20law%20unnecessarily%20traumatizes%20kids.\">an investigation by ProPublica and WPLN</a>. Many of the children charged had disabilities and were students of color. One of the youngest children charged with a felony last year was 6.</p>\n\n\n\n<p>In one case ProPublica and WPLN investigated, an autistic teenager with an intellectual disability told his teacher that his backpack would blow up if anyone touched it. Police only found <a href=\"https://www.propublica.org/article/tennessee-school-threats-arresting-kids-with-disabilities\">a stuffed bunny inside</a>, but they arrested and charged him with making a threat of mass violence. That child\u2019s mother is now suing the school district; the case is ongoing.</p>\n\n\n\n<p>Another family ProPublica and WPLN wrote about later <a href=\"https://www.propublica.org/article/tennessee-school-threats-law-lawsuit-settlement\">won a $100,000 settlement</a> against a Chattanooga public charter school; family members argued in a federal lawsuit that <a href=\"https://www.propublica.org/article/tennessee-school-threat-law-kids-arrested\">the school wrongly reported</a> their 11-year-old autistic child to the police.</p>\n\n\n\n<p>Multiple parents also filed a lawsuit against Williamson County Schools, outside of Nashville, claiming their children were wrongly suspended and arrested after being accused of making threats of mass violence at school. The school board disputed the claims in court records and moved to dismiss the lawsuit. <a href=\"https://www.documentcloud.org/documents/25483794-newcomb-judge-memo/\">In an initial ruling</a>, the judge said the families had a \u201cplausible claim\u201d and allowed the case to move forward.</p>\n\n\n\n<p>Sen. Ferrell Haile, who co-authored this year\u2019s bill, said during a late March committee hearing that he hoped it would prevent students with disabilities from being needlessly arrested for statements \u201cthey have no ability to carry out.\u201d</p>\n\n\n\n<p>He said he was inspired by the story of a fifth grader with a disability in his district who made a statement out of frustration one day at school. The school police officer told the family he didn\u2019t want to arrest the child but the law required him to, whether or not the threat was credible. His superiors charged the child with a felony.</p>\n\n\n\n<p>\u201cIn some counties, it has become a standard practice to charge every threat even if it has been deemed not credible,\u201d Haile said at the hearing.</p>\n\n\n\n<p>Haile\u2019s current stance is a departure from his prior position and those of most other Tennessee Republicans, who <a href=\"https://www.propublica.org/article/school-threats-laws-georgia-new-mexico\">refused to back similar language</a> as recently as last winter. In fact, in 2025, Haile proposed a bill that would extend the felony threats law to more locations, including child care agencies, preschools and churches.</p>\n\n\n\n<p>When a Democratic colleague asked him during a hearing to consider only applying the felony charge to people who intended to carry out the threats, Haile said no. Police and district attorneys \u2014 not school principals or counselors \u2014 should be responsible for determining whether a threat was credible, he said last year.</p>\n\n\n\n<p>Haile did not respond to a request for comment.</p>\n\n\n\n<p>Advocates are applauding the recent change to the law but warn that it isn\u2019t a panacea. Tennessee law still does not require police to consider whether a threat is credible before charging or arresting youth.</p>\n\n\n\n<p>\u201cThis is not a total solution to threats of mass violence,\u201d said Zoe Jamail, an advocate for children with the nonprofit Raphah Institute. \u201cIt is a huge step forward in terms of signifying an intent by the legislature that noncredible threats shouldn\u2019t be prosecuted.\u201d</p>\n<p>The post <a href=\"https://www.propublica.org/article/tennessee-school-threats-law-changed\">Tennessee Lawmakers Pass Fix to School Threats Law After Kids Were Arrested for Jokes and Misunderstandings</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-04-10T16:00:00",
-    "category": "Magazines"
   }
 ]
