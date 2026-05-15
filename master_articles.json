@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/15/opinion/keir-starmer-uk-brexit-politics.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Keir Starmer and the End of Britain\u2019s Old Certainties",
+    "author": "Tom McTague",
+    "link": "https://www.nytimes.com/2026/05/15/opinion/keir-starmer-uk-brexit-politics.html",
+    "content": "The decade since Brexit has been one long, painful process of trying \u2014 and failing \u2014 to make sense of this new reality.",
+    "date": "2026-05-15T18:38:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=19040",
     "feed_name": "Stratechery",
     "title": "2026.20: Shifting Alliances in a Changing World",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-11T07:48:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/us/ice-detention-center-tremont-pennsylvania-dhs.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "In a Deep Red Town, Locals Vent Over a Planned ICE Detention Center",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/us/ice-detention-center-tremont-pennsylvania-dhs.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-11T07:33:46",
     "category": "NYT"
   }
 ]
