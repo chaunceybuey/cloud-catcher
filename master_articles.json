@@ -110,6 +110,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/15/opinion/ezra-klein-podcast-pema-chodron.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "This Is Why I Find Pema Ch\u00f6dr\u00f6n So Essential",
+    "author": "Ezra Klein and Kristin Lin",
+    "link": "https://www.nytimes.com/2026/05/15/opinion/ezra-klein-podcast-pema-chodron.html",
+    "content": "The 89-year-old Buddhist nun teaches the power of agreeing with your anxiety, instead of trying to run from it.",
+    "date": "2026-05-15T12:38:14",
+    "category": "NYT"
+  },
+  {
     "id": "6a02221c1dac210a45de1794",
     "feed_name": "Wired (Science)",
     "title": "Build a Radio Wave Detector With Balls of Aluminum Foil!",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-11T04:18:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/10/business/economy/what-to-know-about-the-report.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "U.S. Inflation Surged in March as Iran War Pushed Up Prices",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/10/business/economy/what-to-know-about-the-report.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-11T04:03:46",
     "category": "NYT"
   }
 ]
