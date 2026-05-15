@@ -537,7 +537,7 @@
     "link": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
     "content": "The difference in perspectives between superpowers is shaping the race for A.I. dominance.",
     "date": "2026-05-14T09:05:32",
-    "category": "Uncategorized"
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html",
@@ -818,6 +818,16 @@
     "content": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
     "date": "2026-05-13T19:15:59",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/13/realestate/nj-transit-jersey-shore-subway.html",
+    "feed_name": "NYT (Emailed)",
+    "title": "Jersey Shore Residents Embrace NJ Transit for Short Trips",
+    "author": "Jill P. Capuzzo and Hannah Beier",
+    "link": "https://www.nytimes.com/2026/05/13/realestate/nj-transit-jersey-shore-subway.html",
+    "content": "Johnny Mac\u2019s House of Spirits in Asbury Park, is the first stop for many after getting off NJ Transit.",
+    "date": "2026-05-13T19:15:44",
+    "category": "NYT"
   },
   {
     "id": "94f80d104979948114d03a14f5c9b5b6",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-04-10T11:55:22",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226292",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 ban on sodas, candies for SNAP benefits troubles diabetics and hypoglycemics",
-    "author": "Riddhi Bora",
-    "link": "https://feeds.texastribune.org/link/16799/17316922/texas-snap-food-stamps-diabetes-hypoglycemia-sugar-soda-ban",
-    "content": "A sign at an H-E-B in Austin on March 23, 2026 alerts shoppers of new restrictions on what they can purchase with SNAP benefits.",
-    "date": "2026-04-10T10:00:00",
-    "category": "Texas"
   }
 ]
