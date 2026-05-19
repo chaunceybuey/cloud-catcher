@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=230748",
+    "feed_name": "Texas Tribune",
+    "title": "Rain gives Corpus Christi a small break, delaying projected water crisis by 3 months",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17344520/texas-corpus-christi-water-crisis-delay-december",
+    "content": "The Corpus Christi City Council meets to discuss the city&#039;s depleting water supplies on March 17, 2026.",
+    "date": "2026-05-19T22:51:20",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/05/28/facing-the-past-transcription-ben-lerner/",
     "feed_name": "NYRB",
     "title": "\u2018Facing the Past\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/15/opinion/trump-iran-power-unitary-executive.html",
     "content": "Trump is in over his head.",
     "date": "2026-04-16T04:23:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/15/opinion/mythos-open-souce-internet.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "After Mythos, the Future of the Internet Is At a Crossroads",
-    "author": "Raffi Krikorian",
-    "link": "https://www.nytimes.com/2026/04/15/opinion/mythos-open-souce-internet.html",
-    "content": "In the race to patch up cybersecurity holes found by the newest A.I. models, we risk leaving too many people to fend for themselves.",
-    "date": "2026-04-16T03:17:11",
     "category": "NYT"
   }
 ]
