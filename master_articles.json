@@ -90,12 +90,62 @@
     "category": "Texas"
   },
   {
+    "id": "8ce346c319d8dd968dbe9ae33adf2cba",
+    "feed_name": "Compact",
+    "title": "Thomas Massie\u2019s Dead-End Libertarianism",
+    "author": "",
+    "link": "https://www.compactmag.com/article/thomas-massies-dead-end-libertarianism/",
+    "content": "",
+    "date": "2026-05-20T13:41:08",
+    "category": "Magazines"
+  },
+  {
+    "id": "9fd0ec1eaa6da08c111f05a8a8957c09",
+    "feed_name": "Compact",
+    "title": "The Emerging AI Policy Consensus",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-emerging-ai-policy-consensus/",
+    "content": "",
+    "date": "2026-05-20T13:41:08",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a0cc66b9aa99b0058f8fdea",
+    "feed_name": "Wired (Science)",
+    "title": "\u2018Perfect Storm\u2019: How Trump's Aid Cuts Are Fueling the Ebola Outbreak",
+    "author": "Kate Knibbs, Leah Feiger",
+    "link": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/",
+    "content": "One health provider who works on the ground says that basic medical equipment like masks and hand sanitizers are in short supply due to funding cuts.",
+    "date": "2026-05-20T13:16:22",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/getinvolved/arc-addiction-treatment-kentucky-callout",
     "feed_name": "ProPublica",
     "title": "Tell Us About Your Experience With Kentucky\u2019s Addiction Recovery Care",
     "author": "Taylor Six",
     "link": "https://www.propublica.org/getinvolved/arc-addiction-treatment-kentucky-callout",
     "content": "<figure><img alt=\"\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/Kentucky-Drug-Rehab-Callout-3x2_maxHeight_3000_maxWidth_3000.jpg?w=1149\" /><figcaption><small> Dongyan Xu for ProPublica</small></figcaption></figure>\n<p>As reporters at the Lexington Herald-Leader,<strong> </strong>we<strong> </strong>first started hearing troubling stories in 2023 from former clients and staff of Addiction Recovery Care, once Kentucky\u2019s largest residential addiction treatment service provider. Over the last three years, we have spoken with dozens of former and current ARC clients and staff. And in April, we teamed up with ProPublica to publish a story detailing how ARC allegedly <a href=\"https://www.propublica.org/article/kentucky-addiction-recovery-care-medicaid-fraud\">used staff to falsely bill Kentucky Medicaid for millions, an allegation the company denies</a>.</p>\n\n\n\n<p><strong>For our next story, we want to take a closer look at how ARC treated the people who came to the organization seeking help with their sobriety. </strong>We are particularly interested in hearing from clients, as well as staff who worked closely with clients to deliver care.&nbsp;</p>\n\n\n\n<p>If you were or are an ARC client or employee, tell us about your experience with the treatment provider. Your perspective will help guide our reporting, ensuring we understand the issues from all sides.</p>\n\n\n\n<p>You can fill out our <a href=\"https://airtable.com/app8A5tNbkyF30K0J/pagLr7CSAR8lvPhQz/form\">brief form</a> or email Lexington Herald-Leader<strong> </strong>reporter Alex Acquisto <a href=\"mailto:aacquisto@herald-leader.com\">aacquisto@herald-leader.com</a>.&nbsp;</p>\n\n\n\n<p><strong>We take your privacy seriously and will contact you if we wish to publish any part of your story.</strong></p>\n\n\n\n<p>We\u2019re gathering these stories for our reporting, which can take several weeks or months. We may not be able to follow up with everyone, but we will read everything you submit and it will help guide our project.</p>\n<p>The post <a href=\"https://www.propublica.org/getinvolved/arc-addiction-treatment-kentucky-callout\">Tell Us About Your Experience With Kentucky\u2019s Addiction Recovery Care</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
+    "date": "2026-05-20T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "a4d2f03be42f9033094fa16136eb696a",
+    "feed_name": "The Atlantic",
+    "title": "My Son\u2019s Hockey Team Breeds Emptiness and Resentment",
+    "author": "Chris Murphy",
+    "link": "https://www.theatlantic.com/ideas/2026/05/children-private-equity-sports/687222/",
+    "content": "For-profit companies are buying up the rituals of American childhood and selling them back to parents.",
+    "date": "2026-05-20T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "69744a20ac92fa2d4e28afef2a37133d",
+    "feed_name": "The Atlantic",
+    "title": "The American Question",
+    "author": "Michael W. Sonnenfeldt",
+    "link": "https://www.theatlantic.com/ideas/2026/05/american-jews-political-identity-israel/687220/",
+    "content": "For Jews in the United States, progressive alliances are weakening, political identities are shifting, and emotional ties to Israel are being strained. What now?",
     "date": "2026-05-20T11:00:00",
     "category": "Magazines"
   },
@@ -19948,55 +19998,5 @@
     "content": "Pope Leo XIV at Saint Joseph\u2019s Cathedral in Bamenda, Cameroon, on Thursday. A violent secessionist movement centered in the area has divided the country over the past decade.",
     "date": "2026-04-16T18:27:51",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Lawyer John Eastman Disbarred for Efforts to Overturn 2020 Election",
-    "author": "Pooja Salhotra",
-    "link": "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html",
-    "content": "John Eastman has defended his actions, and one of his lawyers said he would explore his options at the U.S. Supreme Court.",
-    "date": "2026-04-16T18:20:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8739960#p8739960",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "ArtieMcD",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8739960#p8739960",
-    "content": "Is there some secret sauce required to get the Vanguard Cash Plus' routing and account numbers to actually be recognized on Treasury Direct?<br /><br />I finally got Fidelity linked in properly using the routing/account numbers off the physical checks... but Cash Plus has no checks or proper 9 + 13 numbers typically found on checks.     Even tried padding zeros on my vanguard account number, but no joy.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=21982\">ArtieMcD</a> \u2014 Thu Apr 16, 2026 1:12 pm</p><hr />",
-    "date": "2026-04-16T18:12:54",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "What Is \u2018Jagged Intelligence\u2019 and How Can It Reframe the AI Debate?",
-    "author": "Cade Metz",
-    "link": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
-    "content": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace.",
-    "date": "2026-04-16T17:36:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8739867#p8739867",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "Jrholmesfl7",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8739867#p8739867",
-    "content": "Interesting news: looks like Vanguard is exploring a debit card for Cash Plus:<br /><br /><a class=\"postlink\" href=\"https://www.linkedin.com/feed/update/urn:li:activity:7450349422833688576\">https://www.linkedin.com/feed/update/ur ... 2833688576</a><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=216382\">Jrholmesfl7</a> \u2014 Thu Apr 16, 2026 11:44 am</p><hr />",
-    "date": "2026-04-16T16:44:56",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226766",
-    "feed_name": "Texas Tribune",
-    "title": "She won a $7M grant to teach Texans how to farm. Then the Trump administration yanked it over DEI.",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17320307/texas-farmers-donald-trump-grant-dei",
-    "content": "Diana Padilla, the executive director of the nonprofit HOPE for Small Farm Sustainability, poses for a photo following a news conference on April 1 in Harlingen.",
-    "date": "2026-04-16T16:00:00",
-    "category": "Texas"
   }
 ]
