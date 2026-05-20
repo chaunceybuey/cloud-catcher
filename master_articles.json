@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/20/t-magazine/michaela-yearwood-dan-whitworth.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Michaela Yearwood-Dan\u2019s Art Blends Religious Themes With Lines From Her Diary",
+    "author": "Precious Adesina",
+    "link": "https://www.nytimes.com/2026/05/20/t-magazine/michaela-yearwood-dan-whitworth.html",
+    "content": "In a major new solo show, Michaela Yearwood-Dan\u2019s kaleidoscopic paintings blend religious references with lines from her own diary.",
+    "date": "2026-05-20T20:20:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/20/briefing/20-the-good-list-travel-cake-telegram.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Delight to Your Day",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/us/politics/hegseth-military-iran-blockade.html",
     "content": "\u201cWe\u2019d rather not have to do it, but we\u2019re ready to go at the command of our president and at the push of a button,\u201d Defense Secretary Pete Hegseth said on Thursday.",
     "date": "2026-04-16T23:34:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/well/measles-cases-utah.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Utah Becomes the New Center of U.S. Measles Cases",
-    "author": "Teddy Rosenbluth",
-    "link": "https://www.nytimes.com/2026/04/16/well/measles-cases-utah.html",
-    "content": "Nearly 600 people have been sickened across the state, which has seen an increase in vaccine exemptions among children in recent years.",
-    "date": "2026-04-16T22:42:01",
     "category": "NYT"
   }
 ]
