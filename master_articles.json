@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/20/theater/titans-clubbed-thumb-summerworks.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Beloved Theater Festival Is Back. Let the Adventures Begin.",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/05/20/theater/titans-clubbed-thumb-summerworks.html",
+    "content": "With the new play \u201cTitans,\u201d Clubbed Thumb\u2019s Summerworks series opens with a sharp ensemble work.",
+    "date": "2026-05-20T15:09:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/20/dining/lots-of-crunch-little-cooking.html",
+    "feed_name": "NYT (Food)",
+    "title": "Lots of Crunch, Little Cooking",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/05/20/dining/lots-of-crunch-little-cooking.html",
+    "content": "Ali Slagle\u2019s chicken salad slaw with peanuts and nori.",
+    "date": "2026-05-20T15:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "8ce346c319d8dd968dbe9ae33adf2cba",
     "feed_name": "Compact",
     "title": "Thomas Massie\u2019s Dead-End Libertarianism",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/us/carnival-cruise-lawsuit-damages-tequila-shots.html",
     "content": "A jury found Carnival responsible for some of the injuries and distress a customer said she had experienced after being served 15 tequila shots.",
     "date": "2026-04-16T18:59:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
-    "author": "Emiliano Rodr\u00edguez Mega and C\u00e9sar Rodr\u00edguez",
-    "link": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html",
-    "content": "Vusala Yusifova and her daughter, Inji, asylum seekers from Azerbaijan, cut a client\u2019s hair in Monteverde, Costa Rica.",
-    "date": "2026-04-16T18:32:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Pope Leo, Amid Standoff With Trump, Says \u2018Woe to Those Who Manipulate Religion\u2019",
-    "author": "Motoko Rich",
-    "link": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html",
-    "content": "Pope Leo XIV at Saint Joseph\u2019s Cathedral in Bamenda, Cameroon, on Thursday. A violent secessionist movement centered in the area has divided the country over the past decade.",
-    "date": "2026-04-16T18:27:51",
     "category": "NYT"
   }
 ]
