@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/rhubarb-breakfast-dessert",
+    "feed_name": "NYT (Food)",
+    "title": "How to Use Red Rhubarb in Breakfast and Dessert",
+    "author": "Melissa Clark",
+    "link": "https://cooking.nytimes.com/article/rhubarb-breakfast-dessert",
+    "content": "Make like Melissa Clark and roast ruby-red rhubarb quickly, then use it to top yogurt, ice cream, cakes and cookies all week long.",
+    "date": "2026-05-20T19:38:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767528#p8767528",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "Nearly 600 people have been sickened across the state, which has seen an increase in vaccine exemptions among children in recent years.",
     "date": "2026-04-16T22:42:01",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226872",
-    "feed_name": "Texas Tribune",
-    "title": "West Texas residents sue Trump administration over Big Bend border wall plans",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17320490/texas-border-wall-lawsuit-big-bend",
-    "content": "The sun sets over the Rio Grande in Big Bend National Park on Feb. 22, 2025.",
-    "date": "2026-04-16T22:25:40",
-    "category": "Texas"
   }
 ]
