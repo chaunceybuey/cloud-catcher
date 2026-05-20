@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/20/arts/television/late-night-trump-iran-delays.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Could Set a Clock by Trump\u2019s Iran Attack Delays",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/20/arts/television/late-night-trump-iran-delays.html",
+    "content": "Jimmy Kimmel noted that the president backs down on his own deadlines to bomb Iran \u201cevery Tuesday. It\u2019s like a new episode of \u2018NCIS.\u2019\u201d",
+    "date": "2026-05-20T06:09:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230773",
     "feed_name": "Texas Tribune",
     "title": "Dems slam Maureen Galindo\u2019s comments as antisemitic in TX-35 runoff",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/04/16/global-imbalances-are-back-whos-to-blame",
     "content": "The suspects look familiar",
     "date": "2026-04-16T09:58:29",
-    "category": "Magazines"
-  },
-  {
-    "id": "0e71b39b-50f1-4fa1-820e-9b980d6095ca",
-    "feed_name": "Economist",
-    "title": "Pakistan\u2019s deft diplomacy is an economic blessing. And a curse",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/16/pakistans-deft-diplomacy-is-an-economic-blessing-and-a-curse",
-    "content": "It allows the country\u2019s rulers to put off necessary reforms",
-    "date": "2026-04-16T09:58:04",
     "category": "Magazines"
   }
 ]
