@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=230885",
+    "feed_name": "Texas Tribune",
+    "title": "Mock funeral mourns death of academic freedom as UT System weighs rule on cutting programs",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17345301/ut-system-vote-streamline-academic-program-cuts-mock-funeral-texas",
+    "content": "A horse-drawn hearse at the University of Texas at Austin Tower during the UT Funeral protest on May 20, 2026.",
+    "date": "2026-05-20T22:59:38",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/20/books/ai-fiction-contest-granta.html",
     "feed_name": "NYT (Arts)",
     "title": "Was a Story That Just Won a Literary Prize A.I.-Generated?",
@@ -19988,15 +19998,5 @@
     "content": "President Trump with a model of his arch at the White House in October.",
     "date": "2026-04-17T00:31:12",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226890",
-    "feed_name": "Texas Tribune",
-    "title": "Gov. Greg Abbott threatens $200 million in funding from major Texas cities over ICE policies",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17320523/texas-greg-abbott-ice-houston-dallas-austin-ice-immigration",
-    "content": "A U.S. Immigration and Customs Enforcement agent\u2019s badge in front of the J.J. Pickle Federal Building in Austin on April 1, 2025.",
-    "date": "2026-04-17T00:21:14",
-    "category": "Texas"
   }
 ]
