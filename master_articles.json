@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/20/arts/music/eurovision-poland-israel-ukraine.html",
+    "feed_name": "NYT (Arts)",
+    "title": "After Eurovision Final, Dismay That Politics Didn\u2019t Play a Bigger Role",
+    "author": "Claire Moses",
+    "link": "https://www.nytimes.com/2026/05/20/arts/music/eurovision-poland-israel-ukraine.html",
+    "content": "Alexandra Capitanescu representing Romania in the Eurovision Song Contest last week.",
+    "date": "2026-05-20T18:04:05",
+    "category": "NYT"
+  },
+  {
+    "id": "6a0c8eb41bc0214b127a46cc",
+    "feed_name": "Wired (Science)",
+    "title": "How Wet Weather in Argentina Helped Fuel the Cruise Ship Hantavirus Outbreak",
+    "author": "Mar\u00eda de los \u00c1ngeles Orfila",
+    "link": "https://www.wired.com/story/climate-change-next-hantavirus-outbreak/",
+    "content": "Climate change is helping create conditions that are driving the rodent boom\u2014dubbed a ratada\u2014in Argentina.",
+    "date": "2026-05-20T17:59:16",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767407#p8767407",
     "feed_name": "Vanguard",
     "title": "Re: Vanguard Cash Plus Account",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/us/ice-detention-alabama-french-woman.html",
     "content": "After Marie-Th\u00e9r\u00e8se Ross-Mah\u00e9\u2019s husband died, an inheritance battle exploded. Her stepson then used his influence to have her arrested, an Alabama probate judge said.",
     "date": "2026-04-16T20:18:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/opinion/younger-men-dating-older-women.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Older Women Are in Demand by Younger Men",
-    "author": "Nadja Spiegelman, Emily Leibert, Jamieson Webster and Vishakha Darbha",
-    "link": "https://www.nytimes.com/2026/04/16/opinion/younger-men-dating-older-women.html",
-    "content": "What a shift in the dating preferences of younger men reveals about our changing norms.",
-    "date": "2026-04-16T20:02:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/business/medicare-advantage-enrollment-networks.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Help for Medicare Advantage Patients Who Lose Doctors Is Shelved, for Now",
-    "author": "Susan Jaffe",
-    "link": "https://www.nytimes.com/2026/04/16/business/medicare-advantage-enrollment-networks.html",
-    "content": "Amy Trojanowski feared she would lose a doctor she loved when her hospital system, UNC Health, left the Humana Medicare Advantage network. She was one of about 65,000 beneficiaries in North Carolina affected by UNC\u2019s leaving several insurers.",
-    "date": "2026-04-16T19:52:12",
     "category": "NYT"
   }
 ]
