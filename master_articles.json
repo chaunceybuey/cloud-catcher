@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767618#p8767618",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "greg24",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8767618#p8767618",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>We get periodic messages from our Vanguard account rep. about creating a Cash Plus account.  Most of our cash (in taxable accounts) @ Vanguard is held in the Vanguard Treasury Money Market Fund (VUSXX).  What would be the incentives to switch to a Cash Plus Account?  We live in a state where a deduction for U.S. Treasury interest is quite valuable.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I don't think it would make any sense for you to switch to Cash Plus.  You can purchase VUSXX in your Cash Plus account, but you are already doing that.  I guess the biggest upside would be if you want a way to do Bill Pay from a Vanguard account, which you can do from the Cash Plus sweep.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=75\">greg24</a> \u2014 Wed May 20, 2026 3:56 pm</p><hr />",
+    "date": "2026-05-20T20:56:09",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/20/t-magazine/michaela-yearwood-dan-whitworth.html",
     "feed_name": "NYT (Arts)",
     "title": "Michaela Yearwood-Dan\u2019s Art Blends Religious Themes With Lines From Her Diary",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/us/politics/newsom-book-donors.html",
     "content": "Gov. Gavin Newsom of California at an event in February to promote his memoir, \u201cYoung Man in a Hurry: A Memoir of Discovery.\u201d",
     "date": "2026-04-16T23:41:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/us/politics/hegseth-military-iran-blockade.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Hegseth Again Threatens Attacks on Iran\u2019s Civilian Infrastructure",
-    "author": "John Ismay",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/hegseth-military-iran-blockade.html",
-    "content": "\u201cWe\u2019d rather not have to do it, but we\u2019re ready to go at the command of our president and at the push of a button,\u201d Defense Secretary Pete Hegseth said on Thursday.",
-    "date": "2026-04-16T23:34:34",
     "category": "NYT"
   }
 ]
