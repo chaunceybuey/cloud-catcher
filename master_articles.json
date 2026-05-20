@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767504#p8767504",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "heartwood",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8767504#p8767504",
+    "content": "Curious that Fidelity includes so little information when sending me email notice that \"Deposit Received<br />Account: XXXXXXXXX<br />A deposit to your account was received on 05/19/2026.\"<br /><br />This is for my CMA account.<br />No indication of the Payer.<br />No indication of the amount.<br /><br />I get these every month for SS Direct Deposit by EFT for me and DW.  Same each month for pensions (me and DW). Similar for other DD.<br /><br />They do provide email details for withdrawals.<br /><br />I then logon to Fidelity and look at deposit details.  This is several times a month.<br /><br />Any way to get Fido to be more informative?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=49095\">heartwood</a> \u2014 Wed May 20, 2026 1:57 pm</p><hr />",
+    "date": "2026-05-20T18:57:36",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/20/dining/sam-sianis-dead.html",
+    "feed_name": "NYT (Food)",
+    "title": "Sam Sianis, \u2018Cheezborger\u2019-Flipping Owner of Chicago\u2019s Billy Goat Tavern, Dies at 91",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/05/20/dining/sam-sianis-dead.html",
+    "content": "Sam Sianis in an undated photo. For more than 50 years, customers could find him at the Billy Goat Tavern, tending bar or manning the small kitchen in back.",
+    "date": "2026-05-20T18:47:16",
+    "category": "NYT"
+  },
+  {
     "id": "5aaeffbc-d227-4e73-9973-c0767e9dc2a1",
     "feed_name": "Economist",
     "title": "Economics lessons from Home Depot",
@@ -19978,25 +19998,5 @@
     "content": "The Archimedes screw pump is used for moving water and sludge, from a lower to a higher elevation. Wastewater treatment process at SAWS\u2019 Steven M. Clouse Water Recycling Center in San Antonio on Aug. 23, 2024.",
     "date": "2026-04-16T21:30:17",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8740119#p8740119",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "stan1",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8740119#p8740119",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Is there some secret sauce required to get the Vanguard Cash Plus' routing and account numbers to actually be recognized on Treasury Direct?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Forum members reported that Treasury Direct was \"working\" but I can add it back to the \"not working\" list in the first post of this thread if it has stopped working.  Treasury Direct seems to be a perennial outlier (on lots of things).<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=3663\">stan1</a> \u2014 Thu Apr 16, 2026 3:41 pm</p><hr />",
-    "date": "2026-04-16T20:41:17",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8740096#p8740096",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "retiringwhen",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8740096#p8740096",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Is there some secret sauce required to get the Vanguard Cash Plus' routing and account numbers to actually be recognized on Treasury Direct?<br /><br />I finally got Fidelity linked in properly using the routing/account numbers off the physical checks... but Cash Plus has no checks or proper 9 + 13 numbers typically found on checks.     Even tried padding zeros on my vanguard account number, but no joy.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Cash Plus does not offer paper checks, so you have some sort of confusion. If you have Cash Plus they provide the account and routing numbers right on the main page for the account.<br /><br />On the <strong class=\"text-strong\">My Cash Plus Overview</strong> page, click on: <em class=\"text-italics\">Show account and routing numbers</em> to get all the details needed to ACH link the account.<br /><br />I suspect you are mistaking Cash Plus for checking privileges on a taxable brokerage account Settlement Fund. That is a completely different kettle of fish and outside the scope of this thread. I am guessing there is another thread related to routing numbers for brokerage accounts.<br /><br />Finally, Treasury Direct had issues in the past, there was discussion in this thread. I'd search back through the posts......<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=122804\">retiringwhen</a> \u2014 Thu Apr 16, 2026 3:24 pm</p><hr />",
-    "date": "2026-04-16T20:24:40",
-    "category": "Finance"
   }
 ]
