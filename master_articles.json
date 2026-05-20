@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767407#p8767407",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "Kimchi2",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8767407#p8767407",
+    "content": "Thank you for this clarification explaining the underlying problem. I have asked a contact at Vanguard to have an appropriate person coordinate with TD to resolve this issue. I'd bet someone's tried this before.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=183815\">Kimchi2</a> \u2014 Wed May 20, 2026 12:24 pm</p><hr />",
+    "date": "2026-05-20T17:24:55",
+    "category": "Finance"
+  },
+  {
     "id": "ea3c54d021cbaf376313ac6a95e7dba9",
     "feed_name": "LRB",
     "title": "A Rough Guide to Money Laundering",
@@ -19988,15 +19998,5 @@
     "content": "Amy Trojanowski feared she would lose a doctor she loved when her hospital system, UNC Health, left the Humana Medicare Advantage network. She was one of about 65,000 beneficiaries in North Carolina affected by UNC\u2019s leaving several insurers.",
     "date": "2026-04-16T19:52:12",
     "category": "NYT"
-  },
-  {
-    "id": "69e12b87db69706349fd0129",
-    "feed_name": "Wired (Science)",
-    "title": "Dark Matter May Be Made of Black Holes From Another Universe",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/",
-    "content": "A model of the cyclic universe suggests that dark matter could be a population of black holes predating the Big Bang.",
-    "date": "2026-04-16T19:50:02",
-    "category": "Magazines"
   }
 ]
