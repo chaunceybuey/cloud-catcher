@@ -110,6 +110,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/20/briefing/20-the-good-list-travel-cake-telegram.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Delight to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/05/20/briefing/20-the-good-list-travel-cake-telegram.html",
+    "content": "Travel cake, telegrams and a possibly addictive word game.",
+    "date": "2026-05-20T19:40:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767528#p8767528",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "PaunchyPirate",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8767528#p8767528",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Curious that Fidelity includes so little information when sending me email notice that \"Deposit Received<br />Account: XXXXXXXXX<br />A deposit to your account was received on 05/19/2026.\"<br /><br />This is for my CMA account.<br />No indication of the Payer.<br />No indication of the amount.<br /><br />I get these every month for SS Direct Deposit by EFT for me and DW.  Same each month for pensions (me and DW). Similar for other DD.<br /><br />They do provide email details for withdrawals.<br /><br />I then logon to Fidelity and look at deposit details.  This is several times a month.<br /><br />Any way to get Fido to be more informative?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>If you sign up for Text Message Alerts for the account you will get a little more info than in the email version. I sign up for both.  I want all possible notifications.  For most things, the Fidelity App also pushes me a notification of some sort.  <br /><br />In my text messages, I see <br />Deposit amounts and dates, but no payer info.<br />For transfers, I see both the sending and receiving account #s (last 4 digits) and the amount.<br />For debits (auto pays that I have set up) I see the amount, account number, and who it was sent to.<br />For cleared checks, I see the check number and date, but no amounts.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=58345\">PaunchyPirate</a> \u2014 Wed May 20, 2026 2:20 pm</p><hr />",
+    "date": "2026-05-20T19:20:22",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/20/arts/dance/review-tap-city-joyce-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: Feels Like Old Times With the Return of Tap City",
+    "author": "Brian Seibert and Rachel Papo",
+    "link": "https://www.nytimes.com/2026/05/20/arts/dance/review-tap-city-joyce-theater.html",
+    "content": "Saved from extinction, the New York City Tap Festival is back with its charms and flaws intact.",
+    "date": "2026-05-20T19:18:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767504#p8767504",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19967,36 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17320490/texas-border-wall-lawsuit-big-bend",
     "content": "The sun sets over the Rio Grande in Big Bend National Park on Feb. 22, 2025.",
     "date": "2026-04-16T22:25:40",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/us/politics/trump-ballroom-judge-halt.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Judge Again Halts Aboveground Construction on Trump Ballroom",
-    "author": "Zach Montague",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-ballroom-judge-halt.html",
-    "content": "Cranes over the former East Wing location at the White House earlier this month.",
-    "date": "2026-04-16T22:17:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-israel-democrats/686828/",
-    "feed_name": "Chait",
-    "title": "Israel Moderates Are Losing the Democratic Party",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-israel-democrats/686828/",
-    "content": "Their position has become untenable. But liberal Zionists can adapt.\nDelivered by PolitePaul service",
-    "date": "2026-04-16T21:48:44",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226863",
-    "feed_name": "Texas Tribune",
-    "title": "Texas needs at least $174 billion to avoid water crisis, state says",
-    "author": "By Carlos Nogueras Ramos\u00a0and\u00a0Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17320446/texas-water-supply-crisis-corpus-christi-development-board",
-    "content": "The Archimedes screw pump is used for moving water and sludge, from a lower to a higher elevation. Wastewater treatment process at SAWS\u2019 Steven M. Clouse Water Recycling Center in San Antonio on Aug. 23, 2024.",
-    "date": "2026-04-16T21:30:17",
     "category": "Texas"
   }
 ]
