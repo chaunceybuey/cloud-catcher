@@ -110,6 +110,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/21/arts/music/san-francisco-symphony-elim-chan-music-director.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Elim Chan Becomes First Female Music Director of San Francisco Symphony",
+    "author": "Adam Nagourney",
+    "link": "https://www.nytimes.com/2026/05/21/arts/music/san-francisco-symphony-elim-chan-music-director.html",
+    "content": "\u201cWhen it happened, I was like, \u2018Oh my God \u2014 it\u2019s time,\u2019\u201d the conductor Elim Chan said of her appointment in San Francisco. \u201cIt is groundbreaking. It\u2019s another ceiling broken.\u201d",
+    "date": "2026-05-21T16:15:09",
+    "category": "NYT"
+  },
+  {
+    "id": "69fb8d8f83ccc6a6badf4887",
+    "feed_name": "Wired (Science)",
+    "title": "Why the 2026 Hurricane Season Might Not Be That Bad",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/why-the-2026-hurricane-season-might-not-be-that-bad/",
+    "content": "The impending arrival of El Ni\u00f1o will help keep the number of storms low. But it only takes one landfall to create a catastrophe.",
+    "date": "2026-05-21T15:58:27",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/21/movies/passenger-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Passenger\u2019 Review: On the Beaten Path",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/05/21/movies/passenger-review.html",
+    "content": "It\u2019s my way on the highway: That\u2019s the message a demon has for a van life couple in Andre Ovredal\u2019s tense supernatural thriller.",
+    "date": "2026-05-21T15:58:09",
+    "category": "NYT"
+  },
+  {
     "id": "65fbbe37a127af654c68e4e609edcf85",
     "feed_name": "LRB",
     "title": "Checkmate in Mexico",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/opinion/supreme-court-trump-immigration.html",
     "content": "This immigration case is really about procedure.",
     "date": "2026-04-17T14:12:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/arts/music/d4vd-arrest-teen-death-tesla.html",
-    "feed_name": "NYT (Popular)",
-    "title": "D4vd Arrested in Connection With Death of Celeste Rivas Hernandez",
-    "author": "Matt Stevens and Orlando Mayorqu\u00edn",
-    "link": "https://www.nytimes.com/2026/04/16/arts/music/d4vd-arrest-teen-death-tesla.html",
-    "content": "The body of a teenage girl was found in a car belonging to the singer D4vd.",
-    "date": "2026-04-17T14:02:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/science/lost-science-eisenman-violence.html",
-    "feed_name": "NYT (Shared)",
-    "title": "This Scientist Looked for Ways to Stop Mass Violence",
-    "author": "Emily Anthes",
-    "link": "https://www.nytimes.com/2026/04/17/science/lost-science-eisenman-violence.html",
-    "content": "David Eisenman sought to better understand how to prevent school shootings and other targeted violence, until the Department of Homeland Security halted the research.",
-    "date": "2026-04-17T14:00:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/realestate/flatiron-revolving-door-restoration.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Century Later, the Flatiron\u2019s Revolving Door Is Restored",
-    "author": "Zoe Rosenberg",
-    "link": "https://www.nytimes.com/2026/04/17/realestate/flatiron-revolving-door-restoration.html",
-    "content": "The revolving door\u2019s inventor built this one over 100 years ago. It was reinstalled this week.",
-    "date": "2026-04-17T13:54:52",
     "category": "NYT"
   }
 ]
