@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/21/dining/three-great-bars-from-three-great-restaurants.html",
+    "feed_name": "NYT (Food)",
+    "title": "Three Great Bars From Three Great Restaurants",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/05/21/dining/three-great-bars-from-three-great-restaurants.html",
+    "content": "Bar Chucho, from the team behind the fine dining restaurant Corima, is casual with high-end offerings.",
+    "date": "2026-05-21T20:00:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/21/theater/michael-pennington-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Michael Pennington, Commanding Shakespeare Actor, Dies at 82",
+    "author": "Fred Monyak",
+    "link": "https://www.nytimes.com/2026/05/21/theater/michael-pennington-dead.html",
+    "content": "Michael Pennington as King Lear with Lilly Englert as Cordelia at Theater for a New Audience in Brooklyn in 2014. \u201cMr. Pennington punctuates the expected blasts of rage with a quieter, introspective insight that is even more devastating,\u201d a review in The New York Times said.",
+    "date": "2026-05-21T19:52:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/21/arts/music/britney-spears-adderall.html",
     "feed_name": "NYT (Arts)",
     "title": "Britney Spears Spoke \u2018Nonsensically\u2019 During D.U.I. Arrest, Records Say",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/opinion/lafarge-corporate-terrorism-syria-france.html",
     "content": "Bruno Lafont, the former chief executive of Lafarge.",
     "date": "2026-04-17T19:04:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Is Urged to Act on Iranian Site Feared Impervious to Airstrikes",
-    "author": "Michael Crowley",
-    "link": "https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html",
-    "content": "A satellite image provided by Vantor shows the tunnel complex at Pickaxe Mountain in Iran last month. Last fall, satellite images revealed that Iran had advanced construction at the site soon after U.S. forces disabled the country\u2019s three main nuclear facilities in June.",
-    "date": "2026-04-17T18:39:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/15/business/electric-cars-evs-used-gas-prices.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "11 Electric Cars Worth a Look With Gas Prices High",
-    "author": "Tom Voelk",
-    "link": "https://www.nytimes.com/2026/04/15/business/electric-cars-evs-used-gas-prices.html",
-    "content": "A Tesla supercharger station in Barstow, Calif. High gas prices are pushing car buyers to consider switching to electrics.",
-    "date": "2026-04-17T18:20:26",
     "category": "NYT"
   }
 ]
