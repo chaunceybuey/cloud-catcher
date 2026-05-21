@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/video/books/100000010871664/articial-intelligence-audiobooks-piracy-harry-potter-video.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The A.I. threat to audiobooks",
+    "author": "Alexandra Alter, L\u00e9o Hamelin and Laura Salaberry",
+    "link": "https://www.nytimes.com/video/books/100000010871664/articial-intelligence-audiobooks-piracy-harry-potter-video.html",
+    "content": "Artificial intelligence has made pirated audiobooks faster to make and harder to detect. Our reporter Alexandra Alter tells us about the latest threat to the publishing industry.",
+    "date": "2026-05-21T01:38:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=230885",
     "feed_name": "Texas Tribune",
     "title": "Mock funeral mourns death of academic freedom as UT System weighs rule on cutting programs",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html",
     "content": "William and Beverly Bryan.",
     "date": "2026-04-17T00:38:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/us/politics/trump-triumphal-arch.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Panel Advances Trump\u2019s Triumphal Arch, Even as Key Member Suggests Changes",
-    "author": "Luke Broadwater",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-triumphal-arch.html",
-    "content": "President Trump with a model of his arch at the White House in October.",
-    "date": "2026-04-17T00:31:12",
     "category": "NYT"
   }
 ]
