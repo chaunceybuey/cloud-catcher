@@ -110,6 +110,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=230440",
+    "feed_name": "Texas Tribune",
+    "title": "Bigger price tag, smaller footprint: How Austin\u2019s Project Connect went off the rails",
+    "author": "By Joshua Fechter, Visuals by Manoo Sirivelu, Chart by\u00a0Apurva Mahajan",
+    "link": "https://feeds.texastribune.org/link/16799/17345524/austin-project-connect-texas-light-rail-public-transportation",
+    "content": "Michael Ludwig and Paige Stumbough ride the CapMetro Red Line from Howard Station for their commute to work on May 4, 2026. Stumbough works at the Austin Theater Alliance and Ludwig works at the Austin Community College.",
+    "date": "2026-05-21T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=230868",
+    "feed_name": "Texas Tribune",
+    "title": "Inside the legal battle over undocumented immigrants\u2019 right to challenge their detention.",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17345525/texas-immigrant-rights-due-process",
+    "content": "The T. Don Hutto Residential Center, a detention facility in Taylor on Sept. 24, 2020.",
+    "date": "2026-05-21T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://stratechery.com/?p=19093",
+    "feed_name": "Stratechery",
+    "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
+    "content": "<p>An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).</p>",
+    "date": "2026-05-21T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "e3c9977c-8324-4130-87b7-9bd6a3a10ea1",
     "feed_name": "Economist",
     "title": "How should economists treat morality?",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/world/africa/south-africa-malema-sentencing-prison.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-17T08:33:53",
-    "category": "NYT"
-  },
-  {
-    "id": "69dfa5c45b120a710f8443b6",
-    "feed_name": "Wired (Science)",
-    "title": "6,000 Meters Under the Pacific, Japan Seeks Independence From China on Rare Earths",
-    "author": "Lorenzo Lamperti",
-    "link": "https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths/",
-    "content": "Tokyo is succeeding where the rest of the world has failed, reducing its reliance on Beijing for crucial rare earth elements\u2014thanks to an enormous underwater deposit discovered on a remote island.",
-    "date": "2026-04-17T08:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/arts/design/alexander-calder-fondation-louis-vuitton.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Sculptor\u2019s Life, in Constant Motion",
-    "author": "Emily LaBarge and Dmitry Kostyukov",
-    "link": "https://www.nytimes.com/2026/04/16/arts/design/alexander-calder-fondation-louis-vuitton.html",
-    "content": "A career-spanning Alexander Calder exhibition in Paris turns the viewer into a collaborator and lifts the soul.",
-    "date": "2026-04-17T08:25:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/15/world/africa/sudan-war-hunger-crisis.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Sudan Enters Fourth Year of War Amid World\u2019s Most Severe Humanitarian Crisis",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/15/world/africa/sudan-war-hunger-crisis.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-17T08:18:53",
     "category": "NYT"
   }
 ]
