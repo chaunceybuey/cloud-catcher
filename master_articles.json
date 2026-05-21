@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/21/arts/valie-export-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Valie Export, Who Made Art With Her Naked Body, Dies at 85",
+    "author": "Will Heinrich",
+    "link": "https://www.nytimes.com/2026/05/21/arts/valie-export-dead.html",
+    "content": "Ms. Export at the opening of a retrospective of her work at the Albertina in Vienna in 2023. What distinguished her art, beyond its aggression and sheer volume, was its lucidity.",
+    "date": "2026-05-21T22:03:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231027",
     "feed_name": "Texas Tribune",
     "title": "WhatsApp, Meta can access Texans\u2019 private messages, AG Ken Paxton says in lawsuit",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/blog/2026/april/twee-as-fuck",
     "content": "The music that showed me who I wanted to be, what I wanted from life, was the music that came out on Sarah Records. The lyrics were joyful, effusive.\u00a0.\u00a0.",
-    "date": "2026-04-17T19:04:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "014f5baf5aab677522fc1a5502a9fd6d",
-    "feed_name": "LRB",
-    "title": "The War in Lebanon",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/the-war-in-lebanon",
-    "content": "Lebanese and Israeli delegations met in Washington this week for their first direct talks in 33 years. On 15 April, with talks underway, the IDF\u2019s chief of staff, Eyal Zamir, designated all of southern Lebanon up to the Litani River a \u2018Hizbullah kill zone\u2019.",
     "date": "2026-04-17T19:04:50",
     "category": "Magazines"
   }
