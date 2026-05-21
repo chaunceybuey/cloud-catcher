@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Peanuts\u2019 Music Owner Sues Interior Department and 3 Companies for Copyright Infringement",
+    "author": "Aimee Ortiz",
+    "link": "https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html",
+    "content": "A scene from \u201cA Charlie Brown Christmas.\u201d",
+    "date": "2026-05-21T20:22:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/21/dining/three-great-bars-from-three-great-restaurants.html",
     "feed_name": "NYT (Food)",
     "title": "Three Great Bars From Three Great Restaurants",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-04-17T19:04:47",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/opinion/lafarge-corporate-terrorism-syria-france.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Paris Court Just Rewrote the Rules of Corporate Morality",
-    "author": "M. Gessen",
-    "link": "https://www.nytimes.com/2026/04/17/opinion/lafarge-corporate-terrorism-syria-france.html",
-    "content": "Bruno Lafont, the former chief executive of Lafarge.",
-    "date": "2026-04-17T19:04:17",
-    "category": "NYT"
   }
 ]
