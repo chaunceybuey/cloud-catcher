@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/21/arts/television/last-late-show-stephen-colbert.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Pays His Respects to \u2018The Late Show with Stephen Colbert\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/21/arts/television/last-late-show-stephen-colbert.html",
+    "content": "Kimmel said he hoped others will also tune in to CBS \u201cfor the last time\u201d to watch Thursday\u2019s \u201cLate Show\u201d finale.",
+    "date": "2026-05-21T05:30:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/video/books/100000010871664/articial-intelligence-audiobooks-piracy-harry-potter-video.html",
     "feed_name": "NYT (Arts)",
     "title": "The A.I. threat to audiobooks",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/well/mind/the-pitt-trauma-ptsd.html",
     "content": "On top of the daily toll of treating patients, the show\u2019s medical providers bring their own scars to the E.R.",
     "date": "2026-04-17T01:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Surgeon Who Removed Wrong Organ From Patient Is Charged in His Death",
-    "author": "Vjosa Isai",
-    "link": "https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html",
-    "content": "William and Beverly Bryan.",
-    "date": "2026-04-17T00:38:33",
     "category": "NYT"
   }
 ]
