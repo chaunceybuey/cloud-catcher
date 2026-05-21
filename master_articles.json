@@ -110,6 +110,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/spring-cocktails",
+    "feed_name": "NYT (Food)",
+    "title": "Spring Cocktails",
+    "author": "Rebekah Peppler",
+    "link": "https://cooking.nytimes.com/article/spring-cocktails",
+    "content": "Arugula gets muddled alongside cucumber, mint and citrus in this take on the Pimm\u2019s Cup.",
+    "date": "2026-05-21T17:05:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/21/dining/my-name-is-becky-and-i-brought-coleslaw-to-the-potluck.html",
+    "feed_name": "NYT (Food)",
+    "title": "My Name Is Becky and I Brought Coleslaw to the Potluck",
+    "author": "Becky Hughes",
+    "link": "https://www.nytimes.com/2026/05/21/dining/my-name-is-becky-and-i-brought-coleslaw-to-the-potluck.html",
+    "content": "Hetty Lui McKinnon\u2019s yuzu-miso glazed asparagus tart",
+    "date": "2026-05-21T17:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/21/arts/television/survivor-50-finale-spoiled-jeff-probst.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Jeff Probst Spoiled Part of the \u2018Survivor\u2019 Season 50 Finale",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/05/21/arts/television/survivor-50-finale-spoiled-jeff-probst.html",
+    "content": "Jeff Probst at the \u201cSurvivor 50\u201d premiere in New York in February.",
+    "date": "2026-05-21T16:56:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=230960",
+    "feed_name": "Texas Tribune",
+    "title": "Pro-Palestinian protestors sue UT Dallas leaders, police officers over alleged punishment",
+    "author": "By\u00a0Toluwani Osibamowo\u00a0KERA News",
+    "link": "https://feeds.texastribune.org/link/16799/17345830/pro-palestinian-protestors-sue-ut-dallas-leaders-police-officers-over-alleged-punishment",
+    "content": "A student walks through a pavilion on the campus of the University of Texas at Dallas.",
+    "date": "2026-05-21T16:45:43",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/21/dining/sidle-up-to-turkey-reuben-sliders.html",
     "feed_name": "NYT (Food)",
     "title": "Sidle Up to Turkey Reuben Sliders",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/opinion/warsh-fed-confirmation.html",
     "content": "Senators must assess whether Mr. Warsh would perform his duties as a public servant, or whether he would serve the interests of the president.",
     "date": "2026-04-17T15:06:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot",
-    "author": "David M. Halbfinger",
-    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html",
-    "content": "Thousands of families made their way along the highway south of Beirut and Saida, Lebanon, on Friday after the cease-fire with Israel was announced.",
-    "date": "2026-04-17T14:56:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop",
-    "author": "Evan Gorelick and Anna Griffin",
-    "link": "https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html",
-    "content": "Michael and Mark Wisnovsky had to battle their sister and her fictitious artificial-intelligence output to keep control of the Oregon winery their mother left to them.",
-    "date": "2026-04-17T14:44:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/opinion/english-grammar-elitism.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "When Good Grammar Gets Snobbish",
-    "author": "John McWhorter",
-    "link": "https://www.nytimes.com/2026/04/16/opinion/english-grammar-elitism.html",
-    "content": "Rules don\u2019t always lead to good sense.",
-    "date": "2026-04-17T14:42:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "We Are Gambling Away Our Future",
-    "author": "David French",
-    "link": "https://www.nytimes.com/2026/04/16/opinion/gambling-young-men-porn-society.html",
-    "content": "America\u2019s view of liberty is upside down.",
-    "date": "2026-04-17T14:32:44",
     "category": "NYT"
   }
 ]
