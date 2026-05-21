@@ -110,6 +110,36 @@
     "category": "Texas"
   },
   {
+    "id": "e3c9977c-8324-4130-87b7-9bd6a3a10ea1",
+    "feed_name": "Economist",
+    "title": "How should economists treat morality?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
+    "content": "Sometimes it is more than merely an exogenous constraint",
+    "date": "2026-05-21T09:27:37",
+    "category": "Magazines"
+  },
+  {
+    "id": "aaf8639e-40ef-4619-8371-7b4514d53972",
+    "feed_name": "Economist",
+    "title": "The other China shock",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock",
+    "content": "Does the country\u2019s manufacturing success leave space for anyone else?",
+    "date": "2026-05-21T09:25:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "fb1093a4-c8c0-4311-8d26-840a262c5f75",
+    "feed_name": "Economist",
+    "title": "The insurers on the hook for war in Iran",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/21/the-insurers-on-the-hook-for-war-in-iran",
+    "content": "Some have been hammered; even those who haven\u2019t might be soon",
+    "date": "2026-05-21T09:19:48",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/21/movies/arie-chuko-esiri-virginia-woolf-cannes-clarissa.html",
     "feed_name": "NYT (Arts)",
     "title": "The Brothers Who Made Virginia Woolf the Talk of Cannes",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/15/world/africa/sudan-war-hunger-crisis.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-17T08:18:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/15/nyregion/pied-a-terre-tax.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Pied-\u00e0-Terre Tax Has Failed Before. Could This Year Be Different?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/15/nyregion/pied-a-terre-tax.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-17T08:03:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "White House Shrugs Off Shaky Economy as War Exceeds Trump\u2019s Timeline",
-    "author": "Tony Romm and Colby Smith",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
-    "content": "The energy surge has made groceries more expensive while also raising costs for farmers.",
-    "date": "2026-04-17T07:54:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/nyregion/mamdani-landlords-insurance.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Mamdani Announces Plan to Lower Insurance Costs for Landlords",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/16/nyregion/mamdani-landlords-insurance.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-17T07:48:53",
     "category": "NYT"
   }
 ]
