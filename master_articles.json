@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/21/arts/design/mary-lovelace-oneal-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mary Lovelace O\u2019Neal, Whose Paintings Were Saturated in Black, Dies at 84",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/05/21/arts/design/mary-lovelace-oneal-dead.html",
+    "content": "Mary Lovelace O\u2019Neal at her studio in Oakland, Calif., in 2020.",
+    "date": "2026-05-21T18:43:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=230991",
+    "feed_name": "Texas Tribune",
+    "title": "Hurricane season expected to be mild in 2026, but officials urge Texans to stay prepared",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17345873/texas-noaa-hurricane-season-forecast-2026",
+    "content": "Texas Division of Emergency Management personnel monitor weather data prior to a press conference about Hurricane Beryl at the TDEM offices in Austin on July 5, 2024.",
+    "date": "2026-05-21T18:25:33",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/21/theater/in-the-bricks-festival-monologues.html",
     "feed_name": "NYT (Arts)",
     "title": "Finding Our Shared Geography in Monologues",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/us/politics/fisa-702-surveillance-house-vote-trump.html",
     "content": "Gen. Joshua M. Rudd, the director of the National Security Agency, during his confirmation hearing in January.",
     "date": "2026-04-17T16:30:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Marie-Th\u00e9r\u00e8se Ross-Mah\u00e9, Detained by ICE in Alabama, Is Released",
-    "author": "Catherine Porter and Nicholas Bogel-Burroughs",
-    "link": "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html",
-    "content": "Marie-Th\u00e9r\u00e8se Ross-Mah\u00e9, 85, who was arrested amid an inheritance dispute, has returned to France, its foreign affairs minister said. She came to America last year after reconnecting with and marrying a former G.I.",
-    "date": "2026-04-17T16:17:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/opinion/ezra-klein-podcast-ray-madoff.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Our Tax System Should Make You Furious",
-    "author": "Ezra Klein and Rollin Hu",
-    "link": "https://www.nytimes.com/2026/04/17/opinion/ezra-klein-podcast-ray-madoff.html",
-    "content": "The tax expert Ray Madoff explains why the American tax system is broken, and how to make it fairer.",
-    "date": "2026-04-17T16:15:26",
     "category": "NYT"
   }
 ]
