@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231110",
+    "feed_name": "Texas Tribune",
+    "title": "Alexandra Glorioso joins our joint investigative unit with ProPublica",
+    "author": "Texas Tribune Staff",
+    "link": "https://feeds.texastribune.org/link/16799/17346655/alexandra-glorioso-texas-tribune-propublica",
+    "content": "A state government reporter at the Miami Herald, Glorioso was part of the team that reported Gov. Ron DeSantis' administration orchestrated the transfer of $10 million in public funds to a foundation spearheaded by his wife.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17346655.gif\" width=\"1\" />",
+    "date": "2026-05-22T20:30:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8769453#p8769453",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8769453#p8769453",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Yes worked for me also, thank you!<br /><br />Minor point of correction/confusion - # character not allowed so my memo was<br /><br />FFC AccountOwnerName AccountNumber</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Amazing. I'm glad it worked for you.<br /><br />True on the #. I was just indicating that it is a numerical field. Thanks for making it very clear to everyone here.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Fri May 22, 2026 3:27 pm</p><hr />",
+    "date": "2026-05-22T20:27:41",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20115-conspirare-timeless-comfort-modern-witness",
     "feed_name": "KMFA",
     "title": "Conspirare: Timeless Comfort, Modern Witness",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html",
     "content": "Health Secretary Robert F. Kennedy Jr. testifying before the House Committee on Ways and Means on Thursday.",
     "date": "2026-04-18T13:32:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/opinion/hungary-election-orban-loses-trump-maga.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "JD Vance\u2019s Very Bad Week",
-    "author": "Michelle Cottle, David French, Michelle Goldberg, Derek Arthur and Jillian Weinberger",
-    "link": "https://www.nytimes.com/2026/04/18/opinion/hungary-election-orban-loses-trump-maga.html",
-    "content": "What recent events in Europe can tell us about the future of Trumpism.",
-    "date": "2026-04-18T12:05:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket-papers-excerpts.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Key Excerpts From the Supreme Court\u2019s Secret Memos",
-    "author": "Adam Liptak and Jodi Kantor",
-    "link": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket-papers-excerpts.html",
-    "content": "The New York Times obtained a trove of documents illuminating the inner workings of the court as it embraced a secretive track for making major decisions.",
-    "date": "2026-04-18T11:25:40",
     "category": "NYT"
   }
 ]
