@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/22/movies/horror-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Horror Movies to Stream Now",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/05/22/movies/horror-movies-streaming.html",
+    "content": "Evil this month looks just plain weird, from a despairing children\u2019s TV show to a demonic buffet.",
+    "date": "2026-05-22T15:00:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html",
     "feed_name": "NYT (Arts)",
     "title": "Stephen Colbert\u2019s Last Show: Laughing Well Is the Best Revenge",
@@ -19988,15 +19998,5 @@
     "content": "Vintage Jaguars in Mollis, Switzerland.",
     "date": "2026-04-18T09:00:07",
     "category": "NYT"
-  },
-  {
-    "id": "69d7a992060c066b34193a89",
-    "feed_name": "Wired (Science)",
-    "title": "The \u2018Lonely Runner\u2019 Problem Only Appears Simple",
-    "author": "Paulina Rowi\u0144ska",
-    "link": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/",
-    "content": "Take a group of runners circling a track at unique, constant paces. Answering the question of how many will always end up running alone, no matter their speed, has vexed mathematicians for decades.",
-    "date": "2026-04-18T09:00:00",
-    "category": "Magazines"
   }
 ]
