@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/22/arts/music/rob-base-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Rob Base, Rapper Known for \u2018It Takes Two,\u2019 Dies at 59",
+    "author": "Rylee Kirk",
+    "link": "https://www.nytimes.com/2026/05/22/arts/music/rob-base-dead.html",
+    "content": "The rapper Rob Base in 2022. He was known for the hit song \u201cIt Takes Two.\u201d",
+    "date": "2026-05-22T23:30:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/22/dining/carlo-petrini-dead.html",
     "feed_name": "NYT (Food)",
     "title": "Carlo Petrini, Whose Slow Food Movement Transformed How We Eat, Dies at 76",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/health/trump-psychedelics-ibogaine.html",
     "content": "Psilocybin doses being prepared at the Numia Healing Center in Denver.",
     "date": "2026-04-18T14:37:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Inside the Supreme Court\u2019s Risky New Way of Doing Business",
-    "author": "Jodi Kantor and Adam Liptak",
-    "link": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket.html",
-    "content": "Secret memos obtained by The New York Times illuminate the origins of the court\u2019s now-routine \u201cshadow docket\u201d rulings on presidential power.",
-    "date": "2026-04-18T14:13:15",
     "category": "NYT"
   }
 ]
