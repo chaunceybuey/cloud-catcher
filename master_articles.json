@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231104",
+    "feed_name": "Texas Tribune",
+    "title": "UT System, community colleges complying with Texas\u2019 DEI ban, auditors find",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17346605/ut-texas-colleges-complying-dei-ban-findings",
+    "content": "Protesters mourn the death of academic freedom during a mock funeral that began at the University of Texas at Austin on May 20, 2026. Some critics say the state&#039;s efforts to ban diversity, equity and inclusion is hampering what&#039;s taught on college campuses.",
+    "date": "2026-05-22T18:50:31",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231091",
     "feed_name": "Texas Tribune",
     "title": "Texas sues Discord, arguing online messaging platform endangered children, misled users",
@@ -19986,16 +19996,6 @@
     "author": "Ross Douthat",
     "link": "https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
     "content": "Four lessons to consider.",
-    "date": "2026-04-18T11:00:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/opinion/wall-street-markets-iran-ai.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Why the Stock Market Makes No Sense Right Now",
-    "author": "Kyla Scanlon",
-    "link": "https://www.nytimes.com/2026/04/18/opinion/wall-street-markets-iran-ai.html",
-    "content": "It will always be saved.",
     "date": "2026-04-18T11:00:19",
     "category": "NYT"
   }
