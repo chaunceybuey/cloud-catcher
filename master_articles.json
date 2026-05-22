@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "5e3fd7738ee8c8998caf07b840619cc4",
+    "feed_name": "LRB",
+    "title": "We want the big skyscrapers",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/may/we-want-the-big-skyscrapers",
+    "content": "Last summer, the singer Akon announced that Akon City \u2013 the \u2018real-life Wakanda\u2019 that he planned to build on the Senegalese coast \u2013 was.\u00a0.\u00a0.",
+    "date": "2026-05-22T19:50:12",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20379-austin-playhouse-erma-bombeck-at-wit-s-end",
     "feed_name": "KMFA",
     "title": "Austin Playhouse: Erma Bombeck - At Wit's End",
@@ -18460,6 +18470,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
+    "feed_name": "Douthat",
+    "title": "The Four Lessons Liberals Should Consider After Orban\u2019s Defeat",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
+    "content": "The lesson for Republicans comes too late, but liberals can still learn from the end of Orbanism.",
+    "date": "2026-04-20T20:01:11",
+    "category": "NYT"
+  },
+  {
     "id": "eb9a95d7-1273-4ea3-97b7-9552e04e3b32",
     "feed_name": "Economist",
     "title": "American corporate profits keep shrugging off global tumult",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket-papers-excerpts.html",
     "content": "The New York Times obtained a trove of documents illuminating the inner workings of the court as it embraced a secretive track for making major decisions.",
     "date": "2026-04-18T11:25:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/opinion/aging-women-beauty.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Singular Beauty of Old Ladies",
-    "author": "Roger Rosenblatt",
-    "link": "https://www.nytimes.com/2026/04/18/opinion/aging-women-beauty.html",
-    "content": "The old ladies that I know have a grace and stature that only long years of hoping and striving \u2014 and living \u2014 can bestow.",
-    "date": "2026-04-18T11:12:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Maduro\u2019s Successor Is Purging Allies Who Kept Him in Power in Venezuela",
-    "author": "Anatoly Kurmanaev and Mariana Mart\u00ednez",
-    "link": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html",
-    "content": "Delcy Rodr\u00edguez, Venezuela\u2019s former vice president, in January in Caracas, the capital.",
-    "date": "2026-04-18T11:06:56",
     "category": "NYT"
   }
 ]
