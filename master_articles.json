@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "69db9f3da07f3b41c641fb28",
+    "feed_name": "Wired (Science)",
+    "title": "All the Fancy Measuring Devices Used in Science Rely on Two Stone-Age Techniques",
+    "author": "Rhett Allain",
+    "link": "https://www.wired.com/story/story/all-measuring-devices-run-on-two-stone-age-techniques/",
+    "content": "The multifarious methods we use to gather experimental data ultimately boil down to counting or comparing.",
+    "date": "2026-05-22T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231004",
     "feed_name": "Texas Tribune",
     "title": "In Democratic runoff, Reps. Al Green and Christian Menefee clash over influence of big money in politics",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/business/mark-mobius-dead.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-18T07:33:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/business/roger-adams-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Roger Adams Dies at 71; Invented the Rolling Sneakers Known as Heelys",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/16/business/roger-adams-dead.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-18T07:18:45",
     "category": "NYT"
   }
 ]
