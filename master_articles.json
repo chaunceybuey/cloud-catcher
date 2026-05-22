@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231091",
+    "feed_name": "Texas Tribune",
+    "title": "Texas sues Discord, arguing online messaging platform endangered children, misled users",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17346584/texas-sues-discord-child-endangerment",
+    "content": "The Discord logo is displayed on a phone screen in this illustration photo taken in Krakow, Poland on April 6, 2021.",
+    "date": "2026-05-22T17:46:10",
+    "category": "Texas"
+  },
+  {
     "id": "https://stratechery.com/?p=19102",
     "feed_name": "Stratechery",
     "title": "2026.21: The Data Center Veto",
@@ -118,6 +128,16 @@
     "content": "<figure class=\"wp-block-image size-full\"><img alt=\"\" class=\"wp-image-19117\" height=\"683\" src=\"https://i0.wp.com/stratechery.com/wp-content/uploads/2026/05/GettyImages-2243421278.jpg?resize=1024%2C683&#038;ssl=1\" width=\"1024\" /><figcaption class=\"wp-element-caption\"><em>(Lexi Critchett/Bloomberg via Getty Images)</em></figcaption></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Welcome back to This Week in Stratechery!</p>\n\n\n\n<p class=\"wp-block-paragraph\">As a reminder, each week, every Friday, we&#8217;re sending out this overview of content in the Stratechery bundle; <span class=\"passport-tokenized-link\">highlighted links are free for everyone</span>. Additionally, you have complete control over what we send to you. If you don&#8217;t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in <a href=\"https://stratechery.passport.online/member/account/delivery\">your delivery settings</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">On that note, here were a few of our favorites this week.</p>\n\n\n\n<ol class=\"wp-block-list is-style-default\">\n<li><strong>Data Center Discontent.</strong> The impact of AI is, at least for now, being felt digitally: that is where AI is useful, and the more digital a job, the more it is threatened by LLMs. AI, however, depends on data centers in the physical world, and building data centers needs permission. This gives normal people the sort of veto power over AI they didn&#8217;t have in the face of globalization; I make the case in <a href=\"https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/\">Monday&#8217;s Update</a> and on <a href=\"https://sharptech.fm/member/episode/much-ado-about-data-centers-what-tech-gets-wrong-about-its-critics-q-a-on-space-x-chinese-ai-elon-musk\">Sharp Tech</a> that understanding this dynamic is more important that trying to correct misinformation, which is a symptom, not a cause, of data center opposition. \u2014 <em>Ben Thompson</em><br /></li>\n</ol>\n\n\n\n<span id=\"more-19102\"></span>\n\n\n\n<ol class=\"wp-block-list is-style-default\" start=\"2\">\n<li><strong>Agent Economics. </strong>What will the internet look like when ad-supported models are rendered obsolete by shifting user behavior and the rise of agentic web traffic? Ben considered this question last summer with <a href=\"https://stratechery.com/2025/the-agentic-web-and-original-sin/\"><span class=\"passport-tokenized-link\">The Agentic Web and Original Sin</span></a>, and I was surprised to learn this week that Parag Agarwal, former CEO of Twitter, is now focused on devising solutions for exactly this reality. <a href=\"https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/\">This week&#8217;s Stratechery Interview with Agarwal</a> dives deep into the economics of content on the Internet, why ads make sense for humans, and why incentivizing content for agents will be different, and how Agarwal and Parallel are trying to solve them. I learned a ton from this interview, and I bet you will, too \u2014 and don&#8217;t worry, we did get a few bonus questions on the ride at Twitter.\u00a0\u00a0<em>\u2014</em> <em>Andrew Sharp</em><br /><br /></li>\n\n\n\n<li><strong>Never Count Out the Slime Mold. </strong>Wednesday&#8217;s Daily Update on Google I/O reminded me of an iconic <a href=\"https://www.inc.com/minda-zetlin/in-just-2-very-unpleasant-words-a-former-google-exec-pinpointed-companys-biggest-problem.html\" rel=\"noreferrer noopener\" target=\"_blank\">leaked memo</a> about the ungovernable&nbsp;and poorly coordinated mold in Mountain View, as the company seems to be throwing 10 different types of AI spaghetti at the wall to see what sticks. Then again, Google is now a nearly $5 trillion company and its transformer architecture&nbsp;supercharged the AI era. That second part is why, <a href=\"https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/\" rel=\"noreferrer noopener\" target=\"_blank\">when Ben highlights a DeepMind approach to building AGI</a> that&#8217;s distinct from the approaches at OpenAI and Anthropic, I&#8217;m compelled to both pay attention, and remember: for all of Google&#8217;s faults and misses, they do in fact have plenty of historic hits.&nbsp; <em>\u2014</em> <em>AS</em></li>\n</ol>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Stratechery Articles and Updates</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/\">Data Center Discontent, Understanding the Opposition, Fixing the Problem</a> <em>\u2014 There are understandable reasons for people to oppose data centers; the only solution that will work is simply paying them off.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/\">Google I/O, World Models, I/O Spaghetti</a> <em>\u2014 Google I/O put AI everywhere, for better and for worse. Meanwhile, is DeepMind aligned with Google\u2019s business objectives?</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/\">An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web</a> <em>\u2014 An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Dithering with Ben Thompson and Daring Fireball&#8217;s John Gruber</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dithering.passport.online/member/episode/data-center-unpopularity\">Data Center Unpopularity</a></li>\n\n\n\n<li><a href=\"https://dithering.passport.online/member/episode/google-being-google\">Google Being Google</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Asianometry with Jon Yu</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://asianometry.passport.online/member/episode/the-little-vertical-laser-that-everyone-uses\">The Little Vertical Laser That Everyone Uses</a></li>\n\n\n\n<li><a href=\"https://asianometry.passport.online/member/episode/intels-30-years-in-costa-rica\">Intel\u2019s 30 Years in Costa Rica</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp China with Andrew Sharp and Sinocism&#8217;s Bill Bishop</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharpchina.fm/member/episode/constructing-us-china-stability-trumps-taiwan-comments-and-more-summit-takeaways-putin-in-china\">Constructing US-China Stability; Trump\u2019s Taiwan Comments and More Summit Takeaways; Putin in China</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Greatest of All Talk</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://goat.passport.online/member/episode/wemby-harper-and-an-instant-classic-from-the-spurs-in-game-1-vs-okc\">Wemby, Harper and an Instant Classic from the Spurs in Game 1 vs. OKC</a></li>\n\n\n\n<li><a href=\"https://goat.passport.online/member/episode/a-note-on-the-future-of-goat-and-an-emergency-top-five\">A Note on the Future of GOAT and An Emergency Top Five</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Tech with Andrew Sharp and Ben Thompson</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptech.fm/member/episode/much-ado-about-data-centers-what-tech-gets-wrong-about-its-critics-q-a-on-space-x-chinese-ai-elon-musk\">Much Ado About Data Centers, What Tech Gets Wrong About Its Critics, Q&amp;A on SpaceX, Chinese AI, Elon Musk</a></li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">This week&#8217;s Stratechery video is on <a href=\"https://stratechery.com/2026/the-inference-shift/\"><span class=\"passport-tokenized-link\">The Inference Shift</span></a>.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\"></p>",
     "date": "2026-05-22T17:12:32",
     "category": "Tech"
+  },
+  {
+    "id": "ba2e2c76ff9f06d3a676e0f1850716d4",
+    "feed_name": "The Atlantic",
+    "title": "Israel\u2019s Human Wrecking Ball",
+    "author": "Avi Issacharoff",
+    "link": "https://www.theatlantic.com/ideas/2026/05/flotilla-ben-gvir-israel-video/687263/",
+    "content": "And the prime minister who empowers him",
+    "date": "2026-05-22T16:55:00",
+    "category": "Magazines"
   },
   {
     "id": "https://cooking.nytimes.com/article/eric-kim-roast-chicken",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/18/opinion/wall-street-markets-iran-ai.html",
     "content": "It will always be saved.",
     "date": "2026-04-18T11:00:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist",
-    "author": "Ashley Ahn",
-    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html",
-    "content": "Treasury Secretary Scott Bessent said on Wednesday that the U.S. government would not renew the sanctions exemption on Russian oil already at sea.",
-    "date": "2026-04-18T09:36:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/world/africa/botswana-dwarfism-johnson-masase.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018I Would Rather Be a Dwarf\u2019: A Comic in Botswana Prizes His Difference",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/world/africa/botswana-dwarfism-johnson-masase.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-18T09:18:45",
     "category": "NYT"
   }
 ]
