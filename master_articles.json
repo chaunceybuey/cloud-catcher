@@ -110,12 +110,52 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Stephen Colbert\u2019s Last Show: Laughing Well Is the Best Revenge",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html",
+    "content": "Stephen Colbert and an array of famous friends gave \u201cThe Late Show\u201d a joyous send off on Thursday night.",
+    "date": "2026-05-22T12:40:26",
+    "category": "NYT"
+  },
+  {
+    "id": "de44b8afdeca9de5ce06c71dcf218bb6",
+    "feed_name": "Compact",
+    "title": "Gen Z\u2019s Incompetent Converts",
+    "author": "",
+    "link": "https://www.compactmag.com/article/gen-zs-incompetent-converts/",
+    "content": "",
+    "date": "2026-05-22T12:21:26",
+    "category": "Magazines"
+  },
+  {
     "id": "69db9f3da07f3b41c641fb28",
     "feed_name": "Wired (Science)",
     "title": "All the Fancy Measuring Devices Used in Science Rely on Two Stone-Age Techniques",
     "author": "Rhett Allain",
     "link": "https://www.wired.com/story/story/all-measuring-devices-run-on-two-stone-age-techniques/",
     "content": "The multifarious methods we use to gather experimental data ultimately boil down to counting or comparing.",
+    "date": "2026-05-22T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "9c4e9ce528431d6bcb647b0d4627c486",
+    "feed_name": "The Atlantic",
+    "title": "How to Contain the Ebola Outbreak",
+    "author": "Stephanie Psaki",
+    "link": "https://www.theatlantic.com/ideas/2026/05/ebola-hantavirus-trump-cdc-who/687259/",
+    "content": "The Trump administration is already playing from behind, but it can still limit the damage.",
+    "date": "2026-05-22T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "bff44eeb63205eb721d9d0217212efa2",
+    "feed_name": "The Atlantic",
+    "title": "The Economic Experiment That Upended Reality",
+    "author": "Nick Hanauer",
+    "link": "https://www.theatlantic.com/ideas/2026/05/minimum-wage-experiment-worked/687255/",
+    "content": "Minimum-wage increases were expected to kill jobs. The fact that they didn\u2019t should make us rethink a lot of assumptions.",
     "date": "2026-05-22T11:00:00",
     "category": "Magazines"
   },
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-18T08:48:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/14/well/live/pregnant-workers-amazon-speedway.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "3 Years After a Landmark Law, Some Pregnant Workers Still Don\u2019t Get Basic Accommodations",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/14/well/live/pregnant-workers-amazon-speedway.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-18T08:33:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/nyregion/mamdani-child-care-donations-nonprofit.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Mamdani Turns to Private Donors in His Push to Expand Free Child Care",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/16/nyregion/mamdani-child-care-donations-nonprofit.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-18T08:18:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/14/world/americas/mario-rios-montt-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Mario R\u00edos Montt, Bishop and Brother of Genocidal General, Dies at 94",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/14/world/americas/mario-rios-montt-dead.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-18T07:48:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/business/mark-mobius-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Mark Mobius, Pioneering Investor in Emerging Markets, Dies at 89",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/business/mark-mobius-dead.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-18T07:33:45",
     "category": "NYT"
   }
 ]
