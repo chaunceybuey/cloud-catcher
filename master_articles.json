@@ -490,6 +490,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/21/arts/leaving-netflix-june.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Stream These 9 Movies and Shows Before They Leave Netflix in June",
+    "author": "Jason Bailey",
+    "link": "https://www.nytimes.com/2026/05/21/arts/leaving-netflix-june.html",
+    "content": "Among the highlights leaving for U.S. subscribers are the original \u201cSex and the City\u201d and the only onscreen pairing of Harrison Ford and Liam Neeson.",
+    "date": "2026-05-21T22:56:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8768603#p8768603",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html",
     "content": "Delcy Rodr\u00edguez, Venezuela\u2019s former vice president, in January in Caracas, the capital.",
     "date": "2026-04-18T11:06:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
-    "feed_name": "Douthat",
-    "title": "What Liberals Should Learn From the End of Orbanism",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/04/18/opinion/orban-liberals-lessons.html",
-    "content": "Four lessons to consider.",
-    "date": "2026-04-18T11:00:19",
     "category": "NYT"
   }
 ]
