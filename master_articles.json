@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/22/movies/ladies-first-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Ladies First\u2019 Review: A Nightmare for Men",
+    "author": "Lisa Kennedy",
+    "link": "https://www.nytimes.com/2026/05/22/movies/ladies-first-review.html",
+    "content": "Sacha Baron Cohen and Rosamund Pike star in this role-reversal workplace comedy where women rule the world.",
+    "date": "2026-05-22T06:59:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8768809#p8768809",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "Texas Democratic Party Chair Kendall Scudder speaks with attendees at an event in Brownsville on April 12, 2025.",
     "date": "2026-04-17T21:16:17",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/us/justice-dept-trump-investigation-cia-brennan.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Prosecutor Withdraws From Trump Team\u2019s Investigation of Ex-CIA Director John O. Brennan",
-    "author": "Charlie Savage, Alan Feuer and Glenn Thrush",
-    "link": "https://www.nytimes.com/2026/04/17/us/justice-dept-trump-investigation-cia-brennan.html",
-    "content": "John O. Brennan during a Senate Intelligence Committee hearing on Jan. 10, 2017, when he was still C.I.A. director, on Russia\u2019s interference in the previous year\u2019s presidential campaign.",
-    "date": "2026-04-17T20:55:56",
-    "category": "NYT"
   }
 ]
