@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/22/theater/free-theater-nyc-summer-plays.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Free Theater in NYC: 15 Live Shows to See This Spring and Summer",
+    "author": "Rachel Sherman",
+    "link": "https://www.nytimes.com/2026/05/22/theater/free-theater-nyc-summer-plays.html",
+    "content": "The cast of \u201cRomeo & Juliet,\u201d a new Shakespeare in the Park production, at the Delacorte Theater in Central Park.",
+    "date": "2026-05-22T15:41:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/22/movies/horror-movies-streaming.html",
     "feed_name": "NYT (Arts)",
     "title": "Five Horror Movies to Stream Now",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket-takeaways.html",
     "content": "Seven memos from 2016 show how the Supreme Court justices stumbled into a new way of conducting their work in major cases on presidential power.",
     "date": "2026-04-18T09:02:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/business/jaguar-xk-engine-formula-e.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Mighty Engine That Jaguar Built, and Built Jaguar",
-    "author": "Paul Stenquist",
-    "link": "https://www.nytimes.com/2026/04/18/business/jaguar-xk-engine-formula-e.html",
-    "content": "Vintage Jaguars in Mollis, Switzerland.",
-    "date": "2026-04-18T09:00:07",
     "category": "NYT"
   }
 ]
