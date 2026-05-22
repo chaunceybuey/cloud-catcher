@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8768809#p8768809",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "need403bhelp",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8768809#p8768809",
+    "content": "Yes worked for me also, thank you!<br /><br />Minor point of correction/confusion - # character not allowed so my memo was<br /><br />FFC AccountOwnerName AccountNumber<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=98576\">need403bhelp</a> \u2014 Thu May 21, 2026 11:23 pm</p><hr />",
+    "date": "2026-05-22T04:23:51",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/21/arts/design/womens-museum-bill-sinks-amid-dispute-over-trump-and-trans-issues.html",
     "feed_name": "NYT (Arts)",
     "title": "Women\u2019s Museum Bill Sinks Amid Dispute Over Trump and Trans Issues",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/us/justice-dept-trump-investigation-cia-brennan.html",
     "content": "John O. Brennan during a Senate Intelligence Committee hearing on Jan. 10, 2017, when he was still C.I.A. director, on Russia\u2019s interference in the previous year\u2019s presidential campaign.",
     "date": "2026-04-17T20:55:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/dining/carleton-college-minnesota-cookie-house.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Cookie House at Carleton College in Minnesota Keeps Students and Others Baking",
-    "author": "Ron Lieber and Liam James Doyle",
-    "link": "https://www.nytimes.com/2026/04/17/dining/carleton-college-minnesota-cookie-house.html",
-    "content": "For nearly 80 years, Carleton College in Minnesota has kept a place where students and others can come, bake and share. After a recent renovation, we checked in.",
-    "date": "2026-04-17T20:40:03",
     "category": "NYT"
   }
 ]
