@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/21/arts/television/leaving-netflix-june.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Stream These 9 Movies and Shows Before They Leave Netflix in June",
+    "author": "Jason Bailey",
+    "link": "https://www.nytimes.com/2026/05/21/arts/television/leaving-netflix-june.html",
+    "content": "Among the highlights leaving for U.S. subscribers are the original \u201cSex and the City\u201d and the only onscreen pairing of Harrison Ford and Liam Neeson.",
+    "date": "2026-05-22T20:44:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231110",
     "feed_name": "Texas Tribune",
     "title": "Alexandra Glorioso joins our joint investigative unit with ProPublica",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html",
     "content": "A higher authority finally tells Trump he\u2019s no messiah.",
     "date": "2026-04-18T13:39:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html",
-    "feed_name": "NYT (Shared)",
-    "title": "With Vaccines Widely Popular, Kennedy Changes Tone, but Maybe Not His Plans",
-    "author": "Sheryl Gay Stolberg, Apoorva Mandavilli and Christina Jewett",
-    "link": "https://www.nytimes.com/2026/04/17/us/politics/vaccines-kennedy-cdc.html",
-    "content": "Health Secretary Robert F. Kennedy Jr. testifying before the House Committee on Ways and Means on Thursday.",
-    "date": "2026-04-18T13:32:01",
     "category": "NYT"
   }
 ]
