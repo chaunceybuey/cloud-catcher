@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/22/dining/carlo-petrini-dead.html",
+    "feed_name": "NYT (Food)",
+    "title": "Carlo Petrini, Whose Slow Food Movement Transformed How We Eat, Dies at 76",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/05/22/dining/carlo-petrini-dead.html",
+    "content": "Carlo Petrini in 2012. He urged people at all points in the supply chain to embrace food that he described as \u201cgood, clean and fair.\u201d",
+    "date": "2026-05-22T21:59:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/21/arts/television/leaving-netflix-june.html",
     "feed_name": "NYT (Arts)",
     "title": "Stream These 9 Movies and Shows Before They Leave Netflix in June",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket.html",
     "content": "Secret memos obtained by The New York Times illuminate the origins of the court\u2019s now-routine \u201cshadow docket\u201d rulings on presidential power.",
     "date": "2026-04-18T14:13:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Pope Bedevils Trump",
-    "author": "Maureen Dowd",
-    "link": "https://www.nytimes.com/2026/04/18/opinion/pope-trump-hegseth-iran.html",
-    "content": "A higher authority finally tells Trump he\u2019s no messiah.",
-    "date": "2026-04-18T13:39:05",
     "category": "NYT"
   }
 ]
