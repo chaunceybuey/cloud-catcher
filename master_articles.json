@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Stephen Colbert Went Out His Way: Through a Wormhole",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html",
+    "content": "Colbert was joined by famous friends, fellow hosts and special guests like Paul McCartney for the finale of \u201cThe Late Show.\u201d",
+    "date": "2026-05-22T07:43:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/22/movies/ladies-first-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Ladies First\u2019 Review: A Nightmare for Men",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17321168/texas-power-grid-electricity-ercot-load-forecast-puc",
     "content": "ERCOT CEO Pablo Vegas and Texas Public Utility Commission Chairman Thomas Gleeson attend a briefing on an incoming winter storm on Jan 22, 2026, in Austin.",
     "date": "2026-04-17T21:20:06",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226979",
-    "feed_name": "Texas Tribune",
-    "title": "Three dozen Texas Democrats urge Kendall Scudder not to seek reelection as state party chair",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17321169/texas-democratic-party-kendall-scudder-open-letter",
-    "content": "Texas Democratic Party Chair Kendall Scudder speaks with attendees at an event in Brownsville on April 12, 2025.",
-    "date": "2026-04-17T21:16:17",
     "category": "Texas"
   }
 ]
