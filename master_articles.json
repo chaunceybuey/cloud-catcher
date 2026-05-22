@@ -250,6 +250,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/22/dining/guy-savoy.html",
+    "feed_name": "NYT (Food)",
+    "title": "Guy Savoy Awarded L\u00e9gion d\u2019Honneur",
+    "author": "Elaine Sciolino",
+    "link": "https://www.nytimes.com/2026/05/22/dining/guy-savoy.html",
+    "content": "Guy Savoy, who worked his way up from modest beginnings (and a recent setback), this week became the first chef inducted into the prestigious Acad\u00e9mie des Beaux-Arts.",
+    "date": "2026-05-22T09:01:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/22/movies/the-mandalorian-and-grogu-movie-star-wars-refresher.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Star Wars: The Mandalorian and Grogu\u2019: What to Know Before Seeing the Movie",
@@ -19988,15 +19998,5 @@
     "content": "Take a group of runners circling a track at unique, constant paces. Answering the question of how many will always end up running alone, no matter their speed, has vexed mathematicians for decades.",
     "date": "2026-04-18T09:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Orban\u2019s Defeat Punctures Europe\u2019s Far Right, but Also Offers It a Road Map",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-18T08:48:45",
-    "category": "NYT"
   }
 ]
