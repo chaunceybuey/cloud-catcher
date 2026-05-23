@@ -100,6 +100,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231168",
+    "feed_name": "Texas Tribune",
+    "title": "House Democratic runoff heats up in the Rio Grande Valley, where the party hopes to reverse GOP gains",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17346909/texas-house-district-41-primary-runoffs-salinas-haddad",
+    "content": "Top row, from left: Democrats Victor &quot;Seby&quot; Haddad and Julio Salinas. Bottom row: Republicans Gary Groves and Sergio Sanchez. The four are vying in their respective parties&#039; runoffs for Texas state House District 41. HD-41 is in the Rio Grande Valley and includes much of McAllen and some of Edinburg.",
+    "date": "2026-05-23T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231162",
+    "feed_name": "Texas Tribune",
+    "title": "Rallies, ad blitzes and a Trump endorsement: inside the final days of the Cornyn-Paxton runoff",
+    "author": "By Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17346910/texas-us-senate-gop-runoff-john-cornyn-ken-paxton-final-week-closing-arguments-trump",
+    "content": "From left: U.S. Sen. John Cornyn speaks to supporters in Corpus Christi on May 22, 2026. Texas Attorney General Paxton attends a rally in San Antonio on May 21, 2026.",
+    "date": "2026-05-23T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "69f8a3c3b84a39b00f24bb05",
+    "feed_name": "Wired (Science)",
+    "title": "Cosmic Voids May Contain the Universe\u2019s Best Secrets",
+    "author": "Becky Ferreira",
+    "link": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
+    "content": "Once dismissed as empty expanses between galaxies, cosmic voids are becoming one of the most promising tools for probing the universe\u2019s biggest mysteries.",
+    "date": "2026-05-23T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/23/arts/harry-potter-cursed-child-stage-door.html",
     "feed_name": "NYT (Arts)",
     "title": "As Draco Malfoy on Broadway, Tom Felton Draws a Crowd",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/18/us/politics/digenova-trump-lawyer-conspiracy.html",
     "content": "Joseph diGenova, 81, who served as a U.S. attorney in the Reagan era, has been given the title of counselor to the attorney general and detailed to the Southern District of Florida.",
     "date": "2026-04-19T00:02:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/nyregion/mamdani-obama-meeting-bronx-child-care.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Mamdani and Obama Lead Preschool Singalong to Promote Free Child Care",
-    "author": "Emma G. Fitzsimmons",
-    "link": "https://www.nytimes.com/2026/04/18/nyregion/mamdani-obama-meeting-bronx-child-care.html",
-    "content": "The meeting between the two men came as Mayor Zohran Mamdani was seeking to expand free child care for 2-year-olds.",
-    "date": "2026-04-18T23:59:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/pageoneplus/corrections-april-19-2026.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Corrections: April 19, 2026",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/18/pageoneplus/corrections-april-19-2026.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-18T23:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Activists Tear-Gassed at Failed Raid of Beagle Research Facility",
-    "author": "Katie Benner and Taylor Glascock",
-    "link": "https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html",
-    "content": "Animal rights activists and the police face off outside a research facility in Blue Mounds, Wis., on Saturday.",
-    "date": "2026-04-18T23:40:33",
     "category": "NYT"
   }
 ]
