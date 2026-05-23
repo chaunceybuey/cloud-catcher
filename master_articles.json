@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/23/arts/television/grizz-chapman-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Grizz Chapman, Actor Known for His Role on \u201930 Rock,\u2019 Dies at 52",
+    "author": "Aimee Ortiz",
+    "link": "https://www.nytimes.com/2026/05/23/arts/television/grizz-chapman-dead.html",
+    "content": "Grizzwald Chapman in 2012 in New York City.",
+    "date": "2026-05-23T20:46:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Colbert\u2019s Sudden Return to Late Night? It Happened on Public Access.",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html",
+    "content": "A day after the comedian hosted the final episode of \u201cThe Late Show With Stephen Colbert\u201d on CBS, he hosted \u201cOnly in Monroe,\u201d a community-access program in Monroe, Mich.",
+    "date": "2026-05-23T20:44:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/19620-rocket-cinema-5th-year-anniversary-party",
     "feed_name": "KMFA",
     "title": "Rocket Cinema 5th Year Anniversary Party",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/13/style/halle-bailey-rege-jean-page-you-me-tuscany-rom-com.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T03:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/style/mother-mary-costumes-iris-van-herpen.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Designing for a Pop Star (Who Happens to Be Anne Hathaway)",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/style/mother-mary-costumes-iris-van-herpen.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T02:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/style/jacqui-agostinelli-james-squires-wedding.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Duet Decades in the Making",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/style/jacqui-agostinelli-james-squires-wedding.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T02:33:47",
     "category": "NYT"
   }
 ]
