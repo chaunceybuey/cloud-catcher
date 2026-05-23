@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/23/dining/a-fresher-brighter-macaroni-salad.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Fresher, Brighter Macaroni Salad",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/05/23/dining/a-fresher-brighter-macaroni-salad.html",
+    "content": "Alexa Weibel\u2019s macaroni salad with lemon and herbs.",
+    "date": "2026-05-23T15:00:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/23/dining/these-are-a-few-of-my-favorite-picnic-treats.html",
     "feed_name": "NYT (Food)",
     "title": "These Are a Few of My Favorite Picnic Treats",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/style/lauren-fogel-ben-sweeney-wedding.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T02:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/style/johanna-mele-daniel-martinez-clavijo-wedding.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "It Took a Persistent Friend and a Dave Matthews Concert to Seal the Deal",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/style/johanna-mele-daniel-martinez-clavijo-wedding.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T02:03:47",
     "category": "NYT"
   }
 ]
