@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/23/arts/design/brent-sikkema-murder-guilty.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Husband of Prominent New York Gallerist Convicted in Murder-for-Hire Plot",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/05/23/arts/design/brent-sikkema-murder-guilty.html",
+    "content": "The entrance to the apartment in Rio de Janeiro where the art dealer Brent Sikkema was reported to be found stabbed to death in 2024.",
+    "date": "2026-05-23T15:53:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/23/dining/a-fresher-brighter-macaroni-salad.html",
     "feed_name": "NYT (Food)",
     "title": "A Fresher, Brighter Macaroni Salad",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/style/jacqui-agostinelli-james-squires-wedding.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T02:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/style/lauren-fogel-ben-sweeney-wedding.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Her Grandmother Told Her \u2018Maybe You\u2019ll Marry Him One Day\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/style/lauren-fogel-ben-sweeney-wedding.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T02:18:47",
     "category": "NYT"
   }
 ]
