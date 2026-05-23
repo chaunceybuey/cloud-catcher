@@ -110,6 +110,26 @@
     "category": "NYT"
   },
   {
+    "id": "da6cef60434af83c4f5d7dc825ca1e93",
+    "feed_name": "The Atlantic",
+    "title": "Putin Can No Longer Hide His Catastrophe",
+    "author": "Phillips Payson O\u2019Brien",
+    "link": "https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/",
+    "content": "The Russian dictator has lost control of the narrative.",
+    "date": "2026-05-23T12:45:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "c86a915e63aa07ce3595416f12fe03a2",
+    "feed_name": "The Atlantic",
+    "title": "The Absurd Misunderstanding Fueling the Debate OverThe Odyssey",
+    "author": "Thomas Chatterton Williams",
+    "link": "https://www.theatlantic.com/ideas/2026/05/the-odyssey-musk-nolan-nyongo/687288/",
+    "content": "Elon Musk\u2019s outrage at Christopher Nolan says more about today\u2019s myopic notion of identity than it does about classical antiquity.",
+    "date": "2026-05-23T11:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
     "feed_name": "Douthat",
     "title": "What A.I. Philanthropists Can Learn From the Gilded Age",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/realestate/were-building-more-affordable-housing-these-days-its-still-not-enough.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T01:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/realestate/can-your-co-op-make-you-carry-an-id-card.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Can Your Co-op Make You Carry an ID Card?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/18/realestate/can-your-co-op-make-you-carry-an-id-card.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T01:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/realestate/housing-market-near-nyc.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Homes for Sale in New York and New Jersey",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/16/realestate/housing-market-near-nyc.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T01:18:47",
     "category": "NYT"
   }
 ]
