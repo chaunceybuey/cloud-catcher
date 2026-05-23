@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/23/arts/design/yiadom-boakye-shainman-art.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Letting Her Art (and Birds) Do the Talking",
+    "author": "Aruna D\u2019Souza",
+    "link": "https://www.nytimes.com/2026/05/23/arts/design/yiadom-boakye-shainman-art.html",
+    "content": "The artist Lynette Yiadom-Boakye, ahead of her exhibition, \u201cMany A Moonlit Caveat,\u201d at Jack Shainman Gallery in Chelsea, with her painting, \u201c9 pm Normandy.\u201d",
+    "date": "2026-05-23T13:10:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
     "feed_name": "Douthat",
     "title": "What A.I. Philanthropists Can Learn From the Gilded Age",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/16/realestate/housing-market-near-nyc.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T01:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/arts/design/guggenheim-pop-art.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Pop Art Engages With Art of the Present at the Guggenheim",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/arts/design/guggenheim-pop-art.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T01:03:47",
     "category": "NYT"
   }
 ]
