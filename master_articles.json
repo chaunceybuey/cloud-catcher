@@ -100,6 +100,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
+    "feed_name": "Douthat",
+    "title": "What A.I. Philanthropists Can Learn From the Gilded Age",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
+    "content": "Leave a physical legacy to future generations, not just a record of programs and disbursements.",
+    "date": "2026-05-23T11:00:10",
+    "category": "NYT"
+  },
+  {
+    "id": "6a0e1c6264dc9886d88b049a",
+    "feed_name": "Wired (Science)",
+    "title": "Quantum \u2018Jamming\u2019 Could Help Unlock the Mysteries of Causality",
+    "author": "Matt von Hippel",
+    "link": "https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/",
+    "content": "To keep communications secure in a post-quantum world, cryptographers are digging down into the concept of cause and effect.",
+    "date": "2026-05-23T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "ef09aedaaa3c6e93f9ea869dc5b2257c",
+    "feed_name": "The Atlantic",
+    "title": "Barney Frank Was Like No One Else",
+    "author": "Robert G. Kaiser",
+    "link": "https://www.theatlantic.com/ideas/2026/05/barney-frank-obituary-democrats/687285/",
+    "content": "He was the smartest man in the room, a rare attribute for a member of modern-day Congress",
+    "date": "2026-05-23T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "ebf8c6885dc62eb733ffd0ec6e1556a3",
+    "feed_name": "The Atlantic",
+    "title": "College Should Be Way More Fun",
+    "author": "Michael A. Elliott",
+    "link": "https://www.theatlantic.com/ideas/2026/05/college-should-be-way-more-fun/687272/",
+    "content": "I\u2019m not talking about keg stands. I\u2019m talking about the joyous mysteries of intellectual life.",
+    "date": "2026-05-23T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "cf104cd12059f0d2cce2b2592432d749",
+    "feed_name": "The Atlantic",
+    "title": "Why College Students Are Booing AI",
+    "author": "Ian Bogost",
+    "link": "https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/",
+    "content": "The sound of a cosmic howl",
+    "date": "2026-05-23T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231168",
     "feed_name": "Texas Tribune",
     "title": "House Democratic runoff heats up in the Rio Grande Valley, where the party hopes to reverse GOP gains",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/arts/design/guggenheim-pop-art.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T01:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/arts/design/new-amsterdam-manhattan-dutch.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Recalling When Lower Manhattan Was New Amsterdam",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/arts/design/new-amsterdam-manhattan-dutch.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T00:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/15/arts/design/frederic-church-hudson-river-school.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Honoring Frederic Church: Beyond the Hudson River School",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/15/arts/design/frederic-church-hudson-river-school.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T00:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/pageoneplus/quote-of-the-day-after-artemis-ii-astronauts-and-nasa-look-to-moon-landing.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Quote of the Day: After Artemis II, Astronauts and NASA Look to Moon Landing",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/19/pageoneplus/quote-of-the-day-after-artemis-ii-astronauts-and-nasa-look-to-moon-landing.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T00:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/03/well/handwritten-letters-habit-connection.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Case for Handwritten Letters",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/03/well/handwritten-letters-habit-connection.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T00:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/us/politics/digenova-trump-lawyer-conspiracy.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Installs a Trump Loyalist to Lead \u2018Grand Conspiracy\u2019 Case Into Trump Foes",
-    "author": "Charlie Savage and Alan Feuer",
-    "link": "https://www.nytimes.com/2026/04/18/us/politics/digenova-trump-lawyer-conspiracy.html",
-    "content": "Joseph diGenova, 81, who served as a U.S. attorney in the Reagan era, has been given the title of counselor to the attorney general and detailed to the Southern District of Florida.",
-    "date": "2026-04-19T00:02:30",
     "category": "NYT"
   }
 ]
