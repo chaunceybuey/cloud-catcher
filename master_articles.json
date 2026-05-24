@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a0f1d82427d5dd5a3f05b05",
+    "feed_name": "Wired (Science)",
+    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
+    "author": "Ritsuko Kawai",
+    "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "content": "It's long been accepted that the smoother the surface, the lower the aerodynamic drag. That turns out not always to be the case.",
+    "date": "2026-05-24T08:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a106360ec8b714c77c878de",
     "feed_name": "Wired (Science)",
     "title": "The Universe Is Full of \u2018Impossible\u2019 Black Holes. Now Scientists Know Why",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/19/style/age-women-fashion.html",
     "content": "Representation of women of a certain age has never been higher. What\u2019s going on?",
     "date": "2026-04-19T04:01:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/03/27/books/review/new-historical-fiction-books.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Dazzling, Immersive New Historical Fiction",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/03/27/books/review/new-historical-fiction-books.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T03:48:47",
     "category": "NYT"
   }
 ]
