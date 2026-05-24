@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/24/dining/grilled-salmon-salad-with-lime-chiles-and-herbs.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Grilled Salmon Salad With Lime, Chiles and Herbs",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/05/24/dining/grilled-salmon-salad-with-lime-chiles-and-herbs.html",
+    "content": "And four more bright, easy recipes for your post-holiday week.",
+    "date": "2026-05-24T13:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "0857b26600d0707cea988c19efbb39f4",
     "feed_name": "The Atlantic",
     "title": "The Unfilmable Author Everyone Should Read This Summer",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/14/business/ricky-cobb-1970s-super70ssports.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T05:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/opinion/schools-edtech-laptops-games-learning.html",
-    "feed_name": "NYT (Shared)",
-    "title": "You Can\u2019t Game Your Way to a Real Education",
-    "author": "Molly Worthen",
-    "link": "https://www.nytimes.com/2026/04/19/opinion/schools-edtech-laptops-games-learning.html",
-    "content": "Technology must return to its proper place in the classroom \u2014 as a supplemental tool rather than the source and summit of education.",
-    "date": "2026-04-19T05:00:08",
     "category": "NYT"
   }
 ]
