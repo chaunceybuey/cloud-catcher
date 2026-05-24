@@ -90,6 +90,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/06/11/navalnys-unfinished-work-patriot-a-memoir/",
+    "feed_name": "NYRB",
+    "title": "Navalny\u2019s Unfinished Work",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/06/11/navalnys-unfinished-work-patriot-a-memoir/",
+    "content": "In his posthumous memoir, Alexei Navalny\u2019s utopian vision of \u201cthe Beautiful Russia of the Future\u201d remains strangely detached from history.\n\nDelivered by PolitePaul service",
+    "date": "2026-05-24T15:18:50",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/06/11/damming-the-big-ocean-chokepoints-edward-fishman/",
+    "feed_name": "NYRB",
+    "title": "Damming the Big Ocean",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/06/11/damming-the-big-ocean-chokepoints-edward-fishman/",
+    "content": "Edward Fishman\u2019s <em>Chokepoints</em> explains how the US came to rely on its economic arsenal, but stops short of a complete assessment of the unreliable tactic and its often devastating consequences.\n\nDelivered by PolitePaul service",
+    "date": "2026-05-24T15:03:50",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/24/dining/pulled-pork-at-the-push-of-a-button.html",
+    "feed_name": "NYT (Food)",
+    "title": "Pulled Pork at the Push of a Button",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/05/24/dining/pulled-pork-at-the-push-of-a-button.html",
+    "content": "Margaux Laskey\u2019s slow cooker BBQ pulled pork.",
+    "date": "2026-05-24T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/06/11/mighty-real-tracey-emin-a-second-life/",
+    "feed_name": "NYRB",
+    "title": "Mighty Real",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/06/11/mighty-real-tracey-emin-a-second-life/",
+    "content": "Tracey Emin\u2019s art has often tackled taboo subjects, including rape, abortion, and sexual abuse, but her multifarious works are always bracingly antitherapeutic.\n\nDelivered by PolitePaul service",
+    "date": "2026-05-24T14:48:50",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/06/11/art-for-our-sakes-zadie-smith/",
+    "feed_name": "NYRB",
+    "title": "Art for Our Sakes",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/06/11/art-for-our-sakes-zadie-smith/",
+    "content": "Why should we go on making things?\n\nDelivered by PolitePaul service",
+    "date": "2026-05-24T14:33:50",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/24/arts/music/summer-music-festivals-bonnaroo-gov-ball-cma-fest.html",
     "feed_name": "NYT (Arts)",
     "title": "Bonnaroo, Governors Ball and 7 More Summer Music Festivals Not to Miss",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/12/nyregion/gilgo-beach-murders-true-crime.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T07:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/interactive/2026/04/11/nyregion/routine-david-cross.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How David Cross Gets Ready for a Night of \u2018Dangerous\u2019 Comedy",
-    "author": "",
-    "link": "https://www.nytimes.com/interactive/2026/04/11/nyregion/routine-david-cross.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T07:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/opinion/lucid-dreams.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Mind-Altering Power of Lucid Dreaming",
-    "author": "Cody Delistraty",
-    "link": "https://www.nytimes.com/2026/04/19/opinion/lucid-dreams.html",
-    "content": "Few people experience lucid dreams, yet those who do are able to appreciate as much asleep as the rest of us do awake.",
-    "date": "2026-04-19T06:58:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/13/arts/dance/wellness-center-school-of-american-ballet.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "A Wellness Center for Young Ballet Students (Snacks Included)",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/13/arts/dance/wellness-center-school-of-american-ballet.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T06:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/11/movies/bob-odenkirk-normal.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Exercise Used to Bore Bob Odenkirk. Now He\u2019s Doing Stunts.",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/11/movies/bob-odenkirk-normal.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T06:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/14/arts/music/should-orchestra-conductors-stay-home.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "In an Era of Frequent Fliers, Is a Conductor\u2019s Place at Home?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/14/arts/music/should-orchestra-conductors-stay-home.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T06:18:47",
     "category": "NYT"
   }
 ]
