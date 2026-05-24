@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "0857b26600d0707cea988c19efbb39f4",
+    "feed_name": "The Atlantic",
+    "title": "The Unfilmable Author Everyone Should Read This Summer",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/05/author-terry-pratchett-film/687253/",
+    "content": "Terry Pratchett, one of the funniest English writers, is in danger of being lost to history.",
+    "date": "2026-05-24T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/24/movies/alamo-drafthouse-mobile-ordering.html",
     "feed_name": "NYT (Arts)",
     "title": "Alamo Drafthouse Instituted Mobile Ordering. Super Fans Are Not Pleased.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/19/opinion/schools-edtech-laptops-games-learning.html",
     "content": "Technology must return to its proper place in the classroom \u2014 as a supplemental tool rather than the source and summit of education.",
     "date": "2026-04-19T05:00:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/10/magazine/self-deportation-ice.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Next Phase of the Immigration Crackdown Is Quieter \u2014 and More Destabilizing",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/10/magazine/self-deportation-ice.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T04:48:47",
     "category": "NYT"
   }
 ]
