@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/24/arts/music/summer-music-festivals-bonnaroo-gov-ball-cma-fest.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bonnaroo, Governors Ball and 7 More Summer Music Festivals Not to Miss",
+    "author": "Danielle Dowling",
+    "link": "https://www.nytimes.com/2026/05/24/arts/music/summer-music-festivals-bonnaroo-gov-ball-cma-fest.html",
+    "content": "The Ferris wheel at the Bonnaroo Musical and Arts Festival in Manchester, Tenn., last year. The long-running festival will return in June, along with six stages featuring bands such as the Strokes and Geese.",
+    "date": "2026-05-24T13:46:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/24/dining/grilled-salmon-salad-with-lime-chiles-and-herbs.html",
     "feed_name": "Weeknight Dishes",
     "title": "Grilled Salmon Salad With Lime, Chiles and Herbs",
@@ -98,6 +108,16 @@
     "content": "And four more bright, easy recipes for your post-holiday week.",
     "date": "2026-05-24T13:00:04",
     "category": "NYT"
+  },
+  {
+    "id": "ed207b7c5868b5971785ff599da72eb9",
+    "feed_name": "The Atlantic",
+    "title": "Americans Refuse To Be Happy",
+    "author": "Annie Lowrey",
+    "link": "https://www.theatlantic.com/ideas/2026/05/americans-depressed-economy/687278/",
+    "content": "Our prosperity is fueling our pessimism.",
+    "date": "2026-05-24T11:15:12",
+    "category": "Magazines"
   },
   {
     "id": "0857b26600d0707cea988c19efbb39f4",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/14/arts/music/should-orchestra-conductors-stay-home.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T06:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/business/nba-players-podcasts.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "The Only Thing N.B.A. Players Love More Than Basketball Is Starting Podcasts",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/business/nba-players-podcasts.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T06:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/14/business/ricky-cobb-1970s-super70ssports.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Remembering Cars Without Seatbelts and Athletes Who Smoked",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/14/business/ricky-cobb-1970s-super70ssports.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T05:48:47",
     "category": "NYT"
   }
 ]
