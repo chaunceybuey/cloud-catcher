@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/24/dining/carlo-petrini-slow-food.html",
+    "feed_name": "NYT (Food)",
+    "title": "For Carlo Petrini, the Point of \u2018Slow Food\u2019 Wasn\u2019t the Food. It Was Us.",
+    "author": "Pete Wells",
+    "link": "https://www.nytimes.com/2026/05/24/dining/carlo-petrini-slow-food.html",
+    "content": "The Italian activist, who died on Thursday, built his global movement on the idea that eating well could make modern life more meaningful.",
+    "date": "2026-05-24T17:52:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/24/business/media/mandalorian-and-grogu-box-office.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Mandalorian and Grogu\u2019 Tops Box Office as Disney Bets on \u2018Star Wars\u2019 Revival",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/14/fashion/adriano-goldschmied-dead.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T07:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/nyregion/nyc-school-ads.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "As Enrollment Dips, School Administrators Turn to TikTok to Advertise",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/nyregion/nyc-school-ads.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T07:33:47",
     "category": "NYT"
   }
 ]
