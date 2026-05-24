@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/24/business/media/mandalorian-and-grogu-box-office.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Mandalorian and Grogu\u2019 Tops Box Office as Disney Bets on \u2018Star Wars\u2019 Revival",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/05/24/business/media/mandalorian-and-grogu-box-office.html",
+    "content": "\u201cStar Wars: The Mandalorian and Grogu\u201d was intended to sell toys as much as movie tickets.",
+    "date": "2026-05-24T17:33:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/06/11/navalnys-unfinished-work-patriot-a-memoir/",
     "feed_name": "NYRB",
     "title": "Navalny\u2019s Unfinished Work",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/nyregion/nyc-school-ads.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T07:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/12/nyregion/gilgo-beach-murders-true-crime.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How I Found Out I Knew a Serial Killer",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/12/nyregion/gilgo-beach-murders-true-crime.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T07:18:47",
     "category": "NYT"
   }
 ]
