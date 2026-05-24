@@ -90,6 +90,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/24/movies/alamo-drafthouse-mobile-ordering.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Alamo Drafthouse Instituted Mobile Ordering. Super Fans Are Not Pleased.",
+    "author": "Brendan Klinkenberg",
+    "link": "https://www.nytimes.com/2026/05/24/movies/alamo-drafthouse-mobile-ordering.html",
+    "content": "Moviegoers at an Alamo Drafthouse in Austin, Texas. It has long served food to patrons at their seats, but now they order by phone instead of writing out their requests.",
+    "date": "2026-05-24T09:02:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/24/movies/summer-movies-toy-products-star-wars-toy-story.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How This Summer\u2019s Movies Shift the Connection With Their Related Toys",
+    "author": "Robert Ito",
+    "link": "https://www.nytimes.com/2026/05/24/movies/summer-movies-toy-products-star-wars-toy-story.html",
+    "content": "A fan carrying a Grogu doll, one of many products being used to market \u201cStar Wars: The Mandalorian and Grogu.\u201d",
+    "date": "2026-05-24T09:01:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/24/arts/hes-the-modern-master-of-raunchy-animation.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Nick Kroll Keeps It Raunchy and Animated with \u201cMating Season\u201d",
+    "author": "Maya Phillips and Sela Shiloni",
+    "link": "https://www.nytimes.com/2026/05/24/arts/hes-the-modern-master-of-raunchy-animation.html",
+    "content": "With \u201cMating Season,\u201d Nick Kroll continues to lead the pack when it comes to the booming genre of cartoons that revel in their raciness.",
+    "date": "2026-05-24T09:01:48",
+    "category": "NYT"
+  },
+  {
+    "id": "6a0dd08a2881b35bbc0870bc",
+    "feed_name": "Wired (Science)",
+    "title": "Why Garlic Repels Mosquitoes and Keeps Them From Breeding",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
+    "content": "Garlic, as your grandmother may have told you, repels mosquitoes; it also completely blocks them from mating and laying eggs. Diallyl disulfide, it turns out, deserves the credit.",
+    "date": "2026-05-24T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a0f1d82427d5dd5a3f05b05",
     "feed_name": "Wired (Science)",
     "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/10/magazine/self-deportation-ice.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T04:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/09/magazine/gatekeeping-language-filtering-information.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "How Did \u2018Gatekeeping\u2019 Become a Cardinal Sin?",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/09/magazine/gatekeeping-language-filtering-information.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T04:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/11/magazine/lena-dunham-interview.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Lena Dunham Is Still Trying to Figure Out Why People Hated Her So Much",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/11/magazine/lena-dunham-interview.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T04:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/books/review/arthur-sze-transient-worlds-poet-laureate.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Arthur Sze Treasures Sappho, Neruda and \u20182,000 Years of Mayan Literature\u2019",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/16/books/review/arthur-sze-transient-worlds-poet-laureate.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T04:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/style/age-women-fashion.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Is the Trend of Older Women in Fashion Here to Stay?",
-    "author": "Vanessa Friedman",
-    "link": "https://www.nytimes.com/2026/04/19/style/age-women-fashion.html",
-    "content": "Representation of women of a certain age has never been higher. What\u2019s going on?",
-    "date": "2026-04-19T04:01:08",
     "category": "NYT"
   }
 ]
