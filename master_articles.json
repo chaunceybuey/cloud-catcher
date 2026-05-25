@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/25/arts/television/star-city-things-to-watch-on-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Star City,\u2019 and 5 More Things to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/05/25/arts/television/star-city-things-to-watch-on-tv-this-week.html",
+    "content": "\u201cStar City\u201d expands the story lines of the series \u201cFor All Mankind,\u201d this time from the perspective of the Soviet Union.",
+    "date": "2026-05-25T05:00:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/24/dining/carlo-petrini-slow-food.html",
     "feed_name": "NYT (Food)",
     "title": "For Carlo Petrini, the Point of \u2018Slow Food\u2019 Wasn\u2019t the Food. It Was Us.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/17/business/media/kevin-klose-dead.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T08:03:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/14/fashion/adriano-goldschmied-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Adriano Goldschmied, \u2018Godfather\u2019 of Modern Denim, Dies at 82",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/14/fashion/adriano-goldschmied-dead.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T07:48:47",
     "category": "NYT"
   }
 ]
