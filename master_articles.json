@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/25/arts/music/lizzo-new-york-times-live-performance.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lizzo Addresses the Backlash and Performs Live at The New York Times",
+    "author": "Joe Coscarelli and Jon Caramanica",
+    "link": "https://www.nytimes.com/2026/05/25/arts/music/lizzo-new-york-times-live-performance.html",
+    "content": "During a special edition of \u201cPopcast,\u201d the singer discussed her new album and the public fallout from a series of lawsuits. Then she performed a stripped-down set.",
+    "date": "2026-05-25T17:38:23",
+    "category": "NYT"
+  },
+  {
     "id": "0adcc5d9-e1e4-4b12-966f-c6614df674e0",
     "feed_name": "Economist",
     "title": "Crackdowns on financial secrecy aren\u2019t hurting offshore finance",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/books/could-a-river-runs-through-it-have-been-a-hit-today.html",
     "content": "The autobiographical novella, first published 50 years ago, arguably created a new type of guy: the literary fly fisherman.",
     "date": "2026-04-20T09:02:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/movies/reefer-madness-psa-1936.html",
-    "feed_name": "NYT (Shared)",
-    "title": "\u2018Reefer Madness,\u2019 the P.S.A. That Backfired Spectacularly",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/04/20/movies/reefer-madness-psa-1936.html",
-    "content": "The comically self-serious and outrageous 1936 morality tale, which warned the public about marijuana, became an unintentional parody and midnight-movie classic decades later.",
-    "date": "2026-04-20T09:00:57",
     "category": "NYT"
   }
 ]
