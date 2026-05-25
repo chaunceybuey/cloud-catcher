@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "0adcc5d9-e1e4-4b12-966f-c6614df674e0",
+    "feed_name": "Economist",
+    "title": "Crackdowns on financial secrecy aren\u2019t hurting offshore finance",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/25/crackdowns-on-financial-secrecy-arent-hurting-offshore-finance",
+    "content": "There is a lot more to havens than crystal-clear waters and a promise of opacity",
+    "date": "2026-05-25T15:38:01",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/25/arts/music/die-walkure-la-philharmonic-review.html",
     "feed_name": "NYT (Arts)",
     "title": "Ryan Speedo Green in \u2018Die Walk\u00fcre\u2019: Preview of the Met Opera",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/movies/reefer-madness-psa-1936.html",
     "content": "The comically self-serious and outrageous 1936 morality tale, which warned the public about marijuana, became an unintentional parody and midnight-movie classic decades later.",
     "date": "2026-04-20T09:00:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/us/epstein-files-harvard-university-faculty.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Epstein Wanted Connections at Harvard. Files Show Many Faculty Members Were Happy to Help.",
-    "author": "Mark Arsenault and Debra Kamin",
-    "link": "https://www.nytimes.com/2026/04/20/us/epstein-files-harvard-university-faculty.html",
-    "content": "Jeffrey Epstein had a special obsession with Harvard, which he sought to infiltrate more than any other American institution.",
-    "date": "2026-04-20T09:00:14",
     "category": "NYT"
   }
 ]
