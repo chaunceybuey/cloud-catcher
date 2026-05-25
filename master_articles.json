@@ -90,6 +90,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/25/arts/design/art-auctions-comeback-sothebys-christies.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Art Auctions Choreographed a $2.5 Billion Comeback",
+    "author": "Zachary Small, Julia Halperin and Tim F. Schneider",
+    "link": "https://www.nytimes.com/2026/05/25/arts/design/art-auctions-comeback-sothebys-christies.html",
+    "content": "Jackson Pollock, \u201cNumber 7A\u201d (1948), a horizontal drip painting, an example of the artist\u2019s \u201caction painting\u201d style from a peak period, is a highlight of the Newhouse collection sale at Christie\u2019s that fetched $181.2 million including fees.",
+    "date": "2026-05-25T09:03:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/25/arts/television/spider-noir-spider-man.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Spider-Noir\u2019 Is a Multicolor Spin on \u2018Spider-Man\u2019",
+    "author": "Esther Zuckerman",
+    "link": "https://www.nytimes.com/2026/05/25/arts/television/spider-noir-spider-man.html",
+    "content": "\u201cSpider-Noir,\u201d with Nicolas Cage, channels modern comic books and pulpy Hollywood films of the past.",
+    "date": "2026-05-25T09:02:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/25/arts/dance/international-dance-league-competition.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The International Dance League Wants to Be the \u2018NBA of Dance\u2019",
+    "author": "Margaret Fuhrer and Shuran Huang",
+    "link": "https://www.nytimes.com/2026/05/25/arts/dance/international-dance-league-competition.html",
+    "content": "GRV, from Los Angeles, is another of the league\u2019s six founding teams.",
+    "date": "2026-05-25T09:02:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/25/theater/lost-boys-flying-broadway-vampires.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Broadway\u2019s \u2018The Lost Boys\u2019 and Its Flying Vampire Spectacle",
+    "author": "Michael Paulson and Sara Krulwich",
+    "link": "https://www.nytimes.com/2026/05/25/theater/lost-boys-flying-broadway-vampires.html",
+    "content": "Multiple actors take flight at the same time in the spectacle-heavy production, which requires a lot of backstage work to ensure nothing, and no one, collides.",
+    "date": "2026-05-25T09:01:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Traveling the Hudson River Valley With Art as a Guide",
+    "author": "Kim Beil and Tony Cenicola",
+    "link": "https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html",
+    "content": "An aerial view of Olana, Frederic Church\u2019s home in the Hudson Valley. The estate inspired the preservation of nearly 3,000 acres of land within its viewshed.",
+    "date": "2026-05-25T09:00:36",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/25/arts/television/for-all-mankind.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In \u2018For All Mankind,\u2019 America Wins by Losing",
+    "author": "Conor Dougherty",
+    "link": "https://www.nytimes.com/2026/05/25/arts/television/for-all-mankind.html",
+    "content": "The current season of this space drama is set largely on Mars. The creators say this alternate world could have been possible if the nation had stayed focused on the stars.",
+    "date": "2026-05-25T09:00:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/25/arts/music/kennedy-center-house-orchestra.html",
+    "feed_name": "NYT (Arts)",
+    "title": "All Quiet at the Kennedy Center",
+    "author": "Michaela Towfighi",
+    "link": "https://www.nytimes.com/2026/05/25/arts/music/kennedy-center-house-orchestra.html",
+    "content": "The dozens of musicians in the Kennedy Center Opera House Orchestra face an uncertain future. \u201cIt felt like we were just punched in the chest,\u201d David Jones said.",
+    "date": "2026-05-25T09:00:15",
+    "category": "NYT"
+  },
+  {
+    "id": "6a0e191fc634ff9b79eb041d",
+    "feed_name": "Wired (Science)",
+    "title": "A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/",
+    "content": "NASA took advantage of the recent close approach of the Psyche probe to Mars to calibrate its observation instruments.",
+    "date": "2026-05-25T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/25/arts/television/star-city-things-to-watch-on-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Star City,\u2019 and 5 More Things to Watch on TV This Week",
@@ -19917,86 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/18/world/americas/us-officials-cuba-trump.html",
     "content": "Delivered by PolitePaul service",
     "date": "2026-04-19T09:18:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/business/democrats-tax-cuts-affordability.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Are Democrats Becoming a Party of Tax Cuts?",
-    "author": "Andrew Duehren",
-    "link": "https://www.nytimes.com/2026/04/19/business/democrats-tax-cuts-affordability.html",
-    "content": "As Democrats try to find a way back to power in Washington, some see tax cuts as a quick and easy way to address affordability. The wonks are freaking out.",
-    "date": "2026-04-19T09:02:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
-    "author": "Vivian Nereim",
-    "link": "https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html",
-    "content": "Qatar, though on good terms with both the United States and Iran, has been harmed economically by the U.S.-Israeli campaign against Iran and endured retaliatory attacks from Tehran.",
-    "date": "2026-04-19T09:02:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html",
-    "feed_name": "NYT (Shared)",
-    "title": "How Gen Z Protests Have Fared Around the World",
-    "author": "Hannah Beech",
-    "link": "https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html",
-    "content": "Young people at a concert last year celebrating the impeachment of President Andry Rajoelina of Madagascar.",
-    "date": "2026-04-19T09:02:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/us/politics/anti-muslim-politics-south.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Muslim Southerners Face a Fresh Wave of Hateful Political Rhetoric",
-    "author": "Emily Cochrane",
-    "link": "https://www.nytimes.com/2026/04/19/us/politics/anti-muslim-politics-south.html",
-    "content": "Amal Altareb, a Yemeni American, moved to Memphis in 2012, one of many Muslim Americans drawn to the South by economic opportunity, family and friends.",
-    "date": "2026-04-19T09:00:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/books/review/this-vast-enterprsie-craig-fehrman.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Book Review: \u2018This Vast Enterprise,\u2019 by Craig Fehrman.",
-    "author": "Andrea Wulf",
-    "link": "https://www.nytimes.com/2026/04/19/books/review/this-vast-enterprsie-craig-fehrman.html",
-    "content": "In \u201cThis Vast Enterprise,\u201d Craig Fehrman refreshes a familiar story with a rich chorus of voices.",
-    "date": "2026-04-19T09:00:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/18/us/politics/turning-point-university-arkansas-disbands.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "\u2018Turning Point Was Charlie Kirk\u2019: Why This Student Group Moved On",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/18/us/politics/turning-point-university-arkansas-disbands.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T08:48:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/16/science/artemis-ii-astronauts-moon-mission-press-conference.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "After Artemis II, Astronauts and NASA Look Toward Moon Landing",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/16/science/artemis-ii-astronauts-moon-mission-press-conference.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T08:33:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/17/sports/bob-hall-dead.html",
-    "feed_name": "NYT (Today\u2019s Paper)",
-    "title": "Bob Hall, First Wheelchair Champion of the Boston Marathon, Dies at 74",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/04/17/sports/bob-hall-dead.html",
-    "content": "Delivered by PolitePaul service",
-    "date": "2026-04-19T08:18:47",
     "category": "NYT"
   }
 ]
