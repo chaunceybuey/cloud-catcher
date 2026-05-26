@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/26/theater/broadway-chess-closing-lea-michele.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Chess\u2019 Will Close With Lea Michele\u2019s Departure, in a Change of Plans",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/05/26/theater/broadway-chess-closing-lea-michele.html",
+    "content": "Lea Michele in the revival of \u201cChess\u201d now running at Broadway\u2019s Imperial Theater.",
+    "date": "2026-05-26T23:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/movies/100000010860400/alissa-reviews-cannes.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Cannes Is Grappling With Changes",
+    "author": "Alissa Wilkinson and Edward Vega",
+    "link": "https://www.nytimes.com/video/movies/100000010860400/alissa-reviews-cannes.html",
+    "content": "Reporting from the Cannes Film Festival, our film critic Alissa Wilkinson describes how the event is both fending off and embracing aspects of artificial intelligence.",
+    "date": "2026-05-26T22:45:51",
+    "category": "NYT"
+  },
+  {
     "id": "83422690-abcc-4b32-9a71-c9b7e4eb6179",
     "feed_name": "Economist",
     "title": "Giga-IPOs are a symptom of public markets\u2019 giga-problem",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html",
     "content": "The Archdiocese of Denver campus in 2023. The archdiocese asked the Supreme Court to reconsider a First Amendment precedent unpopular with conservative Christians.",
     "date": "2026-04-20T14:52:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742857#p8742857",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "lostdog",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8742857#p8742857",
-    "content": "I am disappointed that I cannot setup an automated transfer from my brokerage settlement fund to cash plus. I have to do it manually.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=106596\">lostdog</a> \u2014 Mon Apr 20, 2026 9:50 am</p><hr />",
-    "date": "2026-04-20T14:50:30",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/well/nicotine-health-maha.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Influencers Are Spinning Nicotine as a \u2018Natural\u2019 Health Hack",
-    "author": "Dani Blum",
-    "link": "https://www.nytimes.com/2026/04/20/well/nicotine-health-maha.html",
-    "content": "The influencers, many of them aligned with the Make America Healthy Again Movement, say the medical establishment has unfairly demonized the compound.",
-    "date": "2026-04-20T13:46:53",
     "category": "NYT"
   }
 ]
