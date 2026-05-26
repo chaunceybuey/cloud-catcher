@@ -90,6 +90,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Maids,\u2019 With Yerin Ha, Asks: Has Life Become One Big Performance?",
+    "author": "Roslyn Sulcas",
+    "link": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
+    "content": "Power dynamic: Saban and Ha in Kip Williams\u2019s production, which was rewritten in a contemporary idiom while hewing closely to Genet\u2019s plot.",
+    "date": "2026-05-26T09:02:55",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/26/arts/music/anthony-roth-costanzo-opera-philadelphia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Opera Philadelphia: Behind Its Comeback",
+    "author": "Joshua Barone",
+    "link": "https://www.nytimes.com/2026/05/26/arts/music/anthony-roth-costanzo-opera-philadelphia.html",
+    "content": "Anthony Roth Costanzo took over Opera Philadelphia when it was \u201cthree weeks away from stopping payroll.\u201d Now, it is rebounding with a surplus.",
+    "date": "2026-05-26T09:02:39",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/26/movies/armageddon-1998-michael-bay.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Armageddon\u2019: The Blockbuster Melodrama That Left Our Heads Spinning",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/05/26/movies/armageddon-1998-michael-bay.html",
+    "content": "Michael Bay wasn\u2019t remotely worried about the science in his 1998 science-fiction action hit that launched an elite ensemble cast to space.",
+    "date": "2026-05-26T09:00:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/26/arts/matthew-perry-personal-assistant-ketamine.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Celebrity Assistants Exist to Indulge Their Bosses, but When Does Duty Cross a Line?",
+    "author": "Matt Stevens",
+    "link": "https://www.nytimes.com/2026/05/26/arts/matthew-perry-personal-assistant-ketamine.html",
+    "content": "An autopsy report attributed Matthew Perry\u2019s death in 2023 to the \u201cacute effects\" of ketamine. The actor\u2019s personal assistant had found him unresponsive in a hot tub in his home in Los Angeles.",
+    "date": "2026-05-26T09:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-albums.html",
     "feed_name": "NYT (Arts)",
     "title": "Sonny Rollins: 12 Essential Albums",
@@ -19958,45 +19998,5 @@
     "content": "A beginner-friendly puzzle.",
     "date": "2026-04-20T10:50:55",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226936",
-    "feed_name": "Texas Tribune",
-    "title": "On the issues: A Q&A with Ken Paxton and John Cornyn",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17322165/cornyn-paxton-texas-us-senate-runoff-2026-q-and-a",
-    "content": "From left: John Cornyn and Ken Paxton, Republican candidates for U.S. Senate.",
-    "date": "2026-04-20T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226926",
-    "feed_name": "Texas Tribune",
-    "title": "Low-producing oil wells linger for years, causing headaches for Texas landowners",
-    "author": "By\u00a0Martha Pskowski, Inside Climate News",
-    "link": "https://feeds.texastribune.org/link/16799/17322166/texas-oil-wells-low-producing-railroad-commission-pollution",
-    "content": "Jackie Chesnutt props up a sign next to a leaking oil well operated by CORE Petro on her property near Knickerbocker on Nov. 18, 2025.",
-    "date": "2026-04-20T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=226930",
-    "feed_name": "Texas Tribune",
-    "title": "Cryptocurrency industry is on track to surpass 2024 spending on Texas midterm races",
-    "author": "By Olivia Borgula, graphic by Apurva Mahajan",
-    "link": "https://feeds.texastribune.org/link/16799/17322167/texas-crypto-currency-pacs-fairshake-menefee-green",
-    "content": "Sen. Ted Cruz speaks to Peter McCormack about bitcoin at the Texas Blockchain Summit in Austin on Nov 18, 2022.",
-    "date": "2026-04-20T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=18826",
-    "feed_name": "Stratechery",
-    "title": "TSMC Earnings, New N3 Fabs, The Nvidia Ramp",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/tsmc-earnings-new-n3-fabs-the-nvidia-ramp/",
-    "content": "<p>TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.</p>",
-    "date": "2026-04-20T10:00:00",
-    "category": "Tech"
   }
 ]
