@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a0f83469e18cc3e8178a595",
+    "feed_name": "Wired",
+    "title": "The US Can Put People on the Moon. Why Can\u2019t It Get Iranians Online?",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/",
+    "content": "Jason Rezaian spent years reporting from Iran before being imprisoned by the regime. He says internet access is key to transforming the country\u2014if only the US government would do something about it.",
+    "date": "2026-05-26T14:41:54",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/26/dining/restaurant-review-komal-los-angeles.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Komal in Los Angeles",
+    "author": "Tejal Rao",
+    "link": "https://www.nytimes.com/2026/05/26/dining/restaurant-review-komal-los-angeles.html",
+    "content": "Komal is a molino and restaurant inside Mercado la Paloma.",
+    "date": "2026-05-26T14:34:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/26/theater/dreyfus-harris-janney-keery-other-desert-cities-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "Julia Louis-Dreyfus to Star in \u2018Other Desert Cities\u2019 on Broadway",
@@ -19976,26 +19996,6 @@
     "author": "ByZach Helfand",
     "link": "https://www.newyorker.com/magazine/2026/04/27/when-soul-food-met-daniel-boulud",
     "content": "The Harlem franchise Charles Pan-Fried Chicken invited a bunch of chefs to take over for the weekend. Up next: oxtails from Lana Lagomarsini.",
-    "date": "2026-04-20T10:50:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "1574301362d6f28a186529696ea88360",
-    "feed_name": "New Yorker",
-    "title": "Daphne Rubin-Vega Comes Home",
-    "author": "BySarah Larson",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/daphne-rubin-vega-comes-home",
-    "content": "Strolling through Hell\u2019s Kitchen, the actress recalls old celeb sightings (Jane Fonda! Donald Sutherland!) on her way to playing the swaggering Mr. Zero in \u201cThe Adding Machine,\u201d Off Broadway.",
-    "date": "2026-04-20T10:50:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "69ca4dd1fbf385547a8d32f3e51c2509",
-    "feed_name": "New Yorker",
-    "title": "The Anatomy of a Failure",
-    "author": "ByLauren Collins",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/the-anatomy-of-a-failure",
-    "content": "From spray-on condoms to radioactive wrinkle cream, \u201cFlops?!,\u201d at the Mus\u00e9e des Arts et M\u00e9tiers, in Paris, puts terrible inventions in the spotlight.",
     "date": "2026-04-20T10:50:55",
     "category": "Magazines"
   }
