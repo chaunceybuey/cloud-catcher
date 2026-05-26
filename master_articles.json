@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/26/arts/television/john-barbour-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "John Barbour, Who Played Key Role in the Rise of Reality TV, Dies at 93",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/05/26/arts/television/john-barbour-dead.html",
+    "content": "John Barbour in 1981. Mr. Barbour was a producer and writer of the good-natured series \u201cReal People,\u201d bantering cheerfully about its subjects with the members of an onscreen panel.",
+    "date": "2026-05-26T17:33:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/26/us/ben-morea-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ben Morea, Principal Provocateur of 1960s Anarchist Group, Dies at 84",
+    "author": "Michael S. Rosenwald",
+    "link": "https://www.nytimes.com/2026/05/26/us/ben-morea-dead.html",
+    "content": "Ben Morea in 2016 at an exhibition of his paintings in New York City. He was mostly known for an anarchist-centered activism he called \u201carmed love.\u201d",
+    "date": "2026-05-26T17:16:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/26/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "Find Hokkaido Scallop Wellington From an Atomix Alumnus at 28 Nomad",
@@ -19978,25 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I had no problem using mine with Google Wallet this morning in Enkuizen in the Netherlands.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Okay, that's good. Maybe they fixed it now.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=191671\">kojima</a> \u2014 Mon Apr 20, 2026 7:37 am</p><hr />",
     "date": "2026-04-20T12:37:12",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Administration to Begin Refunding $166 Billion in Tariffs",
-    "author": "Tony Romm and Ana Swanson",
-    "link": "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html",
-    "content": "President Trump opposed tariff refunds until the Court of International Trade intervened in March and ordered the government to return the money to importers.",
-    "date": "2026-04-20T12:09:55",
-    "category": "NYT"
-  },
-  {
-    "id": "7ff8b8148be6c5d49d634e4b785b4780",
-    "feed_name": "LRB",
-    "title": "A Kilo of\u00a0Flour",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/april/a-kilo-of-flour",
-    "content": "My father called from the market to say he needed my help. It was the end of February. Tensions between Israel and Iran were escalating and prices.\u00a0.\u00a0.",
-    "date": "2026-04-20T12:06:29",
-    "category": "Magazines"
   }
 ]
