@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-albums.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sonny Rollins: 12 Essential Albums",
+    "author": "Hank Shteamer",
+    "link": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-albums.html",
+    "content": "Sonny Rollins performing in Nice, France, in 2009.",
+    "date": "2026-05-26T02:57:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Sonny Rollins, Giant of the Jazz Saxophone, Is Dead at 95",
@@ -19988,15 +19998,5 @@
     "content": "<p>TSMC's earnings suggest that the company's leadership is not truly bought into the AI growth story.</p>",
     "date": "2026-04-20T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Why a Democratic Senate, Once Unthinkable, Is a Real Possibility",
-    "author": "Nate Cohn",
-    "link": "https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html",
-    "content": "Mary Peltola could help overcome a brand problem for Democrats in Alaska.",
-    "date": "2026-04-20T09:03:51",
-    "category": "NYT"
   }
 ]
