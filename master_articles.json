@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/26/arts/music/amplifier-newsletter-rolling-stones-grace-ives.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Great Songs I Encountered This Week",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/05/26/arts/music/amplifier-newsletter-rolling-stones-grace-ives.html",
+    "content": "Hear Mick Taylor\u2019s swan song, Grace Ives\u2019s exuberant crushing and a foundational hip-hop sample.",
+    "date": "2026-05-26T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/26/arts/television/john-barbour-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "John Barbour, Who Played Key Role in the Rise of Reality TV, Dies at 93",
@@ -19988,15 +19998,5 @@
     "content": "The jobs are coming back, despite President Trump\u2019s tariffs and harsh immigration enforcement.",
     "date": "2026-04-20T12:54:45",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742738#p8742738",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "kojima",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8742738#p8742738",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I had no problem using mine with Google Wallet this morning in Enkuizen in the Netherlands.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Okay, that's good. Maybe they fixed it now.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=191671\">kojima</a> \u2014 Mon Apr 20, 2026 7:37 am</p><hr />",
-    "date": "2026-04-20T12:37:12",
-    "category": "Finance"
   }
 ]
