@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/26/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Find Hokkaido Scallop Wellington From an Atomix Alumnus at 28 Nomad",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/05/26/dining/nyc-restaurant-news.html",
+    "content": "The Silent Sea brings more seafood to City Island, the Ludlow Room provides more seating for Katz\u2019s and more restaurant news.",
+    "date": "2026-05-26T17:00:44",
+    "category": "NYT"
+  },
+  {
     "id": "cb7230f7626d2d4eec14701a99ea54ec",
     "feed_name": "LRB",
     "title": "Bonfire of the Universities",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/april/a-kilo-of-flour",
     "content": "My father called from the market to say he needed my help. It was the end of February. Tensions between Israel and Iran were escalating and prices.\u00a0.\u00a0.",
     "date": "2026-04-20T12:06:29",
-    "category": "Magazines"
-  },
-  {
-    "id": "7ac521eaf0386f16f4462f6282d681aa",
-    "feed_name": "Compact",
-    "title": "The Marijuana Backlash Is Here",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-marijuana-backlash-is-here/",
-    "content": "",
-    "date": "2026-04-20T12:06:26",
     "category": "Magazines"
   }
 ]
