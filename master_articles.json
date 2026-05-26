@@ -90,6 +90,36 @@
     "category": "Texas"
   },
   {
+    "id": "cb7230f7626d2d4eec14701a99ea54ec",
+    "feed_name": "LRB",
+    "title": "Bonfire of the Universities",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n10/stefan-collini/squadrons-of-pigs",
+    "content": "Britain\u2019s\u200b \u2018world-leading\u2019 university system is in deep trouble. There are, inevitably, conflicting diagnoses of the malady, but the indicators of deteriorating health are too ubiquitous to be ignored. When a substantial number of universities are in serious financial jeopardy, with some hinting at possible bankruptcy in the short term (according to the Office for Students,...",
+    "date": "2026-05-26T15:38:39",
+    "category": "Magazines"
+  },
+  {
+    "id": "3819fe288de7f5fe46d58da4fea63807",
+    "feed_name": "Compact",
+    "title": "Post-Literacy Raised the Stakes of the Odyssey Debate",
+    "author": "",
+    "link": "https://www.compactmag.com/article/post-literacy-raised-the-stakes-of-the-odyssey-debate/",
+    "content": "",
+    "date": "2026-05-26T15:38:07",
+    "category": "Magazines"
+  },
+  {
+    "id": "13e54a3c5604f1ea96e2a38b39f87d47",
+    "feed_name": "Compact",
+    "title": "The Thinker Who Foresaw Pope Leo\u2019s Critique of AI",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-thinker-who-foresaw-pope-leos-critique-of-ai/",
+    "content": "",
+    "date": "2026-05-26T15:38:07",
+    "category": "Magazines"
+  },
+  {
     "id": "6a0f83469e18cc3e8178a595",
     "feed_name": "Wired",
     "title": "The US Can Put People on the Moon. Why Can\u2019t It Get Iranians Online?",
@@ -120,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "87494712cade009030ea0377b6f0c0ef",
+    "feed_name": "The Atlantic",
+    "title": "The Advice I Hope You\u2019ll Never Need",
+    "author": "Zoe Weissman",
+    "link": "https://www.theatlantic.com/ideas/2026/05/i-survived-two-school-shootings/687295/",
+    "content": "I survived two school shootings. This is what I learned.",
+    "date": "2026-05-26T14:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/26/arts/music/daniel-harding-la-philharmonic.html",
     "feed_name": "NYT (Arts)",
     "title": "L.A. Philharmonic Names Daniel Harding as Music Director",
@@ -140,6 +180,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "b738800c69ef507424eb69215b6b1d4b",
+    "feed_name": "The Atlantic",
+    "title": "Where Are America\u2019s Ambassadors?",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/05/american-ambassadors-trump-vacancies/687286/",
+    "content": "Around the world, more than 100 of the country\u2019s ambassadorships are unfilled\u2014a sign of the Trump administration\u2019s opinions about the value of diplomacy.",
+    "date": "2026-05-26T11:18:42",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/arkansas-abortion-ban-miscarriage-care",
     "feed_name": "ProPublica",
     "title": "She Faced a Life-Threatening Miscarriage. Under Arkansas\u2019 Abortion Ban, Even Calls to the Governor\u2019s Office Didn\u2019t Help.",
@@ -156,6 +206,26 @@
     "author": "Molly Taft",
     "link": "https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/",
     "content": "There\u2019s a new front in the war over the safety of chemicals used to make nonstick pans.",
+    "date": "2026-05-26T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "4a307f3d34938704c618132285b60437",
+    "feed_name": "The Atlantic",
+    "title": "The Great Depopulation",
+    "author": "Derek Thompson",
+    "link": "https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/",
+    "content": "Why is the birth rate declining in every country on Earth?",
+    "date": "2026-05-26T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "f2d8074055a263eeceb9d99f1b5e7162",
+    "feed_name": "The Atlantic",
+    "title": "A Sweeping Theory of Everything Is Revolutionizing the Democratic Party",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/05/antitrust-theory-barry-lynn/687287/",
+    "content": "Democrats are in thrall to the idea that corporate consolidation is America\u2019s biggest, and maybe only, problem.",
     "date": "2026-05-26T11:00:00",
     "category": "Magazines"
   },
@@ -19927,76 +19997,6 @@
     "link": "https://www.compactmag.com/article/the-marijuana-backlash-is-here/",
     "content": "",
     "date": "2026-04-20T12:06:26",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742718#p8742718",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "VG81",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8742718#p8742718",
-    "content": "I had no problem using mine with Google Wallet this morning in Enkuizen in the Netherlands.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=186354\">VG81</a> \u2014 Mon Apr 20, 2026 7:04 am</p><hr />",
-    "date": "2026-04-20T12:04:28",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8742691#p8742691",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "kojima",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8742691#p8742691",
-    "content": "A lot of people are having issues with using their Fidelity Rewards Visa Credit Card through Apple Pay / Google Pay. Seems like all wallet transactions outside of the US are being declined, and some within the US are being declined. There are already a few posts about it on Fidelity's subreddit. It's been happening since Friday and to me, this should be an incident that should have been resolved days ago. <br /><br />I know technically Fidelity Credit Card is through Elan but wanted to share it here.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=191671\">kojima</a> \u2014 Mon Apr 20, 2026 5:51 am</p><hr />",
-    "date": "2026-04-20T10:51:59",
-    "category": "Finance"
-  },
-  {
-    "id": "f32134871dd164d12b39a37e8d57f073",
-    "feed_name": "New Yorker",
-    "title": "David Armstrong\u2019s Probing Gaze",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/the-photographer-david-armstrongs-probing-gaze",
-    "content": "Also: Jennifer Tilly in the surreal world of \u201cThe Adding Machine,\u201d New York City Ballet\u2019s spring season, Anne Hathaway and Michaela Coel in \u201cMother Mary,\u201d and more.",
-    "date": "2026-04-20T10:50:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "83b20dc9cd964b4fc1792da143bef18e",
-    "feed_name": "New Yorker",
-    "title": "A Reading List from the Director of the Noguchi Museum",
-    "author": "",
-    "link": "https://www.newyorker.com/books/book-currents/a-reading-list-from-the-director-of-the-noguchi-museum",
-    "content": "Amy Hau discusses some books by Marilyn Chase, Karin Higa, and Edmund de Waal that have guided her work as a curator.",
-    "date": "2026-04-20T10:50:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "e8b263a4aa766b53953fd024574b8912",
-    "feed_name": "New Yorker",
-    "title": "J. D. Vance\u2019s Bumpy Ride",
-    "author": "ByAmy Davidson Sorkin",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/j-d-vances-bumpy-ride",
-    "content": "It wasn\u2019t the first time that Trump had debased someone who serves him. It wasn\u2019t even the first time that Vance had had to downplay a blasphemy-themed A.I. image.",
-    "date": "2026-04-20T10:50:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "cb56a10515ea31509196bd930ad1ff0e",
-    "feed_name": "New Yorker",
-    "title": "The Popes That Trump Might\u2019ve Liked",
-    "author": "ByJane Bua",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/the-popes-that-trump-mightve-liked",
-    "content": "The President thinks Pope Leo XIV is a wuss. Meet some real tough-guy Pontiffs who might have fit the bill.",
-    "date": "2026-04-20T10:50:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "b825b6227df909ebc8274019e91bca25",
-    "feed_name": "New Yorker",
-    "title": "When Soul Food Met Daniel Boulud",
-    "author": "ByZach Helfand",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/when-soul-food-met-daniel-boulud",
-    "content": "The Harlem franchise Charles Pan-Fried Chicken invited a bunch of chefs to take over for the weekend. Up next: oxtails from Lana Lagomarsini.",
-    "date": "2026-04-20T10:50:55",
     "category": "Magazines"
   }
 ]
