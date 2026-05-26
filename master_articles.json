@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/26/theater/dreyfus-harris-janney-keery-other-desert-cities-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Julia Louis-Dreyfus to Star in \u2018Other Desert Cities\u2019 on Broadway",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/05/26/theater/dreyfus-harris-janney-keery-other-desert-cities-broadway.html",
+    "content": "Louis-Dreyfus, photographed earlier this month at the Cannes film festival, will be making her Broadway debut in the play.",
+    "date": "2026-05-26T14:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/26/arts/music/daniel-harding-la-philharmonic.html",
     "feed_name": "NYT (Arts)",
     "title": "L.A. Philharmonic Names Daniel Harding as Music Director",
@@ -19986,16 +19996,6 @@
     "author": "ByLauren Collins",
     "link": "https://www.newyorker.com/magazine/2026/04/27/the-anatomy-of-a-failure",
     "content": "From spray-on condoms to radioactive wrinkle cream, \u201cFlops?!,\u201d at the Mus\u00e9e des Arts et M\u00e9tiers, in Paris, puts terrible inventions in the spotlight.",
-    "date": "2026-04-20T10:50:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "743cf47cfa196ccbc13ecd42493690ac",
-    "feed_name": "New Yorker",
-    "title": "When Your Digital Life Vanishes",
-    "author": "ByJulian Lucas",
-    "link": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
-    "content": "A broken phone or corrupted drive can mean the loss of work, evidence, art, or the last traces of the dead. But sometimes data-recovery experts can summon lost files from the void.",
     "date": "2026-04-20T10:50:55",
     "category": "Magazines"
   }
