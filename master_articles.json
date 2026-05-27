@@ -90,6 +90,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231376",
+    "feed_name": "Texas Tribune",
+    "title": "\u201cThe last of the gentlemen Republicans\u201d: John Cornyn\u2019s four-decade political career ends with a MAGA uprising",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17349038/john-cornyn-texas-senator-paxton-maga-loss-legacy",
+    "content": "U.S.  Sen. John Cornyn at a campaign stop in Corpus Christi on Friday, May 22, 2026.",
+    "date": "2026-05-27T01:08:57",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231118",
+    "feed_name": "Texas Tribune",
+    "title": "Paxton-backed Thomas Smith defeats Alison Fox in GOP runoff for Texas\u2019 highest criminal court",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17349039/texas-court-criminal-appeals-republican-primary-runoff-result-2026",
+    "content": "The all-Republican Court of Criminal Appeals has undergone extensive turnover since AG Ken Paxton began targeting incumbent judges.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17349039.gif\" width=\"1\" />",
+    "date": "2026-05-27T01:06:34",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231095",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton defeats John Cornyn for U.S. Senate GOP nomination",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17349040/texas-john-cornyn-ken-paxton-us-senate-republican-primary-runoff",
+    "content": "Attorney General Ken Paxton, candidate for U.S. Senate, speaks during a campaign rally at Midway BBQ, on May 20, 2026, in Katy.",
+    "date": "2026-05-27T01:05:14",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231087",
     "feed_name": "Texas Tribune",
     "title": "Christian Menefee defeats longtime Houston Rep. Al Green in Texas\u2019 new 18th Congressional District",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html",
     "content": "La Marzocco espresso machines have become a status symbol for coffee shops across the United States.",
     "date": "2026-04-20T15:41:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/nyregion/new-york-chess-kids.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Day in the Life of New York City\u2019s Young Chess Stars",
-    "author": "Emily Belz and Sara Naomi Lewkowicz",
-    "link": "https://www.nytimes.com/2026/04/20/nyregion/new-york-chess-kids.html",
-    "content": "Ayden Spellman, 11, is one of the top young chess players in New York City.",
-    "date": "2026-04-20T15:20:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Why Gas Prices Go Up Fast and Take So Long to Fall",
-    "author": "Lydia DePillis",
-    "link": "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html",
-    "content": "Oil prices climbed in recent weeks to the highest level since 2022. Gas station owners don\u2019t like price spikes any more than their customers do.",
-    "date": "2026-04-20T15:19:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/science/cocaine-salmon-sweden.html",
-    "feed_name": "NYT (Shared)",
-    "title": "These Salmon Got High on Cocaine. That Wasn\u2019t the Craziest Part.",
-    "author": "Annie Roth",
-    "link": "https://www.nytimes.com/2026/04/20/science/cocaine-salmon-sweden.html",
-    "content": "Scientists in Sweden made an unexpected discovery when they exposed the fish to the illegal drug as well as another substance.",
-    "date": "2026-04-20T15:00:21",
     "category": "NYT"
   }
 ]
