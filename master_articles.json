@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231133",
+    "feed_name": "Texas Tribune",
+    "title": "Colin Allred tops Julie Johnson in redistricting-driven runoff battle of Dallas Democrats",
+    "author": "Olivia Borgula",
+    "link": "https://feeds.texastribune.org/link/16799/17349082/texas-colin-allred-julie-johnson-congress-district-33-democratic-primary-runoff",
+    "content": "Colin Allred at the Dallas County Democratic office on Dec. 8, 2025.",
+    "date": "2026-05-27T03:12:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/26/arts/television/summer-house-reunion-takeaways.html",
     "feed_name": "NYT (Arts)",
     "title": "4 Takeaways From the \u2018Summer House\u2019 Season 10 Reunion",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html",
     "content": "The military is investigating the soldier. Prime Minister Benjamin Netanyahu expressed regret for any hurt caused to \u201cbelievers in Lebanon and around the world.\u201d",
     "date": "2026-04-20T17:08:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/business/media/white-house-correspondents-dinner-trump.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The President Is Coming to the White House Correspondents\u2019 Dinner",
-    "author": "Michael M. Grynbaum",
-    "link": "https://www.nytimes.com/2026/04/20/business/media/white-house-correspondents-dinner-trump.html",
-    "content": "President Trump has sued ABC News, CBS News, The Wall Street Journal and The New York Times, among other news organizations since the run-up to the 2024 election.",
-    "date": "2026-04-20T16:47:13",
     "category": "NYT"
   }
 ]
