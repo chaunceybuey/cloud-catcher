@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231098",
+    "feed_name": "Texas Tribune",
+    "title": "Mayes Middleton defeats Chip Roy for Texas attorney general GOP nomination",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17349070/mayes-middleton-chip-roy-texas-republican-runoff-attorney-general",
+    "content": "State Sen. Mayes Middleton, R-Galveston, speaks at a debate hosted by the Republican Attorneys General Association (RAGA) at the Grenada Theater in Dallas on February 17, 2026.",
+    "date": "2026-05-27T01:59:03",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231327",
+    "feed_name": "Texas Tribune",
+    "title": "Vikki Goodwin defeats Houston union leader in lieutenant governor Democratic runoff",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17349063/texas-lieutenant-governor-democratic-primary-runoff-vikki-goodwin-marcos-velez",
+    "content": "State Rep. Vikki Goodwin speaks during the Rally for Flood Relief hosted by Hands Off! Central Texas at the Texas Capitol&#039;s south steps on July 21, 2025, in Austin.",
+    "date": "2026-05-27T01:43:47",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231331",
     "feed_name": "Texas Tribune",
     "title": "Tom Sell, Jon Bonck win open GOP primary runoffs for solidly red congressional seats",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/19/theater/fallen-angels-review-byrne-kelli-ohara-broadway.html",
     "content": "Lust is the comic engine driving the action of a riotous revival of one of No\u00ebl Coward\u2019s early plays, with Rose Byrne and Kelli O\u2019Hara, at Todd Haimes Theater.",
     "date": "2026-04-20T16:33:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/climate/bp-kaskida-drilling-lawsuit.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Environmental Groups Sue to Stop BP Kaskida Drilling Plan",
-    "author": "Lisa Friedman",
-    "link": "https://www.nytimes.com/2026/04/20/climate/bp-kaskida-drilling-lawsuit.html",
-    "content": "The Deepwater Horizon oil rig, operated by BP, burning in the Gulf of Mexico in 2010.",
-    "date": "2026-04-20T16:18:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/science/bruce-kea-beak-alpha.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How Bruce the Parrot Landed Atop the Pecking Order, Without a Beak",
-    "author": "Carl Zimmer",
-    "link": "https://www.nytimes.com/2026/04/20/science/bruce-kea-beak-alpha.html",
-    "content": "The kea gained fame for learning to use a pebble to groom himself. Scientists were astounded by his next innovation.",
-    "date": "2026-04-20T16:18:22",
     "category": "NYT"
   }
 ]
