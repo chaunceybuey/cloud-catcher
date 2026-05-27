@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "07a68e86-e263-486a-895e-6bec51ea72d0",
+    "feed_name": "Economist",
+    "title": "Japan, South Korea and Taiwan are suffering industrial rot",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot",
+    "content": "Artificial intelligence is concealing a China shock",
+    "date": "2026-05-27T14:08:47",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/27/theater/heated-rivalry-parody-theater-off-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "My Starring Role in \u2018Heated Rivalry\u2019 \u2014 for One Night Only",
@@ -19988,15 +19998,5 @@
     "content": "Alex Bores is trying to win a congressional seat to represent part of New York City. Here\u2019s why A.I. executives are funding the effort to stop him.",
     "date": "2026-04-21T11:38:32",
     "category": "NYT"
-  },
-  {
-    "id": "c4d40a4a18e027c50009a2dc5565eafb",
-    "feed_name": "Compact",
-    "title": "The Russiagate Playbook Fails in Bulgaria",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-russiagate-playbook-fails-in-bulgaria/",
-    "content": "",
-    "date": "2026-04-21T11:10:11",
-    "category": "Magazines"
   }
 ]
