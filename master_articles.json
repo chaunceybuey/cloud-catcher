@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/27/theater/heated-rivalry-parody-theater-off-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "My Starring Role in \u2018Heated Rivalry\u2019 \u2014 for One Night Only",
+    "author": "Tim Teeman",
+    "link": "https://www.nytimes.com/2026/05/27/theater/heated-rivalry-parody-theater-off-broadway.html",
+    "content": "Jay Armstrong Johnson, left, as Ilya Rozanov and Jimin Moon as Shane Hollander in the musical spoof of \u201cHeated Rivalry\u201d at the Culture Club in Manhattan.",
+    "date": "2026-05-27T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "c81dc0951fc21b84231ea6f826be8d30",
     "feed_name": "LRB",
     "title": "Agn\u00e8s Varda\u2019s Fruit Salad",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/the-russiagate-playbook-fails-in-bulgaria/",
     "content": "",
     "date": "2026-04-21T11:10:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "69e262d5d39fc3dc2151a576",
-    "feed_name": "Wired",
-    "title": "The Internet\u2019s Favorite Lawyer Says We\u2019re Living Through \u2018Multiple Watergates per Week\u2019",
-    "author": "Katie Drummond",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-legal-eagle-devin-stone/",
-    "content": "Devin Stone turned punchy legal explainers into a YouTube empire. Now he\u2019s warning that the sheer volume of Trump administration scandals is distorting reality itself.",
-    "date": "2026-04-21T10:30:00",
     "category": "Magazines"
   }
 ]
