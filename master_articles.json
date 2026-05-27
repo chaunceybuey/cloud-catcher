@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231087",
+    "feed_name": "Texas Tribune",
+    "title": "Christian Menefee defeats longtime Houston Rep. Al Green in Texas\u2019 new 18th Congressional District",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17349025/texas-18th-congressional-district-democratic-runoff-al-green-christian-menefee",
+    "content": "Houston, Texas: U.S. representative Christian Menefee talks to a voter outside of the Sunnyside Health and Multi-Service Center in Houston, Texas.",
+    "date": "2026-05-27T00:37:20",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/26/theater/broadway-chess-closing-lea-michele.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Chess\u2019 Will Close With Lea Michele\u2019s Departure, in a Change of Plans",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/science/cocaine-salmon-sweden.html",
     "content": "Scientists in Sweden made an unexpected discovery when they exposed the fish to the illegal drug as well as another substance.",
     "date": "2026-04-20T15:00:21",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Justices to Hear Case on Catholic Preschools That Reject Children of Gay Parents",
-    "author": "Ann E. Marimow",
-    "link": "https://www.nytimes.com/2026/04/20/us/politics/supreme-court-catholic-preschools.html",
-    "content": "The Archdiocese of Denver campus in 2023. The archdiocese asked the Supreme Court to reconsider a First Amendment precedent unpopular with conservative Christians.",
-    "date": "2026-04-20T14:52:57",
     "category": "NYT"
   }
 ]
