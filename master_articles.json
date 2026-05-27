@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/26/arts/television/summer-house-reunion-takeaways.html",
+    "feed_name": "NYT (Arts)",
+    "title": "4 Takeaways From the \u2018Summer House\u2019 Season 10 Reunion",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/05/26/arts/television/summer-house-reunion-takeaways.html",
+    "content": "Kyle Cooke and Ciara Miller on the \u201cSummer House\u201d Season 10 reunion.",
+    "date": "2026-05-27T03:01:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231322",
+    "feed_name": "Texas Tribune",
+    "title": "Democrat Johnny Garcia to face Republican Carlos De La Cruz for redrawn Texas district",
+    "author": "Olivia Borgula",
+    "link": "https://feeds.texastribune.org/link/16799/17349079/texas-35th-congressional-district-democrat-republican-primary-runoff",
+    "content": "Democrat Johnny Garcia, left, and Republican Carlos De La Cruz will face off in November for the Texas&#039; 35th Congressional District.",
+    "date": "2026-05-27T02:56:35",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231098",
     "feed_name": "Texas Tribune",
     "title": "Mayes Middleton defeats Chip Roy for Texas attorney general GOP nomination",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/business/media/white-house-correspondents-dinner-trump.html",
     "content": "President Trump has sued ABC News, CBS News, The Wall Street Journal and The New York Times, among other news organizations since the run-up to the 2024 election.",
     "date": "2026-04-20T16:47:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Ukraine, Short on Troops, Is Turning to Robots to Help Its War Efforts",
-    "author": "Maria Varenikova",
-    "link": "https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html",
-    "content": "Ukrainian soldiers training with an unmanned ground vehicle in the Donbas region of eastern Ukraine last year. The country is eager to highlight its advances in technological warfare.",
-    "date": "2026-04-20T16:43:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/19/theater/fallen-angels-review-byrne-kelli-ohara-broadway.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Review: Rose Byrne and Kelli O\u2019Hara Seduce in \u2018Fallen Angels\u2019",
-    "author": "Jason Zinoman",
-    "link": "https://www.nytimes.com/2026/04/19/theater/fallen-angels-review-byrne-kelli-ohara-broadway.html",
-    "content": "Lust is the comic engine driving the action of a riotous revival of one of No\u00ebl Coward\u2019s early plays, with Rose Byrne and Kelli O\u2019Hara, at Todd Haimes Theater.",
-    "date": "2026-04-20T16:33:48",
     "category": "NYT"
   }
 ]
