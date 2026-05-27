@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/27/books/david-henderson-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "David Henderson, Innovative Poet and Hendrix Biographer, Dies at 83",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/05/27/books/david-henderson-dead.html",
+    "content": "Part of the Black Arts Movement of the 1960s, he went on to reclaim a leading musician of the psychedelic era as a distinctly African American artist.",
+    "date": "2026-05-27T21:59:10",
+    "category": "NYT"
+  },
+  {
+    "id": "c80dd25c17e1c5849cb8e2e4bf7c0cc7",
+    "feed_name": "LRB",
+    "title": "Elizabeth Bishop\u2019s Styles: Andrew Dickinson and Peter McDonald",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/elizabeth-bishops-styles-andrew-dickinson-and-peter-mcdonald-tickets-1984474673168",
+    "content": "",
+    "date": "2026-05-27T21:58:17",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
     "feed_name": "Douthat",
     "title": "Pope Leo\u2019s A.I. Vision Might Not Be Strange Enough",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17323159/texas-tesla-lithium-battery-plant-pollution-tceq-robstown-drainage",
     "content": "A Texas Commission on Environmental Quality investigator tested wastewater from Tesla\u2019s Robstown lithium refinery on Feb. 12.",
     "date": "2026-04-21T20:15:40",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/business/economy/us-uae-financial-support.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Considers Financial Support for Oil-Rich U.A.E.",
-    "author": "Alan Rappeport",
-    "link": "https://www.nytimes.com/2026/04/21/business/economy/us-uae-financial-support.html",
-    "content": "President Trump visiting the United Arab Emirates last May.",
-    "date": "2026-04-21T20:02:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227257",
-    "feed_name": "Texas Tribune",
-    "title": "Some Dallas County Republicans trying to revive precinct voting that created chaos in primary",
-    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
-    "link": "https://feeds.texastribune.org/link/16799/17323139/dallas-county-primary-runoff-2026-voting-locations",
-    "content": "Voters line up and are turned away from the Oak Lawn Branch Library voting center on primary election day in Dallas on March 3, 2026.",
-    "date": "2026-04-21T19:26:09",
     "category": "Texas"
   }
 ]
