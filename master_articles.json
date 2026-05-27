@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/27/briefing/the-good-list-nelkin-aggression-cookies.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Some Joy to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/05/27/briefing/the-good-list-nelkin-aggression-cookies.html",
+    "content": "Aggression cookies, dancing the seasons and typing \u2018Mrs. Dalloway.\u2019",
+    "date": "2026-05-27T19:01:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/27/arts/matthew-perry-personal-assistant-ketamine.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Matthew Perry\u2019s Personal Assistant, Kenneth Iwamasa, Sentenced to More Than 3 Years in Prison",
+    "author": "Matt Stevens",
+    "link": "https://www.nytimes.com/2026/05/27/arts/matthew-perry-personal-assistant-ketamine.html",
+    "content": "The actor Matthew Perry was found unresponsive in a hot tub at his home in Los Angeles on Oct. 28, 2023. His assistant had injected him with at least three shots of ketamine that day.",
+    "date": "2026-05-27T18:59:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231272",
     "feed_name": "Texas Tribune",
     "title": "Hill Country ranch with caves, cliffs and lake will become Texas\u2019 second-largest state park",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html",
     "content": "A statue of the crucifixion of Christ has been replaced after one soldier photographed another swinging what looked like a sledgehammer at its head.",
     "date": "2026-04-21T18:24:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/opinion/russia-drones-putin-ukraine-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Putin\u2019s Army of Drones",
-    "author": "Kateryna Bondar",
-    "link": "https://www.nytimes.com/2026/04/21/opinion/russia-drones-putin-ukraine-war.html",
-    "content": "A Russian kamikaze drone in Kyiv, Ukraine, last week.",
-    "date": "2026-04-21T18:18:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/well/fall-prevention.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How Do I Prevent Falls at Home?",
-    "author": "Louisa Kamps",
-    "link": "https://www.nytimes.com/2026/04/21/well/fall-prevention.html",
-    "content": "Dangerous trips and slips can happen to anyone, but they can often be averted by taking a few common-sense steps.",
-    "date": "2026-04-21T17:32:43",
     "category": "NYT"
   }
 ]
