@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231272",
+    "feed_name": "Texas Tribune",
+    "title": "Hill Country ranch with caves, cliffs and lake will become Texas\u2019 second-largest state park",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17349574/texas-new-state-park-silver-lake-hill-country",
+    "content": "Lost Creek winds through Silver Lake Ranch on the border of Kinney and Edwards counties. It will become a 54,000-acre state park, making it the second largest park in Texas behind Big Bend Ranch.",
+    "date": "2026-05-27T17:11:28",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231533",
     "feed_name": "Texas Tribune",
     "title": "One in five Latino Trump voters in Texas would not repeat vote if given redo, poll finds",
@@ -19420,6 +19430,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "These Are the Very Best Scrambled Eggs",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
+    "content": "Kenji L\u00f3pez-Alt\u2019s extra-creamy scrambled eggs are the perfect dinner for busy, scrambled weeknights.",
+    "date": "2026-04-22T15:58:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/04/22/us/politics/cdc-covid-vaccine-study.html",
     "feed_name": "NYT (Shared)",
     "title": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines",
@@ -19978,25 +19998,5 @@
     "content": "In Nayatt School, Spalding Gray played a \u2018pedantic schoolteacher\u2019 and the psychiatrist from The Cocktail Party, using a recording of its.\u00a0.\u00a0.",
     "date": "2026-04-21T17:05:51",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/well/mind/bpd-borderline-personality-disorder.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "What Is Borderline Personality Disorder?",
-    "author": "Christina Caron",
-    "link": "https://www.nytimes.com/2026/04/21/well/mind/bpd-borderline-personality-disorder.html",
-    "content": "Volatile relationships, reckless impulsivity and an unstable identity are hallmarks of this misunderstood mental health condition.",
-    "date": "2026-04-21T15:48:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227239",
-    "feed_name": "Texas Tribune",
-    "title": "Corpus Christi leaders weigh how to reduce customers\u2019 water use amid growing crisis",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17323003/texas-corpus-christi-water-crisis-curtailment-cuts",
-    "content": "Corpus Christi City Manager Peter Zanoni presents to the city council during a meeting on March 17, 2026.",
-    "date": "2026-04-21T15:24:22",
-    "category": "Texas"
   }
 ]
