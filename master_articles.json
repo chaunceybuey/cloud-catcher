@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231331",
+    "feed_name": "Texas Tribune",
+    "title": "Tom Sell, Jon Bonck win open GOP primary runoffs for solidly red congressional seats",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17349051/texas-19th-38th-congressional-district-republican-primary-runoff",
+    "content": "John Bonck, left, and Tom Sell.",
+    "date": "2026-05-27T01:28:45",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=230860",
+    "feed_name": "Texas Tribune",
+    "title": "Alex Mealer wins GOP nomination for new Houston congressional district, defeating state Rep. Briscoe Cain",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17349052/texas-alex-mealer-briscoe-cain-congress-district-9-republican-primary-runoff",
+    "content": "Alexandra del Moral Mealer, a candidate for Harris County judge, poses for a portrait following a forum hosted by the Houston Super Neighborhood Alliance in Houston, Texas, on Oct. 18, 2022.",
+    "date": "2026-05-27T01:19:50",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231376",
     "feed_name": "Texas Tribune",
     "title": "\u201cThe last of the gentlemen Republicans\u201d: John Cornyn\u2019s four-decade political career ends with a MAGA uprising",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/science/bruce-kea-beak-alpha.html",
     "content": "The kea gained fame for learning to use a pebble to groom himself. Scientists were astounded by his next innovation.",
     "date": "2026-04-20T16:18:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/opinion/movies-runtime-long.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Hollywood Movies Like \u2018Project Hail Mary\u2019 Are Too Long These Days",
-    "author": "Frank Bruni",
-    "link": "https://www.nytimes.com/2026/04/20/opinion/movies-runtime-long.html",
-    "content": "\u201cProject Hail Mary\u201d is just the latest overlong blockbuster.",
-    "date": "2026-04-20T16:11:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Ferrari of Espresso Machines Is Fueling a Hot Resale Market",
-    "author": "Priya Krishna",
-    "link": "https://www.nytimes.com/2026/04/20/dining/la-marzocco-espresso-machine.html",
-    "content": "La Marzocco espresso machines have become a status symbol for coffee shops across the United States.",
-    "date": "2026-04-20T15:41:19",
     "category": "NYT"
   }
 ]
