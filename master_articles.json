@@ -160,6 +160,16 @@
     "category": "Magazines"
   },
   {
+    "id": "d7aff9830f7c2a083bc36a295c0cab68",
+    "feed_name": "The Atlantic",
+    "title": "John Cornyn Lost With His Boots Off",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/05/texas-senate-trump-paxton-cornyn/687327/",
+    "content": "Like fellow Republicans exiled by the president, he still accepted Trump\u2019s claim to inhabit the will of the party.",
+    "date": "2026-05-27T14:03:07",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/27/theater/heated-rivalry-parody-theater-off-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "My Starring Role in \u2018Heated Rivalry\u2019 \u2014 for One Night Only",
@@ -168,6 +178,16 @@
     "content": "Jay Armstrong Johnson, left, as Ilya Rozanov and Jimin Moon as Shane Hollander in the musical spoof of \u201cHeated Rivalry\u201d at the Culture Club in Manhattan.",
     "date": "2026-05-27T14:00:05",
     "category": "NYT"
+  },
+  {
+    "id": "c8661f2f21864b9a1a7ffd40e64cc9fa",
+    "feed_name": "The Atlantic",
+    "title": "The Pope Grasps the Limits of AI",
+    "author": "Elizabeth Bruenig",
+    "link": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-catholic-church/687298/",
+    "content": "The Vatican\u2019s encyclical is actually about what technology can never do.",
+    "date": "2026-05-27T13:45:00",
+    "category": "Magazines"
   },
   {
     "id": "c81dc0951fc21b84231ea6f826be8d30",
@@ -19978,25 +19998,5 @@
     "content": "Corpus Christi City Manager Peter Zanoni presents to the city council during a meeting on March 17, 2026.",
     "date": "2026-04-21T15:24:22",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "These Are the Very Best Scrambled Eggs",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
-    "content": "Kenji L\u00f3pez-Alt\u2019s extra-creamy scrambled eggs are the perfect dinner for busy, scrambled weeknights.",
-    "date": "2026-04-21T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
-    "author": "Douglas Martin",
-    "link": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
-    "content": "Desmond Morris in 1956 with the chimpanzees Congo and Charlie on the show \u201cZoo Time,\u201d a Granada Television series he hosted about animals at the London Zoo.",
-    "date": "2026-04-21T14:56:39",
-    "category": "NYT"
   }
 ]
