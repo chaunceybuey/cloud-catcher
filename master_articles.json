@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/27/arts/television/jimmy-kimmel-trump-son-wedding.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Slams Trump for Missing His Son\u2019s Wedding",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/27/arts/television/jimmy-kimmel-trump-son-wedding.html",
+    "content": "\u201cIt was a small ceremony with about 40 guests, none of whom were his father,\u201d the late-night host said of Donald Trump Jr.\u2019s wedding in the Bahamas over the weekend.",
+    "date": "2026-05-27T05:30:55",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231333",
+    "feed_name": "Texas Tribune",
+    "title": "Bo French declares victory over Railroad Commissioner Jim Wright in GOP primary runoff",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17349124/texas-railroad-commission-republican-primary-runoff-wright-french",
+    "content": "Bo French speaks at a Lone Star Liberty PAC rally at The Angry Elephant in San Antonio on Thursday, May 21, 2025.",
+    "date": "2026-05-27T05:13:45",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231460",
     "feed_name": "Texas Tribune",
     "title": "Incumbent Rep. Hubert Vo defeated in Democratic runoff",
@@ -19978,25 +19998,5 @@
     "content": "Attorney General Ken Paxton is suing ActBlue, a Democratic fundraising platform.",
     "date": "2026-04-20T17:46:36",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227085",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Democrats feud over party leadership as hundreds back Kendall Scudder\u2019s chairmanship",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17322408/kendall-scudder-texas-democrats-letter",
-    "content": "Newly elected Texas Democratic Party Chair Kendall Scudder addresses attendees at a town hall event in McAllen on April 12, 2025. The event organizers invited CD-15 Congresswoman Monica De La Cruz to the event, but she did not attend.",
-    "date": "2026-04-20T17:39:04",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Administration Takes Steps to Refund $166 Billion in Tariffs",
-    "author": "Tony Romm and Ana Swanson",
-    "link": "https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html",
-    "content": "President Trump opposed tariff refunds until the Court of International Trade intervened in March and ordered the government to return the money to importers.",
-    "date": "2026-04-20T17:10:17",
-    "category": "NYT"
   }
 ]
