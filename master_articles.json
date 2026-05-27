@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
+    "feed_name": "Douthat",
+    "title": "Pope Leo\u2019s A.I. Vision Might Not Be Strange Enough",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
+    "content": "He is both a critic and a normalizer of the technology.",
+    "date": "2026-05-27T21:00:02",
+    "category": "NYT"
+  },
+  {
     "id": "c5c2a31c-9c9e-4bdc-ab2f-d141c8833058",
     "feed_name": "Economist",
     "title": "Kevin Warsh\u2019s troublesome inflation in-tray",
@@ -19988,15 +19998,5 @@
     "content": "Voters line up and are turned away from the Oak Lawn Branch Library voting center on primary election day in Dallas on March 3, 2026.",
     "date": "2026-04-21T19:26:09",
     "category": "Texas"
-  },
-  {
-    "id": "25f6e526-5a16-4b54-b677-4af03725c2b4",
-    "feed_name": "Economist",
-    "title": "The stablecoin market has got too stable",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/21/the-stablecoin-market-has-got-too-stable",
-    "content": "Rapid growth in dollar-backed cryto has stalled",
-    "date": "2026-04-21T19:10:20",
-    "category": "Magazines"
   }
 ]
