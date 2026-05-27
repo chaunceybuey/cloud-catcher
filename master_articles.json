@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231533",
+    "feed_name": "Texas Tribune",
+    "title": "One in five Latino Trump voters in Texas would not repeat vote if given redo, poll finds",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17349524/texas-latino-voters-poll-trump-republican-support-2026-midterms",
+    "content": "People hold political signs in support of the Trump/Vance ticket as voters wait in line at Lark Branch Library in McAllen on Oct. 22, 2024.",
+    "date": "2026-05-27T16:01:47",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/27/arts/music/may-festival-julia-bullock.html",
+    "feed_name": "NYT (Arts)",
+    "title": "This Year at the May Festival, Julia Bullock Took Charge",
+    "author": "Jeremy Reynolds",
+    "link": "https://www.nytimes.com/2026/05/27/arts/music/may-festival-julia-bullock.html",
+    "content": "Julia Bullock at Music Hall in Cincinnati.",
+    "date": "2026-05-27T15:45:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/05/texas-senate-trump-paxton-cornyn/687327/",
     "feed_name": "Chait",
     "title": "John Cornyn Lost With His Boots Off",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
     "content": "Desmond Morris in 1956 with the chimpanzees Congo and Charlie on the show \u201cZoo Time,\u201d a Granada Television series he hosted about animals at the London Zoo.",
     "date": "2026-04-21T14:56:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Older Americans Are Hoarding America\u2019s Potential",
-    "author": "Samuel Moyn",
-    "link": "https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html",
-    "content": "Older Americans need incentives to give up accumulated housing, jobs and wealth.",
-    "date": "2026-04-21T14:44:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A Year After U.S.A.I.D.\u2019s Death, Fired Workers Find Few Jobs and Much Loss",
-    "author": "Elisabeth Bumiller and Eileen Sullivan",
-    "link": "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html",
-    "content": "People have plowed through savings, cashed out retirement funds and moved in with relatives. Former U.S.A.I.D. workers estimate that less than half have found full-time work.",
-    "date": "2026-04-21T14:10:24",
     "category": "NYT"
   }
 ]
