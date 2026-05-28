@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231775",
+    "feed_name": "Texas Tribune",
+    "title": "U.S. Supreme Court settles long-running Texas-New Mexico water dispute over Rio Grande",
+    "author": "By Susan Montoya Bryan,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17350409/texas-new-mexico-rio-grande-water-dispute-supreme-court-settlement",
+    "content": "The Rio Grande near Las Cruces, New Mexico.",
+    "date": "2026-05-28T22:22:20",
+    "category": "Texas"
+  },
+  {
     "id": "0fed81f211ddc0ddbcc51f8b301a5912",
     "feed_name": "LRB",
     "title": "June Late Shopping Evening",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html",
     "content": "It\u2019s not just because of A.I. This started 40 years ago.",
     "date": "2026-04-22T18:28:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
-    "feed_name": "NYT (Shared)",
-    "title": "To Iran, Trump Blinked First by Extending the Cease-Fire",
-    "author": "Erika Solomon",
-    "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
-    "content": "An Iran expert said the major impediment to negotiations restarting was the same as it was before talks \u2014 both countries see themselves as having the advantage.",
-    "date": "2026-04-22T16:21:49",
     "category": "NYT"
   }
 ]
