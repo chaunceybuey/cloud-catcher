@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/dining/shrimp-and-white-beans-but-on-vacation.html",
+    "feed_name": "NYT (Food)",
+    "title": "Shrimp and White Beans, but on Vacation",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/05/28/dining/shrimp-and-white-beans-but-on-vacation.html",
+    "content": "Kay Chun\u2019s garlicky shrimp with summer squash and beans.",
+    "date": "2026-05-28T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/28/arts/design/firelei-baez-hauser-wirth-exhibition.html",
     "feed_name": "NYT (Arts)",
     "title": "Firelei B\u00e1ez Harvests Trickster Energy to Remap Stories of the World",
@@ -19986,16 +19996,6 @@
     "author": "Eleanor Klibanoff",
     "link": "https://feeds.texastribune.org/link/16799/17323495/texas-2026-attorney-general-runoff-chip-roy-mayes-middleton-q-and-a",
     "content": "From left: Chip Roy and Mayes Middleton, Republican Candidates for Texas attorney general.",
-    "date": "2026-04-22T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227375",
-    "feed_name": "Texas Tribune",
-    "title": "Baylor University defies conservative reputation by hosting opposing political events",
-    "author": "By Sam Shaw,\u00a0The Waco Bridge",
-    "link": "https://feeds.texastribune.org/link/16799/17323496/tpusa-baylor-university-lgbtq-alternative-event",
-    "content": "Pat Neff Hall at one end of the Founders Mall on the campus of Baylor University in Waco on Dec. 23, 2020.",
     "date": "2026-04-22T10:00:00",
     "category": "Texas"
   }
