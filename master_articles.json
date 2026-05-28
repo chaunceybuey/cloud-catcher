@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "0fed81f211ddc0ddbcc51f8b301a5912",
+    "feed_name": "LRB",
+    "title": "June Late Shopping Evening",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/june-late-shopping-evening-tickets-1988843991918",
+    "content": "",
+    "date": "2026-05-28T21:56:29",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231763",
+    "feed_name": "Texas Tribune",
+    "title": "Austin ISD\u2019s bid to avoid state takeover rejected by Texas Education Agency",
+    "author": "Acacia Coronado",
+    "link": "https://feeds.texastribune.org/link/16799/17350374/austin-isds-bid-to-avoid-state-takeover-rejected-by-texas-education-agency",
+    "content": "Webb Middle School in Austin on Jan. 5, 2026.",
+    "date": "2026-05-28T21:42:53",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html",
     "feed_name": "NYT (Arts)",
     "title": "Young MC and Morris Day Pull Out of Freedom 250 Concerts",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
     "content": "An Iran expert said the major impediment to negotiations restarting was the same as it was before talks \u2014 both countries see themselves as having the advantage.",
     "date": "2026-04-22T16:21:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/arts/design/lacma-david-geffen-galleries.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Inside LACMA\u2019s Eye-Popping New Home, How Do You Find the Art?",
-    "author": "Holland Cotter and Jennelle Fong",
-    "link": "https://www.nytimes.com/2026/04/22/arts/design/lacma-david-geffen-galleries.html",
-    "content": "Our critic calls the David Geffen Galleries \u201ca beacon of glam with brains.\u201d As a space to show art, it has problems. The Latino art is a revelation (if you can navigate the maze).",
-    "date": "2026-04-22T16:19:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/us/politics/bessent-support-emirates.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Bessent Backs Financial Support for Oil-Rich U.A.E.",
-    "author": "Alan Rappeport",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/bessent-support-emirates.html",
-    "content": "Treasury Secretary Scott Bessent testified on Capitol Hill on Wednesday.",
-    "date": "2026-04-22T16:00:28",
     "category": "NYT"
   }
 ]
