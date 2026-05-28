@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Young MC and Morris Day Pull Out of Freedom 250 Concerts",
+    "author": "Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html",
+    "content": "\u201cI have informed my agents that I will not be performing,\u201d the rapper Young MC said about Freedom 250.",
+    "date": "2026-05-28T20:32:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/28/dining/the-dream-of-a-50-dinner-is-still-alive-at-these-restaurants.html",
     "feed_name": "NYT (Food)",
     "title": "The Dream of a $50 Dinner Is Still Alive at These Restaurants",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/us/politics/bessent-support-emirates.html",
     "content": "Treasury Secretary Scott Bessent testified on Capitol Hill on Wednesday.",
     "date": "2026-04-22T16:00:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "These Are the Very Best Scrambled Eggs",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
-    "content": "Kenji L\u00f3pez-Alt\u2019s extra-creamy scrambled eggs are the perfect dinner for busy, scrambled weeknights.",
-    "date": "2026-04-22T15:58:11",
     "category": "NYT"
   }
 ]
