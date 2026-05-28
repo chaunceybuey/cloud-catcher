@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/arts/design/florentina-holzinger-pentecost-play-vienna.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Florentina Holzinger\u2019s 9-Hour Spectacle Pushes the Limits of Body Art",
+    "author": "Valeriya Safronova",
+    "link": "https://www.nytimes.com/2026/05/28/arts/design/florentina-holzinger-pentecost-play-vienna.html",
+    "content": "The choreographer-provocateur followed a hit show at the Venice Biennale with one in Vienna. \u201cViolence is something we\u2019re used to,\u201d she said.",
+    "date": "2026-05-28T10:32:21",
+    "category": "NYT"
+  },
+  {
+    "id": "6a172049235be46da31f1f0e",
+    "feed_name": "Wired (Science)",
+    "title": "These Ebola Researchers Are Stuck in US Due to Trump\u2019s Funding Cuts",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
+    "content": "The Centers for Research in Emerging Infectious Diseases were launched during the Covid-19 pandemic. The group lost its funding under Trump in part due to conspiracy theories.",
+    "date": "2026-05-28T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=19146",
     "feed_name": "Stratechery",
     "title": "An Interview with Eric Seufert About Models and Ads, and AI\u2019s Upside for Humanity",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/us/california-hospice-fraud.html",
     "content": "Dr. Mehmet Oz, the former talk show host who now runs the Centers for Medicare and Medicaid Services, has been an outspoken emissary of the Trump administration\u2019s campaign against California.",
     "date": "2026-04-22T09:01:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "4 Medications That May Increase Dementia Risk",
-    "author": "Dana G. Smith",
-    "link": "https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html",
-    "content": "Experts have flagged several over-the-counter and prescription medications.",
-    "date": "2026-04-22T09:00:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/opinion/graham-platner-forever-war-trump.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Graham Platner Went to Hell and Back. He Has a Simple Message for Democrats.",
-    "author": "Ben Rhodes",
-    "link": "https://www.nytimes.com/2026/04/22/opinion/graham-platner-forever-war-trump.html",
-    "content": "Graham Platner",
-    "date": "2026-04-22T09:00:41",
     "category": "NYT"
   }
 ]
