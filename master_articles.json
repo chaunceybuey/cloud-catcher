@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231651",
+    "feed_name": "Texas Tribune",
+    "title": "Camp Mystic chief health officer barred from direct patient care by Texas nursing board",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17349812/texas-camp-mystic-nursing-license-restrictions-patient-care",
+    "content": "Mary Liz Eastland, Camp Mystic\u2019s chief health officer, is questioned on April 14, 2026, during a hearing in the 459th State District Court in Austin regarding lawsuits filed against the camp.",
+    "date": "2026-05-27T23:56:14",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/27/books/david-henderson-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "David Henderson, Innovative Poet and Hendrix Biographer, Dies at 83",
@@ -19988,15 +19998,5 @@
     "content": "Republicans have built a small advantage from the gerrymandering clash so far, but Virginia voters could change that.",
     "date": "2026-04-21T20:26:16",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227272",
-    "feed_name": "Texas Tribune",
-    "title": "Testing finds toxic metals where Tesla lithium refinery discharges wastewater in South Texas",
-    "author": "By Arcelia Martin,\u00a0Inside Climate News",
-    "link": "https://feeds.texastribune.org/link/16799/17323159/texas-tesla-lithium-battery-plant-pollution-tceq-robstown-drainage",
-    "content": "A Texas Commission on Environmental Quality investigator tested wastewater from Tesla\u2019s Robstown lithium refinery on Feb. 12.",
-    "date": "2026-04-21T20:15:40",
-    "category": "Texas"
   }
 ]
