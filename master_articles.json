@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/movies/documentaries-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Three Great Documentaries to Stream",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/05/28/movies/documentaries-streaming.html",
+    "content": "In \u201c12 Days,\u201d the director Raymond Depardon every so often folds in exterior images among the scenes of judges interviewing psychiatric patients.",
+    "date": "2026-05-28T15:36:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/28/dining/shrimp-and-white-beans-but-on-vacation.html",
     "feed_name": "NYT (Food)",
     "title": "Shrimp and White Beans, but on Vacation",
@@ -19986,16 +19996,6 @@
     "author": "Alex Nguyen",
     "link": "https://feeds.texastribune.org/link/16799/17323494/texas-houston-city-council-ice-cooperation-amendment",
     "content": "People gather during a protest against U.S. Immigration and Customs Enforcement at Houston City Hall on Jan. 10, 2026",
-    "date": "2026-04-22T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227081",
-    "feed_name": "Texas Tribune",
-    "title": "Texas AG runoff: Mayes Middleton and Chip Roy weigh in on election integrity, lawsuits and more",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17323495/texas-2026-attorney-general-runoff-chip-roy-mayes-middleton-q-and-a",
-    "content": "From left: Chip Roy and Mayes Middleton, Republican Candidates for Texas attorney general.",
     "date": "2026-04-22T10:00:00",
     "category": "Texas"
   }
