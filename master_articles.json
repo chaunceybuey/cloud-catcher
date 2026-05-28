@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=231791",
+    "feed_name": "Texas Tribune",
+    "title": "From Cornyn to Paxton: How Trump helped accelerate the Texas GOP\u2019s transformation",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17350430/texas-donald-trump-endorsement-ken-paxton-john-cornyn-gop-remaking",
+    "content": "President Donald Trump, center, greets Texas Attorney General Ken Paxton, with Texas Lt. Gov. Dan Patrick, right, at Austin-Bergstrom International Airport on Nov. 20, 2019.",
+    "date": "2026-05-28T22:56:06",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231775",
     "feed_name": "Texas Tribune",
     "title": "U.S. Supreme Court settles long-running Texas-New Mexico water dispute over Rio Grande",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html",
     "content": "The main campus of the National Institutes of Health, in Bethesda, Md.",
     "date": "2026-04-22T18:42:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html",
-    "feed_name": "NYT (Shared)",
-    "title": "There\u2019s Another Reason Gen Z Can\u2019t Find Work",
-    "author": "Jessica Grose",
-    "link": "https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html",
-    "content": "It\u2019s not just because of A.I. This started 40 years ago.",
-    "date": "2026-04-22T18:28:22",
     "category": "NYT"
   }
 ]
