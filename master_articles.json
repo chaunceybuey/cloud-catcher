@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/online/2026/05/20/trump-v-trump-anti-weaponization-fund/",
+    "feed_name": "NYRB",
+    "title": "Trump v. Trump",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/05/20/trump-v-trump-anti-weaponization-fund/",
+    "content": "What happens when a president sues himself?\n\nDelivered by PolitePaul service",
+    "date": "2026-05-28T13:18:48",
+    "category": "Magazines"
+  },
+  {
     "id": "2e7dbce79826a2b847bd9eac58dd650d",
     "feed_name": "Compact",
     "title": "Title IX\u2019s Collision Course with Reality",
@@ -19988,15 +19998,5 @@
     "content": "<p>The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.</p>",
     "date": "2026-04-22T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Dark Skies and Dark Energy Converge in West Texas",
-    "author": "Katrina Miller and Emily Elconin",
-    "link": "https://www.nytimes.com/2026/04/22/science/astronomy-hetdex-dark-sky-energy.html",
-    "content": "In the Big Bend region, a portal to the early universe is enabled by the largest dark-sky reserve on Earth.",
-    "date": "2026-04-22T09:02:01",
-    "category": "NYT"
   }
 ]
