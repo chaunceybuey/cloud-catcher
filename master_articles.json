@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/theater/book-of-mormon-broadway-fire-reopening.html",
+    "feed_name": "NYT (Arts)",
+    "title": "3 Weeks After Fire, \u2018The Book of Mormon\u2019 Reopens on Broadway",
+    "author": "Michael Paulson and Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/05/28/theater/book-of-mormon-broadway-fire-reopening.html",
+    "content": "The Eugene O\u2019Neill Theater required repair work after an electrical fire.",
+    "date": "2026-05-28T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/online/2026/05/20/trump-v-trump-anti-weaponization-fund/",
     "feed_name": "NYRB",
     "title": "Trump v. Trump",
@@ -19988,15 +19998,5 @@
     "content": "At home in Weslaco, Stephanie Villarreal, 32, shows her 10-month-old daughter Kalianna Villarreal her dad on a video call from a detention center in Laredo.",
     "date": "2026-04-22T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=18847",
-    "feed_name": "Stratechery",
-    "title": "John Ternus and Apple\u2019s Hardware-Defined Future, SpaceXAI and Cursor",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/",
-    "content": "<p>The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.</p>",
-    "date": "2026-04-22T10:00:00",
-    "category": "Tech"
   }
 ]
