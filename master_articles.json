@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/dining/the-dream-of-a-50-dinner-is-still-alive-at-these-restaurants.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Dream of a $50 Dinner Is Still Alive at These Restaurants",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/05/28/dining/the-dream-of-a-50-dinner-is-still-alive-at-these-restaurants.html",
+    "content": "The cost of a meal at Lovely Day in NoLIta hasn\u2019t changed much since it opened in 2002.",
+    "date": "2026-05-28T20:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "607a3de4f7da0e339c1eaf53173248ef",
     "feed_name": "The Atlantic",
     "title": "Words of War",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/21/dining/these-are-the-very-best-scrambled-eggs.html",
     "content": "Kenji L\u00f3pez-Alt\u2019s extra-creamy scrambled eggs are the perfect dinner for busy, scrambled weeknights.",
     "date": "2026-04-22T15:58:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/us/politics/cdc-covid-vaccine-study.html",
-    "feed_name": "NYT (Shared)",
-    "title": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines",
-    "author": "Apoorva Mandavilli",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/cdc-covid-vaccine-study.html",
-    "content": "A Health Department official said Dr. Jay Bhattacharya had met with the study\u2019s authors but that they had not wanted to change its design.",
-    "date": "2026-04-22T15:08:16",
     "category": "NYT"
   }
 ]
