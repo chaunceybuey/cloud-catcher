@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/movies/power-ballad-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Power Ballad\u2019 Review: Hitting All the Wrong Notes",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/05/28/movies/power-ballad-review.html",
+    "content": "There are some promising themes in this comedy-drama about an American musician in Dublin, featuring Nick Jonas and Paul Rudd, but the movie never develops them.",
+    "date": "2026-05-28T16:00:39",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231636",
+    "feed_name": "Texas Tribune",
+    "title": "East Texas could be the key to developing critical lithium supply for the U.S. military",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17350019/bill-east-texas-lithium-mining",
+    "content": "Benjamin MacLean performs a lithium carbonate test at the EnergyX science headquarters in Austin on May 21, 2026.",
+    "date": "2026-05-28T16:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/28/movies/documentaries-streaming.html",
     "feed_name": "NYT (Arts)",
     "title": "Three Great Documentaries to Stream",
@@ -198,6 +218,36 @@
     "content": "<p>An Interview with Eric Seufert about building models for generative AI, why Meta's foundational models are so important, and why understanding advertising leads to optimism about humanity's future.</p>",
     "date": "2026-05-28T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231524",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 discipline push sends kids to \u2018jail-like\u2019 campuses",
+    "author": "By Sarah\u00a0Butrymowicz\u00a0The Hechinger Report",
+    "link": "https://feeds.texastribune.org/link/16799/17350020/texas-school-discipline-push-drives-kids-to-jail-like-campuses",
+    "content": "After distributing flyers about a protest against Immigration and Customs Enforcement at his high school, Jordan Comfort was suspended and then assigned to a Disciplinary Alternative Education Program for six weeks.",
+    "date": "2026-05-28T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231082",
+    "feed_name": "Texas Tribune",
+    "title": "Texas prisoners face new book ban after hundreds test positive for synthetic drugs",
+    "author": "Zahiyah Carter",
+    "link": "https://feeds.texastribune.org/link/16799/17350021/texas-prison-ban-hardback-used-books",
+    "content": "Alexis Page, an administrative assistant, scans mailed-in books for possible contraband at the Texas Department of Criminal Justice&#039;s Wynne Unit in Huntsville on May 21, 2026.",
+    "date": "2026-05-28T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=231663",
+    "feed_name": "Texas Tribune",
+    "title": "Texas using DPS records to confirm citizenship of voters flagged by federal database",
+    "author": "By Natalia Contreras, VOTEBEAT AND THE TEXAS TRIBUNE",
+    "link": "https://feeds.texastribune.org/link/16799/17350022/texas-save-database-potential-noncitizens-voter-rolls-dps",
+    "content": "The Texas Department of Public Safety Region II Headquarters on Oct. 1, 2025, in Houston.",
+    "date": "2026-05-28T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "9fa90241-4fd0-471f-aca6-1eac4c9dea3a",
@@ -19948,55 +19998,5 @@
     "content": "The president is one of a kind.",
     "date": "2026-04-22T13:05:58",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html",
-    "feed_name": "NYT (Shared)",
-    "title": "In Virginia Redistricting Win, Democrats Play Hardball to Thwart Trump",
-    "author": "Kellen Browning",
-    "link": "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html",
-    "content": "Signs in support of the Virginia redistricting referendum at a polling location at Nottingham Elementary School in Arlington, Va., on Tuesday.",
-    "date": "2026-04-22T12:47:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/arts/music/dave-mason-dead.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Dave Mason, Songwriter Who Co-Founded Traffic, Dies at 79",
-    "author": "Jim Farber",
-    "link": "https://www.nytimes.com/2026/04/22/arts/music/dave-mason-dead.html",
-    "content": "Dave Mason performing in Chicago in 1980.",
-    "date": "2026-04-22T11:46:11",
-    "category": "NYT"
-  },
-  {
-    "id": "2229a9d3af0ea7ab3e1de3b41444a324",
-    "feed_name": "Compact",
-    "title": "Heinrich Heine Answered the Jewish Question",
-    "author": "",
-    "link": "https://www.compactmag.com/article/heinrich-heine-answered-the-jewish-question/",
-    "content": "",
-    "date": "2026-04-22T11:08:26",
-    "category": "Magazines"
-  },
-  {
-    "id": "69d4ff57cb9e23f493c78304",
-    "feed_name": "Wired (Science)",
-    "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
-    "content": "A WIRED review of permits for data center projects using natural gas and linked to OpenAI, Meta, Microsoft, and xAI shows they could emit more than 129 million tons of greenhouse gases per year.",
-    "date": "2026-04-22T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227332",
-    "feed_name": "Texas Tribune",
-    "title": "Houston to vote on changes to ICE policy. Civil rights groups say the amendments would gut it.",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17323494/texas-houston-city-council-ice-cooperation-amendment",
-    "content": "People gather during a protest against U.S. Immigration and Customs Enforcement at Houston City Hall on Jan. 10, 2026",
-    "date": "2026-04-22T10:00:00",
-    "category": "Texas"
   }
 ]
