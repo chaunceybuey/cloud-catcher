@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/arts/television/late-night-trump-spencer-pratt-mayor.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Can Hardly Believe the Reality of L.A.\u2019s Mayoral Race",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/28/arts/television/late-night-trump-spencer-pratt-mayor.html",
+    "content": "\u201cMayor should not be your first job,\u201d the host said of the former reality show star and mayoral candidate Spencer Pratt, who is polling in second place.",
+    "date": "2026-05-28T06:33:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231651",
     "feed_name": "Texas Tribune",
     "title": "Camp Mystic chief health officer barred from direct patient care by Texas nursing board",
@@ -19988,15 +19998,5 @@
     "content": "Texas Rep. James Talarico, D-Austin speaks at an event to introduce his Anti-Corruption platform on Thursday, Jan. 15, 2026 in Austin, TX. Talarico called for term limits and an end to congressional stock trading, along with other financial reforms in elections. His announcement was made across the street from his potential U.S. Senate opponent, Ken Paxton&#039;s office. Sergio Flores for The Texas Tribune",
     "date": "2026-04-21T20:32:15",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/21/us/elections/virginia-redistricting-referendum-what-to-watch.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Virginia Redistricting Referendum: What to Watch",
-    "author": "Reid J. Epstein and Nick Corasaniti",
-    "link": "https://www.nytimes.com/2026/04/21/us/elections/virginia-redistricting-referendum-what-to-watch.html",
-    "content": "Republicans have built a small advantage from the gerrymandering clash so far, but Virginia voters could change that.",
-    "date": "2026-04-21T20:26:16",
-    "category": "NYT"
   }
 ]
