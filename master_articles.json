@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/29/movies/international-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five International Movies to Stream Now",
+    "author": "Devika Girish",
+    "link": "https://www.nytimes.com/2026/05/29/movies/international-movies-streaming.html",
+    "content": "This month\u2019s picks include an Argentine comedy based on a real-life incident, a queer story set in 1980s Chile, a documentary about the aftermath of the Troubles in Belfast and more.",
+    "date": "2026-05-29T15:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/29/theater/girls-girls-chance-chance-music-music-review-eisa-davis.html",
     "feed_name": "NYT (Arts)",
     "title": "Review: \u2018Girls Girls Chance Chance Music Music\u2019 Loves a Good Riff",
@@ -19988,15 +19998,5 @@
     "content": "<figure><img alt=\"White pills spill out of two plastic pill bottles.\" src=\"https://www.propublica.org/wp-content/uploads/2026/04/GettyImages-1169089767_maxHeight_3000_maxWidth_3000.jpg?w=1149\" /><figcaption><small>OxyContin Eric Baradat/AFP via Getty Images</small></figcaption></figure>\n<p>ProPublica and The Philadelphia Inquirer are looking into how individual opioid victims have been compensated for addiction and other harm as a result of the tens of billions of pills distributed throughout the United States during the prescription-opioid crisis. Please tell us about your experience seeking payment from the court-appointed trusts funded by the drugmakers Purdue, Mallinckrodt and Endo.</p>\n\n\n\n<p>About us: Craig R. McCoy was a veteran corruption reporter for The Philadelphia Inquirer. Bob Fernandez was an enterprise and investigative business reporter, also at the Inquirer. We previously <a href=\"https://www.propublica.org/article/endo-settlement-opioids-justice-department\">wrote for ProPublica and the Inquirer about the Endo bankruptcy</a>. Our most recent story <a href=\"https://www.propublica.org/article/purdue-settlement-leaves-opioid-victims-behind\">investigates the impact of Purdue&#8217;s new bankruptcy plan</a> on victims seeking compensation for the harm they said its drugs caused.&nbsp;</p>\n<p>The post <a href=\"https://www.propublica.org/getinvolved/purdue-endo-mallinckrodt-opioid-settlement-callout\">Are You Waiting for Opioid Settlement Money From Purdue, Mallinckrodt or Endo? Get in Touch.</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
     "date": "2026-04-23T08:55:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration",
-    "author": "Greg Jaffe, Eric Schmitt and Helene Cooper",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
-    "content": "Secretary of the Navy John Phelan championed a major investment in new ships including a \u201cTrump-class\u201d battleship, but his superiors were dissatisfied with his handling of the initiative.",
-    "date": "2026-04-23T05:02:38",
-    "category": "NYT"
   }
 ]
