@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kennedy Center Must Remove Trump\u2019s Name From Building, Judge Orders",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html",
+    "content": "\u201cCongress gave the Kennedy Center its name, and only Congress can change it,\u201d Judge Christopher R. Cooper of the Federal District Court in Washington wrote in a ruling on Friday.",
+    "date": "2026-05-29T19:38:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20082-austin-symphony-orchestra-video-games-live",
     "feed_name": "KMFA",
     "title": "Austin Symphony Orchestra: Video Games Live",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/startup-says-it-grew-human-sperm-in-a-lab-and-used-it-to-make-embryos/",
     "content": "Paterna Biosciences says it has determined the set of instructions needed to turn sperm-making stem cells into \"normal, mature\" sperm.",
     "date": "2026-04-23T09:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "b1bf7b5d-1439-4eca-a660-9f59a2332463",
-    "feed_name": "Economist",
-    "title": "Has the World Bank performed a U-turn on industrial policy?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/23/has-the-world-bank-performed-a-u-turn-on-industrial-policy",
-    "content": "Interventionists who think so should read its new report more closely",
-    "date": "2026-04-23T09:16:41",
     "category": "Magazines"
   }
 ]
