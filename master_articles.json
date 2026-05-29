@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/29/obituaries/nancy-sheung-overlooked.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Overlooked No More: Nancy Sheung, Whose Camera Captured Women on Their Own Terms",
+    "author": "Stella Raine Chu",
+    "link": "https://www.nytimes.com/2026/05/29/obituaries/nancy-sheung-overlooked.html",
+    "content": "In 1960s Hong Kong, she used photography to portray women as bold, self-possessed and unconstrained by traditional expectations.",
+    "date": "2026-05-29T15:56:21",
+    "category": "NYT"
+  },
+  {
     "id": "17d0cd6c87c659680396130ce9f50790",
     "feed_name": "LRB",
     "title": "Gangster Politics",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/23/opinion/trump-iran-unjust-war-catholicism.html",
     "content": "What fighting an unjust war really means.",
     "date": "2026-04-23T09:04:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/nyregion/newborn-peregrine-falcon-manhattan.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Newborn Falcon Makes a Debut in a Nest 14 Stories High",
-    "author": "James Barron",
-    "link": "https://www.nytimes.com/2026/04/23/nyregion/newborn-peregrine-falcon-manhattan.html",
-    "content": "Falcon Cam at a Manhattan office building revealed the first peregrine falcon to hatch there in years.",
-    "date": "2026-04-23T09:03:44",
     "category": "NYT"
   }
 ]
