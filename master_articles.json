@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/29/arts/television/jimmy-kimmel-trump-approval-rating.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Finds Glee in President Trump\u2019s Approval Rating",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/05/29/arts/television/jimmy-kimmel-trump-approval-rating.html",
+    "content": "A new poll shows it sitting at 34 percent. \u201cHe has the same approval rating as \u2018Paul Blart: Mall Cop,\u2019\u201d Kimmel said on Thursday.",
+    "date": "2026-05-29T06:40:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/29/dining/worlds-50-best-restaurants-north-america-winners-list.html",
     "feed_name": "NYT (Food)",
     "title": "The World\u2019s 50 Best Restaurants Announces Its 2026 North America List",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
     "content": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model.",
     "date": "2026-04-22T19:48:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/business/lufthansa-cancels-flights-iran-jet-fuel.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Lufthansa Cuts 20,000 Flights to Save Fuel Amid Iran War Price Surge",
-    "author": "Eshe Nelson",
-    "link": "https://www.nytimes.com/2026/04/22/business/lufthansa-cancels-flights-iran-jet-fuel.html",
-    "content": "Lufthansa said it would cancel short-haul flights, focusing on unprofitable routes from Frankfurt and Munich.",
-    "date": "2026-04-22T19:38:30",
     "category": "NYT"
   }
 ]
