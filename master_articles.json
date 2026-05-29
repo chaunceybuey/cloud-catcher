@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/29/theater/girls-girls-chance-chance-music-music-review-eisa-davis.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: \u2018Girls Girls Chance Chance Music Music\u2019 Loves a Good Riff",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/05/29/theater/girls-girls-chance-chance-music-music-review-eisa-davis.html",
+    "content": "In Eisa Davis\u2019s new play with live music, at the Vineyard Theater, gifted teenagers find their own rhythms at a summer music program.",
+    "date": "2026-05-29T13:41:29",
+    "category": "NYT"
+  },
+  {
+    "id": "6a198bcf1d940d641cd36602",
+    "feed_name": "Wired (Science)",
+    "title": "Blue Origin Rocket Explodes in Fiery Setback",
+    "author": "Marta Musso",
+    "link": "https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/",
+    "content": "The detonation of the New Glenn rocket resulted in a huge fireball in Florida, and may have long-term implications for the company's ambitions.",
+    "date": "2026-05-29T13:22:27",
+    "category": "Magazines"
+  },
+  {
     "id": "8eb548df36e590f274424c584e08d093",
     "feed_name": "Compact",
     "title": "How Yuppies Changed America",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
     "content": "Secretary of the Navy John Phelan championed a major investment in new ships including a \u201cTrump-class\u201d battleship, but his superiors were dissatisfied with his handling of the initiative.",
     "date": "2026-04-23T05:02:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/world/anti-trumpism-europe-spain-italy-ukraine.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Anti-Trumpism Unites Europe",
-    "author": "Katrin Bennhold",
-    "link": "https://www.nytimes.com/2026/04/22/world/anti-trumpism-europe-spain-italy-ukraine.html",
-    "content": "Trump\u2019s brand has sunk so low that conservatives are now joining leftist politicians in opposing him.",
-    "date": "2026-04-23T04:51:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/climate/clothing-recycling-trashie-helpsy.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Does Clothing Recycling Really Work?",
-    "author": "Rachel Cernansky",
-    "link": "https://www.nytimes.com/2026/04/22/climate/clothing-recycling-trashie-helpsy.html",
-    "content": "A sorting facility for Supercircle in North Las Vegas this month. The start-up aims to help the fashion industry use discarded textiles to make new clothes.",
-    "date": "2026-04-23T00:49:55",
     "category": "NYT"
   }
 ]
