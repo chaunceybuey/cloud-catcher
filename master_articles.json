@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "8eb548df36e590f274424c584e08d093",
+    "feed_name": "Compact",
+    "title": "How Yuppies Changed America",
+    "author": "",
+    "link": "https://www.compactmag.com/article/how-yuppies-changed-america/",
+    "content": "",
+    "date": "2026-05-29T11:37:54",
+    "category": "Magazines"
+  },
+  {
+    "id": "988e16a9ca66aefa4e4db151b44a6e20",
+    "feed_name": "The Atlantic",
+    "title": "When the President Takes a Cut",
+    "author": "James Surowiecki",
+    "link": "https://www.theatlantic.com/ideas/2026/05/trump-stakes-business-effect/687346/",
+    "content": "Federal stakes in public companies may enrich the government, but they are bad for America.",
+    "date": "2026-05-29T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=231269",
     "feed_name": "Texas Tribune",
     "title": "A Texas town hopes a new data center will pay to fix its cracked streets and leaking pipes",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/climate/clothing-recycling-trashie-helpsy.html",
     "content": "A sorting facility for Supercircle in North Las Vegas this month. The start-up aims to help the fashion industry use discarded textiles to make new clothes.",
     "date": "2026-04-23T00:49:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/us/chemical-emergency-west-virginia-deaths.html",
-    "feed_name": "NYT (Shared)",
-    "title": "2 Dead and More Injured After \u2018Chemical Release\u2019 at West Virginia Plant",
-    "author": "Christine Hauser and Mark Walker",
-    "link": "https://www.nytimes.com/2026/04/22/us/chemical-emergency-west-virginia-deaths.html",
-    "content": "Emergency workers outside the Catalyst Refiners plant in Nitro, W.Va., on Wednesday.",
-    "date": "2026-04-23T00:21:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/us/texas-abbott-trump-ice-cities-funding.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Texas Gov. Greg Abbott Uses Trump-Style Tactics in Fight With Cities Over ICE",
-    "author": "J. David Goodman",
-    "link": "https://www.nytimes.com/2026/04/22/us/texas-abbott-trump-ice-cities-funding.html",
-    "content": "Gov. Greg Abbott of Texas intensified his rhetoric on Monday on social media.",
-    "date": "2026-04-22T22:34:47",
     "category": "NYT"
   }
 ]
