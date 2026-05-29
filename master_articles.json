@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/29/dining/worlds-50-best-restaurants-north-america-winners-list.html",
+    "feed_name": "NYT (Food)",
+    "title": "The World\u2019s 50 Best Restaurants Announces Its 2026 North America List",
+    "author": "Julia Moskin",
+    "link": "https://www.nytimes.com/2026/05/29/dining/worlds-50-best-restaurants-north-america-winners-list.html",
+    "content": "At a ceremony in New Orleans on Thursday, a Midwestern fine-dining standout took the top spot.",
+    "date": "2026-05-29T04:07:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/28/arts/television/hacks-ends-jean-smart-hannah-einbinder.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Hacks\u2019 Leaves Them Laughing",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/22/business/lufthansa-cancels-flights-iran-jet-fuel.html",
     "content": "Lufthansa said it would cancel short-haul flights, focusing on unprofitable routes from Frankfurt and Munich.",
     "date": "2026-04-22T19:38:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/22/business/trump-spirit-airlines-loan.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Administration Nears Loan Deal to Rescue Spirit Airlines",
-    "author": "Lauren Hirsch and Niraj Chokshi",
-    "link": "https://www.nytimes.com/2026/04/22/business/trump-spirit-airlines-loan.html",
-    "content": "Spirit Airlines has not reported a profit since 2019 and is currently in its second bankruptcy.",
-    "date": "2026-04-22T19:30:31",
     "category": "NYT"
   }
 ]
