@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/30/dining/a-frosty-glass-of-greens.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Frosty Glass of Greens",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/05/30/dining/a-frosty-glass-of-greens.html",
+    "content": "Veggies Natural Juice Bar & Cafe\u2019s green smoothie, adapted by Ali Slagle.",
+    "date": "2026-05-30T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/30/dining/how-to-make-cosmic-blondies-june-bake-time.html",
     "feed_name": "NYT (Food)",
     "title": "How to Make Cosmic Blondies",
@@ -19988,15 +19998,5 @@
     "content": "Mayor Zohran Mamdani has discussed with New York State leaders the possibility of pushing some of its pension obligations into the future.",
     "date": "2026-04-23T16:59:37",
     "category": "NYT"
-  },
-  {
-    "id": "8620661d-a7c9-4bda-a4c1-f8b1f091d130",
-    "feed_name": "Economist",
-    "title": "Wanted: a new finance writer",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/23/wanted-a-new-finance-writer",
-    "content": "An opportunity to join the staff of The Economist",
-    "date": "2026-04-23T16:45:12",
-    "category": "Magazines"
   }
 ]
