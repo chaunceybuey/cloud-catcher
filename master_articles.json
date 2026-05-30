@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/30/dining/how-to-make-cosmic-blondies-june-bake-time.html",
+    "feed_name": "NYT (Food)",
+    "title": "How to Make Cosmic Blondies",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/05/30/dining/how-to-make-cosmic-blondies-june-bake-time.html",
+    "content": "Vaughn Vreeland\u2019s cosmic blondies.",
+    "date": "2026-05-30T14:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "e1267c99bff64c3ba2d4b4709c2c2a97",
+    "feed_name": "LRB",
+    "title": "On Politics: The Pope and the President",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-pope-and-the-president",
+    "content": "When commenting on the power and influence of the Catholic Church, Stalin is supposed to have asked: \u2018how many divisions has the pope?\u2019 Donald Trump has yet to question how many F35s Leo XIV has, but he may as well have done in his angry response to the American pope\u2019s criticism of the US and Israel\u2019s attack on Iran. With the US president\u2019s supporters invoking the...",
+    "date": "2026-05-30T13:43:31",
+    "category": "Magazines"
+  },
+  {
     "id": "76cee7061fd033507caffd31074b58c9",
     "feed_name": "The Atlantic",
     "title": "The Pope\u2019s Admirers Are Missing Something",
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/04/23/wanted-a-new-finance-writer",
     "content": "An opportunity to join the staff of The Economist",
     "date": "2026-04-23T16:45:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/opinion/bobby-pulido-texas-latinos-democrats.html",
-    "feed_name": "NYT (Shared)",
-    "title": "\u2018People Here Do Not Consider Themselves Poor. They Consider Themselves Broke.\u2019",
-    "author": "Michelle Cottle",
-    "link": "https://www.nytimes.com/2026/04/23/opinion/bobby-pulido-texas-latinos-democrats.html",
-    "content": "Big parts of the Rio Grande Valley turned against the party in recent years. One candidate is trying to win it back, one quincea\u00f1era at a time.",
-    "date": "2026-04-23T16:27:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/14/the-right-amount-of-crazy-fintan-otoole/",
-    "feed_name": "NYRB",
-    "title": "\u2018The Right Amount of Crazy\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/14/the-right-amount-of-crazy-fintan-otoole/",
-    "content": "In Trump\u2019s strategy of feigning madness to get what he wants, there is no longer any border between pretense and actual irrationality.\n\nDelivered by PolitePaul service",
-    "date": "2026-04-23T16:18:53",
     "category": "Magazines"
   }
 ]
