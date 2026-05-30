@@ -100,6 +100,96 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Takeaways From a Kennedy Center Ruling That Angered Trump",
+    "author": "Zach Montague and Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html",
+    "content": "President Trump, the chairman of the Kennedy Center, wrote on social media that \u201cwe are going to be working with Congress to transfer this failing Institution back to them.\u201d",
+    "date": "2026-05-30T09:02:55",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/30/arts/music/ariana-grande-ravyn-lenae-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ariana Grande, Ravyn Lenae: 7 Songs We\u2019re Talking About This Week",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/05/30/arts/music/ariana-grande-ravyn-lenae-songs.html",
+    "content": "After a couple of years spent immersed in \u201cWicked\u201d world, Ariana Grande returns to pop with her newest single.",
+    "date": "2026-05-30T09:02:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html",
+    "feed_name": "NYT (Food)",
+    "title": "In the Los Angeles Mayoral Race, Restaurants Are One of the Hottest Issues",
+    "author": "Meghan McCarron",
+    "link": "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html",
+    "content": "A succession of hardships, including Covid, the Hollywood strikes, ICE activity and wildfires have rocked the hospitality industry in Los Angeles in recent years.",
+    "date": "2026-05-30T09:02:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/30/arts/television/spider-noir-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Spider-Noir\u2019 Review: Your Friendly Neighborhood Nicolas Cage",
+    "author": "Mike Hale",
+    "link": "https://www.nytimes.com/2026/05/30/arts/television/spider-noir-review.html",
+    "content": "An often unbridled actor gets to play a mutant in a mash-up of superheroes and film noir on Amazon Prime Video.",
+    "date": "2026-05-30T09:02:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/30/arts/london-southbank-undercroft-skate-park.html",
+    "feed_name": "NYT (Arts)",
+    "title": "50 Years of Skateboarding at London\u2019s Southbank Undercroft",
+    "author": "Eleanor Stanford and Alice Zoo",
+    "link": "https://www.nytimes.com/2026/05/30/arts/london-southbank-undercroft-skate-park.html",
+    "content": "Skateboarders make pilgrimages from around the world to a \u201cfound\u201d London space that a grass-roots campaign saved from redevelopment.",
+    "date": "2026-05-30T09:02:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/30/arts/television/euphoria-sex-cam.html",
+    "feed_name": "NYT (Arts)",
+    "title": "On \u2018Euphoria\u2019 and Elsewhere, TV Is Having a Sex Cam Spring",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/05/30/arts/television/euphoria-sex-cam.html",
+    "content": "Virtual sex work is nothing new on TV. But this year it is more visible, central to series like \u201cEuphoria,\u201d \u201cMargo\u2019s Got Money Troubles\u201d and \u201cMaximum Pleasure Guaranteed.\u201d",
+    "date": "2026-05-30T09:01:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/30/arts/bird-watching-podcasts-sean-bean.html",
+    "feed_name": "NYT (Arts)",
+    "title": "7 Podcasts About the Joys of Bird-Watching",
+    "author": "Emma Dibdin",
+    "link": "https://www.nytimes.com/2026/05/30/arts/bird-watching-podcasts-sean-bean.html",
+    "content": "These shows offer expert advice and fun facts that will help both novices and enthusiasts get the most out of tuning into the winged world.",
+    "date": "2026-05-30T09:01:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/30/movies/ginger-minj-drag-race-stop-that-train.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ginger Minj Knows You Can Never Go Wrong With Rhinestones",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/05/30/movies/ginger-minj-drag-race-stop-that-train.html",
+    "content": "\u201cI blame Dolly Parton for this in some way,\u201d the \u201cRuPaul\u2019s Drag Race\u201d star said, \u201cbut it\u2019s just right, it\u2019s fun and it\u2019s eye-catching.\u201d",
+    "date": "2026-05-30T09:00:32",
+    "category": "NYT"
+  },
+  {
+    "id": "6a19bb907b6d6b1cd5a42293",
+    "feed_name": "Wired (Science)",
+    "title": "Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century",
+    "author": "Simone Valesini",
+    "link": "https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/",
+    "content": "A walk in the cemetery led to Cornell researchers discovering an underground colony of bees with an estimated population of 5.5 million\u2014one of the largest ever recorded.",
+    "date": "2026-05-30T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a18ad774765fb3136599f98",
     "feed_name": "Wired (Science)",
     "title": "Nike World Cup Uniforms Made of Recycled Textiles Won\u2019t Solve Fashion Waste",
@@ -19908,95 +19998,5 @@
     "content": "Texas Education Commissioner Mike Morath speaks about the state of Lake Worth ISD during a press conference on Oct. 21, 2025.",
     "date": "2026-04-23T14:56:26",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html",
-    "feed_name": "Interesting Times",
-    "title": "A Bitcoin Evangelist Tries to Convert Me",
-    "author": "Ross Douthat, Emily Holzknecht and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html",
-    "content": "What the crypto currency promises that the dollar doesn\u2019t.",
-    "date": "2026-04-23T14:50:45",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Lost Tribe in India Makes Its Exodus to Israel",
-    "author": "Hari Kumar, Alex Travelli and Atul Loke",
-    "link": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html",
-    "content": "People from B\u2019nei Menashe community pray at a synagogue in the kibbutz near Churachandpur, in India\u2019s Manipur state, in March.",
-    "date": "2026-04-23T14:30:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Generals Who Are Now Running Iran",
-    "author": "Farnaz Fassihi",
-    "link": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
-    "content": "Iranians gathered last month in Tehran with flags and posters to show their support for Mojtaba Khamenei, the new supreme leader.",
-    "date": "2026-04-23T13:55:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Senate Adopts GOP Budget, Laying the Groundwork to Fund ICE and Reopen DHS",
-    "author": "Michael Gold and Megan Mineiro",
-    "link": "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html",
-    "content": "The Senate in an overnight session took steps toward adopting a budget plan that would lead to a $70 billion increase in immigration enforcement.",
-    "date": "2026-04-23T13:37:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/us/politics/seth-bodnar-montana-senate.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Independent Senate Hopeful Seth Bodnar Tries to Scare Off Montana Democrats",
-    "author": "Jack Healy",
-    "link": "https://www.nytimes.com/2026/04/23/us/politics/seth-bodnar-montana-senate.html",
-    "content": "\u201cI\u2019m angry about the direction of this country,\u201d Seth Bodnar, 47, said. \u201cWe need a new approach.\u201d",
-    "date": "2026-04-23T13:20:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/14/londons-brutal-underground-london-falling-radden-keefe/",
-    "feed_name": "NYRB",
-    "title": "London\u2019s Brutal Underground",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/14/londons-brutal-underground-london-falling-radden-keefe/",
-    "content": "In Patrick Radden Keefe\u2019s <em>London Falling</em>, an ordinary boy\u2019s deadly obsession with the ultrarich reveals deeper corruption at the heart of modern London.\n\nDelivered by PolitePaul service",
-    "date": "2026-04-23T12:48:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/14/charlatans-bores-on-pedantry-visser/",
-    "feed_name": "NYRB",
-    "title": "Charlatans & Bores",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/14/charlatans-bores-on-pedantry-visser/",
-    "content": "The profile of the pedant has changed surprisingly across time periods and cultures, but what\u2019s constant is that nobody wants to be called one.\n\nDelivered by PolitePaul service",
-    "date": "2026-04-23T12:33:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/14/how-should-a-pixel-be-dry-leaf-koberidze/",
-    "feed_name": "NYRB",
-    "title": "How Should a Pixel Be?",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/14/how-should-a-pixel-be-dry-leaf-koberidze/",
-    "content": "Every low-resolution frame of Alexandre Koberidze\u2019s <em>Dry Leaf</em>, shot on a nearly twenty-year-old mobile phone, enacts a drama of form.\n\nDelivered by PolitePaul service",
-    "date": "2026-04-23T12:18:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/14/the-rise-and-fall-of-david-adjaye-princeton-collects/",
-    "feed_name": "NYRB",
-    "title": "The Rise and Fall of David Adjaye",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/14/the-rise-and-fall-of-david-adjaye-princeton-collects/",
-    "content": "Three high-profile buildings by the eminent Ghanian British architect have just been completed, but allegations of sexual misconduct have severely damaged his prospects for future commissions.\n\nDelivered by PolitePaul service",
-    "date": "2026-04-23T12:03:47",
-    "category": "Magazines"
   }
 ]
