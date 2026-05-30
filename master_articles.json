@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Trump Suggests He\u2019ll Headline Freedom 250 Concerts After Artists Drop Off",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html",
+    "content": "President Trump at an event in Suffern, N.Y., last week.",
+    "date": "2026-05-30T20:34:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20313-austin-cantorum-alimental-songs-of-hunger-and-harvest",
     "feed_name": "KMFA",
     "title": "Austin Cantorum: Alimental | Songs of Hunger and Harvest",
@@ -19988,15 +19998,5 @@
     "content": "A flare stack burns next to a refinery on Feb. 6, 2023 in Deer Park.",
     "date": "2026-04-23T17:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/nyregion/mamdani-pension-funds.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Mamdani Considers Delaying Pension-Fund Payments to Ease Budget Gap",
-    "author": "Sally Goldenberg",
-    "link": "https://www.nytimes.com/2026/04/23/nyregion/mamdani-pension-funds.html",
-    "content": "Mayor Zohran Mamdani has discussed with New York State leaders the possibility of pushing some of its pension obligations into the future.",
-    "date": "2026-04-23T16:59:37",
-    "category": "NYT"
   }
 ]
