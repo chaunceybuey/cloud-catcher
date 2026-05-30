@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "ccb6e4562b1f898582cd926f461288ee",
+    "feed_name": "LRB",
+    "title": "Art Not Genocide",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/may/art-not-genocide",
+    "content": "",
+    "date": "2026-05-30T11:22:11",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/30/opinion/murder-crime-rate-america.html",
     "feed_name": "Douthat",
     "title": "The Best News in America",
@@ -19988,15 +19998,5 @@
     "content": "A sign promoting Virginia&#039;s redistricting referendum vote in a Norfolk, Virginia neighborhood on April 15, 2026.",
     "date": "2026-04-23T15:49:03",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "New Phishing Scam: Fake Invitations",
-    "author": "Steven Kurutz",
-    "link": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
-    "content": "Hackers are spoofing Paperless Post, Evite and Punchbowl to creep into your hard drive.",
-    "date": "2026-04-23T15:48:55",
-    "category": "NYT"
   }
 ]
