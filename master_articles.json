@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "13274dba7cd16201351649af15f7138e",
+    "feed_name": "The Atlantic",
+    "title": "The Race That Changed the Country",
+    "author": "Eric Moskowitz",
+    "link": "https://www.theatlantic.com/ideas/2026/05/race-guggenheim-cup-cars/687352/",
+    "content": "At the dawn of the automobile age, four teams set out to test the limits of their machines\u2014and of human endurance.",
+    "date": "2026-05-31T15:31:04",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/31/theater/othello-review-wendell-pierce.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Othello\u2019 Review: Wendell Pierce Steps Into Iago\u2019s Twisted Web",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/24/business/china-currency-iran.html",
     "content": "China\u2019s bid to build a renminbi-based financial system beyond the U.S. dollar\u2019s reach is gaining traction as a way to sidestep sanctions.",
     "date": "2026-04-24T04:00:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/nyregion/thomas-kean-jr-republican-missing.html",
-    "feed_name": "NYT (Popular)",
-    "title": "Concern Grows Over Republican Congressman\u2019s Mysterious Absence",
-    "author": "Tracey Tully",
-    "link": "https://www.nytimes.com/2026/04/23/nyregion/thomas-kean-jr-republican-missing.html",
-    "content": "Democrats in New Jersey were aggressively targeting Thomas Kean Jr.\u2019s seat well before he began missing votes.",
-    "date": "2026-04-24T03:01:29",
     "category": "NYT"
   }
 ]
