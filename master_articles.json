@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/31/arts/music/recess-festival-margate-london.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Festival of Black Culture With a \u201990s Vibe",
+    "author": "Kadish Morris and Sophie Stafford",
+    "link": "https://www.nytimes.com/2026/05/31/arts/music/recess-festival-margate-london.html",
+    "content": "The brothers behind the London party organizers Recess decamped to a seaside amusement park for a two-day event channeling an earlier era of Black British nightlife.",
+    "date": "2026-05-31T09:02:06",
+    "category": "NYT"
+  },
+  {
+    "id": "6a15a969fafbd32f2a6d2b95",
+    "feed_name": "Wired (Science)",
+    "title": "How Turkey Hacked the Hair Transplant Industry",
+    "author": "Levent Da\u015fk\u0131ran",
+    "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+    "content": "From specialized motors to the use of machine learning algorithms, Turkey\u2019s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+    "date": "2026-05-31T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "16aeaa76deb9e1616e19878675220356",
     "feed_name": "Texas Trib",
     "title": "Elected Officials Directory",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17324467/dallas-police-ice-policy-update-abbott",
     "content": "U.S. Immigration and Customs Enforcement facility in Dallas on Sept. 24, 2025.",
     "date": "2026-04-23T23:35:52",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/us/politics/trump-reflecting-pool-renovation.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Says He\u2019s Renovating \u2018Filthy\u2019 Reflecting Pool on the National Mall",
-    "author": "Luke Broadwater",
-    "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-reflecting-pool-renovation.html",
-    "content": "President Trump discussed renovations to the reflecting pool near the Lincoln Memorial during an event on health care on Thursday.",
-    "date": "2026-04-23T22:40:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227629",
-    "feed_name": "Texas Tribune",
-    "title": "ICE deported man who says he\u2019s a U.S. citizen after traffic stop in Central Texas",
-    "author": "Uriel J. Garc\u00eda and Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17324409/texas-united-states-citizen-deported-ice-detention-brian-morales",
-    "content": "Brian Jos\u00e9 Morales Garcia has a birth certificate showing he was born in Denver. Homeland Security accused him of entering the country illegally and deported him to Mexico.",
-    "date": "2026-04-23T21:57:42",
     "category": "Texas"
   }
 ]
