@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/31/business/media/young-moviegoers-backrooms-a24-box-office.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Young Moviegoers Power \u2018Backrooms\u2019 to $82 Million in Ticket Sales",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/05/31/business/media/young-moviegoers-backrooms-a24-box-office.html",
+    "content": "The horror film, which cost $10 million and came from a 20-year-old filmmaker, added to evidence that young people will go to theaters for the right offering.",
+    "date": "2026-05-31T17:28:54",
+    "category": "NYT"
+  },
+  {
     "id": "13274dba7cd16201351649af15f7138e",
     "feed_name": "The Atlantic",
     "title": "The Race That Changed the Country",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/article/best-netflix-movies.html",
     "content": "There are so many film experiences to choose from on Netflix, let us help you narrow down your choices.",
     "date": "2026-04-24T04:56:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/24/business/china-currency-iran.html",
-    "feed_name": "NYT (Shared)",
-    "title": "War and Sanctions Accelerate China\u2019s Currency Push",
-    "author": "Aaron Krolik",
-    "link": "https://www.nytimes.com/2026/04/24/business/china-currency-iran.html",
-    "content": "China\u2019s bid to build a renminbi-based financial system beyond the U.S. dollar\u2019s reach is gaining traction as a way to sidestep sanctions.",
-    "date": "2026-04-24T04:00:16",
     "category": "NYT"
   }
 ]
