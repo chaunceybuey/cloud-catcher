@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="theme-color" content="#050505">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>RSS Triage</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="stylesheet" href="/styles.css">
+
+    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-database-compat.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+</head>
+<body>
+
+    <!-- ═══ Login Screen ═══ -->
+    <div id="login-screen" class="screen">
+        <div class="login-container">
+            <h1 class="login-title">RSS Triage</h1>
+            <p class="login-subtitle">Sign in to access your feeds</p>
+            <button id="login-btn" class="login-btn">Sign in with Google</button>
+        </div>
+    </div>
+
+    <!-- ═══ Slide-out Drawer ═══ -->
+    <div id="drawer-overlay" class="drawer-overlay hidden"></div>
+    <div id="drawer" class="drawer hidden">
+        <div class="drawer-header">
+            <h2 class="drawer-title">RSS Triage</h2>
+        </div>
+
+        <!-- Mode Tabs -->
+        <div class="drawer-section">
+            <div class="drawer-modes">
+                <button class="drawer-mode active" data-mode="Unread">Unread</button>
+                <button class="drawer-mode" data-mode="Bookmarks">Saved</button>
+                <button class="drawer-mode" data-mode="AudioBin">Audio</button>
+                <button class="drawer-mode" data-mode="Archive">Archive</button>
+            </div>
+        </div>
+
+        <!-- Feeds -->
+        <div class="drawer-section drawer-feeds-section">
+            <div class="drawer-section-header">
+                <span class="drawer-section-label">Feeds</span>
+                <button id="drawer-clear-filter" class="drawer-clear-btn">Clear</button>
+            </div>
+            <div id="drawer-feeds" class="drawer-feed-list">
+                <!-- Rendered by JS -->
+            </div>
+        </div>
+
+        <!-- Settings (collapsed by default) -->
+        <div class="drawer-section" style="border-bottom:none;">
+            <div id="settings-toggle" class="drawer-section-header" style="cursor:pointer;">
+                <span class="drawer-section-label">▸ Settings</span>
+            </div>
+            <div id="settings-content" class="hidden">
+                <div style="margin-top:0.5rem;">
+                    <span class="drawer-section-label">Text Size</span>
+                    <div class="drawer-slider-row">
+                        <span class="drawer-slider-label">A</span>
+                        <input type="range" id="font-size-slider" min="14" max="24" value="19" class="drawer-slider">
+                        <span class="drawer-slider-label" style="font-size:1.3em;">A</span>
+                    </div>
+                </div>
+                <div style="margin-top:0.75rem;display:flex;align-items:center;justify-content:space-between;">
+                    <span class="drawer-section-label">E-ink</span>
+                    <span id="eink-toggle" class="eink-pill">Off</span>
+                </div>
+                <div style="display:flex;gap:0.5rem;margin-top:0.75rem;">
+                    <button id="drawer-mark-all" class="drawer-action-btn" style="flex:1;">Mark All Read</button>
+                    <button id="drawer-sync" class="drawer-action-btn" style="flex:1;">Sync</button>
+                </div>
+                <button id="add-feed-toggle" class="drawer-action-btn" style="width:100%;margin-top:0.5rem;">+ Add Feed</button>
+                <div id="add-feed-form" class="add-feed-form hidden">
+                    <input type="text" id="add-feed-name" placeholder="Feed name" class="drawer-input">
+                    <input type="text" id="add-feed-url" placeholder="RSS feed URL" class="drawer-input">
+                    <select id="add-feed-category" class="drawer-input">
+                        <!-- Populated by JS -->
+                    </select>
+                    <div style="display:flex;gap:0.5rem;margin-top:0.5rem;">
+                        <button id="add-feed-submit" class="drawer-action-btn" style="flex:1;background:#1a0a00;border-color:#D94A00;color:#D94A00;">Add</button>
+                        <button id="add-feed-cancel" class="drawer-action-btn" style="flex:1;">Cancel</button>
+                    </div>
+                    <div id="add-feed-status" style="font-size:0.7rem;margin-top:0.4rem;"></div>
+                </div>
+                <div style="margin-top:0.75rem;">
+                    <span class="drawer-section-label">Add Article</span>
+                    <div class="drawer-paste-row">
+                        <input type="text" id="paste-link-input" placeholder="Paste a URL" class="drawer-input" style="flex:1;">
+                        <button id="paste-link-btn" class="drawer-action-btn" style="padding:0.6rem 0.75rem;">Go</button>
+                    </div>
+                    <div id="paste-link-status" style="font-size:0.7rem;margin-top:0.4rem;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══ Feed View ═══ -->
+    <div id="feed-screen" class="screen hidden">
+        <header class="feed-header">
+            <button id="hamburger-btn" class="hamburger-btn">☰</button>
+            <h1 class="feed-title" id="feed-title">Unread</h1>
+            <span class="feed-count" id="feed-count"></span>
+        </header>
+
+        <div id="article-list" class="article-list"></div>
+
+        <div id="empty-state" class="empty-state hidden">
+            <p>You're completely caught up.</p>
+        </div>
+
+        <div id="loading" class="loading">Loading...</div>
+    </div>
+
+    <!-- ═══ Article Reader ═══ -->
+    <div id="reader-screen" class="screen hidden">
+        <header class="reader-header">
+            <button id="reader-back" class="back-btn">←</button>
+            <div class="reader-actions">
+                <button id="reader-audio" class="action-btn" title="Queue Audio">🎧</button>
+                <button id="reader-readwise" class="action-btn" title="Open in Browser">🔗</button>
+                <button id="reader-bookmark" class="action-btn" title="Save">★</button>
+                <button id="reader-archive" class="action-btn" title="Archive">✓</button>
+            </div>
+        </header>
+        <div id="reader-content" class="reader-body"></div>
+        <div class="page-indicator" id="page-indicator">
+            <div class="page-progress"><div class="page-progress-bar" id="page-progress-bar"></div></div>
+        </div>
+    </div>
+
+    <script src="/app.js"></script>
+</body>
+</html>

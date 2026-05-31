@@ -20,4 +20,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # 3. Start the engine
-python main.py
+caffeinate -i python main.py

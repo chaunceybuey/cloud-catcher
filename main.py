@@ -316,6 +316,12 @@ async def handle_action(request: Request, action: str):
                 del bms[aid]
                 rss_engine.save_bookmarks(bms)
             toast_msg = "Bookmark removed."
+        elif action == "readwise":
+            toast_msg = rss_engine.send_to_readwise(
+                active_article.get('link', ''),
+                active_article.get('html_body', ''),
+                active_article.get('title', 'Unknown Title')
+            )
             
         elif action == "queue_audio":
             state["audio_bin"][active_article['id']] = {"status": "generating", "path": ""}

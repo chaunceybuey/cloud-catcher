@@ -195,6 +195,30 @@ def fetch_master_archive() -> list:
         pass
     return []
 
+READWISE_TOKEN = os.environ.get('READWISE_TOKEN', '')
+
+def send_to_readwise(url: str, html_content: str, title: str) -> str:
+    if not READWISE_TOKEN:
+        return "ERROR: READWISE_TOKEN missing in .env"
+        
+    headers = {
+        "Authorization": f"Token {READWISE_TOKEN}",
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "url": url,
+        "html": html_content,
+        "title": title
+    }
+    try:
+        res = requests.post("https://readwise.io/api/v3/save/", headers=headers, json=payload, timeout=10)
+        if res.status_code in (200, 201, 204):
+            return "Sent to Readwise!"
+        else:
+            return f"Readwise Error: {res.status_code}"
+    except Exception as e:
+        return f"ERROR: {str(e)}"
+    
 # --- ARTICLE FETCHER ---
 def fetch_full_article(url: str) -> str:
     if url in CACHE['articles']:
@@ -230,15 +254,149 @@ def fetch_full_article(url: str) -> str:
         if res.status_code != 200:
             return f"<i>Request blocked (HTTP {res.status_code}).</i>"
 
-        extracted = trafilatura.extract(res.text, url=url, include_comments=False, include_images=True, output_format='html')
+        extracted = trafilatura.extract(res.text, url=url, include_comments=False, include_images=True, include_formatting=True, output_format='html')
+        
         if extracted:
             extracted = extracted.replace('<p>Supported by</p>', '').replace('<span>Supported by</span>', '')
+            
+            from bs4 import BeautifulSoup
+            from urllib.parse import urljoin
+            
+            # --- IMAGE RESCUE ---
+            # Trafilatura strips most images. We rescue them from the raw HTML
+            # and re-inject them into the extracted article.
+            
+            raw_soup = BeautifulSoup(res.text, 'html.parser')
+            ext_soup = BeautifulSoup(extracted, 'html.parser')
+            
+            # 1. Fix any images trafilatura kept (resolve URLs, defeat lazy-loading)
+            for img in ext_soup.find_all('img'):
+                real_src = img.get('data-src') or img.get('data-lazy-src') or img.get('src')
+                if real_src:
+                    img['src'] = urljoin(url, real_src)
+            
+            # 2. Collect all content images from the raw page
+            rescued_srcs = set()
+            # Already-present images
+            for img in ext_soup.find_all('img'):
+                if img.get('src'):
+                    rescued_srcs.add(img['src'])
+            
+            # Find images in common article containers
+            content_imgs = []
+            containers = raw_soup.find_all(['article', 'main']) or [raw_soup]
+            # Words that indicate author photos, not article images
+            author_patterns = {'author', 'avatar', 'byline', 'headshot', 'portrait', 'staff', 'columnist', 'bio', 'profile-photo'}
+            
+            for container in containers:
+                for img in container.find_all('img'):
+                    src = img.get('data-src') or img.get('data-lazy-src') or img.get('src')
+                    # Fall back to first URL in srcset if no src found
+                    if not src and img.get('srcset'):
+                        src = img['srcset'].split(',')[0].strip().split()[0]
+                    if not src:
+                        continue
+                    abs_src = urljoin(url, src)
+                    # Skip tiny images (icons, tracking pixels)
+                    width = img.get('width', '')
+                    height = img.get('height', '')
+                    try:
+                        if (width and int(width) < 100) or (height and int(height) < 100):
+                            continue
+                    except ValueError:
+                        pass
+                    # Skip if already present or if it's a data URI / SVG
+                    if abs_src in rescued_srcs or abs_src.startswith('data:') or '.svg' in abs_src:
+                        continue
+                    # Skip author photos — check img and ancestor classes/ids/src
+                    img_context = ' '.join([
+                        img.get('class', [''])[0] if isinstance(img.get('class'), list) else str(img.get('class', '')),
+                        img.get('id', ''),
+                        abs_src,
+                        img.get('alt', ''),
+                    ]).lower()
+                    # Also check parent containers for author signals
+                    for parent in img.parents:
+                        if parent.name in ('div', 'span', 'section', 'header', 'a'):
+                            parent_class = ' '.join(parent.get('class', [])) if isinstance(parent.get('class'), list) else str(parent.get('class', ''))
+                            img_context += ' ' + parent_class.lower() + ' ' + parent.get('id', '').lower()
+                        if parent.name == 'article':
+                            break
+                    if any(pattern in img_context for pattern in author_patterns):
+                        continue
+                    
+                    alt = img.get('alt', '')
+                    caption = ''
+                    parent_fig = img.find_parent('figure')
+                    if parent_fig:
+                        cap = parent_fig.find('figcaption')
+                        if cap:
+                            caption = cap.get_text(strip=True)
+                    content_imgs.append({'src': abs_src, 'alt': alt, 'caption': caption})
+                    rescued_srcs.add(abs_src)
+            
+            # 3. Inject rescued images between paragraphs with captions attached
+            caption_texts = set()
+            if content_imgs:
+                paragraphs = ext_soup.find_all(['p', 'h2', 'h3', 'h4'])
+                # Space images evenly through the article
+                spacing = max(1, len(paragraphs) // (len(content_imgs) + 1))
+                injected = 0
+                for i, img_data in enumerate(content_imgs):
+                    insert_idx = spacing * (i + 1)
+                    if insert_idx < len(paragraphs):
+                        new_fig = ext_soup.new_tag('figure')
+                        new_img = ext_soup.new_tag('img', src=img_data['src'], alt=img_data['alt'])
+                        new_fig.append(new_img)
+                        if img_data['caption']:
+                            new_cap = ext_soup.new_tag('figcaption')
+                            new_cap.string = img_data['caption']
+                            new_fig.append(new_cap)
+                            caption_texts.add(img_data['caption'])
+                        paragraphs[insert_idx].insert_before(new_fig)
+                        injected += 1
+                print(f"[IMAGES] Rescued {injected} images, {len(rescued_srcs)} total")
+            
+            # 4. Strip orphaned caption text from the article body
+            #    Trafilatura extracts captions as regular paragraphs — now that we've
+            #    attached them to their images, remove the duplicates.
+            if caption_texts:
+                for p in ext_soup.find_all('p'):
+                    p_text = p.get_text(strip=True)
+                    if p_text and any(p_text in cap or cap in p_text for cap in caption_texts):
+                        p.decompose()
+            
+            # 5. Hero image from og:image if nothing else at the top
+            og_img = raw_soup.find('meta', property='og:image')
+            if og_img and og_img.get('content'):
+                hero_src = urljoin(url, og_img['content'])
+                if hero_src not in rescued_srcs:
+                    hero_tag = ext_soup.new_tag('img', src=hero_src, **{'class': 'hero-image'})
+                    if ext_soup.contents:
+                        ext_soup.contents[0].insert_before(hero_tag)
+            
+            extracted = str(ext_soup)
+            # --- END IMAGE RESCUE ---
+
             if len(CACHE['articles']) >= ARTICLE_CACHE_MAX:
                 oldest = next(iter(CACHE['articles']))
                 del CACHE['articles'][oldest]
             CACHE['articles'][url] = extracted
+            
+            # Push full text to Firebase so the PWA can read it
+            if FIREBASE_DB_URL:
+                try:
+                    import hashlib
+                    safe_key = hashlib.md5(url.encode()).hexdigest()
+                    db.reference(f'app_data/articles/{safe_key}').set(extracted)
+                    print(f"[FIREBASE] Pushed full text for: {url[:60]}...")
+                except Exception as e:
+                    print(f"[FIREBASE] Push failed: {e}")
+            
             return extracted
+            
         return f"<i>HTTP {res.status_code} OK, but could not extract text.</i>"
+        
     except Exception as e:
         return f"<i>Error fetching article: {e}</i>"
 
@@ -290,29 +448,48 @@ def generate_audio(article_id: str, html_content: str) -> str:
             {batch}
             """
 
-            response = client.models.generate_content(
-                model='gemini-2.5-flash-preview-tts',
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    response_modalities=["AUDIO"],
-                    speech_config=types.SpeechConfig(
-                        voice_config=types.VoiceConfig(
-                            prebuilt_voice_config=types.PrebuiltVoiceConfig(
-                                voice_name="Aoede"
+            for attempt in range(3):
+                chunk_success = False
+                try:
+                    # Build a brand new connection for every attempt to avoid dead sockets
+                    client = genai.Client()
+                    
+                    response = client.models.generate_content(
+                        model='gemini-2.5-flash-preview-tts',
+                        contents=prompt,
+                        config=types.GenerateContentConfig(
+                            response_modalities=["AUDIO"],
+                            speech_config=types.SpeechConfig(
+                                voice_config=types.VoiceConfig(
+                                    prebuilt_voice_config=types.PrebuiltVoiceConfig(
+                                        voice_name="Aoede"
+                                    )
+                                )
                             )
                         )
                     )
-                )
-            )
 
-            for part in response.candidates[0].content.parts:
-                if part.inline_data:
-                    master_audio.extend(part.inline_data.data)
-                    break
+                    for part in response.candidates[0].content.parts:
+                        if part.inline_data:
+                            master_audio.extend(part.inline_data.data)
+                            break
+                    
+                    chunk_success = True
+                    break  # Success! Break out of the retry loop.
+
+                except Exception as e:
+                    if attempt < 2:
+                        print(f"Connection hiccup on chunk {i+1}. Retrying... ({e})")
+                        time.sleep(2)  # Give the network a second to breathe before retrying
+                    else:
+                        return f"ERROR: API dropped connection repeatedly on chunk {i+1}. Details: {str(e)}"
+
+            if not chunk_success:
+                return "ERROR: Failed to generate audio for a chunk after multiple attempts."
             
-            # A tiny 0.5s pause between chunks just to keep the connection stable
+            # A tiny 0.5s pause between successful chunks to keep the connection stable
             if i < len(text_batches) - 1:
-                time.sleep(0.5) 
+                time.sleep(0.5)
 
         if not master_audio:
              return "ERROR: No audio data returned by Gemini."
@@ -344,6 +521,12 @@ def _format_date(raw: str) -> str:
 def render_article_html(article: dict, full_fetch: bool) -> str:
     content = fetch_full_article(article.get('link', '#')) if full_fetch else article.get('content', 'No description available.')
     
+    # Extract base URL so relative image paths resolve correctly inside srcdoc iframe
+    from urllib.parse import urlparse
+    parsed = urlparse(article.get('link', ''))
+    base_url = f"{parsed.scheme}://{parsed.netloc}" if parsed.scheme and parsed.netloc else ""
+    base_tag = f'<base href="{base_url}/" target="_blank">' if base_url else ""
+    
     css = """
     <style>
     :root { 
@@ -365,7 +548,7 @@ def render_article_html(article: dict, full_fetch: bool) -> str:
         box-sizing: border-box;
     }
     
-    h2, h3, h4, img, figure { break-inside: avoid; page-break-inside: avoid; }
+    h2, h3, h4, figure { break-inside: avoid; page-break-inside: avoid; }
     p, ul, ol { margin-bottom: 1.2em; }
     ::-webkit-scrollbar { display: none; }
     a { color: #D94A00; text-decoration: none; }
@@ -373,8 +556,11 @@ def render_article_html(article: dict, full_fetch: bool) -> str:
     h1 { display: none; }
     
     h2, h3, h4 { color: #8A8F98; margin-top: 1.8em; margin-bottom: 0.8em; }
-    img, picture, figure { max-width: 100%; height: auto; border-radius: 8px; margin: 1.5em auto; opacity: 0.85; display: block; }
-    figcaption { font-size: 14px; color: #5A5F67; text-align: center; margin-top: 0.5em; font-style: italic; }
+    figure { display: block; margin: 1.5em auto; max-width: 95%; overflow: hidden; }
+    img, picture { max-width: 100%; max-height: 55vh; object-fit: contain; border-radius: 8px; margin: 1.2em auto; opacity: 0.85; display: block; }
+    figure img { margin: 0 auto; }
+    .hero-image { max-height: 50vh; margin: 1.2em auto; }
+    figcaption { font-size: 13px; color: #5A5F67; text-align: center; padding: 0.5em 1em 0; font-style: italic; line-height: 1.4; }
     </style>
     """
     
@@ -409,7 +595,7 @@ def render_article_html(article: dict, full_fetch: bool) -> str:
     </script>
     """
     
-    return f"""<!DOCTYPE html><html><head>{css}</head><body>
+    return f"""<!DOCTYPE html><html><head>{base_tag}{css}</head><body>
       <div class="zen-article-wrapper">
         <div class="article-content">{content}</div>
       </div>

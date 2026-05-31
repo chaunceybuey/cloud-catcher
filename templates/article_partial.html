@@ -19,38 +19,45 @@
             <span class="text-[12px] font-bold text-[#9C8B5E] uppercase tracking-wider shrink-0">{{ active_article.formatted_date }}</span>
         </div>
 
-        <div id="audio-section" class="mt-3 flex flex-col gap-2">
-            {% set audio_data = state.audio_bin.get(active_article.id) %}
+        <div class="mt-3 flex flex-wrap items-center gap-3">
+            <div id="audio-section" class="flex flex-col gap-2">
+                {% set audio_data = state.audio_bin.get(active_article.id) %}
+                
+                {% if not audio_data %}
+                    <button hx-post="/action/queue_audio" hx-target="#article-view" hx-swap="outerHTML" 
+                            class="w-fit px-3 py-1 bg-[#1a1a1a] hover:bg-[#222] border border-[#333] rounded text-[10px] font-bold text-[#8A8F98] hover:text-[#D94A00] uppercase tracking-widest transition-colors flex items-center gap-2">
+                        + Queue Audio
+                    </button>
+                {% elif audio_data.status == "generating" %}
+                    <div hx-post="/audio-status/{{ active_article.id }}" hx-trigger="every 2s" hx-swap="outerHTML"
+                         class="w-fit px-3 py-1 bg-[#1a1a1a] border border-[#333] rounded text-[10px] font-bold text-[#5A5F67] uppercase tracking-widest animate-pulse">
+                        Baking in background...
+                    </div>
+                {% elif audio_data.status == "ready" %}
+                    <div class="flex items-center gap-3">
+                        <audio controls class="w-full max-w-md h-8 outline-none rounded opacity-80 hover:opacity-100 transition-opacity">
+                            <source src="/{{ audio_data.path }}" type="audio/wav">
+                        </audio>
+                        <button hx-post="/action/remove_audio" hx-target="#article-view" hx-swap="outerHTML" 
+                                class="px-2 py-1 bg-[#1a1a1a] hover:bg-[#331111] border border-[#333] hover:border-[#ff4444] rounded text-[10px] font-bold text-[#5A5F67] hover:text-[#ff4444] uppercase tracking-widest transition-colors flex-shrink-0" title="Delete MP3 from Hard Drive">
+                            ✕ Drop
+                        </button>
+                    </div>
+                {% else %}
+                    <div class="flex items-center gap-3">
+                        <span class="text-[11px] text-red-400 font-mono bg-[#331111] px-2 py-1 rounded border border-[#ff4444]">Audio Failed.</span>
+                        <button hx-post="/action/remove_audio" hx-target="#article-view" hx-swap="outerHTML" 
+                                class="px-2 py-1 bg-[#1a1a1a] hover:bg-[#222] border border-[#333] hover:border-[#8A8F98] rounded text-[10px] font-bold text-[#8A8F98] uppercase tracking-widest transition-colors">
+                            ✕ Clear
+                        </button>
+                    </div>
+                {% endif %}
+            </div>
             
-            {% if not audio_data %}
-                <button hx-post="/action/queue_audio" hx-target="#article-view" hx-swap="outerHTML" 
-                        class="w-fit px-3 py-1 bg-[#1a1a1a] hover:bg-[#222] border border-[#333] rounded text-[10px] font-bold text-[#8A8F98] hover:text-[#D94A00] uppercase tracking-widest transition-colors flex items-center gap-2">
-                    + Queue Audio
-                </button>
-            {% elif audio_data.status == "generating" %}
-                <div hx-post="/audio-status/{{ active_article.id }}" hx-trigger="every 2s" hx-swap="outerHTML"
-                     class="w-fit px-3 py-1 bg-[#1a1a1a] border border-[#333] rounded text-[10px] font-bold text-[#5A5F67] uppercase tracking-widest animate-pulse">
-                    Baking in background...
-                </div>
-            {% elif audio_data.status == "ready" %}
-                <div class="flex items-center gap-3">
-                    <audio controls class="w-full max-w-md h-8 outline-none rounded opacity-80 hover:opacity-100 transition-opacity">
-                        <source src="/{{ audio_data.path }}" type="audio/wav">
-                    </audio>
-                    <button hx-post="/action/remove_audio" hx-target="#article-view" hx-swap="outerHTML" 
-                            class="px-2 py-1 bg-[#1a1a1a] hover:bg-[#331111] border border-[#333] hover:border-[#ff4444] rounded text-[10px] font-bold text-[#5A5F67] hover:text-[#ff4444] uppercase tracking-widest transition-colors flex-shrink-0" title="Delete MP3 from Hard Drive">
-                        ✕ Drop
-                    </button>
-                </div>
-            {% else %}
-                <div class="flex items-center gap-3">
-                    <span class="text-[11px] text-red-400 font-mono bg-[#331111] px-2 py-1 rounded border border-[#ff4444]">Audio Failed.</span>
-                    <button hx-post="/action/remove_audio" hx-target="#article-view" hx-swap="outerHTML" 
-                            class="px-2 py-1 bg-[#1a1a1a] hover:bg-[#222] border border-[#333] hover:border-[#8A8F98] rounded text-[10px] font-bold text-[#8A8F98] uppercase tracking-widest transition-colors">
-                        ✕ Clear
-                    </button>
-                </div>
-            {% endif %}
+            <button hx-post="/action/readwise" hx-target="#article-view" hx-swap="outerHTML" 
+                    class="w-fit px-3 py-1 bg-[#1a1a1a] hover:bg-[#112211] border border-[#333] hover:border-[#00A870] rounded text-[10px] font-bold text-[#8A8F98] hover:text-[#00A870] uppercase tracking-widest transition-colors flex items-center gap-2" title="Send to Readwise (r)">
+                ↗ Readwise
+            </button>
         </div>
         
         <div class="mt-4 flex justify-between items-end text-[10px] font-bold text-[#4B5563] tracking-wider">
