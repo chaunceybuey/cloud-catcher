@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "9486ad3882ea9ab9a1fbb65381d7f715",
+    "feed_name": "The Atlantic",
+    "title": "The Scariest Monster on Broadway",
+    "author": "Yair Rosenberg",
+    "link": "https://www.theatlantic.com/ideas/2026/05/roald-dahl-play-giant-antisemitism/687373/",
+    "content": "A new play about Roald Dahl and his anti-Jewish prejudice captures uncomfortable truths.",
+    "date": "2026-05-31T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/31/arts/music/recess-festival-margate-london.html",
     "feed_name": "NYT (Arts)",
     "title": "A Festival of Black Culture With a \u201990s Vibe",
@@ -19988,15 +19998,5 @@
     "content": "President Trump posted the transcript on his Truth Social account on Wednesday night.",
     "date": "2026-04-24T00:42:24",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227660",
-    "feed_name": "Texas Tribune",
-    "title": "Dallas police revise policy allowing more ICE cooperation after Abbott threatened to cut funding",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17324467/dallas-police-ice-policy-update-abbott",
-    "content": "U.S. Immigration and Customs Enforcement facility in Dallas on Sept. 24, 2025.",
-    "date": "2026-04-23T23:35:52",
-    "category": "Texas"
   }
 ]
