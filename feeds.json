@@ -11,18 +11,6 @@
   ],
   "NYT": [
     {
-      "name": "NYT (Shared)",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml"
-    },
-    {
-      "name": "NYT (Emailed)",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml"
-    },
-    {
-      "name": "NYT (Popular)",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml"
-    },
-    {
       "name": "Douthat",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
     },
@@ -31,8 +19,12 @@
       "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
     },
     {
-      "name": "NYT (Today\u2019s Paper)",
-      "url": "https://politepaul.com/fd/qtyUiJLjfCdU.xml"
+      "name": "NYT (Arts)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
+    },
+    {
+      "name": "NYT (Food)",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"
     }
   ],
   "Texas": [
@@ -59,15 +51,11 @@
       "url": "https://www.wired.com/feed/category/science/latest/rss"
     },
     {
-      "name": "Atlantic Ideas",
-      "url": "https://feed-forge-server.onrender.com/feed/TheAtlantic.xml"
-    },
-    {
       "name": "New Yorker",
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/new_yorker.xml"
     },
     {
-      "name": "NYYRB",
+      "name": "NYRB",
       "url": "https://politepaul.com/fd/ONCQMCTPB65a.xml"
     },
     {
@@ -79,16 +67,16 @@
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/outside.xml"
     },
     {
-      "name": "NY Review",
-      "url": "https://ezproxy.lib.utexas.edu/login?url=https://go-gale-com.ezproxy.lib.utexas.edu/ps/i.do?p=AONE&qt=MC~49PS&sw=w&u=txshracd2598&searchType=AdvancedSearchForm&ty=as&v=2.1&it=rss&sid=rss&digest=ecc57c778360bed9cc1d55bab2e90212"
-    },
-    {
-      "name": "NYRB",
-      "url": "https://feeder.co/discover/bf497233f9/nybooks-com"
-    },
-    {
       "name": "LRB",
       "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/london_review.xml"
+    },
+    {
+      "name": "Economist",
+      "url": "https://www.economist.com/finance-and-economics/rss.xml"
+    },
+    {
+      "name": "The Atlantic",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/the_atlantic.xml"
     }
   ],
   "Tech": [
