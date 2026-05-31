@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/31/dining/dijon-chicken-tomatoes-and-scallions.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Dijon Chicken, Tomatoes and Scallions",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/05/31/dining/dijon-chicken-tomatoes-and-scallions.html",
+    "content": "And more recipes to harness a fresh jar of eye-watering-in-a-good-way mustard.",
+    "date": "2026-05-31T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "9486ad3882ea9ab9a1fbb65381d7f715",
     "feed_name": "The Atlantic",
     "title": "The Scariest Monster on Broadway",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
     "content": "The remains of a university building in Tehran. Two independent groups say the U.S. expense of the war in Iran so far is between $28 billion and $35 billion.",
     "date": "2026-04-24T01:04:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/us/politics/trump-china-india-immigrants.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Reposts Anti-Immigrant Tirade Calling China and India \u2018Hellhole\u2019 Places",
-    "author": "Amy Qin",
-    "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-china-india-immigrants.html",
-    "content": "President Trump posted the transcript on his Truth Social account on Wednesday night.",
-    "date": "2026-04-24T00:42:24",
     "category": "NYT"
   }
 ]
