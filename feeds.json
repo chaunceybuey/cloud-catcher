@@ -35,6 +35,10 @@
     {
       "name": "KMFA",
       "url": "https://www.kmfa.org/events.rss"
+    },
+    {
+      "name": "Texas Trib",
+      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/texas_tribune.xml"
     }
   ],
   "Magazines": [
