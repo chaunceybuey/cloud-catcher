@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/31/theater/othello-review-wendell-pierce.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Othello\u2019 Review: Wendell Pierce Steps Into Iago\u2019s Twisted Web",
+    "author": "Rhoda Feng",
+    "link": "https://www.nytimes.com/2026/05/31/theater/othello-review-wendell-pierce.html",
+    "content": "This production in the nation\u2019s capital, with an enticingly opaque Iago,  attempts to make Shakespeare\u2019s tragedy relevant to our age of conspiracies.",
+    "date": "2026-05-31T15:10:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/31/dining/grilled-zaatar-chicken-lemon-sorbet-and-more-alfresco-daydreams.html",
+    "feed_name": "NYT (Food)",
+    "title": "Grilled Za\u2019atar Chicken, Lemon Sorbet and More Alfresco Daydreams",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/05/31/dining/grilled-zaatar-chicken-lemon-sorbet-and-more-alfresco-daydreams.html",
+    "content": "Melissa Clark\u2019s grilled za\u2019atar chicken with garlic yogurt and cilantro.",
+    "date": "2026-05-31T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/31/dining/dijon-chicken-tomatoes-and-scallions.html",
     "feed_name": "Weeknight Dishes",
     "title": "Dijon Chicken, Tomatoes and Scallions",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/23/nyregion/thomas-kean-jr-republican-missing.html",
     "content": "Democrats in New Jersey were aggressively targeting Thomas Kean Jr.\u2019s seat well before he began missing votes.",
     "date": "2026-04-24T03:01:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Soldier Used Classified Information to Bet on Maduro\u2019s Ouster, U.S. Says",
-    "author": "Benjamin Weiser and Jonah E. Bromwich",
-    "link": "https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html",
-    "content": "Nicol\u00e1s Maduro, former President of Venezuela, being escorted off a helicopter to be taken to the federal courthouse in Manhattan in January.",
-    "date": "2026-04-24T01:52:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Iran War Has Drained U.S. Supplies of Critical, Costly Weapons",
-    "author": "Eric Schmitt and Jonathan Swan",
-    "link": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
-    "content": "The remains of a university building in Tehran. Two independent groups say the U.S. expense of the war in Iran so far is between $28 billion and $35 billion.",
-    "date": "2026-04-24T01:04:32",
     "category": "NYT"
   }
 ]
