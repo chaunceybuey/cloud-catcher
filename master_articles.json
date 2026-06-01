@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "98c71dc1faac066d4158d050efba8586",
+    "feed_name": "Compact",
+    "title": "Heteropessimist Horror",
+    "author": "",
+    "link": "https://www.compactmag.com/article/heteropessimist-horror/",
+    "content": "",
+    "date": "2026-06-01T06:05:03",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/arts/television/cape-fear-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Cape Fear\u2019 and 7 More Shows to Watch on TV This Week",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/24/movies/bernsteins-wall-leonard-bernstein-documentary.html",
     "content": "\u201cBernstein\u2019s Wall,\u201d directed by Douglas Tirola, focuses on the composer and conductor\u2019s belief that art can be an uplifting and uniting force.",
     "date": "2026-04-24T09:02:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/24/travel/5-european-resistance-museums.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "5 Resistance Museums Recall the Bravery of \u2018Ordinary People\u2019",
-    "author": "Lisa Abend",
-    "link": "https://www.nytimes.com/2026/04/24/travel/5-european-resistance-museums.html",
-    "content": "For many visitors to these European museums, the acts of those who opposed Nazism and Fascism have become newly relevant.",
-    "date": "2026-04-24T09:01:12",
     "category": "NYT"
   }
 ]
