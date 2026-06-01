@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "69c6afbd4593d05c6cdc646d",
+    "feed_name": "Wired",
+    "title": "The Painful Truth About Long Covid",
+    "author": "Alan Levinovitz",
+    "link": "https://www.wired.com/story/the-painful-truth-about-long-covid/",
+    "content": "There might finally be a way forward for long Covid treatment\u2014if only you were allowed to talk about it.",
+    "date": "2026-06-01T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19172",
+    "feed_name": "Stratechery",
+    "title": "YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
+    "content": "<p>YouTubers are ruling the box office,  and it shouldn't be a surprise: succeeding on YouTube is a much higher bar than the gates that currently govern Hollywood.</p>",
+    "date": "2026-06-01T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/arts/television/hoyt-richards-bring-me-the-beauties-model-cult-interview.html",
     "feed_name": "NYT (Arts)",
     "title": "Hoyt Richards, Former Model, on \u2018Bring Me The Beauties\u2019 and How to Escape a Cult",
@@ -19977,26 +19997,6 @@
     "link": "https://www.compactmag.com/article/the-limits-of-the-the-labor-revival/",
     "content": "",
     "date": "2026-04-24T11:59:02",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/24/arts/design/san-giacomo-in-paludo-island-venice.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "This \u2018Sustainable\u2019 Island Is Venice\u2019s Newest Art Oasis",
-    "author": "Scott Reyburn",
-    "link": "https://www.nytimes.com/2026/04/24/arts/design/san-giacomo-in-paludo-island-venice.html",
-    "content": "Installing Pamela Rosenkranz\u2019s \u201cOld Tree (Pink Seas)\u201d on the island of San Giacomo in Paludo, in Venice.",
-    "date": "2026-04-24T10:34:44",
-    "category": "NYT"
-  },
-  {
-    "id": "9ac73d92fd94112b197211a2c92c586b",
-    "feed_name": "LRB",
-    "title": "J.H. Prynne 1936-2026",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/april/j.h.-prynne-1936-2026",
-    "content": "J.H. Prynne died on Wednesday at the age of 89, after a prolific life as a teacher and essayist, a loyal friend to his students and, above all.\u00a0.\u00a0.",
-    "date": "2026-04-24T10:24:04",
     "category": "Magazines"
   }
 ]
