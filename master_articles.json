@@ -80,6 +80,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tribeca Festival 25th Anniversary: An Interview With Robert De Niro, Jane Rosenthal, Rebecca Glashow",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html",
+    "content": "Robert De Niro and Jane Rosenthal, who founded the event, and Rebecca Glashow, the new leader of Tribeca Enterprises, reflected on the festival\u2019s legacy and ambitions.",
+    "date": "2026-06-01T17:25:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/01/movies/edward-burns-tribeca-film-festival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Edward Burns on What It\u2019s like to Be a Tribeca Festival Veteran",
+    "author": "Shivani Vora",
+    "link": "https://www.nytimes.com/2026/06/01/movies/edward-burns-tribeca-film-festival.html",
+    "content": "The filmmaker and actor Edward Burns returns to the Tribeca Festival with his first film shot and produced abroad.",
+    "date": "2026-06-01T17:24:12",
+    "category": "NYT"
+  },
+  {
+    "id": "2ba1ae23-9497-40e0-abe7-495031ce97e9",
+    "feed_name": "Economist",
+    "title": "Can the stockmarket swallow SpaceX, Anthropic and OpenAI?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-spacex-anthropic-and-openai",
+    "content": "Watch out for indigestion",
+    "date": "2026-06-01T17:16:55",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/movies/andre-holland-tribeca-festival.html",
     "feed_name": "NYT (Arts)",
     "title": "Tribeca Festival: Andre Holland\u2019s Ability to Connect to Audiences Is on Display",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/25/opinion/trump-iran-war-israel.html",
     "content": "The president is buried in the graveyard of vanity.",
     "date": "2026-04-25T11:00:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/opinion/trump-iran-deal-making.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s True Deal-Making Abilities, Revealed",
-    "author": "E.J. Dionne Jr., Carlos Lozada, Robert Siegel and Derek Arthur",
-    "link": "https://www.nytimes.com/2026/04/25/opinion/trump-iran-deal-making.html",
-    "content": "What moving deadlines \u2014 and red lines \u2014 in Iran means for America\u2019s leverage.",
-    "date": "2026-04-25T11:00:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The 85-Year-Old Widow Snagged by Trump\u2019s Immigration Crackdown",
-    "author": "Catherine Porter",
-    "link": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
-    "content": "In her first interview since being deported, Marie-Th\u00e9r\u00e8se Ross-Mah\u00e9, the French widow of a former G.I., recounted her experience in ICE detention.",
-    "date": "2026-04-25T09:32:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Bob Odenkirk Would Like to Remind You That Life Is a Meaningless Farce",
-    "author": "David Marchese",
-    "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
-    "content": "The actor and comedian is keenly aware of humanity\u2019s limitations, but he\u2019s not giving up.",
-    "date": "2026-04-25T09:15:06",
     "category": "NYT"
   }
 ]
