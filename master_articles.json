@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/01/arts/television/movies-tv-shows-june-2026-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Movies and TV Shows Coming to Disney+, Amazon, AMC+, Apple TV and More in June",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/06/01/arts/television/movies-tv-shows-june-2026-streaming.html",
+    "content": "\u201cThe Vampire Lestat,\u201d \u201cHoppers\u201d and \u201cNot Suitable for Work\u201d arrive and \u201cThe Bear\u201d returns.",
+    "date": "2026-06-01T18:57:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html",
     "feed_name": "NYT (Arts)",
     "title": "Tribeca Festival 25th Anniversary: An Interview With Robert De Niro, Jane Rosenthal, Rebecca Glashow",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/25/opinion/elon-musk-donald-trump-influence.html",
     "content": "His political malpractice will loom large in the history of Trump 2.0.",
     "date": "2026-04-25T11:00:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/opinion/trump-iran-war-israel.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Trump, Iran\u2019s Newest Hostage",
-    "author": "Maureen Dowd",
-    "link": "https://www.nytimes.com/2026/04/25/opinion/trump-iran-war-israel.html",
-    "content": "The president is buried in the graveyard of vanity.",
-    "date": "2026-04-25T11:00:18",
     "category": "NYT"
   }
 ]
