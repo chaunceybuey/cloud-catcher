@@ -90,6 +90,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/umami-okra-soup",
+    "feed_name": "NYT (Food)",
+    "title": "A Shrimp and Okra Soup That Feels Like Magic",
+    "author": "Yewande Komolafe",
+    "link": "https://cooking.nytimes.com/article/umami-okra-soup",
+    "content": "Simmered in an umami-rich broth, the fruit adds an unparalleled body to a summery soup.",
+    "date": "2026-06-01T18:51:28",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html",
     "feed_name": "NYT (Arts)",
     "title": "Tribeca Festival 25th Anniversary: An Interview With Robert De Niro, Jane Rosenthal, Rebecca Glashow",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
     "content": "Ukrainian soldiers training this month in the Chernobyl exclusion zone.",
     "date": "2026-04-25T11:46:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/opinion/elon-musk-donald-trump-influence.html",
-    "feed_name": "Douthat",
-    "title": "The Political Defeats of Elon Musk",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/04/25/opinion/elon-musk-donald-trump-influence.html",
-    "content": "His political malpractice will loom large in the history of Trump 2.0.",
-    "date": "2026-04-25T11:00:19",
     "category": "NYT"
   }
 ]
