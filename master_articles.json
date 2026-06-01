@@ -80,6 +80,16 @@
     "category": "Magazines"
   },
   {
+    "id": "1bba384d7550c2da4b1ea99779f58219",
+    "feed_name": "LRB",
+    "title": "The Man Behind the Curtain: \u2018Frankenstein\u2019 by Mary Shelley",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/the-man-behind-the-curtain-frankenstein-by-mary-shelley",
+    "content": "Mary Shelley signed off her introduction to the 1831 edition ofFrankensteinby bidding her \u2018hideous progeny go forth and prosper\u2019. In this episode of The Man Behind the Curtain, Tom McCarthy and Thomas Jones look at the machinery that Shelley used to assemble her immortal creature and bring it to life. As well as its origins and afterlives, they consider the many systems that the...",
+    "date": "2026-06-01T12:39:29",
+    "category": "Magazines"
+  },
+  {
     "id": "f9b6c58a2c1dc81175b10f1d2be5defd",
     "feed_name": "New Yorker",
     "title": "\u201cGreater New York\u201d Takes the Pulse of the City",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
     "content": "Maureen Dhaka, left, with her baby in the neonatal unit at Arthur Davison Children\u2019s Hospital in Ndola, Zambia.",
     "date": "2026-04-25T09:00:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Rubio\u2019s Absence From Iran Talks Highlights Stay-at-Home Role",
-    "author": "Michael Crowley",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html",
-    "content": "As President Trump prepares to send a delegation to the latest round of U.S.-Iran talks in Pakistan, his secretary of state, Marco Rubio, will remain where he often does: at home.",
-    "date": "2026-04-25T05:20:04",
     "category": "NYT"
   }
 ]
