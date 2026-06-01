@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/01/movies/andre-holland-tribeca-festival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tribeca Festival: Andre Holland\u2019s Ability to Connect to Audiences Is on Display",
+    "author": "Nicolas Rapold",
+    "link": "https://www.nytimes.com/2026/06/01/movies/andre-holland-tribeca-festival.html",
+    "content": "Andre Holland in Marietta, Ga. He is starring in two films premiering in this year\u2019s Tribeca Festival.",
+    "date": "2026-06-01T17:10:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/01/movies/cruising-gay-tribeca-documentary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At Tribeca, a New Look at an \u201980s Thriller About New York\u2019s Gay Underground",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/06/01/movies/cruising-gay-tribeca-documentary.html",
+    "content": "The troubled legacy of \u201cCruising\u201d is the subject of \u201cMineshaft: The Cruising Murders,\u201d a documentary premiering at the Tribeca Festival.",
+    "date": "2026-06-01T17:09:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/arts/television/euphoria-season-3-finale-rue.html",
     "feed_name": "NYT (Arts)",
     "title": "In the \u2018Euphoria\u2019 Finale, the HBO Show Goes Out With a Whimper",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
     "content": "The actor and comedian is keenly aware of humanity\u2019s limitations, but he\u2019s not giving up.",
     "date": "2026-04-25T09:15:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Seeks to Abolish Iran\u2019s Atomic Stockpile, a Problem He Helped Create",
-    "author": "William J. Broad and David E. Sanger",
-    "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html",
-    "content": "In February in preparation for a possible war with the United States, Iran moved missile launchers into positions within striking distance of Israeli and American military forces.",
-    "date": "2026-04-25T09:02:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How a Systems Glitch at Fidelity Caused One Woman\u2019s Savings to Disappear",
-    "author": "Tara Siegel Bernard",
-    "link": "https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html",
-    "content": "Fidelity Investments notified a customer that her phone number and email address had been removed from her profile. When she logged in, her accounts and savings were nowhere to be found.",
-    "date": "2026-04-25T09:02:39",
     "category": "NYT"
   }
 ]
