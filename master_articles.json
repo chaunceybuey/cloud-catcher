@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/01/arts/andy-halliday-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Andy Halliday, a Star of \u2018Vampire Lesbians of Sodom,\u2019 Dies at 73",
+    "author": "Penelope Green",
+    "link": "https://www.nytimes.com/2026/06/01/arts/andy-halliday-dead.html",
+    "content": "A beloved member of Charles Busch\u2019s Theater in Limbo repertory, he had an irrepressibly comic stage presence that masked a shy, tender disposition.",
+    "date": "2026-06-01T21:37:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/arts/television/movies-tv-shows-june-2026-streaming.html",
     "feed_name": "NYT (Arts)",
     "title": "The Best Movies and TV Shows Coming to Disney+, Amazon, AMC+, Apple TV and More in June",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
     "content": "A satellite view of the Bering Strait, which separates northeastern Russia and Alaska, in summer.",
     "date": "2026-04-25T12:44:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/opinion/elon-musk-donald-trump-influence.html",
-    "feed_name": "Douthat",
-    "title": "The Political Defeats of Elon Musk",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/04/25/opinion/elon-musk-donald-trump-influence.html",
-    "content": "His political malpractice will loom large in the history of Trump 2.0.",
-    "date": "2026-04-25T11:47:50",
     "category": "NYT"
   }
 ]
