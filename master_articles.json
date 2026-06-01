@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/01/theater/awake-and-sing-broadway-burstein-hecht-shamos.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Awake and Sing!\u2019 Heads to Broadway With Danny Burstein and Jessica Hecht",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/01/theater/awake-and-sing-broadway-burstein-hecht-shamos.html",
+    "content": "From left: Danny Burstein, Jessica Hecht and Jeremy Shamos. Hecht, a three-time Tony nominee, will play Bessie Berger, the family matriarch of \u201cAwake and Sing!\u201d",
+    "date": "2026-06-01T12:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "6a187520931e039d612e0957",
     "feed_name": "Wired",
     "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/24/arts/music/michael-jackson-second-family-cascio.html",
     "content": "The Cascio siblings: from left, Dominic, Aldo, Marie Nicole and Eddie.",
     "date": "2026-04-24T15:23:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Tariffs Raised Consumers\u2019 Prices, but the Refunds Go Only to Businesses",
-    "author": "Tony Romm",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
-    "content": "The biggest beneficiaries of tariff refunds may include retail giants like Costco, even if companies passed the costs onto their customers.",
-    "date": "2026-04-24T13:57:43",
     "category": "NYT"
   }
 ]
