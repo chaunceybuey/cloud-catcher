@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/01/arts/fun-things-to-do-nyc-june.html",
+    "feed_name": "NYT (Arts)",
+    "title": "33 Fun Things to Do in N.Y.C. in June",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/06/01/arts/fun-things-to-do-nyc-june.html",
+    "content": "A participant in last year\u2019s Mermaid Parade at Coney Island. It returns on June 20.",
+    "date": "2026-06-01T13:51:24",
+    "category": "NYT"
+  },
+  {
     "id": "4c9055c9c91046fe1360b1440089e23e",
     "feed_name": "LRB",
     "title": "Chattiness",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/25/us/politics/lafayette-park-fountains-trump-contract.html",
     "content": "The National Park Service has said the fountains needed to be revamped by May 2026 to be ready for the country\u2019s 250th birthday.",
     "date": "2026-04-25T09:00:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-    "feed_name": "NYT (Shared)",
-    "title": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
-    "author": "Stephanie Nolen and Arlette Bashizi",
-    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-    "content": "Maureen Dhaka, left, with her baby in the neonatal unit at Arthur Davison Children\u2019s Hospital in Ndola, Zambia.",
-    "date": "2026-04-25T09:00:14",
     "category": "NYT"
   }
 ]
