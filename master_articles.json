@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/01/dining/bright-and-colorful-fish-and-lentils.html",
+    "feed_name": "NYT (Food)",
+    "title": "Bright and Colorful Fish and Lentils",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/06/01/dining/bright-and-colorful-fish-and-lentils.html",
+    "content": "Yewande Komolafe\u2019s fish and lentils with sauce rof.",
+    "date": "2026-06-01T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/arts/fun-things-to-do-nyc-june.html",
     "feed_name": "NYT (Arts)",
     "title": "33 Fun Things to Do in N.Y.C. in June",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/25/arts/podcasts-classical-music-beethoven.html",
     "content": "These shows demystify a genre unfairly perceived as archaic and stuffy with expert analysis, musical selections and pure fun.",
     "date": "2026-04-25T09:02:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/25/us/politics/lafayette-park-fountains-trump-contract.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Firm Building Trump\u2019s Ballroom Got a Secret No-Bid Contract for a Nearby Job",
-    "author": "David A. Fahrenthold, Luke Broadwater and Andrea Fuller",
-    "link": "https://www.nytimes.com/2026/04/25/us/politics/lafayette-park-fountains-trump-contract.html",
-    "content": "The National Park Service has said the fountains needed to be revamped by May 2026 to be ready for the country\u2019s 250th birthday.",
-    "date": "2026-04-25T09:00:49",
     "category": "NYT"
   }
 ]
