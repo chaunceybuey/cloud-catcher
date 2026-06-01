@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/01/arts/television/cape-fear-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Cape Fear\u2019 and 7 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/06/01/arts/television/cape-fear-tv-this-week.html",
+    "content": "Patrick Wilson and Amy Adams in \u201cCape Fear.\u201d",
+    "date": "2026-06-01T05:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/arts/television/popcast-euphoria-sam-levinson-interview.html",
     "feed_name": "NYT (Arts)",
     "title": "Sam Levinson on Why \u2018Euphoria\u2019 Had to End This Way. For Good.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/24/travel/5-european-resistance-museums.html",
     "content": "For many visitors to these European museums, the acts of those who opposed Nazism and Fascism have become newly relevant.",
     "date": "2026-04-24T09:01:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/24/opinion/trucking-safety.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Why Trucking is So Deadly",
-    "author": "Craig Fuller",
-    "link": "https://www.nytimes.com/2026/04/24/opinion/trucking-safety.html",
-    "content": "The trucking industry captured its regulator, and safety suffered.",
-    "date": "2026-04-24T09:00:31",
     "category": "NYT"
   }
 ]
