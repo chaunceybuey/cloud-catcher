@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/arts/television/netflix-new-june.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Movies and TV Shows Coming to Netflix in June",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/06/02/arts/television/netflix-new-june.html",
+    "content": "Oscar Isaac plays both the Italian poet Dante Alighieri and the novelist Nick Tosches in the film adaptation \u201cIn the Hand of Dante.\u201d",
+    "date": "2026-06-02T16:55:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/arts/design/education-department-earnings-salary.html",
     "feed_name": "NYT (Arts)",
     "title": "New Federal Guidelines Threaten Almost Half of Graduate Arts Programs",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
     "content": "This gold comes from a Colombian drug cartel mine. It should never end up at the U.S. Mint.\n\nBut it does.",
     "date": "2026-04-26T11:57:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Ukraine Has Picked Up the Torch America Dropped",
-    "author": "David French",
-    "link": "https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
-    "content": "The world is looking to Volodymyr Zelensky for leadership.",
-    "date": "2026-04-26T11:50:24",
     "category": "NYT"
   }
 ]
