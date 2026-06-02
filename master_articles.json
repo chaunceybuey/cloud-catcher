@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "c6838a9d7125b015c1a5bf9e12e90b49",
+    "feed_name": "The Atlantic",
+    "title": "Why the Worst Get on Top",
+    "author": "David Frum",
+    "link": "https://www.theatlantic.com/ideas/2026/06/bill-pulte-hayek/687399/",
+    "content": "Trump\u2019s choice of Bill Pulte for acting director of national intelligence is both terrifying and predictable.",
+    "date": "2026-06-02T15:35:00",
+    "category": "Magazines"
+  },
+  {
     "id": "854fd22f0a3c0668a6d6c9a884a2d208",
     "feed_name": "LRB",
     "title": "Ferris Wheel",
@@ -19988,15 +19998,5 @@
     "content": "Wifredo Lam\u2019s paintings spring from a unique synthesis of European modernism and Afro-Cuban consciousness.\n\nDelivered by PolitePaul service",
     "date": "2026-04-26T12:18:45",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/business/children-rising-costs.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Rising Costs Are Causing Couples to Delay or Forgo Having Children",
-    "author": "Kailyn Rhone",
-    "link": "https://www.nytimes.com/2026/04/26/business/children-rising-costs.html",
-    "content": "Brock Goodwin, left, and Rilee Stewart had long expected that they would have several children. But after weighing all the costs, they decided not to have children at all.",
-    "date": "2026-04-26T12:01:55",
-    "category": "NYT"
   }
 ]
