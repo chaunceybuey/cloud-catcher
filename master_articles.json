@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/opinion/graham-platner-morality-sexting.html",
+    "feed_name": "Douthat",
+    "title": "Graham Platner, Ken Paxton and the Amoral Center",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/06/02/opinion/graham-platner-morality-sexting.html",
+    "content": "Why a morally divided country might find sleazy candidates reassuring.",
+    "date": "2026-06-02T21:02:53",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232261",
+    "feed_name": "Texas Tribune",
+    "title": "Screwworm are closer than ever to Texas, but not 1 mile away as lawmaker claims",
+    "author": "By Jayme Lozano Carver and",
+    "link": "https://feeds.texastribune.org/link/16799/17352873/texas-screwworm-1-mile-brooke-rollins-don-mclaughlin",
+    "content": "Communities along the U.S-Mexico border are bracing for the New World screwworm, a fly that poses a major threat to Texas&#039; billion-dollar cattle industry.",
+    "date": "2026-06-02T20:50:09",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/movies/marcia-lucas-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Marcia Lucas, Oscar-Winning \u2018Star Wars\u2019 Editor, Dies at 80",
@@ -19978,25 +19998,5 @@
     "content": "A medida que los precios del metal se disparan, las salvaguardas de la industria se han roto.",
     "date": "2026-04-26T14:29:25",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html",
-    "feed_name": "NYT (Shared)",
-    "title": "California Man Identified as Cole Tomas Allen in Custody After Shooting at Dinner Attended by Trump",
-    "author": "Pooja Salhotra",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html",
-    "content": "Emergency personnel raced to the Washington Hilton.",
-    "date": "2026-04-26T13:59:45",
-    "category": "NYT"
-  },
-  {
-    "id": "230e0243-038c-45ae-82ba-a101869917db",
-    "feed_name": "Economist",
-    "title": "Will Kevin Warsh Trumpify the Federal Reserve?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/26/will-kevin-warsh-trumpify-the-federal-reserve",
-    "content": "The incoming Fed chair says he wants regime change. But a revolution is unlikely",
-    "date": "2026-04-26T13:17:44",
-    "category": "Magazines"
   }
 ]
