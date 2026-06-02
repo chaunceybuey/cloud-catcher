@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/arts/dance/ballet-tech-kids-dance-alumni.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ballet Tech Gave Them Dance. Now They Give Back.",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/06/02/arts/dance/ballet-tech-kids-dance-alumni.html",
+    "content": "Ballet Tech students, from left, Virginie Wallace, Memphis Haas, Amelia Chan, Coral Torres-Hara, Nicholas Begun. Front, Leo Patel.",
+    "date": "2026-06-02T15:41:51",
+    "category": "NYT"
+  },
+  {
     "id": "854fd22f0a3c0668a6d6c9a884a2d208",
     "feed_name": "LRB",
     "title": "Ferris Wheel",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/opinion/clarence-thomas-sonia-sotomayor-supreme-court.html",
     "content": "A revealing glimpse of the state of the Supreme Court, on the verge of momentous rulings in the weeks ahead.",
     "date": "2026-04-26T11:00:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
-    "feed_name": "NYT (Shared)",
-    "title": "40 Years After the Meltdown, War Layers Another Disaster on Chernobyl",
-    "author": "Andrew E. Kramer, Evelina Riabenko and Brendan Hoffman",
-    "link": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
-    "content": "Ideas have been floated for how the contaminated zone could bring economic benefits to Ukraine. But for the foreseeable future, it will be an army-controlled security belt.",
-    "date": "2026-04-26T10:32:14",
     "category": "NYT"
   }
 ]
