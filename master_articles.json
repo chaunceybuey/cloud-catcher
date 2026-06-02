@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=232139",
+    "feed_name": "Texas Tribune",
+    "title": "Announcing our next round of can\u2019t-miss speakers for September\u2019s TribFest",
+    "author": "Matt Ewalt",
+    "link": "https://feeds.texastribune.org/link/16799/17352570/tribfest-speakers-marjorie-taylor-greene-pete-sessions-amy-webb",
+    "content": "Marjorie Taylor Greene, Amy Webb, Pete Sessions and Annette Gordon-Reed among newly announced TribFest voices helping us navigate a world in flux.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17352570.gif\" width=\"1\" />",
+    "date": "2026-06-02T11:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/arts/design/winston-churchill-painter-wallace-collection.html",
     "feed_name": "NYT (Arts)",
     "title": "Was Churchill a Serious Artist? This Exhibition Says, \u2018Yes.\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/science/deer-chronic-wasting-disease.html",
     "content": "Caught on a trail cam on the property of the photographer Julia Rendleman in Makanda, Ill.",
     "date": "2026-04-26T09:00:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case",
-    "author": "Hiroko Tabuchi",
-    "link": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
-    "content": "The Supreme Court in Washington. The Trump administration has formally backed Bayer in the case.",
-    "date": "2026-04-26T09:00:36",
     "category": "NYT"
   }
 ]
