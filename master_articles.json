@@ -80,6 +80,36 @@
     "category": "Texas"
   },
   {
+    "id": "854fd22f0a3c0668a6d6c9a884a2d208",
+    "feed_name": "LRB",
+    "title": "Ferris Wheel",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/june/ferris-wheel",
+    "content": "My back\u2019s feeling better so I\u2019ve started driving for Snapp! again. My first passenger of the night was a man in his mid-fifties, with white.\u00a0.\u00a0.",
+    "date": "2026-06-02T14:55:19",
+    "category": "Magazines"
+  },
+  {
+    "id": "77c48abc1e4e40af6f6e44a0a3bb6c76",
+    "feed_name": "Compact",
+    "title": "Hungary\u2019s New Power Elite",
+    "author": "",
+    "link": "https://www.compactmag.com/article/hungarys-new-power-elite/",
+    "content": "",
+    "date": "2026-06-02T14:55:16",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/02/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Oriana Lights the Wood-Fired Grill Just in Time for Summer",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/06/02/dining/nyc-restaurant-news.html",
+    "content": "A luxury sushi restaurant gets a New York location, Red Beard Coffee & Bakery serves creative riffs on classics and more restaurant news.",
+    "date": "2026-06-02T14:49:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/dining/dense-bean-salad.html",
     "feed_name": "NYT (Food)",
     "title": "Violet Witchel Wants to You to Think Beans Are Sexy",
@@ -108,6 +138,16 @@
     "content": "Marjorie Taylor Greene, Amy Webb, Pete Sessions and Annette Gordon-Reed among newly announced TribFest voices helping us navigate a world in flux.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17352570.gif\" width=\"1\" />",
     "date": "2026-06-02T11:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "0c449e1605dbc5ff79ede3395ee29589",
+    "feed_name": "The Atlantic",
+    "title": "Democrats Must Learn to Talk Sports",
+    "author": "Nathaniel Frum",
+    "link": "https://www.theatlantic.com/ideas/2026/06/democrats-sports-hot-takes/687397/",
+    "content": "Politicians need as much attention as possible, as frequently as possible, while seeming as relatable as possible. A cheat code exists to hit all three objectives.",
+    "date": "2026-06-02T11:00:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/06/02/arts/design/winston-churchill-painter-wallace-collection.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/world/europe/chernobyl-anniversary.html",
     "content": "Ideas have been floated for how the contaminated zone could bring economic benefits to Ukraine. But for the foreseeable future, it will be an army-controlled security belt.",
     "date": "2026-04-26T10:32:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Describes His Mind-Set After Shooting at White House Correspondents\u2019 Dinner",
-    "author": "Shawn McCreesh and Tyler Pager",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html",
-    "content": "President Trump speaking in the White House briefing room on Saturday night.",
-    "date": "2026-04-26T09:20:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/opinion/iran-cost-united-states-iraq-ukraine.html",
-    "feed_name": "NYT (Shared)",
-    "title": "We Will Be Paying for the Iran War for a Very Long Time",
-    "author": "Haider Ali Hussein Mullick",
-    "link": "https://www.nytimes.com/2026/04/26/opinion/iran-cost-united-states-iraq-ukraine.html",
-    "content": "The Iran conflict resembles others the United States has been involved in recently: easy to start and hard to end.",
-    "date": "2026-04-26T09:02:21",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/us/trump-administration-food-stamps.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Trump Administration Has Changed Almost Every Aspect of Food Stamps",
-    "author": "Linda Qiu",
-    "link": "https://www.nytimes.com/2026/04/26/us/trump-administration-food-stamps.html",
-    "content": "Legislation and regulatory tweaks enacted over the past year have altered who is eligible, what recipients can buy and how much some receive in benefits, among other changes.",
-    "date": "2026-04-26T09:02:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html",
-    "feed_name": "NYT (Shared)",
-    "title": "How We Traced U.S. Government Gold to a Drug Cartel",
-    "author": "Justin Scheck",
-    "link": "https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html",
-    "content": "The reporter Justin Scheck of The Times at La Mandinga, in Colombia. It\u2019s a government-owned cattle ranch where illegal miners tear up the earth.",
-    "date": "2026-04-26T09:02:15",
     "category": "NYT"
   }
 ]
