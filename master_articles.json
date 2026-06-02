@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "1051d484fdb7592d350930f178c3f60e",
+    "feed_name": "The Atlantic",
+    "title": "All These Defeats Are Ruining Trump\u2019s Birthday",
+    "author": "Idrees Kahloon",
+    "link": "https://www.theatlantic.com/ideas/2026/06/defeats-trumps-birthday/687393/",
+    "content": "The end of Trump\u2019s \u201canti-weaponization\u201d fund is the latest in a series of setbacks.",
+    "date": "2026-06-01T22:20:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/01/arts/andy-halliday-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Andy Halliday, a Star of \u2018Vampire Lesbians of Sodom,\u2019 Dies at 73",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/24/t-magazine/ojai-california-tiny-oranges-pink-sunsets.html",
     "content": "Surrounded by citrus groves and hiking trails, Ojai is an irresistible escape for nature enthusiasts, spiritual seekers and fans of giant tortoises.",
     "date": "2026-04-25T12:58:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A New Idea to Save the AMOC? Dam the Bering Strait.",
-    "author": "Raymond Zhong",
-    "link": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
-    "content": "A satellite view of the Bering Strait, which separates northeastern Russia and Alaska, in summer.",
-    "date": "2026-04-25T12:44:34",
     "category": "NYT"
   }
 ]
