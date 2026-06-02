@@ -80,6 +80,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/arts/music/peabo-bryson-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Peabo Bryson, Soul Singer Known as the Voice of Love, Dies at 75",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/06/02/arts/music/peabo-bryson-dead.html",
+    "content": "Peabo Bryson in 2005. His songs, which dealt with complex relationships and passionate love, dominated the soul and R&B charts for nearly two decades.",
+    "date": "2026-06-02T22:39:39",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232266",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Can Austin\u2019s Project Connect get back on track?",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17352936/tribcast-project-connect-austin-transit-light-rail",
+    "content": "A biker rides past the CapMetro Red Line train at the Downtown Station during the South by Southwest festival on March 13, 2026.",
+    "date": "2026-06-02T22:20:04",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232273",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Secretary of State Jane Nelson stepping down",
+    "author": "By Natalia Contreras, VOTEBEAT AND THE TEXAS TRIBUNE",
+    "link": "https://feeds.texastribune.org/link/16799/17352937/texas-secretary-state-jane-nelson-resigns",
+    "content": "Texas Secretary of State Jane Nelson presides over the Texas House during the opening ceremony of the 89th Texas legislative session at the Capitol in Austin on Jan. 14, 2025.",
+    "date": "2026-06-02T21:51:57",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232276",
     "feed_name": "Texas Tribune",
     "title": "Victorious Paxton goes to Washington as former GOP foes open their doors \u2014 and wallets",
@@ -19968,35 +19998,5 @@
     "content": "Artificial intelligence is booming. Its heartland is not",
     "date": "2026-04-26T16:23:37",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "In Japan, the Fight Is on Against Unruly Tourists",
-    "author": "Javier C. Hern\u00e1ndez, Kiuko Notoya and Kentaro Takahashi",
-    "link": "https://www.nytimes.com/2026/04/26/world/asia/japan-fuji-tourism-cherry-blossoms-overtourism.html",
-    "content": "Tourists in April in Fujiyoshida, Japan.",
-    "date": "2026-04-26T15:59:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/opinion/ice-raids-chicago-constitution.html",
-    "feed_name": "NYT (Shared)",
-    "title": "\u2018It Wasn\u2019t Real, but It Was Real\u2019",
-    "author": "Megan K. Stack",
-    "link": "https://www.nytimes.com/2026/04/26/opinion/ice-raids-chicago-constitution.html",
-    "content": "How ICE transformed a Chicago neighborhood.",
-    "date": "2026-04-26T15:58:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Dwarkesh Patel\u2019s Podcast Lets You Eavesdrop on the A.I. Elite",
-    "author": "Benjamin Wallace",
-    "link": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html",
-    "content": "Dwarkesh Patel in his office and studio in San Francisco. \u201cHe\u2019s very much in the community, in the inner ring,\u201d one tech executive said.",
-    "date": "2026-04-26T15:09:36",
-    "category": "NYT"
   }
 ]
