@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "9ad6a920-e1dc-4578-afe9-85800bb29afa",
+    "feed_name": "Economist",
+    "title": "Want to know the future? Don\u2019t trust the stockmarket",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/02/want-to-know-the-future-dont-trust-the-stockmarket",
+    "content": "Share prices are buffeted by far more than just new information",
+    "date": "2026-06-02T18:39:21",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/arts/music/amplifier-newsletter-paul-mccartney.html",
     "feed_name": "NYT (Arts)",
     "title": "The Dark Side of Paul McCartney",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/05/14/the-music-of-what-happens-poems-of-seamus-heaney/",
     "content": "Seamus Heaney\u2019s complete poems, following on editions of his letters, prose, and translations, confirm the extent of his achievement.\n\nDelivered by PolitePaul service",
     "date": "2026-04-26T12:33:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/14/a-vital-unconscious-wifredo-lam/",
-    "feed_name": "NYRB",
-    "title": "A Vital Unconscious",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/14/a-vital-unconscious-wifredo-lam/",
-    "content": "Wifredo Lam\u2019s paintings spring from a unique synthesis of European modernism and Afro-Cuban consciousness.\n\nDelivered by PolitePaul service",
-    "date": "2026-04-26T12:18:45",
     "category": "Magazines"
   }
 ]
