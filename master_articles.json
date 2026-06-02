@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/arts/design/education-department-earnings-salary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "New Federal Guidelines Threaten Almost Half of Graduate Arts Programs",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/06/02/arts/design/education-department-earnings-salary.html",
+    "content": "The master\u2019s degree program in museum studies at Harvard University is among those that would fail proposed federal guidelines examining how much alumni make after graduation.",
+    "date": "2026-06-02T16:08:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/arts/dance/ballet-tech-kids-dance-alumni.html",
     "feed_name": "NYT (Arts)",
     "title": "Ballet Tech Gave Them Dance. Now They Give Back.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html",
     "content": "The world is looking to Volodymyr Zelensky for leadership.",
     "date": "2026-04-26T11:50:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/opinion/clarence-thomas-sonia-sotomayor-supreme-court.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Is the Supreme Court Coming Apart at the Seams?",
-    "author": "Jesse Wegman",
-    "link": "https://www.nytimes.com/2026/04/26/opinion/clarence-thomas-sonia-sotomayor-supreme-court.html",
-    "content": "A revealing glimpse of the state of the Supreme Court, on the verge of momentous rulings in the weeks ahead.",
-    "date": "2026-04-26T11:00:12",
     "category": "NYT"
   }
 ]
