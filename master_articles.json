@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Martin Scorsese Is Embracing A.I.",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html",
+    "content": "Martin Scorsese signed on last year as a partner and an adviser to Black Forest Labs, a fast-rising A.I. venture.",
+    "date": "2026-06-02T13:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232139",
     "feed_name": "Texas Tribune",
     "title": "Announcing our next round of can\u2019t-miss speakers for September\u2019s TribFest",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/nyregion/metropolitan-diary.html",
     "content": "A Manhattan friendship endures, a clown to the rescue and more reader tales of New York City in this week\u2019s Metropolitan Diary.",
     "date": "2026-04-26T09:02:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/science/deer-chronic-wasting-disease.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Targeted Hunts Were Supposed to Curb \u2018Zombie Deer Disease.\u2019 Now What?",
-    "author": "Jim Robbins and Julia Rendleman",
-    "link": "https://www.nytimes.com/2026/04/26/science/deer-chronic-wasting-disease.html",
-    "content": "Caught on a trail cam on the property of the photographer Julia Rendleman in Makanda, Ill.",
-    "date": "2026-04-26T09:00:48",
     "category": "NYT"
   }
 ]
