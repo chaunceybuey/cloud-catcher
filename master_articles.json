@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/movies/marcia-lucas-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Marcia Lucas, Oscar-Winning \u2018Star Wars\u2019 Editor, Dies at 80",
+    "author": "Alex Traub",
+    "link": "https://www.nytimes.com/2026/06/02/movies/marcia-lucas-dead.html",
+    "content": "Marcia Lucas in 1978 with the Academy Award she won for her work on the first \u201cStar Wars\u201d movie, directed by her husband, George Lucas, right. After they divorced, she left the movie business.",
+    "date": "2026-06-02T20:10:49",
+    "category": "NYT"
+  },
+  {
     "id": "9ad6a920-e1dc-4578-afe9-85800bb29afa",
     "feed_name": "Economist",
     "title": "Want to know the future? Don\u2019t trust the stockmarket",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/05/14/manet-and-morisot-game-on-tallman/",
     "content": "An important exhibition showcases a painterly repartee that altered the trajectory of the two artists\u2019 work and, by extension, modern art itself.\n\nDelivered by PolitePaul service",
     "date": "2026-04-26T12:48:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/14/the-music-of-what-happens-poems-of-seamus-heaney/",
-    "feed_name": "NYRB",
-    "title": "\u2018The Music of What Happens\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/14/the-music-of-what-happens-poems-of-seamus-heaney/",
-    "content": "Seamus Heaney\u2019s complete poems, following on editions of his letters, prose, and translations, confirm the extent of his achievement.\n\nDelivered by PolitePaul service",
-    "date": "2026-04-26T12:33:45",
     "category": "Magazines"
   }
 ]
