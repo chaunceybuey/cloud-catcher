@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/arts/music/amplifier-newsletter-paul-mccartney.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Dark Side of Paul McCartney",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/06/02/arts/music/amplifier-newsletter-paul-mccartney.html",
+    "content": "Paul McCartney performing with Wings in a 1976 concert.",
+    "date": "2026-06-02T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/arts/television/netflix-new-june.html",
     "feed_name": "NYT (Arts)",
     "title": "The Best Movies and TV Shows Coming to Netflix in June",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/business/children-rising-costs.html",
     "content": "Brock Goodwin, left, and Rilee Stewart had long expected that they would have several children. But after weighing all the costs, they decided not to have children at all.",
     "date": "2026-04-26T12:01:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Mint Buys Drug Cartel Gold and Sells It as \u2018American\u2019",
-    "author": "Justin Scheck, Sim\u00f3n Posada and Federico Rios",
-    "link": "https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html",
-    "content": "This gold comes from a Colombian drug cartel mine. It should never end up at the U.S. Mint.\n\nBut it does.",
-    "date": "2026-04-26T11:57:39",
     "category": "NYT"
   }
 ]
