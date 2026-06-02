@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Updates America on the Lineup for Its 250th Birthday Bash",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html",
+    "content": "\u201cInstead of music, the entertainment will be an 80-year-old man yelling about windmills,\u201d Jimmy Kimmel said after President Trump said he would headline a summer concert series.",
+    "date": "2026-06-02T06:46:53",
+    "category": "NYT"
+  },
+  {
     "id": "1051d484fdb7592d350930f178c3f60e",
     "feed_name": "The Atlantic",
     "title": "All These Defeats Are Ruining Trump\u2019s Birthday",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/25/opinion/measles-vaccines-rfk-jr.html",
     "content": "Reversing the new vaccine skepticism will require a dedicated effort.",
     "date": "2026-04-25T13:22:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/24/t-magazine/ojai-california-tiny-oranges-pink-sunsets.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Where to Eat, Sleep and Shop in Ojai, California",
-    "author": "Ella Riley-Adams",
-    "link": "https://www.nytimes.com/2026/04/24/t-magazine/ojai-california-tiny-oranges-pink-sunsets.html",
-    "content": "Surrounded by citrus groves and hiking trails, Ojai is an irresistible escape for nature enthusiasts, spiritual seekers and fans of giant tortoises.",
-    "date": "2026-04-25T12:58:20",
     "category": "NYT"
   }
 ]
