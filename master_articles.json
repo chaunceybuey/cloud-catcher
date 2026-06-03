@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=232312",
+    "feed_name": "Texas Tribune",
+    "title": "Sid Miller to join Democratic nominee for agriculture commissioner at data center forum",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17352984/sid-miller-clayton-tucker-texas-data-center-forum",
+    "content": "Agriculture Commissioner Sid Miller and Democratic nominee for the job Clayton Tucker. Miller was defeated by challenger Nate Sheets in the March Republican primary.",
+    "date": "2026-06-03T00:47:58",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/arts/music/peabo-bryson-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Peabo Bryson, Soul Singer Known as the Voice of Love, Dies at 75",
@@ -19988,15 +19998,5 @@
     "content": "The construction site for the new White House ballroom last month.",
     "date": "2026-04-26T16:50:13",
     "category": "NYT"
-  },
-  {
-    "id": "688d2c72-0b02-42b4-afd0-eb33d261f0e3",
-    "feed_name": "Economist",
-    "title": "San Francisco, AI capital of the world, is an economic laggard",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
-    "content": "Artificial intelligence is booming. Its heartland is not",
-    "date": "2026-04-26T16:23:37",
-    "category": "Magazines"
   }
 ]
