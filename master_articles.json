@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/03/arts/design/venice-biennale-public-vote.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Artists Threaten to Sue Venice Biennale for Including Them in Awards",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/06/03/arts/design/venice-biennale-public-vote.html",
+    "content": "The Venice Biennale\u2019s central pavilion last month.",
+    "date": "2026-06-03T12:05:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232303",
     "feed_name": "Texas Tribune",
     "title": "National Democrats aim to flip 12 Texas House seats under newly expanded target list",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/27/travel/boundary-waters-copper-mine.html",
     "content": "A proposed copper mine in northern Minnesota has become a battleground for politicians and environmentalists \u2014 and a pressing reason to explore the waterways.",
     "date": "2026-04-27T09:02:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/27/opinion/trump-iran-war-powers.html",
-    "feed_name": "NYT (Shared)",
-    "title": "By Week\u2019s End, Trump\u2019s War Will Be Plainly Illegal",
-    "author": "Erwin Chemerinsky",
-    "link": "https://www.nytimes.com/2026/04/27/opinion/trump-iran-war-powers.html",
-    "content": "Federal judges have a duty to enforce the War Powers Act.",
-    "date": "2026-04-27T09:02:28",
     "category": "NYT"
   }
 ]
