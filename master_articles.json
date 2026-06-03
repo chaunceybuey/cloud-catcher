@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/03/arts/ted-danson-blackface-whoopi-goldberg-apology.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ted Danson Apologizes for Blackface Roast of Whoopi Goldberg in 1993",
+    "author": "Neil Vigdor",
+    "link": "https://www.nytimes.com/2026/06/03/arts/ted-danson-blackface-whoopi-goldberg-apology.html",
+    "content": "Whoopi Goldberg and Ted Danson before the Friars Club roast in 1993.",
+    "date": "2026-06-03T23:08:39",
+    "category": "NYT"
+  },
+  {
     "id": "2c55d828935673f3b7e9b48cd4431f78",
     "feed_name": "LRB",
     "title": "Olivia Laing & Jack Parlett: The Silver Book",
@@ -19986,16 +19996,6 @@
     "author": "ByBecca Rothfeld",
     "link": "https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review",
     "content": "Wolfgang Koeppen\u2019s \u201ctrilogy of failure,\u201d written from 1951 to 1954, is a sprawling, polyphonic portrait of a physically and morally shattered country.",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "85899de1c1899ffc0a0830fad3a7597b",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home",
-    "content": "\u201cIn Search of Now,\u201d \u201cNothing Random,\u201d \u201cOf Loss and Lavender,\u201d and \u201cNo Way Home.\u201d",
     "date": "2026-04-27T11:45:31",
     "category": "Magazines"
   }
