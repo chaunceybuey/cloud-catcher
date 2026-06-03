@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/02/theater/jerome-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Jerome\u2019 Review: Darkness Swallows a Three-Way Romance",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/06/02/theater/jerome-review.html",
+    "content": "John J. Caswell\u2019s triangular romance set in the early 1990s speaks to us from the smoking psychic caldera left by AIDS.",
+    "date": "2026-06-03T01:30:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232312",
     "feed_name": "Texas Tribune",
     "title": "Sid Miller to join Democratic nominee for agriculture commissioner at data center forum",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/briefing/apocalypse.html",
     "content": "The Ruby Ridge standoff in Idaho, in August 1992.",
     "date": "2026-04-26T16:51:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/us/politics/trump-white-house-ballroom-dinner-shooting.html",
-    "feed_name": "NYT (Shared)",
-    "title": "After Shooting, Trump Demands Approval for His White House Ballroom",
-    "author": "Luke Broadwater, Ali Watkins and Zach Montague",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/trump-white-house-ballroom-dinner-shooting.html",
-    "content": "The construction site for the new White House ballroom last month.",
-    "date": "2026-04-26T16:50:13",
     "category": "NYT"
   }
 ]
