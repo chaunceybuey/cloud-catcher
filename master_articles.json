@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/seared-tuna-beans-lunch-recipe",
+    "feed_name": "NYT (Food)",
+    "title": "A Beloved Pantry Lunch Gets Its Glow Up",
+    "author": "David Tanis",
+    "link": "https://cooking.nytimes.com/article/seared-tuna-beans-lunch-recipe",
+    "content": "Tuna and beans is a classic pairing, but quickly searing the fish and long-simmering the beans makes it worthy of a dinner party.",
+    "date": "2026-06-03T18:08:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8779550#p8779550",
     "feed_name": "Vanguard",
     "title": "Re: Vanguard Cash Plus Account",
@@ -19986,16 +19996,6 @@
     "author": "ByTishani Doshi",
     "link": "https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem",
     "content": "\u201cLast night, after months away from home, / a lapwing piercing the still dark still / with its warnings.\u201d",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "725cf45b7c0e15ace6e3a7618b8e67ce",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-may-4-2026-issue",
-    "content": "Drawings from the May 4, 2026, magazine.",
     "date": "2026-04-27T11:45:31",
     "category": "Magazines"
   }
