@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/03/theater/caissie-levy-broadway-tonys-ragtime.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Caissie Levy, Tony Awards Contender and \u2018Ragtime\u2019 Star, Is Having a Moment",
+    "author": "Michael Paulson and George Etheredge",
+    "link": "https://www.nytimes.com/2026/06/03/theater/caissie-levy-broadway-tonys-ragtime.html",
+    "content": "Caissie Levy was Broadway\u2019s first Elsa. She starred in \u201cHair\u201d and \u201cGhost.\u201d And now, for \u201cRagtime,\u201d she is an odds-on favorite to win a Tony Award.",
+    "date": "2026-06-03T15:38:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/06/trump-superficiality/687413/",
     "feed_name": "Chait",
     "title": "Donald Trump\u2019s Superficiality Is Bone Deep",
@@ -19988,15 +19998,5 @@
     "content": "A farmer in Vietnam preparing plastic containers of diesel he had just purchased.",
     "date": "2026-04-27T10:27:03",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227600",
-    "feed_name": "Texas Tribune",
-    "title": "See what state employees in Texas are paid: Search our updated database.",
-    "author": "Rob Reid",
-    "link": "https://feeds.texastribune.org/link/16799/7382318/",
-    "content": "The Texas Tribune\u2019s database of state employees\u2019 compensation has been updated to include salaries as of April. 1.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/7382318.gif\" width=\"1\" />",
-    "date": "2026-04-27T10:00:00",
-    "category": "Texas"
   }
 ]
