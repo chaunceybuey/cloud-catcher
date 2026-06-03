@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=232360",
+    "feed_name": "Texas Tribune",
+    "title": "First U.S. suspected case of New World screwworm reported in South Texas",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17353560/new-world-screwworm-texas-reported-case",
+    "content": "The U.S. Department of Agriculture is testing a suspected case of New World screwworm in South Texas. It would be the first of its kind in the U.S. in decades.",
+    "date": "2026-06-03T20:06:26",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/03/briefing/03-the-good-list-knicks-rothko.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Bring Delight to Your Day",
@@ -19986,16 +19996,6 @@
     "author": "ByJennifer Homans",
     "link": "https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last",
     "content": "As the company she left behind celebrates its centenary, it finds itself caught between preservation and radical tradition.",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "8e3a368b7c70555ce05ef9cdef98f867",
-    "feed_name": "New Yorker",
-    "title": "\u201cHalf Man\u201d Tests the Limits of Brotherly Love",
-    "author": "ByInkoo Kang",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/half-man-tv-review-hbo",
-    "content": "Richard Gadd\u2019s follow-up to \u201cBaby Reindeer\u201d traces a decades-long quasi-familial relationship that\u2019s thornier than any other male bond on TV.",
     "date": "2026-04-27T11:45:31",
     "category": "Magazines"
   }
