@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/03/arts/music/john-mcclain-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "John McClain, Who Helped Keep Michael Jackson\u2019s Profits Flowing, Dies at 72",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/06/03/arts/music/john-mcclain-dead.html",
+    "content": "John McClain in 1998. He was a producer of the Jackson biopic \u201cMichael,\u201d released in April, which has earned about $850 million worldwide.",
+    "date": "2026-06-03T16:35:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/03/theater/caissie-levy-broadway-tonys-ragtime.html",
     "feed_name": "NYT (Arts)",
     "title": "Caissie Levy, Tony Awards Contender and \u2018Ragtime\u2019 Star, Is Having a Moment",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-04-27T11:45:30",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The War in Iran Has Upended the Global Economy. The U.S. Has Been Mostly Spared.",
-    "author": "Patricia Cohen and Ben Casselman",
-    "link": "https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html",
-    "content": "A farmer in Vietnam preparing plastic containers of diesel he had just purchased.",
-    "date": "2026-04-27T10:27:03",
-    "category": "NYT"
   }
 ]
