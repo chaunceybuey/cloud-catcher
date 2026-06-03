@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=232333",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi delays decision on nearly billion-dollar water plant despite impending crisis",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17353103/texas-corpus-christi-water-plant-desalination-decision",
+    "content": "A community member speaks against desalination during a Corpus Christi City Council meeting on June 2, 2026.",
+    "date": "2026-06-03T07:22:50",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/03/arts/television/late-night-trump-iran-war-negotiations.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Wants Trump to Give Peace Talks a Chance",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/us/politics/weijia-jiang-cbs-whca-shooting-trump.html",
     "content": "The CBS correspondent Weijia Jiang, the president of the White House Correspondents\u2019 Association, at the start of the group\u2019s annual dinner on Saturday.",
     "date": "2026-04-26T18:49:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Israel\u2019s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
-    "author": "Isabel Kershner",
-    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
-    "content": "Prime Minister Benjamin Netanyahu of Israel, left, with President Isaac Herzog, in Jerusalem last week.",
-    "date": "2026-04-26T17:57:24",
     "category": "NYT"
   }
 ]
