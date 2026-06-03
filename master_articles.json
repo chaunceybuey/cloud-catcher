@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8779550#p8779550",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "matt5728",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8779550#p8779550",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I tried to make Cash Plus work a yr ago, so some of these deficiencies may be outdated:<br />1. No support for trust accounts. Our main VG account is in the trust. So Cash Plus doesn't connect to our main VG account.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>They must have made it possible shortly after you tried. I opened a Cash Plus account owned by a trust in August 2025.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=197668\">matt5728</a> \u2014 Wed Jun 03, 2026 12:33 pm</p><hr />",
+    "date": "2026-06-03T17:33:02",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/03/theater/fantasticks-gloria-broadway-second-stage.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Fantasticks\u2019 and \u2018Gloria\u2019 Will Head to Broadway This Season",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/gallery/cartoons-from-the-may-4-2026-issue",
     "content": "Drawings from the May 4, 2026, magazine.",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "e5ddfa7d6ff97c801119a0fa217ff664",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Monday, April 27, 2026",
-    "author": "ByWill Nediger",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/04/27",
-    "content": "A challenging puzzle.",
     "date": "2026-04-27T11:45:31",
     "category": "Magazines"
   }
