@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "2c55d828935673f3b7e9b48cd4431f78",
+    "feed_name": "LRB",
+    "title": "Olivia Laing & Jack Parlett: The Silver Book",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/olivia-laing-jack-parlett-the-silver-book-tickets-1984380357066",
+    "content": "",
+    "date": "2026-06-03T21:51:06",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232360",
     "feed_name": "Texas Tribune",
     "title": "First U.S. suspected case of New World screwworm reported in South Texas",
@@ -98,6 +108,16 @@
     "content": "Questions for bats, Rothko weather and Knicks fever.",
     "date": "2026-06-03T19:44:47",
     "category": "NYT"
+  },
+  {
+    "id": "960383c7fbf9a121b6fcb6511a320839",
+    "feed_name": "The Atlantic",
+    "title": "A Gift From the Basketball Gods",
+    "author": "Michael Powell",
+    "link": "https://www.theatlantic.com/ideas/2026/06/knicks-spurs-nba-finals-brunson/687421/",
+    "content": "The Knicks represent the best of New York sports.",
+    "date": "2026-06-03T19:30:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=232352",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home",
     "content": "\u201cIn Search of Now,\u201d \u201cNothing Random,\u201d \u201cOf Loss and Lavender,\u201d and \u201cNo Way Home.\u201d",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "04063a2040bd04d5b457e8c0523185b9",
-    "feed_name": "New Yorker",
-    "title": "The Sqirl Redemption Arc",
-    "author": "ByHannah Goldfield",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc",
-    "content": "The beloved L.A. caf\u00e9 was brought low by a bucket of moldy jam. Now it\u2019s open for dinner.",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "8e63b4163b4430712bcfef1eed272815",
-    "feed_name": "New Yorker",
-    "title": "How Long Can Martha Graham\u2019s Dance Revolution Last?",
-    "author": "ByJennifer Homans",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last",
-    "content": "As the company she left behind celebrates its centenary, it finds itself caught between preservation and radical tradition.",
     "date": "2026-04-27T11:45:31",
     "category": "Magazines"
   }
