@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/03/arts/television/late-night-trump-iran-war-negotiations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Wants Trump to Give Peace Talks a Chance",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/03/arts/television/late-night-trump-iran-war-negotiations.html",
+    "content": "\u201cOh, I\u2019m sorry, is wrapping up the war you started not interesting enough?\u201d Michael Kosta said on Tuesday, after the president called negotiations with Iran \u201cboring.\u201d",
+    "date": "2026-06-03T06:26:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/02/theater/jerome-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Jerome\u2019 Review: Darkness Swallows a Three-Way Romance",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
     "content": "Prime Minister Benjamin Netanyahu of Israel, left, with President Isaac Herzog, in Jerusalem last week.",
     "date": "2026-04-26T17:57:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/26/briefing/apocalypse.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Apocalypse Goes Mainstream",
-    "author": "Lauren Jackson",
-    "link": "https://www.nytimes.com/2026/04/26/briefing/apocalypse.html",
-    "content": "The Ruby Ridge standoff in Idaho, in August 1992.",
-    "date": "2026-04-26T16:51:44",
     "category": "NYT"
   }
 ]
