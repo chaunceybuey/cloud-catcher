@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/03/briefing/03-the-good-list-knicks-rothko.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Bring Delight to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/06/03/briefing/03-the-good-list-knicks-rothko.html",
+    "content": "Questions for bats, Rothko weather and Knicks fever.",
+    "date": "2026-06-03T19:44:47",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232352",
+    "feed_name": "Texas Tribune",
+    "title": "Democrat Gina Hinojosa launches first ad of Texas governor\u2019s race, to be streamed during NBA Finals",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17353532/texas-governor-race-gina-hinojosa-ad-greg-abbott-nba-finals-spurs-2026-midterms",
+    "content": "State Rep. Gina Hinojosa, Democratic candidate for governor, speaks during her campaign launch event in Brownsville on Oct. 15, 2025.",
+    "date": "2026-06-03T18:55:02",
+    "category": "Texas"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/seared-tuna-beans-lunch-recipe",
     "feed_name": "NYT (Food)",
     "title": "A Beloved Pantry Lunch Gets Its Glow Up",
@@ -19976,26 +19996,6 @@
     "author": "ByInkoo Kang",
     "link": "https://www.newyorker.com/magazine/2026/05/04/half-man-tv-review-hbo",
     "content": "Richard Gadd\u2019s follow-up to \u201cBaby Reindeer\u201d traces a decades-long quasi-familial relationship that\u2019s thornier than any other male bond on TV.",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "b2bd66dc7df889dd879075faba5aca12",
-    "feed_name": "New Yorker",
-    "title": "\u201cTompkins Square\u201d",
-    "author": "ByAnthony Walton",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem",
-    "content": "\u201cIt was an evening they had planned, privately, in the sequester / of their thoughts for years before it could or should have / happened.\u201d",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "1c209f7b02d46b52121c357a97a692ce",
-    "feed_name": "New Yorker",
-    "title": "\u201cA Theory on the Origin of Language\u201d",
-    "author": "ByTishani Doshi",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem",
-    "content": "\u201cLast night, after months away from home, / a lapwing piercing the still dark still / with its warnings.\u201d",
     "date": "2026-04-27T11:45:31",
     "category": "Magazines"
   }
