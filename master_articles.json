@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/03/theater/fantasticks-gloria-broadway-second-stage.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Fantasticks\u2019 and \u2018Gloria\u2019 Will Head to Broadway This Season",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/06/03/theater/fantasticks-gloria-broadway-second-stage.html",
+    "content": "The 2015 production of Branden Jacobs-Jenkins\u2019s play \u201cGloria\u201d at the Vineyard Theater.",
+    "date": "2026-06-03T17:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/03/arts/music/john-mcclain-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "John McClain, Who Helped Keep Michael Jackson\u2019s Profits Flowing, Dies at 72",
@@ -19987,16 +19997,6 @@
     "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/04/27",
     "content": "A challenging puzzle.",
     "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "0f5a209b6f32c6b2a0ae2f146d89fdaa",
-    "feed_name": "Compact",
-    "title": "There Is No Epidemic of \u2018Alpine Divorce\u2019",
-    "author": "",
-    "link": "https://www.compactmag.com/article/there-is-no-epidemic-of-alpine-divorce/",
-    "content": "",
-    "date": "2026-04-27T11:45:30",
     "category": "Magazines"
   }
 ]
