@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "2e75fb15c471be9b4184d37af0133d4c",
+    "feed_name": "The Atlantic",
+    "title": "Has Graham Platner Changed Enough?",
+    "author": "Elizabeth Bruenig",
+    "link": "https://www.theatlantic.com/ideas/2026/06/graham-platner-maine-populism-elections/687429/",
+    "content": "Yet more damning revelations threaten to sink his Senate campaign.",
+    "date": "2026-06-04T22:12:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/movies/scary-movie-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Scary Movie\u2019 Review: Too Many Movies, Too Few Laughs",
@@ -19988,15 +19998,5 @@
     "content": "State Rep. James Talarico, D-Austin, greets attendees at his election watch party just after midnight on March 4, 2026.",
     "date": "2026-04-28T11:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Charges Against Suspect in Trump Assassination Attempt Based on Shotgun Shell and a Screed",
-    "author": "Devlin Barrett, Zach Montague and Michael Levenson",
-    "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html",
-    "content": "Todd Blanche, the acting attorney general, said on Monday that investigators were working to determine if the suspect had any connections to left-wing activists.",
-    "date": "2026-04-28T10:55:21",
-    "category": "NYT"
   }
 ]
