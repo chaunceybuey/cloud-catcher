@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/04/arts/music/kennedy-center-trump-name-memo.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kennedy Center Tells Staff to Immediately Remove Trump\u2019s Name From Documents",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/06/04/arts/music/kennedy-center-trump-name-memo.html",
+    "content": "An internal memo instructed Kennedy Center employees to update the institution\u2019s branding on social media accounts, email signatures and voice mail messages.",
+    "date": "2026-06-04T17:44:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/arts/kennedy-center-national-symphony.html",
     "feed_name": "NYT (Arts)",
     "title": "Amid Kennedy Center Strife, the National Symphony Faces a Cloudy Future",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/28/business/economy/college-graduates-job-market.html",
     "content": "A dismal job market has turned the spring commencement season into a bruising ordeal for many, including Sadie Parker, who will graduate in June from the University of California, Santa Barbara.",
     "date": "2026-04-28T09:03:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Internet Restrictions Spur Russians to Openly Question Putin\u2019s Moves",
-    "author": "Nataliya Vasilyeva and Valerie Hopkins",
-    "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
-    "content": "On a subway in Moscow. As Russians criticize the internet restrictions, the discontent has helped send the approval rating of President Vladimir V. Putin to its lowest level since before the war with Ukraine.",
-    "date": "2026-04-28T09:03:20",
     "category": "NYT"
   }
 ]
