@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a1f0895cad962586338469b",
+    "feed_name": "Wired (Science)",
+    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "content": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+    "date": "2026-06-04T01:01:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/03/arts/ted-danson-blackface-whoopi-goldberg-apology.html",
     "feed_name": "NYT (Arts)",
     "title": "Ted Danson Apologizes for Blackface Roast of Whoopi Goldberg in 1993",
@@ -19986,16 +19996,6 @@
     "author": "ByHilton Als",
     "link": "https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma",
     "content": "How the shape-shifting artist radicalized art itself.",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "e70702f6f9203a532d8fd2a3113f2830",
-    "feed_name": "New Yorker",
-    "title": "A German Master\u2019s Modernist Epic of Postwar Amnesia and Hypocrisy",
-    "author": "ByBecca Rothfeld",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review",
-    "content": "Wolfgang Koeppen\u2019s \u201ctrilogy of failure,\u201d written from 1951 to 1954, is a sprawling, polyphonic portrait of a physically and morally shattered country.",
     "date": "2026-04-27T11:45:31",
     "category": "Magazines"
   }
