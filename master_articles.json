@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/04/dining/dont-mess-with-the-sauce-its-marvelous.html",
+    "feed_name": "NYT (Food)",
+    "title": "\u2018Don\u2019t Mess With the Sauce \u2014 It\u2019s Marvelous!\u2019",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/04/dining/dont-mess-with-the-sauce-its-marvelous.html",
+    "content": "Melissa Clark\u2019s pork bulgogi with spring vegetables.",
+    "date": "2026-06-04T15:00:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/arts/design/alice-in-wonderland-new-york-mural.html",
     "feed_name": "NYT (Arts)",
     "title": "Saving Alice\u2019s Adventures in New York: Her Mural Traveled a Rabbit Hole Too",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/28/well/move/cardio-strength-training-exercises-benefits.html",
     "content": "Here\u2019s what to know about the health benefits of both forms of exercise.",
     "date": "2026-04-28T09:00:21",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s Top Child Care Official Wants a \u2018Bonfire of Regulations\u2019",
-    "author": "Coral Davenport",
-    "link": "https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html",
-    "content": "As Americans face soaring child care costs, Alex Adams wants to loosen rules and tighten spending. Critics say that will harm children and shutter day cares.",
-    "date": "2026-04-28T09:00:19",
     "category": "NYT"
   }
 ]
