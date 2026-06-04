@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Pace Gallery Cuts 50 Artists and 50 Staff Amid Art Market Challenges",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html",
+    "content": "\u201cThe whole art gallery art system became too big, too commercial, too impersonal and too corporate,\u201d Marc Glimcher, the chief executive of Pace Gallery, said.",
+    "date": "2026-06-04T02:43:11",
+    "category": "NYT"
+  },
+  {
     "id": "6a1f0895cad962586338469b",
     "feed_name": "Wired (Science)",
     "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
@@ -19986,16 +19996,6 @@
     "author": "BySa\u00efd Sayrafiezadeh",
     "link": "https://www.newyorker.com/magazine/2026/05/04/said-sayrafiezadeh-fiction-process-of-elimination",
     "content": "The night the tip jar went missing, we assumed that it had been stolen by a student, or maybe a professor\u2014an adjunct\u2014who had taken it when we weren\u2019t looking.",
-    "date": "2026-04-27T11:45:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "f726c44890d3ad0616e45bfb06f48242",
-    "feed_name": "New Yorker",
-    "title": "The Many Forms of Marcel Duchamp",
-    "author": "ByHilton Als",
-    "link": "https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma",
-    "content": "How the shape-shifting artist radicalized art itself.",
     "date": "2026-04-27T11:45:31",
     "category": "Magazines"
   }
