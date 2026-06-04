@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=232415",
+    "feed_name": "Texas Tribune",
+    "title": "What to know about screwworm in Texas",
+    "author": "Stephen Simpson and Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17354099/screwworm-texas-united-states",
+    "content": "The first case of New World screwworm in the U.S. was found in South Texas and confirmed June 3.",
+    "date": "2026-06-04T16:24:43",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/movies/wim-wenders-nastassja-kinski-nudity-topless-wrong-move.html",
     "feed_name": "NYT (Arts)",
     "title": "Wim Wenders Pulls Film With Teenage Nudity After Pleas by Nastassja Kinski",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/28/opinion/cybersecurity-mythos.html",
     "content": "Nobody can afford to be relaxed about their digital security anymore.",
     "date": "2026-04-28T09:02:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "What Tucker Carlson Means When He Talks About Israel",
-    "author": "Peter Beinart",
-    "link": "https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html",
-    "content": "The far right is conflating Israel with Jewishness.",
-    "date": "2026-04-28T09:02:14",
     "category": "NYT"
   }
 ]
