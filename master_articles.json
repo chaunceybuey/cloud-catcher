@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/04/dining/but-first-restaurant.html",
+    "feed_name": "NYT (Food)",
+    "title": "But First, Restaurant",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/06/04/dining/but-first-restaurant.html",
+    "content": "Three New York City restaurants where the coffee is as good as the food.",
+    "date": "2026-06-04T20:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/arts/television/mister-rogers-neighborhood-youtube.html",
     "feed_name": "NYT (Arts)",
     "title": "Mister Rogers: Now on YouTube",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/28/business/media/stephen-colbert-late-night-show.html",
     "content": "His late-night show ends next month after 11 seasons. He has lots of feelings.",
     "date": "2026-04-28T09:04:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/dining/sushi-restaurants.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Why Do the Top Sushi Restaurants Leave Us So Bored, and So Broke?",
-    "author": "Ligaya Mishan",
-    "link": "https://www.nytimes.com/2026/04/28/dining/sushi-restaurants.html",
-    "content": "At many American omakase restaurants, the bill will be eye-popping and the bites will mostly be unchallenging crowd-pleasers.",
-    "date": "2026-04-28T09:03:34",
     "category": "NYT"
   }
 ]
