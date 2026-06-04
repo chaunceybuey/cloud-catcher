@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/04/arts/television/mister-rogers-neighborhood-youtube.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mister Rogers: Now on YouTube",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/06/04/arts/television/mister-rogers-neighborhood-youtube.html",
+    "content": "Fred Rogers on the set of his long-running PBS show, \u201cMister Rogers\u2019 Neighborhood,\u201d in Pittsburgh in 1989.",
+    "date": "2026-06-04T19:07:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/arts/music/kennedy-center-trump-name-memo.html",
     "feed_name": "NYT (Arts)",
     "title": "Kennedy Center Tells Staff to Immediately Remove Trump\u2019s Name From Documents",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/28/dining/sushi-restaurants.html",
     "content": "At many American omakase restaurants, the bill will be eye-popping and the bites will mostly be unchallenging crowd-pleasers.",
     "date": "2026-04-28T09:03:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/business/economy/college-graduates-job-market.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Graduates Reset Ambitions in Pursuit of First Jobs",
-    "author": "Sydney Ember",
-    "link": "https://www.nytimes.com/2026/04/28/business/economy/college-graduates-job-market.html",
-    "content": "A dismal job market has turned the spring commencement season into a bruising ordeal for many, including Sadie Parker, who will graduate in June from the University of California, Santa Barbara.",
-    "date": "2026-04-28T09:03:28",
     "category": "NYT"
   }
 ]
