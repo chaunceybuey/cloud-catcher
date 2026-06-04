@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/04/movies/scary-movie-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Scary Movie\u2019 Review: Too Many Movies, Too Few Laughs",
+    "author": "Brandon Yu",
+    "link": "https://www.nytimes.com/2026/06/04/movies/scary-movie-review.html",
+    "content": "The sixth installment of this low-grade franchise takes a predictable and dismaying turn, even if it feels like the right time to bring the series back.",
+    "date": "2026-06-04T22:06:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232440",
+    "feed_name": "Texas Tribune",
+    "title": "Detained Guatemalan woman who required urgent ovarian surgery for months released by ICE",
+    "author": "Lomi Kriel",
+    "link": "https://feeds.texastribune.org/link/16799/17354318/el-paso-camp-east-montana-detention-ovarian-cyst-surgery-medical-neglect-2",
+    "content": "Andrea Pedro Francisco, 23, has lived in Minnesota since 2019 and for years has suffered increasing abdominal pain. In January, doctors said she needs surgery for an overian cyst. Then ICE agents detained her.",
+    "date": "2026-06-04T21:47:39",
+    "category": "Texas"
+  },
+  {
     "id": "6a21da2d0b0d0bfc18eca988",
     "feed_name": "Wired (Science)",
     "title": "Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US",
@@ -19978,25 +19998,5 @@
     "content": "Todd Blanche, the acting attorney general, said on Monday that investigators were working to determine if the suspect had any connections to left-wing activists.",
     "date": "2026-04-28T10:55:21",
     "category": "NYT"
-  },
-  {
-    "id": "69ea323ff0e3ce74376afe37",
-    "feed_name": "Wired",
-    "title": "Stop Trying to Unmask Satoshi Nakamoto",
-    "author": "Katie Drummond",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-ben-mckenzie-crypto/",
-    "content": "On this week\u2019s Big Interview podcast, actor-director Ben McKenzie talks about the rise of crypto, why he finds it dangerous, and why it benefits from having a mysterious creator.",
-    "date": "2026-04-28T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=227907",
-    "feed_name": "Texas Tribune",
-    "title": "Data center boom strains Texas homebuilders\u2019 need for electricians",
-    "author": "Sneha Dey",
-    "link": "https://feeds.texastribune.org/link/16799/17326933/data-centers-texas-electricians-builders",
-    "content": "Gas turbine towers are lit outside the Abilene DC1 Stargate Project data center in Abilene on April 21, 2026.",
-    "date": "2026-04-28T10:00:00",
-    "category": "Texas"
   }
 ]
