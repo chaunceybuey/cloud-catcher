@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "1f24bfa8b83ea27b24b26ca6a2df36d5",
+    "feed_name": "The Atlantic",
+    "title": "The Death of the Reader",
+    "author": "Walt Hunter",
+    "link": "https://www.theatlantic.com/ideas/2026/06/ai-writing-reading-nazir/687419/",
+    "content": "AI has already changed writing. Now the technology is changing what it means to read.",
+    "date": "2026-06-04T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a0f8e0e730e71e90fb731c1",
     "feed_name": "Wired",
     "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain\u2019s \u2018Core Algorithm\u2019",
@@ -357,6 +367,16 @@
     "link": "https://www.compactmag.com/article/my-time-inside-the-immigration-industrial-complex/",
     "content": "",
     "date": "2026-06-04T04:16:29",
+    "category": "Magazines"
+  },
+  {
+    "id": "fd580c3845d9dc1faada04f5f5ef39e8",
+    "feed_name": "Outside",
+    "title": "Colorado\u2019s Wolf Reintroduction Hasn\u2019t Gone to Plan. Are the New Midnight Cowboys Its Last Hope?",
+    "author": "Corey Buhay",
+    "link": "https://www.outsideonline.com/outdoor-adventure/environment/colorado-wolf-reintroduction-range-riders/",
+    "content": "",
+    "date": "2026-06-04T03:20:12",
     "category": "Magazines"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
     "content": "Chinese-made cars waiting to be exported at a port in Suzhou, China, on Monday. China has sought to increase exports as demand has weakened at home.",
     "date": "2026-04-27T20:13:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Sergey Brin Moves to the Right, With a \u2018MAGA Girlfriend\u2019 by His Side",
-    "author": "Theodore Schleifer and Kate Conger",
-    "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
-    "content": "Sergey Brin and his girlfriend, Gerelyn \u201cGG\u201d Soto, at a White House artificial-intelligence dinner last year.",
-    "date": "2026-04-27T20:12:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/27/us/politics/eeoc-trump-discrimination-cases.html",
-    "feed_name": "NYT (Shared)",
-    "title": "EEOC Is Prioritizing Job Discrimination Cases That Match Trump\u2019s Agenda",
-    "author": "Rebecca Davis O\u2019Brien",
-    "link": "https://www.nytimes.com/2026/04/27/us/politics/eeoc-trump-discrimination-cases.html",
-    "content": "Andrea Lucas, chair of the Equal Employment Opportunity Commission, has recast the agency to carry out President Trump\u2019s executive orders, according to employees there.",
-    "date": "2026-04-27T19:34:36",
     "category": "NYT"
   }
 ]
