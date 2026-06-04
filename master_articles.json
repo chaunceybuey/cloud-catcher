@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/04/arts/kennedy-center-national-symphony.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Amid Kennedy Center Strife, the National Symphony Faces a Cloudy Future",
+    "author": "Julia Jacobs and Adam Nagourney",
+    "link": "https://www.nytimes.com/2026/06/04/arts/kennedy-center-national-symphony.html",
+    "content": "Gianandrea Noseda, music director of the National Symphony Orchestra, conducting a performance featuring the Washington Chorus in January. The orchestra\u2019s next season is facing uncertainties.",
+    "date": "2026-06-04T17:04:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/04/dining/my-post-vacation-vegetable-deficit-is-critical.html",
+    "feed_name": "NYT (Food)",
+    "title": "My Post-Vacation Vegetable Deficit Is Critical",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/06/04/dining/my-post-vacation-vegetable-deficit-is-critical.html",
+    "content": "Jenn\u00e9 Claiborne\u2019s vegan spring vegetable frittata.",
+    "date": "2026-06-04T17:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232415",
     "feed_name": "Texas Tribune",
     "title": "What to know about screwworm in Texas",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
     "content": "On a subway in Moscow. As Russians criticize the internet restrictions, the discontent has helped send the approval rating of President Vladimir V. Putin to its lowest level since before the war with Ukraine.",
     "date": "2026-04-28T09:03:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/realestate/garden-colorful-flowers.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Guide to Colorful Flower Gardens",
-    "author": "Margaret Roach",
-    "link": "https://www.nytimes.com/2026/04/28/realestate/garden-colorful-flowers.html",
-    "content": "Vibrant colors that are close neighbors on the color wheel make easy combinations, Stephen",
-    "date": "2026-04-28T09:03:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/opinion/cybersecurity-mythos.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "After Mythos, Nobody Is Safe From Cybersecurity Threats",
-    "author": "Brett J. Goldstein",
-    "link": "https://www.nytimes.com/2026/04/28/opinion/cybersecurity-mythos.html",
-    "content": "Nobody can afford to be relaxed about their digital security anymore.",
-    "date": "2026-04-28T09:02:27",
     "category": "NYT"
   }
 ]
