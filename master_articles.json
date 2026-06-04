@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "3b45729eb2be575b007754f0398e584c",
+    "feed_name": "LRB",
+    "title": "In Southampton",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/june/in-southampton",
+    "content": "Out-of-towners, including Tommy Robinson and Laurence Fox, merged with locals outside Southampton police station to form a crowd of several hundred. The troubling speed with which the protest was organised caught the city\u2019s small but diligent antifa and its broad coalition of anti-racists by surprise. Given the severity of the rioting, it might have been for the best that we didn\u2019t have time to organise a response.",
+    "date": "2026-06-04T15:28:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/dining/dont-mess-with-the-sauce-its-marvelous.html",
     "feed_name": "NYT (Food)",
     "title": "\u2018Don\u2019t Mess With the Sauce \u2014 It\u2019s Marvelous!\u2019",
@@ -108,6 +118,16 @@
     "content": "He quit singing in his early 20s when opera companies objected to his appearance, but after a 12-year absence he revived his career to acclaim.",
     "date": "2026-06-04T13:18:23",
     "category": "NYT"
+  },
+  {
+    "id": "72d88476ccfaaebb09a68070ab52f72a",
+    "feed_name": "The Atlantic",
+    "title": "Men in Cages",
+    "author": "Eric Schlosser",
+    "link": "https://www.theatlantic.com/ideas/2026/06/alligator-alcatraz-desantis-florida-immigration/687415/",
+    "content": "The immigrant-detention facility Alligator Alcatraz, which may soon be shut down, has been a cruel and costly publicity stunt.",
+    "date": "2026-06-04T13:07:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nybooks.com/articles/2026/06/25/call-my-agent-middlemen-laura-b-mcgrath/",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
     "content": "Mr. Musk\u2019s lawsuit against Mr. Altman and OpenAI makes the case that all-encompassing greed is Silicon Valley\u2019s defining feature.",
     "date": "2026-04-28T09:02:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/well/doctors-using-ai.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Your Doctor\u2019s Notes Might Be Written by an A.I. Algorithm. Here\u2019s What to Know.",
-    "author": "Simar Bajaj",
-    "link": "https://www.nytimes.com/2026/04/28/well/doctors-using-ai.html",
-    "content": "Apps that record visits are becoming popular, but they come with privacy and accuracy concerns.",
-    "date": "2026-04-28T09:00:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/well/move/cardio-strength-training-exercises-benefits.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Cardio vs Strength Training: Do I Really Need to Do Both?",
-    "author": "Danielle Friedman",
-    "link": "https://www.nytimes.com/2026/04/28/well/move/cardio-strength-training-exercises-benefits.html",
-    "content": "Here\u2019s what to know about the health benefits of both forms of exercise.",
-    "date": "2026-04-28T09:00:21",
     "category": "NYT"
   }
 ]
