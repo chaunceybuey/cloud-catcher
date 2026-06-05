@@ -80,6 +80,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/05/arts/music/musical-bodies-met-museum.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Met Museum\u2019s \u2018Musical Bodies\u2019 Blurs Humans and Instruments",
+    "author": "Joshua Barone and Ye Fan",
+    "link": "https://www.nytimes.com/2026/06/05/arts/music/musical-bodies-met-museum.html",
+    "content": "\u201cMusical Bodies,\u201d a new exhibition at the Metropolitan Museum of Art, revels in the blurry boundaries between humans and instruments.",
+    "date": "2026-06-05T15:03:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/05/dining/cucumber-tomato-red-onion-herbs-lime-olive-oil-summer.html",
+    "feed_name": "NYT (Food)",
+    "title": "Cucumber, Tomato, Red Onion, Herbs, Lime, Olive Oil, Summer",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/05/dining/cucumber-tomato-red-onion-herbs-lime-olive-oil-summer.html",
+    "content": "Samin Nosrat\u2019s salad-e Shirazi (Persian cucumber, tomato and onion salad).",
+    "date": "2026-06-05T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/05/movies/science-fiction-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Science Fiction Movies to Stream Now",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/06/05/movies/science-fiction-movies-streaming.html",
+    "content": "In this month\u2019s picks, fatal fungi and killer calamari. Plus, lots of zombies (and a few podcasters).",
+    "date": "2026-06-05T15:00:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/05/theater/rebecca-chaillon-wiener-festwochen-avignin-festival.html",
     "feed_name": "NYT (Arts)",
     "title": "R\u00e9becca Chaillon Punished Her Body Onstage for Years. Now, She\u2019s Testing New Limits.",
@@ -19968,35 +19998,5 @@
     "content": "Brendan Carr, the chairman of the Federal Communications Commission, has repeatedly threatened to take action against broadcasters.",
     "date": "2026-04-28T21:12:07",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/opinion/whcd-shooting-trump-manifesto.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Banality of Evil, Again",
-    "author": "Bret Stephens",
-    "link": "https://www.nytimes.com/2026/04/28/opinion/whcd-shooting-trump-manifesto.html",
-    "content": "The distinguishing feature of Cole Tomas Allen\u2019s manifesto is its insipidity.",
-    "date": "2026-04-28T21:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/us/politics/trump-passports.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s Face Will Appear on Limited-Edition U.S. Passports, State Dept. Says",
-    "author": "Taylor Robinson",
-    "link": "https://www.nytimes.com/2026/04/28/us/politics/trump-passports.html",
-    "content": "An image of the proposed limited-edition passport design released by the State Department.",
-    "date": "2026-04-28T20:53:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228142",
-    "feed_name": "Texas Tribune",
-    "title": "Texas DACA recipient will be allowed to return after Trump administration deported him",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17327382/texas-daca-father-deported-rio-grande-valley-return",
-    "content": "The U.S. Department of Homeland Security seal is displayed in Washington on Jan. 24, 2026.",
-    "date": "2026-04-28T20:37:52",
-    "category": "Texas"
   }
 ]
