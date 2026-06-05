@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/05/movies/mexico-86-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Mexico 86\u2019 Review: This Underdog Has Bags of Cash",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/06/05/movies/mexico-86-review.html",
+    "content": "Diego Luna plays an ambitious soccer enthusiast who is trying to secure the World Cup for Mexico a second time.",
+    "date": "2026-06-05T07:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/05/theater/tony-awards-2026-predictions.html",
     "feed_name": "NYT (Arts)",
     "title": "2026 Tony Awards Predictions: Who Will Win?",
@@ -19988,15 +19998,5 @@
     "content": "As of mid-February, drivers can once again travel the full length of Highway 1. Above, heading north on the highway, near San Simeon, Calif.",
     "date": "2026-04-28T12:25:48",
     "category": "NYT"
-  },
-  {
-    "id": "3b52f71e507cb5621b1997ab48d4d358",
-    "feed_name": "LRB",
-    "title": "Andrew Durbin & Tash Aw: The Wonderful World That Almost Was",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/andrew-durbin-tash-aw-the-wonderful-world-that-almost-was-tickets-1983450433640",
-    "content": "",
-    "date": "2026-04-28T11:47:08",
-    "category": "Magazines"
   }
 ]
