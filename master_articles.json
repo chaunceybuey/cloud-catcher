@@ -30,6 +30,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.kmfa.org/pages/20742-austin-chamber-music-center-miro-quartet-shai-wosner",
+    "feed_name": "KMFA",
+    "title": "Austin Chamber Music Center: Miro Quartet &amp; Shai Wosner",
+    "author": "",
+    "link": "https://www.kmfa.org/pages/20742-austin-chamber-music-center-miro-quartet-shai-wosner",
+    "content": "AUSTIN CHAMBER MUSIC CENTER PRESENTS\n\nMIRO QUARTET &amp; SHAI WOSNER\n\nJUNE 20 | 7:30 P.M. | BATES RECITAL HALL\n\n\n\nEvent Details\nDate: Saturday, June 20, 2026\nTime: 7:30 P.M.\nVenue: Bates Recital Hall\n\nTicket Information\nCost: $12.00 \u2013 $80.00\nPhone: \n\nPresenter Details: The Austin Chamber Music Center creates chamber music experiences that connect, educate, and inspire our community.",
+    "date": "2026-06-20T19:30:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.kmfa.org/pages/20775-austin-chamber-music-center-sandy-yamamoto-friends",
+    "feed_name": "KMFA",
+    "title": "Austin Chamber Music Center: Sandy Yamamoto &amp; Friends",
+    "author": "",
+    "link": "https://www.kmfa.org/pages/20775-austin-chamber-music-center-sandy-yamamoto-friends",
+    "content": "AUSTIN CHAMBER MUSIC CENTER PRESENTS\n\nSANDY YAMAMOTO &amp; FRIENDS\n\nJUNE 19 | 7:30 P.M. | BATES RECITAL HALL\n\n\n\nWitness the dynamic interplay between three celebrated artists as violinist Sandy Yamamoto, cellist Matthew Zalkind, and pianist Shai Wosner unite for an evening of romantic passion. This program promises a journey through a landscape of powerful emotions, from the shifting moods and folk-inspired melodies of one of the great Czech composers to the sweeping, heartfelt lyricism of a German master. It\u2019s a night of pure romanticism, brought to life by a trio of incredible musicians.\n\nArtists:\n\n\n\tSandy Yamamoto, violin\n\tMatthew Zalkind, cello\n\tShai Wosner, piano\n\n\nProgram:\n\n\n\tDvorak \u201cDumky\u201d Piano Trio\n\tBrahms Piano Trio in B Major\n\n\nBUY TICKETS!\n\nEvent Details\nDate: Friday, June 19, 2026\nTime: 7:30 P.M.\nVenue: Bates Recital Hall\n\nTicket Information\nCost: $12.00 \u2013 $80.00\nPhone: \n\nPresenter Details: The Austin Chamber Music Center creates chamber music experiences that connect, educate, and inspire our community.",
+    "date": "2026-06-19T19:30:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20445-ishida-dance-company-waiting-rex",
     "feed_name": "KMFA",
     "title": "Ishida Dance Company: waiting / REX",
@@ -108,6 +128,16 @@
     "content": "At the moment, balmy. But it wouldn\u2019t take a lot to require some Fed air-conditioning",
     "date": "2026-06-05T19:10:42",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232562",
+    "feed_name": "Texas Tribune",
+    "title": "Texas county rescinds its data center moratorium after $100 million lawsuit from developer",
+    "author": "Taylor Goldenstein",
+    "link": "https://feeds.texastribune.org/link/16799/17354935/texas-hill-county-moratorium-rescinded-data-centers",
+    "content": "Work continues on the Stargate data center Sunday, April 26, 2026, in Abilene.",
+    "date": "2026-06-05T19:04:32",
+    "category": "Texas"
   },
   {
     "id": "https://www.propublica.org/article/tim-robinson-indicted-addiction-recovery-care",
@@ -19968,35 +19998,5 @@
     "content": "Hero and Leanderwas published in 1598, and anyone who came across it in a stationer\u2019s shop in Elizabethan London would have known that its author was dead, killed in a brawl in Deptford in 1593. Christopher Marlowe\u2019s sensational life as playwright and spy is matched by the wit, sophistication and eroticism of his eccentric retelling of Ovid\u2019s myth, based on a...",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
-  },
-  {
-    "id": "9991c1fa22c937027eed46d8b32541d9",
-    "feed_name": "LRB",
-    "title": "The Impossible Patient",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/the-impossible-patient",
-    "content": "Not for the first time, theorists of politics are turning to the unconscious and its strange workings \u2013 repression and fantasy, libido and death drive, disavowal and displacement \u2013 to understand the present conjuncture: a conjuncture of authoritarian strongmen, anti-democratic populism, regressive sexual morality and genocidal war. What form of knowledge does psychoanalysis give us...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/opinion/spirit-airlines-trump-bailout-auto.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Spirit Airlines Should Die. Why Is Trump Trying to Save It?",
-    "author": "Steven Rattner",
-    "link": "https://www.nytimes.com/2026/04/29/opinion/spirit-airlines-trump-bailout-auto.html",
-    "content": "Trump\u2019s effort to bail out the ailing carrier makes no sense.",
-    "date": "2026-04-29T12:59:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/opinion/trump-assassination-attempts-political-violence.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Loneliness of Donald Trump",
-    "author": "Jamelle Bouie",
-    "link": "https://www.nytimes.com/2026/04/29/opinion/trump-assassination-attempts-political-violence.html",
-    "content": "This is a man who rarely travels beyond the confines of the White House compound or Mar-a-Lago.",
-    "date": "2026-04-29T12:26:41",
-    "category": "NYT"
   }
 ]
