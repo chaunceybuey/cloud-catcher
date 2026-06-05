@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/05/arts/design/alan-saret-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Alan Saret, Sculptor Who Made Clouds of Wire, Dies at 81",
+    "author": "Will Heinrich",
+    "link": "https://www.nytimes.com/2026/06/05/arts/design/alan-saret-dead.html",
+    "content": "His best-known works were large, airy tangles that suggested tumbleweeds, nests or tulle. If a window was open, they might sway in the breeze.",
+    "date": "2026-06-05T17:42:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/05/arts/dance/roland-garros-french-open-benjamin-millepied.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Before French Open Finals, They\u2019ll Serve Up a Dance",
+    "author": "Roslyn Sulcas and Mathieu Richer Mamousse",
+    "link": "https://www.nytimes.com/2026/06/05/arts/dance/roland-garros-french-open-benjamin-millepied.html",
+    "content": "The choreographer Benjamin Millepied had an unusual brief: To create two short works for the championship matches at Roland Garros.",
+    "date": "2026-06-05T17:27:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/05/arts/klimt-lost-painting-lawsuit.html",
     "feed_name": "NYT (Arts)",
     "title": "Heir Sues to Claim a Klimt Portrait Thought Lost for Decades",
@@ -19978,25 +19998,5 @@
     "content": "From sorting chicken nuggets to screwing in light bulbs, Eka\u2019s robots are eerily lifelike. But do they have real physical smarts?",
     "date": "2026-04-29T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=18898",
-    "feed_name": "Stratechery",
-    "title": "Intel Earnings, Intel\u2019s Differentiation?, Whither Terafab",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
-    "content": "<p>Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?</p>",
-    "date": "2026-04-29T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228147",
-    "feed_name": "Texas Tribune",
-    "title": "Texas inmate James Broadnax faces Thursday execution amid final appeal arguing he wasn\u2019t the shooter",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17327714/texas-james-broadnax-execution-death-row",
-    "content": "The death row inmate has asked the U.S. Supreme Court to halt his execution, pointing to a codefendant\u2019s confession in the shooting death of two people. <img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17327714.gif\" width=\"1\" />",
-    "date": "2026-04-29T10:00:00",
-    "category": "Texas"
   }
 ]
