@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/06/25/labours-love-lost-british-elections-wheatcroft/",
+    "feed_name": "NYRB",
+    "title": "Labour\u2019s Love Lost",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/06/25/labours-love-lost-british-elections-wheatcroft/",
+    "content": "With Keir Starmer\u2019s and his party\u2019s future in doubt after local elections in May, there is a paucity of talent among his rivals.\n\nDelivered by PolitePaul service",
+    "date": "2026-06-05T15:48:46",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/05/arts/music/musical-bodies-met-museum.html",
     "feed_name": "NYT (Arts)",
     "title": "Met Museum\u2019s \u2018Musical Bodies\u2019 Blurs Humans and Instruments",
@@ -19988,15 +19998,5 @@
     "content": "A pickup on U.S. 277 North passes the glow coming from the Lancium Clean Campus, the home of the Abilene DC1 Stargate Project data center Tuesday April 21, 2026. The data center is scheduled to be complete by 2028.",
     "date": "2026-04-28T21:20:21",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
-    "feed_name": "NYT (Shared)",
-    "title": "FCC Orders a Review of ABC\u2019s Licenses Amid Feud Between Trump and Kimmel",
-    "author": "Jim Rutenberg and John Koblin",
-    "link": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
-    "content": "Brendan Carr, the chairman of the Federal Communications Commission, has repeatedly threatened to take action against broadcasters.",
-    "date": "2026-04-28T21:12:07",
-    "category": "NYT"
   }
 ]
