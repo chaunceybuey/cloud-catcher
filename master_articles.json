@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/04/movies/office-romance-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Office Romance\u2019 Review: Prepare for Turbulence",
+    "author": "Lisa Kennedy",
+    "link": "https://www.nytimes.com/2026/06/04/movies/office-romance-review.html",
+    "content": "Jennifer Lopez and Brett Goldstein cause professional headaches in this workplace comedy about an airline.",
+    "date": "2026-06-05T01:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "2e75fb15c471be9b4184d37af0133d4c",
     "feed_name": "The Atlantic",
     "title": "Has Graham Platner Changed Enough?",
@@ -19988,15 +19998,5 @@
     "content": "In the world\u2019s fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia.",
     "date": "2026-04-28T11:02:18",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228005",
-    "feed_name": "Texas Tribune",
-    "title": "Talarico leads both Cornyn, Paxton in new poll of Texas\u2019 U.S. Senate race",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17326971/texas-us-senate-poll-talarico-cornyn-paxton-2026-midterms",
-    "content": "State Rep. James Talarico, D-Austin, greets attendees at his election watch party just after midnight on March 4, 2026.",
-    "date": "2026-04-28T11:00:00",
-    "category": "Texas"
   }
 ]
