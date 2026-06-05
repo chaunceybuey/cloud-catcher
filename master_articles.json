@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/04/theater/girl-interrupted-review-mann-majok-king-princess-canfield.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Girl, Interrupted\u2019 Review: A Musical That\u2019s a Little Too Tranquilized",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/06/04/theater/girl-interrupted-review-mann-majok-king-princess-canfield.html",
+    "content": "The cast of \u201cGirl, Interrupted\u201d at the Public Theater in Manhattan, from left: Mia Pak, Sally Shaw, Juliana Canfield, Katherine Reis, Ta\u2019Rea Campbell and King Princess.",
+    "date": "2026-06-05T01:15:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/movies/office-romance-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Office Romance\u2019 Review: Prepare for Turbulence",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-04-28T11:47:05",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How South Korea Uses A.I. to Check on Its Elderly",
-    "author": "Choe Sang-Hun",
-    "link": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
-    "content": "In the world\u2019s fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia.",
-    "date": "2026-04-28T11:02:18",
-    "category": "NYT"
   }
 ]
