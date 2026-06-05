@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/online/2026/06/05/if-i-were-chuck-schumer-joseph-oneill/",
+    "feed_name": "NYRB",
+    "title": "If I Were Chuck Schumer",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/06/05/if-i-were-chuck-schumer-joseph-oneill/",
+    "content": "\u201cDemocrats must finally treat the Republican Party as the Republicans treat the Democratic Party: not as a partner in \u2018bipartisanship\u2019 but as an adversary\u2014an adversary, in the case of the GOP, that will not respect the rules of democracy unless it is forced to by political defeat.\u201d\n\nDelivered by PolitePaul service",
+    "date": "2026-06-05T18:18:47",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/05/arts/design/alan-saret-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Alan Saret, Sculptor Who Made Clouds of Wire, Dies at 81",
@@ -88,6 +98,16 @@
     "content": "His best-known works were large, airy tangles that suggested tumbleweeds, nests or tulle. If a window was open, they might sway in the breeze.",
     "date": "2026-06-05T17:42:45",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232546",
+    "feed_name": "Texas Tribune",
+    "title": "Gov. Greg Abbott expands state disaster declaration on screwworm infestation in South Texas",
+    "author": "Stephen Simpson and Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17354885/screwworm-texas-greg-abbott-emergency",
+    "content": "Gov. Abbott at a ribbon cutting event for the grand opening of a New World screwworm sterile fly production facility in Edinburg on Feb. 9, 2026.",
+    "date": "2026-06-05T17:34:30",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/06/05/arts/dance/roland-garros-french-open-benjamin-millepied.html",
@@ -19978,25 +19998,5 @@
     "content": "Almost all of the costs for organizing the tournament fall on the cities, whose ability to collect revenue is limited. In Texas, that could leave taxpayers on the hook.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17327754.gif\" width=\"1\" />",
     "date": "2026-04-29T11:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/opinion/ice-racial-profiling-supreme-court.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Supreme Court Should Stop ICE From Racially Profiling",
-    "author": "The Editorial Board",
-    "link": "https://www.nytimes.com/2026/04/29/opinion/ice-racial-profiling-supreme-court.html",
-    "content": "Body camera footage reveals a disturbing pattern of state and federal officials using minor traffic stops to target Black and brown drivers.",
-    "date": "2026-04-29T10:46:07",
-    "category": "NYT"
-  },
-  {
-    "id": "69cafcc56dd94342bce0ed8e",
-    "feed_name": "Wired",
-    "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
-    "author": "Will Knight",
-    "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-    "content": "From sorting chicken nuggets to screwing in light bulbs, Eka\u2019s robots are eerily lifelike. But do they have real physical smarts?",
-    "date": "2026-04-29T10:00:00",
-    "category": "Magazines"
   }
 ]
