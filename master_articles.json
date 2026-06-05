@@ -120,12 +120,52 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/05/arts/television/anthony-head-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Anthony Head, \u2018Buffy the Vampire Slayer\u2019 and \u2018Ted Lasso\u2019 Actor, Dies at 72",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/06/05/arts/television/anthony-head-dead.html",
+    "content": "Anthony Head in 2010.",
+    "date": "2026-06-05T20:30:39",
+    "category": "NYT"
+  },
+  {
     "id": "9991c1fa22c937027eed46d8b32541d9",
     "feed_name": "LRB",
     "title": "The Impossible Patient",
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/the-impossible-patient",
     "content": "Not for the first time, theorists of politics are turning to the unconscious and its strange workings \u2013 repression and fantasy, libido and death drive, disavowal and displacement \u2013 to understand the present conjuncture: a conjuncture of authoritarian strongmen, anti-democratic populism, regressive sexual morality and genocidal war. What form of knowledge does psychoanalysis give us...",
+    "date": "2026-06-05T20:04:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "d74bde8b5bc3a20ac3815e39e669e146",
+    "feed_name": "LRB",
+    "title": "Nature in Crisis: \u2018Silent Spring\u2019 by Rachel Carson",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/nature-in-crisis-silent-spring-by-rachel-carson",
+    "content": "After following up a lead from a birdwatcher, Rachel Carson drew a web of connections that led to one of the most influential books of the 20th century.Silent Spring(1962) investigated the synthetic pesticides that proliferated after the Second World War, which were assiduously defended by overconfident policymakers, industrial chemists and agribusiness. The book quickly became a bestseller...",
+    "date": "2026-06-05T20:04:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "8ddf418cb9c03a85bd4a4e30a1543836",
+    "feed_name": "LRB",
+    "title": "Episode 6: Aftershock \u2018Live\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/aftershock-the-war-on-terror/episode-6-aftershock-live",
+    "content": "For the final episode, host Daniel Soar is joined by Patrick Cockburn, Laleh Khalili and Tom Stevenson for a live discussion on the War on Terror and its aftershocks.",
+    "date": "2026-06-05T20:04:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "377069b9aeb126c29b5e2f9971a231af",
+    "feed_name": "LRB",
+    "title": "Narrative Poems: \u2018Hero and Leander\u2019 by Christopher Marlowe",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/narrative-poems-hero-and-leander-by-christopher-marlowe",
+    "content": "Hero and Leanderwas published in 1598, and anyone who came across it in a stationer\u2019s shop in Elizabethan London would have known that its author was dead, killed in a brawl in Deptford in 1593. Christopher Marlowe\u2019s sensational life as playwright and spy is matched by the wit, sophistication and eroticism of his eccentric retelling of Ovid\u2019s myth, based on a...",
     "date": "2026-06-05T20:04:55",
     "category": "Magazines"
   },
@@ -19956,46 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/45s",
     "content": "Why is theLondon Review of Booksputting out records?",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "c60c57fc13f3ce36d84be5fa77b24cce",
-    "feed_name": "LRB",
-    "title": "Nature in Crisis: \u2018Silent Spring\u2019 by Rachel Carson",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/nature-in-crisis-silent-spring-by-rachel-carson",
-    "content": "After following up a lead from a birdwatcher, Rachel Carson drew a web of connections that led to one of the most influential books of the 20th century.Silent Spring(1962) investigated the synthetic pesticides that proliferated after the Second World War, which were assiduously defended by overconfident policymakers, industrial chemists and agribusiness. The book quickly became a bestseller...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "c7f27120b9158a34c6ce71d21ee1b261",
-    "feed_name": "LRB",
-    "title": "Will the AI bubble burst?",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/will-the-ai-bubble-burst",
-    "content": "\u2018Is it a bubble?\u2019 John Lanchester asked in a recentLRBof the colossal amounts of money pouring into AI firms. \u2018Of course it\u2019s a bubble. The salient questions are how we got here, and what happens next.\u2019",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "898edf488bc36b50f6cc50a5249439af",
-    "feed_name": "LRB",
-    "title": "Albert Camus: A Short Life",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/albert-camus-a-short-life",
-    "content": "Albert Camus\u2019s short life began in Algiers in 1913 and ended in a car crash near Paris in 1960. After being rejected from the \u00c9cole Normale because of a failed medical assessment, Camus became a journalist in Algiers and planned his writing career around three concepts based on the figures of Sisyphus, Prometheus and Nemesis, a scheme that he never finished.",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "a838d252399789060377ab2bb8afaecf",
-    "feed_name": "LRB",
-    "title": "Another Country",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/another-country",
-    "content": "\u2018The very word \u201cAmerica\u201d remains a new, almost completely undefined and extremely controversial proper noun,\u2019 James Baldwin wrote in 1959. \u2018No one in the world seems to know exactly what it describes, not even we motley millions who call ourselves Americans.\u2019 Donald Trump\u2019s vision of Fortress America, at war with immigrants, shadowy globalists and...",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
   }
