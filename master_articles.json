@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/05/theater/morgan-bassichis-can-i-be-frank.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In \u2018Can I Be Frank?,\u2019 Imitation Is the Sincerest Form of Tragedy",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/06/05/theater/morgan-bassichis-can-i-be-frank.html",
+    "content": "Morgan Bassichis in the solo show \u201cCan I Be Frank?\u201d at the SoHo Playhouse in Manhattan.",
+    "date": "2026-06-05T12:31:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232373",
     "feed_name": "Texas Tribune",
     "title": "Parkinson\u2019s disease is consistently linked to pesticide exposure, putting Rio Grande Valley farmworkers at risk",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/28/style/project-hail-mary-sweater-ryan-gosling.html",
     "content": "A cardigan worn by Ryan Gosling\u2019s character in the hit science-fiction movie has become something of a breakout star \u2014 but you can\u2019t just buy it.",
     "date": "2026-04-28T20:31:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/us/offbeat-obituaries-brutal-honesty.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Offbeat Obituaries Celebrate Loss With Levity (and Brutal Honesty)",
-    "author": "Johnny Diaz",
-    "link": "https://www.nytimes.com/2026/04/28/us/offbeat-obituaries-brutal-honesty.html",
-    "content": "Irreverent tributes filled with unvarnished truths and funny anecdotes, which run counter to more somber traditional obituaries, have gained attention for \u201chow alive they feel,\u201d a researcher said.",
-    "date": "2026-04-28T19:45:17",
     "category": "NYT"
   }
 ]
