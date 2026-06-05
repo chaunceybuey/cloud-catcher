@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/05/theater/tony-awards-2026-predictions.html",
+    "feed_name": "NYT (Arts)",
+    "title": "2026 Tony Awards Predictions: Who Will Win?",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/05/theater/tony-awards-2026-predictions.html",
+    "content": "Expect wins for the musical \u201cSchmigadoon!\u201d and the play \u201cLiberation,\u201d and for the \u201cRagtime\u201d stars Joshua Henry and Caissie Levy.",
+    "date": "2026-06-05T06:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/04/theater/girl-interrupted-review-mann-majok-king-princess-canfield.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Girl, Interrupted\u2019 Review: A Musical That\u2019s a Little Too Tranquilized",
@@ -19987,16 +19997,6 @@
     "link": "https://www.eventbrite.co.uk/e/andrew-durbin-tash-aw-the-wonderful-world-that-almost-was-tickets-1983450433640",
     "content": "",
     "date": "2026-04-28T11:47:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "33ae97580ae5e13ec382715cc7f90baa",
-    "feed_name": "Compact",
-    "title": "The Limits of the American Religion",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-limits-of-the-american-religion/",
-    "content": "",
-    "date": "2026-04-28T11:47:05",
     "category": "Magazines"
   }
 ]
