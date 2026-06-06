@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "436a4fffc6b402fee3ac6c57e314c89d",
+    "feed_name": "The Atlantic",
+    "title": "American Democracy Wasn\u2019t Designed for This",
+    "author": "Jeffrey Rosen",
+    "link": "https://www.theatlantic.com/ideas/2026/06/founding-fathers-ai-constitution/687441/",
+    "content": "Can our 18th-century institutions survive 21st-century technology?",
+    "date": "2026-06-06T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a1f371485b81e0783792297",
     "feed_name": "Wired (Science)",
     "title": "The Moons of Uranus May Hold the Key to Finding Missing Planets",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n08/paul-taylor/diary",
     "content": "It is possible\u200b that the first profession to be replaced by artificial intelligence will be that of computer programmer. As large language models become more powerful, there are concerns about their possible impact on jobs in fields such as medicine, law and banking, but these are still conversations about possibilities. The situation in programming is different: the technology works, and...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "76e9321c5308dd50152e747fede3f9eb",
-    "feed_name": "LRB",
-    "title": "In the latest issue",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08",
-    "content": "",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
   }
