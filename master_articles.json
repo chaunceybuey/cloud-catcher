@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/06/books/edith-wharton-new-short-story.html",
+    "feed_name": "NYT (Arts)",
+    "title": "An Edith Wharton Short Story Is Published About 100 Years Later",
+    "author": "Emmett Lindner",
+    "link": "https://www.nytimes.com/2026/06/06/books/edith-wharton-new-short-story.html",
+    "content": "Edith Wharton in France in 1923. Famous for her sharp satires of New York society in the Gilded Age, Wharton spent World War I working on the front lines of French relief efforts.",
+    "date": "2026-06-06T18:53:19",
+    "category": "NYT"
+  },
+  {
     "id": "72c70f077b080274349d3c2e8641add1",
     "feed_name": "The Atlantic",
     "title": "Cut Platner Loose",
@@ -19988,15 +19998,5 @@
     "content": "Eight candidates took the stage at Pomona College in one of the final debates in the California gubernatorial primary race.",
     "date": "2026-04-29T14:22:18",
     "category": "NYT"
-  },
-  {
-    "id": "3677fb59111f7be248ed121071220e30",
-    "feed_name": "LRB",
-    "title": "Who owns the Arctic?",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/laleh-khalili/dr-freezelove",
-    "content": "Two years\u200b after the end of the Civil War, William Seward, the US secretary of state, negotiated the purchase of \u2018Russian America\u2019 \u2013 Alaska \u2013 for $7.2 million, equivalent to $165 million today. TheNew York Timesnoted that the acquisition",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
   }
 ]
