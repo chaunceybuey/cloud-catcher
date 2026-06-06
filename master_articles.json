@@ -120,6 +120,76 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/06/arts/music/taylor-swift-madonna-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Taylor Swift, Madonna: 9 Songs We\u2019re Talking About This Week",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/06/06/arts/music/taylor-swift-madonna-songs.html",
+    "content": "Madonna performed new songs, including \u201cLove Sensation,\u201d at a surprise concert in Times Square in New York on Thursday.",
+    "date": "2026-06-06T09:02:18",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/06/arts/television/half-man-scenes-masculinity.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u201cHalf Man\u201d Shows the Dueling Sides of Modern Masculinity",
+    "author": "Maya Phillips",
+    "link": "https://www.nytimes.com/2026/06/06/arts/television/half-man-scenes-masculinity.html",
+    "content": "Powered by exceptional performances from Jamie Bell and Richard Gadd, \u201cHalf Man\u201d captures rare moments of male tenderness \u2014 before inevitably punishing them.",
+    "date": "2026-06-06T09:01:50",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/arts/100000010938048/ask-e-jean-illuminates-cultural-shifts.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Ask E. Jean\u2019 Illuminates Cultural Shifts",
+    "author": "Alissa Wilkinson and Haimy Assefa",
+    "link": "https://www.nytimes.com/video/arts/100000010938048/ask-e-jean-illuminates-cultural-shifts.html",
+    "content": "Alissa Wilkinson, a New York Times film critic, reflects on the documentary \u201cAsk E. Jean\u201d and the cultural shift toward accusers of sexual assault. E. Jean Carroll, the film\u2019s protagonist, won two civil lawsuits against President Trump.",
+    "date": "2026-06-06T09:01:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/06/books/linea-ernst-denmark-millennial-novel-waist-deep.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In \u2018Waist Deep,\u2019 Linea Maja Linea Explores Millennial Desire",
+    "author": "Amelia Nierenberg",
+    "link": "https://www.nytimes.com/2026/06/06/books/linea-ernst-denmark-millennial-novel-waist-deep.html",
+    "content": "Linea Maja Ernst is polyamorous, but her wife isn\u2019t. Although they love each other, they still haven\u2019t quite \u201cfigured it out,\u201d much like some of the characters in her debut novel.",
+    "date": "2026-06-06T09:01:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/06/theater/tony-awards-2026-pink.html",
+    "feed_name": "NYT (Arts)",
+    "title": "2026 Tony Awards: What to Expect",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/06/theater/tony-awards-2026-pink.html",
+    "content": "The CBS telecast of the Tonys introduces the latest plays and musicals to a television audience of several million.",
+    "date": "2026-06-06T09:00:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/06/arts/dance/martha-graham-modern-dance-centennial.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why the Radical Vision of Martha Graham Still Matters",
+    "author": "Gia Kourlas",
+    "link": "https://www.nytimes.com/2026/06/06/arts/dance/martha-graham-modern-dance-centennial.html",
+    "content": "The choreographer took a barefoot leap for modern dance 100 years ago. Her influence continues to reverberate.",
+    "date": "2026-06-06T09:00:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/06/arts/television/dulce-sloan-comedy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dulc\u00e9 Sloan Thinks You Should Pick Up When the Phone Rings",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/06/06/arts/television/dulce-sloan-comedy.html",
+    "content": "\u201cThere\u2019s nothing better than talking to a boy on the phone! How do you make a genuine connection to someone? You can\u2019t get tone through texting.\u201d",
+    "date": "2026-06-06T09:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/05/arts/television/anthony-head-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Anthony Head, \u2018Buffy the Vampire Slayer\u2019 and \u2018Ted Lasso\u2019 Actor, Dies at 72",
@@ -19926,76 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n08/lorraine-daston/everywhere-and-nowhere",
     "content": "",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "bf2f0b9ab0129da426c41b0a3ba0900d",
-    "feed_name": "LRB",
-    "title": "Death on the Thames",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/andrew-o-hagan/miasma-of-glitz",
-    "content": "On\u200b 12December1884, Henry James took a break from writing the novel that would be published asThe Princess Casamassimaand went on a research trip to Millbank Prison on the north bank of the Thames. The prison was swampy, labyrinthine and dark. In the novel, Hyacinth Robinson, an impressionable young bookbinder, goes there to visit his dying mother, whose criminal past, we soon learn, has...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "2d7091f18c3c4df7f591b1a08b4c7126",
-    "feed_name": "LRB",
-    "title": "Gwendoline Riley\u2019s \u2018Palm House\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/ange-mlinko/don-t-mind-me-in-my-coffin",
-    "content": "One can go\u200b long stretches without reading a contemporary novel in which children are vividly present, but parents \u2013 old, decrepit, dying or recently deceased \u2013 have seemed inescapable of late. Gwendoline Riley\u2019s recent novels are a case in point. InFirst Love(2017) the narrator, Neve, contends with her galling, gallivanting mother while coming to the realisation that the...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "a96b2e3c0878f7c5778d3ecb333d03c4",
-    "feed_name": "LRB",
-    "title": "Economic Warfare",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/jamie-martin/plan-a",
-    "content": "In the 1990s,\u200b high-quality counterfeit $100 bills began to appear around the world. The United States Secret Service, the agency responsible for investigating fraudulent currency, claimed that these \u2018supernotes\u2019 were printed in North Korea, though it wasn\u2019t clear how the intaglio printer, cotton-linen paper and colour-shifting ink had ended up there. Even so, numerous...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "678b6201cdb0d7bd795799b01cc19508",
-    "feed_name": "LRB",
-    "title": "Harvey \u2018C minus\u2019 Mansfield",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/colin-kidd/claremonsters",
-    "content": "Harvey C. Mans\u200bfield,a professor of government at Harvard from 1962 until his retirement from teaching in 2023 at the age of 91, has never shirked any opportunity to burnish his reputation as a conservative ogre. His interventions in the campus culture wars have been plentiful, memorable and clumsy. One particular cause of ire is grade inflation, which he blames on greater racial diversity...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "ea1f7bb18b854b23fa4aac278a65ad72",
-    "feed_name": "LRB",
-    "title": "Len Deighton\u2019s Spy World",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/thomas-jones/deskbound-party-bastards",
-    "content": "Before\u200b he took to writing thrillers in the early 1960s, Len Deighton, who died in March at the age of 97, had worked as a railway clerk, a kitchen porter, a pastry chef, a flight attendant and a commercial artist. Having completed his national service in the RAF he used his demob grant to study at St Martin\u2019s School of Art, going on to the Royal College of Art on a scholarship. After...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "a0a90ed105054aff67a0872e190e8d65",
-    "feed_name": "LRB",
-    "title": "On William Nicholson",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/rosemary-hill/at-pallant-house",
-    "content": "Katherine Mansfield\u2019s\u200b short story \u2018Bliss\u2019 is a jewel-like study of a young woman, Bertha, poised unknowingly at a moment of crisis in her life. (It\u2019s interesting not least for what it prefigures ofMrs Dalloway.) Bertha, preparing for a dinner party she will give that evening, arranges the fruit she has ordered: tangerines, \u2018apples stained with strawberry pink....",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "d3b9d1872ae151357b7313489467cb44",
-    "feed_name": "LRB",
-    "title": "Henrik Pontoppidan\u2019s \u2018A Fortunate Man\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/tim-parks/underworld-troll",
-    "content": "In\u200b 1870 Hans Christian Andersen published his last novel,Lykke-Peer(\u2018Lucky Peer\u2019). Felix and Peer are born in the same house on the same day. Felix leads a conventional existence of wealth and privilege. Peer\u2019s life is all struggle, though he\u2019s a talented singer and composer. He goes to the city and experiences every kind of hardship and temptation, but will not...",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
   }
