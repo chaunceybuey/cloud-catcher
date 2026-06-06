@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html",
+    "feed_name": "Douthat",
+    "title": "When Is It Wrong to Use A.I.?",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html",
+    "content": "How to criticize an inevitable disruption.",
+    "date": "2026-06-06T11:00:08",
+    "category": "NYT"
+  },
+  {
     "id": "6a1f371485b81e0783792297",
     "feed_name": "Wired (Science)",
     "title": "The Moons of Uranus May Hold the Key to Finding Missing Planets",
@@ -19985,16 +19995,6 @@
     "title": "In the latest issue",
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n08",
-    "content": "",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "1eee8a1a4f739f31e4df5106760cf71e",
-    "feed_name": "LRB",
-    "title": "Letters",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/letters",
     "content": "",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
