@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a1f371485b81e0783792297",
+    "feed_name": "Wired (Science)",
+    "title": "The Moons of Uranus May Hold the Key to Finding Missing Planets",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/",
+    "content": "New simulations reveal that the moons of Uranus may retain traces of giant planets.",
+    "date": "2026-06-06T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/06/arts/music/taylor-swift-madonna-songs.html",
     "feed_name": "NYT (Arts)",
     "title": "Taylor Swift, Madonna: 9 Songs We\u2019re Talking About This Week",
@@ -19985,16 +19995,6 @@
     "title": "Letters",
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n08/letters",
-    "content": "",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "25cbe4689fa35b6b5b6067dea97fe634",
-    "feed_name": "LRB",
-    "title": "Lorraine  Daston: Climate Proxies",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/lorraine-daston/everywhere-and-nowhere",
     "content": "",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
