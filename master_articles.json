@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Despite Protest, Ye Takes the Stage for Thousands of European Fans",
+    "author": "Claire Moses",
+    "link": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
+    "content": "\u201cThis crowd is too crazy,\u201d Ye said inside the GelreDome stadium in Arnhem, the Netherlands, on Saturday.",
+    "date": "2026-06-06T23:40:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html",
     "feed_name": "NYT (Arts)",
     "title": "Kennedy Center Loses Case Against Musician Who Canceled Over Trump Naming Dispute",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17327863/texas-primary-confusion-precinct-dallas-williamson-eastland-county",
     "content": "Electioneer Charhonda Hardeman (blue hat) hands Votika Mitchell an example ballot while helping her find her correct voting center after being turned away at Disciple Central Community Church due to the location not being her assigned precinct voting center on primary election day in Dallas on March 3, 2026.",
     "date": "2026-04-29T14:32:57",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228236",
-    "feed_name": "Texas Tribune",
-    "title": "U.S. Supreme Court weakens key pillar of Voting Rights Act",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17327864/us-supreme-court-voting-rights-act-section-2-decision-texas-redistricting-maps",
-    "content": "The United States Supreme Court building in Washington, D.C., on May 18, 2024.",
-    "date": "2026-04-29T14:24:15",
     "category": "Texas"
   }
 ]
