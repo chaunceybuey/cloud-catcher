@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/06/dining/its-gazpacho-time.html",
+    "feed_name": "NYT (Food)",
+    "title": "It\u2019s Gazpacho Time",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/06/dining/its-gazpacho-time.html",
+    "content": "Julia Moskin\u2019s best gazpacho.",
+    "date": "2026-06-06T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/06/dining/ive-been-depriving-you-of-cookies.html",
     "feed_name": "NYT (Food)",
     "title": "I\u2019ve Been Depriving You of Cookies",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n08/oliver-cussen/no-one-can-live-on-iron",
     "content": "Alittle more\u200b than a decade ago, the historian Dipesh Chakrabarty organised a conference at the University of Chicago on the history and politics of the Anthropocene. Chakrabarty had published an article four years earlier in which he argued that the science of anthropogenic climate change undermined assumptions about agency, experience and causation that are fundamental to the writing of...",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "59765c1f8d38131b7a7c3044aefd2fca",
-    "feed_name": "LRB",
-    "title": "Orb\u00e1n\u2019s Fall",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/jan-werner-mueller/short-cuts",
-    "content": "Can there be\u200b poetic justice in politics? Perhaps once in a lifetime. In 1989, a young Viktor Orb\u00e1n bravely told the crowds in Budapest\u2019s Heroes\u2019 Square that it was time for the Russians to go home, just as protesters had demanded in 1956; almost four decades later, he was heckled on the campaign trail with the same words. There were more chants of \u2018Ruszkik haza!\u2019...",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
   }
