@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/06/arts/madonna-confessions-tribeca-festival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Madonna Premieres \u2018Confessions II,\u2019 a Star-Studded Short Film, at Tribeca Film Festival",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/06/06/arts/madonna-confessions-tribeca-festival.html",
+    "content": "Madonna during a surprise concert in Times Square on Thursday. \u201cI came to this earth to be a doer, not a watcher,\u201d she said after her new film premiered on Friday.",
+    "date": "2026-06-06T15:51:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/06/dining/its-gazpacho-time.html",
     "feed_name": "NYT (Food)",
     "title": "It\u2019s Gazpacho Time",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n08/t.j.-clark/v-is-for-vagina",
     "content": "\u2018Suburb in Havana\u2019 (1958) by Willem de Kooning",
-    "date": "2026-04-29T14:03:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "09b089cdda39e593dab21aa1c29c6dd3",
-    "feed_name": "LRB",
-    "title": "History after Climate Change",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n08/oliver-cussen/no-one-can-live-on-iron",
-    "content": "Alittle more\u200b than a decade ago, the historian Dipesh Chakrabarty organised a conference at the University of Chicago on the history and politics of the Anthropocene. Chakrabarty had published an article four years earlier in which he argued that the science of anthropogenic climate change undermined assumptions about agency, experience and causation that are fundamental to the writing of...",
     "date": "2026-04-29T14:03:45",
     "category": "Magazines"
   }
