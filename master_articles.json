@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kennedy Center Loses Case Against Musician Who Canceled Over Trump Naming Dispute",
+    "author": "Mark Walker",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html",
+    "content": "A federal judge threw out a lawsuit filed by the John F. Kennedy Center against a jazz musician who canceled a Christmas Eve performance.",
+    "date": "2026-06-06T22:07:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20280-inversion-string-theory-featuring-invoke",
     "feed_name": "KMFA",
     "title": "Inversion: String Theory featuring Invoke",
@@ -19988,15 +19998,5 @@
     "content": "The United States Supreme Court building in Washington, D.C., on May 18, 2024.",
     "date": "2026-04-29T14:24:15",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/us/elections/california-governor-debate-pomona.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Takeaways From the California Governor Debate at Pomona College",
-    "author": "Laurel Rosenhall and Soumya Karlamangla",
-    "link": "https://www.nytimes.com/2026/04/29/us/elections/california-governor-debate-pomona.html",
-    "content": "Eight candidates took the stage at Pomona College in one of the final debates in the California gubernatorial primary race.",
-    "date": "2026-04-29T14:22:18",
-    "category": "NYT"
   }
 ]
