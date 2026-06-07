@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/business/media/scary-movie-politically-incorrect-humor.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Scary Movie\u2019 Returns Politically Incorrect Humor to Top of the Box Office",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/06/07/business/media/scary-movie-politically-incorrect-humor.html",
+    "content": "The film took in $55 million over the weekend in the United States and Canada. It was the biggest opening for an R-rated comedy in 12 years.",
+    "date": "2026-06-07T18:19:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/movies/earth-wind-fire-hbo-documentary.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Earth, Wind & Fire\u2019 Review: Questlove\u2019s Tribute to an Inspiration",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
     "content": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
     "date": "2026-04-29T20:59:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/us/florida-house-gop-map.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Florida Approves Redistricting Map That Could Add 4 Republican House Seats",
-    "author": "Patricia Mazzei",
-    "link": "https://www.nytimes.com/2026/04/29/us/florida-house-gop-map.html",
-    "content": "The Florida Legislature gave final approval on Wednesday to an aggressive new map of the state\u2019s congressional districts sought by Gov. Ron DeSantis.",
-    "date": "2026-04-29T20:23:50",
     "category": "NYT"
   }
 ]
