@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/theater/tonys-host-pink.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Pink Is Hosting Tonight\u2019s Tony Awards.",
+    "author": "Melena Ryzik",
+    "link": "https://www.nytimes.com/2026/06/07/theater/tonys-host-pink.html",
+    "content": "Pink arrives at the 79th Tony Awards before hosting the ceremony.",
+    "date": "2026-06-07T23:45:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/a-middle-school-teacher-whos-sent-students-to-broadway-wins-excellence-in-education-award",
     "feed_name": "NYT (Arts)",
     "title": "A middle-school teacher who\u2019s sent students to Broadway wins excellence in education award.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/29/opinion/supreme-court-voting-rights-act-2026.html",
     "content": "In the name of disentangling race from politics, the court has given white voters more power at the expense of racial minorities.",
     "date": "2026-04-29T23:39:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/us/politics/trump-gun-control.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Administration Announces Moves to Sharply Curtail Gun Regulations",
-    "author": "Devlin Barrett",
-    "link": "https://www.nytimes.com/2026/04/29/us/politics/trump-gun-control.html",
-    "content": "Visitors looked over weapons displayed at the Crossroads of the West Gun Show in Phoenix in January.",
-    "date": "2026-04-29T23:28:13",
     "category": "NYT"
   }
 ]
