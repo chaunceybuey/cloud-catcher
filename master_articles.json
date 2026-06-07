@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/dining/tangy-and-bold-chile-tofu.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Tangy and Bold Chile Tofu",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/06/07/dining/tangy-and-bold-chile-tofu.html",
+    "content": "Hetty Lui McKinnon\u2019s new take on a popular Indo-Chinese stir-fry pairs the mild protein with a bold, punchy sauce.",
+    "date": "2026-06-07T13:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/arts/music/carter-brey-cellist-new-york-philharmonic.html",
     "feed_name": "NYT (Arts)",
     "title": "Carter Brey, New York Philharmonic Cellist, Retires",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/29/movies/devil-wears-prada-meryl-streep-anne-hathaway.html",
     "content": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci and the director David Frankel on \u201cThe Devil Wears Prada,\u201d the sequel and who\u2019s mean in real life.",
     "date": "2026-04-29T16:38:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/28/dining/a-warm-filling-salad-fit-for-dinner.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "A Warm, Filling Salad Fit for Dinner",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/04/28/dining/a-warm-filling-salad-fit-for-dinner.html",
-    "content": "A substantial mix of charred broccoli, salmon and soba catapults this salad out of side territory.",
-    "date": "2026-04-29T16:30:08",
     "category": "NYT"
   }
 ]
