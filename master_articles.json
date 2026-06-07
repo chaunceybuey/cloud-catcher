@@ -150,6 +150,36 @@
     "category": "Magazines"
   },
   {
+    "id": "3bcd876d62f4f4b3b3c8693ed723e08e",
+    "feed_name": "LRB",
+    "title": "James Lasdun\u2019s road trip to America\u2019s courts",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/james-lasdun-s-road-trip-to-america-s-courts",
+    "content": "\u2018Courtroom encounters present you with only a fragment of a person\u2019s story, from which you may or may not be inclined to infer the rest,\u2019 James Lasdun wrote recently in theLRB. Last October, he set out on a road trip across America, with the aim of attending as many different kinds of criminal and civil trials as possible in one month. His journey took him from immigration...",
+    "date": "2026-06-07T15:37:52",
+    "category": "Magazines"
+  },
+  {
+    "id": "1bc6fa97a177bb143886e54a0a1f8594",
+    "feed_name": "LRB",
+    "title": "Early Modern News",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/early-modern-news",
+    "content": "\u2018Information in the early modern world could move no faster than the bodies that carried it,\u2019 John Gallagher wrote recently in theLRB. For a horse and rider, that was just under fifteen kilometres per hour. Yet postal systems, as pioneered by the enterprising Tassis family, were becoming ever more reliable and efficient, at first in northern Italy and then across much of...",
+    "date": "2026-06-07T15:37:52",
+    "category": "Magazines"
+  },
+  {
+    "id": "491d09a02092bd27afe5b3f1cf140251",
+    "feed_name": "LRB",
+    "title": "From the Archive: \u2018The War on Terrorism: Is There an Alternative?\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/aftershock-the-war-on-terror/from-the-archive-the-war-on-terrorism-is-there-an-alternative",
+    "content": "In May 2002, six months after the invasion of Afghanistan but before the Iraq war, theLondon Review of Booksheld a debate: \u2018The War on Terrorism: Is There an Alternative?\u2019 The panel comprised Tariq Ali, Christopher Hitchens, Jacqueline Rose, Anatol Lieven and Onora O\u2019Neill.President Bush\u2019s ultimatum set the tone: either you\u2019re with us or you\u2019re with the...",
+    "date": "2026-06-07T15:37:52",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/dining/this-vanilla-sheet-pan-cake-is-ready-to-party.html",
     "feed_name": "NYT (Food)",
     "title": "This Vanilla Sheet-Pan Cake Is Ready to Party",
@@ -19968,35 +19998,5 @@
     "content": "Texas Education Agency Commissioner Mike Morath has named Sandi Massey as the new superintendent of Beaumont ISD.",
     "date": "2026-04-29T19:52:58",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Fidelity, Vanguard Won\u2019t Let Donor-Advised Fund Holders Donate to Southern Poverty Law Center",
-    "author": "Ron Lieber",
-    "link": "https://www.nytimes.com/2026/04/29/business/fidelity-southern-poverty-law-center.html",
-    "content": "Both entities cited the Justice Department investigation into the civil rights organization in messages to its charitable account holders.",
-    "date": "2026-04-29T19:28:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/opinion/prediction-markets-regulation.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A Journalist Covered a Missile Strike. Then the Death Threats Started.",
-    "author": "Sean Anthony Guillory and Amy J. Nelson",
-    "link": "https://www.nytimes.com/2026/04/29/opinion/prediction-markets-regulation.html",
-    "content": "Washington should govern prediction markets as if national security were at stake, because it is.",
-    "date": "2026-04-29T18:42:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
-    "author": "Gabriel J.X. Dance",
-    "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
-    "content": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
-    "date": "2026-04-29T17:57:21",
-    "category": "NYT"
   }
 ]
