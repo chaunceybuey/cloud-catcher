@@ -120,6 +120,16 @@
     "category": "NYT"
   },
   {
+    "id": "b9d9515f9dd16eea299b6332d7ff6627",
+    "feed_name": "The Atlantic",
+    "title": "Ukraine Is Not Losing. Russia Is Not Winning.",
+    "author": "Anne Applebaum",
+    "link": "https://www.theatlantic.com/ideas/2026/06/ukraine-war-momentum-shift/687444/",
+    "content": "A momentum shift that changes everything",
+    "date": "2026-06-07T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/arts/music/carter-brey-cellist-new-york-philharmonic.html",
     "feed_name": "NYT (Arts)",
     "title": "Carter Brey, New York Philharmonic Cellist, Retires",
@@ -19988,15 +19998,5 @@
     "content": "In the 1590s, Caravaggio was one of \u2018the swaggering, violent young men who terrorised Romans\u2019, Erin Maglaque wrote recently in theLRB, and he \u2018made his name by painting this violent, chaotic world\u2019.On this episode, Erin joins Thomas Jones to discuss the ways that Caravaggio represented his models' bodies on canvas \u2013 their muscles, skin, hair, clothing and dirty...",
     "date": "2026-04-29T16:42:45",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/movies/devil-wears-prada-meryl-streep-anne-hathaway.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Meryl Streep, Anne Hathaway and the \u2018Devil Wears Prada\u2019 Cast on the Sequel",
-    "author": "Melena Ryzik and Thea Traff",
-    "link": "https://www.nytimes.com/2026/04/29/movies/devil-wears-prada-meryl-streep-anne-hathaway.html",
-    "content": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci and the director David Frankel on \u201cThe Devil Wears Prada,\u201d the sequel and who\u2019s mean in real life.",
-    "date": "2026-04-29T16:38:45",
-    "category": "NYT"
   }
 ]
