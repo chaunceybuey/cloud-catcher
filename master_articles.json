@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Takeaways From Scott Pelley\u2019s Times Magazine Interview",
+    "author": "Adeel Hassan",
+    "link": "https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html",
+    "content": "In his first sit-down interview since he was fired from CBS News, Scott Pelley talks about his recent experiences at the network.",
+    "date": "2026-06-07T17:04:38",
+    "category": "NYT"
+  },
+  {
     "id": "801f63b623d027f3038b9e2b5f5a5423",
     "feed_name": "LRB",
     "title": "Ordinary Abuse",
@@ -19988,15 +19998,5 @@
     "content": "At the White House, the president embraced the idea that the nation is an Anglo-Saxon one.\nDelivered by PolitePaul service",
     "date": "2026-04-29T20:18:55",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228298",
-    "feed_name": "Texas Tribune",
-    "title": "Houston ISD chief to lead Beaumont schools during its second state takeover",
-    "author": "Sneha Dey",
-    "link": "https://feeds.texastribune.org/link/16799/17328047/texas-beaumont-isd-takeover-houston",
-    "content": "Texas Education Agency Commissioner Mike Morath has named Sandi Massey as the new superintendent of Beaumont ISD.",
-    "date": "2026-04-29T19:52:58",
-    "category": "Texas"
   }
 ]
