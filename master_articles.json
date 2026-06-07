@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/arts/music/barry-manilow-cant-smile-duets.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Barry Manilow Can\u2019t Smile Without Fans\u2019 Help on This Song",
+    "author": "Rob Tannenbaum",
+    "link": "https://www.nytimes.com/2026/06/07/arts/music/barry-manilow-cant-smile-duets.html",
+    "content": "Manilow, 82, is slated to resume his \u201cfarewell tour\u201d later this month after postponing dates amid a bout with lung cancer.",
+    "date": "2026-06-07T04:01:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
     "feed_name": "NYT (Arts)",
     "title": "Despite Protest, Ye Takes the Stage for Thousands of European Fans",
@@ -19988,15 +19998,5 @@
     "content": "With Americans living ever longer lives, the age-old worry of outliving savings has become more pronounced.",
     "date": "2026-04-29T15:23:15",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228195",
-    "feed_name": "Texas Tribune",
-    "title": "Texas voters can face confusion as political parties run primary as they wish",
-    "author": "By Natalia Contreras,\u00a0Votebeat and The Texas Tribune",
-    "link": "https://feeds.texastribune.org/link/16799/17327863/texas-primary-confusion-precinct-dallas-williamson-eastland-county",
-    "content": "Electioneer Charhonda Hardeman (blue hat) hands Votika Mitchell an example ballot while helping her find her correct voting center after being turned away at Disciple Central Community Church due to the location not being her assigned precinct voting center on primary election day in Dallas on March 3, 2026.",
-    "date": "2026-04-29T14:32:57",
-    "category": "Texas"
   }
 ]
