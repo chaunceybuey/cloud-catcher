@@ -100,6 +100,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
+    "feed_name": "NYT (Arts)",
+    "title": "How to watch the Tony Awards.",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
+    "content": "Pink will host the 79th Tony Awards at Radio City Music Hall. The ceremony, which will be broadcast live on CBS and is available to stream on Paramount+, begins at 8 p.m. Eastern.",
+    "date": "2026-06-07T21:30:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-the-latest",
+    "feed_name": "NYT (Arts)",
+    "title": "Here\u2019s the latest.",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-the-latest",
+    "content": "",
+    "date": "2026-06-07T21:30:28",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-what-to-expect-at-tonights-ceremony",
+    "feed_name": "NYT (Arts)",
+    "title": "Here\u2019s what to expect at tonight\u2019s ceremony.",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-what-to-expect-at-tonights-ceremony",
+    "content": "The CBS telecast of the Tonys introduces the latest plays and musicals to a television audience of several million.",
+    "date": "2026-06-07T21:30:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/world/middleeast/tribeca-film-festival-response-palestinian-joke.html",
     "feed_name": "NYT (Arts)",
     "title": "Tribeca Festival Denounces Pair Who Joked on the Red Carpet About Rape",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/29/t-magazine/favorite-garden-visit-artists.html",
     "content": "Hiroshi Sugimoto, Irene Neuwirth, Umberto Pasti and others share their impressions of mesmerizing plots all over the world.",
     "date": "2026-04-29T21:34:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/opinion/iran-war-hormuz-blockade.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Two Cocky Authoritarians Blocking Hormuz: What Could Go Wrong?",
-    "author": "Nicholas Kristof",
-    "link": "https://www.nytimes.com/2026/04/29/opinion/iran-war-hormuz-blockade.html",
-    "content": "A billboard in Tehran depicting an Iranian net catching American military planes.",
-    "date": "2026-04-29T21:19:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/science/tourism-killer-whales-orcas.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Murky Ethics of Swimming With Killer Whales",
-    "author": "Alexa Robles-Gil and Meghan Dhaliwal",
-    "link": "https://www.nytimes.com/2026/04/29/science/tourism-killer-whales-orcas.html",
-    "content": "Only two places in the world allow tourists to enter the water with the ocean\u2019s apex predator. But the safety of both species is a growing concern.",
-    "date": "2026-04-29T21:10:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/t-magazine/gardening-style-quiz.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Quiz: Find Out What Garden Style Best Suits Your Personality",
-    "author": "Aileen Kwun",
-    "link": "https://www.nytimes.com/2026/04/29/t-magazine/gardening-style-quiz.html",
-    "content": "Find out how to match your dream plot to your personality.",
-    "date": "2026-04-29T21:04:47",
     "category": "NYT"
   }
 ]
