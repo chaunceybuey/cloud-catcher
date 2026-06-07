@@ -100,6 +100,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
+    "feed_name": "NYT (Arts)",
+    "title": "Tonys 2026 Live Updates: Stars Arrive on Red Carpet in Honor of Broadway\u2019s Best",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
+    "content": "A sparse musical season included a radically reconceived version of \u201cCats\u201d and a \u201cRagtime\u201d revival. Pink will host a ceremony filled with nostalgic performances.",
+    "date": "2026-06-07T22:14:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/whats-onstage-this-summer",
+    "feed_name": "NYT (Arts)",
+    "title": "What\u2019s onstage this summer?",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/whats-onstage-this-summer",
+    "content": "A play inspired by the horror franchise \u201cParanormal Activity\u201d makes its Broadway bow in August.",
+    "date": "2026-06-07T22:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
     "feed_name": "NYT (Arts)",
     "title": "How to watch the Tony Awards.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/29/sports/hockey/buffalo-sabres-nhl-canadian-anthem.html",
     "content": "A crowd in Buffalo chimed in to sing the Canadian national anthem before an N.H.L. playoff game. That presented a contrast to ongoing U.S.-Canada tensions.",
     "date": "2026-04-29T22:34:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/world/asia/indian-tycoon-ambani-hippos-colombia-escobar.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Indian Tycoon Offers Refuge to Pablo Escobar\u2019s Condemned Hippos",
-    "author": "Alex Travelli",
-    "link": "https://www.nytimes.com/2026/04/29/world/asia/indian-tycoon-ambani-hippos-colombia-escobar.html",
-    "content": "Hippos descended from four imported by the drug kingpin Pablo Escobar in Colombia, in a 2023 photo.",
-    "date": "2026-04-29T21:34:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/t-magazine/favorite-garden-visit-artists.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Nine Artists on the Gardens They\u2019ll Never Forget",
-    "author": "Michael Snyder",
-    "link": "https://www.nytimes.com/2026/04/29/t-magazine/favorite-garden-visit-artists.html",
-    "content": "Hiroshi Sugimoto, Irene Neuwirth, Umberto Pasti and others share their impressions of mesmerizing plots all over the world.",
-    "date": "2026-04-29T21:34:03",
     "category": "NYT"
   }
 ]
