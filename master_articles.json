@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/june-squibb-is-one-of-the-oldest-actors-ever-to-be-nominated-for-a-tony",
+    "feed_name": "NYT (Arts)",
+    "title": "June Squibb is one of the oldest actors ever to be nominated for a Tony.",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/june-squibb-is-one-of-the-oldest-actors-ever-to-be-nominated-for-a-tony",
+    "content": "June Squibb in the play \u201cMarjorie Prime,\u201d which had a limited run last winter at the Helen Hayes Theater.",
+    "date": "2026-06-08T00:27:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/theater/john-lithgow-wins-the-tony-for-best-actor-in-a-play.html",
     "feed_name": "NYT (Arts)",
     "title": "John Lithgow wins the Tony for best actor in a play.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/29/us/politics/jewish-democrats-antisemitism-israel.html",
     "content": "Noah Arbit, a Michigan state representative, said he had made fighting antisemitism a core part of his platform.",
     "date": "2026-04-30T01:11:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel",
-    "author": "Jack Nicas, Maria Abi-Habib and Emiliano Rodr\u00edguez Mega",
-    "link": "https://www.nytimes.com/2026/04/29/world/americas/ruben-rocha-moya-indictment-mexico.html",
-    "content": "Rub\u00e9n Rocha Moya, the governor of Sinaloa state, is the highest-ranking member of Mexico\u2019s dominant political party, Morena, to be indicted by the United States.",
-    "date": "2026-04-29T23:58:07",
     "category": "NYT"
   }
 ]
