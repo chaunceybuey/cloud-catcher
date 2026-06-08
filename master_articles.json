@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/theater/death-of-a-salesman-revival-play.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Death of a Salesman\u2019 Wins the Tony for Best Revival of a Play",
+    "author": "Jesse Green",
+    "link": "https://www.nytimes.com/2026/06/07/theater/death-of-a-salesman-revival-play.html",
+    "content": "Laurie Metcalf, left, as Linda and Nathan Lane as Willy Loman in the Arthur Miller play \u201cDeath of a Salesman\u201d at the Winter Garden Theater in New York.",
+    "date": "2026-06-08T02:36:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/theater/ragtime-tony-award-best-musical-revival.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Ragtime\u2019 Wins the Tony for Best Revival of a Musical",
@@ -19988,15 +19998,5 @@
     "content": "The LinkedIn cofounder now has an AI drug discovery startup\u2014and thinks not asking chatbots for medical advice is \u201cbordering on committing malpractice.\u201d",
     "date": "2026-04-30T09:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html",
-    "feed_name": "NYT (Shared)",
-    "title": "J. Craig Venter, Scientist Who Decoded the Human Genome, Dies at 79",
-    "author": "Nicholas Wade",
-    "link": "https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html",
-    "content": "J. Craig Venter, next to Algae growth in his greenhouse in La Jolla, Calif., competed with a rival team of scientists in assembling the first human genome.",
-    "date": "2026-04-30T04:29:42",
-    "category": "NYT"
   }
 ]
