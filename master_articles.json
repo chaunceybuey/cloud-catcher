@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "d9e5697d16633e2f5149232415473501",
+    "feed_name": "LRB",
+    "title": "Get Your Jabs",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/june/get-your-jabs",
+    "content": "Among the unvaccinated, one in five people who get measles in the US will be hospitalised; one in twenty children will get pneumonia; one in.\u00a0.\u00a0.",
+    "date": "2026-06-08T17:56:16",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/08/theater/how-to-see-the-2026-tony-winners.html",
     "feed_name": "NYT (Arts)",
     "title": "How to See the 2026 Tony-Winning Plays and Musicals",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/30/opinion/graham-platner-janet-mills-susan-collins-senate.html",
     "content": "A Democratic vision of the Tea Party is emerging.",
     "date": "2026-04-30T23:58:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Picks Nicole Saphier for Surgeon General After Withdrawing Casey Means Nomination",
-    "author": "Sheryl Gay Stolberg and Dani Blum",
-    "link": "https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html",
-    "content": "The withdrawal of Dr. Casey Means\u2019s nomination is bound to be a deep disappointment for the Make America Healthy Again movement.",
-    "date": "2026-04-30T23:46:41",
     "category": "NYT"
   }
 ]
