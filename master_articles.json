@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/theater/liberation-tony-awards-best-play.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Liberation\u2019 Wins the Tony for Best Play",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/06/07/theater/liberation-tony-awards-best-play.html",
+    "content": "From left: Audrey Corsa, Susannah Flood, Irene Sofia Lucio and Adina Verson in \u201cLiberation.\u201d",
+    "date": "2026-06-08T01:19:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/june-squibb-is-one-of-the-oldest-actors-ever-to-be-nominated-for-a-tony",
     "feed_name": "NYT (Arts)",
     "title": "June Squibb is one of the oldest actors ever to be nominated for a Tony.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/29/us/politics/trump-germany-us-troops.html",
     "content": "U.S. soldiers on a combat exercise in Bavaria, Germany.",
     "date": "2026-04-30T03:40:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/us/politics/jewish-democrats-antisemitism-israel.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "\u2018Excruciating and Agonizing\u2019: A New Reality for Jewish Democrats",
-    "author": "Jennifer Medina",
-    "link": "https://www.nytimes.com/2026/04/29/us/politics/jewish-democrats-antisemitism-israel.html",
-    "content": "Noah Arbit, a Michigan state representative, said he had made fighting antisemitism a core part of his platform.",
-    "date": "2026-04-30T01:11:46",
     "category": "NYT"
   }
 ]
