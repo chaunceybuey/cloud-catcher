@@ -130,6 +130,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://projects.propublica.org/measles-outbreak-analysis-utah-texas/",
+    "feed_name": "ProPublica",
+    "title": "What ProPublica Found in the Genetic Code of America\u2019s Measles Outbreaks",
+    "author": "Patricia Callahan",
+    "link": "https://projects.propublica.org/measles-outbreak-analysis-utah-texas/",
+    "content": "<figure><img alt=\"A collage overlays a black-and-white photo of a wooden sign reading \u201cMeasles testing\u201d in a scene with a Texas flag in the background. Illustrations of genetic sequences and branching diagrams surround the sign, with red banners highlighting various DNA configurations that are labeled with locations and dates from Texas and Utah.\" src=\"https://www.propublica.org/wp-content/uploads/2026/06/20260605-measles-testing-us-5x2-1.jpg?w=1149\" /><figcaption><small> Photo illustration by Lisa Larson-Walker/ProPublica. Source image: Julio Cortez/AP Photo.</small></figcaption></figure>\n<p>To read this story, <a href=\"https://projects.propublica.org/measles-outbreak-analysis-utah-texas/\">visit our website</a>.</p>\n<p>The post <a href=\"https://projects.propublica.org/measles-outbreak-analysis-utah-texas/\">What ProPublica Found in the Genetic Code of America\u2019s Measles Outbreaks</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
+    "date": "2026-06-08T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/08/arts/frida-kahlo-diego-rivera.html",
     "feed_name": "NYT (Arts)",
     "title": "Bounty of Frida Kahlo Art Emerges in Mexico\u2019s Restored Museum",
@@ -19988,15 +19998,5 @@
     "content": "Concern over water access are poised to consume summer in the US, as crises in Corpus Christi and across the Colorado River threaten to boil over.",
     "date": "2026-04-30T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/04/29/us/trump-news/pete-hegseth-falsehood-firings",
-    "feed_name": "NYT (Shared)",
-    "title": "Hegseth Cites Falsehood to Defend His Firing of Senior Officers",
-    "author": "Greg Jaffe",
-    "link": "https://www.nytimes.com/live/2026/04/29/us/trump-news/pete-hegseth-falsehood-firings",
-    "content": "Defense Secretary Pete Hegseth\u2019s actions to fire senior military leaders are without precedent in recent decades and have come with little explanation.",
-    "date": "2026-04-30T10:02:51",
-    "category": "NYT"
   }
 ]
