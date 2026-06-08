@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/08/theater/scott-rudin-salesman-tony-awards.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Was Scott Rudin the Biggest Winner at This Year\u2019s Tony Awards?",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/08/theater/scott-rudin-salesman-tony-awards.html",
+    "content": "Nathan Lane, the star of \u201cDeath of a Salesman,\u201d accepted the Tony Award for best play revival surrounded by cast members and co-producers. Conspicuously not present: the lead producer Scott Rudin.",
+    "date": "2026-06-08T16:14:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Gordon S. Wood, Pioneering Historian of Early America, Dies at 92",
+    "author": "David Stout",
+    "link": "https://www.nytimes.com/2026/06/08/books/gordon-s-wood-dead.html",
+    "content": "Gordon S. Wood was awarded the National Humanities Medal by President Barack Obama in 2011. He worked to deepen understanding of the forces and events that led to the birth of the United States.",
+    "date": "2026-06-08T15:54:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/08/dining/yewande-komolafes-mushroom-stuffed-plantains.html",
     "feed_name": "NYT (Food)",
     "title": "Yewande Komolafe\u2019s Mushroom-Stuffed Plantains",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html",
     "content": "The U.S. economy continued to prove resilient in the first three months of the year, even as energy prices soared in the early weeks of the war.",
     "date": "2026-04-30T21:57:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/us/jeffrey-epstein-suicide-note-sealed.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Jeffrey Epstein\u2019s Possible Suicide Note Hidden From Public View",
-    "author": "Benjamin Weiser, Steve Eder and Jan Ransom",
-    "link": "https://www.nytimes.com/2026/04/30/us/jeffrey-epstein-suicide-note-sealed.html",
-    "content": "An inmate said he discovered the note after Mr. Epstein was found injured in his jail cell, weeks before his death. It\u2019s now locked in a courthouse.",
-    "date": "2026-04-30T21:55:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html",
-    "feed_name": "NYT (Shared)",
-    "title": "New Banksy Statue Causes Stir in Central London",
-    "author": "Michael Levenson",
-    "link": "https://www.nytimes.com/2026/04/30/world/europe/banksy-london-statue.html",
-    "content": "The artist Banksy appeared to have taken credit for statue of a man holding a flag covering his face that stood in Waterloo Place in London.",
-    "date": "2026-04-30T21:35:06",
     "category": "NYT"
   }
 ]
