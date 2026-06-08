@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/08/style/tony-awards-after-parties.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At the Tony Awards After-Parties, a \u2018Harry Potter\u2019 Reunion and Winner Celebrations",
+    "author": "Sarah Bahr, Nancy Coleman, Nina Westervelt and Jutharat Pinyodoonyachet",
+    "link": "https://www.nytimes.com/2026/06/08/style/tony-awards-after-parties.html",
+    "content": "Megan Thee Stallion dancing to a song performed by Solea Pfeiffer at the Tony Awards after-party at the Carlyle hotel in Manhattan on Sunday.",
+    "date": "2026-06-08T13:38:04",
+    "category": "NYT"
+  },
+  {
     "id": "6a048fecef618923e3fd4394",
     "feed_name": "Wired",
     "title": "Afroman Is Back\u2014and He\u2019s Bitcoin\u2019s Latest Freedom Fighter",
@@ -138,6 +148,46 @@
     "content": "<figure><img alt=\"A collage overlays a black-and-white photo of a wooden sign reading \u201cMeasles testing\u201d in a scene with a Texas flag in the background. Illustrations of genetic sequences and branching diagrams surround the sign, with red banners highlighting various DNA configurations that are labeled with locations and dates from Texas and Utah.\" src=\"https://www.propublica.org/wp-content/uploads/2026/06/20260605-measles-testing-us-5x2-1.jpg?w=1149\" /><figcaption><small> Photo illustration by Lisa Larson-Walker/ProPublica. Source image: Julio Cortez/AP Photo.</small></figcaption></figure>\n<p>To read this story, <a href=\"https://projects.propublica.org/measles-outbreak-analysis-utah-texas/\">visit our website</a>.</p>\n<p>The post <a href=\"https://projects.propublica.org/measles-outbreak-analysis-utah-texas/\">What ProPublica Found in the Genetic Code of America\u2019s Measles Outbreaks</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
     "date": "2026-06-08T10:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232572",
+    "feed_name": "Texas Tribune",
+    "title": "Where are the data centers in Texas? Help us continue our reporting.",
+    "author": "Mar\u00eda M\u00e9ndez",
+    "link": "https://feeds.texastribune.org/link/16799/17356146/texas-data-centers-reporting-impact",
+    "content": "The Stargate data center is seen Saturday, May 2, 2026, in Abilene.",
+    "date": "2026-06-08T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232604",
+    "feed_name": "Texas Tribune",
+    "title": "Local Texas election officials await appointment of new secretary of state as midterm preparations ramp up",
+    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17356147/texas-2026-midterm-new-secretary-of-state-election-officials",
+    "content": "People wait in line to vote on Election Day in Bryan on Nov. 5, 2024.",
+    "date": "2026-06-08T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232612",
+    "feed_name": "Texas Tribune",
+    "title": "An unprecedented data center boom means new challenges for Texas. Find out what\u2019s planned near you.",
+    "author": "By Emily Foxhall, data analysis and graphics by Apurva Mahajan and Alex Ford",
+    "link": "https://feeds.texastribune.org/link/16799/17356148/texas-regulation-data-centers-electricity-power-water",
+    "content": "A Texas Tribune analysis identified at least 248 planned data center projects. Opponents fear the projects will spike Texans\u2019 electric bills and make the grid less reliable. But industry representatives say they promise huge economic gains.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17356148.gif\" width=\"1\" />",
+    "date": "2026-06-08T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232649",
+    "feed_name": "Texas Tribune",
+    "title": "Balcones Canyonlands wildlife refuge, home to endangered songbird, adds more than 600 acres",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17356149/texas-balcones-canyonlands-wildlife-refuge-land-addition",
+    "content": "A view from the Indiangrass Trail at Doeskin Ranch at the Balcones Canyonlands National Wildlife Refuge near Marble Falls on Aug. 13, 2021 .",
+    "date": "2026-06-08T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/06/08/arts/frida-kahlo-diego-rivera.html",
@@ -19948,55 +19998,5 @@
     "content": "The exhibition \u201cMichelangelo and Rodin: Living Bodies\u201d at the Louvre compares the techniques of the master artists who lived four centuries apart.",
     "date": "2026-04-30T13:30:57",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues",
-    "author": "Gregory Schmidt",
-    "link": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html",
-    "content": "The longer the disruption to Middle East fuel supplies lasts, the risk grows that higher energy costs will feed into broader inflation that could dent economic growth.",
-    "date": "2026-04-30T12:53:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The U.S. Military Was Losing Its Edge. After Iran, Everyone Knows It.",
-    "author": "The Editorial Board",
-    "link": "https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html",
-    "content": "Somehow, the weaker nation is in the stronger negotiating position.",
-    "date": "2026-04-30T12:05:08",
-    "category": "NYT"
-  },
-  {
-    "id": "31dd43308cf3bb97378db2c7148785cd",
-    "feed_name": "Compact",
-    "title": "Jan Morris and the Limits of Gender Fantasy",
-    "author": "",
-    "link": "https://www.compactmag.com/article/jan-morris-and-the-limits-of-gender-fantasy/",
-    "content": "",
-    "date": "2026-04-30T11:38:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Silicon Valley Is Bracing for a Permanent Underclass",
-    "author": "Jasmine Sun",
-    "link": "https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html",
-    "content": "The people building A.I. fear that we have only a short time before advanced A.I. disrupts the labor force.",
-    "date": "2026-04-30T11:00:33",
-    "category": "NYT"
-  },
-  {
-    "id": "69eb9f69c53bb731582162df",
-    "feed_name": "Wired (Science)",
-    "title": "The Summer the American Water Crisis Turned Real",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/",
-    "content": "Concern over water access are poised to consume summer in the US, as crises in Corpus Christi and across the Colorado River threaten to boil over.",
-    "date": "2026-04-30T11:00:00",
-    "category": "Magazines"
   }
 ]
