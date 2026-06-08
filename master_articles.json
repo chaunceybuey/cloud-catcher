@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "f81ae2a4-62bb-453f-8f5f-d504d175927a",
+    "feed_name": "Economist",
+    "title": "A bidding war erupts for the world\u2019s oldest bank",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/08/a-bidding-war-erupts-for-the-worlds-oldest-bank",
+    "content": "Monte dei Paschi di Siena is suddenly all the rage",
+    "date": "2026-06-08T18:37:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/cold-peanut-noodles-pasta-salad",
     "feed_name": "NYT (Food)",
     "title": "These Cold Peanut Noodles Are Better Than Pasta Salad",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/business/central-banks-gold-buying.html",
     "content": "As risk has escalated, central banks have bought more gold to stash in reserve. A widening Middle East war could add to the urgency.",
     "date": "2026-05-01T06:34:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Trump Is the One Without the Cards at the Poker Table",
-    "author": "Thomas L. Friedman",
-    "link": "https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html",
-    "content": "A.I. will drastically increase the power of small states and groups in conflict with the great powers.",
-    "date": "2026-05-01T05:37:51",
     "category": "NYT"
   }
 ]
