@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "0b8aa36d-02a5-4656-bb71-5c47ba5bf8b1",
+    "feed_name": "Economist",
+    "title": "In China, innovation and economic malaise live side by side",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/08/in-china-innovation-and-economic-malaise-live-side-by-side",
+    "content": "Which will win out?",
+    "date": "2026-06-08T19:17:35",
+    "category": "Magazines"
+  },
+  {
     "id": "f81ae2a4-62bb-453f-8f5f-d504d175927a",
     "feed_name": "Economist",
     "title": "A bidding war erupts for the world\u2019s oldest bank",
@@ -175,6 +185,16 @@
     "title": "How to See the 2026 Tony-Winning Plays and Musicals",
     "author": "Laura Collins-Hughes and Rachel Sherman",
     "link": "https://www.nytimes.com/2026/06/08/theater/how-to-see-the-2026-tony-winners.html",
+    "content": "A scene from \u201cSchmigadoon!,\u201d which won four Tony Awards.",
+    "date": "2026-06-08T17:32:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/theater/tickets-tony-winners-plays-musicals.html",
+    "feed_name": "NYT (Arts)",
+    "title": "2026 Tonys: How to Get Tickets for Winning Plays and Musicals",
+    "author": "Laura Collins-Hughes and Rachel Sherman",
+    "link": "https://www.nytimes.com/2026/06/08/theater/tickets-tony-winners-plays-musicals.html",
     "content": "A scene from \u201cSchmigadoon!,\u201d which won four Tony Awards.",
     "date": "2026-06-08T17:32:25",
     "category": "NYT"
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/travel/stockholm-bakeries.html",
     "content": "The Swedish appetite for sweets, caffeine and hanging out has led to a profusion of new convivial bakeries.",
     "date": "2026-05-01T09:00:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/business/after-prison-a-financial-titan-plots-an-unlikely-comeback.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "After Prison, a Financial Titan Plots an Unlikely Comeback",
-    "author": "David Gelles",
-    "link": "https://www.nytimes.com/2026/05/01/business/after-prison-a-financial-titan-plots-an-unlikely-comeback.html",
-    "content": "Bill McGlashan, co-founder of the start-up Oath, which uses a blend of microscopic organisms to improve yield and quality of food crops, reducing water and fertilizer use, near the company\u2019s headquarters in San Francisco.",
-    "date": "2026-05-01T09:00:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/business/central-banks-gold-buying.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Why Countries Are Stocking Up on Gold",
-    "author": "Eshe Nelson",
-    "link": "https://www.nytimes.com/2026/05/01/business/central-banks-gold-buying.html",
-    "content": "As risk has escalated, central banks have bought more gold to stash in reserve. A widening Middle East war could add to the urgency.",
-    "date": "2026-05-01T06:34:58",
     "category": "NYT"
   }
 ]
