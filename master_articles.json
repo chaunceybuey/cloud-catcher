@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/08/theater/how-to-see-the-2026-tony-winners.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How to See the 2026 Tony-Winning Plays and Musicals",
+    "author": "Laura Collins-Hughes and Rachel Sherman",
+    "link": "https://www.nytimes.com/2026/06/08/theater/how-to-see-the-2026-tony-winners.html",
+    "content": "A scene from \u201cSchmigadoon!,\u201d which won four Tony Awards.",
+    "date": "2026-06-08T17:32:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/world/europe/patrick-bruel-questioning-rape-sexual-assault.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Patrick Bruel, French Singer, Is Taken Into Custody Over Sex Assault Claims",
+    "author": "Claire Moses and S\u00e9gol\u00e8ne Le Stradic",
+    "link": "https://www.nytimes.com/2026/06/08/world/europe/patrick-bruel-questioning-rape-sexual-assault.html",
+    "content": "The French singer and actor Patrick Bruel in Paris last year.",
+    "date": "2026-06-08T17:29:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/08/theater/tony-awards-saturday-night-live.html",
     "feed_name": "NYT (Arts)",
     "title": "On Broadway\u2019s Biggest Night, \u2018Saturday Night Live\u2019 Shows Its Strength",
@@ -19978,25 +19998,5 @@
     "content": "The withdrawal of Dr. Casey Means\u2019s nomination is bound to be a deep disappointment for the Make America Healthy Again movement.",
     "date": "2026-04-30T23:46:41",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8751315#p8751315",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "cbgb",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8751315#p8751315",
-    "content": "After several attempts to add my cash plus account to Comenity over the years, my routing # and account # were accepted today. I still haven't confirmed that it will pull money from the account, but autopay is set to draw from cash plus next month. Curious if others have had any success recently.<br /><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I'm unable to link my Schwab Checking Account to the Vanguard CashPlus account. Schwab keeps saying error about the routing number. I have selected Savings. <br /><br />No issues linking to other banks. I found one post on Reddit withe the same problem and no resolution either.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I was trying to use Schwab's MoneyLInk to ACH link my brokerage account to VG CP, from the Schwab side. Schwab said they will not do it because VG is the brokerage, and they would not ACH link Schwab to another brokerage, only to a bank. I said that VG uses a real bank for the actual transactions, and the provided routing number is for the PNC Bank. They said that they will only do it if I provide them a letter from VG that VG Cash Plus account is a checking or a savings account. Obviously I cannot do it because somewhere in FAQs it stated that the VG Cash Plus account is a brokerage account. So I dropped it for the time being.<br /><br />Another financial institution I could not link VG Cash Plus to is Comenity Capital Bank, issuer of the Bread Cashback AMEX credit card.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=217211\">cbgb</a> \u2014 Thu Apr 30, 2026 5:52 pm</p><hr />",
-    "date": "2026-04-30T22:52:54",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228535",
-    "feed_name": "Texas Tribune",
-    "title": "Proposed Fort Bliss data center could use more power than all of El Paso",
-    "author": "By Diego Mendoza-Moyers, \u00a0El Paso Matters",
-    "link": "https://feeds.texastribune.org/link/16799/17328922/el-paso-fort-bliss-data-center-water-electricity",
-    "content": "The Buffalo Soldier Gate at Fort Bliss.",
-    "date": "2026-04-30T22:32:23",
-    "category": "Texas"
   }
 ]
