@@ -110,6 +110,66 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/08/arts/frida-kahlo-diego-rivera.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bounty of Frida Kahlo Art Emerges in Mexico\u2019s Restored Museum",
+    "author": "Victoria Burnett and Pablo L\u00f3pez Luz",
+    "link": "https://www.nytimes.com/2026/06/08/arts/frida-kahlo-diego-rivera.html",
+    "content": "Frida Kahlo, \u201cAutorretrato con Changuito (Self-Portrait With Monkey),\u201d 1945 at the reopened Dolores Olmedo Museum in Mexico City.",
+    "date": "2026-06-08T09:02:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/theater/best-worst-tony-awards.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Best and Worst Moments From the 2026 Tony Awards: Pink, Maya Rudolph, Cole Escola, \u2018Cats\u2019",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/06/08/theater/best-worst-tony-awards.html",
+    "content": "Pink, center, flanked by Megan Thee Stallion, Neil Patrick Harris and other performers during the opening number at the Tony Awards.",
+    "date": "2026-06-08T09:02:33",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/arts/music/knicks-hip-hop-anthems.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The New York Hip-Hop Soundtracking the Knicks\u2019 Run to the N.B.A. Finals",
+    "author": "Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/06/08/arts/music/knicks-hip-hop-anthems.html",
+    "content": "The Rapper Fat Joe has been one of the most visible supporters of the Knicks on their playoff run.",
+    "date": "2026-06-08T09:02:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/movies/backrooms-obsession-lessons.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Backrooms\u2019 and \u2018Obsession\u2019: The Lessons Behind These Horror Hits",
+    "author": "Alissa Wilkinson and Jason Zinoman",
+    "link": "https://www.nytimes.com/2026/06/08/movies/backrooms-obsession-lessons.html",
+    "content": "Two Times critics unpack the twin phenomenon of \u201cBackrooms\u201d and \u201cObsession\u201d and what lessons should \u2014 and shouldn\u2019t \u2014 be learned from their massive success.",
+    "date": "2026-06-08T09:02:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/dining/post-modern-times-minneapolis-free-food.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Minneapolis Restaurant Stopped Charging for Food. And Profits Are Up.",
+    "author": "Brett Anderson",
+    "link": "https://www.nytimes.com/2026/06/08/dining/post-modern-times-minneapolis-free-food.html",
+    "content": "Dylan Alverson changed his restaurant\u2019s business model early this year, frustrated by Operation Metro Surge but also the dire state of the restaurant business. \u201cThere is something wrong in our economy,\u201d he said.",
+    "date": "2026-06-08T09:01:50",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/technology/uk-video-memes-archive-tape.html",
+    "feed_name": "NYT (Arts)",
+    "title": "B.F.I. Preserves \u2018Charlie Bit My Finger\u2019 and More Videos in Archive of Viral Moments",
+    "author": "Leo Sands",
+    "link": "https://www.nytimes.com/2026/06/08/technology/uk-video-memes-archive-tape.html",
+    "content": "The British Film Institute assembled more than 400 videos in an archive of culturally significant internet moments. See what made the cut.",
+    "date": "2026-06-08T09:00:52",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/08/arts/television/every-year-after-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Every Year After\u2019 and 8 More Shows to Watch on TV This Week",
@@ -19938,65 +19998,5 @@
     "content": "<p>Amazon's earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.</p>",
     "date": "2026-04-30T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "4ee3c87f-cd2c-4ffd-8d2c-ba77f2560f6d",
-    "feed_name": "Economist",
-    "title": "Can countries grow richer by exporting people, not goods?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods",
-    "content": "That depends where those people end up",
-    "date": "2026-04-30T09:40:15",
-    "category": "Magazines"
-  },
-  {
-    "id": "48017aa0-c912-4f7e-8612-338050d293d6",
-    "feed_name": "Economist",
-    "title": "India\u2019s weak currency reflects deeper problems than the Iran war",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/30/indias-weak-currency-reflects-deeper-problems-than-the-iran-war",
-    "content": "It highlight a persistent inability to draw in foreign investors",
-    "date": "2026-04-30T09:38:15",
-    "category": "Magazines"
-  },
-  {
-    "id": "7c1e8b59-524b-46c8-980b-91af7b103433",
-    "feed_name": "Economist",
-    "title": "How Kalshi can help the Federal Reserve",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/04/30/how-kalshi-can-help-the-federal-reserve",
-    "content": "Prediction markets may be a win for central banking",
-    "date": "2026-04-30T09:29:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "There\u2019s a 900-Year-Old Answer to Our Most Modern Problem",
-    "author": "David French",
-    "link": "https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html",
-    "content": "What should we do when a chatbot behaves like a criminal?",
-    "date": "2026-04-30T09:04:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/arts/television/wowsabout-jim-henson-pbs-kids.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "\u2018Wowsabout\u2019 Looks to Nature, and Jim Henson, in Hopes of Inspiring Awe",
-    "author": "Laurel Graeber",
-    "link": "https://www.nytimes.com/2026/04/30/arts/television/wowsabout-jim-henson-pbs-kids.html",
-    "content": "Ronald the pig and Roxy the hedgehog lead \u201cWowsabout,\u201d a new children\u2019s special about the awe-inspiring power of nature that producers hope will expand into a series.",
-    "date": "2026-04-30T09:03:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html",
-    "feed_name": "Interesting Times",
-    "title": "Why Are We Still Driving?",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html",
-    "content": "Confronting the weirdness of a Waymo future.",
-    "date": "2026-04-30T09:02:48",
-    "category": "Uncategorized"
   }
 ]
