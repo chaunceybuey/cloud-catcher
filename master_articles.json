@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "aa1b253870e63e95e9c34cdc5a9ae818",
+    "feed_name": "The Atlantic",
+    "title": "Why Republicans Aren\u2019t Condemning Trump\u2019sMeet the PressWalkout",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/06/los-angeles-election-lies/687473/",
+    "content": "Denying the legitimacy of vote-counting has become party doctrine.",
+    "date": "2026-06-08T20:27:43",
+    "category": "Magazines"
+  },
+  {
     "id": "0b8aa36d-02a5-4656-bb71-5c47ba5bf8b1",
     "feed_name": "Economist",
     "title": "In China, innovation and economic malaise live side by side",
@@ -19986,16 +19996,6 @@
     "author": "Reed Abelson and Margot Sanger-Katz",
     "link": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html",
     "content": "Although the government has not yet reported enrollment numbers, insurers and analysts are estimating overall declines of about 20 percent compared with last year.",
-    "date": "2026-05-01T09:02:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/opinion/iowa-flood-warning-system-america.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "In a Small Iowa Town, a Solution to a National Crisis",
-    "author": "The Editorial Board and Jillian Weinberger",
-    "link": "https://www.nytimes.com/2026/05/01/opinion/iowa-flood-warning-system-america.html",
-    "content": "As the Trump administration guts weather agencies, a state\u2019s low-cost flood tracking system offers a model for responding to deadly inundations.",
     "date": "2026-05-01T09:02:02",
     "category": "NYT"
   }
