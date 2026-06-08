@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/theater/heres-the-latest.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tonys 2026 Takeaways: \u2018Schmigadoon!\u2019 and \u2018Death of a Salesman\u2019 Are Big Winners",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/07/theater/heres-the-latest.html",
+    "content": "\u201cSchmigadoon!,\u201d which mimics and mocks Golden Age musicals, won four Tony Awards on Sunday, including for best new musical.",
+    "date": "2026-06-08T04:23:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/at-the-tonys-calls-in-support-of-trans-rights-and-free-speech",
     "feed_name": "NYT (Arts)",
     "title": "At the Tonys, calls in support of trans rights and free speech.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/30/realestate/high-end-squatters-rise.html",
     "content": "Police officers are often reluctant to get involved in what they deem a civil matter.",
     "date": "2026-04-30T09:01:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How Good Is Google\u2019s Gemini AI at Making Travel Plans?",
-    "author": "Brian X. Chen",
-    "link": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html",
-    "content": "Gemini is a digital Swiss Army knife for planning flights, activities and routes, but it isn\u2019t perfect. Why did it forget to put underwear on the packing list?",
-    "date": "2026-04-30T09:01:13",
     "category": "NYT"
   }
 ]
