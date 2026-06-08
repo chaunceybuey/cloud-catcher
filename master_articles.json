@@ -110,6 +110,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/08/theater/tony-awards-saturday-night-live.html",
+    "feed_name": "NYT (Arts)",
+    "title": "On Broadway\u2019s Biggest Night, \u2018Saturday Night Live\u2019 Shows Its Strength",
+    "author": "Derrick Bryson Taylor and Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/06/08/theater/tony-awards-saturday-night-live.html",
+    "content": "Lorne Michaels, the creator of \u201cSaturday Night Live,\u201d accepting the Tony Award for best new musical on Sunday.",
+    "date": "2026-06-08T16:40:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/theater/readers-tony-awards-voting.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The One Tony Award Our Readers Would Have Changed",
+    "author": "Robin Kawakami",
+    "link": "https://www.nytimes.com/2026/06/08/theater/readers-tony-awards-voting.html",
+    "content": "Thousands of people contributed their Broadway favorites of the season ahead of the Tony Awards. Here\u2019s how their votes stacked up.",
+    "date": "2026-06-08T16:34:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/08/arts/design/frida-kahlo-diego-rivera.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bounty of Frida Kahlo Art Emerges in Mexico\u2019s Restored Museum",
+    "author": "Victoria Burnett and Pablo L\u00f3pez Luz",
+    "link": "https://www.nytimes.com/2026/06/08/arts/design/frida-kahlo-diego-rivera.html",
+    "content": "Frida Kahlo, \u201cAutorretrato con Changuito (Self-Portrait With Monkey),\u201d 1945 at the reopened Dolores Olmedo Museum in Mexico City.",
+    "date": "2026-06-08T16:21:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/08/theater/scott-rudin-salesman-tony-awards.html",
     "feed_name": "NYT (Arts)",
     "title": "Was Scott Rudin the Biggest Winner at This Year\u2019s Tony Awards?",
@@ -19968,35 +19998,5 @@
     "content": "The Buffalo Soldier Gate at Fort Bliss.",
     "date": "2026-04-30T22:32:23",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228538",
-    "feed_name": "Texas Tribune",
-    "title": "Chad Hasty, West Texas conservative talk show host, dies unexpectedly",
-    "author": "Jess Huff",
-    "link": "https://feeds.texastribune.org/link/16799/17328923/chad-hasty-texas-talk-show-host-dies",
-    "content": "Chad Hasty speaks with Dallas Mayor Eric Johnson at The Texas Tribune Festival in Austin on Sept. 22, 2023.",
-    "date": "2026-04-30T22:08:33",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/climate/forest-service-labs-wildfire-research.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Forest Service Research Labs Are Closing",
-    "author": "Eric Niiler and John Stember",
-    "link": "https://www.nytimes.com/2026/04/30/climate/forest-service-labs-wildfire-research.html",
-    "content": "A research lab in Washington State tracks ecological changes in a warming climate and provides scientific guidance for forest managers. It is one of 57 such facilities being shuttered.",
-    "date": "2026-04-30T22:04:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Economy Grew 2 Percent in Early 2026 Even as War in Iran Began to Hit Energy Prices",
-    "author": "Talmon Joseph Smith",
-    "link": "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html",
-    "content": "The U.S. economy continued to prove resilient in the first three months of the year, even as energy prices soared in the early weeks of the war.",
-    "date": "2026-04-30T21:57:11",
-    "category": "NYT"
   }
 ]
