@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a048fecef618923e3fd4394",
+    "feed_name": "Wired",
+    "title": "Afroman Is Back\u2014and He\u2019s Bitcoin\u2019s Latest Freedom Fighter",
+    "author": "Jessica Klein",
+    "link": "https://www.wired.com/afroman-bitcoin-conference-free-speech/",
+    "content": "Earlier this year, the \u201cBecause I Got High\u201d rapper went viral for winning a case against the cops. Now he\u2019s crypto\u2019s free-speech hero, even though he isn\u2019t quite sure how the digital currency works.",
+    "date": "2026-06-08T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19244",
+    "feed_name": "Stratechery",
+    "title": "Google Buys Compute From SpaceX, Broadcom\u2019s Outlook, Apple\u2019s AI Politics",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
+    "content": "<p>Google's deal with SpaceX, and Broadcom's earnings, both seem bullish for Nvidia. Then, what I'm looking for at WWDC.</p>",
+    "date": "2026-06-08T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/08/arts/frida-kahlo-diego-rivera.html",
     "feed_name": "NYT (Arts)",
     "title": "Bounty of Frida Kahlo Art Emerges in Mexico\u2019s Restored Museum",
@@ -19978,25 +19998,5 @@
     "content": "Defense Secretary Pete Hegseth\u2019s actions to fire senior military leaders are without precedent in recent decades and have come with little explanation.",
     "date": "2026-04-30T10:02:51",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228273",
-    "feed_name": "Texas Tribune",
-    "title": "High gas prices eating into Texans\u2019 budgets, fueling inflation",
-    "author": "Paul Cobler and Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17328391/texas-gas-prices-increase",
-    "content": "Tom Bennett fills his car&#039;s tank at a Circle K in Austin&#039;s Hyde Park neighborhood on April 24, 2026.",
-    "date": "2026-04-30T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228351",
-    "feed_name": "Texas Tribune",
-    "title": "Hispanic GOP candidates could reshape Texas\u2019 congressional delegation \u2014 if they can win Hispanic voters",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17328392/texas-hispanic-republicans-congress-house-latino-voters-2026-midterms",
-    "content": "Eric Flores, Republican candidate for the 34th Congressional District in South Texas, addresses attendees at a forum on South Padre Island on Jan. 17, 2026.",
-    "date": "2026-04-30T10:00:00",
-    "category": "Texas"
   }
 ]
