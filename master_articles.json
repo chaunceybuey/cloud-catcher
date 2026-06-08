@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/theater/ragtime-tony-award-best-musical-revival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Ragtime\u2019 Wins the Tony for Best Revival of a Musical",
+    "author": "Jesse Green",
+    "link": "https://www.nytimes.com/2026/06/07/theater/ragtime-tony-award-best-musical-revival.html",
+    "content": "Nichelle Lewis, left, as Sarah and Joshua Henry as Coalhouse Walker Jr. in the musical \u201cRagtime.\u201d",
+    "date": "2026-06-08T02:08:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/lesley-manville-wins-the-tony-for-best-actress-in-a-play",
+    "feed_name": "NYT (Arts)",
+    "title": "Lesley Manville wins the Tony for best actress in a play.",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/lesley-manville-wins-the-tony-for-best-actress-in-a-play",
+    "content": "Lesley Manville and Mark Strong in \u201cOedipus.\u201d",
+    "date": "2026-06-08T01:49:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/theater/liberation-tony-awards-best-play.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Liberation\u2019 Wins the Tony for Best Play",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html",
     "content": "J. Craig Venter, next to Algae growth in his greenhouse in La Jolla, Calif., competed with a rival team of scientists in assembling the first human genome.",
     "date": "2026-04-30T04:29:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
-    "feed_name": "NYT (Shared)",
-    "title": "In France, Trump\u2019s Triumphal Arch Draws Eye Rolls",
-    "author": "Mark Landler",
-    "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-triumphal-arch-france.html",
-    "content": "Conceived in 1806 by Napoleon, the Arc de Triomphe has come to symbolize very different things in modern France.",
-    "date": "2026-04-30T04:01:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/29/us/politics/trump-germany-us-troops.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Threatens to Pull Troops From Germany as He Lashes Out at Chancellor",
-    "author": "David E. Sanger",
-    "link": "https://www.nytimes.com/2026/04/29/us/politics/trump-germany-us-troops.html",
-    "content": "U.S. soldiers on a combat exercise in Bavaria, Germany.",
-    "date": "2026-04-30T03:40:13",
     "category": "NYT"
   }
 ]
