@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/video/theater/100000010943591/tony-tonys-awards-theater-musical-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Maximalism Is Back at the Tonys",
+    "author": "Helen Shaw, L\u00e9o Hamelin and Laura Salaberry",
+    "link": "https://www.nytimes.com/video/theater/100000010943591/tony-tonys-awards-theater-musical-broadway.html",
+    "content": "Our chief theater critic, Helen Shaw, shares her highlights of the Tony Awards on Sunday in New York City.",
+    "date": "2026-06-08T21:09:41",
+    "category": "NYT"
+  },
+  {
     "id": "0b8aa36d-02a5-4656-bb71-5c47ba5bf8b1",
     "feed_name": "Economist",
     "title": "In China, innovation and economic malaise live side by side",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/magazine/kushner-witkoff-board-of-peace-iran.html",
     "content": "The Trump administration is turning diplomacy into an asset to be leveraged.",
     "date": "2026-05-01T09:01:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/travel/stockholm-bakeries.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "5 New Stockholm Bakeries",
-    "author": "Ingrid K. Williams and Sofia Runarsdotter",
-    "link": "https://www.nytimes.com/2026/05/01/travel/stockholm-bakeries.html",
-    "content": "The Swedish appetite for sweets, caffeine and hanging out has led to a profusion of new convivial bakeries.",
-    "date": "2026-05-01T09:00:30",
     "category": "NYT"
   }
 ]
