@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/08/arts/television/every-year-after-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Every Year After\u2019 and 8 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/06/08/arts/television/every-year-after-tv-this-week.html",
+    "content": "The adaptation of a Carley Fortune novel airs and a new season of \u201cBelow Deck Mediterranean\u201d begins.",
+    "date": "2026-06-08T05:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/07/theater/heres-the-latest.html",
     "feed_name": "NYT (Arts)",
     "title": "Tonys 2026 Takeaways: \u2018Schmigadoon!\u2019 and \u2018Death of a Salesman\u2019 Are Big Winners",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/04/30/realestate/zombie-homes-exit-taxes.html",
     "content": "Millions of Americans are holding onto empty homes, fearing the tax hit a sale would bring.",
     "date": "2026-04-30T09:02:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/realestate/high-end-squatters-rise.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "High-Profile Squatting Incidents Are on the Rise Across the Country",
-    "author": "Alexander Nazaryan",
-    "link": "https://www.nytimes.com/2026/04/30/realestate/high-end-squatters-rise.html",
-    "content": "Police officers are often reluctant to get involved in what they deem a civil matter.",
-    "date": "2026-04-30T09:01:30",
     "category": "NYT"
   }
 ]
