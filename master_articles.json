@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
+    "feed_name": "Douthat",
+    "title": "For America\u2019s 250th, Let\u2019s Get Something Clear About Our National Identity",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
+    "content": "Our national identity depends on both ideas and cultural inheritance.",
+    "date": "2026-06-09T21:00:09",
+    "category": "NYT"
+  },
+  {
+    "id": "cb4a6228512c5f7670c90f80163933fc",
+    "feed_name": "LRB",
+    "title": "Rachel Long & Sarah Howe: Sparrow on the Rooftop",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/rachel-long-sarah-howe-sparrow-on-the-rooftop-tickets-1987073794209",
+    "content": "",
+    "date": "2026-06-09T20:59:42",
+    "category": "Magazines"
+  },
+  {
     "id": "bfc7a0d4-207e-4d05-8de5-e363a3e96697",
     "feed_name": "Economist",
     "title": "Wall Street\u2019s undignified SpaceX mania",
@@ -127,6 +147,16 @@
     "link": "https://www.economist.com/finance-and-economics/2026/06/09/wall-streets-undignified-spacex-mania",
     "content": "Is that a rocket in your lobby, or are you just happy to see me?",
     "date": "2026-06-09T19:16:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "119d2861f26a668afba9e1627dbf3599",
+    "feed_name": "The Atlantic",
+    "title": "The Revolutionary Gordon Wood",
+    "author": "Craig Bruce Smith",
+    "link": "https://www.theatlantic.com/ideas/2026/06/revolutionary-gordon-wood-historian/687487/",
+    "content": "The historian who recovered the radicalism of the American founding died on Sunday.",
+    "date": "2026-06-09T19:12:00",
     "category": "Magazines"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/business/fda-pancreatic-cancer-drug.html",
     "content": "\u201cEvery month that that drug is delayed means that I have to get chemo two more times,\u201d said Dr. Ronald Silvestri, 77, a retired pulmonologist who has metastatic pancreatic cancer.",
     "date": "2026-05-01T21:28:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/us/politics/trumps-hegseth-weapons-production.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s Plans to Boost Weapons Production Might Not Deliver for Years",
-    "author": "Helene Cooper and Eric Schmitt",
-    "link": "https://www.nytimes.com/2026/04/30/us/politics/trumps-hegseth-weapons-production.html",
-    "content": "The administration does not yet have the funding or congressional support for the weapons it needs for the possible future wars.",
-    "date": "2026-05-01T21:26:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-centers.html",
-    "feed_name": "NYT (Shared)",
-    "title": "\u2018The Most Bipartisan Issue Since Beer\u2019: Opposition to Data Centers",
-    "author": "Sabrina Tavernise",
-    "link": "https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-centers.html",
-    "content": "Americans have soured on data centers, polls show, and the sentiment is profoundly bipartisan. How will that change our politics?",
-    "date": "2026-05-01T19:52:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html",
-    "feed_name": "NYT (Shared)",
-    "title": "As Iran War Reaches 60-Day Mark, Republicans in Congress Grow Impatient With Trump",
-    "author": "Megan Mineiro",
-    "link": "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html",
-    "content": "The defense secretary and the chairman of the Joint Chiefs of Staff testified before both chambers of Congress at the Capitol this week.",
-    "date": "2026-05-01T19:35:37",
     "category": "NYT"
   }
 ]
