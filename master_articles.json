@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/09/dining/aasif-mandvi.html",
+    "feed_name": "NYT (Food)",
+    "title": "Aasif Mandvi Would Leave New York in a Blaze of Margaritas",
+    "author": "Nikita Richardson",
+    "link": "https://www.nytimes.com/2026/06/09/dining/aasif-mandvi.html",
+    "content": "The actor, playwright and former \u201cDaily Show\u201d correspondent takes on the Where to Eat questionnaire.",
+    "date": "2026-06-09T16:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/09/arts/design/julio-le-parc-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Julio Le Park, Kinetic Sculpture and Op-Art Master, Dies at 97",
@@ -128,6 +138,16 @@
     "content": "Albert Wolsky in 2012. Warren Beatty, who worked with Mr. Wolsky on \u201cBugsy\u201d and \u201cRules Don\u2019t Apply,\u201d described his taste as \u201cfaultless.\u201d",
     "date": "2026-06-09T15:24:30",
     "category": "NYT"
+  },
+  {
+    "id": "df9d5cc2e25892fd662da94fe001d962",
+    "feed_name": "The Atlantic",
+    "title": "Airfare-Prediction Apps Can\u2019t Handle a Summer Like This One",
+    "author": "Henry Grabar",
+    "link": "https://www.theatlantic.com/ideas/2026/06/flight-price-prediction-oil-prices/687479/",
+    "content": "The normal patterns of price changes may no longer hold true.",
+    "date": "2026-06-09T14:10:51",
+    "category": "Magazines"
   },
   {
     "id": "6a27f3abf5ab5a771f2c5c72",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/opinion/arbitration.html",
     "content": "Thanks to a series of Supreme Court decisions, nearly 80 percent of Fortune 500 companies can \u2014 and do \u2014 use forced arbitration with consumers or workers.",
     "date": "2026-05-01T18:24:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/arts/music/16-photos-that-captured-the-dawn-of-punk.html",
-    "feed_name": "NYT (Shared)",
-    "title": "16 Photos That Captured the Dawn of Punk",
-    "author": "Alex Williams and Stephanie Chernikowski",
-    "link": "https://www.nytimes.com/2026/05/01/arts/music/16-photos-that-captured-the-dawn-of-punk.html",
-    "content": "In the 1970s and \u201980s, Stephanie Chernikowski, who has died at 84, shot bands like the Ramones and Blondie at CBGB and other downtown clubs.",
-    "date": "2026-05-01T18:17:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/climate/fema-disaster-aid-slowdowns.html",
-    "feed_name": "NYT (Shared)",
-    "title": "FEMA Disaster Aid is Flowing Slowly In Trump\u2019s Second Term",
-    "author": "Scott Dance and Ashley Cai",
-    "link": "https://www.nytimes.com/2026/05/01/climate/fema-disaster-aid-slowdowns.html",
-    "content": "A damaged home in Enid, Okla., on April 24, after a tornado ripped through the night before.",
-    "date": "2026-05-01T18:12:33",
     "category": "NYT"
   }
 ]
