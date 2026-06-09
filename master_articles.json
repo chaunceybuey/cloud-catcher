@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/09/arts/television/late-night-jon-stewart-trump-meet-the-press.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Roasts Trump for Walking Out on \u2018Meet the Press\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/09/arts/television/late-night-jon-stewart-trump-meet-the-press.html",
+    "content": "Jon Stewart called the president\u2019s interview his \u201cworst nightmare: a woman who won\u2019t stop asking pertinent questions.\u201d",
+    "date": "2026-06-09T06:38:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/06/los-angeles-election-lies/687473/",
     "feed_name": "Chait",
     "title": "Why Republicans Aren\u2019t Condemning Trump\u2019s <em>Meet the Press</em> Walkout",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/business/kentucky-derby-churchill-downs.html",
     "content": "Pat Francis, whose family has owned Pat\u2019s Steakhouse since 1958, is closing his doors on both Friday and Saturday to protest how Churchill Downs Inc. has transformed the Kentucky Derby business.",
     "date": "2026-05-01T09:02:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Obamacare Enrollment Drops Sharply as Costs Rise",
-    "author": "Reed Abelson and Margot Sanger-Katz",
-    "link": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html",
-    "content": "Although the government has not yet reported enrollment numbers, insurers and analysts are estimating overall declines of about 20 percent compared with last year.",
-    "date": "2026-05-01T09:02:02",
     "category": "NYT"
   }
 ]
