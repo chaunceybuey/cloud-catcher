@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "John Basinger, Who Memorized All 12 Books of \u2018Paradise Lost,\u2019 Dies at 92",
+    "author": "Alex Traub",
+    "link": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
+    "content": "After nearly nine years of practice, he made John Milton\u2019s epic poem vividly dramatic for audiences and inspired a study of his \u201cmemory virtuosity.\u201d",
+    "date": "2026-06-09T21:23:44",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232866",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: How big of a threat is screwworm?",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17357156/tribcast-screwworm-texas",
+    "content": "An illustration of a fly at a press conference about the New World screwworm in Kerrville on June 8, 2026.",
+    "date": "2026-06-09T21:08:21",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
     "feed_name": "Douthat",
     "title": "For America\u2019s 250th, Let\u2019s Get Something Clear About Our National Identity",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html",
     "content": "Spirit Airlines will stop flying after failing to find a way to emerge from bankruptcy in a time of high fuel prices and stiff competition.",
     "date": "2026-05-01T21:59:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/us/david-rivera-florida-verdict-trial.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Jury Convicts Florida Ex-Rep. David Rivera in Conspiracy Trial",
-    "author": "David C. Adams and Patricia Mazzei",
-    "link": "https://www.nytimes.com/2026/05/01/us/david-rivera-florida-verdict-trial.html",
-    "content": "Former U.S. Representative David Rivera at the James Lawrence King Federal Justice Building in Miami in March.",
-    "date": "2026-05-01T21:40:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/business/fda-pancreatic-cancer-drug.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "F.D.A. Grants Early Access to Promising Drug for Pancreatic Cancer",
-    "author": "Rebecca Robbins and Gina Kolata",
-    "link": "https://www.nytimes.com/2026/05/01/business/fda-pancreatic-cancer-drug.html",
-    "content": "\u201cEvery month that that drug is delayed means that I have to get chemo two more times,\u201d said Dr. Ronald Silvestri, 77, a retired pulmonologist who has metastatic pancreatic cancer.",
-    "date": "2026-05-01T21:28:23",
     "category": "NYT"
   }
 ]
