@@ -5,13 +5,13 @@
 // ── Firebase Config ──────────────────────────────────────────────────────
 // PASTE YOUR FIREBASE CONFIG HERE (Firebase Console → Project Settings → Web App)
 const firebaseConfig = {
-  apiKey: "AIzaSyBvNjSGiWQofUd3omAcBvJ-pa2pAtG2KNs",
-  authDomain: "rss-triage.firebaseapp.com",
-  databaseURL: "https://rss-triage-default-rtdb.firebaseio.com",
-  projectId: "rss-triage",
-  storageBucket: "rss-triage.firebasestorage.app",
-  messagingSenderId: "30387056427",
-  appId: "1:30387056427:web:116cf9cfd171d14b05df6e"
+    apiKey: "AIzaSyBvNjSGiWQofUd3omAcBvJ-pa2pAtG2KNs",
+    authDomain: "rss-triage.firebaseapp.com",
+    databaseURL: "https://rss-triage-default-rtdb.firebaseio.com",
+    projectId: "rss-triage",
+    storageBucket: "rss-triage.firebasestorage.app",
+    messagingSenderId: "30387056427",
+    appId: "1:30387056427:web:116cf9cfd171d14b05df6e"
 };
 
 firebase.initializeApp(firebaseConfig);
@@ -304,8 +304,12 @@ function getFilteredArticles() {
 
     if (state.feedFilter.startsWith("category:")) {
         const catName = state.feedFilter.slice(9);
-        const catFeeds = new Set(state.feeds.filter(f => f._category === catName).map(f => f.name));
-        base = base.filter(a => catFeeds.has(a.feed_name));
+        if (catName === "Newsletters") {
+            base = base.filter(a => a.source === "newsletter");
+        } else {
+            const catFeeds = new Set(state.feeds.filter(f => f._category === catName).map(f => f.name));
+            base = base.filter(a => catFeeds.has(a.feed_name));
+        }
     } else if (state.feedFilter !== "All Feeds") {
         base = base.filter(a => a.feed_name === state.feedFilter);
     }
@@ -521,11 +525,13 @@ function setupPagination(html) {
         pages.style.columnGap = "40px";
 
         setTimeout(() => {
-            const step = availableWidth + 40;
             const totalWidth = pages.scrollWidth;
+            const step = availableWidth + 40;
             const totalPages = Math.max(1, Math.ceil(totalWidth / step));
+            // Use exact step from browser to prevent cumulative drift
+            const exactStep = totalPages > 1 ? totalWidth / totalPages : step;
 
-            state.pagination = { el: pages, current: 0, total: totalPages, step: step };
+            state.pagination = { el: pages, current: 0, total: totalPages, step: exactStep };
             updatePageIndicator();
             // Restore saved reading position
             if (state.currentArticle) {
@@ -1084,6 +1090,31 @@ function renderDrawerFeeds() {
 
     let html = `<div class="drawer-feed-item all-feeds ${state.feedFilter === 'All Feeds' ? 'active' : ''}" data-feed="All Feeds">
         <span>All Feeds</span><span class="drawer-feed-count">${totalCount}</span></div>`;
+
+    // Newsletters at the top
+    if (categories["Newsletters"]) {
+        const nlFeeds = categories["Newsletters"];
+        const nlCount = nlFeeds.reduce((sum, f) => sum + (feedCounts[f.name] || 0), 0);
+        const isExpanded = state._expandedCategories?.["Newsletters"] === true;
+        const isCatActive = state.feedFilter === "category:Newsletters";
+        html += `<div class="drawer-category ${isCatActive ? 'active-cat' : ''}" data-category="Newsletters">
+            <span class="drawer-cat-toggle" data-cat-toggle="Newsletters">${isExpanded ? '▾' : '▸'}</span>
+            <span class="drawer-cat-name" data-cat-filter="Newsletters">Newsletters</span>
+            <span class="drawer-category-count">${nlCount}</span>
+        </div>`;
+        html += `<div class="drawer-category-feeds ${isExpanded ? '' : 'collapsed'}" data-cat-feeds="Newsletters">`;
+        for (const feed of nlFeeds) {
+            const count = feedCounts[feed.name] || 0;
+            const isActive = state.feedFilter === feed.name;
+            html += `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${feed.name}">
+                <span class="drawer-feed-name-text">${feed.name}</span>
+                <span class="drawer-feed-right">
+                    <span class="drawer-feed-count">${count}</span>
+                </span></div>`;
+        }
+        html += `</div>`;
+        delete categories["Newsletters"];
+    }
 
     // Uncategorized feeds show inline (not under a category header)
     const uncatKeys = Object.keys(categories).filter(k => 

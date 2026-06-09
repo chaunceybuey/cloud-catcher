@@ -381,6 +381,13 @@ body {
 .reader-pages [style*="font-size"] { font-size: inherit !important; }
 .reader-pages [style*="font-family"] { font-family: inherit !important; }
 .reader-pages [style*="background"] { background: transparent !important; }
+.reader-pages [style*="line-height"] { line-height: inherit !important; }
+.reader-pages p, .reader-pages div, .reader-pages td { line-height: 1.8 !important; }
+/* Prevent wide email elements from breaking columns */
+.reader-pages table, .reader-pages img, .reader-pages pre,
+.reader-pages blockquote, .reader-pages iframe { max-width: 100% !important; overflow: hidden; }
+.reader-pages td, .reader-pages th { word-break: break-word; }
+.reader-pages * { max-width: 100%; }
 
 /* Larger text and margins on tablets */
 @media (min-width: 768px) {
