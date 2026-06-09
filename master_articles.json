@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a20e9364a7696d91099ed0d",
+    "feed_name": "Wired",
+    "title": "Alex Vindman Survived Trump\u2019s Retaliation Machine. Now He\u2019s Running for Senate",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
+    "content": "In 2019, Alex Vindman testified during President Trump\u2019s first impeachment trial\u2013a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
+    "date": "2026-06-09T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232801",
     "feed_name": "Texas Tribune",
     "title": "Screwworm outbreak hits vacant Texas congressional district, as leading candidates scramble to assist",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/arts/design/art-barack-obama-presidential-center-bradford-mehretu-gibson.html",
     "content": "Barack and Michelle Obama commissioned 30 artists to create work for their campus, which starts visitor previews next week on the South Side of Chicago.",
     "date": "2026-05-01T14:02:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/04/30/climate/phoenix-salt-lake-city-pollution-epa.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Smog in Phoenix and Salt Lake City? The E.P.A. Is Blaming Asia.",
-    "author": "Hiroko Tabuchi",
-    "link": "https://www.nytimes.com/2026/04/30/climate/phoenix-salt-lake-city-pollution-epa.html",
-    "content": "Phoenix has long struggled with smog collecting in its bowl-shaped topography. The city failed to meet a federal air pollution standard in 2024.",
-    "date": "2026-05-01T13:56:43",
     "category": "NYT"
   }
 ]
