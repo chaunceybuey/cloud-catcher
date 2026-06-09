@@ -427,10 +427,41 @@ function openArticle(article) {
 
     // Check Firebase for cached full text first
     const safeKey = md5(article.link || article.id);
+    
+    // Newsletters and manual articles already have full content — show directly
+    if (article.source === "newsletter" || article.source === "manual") {
+        let content = article.content || '';
+        // Clean up email HTML — strip tracking pixels, empty elements, email junk
+        if (article.source === "newsletter") {
+            const parser = new DOMParser();
+            const emailDoc = parser.parseFromString(content, "text/html");
+            // Remove tracking pixels and tiny images
+            emailDoc.querySelectorAll("img").forEach(img => {
+                const w = parseInt(img.getAttribute("width")) || img.naturalWidth || 0;
+                const h = parseInt(img.getAttribute("height")) || img.naturalHeight || 0;
+                if ((w > 0 && w < 10) || (h > 0 && h < 10)) img.remove();
+            });
+            // Remove style tags, scripts, hidden elements
+            emailDoc.querySelectorAll("style, script, [style*='display:none'], [style*='display: none'], [hidden]").forEach(el => el.remove());
+            // Remove empty elements
+            emailDoc.querySelectorAll("div, p, span, td, tr, table").forEach(el => {
+                if (!el.textContent.trim() && !el.querySelector("img")) el.remove();
+            });
+            // Remove email footer/unsubscribe sections
+            emailDoc.querySelectorAll("[class*='footer'], [class*='unsubscribe'], [class*='Footer'], [class*='Unsubscribe']").forEach(el => el.remove());
+            content = emailDoc.body ? emailDoc.body.innerHTML : content;
+        }
+        setupPagination(headerHtml + content);
+        enterFullscreen();
+        return;
+    }
+    
     db.ref(`app_data/articles/${safeKey}`).once("value").then(snap => {
-        if (snap.val()) {
+        const cached = snap.val();
+        // Check that cached content isn't a login/error page
+        if (cached && cached.length > 500 && !cached.includes("Sign in") && !cached.includes("to continue to Gmail")) {
             // Full text available — show it directly
-            setupPagination(headerHtml + snap.val());
+            setupPagination(headerHtml + cached);
             enterFullscreen();
         } else {
             // Show RSS summary with "Read Full Article" button
@@ -521,7 +552,7 @@ function setupPagination(html) {
         });
 
         pages.style.height = availableHeight + "px";
-        pages.style.columnWidth = availableWidth + "px";
+        pages.style.columnWidth = (availableWidth - 4) + "px";
         pages.style.columnGap = "40px";
 
         setTimeout(() => {
@@ -533,12 +564,16 @@ function setupPagination(html) {
 
             state.pagination = { el: pages, current: 0, total: totalPages, step: exactStep };
             updatePageIndicator();
-            // Restore saved reading position
+            // Restore saved reading position (stored as percentage)
             if (state.currentArticle) {
                 db.ref(`app_data/positions/${state.currentArticle.id}`).once("value").then(snap => {
                     const saved = snap.val();
-                    if (saved && saved > 0 && saved < totalPages) {
-                        goToPage(saved);
+                    if (saved && saved > 0) {
+                        // Convert percentage to page number for current screen
+                        const targetPage = Math.round(saved * (totalPages - 1));
+                        if (targetPage > 0 && targetPage < totalPages) {
+                            goToPage(targetPage);
+                        }
                     }
                 }).catch(() => {});
             }
@@ -554,9 +589,10 @@ function goToPage(page) {
     p.current = page;
     p.el.style.transform = `translateX(-${page * p.step}px)`;
     updatePageIndicator();
-    // Save reading position
-    if (state.currentArticle) {
-        try { db.ref(`app_data/positions/${state.currentArticle.id}`).set(page); } catch(e) {}
+    // Save reading progress as percentage (works across screen sizes)
+    if (state.currentArticle && p.total > 1) {
+        const progress = page / (p.total - 1);
+        try { db.ref(`app_data/positions/${state.currentArticle.id}`).set(progress); } catch(e) {}
     }
 }
 
