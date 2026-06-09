@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/09/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Fireboat Joins a Fleet of Floating N.Y.C. Bars",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/06/09/dining/nyc-restaurant-news.html",
+    "content": "Malvan serves up Goan cuisine, Forno d\u2019Oro fires pizzas with a pedigree and more restaurant news.",
+    "date": "2026-06-09T16:21:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/09/dining/aasif-mandvi.html",
     "feed_name": "NYT (Food)",
     "title": "Aasif Mandvi Would Leave New York in a Blaze of Margaritas",
@@ -19988,15 +19998,5 @@
     "content": "At WIRED Health, pioneering Alzheimer's researcher John Hardy outlined the stakes\u2014and next steps\u2014of where treatment is headed next.",
     "date": "2026-05-01T18:55:56",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/opinion/arbitration.html",
-    "feed_name": "NYT (Shared)",
-    "title": "He Signed Away His Right to Sue by Subscribing to Disney+",
-    "author": "Brendan Ballou",
-    "link": "https://www.nytimes.com/2026/05/01/opinion/arbitration.html",
-    "content": "Thanks to a series of Supreme Court decisions, nearly 80 percent of Fortune 500 companies can \u2014 and do \u2014 use forced arbitration with consumers or workers.",
-    "date": "2026-05-01T18:24:10",
-    "category": "NYT"
   }
 ]
