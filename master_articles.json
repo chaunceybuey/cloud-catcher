@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/09/theater/emma-dante-venice-theater-biennale.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In an Italy of Many Voices, Emma Dante\u2019s Plays Speak \u2018the Language of the People\u2019",
+    "author": "Laura Cappelle",
+    "link": "https://www.nytimes.com/2026/06/09/theater/emma-dante-venice-theater-biennale.html",
+    "content": "The director Emma Dante is known as a hard taskmaster. \u201cThere are no chairs in rehearsal, because we never sit down,\u201d she said.",
+    "date": "2026-06-09T09:15:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/09/arts/music/gustavo-dudamel-la-phil.html",
     "feed_name": "NYT (Arts)",
     "title": "The Gustavo Dudamel Era in Los Angeles Approaches Its End",
@@ -19988,15 +19998,5 @@
     "content": "A 19th-century military strategist should be required reading at the Pentagon.",
     "date": "2026-05-01T11:10:52",
     "category": "NYT"
-  },
-  {
-    "id": "cc1aa08fde53ac2b1a4b3cd08f46131f",
-    "feed_name": "Compact",
-    "title": "How Occultists Remade the World",
-    "author": "",
-    "link": "https://www.compactmag.com/article/how-occultists-remade-the-world/",
-    "content": "",
-    "date": "2026-05-01T11:08:28",
-    "category": "Magazines"
   }
 ]
