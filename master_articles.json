@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a28747a5026ebbd8046b7af",
+    "feed_name": "Wired (Science)",
+    "title": "Great White Sharks Have Been in the Mediterranean Sea for Millions of Years\u2014but Sightings Are Incredibly Rare",
+    "author": "Marta Musso",
+    "link": "https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/",
+    "content": "A recent video of a great white shark in the Mediterranean Sea offers the possibility of deriving valuable information for conservation strategies.",
+    "date": "2026-06-09T22:05:40",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "John Basinger, Who Memorized All 12 Books of \u2018Paradise Lost,\u2019 Dies at 92",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html",
     "content": "President Trump spoke to reporters before boarding Marine One at the White House on Friday.",
     "date": "2026-05-01T22:00:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Spirit Airlines Prepares to Shut Down After Trump Administration Bailout Falls Through",
-    "author": "Lauren Hirsch and Niraj Chokshi",
-    "link": "https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html",
-    "content": "Spirit Airlines will stop flying after failing to find a way to emerge from bankruptcy in a time of high fuel prices and stiff competition.",
-    "date": "2026-05-01T21:59:29",
     "category": "NYT"
   }
 ]
