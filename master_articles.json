@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=232964",
+    "feed_name": "Texas Tribune",
+    "title": "Proposed ban on Big Bend border wall fails in U.S. House funding panel",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17357590/texas-big-bend-national-park-border-wall-ban-house-vote-henry-cuellar",
+    "content": "The Rio Grande cuts through the desert between the U.S. and Mexico as seen from an aerial view over Big Bend National Park on May 24, 2026.",
+    "date": "2026-06-10T16:42:46",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232961",
+    "feed_name": "Texas Tribune",
+    "title": "Judge recommends medical parole for inmate who had been on Texas death row for 47 years",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17357591/clarence-curtis-jordan-compassionate-release-recommendation",
+    "content": "The Texas Court of Criminal Appeals on Jan. 15, 2020.",
+    "date": "2026-06-10T16:30:14",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/10/arts/design/duane-michals-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Duane Michals, Photographer With Stories to Tell, Dies at 94",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/02/opinion/supreme-court-voting-rights-act.html",
     "content": "Congress must once again defend democracy from a hostile court.",
     "date": "2026-05-02T17:21:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
-    "author": "Aaron Boxerman and Edward Wong",
-    "link": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
-    "content": "Marco Rubio, the U.S. secretary of state, invoked an emergency provision to allow the \u201cimmediate sale\u201d of weapons to Israel, Qatar, Kuwait and the United Arab Emirates.",
-    "date": "2026-05-02T16:18:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/nyregion/new-jersey-diners-soda-pop-act.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Diners in New Jersey Are Struggling to Survive",
-    "author": "Claire Fahy and Emma Rose Milligan",
-    "link": "https://www.nytimes.com/2026/05/02/nyregion/new-jersey-diners-soda-pop-act.html",
-    "content": "New Jersey bills itself as the \u201cdiner capital of the world.\u201d Lawmakers are trying to help it stay that way, despite economic turmoil causing food prices to skyrocket.",
-    "date": "2026-05-02T15:38:58",
     "category": "NYT"
   }
 ]
