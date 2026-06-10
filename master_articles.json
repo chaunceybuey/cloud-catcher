@@ -120,6 +120,46 @@
     "category": "Texas"
   },
   {
+    "id": "5fd68b6e864244a8c967f62ffe1d8524",
+    "feed_name": "LRB",
+    "title": "Poetry and the Turning World: Work",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/poetry-and-the-turning-world-work",
+    "content": "Is writing a poem work? In the first episode of their series exploring the ways in which poetry responds to our personal and collective challenges, Sarah Howe and Sandeep Parmar start by considering the concepts of both work and play in the writing process. They then look at three poems that address workplace experiences. Valzhyna Mort\u2019s \u2018Factory of Tears\u2019 and Robert...",
+    "date": "2026-06-10T10:05:39",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232900",
+    "feed_name": "Texas Tribune",
+    "title": "Texas death row inmate asks Supreme Court to allow appeal challenging hypnotized witness",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17357396/texas-death-row-hypnosis-supreme-court-charles-flores",
+    "content": "The U.S. Supreme Court in Washington, D.C.",
+    "date": "2026-06-10T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232912",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 charter school boom may soon bust, experts caution",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17357397/texas-charter-school-enrollment-growth-slows",
+    "content": "Traditional Texas public schools are seeing an enrollment decline for the first time in nearly 40 years. Charter schools are still growing but at a slower pace.",
+    "date": "2026-06-10T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://stratechery.com/?p=19268",
+    "feed_name": "Stratechery",
+    "title": "Fable 5, Anthropic Alignment, AI Tiers",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+    "content": "<p>Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.</p>",
+    "date": "2026-06-10T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/10/arts/television/widows-bay-review.html",
     "feed_name": "NYT (Arts)",
     "title": "In \u2018Widow\u2019s Bay,\u2019 History Is Hard to Kill",
@@ -208,6 +248,16 @@
     "content": "The late night host called Trump \u201cthe first sitting president to shut down a major United States city so he could take a nap in front of a sold-out crowd at the N.B.A. finals.\u201d",
     "date": "2026-06-10T05:53:54",
     "category": "NYT"
+  },
+  {
+    "id": "24231df51eb78767849e4b9891903707",
+    "feed_name": "Outside",
+    "title": "The Enhanced Games Promised a Drug-Fueled Athletic Revolution. Then Things Got Messy.",
+    "author": "Joshua David Stein",
+    "link": "https://www.outsideonline.com/culture/essays-culture/inside-enhanced-games-doping-olympics-las-vegas/",
+    "content": "",
+    "date": "2026-06-10T04:00:36",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=232904",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html",
     "content": "The Democrats\u2019 fundamental condition is a late-Trumpian stasis.",
     "date": "2026-05-02T11:00:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/opinion/king-charles-america-visit-trump.html",
-    "feed_name": "NYT (Shared)",
-    "title": "His Majesty and Our Travesty",
-    "author": "Maureen Dowd",
-    "link": "https://www.nytimes.com/2026/05/02/opinion/king-charles-america-visit-trump.html",
-    "content": "The real king delivers a needed royal lesson on democracy.",
-    "date": "2026-05-02T11:00:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/opinion/data-centers-detention-rural-america.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Rural America Is Getting Blindsided by Data and Detention Centers",
-    "author": "Rotimi Adeoye",
-    "link": "https://www.nytimes.com/2026/05/02/opinion/data-centers-detention-rural-america.html",
-    "content": "Namely, immigrant detention centers and data centers.",
-    "date": "2026-05-02T11:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/arts/design/francisco-de-zurbaran-national-gallery-london.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Francisco de Zurbar\u00e1n: Paintings So Real, You Can Hardly Resist Believing",
-    "author": "Emily LaBarge",
-    "link": "https://www.nytimes.com/2026/05/02/arts/design/francisco-de-zurbaran-national-gallery-london.html",
-    "content": "\u201cThe Crucifixion\u201d (1627) by Francisco de Zurbar\u00e1n opens the exhibition.",
-    "date": "2026-05-02T09:02:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s Vision for D.C. \u2018Garden of Heroes\u2019 Statues Grows in Size and Cost",
-    "author": "Luke Broadwater and Zachary Small",
-    "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html",
-    "content": "Based on the latest renderings, the Garden of Heroes could rank among the more expensive and time-consuming projects President Trump has undertaken.",
-    "date": "2026-05-02T09:01:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s Push for Electoral Retribution Heads to the Ballot Box",
-    "author": "Shane Goldmacher",
-    "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html",
-    "content": "President Donald Trump is seeking to unseat a raft of elected Republicans he perceives as political enemies in a series of primaries this month.",
-    "date": "2026-05-02T09:01:30",
     "category": "NYT"
   }
 ]
