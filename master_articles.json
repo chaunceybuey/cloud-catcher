@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=232904",
+    "feed_name": "Texas Tribune",
+    "title": "East Texas county judge urges state lawmakers to help locals combat data center proliferation",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17357241/east-texas-data-center-gets-community-pushback",
+    "content": "A grassroots movement of Angelina County residents pose for a picture in Lufkin after protesting a proposed AI data center in the county on June 9, 2026.",
+    "date": "2026-06-09T23:48:26",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232876",
     "feed_name": "Texas Tribune",
     "title": "Indian group targeted by Trump scored policy wins after backing Texas firm tied to president\u2019s son",
@@ -19988,15 +19998,5 @@
     "content": "Leon Botstein on the Bard College campus in Annandale-On-Hudson, N.Y.",
     "date": "2026-05-01T23:45:37",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228712",
-    "feed_name": "Texas Tribune",
-    "title": "Federal court blocks rule that let Texans obtain out-of-state abortion pills",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17330543/texas-abortion-mifepristone-federal-ruling-mail-drug",
-    "content": "Nurse practitioner Debra Lynch holds a box of mifepristone, the first drug used in a medication abortion regimen. Practicing under Delaware&#039;s shield law, Lynch prescribes the pills via telehealth, largely to patients in abortion-restricted states like Texas.",
-    "date": "2026-05-01T23:38:32",
-    "category": "Texas"
   }
 ]
