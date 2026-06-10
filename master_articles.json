@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/10/arts/television/ernest-chambers-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ernest Chambers, \u2018Smothers Brothers\u2019 TV Show Producer, Dies at 97",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/06/10/arts/television/ernest-chambers-dead.html",
+    "content": "In the late 1960s, he and Saul Ilson oversaw a variety show known for its social and political satire, and together they helped fight network censors over its content.",
+    "date": "2026-06-10T20:43:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/tina-fey-will-forte-four-seasons-pizza-interview",
+    "feed_name": "NYT (Food)",
+    "title": "Tina Fey Cooks Only 3 Things, and This Soup Is One",
+    "author": "Victoria Chen",
+    "link": "https://cooking.nytimes.com/article/tina-fey-will-forte-four-seasons-pizza-interview",
+    "content": "Melissa Clark\u2019s lemony white bean soup with turkey and greens.",
+    "date": "2026-06-10T20:25:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/10/briefing/the-good-list-pigeons-knicks.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Joy to Your Day",
@@ -19978,25 +19998,5 @@
     "content": "TEXAS PERFORMING ARTS PRESEETS\n\nRHIANNON GIDDENS\n\nMAY 2 | 7:30 P.M. | BASS CONCERT HALL\n\n\n\nA masterful singer, multi-instrumentalist, and songwriter, Rhiannon Giddens weaves together folk, blues, country, gospel, and more to create music that invites audiences on a journey through America\u2019s musical heritage and beyond.\n\nRhiannon Giddens first captured widespread attention in 2005 as a member of the groundbreaking \u201cpostmodern string band\u201d Carolina Chocolate Drops. Since then, she has forged a singular, iconic career by expanding her folk roots into a rich tapestry of genres and art forms. A two-time Grammy and Pulitzer Prize winner, MacArthur \u201cGenius\u201d grant recipient, and composer of opera, ballet, and film, Giddens invites audiences on a journey through America\u2019s musical heritage and beyond.\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, May 2, 2026\nTime: 7:30 P.M.\nVenue: Bass Concert Hall\n\nTicket Information\nCost: $34.80 - $106.80\nPhone: \n\nPresenter Details: One of the largest and most active live arts organizations in the U.S., TPA operates venues on the UT campus including Austin\u2019s largest theatre, Bass Concert Hall.\n\nOur presenting programs include Broadway in Austin, the Texas Welcomes series of national touring artists, and a curated Performing Arts Season of international theatre, music, dance, and more. TPA is also a leading producer of new performance, offering creative opportunities to both local artists and national productions.\n\nTPA is part of UT\u2019s College of Fine Arts and fulfills the university\u2019s public service, research, and educational missions. More than twenty thousand students throughout Central Texas and across the university experience the arts through TPA\u2019s extensive educational programs.",
     "date": "2026-05-02T19:30:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down",
-    "author": "Jack Nicas",
-    "link": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
-    "content": "Rub\u00e9n Rocha Moya, the governor of the Mexican state of Sinaloa, said he had decided to take \u201ca temporary leave of absence.\u201d",
-    "date": "2026-05-02T19:12:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/opinion/abortion-telehealth.html",
-    "feed_name": "NYT (Shared)",
-    "title": "It Just Got Harder to Get an Abortion for Every Woman in America",
-    "author": "Jill Filipovic",
-    "link": "https://www.nytimes.com/2026/05/02/opinion/abortion-telehealth.html",
-    "content": "A ruling by a federal appeals court has blocked access to abortion pills via telemedicine.",
-    "date": "2026-05-02T18:55:14",
-    "category": "NYT"
   }
 ]
