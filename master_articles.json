@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/10/theater/under-the-shadow-almeida-theater-london.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In a Timely \u201cUnder the Shadow\u201d Staging, a Ghost Haunts War-Torn Iran",
+    "author": "Houman Barekat",
+    "link": "https://www.nytimes.com/2026/06/10/theater/under-the-shadow-almeida-theater-london.html",
+    "content": "The supernatural mixes with secular modernity, family dynamics and feminism in a new London production of \u201cUnder the Shadow.\u201d",
+    "date": "2026-06-10T13:55:11",
+    "category": "NYT"
+  },
+  {
     "id": "6a2879d66c78e87b70cef253",
     "feed_name": "Wired (Science)",
     "title": "China Opens World's First Wind-Powered Underwater Data Center",
@@ -187,6 +197,16 @@
     "link": "https://www.nytimes.com/2026/06/10/arts/music/glenn-branca-100-guitars-reg-bloor.html",
     "content": "Reg Bloor with a Glenn Branca creation: a two-headed guitar that creates otherworldly sounds.",
     "date": "2026-06-10T09:02:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/10/arts/design/meg-webster-land-artist.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Land Artist Asks: What Will Be Left When I\u2019m Not Here?",
+    "author": "Julia Halperin and Sara Messinger",
+    "link": "https://www.nytimes.com/2026/06/10/arts/design/meg-webster-land-artist.html",
+    "content": "Meg Webster creates works that are often fleeting. At 82, with a new show at the Paula Cooper Gallery, now she\u2019s looking for a place in history.",
+    "date": "2026-06-10T09:01:54",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
     "content": "Grace Reynolds, right, taking a driving lesson with Dean Batchelor in March in London. \u201cIt feels like I\u2019ve got to pass \u2014 otherwise Christmas will be probably the next time,\u201d Ms. Reynolds said.",
     "date": "2026-05-02T12:33:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/business/japan-bathhouse-oil-iran.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Not Even Japanese Bathhouses Are Immune From Shocks of Iran War",
-    "author": "River Akira Davis, Kiuko Notoya and Kentaro Takahashi",
-    "link": "https://www.nytimes.com/2026/05/02/business/japan-bathhouse-oil-iran.html",
-    "content": "High fuel costs are imperiling the Japanese sento, a long-declining industry that remains a vital social lifeline for the country\u2019s isolated elderly.",
-    "date": "2026-05-02T12:30:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/opinion/trump-thomas-jefferson-founding-fathers.html",
-    "feed_name": "NYT (Shared)",
-    "title": "What Would the Nation\u2019s Founders Think of Trump? 250 Years Later, Here Is the Answer.",
-    "author": "Stacy Schiff",
-    "link": "https://www.nytimes.com/2026/05/02/opinion/trump-thomas-jefferson-founding-fathers.html",
-    "content": "Jefferson\u2019s quill pen drew blood.",
-    "date": "2026-05-02T11:43:43",
     "category": "NYT"
   }
 ]
