@@ -427,10 +427,20 @@ function openArticle(article) {
 
     // Check Firebase for cached full text first
     const safeKey = md5(article.link || article.id);
+    
+    // Newsletters and manual articles already have full content — show directly
+    if (article.source === "newsletter" || article.source === "manual") {
+        setupPagination(headerHtml + (article.content || ''));
+        enterFullscreen();
+        return;
+    }
+    
     db.ref(`app_data/articles/${safeKey}`).once("value").then(snap => {
-        if (snap.val()) {
+        const cached = snap.val();
+        // Check that cached content isn't a login/error page
+        if (cached && cached.length > 500 && !cached.includes("Sign in") && !cached.includes("to continue to Gmail")) {
             // Full text available — show it directly
-            setupPagination(headerHtml + snap.val());
+            setupPagination(headerHtml + cached);
             enterFullscreen();
         } else {
             // Show RSS summary with "Read Full Article" button
@@ -522,23 +532,27 @@ function setupPagination(html) {
 
         pages.style.height = availableHeight + "px";
         pages.style.columnWidth = availableWidth + "px";
-        pages.style.columnGap = "40px";
+        pages.style.columnGap = "0px";
 
         setTimeout(() => {
+            // Measure the TRUE fractional column width from the browser —
+            // clientWidth is integer-rounded and causes cumulative drift
+            const step = pages.getBoundingClientRect().width;
             const totalWidth = pages.scrollWidth;
-            const step = availableWidth + 40;
-            const totalPages = Math.max(1, Math.ceil(totalWidth / step));
-            // Use exact step from browser to prevent cumulative drift
-            const exactStep = totalPages > 1 ? totalWidth / totalPages : step;
+            const totalPages = Math.max(1, Math.round(totalWidth / step));
 
-            state.pagination = { el: pages, current: 0, total: totalPages, step: exactStep };
+            state.pagination = { el: pages, current: 0, total: totalPages, step: step };
             updatePageIndicator();
-            // Restore saved reading position
+            // Restore saved reading position (stored as percentage)
             if (state.currentArticle) {
                 db.ref(`app_data/positions/${state.currentArticle.id}`).once("value").then(snap => {
                     const saved = snap.val();
-                    if (saved && saved > 0 && saved < totalPages) {
-                        goToPage(saved);
+                    if (saved && saved > 0) {
+                        // Convert percentage to page number for current screen
+                        const targetPage = Math.round(saved * (totalPages - 1));
+                        if (targetPage > 0 && targetPage < totalPages) {
+                            goToPage(targetPage);
+                        }
                     }
                 }).catch(() => {});
             }
@@ -554,9 +568,10 @@ function goToPage(page) {
     p.current = page;
     p.el.style.transform = `translateX(-${page * p.step}px)`;
     updatePageIndicator();
-    // Save reading position
-    if (state.currentArticle) {
-        try { db.ref(`app_data/positions/${state.currentArticle.id}`).set(page); } catch(e) {}
+    // Save reading progress as percentage (works across screen sizes)
+    if (state.currentArticle && p.total > 1) {
+        const progress = page / (p.total - 1);
+        try { db.ref(`app_data/positions/${state.currentArticle.id}`).set(progress); } catch(e) {}
     }
 }
 
