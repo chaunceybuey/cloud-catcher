@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "cb3d2cceb1d62280cd67561a494e1c8c",
+    "feed_name": "LRB",
+    "title": "Knicks in Five?",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/june/knicks-in-five",
+    "content": "I\u2019m following the NBA Finals thousands of miles from midtown Manhattan. In my North London flat, I set the alarm for 1.20 a.m. on game nights.\u00a0.\u00a0.",
+    "date": "2026-06-10T14:24:22",
+    "category": "Magazines"
+  },
+  {
+    "id": "45b9b4709598ce644a01bc2f78334125",
+    "feed_name": "Compact",
+    "title": "The Corporal Philosophers",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-corporal-philosophers/",
+    "content": "",
+    "date": "2026-06-10T14:24:19",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/10/theater/under-the-shadow-almeida-theater-london.html",
     "feed_name": "NYT (Arts)",
     "title": "In a Timely \u201cUnder the Shadow\u201d Staging, a Ghost Haunts War-Torn Iran",
@@ -137,6 +157,26 @@
     "link": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
     "content": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
     "date": "2026-06-10T13:39:32",
+    "category": "Magazines"
+  },
+  {
+    "id": "a6b589162cec80cc7d6d2d070eefdf70",
+    "feed_name": "The Atlantic",
+    "title": "American Christians Face a Choice",
+    "author": "Peter Wehner",
+    "link": "https://www.theatlantic.com/ideas/2026/06/christian-humanism-trump-choice/687475/",
+    "content": "The faithful can still repair the wreckage they have wrought.",
+    "date": "2026-06-10T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "de5a27a6ce4d0650eb2d5fe81bf2f03b",
+    "feed_name": "The Atlantic",
+    "title": "How Britain Became as Poor as Mississippi",
+    "author": "Idrees Kahloon",
+    "link": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
+    "content": "A case study in self-sabotage",
+    "date": "2026-06-10T11:00:00",
     "category": "Magazines"
   },
   {
@@ -368,6 +408,16 @@
     "content": "",
     "date": "2026-06-09T20:59:42",
     "category": "Magazines"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/snacking-cake-yotam-ottolenghi-eats-with-his-kids-at-home",
+    "feed_name": "NYT (Food)",
+    "title": "The Snacking Cake Yotam Ottolenghi Eats With His Kids at Home",
+    "author": "Krysten Chambrot",
+    "link": "https://cooking.nytimes.com/article/snacking-cake-yotam-ottolenghi-eats-with-his-kids-at-home",
+    "content": "\u201cThis is the best cake ever,\u201d said one reader about Yotam Ottolenghi\u2019s blueberry, lemon and almond cake.",
+    "date": "2026-06-09T19:39:32",
+    "category": "NYT"
   },
   {
     "id": "bfc7a0d4-207e-4d05-8de5-e363a3e96697",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html",
     "content": "The Spirit Airlines ticket counter at Detroit Metropolitan Wayne County Airport in Romulus, Mich., was empty after the airline shut down overnight on Saturday.",
     "date": "2026-05-02T14:01:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/us/cornell-president-student-protester.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Cornell President\u2019s Car Bumps Into Students After Confrontation Over Gaza",
-    "author": "Santul Nerkar and Cole Louison",
-    "link": "https://www.nytimes.com/2026/05/01/us/cornell-president-student-protester.html",
-    "content": "Cornell University students videotaped the school\u2019s president as he backed up his vehicle.",
-    "date": "2026-05-02T13:54:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Tucker Carlson Discusses Breaking With Trump, the Iran War and Antisemitism",
-    "author": "Lulu Garcia-Navarro",
-    "link": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html",
-    "content": "The conservative media commentator split with the administration over the war in Iran. Will the breakup last?",
-    "date": "2026-05-02T13:43:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/opinion/trump-us-oil-crisis-strait-of-hormuz.html",
-    "feed_name": "NYT (Shared)",
-    "title": "America Will Pay Dearly for Its Energy Arrogance",
-    "author": "Gregory Brew",
-    "link": "https://www.nytimes.com/2026/05/02/opinion/trump-us-oil-crisis-strait-of-hormuz.html",
-    "content": "The idea that the U.S. is immune to the oil crisis is a mistaken one.",
-    "date": "2026-05-02T12:56:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/business/aging-parents-money-finances-retirement.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "5 Money Lessons From People Caring for Their Elderly Parents",
-    "author": "Elizabeth Harris",
-    "link": "https://www.nytimes.com/2026/05/02/business/aging-parents-money-finances-retirement.html",
-    "content": "Sarah Coomber and her father, James Coomber, 84, at his retirement community in Fargo, N.D. Seeing her parents struggle prompted conversations with her husband about what the two of them want, Ms. Coomber said.",
-    "date": "2026-05-02T12:34:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "UK Driving-Test Backlog Leaves Learners Waiting Months",
-    "author": "Stephen Castle",
-    "link": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
-    "content": "Grace Reynolds, right, taking a driving lesson with Dean Batchelor in March in London. \u201cIt feels like I\u2019ve got to pass \u2014 otherwise Christmas will be probably the next time,\u201d Ms. Reynolds said.",
-    "date": "2026-05-02T12:33:25",
     "category": "NYT"
   }
 ]
