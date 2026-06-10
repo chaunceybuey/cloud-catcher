@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/10/dining/noma-reopening-copenhagen-rene-redzepi.html",
+    "feed_name": "NYT (Food)",
+    "title": "Noma Will Reopen With Ren\u00e9 Redzepi as Creative Director",
+    "author": "Priya Krishna",
+    "link": "https://www.nytimes.com/2026/06/10/dining/noma-reopening-copenhagen-rene-redzepi.html",
+    "content": "Ren\u00e9 Redzepi, who originally opened Noma in 2003, has been accused of abusive behavior by dozens of former employees.",
+    "date": "2026-06-10T17:25:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232964",
     "feed_name": "Texas Tribune",
     "title": "Proposed ban on Big Bend border wall fails in U.S. House funding panel",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/02/arts/design/nicole-hollander-dead.html",
     "content": "For more than 30 years, she wrote and illustrated \u201cSylvia,\u201d a comic strip about a tart-tongued, witty woman unafraid of expressing her many opinions.",
     "date": "2026-05-02T17:42:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/opinion/supreme-court-voting-rights-act.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Who Will Stand Up to the Supreme Court Justices?",
-    "author": "Nikolas Bowie and Daphna Renan",
-    "link": "https://www.nytimes.com/2026/05/02/opinion/supreme-court-voting-rights-act.html",
-    "content": "Congress must once again defend democracy from a hostile court.",
-    "date": "2026-05-02T17:21:28",
     "category": "NYT"
   }
 ]
