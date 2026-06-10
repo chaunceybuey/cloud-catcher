@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/10/arts/design/duane-michals-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Duane Michals, Photographer With Stories to Tell, Dies at 94",
+    "author": "Richard B. Woodward",
+    "link": "https://www.nytimes.com/2026/06/10/arts/design/duane-michals-dead.html",
+    "content": "Duane Michaels in 2014. While his contemporaries photographed the chaos of street life or the majesty of nature, he took inspiration from the work of Surrealists like Ren\u00e9 Magritte.",
+    "date": "2026-06-10T15:38:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232942",
+    "feed_name": "Texas Tribune",
+    "title": "Abbott recommends sweeping data center regulation, including eliminating sales tax exemption",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17357566/texas-greg-abbott-data-centers-regulation-sales-tax",
+    "content": "Governor Greg Abbott speaks during a campaign event in Houston on Feb. 11, 2026.",
+    "date": "2026-06-10T15:10:40",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/10/dining/these-cold-peanut-noodles-are-for-ginger-lovers.html",
     "feed_name": "NYT (Food)",
     "title": "These Cold Peanut Noodles Are for Ginger Lovers",
@@ -128,6 +148,16 @@
     "content": "Melissa Clark\u2019s cold peanut ginger noodles.",
     "date": "2026-06-10T15:00:16",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=232938",
+    "feed_name": "Texas Tribune",
+    "title": "Texas high schoolers show gains across all subjects on STAAR tests",
+    "author": "By Sneha Dey, graphics by Hien An Ngo",
+    "link": "https://feeds.texastribune.org/link/16799/17357567/texas-staar-end-of-course-high-school-results-2026",
+    "content": "High school students walk to an after-school science tutorial that provides additional support for students taking the STAAR test at Elsik 9th Grade Center on April 19, 2018.",
+    "date": "2026-06-10T14:59:48",
+    "category": "Texas"
   },
   {
     "id": "cb3d2cceb1d62280cd67561a494e1c8c",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/02/nyregion/new-jersey-diners-soda-pop-act.html",
     "content": "New Jersey bills itself as the \u201cdiner capital of the world.\u201d Lawmakers are trying to help it stay that way, despite economic turmoil causing food prices to skyrocket.",
     "date": "2026-05-02T15:38:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/travel/spirit-airlines-bankruptcy-tickets-refunds.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Spirit Airlines Is Shutting Down. Here\u2019s What to Do if You\u2019re Scheduled to Fly.",
-    "author": "Seth Kugel",
-    "link": "https://www.nytimes.com/2026/05/01/travel/spirit-airlines-bankruptcy-tickets-refunds.html",
-    "content": "Spirit Airlines, squeezed by spiking jet fuel prices, shut down on Saturday after a proposed government bailout fell apart.",
-    "date": "2026-05-02T15:29:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/us/secret-service-whcd-hearings.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Secret Service Avoids Hearings for Now on Correspondents\u2019 Dinner Shooting",
-    "author": "Nicholas Nehamas and Eileen Sullivan",
-    "link": "https://www.nytimes.com/2026/05/01/us/secret-service-whcd-hearings.html",
-    "content": "President Trump and the first lady, Melania Trump, at the White House Correspondents\u2019 Association dinner in Washington in April.",
-    "date": "2026-05-02T14:47:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/health/older-colonoscopy-screenings-treatments.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "3 Medical Routines That Older People May Not Need",
-    "author": "Paula Span",
-    "link": "https://www.nytimes.com/2026/05/02/health/older-colonoscopy-screenings-treatments.html",
-    "content": "Some screenings and treatments no longer make sense for patients as they age. Researchers have just added a few more to the list.",
-    "date": "2026-05-02T14:47:30",
     "category": "NYT"
   }
 ]
