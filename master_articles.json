@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/10/arts/television/late-night-trump-nba-finals.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Calls a Technical Foul on Trump\u2019s Apparent Game 3 Nap",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/10/arts/television/late-night-trump-nba-finals.html",
+    "content": "The late night host called Trump \u201cthe first sitting president to shut down a major United States city so he could take a nap in front of a sold-out crowd at the N.B.A. finals.\u201d",
+    "date": "2026-06-10T05:53:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232904",
     "feed_name": "Texas Tribune",
     "title": "East Texas county judge urges state lawmakers to help locals combat data center proliferation",
@@ -19988,15 +19998,5 @@
     "content": "A SpaceX Super Heavy booster carrying the Starship spacecraft lifts off on its 11th test flight at the company&#039;s launch pad in Starbase on Oct. 13, 2025.",
     "date": "2026-05-01T23:48:37",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/01/us/bard-president-leon-botstein-jeffrey-epstein.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Bard College\u2019s President, Leon Botstein, Will Retire After Epstein Revelations",
-    "author": "Vimal Patel",
-    "link": "https://www.nytimes.com/2026/05/01/us/bard-president-leon-botstein-jeffrey-epstein.html",
-    "content": "Leon Botstein on the Bard College campus in Annandale-On-Hudson, N.Y.",
-    "date": "2026-05-01T23:45:37",
-    "category": "NYT"
   }
 ]
