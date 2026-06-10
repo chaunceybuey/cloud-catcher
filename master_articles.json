@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/10/briefing/the-good-list-pigeons-knicks.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Joy to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/06/10/briefing/the-good-list-pigeons-knicks.html",
+    "content": "Dancing pigeons, mystery stew and a nostalgia machine.",
+    "date": "2026-06-10T20:11:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/10/arts/design/ai-gemini-thrift-store-painting-sale.html",
     "feed_name": "NYT (Arts)",
     "title": "A.I. Chatbot Helps a $100 Thrift Store Painting Sell for Over $250,000",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/02/opinion/abortion-telehealth.html",
     "content": "A ruling by a federal appeals court has blocked access to abortion pills via telemedicine.",
     "date": "2026-05-02T18:55:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/us/san-francisco-buried-treasure-chest.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Race Is On to Find the Treasure Buried in San Francisco",
-    "author": "Heather Knight",
-    "link": "https://www.nytimes.com/2026/05/02/us/san-francisco-buried-treasure-chest.html",
-    "content": "From the gold seekers of 1849 to the dot-com entrepreneurs of the 1990s and 2000s to the A.I. masterminds of today, San Francisco has always been a place where enterprising people seek their riches.",
-    "date": "2026-05-02T18:49:20",
     "category": "NYT"
   }
 ]
