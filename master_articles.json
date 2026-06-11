@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/arts/design/gerhard-richter-landschaften-zwirner-close-read.html",
+    "feed_name": "NYT (Arts)",
+    "title": "For Painting\u2019s Great Skeptic, Gerhard Richter, History Is a Blur",
+    "author": "Jason Farago",
+    "link": "https://www.nytimes.com/2026/06/11/arts/design/gerhard-richter-landschaften-zwirner-close-read.html",
+    "content": "Our critic Jason Farago on how the artist conceived a new way forward for landscape painting.",
+    "date": "2026-06-11T13:11:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/arts/design/orlan-louvre-lectures.html",
     "feed_name": "NYT (Arts)",
     "title": "Orlan\u2019s Face Is Her Canvas, and Her Calling Card",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/03/us/trump-travel-ban-doctors-us-immigration.html",
     "content": "Ezequiel Veliz, a family doctor from Venezuela, was detained by federal agents when he fell out of legal status because his new visa application had not been processed. He was released 10 days later.",
     "date": "2026-05-03T17:04:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/arts/television/aziz-ansari-kash-patel-snl-olivia-rodrigo.html",
-    "feed_name": "NYT (Shared)",
-    "title": "\u2018S.N.L.\u2019 Recruits Aziz Ansari to Play F.B.I. Director Kash Patel",
-    "author": "Dave Itzkoff",
-    "link": "https://www.nytimes.com/2026/05/03/arts/television/aziz-ansari-kash-patel-snl-olivia-rodrigo.html",
-    "content": "Ansari, the \u201cParks and Recreation\u201d alum, made his first appearance on \u201cSaturday Night Live\u201d in nearly a decade, portraying Patel in an episode hosted by Olivia Rodrigo.",
-    "date": "2026-05-03T16:41:03",
     "category": "NYT"
   }
 ]
