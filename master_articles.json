@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "6a22cb4e923e8b4d309707b8",
+    "feed_name": "Wired (Science)",
+    "title": "How Mexican World Cup Stadiums Achieved FIFA\u2019s Environmental Certifications",
+    "author": "Ver\u00f3nica Garc\u00eda de Le\u00f3n",
+    "link": "https://www.wired.com/story/how-mexican-world-cup-stadiums-achieved-fifas-environmental-certifications/",
+    "content": "Venues hosting the 2026 World Cup must meet high standards to obtain environmental certifications, but FIFA also requires that they use natural grass, which is water-intensive to maintain.",
+    "date": "2026-06-11T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19282",
+    "feed_name": "Stratechery",
+    "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+    "content": "<p>An interview with Ben Bajarin about WWDC and the status of the AI compute industry.</p>",
+    "date": "2026-06-11T10:00:00",
+    "category": "Tech"
+  },
+  {
+    "id": "c1681c7e-c4fa-49de-bad3-b04cdc4b4add",
+    "feed_name": "Economist",
+    "title": "Stears wants to be Africa\u2019s Bloomberg terminal",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/11/stears-wants-to-be-africas-bloomberg-terminal",
+    "content": "As the continent\u2019s markets mature, high-quality financial analysis is more essential than ever",
+    "date": "2026-06-11T09:31:29",
+    "category": "Magazines"
+  },
+  {
     "id": "6a2848a4c80531d76bc87655",
     "feed_name": "Wired (Science)",
     "title": "People Living Near xAI\u2019s Dirty Data Centers Are Furious About the SpaceX IPO",
@@ -127,6 +157,26 @@
     "link": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/",
     "content": "Elon Musk is set to make hundreds of billions even as communities in Mississippi and Tennessee are fighting to stop the gas turbines powering xAI's supercomputers.",
     "date": "2026-06-11T09:30:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "73e4c492-6a94-4484-b6e7-c76e25e52e48",
+    "feed_name": "Economist",
+    "title": "The world\u2019s strategic oil reserves are running out fast",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/11/the-worlds-strategic-oil-reserves-are-running-out-fast",
+    "content": "They cannot hold back the energy crunch for ever",
+    "date": "2026-06-11T09:29:58",
+    "category": "Magazines"
+  },
+  {
+    "id": "bc34d4e4-870a-4dd9-b6b4-7a2c58c69730",
+    "feed_name": "Economist",
+    "title": "A guide to redistributing AI wealth",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/11/a-guide-to-redistributing-ai-wealth",
+    "content": "From Trump to Sam Altman, the idea is catching on. Does it make sense?",
+    "date": "2026-06-11T09:29:25",
     "category": "Magazines"
   },
   {
@@ -205,6 +255,16 @@
     "title": "\u2018Disclosure Day\u2019 Review: Spielberg Plays His Greatest Cosmic Hits",
     "author": "Manohla Dargis",
     "link": "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-spielberg-plays-his-greatest-cosmic-hits.html",
+    "content": "In a fast-paced sci-fi fantasy, infused with epic intentions and starring Emily Blunt, Josh O\u2019Connor and Colman Domingo, the filmmaker brings the rest of us home.",
+    "date": "2026-06-11T09:04:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-steven-spielberg.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Disclosure Day\u2019 Review: Spielberg Plays His Greatest Cosmic Hits",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-steven-spielberg.html",
     "content": "In a fast-paced sci-fi fantasy, infused with epic intentions and starring Emily Blunt, Josh O\u2019Connor and Colman Domingo, the filmmaker brings the rest of us home.",
     "date": "2026-06-11T09:04:41",
     "category": "NYT"
@@ -19938,65 +19998,5 @@
     "content": "\u201cIt\u2019s impossible to write about a place like Mississippi, especially in the 1930s, and not talk racism and sexism,\u201d Kathryn Stockett says of her new novel, \u201cThe Calamity Club.\u201d",
     "date": "2026-05-03T12:50:16",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/us/dairy-farm-butter-ridge-pennsylvania.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Last Days of Butter Ridge",
-    "author": "Eli Saslow and Erin Schaff",
-    "link": "https://www.nytimes.com/2026/05/03/us/dairy-farm-butter-ridge-pennsylvania.html",
-    "content": "The Watsons were dairy farmers for generations, the rhythms of their lives defined by their cows. Until this spring.",
-    "date": "2026-05-03T12:30:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Norway\u2019s Northern Lights Nightmare",
-    "author": "Lynsey Chutel, Louise Kr\u00fcger and Nicole Tung",
-    "link": "https://www.nytimes.com/2026/05/03/world/europe/norway-northern-lights-tromso.html",
-    "content": "A guided tour in February to see the northern lights in Grotfjorden, near Tromso, Norway.",
-    "date": "2026-05-03T12:29:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/opinion/public-schools-politics-democracy-minnesota.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "In a Minneapolis Public School, a Cure for Toxic Politics",
-    "author": "James Traub",
-    "link": "https://www.nytimes.com/2026/05/03/opinion/public-schools-politics-democracy-minnesota.html",
-    "content": "This school gave me hope for our democracy.",
-    "date": "2026-05-03T12:07:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/briefing/bruce-springsteen-donald-trump.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Bruce vs. Donald",
-    "author": "Nick Corasaniti",
-    "link": "https://www.nytimes.com/2026/05/03/briefing/bruce-springsteen-donald-trump.html",
-    "content": "Bruce Springsteen in Newark last month.",
-    "date": "2026-05-03T11:37:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/briefing/a-love-letter-to-a-beautiful-dying-thing.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Love Letter to Dying Things",
-    "author": "Lauren Jackson",
-    "link": "https://www.nytimes.com/2026/05/03/briefing/a-love-letter-to-a-beautiful-dying-thing.html",
-    "content": "It\u2019s May Day weekend, and much of Europe is celebrating spring \u2014 and the sanctity of flowers. We wanted to do that, too.",
-    "date": "2026-05-03T11:37:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228791",
-    "feed_name": "Texas Tribune",
-    "title": "Dallas\u2019 Highland Park votes to leave Texas\u2019 second-largest public transit system",
-    "author": "Joshua Fechter and Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17331109/texas-dallas-dart-election-addison-highland-university-park",
-    "content": "A DART bus cruises down South Westmoreland Road in Dallas on Feb. 2, 2020.",
-    "date": "2026-05-03T11:21:42",
-    "category": "Texas"
   }
 ]
