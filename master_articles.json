@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233121",
+    "feed_name": "Texas Tribune",
+    "title": "Conservation groups sue to stop SpaceX land deal",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17359691/environmental-groups-sue-to-stop-spacex-land-deal",
+    "content": "A SpaceX rocket on the launchpad at Starbase on Feb. 3, 2026.",
+    "date": "2026-06-11T21:46:54",
+    "category": "Texas"
+  },
+  {
+    "id": "773365cda040626d344b3c1bad76661d",
+    "feed_name": "LRB",
+    "title": "Erin Maglaque & Hannah Dawson: Presence",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/erin-maglaque-hannah-dawson-presence-tickets-1987077822257",
+    "content": "",
+    "date": "2026-06-11T21:22:34",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/dining/looking-for-an-egyptian-sandwich-and-more-reader-questions.html",
     "feed_name": "NYT (Food)",
     "title": "Looking for an Egyptian Sandwich and More Reader Questions",
@@ -19977,26 +19997,6 @@
     "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/04/28",
     "content": "Today\u2019s theme: Homegrown.",
     "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "215779e8e508dccd57002936e22a380b",
-    "feed_name": "Compact",
-    "title": "The Wrong Kind of Black Poet",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-wrong-kind-of-black-poet/",
-    "content": "",
-    "date": "2026-05-04T11:50:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "69f359e88b22ffaffc6fd4c9",
-    "feed_name": "Wired (Science)",
-    "title": "RFK Jr.\u2019s New Podcast Is as Weird as You\u2019d Expect",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/",
-    "content": "The first two episodes of Robert F. Kennedy Jr.\u2019s new podcast feature him discoursing on food with a reality-TV chef and, for some reason, Mike Tyson. Vaccines are not on the agenda.",
-    "date": "2026-05-04T11:00:00",
     "category": "Magazines"
   }
 ]
