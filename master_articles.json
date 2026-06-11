@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/dining/these-dense-bean-salads-are-smart.html",
+    "feed_name": "NYT (Food)",
+    "title": "These Dense Bean Salads Are Smart",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/06/11/dining/these-dense-bean-salads-are-smart.html",
+    "content": "Hetty Lui McKinnon\u2019s fresh corn and black bean salad with corn chips.",
+    "date": "2026-06-11T17:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232973",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi\u2019s delayed water response bubbles up to Texas governor\u2019s race",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/health/knoxville-medical-examiners-drugs-cychlorphine.html",
     "content": "Unusual opioids are infiltrating street drugs. Knoxville\u2019s top forensic doctor is on the front lines, pressing to quickly identify the most lethal.",
     "date": "2026-05-04T09:00:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/arts/music/peter-frampton-carry-the-light.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Zen of Peter Frampton",
-    "author": "Grayson Haver Currin and Eric Ryan Anderson",
-    "link": "https://www.nytimes.com/2026/05/04/arts/music/peter-frampton-carry-the-light.html",
-    "content": "Grappling with a progressive muscular disease and making a new album with his son, the onetime British guitar hero may be happier than ever.",
-    "date": "2026-05-04T09:00:39",
     "category": "NYT"
   }
 ]
