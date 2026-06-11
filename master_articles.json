@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kennedy Center Votes to Appeal Order That Trump\u2019s Name Be Removed",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html",
+    "content": "Judge Christopher R. Cooper ruled that only Congress had the power to alter the name of the John F. Kennedy Center for the Performing Arts, which was dedicated to the president in a 1964 law.",
+    "date": "2026-06-11T23:28:52",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233121",
     "feed_name": "Texas Tribune",
     "title": "Conservation groups sue to stop SpaceX land deal",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/gallery/cartoons-from-the-may-11-and-18-2026-issue",
     "content": "Drawings from the May 11 & 18, 2026, magazine.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "5d843cdc771182bd4ba1fc582481aa22",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Tuesday, April 28, 2026",
-    "author": "ByAdam Wagner",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/04/28",
-    "content": "Today\u2019s theme: Homegrown.",
     "date": "2026-05-04T11:50:54",
     "category": "Magazines"
   }
