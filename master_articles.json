@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "ffd126968518ae81843c11ee1c001b41",
+    "feed_name": "Compact",
+    "title": "The Meaning of Milei\u2019s AI Gamble",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-meaning-of-mileis-ai-gamble/",
+    "content": "",
+    "date": "2026-06-11T14:00:26",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/arts/doctor-who-christmas-special.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Doctor Who\u2019 Is in Limbo. What Does That Mean for Fans?",
@@ -150,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "824da678af790296cb8f75372f097480",
+    "feed_name": "The Atlantic",
+    "title": "Hunter Biden\u2019s Life After Shame",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/06/hunter-biden-shameless-media/687502/",
+    "content": "What is the former president\u2019s son hoping to achieve?",
+    "date": "2026-06-11T12:33:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/arts/design/orlan-louvre-lectures.html",
     "feed_name": "NYT (Arts)",
     "title": "Orlan\u2019s Face Is Her Canvas, and Her Calling Card",
@@ -168,6 +188,16 @@
     "content": "James Talarico, Democratic nominee for U.S. Senate, meets with supporters at a rally in San Antonio on May 26, 2026.",
     "date": "2026-06-11T11:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "78abf59716c374ca0173cd66e154d82e",
+    "feed_name": "The Atlantic",
+    "title": "As American as the Forward Pass",
+    "author": "Sally Jenkins",
+    "link": "https://www.theatlantic.com/magazine/2026/07/american-sports-culture-origins/687302/",
+    "content": "To understand the history of the nation, look to the history of its sports.",
+    "date": "2026-06-11T11:00:00",
+    "category": "Magazines"
   },
   {
     "id": "287d351e-4232-4d1d-ae17-77db5ac94440",
@@ -218,6 +248,16 @@
     "content": "GOP delegates at the 2024 Texas Republican Convention in San Antonio on May 24, 2024.",
     "date": "2026-06-11T10:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/arts/television/summer-tv-shows.html",
+    "feed_name": "NYT (Arts)",
+    "title": "29 Shows to Watch This Summer",
+    "author": "Mike Hale",
+    "link": "https://www.nytimes.com/2026/06/11/arts/television/summer-tv-shows.html",
+    "content": "\u201cTed Lasso\u201d returns in August with, center, from left, Brendan Hunt, Jason Sudeikis and Tanya Reynolds.",
+    "date": "2026-06-11T09:59:26",
+    "category": "NYT"
   },
   {
     "id": "c1681c7e-c4fa-49de-bad3-b04cdc4b4add",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/03/nyregion/rudy-giuliani-hospital-critical-condition.html",
     "content": "Rudy Giuliani, the former mayor of New York, is critically ill in a Florida hospital.",
     "date": "2026-05-03T23:33:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html",
-    "feed_name": "NYT (Shared)",
-    "title": "3 Dead in Hantavirus Outbreak Aboard Cruise Ship, W.H.O. Says",
-    "author": "Alexandra E. Petri and Livia Albeck-Ripka",
-    "link": "https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html",
-    "content": "The cruise ship MV Hondius off Cape Verde on Sunday. Officials identified the ship as the one with passengers infected by hantavirus.",
-    "date": "2026-05-03T22:31:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Global Demand for Rare Earth Minerals Is Intensifying Criminal Threats in the Amazon Rainforest",
-    "author": "Ana Ionova",
-    "link": "https://www.nytimes.com/2026/05/03/world/americas/illegal-miners-amazon-rainforest-critical-minerals.html",
-    "content": "An illegal mine on protected land of the Yanomami people in the Brazilian Amazon.",
-    "date": "2026-05-03T21:22:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/us/jewish-antisemitism-violence-attacks.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Fear and Vigilance Are Now Constant Companions for Many American Jews",
-    "author": "Patricia Mazzei, Robert Chiarito, Miles G. Cohen and Mark Bonamo",
-    "link": "https://www.nytimes.com/2026/05/03/us/jewish-antisemitism-violence-attacks.html",
-    "content": "The police declared a stabbing attack in the Golders Green neighborhood of London a terroristic act against Jews.",
-    "date": "2026-05-03T18:54:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/us/by-the-wind-sailors-invade-california-beaches.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "\u2018By the Wind Sailors\u2019 Invade California Beaches by the Thousands",
-    "author": "Sonia A. Rao",
-    "link": "https://www.nytimes.com/2026/05/03/us/by-the-wind-sailors-invade-california-beaches.html",
-    "content": "Velella velella washed up on Baker Beach in San Francisco, Calif., in April.",
-    "date": "2026-05-03T18:51:12",
     "category": "NYT"
   }
 ]
