@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=233105",
+    "feed_name": "Texas Tribune",
+    "title": "Paxton\u2019s office threatens legal action if Big 12 penalizes Texas Tech for playing QB who placed bets",
+    "author": "Ayden Runnels and Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17359674/texas-tech-ken-paxton-brendan-sorsby-big-12",
+    "content": "Texas Tech players Brendan Sorbsy (right) and Willi Hammond (back) and assistant quarterbacks coach Lindsey Scott look on during spring football practice at the at the Womble Football Center in Lubbock on April 7, 2026.",
+    "date": "2026-06-11T20:00:28",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/theater/broadway-shows-closing-soon-becky-shaw-giant-and-more.html",
     "feed_name": "NYT (Arts)",
     "title": "Broadway Shows Closing Soon: \u2018Becky Shaw,\u2019 \u2018Giant\u2019 and More",
@@ -19986,16 +19996,6 @@
     "author": "Emily Mullin",
     "link": "https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/",
     "content": "The first two episodes of Robert F. Kennedy Jr.\u2019s new podcast feature him discoursing on food with a reality-TV chef and, for some reason, Mike Tyson. Vaccines are not on the agenda.",
-    "date": "2026-05-04T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69e24c43990f5cfcc2d0f307",
-    "feed_name": "Wired (Science)",
-    "title": "Do Lightsaber Blades Have Mass?",
-    "author": "Rhett Allain",
-    "link": "https://www.wired.com/story/do-lightsaber-blades-have-mass/",
-    "content": "On Star Wars Day, we put to rest a question that has bedeviled sci-fi nerds for years.",
     "date": "2026-05-04T11:00:00",
     "category": "Magazines"
   }
