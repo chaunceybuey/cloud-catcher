@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/dining/this-is-one-of-the-most-delicious-recipes-ive-made-in-a-long-time.html",
+    "feed_name": "NYT (Food)",
+    "title": "Saag Shrimp Is a Fast and Luscious Dinner",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/11/dining/this-is-one-of-the-most-delicious-recipes-ive-made-in-a-long-time.html",
+    "content": "Pourin Singh\u2019s saag shrimp, adapted by Yewande Komolafe.",
+    "date": "2026-06-11T15:00:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/arts/music/boston-symphony-andris-nelsons-chad-smith.html",
     "feed_name": "NYT (Arts)",
     "title": "Boston Symphony in Crisis Over Dismissal of Andris Nelsons",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/world/africa/africans-russia-war-ukraine.html",
     "content": "Family members of people recruited by Russia for the war in Ukraine protested in Nairobi, Kenya, in March. The lack of information on missing loved ones spurred their appeal to lawmakers.",
     "date": "2026-05-04T07:53:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/opinion/iran-us-israel-war-drones-strait-of-hormuz.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Operation Epic Fury, Meet Operation Colossal Blunder",
-    "author": "Scott Anderson",
-    "link": "https://www.nytimes.com/2026/05/04/opinion/iran-us-israel-war-drones-strait-of-hormuz.html",
-    "content": "With the threat of a future closing of the Strait of Hormuz a drone strike away, the Iranians appear to actually hold the cards.",
-    "date": "2026-05-04T05:00:04",
     "category": "NYT"
   }
 ]
