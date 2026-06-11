@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/arts/television/late-night-desi-lydic-trump-coin.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Desi Lydic Does a Spit Take at the Price of Trump\u2019s Gold Coin",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/11/arts/television/late-night-desi-lydic-trump-coin.html",
+    "content": "\u201c$12,000? For a coin? Does it come with a used Honda Civic?\u201d Lydic said.",
+    "date": "2026-06-11T06:03:52",
+    "category": "NYT"
+  },
+  {
     "id": "6cabe0581b90fc66aceced7d3a602b71",
     "feed_name": "LRB",
     "title": "Eli Davies & Rebecca May Johnson: The Spinster Cookbook",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/02/us/abortion-pill-mifepristone-5th-circuit-court-ruling.html",
     "content": "If the court\u2019s temporary ruling stands, patients would have to make an in-person visit to obtain the abortion pill mifepristone.",
     "date": "2026-05-02T21:17:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/02/world/europe/timmy-whale-germany-released.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Timmy the Stranded Whale Is Released After an Elaborate Rescue",
-    "author": "Jenny Gross",
-    "link": "https://www.nytimes.com/2026/05/02/world/europe/timmy-whale-germany-released.html",
-    "content": "Timmy the humpback whale, seen on April 29, 2026, during the effort to move it in a water-filled barge from the coast of Germany to the open sea.",
-    "date": "2026-05-02T21:07:22",
     "category": "NYT"
   }
 ]
