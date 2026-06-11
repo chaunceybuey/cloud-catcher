@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/theater/broadway-shows-closing-soon-becky-shaw-giant-and-more.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Broadway Shows Closing Soon: \u2018Becky Shaw,\u2019 \u2018Giant\u2019 and More",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/06/11/theater/broadway-shows-closing-soon-becky-shaw-giant-and-more.html",
+    "content": "Rachael Stirling, background, and John Lithgow in \u201cGiant,\u201d a bio-drama based on a moment of crisis in the writer Roald Dahl\u2019s life. It closes on June 28.",
+    "date": "2026-06-11T19:42:41",
+    "category": "NYT"
+  },
+  {
+    "id": "6a2ae79ff2ca1e38fb0ba7d8",
+    "feed_name": "Wired (Science)",
+    "title": "Is It a Super El Ni\u00f1o Year? It Could Turn the World\u2019s Weather Upside Down",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/",
+    "content": "From a wet winter in the Southwest to fewer Atlantic hurricanes, this is what to expect as a potential super El Ni\u00f1o takes shape.",
+    "date": "2026-06-11T19:24:46",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/arts/design/william-coupon-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "William Coupon, Who Wanted to \u2018Photograph Everyone in the World,\u2019 Dies at 73",
@@ -637,6 +657,16 @@
     "link": "https://www.nytimes.com/2026/06/10/arts/television/ernest-chambers-dead.html",
     "content": "In the late 1960s, he and Saul Ilson oversaw a variety show known for its social and political satire, and together they helped fight network censors over its content.",
     "date": "2026-06-10T20:43:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/easy-quick-cookout-side-dish-recipes",
+    "feed_name": "NYT (Food)",
+    "title": "Easy, Quick Potluck Side Dishes",
+    "author": "Sharon Attia",
+    "link": "https://cooking.nytimes.com/article/easy-quick-cookout-side-dish-recipes",
+    "content": "Most of these foolproof side dishes are ready in 15 minutes, and they are a snap to pack and share.",
+    "date": "2026-06-10T20:33:49",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "New York\u2019s proposed pied-\u00e0-terre tax is unlikely to chase anyone away.",
     "date": "2026-05-04T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228632",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 18th Congressional District Democratic runoff: Who is running and what to know",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17331770/texas-18th-congressional-district-democratic-runoff-christian-menefee-al-green",
-    "content": "From left: U.S. Reps. Al Green and Christian Menefee, both Democrats of Houston, will face each each other in the May runoff to be the nominee for Texas Congressional District 18 in November.",
-    "date": "2026-05-04T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228724",
-    "feed_name": "Texas Tribune",
-    "title": "How the Voting Rights Act reshaped Texas\u2019 electoral maps by empowering voters, candidates of color",
-    "author": "Eleanor Klibanoff and Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17331771/texas-section-2-voting-rights-act-supreme-court-voters-of-color-history",
-    "content": "President Lyndon B. Johnson, Martin Luther King Jr., Clarence Mitchell Jr., Patricia Roberts Harris, and other guests at the signing of the Voting Rights Act on August 6, 1965.",
-    "date": "2026-05-04T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228280",
-    "feed_name": "Texas Tribune",
-    "title": "How the unreported killing of an American by ICE shattered two Texas families",
-    "author": "Lomi Kriel",
-    "link": "https://feeds.texastribune.org/link/16799/17331772/ruben-ray-martinez-josh-orta-south-padre-ice-shooting-death",
-    "content": "A photo of best friends Joshua Orta and Ruben Ray Martinez at Orta\u2019s grave in San Antonio on April 16, 2026. Orta died in a car accident in February. He was a passenger in the same car when ICE shot and killed Martinez in South Padre Island a year earlier.",
-    "date": "2026-05-04T10:00:00",
-    "category": "Texas"
   }
 ]
