@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=232993",
+    "feed_name": "Texas Tribune",
+    "title": "James Talarico launches Spanish-language World Cup TV ad",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17359417/texas-senate-james-talarico-spanish-ad-world-cup-latino-voters",
+    "content": "James Talarico, Democratic nominee for U.S. Senate, meets with supporters at a rally in San Antonio on May 26, 2026.",
+    "date": "2026-06-11T11:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "287d351e-4232-4d1d-ae17-77db5ac94440",
     "feed_name": "Economist",
     "title": "How big are China\u2019s emerging industries?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
     "content": "Attacks by the Baloch Liberation Army could derail Pakistan\u2019s plans for a billion-dollar mining deal with the Trump administration.",
     "date": "2026-05-03T16:40:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/us/politics/mississippi-hyde-smith-senate-election.html",
-    "feed_name": "NYT (Shared)",
-    "title": "In Mississippi, a Democrat Challenges the Senator Who Blocked His Judgeship",
-    "author": "Carl Hulse",
-    "link": "https://www.nytimes.com/2026/05/03/us/politics/mississippi-hyde-smith-senate-election.html",
-    "content": "Scott Colom taking part in a hearing in West Point, Miss., in 2022.",
-    "date": "2026-05-03T16:39:46",
     "category": "NYT"
   }
 ]
