@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/arts/doctor-who-christmas-special.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Doctor Who\u2019 Is in Limbo. What Does That Mean for Fans?",
+    "author": "Isobel Lewis",
+    "link": "https://www.nytimes.com/2026/06/11/arts/doctor-who-christmas-special.html",
+    "content": "Russell T Davies, the showrunner who rebooted \u201cDoctor Who\u201d in 2005.",
+    "date": "2026-06-11T13:37:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/arts/design/duane-michals-artist-of-wit-and-courage.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Duane Michals, Artist of Wit and Courage",
+    "author": "Philip Gefter",
+    "link": "https://www.nytimes.com/2026/06/11/arts/design/duane-michals-artist-of-wit-and-courage.html",
+    "content": "Our conversations over the years were, at times, philosophical, metaphysical, honest about the daily circumstances of our lives, and dishy, a photography critic says, as he looks back.",
+    "date": "2026-06-11T13:32:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/arts/design/gerhard-richter-landschaften-zwirner-close-read.html",
     "feed_name": "NYT (Arts)",
     "title": "For Painting\u2019s Great Skeptic, Gerhard Richter, History Is a Blur",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/03/us/by-the-wind-sailors-invade-california-beaches.html",
     "content": "Velella velella washed up on Baker Beach in San Francisco, Calif., in April.",
     "date": "2026-05-03T18:51:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/19950-austin-polish-society-dominika-zamara-in-concert-on-polish-constitution-day",
-    "feed_name": "KMFA",
-    "title": "Austin Polish Society: Dominika Zamara in Concert on Polish Constitution Day",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/19950-austin-polish-society-dominika-zamara-in-concert-on-polish-constitution-day",
-    "content": "AUSTIN POLISH SOCIETY PRESENTS\n\nDOMINIKA ZAMARA IN CONCERT\n\nCELEBRATING THE 235TH ANNIVERSARY OF THE POLISH CONSTITUTION\n\nMAY 3 | 5:30 P.M. | KMFA'S DRAYLEN MASON MUSIC STUDIO\n\n\n\nAustin Polish Society\u00a0invites you to a recital celebrating the\u00a0235th Anniversary of the Polish Constitution of May 3, 1791\u2014the first modern constitution in Europe and the second in the world, after the United States Constitution.\n\nDominika Zamara\u00a0(soprano) and\u00a0Maria Parrini\u00a0(piano)\n\nPerforming:\u00a0\u00a0Mozart \u00b7 Bellini \u00b7 Verdi \u00b7 Chopin \u00b7 Paderewski \u00b7 Bizet\n\n\u00a0\n\nDominika Zamara is an internationally acclaimed soprano who has performed at venues such as Carnegie Hall in New York and Teatro alla Scala in Milan.\n\n\u00a0\n\nRead the interview:\u00a0https://www.cultureave.com/art-knows-no-boundaries/\n\n\u00a0\n\nBUY TICKETS!\n\nEvent Details\nDate: Sunday, May 3, 2026\nTime: 5:30 P.M. - 6:45 P.M.\nVenue: KMFA's Draylen Mason Music Studio\n\nTicket Information\nCost: $30.00\nPhone: \n\nPresenter Details: We are a Texas non-profit organization established in 2005 dedicated to furthering knowledge of Polish culture, traditions, history, language, arts, current affairs, and local events.",
-    "date": "2026-05-03T17:30:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/us/trump-travel-ban-doctors-us-immigration.html",
-    "feed_name": "NYT (Shared)",
-    "title": "In a Reversal, Doctors From Countries Under Trump\u2019s Travel Ban Are Allowed to Stay in U.S.",
-    "author": "Miriam Jordan",
-    "link": "https://www.nytimes.com/2026/05/03/us/trump-travel-ban-doctors-us-immigration.html",
-    "content": "Ezequiel Veliz, a family doctor from Venezuela, was detained by federal agents when he fell out of legal status because his new visa application had not been processed. He was released 10 days later.",
-    "date": "2026-05-03T17:04:20",
     "category": "NYT"
   }
 ]
