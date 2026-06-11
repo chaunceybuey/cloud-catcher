@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/dining/looking-for-an-egyptian-sandwich-and-more-reader-questions.html",
+    "feed_name": "NYT (Food)",
+    "title": "Looking for an Egyptian Sandwich and More Reader Questions",
+    "author": "Becky Hughes",
+    "link": "https://www.nytimes.com/2026/06/11/dining/looking-for-an-egyptian-sandwich-and-more-reader-questions.html",
+    "content": "Becky Hughes is back to answer readers\u2019 urgent restaurant requests.",
+    "date": "2026-06-11T20:16:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/theater/broadway-shows-closing-soon-becky-shaw-giant-and-more.html",
     "feed_name": "NYT (Arts)",
     "title": "Broadway Shows Closing Soon: \u2018Becky Shaw,\u2019 \u2018Giant\u2019 and More",
@@ -19986,16 +19996,6 @@
     "author": "Rhett Allain",
     "link": "https://www.wired.com/story/do-lightsaber-blades-have-mass/",
     "content": "On Star Wars Day, we put to rest a question that has bedeviled sci-fi nerds for years.",
-    "date": "2026-05-04T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "f12e0c47e87eeeb888c308801b134fd9",
-    "feed_name": "The Atlantic",
-    "title": "The One Tax the Rich Can\u2019t Escape",
-    "author": "Richard Florida",
-    "link": "https://www.theatlantic.com/ideas/2026/05/mamdani-property-tax-new-york/687031/",
-    "content": "New York\u2019s proposed pied-\u00e0-terre tax is unlikely to chase anyone away.",
     "date": "2026-05-04T11:00:00",
     "category": "Magazines"
   }
