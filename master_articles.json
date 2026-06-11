@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/arts/design/orlan-louvre-lectures.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Orlan\u2019s Face Is Her Canvas, and Her Calling Card",
+    "author": "Nina Siegal",
+    "link": "https://www.nytimes.com/2026/06/11/arts/design/orlan-louvre-lectures.html",
+    "content": "Orlan, with horn-like cheek implants in her forehead, has also created what she calls \u201cbio-art\u201d performances.",
+    "date": "2026-06-11T12:01:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=232993",
     "feed_name": "Texas Tribune",
     "title": "James Talarico launches Spanish-language World Cup TV ad",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/03/arts/television/aziz-ansari-kash-patel-snl-olivia-rodrigo.html",
     "content": "Ansari, the \u201cParks and Recreation\u201d alum, made his first appearance on \u201cSaturday Night Live\u201d in nearly a decade, portraying Patel in an episode hosted by Olivia Rodrigo.",
     "date": "2026-05-03T16:41:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Insurgency Threatening to Derail a U.S.-Pakistan Pact",
-    "author": "Elian Peltier, Zia ur-Rehman, Christiaan Triebert, Pablo Robles and Asim Hafeez",
-    "link": "https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html",
-    "content": "Attacks by the Baloch Liberation Army could derail Pakistan\u2019s plans for a billion-dollar mining deal with the Trump administration.",
-    "date": "2026-05-03T16:40:09",
     "category": "NYT"
   }
 ]
