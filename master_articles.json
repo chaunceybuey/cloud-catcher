@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "287d351e-4232-4d1d-ae17-77db5ac94440",
+    "feed_name": "Economist",
+    "title": "How big are China\u2019s emerging industries?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/11/how-big-are-chinas-emerging-industries",
+    "content": "Probably not big enough to offset the drag from the old",
+    "date": "2026-06-11T10:31:01",
+    "category": "Magazines"
+  },
+  {
     "id": "6a22cb4e923e8b4d309707b8",
     "feed_name": "Wired (Science)",
     "title": "How Mexican World Cup Stadiums Achieved FIFA\u2019s Environmental Certifications",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/03/us/politics/mississippi-hyde-smith-senate-election.html",
     "content": "Scott Colom taking part in a hearing in West Point, Miss., in 2022.",
     "date": "2026-05-03T16:39:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/opinion/old-age-planning-parents-family.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "My Parents Are Old. They Need to Plan for It.",
-    "author": "Jessica Nutik Zitter",
-    "link": "https://www.nytimes.com/2026/05/03/opinion/old-age-planning-parents-family.html",
-    "content": "A few small changes to their home and habits will make it much more likely that they can age in their own home.",
-    "date": "2026-05-03T16:03:49",
     "category": "NYT"
   }
 ]
