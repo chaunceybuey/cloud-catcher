@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/12/arts/music/bruckner-eight-ny-phil-met-orchestra.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Philharmonic and the Met Engage in a Battle of the Bands",
+    "author": "Joshua Barone",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/bruckner-eight-ny-phil-met-orchestra.html",
+    "content": "Yannick N\u00e9zet-S\u00e9guin, left, and Semyon Bychkov both conducted Bruckner\u2019s Eighth Symphony in New York this past week.",
+    "date": "2026-06-12T16:14:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Kennedy Center Drama: Whether Trump\u2019s Name Stays",
+    "author": "Elizabeth Williamson and Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html",
+    "content": "The Kennedy Center on Friday morning. The arts institution\u2019s lawyers have asked for a stay of the judge\u2019s order that President Trump\u2019s name be removed.",
+    "date": "2026-06-12T16:06:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233173",
+    "feed_name": "Texas Tribune",
+    "title": "Texas GOP Chair Abraham George ousted by second-in-command D\u2019rinda Randall",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17360075/texas-gop-chair-election-abraham-george-defeated-drinda-randall",
+    "content": "Republican Party of Texas Vice Chair D\u2019rinda Randall speaks during the opening ceremony at the 2026 Texas Republican Convention on June 11, 2026, in Houston.",
+    "date": "2026-06-12T15:37:35",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html",
     "feed_name": "NYT (Arts)",
     "title": "Framing David Hockney\u2019s Greatest Art",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/03/us/politics/butler-pennsylvania-assassination-attempt-comperatore.html",
     "content": "The conspiracy theories around the Butler, Pa., assassination attempt hurt Helen Comperatore, but in this age of distrust, partisanship and social media, she nurtures a conspiracy theory of her own.",
     "date": "2026-05-04T16:31:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/well/mind/gut-brain-fog-health.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How Your Gut Can Affect Your Brain",
-    "author": "Christina Caron",
-    "link": "https://www.nytimes.com/2026/05/04/well/mind/gut-brain-fog-health.html",
-    "content": "Scientists keep learning more about the connection between the brain and the gastrointestinal system.",
-    "date": "2026-05-04T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "5e2cc64459e75ff9591149815475e17f",
-    "feed_name": "The Atlantic",
-    "title": "The End of Cigarettes Is Coming",
-    "author": "Charles Fain Lehman",
-    "link": "https://www.theatlantic.com/ideas/2026/05/smoking-ban-uk-cigarettes/687050/",
-    "content": "The U.K. is phasing out smoking. How long will Americans tolerate tobacco\u2014and other vices?",
-    "date": "2026-05-04T15:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/obituaries/jack-thornell-dead.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Jack Thornell, Pulitzer Winning A.P. Photographer, Dies",
-    "author": "Adam Nossiter",
-    "link": "https://www.nytimes.com/2026/05/03/obituaries/jack-thornell-dead.html",
-    "content": "Jack Thornhill\u2019s Pulitzer Prize-winning photo showing the civil rights activist James Meredith on the ground after being shot in Hernando, Miss., on June 6, 1966. He is looking at the man who shot him, hiding in the woods.",
-    "date": "2026-05-04T13:40:37",
     "category": "NYT"
   }
 ]
