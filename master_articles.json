@@ -140,6 +140,16 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=233183",
+    "feed_name": "Texas Tribune",
+    "title": "Midland shooting leaves one dead, 10 injured; police say suspect was also killed",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17360130/texas-midland-shooting-suspect-dead",
+    "content": "Residents had been urged to shelter in place as police responded.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17360130.gif\" width=\"1\" />",
+    "date": "2026-06-12T16:55:32",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/12/movies/blake-lively-legal-fees-ruling-justin-baldoni-settlement.html",
     "feed_name": "NYT (Arts)",
     "title": "Blake Lively Awarded Legal Fees in Ruling After Justin Baldoni Settlement",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/well/cavity-filling-second-opinion.html",
     "content": "How to weigh your dental options.",
     "date": "2026-05-04T17:03:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/us/politics/us-army-arctic-cold.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The U.S. Army\u2019s \u2018Big Experiment\u2019 in the Arctic Cold",
-    "author": "Greg Jaffe and Kenny Holston",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/us-army-arctic-cold.html",
-    "content": "How would soldiers from places like Florida, Texas and Georgia fight and persevere in temperatures as low as minus 40 degrees?",
-    "date": "2026-05-04T17:02:19",
     "category": "NYT"
   }
 ]
