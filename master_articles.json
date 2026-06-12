@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/ottolenghi-nectarines-summer-dessert",
+    "feed_name": "NYT (Food)",
+    "title": "Nectarines Are the Secret Ingredient to This Summer Dessert",
+    "author": "Yotam Ottolenghi",
+    "link": "https://cooking.nytimes.com/article/ottolenghi-nectarines-summer-dessert",
+    "content": "When he couldn\u2019t find apricots, the chef turned to nectarines for this special and surprisingly unfussy dessert.",
+    "date": "2026-06-12T17:53:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=19288",
     "feed_name": "Stratechery",
     "title": "2026.24: Hey Siri, Tell Me a Fable",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/us/politics/homeland-security-smartphones-inspector-general.html",
     "content": "The inspector general\u2019s report found that 76 percent of apps installed on devices used by the department\u2019s intelligence office posed security risks, were prohibited or allowed prohibited activities.",
     "date": "2026-05-04T17:11:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/well/cavity-filling-second-opinion.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Cavity Doesn\u2019t Always Need a Filling",
-    "author": "Erik Vance",
-    "link": "https://www.nytimes.com/2026/05/04/well/cavity-filling-second-opinion.html",
-    "content": "How to weigh your dental options.",
-    "date": "2026-05-04T17:03:46",
     "category": "NYT"
   }
 ]
