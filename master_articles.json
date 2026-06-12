@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/11/theater/review-romeo-juliet-shakespeare-in-the-park.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: \u2018Romeo & Juliet\u2019 Find Too Little Love in the Park",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/06/11/theater/review-romeo-juliet-shakespeare-in-the-park.html",
+    "content": "From left, Ra\u2019Mya Latiah Aikens as Juliet, Francis Jue as Friar Lawrence and Daniel Bravo Hern\u00e1ndez as Romeo in the play \u201cRomeo and Juliet\u201d at the Delacorte Theater in New York.",
+    "date": "2026-06-12T02:31:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html",
     "feed_name": "NYT (Arts)",
     "title": "Kennedy Center Votes to Appeal Order That Trump\u2019s Name Be Removed",
@@ -19986,16 +19996,6 @@
     "author": "ByBrenda Hillman",
     "link": "https://www.newyorker.com/magazine/2026/05/11/1970-brenda-hillman-poem",
     "content": "\u201cYour hair is a yard long. Blue work shirt. Ripped jeans.\u201d",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "faf0174bd7183cd208c10009ac9af372",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-may-11-and-18-2026-issue",
-    "content": "Drawings from the May 11 & 18, 2026, magazine.",
     "date": "2026-05-04T11:50:54",
     "category": "Magazines"
   }
