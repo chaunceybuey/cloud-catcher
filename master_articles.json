@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/12/arts/music/james-blood-ulmer-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "James Blood Ulmer, Guitarist Who Smashed Through Genres, Dies at 86",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/james-blood-ulmer-dead.html",
+    "content": "James Blood Ulmer in 1990. The New York Times called him \u201cthe most original electric guitarist to emerge since the late Jimi Hendrix.\u201d",
+    "date": "2026-06-12T19:47:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20511-gilbert-sullivan-patience-summer-grand-production",
     "feed_name": "KMFA",
     "title": "Gilbert &amp; Sullivan: Patience | Summer Grand Production",
@@ -138,6 +148,16 @@
     "content": "Paul Lightfoot and Sol Le\u00f3n brought their blend of stretched balletic line and idiosyncratic gesture to London with a new work inspired by daily ballet class exercises.",
     "date": "2026-06-12T18:46:17",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233210",
+    "feed_name": "Texas Tribune",
+    "title": "Democratic nominee for General Land Office diagnosed with cancer",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17360181/democrat-candidate-general-land-office-benjamin-flores-texas-leukemia",
+    "content": "Benjamin Flores, Democratic nominee for Texas Land Commissioner, speaks during a Texas Together Rally at Cine El Rey in McAllen, Texas on March 9, 2026.\nGabriel V. C\u00e1rdenas for The Texas Tribune",
+    "date": "2026-06-12T18:43:14",
+    "category": "Texas"
   },
   {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8786295#p8786295",
@@ -19978,25 +19998,5 @@
     "content": "The Supreme Court has for now restored nationwide access to a widely used abortion pill.",
     "date": "2026-05-04T18:04:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/opinion/california-governor-election.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Could California Really Elect a Republican Governor? This Race Has Become a Hot Mess.",
-    "author": "Michelle Cottle",
-    "link": "https://www.nytimes.com/2026/05/04/opinion/california-governor-election.html",
-    "content": "Why is the country\u2019s most populous state stuck with such a bad choice for governor?",
-    "date": "2026-05-04T18:03:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228911",
-    "feed_name": "Texas Tribune",
-    "title": "Civil rights groups sue to stop Texas immigration law",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17332321/texas-senate-bill-4-lawsuit",
-    "content": "The Texas Capitol on March 19, 2026.",
-    "date": "2026-05-04T18:03:05",
-    "category": "Texas"
   }
 ]
