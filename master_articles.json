@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233246",
+    "feed_name": "Texas Tribune",
+    "title": "Lt. Gov. Dan Patrick says James Talarico will \u201cgo to hell\u201d for his view of the Bible",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17360232/dan-patrick-james-talarico-go-to-hell-texas-senate-gop-convention",
+    "content": "Lt. Gov. Dan Patrick speaks to delegates and attendees at the 2026 Texas State Republican Convention on Friday, June 12, 2026 in Houston.",
+    "date": "2026-06-12T21:05:01",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233240",
+    "feed_name": "Texas Tribune",
+    "title": "At GOP convention, Abbott vows to \u201cdemolish\u201d Democrats, calls for crackdown on H-1B visas and Sharia law",
+    "author": "By Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17360233/texas-gop-convention-greg-abbott-demolish-democrats-james-talarico-2027-legislature",
+    "content": "Gov. Greg Abbott speaks to delegates and attendees at the 2026 Texas Republican Convention on June 12, 2026, in Houston.",
+    "date": "2026-06-12T20:35:38",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/12/theater/charles-dennis-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Charles Dennis, a Founder of the Avant-Garde Space P.S. 122, Dies at 77",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/sports/john-sterling-dead.html",
     "content": "John Sterling, the Yankees play-by-play announcer for over 30 years, in the broadcast booth at Yankee Stadium in 2009. He retired abruptly early in the 2024 season, saying he did not have the stamina to continue.",
     "date": "2026-05-04T18:58:25",
-    "category": "NYT"
-  },
-  {
-    "id": "2c6e3662-5733-4102-923e-0c65e0000354",
-    "feed_name": "Economist",
-    "title": "Bad government statistics can cost the economy billions",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/04/bad-government-statistics-can-cost-the-economy-billions",
-    "content": "A new study tries to put a number on the value of reliable numbers",
-    "date": "2026-05-04T18:21:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/opinion/ai-national-security-risk-politics.html",
-    "feed_name": "NYT (Shared)",
-    "title": "This Is What Should Unite the Right and the Left on A.I.",
-    "author": "Dean Ball and Ben Buchanan",
-    "link": "https://www.nytimes.com/2026/05/04/opinion/ai-national-security-risk-politics.html",
-    "content": "Both parties can agree to do a whole lot on A.I., but they have to move faster.",
-    "date": "2026-05-04T18:07:20",
     "category": "NYT"
   }
 ]
