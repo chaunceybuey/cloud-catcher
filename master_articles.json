@@ -240,6 +240,16 @@
     "category": "NYT"
   },
   {
+    "id": "1e0b9b7d6d298e8ea633788bccf29f08",
+    "feed_name": "The Atlantic",
+    "title": "The Women Who Don\u2019t Own Clothes",
+    "author": "Annie Joy Williams",
+    "link": "https://www.theatlantic.com/ideas/2026/06/clothing-rental-sustainability-nuuly-shopping/687526/",
+    "content": "The rental service Nuuly is taking over America\u2019s closets.",
+    "date": "2026-06-12T13:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "46842a2538fa6b2c33f8e73e62004cbf",
     "feed_name": "Compact",
     "title": "Dwight Macdonald\u2019s American Century",
@@ -19988,15 +19998,5 @@
     "content": "The boom is not as untethered from reality as it may look.",
     "date": "2026-05-04T16:38:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/us/politics/butler-pennsylvania-assassination-attempt-comperatore.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Widow of the Firefighter Slain by a Would-Be Assassin Speaks Out",
-    "author": "Kate Zernike",
-    "link": "https://www.nytimes.com/2026/05/03/us/politics/butler-pennsylvania-assassination-attempt-comperatore.html",
-    "content": "The conspiracy theories around the Butler, Pa., assassination attempt hurt Helen Comperatore, but in this age of distrust, partisanship and social media, she nurtures a conspiracy theory of her own.",
-    "date": "2026-05-04T16:31:03",
-    "category": "NYT"
   }
 ]
