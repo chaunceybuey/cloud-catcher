@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/12/arts/television/late-night-trump-birthday-ufc.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Prepares for Trump\u2019s U.F.C. Birthday Fight at the White House",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/12/arts/television/late-night-trump-birthday-ufc.html",
+    "content": "Jimmy Fallon called the president \u201cthe only 80-year-old yelling, \u2018Get on my lawn!\u2019\u201d",
+    "date": "2026-06-12T05:55:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8785919#p8785919",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19986,16 +19996,6 @@
     "author": "ByJustin Chang",
     "link": "https://www.newyorker.com/2026/05/11/the-devil-wears-prada-2-review",
     "content": "The sequel, which reunites Anne Hathaway, Meryl Streep, and Emily Blunt, is familiar and at times preposterous\u2014but it\u2019s also a savvy, shiny reflection of our era.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "dcc34f3b63eebcba12e1f0e717a50ce5",
-    "feed_name": "New Yorker",
-    "title": "\u201cWhile My Daughter Is in Surgery I Think About a Night in a Hotel in Florence\u201d",
-    "author": "ByEllen Bass",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/while-my-daughter-is-in-surgery-i-think-about-a-night-in-a-hotel-in-florence-ellen-bass-poem",
-    "content": "\u201cShe\u2019d bought a black leather jacket from a stall on the Ponte Vecchio.\u201d",
     "date": "2026-05-04T11:50:54",
     "category": "Magazines"
   }
