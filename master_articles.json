@@ -130,12 +130,52 @@
     "category": "Texas"
   },
   {
+    "id": "46842a2538fa6b2c33f8e73e62004cbf",
+    "feed_name": "Compact",
+    "title": "Dwight Macdonald\u2019s American Century",
+    "author": "",
+    "link": "https://www.compactmag.com/article/dwight-macdonalds-american-century/",
+    "content": "",
+    "date": "2026-06-12T12:27:01",
+    "category": "Magazines"
+  },
+  {
+    "id": "f150d1eb1a01446e8138736721ec12e7",
+    "feed_name": "The Atlantic",
+    "title": "The National Debt Is Raising Borrowing Costs for Everyone",
+    "author": "Martha Gimbel",
+    "link": "https://www.theatlantic.com/ideas/2026/06/national-debt-affordability-legislation/687517/",
+    "content": "Consumers are already paying the price for the government\u2019s deficits.",
+    "date": "2026-06-12T11:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a284bde4604dbd290099846",
     "feed_name": "Wired (Science)",
     "title": "Why Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg\u2019s New Movie",
     "author": "Nathaniel Janowitz",
     "link": "https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie/",
     "content": "Previous landmark scientific discoveries like the Higgs boson provide a better template for what it will take to confirm whether aliens have made contact with Earth.",
+    "date": "2026-06-12T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "e4129d9a05e2807c602360816cab7083",
+    "feed_name": "The Atlantic",
+    "title": "The Data-Center Panic Is Overblown",
+    "author": "Elias Wachtel",
+    "link": "https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/",
+    "content": "Critics are inflating the costs.",
+    "date": "2026-06-12T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "7b9ed75eb6a704b90d0a414884a8da72",
+    "feed_name": "The Atlantic",
+    "title": "The Boeing 747 Begins Its Final Descent",
+    "author": "Ian Bogost",
+    "link": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+    "content": "The jet was perhaps the pinnacle of American engineering excellence. Its retirement signals an end to an era of American culture\u2014and ambition.",
     "date": "2026-06-12T11:00:00",
     "category": "Magazines"
   },
@@ -19956,46 +19996,6 @@
     "author": "ByJelani Cobb",
     "link": "https://www.newyorker.com/magazine/2026/05/11/two-hundred-and-fifty-years-of-complicated-commemorations",
     "content": "Donald Trump\u2019s aversion to admitting fault suggests that we will not likely see events that grapple with the nuanced nature of the nation\u2019s history this July 4th.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "d1d074151c8b7855db69e51782349c30",
-    "feed_name": "New Yorker",
-    "title": "Colbert\u2019s Trumpet Player on Life After Late Night",
-    "author": "ByMark Yarm",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/colberts-trumpet-player-on-life-after-late-night",
-    "content": "Since 2015, Jon Lampley has played in the house band of \u201cThe Late Show,\u201d which CBS unceremoniously cancelled. As the final episode looms, he takes a look back.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "a56a64b585becc5b8f99769e94570207",
-    "feed_name": "New Yorker",
-    "title": "Is the Twenty-fifth AmendmentReallyan Option?",
-    "author": "ByDiego Lasarte",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/is-the-twenty-fifth-amendment-really-an-option",
-    "content": "After J.F.K.\u2019s assassination, a neophyte lawyer named John Feerick was summoned to Washington to draft the provision. Now everyone wants him to weigh in on booting Trump from office.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "3e4ae620217b373ee95469a22a704330",
-    "feed_name": "New Yorker",
-    "title": "On the High Line, Buddha Is the New Giant Pigeon",
-    "author": "ByJulian Lucas",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/on-the-high-line-buddha-is-the-new-giant-pigeon",
-    "content": "After the bird sculpture flew the Chelsea coop, the curator Cecilia Alemani oversaw the installation of a new work\u2014a sacred sandstone colossus, based on one destroyed by the Taliban.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "7313062bc4972d47513da2393f48004c",
-    "feed_name": "New Yorker",
-    "title": "In HBO\u2019s \u201cThe Dark Wizard,\u201d Dean Potter Climbs On",
-    "author": "ByNick Paumgarten",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/in-hbos-the-dark-wizard-dean-potter-climbs-on",
-    "content": "TheBASEjumper died in a tragic accident in 2015, the day before he was to accept an award for performance art. A new docuseries explores his life and legacy.",
     "date": "2026-05-04T11:50:54",
     "category": "Magazines"
   }
