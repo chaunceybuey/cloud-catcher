@@ -130,6 +130,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/12/arts/music/igor-levit-no-silence.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Pianist Igor Levit Bets Big on Recordings With His Own Label",
+    "author": "Anastasia Tsioulcas",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/igor-levit-no-silence.html",
+    "content": "The pianist Igor Levit, who is partnering with his longtime label, Sony, on the new imprint No Silence.",
+    "date": "2026-06-12T09:05:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/movies/steven-spielberg-disclosure-day-clip.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Steven Spielberg on How to Build Suspense in \u2018Disclosure Day\u2019",
+    "author": "Mekado Murphy",
+    "link": "https://www.nytimes.com/2026/06/12/movies/steven-spielberg-disclosure-day-clip.html",
+    "content": "The director narrates a scene from his movie that is a continuation, of sorts, of a sequence he filmed for his feature-length debut, \u201cDuel,\u201d in 1971.",
+    "date": "2026-06-12T09:05:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/movies/new-movies-this-week-critics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "7 New Movies Our Critics Are Talking About This Week",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/06/12/movies/new-movies-this-week-critics.html",
+    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+    "date": "2026-06-12T09:05:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/arts/music/slayyyter-interview-popcast.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Slayyyter Had One Last Chance for Pop Stardom, and She Nailed It",
+    "author": "Jon Caramanica, Joe Coscarelli and Caroline Tompkins",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/slayyyter-interview-popcast.html",
+    "content": "After a few attempts that didn\u2019t fully connect, the St. Louis singer was ready to walk away, but not before making a raw album of thrashed pop, \u201cWorst Girl in America.\u201d",
+    "date": "2026-06-12T09:05:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/movies/the-furious-action-scene.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How \u2018The Furious\u2019 Somersaults Through a Wild Action Scene",
+    "author": "Mekado Murphy",
+    "link": "https://www.nytimes.com/2026/06/12/movies/the-furious-action-scene.html",
+    "content": "The new movie is packed with showstopping action, but one standout sequence has our hero rolling over a pyramid of henchmen. Here\u2019s what it took.",
+    "date": "2026-06-12T09:04:55",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/books/most-saved-books-summer.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Books Times Readers Are Most Excited About This Summer",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/06/12/books/most-saved-books-summer.html",
+    "content": "Lush historical fiction, gripping thrillers, true crime, laugh-out-loud essays and more: Here are the books you\u2019ve saved most to your reading lists.",
+    "date": "2026-06-12T09:04:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/movies/100000010945475/disclosure-day-anatomy-of-a-scene.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Disclosure Day\u2019 | Anatomy of a Scene",
+    "author": "Mekado Murphy, Sutton Raphael, Gabriel Blanco and Edward Vega",
+    "link": "https://www.nytimes.com/video/movies/100000010945475/disclosure-day-anatomy-of-a-scene.html",
+    "content": "The director Steven Spielberg breaks down an action sequence from his new film \u201cDisclosure Day\u201d for Anatomy of a Scene.",
+    "date": "2026-06-12T09:00:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/movies/the-gas-station-attendant-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Gas Station Attendant\u2019 Review: A Daughter\u2019s Questions",
+    "author": "Alissa Wilkinson",
+    "link": "https://www.nytimes.com/2026/06/12/movies/the-gas-station-attendant-review.html",
+    "content": "Karla Murthy retells her Indian dad\u2019s life story to better understand her own in this deeply personal documentary.",
+    "date": "2026-06-12T09:00:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/12/arts/television/late-night-trump-birthday-ufc.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Prepares for Trump\u2019s U.F.C. Birthday Fight at the White House",
@@ -19916,86 +19996,6 @@
     "author": "ByLiana Finck",
     "link": "https://www.newyorker.com/magazine/2026/05/11/mapping-trumps-america",
     "content": "A totally nonpartisan cartographic reinterpretation of the United States.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "c0b8f482ee129a244dad0030a27366aa",
-    "feed_name": "New Yorker",
-    "title": "\u201cStandings\u201d",
-    "author": "ByChang-rae Lee",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/chang-rae-lee-fiction-standings",
-    "content": "We were mostly boys and young enough that the bonds felt fierce, like in a tribe, tourniquet tight, yet our tribe was fuelled by constant disagreements.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "60fb486a2bb8a57fc12f9940cd05a025",
-    "feed_name": "New Yorker",
-    "title": "The American Revolution Wasn\u2019t the Main Event",
-    "author": "ByDaniel Immerwahr",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/republic-and-empire-trevor-burnard-andrew-jackson-oshaughnessy-book-review-freedom-round-the-globe-sarah-pearsall",
-    "content": "Americans have long imagined that they set off a global age of revolt. Seen within the era\u2019s wider wars of empire, the story looks rather different.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "830c68ef1c4732c8497898851219b557",
-    "feed_name": "New Yorker",
-    "title": "The Idea That Reshaped Identity Politics Has a Complicated Backstory",
-    "author": "ByKelefa Sanneh",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/backtalker-kimberle-williams-crenshaw-book-review",
-    "content": "Kimberl\u00e9 Crenshaw gave us the terms \u201cintersectionality\u201d and \u201ccritical race theory.\u201d Her new memoir shows that she isn\u2019t done fighting over what they mean.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "cf57ff7c31afbf47b4fa13841294c12d",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/korean-messiah-small-town-girls-underlake-august-september-october",
-    "content": "\u201cKorean Messiah,\u201d \u201cSmall Town Girls,\u201d \u201cUnderlake,\u201d and \u201cAugust, September, October.\u201d",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "b1ee7122ae87972a2e6160ad68295957",
-    "feed_name": "New Yorker",
-    "title": "The Artist Who Made America Look Like a Promised Land",
-    "author": "BySebastian Smee",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/glorious-country-victoria-johnson-book-review",
-    "content": "Frederic Edwin Church sold a nation on its own mythology. That was his making\u2014and his unmaking.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "b8ef3c496fbd10ec0e148edc12f0dbc8",
-    "feed_name": "New Yorker",
-    "title": "Harriet Clark\u2019s D\u00e9but Is a New Kind of Coming-of-Age Novel",
-    "author": "ByJames Wood",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/the-hill-harriet-clark-book-review",
-    "content": "In \u201cThe Hill,\u201d a daughter comes of age through visits to her imprisoned mother, inheriting the afterlife of a youthful radicalism that shattered her family.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "e773ed8c36775f0d8e7f514d0a698388",
-    "feed_name": "New Yorker",
-    "title": "\u201cSchmigadoon!\u201d and \u201cThe Lost Boys\u201d Are Killer Revamps",
-    "author": "ByEmily Nussbaum",
-    "link": "https://www.newyorker.com/magazine/2026/05/11/the-lost-boys-theatre-review-schmigadoon",
-    "content": "Camp has become the go-to aesthetic for Broadway musicals. These two new shows dare to be sincere.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "d26de0fedee330aa4e9b516652f315aa",
-    "feed_name": "New Yorker",
-    "title": "\u201cThe Devil Wears Prada 2\u201d Gives the Decline of Magazines the Glossy Treatment",
-    "author": "ByJustin Chang",
-    "link": "https://www.newyorker.com/2026/05/11/the-devil-wears-prada-2-review",
-    "content": "The sequel, which reunites Anne Hathaway, Meryl Streep, and Emily Blunt, is familiar and at times preposterous\u2014but it\u2019s also a savvy, shiny reflection of our era.",
     "date": "2026-05-04T11:50:54",
     "category": "Magazines"
   }
