@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Framing David Hockney\u2019s Greatest Art",
+    "author": "Holland Cotter",
+    "link": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html",
+    "content": "Whether in Los Angeles, in his native England or traveling the world, the artist always reinvented the world he saw, with psychological insight.",
+    "date": "2026-06-12T15:31:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/12/arts/music/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review.html",
     "feed_name": "NYT (Arts)",
     "title": "Review: Olivia Rodrigo\u2019s \u2018You Seem Pretty Sad for a Girl So in Love\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/03/obituaries/jack-thornell-dead.html",
     "content": "Jack Thornhill\u2019s Pulitzer Prize-winning photo showing the civil rights activist James Meredith on the ground after being shot in Hernando, Miss., on June 6, 1966. He is looking at the man who shot him, hiding in the woods.",
     "date": "2026-05-04T13:40:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/opinion/platner-trump-democrats.html",
-    "feed_name": "NYT (Shared)",
-    "title": "If Democrats Have Appropriate Fear of Trump, They Will Elect Platner",
-    "author": "Frank Bruni",
-    "link": "https://www.nytimes.com/2026/05/04/opinion/platner-trump-democrats.html",
-    "content": "Don\u2019t let the Platner be the enemy of the good.",
-    "date": "2026-05-04T13:33:16",
     "category": "NYT"
   }
 ]
