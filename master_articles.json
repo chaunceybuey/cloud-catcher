@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/12/arts/music/joe-negri-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Joe Negri, Handyman and Music Maestro on \u2018Mister Rogers,\u2019 Dies at 99",
+    "author": "Michael S. Rosenwald",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/joe-negri-dead.html",
+    "content": "An accomplished jazz guitarist, he appeared on more than 300 episodes of the public television show, playing alongside musicians like Wynton Marsalis and Yo-Yo Ma.",
+    "date": "2026-06-12T14:11:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
     "feed_name": "NYT (Arts)",
     "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
@@ -19988,15 +19998,5 @@
     "content": "The young urban professionals of the 1980s changed our cities, our politics and our meritocratic work lives.",
     "date": "2026-05-04T12:26:55",
     "category": "NYT"
-  },
-  {
-    "id": "42b8aac2739eeebaaa8efee13105e662",
-    "feed_name": "New Yorker",
-    "title": "\u201cHeated Rivalry\u201d and Its Wine-Mom Fans Reunite",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/heated-rivalry-and-its-wine-mom-fans-reunite",
-    "content": "Plus: the radiant pop of MUNA, the visceral paintings of Juanita McNeely, a \u201cBeaches\u201d musical, and more.",
-    "date": "2026-05-04T11:50:54",
-    "category": "Magazines"
   }
 ]
