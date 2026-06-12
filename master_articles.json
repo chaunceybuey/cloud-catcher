@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/12/theater/charles-dennis-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Charles Dennis, a Founder of the Avant-Garde Space P.S. 122, Dies at 77",
+    "author": "Jer\u00e9 Longman",
+    "link": "https://www.nytimes.com/2026/06/12/theater/charles-dennis-dead.html",
+    "content": "A performance artist, dancer, choreographer, videographer, filmmaker and curator, he was a central figure in the downtown Manhattan experimental arts scene.",
+    "date": "2026-06-12T20:34:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/12/arts/music/james-blood-ulmer-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "James Blood Ulmer, Guitarist Who Smashed Through Genres, Dies at 86",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/opinion/ai-national-security-risk-politics.html",
     "content": "Both parties can agree to do a whole lot on A.I., but they have to move faster.",
     "date": "2026-05-04T18:07:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Supreme Court Temporarily Restores Access to Abortion Pill by Mail",
-    "author": "Ann E. Marimow",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html",
-    "content": "The Supreme Court has for now restored nationwide access to a widely used abortion pill.",
-    "date": "2026-05-04T18:04:05",
     "category": "NYT"
   }
 ]
