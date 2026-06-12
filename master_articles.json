@@ -130,6 +130,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/12/arts/music/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: Olivia Rodrigo\u2019s \u2018You Seem Pretty Sad for a Girl So in Love\u2019",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review.html",
+    "content": "Olivia Rodrigo\u2019s third album documents a relationship, from beginning to end.",
+    "date": "2026-06-12T15:02:50",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/dining/spaghetti-carbonara-is-a-classic-for-a-reason.html",
+    "feed_name": "NYT (Food)",
+    "title": "Spaghetti Carbonara Is a Classic for a Reason",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/06/12/dining/spaghetti-carbonara-is-a-classic-for-a-reason.html",
+    "content": "Ian Fisher's spaghetti carbonara.",
+    "date": "2026-06-12T15:00:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/movies/action-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Action Movies to Stream Now",
+    "author": "Robert Daniels",
+    "link": "https://www.nytimes.com/2026/06/12/movies/action-movies-streaming.html",
+    "content": "A still from \u201cBeast,\u201d featuring Daniel MacPherson.",
+    "date": "2026-06-12T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/12/arts/music/taylor-swift-songwriters-hall-speech.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Taylor Swift Enters the Songwriters Hall of Fame With Tears, Jokes and a Warning",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/taylor-swift-songwriters-hall-speech.html",
+    "content": "In a speech, Taylor Swift called songwriting \u201cpretty much the only thing I ever just naturally did.\u201d",
+    "date": "2026-06-12T14:47:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-washington-national-opera-lawsuit-endowment.html",
     "feed_name": "NYT (Arts)",
     "title": "Opera Company Sues to Collect $17 Million From the Kennedy Center",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/opinion/platner-trump-democrats.html",
     "content": "Don\u2019t let the Platner be the enemy of the good.",
     "date": "2026-05-04T13:33:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/us/mariachi-brothers-ice-kacey-musgraves-texas.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Mariachi Brothers Detained by ICE Invited to Open for Kacey Musgraves After Release",
-    "author": "Edgar Sandoval",
-    "link": "https://www.nytimes.com/2026/05/03/us/mariachi-brothers-ice-kacey-musgraves-texas.html",
-    "content": "The G\u00e1mez-Cu\u00e9llar family took the stage to open at Gruene Hall in New Braunfels, Texas, on Sunday.",
-    "date": "2026-05-04T13:27:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/travel/italy-surreal-land-art-gardens.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Surreal, Cryptic and Just Plain Strange: 4 Fantastical Places in Italy",
-    "author": "Laura Rysman",
-    "link": "https://www.nytimes.com/2026/05/04/travel/italy-surreal-land-art-gardens.html",
-    "content": "In Tuscany, at a sculpture park called the Tarot Garden, which was created by the artist Niki de Saint Phalle, a hulking monster-like sculpture marks the entrance to the park with a waterfall spilling from its mouth.",
-    "date": "2026-05-04T13:21:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/us/politics/utah-homeless-camp-stalls.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Backed Forced Treatment for Homeless People. Utah Shows the Challenges.",
-    "author": "Jason DeParle",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/utah-homeless-camp-stalls.html",
-    "content": "Tyler Clancy, Utah\u2019s new homelessness coordinator, is leading the state\u2019s effort to design a plan to serve \u201chigh utilizers\u201d of public services, increase shelter and housing capacity, and expand mental health care.",
-    "date": "2026-05-04T13:08:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Bison Have Grazed These Lands for Centuries. Trump Wants to Evict Them.",
-    "author": "Jack Healy",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
-    "content": "The Trump administration is evicting bison herds from federal grasslands in Montana, siding with ranchers and Republican leaders over environmentalists and tribal leaders.",
-    "date": "2026-05-04T12:35:07",
     "category": "NYT"
   }
 ]
