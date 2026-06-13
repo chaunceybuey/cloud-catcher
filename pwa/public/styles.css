@@ -361,12 +361,72 @@ body {
     padding: 0 clamp(1.25rem, 5vw, 5rem);
     min-height: 0;
 }
+
 .reader-pages {
+    box-sizing: border-box; /* Crucial for keeping bottom padding within JS-calculated bounds */
     column-fill: auto;
     font-size: var(--reader-font-size, 1.2rem);
     line-height: 1.8;
     color: #7A7A7A;
-    padding: 2.5rem 0 3rem;
+    padding: 2.5rem 0 6rem; /* Substantially increased bottom padding */
+}
+
+/* ═══ Anti-Drift & Layout Protection ═══ */
+.reader-pages * {
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+}
+
+.reader-pages p,
+.reader-pages div:not(.article-header-title):not(.article-header-meta):not(.article-header-author),
+.reader-pages blockquote,
+.reader-pages pre,
+.reader-pages section,
+.reader-pages header,
+.reader-pages footer,
+.reader-pages table {
+    max-width: 100% !important;
+}
+
+/* ═══ Image & Caption Overlap Fixes ═══ */
+.reader-pages img, 
+.reader-pages picture, 
+.reader-pages video, 
+.reader-pages iframe { 
+    display: block !important;
+    position: static !important; /* Strips absolute positioning that causes text overlap */
+    clear: both !important;      /* Clears any embedded floats */
+    max-width: 100% !important; 
+    height: auto !important;
+    border-radius: 0.5rem; 
+    margin: 1.5em auto !important; 
+    opacity: 0.85; 
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+.reader-pages figure { 
+    display: block !important;
+    position: static !important;
+    clear: both !important;
+    max-width: 100% !important;
+    margin: 1.5em 0 !important; 
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+.reader-pages figcaption,
+.reader-pages .caption { 
+    display: block !important;
+    position: static !important;
+    clear: both !important;
+    width: 100% !important;
+    font-size: 0.8rem !important; 
+    color: #5A5F67 !important; 
+    font-style: italic !important; 
+    text-align: center !important; 
+    margin: 0.5em auto 1.5em !important; 
+    padding: 0 !important;
 }
 
 /* ═══ Newsletter Inline Style Overrides ═══ */
@@ -441,9 +501,6 @@ body {
     border-bottom: 1px solid #1a1a1a;
 }
 .reader-pages a { color: #D94A00 !important; text-decoration: none !important; }
-.reader-pages img { max-width: 100%; border-radius: 0.5rem; margin: 1em 0; opacity: 0.85; }
-.reader-pages figure { margin: 1em 0; break-inside: avoid; }
-.reader-pages figcaption { font-size: 0.8rem; color: #5A5F67; font-style: italic; text-align: center; margin-top: 0.4rem; }
 
 .page-indicator {
     position: absolute;
@@ -484,7 +541,6 @@ body {
 .audio-card-status.pending { color: #5A5F67; }
 .audio-card-status.error { color: #ff4444; }
 
-/* (bottom nav removed — audio is in the mode dropdown) */
 
 /* ═══ E-ink Mode ═══ */
 body.eink {
