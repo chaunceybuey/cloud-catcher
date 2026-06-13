@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/13/arts/david-plowden-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "David Plowden, Who Photographed a Disappearing America, Dies at 93",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/06/13/arts/david-plowden-dead.html",
+    "content": "With his haunting images of steam locomotives, steel mills and Midwestern farms, the celebrated lensman revealed the poetry in the artifacts of manual labor.",
+    "date": "2026-06-13T16:56:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-los-angeles-pool-paintings.html",
     "feed_name": "NYT (Arts)",
     "title": "How David Hockney Taught a City to See Itself",
@@ -19988,15 +19998,5 @@
     "content": "Secretary of State Marco Rubio, left, with President Rodrigo Chaves of Costa Rica last year.",
     "date": "2026-05-05T00:13:55",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228999",
-    "feed_name": "Texas Tribune",
-    "title": "Texas leads nation in utility shutoffs as electric bills rise, federal report finds",
-    "author": "By David Martin Davies,\u00a0Texas Public Radio",
-    "link": "https://feeds.texastribune.org/link/16799/17332491/texas-electric-bills-utility-shutoffs-lead-nation",
-    "content": "A meter box in Brady. According to a new federal report, Texas had more residential electricity shutoffs than any other state in 2024.",
-    "date": "2026-05-04T23:24:14",
-    "category": "Texas"
   }
 ]
