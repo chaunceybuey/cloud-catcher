@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/13/arts/houston-museum-black-art-vandalized.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Vandals Damage Work by Black Artist at Houston Museum, Officials Say",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/06/13/arts/houston-museum-black-art-vandalized.html",
+    "content": "The damaged painting, \u201cMan in the Garden\u201d by the artist Clarence Heyward, was part of an exhibition called \u201cEden.\u201d",
+    "date": "2026-06-13T18:07:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/arts/david-plowden-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "David Plowden, Who Photographed a Disappearing America, Dies at 93",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/science/rfk-antidepressants-ssris-hhs-maha.html",
     "content": "Monday\u2019s announcements were Health Secretary Kennedy\u2019s first significant step to reduce the use of antidepressants.",
     "date": "2026-05-05T00:29:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/world/americas/costa-rica-newspaper-us-visas.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Revokes Visas of Board Members at Costa Rica\u2019s Top Watchdog Newspaper",
-    "author": "Emiliano Rodr\u00edguez Mega",
-    "link": "https://www.nytimes.com/2026/05/04/world/americas/costa-rica-newspaper-us-visas.html",
-    "content": "Secretary of State Marco Rubio, left, with President Rodrigo Chaves of Costa Rica last year.",
-    "date": "2026-05-05T00:13:55",
     "category": "NYT"
   }
 ]
