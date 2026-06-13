@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/13/dining/a-dinner-for-people-who-like-to-press-on-things.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Dinner for People Who Like to Press on Things",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/13/dining/a-dinner-for-people-who-like-to-press-on-things.html",
+    "content": "Ashley Lonsdale\u2019s smashed chicken with corn and cabbage.",
+    "date": "2026-06-13T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/dining/ben-mims-loves-an-erewhon-brownie.html",
     "feed_name": "NYT (Food)",
     "title": "Ben Mims Loves an Erewhon Brownie",
@@ -19988,15 +19998,5 @@
     "content": "Gov. Greg Abbott signs SB2 authorizing educational savings accounts (ESAs) during a ceremony at the Governor&#039;s Mansion in Austin on May 3, 2025.",
     "date": "2026-05-04T22:45:28",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
-    "feed_name": "NYT (Shared)",
-    "title": "White House Considers Vetting A.I. Models Before They Are Released",
-    "author": "Tripp Mickle, Julian E. Barnes, Sheera Frenkel and Dustin Volz",
-    "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
-    "content": "The Trump administration\u2019s shift in policy began after Anthropic introduced a powerful artificial intelligence model called Mythos.",
-    "date": "2026-05-04T22:37:29",
-    "category": "NYT"
   }
 ]
