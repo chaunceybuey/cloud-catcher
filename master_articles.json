@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/13/dining/ben-mims-loves-an-erewhon-brownie.html",
+    "feed_name": "NYT (Food)",
+    "title": "Ben Mims Loves an Erewhon Brownie",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/06/13/dining/ben-mims-loves-an-erewhon-brownie.html",
+    "content": "Melissa Clark\u2019s easy buttermilk peach cobbler.",
+    "date": "2026-06-13T14:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "69812badf142ca1521c8266975810632",
+    "feed_name": "The Atlantic",
+    "title": "Why Calls to \u2018Save Democracy\u2019 Don\u2019t Work",
+    "author": "Katy Osborn",
+    "link": "https://www.theatlantic.com/ideas/2026/06/democracy-government-trump-maga/687535/",
+    "content": "Trump voters don\u2019t care to defend institutions that they see as illegitimate.",
+    "date": "2026-06-13T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
     "feed_name": "Douthat",
     "title": "Do U.F.O.s Usurp Religion?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
     "content": "The Trump administration\u2019s shift in policy began after Anthropic introduced a powerful artificial intelligence model called Mythos.",
     "date": "2026-05-04T22:37:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/nyregion/nyc-fire-inwood.html",
-    "feed_name": "NYT (Shared)",
-    "title": "3 Killed and 14 Injured in Upper Manhattan Fire",
-    "author": "Ashley Southall and Anusha Bayya",
-    "link": "https://www.nytimes.com/2026/05/04/nyregion/nyc-fire-inwood.html",
-    "content": "The fire was reported at 207 Dyckman Street shortly after midnight on Monday.",
-    "date": "2026-05-04T22:36:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/us/politics/judge-dubose-trump-administration-attacks.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Judge Slams Trump Administration for \u2018Serious Breakdown\u2019 in Legal Ethics",
-    "author": "Mattathias Schwartz",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/judge-dubose-trump-administration-attacks.html",
-    "content": "Trump administration officials had not told Judge Melissa R. DuBose that the man she was about to release on bond was wanted for murder in the Dominican Republic.",
-    "date": "2026-05-04T22:15:48",
     "category": "NYT"
   }
 ]
