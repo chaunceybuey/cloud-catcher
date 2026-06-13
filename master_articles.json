@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-los-angeles-pool-paintings.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How David Hockney Taught a City to See Itself",
+    "author": "Jori Finkel",
+    "link": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-los-angeles-pool-paintings.html",
+    "content": "David Hockney repainted his own pool \u2014 and signed and dated it July 8, 2017, the day before his 80th birthday.",
+    "date": "2026-06-13T16:41:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/dining/a-dinner-for-people-who-like-to-press-on-things.html",
     "feed_name": "NYT (Food)",
     "title": "A Dinner for People Who Like to Press on Things",
@@ -19988,15 +19998,5 @@
     "content": "A meter box in Brady. According to a new federal report, Texas had more residential electricity shutoffs than any other state in 2024.",
     "date": "2026-05-04T23:24:14",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/climate/east-potomac-golf-debris-toxic.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Soil at D.C. Golf Course Where East Wing Debris Was Dumped Contains Toxic Metals",
-    "author": "Maxine Joselow",
-    "link": "https://www.nytimes.com/2026/05/04/climate/east-potomac-golf-debris-toxic.html",
-    "content": "Golfing in view of a dump site of debris and soil from the demolition of the White House\u2019s East Wing at the East Potomac Golf Course in Washington in January.",
-    "date": "2026-05-04T22:48:03",
-    "category": "NYT"
   }
 ]
