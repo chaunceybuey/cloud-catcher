@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood\u2019s Shadow",
+    "author": "Matina Stevis-Gridneff and Cole Burston",
+    "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
+    "content": "The actor Robbie Graham-Kunz speaking with fans outside the 14th Canadian Screen Awards in Toronto.",
+    "date": "2026-06-13T14:41:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/dining/ben-mims-loves-an-erewhon-brownie.html",
     "feed_name": "NYT (Food)",
     "title": "Ben Mims Loves an Erewhon Brownie",
@@ -19988,15 +19998,5 @@
     "content": "Golfing in view of a dump site of debris and soil from the demolition of the White House\u2019s East Wing at the East Potomac Golf Course in Washington in January.",
     "date": "2026-05-04T22:48:03",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228992",
-    "feed_name": "Texas Tribune",
-    "title": "Nearly 96,000 students receiving Texas school voucher award notices",
-    "author": "Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17332480/texas-launches-school-vouchers-esa-choice",
-    "content": "Gov. Greg Abbott signs SB2 authorizing educational savings accounts (ESAs) during a ceremony at the Governor&#039;s Mansion in Austin on May 3, 2025.",
-    "date": "2026-05-04T22:45:28",
-    "category": "Texas"
   }
 ]
