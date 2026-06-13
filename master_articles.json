@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
+    "feed_name": "Douthat",
+    "title": "Do U.F.O.s Usurp Religion?",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
+    "content": "Steven Spielberg\u2019s \u2018Disclosure Day\u2019 and the God-and-aliens debate.",
+    "date": "2026-06-13T11:00:22",
+    "category": "NYT"
+  },
+  {
+    "id": "6a1db97a1af38c2b401a5d28",
+    "feed_name": "Wired (Science)",
+    "title": "How Can Soccer Players Bend Their Shots in Midair?",
+    "author": "Rhett Allain",
+    "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
+    "content": "As World Cup action kicks off, we look at the physics of the beautiful game.",
+    "date": "2026-06-13T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "220eaba8eec54b56536a13712f789332",
+    "feed_name": "The Atlantic",
+    "title": "The Emperor Has No Ludus Magnus",
+    "author": "Cullen Murphy",
+    "link": "https://www.theatlantic.com/ideas/2026/06/trump-gladiator-fight-ufc/687531/",
+    "content": "The most notable thing about President Trump\u2019s South Lawn fight is its curious lack of ambition.",
+    "date": "2026-06-13T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/arts/music/jack-white-sylvan-esso-songs.html",
     "feed_name": "NYT (Arts)",
     "title": "Jack White, Sylvan Esso: Songs to Know This Week",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/us/politics/judge-dubose-trump-administration-attacks.html",
     "content": "Trump administration officials had not told Judge Melissa R. DuBose that the man she was about to release on bond was wanted for murder in the Dominican Republic.",
     "date": "2026-05-04T22:15:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228947",
-    "feed_name": "Texas Tribune",
-    "title": "\u201cClassic unfunded mandate\u201d: San Antonio school districts reveal costs of new seat belt requirements",
-    "author": "By Xochilt Garcia,\u00a0San Antonio Report",
-    "link": "https://feeds.texastribune.org/link/16799/17332418/classic-unfunded-mandate-san-antonio-school-districts-reveal-costs-of-new-seat-belt-requirements",
-    "content": "A Northside ISD public school bus is stopped and parked outside of an elementary school in a student pick up and drop off crossing.",
-    "date": "2026-05-04T21:53:46",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "China Seeks an Advantage With Both Trump and Iran as War Evolves",
-    "author": "Edward Wong",
-    "link": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
-    "content": "A government-organized march in Tehran on Wednesday in support of Iran\u2019s new supreme leader, Ayatollah Mojtaba Khamenei.",
-    "date": "2026-05-04T21:33:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/climate/hunting-federal-lands-burgum.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Administration Orders Rapid End to Hunting Regulations on Federal Lands",
-    "author": "Lisa Friedman",
-    "link": "https://www.nytimes.com/2026/05/04/climate/hunting-federal-lands-burgum.html",
-    "content": "Curecanti National Recreation Area in Colorado, where a prohibition on discharging firearms around trails is one of dozens of hunting regulations that will be taken off the books.",
-    "date": "2026-05-04T21:11:01",
     "category": "NYT"
   }
 ]
