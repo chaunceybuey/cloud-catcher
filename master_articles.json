@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/13/theater/dito-van-reigersberg-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dito van Reigersberg, Avant-Garde and Drag Virtuoso, Dies at 53",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/06/13/theater/dito-van-reigersberg-dead.html",
+    "content": "A co-founder of Pig Iron Theater Company, known for its surreal productions, he also gave energetic performances as his alter ego, Martha Graham Cracker.",
+    "date": "2026-06-13T19:32:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/arts/houston-museum-black-art-vandalized.html",
     "feed_name": "NYT (Arts)",
     "title": "Vandals Damage Work by Black Artist at Houston Museum, Officials Say",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html",
     "content": "A law enforcement officer at the scene of a shooting near the Washington Monument on Monday.",
     "date": "2026-05-05T01:13:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/science/rfk-antidepressants-ssris-hhs-maha.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Kennedy Starts a Push to Help Americans Quit Antidepressants",
-    "author": "Ellen Barry",
-    "link": "https://www.nytimes.com/2026/05/04/science/rfk-antidepressants-ssris-hhs-maha.html",
-    "content": "Monday\u2019s announcements were Health Secretary Kennedy\u2019s first significant step to reduce the use of antidepressants.",
-    "date": "2026-05-05T00:29:44",
     "category": "NYT"
   }
 ]
