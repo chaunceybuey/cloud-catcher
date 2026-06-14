@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/14/style/heathcliff-comic-strip-new-fans.html",
+    "feed_name": "NYT (Arts)",
+    "title": "He Made \u2018Heathcliff\u2019 Absurd",
+    "author": "Calum Marsh",
+    "link": "https://www.nytimes.com/2026/06/14/style/heathcliff-comic-strip-new-fans.html",
+    "content": "Peter Gallagher in his basement office, which he calls \u201cthe Dungeon.\u201d",
+    "date": "2026-06-14T11:55:21",
+    "category": "NYT"
+  },
+  {
+    "id": "dd80b4b1668c02abba4d789801cd7186",
+    "feed_name": "The Atlantic",
+    "title": "So Much for Leaving Abortion Up to the States",
+    "author": "Adam Serwer",
+    "link": "https://www.theatlantic.com/ideas/2026/06/mifepristone-abortion-pill-access-impossible/687519/",
+    "content": "Louisiana\u2019s case against the FDA is not just about one drug.",
+    "date": "2026-06-14T11:31:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a2c7d93a150560dc8a57d7d",
     "feed_name": "Wired (Science)",
     "title": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren\u2019t Oil Prices Higher?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
     "content": "The cruise ship MV Hondius stationed off the port of Praia, Cape Verde, on Sunday.",
     "date": "2026-05-05T06:16:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
-    "author": "Nataliya Vasilyeva and Matina Stevis-Gridneff",
-    "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
-    "content": "Damage to a high-rise residential building after a drone attack in Moscow on Monday.",
-    "date": "2026-05-05T04:58:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "What a Bike Ride in Cape Town Taught Me About Apartheid",
-    "author": "John Eligon and Tommy Trenchard",
-    "link": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
-    "content": "A New York Times reporter joined a group of cyclists on a route meant to break down Cape Town\u2019s lingering racial and economic barriers.",
-    "date": "2026-05-05T04:01:16",
     "category": "NYT"
   }
 ]
