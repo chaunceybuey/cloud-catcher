@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/14/arts/music/chicago-symphony-blood-donation.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Coming to a Blood Donation Center Near You: the Chicago Symphony",
+    "author": "Hannah Edgar",
+    "link": "https://www.nytimes.com/2026/06/14/arts/music/chicago-symphony-blood-donation.html",
+    "content": "Margaret Wiegel, who gives blood as often as every three weeks, testing out Abbott\u2019s mixed-reality games while donating recently.",
+    "date": "2026-06-14T09:01:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/arts/design/weaving-traditional-venezuela-margarita-mora.html",
     "feed_name": "NYT (Arts)",
     "title": "In Venezuela, a 91-Year-Old Weaver Sticks to Traditions",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
     "content": "See the arrivals on the cobblestone carpet.",
     "date": "2026-05-05T02:38:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Administration Demands Names of 2020 Election Workers in Georgia",
-    "author": "Nick Corasaniti, Richard Fausset and Alan Feuer",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html",
-    "content": "F.B.I. agents raided Fulton County election offices in January, seizing boxes of ballots and other materials.",
-    "date": "2026-05-05T02:26:17",
     "category": "NYT"
   }
 ]
