@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/14/business/media/disclosure-day-steven-spielberg-box-office.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Disclosure Day\u2019 Ends Spielberg\u2019s Summer Box Office Drought",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/06/14/business/media/disclosure-day-steven-spielberg-box-office.html",
+    "content": "Universal Pictures\u2019 promotional campaign for \u201cDisclosure Day\u201d sought to remind summertime audiences that Steven Spielberg was capable of delivering a major event movie.",
+    "date": "2026-06-14T18:38:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/arts/television/tyra-banks-netflix-lawsuit-defamation-antm.html",
     "feed_name": "NYT (Arts)",
     "title": "Tyra Banks Sues Netflix for Defamation Over \u2018America\u2019s Next Top Model\u2019 Docuseries",
@@ -19986,16 +19996,6 @@
     "author": "Kayla Guo",
     "link": "https://feeds.texastribune.org/link/16799/17334689/texas-9th-congressional-district-gop-runoff-alex-mealer-briscoe-cain",
     "content": "State Rep. Briscoe Cain, R-Deer Park, and Alex Mealer will face each other in the May runoff to determine the Republican nominee for the newly drawn 9th Congressional District.",
-    "date": "2026-05-05T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228962",
-    "feed_name": "Texas Tribune",
-    "title": "Voting Rights Act ruling could change representation on city councils, school boards across Texas",
-    "author": "Natalia Contreras",
-    "link": "https://feeds.texastribune.org/link/16799/17334690/voting-rights-act-ruling-texas-local-city-council-school-board",
-    "content": "Austin City Council meets at Austin City Hall on Feb. 15, 2023.",
     "date": "2026-05-05T10:00:00",
     "category": "Texas"
   }
