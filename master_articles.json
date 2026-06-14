@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a2c7d93a150560dc8a57d7d",
+    "feed_name": "Wired (Science)",
+    "title": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren\u2019t Oil Prices Higher?",
+    "author": "Carla Sertin",
+    "link": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
+    "content": "President Donald Trump says a secret mission moved 100 million barrels of oil through the blocked Strait of Hormuz. That number is impossible to verify.",
+    "date": "2026-06-14T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/arts/music/chicago-symphony-blood-donation.html",
     "feed_name": "NYT (Arts)",
     "title": "Coming to a Blood Donation Center Near You: the Chicago Symphony",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
     "content": "An industrial policy of subsidies and import restrictions laid the foundations for China to become almost as dominant in wind turbines as in solar panels.",
     "date": "2026-05-05T04:00:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Met Gala 2026 Red Carpet Photos: All the Looks",
-    "author": "The Styles Desk, Nina Westervelt and Amir Hamja",
-    "link": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
-    "content": "See the arrivals on the cobblestone carpet.",
-    "date": "2026-05-05T02:38:19",
     "category": "NYT"
   }
 ]
