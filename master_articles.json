@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
+    "content": "Jane Yolen in 1993. Her best known books include \u201cOwl Moon,\u201d which won the Caldecott Medal in 1988, and \u201cThe Devil\u2019s Arithmetic\u201d (1988), about a Jewish girl who travels back in time to the Holocaust.",
+    "date": "2026-06-14T16:44:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/dining/for-the-best-strawberry-pie-roast-those-berries.html",
     "feed_name": "NYT (Food)",
     "title": "For the Best Strawberry Pie, Roast Those Berries",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/opinion/trump-midterm-elections-2026.html",
     "content": "Who will keep the 2026 ballots straight?",
     "date": "2026-05-05T09:02:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/realestate/mulch-gardening-tips-trees.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How to Mulch: 7 Dos and Don\u2019ts",
-    "author": "Sal Vaglica",
-    "link": "https://www.nytimes.com/2026/05/05/realestate/mulch-gardening-tips-trees.html",
-    "content": "Mulching can help a garden with moisture retention, soil insulation and weed suppression.",
-    "date": "2026-05-05T09:01:39",
     "category": "NYT"
   }
 ]
