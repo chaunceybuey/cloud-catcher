@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "e2ab9b18-c173-4e3e-8d4c-3a11c543b260",
+    "feed_name": "Economist",
+    "title": "Does Donald Trump make Latin America a good bet?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet",
+    "content": "Nowhere in the developing world has done so well out of the past year",
+    "date": "2026-06-14T17:14:46",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
@@ -19988,15 +19998,5 @@
     "content": "Austin City Council meets at Austin City Hall on Feb. 15, 2023.",
     "date": "2026-05-05T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "69a8dd65851f00c22df34988",
-    "feed_name": "Wired",
-    "title": "He Couldn\u2019t Land a Job Interview. Was AI to Blame?",
-    "author": "Todd Feathers",
-    "link": "https://www.wired.com/story/he-couldnt-land-a-job-interview-was-ai-to-blame/",
-    "content": "Armed with some Python and a white-hot sense of injustice, one medical student spent six months trying to figure out whether an algorithm trashed his job application.",
-    "date": "2026-05-05T10:00:00",
-    "category": "Magazines"
   }
 ]
