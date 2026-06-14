@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/14/arts/design/weaving-traditional-venezuela-margarita-mora.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In Venezuela, a 91-Year-Old Weaver Sticks to Traditions",
+    "author": "Silvia Benedetti and Andrea Hern\u00e1ndez",
+    "link": "https://www.nytimes.com/2026/06/14/arts/design/weaving-traditional-venezuela-margarita-mora.html",
+    "content": "Though electric machines are now standard, the Venezuelan weaver Margarita Mora has clung to a mix of ancestral Indigenous and Spanish practices to create surprisingly modern work.",
+    "date": "2026-06-14T04:01:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/14/arts/stephen-sondheim-song-sunday.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Listen to This Sondheim Masterpiece and It Will Bring Order to Your Day",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/06/14/arts/stephen-sondheim-song-sunday.html",
+    "content": "Stephen Sondheim\u2019s masterpiece, \u201cSunday in the Park With George,\u201d contains a song capable of making order out of mayhem. Listen to hear how he did it.",
+    "date": "2026-06-14T04:01:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/13/theater/dito-van-reigersberg-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Dito van Reigersberg, Avant-Garde and Drag Virtuoso, Dies at 53",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html",
     "content": "F.B.I. agents raided Fulton County election offices in January, seizing boxes of ballots and other materials.",
     "date": "2026-05-05T02:26:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Tries to Downplay Economic Effects of the Iran War",
-    "author": "Erica L. Green and Zolan Kanno-Youngs",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html",
-    "content": "President Trump speaking to small-business owners before Monday\u2019s event, which the White House described as highlighting \u201cthe extraordinary revival of Main Street under his America First agenda.\u201d",
-    "date": "2026-05-05T01:40:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Secret Service Shoots and Wounds Armed Man Near Washington Monument",
-    "author": "Glenn Thrush, Michael Gold, Minho Kim and Pooja Salhotra",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html",
-    "content": "A law enforcement officer at the scene of a shooting near the Washington Monument on Monday.",
-    "date": "2026-05-05T01:13:49",
     "category": "NYT"
   }
 ]
