@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/14/dining/for-the-best-strawberry-pie-roast-those-berries.html",
+    "feed_name": "NYT (Food)",
+    "title": "For the Best Strawberry Pie, Roast Those Berries",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/06/14/dining/for-the-best-strawberry-pie-roast-those-berries.html",
+    "content": "Genevieve Ko\u2019s rhubarb and roasted strawberry pie.",
+    "date": "2026-06-14T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/dining/harissa-apricot-chicken-done-in-20-minutes.html",
     "feed_name": "Weeknight Dishes",
     "title": "Harissa Apricot Chicken, Done in 20 Minutes",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/realestate/mulch-gardening-tips-trees.html",
     "content": "Mulching can help a garden with moisture retention, soil insulation and weed suppression.",
     "date": "2026-05-05T09:01:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/opinion/ezra-klein-podcast-helena-rosenblatt.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Book That Changed How I Think About Liberalism",
-    "author": "Ezra Klein and Jack McCordick",
-    "link": "https://www.nytimes.com/2026/05/05/opinion/ezra-klein-podcast-helena-rosenblatt.html",
-    "content": "The historian Helena Rosenblatt traces the roots of liberalism and the values that many have forgotten.",
-    "date": "2026-05-05T09:01:36",
     "category": "NYT"
   }
 ]
