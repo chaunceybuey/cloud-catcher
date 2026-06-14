@@ -130,6 +130,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=233324",
+    "feed_name": "Texas Tribune",
+    "title": "At Texas GOP convention, friction overshadows talk of unity",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17360809/texas-gop-convention-houston-2026",
+    "content": "Attendees cheer as Gov. Greg Abbott speaks at the George R. Brown Convention Center in Houston during the  Texas GOP Convention on June 12, 2026.",
+    "date": "2026-06-14T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/arts/music/chicago-symphony-blood-donation.html",
     "feed_name": "NYT (Arts)",
     "title": "Coming to a Blood Donation Center Near You: the Chicago Symphony",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
     "content": "A New York Times reporter joined a group of cyclists on a route meant to break down Cape Town\u2019s lingering racial and economic barriers.",
     "date": "2026-05-05T04:01:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
-    "feed_name": "NYT (Shared)",
-    "title": "As Oil Prices Stay High, China Doubles Down on Wind Power",
-    "author": "Keith Bradsher and Qilai Shen",
-    "link": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
-    "content": "An industrial policy of subsidies and import restrictions laid the foundations for China to become almost as dominant in wind turbines as in solar panels.",
-    "date": "2026-05-05T04:00:11",
     "category": "NYT"
   }
 ]
