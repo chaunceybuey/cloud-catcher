@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "44da2d163c4bf64e091cc6d1d64f3e7f",
+    "feed_name": "Compact",
+    "title": "The Revolutionary Significance of Trump\u2019s White House UFC Fight",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-revolutionary-significance-of-trumps-white-house-ufc-fight/",
+    "content": "",
+    "date": "2026-06-15T06:26:46",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/15/arts/television/las-culturistas-culture-awards.html",
     "feed_name": "NYT (Arts)",
     "title": "Las Culturistas Culture Awards and 6 More Things to Watch on TV This Week",
@@ -128,6 +138,16 @@
     "content": "Bowen Yang and Matt Rogers host their pop culture award show, and \u201cSummer House\u201d airs a surprise episode.",
     "date": "2026-06-15T05:00:05",
     "category": "NYT"
+  },
+  {
+    "id": "1dce74246ae8606c42d2c1f2ba4d28fe",
+    "feed_name": "The Atlantic",
+    "title": "Trump Celebrates While America Capitulates",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/06/trump-iran-deal/687547/",
+    "content": "The peace deal with Tehran is an Iranian victory.",
+    "date": "2026-06-15T01:32:45",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17334764/texas-us-senate-gop-runoff-cornyn-paxton-university-of-houston-poll-attorney-general",
     "content": "From left: Texas Attorney General Ken Paxton, U.S. Sen. John Cornyn, state Sen. Mayes Middleton, R-Galveston, and U.S. Rep. Chip Roy, R-Austin. Paxton and Cornyn face each other in the May runoff to be the Republican nominee for the U.S. Senate; Middleton and Roy are vying to get the GOP nod for attorney general.",
     "date": "2026-05-05T12:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "f95e6cb9bbc618da6d4213a3d333b094",
-    "feed_name": "Compact",
-    "title": "The Folly of Anti-Growth Economics",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-folly-of-anti-growth-economics/",
-    "content": "",
-    "date": "2026-05-05T11:16:27",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=228955",
-    "feed_name": "Texas Tribune",
-    "title": "The first 2026 TribFest speakers are here",
-    "author": "Matt Ewalt",
-    "link": "https://feeds.texastribune.org/link/16799/17334728/the-first-2026-tribfest-speakers-are-here",
-    "content": "Rahm Emanuel, Tate Reeves, Gina Hinojosa, Erin Harkey and more join us in downtown Austin in September\n<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17334728.gif\" width=\"1\" />",
-    "date": "2026-05-05T11:00:00",
     "category": "Texas"
   }
 ]
