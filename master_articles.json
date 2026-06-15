@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/15/arts/dance/lincoln-center-summer-of-dance-contemporary-festival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What Is Contemporary Dance? Lincoln Center Invests in Finding Out",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/06/15/arts/dance/lincoln-center-summer-of-dance-contemporary-festival.html",
+    "content": "Thanks to a $50 million grant, a new festival has been born. Kyle Abraham helps to curate the first edition, which is part of the center\u2019s Summer of Dance.",
+    "date": "2026-06-15T14:41:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233364",
     "feed_name": "Texas Tribune",
     "title": "U.S. Supreme Court rejects Texas death row inmate\u2019s appeal challenging hypnosis testimony",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html",
     "content": "The Indiana Statehouse in Indianapolis.",
     "date": "2026-05-06T02:50:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html",
-    "feed_name": "NYT (Shared)",
-    "title": "In Indiana Primary Elections, Most Trump-Backed Challengers Beat Incumbents",
-    "author": "Mitch Smith",
-    "link": "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html",
-    "content": "Voters at the polls in West Lafayette, Ind., on Tuesday.",
-    "date": "2026-05-06T02:42:23",
     "category": "NYT"
   }
 ]
