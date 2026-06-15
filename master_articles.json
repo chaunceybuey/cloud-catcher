@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233364",
+    "feed_name": "Texas Tribune",
+    "title": "U.S. Supreme Court rejects Texas death row inmate\u2019s appeal challenging hypnosis testimony",
+    "author": "Ellie Ashby",
+    "link": "https://feeds.texastribune.org/link/16799/17361462/texas-hypnosis-appeal-supreme-court-charles-flores",
+    "content": "The U.S. Supreme Court is seen on May 18, 2024 in Washington, D.C.",
+    "date": "2026-06-15T13:53:34",
+    "category": "Texas"
+  },
+  {
     "id": "f2a1b2ab02f843fc8150da76de79d891",
     "feed_name": "LRB",
     "title": "Sara Baume & Emily LaBarge: Opening Night",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html",
     "content": "Voters at the polls in West Lafayette, Ind., on Tuesday.",
     "date": "2026-05-06T02:42:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire",
-    "author": "David E. Sanger",
-    "link": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html",
-    "content": "Despite Secretary of State Marco Rubio\u2019s declaration that the objectives of the war have been accomplished, they clearly have not.",
-    "date": "2026-05-06T01:21:47",
     "category": "NYT"
   }
 ]
