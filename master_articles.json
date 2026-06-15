@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/15/arts/television/las-culturistas-culture-awards.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Las Culturistas Culture Awards and 6 More Things to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/06/15/arts/television/las-culturistas-culture-awards.html",
+    "content": "Bowen Yang and Matt Rogers host their pop culture award show, and \u201cSummer House\u201d airs a surprise episode.",
+    "date": "2026-06-15T05:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html",
     "feed_name": "NYT (Arts)",
     "title": "Singer Oliver Tree Is Said to Have Died in Collision of Helicopters in Brazil",
@@ -19988,15 +19998,5 @@
     "content": "Rahm Emanuel, Tate Reeves, Gina Hinojosa, Erin Harkey and more join us in downtown Austin in September\n<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17334728.gif\" width=\"1\" />",
     "date": "2026-05-05T11:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "69e79cece71e88c4e31ef580",
-    "feed_name": "Wired",
-    "title": "The iPhone That Never Was",
-    "author": "David Epstein",
-    "link": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
-    "content": "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone\u2014more than a decade earlier. The device never came to be.",
-    "date": "2026-05-05T11:00:00",
-    "category": "Magazines"
   }
 ]
