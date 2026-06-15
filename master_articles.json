@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/15/arts/music/sean-combs-lawsuit-dismissed-dawn-richard.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dawn Richard\u2019s Lawsuit Against Sean Combs Dismissed",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/06/15/arts/music/sean-combs-lawsuit-dismissed-dawn-richard.html",
+    "content": "Sean Combs is still facing dozens of lawsuits that accused him of sexual misconduct, but a federal judge dismissed one, largely on statute of limitations grounds.",
+    "date": "2026-06-15T19:45:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/15/arts/dance/cat-romeo-and-juliet-ballet-turkey.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In Its Tragic Finale, \u2018Romeo and Juliet\u2019 Is Interrupted by a Cat",
+    "author": "Victor Mather",
+    "link": "https://www.nytimes.com/2026/06/15/arts/dance/cat-romeo-and-juliet-ballet-turkey.html",
+    "content": "Performers were tested by the unexpected during a ballet production in Turkey.",
+    "date": "2026-06-15T19:18:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/15/arts/music/america250-concert-los-angeles-trump.html",
     "feed_name": "NYT (Arts)",
     "title": "America250 Plans July 4 Concert in L.A., Competing With Trump",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/movies/serial-mom-mothers-day-movie.html",
     "content": "In this parody of the true crime genre, a mother with murderous tendencies reflects on the hard work and thankless sacrifices that go into parenting.",
     "date": "2026-05-06T09:01:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/movies/devil-wears-prada-1-vs-2.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "\u2018The Devil Wears Prada\u2019 Then and Now: Why It Hits Differently",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/05/06/movies/devil-wears-prada-1-vs-2.html",
-    "content": "The film\u2019s portrait of the work lives of a young journalist and a top editor holds lessons for us. It\u2019s just that the lessons have changed with time.",
-    "date": "2026-05-06T09:01:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/magazine/pro-athletes-longevity-secrets-age.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Longevity Secrets Helping Athletes Blow Past the Limits of Age",
-    "author": "Devin Gordon and Dina Litovsky",
-    "link": "https://www.nytimes.com/2026/05/06/magazine/pro-athletes-longevity-secrets-age.html",
-    "content": "With cutting-edge sports medicine and sci-fi gadgetry, more and more athletes are figuring out how to extend their careers.",
-    "date": "2026-05-06T09:01:20",
     "category": "NYT"
   }
 ]
