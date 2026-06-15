@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "47f2fbdd-f59b-49ce-a9de-afc17cb5b46c",
+    "feed_name": "Economist",
+    "title": "Meet the world\u2019s top AI-pilled economists",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists",
+    "content": "Most of them are not found in ivory towers",
+    "date": "2026-06-15T19:04:42",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/15/arts/music/america250-concert-los-angeles-trump.html",
     "feed_name": "NYT (Arts)",
     "title": "America250 Plans July 4 Concert in L.A., Competing With Trump",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/climate/irena-renewables-energy-cost.html",
     "content": "Battery units for a solar farm facility in Antofagasta, Chile, last year. Cheaper and better batteries are making renewable power more practical.",
     "date": "2026-05-06T09:48:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/movies/serial-mom-mothers-day-movie.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "\u2018Serial Mom\u2019: The Mother\u2019s Day Movie for Our Times",
-    "author": "Dina Gachman",
-    "link": "https://www.nytimes.com/2026/05/06/movies/serial-mom-mothers-day-movie.html",
-    "content": "In this parody of the true crime genre, a mother with murderous tendencies reflects on the hard work and thankless sacrifices that go into parenting.",
-    "date": "2026-05-06T09:01:50",
     "category": "NYT"
   }
 ]
