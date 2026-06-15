@@ -210,12 +210,32 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/15/dining/best-restaurants-dallas.html",
+    "feed_name": "NYT (Food)",
+    "title": "Where to Eat in Dallas for the World Cup",
+    "author": "Priya Krishna and Claire Ballor",
+    "link": "https://www.nytimes.com/2026/06/15/dining/best-restaurants-dallas.html",
+    "content": "Whether you\u2019re looking for gold-standard barbecue, world-class sushi or inventive tacos, the city is rich with choices.",
+    "date": "2026-06-15T09:02:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/15/dining/where-to-eat-in-dallas-for-the-world-cup.html",
     "feed_name": "NYT (Food)",
     "title": "Where to Eat in Dallas for the World Cup",
     "author": "Priya Krishna and Claire Ballor",
     "link": "https://www.nytimes.com/2026/06/15/dining/where-to-eat-in-dallas-for-the-world-cup.html",
     "content": "Whether you\u2019re looking for gold-standard barbecue, world-class sushi or inventive tacos, the city is rich with choices.",
+    "date": "2026-06-15T09:02:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/15/dining/john-early-maddies-secret-food.html",
+    "feed_name": "NYT (Food)",
+    "title": "Millennial Food Obsession Is a Joke. John Early Gets It.",
+    "author": "Priya Krishna",
+    "link": "https://www.nytimes.com/2026/06/15/dining/john-early-maddies-secret-food.html",
+    "content": "In his new film, \u201cMaddie\u2019s Secret,\u201d the comedian goes all in on earnestness, playing a cooking content creator.",
     "date": "2026-06-15T09:02:30",
     "category": "NYT"
   },
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/magazine/argentina-president-javier-milei-maga.html",
     "content": "With his signature chain saw, Javier Milei became a MAGA superstar. At home, his state-slashing experiment is on the line.",
     "date": "2026-05-05T17:56:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The FBI Searched a Washington Post Reporter\u2019s Home. She Is Now a Pulitzer Prize Winner.",
-    "author": "Erik Wemple",
-    "link": "https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html",
-    "content": "Hannah Natanson, a reporter and member of the winning team for the Pulitzer Prize for Public Service, in the Washington Post newsroom on Monday.",
-    "date": "2026-05-05T17:53:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/04/opinion/devil-wears-prada-feminism-girlboss.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Movie About Women Who Love Their Work? Groundbreaking.",
-    "author": "Michelle Goldberg",
-    "link": "https://www.nytimes.com/2026/05/04/opinion/devil-wears-prada-feminism-girlboss.html",
-    "content": "It turns out that some women do, in fact, dream of labor, at least the kind that comes with a sense of mastery, agency and glamour.",
-    "date": "2026-05-05T17:47:32",
     "category": "NYT"
   }
 ]
