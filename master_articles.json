@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/15/arts/music/america250-concert-los-angeles-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "America250 Plans July 4 Concert in L.A., Competing With Trump",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/06/15/arts/music/america250-concert-los-angeles-trump.html",
+    "content": "Billy Corgan and his band Smashing Pumpkins will celebrate America\u2019s 250th anniversary with a performance on July 4 in Los Angeles.",
+    "date": "2026-06-15T18:57:48",
+    "category": "NYT"
+  },
+  {
     "id": "d80e640a73abe5ee53c56cc506f960f7",
     "feed_name": "LRB",
     "title": "\u2018I wouldn\u2019t pay it either\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/magazine/pro-athletes-longevity-secrets-age.html",
     "content": "With cutting-edge sports medicine and sci-fi gadgetry, more and more athletes are figuring out how to extend their careers.",
     "date": "2026-05-06T09:01:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A Look Inside the Case That Enshrined Political Power for Billionaires",
-    "author": "Danny Hakim",
-    "link": "https://www.nytimes.com/2026/05/06/us/politics/buckley-case-supreme-court-billionaires.html",
-    "content": "A landmark Supreme Court case laid the groundwork for the tremendous amounts spent on today\u2019s elections.",
-    "date": "2026-05-06T09:00:15",
     "category": "NYT"
   }
 ]
