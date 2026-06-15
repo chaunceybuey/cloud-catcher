@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233435",
+    "feed_name": "Texas Tribune",
+    "title": "A Muslim Texan sought to find his place in the party at the state GOP convention. He left in tears.",
+    "author": "Renzo Downey",
+    "link": "https://feeds.texastribune.org/link/16799/17361668/texas-republican-party-convention-muslims-sharia-law",
+    "content": "Dr. Rick Scarborough, former Southern Baptist pastor and president of Recover America, prays for forgiveness after telling Mohamed Hussein to convert to Christianity or leave the country after a panel at the Texas GOP Convention on Judeo-Christian values at the George R. Brown Convention Center in Houston on June 13, 2026.",
+    "date": "2026-06-15T19:54:58",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/15/arts/music/sean-combs-lawsuit-dismissed-dawn-richard.html",
     "feed_name": "NYT (Arts)",
     "title": "Dawn Richard\u2019s Lawsuit Against Sean Combs Dismissed",
@@ -19988,15 +19998,5 @@
     "content": "<p>Microsoft unveils its new agentic business model, and Apple confronts shortages in memory and chips even as the Mac benefits from AI.</p>",
     "date": "2026-05-06T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/climate/irena-renewables-energy-cost.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Renewables Are Gaining on Fossil Fuels, IRENA Report Finds",
-    "author": "Chico Harlan",
-    "link": "https://www.nytimes.com/2026/05/06/climate/irena-renewables-energy-cost.html",
-    "content": "Battery units for a solar farm facility in Antofagasta, Chile, last year. Cheaper and better batteries are making renewable power more practical.",
-    "date": "2026-05-06T09:48:48",
-    "category": "NYT"
   }
 ]
