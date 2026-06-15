@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/15/dining/a-brilliant-15-minute-meal-built-on-just-a-handful-of-ingredients.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Brilliant 15-Minute Meal Built on Just a Handful of Ingredients",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/06/15/dining/a-brilliant-15-minute-meal-built-on-just-a-handful-of-ingredients.html",
+    "content": "Kay Chun\u2019s roasted salmon with peas and radishes.",
+    "date": "2026-06-15T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/15/arts/dance/lincoln-center-summer-of-dance-contemporary-festival.html",
     "feed_name": "NYT (Arts)",
     "title": "What Is Contemporary Dance? Lincoln Center Invests in Finding Out",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
     "content": "A billboard in Tehran showing the three supreme leaders of Iran last week, only one of whom is alive.",
     "date": "2026-05-06T04:04:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Takeaways From Indiana Primary Elections 2026: Trump Gets Payback",
-    "author": "Mitch Smith and Reid J. Epstein",
-    "link": "https://www.nytimes.com/2026/05/05/us/politics/trump-indiana-takeaways.html",
-    "content": "The Indiana Statehouse in Indianapolis.",
-    "date": "2026-05-06T02:50:50",
     "category": "NYT"
   }
 ]
