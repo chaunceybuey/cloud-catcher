@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/15/arts/music/ronald-lapread-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ronald LaPread, Funky Bassist for the Commodores, Dies at 76",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/06/15/arts/music/ronald-lapread-dead.html",
+    "content": "Ronald LaPread, right, performing with the Commodores in 1978. He joined the band in 1970 and remained a member for 16 years, contributing to multiple Top 10 singles and albums.",
+    "date": "2026-06-15T16:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/15/dining/a-brilliant-15-minute-meal-built-on-just-a-handful-of-ingredients.html",
     "feed_name": "NYT (Food)",
     "title": "A Brilliant 15-Minute Meal Built on Just a Handful of Ingredients",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/opinion/cuba-president-diaz-canel.html",
     "content": "Please do not take the fact that I am writing this letter to you as a defense of U.S. policy toward Cuba, much less a call for American intervention.",
     "date": "2026-05-06T05:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Says U.S. Pausing Efforts to Guide Ships Through Strait Blocked by Iran",
-    "author": "Erica L. Green, Eric Schmitt, Greg Jaffe and Leo Sands",
-    "link": "https://www.nytimes.com/2026/05/05/world/middleeast/iran-us-ceasefire-attacks.html",
-    "content": "A billboard in Tehran showing the three supreme leaders of Iran last week, only one of whom is alive.",
-    "date": "2026-05-06T04:04:53",
     "category": "NYT"
   }
 ]
