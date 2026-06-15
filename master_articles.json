@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Singer Oliver Tree Is Said to Have Died in Collision of Helicopters in Brazil",
+    "author": "Alexandra E. Petri",
+    "link": "https://www.nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html",
+    "content": "The helicopters crashed over a car dealership in Rio de Janeiro on Sunday.",
+    "date": "2026-06-15T00:26:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/14/arts/dance/the-knicks-spontaneous-dancing.html",
     "feed_name": "NYT (Arts)",
     "title": "The Knicks Effect: Irresistible, Spontaneous Dancing",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/",
     "content": "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone\u2014more than a decade earlier. The device never came to be.",
     "date": "2026-05-05T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69f275cdb031343a840375a2",
-    "feed_name": "Wired",
-    "title": "The Secret to Amelia Dimoldenberg\u2019s Online Superstardom? Control",
-    "author": "Katie Drummond",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-amelia-dimoldenberg/",
-    "content": "The host of Chicken Shop Date joined WIRED\u2019s Big Interview podcast to talk about turning down bad deals, beating the algorithm, and the importance of being over-prepared.",
-    "date": "2026-05-05T10:30:00",
     "category": "Magazines"
   }
 ]
