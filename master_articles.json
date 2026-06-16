@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a288ed681b472b6e9674533",
+    "feed_name": "Wired",
+    "title": "The Future of Home",
+    "author": "",
+    "link": "https://www.wired.com/future-of-home/",
+    "content": "How we live now is defined by unprecedented forces. In this special issue, WIRED and Architectural Digest help you understand what home will look like tomorrow\u2014and beyond.",
+    "date": "2026-06-16T17:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a317dfd03c0be2f1d7e7fdd",
+    "feed_name": "Wired",
+    "title": "One Climate Change Innovation: Just Look Up",
+    "author": "Fred A. Bernstein",
+    "link": "https://www.wired.com/story/tom-kundig-mississippi-delta/",
+    "content": "To build one family\u2019s dream house on a flood-prone Mississippi bayou, AD100 architect Tom Kundig decided the sky\u2019s the limit.",
+    "date": "2026-06-16T16:58:47",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/",
     "feed_name": "Chait",
     "title": "Why July 4 Turned Into a Trump Rally",
@@ -128,6 +148,16 @@
     "content": "The president has never accepted that the head of state and the leader of the Republican Party are separate roles.\nDelivered by PolitePaul service",
     "date": "2026-06-16T16:48:58",
     "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233561",
+    "feed_name": "Texas Tribune",
+    "title": "First-of-its-kind GOP midterm convention coming to Dallas in September, Paxton says",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17362141/texas-republican-midterm-convention-dallas-rnc",
+    "content": "Then-Republican presidential nominee Donald Trump arrives to watch proceedings during the second day of the Republican National Convention in Milwaukee, Wisconsin on July 16, 2024.",
+    "date": "2026-06-16T16:25:50",
+    "category": "Texas"
   },
   {
     "id": "59ff80537b89ea9683dd09c1434fde17",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/us/politics/jack-smith-justice-dept-trump.html",
     "content": "Jack Smith, the special counsel who twice indicted President Trump, testifying at a hearing in January in Washington.",
     "date": "2026-05-06T22:52:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229235",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Tech cautions broadcasting research restrictions to prospective students",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17335761/texas-tech-university-graduate-research-limit-warnings",
-    "content": "Students walk around Texas Tech Administration building on campus in Lubbock on Sept. 30, 2025.",
-    "date": "2026-05-06T21:32:10",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Hantavirus Cruise Ship Remains at Sea as Leaders Clash Over Its Docking",
-    "author": "Claire Moses, Aimee Ortiz and Rylee Kirk",
-    "link": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
-    "content": "The MV Hondius off the port of Praia, the capital of Cape Verde, on Wednesday.",
-    "date": "2026-05-06T21:31:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/opinion/el-nino-climate.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The New El Ni\u00f1o Might Make 2027 the Hottest Year on Record",
-    "author": "David Wallace-Wells",
-    "link": "https://www.nytimes.com/2026/05/06/opinion/el-nino-climate.html",
-    "content": "The El Ni\u00f1o brewing this year might make 2027 the hottest year on record.",
-    "date": "2026-05-06T20:49:32",
     "category": "NYT"
   }
 ]
