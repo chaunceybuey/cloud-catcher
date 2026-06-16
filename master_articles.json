@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a3181f06114ad939e561f7f",
+    "feed_name": "Wired (Science)",
+    "title": "Why the Reflecting Pool Is Full of Algae After Trump's Renovation",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/reflecting-pool-full-of-algae-climate-change/",
+    "content": "Warm weather has fueled a bloom that National Park Service workers are trying to kill using everything from hydrogen peroxide to nanobubbles ahead of July 4 celebrations.",
+    "date": "2026-06-16T18:14:59",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/16/arts/music/amplifier-newsletter-summerstage-spoon-sharp-pins.html",
+    "feed_name": "NYT (Arts)",
+    "title": "7 Great Artists Playing SummerStage This Year",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/06/16/arts/music/amplifier-newsletter-summerstage-spoon-sharp-pins.html",
+    "content": "Mavis Staples, left, returns to SummerStage on July 16.",
+    "date": "2026-06-16T18:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/16/dining/nyc-restaurant-openings-claudette.html",
     "feed_name": "NYT (Food)",
     "title": "Claudette\u2019s Second Act",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html",
     "content": "A federal judge released the note, which Jeffrey Epstein\u2019s former cellmate said he found in a graphic novel. The New York Times has not authenticated that Mr. Epstein wrote it.",
     "date": "2026-05-07T01:25:36",
-    "category": "NYT"
-  },
-  {
-    "id": "7b8a8d420d1eed161bdbc59c55f9e936",
-    "feed_name": "The Atlantic",
-    "title": "Trump Shows He\u2019s Still Got Juice",
-    "author": "David Frum",
-    "link": "https://www.theatlantic.com/ideas/2026/05/indiana-republicans-primary-midterm/687084/",
-    "content": "Yesterday\u2019s election in Indiana sent a message to all Republicans of conscience.",
-    "date": "2026-05-07T00:35:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Giuliani Seeks to Have Health Care Covered by 9/11 Program",
-    "author": "Joseph Goldstein and Jonah E. Bromwich",
-    "link": "https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html",
-    "content": "Rudolph W. Giuliani, the former New York City mayor, attended the ceremony commemorating the 24th anniversary of the Sept. 11, 2001, terrorist attacks.",
-    "date": "2026-05-06T23:32:38",
     "category": "NYT"
   }
 ]
