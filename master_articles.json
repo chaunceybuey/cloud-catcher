@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/16/arts/music/taylor-swift-wedding-readers.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tell Us Why Taylor Swift\u2019s Wedding Is Meaningful to You",
+    "author": "Matt Stevens",
+    "link": "https://www.nytimes.com/2026/06/16/arts/music/taylor-swift-wedding-readers.html",
+    "content": "Taylor Swift and Travis Kelce will be tying the knot in the near future.",
+    "date": "2026-06-16T15:31:58",
+    "category": "NYT"
+  },
+  {
+    "id": "6a31675020d1b784e5502d6e",
+    "feed_name": "Wired",
+    "title": "Around the World, These Building Solutions Keep Things Local",
+    "author": "Elizabeth Fazzare",
+    "link": "https://www.wired.com/story/building-solutions-around-the-world/",
+    "content": "Designers are finding sustainable building solves close to home\u2014in ancient practices and cutting-edge innovations alike.",
+    "date": "2026-06-16T15:25:06",
+    "category": "Magazines"
+  },
+  {
     "id": "6a316398dd42dc4ea2f12e1b",
     "feed_name": "Wired",
     "title": "In Praise of a Dumb House",
@@ -148,6 +168,16 @@
     "content": "From friend compounds and meditation spaces to shaded outdoor areas and rooms just to make coffee, homes are getting even more multipurpose.",
     "date": "2026-06-16T14:52:34",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233534",
+    "feed_name": "Texas Tribune",
+    "title": "Texas students saw slight gains in math, stalled progress in reading, STAAR results show",
+    "author": "Jaden Edison and Sneha Dey",
+    "link": "https://feeds.texastribune.org/link/16799/17362048/texas-staar-results-2026-elementary-middle-school",
+    "content": "Texas is phasing out the STAAR exams, which will be replaced with other tests throughout the school year starting in 2027-28.",
+    "date": "2026-06-16T14:45:23",
+    "category": "Texas"
   },
   {
     "id": "6a3159b178156034006bcc26",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/opinion/neil-gorsuch-america-250-supreme-court.html",
     "content": "David French and the Supreme Court justice discuss how the ideals of 1776 shaped \u2014 and strain \u2014 the country today.",
     "date": "2026-05-06T19:49:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/us/obama-colbert-interview-trump.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Obama Talks Trump, Mamdani, Aliens and More in Colbert Interview",
-    "author": "Tim Balk",
-    "link": "https://www.nytimes.com/2026/05/06/us/obama-colbert-interview-trump.html",
-    "content": "The former president was critical of President Trump, without ever naming him. Mr. Obama also urged Democrats to be plain-spoken, and talked about aliens.",
-    "date": "2026-05-06T19:35:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/science/a-mutation-gave-humans-the-gift-of-speech-these-mice-have-it-too.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A Mutation Gave Humans the Gift of Speech. These Mice Have It, Too.",
-    "author": "Annie Roth",
-    "link": "https://www.nytimes.com/2026/05/06/science/a-mutation-gave-humans-the-gift-of-speech-these-mice-have-it-too.html",
-    "content": "Scientists wanted to know why the chatter of Alston\u2019s singing mice sounds so much like human conversation. What they found might change how we study both species.",
-    "date": "2026-05-06T19:24:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
-    "feed_name": "NYT (Shared)",
-    "title": "New Study Shows Risks of Amazon Deforestation. And Rewards of Protection.",
-    "author": "Sachi Kitajima Mulkey",
-    "link": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
-    "content": "A timber truck rolled through a deforested section of the Amazon in Par\u00e1 State, Brazil, in November.",
-    "date": "2026-05-06T18:25:04",
     "category": "NYT"
   }
 ]
