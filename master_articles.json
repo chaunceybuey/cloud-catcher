@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/16/books/gregory-williams-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Gregory Williams, Academic With an Uncommon Perspective on Race, Dies at 82",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/06/16/books/gregory-williams-dead.html",
+    "content": "Gregory Williams in 2002 at the City College of New York, during his tenure as its president. He also served as dean of the law school at the Ohio State University and president of the University of Cincinnati.",
+    "date": "2026-06-16T21:32:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
     "feed_name": "Douthat",
     "title": "The Battle With Anthropic Is the Start of a New Kind of Conflict",
@@ -19988,15 +19998,5 @@
     "content": "Our most transactional president is having trouble processing.",
     "date": "2026-05-07T09:05:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
-    "feed_name": "Interesting Times",
-    "title": "A Legendary Investor on How to Prevent America\u2019s Coming \u2018Heart Attack\u2019",
-    "author": "Ross Douthat, Emily Holzknecht and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
-    "content": "Why Ray Dalio is bearish on the U.S.",
-    "date": "2026-05-07T09:04:22",
-    "category": "Uncategorized"
   }
 ]
