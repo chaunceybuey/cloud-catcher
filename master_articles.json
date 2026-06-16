@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/16/arts/television/tonight-show-knicks-nba-champions.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Knicks Celebrate Their N.B.A. Title on \u2018The Tonight Show\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/16/arts/television/tonight-show-knicks-nba-champions.html",
+    "content": "\u201cOf course it\u2019s the Knicks, so they won\u2019t really show up until the second half,\u201d the host Jimmy Fallon said.",
+    "date": "2026-06-16T07:09:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/15/dining/2026-james-beard-restaurant-award-winners.html",
     "feed_name": "NYT (Food)",
     "title": "Here Are the 2026 James Beard Restaurant Award Winners",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/may/dependency-culture",
     "content": "Charles III\u2019s state visit to the US occasioned a good deal of commentary either celebrating the \u2018special relationship\u2019 between Britain.\u00a0.\u00a0.",
     "date": "2026-05-06T11:49:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "ffd33746b0cfb7f6adf59bc04a4af003",
-    "feed_name": "Compact",
-    "title": "If You Love Reading, Skip Grad School",
-    "author": "",
-    "link": "https://www.compactmag.com/article/if-you-love-reading-skip-grad-school/",
-    "content": "",
-    "date": "2026-05-06T11:49:40",
     "category": "Magazines"
   }
 ]
