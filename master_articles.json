@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "6a316398dd42dc4ea2f12e1b",
+    "feed_name": "Wired",
+    "title": "In Praise of a Dumb House",
+    "author": "Jill Kargman",
+    "link": "https://www.wired.com/story/in-praise-of-a-dumb-house/",
+    "content": "Tech has been encroaching on the family domicile for years\u2014but actor, writer, and satirist Jill Kargman is all in on analog.",
+    "date": "2026-06-16T15:03:35",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8788972#p8788972",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Blackbird79",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8788972#p8788972",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Just was in the IPO for SpaceX at Fidelity.  The good news is I got my full allocation I requested, a small amount.  The bad news is the process for confirmation of interest last night was between 7:30 to 12::00 EST.  The notice from Fidelity had no instructions on how to confirm my intention and it is really not easy to find on their website.  The phone number they provided was slammed and giving a busy signal.  The chat was almost as bad with 100s waiting in the queue.  I was able to figure it out eventually, but it was not the usual top notch service I have received from Fidelity in the past.  Some simple basic instructions on confirming online would have been useful.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Agree.  Don\u2019t see why they couldn\u2019t include hyperlinks in the secure message. I also didn\u2019t receive written confirmation of my shares until market open. I saw them in my account on the app about an hour earlier.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=164425\">Blackbird79</a> \u2014 Tue Jun 16, 2026 10:03 am</p><hr />",
+    "date": "2026-06-16T15:03:04",
+    "category": "Finance"
+  },
+  {
+    "id": "6a315f677dd65fa15466a3b1",
+    "feed_name": "Wired",
+    "title": "10 Designers Share the Trends Defining Dwellings of Tomorrow",
+    "author": "Mary Holland",
+    "link": "https://www.wired.com/story/10-designers-share-the-trends-defining-the-homes-of-tomorrow/",
+    "content": "From friend compounds and meditation spaces to shaded outdoor areas and rooms just to make coffee, homes are getting even more multipurpose.",
+    "date": "2026-06-16T14:52:34",
+    "category": "Magazines"
+  },
+  {
     "id": "6a3159b178156034006bcc26",
     "feed_name": "Wired",
     "title": "The Death of the Starter Home",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
     "content": "A timber truck rolled through a deforested section of the Amazon in Par\u00e1 State, Brazil, in November.",
     "date": "2026-05-06T18:25:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229194",
-    "feed_name": "Texas Tribune",
-    "title": "Connally schools superintendent appointed during Texas\u2019 takeover of district",
-    "author": "Sneha Dey",
-    "link": "https://feeds.texastribune.org/link/16799/17335669/connally-school-district-state-takeover-waco",
-    "content": "Texas Education Agency Commissioner Mike Morath named Dr. Josie Gutierrez as the new superintendent of Connally ISD.",
-    "date": "2026-05-06T18:20:07",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/arts/television/the-other-bennet-sister-bbc-britbox.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "\u2018The Other Bennet Sister\u2019 Celebrates Jane Austen\u2019s Awkward, Lovable Middle Sister",
-    "author": "Eleanor Stanford",
-    "link": "https://www.nytimes.com/2026/05/06/arts/television/the-other-bennet-sister-bbc-britbox.html",
-    "content": "Ella Bruccoleri as Mary Bennet in \u201cThe Other Bennet Sister,\u201d the BBC\u2019s most-watched new drama of the past year in Britain.",
-    "date": "2026-05-06T18:08:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/climate/weather-service-staff-storms.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Weather Service Races to Rehire as Storm Season Arrives",
-    "author": "Scott Dance, Judson Jones and Amy Graff",
-    "link": "https://www.nytimes.com/2026/05/06/climate/weather-service-staff-storms.html",
-    "content": "A member of the National Weather Service surveying a storm-damaged area in Mineral Wells, Texas, last week.",
-    "date": "2026-05-06T18:07:28",
     "category": "NYT"
   }
 ]
