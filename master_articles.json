@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "59ff80537b89ea9683dd09c1434fde17",
+    "feed_name": "Compact",
+    "title": "The Fujimori Restoration",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-fujimori-restoration/",
+    "content": "",
+    "date": "2026-06-16T15:56:28",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/16/arts/music/taylor-swift-wedding-readers.html",
     "feed_name": "NYT (Arts)",
     "title": "Tell Us Why Taylor Swift\u2019s Wedding Is Meaningful to You",
@@ -137,6 +147,16 @@
     "link": "https://www.wired.com/story/building-solutions-around-the-world/",
     "content": "Designers are finding sustainable building solves close to home\u2014in ancient practices and cutting-edge innovations alike.",
     "date": "2026-06-16T15:25:06",
+    "category": "Magazines"
+  },
+  {
+    "id": "07110adb400f7e7248b5c2005ff77e5c",
+    "feed_name": "The Atlantic",
+    "title": "Why July 4 Turned Into a Trump Rally",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/",
+    "content": "The president has never accepted that the head of state and the leader of the Republican Party are separate roles.",
+    "date": "2026-06-16T15:13:22",
     "category": "Magazines"
   },
   {
@@ -268,6 +288,16 @@
     "content": "\u201cPaddington,\u201d according to the musical\u2019s producer Sonia Friedman, is \u201ca show about fun, adventure, joy and comedy, but on a more profound level it\u2019s a story about searching for home.\u201d",
     "date": "2026-06-16T12:30:05",
     "category": "NYT"
+  },
+  {
+    "id": "e299b46b157e18a68296856f4c35c739",
+    "feed_name": "The Atlantic",
+    "title": "The Cult of Delayed Gratification Is a Lie",
+    "author": "Ian Bogost",
+    "link": "https://www.theatlantic.com/ideas/2026/06/instant-gratification-psychology-economy/687550/",
+    "content": "The sensory enchantment of everyday life can upend the bland monotony of our overly optimized, anodyne world.",
+    "date": "2026-06-16T11:00:00",
+    "category": "Magazines"
   },
   {
     "id": "6a19ad03b6c847bce706b4ee",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/us/politics/louise-lucas-fbi-raid.html",
     "content": "State Senator L. Louise Lucas of Virginia, a Democrat, helped lead the push for a more aggressive congressional map meant to give her party 10 out of the state\u2019s 11 seats in the U.S. House.",
     "date": "2026-05-06T20:21:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/dining/how-to-ace-mothers-day-dinner.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Mother\u2019s Day Dinner Ideas",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/05/05/dining/how-to-ace-mothers-day-dinner.html",
-    "content": "",
-    "date": "2026-05-06T20:16:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/business/economy/gas-prices-inequality-lower-income-consumers.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Higher Gas Prices Are Hitting Lower-Income Americans the Hardest",
-    "author": "Talmon Joseph Smith",
-    "link": "https://www.nytimes.com/2026/05/06/business/economy/gas-prices-inequality-lower-income-consumers.html",
-    "content": "Gas prices have soared since the start of the war with Iran.",
-    "date": "2026-05-06T19:52:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/opinion/neil-gorsuch-america-250-supreme-court.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Justice Neil Gorsuch on the \u2018Miracle\u2019 of Agreement on the Court",
-    "author": "David French, Derek Arthur and Jillian Weinberger",
-    "link": "https://www.nytimes.com/2026/05/06/opinion/neil-gorsuch-america-250-supreme-court.html",
-    "content": "David French and the Supreme Court justice discuss how the ideals of 1776 shaped \u2014 and strain \u2014 the country today.",
-    "date": "2026-05-06T19:49:46",
     "category": "NYT"
   }
 ]
