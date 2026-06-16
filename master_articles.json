@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a19ad03b6c847bce706b4ee",
+    "feed_name": "Wired",
+    "title": "Streamer IShowSpeed Is Gen Z\u2019s ESPN",
+    "author": "Jason Parham",
+    "link": "https://www.wired.com/story/big-interview-ishowspeed-world-cup/",
+    "content": "At 21, Speed has pushed the limits of streaming by transforming a distinctly solo format into a global group chat. His song for this year\u2019s World Cup is becoming the tournament\u2019s unofficial anthem.",
+    "date": "2026-06-16T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19314",
+    "feed_name": "Stratechery",
+    "title": "Fox Buys Roku, The Problem With Fox\u2019s Smart Strategy, Streaming That Works",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works/",
+    "content": "<p>The market hates Fox's acquisition of Roku, but the company is trading extraction from rights holders for leverage as a renter.</p>",
+    "date": "2026-06-16T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/16/dining/donohues-steak-house-closing.html",
     "feed_name": "NYT (Food)",
     "title": "Last Call at Donohue\u2019s in New York, \u2018a Museum of What Bars Used to Be\u2019",
@@ -19978,25 +19998,5 @@
     "content": "Is that too much to ask for?",
     "date": "2026-05-06T15:00:06",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/opinion/callais-voting-rights-act-discrimination.html",
-    "feed_name": "NYT (Shared)",
-    "title": "John Roberts Believes in an America That Doesn\u2019t Exist",
-    "author": "Jamelle Bouie",
-    "link": "https://www.nytimes.com/2026/05/06/opinion/callais-voting-rights-act-discrimination.html",
-    "content": "Guess who benefits from a \u201ccolorblind Constitution.\u201d",
-    "date": "2026-05-06T14:16:23",
-    "category": "NYT"
-  },
-  {
-    "id": "26705164e4c34bd8fb4f0775e715aec9",
-    "feed_name": "The Atlantic",
-    "title": "The Perverse Tyranny of a Perfect Transcript",
-    "author": "Joshua Greene",
-    "link": "https://www.theatlantic.com/ideas/2026/05/harvard-grade-inflation-gpa/687074/",
-    "content": "Why Harvard should cap A grades.",
-    "date": "2026-05-06T13:33:00",
-    "category": "Magazines"
   }
 ]
