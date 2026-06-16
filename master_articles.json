@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/16/arts/music/kennedy-center-closing-plan-judge.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Judge Orders Kennedy Center to Make a Plan for Staying Open",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/06/16/arts/music/kennedy-center-closing-plan-judge.html",
+    "content": "The John F. Kennedy Center for the Performing Arts has three days to update a federal judge on whether it still intends to push for a two-year closure for renovations, a decision he has temporarily blocked.",
+    "date": "2026-06-16T21:54:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/16/books/gregory-williams-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Gregory Williams, Academic With an Uncommon Perspective on Race, Dies at 82",
@@ -19480,6 +19490,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
+    "feed_name": "Interesting Times",
+    "title": "A Legendary Investor on How to Prevent America\u2019s Coming \u2018Heart Attack\u2019",
+    "author": "Ross Douthat, Emily Holzknecht and Sophia Alvarez Boyd",
+    "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
+    "content": "Why Ray Dalio is bearish on the U.S.",
+    "date": "2026-05-07T21:39:05",
+    "category": "Uncategorized"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/07/arts/design/venice-biennale-us-pavilion.html",
     "feed_name": "NYT (Shared)",
     "title": "At the Venice Biennale, an American Artist Plops His Sculptures on a World Stage",
@@ -19978,25 +19998,5 @@
     "content": "<p>An interview with Joanna Stern about her new book about living with AI, and starting her own media company.</p>",
     "date": "2026-05-07T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.",
-    "author": "Remy Tumin and John Yoon",
-    "link": "https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html",
-    "content": "Gabi, the newest monk at a temple in Seoul that is looking to spread Buddhism, vowed to not overcharge as it seeks enlightenment.",
-    "date": "2026-05-07T09:24:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
-    "feed_name": "NYT (Shared)",
-    "title": "True Believers Blow Trump\u2019s Mind",
-    "author": "David French",
-    "link": "https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html",
-    "content": "Our most transactional president is having trouble processing.",
-    "date": "2026-05-07T09:05:05",
-    "category": "NYT"
   }
 ]
