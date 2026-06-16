@@ -140,6 +140,26 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=233406",
+    "feed_name": "Texas Tribune",
+    "title": "No fat to trim: Texas beef industry profits eaten away by new threat \u2014 the screwworm",
+    "author": "Paul Cobler and Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17361939/texas-cattle-beef-prices-screwworm-inflation",
+    "content": "The Bradley 3 Ranch on June 14, 2026 near Memphis, Texas. It operates on 11,500 acres.",
+    "date": "2026-06-16T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233471",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Railroad Commission race pits oil field engineer against energy trader running on culture wars",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17361940/texas-railroad-commission-general-election-bo-french-jon-rosenthal-social-issues-oil-gas",
+    "content": "From left: Republican and Democratic nominees for Texas Railroad commissioner Bo French and Jon Rosenthal. French is a former Tarrant County GOP chairman; Rosenthal is a Houston-area state representative.",
+    "date": "2026-06-16T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/16/dining/donohues-steak-house-closing.html",
     "feed_name": "NYT (Food)",
     "title": "Last Call at Donohue\u2019s in New York, \u2018a Museum of What Bars Used to Be\u2019",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/05/dining/nyc-restaurant-news.html",
     "content": "Gusi focuses on Slavic and Mediterranean food, Bar Hugo provides another rooftop space and more restaurant news.",
     "date": "2026-05-06T15:19:59",
-    "category": "NYT"
-  },
-  {
-    "id": "341a49b8e71c335aa6d778d8f5afe112",
-    "feed_name": "The Atlantic",
-    "title": "A Dangerous New Attack on Press Freedom",
-    "author": "David A. Graham",
-    "link": "https://www.theatlantic.com/ideas/2026/05/kash-patel-fitzpatrick-fbi-investigation/687077/",
-    "content": "According to MS NOW, the FBI has launched an investigation into anAtlanticreporter.",
-    "date": "2026-05-06T15:01:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/opinion/alien-files-trump-release.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Neil deGrasse Tyson: Give Us the Aliens",
-    "author": "Neil deGrasse Tyson",
-    "link": "https://www.nytimes.com/2026/05/06/opinion/alien-files-trump-release.html",
-    "content": "Is that too much to ask for?",
-    "date": "2026-05-06T15:00:06",
     "category": "NYT"
   }
 ]
