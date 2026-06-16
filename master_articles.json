@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233613",
+    "feed_name": "Texas Tribune",
+    "title": "USDA has new partners in the fight against screwworm \u2014 drones, dogs and fungi",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17362326/screwworm-erradication-texas-strategy-dhs-grand-challenge",
+    "content": "U.S. Department of Agriculture Secretary Brooke Rollins at a press conference about the New World Screwworm in Kerrville on June 8, 2026.",
+    "date": "2026-06-16T22:24:02",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/16/arts/music/kennedy-center-closing-plan-judge.html",
     "feed_name": "NYT (Arts)",
     "title": "Judge Orders Kennedy Center to Make a Plan for Staying Open",
@@ -137,6 +147,16 @@
     "link": "https://www.nytimes.com/2026/06/16/books/gregory-williams-dead.html",
     "content": "Gregory Williams in 2002 at the City College of New York, during his tenure as its president. He also served as dean of the law school at the Ohio State University and president of the University of Cincinnati.",
     "date": "2026-06-16T21:32:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/pancake-mistakes-cooking-tips",
+    "feed_name": "NYT (Food)",
+    "title": "Elevate Your Pancakes With These Simple Recipe Tweaks and Tricks",
+    "author": "Melissa Clark",
+    "link": "https://cooking.nytimes.com/article/pancake-mistakes-cooking-tips",
+    "content": "For the fluffiest stack of pancakes, let the dough rest.",
+    "date": "2026-06-16T21:09:57",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "The list of power projects that want to connect to Texas&#039; grid includes a surge of natural gas power plants.",
     "date": "2026-05-07T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229237",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Republicans have a data center problem",
-    "author": "Taylor Goldenstein",
-    "link": "https://feeds.texastribune.org/link/16799/17335997/texas-republicans-data-centers-rural",
-    "content": "Rena Schroeder poses for a portrait on her ranch where she runs an equine learning nonprofit and cares for rescue livestock in Lott on May 4, 2026.",
-    "date": "2026-05-07T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=18960",
-    "feed_name": "Stratechery",
-    "title": "An Interview with Joanna Stern About Living With AI",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
-    "content": "<p>An interview with Joanna Stern about her new book about living with AI, and starting her own media company.</p>",
-    "date": "2026-05-07T10:00:00",
-    "category": "Tech"
   }
 ]
