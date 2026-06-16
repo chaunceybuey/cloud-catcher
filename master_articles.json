@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
+    "feed_name": "Douthat",
+    "title": "The Battle With Anthropic Is the Start of a New Kind of Conflict",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html",
+    "content": "The A.I. wars are here.",
+    "date": "2026-06-16T21:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8789199#p8789199",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "Why Ray Dalio is bearish on the U.S.",
     "date": "2026-05-07T09:04:22",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Ted Turner\u2019s Legacy as a Landowner and Conservationist",
-    "author": "Ronda Kaysen, Kevin Draper and Jack Healy",
-    "link": "https://www.nytimes.com/2026/05/07/realestate/ted-turner-ranch-land-legacy.html",
-    "content": "Ted Turner, a media giant, was also a visionary landowner, reshaping American conservation.",
-    "date": "2026-05-07T09:03:49",
-    "category": "NYT"
   }
 ]
