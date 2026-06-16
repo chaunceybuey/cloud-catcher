@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/15/dining/2026-james-beard-restaurant-award-winners.html",
+    "feed_name": "NYT (Food)",
+    "title": "Here Are the 2026 James Beard Restaurant Award Winners",
+    "author": "Julia Moskin",
+    "link": "https://www.nytimes.com/2026/06/15/dining/2026-james-beard-restaurant-award-winners.html",
+    "content": "Michael Tusk, of Quince and Cotogna in San Francisco, was named outstanding chef at the James Beard Awards on Monday night.",
+    "date": "2026-06-16T03:38:23",
+    "category": "NYT"
+  },
+  {
     "id": "6a30a96aeb4308e07003ef3b",
     "feed_name": "Wired (Science)",
     "title": "DOJ Lawyers Argue xAI Is \u2018Vital\u2019 for National Security in NAACP Lawsuit",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-05-06T11:49:40",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229030",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 33rd Congressional District Democratic runoff: Who is running and what to know",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17335351/texas-33rd-congressional-district-democratic-runoff-colin-allred-julie-johnson",
-    "content": "Colin Allred and U.S. Rep. Julie Johnson, D-Dallas. The two candidates are in the May runoff to be the Democratic nominee for the newly drawn 33rd Congressional District.",
-    "date": "2026-05-06T10:00:00",
-    "category": "Texas"
   }
 ]
