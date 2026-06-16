@@ -120,6 +120,66 @@
     "category": "Texas"
   },
   {
+    "id": "69c6b5181b21d7d761b74c59",
+    "feed_name": "Wired",
+    "title": "My Father Wants to Age in Place. AI Will Be Watching",
+    "author": "Steven Blum",
+    "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+    "content": "Devices that monitor seniors for safety are appealing to worried loved ones and underresourced home care agencies.",
+    "date": "2026-06-16T14:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a21cb19e68273a70fc3059e",
+    "feed_name": "Wired",
+    "title": "What Do We Need From Our Homes Right Now?",
+    "author": "Katie Drummond, Amy Astley",
+    "link": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
+    "content": "The global editorial directors of WIRED and Architectural Digest on teaming up to help you understand how we live today, and what comes next.",
+    "date": "2026-06-16T14:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "69f4f424929c2925b8a16cbd",
+    "feed_name": "Wired",
+    "title": "Traditional Home Insurance Is Collapsing. Here\u2019s What Could Fill the Gap",
+    "author": "Katie Thornton",
+    "link": "https://www.wired.com/story/ai-assisted-parametric-insurance-climate-change/",
+    "content": "A new, AI-assisted model of insurance is quietly exploding in disaster-prone areas\u2014and may be coming for FEMA too. Is it the answer to climate change, or a trap?",
+    "date": "2026-06-16T14:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a1617e5d084c8232b0f356a",
+    "feed_name": "Wired",
+    "title": "What Do Americans Spend on Housing?",
+    "author": "Sandra Upson",
+    "link": "https://www.wired.com/home-survey-renters-homeowners-affordability-crisis/",
+    "content": "WIRED surveyed readers on their housing costs. The answers paint a stark portrait of unaffordability, climate adaptation, and the death of the homeowner dream.",
+    "date": "2026-06-16T14:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "69a8e8a5d8fea122f1c70a2a",
+    "feed_name": "Wired",
+    "title": "Designing the Dream House of an 87-Year-Old Tech Visionary",
+    "author": "Steven Levy",
+    "link": "https://www.wired.com/story/stewart-brand-whole-earth-catalog-house-petaluma/",
+    "content": "An icon of Silicon Valley\u2019s counterculture, Stewart Brand is confronting his final years in a home that embodies the self-sufficient, DIY ethos of his famous Whole Earth Catalog.",
+    "date": "2026-06-16T14:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/16/arts/design/in-30000-gallons-of-water-hundreds-of-bowls-play-music-of-the-spheres.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In 30,000 Gallons of Water, Hundreds of Bowls Play Music of the Spheres",
+    "author": "Walker Mimms and Guarionex Rodriguez",
+    "link": "https://www.nytimes.com/2026/06/16/arts/design/in-30000-gallons-of-water-hundreds-of-bowls-play-music-of-the-spheres.html",
+    "content": "The French sound artist C\u00e9leste Boursier-Mougenot creates an unlikely symphony by setting singing bowls bobbing at the Park Avenue Armory.",
+    "date": "2026-06-16T13:53:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/16/theater/paddington-musical-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "The \u2018Paddington\u2019 Musical Will Come to Broadway Next Spring",
@@ -19937,66 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html",
     "content": "Laura Loomer, the far-right media figure, has emerged as one of the president\u2019s most aggressive, pro-Israel enforcers.",
     "date": "2026-05-06T17:47:12",
-    "category": "NYT"
-  },
-  {
-    "id": "69fb47a7239299e39f2d43a3",
-    "feed_name": "Wired (Science)",
-    "title": "Mexico City Is Sinking. A Powerful NASA Satellite Just Exposed How Fast",
-    "author": "Fernanda Gonz\u00e1lez",
-    "link": "https://www.wired.com/story/mexico-city-is-sinking-a-powerful-nasa-satellite-just-exposed-how-fast/",
-    "content": "A new NASA map shows how the sinking of Mexico City is uneven, with areas registering up to 2 centimeters per month.",
-    "date": "2026-05-06T17:35:06",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229172",
-    "feed_name": "Texas Tribune",
-    "title": "World Cup hotel bookings short of expectations in Texas amid anti-U.S. sentiment abroad",
-    "author": "Paul Cobler",
-    "link": "https://feeds.texastribune.org/link/16799/17335620/texas-world-cup-tourists-economic-impact",
-    "content": "The AT&amp;T Stadium in Arlington on April 24, 2026.",
-    "date": "2026-05-06T17:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
-    "author": "Jonathan Kandell",
-    "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
-    "content": "Ted Turner was a visionary media mogul who dominated the cable television industry, and extended his reach into movies, major league baseball and even yachting.",
-    "date": "2026-05-06T16:27:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/t-magazine/midcentury-design-home-restoration.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Massachusetts Home that Channels Frank Lloyd Wright",
-    "author": "Jason Chen and Chris Mottalini",
-    "link": "https://www.nytimes.com/2026/05/06/t-magazine/midcentury-design-home-restoration.html",
-    "content": "A Brooklyn contractor claimed a midcentury Massachusetts house \u2014 and most of its furniture \u2014 and had the good sense to leave it more or less alone.",
-    "date": "2026-05-06T16:18:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Guy Goma\u2019s Accidental BBC Interview Lives On After 20 Years",
-    "author": "Jonathan Wolfe",
-    "link": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
-    "content": "Guy Goma thought he was interviewing for an I.T. job when he found himself on air on the BBC. What came next was familiar to anyone who has been unprepared at work.",
-    "date": "2026-05-06T16:17:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.",
-    "author": "Farah Stockman",
-    "link": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
-    "content": "At the Bristol Myers Squibb facility in Devens, Mass., scientists use automated machines to help make cancer drugs.",
-    "date": "2026-05-06T16:14:32",
     "category": "NYT"
   }
 ]
