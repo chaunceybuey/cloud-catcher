@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/16/theater/paddington-musical-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The \u2018Paddington\u2019 Musical Will Come to Broadway Next Spring",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/16/theater/paddington-musical-broadway.html",
+    "content": "\u201cPaddington,\u201d according to the musical\u2019s producer Sonia Friedman, is \u201ca show about fun, adventure, joy and comedy, but on a more profound level it\u2019s a story about searching for home.\u201d",
+    "date": "2026-06-16T12:30:05",
+    "category": "NYT"
+  },
+  {
     "id": "6a19ad03b6c847bce706b4ee",
     "feed_name": "Wired",
     "title": "Streamer IShowSpeed Is Gen Z\u2019s ESPN",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
     "content": "At the Bristol Myers Squibb facility in Devens, Mass., scientists use automated machines to help make cancer drugs.",
     "date": "2026-05-06T16:14:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/05/dining/nyc-restaurant-news.html",
-    "feed_name": "NYT (Food)",
-    "title": "Oyatte Takes the \u2018Farm-to-Table\u2019 Approach With Just One Farm",
-    "author": "Florence Fabricant",
-    "link": "https://www.nytimes.com/2026/05/05/dining/nyc-restaurant-news.html",
-    "content": "Gusi focuses on Slavic and Mediterranean food, Bar Hugo provides another rooftop space and more restaurant news.",
-    "date": "2026-05-06T15:19:59",
     "category": "NYT"
   }
 ]
