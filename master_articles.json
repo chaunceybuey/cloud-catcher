@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/16/dining/nyc-restaurant-openings-claudette.html",
+    "feed_name": "NYT (Food)",
+    "title": "Claudette\u2019s Second Act",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/06/16/dining/nyc-restaurant-openings-claudette.html",
+    "content": "The chef Igor Almeida Cabral breathes new life into this bistro, a very large venue for Korean barbecue opens in Williamsburg, Brooklyn, and more restaurant news.",
+    "date": "2026-06-16T17:29:07",
+    "category": "NYT"
+  },
+  {
     "id": "6a288ed681b472b6e9674533",
     "feed_name": "Wired",
     "title": "The Future of Home",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html",
     "content": "Rudolph W. Giuliani, the former New York City mayor, attended the ceremony commemorating the 24th anniversary of the Sept. 11, 2001, terrorist attacks.",
     "date": "2026-05-06T23:32:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/us/politics/jack-smith-justice-dept-trump.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Jack Smith Calls the Justice Dept. \u2018Corrupted\u2019 by Trump and His Allies",
-    "author": "Glenn Thrush",
-    "link": "https://www.nytimes.com/2026/05/06/us/politics/jack-smith-justice-dept-trump.html",
-    "content": "Jack Smith, the special counsel who twice indicted President Trump, testifying at a hearing in January in Washington.",
-    "date": "2026-05-06T22:52:24",
     "category": "NYT"
   }
 ]
