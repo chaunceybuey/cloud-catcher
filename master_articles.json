@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/arts/television/matlock-lawsuit-harassment.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Matlock\u2019 Writer Sues CBS, Claiming Hostile Environment for Black Employees",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/06/17/arts/television/matlock-lawsuit-harassment.html",
+    "content": "Some of the show\u2019s leadership made harassing statements about the writer\u2019s race and sexuality, the lawsuit says. CBS said it had been unable to find support for the allegations.",
+    "date": "2026-06-17T21:37:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/06/iran-war-hawks-grief/687583/",
     "feed_name": "Chait",
     "title": "All the Sad Hawks",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/07/us/colorado-attack-soliman-life-sentence.html",
     "content": "Police officers outside a Stand Against Antisemitism and Hate event last June at the site of the attack in Boulder, Colo.",
     "date": "2026-05-07T21:53:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/06/us/hantavirus-cruise-us-passengers.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona",
-    "author": "Rylee Kirk and Nina Agrawal",
-    "link": "https://www.nytimes.com/2026/05/06/us/hantavirus-cruise-us-passengers.html",
-    "content": "Three sick people aboard the MV Hondius were evacuated on Wednesday.",
-    "date": "2026-05-07T21:43:15",
     "category": "NYT"
   }
 ]
