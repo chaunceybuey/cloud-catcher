@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233624",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Deep in the heart of the Texas GOP convention",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17362348/tribcast-texas-gop-convention-elephant",
+    "content": "State Sen. Bob Hall, R-Edgewood, delivers a message to party delegates during the opening ceremony of the 2026 Texas State Republican Convention on Thursday, June 11, 2026 in Houston.",
+    "date": "2026-06-16T23:06:21",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233622",
+    "feed_name": "Texas Tribune",
+    "title": "Former Lt. Gov. nominee Mike Collier sues over Texas\u2019 onerous rules for independent candidates",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17362349/texas-independent-candidate-ballot-rules-lawsuit-mike-collier-secretary-of-state",
+    "content": "Mike Collier, a former candidate for Texas lieutenant governor, speaks at the Turn Up the Vote event in Austin on Oct. 23, 2022.",
+    "date": "2026-06-16T22:43:25",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233613",
     "feed_name": "Texas Tribune",
     "title": "USDA has new partners in the fight against screwworm \u2014 drones, dogs and fungi",
@@ -19978,25 +19998,5 @@
     "content": "A bad-tempered battle for a big German bank",
     "date": "2026-05-07T10:19:27",
     "category": "Magazines"
-  },
-  {
-    "id": "80902133-de3c-4441-a2c5-b068de5ac250",
-    "feed_name": "Economist",
-    "title": "Donald Trump\u2019s foreign policy gets a muscular finance arm",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/07/donald-trumps-foreign-policy-gets-a-muscular-finance-arm",
-    "content": "The Development Finance Corporation\u2019s loan book may soon rival the World Bank\u2019s",
-    "date": "2026-05-07T10:12:19",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229163",
-    "feed_name": "Texas Tribune",
-    "title": "Gas power leapfrogs wind for first time in 10 years in Texas\u2019 grid connection queue",
-    "author": "By Brandon Mulder, graphic by Chris Essig",
-    "link": "https://feeds.texastribune.org/link/16799/17335996/texas-power-grid-ercot-interconnection-queue-gas-wind",
-    "content": "The list of power projects that want to connect to Texas&#039; grid includes a surge of natural gas power plants.",
-    "date": "2026-05-07T10:00:00",
-    "category": "Texas"
   }
 ]
