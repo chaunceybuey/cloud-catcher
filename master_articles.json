@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/us/robert-thurman-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Robert Thurman, Leading Expert on Tibetan Buddhism and Uma Thurman\u2019s Father, Dies at 84",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/06/17/us/robert-thurman-dead.html",
+    "content": "Robert Thurman in 2015. He brought an infectious energy to the endless lectures and conferences he organized around Buddhism.",
+    "date": "2026-06-17T23:15:08",
+    "category": "NYT"
+  },
+  {
+    "id": "3869a355c4485837afb3026a50a66b9d",
+    "feed_name": "The Atlantic",
+    "title": "What Did You Expect?",
+    "author": "Daniel B. Shapiro",
+    "link": "https://www.theatlantic.com/ideas/2026/06/trump-iran-war-reversals/687590/",
+    "content": "Perhaps this was always how Trump\u2019s ill-conceived war was destined to end.",
+    "date": "2026-06-17T22:59:15",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233723",
     "feed_name": "Texas Tribune",
     "title": "West Texas organization sues Trump administration to stop border wall in Big Bend",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/07/arts/design/new-york-gilded-age-walking-tour.html",
     "content": "The Andrew Carnegie residence on 91st Street is now the Cooper Hewitt, Smithsonian Design Museum.",
     "date": "2026-05-07T22:30:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/movies/the-sheep-detectives-review.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "\u2018The Sheep Detectives\u2019 Review: A Murder Most Fleecy",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/05/07/movies/the-sheep-detectives-review.html",
-    "content": "A flock of sheep and Hugh Jackman star in a delightful Agatha Christie-style mystery set in an English village.",
-    "date": "2026-05-07T22:24:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/us/politics/special-counsel-lawyer-misconduct.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Special Counsel to Investigate Trump Administration Lawyer for Possible Misconduct",
-    "author": "Mattathias Schwartz",
-    "link": "https://www.nytimes.com/2026/05/07/us/politics/special-counsel-lawyer-misconduct.html",
-    "content": "The Rhode Island incident is the latest in a string of immigration enforcement cases in which judges have expressed anger with administration lawyers, particularly as they have provided information from D.H.S. officials.",
-    "date": "2026-05-07T21:54:38",
     "category": "NYT"
   }
 ]
