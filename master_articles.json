@@ -250,6 +250,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/hugo-spritz-new-aperol-spritz",
+    "feed_name": "NYT (Food)",
+    "title": "The Hugo Spritz is the New King of Breezy Summer Drinking",
+    "author": "Kendra Vaculin",
+    "link": "https://cooking.nytimes.com/article/hugo-spritz-new-aperol-spritz",
+    "content": "The Hugo spritz is the new king of breezy summer drinking.",
+    "date": "2026-06-17T09:00:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/17/arts/as-the-job-market-stutters-simulated-work-is-surging.html",
     "feed_name": "NYT (Arts)",
     "title": "As the Job Market Stutters, Simulated Work Is Surging",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/",
     "content": "\u201cImagine the tech without the tech companies.\u201d",
     "date": "2026-05-07T14:52:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/28/irans-new-winter-christopher-de-bellaigue/",
-    "feed_name": "NYRB",
-    "title": "Iran\u2019s New Winter",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/28/irans-new-winter-christopher-de-bellaigue/",
-    "content": "The US-Israeli war against Iran, far from encouraging a popular uprising, has strengthened the regime\u2019s grip and set back the cause of Iranian freedom indefinitely.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-07T14:19:09",
     "category": "Magazines"
   }
 ]
