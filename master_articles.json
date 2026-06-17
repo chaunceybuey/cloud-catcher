@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",
+    "author": "Jonathan Kandell",
+    "link": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
+    "content": "Carlo Ginzburg in Bologna, Italy, in 1996. When he embarked on his research in 1960s, there was little interest in discovering what the everyday people of centuries past thought and believed.",
+    "date": "2026-06-17T16:46:04",
+    "category": "NYT"
+  },
+  {
     "id": "2b12d9b42786497db46eda4700d3cd61",
     "feed_name": "LRB",
     "title": "A Tradcath Wedding",
@@ -19988,15 +19998,5 @@
     "content": "Mifepristone pills on Aug. 18, 2023.",
     "date": "2026-05-07T20:34:40",
     "category": "Texas"
-  },
-  {
-    "id": "cbf71a90d9e40ed8634fdf884dffdf9b",
-    "feed_name": "LRB",
-    "title": "Daniel Trilling & William Davies: If We Tolerate This",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/daniel-trilling-william-davies-if-we-tolerate-this-tickets-1986078167262",
-    "content": "",
-    "date": "2026-05-07T20:16:03",
-    "category": "Magazines"
   }
 ]
