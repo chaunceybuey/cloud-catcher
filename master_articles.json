@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/movies/curse-of-the-seven-jackals-anthology-film-archives.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Curse of the Seven Jackals\u2019: A Film Made to Be Exhumed",
+    "author": "J. Hoberman",
+    "link": "https://www.nytimes.com/2026/06/17/movies/curse-of-the-seven-jackals-anthology-film-archives.html",
+    "content": "Bernard (Kevin Barnes from the band Of Montreal) signs on to test an experimental form of synthetic blood.",
+    "date": "2026-06-17T12:07:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/17/arts/music/hagen-quartet-farewell-tour.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hagen Quartet Is Taking Its Final Bows After 45 Years",
+    "author": "Jeffrey Arlo Brown",
+    "link": "https://www.nytimes.com/2026/06/17/arts/music/hagen-quartet-farewell-tour.html",
+    "content": "Formed by siblings who grew up playing together, the Hagen Quartet is finishing a farewell tour with an unforced, casual goodbye.",
+    "date": "2026-06-17T11:50:20",
+    "category": "NYT"
+  },
+  {
+    "id": "f50810c3966005c3e285980162432614",
+    "feed_name": "Compact",
+    "title": "A Jewish Frenchman\u2019s Case for Christian Nationalism",
+    "author": "",
+    "link": "https://www.compactmag.com/article/a-jewish-frenchmans-case-for-christian-nationalism/",
+    "content": "",
+    "date": "2026-06-17T11:49:48",
+    "category": "Magazines"
+  },
+  {
     "id": "6a300468659425fd40b8cca3",
     "feed_name": "Wired",
     "title": "Tim Heidecker Wants to Turn Infowars Into Adult Swim for the Internet",
@@ -200,6 +230,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/arts/television/matthew-rhys-widows-bay.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Matthew Rhys, of \u2018Widow\u2019s Bay,\u2019 Is on a Boat. Barely.",
+    "author": "Alexis Soloski and Blaise Cepis",
+    "link": "https://www.nytimes.com/2026/06/17/arts/television/matthew-rhys-widows-bay.html",
+    "content": "The star of this seafaring horror-comedy, which wraps up Season 1 on Wednesday, also spends his downtime on the water.",
+    "date": "2026-06-17T09:04:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/17/arts/design/bruce-nauman-art.html",
     "feed_name": "NYT (Arts)",
     "title": "Bruce Nauman on How to Make Art: Don\u2019t Try",
@@ -238,6 +278,16 @@
     "content": "President Trump \u201cpromised he would drain the swamp,\u201d Jimmy Kimmel said. \u201cInstead, he spent 14 million of our dollars building a new one.\u201d",
     "date": "2026-06-17T05:32:34",
     "category": "NYT"
+  },
+  {
+    "id": "e15fe4abacbb4ec8ca835db25d441faa",
+    "feed_name": "Outside",
+    "title": "Low Water, No Problem. We Took a Packraft Down One of the Most Remote (and Stunning) Rivers in the West.",
+    "author": "Owen Clarke",
+    "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/owyhee-river-packrafting/",
+    "content": "",
+    "date": "2026-06-17T03:38:02",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=233624",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/05/28/irans-new-winter-christopher-de-bellaigue/",
     "content": "The US-Israeli war against Iran, far from encouraging a popular uprising, has strengthened the regime\u2019s grip and set back the cause of Iranian freedom indefinitely.\n\nDelivered by PolitePaul service",
     "date": "2026-05-07T14:19:09",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
-    "author": "Gregory Schmidt",
-    "link": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html",
-    "content": "Shell reported huge profits for the oil company in the first three months of the year.",
-    "date": "2026-05-07T13:50:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
-    "feed_name": "NYT (Shared)",
-    "title": "War and Energy Shortages Boost China\u2019s Influence in Asia",
-    "author": "Alexandra Stevenson and Murphy Zhao",
-    "link": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
-    "content": "Oil storage tanks at a depot in Hong Kong. Shipments of Chinese oil products to select countries have offered relief during the war and underscored how Beijing engenders good will in times of crisis, experts say.",
-    "date": "2026-05-07T13:15:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/science/dementia-memory-brain-injury.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "What My Father\u2019s Experience Taught Me About Memory and the Brain",
-    "author": "Ellen Barry and Graham Dickie",
-    "link": "https://www.nytimes.com/2026/05/07/science/dementia-memory-brain-injury.html",
-    "content": "In the final stages of his dementia, a long-lost memory from childhood returned, perfectly formed. What was going on in his brain?",
-    "date": "2026-05-07T12:55:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/28/the-sage-of-washington-walter-lippmann/",
-    "feed_name": "NYRB",
-    "title": "The Sage of Washington",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/28/the-sage-of-washington-walter-lippmann/",
-    "content": "Walter Lippmann was the most influential political commentator of his generation, but behind his preternatural confidence was a far more complicated and unsettled character.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-07T12:48:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/28/a-dream-of-a-socialist-commonwealth-the-jewish-bund/",
-    "feed_name": "NYRB",
-    "title": "A Dream of a Socialist Commonwealth",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/28/a-dream-of-a-socialist-commonwealth-the-jewish-bund/",
-    "content": "Molly Crabapple\u2019s history of the Bund recovers an egalitarian, secular, cosmopolitan vision of Jewish identity and political life that was lost in the horrors of the twentieth century.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-07T12:33:48",
     "category": "Magazines"
   }
 ]
