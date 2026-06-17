@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233723",
+    "feed_name": "Texas Tribune",
+    "title": "West Texas organization sues Trump administration to stop border wall in Big Bend",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17362949/texas-border-wall-presidio-county-lawsuit-big-bend",
+    "content": "A canoe serves as a protest sign against a border wall in Redford on June 5, 2026.",
+    "date": "2026-06-17T22:14:46",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/17/arts/television/matlock-lawsuit-harassment.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Matlock\u2019 Writer Sues CBS, Claiming Hostile Environment for Black Employees",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/07/us/politics/special-counsel-lawyer-misconduct.html",
     "content": "The Rhode Island incident is the latest in a string of immigration enforcement cases in which judges have expressed anger with administration lawyers, particularly as they have provided information from D.H.S. officials.",
     "date": "2026-05-07T21:54:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/us/colorado-attack-soliman-life-sentence.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Mohamed Sabry Soliman Is Sentenced to Life in Prison for Colorado Attack",
-    "author": "Kelley Manley and Jack Healy",
-    "link": "https://www.nytimes.com/2026/05/07/us/colorado-attack-soliman-life-sentence.html",
-    "content": "Police officers outside a Stand Against Antisemitism and Hate event last June at the site of the attack in Boulder, Colo.",
-    "date": "2026-05-07T21:53:11",
     "category": "NYT"
   }
 ]
