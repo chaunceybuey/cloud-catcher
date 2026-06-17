@@ -140,6 +140,16 @@
     "category": "NYT"
   },
   {
+    "id": "da02ce85df06e42256042ad138081d75",
+    "feed_name": "The Atlantic",
+    "title": "All the Sad Hawks",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/06/iran-war-hawks-grief/687583/",
+    "content": "Neoconservatives are struggling to reconcile their hopes for Trump with the failure of his Iran war.",
+    "date": "2026-06-17T18:36:17",
+    "category": "Magazines"
+  },
+  {
     "id": "e2e0b4f38496c5baed30f123e4901ac5",
     "feed_name": "The Atlantic",
     "title": "Trump Has Entered His Decline",
@@ -19988,15 +19998,5 @@
     "content": "Three sick people aboard the MV Hondius were evacuated on Wednesday.",
     "date": "2026-05-07T21:43:15",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
-    "feed_name": "Interesting Times",
-    "title": "A Legendary Investor on How to Prevent America\u2019s Coming \u2018Heart Attack\u2019",
-    "author": "Ross Douthat, Emily Holzknecht and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html",
-    "content": "Why Ray Dalio is bearish on the U.S.",
-    "date": "2026-05-07T21:39:05",
-    "category": "Uncategorized"
   }
 ]
