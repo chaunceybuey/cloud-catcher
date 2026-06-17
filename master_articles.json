@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/briefing/17-the-good-list-knicks-memory.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Bring Joy to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/06/17/briefing/17-the-good-list-knicks-memory.html",
+    "content": "A memory workout, an endless playlist and an antidote to worry.",
+    "date": "2026-06-17T17:42:28",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233669",
     "feed_name": "Texas Tribune",
     "title": "Former Texas Tribune board member killed in Laredo plane crash",
@@ -19988,15 +19998,5 @@
     "content": "Masked federal agents have been a frequent presence outside immigration courtrooms in New York City.",
     "date": "2026-05-07T20:55:08",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229371",
-    "feed_name": "Texas Tribune",
-    "title": "Texas agency that inspects jails doesn\u2019t go far to find its new director",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17336430/texas-commission-jail-standards-executive-director",
-    "content": "Ricky Armstrong, named executive director of the Texas Commission on Jail Standards, stands for a portrait in Austin on Jan. 08, 2026.",
-    "date": "2026-05-07T20:48:13",
-    "category": "Texas"
   }
 ]
