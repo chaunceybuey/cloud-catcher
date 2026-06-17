@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/dining/no-cook-tzatziki-chickpea-salad-yes-please.html",
+    "feed_name": "NYT (Food)",
+    "title": "No-Cook Tzatziki Chickpea Salad? Yes, Please.",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/06/17/dining/no-cook-tzatziki-chickpea-salad-yes-please.html",
+    "content": "Hetty Lui McKinnon\u2019s tzatziki chickpea salad.",
+    "date": "2026-06-17T15:00:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/17/movies/curse-of-the-seven-jackals-anthology-film-archives.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Curse of the Seven Jackals\u2019: A Film Made to Be Exhumed",
@@ -265,6 +275,16 @@
     "title": "As the Job Market Stutters, Simulated Work Is Surging",
     "author": "Lewis Gordon",
     "link": "https://www.nytimes.com/2026/06/17/arts/as-the-job-market-stutters-simulated-work-is-surging.html",
+    "content": "By asking players to perform repetitive labor in mundane settings, game designers are delivering relatable twists on the tycoon genre.",
+    "date": "2026-06-17T09:00:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/17/arts/video-games-work-job-simulators.html",
+    "feed_name": "NYT (Arts)",
+    "title": "As the Job Market Stutters, Simulated Work Is Surging",
+    "author": "Lewis Gordon",
+    "link": "https://www.nytimes.com/2026/06/17/arts/video-games-work-job-simulators.html",
     "content": "By asking players to perform repetitive labor in mundane settings, game designers are delivering relatable twists on the tycoon genre.",
     "date": "2026-06-17T09:00:27",
     "category": "NYT"
@@ -19978,25 +19998,5 @@
     "content": "Seven candidates competing to be the next governor of California met for a debate at the Skirball Cultural Center in Los Angeles on Wednesday.",
     "date": "2026-05-07T15:06:48",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/well/metastatic-lung-cancer-study.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "About Half of Patients with Metastatic Lung Cancer Don\u2019t Get Treatment, Study Finds",
-    "author": "Simar Bajaj",
-    "link": "https://www.nytimes.com/2026/05/07/well/metastatic-lung-cancer-study.html",
-    "content": "New drugs have made America\u2019s deadliest cancer more treatable than ever. So why aren\u2019t they reaching patients?",
-    "date": "2026-05-07T15:01:03",
-    "category": "NYT"
-  },
-  {
-    "id": "c4756ea1ae43efddc8c64e7fbf696a94",
-    "feed_name": "The Atlantic",
-    "title": "The Secret to Understanding AI",
-    "author": "Josh Tyrangiel",
-    "link": "https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/",
-    "content": "\u201cImagine the tech without the tech companies.\u201d",
-    "date": "2026-05-07T14:52:31",
-    "category": "Magazines"
   }
 ]
