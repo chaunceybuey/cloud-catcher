@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "e2e0b4f38496c5baed30f123e4901ac5",
+    "feed_name": "The Atlantic",
+    "title": "Trump Has Entered His Decline",
+    "author": "Peter Wehner",
+    "link": "https://www.theatlantic.com/ideas/2026/06/trump-decline-ufc-fight/687582/",
+    "content": "The president\u2019s 80th birthday was in many ways the apotheosis of his administration.",
+    "date": "2026-06-17T18:02:19",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/17/briefing/17-the-good-list-knicks-memory.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Bring Joy to Your Day",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/07/us/florida-alligator-alcatraz-possible-closure.html",
     "content": "President Trump and Kristi Noem, the homeland security secretary at the time, toured the immigration center known as Alligator Alcatraz with Gov. Ron DeSantis of Florida and James Uthmeier, the state\u2019s attorney general, last July.",
     "date": "2026-05-07T21:17:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/nyregion/ice-masks-hochul-ny.html",
-    "feed_name": "NYT (Shared)",
-    "title": "New York Bars ICE Agents From Wearing Masks in Broad Immigration Deal",
-    "author": "Grace Ashford",
-    "link": "https://www.nytimes.com/2026/05/07/nyregion/ice-masks-hochul-ny.html",
-    "content": "Masked federal agents have been a frequent presence outside immigration courtrooms in New York City.",
-    "date": "2026-05-07T20:55:08",
     "category": "NYT"
   }
 ]
