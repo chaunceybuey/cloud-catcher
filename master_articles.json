@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/arts/television/late-night-trump-reflecting-pool-algae.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Wades Into the Reflecting Pool\u2019s Algae Bloom",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/17/arts/television/late-night-trump-reflecting-pool-algae.html",
+    "content": "President Trump \u201cpromised he would drain the swamp,\u201d Jimmy Kimmel said. \u201cInstead, he spent 14 million of our dollars building a new one.\u201d",
+    "date": "2026-06-17T05:32:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233624",
     "feed_name": "Texas Tribune",
     "title": "TribCast: Deep in the heart of the Texas GOP convention",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords",
     "content": "Technology firms are reviving (a few) Chinese commercial-property markets",
     "date": "2026-05-07T10:19:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "c5bd51d7-2e7f-427a-9dc1-eb7470f6fc61",
-    "feed_name": "Economist",
-    "title": "Unicredit\u2019s lowball bid for Commerzbank causes consternation",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/07/unicredits-lowball-bid-for-commerzbank-causes-consternation",
-    "content": "A bad-tempered battle for a big German bank",
-    "date": "2026-05-07T10:19:27",
     "category": "Magazines"
   }
 ]
