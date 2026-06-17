@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a300468659425fd40b8cca3",
+    "feed_name": "Wired",
+    "title": "Tim Heidecker Wants to Turn Infowars Into Adult Swim for the Internet",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-tim-heidecker/",
+    "content": "Infowars\u2019 would-be creative director talks Sandy Hook, comedy\u2019s MAGA turn, and why the future of satire may look more like a streaming startup than a late-night show.",
+    "date": "2026-06-17T10:30:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a2c3d28096080b222c362be",
+    "feed_name": "Wired (Science)",
+    "title": "West Antarctica Is Missing Way Too Much Ice",
+    "author": "Graham Readfearn",
+    "link": "https://www.wired.com/story/west-antarctica-is-missing-way-too-much-ice/",
+    "content": "Temperatures have climbed up to 45 degrees Fahrenheit above normal, stopping ice from forming in the dead of Antarctic winter.",
+    "date": "2026-06-17T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/snap-benefits-children-food-stamps",
     "feed_name": "ProPublica",
     "title": "More Than 770,000 Children Are No Longer Receiving SNAP Benefits After Trump Changes Federal Food Program",
@@ -148,6 +168,26 @@
     "content": "<p>The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.</p>",
     "date": "2026-06-17T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233600",
+    "feed_name": "Texas Tribune",
+    "title": "Former employee\u2019s ethics complaint alleges age discrimination in Rep. Troy Nehls\u2019 office",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17362526/texas-troy-nehls-ethics-complaint-age-discrimination",
+    "content": "U.S. Rep. Troy Nehls, R-Richmond, speaks at the Texas Youth Summit in The Woodlands on Sept. 17, 2022.",
+    "date": "2026-06-17T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233633",
+    "feed_name": "Texas Tribune",
+    "title": "As data centers seek to tap Texas\u2019 energy, grid regulators are close to approving a new way of vetting requests",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17362527/texas-ercot-data-center-energy-grid",
+    "content": "The ERCOT board of directors meet at the organization&#039;s Austin headquarters on Dec. 3, 2024.",
+    "date": "2026-06-17T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/06/17/arts/television/matthew-rhys-of-widows-bay-is-on-a-boat-barely.html",
@@ -19958,45 +19998,5 @@
     "content": "Molly Crabapple\u2019s history of the Bund recovers an egalitarian, secular, cosmopolitan vision of Jewish identity and political life that was lost in the horrors of the twentieth century.\n\nDelivered by PolitePaul service",
     "date": "2026-05-07T12:33:48",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.",
-    "author": "Anna Louie Sussman",
-    "link": "https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html",
-    "content": "We can\u2019t be certain \u2014\u00a0and that\u2019s the point.",
-    "date": "2026-05-07T12:33:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/28/scarred-in-hong-kong-city-like-water-dorothy-tse/",
-    "feed_name": "NYRB",
-    "title": "Scarred in Hong Kong",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/28/scarred-in-hong-kong-city-like-water-dorothy-tse/",
-    "content": "Recent fiction by Hong Kong writers explores life in a society traumatized by ever-tightening Chinese national security laws that suppress political discussion and artistic freedom.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-07T12:18:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/28/what-happened-in-vegas-john-gregory-dunne/",
-    "feed_name": "NYRB",
-    "title": "What Happened in Vegas",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/28/what-happened-in-vegas-john-gregory-dunne/",
-    "content": "An impulsive trip to America\u2019s \u201cidiot Disneyland\u201d thrust John Gregory Dunne among characters who, like him, sought distraction from their private miseries.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-07T12:03:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/us/florida-conservative-history-course-ap.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Florida Creates a More Conservative Course to Rival A.P. History",
-    "author": "Dana Goldstein",
-    "link": "https://www.nytimes.com/2026/05/07/us/florida-conservative-history-course-ap.html",
-    "content": "Gov. Ron DeSantis has pushed forward a more conservative agenda for Florida\u2019s schools, including through criticism of Advanced Placement courses.",
-    "date": "2026-05-07T11:54:44",
-    "category": "NYT"
   }
 ]
