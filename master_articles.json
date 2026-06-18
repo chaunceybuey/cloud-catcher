@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://stratechery.com/?p=19334",
+    "feed_name": "Stratechery",
+    "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+    "content": "<p>An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles. </p>",
+    "date": "2026-06-18T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "7938e862-4e8e-4425-a79f-9db7d61abea0",
     "feed_name": "Economist",
     "title": "A new golden age for Japanese banks comes with a catch",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/08/arts/music/ron-carter-jazz-music.html",
     "content": "Christian McBride, Endea Owens, Large Professor and more writers and musicians share favorite tracks from the bass maestro, who turned 89 this week.",
     "date": "2026-05-08T09:01:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/business/retirees-back-to-work-money.html",
-    "feed_name": "NYT (Shared)",
-    "title": "\u2018Fired From Retirement\u2019: Financially Insecure, Older Americans Return to the Grind",
-    "author": "Kurtis Lee",
-    "link": "https://www.nytimes.com/2026/05/08/business/retirees-back-to-work-money.html",
-    "content": "Pat Archer retired several years ago but found that her Social Security and small pension couldn\u2019t keep up with her bills. She found part-time work \u2014 in a retirement home.",
-    "date": "2026-05-08T09:01:01",
     "category": "NYT"
   }
 ]
