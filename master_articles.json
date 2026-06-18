@@ -270,6 +270,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Toy Story 5\u2019 Review: The Machines Have Come for the Children",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/06/18/movies/toy-story-5-review.html",
+    "content": "In this latest installment of the popular franchise, Woody and Buzz Lightyear are back and must contend with Bonnie\u2019s mesmerizing new toy.",
+    "date": "2026-06-18T09:01:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/18/movies/rose-of-nevada-review-mysterious-voyage.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Rose of Nevada\u2019 Review: Out of the Mists of Time and Back Again",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html",
     "content": "Meta has commenced a long, slow slide into irrelevance.",
     "date": "2026-05-08T09:04:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/movies/the-sheep-detectives-hugh-jackman-julia-louis-dreyfus.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How \u2018The Sheep Detectives\u2019 Brought its Ovine Sleuths to Life",
-    "author": "Sarah Lyall",
-    "link": "https://www.nytimes.com/2026/05/08/movies/the-sheep-detectives-hugh-jackman-julia-louis-dreyfus.html",
-    "content": "The filmmakers behind this adaptation of a best-selling novel were adamant that their ovine sleuths not seem like humans in, well, sheep\u2019s clothing.",
-    "date": "2026-05-08T09:03:36",
     "category": "NYT"
   }
 ]
