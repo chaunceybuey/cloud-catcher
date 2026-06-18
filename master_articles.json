@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "b8e866d3fc51e07fa8c7f2a6b15b92db",
+    "feed_name": "The Atlantic",
+    "title": "The Left-Wing Case Against Anti-Zionism",
+    "author": "Adam Louis-Klein",
+    "link": "https://www.theatlantic.com/ideas/2026/06/left-against-antizionism-israel/687616/",
+    "content": "Discrimination against Israelis qua Israelis\u2014and the \u201cZionists\u201d who appear as their proxies\u2014is a moral wrong.",
+    "date": "2026-06-18T19:49:14",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/18/dining/world-cup-tourists-food-videos.html",
     "feed_name": "NYT (Food)",
     "title": "These World Cup Tourists Loving American Food Aren\u2019t All What They Seem",
@@ -19988,15 +19998,5 @@
     "content": "The Defense Department has released a new trove of declassified documents about government UFO sightings.",
     "date": "2026-05-08T18:18:24",
     "category": "Magazines"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/20-minute-family-dinner-ideas",
-    "feed_name": "NYT (Food)",
-    "title": "7 Busy Parents Share Their Quickest Go-To Dinners",
-    "author": "Margaux Laskey",
-    "link": "https://cooking.nytimes.com/article/20-minute-family-dinner-ideas",
-    "content": "End-of-school year chaos has arrived. These 20-minute (or less) meals will get you cooking through it.",
-    "date": "2026-05-08T18:15:08",
-    "category": "NYT"
   }
 ]
