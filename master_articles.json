@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233807",
+    "feed_name": "Texas Tribune",
+    "title": "Landmark $211M tax-break deal could trump SpaceX\u2019s deal in South Texas",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17363543/tax-abatement-saronic-brownsville-texas",
+    "content": "Saronic, an Austin-based manufacturer, is seeking tax abatements to build a manufacturing facility in Brownsville to build AI-guided boats.",
+    "date": "2026-06-18T21:02:40",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/18/dining/looking-for-a-perfect-world-cup-bar-we-found-three.html",
     "feed_name": "NYT (Food)",
     "title": "Looking for a Perfect World Cup Bar? We Found Three.",
@@ -19987,16 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/20-minute-family-dinner-ideas",
     "content": "End-of-school year chaos has arrived. These 20-minute (or less) meals will get you cooking through it.",
     "date": "2026-05-08T18:15:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
-    "feed_name": "NYT (Shared)",
-    "title": "David Attenborough, a Voice of Nature, Turns 100",
-    "author": "Jonathan Wolfe",
-    "link": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
-    "content": "Mr. Attenborough enrolled at the University of Cambridge in 1945, where he studied natural sciences, including geology and zoology.",
-    "date": "2026-05-08T17:29:39",
     "category": "NYT"
   }
 ]
