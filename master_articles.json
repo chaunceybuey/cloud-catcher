@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Daveigh Chase, \u2018Lilo & Stitch\u2019 Voice Actor and \u2018The Ring\u2019 Villain, Dies at 35",
+    "author": "John S.W. MacDonald",
+    "link": "https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html",
+    "content": "Daveigh Chase in 2011. Her father said she had struggled with drugs since the age of 13.",
+    "date": "2026-06-18T00:56:35",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/17/us/robert-thurman-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Robert Thurman, Leading Expert on Tibetan Buddhism and Uma Thurman\u2019s Father, Dies at 84",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/07/realestate/rv-life-retirement-downsizing.html",
     "content": "Beverly Brown has been living out of her camper van since 2019. \u201cIt\u2019s my dream van now,\u201d she said.",
     "date": "2026-05-07T23:12:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/arts/design/new-york-gilded-age-walking-tour.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Stroll Through the Mansions of New York\u2019s Gilded Age",
-    "author": "Sarah Lyall",
-    "link": "https://www.nytimes.com/2026/05/07/arts/design/new-york-gilded-age-walking-tour.html",
-    "content": "The Andrew Carnegie residence on 91st Street is now the Cooper Hewitt, Smithsonian Design Museum.",
-    "date": "2026-05-07T22:30:08",
     "category": "NYT"
   }
 ]
