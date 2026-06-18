@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-an-unexpected-recipient.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Voicemails for Isabelle\u2019 Review: An Unexpected Recipient",
+    "author": "Glenn Kenny",
+    "link": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-an-unexpected-recipient.html",
+    "content": "The movie, starring Zoey Deutch and Nick Robinson, begins as a tear-jerker and morphs into a poignant rom-com.",
+    "date": "2026-06-18T23:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233821",
+    "feed_name": "Texas Tribune",
+    "title": "Paxton breaks with Texas GOP\u2019s anti-IVF platform, saying he supports the procedure",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17363612/texas-paxton-republican-ivf-platform",
+    "content": "Texas Attorney General and Republican candidate for U.S. Senate Ken Paxton speaks to delegates and attendees at the 2026 Texas State Republican Convention in Houston on June 12, 2026.",
+    "date": "2026-06-18T22:44:59",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233807",
     "feed_name": "Texas Tribune",
     "title": "Landmark $211M tax-break deal could trump SpaceX\u2019s deal in South Texas",
@@ -19978,25 +19998,5 @@
     "content": "Readers respond to an essay about old people preparing (or not) for the end. Also: Antisemitism online; Trump the destroyer; two types of dreaming.",
     "date": "2026-05-08T18:47:08",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html",
-    "feed_name": "NYT (Shared)",
-    "title": "ABC Accuses Government of Violating First Amendment",
-    "author": "Jim Rutenberg and John Koblin",
-    "link": "https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html",
-    "content": "The filing on Friday was registered on behalf of a single ABC station in Houston and involved a minor regulatory dispute over the talk show \u201cThe View,\u201d which regularly hosts politicians and cultural figures.",
-    "date": "2026-05-08T18:36:51",
-    "category": "NYT"
-  },
-  {
-    "id": "69fdebba64b2ad9bfec62f4f",
-    "feed_name": "Wired (Science)",
-    "title": "The Pentagon Releases New Trove of Declassified UFO Files",
-    "author": "Becky Ferreira",
-    "link": "https://www.wired.com/story/pentagon-drops-new-ufo-files/",
-    "content": "The Defense Department has released a new trove of declassified documents about government UFO sightings.",
-    "date": "2026-05-08T18:18:24",
-    "category": "Magazines"
   }
 ]
