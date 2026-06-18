@@ -120,6 +120,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/18/arts/design/england-outdoor-sculpture-shows.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Outdoor Sculpture Shows Feature Henry Moore, Lynn Chadwick in England This Summer",
+    "author": "Scott Reyburn",
+    "link": "https://www.nytimes.com/2026/06/18/arts/design/england-outdoor-sculpture-shows.html",
+    "content": "As art lovers head to London for the Treasure House Fair, outdoor sculpture shows featuring Henry Moore, Lynn Chadwick and big names beckon.",
+    "date": "2026-06-18T18:13:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/18/arts/design/treasure-house-fair-london.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Treasure House Fair Arrives at the Right Time in London",
+    "author": "Dale Berning Sawa",
+    "link": "https://www.nytimes.com/2026/06/18/arts/design/treasure-house-fair-london.html",
+    "content": "London, with its well-known locations like the Palace of Westminster\u2019s Elizabeth Tower, which houses Big Ben, has traditionally drawn art dealers and collectors in late June.",
+    "date": "2026-06-18T18:10:18",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/18/arts/design/cao-fei-kunstmuseum-basel.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Artist Cao Fei Weighs How We Can Preserve Our Humanity in the Age of A.I.",
+    "author": "Farah Nayeri",
+    "link": "https://www.nytimes.com/2026/06/18/arts/design/cao-fei-kunstmuseum-basel.html",
+    "content": "In a major show at the Kunstmuseum Basel, Gegenwart, the artist considers technology, humanity and how people can preserve \u201cour human life\u201d in the age of A.I.",
+    "date": "2026-06-18T18:06:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/18/arts/design/ramon-saturnino-art-basel.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Mexican Artist Ram\u00f2n Saturnino Is Breaking Down Walls",
+    "author": "Ray Mark Rinaldi",
+    "link": "https://www.nytimes.com/2026/06/18/arts/design/ramon-saturnino-art-basel.html",
+    "content": "Ram\u00f2n Saturnino, a Mexican architect and artist, is looking to create art that tells a story beyond his politics.",
+    "date": "2026-06-18T17:56:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/06/vance-surrender-iran-trump/687597/",
     "feed_name": "Chait",
     "title": "If Only Trump Knew What Vance Is Doing",
@@ -19958,45 +19998,5 @@
     "content": "",
     "date": "2026-05-08T13:55:24",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/books/philip-caputo-dead.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Philip Caputo, Who Wrote Blistering Vietnam War Memoir, Dies at 84",
-    "author": "Joseph Berger",
-    "link": "https://www.nytimes.com/2026/05/08/books/philip-caputo-dead.html",
-    "content": "Philip Caputo in 1987. \u201cTo call it the best book about Vietnam is to trivialize it,\u201d the novelist and screenwriter John Gregory Dunne wrote in his review of \u201cA Rumor of War.\u201d \u201cHeartbreaking, terrifying and enraging, it belongs to the literature of men at arms.\u201d",
-    "date": "2026-05-08T13:54:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/opinion/hegseth-war-cost.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Iran War Will Cost Trillions",
-    "author": "Justin Wolfers",
-    "link": "https://www.nytimes.com/2026/05/08/opinion/hegseth-war-cost.html",
-    "content": "The war in Iran will cost trillions \u2014 far more than current estimates.",
-    "date": "2026-05-08T13:28:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Many Russians in No Mood for Celebration on Kremlin\u2019s Biggest Day of the Year",
-    "author": "Valerie Hopkins and Nanna Heitmann",
-    "link": "https://www.nytimes.com/2026/05/08/world/europe/russia-mood-victory-day.html",
-    "content": "Red Square in Moscow. The Victory Day procession, one of the year\u2019s biggest events, is staged in the heart of Kremlin power.",
-    "date": "2026-05-08T13:17:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
-    "feed_name": "NYT (Popular)",
-    "title": "New NTSB Report Into Deadly China Eastern Crash Suggests Struggle in Cockpit",
-    "author": "James Glanz",
-    "link": "https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html",
-    "content": "Emergency workers searching for the black box at the crash site of the China Eastern flight in Teng County, China in 2022.",
-    "date": "2026-05-08T13:08:09",
-    "category": "NYT"
   }
 ]
