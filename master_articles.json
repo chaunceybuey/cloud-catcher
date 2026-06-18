@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "02fcf169d63e3f5d431e1576c451abc3",
+    "feed_name": "Compact",
+    "title": "The Death and Life of American Exceptionalism",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-death-and-life-of-american-exceptionalism/",
+    "content": "",
+    "date": "2026-06-18T12:55:45",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=19334",
     "feed_name": "Stratechery",
     "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/08/movies/the-sheep-detectives-hugh-jackman-julia-louis-dreyfus.html",
     "content": "The filmmakers behind this adaptation of a best-selling novel were adamant that their ovine sleuths not seem like humans in, well, sheep\u2019s clothing.",
     "date": "2026-05-08T09:03:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/realestate/maurice-tempelsman-penthouse-sale.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Maurice Tempelsman\u2019s Penthouse Is on the Market for $5.5 Million",
-    "author": "Vivian Marino",
-    "link": "https://www.nytimes.com/2026/05/08/realestate/maurice-tempelsman-penthouse-sale.html",
-    "content": "Mr. Tempelsman, Jacqueline Kennedy Onassis\u2019s longtime companion, bought the Park Avenue apartment five years after her death. He died last summer.",
-    "date": "2026-05-08T09:02:34",
     "category": "NYT"
   }
 ]
