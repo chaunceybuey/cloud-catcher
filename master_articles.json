@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/18/arts/television/boroughs-canceled-duffer-brothers-netflix.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Netflix Cancels Duffer Brothers\u2019 \u2018The Boroughs\u2019 After One Season",
+    "author": "Reggie Ugwu",
+    "link": "https://www.nytimes.com/2026/06/18/arts/television/boroughs-canceled-duffer-brothers-netflix.html",
+    "content": "The Duffer brothers, who produced the series and created \u201cStranger Things,\u201d recently left the streamer for Paramount.",
+    "date": "2026-06-18T18:27:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/18/arts/design/england-outdoor-sculpture-shows.html",
     "feed_name": "NYT (Arts)",
     "title": "Outdoor Sculpture Shows Feature Henry Moore, Lynn Chadwick in England This Summer",
@@ -148,6 +158,16 @@
     "content": "In a major show at the Kunstmuseum Basel, Gegenwart, the artist considers technology, humanity and how people can preserve \u201cour human life\u201d in the age of A.I.",
     "date": "2026-06-18T18:06:08",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233764",
+    "feed_name": "Texas Tribune",
+    "title": "Texas college watchdog received nearly 70 complaints, opened one investigation, records show",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17363396/texas-colleges-universities-complaints-ombudsman-investigation",
+    "content": "Students wait at a bus stop on the Texas A&amp;M University campus in College Station on Nov. 12, 2025.",
+    "date": "2026-06-18T18:01:37",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/06/18/arts/design/ramon-saturnino-art-basel.html",
@@ -19978,25 +19998,5 @@
     "content": "A court ruling found that the I.R.S. shouldn\u2019t have charged penalties and interest during the pandemic. But the government may appeal the decision.",
     "date": "2026-05-08T14:01:13",
     "category": "NYT"
-  },
-  {
-    "id": "6b53b6de21f95227ab68b97df16ec1e3",
-    "feed_name": "New Yorker",
-    "title": "Rachel Syme Gets Suited Up",
-    "author": "ByRachel SymeandJessica Winter",
-    "link": "https://www.newyorker.com/culture/goings-on/rachel-syme-gets-suited-up",
-    "content": "Also: Jessica Winter\u2019s mom-themed movie picks",
-    "date": "2026-05-08T13:55:25",
-    "category": "Magazines"
-  },
-  {
-    "id": "21b966aeb820210ffe4f25329cfd7355",
-    "feed_name": "Compact",
-    "title": "Why Lula and Trump Made Up",
-    "author": "",
-    "link": "https://www.compactmag.com/article/why-lula-and-trump-made-up/",
-    "content": "",
-    "date": "2026-05-08T13:55:24",
-    "category": "Magazines"
   }
 ]
