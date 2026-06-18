@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/18/theater/mariska-hargitay-broadway-every-brilliant-thing.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mariska Hargitay on \u2018Every Brilliant Thing\u2019 and Finding Inspiration From Jalen Brunson",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/06/18/theater/mariska-hargitay-broadway-every-brilliant-thing.html",
+    "content": "The \u201cLaw & Order: SVU\u201d actress \u201cwas really scared\u201d about starring in \u201cEvery Brilliant Thing.\u201d Who does she look to for inspiration? The Knicks, of course.",
+    "date": "2026-06-18T15:00:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/18/dining/why-have-two-rib-ends-when-you-could-have-all-rib-ends.html",
+    "feed_name": "NYT (Food)",
+    "title": "Why Have Two Rib Ends When You Could Have All Rib Ends",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/18/dining/why-have-two-rib-ends-when-you-could-have-all-rib-ends.html",
+    "content": "Toni Chapman\u2019s sticky pineapple ribs.",
+    "date": "2026-06-18T15:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "02fcf169d63e3f5d431e1576c451abc3",
     "feed_name": "Compact",
     "title": "The Death and Life of American Exceptionalism",
@@ -19978,25 +19998,5 @@
     "content": "Downtown Corpus Christi on March 19, 2026. The city, approaching a water crisis, hopes to acquire water from a planned desalination plant that did not make the cut this year to receive state seed money.",
     "date": "2026-05-08T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/opinion/graham-platner-nazi-tattoo-maine.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Graham Platner Is No Nazi",
-    "author": "Michelle Goldberg",
-    "link": "https://www.nytimes.com/2026/05/08/opinion/graham-platner-nazi-tattoo-maine.html",
-    "content": "Conservative attacks are premised on a deliberate misreading of both the candidate and his progressive fans.",
-    "date": "2026-05-08T09:05:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Mark Zuckerberg Is Running Meta Into the Ground",
-    "author": "Julia Angwin",
-    "link": "https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html",
-    "content": "Meta has commenced a long, slow slide into irrelevance.",
-    "date": "2026-05-08T09:04:06",
-    "category": "NYT"
   }
 ]
