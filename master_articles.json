@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/19/arts/television/james-burrows-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "James Burrows, Master of the TV Sitcom, Dies at 85",
+    "author": "Glenn Rifkin",
+    "link": "https://www.nytimes.com/2026/06/19/arts/television/james-burrows-dead.html",
+    "content": "James Burrows in 2023. He won 11 Emmy Awards and received 47 nominations in a career that spanned five decades.",
+    "date": "2026-06-19T20:12:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20775-austin-chamber-music-center-sandy-yamamoto-friends",
     "feed_name": "KMFA",
     "title": "Austin Chamber Music Center: Sandy Yamamoto &amp; Friends",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html",
     "content": "State Senator Charlane Oliver had a banner pulled from her hands as the Tennessee General Assembly gave approval to a congressional map intended to eliminate the state\u2019s lone Democratic-held district.",
     "date": "2026-05-09T13:32:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/arts/larry-david-prognosis-negative.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "After 43 Years, an Unproduced Larry David Script Surfaces Online",
-    "author": "Sopan Deb",
-    "link": "https://www.nytimes.com/2026/05/08/arts/larry-david-prognosis-negative.html",
-    "content": "\u201cPrognosis: Negative\u201d was too dark for its time, but its title became a running \u201cSeinfeld\u201d joke and its premise set the table for \u201cCurb Your Enthusiasm.\u201d",
-    "date": "2026-05-09T13:30:54",
     "category": "NYT"
   }
 ]
