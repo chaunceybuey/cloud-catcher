@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233826",
+    "feed_name": "Texas Tribune",
+    "title": "Talarico goes all-in with attack on Paxton plea deal in child sex abuse case",
+    "author": "Taylor Goldenstein",
+    "link": "https://feeds.texastribune.org/link/16799/17363636/texas-senate-james-talarico-ken-paxton-sex-abuse-plea-deal",
+    "content": "From left: Texas Attorney General Ken Paxton and state Rep. James Talarico, D-Austin. The two are the Republican and Democratic nominees for the U.S. Senate race, to be decided in November.",
+    "date": "2026-06-18T23:39:29",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-an-unexpected-recipient.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Voicemails for Isabelle\u2019 Review: An Unexpected Recipient",
@@ -19988,15 +19998,5 @@
     "content": "In the month since the ceasefire on 8 April, Trump\u2019s rhetoric has swung erratically between talk of total victory and apocalyptic ultimatums.\u00a0.\u00a0.",
     "date": "2026-05-08T19:22:32",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/opinion/old-age.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "What to Do for the Elderly? Stop Badgering Them!",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/05/08/opinion/old-age.html",
-    "content": "Readers respond to an essay about old people preparing (or not) for the end. Also: Antisemitism online; Trump the destroyer; two types of dreaming.",
-    "date": "2026-05-08T18:47:08",
-    "category": "NYT"
   }
 ]
