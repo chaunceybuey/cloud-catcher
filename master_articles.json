@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a30384753a70bbdf43dc530",
+    "feed_name": "Wired (Science)",
+    "title": "Pseudoscientific Cancer \u2018Treatment\u2019 Involves Gassing Naked People in Plastic Bags With Bleach",
+    "author": "David Gilbert",
+    "link": "https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/",
+    "content": "A London clinic owner has claimed he is treating people with stage 4 cancer by sealing them into a plastic bag while they're naked from the waist down and gassing them with chlorine dioxide.",
+    "date": "2026-06-19T07:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/19/arts/television/jimmy-kimmel-trump-iran-deal.html",
     "feed_name": "NYT (Arts)",
     "title": "Jimmy Kimmel Calls Trump\u2019s Iran Deal \u2018The Retreaty of Versailles\u2019",
@@ -19988,15 +19998,5 @@
     "content": "A ransomware attack took down a popular university-course-management software right in the middle of finals.",
     "date": "2026-05-08T20:41:45",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/nyregion/mahmoud-khalil-deportation-case.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Mahmoud Khalil Hurtles Toward Potential Deportation as U.S. Speeds Case",
-    "author": "Jonah E. Bromwich and Nicholas Nehamas",
-    "link": "https://www.nytimes.com/2026/05/08/nyregion/mahmoud-khalil-deportation-case.html",
-    "content": "Mahmoud Khalil, who became the face of President Trump\u2019s crackdown on pro-Palestinian protesters, is facing possible expulsion from the United States.",
-    "date": "2026-05-08T19:40:49",
-    "category": "NYT"
   }
 ]
