@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/19/arts/parthenon-restoration-greece.html",
+    "feed_name": "NYT (Arts)",
+    "title": "With Fresh Marble Fillings, the Parthenon Gets a Partial Glow-Up",
+    "author": "Claire Moses",
+    "link": "https://www.nytimes.com/2026/06/19/arts/parthenon-restoration-greece.html",
+    "content": "Millions of people each year visit the Acropolis, the citadel overlooking Athens that is home to the Parthenon.",
+    "date": "2026-06-19T14:01:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/19/arts/television/sugar-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Sugar\u2019 Review: Close Encounters of the Noir Kind",
+    "author": "Mike Hale",
+    "link": "https://www.nytimes.com/2026/06/19/arts/television/sugar-review.html",
+    "content": "In Colin Farrell, \u201cSugar\u201d has all it needs to signal retro California cool and wounded nobility.",
+    "date": "2026-06-19T13:53:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/19/arts/television/house-of-the-dragon-recap-season-2.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018House of the Dragon\u2019: What to Remember Before the Season 3 Premiere",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html",
     "content": "Ramit Sethi wants everyone to have a healthier relationship to money, and thinks he knows how to get us there.",
     "date": "2026-05-09T09:15:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html",
-    "feed_name": "NYT (Shared)",
-    "title": "How Republicans Gained an Edge on the Midterm House Map Over 10 Days",
-    "author": "Shane Goldmacher and Tim Balk",
-    "link": "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html",
-    "content": "Democrats are still widely favored to win control of the House in the November midterm elections, but Republicans have gained a new structural edge through their redistricting efforts.",
-    "date": "2026-05-09T09:02:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html",
-    "feed_name": "NYT (Shared)",
-    "title": "How Minority Districts Fueled the G.O.P.\u2019s Southern Ascendancy in Congress",
-    "author": "Carl Hulse",
-    "link": "https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html",
-    "content": "The new congressional map of Tennessee is displayed during a House committee meeting in Nashville, Tennessee.",
-    "date": "2026-05-09T09:02:02",
     "category": "NYT"
   }
 ]
