@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "0a81bb15d29e04d2a8e86a7b4486433a",
+    "feed_name": "LRB",
+    "title": "The Strange Rebirth of Municipal England",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/june/the-strange-rebirth-of-municipal-england",
+    "content": "It has been a very large part of the failure of the Labour Party since 2010 that it has been unable to link the grave fact of austerity, its.\u00a0.\u00a0.",
+    "date": "2026-06-19T20:40:06",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/19/arts/television/james-burrows-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "James Burrows, Master of the TV Sitcom, Dies at 85",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/08/books/edith-eger-dead.html",
     "content": "Her time in concentration camps brought her an understanding of humanity that helped her treat her patients.",
     "date": "2026-05-09T13:43:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Republicans Are Building an Advantage in Redistricting. How Much Is It Worth?",
-    "author": "Nate Cohn",
-    "link": "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html",
-    "content": "State Senator Charlane Oliver had a banner pulled from her hands as the Tennessee General Assembly gave approval to a congressional map intended to eliminate the state\u2019s lone Democratic-held district.",
-    "date": "2026-05-09T13:32:13",
     "category": "NYT"
   }
 ]
