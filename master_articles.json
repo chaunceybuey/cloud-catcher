@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/19/arts/music/brian-large-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Brian Large, Who Brought Opera Vividly to Life on Film, Dies at 89",
+    "author": "Adam Nossiter",
+    "link": "https://www.nytimes.com/2026/06/19/arts/music/brian-large-dead.html",
+    "content": "In a directing career that included over 70 Met Opera broadcasts, he said his work was \u201cdictated by the music, by key change, by orchestration, by phrasing.\u201d",
+    "date": "2026-06-19T17:18:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=19342",
     "feed_name": "Stratechery",
     "title": "2026.25: The Stuff of Myth(os)",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/09/business/retirement-home-equity-selling-your-house.html",
     "content": "Older homeowners often don\u2019t see the value of, or can\u2019t afford to, maintain and renovate their homes of many years. And that can mean thousands lost when they sell.",
     "date": "2026-05-09T12:45:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/us/college-boxing-harvard.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The New Harvard Trend? Getting Punched in the Face.",
-    "author": "Mark Arsenault and Sophie Park",
-    "link": "https://www.nytimes.com/2026/05/09/us/college-boxing-harvard.html",
-    "content": "Harvard\u2019s boxing club is drawing new members. So are boxing clubs at other colleges, as students look for real-life connection.",
-    "date": "2026-05-09T12:43:29",
     "category": "NYT"
   }
 ]
