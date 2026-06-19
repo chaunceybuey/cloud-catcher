@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/19/dining/have-you-made-this-blueberry-lemon-loaf-cake-yet.html",
+    "feed_name": "NYT (Food)",
+    "title": "Blueberry Almond Lemon Cake and More Popular Recipes",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/06/19/dining/have-you-made-this-blueberry-lemon-loaf-cake-yet.html",
+    "content": "Yotam Ottolenghi\u2019s blueberry, almond and lemon cake.",
+    "date": "2026-06-19T15:00:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/19/movies/five-horror-movies-to-stream-now.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Horror Movies to Stream Now",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/06/19/movies/five-horror-movies-to-stream-now.html",
+    "content": "This month, victims are held hostage by demons, a deranged madman, the elements and a monstrosity named Hoagie.",
+    "date": "2026-06-19T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "6a21bf62f5769ed385fdf8ce",
     "feed_name": "Wired (Science)",
     "title": "The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html",
     "content": "Captain Courageous cut a cool swath, in contrast to today\u2019s creepy oligarchs.",
     "date": "2026-05-09T11:00:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-    "feed_name": "Douthat",
-    "title": "The Atheist and the Machine God",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html",
-    "content": "What are the implications of artificial intelligence for religion?",
-    "date": "2026-05-09T11:00:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/arts/venice-biennale-shows-to-see.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "If You See Only 6 Venice Shows, Make It These",
-    "author": "Jason Farago, Blake Gopnik and Aruna D\u2019Souza",
-    "link": "https://www.nytimes.com/2026/05/09/arts/venice-biennale-shows-to-see.html",
-    "content": "Ashfika Rahman\u2019s \u201cThan Para \u2014 No Land Without Us\u201d (2025-ongoing) in the \u201cStill Joy\u201d group exhibition at the Pinchuk Art Center.",
-    "date": "2026-05-09T09:22:10",
     "category": "NYT"
   }
 ]
