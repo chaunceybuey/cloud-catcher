@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/19/arts/james-turrell-aros-aarhus.html",
+    "feed_name": "NYT (Arts)",
+    "title": "To Take Us to the Heavens, James Turrell Went Underground",
+    "author": "Lisa Abend",
+    "link": "https://www.nytimes.com/2026/06/19/arts/james-turrell-aros-aarhus.html",
+    "content": "In the installation, said the architect Morten Schmidt, \u201cyou look directly up into the cosmos. But at the same time, it makes you reflect inward.\u201d",
+    "date": "2026-06-19T08:23:51",
+    "category": "NYT"
+  },
+  {
     "id": "6a30384753a70bbdf43dc530",
     "feed_name": "Wired (Science)",
     "title": "Pseudoscientific Cancer \u2018Treatment\u2019 Involves Gassing Naked People in Plastic Bags With Bleach",
@@ -19988,15 +19998,5 @@
     "content": "The secretary of defense has argued that military retirees are subject to freedom of speech restrictions. Let that sink in.",
     "date": "2026-05-08T20:59:12",
     "category": "NYT"
-  },
-  {
-    "id": "8a915d54fec1c96916d03184826a6aa8",
-    "feed_name": "The Atlantic",
-    "title": "Software Ate My Homework",
-    "author": "Ian Bogost",
-    "link": "https://www.theatlantic.com/ideas/2026/05/canvas-hack-campus-fragility/687115/",
-    "content": "A ransomware attack took down a popular university-course-management software right in the middle of finals.",
-    "date": "2026-05-08T20:41:45",
-    "category": "Magazines"
   }
 ]
