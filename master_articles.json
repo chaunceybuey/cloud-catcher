@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a21bf62f5769ed385fdf8ce",
+    "feed_name": "Wired (Science)",
+    "title": "The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/",
+    "content": "Years after initial tests, researchers are now racing to see if a vaccine developed in 2011 can help fight the current Bundibugyo outbreak in Congo.",
+    "date": "2026-06-19T14:23:43",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/19/arts/parthenon-restoration-greece.html",
     "feed_name": "NYT (Arts)",
     "title": "With Fresh Marble Fillings, the Parthenon Gets a Partial Glow-Up",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/09/arts/venice-biennale-shows-to-see.html",
     "content": "Ashfika Rahman\u2019s \u201cThan Para \u2014 No Land Without Us\u201d (2025-ongoing) in the \u201cStill Joy\u201d group exhibition at the Pinchuk Art Center.",
     "date": "2026-05-09T09:22:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Personal Finance Star on What Millennials Need From Their Boomer Parents",
-    "author": "David Marchese",
-    "link": "https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html",
-    "content": "Ramit Sethi wants everyone to have a healthier relationship to money, and thinks he knows how to get us there.",
-    "date": "2026-05-09T09:15:05",
     "category": "NYT"
   }
 ]
