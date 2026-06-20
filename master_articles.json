@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/20/dining/bowen-yangs-moms-mapo-tofu.html",
+    "feed_name": "NYT (Food)",
+    "title": "Bowen Yang\u2019s Mom\u2019s Mapo Tofu",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/20/dining/bowen-yangs-moms-mapo-tofu.html",
+    "content": "Bowen Yang\u2019s mapo tofu, adapted by The New York Times.",
+    "date": "2026-06-20T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/20/dining/fourth-of-july-party-desserts.html",
+    "feed_name": "NYT (Food)",
+    "title": "Double Strawberry Shortcakes and Berry Sugar Cookie Bars for July 4",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/06/20/dining/fourth-of-july-party-desserts.html",
+    "content": "Yossy Arefi\u2019s sugar cookie bars with berries.",
+    "date": "2026-06-20T14:52:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/20/dining/double-strawberry-shortcakes-and-berry-sugar-cookie-bars.html",
     "feed_name": "NYT (Food)",
     "title": "Double Strawberry Shortcakes and Berry Sugar Cookie Bars for July 4",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
     "content": "Crowds inside the sprawling Grand Bazaar in Tehran on Saturday. Imports of goods have been affected by the war.",
     "date": "2026-05-10T09:01:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/opinion/erica-jong-mothers-day-dementia.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Molly Jong-Fast on Her Mother, Erica Jong, on Mother\u2019s Day",
-    "author": "Molly Jong-Fast",
-    "link": "https://www.nytimes.com/2026/05/10/opinion/erica-jong-mothers-day-dementia.html",
-    "content": "I\u2019m realizing that a sort of gooey sitcom resolution is not in the cards for my mother and me.",
-    "date": "2026-05-10T07:00:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/nyregion/straw-house-hudson-ny.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Beware of Wolves, but Straw Houses Could Help With Climate Change",
-    "author": "Hilary Howard",
-    "link": "https://www.nytimes.com/2026/05/10/nyregion/straw-house-hudson-ny.html",
-    "content": "A straw house built as an experiment stands 28 feet tall and has a sleeping loft, a daybed, five windows and a kitchen.",
-    "date": "2026-05-10T07:00:14",
     "category": "NYT"
   }
 ]
