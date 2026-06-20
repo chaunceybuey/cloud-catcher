@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/20/dining/double-strawberry-shortcakes-and-berry-sugar-cookie-bars.html",
+    "feed_name": "NYT (Food)",
+    "title": "Double Strawberry Shortcakes and Berry Sugar Cookie Bars for July 4",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/06/20/dining/double-strawberry-shortcakes-and-berry-sugar-cookie-bars.html",
+    "content": "Yossy Arefi\u2019s sugar cookie bars with berries.",
+    "date": "2026-06-20T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "cc650c8e60414c79c447efb4cada80b7",
     "feed_name": "The Atlantic",
     "title": "The Wall the Tohono O\u2019odham Don\u2019t Want",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
     "content": "Russia\u2019s Victory Day military parade on Saturday in Moscow. The parade, in Red Square, included none of its usual muscle-flexing missiles and armor.",
     "date": "2026-05-09T23:10:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/us/bear-attack-glacier-national-park.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Hiker Killed by Bear at Glacier National Park, Officials Say",
-    "author": "Rylee Kirk",
-    "link": "https://www.nytimes.com/2026/05/09/us/bear-attack-glacier-national-park.html",
-    "content": "The body of a Florida man was found with injuries \u201cconsistent with those sustained by a bear encounter,\u201d the National Park Service said on Saturday.",
-    "date": "2026-05-09T22:25:56",
     "category": "NYT"
   }
 ]
