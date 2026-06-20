@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/20/theater/jimmy-awards-high-school-musical-theater-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How These High Schoolers Are Preparing for the 2026 Jimmy Awards",
+    "author": "Elisabeth Vincentelli and Dolly Faibyshev",
+    "link": "https://www.nytimes.com/2026/06/20/theater/jimmy-awards-high-school-musical-theater-broadway.html",
+    "content": "Each June, students from around the country come to New York for the Jimmy Awards. We tagged along for a day of their intensive musical-theater residency.",
+    "date": "2026-06-20T04:01:17",
+    "category": "NYT"
+  },
+  {
     "id": "0a81bb15d29e04d2a8e86a7b4486433a",
     "feed_name": "LRB",
     "title": "The Strange Rebirth of Municipal England",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/09/dining/border-town-pop-up-breakfast-tacos.html",
     "content": "Jorge Aguilar with one of the flour tortillas that put his Border Town pop-up on the map.",
     "date": "2026-05-09T14:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/books/edith-eger-dead.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Edith Eva Eger, Psychologist Who Barely Survived Auschwitz, Dies at 98",
-    "author": "Richard Sandomir",
-    "link": "https://www.nytimes.com/2026/05/08/books/edith-eger-dead.html",
-    "content": "Her time in concentration camps brought her an understanding of humanity that helped her treat her patients.",
-    "date": "2026-05-09T13:43:13",
     "category": "NYT"
   }
 ]
