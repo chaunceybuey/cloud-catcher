@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "cc650c8e60414c79c447efb4cada80b7",
+    "feed_name": "The Atlantic",
+    "title": "The Wall the Tohono O\u2019odham Don\u2019t Want",
+    "author": "Geraldo L. Cadava",
+    "link": "https://www.theatlantic.com/ideas/2026/06/trump-mexico-border-wall-construction-native/687635/",
+    "content": "Trump threatens native sovereignty in Arizona.",
+    "date": "2026-06-20T11:31:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "c53fe9b09018e015413a5307f3904bb5",
+    "feed_name": "The Atlantic",
+    "title": "Trump\u2019s Second Gamble on Iran",
+    "author": "Karim Sadjadpour",
+    "link": "https://www.theatlantic.com/ideas/2026/06/trumps-second-gamble-on-iran/687650/",
+    "content": "If the regime can\u2019t be dislodged by force, maybe it can be bribed.",
+    "date": "2026-06-20T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/20/arts/music/tyla-fka-twigs-steve-lacy-songs.html",
     "feed_name": "NYT (Arts)",
     "title": "Tyla, FKA Twigs: Songs to Know This Week",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/09/us/bear-attack-glacier-national-park.html",
     "content": "The body of a Florida man was found with injuries \u201cconsistent with those sustained by a bear encounter,\u201d the National Park Service said on Saturday.",
     "date": "2026-05-09T22:25:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/arts/design/paul-klee-angelus-novus-jewish-museum.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Paul Klee\u2019s \u2018Angelus Novus\u2019 Joins Show at Jewish Museum in New York",
-    "author": "Deborah Solomon",
-    "link": "https://www.nytimes.com/2026/05/08/arts/design/paul-klee-angelus-novus-jewish-museum.html",
-    "content": "\u201cAngelus Novus,\u201d an artwork with a fascinating back story, including most recently a wartime delay, is a late addition to an already impressive Klee survey at the Jewish Museum.",
-    "date": "2026-05-09T20:50:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
-    "author": "John Yoon and Chris Hippensteel",
-    "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
-    "content": "A Frontier Airlines plane at Denver International Airport this month.",
-    "date": "2026-05-09T20:40:32",
     "category": "NYT"
   }
 ]
