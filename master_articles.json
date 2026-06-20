@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "169969d090ed390ea03d8c5509194e9a",
+    "feed_name": "The Atlantic",
+    "title": "This Founding Father Died in Disgrace. But He Can\u2019t Be Forgotten.",
+    "author": "Jesse Wegman",
+    "link": "https://www.theatlantic.com/ideas/2026/06/james-wilson-founding-father-democracy/687594/",
+    "content": "Excluded from America\u2019s origin story, James Wilson may have been the most influential, prescient, and democratic drafter of the Constitution.",
+    "date": "2026-06-20T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "cc650c8e60414c79c447efb4cada80b7",
     "feed_name": "The Atlantic",
     "title": "The Wall the Tohono O\u2019odham Don\u2019t Want",
@@ -588,6 +598,16 @@
     "content": "From left: Texas Attorney General Ken Paxton and state Rep. James Talarico, D-Austin. The two are the Republican and Democratic nominees for the U.S. Senate race, to be decided in November.",
     "date": "2026-06-18T23:39:29",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-zoey-deutch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Voicemails for Isabelle\u2019 Review: An Unexpected Recipient",
+    "author": "Glenn Kenny",
+    "link": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-zoey-deutch.html",
+    "content": "The movie, starring Zoey Deutch and Nick Robinson, begins as a tear-jerker and morphs into a poignant rom-com.",
+    "date": "2026-06-18T23:00:06",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-an-unexpected-recipient.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/nyregion/straw-house-hudson-ny.html",
     "content": "A straw house built as an experiment stands 28 feet tall and has a sleeping loft, a daybed, five windows and a kitchen.",
     "date": "2026-05-10T07:00:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/opinion/china-trump-us-power.html",
-    "feed_name": "NYT (Shared)",
-    "title": "An Emboldened New China Spells Trouble for Trump",
-    "author": "Yanzhong Huang",
-    "link": "https://www.nytimes.com/2026/05/10/opinion/china-trump-us-power.html",
-    "content": "We are entering a more perilous era where China no longer sees U.S. strength as something to fear.",
-    "date": "2026-05-10T05:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A Scaled-Back Victory Day Parade Shows Putin\u2019s Growing Vulnerability in Ukraine War",
-    "author": "Ivan Nechepurenko",
-    "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
-    "content": "Russia\u2019s Victory Day military parade on Saturday in Moscow. The parade, in Red Square, included none of its usual muscle-flexing missiles and armor.",
-    "date": "2026-05-09T23:10:03",
     "category": "NYT"
   }
 ]
