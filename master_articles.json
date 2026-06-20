@@ -90,6 +90,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/20/arts/music/tyla-fka-twigs-steve-lacy-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tyla, FKA Twigs: Songs to Know This Week",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/06/20/arts/music/tyla-fka-twigs-steve-lacy-songs.html",
+    "content": "Tyla, who performed as part of the World Cup pregame ceremony, is back with new music.",
+    "date": "2026-06-20T09:02:33",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/20/arts/the-newest-wing-in-the-citys-oldest-museum-celebrates-democracy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Newest Wing in the City\u2019s Oldest Museum Celebrates Democracy",
+    "author": "Holland Cotter",
+    "link": "https://www.nytimes.com/2026/06/20/arts/the-newest-wing-in-the-citys-oldest-museum-celebrates-democracy.html",
+    "content": "The New York Historical\u2019s expansive Tang Wing highlights the role of protest for America\u2019s 250th anniversary.",
+    "date": "2026-06-20T09:02:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/20/arts/myopia-thomas-more-utopia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Nearsighted Artist Changed Her View and Found Paradise",
+    "author": "Rachelle Meyer",
+    "link": "https://www.nytimes.com/2026/06/20/arts/myopia-thomas-more-utopia.html",
+    "content": "A nearsighted artist with a solitary streak stumbled on a world of cultural experiences and authentic connections after years of taking refuge in her bookshelves.",
+    "date": "2026-06-20T09:02:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/20/arts/design/asta-norregaard-national-museum-oslo.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Scandinavian Answer to John Singer Sargent Gets Her Due",
+    "author": "Nina Siegal",
+    "link": "https://www.nytimes.com/2026/06/20/arts/design/asta-norregaard-national-museum-oslo.html",
+    "content": "Norregaard\u2019s 1892 portrait of Elisabeth Fearnley, the socialite wife of a shipping magnate.",
+    "date": "2026-06-20T09:02:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/20/movies/obsession-box-office-blair-witch-project-hamilton.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Obsession\u2019 Is a Surprise Blockbuster. Who Gets the Profits?",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/06/20/movies/obsession-box-office-blair-witch-project-hamilton.html",
+    "content": "As the breakout horror hit crosses $300 million at the global box office, its art director set off a debate about just compensation for crew members.",
+    "date": "2026-06-20T09:01:46",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/20/theater/hudson-valley-shakespeare-catskills.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Under a Turtle Shell, a Stunning New Home for Shakespeare",
+    "author": "Jesse Green",
+    "link": "https://www.nytimes.com/2026/06/20/theater/hudson-valley-shakespeare-catskills.html",
+    "content": "After 38 years in a tent, Hudson Valley Shakespeare opens one of the most spectacular outdoor performance spaces in the country.",
+    "date": "2026-06-20T09:01:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/20/movies/steve-o-jackass-movie.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Steve-O Has Beef With Father Time",
+    "author": "Kathryn Shattuck",
+    "link": "https://www.nytimes.com/2026/06/20/movies/steve-o-jackass-movie.html",
+    "content": "\u201cIt sucks for anybody to get old,\u201d the \u201cJackass\u201d stunt performer says, \u201cbut for Steve-O, I feel like it is categorically not OK.\u201d",
+    "date": "2026-06-20T09:00:36",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/movies/100000010926521/why-toy-story-is-the-best-franchise-ever.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why \u2018Toy Story\u2019 is the Best Franchise Ever",
+    "author": "Alissa Wilkinson, Edward Vega and Gabriel Blanco",
+    "link": "https://www.nytimes.com/video/movies/100000010926521/why-toy-story-is-the-best-franchise-ever.html",
+    "content": "The New York Times film critic Alissa Wilkinson explores how the \u2018Toy Story\u2019 films leverage layers of nostalgia as a recipe for success.",
+    "date": "2026-06-20T09:00:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/20/theater/jimmy-awards-high-school-musical-theater-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "How These High Schoolers Are Preparing for the 2026 Jimmy Awards",
@@ -19917,86 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
     "content": "A Frontier Airlines plane at Denver International Airport this month.",
     "date": "2026-05-09T20:40:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "All Those A.I. Note Takers? They\u2019re Making Lawyers Very Nervous.",
-    "author": "Sarah Kessler",
-    "link": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
-    "content": "A trendy productivity hack, A.I. note takers are capturing every joke and offhand comment in many meetings. They could also potentially waive attorney-client privilege.",
-    "date": "2026-05-09T20:15:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
-    "author": "John S.W. MacDonald and Carlos Barrag\u00e1n",
-    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html",
-    "content": "Workers on the island of Tenerife setting up tents at an expected reception point for passengers from the cruise ship MV Hondius.",
-    "date": "2026-05-09T19:58:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/19554-austin-civic-orchestra-the-extraordinary-woman",
-    "feed_name": "KMFA",
-    "title": "Austin Civic Orchestra: The Extraordinary Woman",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/19554-austin-civic-orchestra-the-extraordinary-woman",
-    "content": "AUSTIN CIVIC ORCHESTRA PRESENTS\n\nTHE EXTRAORDINARY WOMAN\n\nMAY 9 | 4:00 P.M. | THE AUSTIN STONE NORTHWEST\n\n\n\nDr. W.P. Sterneman III,\u00a0Interim Music Director\nEbonee Thomas,\u00a0Flute\u00a0(biography)\n\nThroughout history, women have used intelligence, artistry, and resilience to shape the world around them.\u00a0The Extraordinary Woman\u00a0celebrates these voices through powerful orchestral storytelling, featuring music that embodies brilliance, strength, and boundless imagination.\n\nArtwork created by Austin-area youth while listening to Scheherazade will be on display while the orchestra plays the piece.\n\nOverture to the End of a Century for Orchestra\u00a0by Libby Larsen\nBilder vom Jahrmarkt\u00a0(Scenes from a Fair) by Grete von Zieritz for Flute and Orchestra.\u00a0 Ebonee Thomas,\u00a0Flute\nScheherazade, Op 35\u00a0by Rimsky-Korsakov\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, May 9, 2026\nTime: 4:00 P.M. - 5:30 P.M.\nVenue: Austin Stone Northwest\n\nTicket Information\nCost: Free - $20.00\nPhone: \n\nPresenter Details: The Austin Civic Orchestra fosters the transformative power of orchestral music through diverse, accessible concerts and innovative educational programs for the Greater Austin community.\n\nThe Austin Civic Orchestra (ACO) is a non-profit civic organization that has been around since 1977. The ACO is devoted to bringing high quality music to the community and providing a musical outlet for professional and non-professional musicians alike. The ACO performs six to eight concerts each season, all of which offer programming to suit a wide variety of musical tastes, from traditional classics to pops and most everything in between. Presented at assorted convenient locations in the Austin area, the relaxed atmosphere and affordable cost have proven appealing to this community.\u00a0 Our educational programs for youth and adults foster the appreciation of classical music.",
-    "date": "2026-05-09T16:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/20049-chorus-austin-she-sings-still-i-rise",
-    "feed_name": "KMFA",
-    "title": "Chorus Austin: She Sings, Still I Rise",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/20049-chorus-austin-she-sings-still-i-rise",
-    "content": "CHORUS AUSTIN PRESENTS\n\nSHE SINGS: STILL I RISE\n\nMAY 9 | 4:00 P.M. | KMFA'S DRAYLEN MASON MUSIC STUDIO\n\n\n\nThe Performance\n\n\ud83d\udd0a Performed by:\u00a0Women's Chorus from CA Chamber Ensemble led by Artistic Director Ryan Heller.\n\n\ud83c\udfb5 Music:Preview Selections of the music by following links below:Rise Up by Jake Runestad\nBe Like the Bird, Abbie Betinis\n\n\u23f0 Duration:\u00a090 minutes including a 15 minute intermission and 10 minutes of speaking.\n\nGood to Know\n\n\ud83d\ude97 Parking:\u00a0Available on site.\n\n\ud83d\ude8c Bus Stop:\n\n\n\t1401 Holly/Navasota\n\t1400 Holly/Navasota\n\t1511 Holly/Comal\n\t1600 Holly/Comal\n\t45 Waller/Clermont\n\n\n\ud83d\udc57 Dress Code:\u00a0Dress up for a fancy, upscale date or come as you are. You will not be alone in your choice!\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, May 9, 2026\nTime: 4:00 P.M.\nVenue: KMFA's Draylen Mason Music Studio\n\nTicket Information\nCost: $0.00 - $40.00\nPhone: \n\nPresenter Details: Our Mission:\u00a0We enrich lives and engage communities by uniting voices in song. \u00a0\n\nOur Vision:\u00a0Every person can find their voice.\n\nCore Values:\n\n\n\t\n\tExcellence: A commitment to the highest artistic and professional standards, fostering musical growth and delivering impactful, high-quality performances.\n\t\n\t\n\tConnection: Building meaningful relationships through music\u2014among singers, with audiences, and within the broader community\u2014to create shared cultural and emotional experiences.\n\t\n\t\n\tInclusion: Embracing diversity and ensuring that all individuals, regardless of background or identity, feel welcomed, valued, and empowered to participate fully in the choral arts.\n\t\n\n\nA rich tradition of great choral music and modern musical innovations mark Chorus Austin, a non-profit community-based organization dedicated to bringing great choral works to Austin and the Central Texas area. Under the Chorus Austin umbrella are its two ensembles: the Symphonic Chorus and the Chamber Ensemble. Each group offers a distinctive concert experience for both audience and singers under the baton of Artistic Director and Conductor Ryan Heller.\nWe strive to build this community by:\n\n\n\t\n\tPerforming choral concerts and musical programs of professional quality\n\t\n\t\n\tProviding artistic development opportunities to its members and the community\n\t\n\t\n\tBringing choral music to new audiences through outreach and education programs\n\t\n\t\n\tInitiating creative programming and introducing audiences to otherwise inaccessible music",
-    "date": "2026-05-09T16:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/opinion/virginia-supreme-court-ruling.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Democrats Who Are Soft on Republicans Have Got to Go",
-    "author": "Jamelle Bouie",
-    "link": "https://www.nytimes.com/2026/05/09/opinion/virginia-supreme-court-ruling.html",
-    "content": "Virginians must fight back against its Supreme Court in the name of popular sovereignty.",
-    "date": "2026-05-09T15:28:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/opinion/iran-war-global-economy-risk-green-energy-shift.html",
-    "feed_name": "NYT (Shared)",
-    "title": "High Gas Prices Are Just the Beginning",
-    "author": "Michelle Cottle, David French, David Wallace-Wells and Derek Arthur",
-    "link": "https://www.nytimes.com/2026/05/09/opinion/iran-war-global-economy-risk-green-energy-shift.html",
-    "content": "How the economic shock waves of Trump\u2019s Iran war will be felt globally.",
-    "date": "2026-05-09T15:14:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/business/media/the-view-fcc-trump.html",
-    "feed_name": "NYT (Shared)",
-    "title": "How \u2018The View\u2019 Landed at the Center of a Free Speech Battle",
-    "author": "John Koblin and Jim Rutenberg",
-    "link": "https://www.nytimes.com/2026/05/09/business/media/the-view-fcc-trump.html",
-    "content": "The hosts of ABC\u2019s \u201cThe View,\u201d from left, Whoopi Goldberg, Sara Haines, Joy Behar, Ana Navarro, Sunny Hostin and Alyssa Farah Griffin.",
-    "date": "2026-05-09T15:01:21",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/dining/border-town-pop-up-breakfast-tacos.html",
-    "feed_name": "NYT (Food)",
-    "title": "How Border Town Pop-Up Found a Place of Its Own",
-    "author": "Amanda Choy",
-    "link": "https://www.nytimes.com/2026/05/09/dining/border-town-pop-up-breakfast-tacos.html",
-    "content": "Jorge Aguilar with one of the flour tortillas that put his Border Town pop-up on the map.",
-    "date": "2026-05-09T14:00:04",
     "category": "NYT"
   }
 ]
