@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/movies/dad-movies.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Dad Movie Canon: Films That Define Dad Cinema",
+    "author": "Jason Bailey",
+    "link": "https://www.nytimes.com/2026/06/21/movies/dad-movies.html",
+    "content": "What is it about a certain kind of film that appeals to fathers? Our writer took a stab at defining Dad Cinema and rounding up its greatest hits.",
+    "date": "2026-06-21T04:01:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/20/arts/claude-guillemot-dead-ubisoft-plane-crash.html",
     "feed_name": "NYT (Arts)",
     "title": "Claude Guillemot, Ubisoft Co-Founder, Is Dead After Plane Crash in France",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
     "content": "The exact wrong answer to a Republican Party that\u2019s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
     "date": "2026-05-10T10:00:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/opinion/hasan-piker-democratic-party-antisemitism.html",
-    "feed_name": "NYT (Shared)",
-    "title": "I\u2019m a Democrat. My Party Has a Double Standard on Antisemitism.",
-    "author": "Josh Gottheimer",
-    "link": "https://www.nytimes.com/2026/05/10/opinion/hasan-piker-democratic-party-antisemitism.html",
-    "content": "When we\u2019re talking about which allies to support or which communities we defend, our principles shouldn\u2019t shift.",
-    "date": "2026-05-10T10:00:17",
     "category": "NYT"
   }
 ]
