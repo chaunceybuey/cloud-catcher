@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/obituaries/mark-singer-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mark Singer, Longtime Writer for The New Yorker, Dies at 75",
+    "author": "Trip Gabriel",
+    "link": "https://www.nytimes.com/2026/06/21/obituaries/mark-singer-dead.html",
+    "content": "Mark Singer in 2009 speaking at The New Yorker Festival. He began working at the magazine when he was 23 and was best known for his profiles.",
+    "date": "2026-06-21T20:47:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/21/arts/music/kanye-west-ye-san-antonio-concert-antisemitism.html",
     "feed_name": "NYT (Arts)",
     "title": "San Antonio Mayor Says Kanye West\u2019s July 4 Concert There Should Be Canceled",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
     "content": "A passenger from the MV Hondius speaking with medical staff in the Granadilla Port in Tenerife, Canary Islands, on Sunday.",
     "date": "2026-05-10T13:58:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Bobby Cox, One of Baseball\u2019s Top Managers, Dies at 84",
-    "author": "Richard Goldstein",
-    "link": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html",
-    "content": "Bobby Cox, the Atlanta Braves manager, waved to fans in 2010. He was voted manager of the year four times by the Baseball Writers\u2019 Association of America.",
-    "date": "2026-05-10T13:46:51",
     "category": "NYT"
   }
 ]
