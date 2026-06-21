@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/obituaries/margaret-kerry-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Margaret Kerry, Body and Soul of Disney\u2019s Tinker Bell, Dies at 97",
+    "author": "Alex Traub",
+    "link": "https://www.nytimes.com/2026/06/21/obituaries/margaret-kerry-dead.html",
+    "content": "Margaret Kerry in 2018. Trained as a dancer, she became the model for the animated version of Tinker Bell in the 1953 Disney movie \u201cPeter Pan.\u201d",
+    "date": "2026-06-21T22:29:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/21/obituaries/mark-singer-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Mark Singer, Longtime Writer for The New Yorker, Dies at 75",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/opinion/hawaii-feminist-criminal-justice-system.html",
     "content": "Hawaii might have the answer.",
     "date": "2026-05-10T15:10:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking",
-    "author": "Carlos Barrag\u00e1n, Amelia Nierenberg and Lynsey Chutel",
-    "link": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
-    "content": "A passenger from the MV Hondius speaking with medical staff in the Granadilla Port in Tenerife, Canary Islands, on Sunday.",
-    "date": "2026-05-10T13:58:05",
     "category": "NYT"
   }
 ]
