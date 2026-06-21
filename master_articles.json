@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "f44710bb-bc26-400f-b010-404c12b7f502",
+    "feed_name": "Economist",
+    "title": "How stretched is the American consumer?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/21/how-stretched-is-the-american-consumer",
+    "content": "The household savings rate has plunged\u2014but don\u2019t panic",
+    "date": "2026-06-21T13:08:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/21/dining/five-fast-dinners-i-will-definitely-make-again.html",
     "feed_name": "Weeknight Dishes",
     "title": "Five Fast Dinners I Will Definitely Make Again",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/world/europe/jamon-iberico-perfect-slice.html",
     "content": "Ernesto Soriano at work inside the Joselito flagship store in Madrid last month. He began learning to carve at 15.",
     "date": "2026-05-10T11:29:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "U.S.-China Rivalry Reaches South American Skies",
-    "author": "Emma Bubola, Edward Wong and Sarah Pabst",
-    "link": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
-    "content": "The unfinished Chinese telescope at night at the Cesco observatory in El Leoncito, in Argentina\u2019s San Juan Province.",
-    "date": "2026-05-10T11:29:29",
     "category": "NYT"
   }
 ]
