@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/20/arts/claude-guillemot-dead-ubisoft-plane-crash.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Claude Guillemot, Ubisoft Co-Founder, Is Dead After Plane Crash in France",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/06/20/arts/claude-guillemot-dead-ubisoft-plane-crash.html",
+    "content": "Claude Guillemot, 69, founded the video game company, which was also known for the hit Far Cry, with his brothers in 1986. He was killed in western France.",
+    "date": "2026-06-20T23:53:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20742-austin-chamber-music-center-miro-quartet-shai-wosner",
     "feed_name": "KMFA",
     "title": "Austin Chamber Music Center: Miro Quartet &amp; Shai Wosner",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/opinion/hasan-piker-democratic-party-antisemitism.html",
     "content": "When we\u2019re talking about which allies to support or which communities we defend, our principles shouldn\u2019t shift.",
     "date": "2026-05-10T10:00:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
-    "author": "Leily Nikounazar and Arash Khamooshi",
-    "link": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
-    "content": "Crowds inside the sprawling Grand Bazaar in Tehran on Saturday. Imports of goods have been affected by the war.",
-    "date": "2026-05-10T09:01:27",
     "category": "NYT"
   }
 ]
