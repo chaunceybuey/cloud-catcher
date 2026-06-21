@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/arts/tom-dreesen-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tom Dreesen, Comic Who Kept Sinatra\u2019s Crowds Laughing, Dies at 86",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/06/21/arts/tom-dreesen-dead.html",
+    "content": "Tom Dreesen performing in 2004. He was Frank Sinatra\u2019s opening act for 13 years and said, \u201cFrom my vantage point, every night, there was no TV series, no radio show, no movie deal that compared to what I was experiencing.\u201d",
+    "date": "2026-06-21T16:45:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/21/arts/design/basel-switzerland-art-development-timeline.html",
     "feed_name": "NYT (Arts)",
     "title": "How Basel Went From Art to Art Basel",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/style/grab-some-seeds-throw-them-at-the-soil-youre-a-gardener-now.html",
     "content": "Welcome to chaos gardening, a laid-back way to turn a patch of ground into a riot of color.",
     "date": "2026-05-10T13:09:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/arts/television/on-snl-brett-kavanaugh-kash-patel-and-pete-hegseth-walk-into-a-bar.html",
-    "feed_name": "NYT (Shared)",
-    "title": "On \u2018S.N.L.\u2019, Brett Kavanaugh, Kash Patel and Pete Hegseth Walk Into a Bar",
-    "author": "Dave Itzkoff",
-    "link": "https://www.nytimes.com/2026/05/10/arts/television/on-snl-brett-kavanaugh-kash-patel-and-pete-hegseth-walk-into-a-bar.html",
-    "content": "Matt Damon and Aziz Ansari return to roles they have played on \u201cSaturday Night Live\u201d alongside Colin Jost, in an episode hosted by Damon.",
-    "date": "2026-05-10T12:55:31",
     "category": "NYT"
   }
 ]
