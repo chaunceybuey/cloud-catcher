@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/dining/my-very-best-buttermilk-pancakes.html",
+    "feed_name": "NYT (Food)",
+    "title": "Melissa Clark's Buttermilk Pancakes and More Father\u2019s Day Recipes",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/06/21/dining/my-very-best-buttermilk-pancakes.html",
+    "content": "Melissa Clark\u2019s best buttermilk pancakes.",
+    "date": "2026-06-21T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "f44710bb-bc26-400f-b010-404c12b7f502",
     "feed_name": "Economist",
     "title": "How stretched is the American consumer?",
@@ -19988,15 +19998,5 @@
     "content": "We don\u2019t actually want to live in a world where we don\u2019t interact with other people.",
     "date": "2026-05-10T11:30:34",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/world/europe/jamon-iberico-perfect-slice.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Man Who Cuts the Perfect Slice of Ham",
-    "author": "Jason Horowitz",
-    "link": "https://www.nytimes.com/2026/05/10/world/europe/jamon-iberico-perfect-slice.html",
-    "content": "Ernesto Soriano at work inside the Joselito flagship store in Madrid last month. He began learning to carve at 15.",
-    "date": "2026-05-10T11:29:30",
-    "category": "NYT"
   }
 ]
