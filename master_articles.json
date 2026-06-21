@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/movies/hayley-kiyoko-interview-girls-like-girls.html",
+    "feed_name": "NYT (Arts)",
+    "title": "With \u2018Girls Like Girls,\u2019 Hayley Kiyoko Turns Her Teenage Pain Into Art",
+    "author": "Ashley Spencer",
+    "link": "https://www.nytimes.com/2026/06/21/movies/hayley-kiyoko-interview-girls-like-girls.html",
+    "content": "Hayley Kiyoko in Los Angeles. Her feature directing debut, \u201cGirls Like Girls,\u201d is in theaters.",
+    "date": "2026-06-21T09:01:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/21/arts/for-heirs-of-custer-and-sitting-bull-a-150-year-old-battle-is-personal.html",
+    "feed_name": "NYT (Arts)",
+    "title": "For Heirs of Custer and Sitting Bull, a 150-Year-Old Battle Is Personal",
+    "author": "Julia Jacobs and Will Warasila",
+    "link": "https://www.nytimes.com/2026/06/21/arts/for-heirs-of-custer-and-sitting-bull-a-150-year-old-battle-is-personal.html",
+    "content": "As the anniversary of the Battle of the Little Bighorn approaches, relatives of the two men still grapple with the legacy of a contentious moment in U.S. history.",
+    "date": "2026-06-21T09:01:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/21/movies/dad-movies.html",
     "feed_name": "NYT (Arts)",
     "title": "The Dad Movie Canon: Films That Define Dad Cinema",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html",
     "content": "An Ukrainian soldier in the besieged eastern city of Kostiantynivka early this year.",
     "date": "2026-05-10T10:59:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/your-money/brandeis-college-cost-faye.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How Brandeis Is Trying to Change College Shopping",
-    "author": "Ron Lieber",
-    "link": "https://www.nytimes.com/2026/05/10/your-money/brandeis-college-cost-faye.html",
-    "content": "A new tool on the university\u2019s website tells you what the first year \u201cwill\u201d cost if you get in.",
-    "date": "2026-05-10T10:40:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Platner Trap",
-    "author": "David French",
-    "link": "https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html",
-    "content": "The exact wrong answer to a Republican Party that\u2019s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.",
-    "date": "2026-05-10T10:00:25",
     "category": "NYT"
   }
 ]
