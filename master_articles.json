@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/arts/design/basel-switzerland-art-development-timeline.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Basel Went From Art to Art Basel",
+    "author": "Nina Siegal",
+    "link": "https://www.nytimes.com/2026/06/21/arts/design/basel-switzerland-art-development-timeline.html",
+    "content": "Basel\u2019s art history predates the world\u2019s most prominent art fair by a few centuries.",
+    "date": "2026-06-21T16:06:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/21/dining/my-very-best-buttermilk-pancakes.html",
     "feed_name": "NYT (Food)",
     "title": "Melissa Clark's Buttermilk Pancakes and More Father\u2019s Day Recipes",
@@ -19988,15 +19998,5 @@
     "content": "Matt Damon and Aziz Ansari return to roles they have played on \u201cSaturday Night Live\u201d alongside Colin Jost, in an episode hosted by Damon.",
     "date": "2026-05-10T12:55:31",
     "category": "NYT"
-  },
-  {
-    "id": "0b3b3be1739888173f550f5e04529bf0",
-    "feed_name": "The Atlantic",
-    "title": "Save the Taxi Drivers",
-    "author": "Xochitl Gonzalez",
-    "link": "https://www.theatlantic.com/ideas/2026/05/waymo-self-driving-cars/687119/",
-    "content": "We don\u2019t actually want to live in a world where we don\u2019t interact with other people.",
-    "date": "2026-05-10T11:30:34",
-    "category": "Magazines"
   }
 ]
