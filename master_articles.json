@@ -80,6 +80,16 @@
     "category": "NYT"
   },
   {
+    "id": "1f47a86e-6337-4592-b6e3-ea7383f9a029",
+    "feed_name": "Economist",
+    "title": "Russia\u2019s war economy has problems\u2014but is not about to crash",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash",
+    "content": "Vladimir Putin is still able to fund his aggression",
+    "date": "2026-06-22T19:07:09",
+    "category": "Magazines"
+  },
+  {
     "id": "520104b9-6966-4b39-9f32-c280ec556719",
     "feed_name": "Economist",
     "title": "How to turn compute into a financial asset",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html",
     "content": "The word puzzle published by The New York Times is the inspiration for a game show that will begin airing next year. Jimmy Fallon is a producer.",
     "date": "2026-05-11T13:28:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/science/a-fish-that-hitches-rides-where-the-sun-doesnt-shine.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A Fish That Hitches Rides Where the Sun Doesn\u2019t Shine",
-    "author": "Jason Bittel",
-    "link": "https://www.nytimes.com/2026/05/11/science/a-fish-that-hitches-rides-where-the-sun-doesnt-shine.html",
-    "content": "Traditionally, experts have seen the relationship between remoras and manta rays as either commensal or mutualistic, but this arrangement may veer into the parasitic.",
-    "date": "2026-05-11T13:00:05",
     "category": "NYT"
   }
 ]
