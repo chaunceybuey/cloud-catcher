@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "11 Essential Songs Shepherded by Clive Davis",
+    "author": "Rob Tannenbaum",
+    "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-songs.html",
+    "content": "After Clive Davis, right, assured Carlos Santana that \u201cSmooth\u201d would be the most important song on the album \u201cSupernatural,\u201d it spent three months at No. 1.",
+    "date": "2026-06-22T16:21:49",
+    "category": "NYT"
+  },
+  {
     "id": "2e8a5d7cccb61f5294a52b4aa77ba140",
     "feed_name": "LRB",
     "title": "Lemonade and Flowers",
@@ -19986,16 +19996,6 @@
     "author": "Molly Taft",
     "link": "https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/",
     "content": "The move could save the oil company hundreds of millions, even as Texas lawmakers start looking at reining in incentives for data centers.",
-    "date": "2026-05-11T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "b5717d3268c34a35782c99618da52b4c",
-    "feed_name": "The Atlantic",
-    "title": "The America I\u2019ve Known",
-    "author": "Fran Moreland Johns",
-    "link": "https://www.theatlantic.com/magazine/2026/06/patriotism-selflessness-collective-effort/686932/",
-    "content": "In my 93rd year, it\u2019s become ever more clear that patriotism requires sacrifice and collective effort.",
     "date": "2026-05-11T11:00:00",
     "category": "Magazines"
   }
