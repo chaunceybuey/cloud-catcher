@@ -2,8 +2,8 @@
 daily_briefing.py
 
 Workflow:
-  1. osascript /Users/jamesslotta/Documents/get_nyt.scpt
-  2. python3 /Users/jamesslotta/Desktop/cloud-catcher/daily_briefing.py
+  1. osascript /Users/js85476/Desktop/cloud-catcher/get_nyt.scpt
+  2. python3 /Users/js85476/Desktop/cloud-catcher/daily_briefing.py
 """
 
 import os
@@ -27,8 +27,8 @@ NYT_LOCAL_FILE = "/Users/js85476/Downloads/nyt_fully_loaded.html"
 
 SUPERNOTE_SYNC_FOLDER = (
     "/Users/js85476/Library/CloudStorage/"
-    "GoogleDrive-slottaj@gmail.com/My Drive/Supernote/Document/Drive"
-)
+    "GoogleDrive-slottaj@gmail.com/My Drive/Supernote/Document/Drive/NYT"
+)   
 
 # UI chrome h2s we never want to treat as section headers
 SKIP_SECTION_NAMES = {'TODAYS FRONT PAGES', 'Site Index', 'Site Information Navigation'}
@@ -47,7 +47,7 @@ def load_todays_paper(local_path: str) -> list[dict]:
     if not os.path.exists(local_path):
         raise FileNotFoundError(
             f"Local file not found: {local_path}\n"
-            "Run your AppleScript first: osascript /Users/jamesslotta/Documents/get_nyt.scpt"
+            "Run your AppleScript first: osascript /Users/js85476/Desktop/cloud-catcher/get_nyt.scpt"
         )
 
     print(f"📄 Reading local file: {local_path}")
@@ -125,7 +125,7 @@ def fetch_articles(items: list[dict]) -> list[dict]:
 
     for item in items:
         print(f"  [{item['section'][:12]:12}] {item['title'][:55]}...")
-        time.sleep(random.uniform(1.5, 3.5))
+        time.sleep(random.uniform(6.0, 11.5))
 
         html = rss_engine.fetch_full_article(item["url"])
 
@@ -153,8 +153,6 @@ def create_epub(articles: list[dict], output_path: str) -> str:
     book.set_title(f"Daily Briefing — {datetime.datetime.now().strftime('%b %d, %Y')}")
     book.set_language("en")
     book.add_author("RSS Triage Automation")
-
-
 
     all_chapters   = []   # flat list for spine
     toc_sections   = []   # nested TOC: [(section_chapter, [article_chapters])]
@@ -261,6 +259,9 @@ def run():
     create_epub(articles, output_path)
     print(f"\n✅ Done!  →  {output_path}\n")
 
+    # Wake up Google Drive to force the sync
+    print("Waking up Google Drive to force sync...")
+    os.system("osascript -e 'tell application \"Google Drive\" to activate'")
 
 if __name__ == "__main__":
     run()
