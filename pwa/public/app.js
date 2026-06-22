@@ -207,16 +207,43 @@ async function loadData() {
     document.getElementById("article-list").innerHTML = "";
 
     try {
-        // Fetch articles, newsletters, and feeds from GitHub (parallel)
-        const [articlesRes, newsletterRes, feedsRes] = await Promise.all([
+        // Fetch articles, newsletters, feeds from GitHub AND saved links from Firebase
+        const [articlesRes, newsletterRes, feedsRes, savedLinksRes] = await Promise.all([
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/master_articles.json?t=${Date.now()}`),
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/newsletter_articles.json?t=${Date.now()}`).catch(() => null),
-            fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/feeds.json?t=${Date.now()}`)
+            fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/feeds.json?t=${Date.now()}`),
+            fetch(`${firebaseConfig.databaseURL}/app_data/saved_links.json?t=${Date.now()}`).catch(() => null)
         ]);
 
+        let githubArticles = [];
         if (articlesRes.ok) {
-            state.articles = await articlesRes.json();
+            githubArticles = await articlesRes.json();
         }
+
+        // Process Firebase Saved Links from the bookmarklet
+        let savedArticles = [];
+        if (savedLinksRes && savedLinksRes.ok) {
+            try {
+                const savedData = await savedLinksRes.json();
+                if (savedData) {
+                    savedArticles = Object.values(savedData).map(item => ({
+                        id: item.id,
+                        title: item.title,
+                        link: item.link,
+                        feed_name: "Saved Articles",
+                        author: "Mobile Bookmarklet",
+                        date: item.date || new Date().toISOString(),
+                        source: "mobile_catch"
+                    }));
+                }
+            } catch (e) {
+                console.error("Failed to parse saved links", e);
+            }
+        }
+
+        // Merge them, placing newest mobile saves right at the top
+        state.articles = [...savedArticles, ...githubArticles];
+
         // Merge newsletters into articles
         if (newsletterRes && newsletterRes.ok) {
             try {
@@ -228,6 +255,7 @@ async function loadData() {
                 });
             } catch(e) {}
         }
+        
         if (feedsRes.ok) {
             const feedsData = await feedsRes.json();
             // Flatten categories into feed list
@@ -237,6 +265,16 @@ async function loadData() {
                     state.feeds.push({ ...feed, _category: category });
                 }
             }
+            
+            // Add a dynamic category for our mobile saves so it appears in the drawer
+            if (savedArticles.length > 0) {
+                state.feeds.push({
+                    name: "Saved Articles",
+                    url: "",
+                    _category: "Mobile Captures"
+                });
+            }
+            
             populateFeedFilter();
         }
 
@@ -289,7 +327,10 @@ function getFilteredArticles() {
     const activeFeedNames = new Set(state.feeds.map(f => f.name));
     const isNewsletter = (a) => a.source === "newsletter";
     const isManual = (a) => a.source === "manual";
-    const includeArticle = (a) => activeFeedNames.has(a.feed_name) || isNewsletter(a) || isManual(a);
+    const isMobileCatch = (a) => a.source === "mobile_catch";
+    
+    // Fallback logic ensures bookmarklets aren't filtered out
+    const includeArticle = (a) => activeFeedNames.has(a.feed_name) || isNewsletter(a) || isManual(a) || isMobileCatch(a);
     let base;
 
     if (state.mode === "Unread") {
@@ -1072,7 +1113,7 @@ function renderDrawerFeeds() {
 
     // Count articles per feed (for current mode)
     const allArticles = state.articles;
-    const isSpecial = (a) => a.source === "newsletter" || a.source === "manual";
+    const isSpecial = (a) => a.source === "newsletter" || a.source === "manual" || a.source === "mobile_catch";
     const include = (a) => activeFeedNames.has(a.feed_name) || isSpecial(a);
     let base;
     if (state.mode === "Unread") {
