@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a395168f3efe9ab9aad14cb",
+    "feed_name": "Wired (Science)",
+    "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+    "author": "Ritsuko Kawai",
+    "link": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
+    "content": "Researchers say the discovery could be a \u201cRosetta stone\u201d for cosmic signals.",
+    "date": "2026-06-22T22:15:10",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html",
     "feed_name": "NYT (Arts)",
     "title": "Clive Davis Knew to Let Patti Smith Have Free Rein",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/11/dining/bromated-flour-ban-new-york-pizza-bagels.html",
     "content": "At Utopia Bagels, in Whitestone, Queens, they\u2019ll have to change the recipe if New York\u2019s governor signs legislation banning potassium bromate.",
     "date": "2026-05-11T15:14:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A Single Infusion Could Suppress H.I.V. for Years, Study Suggests",
-    "author": "Apoorva Mandavilli",
-    "link": "https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html",
-    "content": "A study led by an H.I.V. expert at the University of California, San Francisco, could offer a path toward a lasting H.I.V. treatment.",
-    "date": "2026-05-11T15:11:13",
     "category": "NYT"
   }
 ]
