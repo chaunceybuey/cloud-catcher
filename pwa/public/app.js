@@ -207,12 +207,12 @@ async function loadData() {
     document.getElementById("article-list").innerHTML = "";
 
     try {
-        // Fetch articles, newsletters, feeds from GitHub AND saved links from Firebase
-        const [articlesRes, newsletterRes, feedsRes, savedLinksRes] = await Promise.all([
+        // Fetch GitHub files natively, but use Firebase's secure SDK for the database
+        const [articlesRes, newsletterRes, feedsRes, savedLinksSnap] = await Promise.all([
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/master_articles.json?t=${Date.now()}`),
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/newsletter_articles.json?t=${Date.now()}`).catch(() => null),
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/feeds.json?t=${Date.now()}`),
-            fetch(`${firebaseConfig.databaseURL}/app_data/saved_links.json?t=${Date.now()}`).catch(() => null)
+            db.ref("app_data/saved_links").once("value").catch(() => null)
         ]);
 
         let githubArticles = [];
@@ -220,22 +220,20 @@ async function loadData() {
             githubArticles = await articlesRes.json();
         }
 
-        // Process Firebase Saved Links from the bookmarklet
+        // Process Firebase Saved Links using the secure snapshot
         let savedArticles = [];
-        if (savedLinksRes && savedLinksRes.ok) {
+        if (savedLinksSnap && savedLinksSnap.val()) {
             try {
-                const savedData = await savedLinksRes.json();
-                if (savedData) {
-                    savedArticles = Object.values(savedData).map(item => ({
-                        id: item.id,
-                        title: item.title,
-                        link: item.link,
-                        feed_name: "Saved Articles",
-                        author: "Mobile Bookmarklet",
-                        date: item.date || new Date().toISOString(),
-                        source: "mobile_catch"
-                    }));
-                }
+                const savedData = savedLinksSnap.val();
+                savedArticles = Object.values(savedData).map(item => ({
+                    id: item.id,
+                    title: item.title,
+                    link: item.link,
+                    feed_name: "Saved Articles",
+                    author: "Mobile Bookmarklet",
+                    date: item.date || new Date().toISOString(),
+                    source: "mobile_catch"
+                }));
             } catch (e) {
                 console.error("Failed to parse saved links", e);
             }
@@ -248,7 +246,6 @@ async function loadData() {
         if (newsletterRes && newsletterRes.ok) {
             try {
                 const newsletters = await newsletterRes.json();
-                // Add newsletters, avoiding duplicates
                 const existingIds = new Set(state.articles.map(a => a.id));
                 newsletters.forEach(n => {
                     if (!existingIds.has(n.id)) state.articles.push(n);
@@ -258,7 +255,6 @@ async function loadData() {
         
         if (feedsRes.ok) {
             const feedsData = await feedsRes.json();
-            // Flatten categories into feed list
             state.feeds = [];
             for (const [category, feedList] of Object.entries(feedsData)) {
                 for (const feed of feedList) {
@@ -266,7 +262,7 @@ async function loadData() {
                 }
             }
             
-            // Add a dynamic category for our mobile saves so it appears in the drawer
+            // Add dynamic category for mobile saves
             if (savedArticles.length > 0) {
                 state.feeds.push({
                     name: "Saved Articles",
@@ -274,26 +270,18 @@ async function loadData() {
                     _category: "Mobile Captures"
                 });
             }
-            
-            populateFeedFilter();
         }
 
-        // Fetch history, bookmarks, audio bin from Firebase
+        // Fetch history, bookmarks, audio bin securely from Firebase
         const [histSnap, bmSnap, audioSnap] = await Promise.all([
             db.ref("app_data/history").once("value"),
             db.ref("app_data/bookmarks").once("value"),
             db.ref("app_data/audio_bin").once("value"),
         ]);
 
-        if (histSnap.val()) {
-            state.history = new Set(JSON.parse(histSnap.val()));
-        }
-        if (bmSnap.val()) {
-            state.bookmarks = JSON.parse(bmSnap.val());
-        }
-        if (audioSnap.val()) {
-            state.audioBin = JSON.parse(audioSnap.val());
-        }
+        if (histSnap.val()) state.history = new Set(JSON.parse(histSnap.val()));
+        if (bmSnap.val()) state.bookmarks = JSON.parse(bmSnap.val());
+        if (audioSnap.val()) state.audioBin = JSON.parse(audioSnap.val());
 
         // Listen for real-time updates
         db.ref("app_data/history").on("value", snap => {
@@ -310,7 +298,6 @@ async function loadData() {
     document.getElementById("loading").classList.add("hidden");
     renderArticles();
 
-    // On large screens, populate the persistent sidebar
     if (isLargeScreen()) {
         renderDrawerFeeds();
         updateDrawerModes();
