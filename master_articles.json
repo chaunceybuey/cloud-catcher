@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/arts/television/house-of-the-dragon-recap-season-3-episode-1.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018House of the Dragon\u2019 Season 3 Premiere Recap: A Song of Water and Fire",
+    "author": "Sean T. Collins",
+    "link": "https://www.nytimes.com/2026/06/21/arts/television/house-of-the-dragon-recap-season-3-episode-1.html",
+    "content": "The Sea Snake (Steve Toussaint) wasn\u2019t expecting an attack from the Triarchy, or to come under friendly fire.",
+    "date": "2026-06-22T02:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/21/obituaries/margaret-kerry-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Margaret Kerry, Body and Soul of Disney\u2019s Tinker Bell, Dies at 97",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html",
     "content": "For some patients, cancer is becoming like a chronic illness.",
     "date": "2026-05-10T15:34:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/opinion/hawaii-feminist-criminal-justice-system.html",
-    "feed_name": "NYT (Shared)",
-    "title": "A Quietly Radical Experiment in Criminal Justice",
-    "author": "Rachel Louise Snyder",
-    "link": "https://www.nytimes.com/2026/05/10/opinion/hawaii-feminist-criminal-justice-system.html",
-    "content": "Hawaii might have the answer.",
-    "date": "2026-05-10T15:10:05",
     "category": "NYT"
   }
 ]
