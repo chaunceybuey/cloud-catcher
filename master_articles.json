@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "520104b9-6966-4b39-9f32-c280ec556719",
+    "feed_name": "Economist",
+    "title": "How to turn compute into a financial asset",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset",
+    "content": "Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power",
+    "date": "2026-06-22T18:09:55",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-songs.html",
     "feed_name": "NYT (Arts)",
     "title": "11 Essential Songs Shepherded by Clive Davis",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/the-frankfurt-school-myth/",
     "content": "",
     "date": "2026-05-11T11:25:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "69eb9b227b7f5b3af1cb27bd",
-    "feed_name": "Wired (Science)",
-    "title": "A Chevron Texas Power Plant Seeks School District Tax Break",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/",
-    "content": "The move could save the oil company hundreds of millions, even as Texas lawmakers start looking at reining in incentives for data centers.",
-    "date": "2026-05-11T11:00:00",
     "category": "Magazines"
   }
 ]
