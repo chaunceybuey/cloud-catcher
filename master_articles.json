@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/22/arts/television/the-bear-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Bear\u2019 and 7 More Shows to Watch on TV This Week",
+    "author": "Geordon Wollner",
+    "link": "https://www.nytimes.com/2026/06/22/arts/television/the-bear-tv-this-week.html",
+    "content": "Jeremy Allen White, left, and Ayo Edebiri in Season 4 of \u201cThe Bear.\u201d",
+    "date": "2026-06-22T05:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/21/arts/television/house-of-the-dragon-recap-season-3-episode-1.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018House of the Dragon\u2019 Season 3 Premiere Recap: A Song of Water and Fire",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html",
     "content": "Representative Hakeem Jeffries of New York, the minority leader, speaking at the Capitol in Washington last month.",
     "date": "2026-05-10T15:58:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "For Some Patients, Cancer Is Becoming Like a Chronic Illness",
-    "author": "Daniela J. Lamas",
-    "link": "https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html",
-    "content": "For some patients, cancer is becoming like a chronic illness.",
-    "date": "2026-05-10T15:34:41",
     "category": "NYT"
   }
 ]
