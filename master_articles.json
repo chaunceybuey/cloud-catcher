@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Clive Davis Knew to Let Patti Smith Have Free Rein",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html",
+    "content": "Patti Smith and Clive Davis in 1993.",
+    "date": "2026-06-22T22:12:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233928",
+    "feed_name": "Texas Tribune",
+    "title": "SCOTUS orders Texas court to reconsider man\u2019s 1997 murder conviction",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17365538/scotus-texas-court-of-criminal-appeals-michael-newberry",
+    "content": "The U.S. Supreme Court building  in Washington, D.C. on Nov. 1, 2021.",
+    "date": "2026-06-22T21:25:40",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233889",
     "feed_name": "Texas Tribune",
     "title": "Austin-area hospitals denied miscarriage care despite clarification to Texas\u2019 abortion ban, federal complaint alleges",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html",
     "content": "A study led by an H.I.V. expert at the University of California, San Francisco, could offer a path toward a lasting H.I.V. treatment.",
     "date": "2026-05-11T15:11:13",
-    "category": "NYT"
-  },
-  {
-    "id": "13de877a0b9b129dac8b0b5288da42ae",
-    "feed_name": "The Atlantic",
-    "title": "Send the Frigates",
-    "author": "Eliot A. Cohen",
-    "link": "https://www.theatlantic.com/ideas/2026/05/trump-frigates-iran-europe/687130/",
-    "content": "Despite their anger at Donald Trump, European nations have an interest in defending the freedom of navigation.",
-    "date": "2026-05-11T14:27:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/dining/diners-restaurant-lists.html",
-    "feed_name": "NYT (Food)",
-    "title": "A List of 100 Best Restaurants? For These Marathon Eaters, It\u2019s a Dare.",
-    "author": "Pete Wells",
-    "link": "https://www.nytimes.com/2026/05/10/dining/diners-restaurant-lists.html",
-    "content": "Ms. Hunter with the chef Jean-Georges Vongerichten at his Jean-Georges restaurant in New York, which has three Michelin stars. Ms. Hunter tries to eat there once a month.",
-    "date": "2026-05-11T14:00:05",
     "category": "NYT"
   }
 ]
