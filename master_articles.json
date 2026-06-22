@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-death-celebrity-reactions.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Barry Manilow, Bruce Springsteen and Others Mourn Clive Davis",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-death-celebrity-reactions.html",
+    "content": "Clive Davis and Gladys Knight at a pre-Grammy Awards gala in 2024. \u201cThere will never be another Clive,\u201d Knight said after Davis\u2019s death.",
+    "date": "2026-06-22T19:36:29",
+    "category": "NYT"
+  },
+  {
     "id": "520104b9-6966-4b39-9f32-c280ec556719",
     "feed_name": "Economist",
     "title": "How to turn compute into a financial asset",
@@ -19988,15 +19998,5 @@
     "content": "Traditionally, experts have seen the relationship between remoras and manta rays as either commensal or mutualistic, but this arrangement may veer into the parasitic.",
     "date": "2026-05-11T13:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "ea08c89a0e99eea2cea474409678ca8a",
-    "feed_name": "Compact",
-    "title": "The Frankfurt School Myth",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-frankfurt-school-myth/",
-    "content": "",
-    "date": "2026-05-11T11:25:52",
-    "category": "Magazines"
   }
 ]
