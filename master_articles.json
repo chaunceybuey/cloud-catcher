@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234041",
+    "feed_name": "Texas Tribune",
+    "title": "Texas officials say rodents and other small wildlife could be to blame for New World Screwworm infestations",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17366197/screwworm-texas-potential-causes-identified",
+    "content": "A section of state border wall under construction just south of the Lake Amistad Dam outside of Del Rio on Aug. 22, 2024.",
+    "date": "2026-06-23T21:47:55",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/minnesota-jury-predatory-home-financing-chadwick-banken-contract-for-deed",
     "feed_name": "ProPublica",
     "title": "Jury Finds Home Financing Scheme That Targeted Muslims in Minnesota Violated State Law",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/opinion/trump-is-fighting-the-worlds-stupidest-culture-war.html",
     "content": "\u201cHe sees fossil fuels as manly and renewables as woke.\u201d",
     "date": "2026-05-12T09:03:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/opinion/hantavirus-complacency.html",
-    "feed_name": "NYT (Shared)",
-    "title": "We Should Be Taking Hantavirus More Seriously",
-    "author": "Zeynep Tufekci",
-    "link": "https://www.nytimes.com/2026/05/12/opinion/hantavirus-complacency.html",
-    "content": "There are too many unknowns to be certain about much.",
-    "date": "2026-05-12T09:03:48",
     "category": "NYT"
   }
 ]
