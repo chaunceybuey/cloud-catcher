@@ -100,6 +100,16 @@
     "category": "Magazines"
   },
   {
+    "id": "153143b0-2b2c-4701-ba40-81afb9825326",
+    "feed_name": "Economist",
+    "title": "Why macro trading is hard",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/23/why-macro-trading-is-hard",
+    "content": "More difficult than knowing what to buy is knowing how much",
+    "date": "2026-06-23T18:45:01",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/arts/design/lorcan-oherlihy-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Lorcan O\u2019Herlihy, Architect of Innovative Urban Housing, Dies at 66",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html",
     "content": "Why searching for the best is the wrong goal.",
     "date": "2026-05-12T09:02:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How an \u2018Impossible\u2019 Idea Led to a Pancreatic Cancer Breakthrough",
-    "author": "Gina Kolata and Rebecca Robbins",
-    "link": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
-    "content": "The new strategy also holds promise for lung and colon tumors. Here\u2019s how scientists discovered it.",
-    "date": "2026-05-12T09:02:10",
     "category": "NYT"
   }
 ]
