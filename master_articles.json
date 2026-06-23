@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Artist Pulls Work From London Museum After Clash Over Churchill\u2019s Legacy",
+    "author": "Jonathan Wolfe",
+    "link": "https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html",
+    "content": "The National Portrait Gallery in London. A video installation called \u201cPersistence\u201d was taken down this week after a historian criticized a reference to Winston Churchill.",
+    "date": "2026-06-23T16:42:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/arts/design/nyc-arts-funding-manhattan-borough-president.html",
     "feed_name": "NYT (Arts)",
     "title": "Manhattan Borough President Gives $50 Million to N.Y.C. Arts Groups",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-housing-forum.html",
     "content": "The Opinion columnist Ezra Klein moderates a forum with five of the top Democratic candidates for governor of California.",
     "date": "2026-05-12T02:30:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/opinion/maureen-galindo-antisemitic-conspiracies.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Democrats Can\u2019t Let This Antisemitic Sex Therapist Win Her Runoff",
-    "author": "Michelle Goldberg",
-    "link": "https://www.nytimes.com/2026/05/11/opinion/maureen-galindo-antisemitic-conspiracies.html",
-    "content": "Maureen Galindo\u2019s rise demonstrates how even justified rage and despair can curdle into hateful paranoia.",
-    "date": "2026-05-12T02:11:01",
     "category": "NYT"
   }
 ]
