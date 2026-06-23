@@ -70,6 +70,36 @@
     "category": "Texas"
   },
   {
+    "id": "3d67ebf1675971547a018af807af33fd",
+    "feed_name": "Compact",
+    "title": "How Brexit Brought Back Ethnic Politics",
+    "author": "",
+    "link": "https://www.compactmag.com/article/how-brexit-brought-back-ethnic-politics/",
+    "content": "",
+    "date": "2026-06-23T12:34:37",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/23/books/michael-caine-odyssey-ai.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Would You Let an A.I. Michael Caine Read You the \u2018Odyssey\u2019?",
+    "author": "Alexandra Alter",
+    "link": "https://www.nytimes.com/2026/06/23/books/michael-caine-odyssey-ai.html",
+    "content": "Michael Caine has licensed his voice to the A.I. company ElevenLabs.",
+    "date": "2026-06-23T12:17:39",
+    "category": "NYT"
+  },
+  {
+    "id": "20f8bb3489bac54cc52076db078d597b",
+    "feed_name": "The Atlantic",
+    "title": "The Year of the Humongous IPO",
+    "author": "James Surowiecki",
+    "link": "https://www.theatlantic.com/ideas/2026/06/spacex-ipo-tech-companies/687659/",
+    "content": "Tech companies now just need the money.",
+    "date": "2026-06-23T11:15:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a355aa6a83913baf3d0691d",
     "feed_name": "Wired",
     "title": "FCC Commissioner Anna Gomez Will Fight for Press Freedom\u2014Until Trump Fires Her",
@@ -115,6 +145,16 @@
     "title": "Rare Books on Sex Have Spiced Things Up at a Library Franklin Founded",
     "author": "Ralph Blumenthal and Caroline Gutman",
     "link": "https://www.nytimes.com/2026/06/23/arts/rare-books-on-sex-have-spiced-things-up-at-a-library-franklin-founded.html",
+    "content": "Charles E. Rosenberg has been giving rare books to the Library Company of Philadelphia since the 1960s. His most recent gift was a collection of some 1,500 texts about sexuality.",
+    "date": "2026-06-23T09:02:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/23/arts/rare-books-sex-library-benjamin-franklin.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Rare Books on Sex Have Spiced Things Up at a Library Franklin Founded",
+    "author": "Ralph Blumenthal and Caroline Gutman",
+    "link": "https://www.nytimes.com/2026/06/23/arts/rare-books-sex-library-benjamin-franklin.html",
     "content": "Charles E. Rosenberg has been giving rare books to the Library Company of Philadelphia since the 1960s. His most recent gift was a collection of some 1,500 texts about sexuality.",
     "date": "2026-06-23T09:02:07",
     "category": "NYT"
@@ -178,6 +218,16 @@
     "content": "Jimmy Fallon poked fun at the name of the business under fire for turning the Lincoln Memorial Reflecting Pool bright green: \u201cNailed it.\u201d",
     "date": "2026-06-23T06:05:35",
     "category": "NYT"
+  },
+  {
+    "id": "58a486e0b07e8031a6a13c2e7127630a",
+    "feed_name": "Outside",
+    "title": "What Can Athletes Learn From Courtney Dauwalter's Winning Streak? Joy Is More Powerful than Results.",
+    "author": "Brad Stulberg",
+    "link": "https://www.outsideonline.com/health/training-performance/courtney-dauwalter-joy/",
+    "content": "",
+    "date": "2026-06-23T03:53:23",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=233968",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/11/arts/music/gustavo-dudamel-ny-philharmonic-spanish-harlem-orchestra.html",
     "content": "Gustavo Dudamel congratulating the percussionist Luis Quintero, from the Spanish Harlem Orchestra, during a performance with the New York Philharmonic last week.",
     "date": "2026-05-11T21:05:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
-    "feed_name": "NYT (Shared)",
-    "title": "RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence",
-    "author": "Christina Jewett and Sheryl Gay Stolberg",
-    "link": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
-    "content": "Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.",
-    "date": "2026-05-11T20:02:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/us/politics/trump-china-musk-cook.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump to Be Joined by Elon Musk and Other CEOs at Xi Summit in China",
-    "author": "Tyler Pager",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/trump-china-musk-cook.html",
-    "content": "The delegation includes business leaders across a wide range of industries, including Tim Cook of Apple and Elon Musk of Tesla.",
-    "date": "2026-05-11T19:34:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/upshot/family-leave-cuts-deloitte-zoom.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Why Two Big Companies Just Cut Paid Family Leave",
-    "author": "Claire Cain Miller",
-    "link": "https://www.nytimes.com/2026/05/11/upshot/family-leave-cuts-deloitte-zoom.html",
-    "content": "The U.S. is the only industrialized nation not to have paid family leave as a federal benefit.",
-    "date": "2026-05-11T19:27:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Proposes Suspending Federal Gas Tax Until Prices Fall",
-    "author": "Shawn McCreesh",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html",
-    "content": "Gas prices have risen about 50 percent since the United States and Israel began the war with Iran on Feb. 28.",
-    "date": "2026-05-11T19:02:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html",
-    "feed_name": "NYT (Shared)",
-    "title": "U.S. Passengers Exposed to Hantavirus Begin Quarantine, Including One With Positive Test",
-    "author": "Sonia A. Rao, Jacey Fortin and Jin Yu Young",
-    "link": "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html",
-    "content": "Passengers being evacuated from the MV Hondius on Sunday.",
-    "date": "2026-05-11T18:52:18",
     "category": "NYT"
   }
 ]
