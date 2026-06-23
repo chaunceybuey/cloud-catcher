@@ -70,6 +70,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/23/theater/warriors-broadway-lin-manuel-miranda.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lin-Manuel Miranda\u2019s \u2018Warriors\u2019 Musical to Hit Broadway Next Spring",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/23/theater/warriors-broadway-lin-manuel-miranda.html",
+    "content": "Lin-Manuel Miranda and Eisa Davis have jointly written the book, music and lyrics for their new musical, \u201cWarriors.\u201d",
+    "date": "2026-06-23T19:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "6a3969dcf1ce71d650ddb2df",
+    "feed_name": "Wired (Science)",
+    "title": "Even the Internet\u2019s Favorite Pool Guy Doesn\u2019t Know How to Fix the Reflecting Pool",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/internets-favorite-pool-guy-doesnt-know-how-to-fix-reflecting-pool/",
+    "content": "Algae blooms, peeling paint, and a host of fixes from hydrogen peroxide to nanobubblers have made it hard to diagnose what's wrong with the Reflecting Pool, let alone how to clean up the mess.",
+    "date": "2026-06-23T18:56:22",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a3a92e9c702d97aa7c54b9d",
+    "feed_name": "Wired (Science)",
+    "title": "The \u2018Parasite of Parasites\u2019 Has Been Discovered in the Tropical Forests of Borneo",
+    "author": "Marta Musso",
+    "link": "https://www.wired.com/story/the-parasite-of-parasites-has-been-discovered-in-the-tropical-forests-of-borneo/",
+    "content": "A newly identified species of fungus attacks the famous \u201czombie mushrooms\u201d that control ants.",
+    "date": "2026-06-23T18:54:52",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/arts/design/lorcan-oherlihy-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Lorcan O\u2019Herlihy, Architect of Innovative Urban Housing, Dies at 66",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
     "content": "The new strategy also holds promise for lung and colon tumors. Here\u2019s how scientists discovered it.",
     "date": "2026-05-12T09:02:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/us/san-antonio-texas-rainbow-crosswalks.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Texas Rainbow Crosswalk Ban Leads San Antonio to Paint Sidewalks Instead",
-    "author": "Edgar Sandoval",
-    "link": "https://www.nytimes.com/2026/05/12/us/san-antonio-texas-rainbow-crosswalks.html",
-    "content": "The rainbows on crosswalks began disappearing after the state ordered all Texas cities to remove the colorful crosswalks and similar markings, citing safety issues and opposition to political messaging.",
-    "date": "2026-05-12T09:01:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/business/steel-tariffs-tin-cans-food-prices.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Steel Tariffs Are Raising the Price of Canned Foods",
-    "author": "Peter Eavis and Ross Mantle",
-    "link": "https://www.nytimes.com/2026/05/12/business/steel-tariffs-tin-cans-food-prices.html",
-    "content": "Rolls of tin-plated steel at Ohio Coatings in Yorkville, Ohio.",
-    "date": "2026-05-12T09:01:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/magazine/testosterone-masculinity-trump-rfk.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Why So Many Guys Are Obsessed With Testosterone",
-    "author": "Azeen Ghorayshi",
-    "link": "https://www.nytimes.com/2026/05/12/magazine/testosterone-masculinity-trump-rfk.html",
-    "content": "From the Trump administration to online influencers, the hormone is increasingly seen as the key to achieving a new male ideal.",
-    "date": "2026-05-12T09:01:25",
     "category": "NYT"
   }
 ]
