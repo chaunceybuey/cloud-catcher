@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "a0808c4e-7785-4c58-9d8d-883c2a93235c",
+    "feed_name": "Economist",
+    "title": "Waiving sanctions on Iranian oil is a huge concession by America",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+    "content": "It will enrich an adversary",
+    "date": "2026-06-23T19:52:15",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234014",
     "feed_name": "Texas Tribune",
     "title": "TribCast: What a new secretary of state could mean for Texas elections",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/style/hacky-sack-gen-z.html",
     "content": "Teenagers are booting the game out of the 1990s. \u201cIt\u2019s kind of bringing everybody together,\u201d one said.",
     "date": "2026-05-12T09:02:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Former Congressman Barney Frank, Now in Hospice, Offers Democrats Frank Words of Advice",
-    "author": "Jenna Russell",
-    "link": "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html",
-    "content": "Former Representative Barney Frank in Ogunquit, Maine, in 2017. Mr. Frank, who has congestive heart failure, is speaking out on the future of the Democratic Party.",
-    "date": "2026-05-12T09:02:24",
     "category": "NYT"
   }
 ]
