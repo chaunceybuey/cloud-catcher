@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233968",
+    "feed_name": "Texas Tribune",
+    "title": "Judge blocks Biden-era immigration rule hours after Texas AG and Stephen Miller\u2019s group sued DOJ",
+    "author": "Uriel J. Garc\u00eda and Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17365689/texas-paxton-doj-lawsuit-immigration-administrative-rule-biden",
+    "content": "The Department of Justice building in Washington, D.C. on Jan. 12, 2023.",
+    "date": "2026-06-23T03:06:25",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=233962",
     "feed_name": "Texas Tribune",
     "title": "Court filings: Unsafe homes and a child death still dog Texas\u2019 foster care system amid improvement",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/10/dining/best-nyc-restaurant-neighborhoods.html",
     "content": "Great meals can be found in virtually any corner of the five boroughs, but here are some areas that stood out to our critic.",
     "date": "2026-05-11T15:29:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
-    "feed_name": "NYT (Shared)",
-    "title": "How Israel Turned Eurovision\u2019s Stage Into a Soft Power Tool",
-    "author": "Mara Hvistendahl and Alex Marshall",
-    "link": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
-    "content": "Israel\u2019s efforts to influence Eurovision\u2019s vote were broader and started years earlier than previously known.",
-    "date": "2026-05-11T15:23:28",
     "category": "NYT"
   }
 ]
