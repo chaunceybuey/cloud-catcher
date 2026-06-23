@@ -70,6 +70,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/23/arts/design/nyc-arts-funding-manhattan-borough-president.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Manhattan Borough President Gives $50 Million to N.Y.C. Arts Groups",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/06/23/arts/design/nyc-arts-funding-manhattan-borough-president.html",
+    "content": "In allocating the borough\u2019s discretionary budget entirely to cultural projects, Brad Hoylman-Sigal said he wanted to send a message to President Trump about the need to keep arts funding.",
+    "date": "2026-06-23T16:01:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/23/arts/television/netflix-unhinged.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Can\u2019t Stop Second-Screening? Netflix Is Counting on It.",
+    "author": "Megan Farokhmanesh",
+    "link": "https://www.nytimes.com/2026/06/23/arts/television/netflix-unhinged.html",
+    "content": "A new game featuring the voices of Zo\u00eb Kravitz and Sadie Sink turns a user\u2019s phone into a controller in an attempt to combine the first and second screen experience.",
+    "date": "2026-06-23T16:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "676bc5a0b6cd579c788a8b6fedf1dc46",
+    "feed_name": "LRB",
+    "title": "Big Ag",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n11/hester-van-hensbergen/big-ag",
+    "content": "In\u200b 2018, the German company Bayer bought the US agrochemical giant Monsanto, inheriting not just its vast portfolio of seeds and pesticides, but also thousands of lawsuits alleging that glyphosate, the active ingredient in Roundup herbicide, causes cancer. Since it was patented in the 1970s, eight billion tonnes of Roundup have been sprayed on fields around the world. It\u2019s the main...",
+    "date": "2026-06-23T15:50:21",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/arts/design/uffizi-botticelli-rehang-simone-verde.html",
     "feed_name": "NYT (Arts)",
     "title": "Up Late With Botticelli as the Uffizi Gets a Reset",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/11/opinion/maureen-galindo-antisemitic-conspiracies.html",
     "content": "Maureen Galindo\u2019s rise demonstrates how even justified rage and despair can curdle into hateful paranoia.",
     "date": "2026-05-12T02:11:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/climate/public-land-rule-repeal.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Administration to Scrap Rule Encouraging Conservation",
-    "author": "Maxine Joselow",
-    "link": "https://www.nytimes.com/2026/05/11/climate/public-land-rule-repeal.html",
-    "content": "The repeal of the Biden-era rule affects roughly 245 million acres of public lands, mostly in the American West, about one-tenth of the country.",
-    "date": "2026-05-12T01:41:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/us/arcadia-california-mayor-chinese-agent.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Arcadia Mayor Eileen Wang Will Plead Guilty to Working as Chinese Agent",
-    "author": "Pooja Salhotra",
-    "link": "https://www.nytimes.com/2026/05/11/us/arcadia-california-mayor-chinese-agent.html",
-    "content": "Eileen Wang at the Asian Hall of Fame induction ceremony in Los Angeles in 2023.",
-    "date": "2026-05-12T00:45:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Supreme Court Clears Path for Alabama to Use New Voting Map",
-    "author": "Abbie VanSickle and Emily Cochrane",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
-    "content": "A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.",
-    "date": "2026-05-12T00:33:02",
     "category": "NYT"
   }
 ]
