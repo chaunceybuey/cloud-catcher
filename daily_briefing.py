@@ -146,20 +146,33 @@ def load_todays_paper(local_path: str) -> list[dict]:
 # =====================================================================
 
 def fetch_full_article(url: str) -> str:
-    """Lightweight fetch: just HTTP GET → trafilatura → clean HTML text."""
+    """Bulletproof fetch: Routing through your personal Google Apps Script proxy."""
+    import requests
+    import urllib.parse
+    
+    # Your exact proxy URL from the PWA
+    PROXY_URL = "https://script.google.com/macros/s/AKfycbw2U9jgVSwbRSHicSuxYeGDs1z_xeGh4bQvreP4Vsim9uFGVMFSZi-2_jAY1XI7XThc/exec"
     
     fetch_url = url
     if "?" not in fetch_url:
         fetch_url = fetch_url + "?partner=rss&emc=rss"
+        
+    proxy_request_url = f"{PROXY_URL}?url={urllib.parse.quote(fetch_url)}"
 
     try:
-        # Let curl_cffi use its own impersonated headers natively
-        res = _SESSION.get(fetch_url, cookies=get_cookies(), timeout=15)
+        # Simple GET request to your Google Proxy (gave it 25s timeout to allow for the double-hop)
+        res = requests.get(proxy_request_url, timeout=25) 
+        
         if res.status_code != 200:
-            return f"<i>Request blocked (HTTP {res.status_code}).</i>"
+            return f"<i>Proxy error (HTTP {res.status_code}).</i>"
+            
+        html_content = res.text
+        if html_content.startswith("ERROR:"):
+            return f"<i>Proxy returned error: {html_content}</i>"
 
+        # Extract text from the clean HTML provided by Google
         extracted = trafilatura.extract(
-            res.text, url=url,
+            html_content, url=url,
             include_comments=False,
             include_images=False,
             output_format='html'
@@ -168,10 +181,9 @@ def fetch_full_article(url: str) -> str:
             extracted = extracted.replace('<p>Supported by</p>', '').replace('<span>Supported by</span>', '')
             return extracted
 
-        return f"<i>HTTP {res.status_code} OK, but could not extract text.</i>"
+        return f"<i>HTTP OK from proxy, but could not extract text.</i>"
     except Exception as e:
-        return f"<i>Error fetching article: {e}</i>"
-
+        return f"<i>Error fetching article via proxy: {e}</i>"
 
 def fetch_articles(items: list[dict]) -> list[dict]:
     results = []
