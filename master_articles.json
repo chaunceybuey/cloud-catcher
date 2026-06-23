@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/23/arts/design/uffizi-botticelli-rehang-simone-verde.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Up Late With Botticelli as the Uffizi Gets a Reset",
+    "author": "Elisabetta Povoledo and Clara Vannucci",
+    "link": "https://www.nytimes.com/2026/06/23/arts/design/uffizi-botticelli-rehang-simone-verde.html",
+    "content": "The museum\u2019s director, Simone Verde, is working long hours as he tries to remake the institution into a living encyclopedia.",
+    "date": "2026-06-23T15:30:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/theater/jimmy-awards-bowen-yang-musical-theater.html",
     "feed_name": "NYT (Arts)",
     "title": "2026 Jimmy Awards: With Bowen Yang as Host, Teen Winners Are Crowned",
@@ -87,6 +97,16 @@
     "link": "https://www.nytimes.com/2026/06/23/movies/michael-jackson-mourning-michosis.html",
     "content": "Jaafar Jackson as Michael Jackson in the recent biopic \u201cMichael,\u201d which has set off a wave of renewed mourning over the pop star\u2019s death.",
     "date": "2026-06-23T15:02:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/picnic-planning-mistakes",
+    "feed_name": "NYT (Food)",
+    "title": "5 Picnic Planning Mistakes You Might Be Making",
+    "author": "Vaughn Vreeland",
+    "link": "https://cooking.nytimes.com/article/picnic-planning-mistakes",
+    "content": "The spread of your dreams starts here.",
+    "date": "2026-06-23T15:00:07",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
     "content": "A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.",
     "date": "2026-05-12T00:33:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229745",
-    "feed_name": "Texas Tribune",
-    "title": "UT-Austin defends its handling of pro-Palestinian protest in federal trial",
-    "author": "Sneha Dey",
-    "link": "https://feeds.texastribune.org/link/16799/17338836/university-texas-austin-student-lawsuit-2024-palestinian-protest",
-    "content": "Texas Department of Public Safety troopers surround a pro-Palestinian encampment on the University of Texas at Austin campus on Monday, April 29, 2024.",
-    "date": "2026-05-12T00:24:22",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/dining/heres-the-waffle-recipe-youre-looking-for.html",
-    "feed_name": "NYT (Food)",
-    "title": "Here\u2019s the Waffle Recipe You\u2019re Looking for",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/05/10/dining/heres-the-waffle-recipe-youre-looking-for.html",
-    "content": "Melissa Clark\u2019s waffles.",
-    "date": "2026-05-12T00:06:13",
     "category": "NYT"
   }
 ]
