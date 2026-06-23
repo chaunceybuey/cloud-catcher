@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/23/theater/sound-of-music-a-few-good-men-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Sound of Music\u2019 and \u2018A Few Good Men\u2019 Are Coming to Broadway",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/23/theater/sound-of-music-a-few-good-men-broadway.html",
+    "content": "Jasmine Amy Rogers, left, will star in \u201cThe Sound of Music,\u201d while Bradley Whitford, center, and Tom Blyth, right, will be featured in \u201cA Few Good Men.\u201d",
+    "date": "2026-06-23T14:45:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Photos Behind Kennedy Center Tarps Show No Sign of Trump\u2019s Name",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html",
+    "content": "In a sworn declaration this month, the Kennedy Center said it had removed the words \u201cThe Donald J. Trump and\u201d from its facade.",
+    "date": "2026-06-23T14:30:51",
+    "category": "NYT"
+  },
+  {
     "id": "3d67ebf1675971547a018af807af33fd",
     "feed_name": "Compact",
     "title": "How Brexit Brought Back Ethnic Politics",
@@ -19978,25 +19998,5 @@
     "content": "A train crosses the Rio Grande near the Laredo Convent Avenue Port of Entry between Laredo and Nuevo Laredo on Nov. 5, 2015.",
     "date": "2026-05-11T21:35:42",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/climate/trump-fema-cameron-hilton.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Nominates Cameron Hamilton to Lead FEMA",
-    "author": "Scott Dance",
-    "link": "https://www.nytimes.com/2026/05/11/climate/trump-fema-cameron-hilton.html",
-    "content": "Cameron Hamilton campaigning in 2024 during his unsuccessful run as a Republican for a congressional seat in Virginia.",
-    "date": "2026-05-11T21:21:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/arts/music/gustavo-dudamel-ny-philharmonic-spanish-harlem-orchestra.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Dudamel Unites N.Y. Philharmonic and Spanish Harlem Orchestra",
-    "author": "Adam Nagourney and James Estrin",
-    "link": "https://www.nytimes.com/2026/05/11/arts/music/gustavo-dudamel-ny-philharmonic-spanish-harlem-orchestra.html",
-    "content": "Gustavo Dudamel congratulating the percussionist Luis Quintero, from the Spanish Harlem Orchestra, during a performance with the New York Philharmonic last week.",
-    "date": "2026-05-11T21:05:24",
-    "category": "NYT"
   }
 ]
