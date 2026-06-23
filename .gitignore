@@ -12,7 +12,14 @@ __pycache__/
 
 # Audio Files (Don't push heavy media)
 static/*.mp3
-static/*.wav*.m4a
+static/*.wav
+Static/*.m4a
 *.wav
 *.m4a
 *.mp3
+
+*.epub
+articles/
+
+credentials.json
+token.json
