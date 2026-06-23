@@ -1,48 +1,80 @@
 """
 daily_briefing.py
+
+Standalone daily briefing — no rss_engine dependency.
+Fetches text only, no images, no Firebase.
 """
 
 import os
 import re
 import datetime
-import uuid
 import time
 import random
+import warnings
 from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 from ebooklib import epub
+import trafilatura
 
-import rss_engine
+warnings.filterwarnings('ignore', message='Unverified HTTPS request')
 
 # =====================================================================
 # CONFIGURATION (DYNAMIC PATHS)
 # =====================================================================
-# Find the home directory dynamically (e.g., /Users/jamesslotta or /Users/js85476)
-HOME_DIR = os.path.expanduser("~")
 
-# Detect exactly where this script lives
+HOME_DIR = os.path.expanduser("~")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 NYT_LOCAL_FILE = os.path.join(HOME_DIR, "Downloads", "nyt_fully_loaded.html")
 
 SUPERNOTE_SYNC_FOLDER = os.path.join(
-    HOME_DIR, 
-    "Library", "CloudStorage", 
+    HOME_DIR,
+    "Library", "CloudStorage",
     "GoogleDrive-slottaj@gmail.com", "My Drive", "Supernote", "Document", "Drive", "NYT"
-)   
+)
 
-# UI chrome h2s we never want to treat as section headers
 SKIP_SECTION_NAMES = {'TODAYS FRONT PAGES', 'Site Index', 'Site Information Navigation'}
+
+# =====================================================================
+# HTTP SESSION — uses curl_cffi for TLS impersonation if available
+# =====================================================================
+
+try:
+    from curl_cffi import requests as cffi_requests
+    _SESSION = cffi_requests.Session(impersonate="chrome120")
+except ImportError:
+    import requests
+    _SESSION = requests.Session()
+    _SESSION.verify = False
+
+_CACHED_COOKIES = None
+
+def get_cookies():
+    global _CACHED_COOKIES
+    if _CACHED_COOKIES is not None:
+        return _CACHED_COOKIES
+    try:
+        import browser_cookie3
+        for browser_fn in [browser_cookie3.chrome, browser_cookie3.firefox, browser_cookie3.safari]:
+            try:
+                jar = browser_fn(domain_name='.nytimes.com')
+                cookies = {c.name: c.value for c in jar}
+                if cookies:
+                    _CACHED_COOKIES = cookies
+                    return _CACHED_COOKIES
+            except Exception:
+                continue
+    except ImportError:
+        pass
+    _CACHED_COOKIES = {}
+    return _CACHED_COOKIES
 
 # =====================================================================
 # STEP 1: PARSE LOCAL HTML → ORDERED ARTICLE LIST WITH SECTIONS
 # =====================================================================
 
 def load_todays_paper(local_path: str) -> list[dict]:
-    """
-    Returns a list of {section, title, url} dicts in page order.
-    """
     if not os.path.exists(local_path):
         script_path = os.path.join(BASE_DIR, "get_nyt.scpt")
         raise FileNotFoundError(
@@ -59,8 +91,6 @@ def load_todays_paper(local_path: str) -> list[dict]:
     raw_items = []
 
     for tag in soup.find_all(True):
-        # Track section headers — real sections never carry the 'e1b0gigc0'
-        # class (which marks article-title h2s). Works for any day's sections.
         if tag.name == "h2":
             classes = tag.get("class", [])
             text = tag.get_text(strip=True)
@@ -68,7 +98,6 @@ def load_todays_paper(local_path: str) -> list[dict]:
                 current_section = text
                 continue
 
-        # Collect article links
         if tag.name == "a":
             href = tag.get("href", "")
             if not href or not date_pattern.search(href):
@@ -78,8 +107,6 @@ def load_todays_paper(local_path: str) -> list[dict]:
             if not href.startswith("http"):
                 href = urljoin("https://www.nytimes.com", href)
 
-            # Clean title: only the first direct text/child of the <a>
-            # so subtitle text that follows doesn't bleed in
             title = ""
             for child in tag.children:
                 if isinstance(child, str) and child.strip():
@@ -98,26 +125,53 @@ def load_todays_paper(local_path: str) -> list[dict]:
                     "url":     href,
                 })
 
-    # Deduplicate: keep LAST occurrence of each URL (drops Highlights dupes)
+    # Deduplicate: keep LAST occurrence (drops Highlights dupes)
     seen_urls = {}
     for item in raw_items:
-        seen_urls[item["url"]] = item          # overwrite → last wins
+        seen_urls[item["url"]] = item
 
-    # Rebuild in original page order, skipping earlier dupes
     deduped = []
     kept_urls = set()
-    for item in reversed(raw_items):           # iterate backwards
+    for item in reversed(raw_items):
         if item["url"] not in kept_urls:
             deduped.append(item)
             kept_urls.add(item["url"])
-    deduped.reverse()                          # restore forward order
+    deduped.reverse()
 
     print(f"   Found {len(raw_items)} links → {len(deduped)} after deduplication.")
     return deduped
 
 # =====================================================================
-# STEP 2: FETCH FULL CONTENT
+# STEP 2: FETCH FULL CONTENT (text only, no images, no Firebase)
 # =====================================================================
+
+def fetch_full_article(url: str) -> str:
+    """Lightweight fetch: just HTTP GET → trafilatura → clean HTML text."""
+    
+    fetch_url = url
+    if "?" not in fetch_url:
+        fetch_url = fetch_url + "?partner=rss&emc=rss"
+
+    try:
+        # Let curl_cffi use its own impersonated headers natively
+        res = _SESSION.get(fetch_url, cookies=get_cookies(), timeout=15)
+        if res.status_code != 200:
+            return f"<i>Request blocked (HTTP {res.status_code}).</i>"
+
+        extracted = trafilatura.extract(
+            res.text, url=url,
+            include_comments=False,
+            include_images=False,
+            output_format='html'
+        )
+        if extracted:
+            extracted = extracted.replace('<p>Supported by</p>', '').replace('<span>Supported by</span>', '')
+            return extracted
+
+        return f"<i>HTTP {res.status_code} OK, but could not extract text.</i>"
+    except Exception as e:
+        return f"<i>Error fetching article: {e}</i>"
+
 
 def fetch_articles(items: list[dict]) -> list[dict]:
     results = []
@@ -127,7 +181,7 @@ def fetch_articles(items: list[dict]) -> list[dict]:
         print(f"  [{item['section'][:12]:12}] {item['title'][:55]}...")
         time.sleep(random.uniform(6.0, 11.5))
 
-        html = rss_engine.fetch_full_article(item["url"])
+        html = fetch_full_article(item["url"])
 
         if html.startswith("<i>"):
             print(f"     ✗ {html[:80]}")
@@ -154,34 +208,18 @@ def create_epub(articles: list[dict], output_path: str) -> str:
     book.set_language("en")
     book.add_author("RSS Triage Automation")
 
-    all_chapters   = []   # flat list for spine
-    toc_sections   = []   # nested TOC: [(section_chapter, [article_chapters])]
-    current_section_chapter = None
-    current_article_chapters = []
-    current_section_name = None
+    all_chapters   = []
+    toc_sections   = []
 
     article_idx  = 0
     section_idx  = 0
 
-    def close_section():
-        nonlocal current_section_chapter, current_article_chapters, current_section_name
-        if current_section_chapter is not None:
-            toc_sections.append(
-                epub.Section(current_section_name),
-            )
-            # We'll build proper nested TOC at the end
-        current_section_chapter   = None
-        current_article_chapters  = []
-        current_section_name      = None
-
-    # Group articles by section for TOC
     from itertools import groupby
     grouped = []
     for section, group in groupby(articles, key=lambda a: a["section"]):
         grouped.append((section, list(group)))
 
     for section_name, section_articles in grouped:
-        # Section divider page
         section_chapter = epub.EpubHtml(
             title     = section_name,
             file_name = f"section_{section_idx}.xhtml",
@@ -204,11 +242,11 @@ def create_epub(articles: list[dict], output_path: str) -> str:
             html_content = article["content"]
             soup         = BeautifulSoup(html_content, "html.parser")
 
-            # Strip images — Supernote doesn't render them anyway
+            # Strip any remaining image tags
             for img in soup.find_all("img"):
                 img.decompose()
 
-            chapter         = epub.EpubHtml(
+            chapter = epub.EpubHtml(
                 title     = title,
                 file_name = f"article_{article_idx}.xhtml",
                 lang      = "en",
@@ -224,7 +262,6 @@ def create_epub(articles: list[dict], output_path: str) -> str:
             article_chapters_in_section,
         ))
 
-    # Nested TOC: sections expand to show articles
     book.toc   = tuple(toc_sections)
     book.spine = ["nav"] + all_chapters
     book.add_item(epub.EpubNcx())
@@ -259,9 +296,9 @@ def run():
     create_epub(articles, output_path)
     print(f"\n✅ Done!  →  {output_path}\n")
 
-    # Wake up Google Drive to force the sync
-    print("Waking up Google Drive to force sync...")
+    # Wake up Google Drive to force sync
     os.system("osascript -e 'tell application \"Google Drive\" to activate'")
+
 
 if __name__ == "__main__":
     run()
