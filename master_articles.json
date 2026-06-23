@@ -70,6 +70,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/23/theater/jimmy-awards-bowen-yang-musical-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "2026 Jimmy Awards: With Bowen Yang as Host, Teen Winners Are Crowned",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/06/23/theater/jimmy-awards-bowen-yang-musical-theater.html",
+    "content": "The audience cheering at the rehearsal for the Jimmy Awards, which were held Monday night.",
+    "date": "2026-06-23T15:03:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/23/movies/michael-jackson-mourning-michosis.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mourning After the Michael Jackson Movie? It Might Be \u2018Michosis.\u2019",
+    "author": "Farah Fleurima",
+    "link": "https://www.nytimes.com/2026/06/23/movies/michael-jackson-mourning-michosis.html",
+    "content": "Jaafar Jackson as Michael Jackson in the recent biopic \u201cMichael,\u201d which has set off a wave of renewed mourning over the pop star\u2019s death.",
+    "date": "2026-06-23T15:02:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/23/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Capitaine Washes Ashore in the West Village With Tavern Takes on Seafood",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/06/23/dining/nyc-restaurant-news.html",
+    "content": "It\u2019s a hat trick this week with Grimm Tavern from the beer brand, and Trudie\u2019s Tavern from the Gertrude\u2019s owners.",
+    "date": "2026-06-23T14:54:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/theater/sound-of-music-a-few-good-men-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Sound of Music\u2019 and \u2018A Few Good Men\u2019 Are Coming to Broadway",
@@ -19968,35 +19998,5 @@
     "content": "Melissa Clark\u2019s waffles.",
     "date": "2026-05-12T00:06:13",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Virginia Officials Ask Supreme Court to Restore Voting Map Drawn by Democrats",
-    "author": "Abbie VanSickle and Campbell Robertson",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
-    "content": "The Virginia Supreme Court ruled last week that Democratic state lawmakers violated Virginia\u2019s Constitution in enacting a voting map aimed at increasing the number of Democrats in U.S. House seats.",
-    "date": "2026-05-11T23:59:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229694",
-    "feed_name": "Texas Tribune",
-    "title": "With Trump and Talarico aligned on a gas tax holiday, Cornyn gets on board",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17338776/john-cornyn-james-talarico-trump-gas-tax-texas",
-    "content": "A Shell gas station in Austin on April 24, 2026.",
-    "date": "2026-05-11T22:28:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229673",
-    "feed_name": "Texas Tribune",
-    "title": "Excessive heat suspected as cause of death after six bodies found in rail car near Laredo",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17338744/texas-laredo-railroad-car-six-dead-heat-suspected",
-    "content": "A train crosses the Rio Grande near the Laredo Convent Avenue Port of Entry between Laredo and Nuevo Laredo on Nov. 5, 2015.",
-    "date": "2026-05-11T21:35:42",
-    "category": "Texas"
   }
 ]
