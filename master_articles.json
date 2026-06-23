@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234014",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: What a new secretary of state could mean for Texas elections",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17366154/tribcast-texas-secretary-of-state-elections",
+    "content": "The Texas State Capitol seen from Rusk State Office Building on May 20, 2019.",
+    "date": "2026-06-23T19:43:09",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/theater/warriors-broadway-lin-manuel-miranda.html",
     "feed_name": "NYT (Arts)",
     "title": "Lin-Manuel Miranda\u2019s \u2018Warriors\u2019 Musical to Hit Broadway Next Spring",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/us/barney-frank-congress-democrats-advice.html",
     "content": "Former Representative Barney Frank in Ogunquit, Maine, in 2017. Mr. Frank, who has congestive heart failure, is speaking out on the future of the Democratic Party.",
     "date": "2026-05-12T09:02:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Your Decision Making Is All Wrong",
-    "author": "David Epstein",
-    "link": "https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html",
-    "content": "Why searching for the best is the wrong goal.",
-    "date": "2026-05-12T09:02:17",
     "category": "NYT"
   }
 ]
