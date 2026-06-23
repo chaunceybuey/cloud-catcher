@@ -70,6 +70,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=233904",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 big health priorities \u2014 dementia research, food labeling and ivermectin \u2014 have hit roadblocks",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17365871/texas-dementia-food-labeling-ivermectin-health-legislation-maha",
+    "content": "An aid adjusts a sign before Gov. Greg Abbott signs the Make Texas Healthy Again bill at the Texas Capitol on Aug. 27, 2025.",
+    "date": "2026-06-23T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233665",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Democrats look to rally behind their ticket, draw national attention at state convention",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17365872/texas-democrats-convention-corpus-christi-bernie-sanders-talarico",
+    "content": "Delegates and attendees during the first general session of the Texas Democratic Convention in El Paso on June 7, 2024.",
+    "date": "2026-06-23T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://stratechery.com/?p=19375",
+    "feed_name": "Stratechery",
+    "title": "Memory Chips and China, Microsoft and Chinese Models",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
+    "content": "<p>The big three memory makers may come to regret opening up the door to Chinese memory makers; Microsoft, meanwhile, is very incentivized to use Chinese models.</p>",
+    "date": "2026-06-23T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/arts/rare-books-on-sex-have-spiced-things-up-at-a-library-franklin-founded.html",
     "feed_name": "NYT (Arts)",
     "title": "Rare Books on Sex Have Spiced Things Up at a Library Franklin Founded",
@@ -19968,35 +19998,5 @@
     "content": "A book by the world\u2019s most famous survivor of sexual violence has been read as a manifesto or a cry of pain. What she wrote is far more complicated.",
     "date": "2026-05-11T18:43:21",
     "category": "NYT"
-  },
-  {
-    "id": "69ebadd68b7bc454d07e6a4b",
-    "feed_name": "Wired (Science)",
-    "title": "Testing for \u2018Bad Cholesterol\u2019 Doesn\u2019t Tell the Whole Story",
-    "author": "Anna McKie",
-    "link": "https://www.wired.com/story/moving-beyond-bad-cholesterol-test/",
-    "content": "There\u2019s a more accurate way of measuring who\u2019s at risk for cholesterol-related health issues. So why don\u2019t more doctors use it?",
-    "date": "2026-05-11T18:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/opinion/bill-cassidy-louisiana-republican-primary.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Bill Cassidy Sold His Soul and Got Nothing in Return",
-    "author": "Gary Sernovitz",
-    "link": "https://www.nytimes.com/2026/05/11/opinion/bill-cassidy-louisiana-republican-primary.html",
-    "content": "A doctor and senator who voted to confirm Robert Kennedy still was snubbed by Trump in the Republican primary in Louisiana.",
-    "date": "2026-05-11T18:07:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229615",
-    "feed_name": "Texas Tribune",
-    "title": "Federal appeals court temporarily halts execution of Texas death row inmate Edward Busby",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17338593/texas-execution-edward-busby-appeal",
-    "content": "The Huntsville Unit in Huntsville. Prisoners on death row are transported there for execution.",
-    "date": "2026-05-11T17:50:20",
-    "category": "Texas"
   }
 ]
