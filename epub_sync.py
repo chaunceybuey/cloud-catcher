@@ -2,14 +2,27 @@ import os
 import re
 import hashlib
 import time
+import urllib.request
+import json
 from bs4 import BeautifulSoup
 from ebooklib import epub
 import rss_engine
 
-ARTICLES_FOLDER = (
-    "/Users/js85476/Library/CloudStorage/"
-    "GoogleDrive-slottaj@gmail.com/My Drive/Supernote/Document/Drive/Articles"
+# =====================================================================
+# THE GOOGLE DRIVE FIX
+# =====================================================================
+# Find the absolute path to the user's home directory dynamically
+HOME_DIR = os.path.expanduser("~")
+
+# Build the true Google Drive path just like daily_briefing.py
+SUPERNOTE_SYNC_FOLDER = os.path.join(
+    HOME_DIR, 
+    "Library", "CloudStorage", 
+    "GoogleDrive-slottaj@gmail.com", "My Drive", "Supernote", "Document", "Drive", "SavedArticles"
 )
+
+# Also detect where this script lives so we can load the JSON files locally
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def clean_filename(title):
     safe = re.sub(r'[\\/*?:"<>|]', "", title)
@@ -43,24 +56,56 @@ def create_article_epub(article_dict, output_path):
     epub.write_epub(output_path, book, {})
 
 def sync_bookmarks_to_epub():
-    os.makedirs(ARTICLES_FOLDER, exist_ok=True)
+    # Make sure the Supernote folder exists in Google Drive
+    os.makedirs(SUPERNOTE_SYNC_FOLDER, exist_ok=True)
+    
     bookmarks = rss_engine.get_bookmarks()
     if not bookmarks:
+        print("[EPUB SYNC] No saved articles found in your Bookmarks.")
         return
 
-    archive = rss_engine.fetch_master_archive()
-    archive_dict = {a['id']: a for a in archive}
+    print(f"[EPUB SYNC] Found {len(bookmarks)} saved articles. Building metadata dictionary...")
+
+    archive_dict = {}
     
+    try:
+        with open(os.path.join(BASE_DIR, "master_articles.json"), "r", encoding="utf-8") as f:
+            master = json.load(f)
+            for a in master: 
+                archive_dict[a['id']] = a
+    except Exception:
+        pass
+
+    try:
+        with open(os.path.join(BASE_DIR, "newsletter_articles.json"), "r", encoding="utf-8") as f:
+            newsletters = json.load(f)
+            for n in newsletters: 
+                archive_dict[n['id']] = n
+    except Exception:
+        pass
+        
+    try:
+        saved_links = rss_engine.db.reference('app_data/saved_links').get() or {}
+        if isinstance(saved_links, dict):
+            for key, data in saved_links.items():
+                item_id = data.get('id', key)
+                archive_dict[item_id] = data
+    except Exception:
+        pass
+
     new_files_created = False
 
     for b_id in bookmarks.keys():
         if b_id not in archive_dict:
+            print(f"[EPUB SYNC] WARNING: Skipping ID {b_id[:15]}... (Metadata missing)")
             continue
         
         article = archive_dict[b_id]
         title = article.get('title', 'Untitled')
         safe_title = clean_filename(title) or "Untitled_Article"
-        filepath = os.path.join(ARTICLES_FOLDER, f"{safe_title}.epub")
+        
+        # SAVE DIRECTLY TO GOOGLE DRIVE MOUNT
+        filepath = os.path.join(SUPERNOTE_SYNC_FOLDER, f"{safe_title}.epub")
         
         if os.path.exists(filepath):
             continue
@@ -88,12 +133,11 @@ def sync_bookmarks_to_epub():
         
         try:
             create_article_epub(article_to_render, filepath)
-            print(f"  -> Saved to Drive: {filepath}")
+            print(f"  -> Saved to Google Drive: {filepath}")
             new_files_created = True
         except Exception as e:
             print(f"  -> Error generating EPUB: {e}")
 
-    # Wake up Google Drive if any new articles were generated
     if new_files_created:
         print("[EPUB SYNC] Waking up Google Drive to force sync...")
         os.system("osascript -e 'tell application \"Google Drive\" to activate'")
