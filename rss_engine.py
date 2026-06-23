@@ -8,9 +8,12 @@ import requests
 import firebase_admin
 from firebase_admin import credentials, db
 
+# Detect exactly where rss_engine.py is living dynamically
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 try:
     from dotenv import load_dotenv
-    load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), '.env'))
+    load_dotenv(os.path.join(BASE_DIR, '.env'))
 except ImportError:
     pass
 
@@ -20,7 +23,8 @@ GITHUB_TOKEN    = os.environ.get('GITHUB_TOKEN',    '')
 
 # --- FIREBASE SETUP ---
 FIREBASE_DB_URL = os.environ.get('FIREBASE_DB_URL', '')
-FIREBASE_CRED_PATH = os.environ.get('FIREBASE_CRED_PATH', 'firebase-credentials.json')
+# Bind the credentials path dynamically to the script's location
+FIREBASE_CRED_PATH = os.environ.get('FIREBASE_CRED_PATH', os.path.join(BASE_DIR, 'firebase-credentials.json'))
 
 if not firebase_admin._apps and FIREBASE_DB_URL:
     try:
@@ -494,18 +498,24 @@ def generate_audio(article_id: str, html_content: str) -> str:
         if not master_audio:
              return "ERROR: No audio data returned by Gemini."
         
-        os.makedirs("static", exist_ok=True)
+        # Build the static directory securely against the dynamic base path
+        static_dir = os.path.join(BASE_DIR, "static")
+        os.makedirs(static_dir, exist_ok=True)
         
         safe_id = hashlib.md5(article_id.encode()).hexdigest()[:15]
-        filepath = f"static/audio_{safe_id}.wav"
         
-        with wave.open(filepath, "wb") as wf:
+        # Keep the return path relative so the web player doesn't break, 
+        # but use the absolute path for the actual disk save
+        relative_filepath = f"static/audio_{safe_id}.wav"
+        absolute_filepath = os.path.join(static_dir, f"audio_{safe_id}.wav")
+        
+        with wave.open(absolute_filepath, "wb") as wf:
             wf.setnchannels(1)       
             wf.setsampwidth(2)       
             wf.setframerate(24000)   
             wf.writeframes(master_audio)
             
-        return filepath
+        return relative_filepath
     except Exception as e:
         return f"ERROR: {str(e)}"
         

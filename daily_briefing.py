@@ -1,9 +1,5 @@
 """
 daily_briefing.py
-
-Workflow:
-  1. osascript /Users/js85476/Desktop/cloud-catcher/get_nyt.scpt
-  2. python3 /Users/js85476/Desktop/cloud-catcher/daily_briefing.py
 """
 
 import os
@@ -20,14 +16,20 @@ from ebooklib import epub
 import rss_engine
 
 # =====================================================================
-# CONFIGURATION
+# CONFIGURATION (DYNAMIC PATHS)
 # =====================================================================
+# Find the home directory dynamically (e.g., /Users/jamesslotta or /Users/js85476)
+HOME_DIR = os.path.expanduser("~")
 
-NYT_LOCAL_FILE = "/Users/js85476/Downloads/nyt_fully_loaded.html"
+# Detect exactly where this script lives
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-SUPERNOTE_SYNC_FOLDER = (
-    "/Users/js85476/Library/CloudStorage/"
-    "GoogleDrive-slottaj@gmail.com/My Drive/Supernote/Document/Drive/NYT"
+NYT_LOCAL_FILE = os.path.join(HOME_DIR, "Downloads", "nyt_fully_loaded.html")
+
+SUPERNOTE_SYNC_FOLDER = os.path.join(
+    HOME_DIR, 
+    "Library", "CloudStorage", 
+    "GoogleDrive-slottaj@gmail.com", "My Drive", "Supernote", "Document", "Drive", "NYT"
 )   
 
 # UI chrome h2s we never want to treat as section headers
@@ -40,14 +42,12 @@ SKIP_SECTION_NAMES = {'TODAYS FRONT PAGES', 'Site Index', 'Site Information Navi
 def load_todays_paper(local_path: str) -> list[dict]:
     """
     Returns a list of {section, title, url} dicts in page order.
-    - Titles are clean (no byline bleed-through)
-    - Duplicates: only the LAST occurrence is kept, so Highlights
-      dupes are dropped in favour of the proper section version
     """
     if not os.path.exists(local_path):
+        script_path = os.path.join(BASE_DIR, "get_nyt.scpt")
         raise FileNotFoundError(
             f"Local file not found: {local_path}\n"
-            "Run your AppleScript first: osascript /Users/js85476/Desktop/cloud-catcher/get_nyt.scpt"
+            f"Run your AppleScript first: osascript '{script_path}'"
         )
 
     print(f"📄 Reading local file: {local_path}")
