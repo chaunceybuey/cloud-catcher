@@ -80,6 +80,26 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=233986",
+    "feed_name": "Texas Tribune",
+    "title": "Data centers not welcome: New poll shows most Texans oppose them in their communities",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17366066/texans-oppose-data-centers-poll",
+    "content": "Construction continues on the Meta Platforms data center complex on a 1,000-acre site in far Northeast El Paso, near the Texas-New Mexico state line, as seen March 12, 2026.",
+    "date": "2026-06-23T16:18:44",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=233983",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton and James Talarico are neck and neck in U.S. Senate race, new poll finds",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17366067/texas-us-senate-poll-ken-paxton-james-talarico-ut-austin",
+    "content": "From left: Attorney General Ken Paxton and state Rep. James Talarico, the Republican and Democratic nominees for the U.S. Senate, will face each other in the November midterm election.",
+    "date": "2026-06-23T16:16:03",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/arts/design/nyc-arts-funding-manhattan-borough-president.html",
     "feed_name": "NYT (Arts)",
     "title": "Manhattan Borough President Gives $50 Million to N.Y.C. Arts Groups",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html",
     "content": "Hackers stole data from Canvas, an education platform used by thousands of schools and universities around the world.",
     "date": "2026-05-12T05:23:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html",
-    "feed_name": "NYT (Shared)",
-    "title": "China Increasingly Views Trump\u2019s America as an Empire in Decline",
-    "author": "Li Yuan",
-    "link": "https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html",
-    "content": "The port at Tianjin, China. In response to President Trump\u2019s tariffs, China has become more assertive on the global stage.",
-    "date": "2026-05-12T04:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-housing-forum.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "I Have Some Questions for the Democrats Who Want to Run California",
-    "author": "Ezra Klein",
-    "link": "https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-housing-forum.html",
-    "content": "The Opinion columnist Ezra Klein moderates a forum with five of the top Democratic candidates for governor of California.",
-    "date": "2026-05-12T02:30:03",
     "category": "NYT"
   }
 ]
