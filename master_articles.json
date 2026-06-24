@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "a2868155f2d57829f62666c703ebd32e",
+    "feed_name": "The Atlantic",
+    "title": "The Whiplash of Trump\u2019s Iran Capitulation",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/06/trump-iran-foreign-policy/687683/",
+    "content": "America\u2019s foreign policy is about one man and little else.",
+    "date": "2026-06-24T22:16:44",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/24/arts/design/sothebys-auction-london-joe-lewis.html",
     "feed_name": "NYT (Arts)",
     "title": "A Record Sotheby\u2019s Auction Thrills London After a Brexit Hangover",
@@ -19988,15 +19998,5 @@
     "content": "But profiting from it is another matter",
     "date": "2026-05-12T19:05:21",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/travel/luxury-hotels-london-chancery-rosewood-raffles-owo.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How Do Two London Luxury Hotels Compare? Testing the Chancery Rosewood and Raffles at the OWO.",
-    "author": "Amy Virshup",
-    "link": "https://www.nytimes.com/2026/05/12/travel/luxury-hotels-london-chancery-rosewood-raffles-owo.html",
-    "content": "The stairway at Raffles at the OWO is made of marble and alabaster and was designed to communicate power when the building served as a military headquarters.",
-    "date": "2026-05-12T19:04:25",
-    "category": "NYT"
   }
 ]
