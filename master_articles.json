@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "8383dc0af96622c758fc9d214c3ab509",
+    "feed_name": "LRB",
+    "title": "Paper Tiger",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/june/paper-tiger",
+    "content": "Wearing a football jersey and waving the national flag, Abelardo de la Espriella trotted out the quasi-fascist trinity from the days of Operation.\u00a0.\u00a0.",
+    "date": "2026-06-24T14:35:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234112",
+    "feed_name": "Texas Tribune",
+    "title": "Camp Mystic files for bankruptcy almost one year after deadly flood",
+    "author": "By Kathy McCormack\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17366575/texas-camp-mystic-bankruptcy-flood",
+    "content": "Camp Mystic along the banks of the Guadalupe River in Hunt on July 5, 2025.",
+    "date": "2026-06-24T14:28:59",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/06/reflecting-pool-green-algae-trump/687672/",
     "feed_name": "Chait",
     "title": "The Reflecting Pool Water\u2019s Fine",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/us/politics/jen-kiggans-jeffries-cotton-picking-virginia.html",
     "content": "Representative Jen Kiggans of Virginia, a Republican, said on Monday night that her remarks had been misconstrued by Democrats.",
     "date": "2026-05-12T16:05:43",
-    "category": "NYT"
-  },
-  {
-    "id": "6a021be221cf4dd30c9746a6",
-    "feed_name": "Wired (Science)",
-    "title": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/all-your-hantavirus-questions-answered-by-an-infectious-disease-expert/",
-    "content": "Here\u2019s what you need to know, from why the cruise ship outbreak won\u2019t spark the next pandemic to how hantavirus spreads.",
-    "date": "2026-05-12T15:33:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/11/style/the-pitt-joy-kwon-irene-choi-work-life-balance.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "On \u2018The Pitt,\u2019 She Clocked Out on Time. In Real Life, It Started a Debate.",
-    "author": "Alisha Haridasani Gupta",
-    "link": "https://www.nytimes.com/2026/05/11/style/the-pitt-joy-kwon-irene-choi-work-life-balance.html",
-    "content": "When Joy Kwon, a third-year medical student on TV, set a boundary, she stirred a work-life balance debate among medical professionals and fans.",
-    "date": "2026-05-12T15:33:17",
     "category": "NYT"
   }
 ]
