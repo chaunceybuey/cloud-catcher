@@ -21,9 +21,19 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install feedparser
+        # Added requests, firebase-admin, dotenv, and beautifulsoup4 so rss_engine can run
+        run: pip install feedparser requests firebase-admin python-dotenv beautifulsoup4
+
+      - name: Build Firebase Credentials
+        # Pulls your secure JSON from GitHub Secrets and temporarily writes it to the server
+        env:
+          FIREBASE_CREDS: ${{ secrets.FIREBASE_CREDENTIALS }}
+        run: echo "$FIREBASE_CREDS" > firebase-credentials.json
 
       - name: Run catcher
+        # Injects your specific database URL so rss_engine knows where to look
+        env:
+          FIREBASE_DB_URL: "https://rss-triage-default-rtdb.firebaseio.com"
         run: python cloud_catcher.py
 
       - name: Commit and push
