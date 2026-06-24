@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a3bed394f75162682f875fe",
+    "feed_name": "Wired (Science)",
+    "title": "Every Time Norway Scores at the World Cup the City of Bergen Trembles",
+    "author": "Marta Musso",
+    "link": "https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/",
+    "content": "This curious phenomenon was documented by the seismometer at the University of Bergen, which recorded slight vibrations whenever the national team scored a goal.",
+    "date": "2026-06-24T19:26:06",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/24/briefing/24-the-good-list-web-invite-anthropeum.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Delight to Your Day",
@@ -78,6 +88,16 @@
     "content": "Naming the moon, Sometimes Island and laughing in real life.",
     "date": "2026-06-24T18:56:04",
     "category": "NYT"
+  },
+  {
+    "id": "7b7a535727b0563754cb15f6f29043fc",
+    "feed_name": "LRB",
+    "title": "On Politics: A New Era for UK Politics",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-a-new-era-for-uk-politics",
+    "content": "In the wake of last week\u2019s devolved and local elections, Keir Starmer is once again fighting for his political future. Labour has almost completely vanished in Wales, came a distant second in Scotland (tied with Reform UK)\u00a0and lost nearly 1500 councillors in England. But while Plaid Cymru and the SNP were victorious in Wales and Scotland, in many ways the results in England were a...",
+    "date": "2026-06-24T17:06:46",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/06/24/arts/design/basquiat-ken-griffin-perez-art-museum.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/",
     "content": "The school\u2019s famous Honor Code was no match for chatbot-enabled cheating.",
     "date": "2026-05-12T16:32:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/movies/rex-reed-dead.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Rex Reed, Film Critic Known for Acerbic Reviews, Dies at 87",
-    "author": "Clyde Haberman",
-    "link": "https://www.nytimes.com/2026/05/12/movies/rex-reed-dead.html",
-    "content": "Rex Reed in 2017. If he disliked someone or \u2014 worse \u2014 found the person merely uninteresting, it was wise to duck and cover.",
-    "date": "2026-05-12T16:21:31",
-    "category": "NYT"
-  },
-  {
-    "id": "5ca2c0394c4d152e9d2a9585fa8fceed",
-    "feed_name": "LRB",
-    "title": "Walter Benjamin\u2019s Would-Be Rescuers",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/may/walter-benjamin-s-would-be-rescuers",
-    "content": "To understand Walter Benjamin\u2019s life, it is best to begin with his death. Attempting to flee Nazi-occupied France, he died by suicide on 26.\u00a0.\u00a0.",
-    "date": "2026-05-12T16:20:34",
     "category": "Magazines"
   }
 ]
