@@ -70,6 +70,56 @@
     "category": "Texas"
   },
   {
+    "id": "6a3ba58be6c7ac5cabfbc608",
+    "feed_name": "Wired (Science)",
+    "title": "London Climate Action Week Foiled By Climate Change",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/london-climate-action-week-foiled-by-climate-change/",
+    "content": "As record-breaking heat crushes Europe, organizers are moving events online to avoid exposing people to dangerously high temperatures.",
+    "date": "2026-06-24T10:11:14",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234056",
+    "feed_name": "Texas Tribune",
+    "title": "Cornyn and Crockett remain top skeptics of their party\u2019s U.S. Senate nominees after primary losses",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17366466/john-cornyn-jasmine-crockett-talarico-paxton-texas-senate",
+    "content": "U.S. Rep. Jasmine Crockett, D-Dallas, and U.S. Sen. John Cornyn.",
+    "date": "2026-06-24T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234071",
+    "feed_name": "Texas Tribune",
+    "title": "As New World screwworm reaches Texas, Trump officials race to breed more sterile flies",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17366467/new-world-screwworm-texas-sterile-flies-usda-trump-brooke-rollins",
+    "content": "The New World screwworm is a parasitic fly whose larvae feed on living tissues of warm-blooded animals.",
+    "date": "2026-06-24T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234075",
+    "feed_name": "Texas Tribune",
+    "title": "Texas lawmakers want fixes to statewide voter registration system ahead of midterms",
+    "author": "By Natalia Contreras, VoteBeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17366468/texas-team-voter-registration-system-civix-secretary-of-state",
+    "content": "People cast their ballots at the Metropolitan Multi-Service Center in Houston on Nov. 8, 2022. Texas lawmakers have agreed to make the illegal voting a felony once again. Credit: Michael Stravato for The Texas Tribune",
+    "date": "2026-06-24T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://stratechery.com/?p=19383",
+    "feed_name": "Stratechery",
+    "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+    "content": "<p>My experience and reflections on vibe coding an app that I plan on actually using regularly.</p>",
+    "date": "2026-06-24T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/24/arts/design/henry-moore-kew-gardens-london.html",
     "feed_name": "NYT (Arts)",
     "title": "A Show for All Seasons: Henry Moore\u2019s Art, Reborn in Open Air",
@@ -19948,55 +19998,5 @@
     "content": "The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans.",
     "date": "2026-05-12T14:41:48",
     "category": "NYT"
-  },
-  {
-    "id": "495a5b8eca7731566638f4aa3442fa4a",
-    "feed_name": "The Atlantic",
-    "title": "The Unhappy Hosts of the World Cup",
-    "author": "Henry Grabar",
-    "link": "https://www.theatlantic.com/ideas/2026/05/world-cup-transit-costs/687136/",
-    "content": "Cities and states are covering a lot of the costs of this summer\u2019s matches, and have few options for bringing in much revenue.",
-    "date": "2026-05-12T14:36:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/28/indianas-indiana-jones-the-grave-robber-carpenter/",
-    "feed_name": "NYRB",
-    "title": "Indiana\u2019s Indiana Jones",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/28/indianas-indiana-jones-the-grave-robber-carpenter/",
-    "content": "FBI agents who raided an Indiana farm in 2014 were astonished to find some 42,000 artifacts and bones looted by an amateur archaeologist.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-12T14:33:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Video Shows Philippine Senator Outrunning Agents and Avoiding I.C.C. Warrant",
-    "author": "Jason Gutierrez",
-    "link": "https://www.nytimes.com/2026/05/12/world/asia/philippines-senator-dela-rosa-arrest-warrant.html",
-    "content": "Senator Ronald dela Rosa, who once was the chief enforcer of former President Rodrigo Duterte\u2019s deadly \u201cwar on drugs,\u201d talking to journalists at the Senate in Manila on Tuesday.",
-    "date": "2026-05-12T14:33:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/10/arts/design/maya-lin-manhattan-skyscraper.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Maya Lin Connects Nature to a New Manhattan Skyscraper and Beyond",
-    "author": "Jane L. Levere",
-    "link": "https://www.nytimes.com/2026/05/10/arts/design/maya-lin-manhattan-skyscraper.html",
-    "content": "Lin\u2019s new work at the JPMorgan Chase building in New York, a sculpture composed on massive gray stone walls, and the adjoining plaza were envisioned in part as a respite from the cacophony of the city.",
-    "date": "2026-05-12T14:09:08",
-    "category": "NYT"
-  },
-  {
-    "id": "0e6481f3fc5c0712f6dee97fcb6fe57c",
-    "feed_name": "The Atlantic",
-    "title": "What Did Jamaica Do to Deserve This?",
-    "author": "Anne Applebaum",
-    "link": "https://www.theatlantic.com/ideas/2026/05/kari-lake-jamaica-record/687141/",
-    "content": "Kari Lake, Trump\u2019s pick for ambassador, has a disastrous record.",
-    "date": "2026-05-12T14:01:00",
-    "category": "Magazines"
   }
 ]
