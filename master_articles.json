@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "49d1126372c0ae2531ef6009c8e18f1c",
+    "feed_name": "The Atlantic",
+    "title": "Why I Joined Team Algae",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/06/reflecting-pool-green-algae-trump/687672/",
+    "content": "The greening of the Reflecting Pool is meaningless to everybody, except the president.",
+    "date": "2026-06-24T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a3ba58be6c7ac5cabfbc608",
     "feed_name": "Wired (Science)",
     "title": "London Climate Action Week Foiled By Climate Change",
@@ -118,6 +128,26 @@
     "content": "<p>My experience and reflections on vibe coding an app that I plan on actually using regularly.</p>",
     "date": "2026-06-24T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "d4887c0af207f8b7b200c91882804669",
+    "feed_name": "The Atlantic",
+    "title": "Andy Burnham Has Three Years to Fix Britain",
+    "author": "Idrees Kahloon",
+    "link": "https://www.theatlantic.com/ideas/2026/06/burnham-uk-reform-manchesterism/687674/",
+    "content": "Can a former mayor show that the establishment can still govern?",
+    "date": "2026-06-24T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "437a0e88921f0b5c7c6fa0792265c152",
+    "feed_name": "The Atlantic",
+    "title": "War and Consequences",
+    "author": "Eliot A. Cohen",
+    "link": "https://www.theatlantic.com/ideas/2026/06/iran-war-consequences/687669/",
+    "content": "The damage will not be undone when the Trump administration is gone.",
+    "date": "2026-06-24T10:00:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/06/24/arts/design/henry-moore-kew-gardens-london.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/dining/20-minute-dinners-for-when-you-are-dunzo.html",
     "content": "The dead-simple dinners \u2014 like halloumi tacos and creamy cabbage pastina \u2014 we turn to when Maycember ramps up.",
     "date": "2026-05-12T15:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "58e41e4109a7508c9b1d48ef9a4e9004",
-    "feed_name": "The Atlantic",
-    "title": "Spencer Pratt and the Temptations of Populism",
-    "author": "Conor Friedersdorf",
-    "link": "https://www.theatlantic.com/ideas/2026/05/spencer-pratt-la-mayor-populism/687142/",
-    "content": "The long-shot candidate for L.A. mayor has run an effective campaign. Can he tap into populist energy without alienating Angelenos?",
-    "date": "2026-05-12T14:55:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/28/whither-the-nerd-bully-bill-gates/",
-    "feed_name": "NYRB",
-    "title": "Whither the Nerd-Bully?",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/28/whither-the-nerd-bully-bill-gates/",
-    "content": "Bill Gates was the monopolistic father figure who Silicon Valley\u2019s young founders rebelled against\u2014and, in so rebelling, became.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-12T14:48:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
-    "feed_name": "NYT (Shared)",
-    "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
-    "author": "Lydia DePillis",
-    "link": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
-    "content": "The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans.",
-    "date": "2026-05-12T14:41:48",
     "category": "NYT"
   }
 ]
