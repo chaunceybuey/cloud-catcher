@@ -24,7 +24,7 @@ GITHUB_TOKEN    = os.environ.get('GITHUB_TOKEN',    '')
 # --- FIREBASE SETUP ---
 FIREBASE_DB_URL = os.environ.get('FIREBASE_DB_URL', '')
 # Bind the credentials path dynamically to the script's location
-FIREBASE_CRED_PATH = os.environ.get('FIREBASE_CRED_PATH', os.path.join(BASE_DIR, 'firebase-credentials.json'))
+FIREBASE_CRED_PATH = os.path.join(BASE_DIR, 'firebase-credentials.json')
 
 if not firebase_admin._apps and FIREBASE_DB_URL:
     try:
