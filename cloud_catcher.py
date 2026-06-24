@@ -4,6 +4,13 @@ import os
 from datetime import datetime
 from time import mktime
 
+# Import rss_engine to safely access your Firebase bookmarks
+try:
+    import rss_engine
+except ImportError:
+    rss_engine = None
+    print("Warning: rss_engine not found or dependencies missing. Bookmark protection disabled.")
+
 MASTER_FILE = 'master_articles.json'
 FEEDS_FILE = 'feeds.json'
 MAX_ARTICLES = 2000
@@ -78,16 +85,39 @@ def main():
             except Exception as e:
                 print(f"Error fetching {feed_info.get('name', feed_info)}: {e}")
 
-    # Rebuild from dict so both new articles AND category edits are captured.
-    # Sort first, THEN cap — so new articles are never silently discarded
-    # because they sorted below position MAX_ARTICLES before the cut.
-    archive = sorted(existing.values(), key=lambda x: x.get('date', ''), reverse=True)
-    archive = list(archive)[:MAX_ARTICLES]
+    # ==========================================================
+    # BOOKMARK VIP PROTECTION LOGIC
+    # ==========================================================
+    # 1. Sort the entire list of articles by date
+    archive_sorted = sorted(existing.values(), key=lambda x: x.get('date', ''), reverse=True)
+
+    # 2. Ask Firebase for the active VIP list
+    starred_ids = set()
+    if rss_engine:
+        try:
+            bookmarks = rss_engine.get_bookmarks()
+            if bookmarks:
+                starred_ids = set(bookmarks.keys())
+                print(f"Protected {len(starred_ids)} starred articles from deletion.")
+        except Exception as e:
+            print(f"Error fetching bookmarks for protection: {e}")
+
+    # 3. Separate the archive into two piles
+    starred_articles = [a for a in archive_sorted if a['id'] in starred_ids]
+    unstarred_articles = [a for a in archive_sorted if a['id'] not in starred_ids]
+
+    # 4. Fill the master file with ALL starred articles, then pad the rest with unstarred articles
+    spots_left = max(0, MAX_ARTICLES - len(starred_articles))
+    final_archive = starred_articles + unstarred_articles[:spots_left]
+
+    # 5. Re-sort the final combined list so the UI displays perfectly chronologically
+    final_archive = sorted(final_archive, key=lambda x: x.get('date', ''), reverse=True)
+    # ==========================================================
 
     with open(MASTER_FILE, 'w') as f:
-        json.dump(archive, f, indent=2)
+        json.dump(final_archive, f, indent=2)
 
-    print(f"Added {new_count} new articles. Total archive: {len(archive)}.")
+    print(f"Added {new_count} new articles. Total archive: {len(final_archive)}.")
 
 if __name__ == "__main__":
     main()
