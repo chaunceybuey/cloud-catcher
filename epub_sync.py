@@ -147,14 +147,34 @@ def sync_bookmarks_to_epub():
             
             print(f"  -> Rescue successful! Found: {rescued_title[:40]}")
             
-            # Build a synthetic article dictionary on the fly
             article = {
                 'id': b_id,
                 'title': rescued_title,
                 'feed_name': 'Rescued Bookmark',
                 'content': rescued_html,
-                'link': '' # We don't have the original link, but we already have the text!
+                'link': ''
             }
+
+            # ==========================================================
+            # AUTO-UNSTAR SUCCESSFUL RESCUES
+            # ==========================================================
+            try:
+                bm_ref = rss_engine.db.reference('app_data/bookmarks')
+                bm_data = bm_ref.get()
+                if isinstance(bm_data, str):
+                    import json
+                    bm_dict = json.loads(bm_data)
+                    if b_id in bm_dict:
+                        del bm_dict[b_id]
+                        bm_ref.set(json.dumps(bm_dict))
+                elif isinstance(bm_data, dict):
+                    if b_id in bm_data:
+                        del bm_data[b_id]
+                        bm_ref.set(bm_data)
+                print(f"  -> Successfully removed rescued ghost from active bookmarks.")
+            except Exception as clean_err:
+                pass
+   
         # ==========================================================
         
         title = article.get('title', 'Untitled')
