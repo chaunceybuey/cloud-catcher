@@ -9,24 +9,36 @@ from ebooklib import epub
 import rss_engine
 
 # =====================================================================
-# THE GOOGLE DRIVE FIX
+# SYSTEM PATHS
 # =====================================================================
-# Find the absolute path to the user's home directory dynamically
 HOME_DIR = os.path.expanduser("~")
-
-# Build the true Google Drive path just like daily_briefing.py
 SUPERNOTE_SYNC_FOLDER = os.path.join(
     HOME_DIR, 
     "Library", "CloudStorage", 
     "GoogleDrive-slottaj@gmail.com", "My Drive", "Supernote", "Document", "Drive", "SavedArticles"
 )
-
-# Also detect where this script lives so we can load the JSON files locally
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+LEDGER_PATH = os.path.join(BASE_DIR, "sync_history.json")
 
 def clean_filename(title):
     safe = re.sub(r'[\\/*?:"<>|]', "", title)
     return safe.strip()[:100]
+
+def load_ledger():
+    if os.path.exists(LEDGER_PATH):
+        try:
+            with open(LEDGER_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return {}
+    return {}
+
+def save_ledger(ledger):
+    try:
+        with open(LEDGER_PATH, "w", encoding="utf-8") as f:
+            json.dump(ledger, f, indent=4)
+    except Exception as e:
+        print(f"[EPUB SYNC] Warning: Could not save sync ledger: {e}")
 
 def create_article_epub(article_dict, output_path):
     book = epub.EpubBook()
@@ -56,9 +68,44 @@ def create_article_epub(article_dict, output_path):
     epub.write_epub(output_path, book, {})
 
 def sync_bookmarks_to_epub():
-    # Make sure the Supernote folder exists in Google Drive
     os.makedirs(SUPERNOTE_SYNC_FOLDER, exist_ok=True)
     
+    # ==========================================================
+    # PHASE 1: TWO-WAY SYNC (The ONLY place stars are deleted)
+    # ==========================================================
+    ledger = load_ledger()
+    keys_to_remove = []
+    
+    if ledger:
+        print("[EPUB SYNC] Auditing Supernote folder for deleted files...")
+        for b_id, filename in ledger.items():
+            filepath = os.path.join(SUPERNOTE_SYNC_FOLDER, filename)
+            if not os.path.exists(filepath):
+                print(f"  -> Detected deletion: {filename}. Un-starring from database...")
+                try:
+                    bm_ref = rss_engine.db.reference('app_data/bookmarks')
+                    bm_data = bm_ref.get()
+                    if isinstance(bm_data, str):
+                        bm_dict = json.loads(bm_data)
+                        if b_id in bm_dict:
+                            del bm_dict[b_id]
+                            bm_ref.set(json.dumps(bm_dict))
+                    elif isinstance(bm_data, dict):
+                        if b_id in bm_data:
+                            del bm_data[b_id]
+                            bm_ref.set(bm_data)
+                    keys_to_remove.append(b_id)
+                except Exception as e:
+                    print(f"  -> Error syncing deletion to Firebase: {e}")
+        
+        for k in keys_to_remove:
+            del ledger[k]
+        if keys_to_remove:
+            save_ledger(ledger)
+
+    # ==========================================================
+    # PHASE 2: FETCH & BUILD
+    # ==========================================================
     bookmarks = rss_engine.get_bookmarks()
     if not bookmarks:
         print("[EPUB SYNC] No saved articles found in your Bookmarks.")
@@ -73,16 +120,14 @@ def sync_bookmarks_to_epub():
             master = json.load(f)
             for a in master: 
                 archive_dict[a['id']] = a
-    except Exception:
-        pass
+    except Exception: pass
 
     try:
         with open(os.path.join(BASE_DIR, "newsletter_articles.json"), "r", encoding="utf-8") as f:
             newsletters = json.load(f)
             for n in newsletters: 
                 archive_dict[n['id']] = n
-    except Exception:
-        pass
+    except Exception: pass
         
     try:
         saved_links = rss_engine.db.reference('app_data/saved_links').get() or {}
@@ -90,8 +135,7 @@ def sync_bookmarks_to_epub():
             for key, data in saved_links.items():
                 item_id = data.get('id', key)
                 archive_dict[item_id] = data
-    except Exception:
-        pass
+    except Exception: pass
 
     new_files_created = False
 
@@ -99,53 +143,26 @@ def sync_bookmarks_to_epub():
         article = archive_dict.get(b_id)
         
         # ==========================================================
-        # FAILSAFE MODE: Rescue Missing Metadata (The "Ghost" Fix)
+        # NON-DESTRUCTIVE FALLBACK (No more database deletion here)
         # ==========================================================
         if not article:
-            print(f"[EPUB SYNC] ID {b_id[:15]} missing metadata. Initiating Failsafe Rescue...")
-            
-            # We try the raw ID, and the ID without the "manual_" tag
             possible_keys = [b_id, b_id.replace("manual_", "")]
             rescued_html = None
             
             for p_key in possible_keys:
                 try:
                     rescued_html = rss_engine.db.reference(f'app_data/articles/{p_key}').get()
-                    if rescued_html:
-                        break
-                except Exception:
-                    pass
+                    if rescued_html: break
+                except Exception: pass
             
             if not rescued_html:
-                print(f"  -> Rescue failed. Exorcising ghost from database...")
-                try:
-                    # Automatically un-star the dead article in Firebase
-                    bm_ref = rss_engine.db.reference('app_data/bookmarks')
-                    bm_data = bm_ref.get()
-                    
-                    # Handle both JSON string and native dictionary structures
-                    if isinstance(bm_data, str):
-                        import json
-                        bm_dict = json.loads(bm_data)
-                        if b_id in bm_dict:
-                            del bm_dict[b_id]
-                            bm_ref.set(json.dumps(bm_dict))
-                            print(f"  -> Successfully un-starred and purged ghost.")
-                    elif isinstance(bm_data, dict):
-                        if b_id in bm_data:
-                            del bm_data[b_id]
-                            bm_ref.set(bm_data)
-                            print(f"  -> Successfully un-starred and purged ghost.")
-                except Exception as clean_err:
-                    print(f"  -> Could not clean database: {clean_err}")
+                # It's a ghost, but we leave it completely alone.
+                print(f"[EPUB SYNC] ID {b_id[:8]} missing metadata. Skipping gracefully.")
                 continue
                 
-            # Mine the rescued HTML to figure out what the title of the book should be
             soup = BeautifulSoup(rescued_html, "html.parser")
             title_tag = soup.find("title") or soup.find("h1") or soup.find("h2")
             rescued_title = title_tag.get_text(strip=True) if title_tag else f"Rescued_Article_{b_id[:8]}"
-            
-            print(f"  -> Rescue successful! Found: {rescued_title[:40]}")
             
             article = {
                 'id': b_id,
@@ -154,36 +171,17 @@ def sync_bookmarks_to_epub():
                 'content': rescued_html,
                 'link': ''
             }
-
-            # ==========================================================
-            # AUTO-UNSTAR SUCCESSFUL RESCUES
-            # ==========================================================
-            try:
-                bm_ref = rss_engine.db.reference('app_data/bookmarks')
-                bm_data = bm_ref.get()
-                if isinstance(bm_data, str):
-                    import json
-                    bm_dict = json.loads(bm_data)
-                    if b_id in bm_dict:
-                        del bm_dict[b_id]
-                        bm_ref.set(json.dumps(bm_dict))
-                elif isinstance(bm_data, dict):
-                    if b_id in bm_data:
-                        del bm_data[b_id]
-                        bm_ref.set(bm_data)
-                print(f"  -> Successfully removed rescued ghost from active bookmarks.")
-            except Exception as clean_err:
-                pass
-   
         # ==========================================================
         
         title = article.get('title', 'Untitled')
         safe_title = clean_filename(title) or "Untitled_Article"
-        
-        # SAVE DIRECTLY TO GOOGLE DRIVE MOUNT
-        filepath = os.path.join(SUPERNOTE_SYNC_FOLDER, f"{safe_title}.epub")
+        filename = f"{safe_title}.epub"
+        filepath = os.path.join(SUPERNOTE_SYNC_FOLDER, filename)
         
         if os.path.exists(filepath):
+            if b_id not in ledger:
+                ledger[b_id] = filename
+                save_ledger(ledger)
             continue
         
         print(f"[EPUB SYNC] Generating new EPUB: {title}")
@@ -194,10 +192,8 @@ def sync_bookmarks_to_epub():
         if link:
             safe_key = hashlib.md5(link.encode()).hexdigest()
             if rss_engine.FIREBASE_DB_URL:
-                try:
-                    full_text = rss_engine.db.reference(f'app_data/articles/{safe_key}').get()
-                except Exception:
-                    pass
+                try: full_text = rss_engine.db.reference(f'app_data/articles/{safe_key}').get()
+                except Exception: pass
             
             if not full_text:
                 full_text = rss_engine.fetch_full_article(link)
@@ -211,6 +207,9 @@ def sync_bookmarks_to_epub():
         try:
             create_article_epub(article_to_render, filepath)
             print(f"  -> Saved to Google Drive: {filepath}")
+            
+            ledger[b_id] = filename
+            save_ledger(ledger)
             new_files_created = True
         except Exception as e:
             print(f"  -> Error generating EPUB: {e}")
