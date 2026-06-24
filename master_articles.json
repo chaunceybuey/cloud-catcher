@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/24/dining/restaurant-reviews-cove-baohaus-and-more.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Reviews: Baohaus, Cove and More",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/06/24/dining/restaurant-reviews-cove-baohaus-and-more.html",
+    "content": "New stars drop for a New American restaurant from a culinary wunderkind, an idiosyncratic fine-dining spot on the Lower East Side and a Singaporean storefront in Hell\u2019s Kitchen.",
+    "date": "2026-06-24T20:14:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/swallows-dumpling-dough",
+    "feed_name": "NYT (Food)",
+    "title": "Swallows Are a Brilliant Sidekick to Soups and Stews",
+    "author": "Yewande Komolafe",
+    "link": "https://cooking.nytimes.com/article/swallows-dumpling-dough",
+    "content": "These versatile sidekicks to soups and stews are full of possibility. That\u2019s what should keep you coming back, Yewande Komolafe writes.",
+    "date": "2026-06-24T19:51:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20643-zach-theatre-annie",
     "feed_name": "KMFA",
     "title": "ZACH Theatre: Annie",
@@ -19978,25 +19998,5 @@
     "content": "History shows there is no more productive national asset than freedom.",
     "date": "2026-05-12T18:44:53",
     "category": "NYT"
-  },
-  {
-    "id": "613c07bd992c64ada3dfbc182dc0e601",
-    "feed_name": "The Atlantic",
-    "title": "Big Brother Is ReTruthing You",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/05/trump-truth-social-obama-conspiracy-theories/687143/",
-    "content": "Donald Trump is a victim of propaganda as much as he is a manipulator of it.",
-    "date": "2026-05-12T18:01:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "b1471d1562e0bc6254c17a367e6232fa",
-    "feed_name": "The Atlantic",
-    "title": "How AI Killed a 133-Year-Old Princeton Tradition",
-    "author": "Rose Horowitch",
-    "link": "https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/",
-    "content": "The school\u2019s famous Honor Code was no match for chatbot-enabled cheating.",
-    "date": "2026-05-12T16:32:00",
-    "category": "Magazines"
   }
 ]
