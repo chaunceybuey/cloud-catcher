@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/24/insider/obituaries-editor.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Pursuit of Immortality in The Times",
+    "author": "William McDonald",
+    "link": "https://www.nytimes.com/2026/06/24/insider/obituaries-editor.html",
+    "content": "William McDonald, who recently retired as the obituaries editor after nearly two decades, shares how subjects are chosen to be remembered in the newspaper.",
+    "date": "2026-06-24T07:00:28",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/24/arts/television/josh-johnson-trump-reflecting-pool.html",
     "feed_name": "NYT (Arts)",
     "title": "Josh Johnson Muses on the Lincoln Memorial Reflecting Pool",
@@ -19988,15 +19998,5 @@
     "content": "A rescue worker at a Philip Morris factory in Kharkiv, Ukraine, which was hit in a Russian missile strike in January.",
     "date": "2026-05-12T10:46:19",
     "category": "NYT"
-  },
-  {
-    "id": "6a0217b383b086caa78022a2",
-    "feed_name": "Wired",
-    "title": "The Creators of \u2018Hacks\u2019 Really, Really, Really Hate AI",
-    "author": "Katie Drummond",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-hacks-cocreators-paul-w-downs-lucia-aniello/",
-    "content": "Ahead of the hit show\u2019s finale, cocreators Paul W. Downs and Lucia Aniello talk about media consolidation, the perils of censorship, and why they find AI \u201cdeeply disturbing.\u201d",
-    "date": "2026-05-12T10:30:00",
-    "category": "Magazines"
   }
 ]
