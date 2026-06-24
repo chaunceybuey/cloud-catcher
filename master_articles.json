@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "8b57894174e6aff249d03f4fcdab2626",
+    "feed_name": "Compact",
+    "title": "How Podcasts Ruined America",
+    "author": "",
+    "link": "https://www.compactmag.com/article/how-podcasts-ruined-america/",
+    "content": "",
+    "date": "2026-06-24T08:23:47",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/24/insider/obituaries-editor.html",
     "feed_name": "NYT (Arts)",
     "title": "The Pursuit of Immortality in The Times",
@@ -19988,15 +19998,5 @@
     "content": "Violence serves an authoritarian agenda.",
     "date": "2026-05-12T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
-    "author": "Constant M\u00e9heut",
-    "link": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
-    "content": "A rescue worker at a Philip Morris factory in Kharkiv, Ukraine, which was hit in a Russian missile strike in January.",
-    "date": "2026-05-12T10:46:19",
-    "category": "NYT"
   }
 ]
