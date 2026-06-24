@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234177",
+    "feed_name": "Texas Tribune",
+    "title": "Mexican man dies in ICE custody in Laredo, at least the 20th fatality this year",
+    "author": "Lomi Kriel",
+    "link": "https://feeds.texastribune.org/link/16799/17367502/ice-detention-webb-county-laredo",
+    "content": "A U.S. Immigration and Customs Enforcement (ICE) agent displays his badge in Austin on April 1, 2025. 63-year-old Felix Alcorta-Rodriguez  passed away in ICE custody in Laredo on June 19, 2026.",
+    "date": "2026-06-24T20:20:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/24/dining/restaurant-reviews-cove-baohaus-and-more.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Reviews: Baohaus, Cove and More",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/business/inflation-tomatoes-prices.html",
     "content": "Tomatoes were the culprit behind a rise in food prices at grocery stores in April.",
     "date": "2026-05-12T18:52:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/opinion/china-power-trump-xi-beijing.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "China Is Much Weaker Than It Seems. That\u2019s the Problem.",
-    "author": "Bret Stephens",
-    "link": "https://www.nytimes.com/2026/05/12/opinion/china-power-trump-xi-beijing.html",
-    "content": "History shows there is no more productive national asset than freedom.",
-    "date": "2026-05-12T18:44:53",
     "category": "NYT"
   }
 ]
