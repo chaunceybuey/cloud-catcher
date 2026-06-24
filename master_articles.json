@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234100",
+    "feed_name": "Texas Tribune",
+    "title": "Congressional panel demands Travis County DA\u2019s records on immigration prosecution",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17366267/texas-congressional-committee-records-travis-county-jose-garza-chip-roy",
+    "content": "Travis County District Attorney Jos\u00e9 Garza during an interview at the DA\u2019s office in Austin on May 14, 2026.",
+    "date": "2026-06-24T00:29:09",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/23/arts/music/clive-davis-whitney-houston.html",
     "feed_name": "NYT (Arts)",
     "title": "Clive Davis and Whitney Houston\u2019s Successful and Tragic Story",
@@ -19988,15 +19998,5 @@
     "content": "The Frisco City Council meeting begins with a prayer at City Hall on April 21, 2026.",
     "date": "2026-05-12T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "69e6a15791a8fa7d2e33c1b3",
-    "feed_name": "Wired",
-    "title": "What Happens When You Try to Treat OCD With Psilocybin",
-    "author": "Simone Stolzoff",
-    "link": "https://www.wired.com/story/book-excerpt-how-to-not-know-simone-stolzoff/",
-    "content": "Colloquially, OCD is known as the doubting disorder. In his new book How to Not Know, Simone Stolzoff explores whether treating that uncertainty with magic mushrooms can help people through it.",
-    "date": "2026-05-12T10:00:00",
-    "category": "Magazines"
   }
 ]
