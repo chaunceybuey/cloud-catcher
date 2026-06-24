@@ -96,11 +96,47 @@ def sync_bookmarks_to_epub():
     new_files_created = False
 
     for b_id in bookmarks.keys():
-        if b_id not in archive_dict:
-            print(f"[EPUB SYNC] WARNING: Skipping ID {b_id[:15]}... (Metadata missing)")
-            continue
+        article = archive_dict.get(b_id)
         
-        article = archive_dict[b_id]
+        # ==========================================================
+        # FAILSAFE MODE: Rescue Missing Metadata (The "Ghost" Fix)
+        # ==========================================================
+        if not article:
+            print(f"[EPUB SYNC] ID {b_id[:15]} missing metadata. Initiating Failsafe Rescue...")
+            
+            # We try the raw ID, and the ID without the "manual_" tag
+            possible_keys = [b_id, b_id.replace("manual_", "")]
+            rescued_html = None
+            
+            for p_key in possible_keys:
+                try:
+                    rescued_html = rss_engine.db.reference(f'app_data/articles/{p_key}').get()
+                    if rescued_html:
+                        break
+                except Exception:
+                    pass
+            
+            if not rescued_html:
+                print(f"  -> Rescue failed: No cached text found in Firebase.")
+                continue
+                
+            # Mine the rescued HTML to figure out what the title of the book should be
+            soup = BeautifulSoup(rescued_html, "html.parser")
+            title_tag = soup.find("title") or soup.find("h1") or soup.find("h2")
+            rescued_title = title_tag.get_text(strip=True) if title_tag else f"Rescued_Article_{b_id[:8]}"
+            
+            print(f"  -> Rescue successful! Found: {rescued_title[:40]}")
+            
+            # Build a synthetic article dictionary on the fly
+            article = {
+                'id': b_id,
+                'title': rescued_title,
+                'feed_name': 'Rescued Bookmark',
+                'content': rescued_html,
+                'link': '' # We don't have the original link, but we already have the text!
+            }
+        # ==========================================================
+        
         title = article.get('title', 'Untitled')
         safe_title = clean_filename(title) or "Untitled_Article"
         
@@ -113,17 +149,18 @@ def sync_bookmarks_to_epub():
         print(f"[EPUB SYNC] Generating new EPUB: {title}")
         
         link = article.get('link', '')
-        safe_key = hashlib.md5(link.encode()).hexdigest()
         full_text = None
         
-        if rss_engine.FIREBASE_DB_URL:
-            try:
-                full_text = rss_engine.db.reference(f'app_data/articles/{safe_key}').get()
-            except Exception:
-                pass
-        
-        if not full_text:
-            full_text = rss_engine.fetch_full_article(link)
+        if link:
+            safe_key = hashlib.md5(link.encode()).hexdigest()
+            if rss_engine.FIREBASE_DB_URL:
+                try:
+                    full_text = rss_engine.db.reference(f'app_data/articles/{safe_key}').get()
+                except Exception:
+                    pass
+            
+            if not full_text:
+                full_text = rss_engine.fetch_full_article(link)
         
         if not full_text or full_text.startswith("<i>"):
             full_text = article.get('content', '')
