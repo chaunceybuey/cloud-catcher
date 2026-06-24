@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/24/briefing/24-the-good-list-web-invite-anthropeum.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Delight to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/06/24/briefing/24-the-good-list-web-invite-anthropeum.html",
+    "content": "Naming the moon, Sometimes Island and laughing in real life.",
+    "date": "2026-06-24T18:56:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/24/arts/design/basquiat-ken-griffin-perez-art-museum.html",
     "feed_name": "NYT (Arts)",
     "title": "A Billionaire\u2019s Basquiat Collection Goes Up at P\u00e9rez Art Museum Miami",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/blog/2026/may/walter-benjamin-s-would-be-rescuers",
     "content": "To understand Walter Benjamin\u2019s life, it is best to begin with his death. Attempting to flee Nazi-occupied France, he died by suicide on 26.\u00a0.\u00a0.",
-    "date": "2026-05-12T16:20:34",
-    "category": "Magazines"
-  },
-  {
-    "id": "7b7a535727b0563754cb15f6f29043fc",
-    "feed_name": "LRB",
-    "title": "On Politics: A New Era for UK Politics",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-a-new-era-for-uk-politics",
-    "content": "In the wake of last week\u2019s devolved and local elections, Keir Starmer is once again fighting for his political future. Labour has almost completely vanished in Wales, came a distant second in Scotland (tied with Reform UK), and lost nearly 1500 councillors in England. But while Plaid Cymru and the SNP were victorious in Wales and Scotland, in many ways the results in England were a...",
     "date": "2026-05-12T16:20:34",
     "category": "Magazines"
   }
