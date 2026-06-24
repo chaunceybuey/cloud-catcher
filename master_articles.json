@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/24/arts/design/sothebys-auction-london-joe-lewis.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Record Sotheby\u2019s Auction Thrills London After a Brexit Hangover",
+    "author": "Scott Reyburn",
+    "link": "https://www.nytimes.com/2026/06/24/arts/design/sothebys-auction-london-joe-lewis.html",
+    "content": "British auction sales have declined by nearly half since 2015, but Wednesday\u2019s results hint at a return to form for London as an international auction center.",
+    "date": "2026-06-24T22:02:50",
+    "category": "NYT"
+  },
+  {
     "id": "5a81e6f2d3e1f92c448109edd45a8aa9",
     "feed_name": "The Atlantic",
     "title": "Democratic Socialists Aren\u2019t Taking Over America",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/travel/luxury-hotels-london-chancery-rosewood-raffles-owo.html",
     "content": "The stairway at Raffles at the OWO is made of marble and alabaster and was designed to communicate power when the building served as a military headquarters.",
     "date": "2026-05-12T19:04:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Marty Makary, Trump\u2019s F.D.A. Commissioner, Resigns After Weeks of Pressure",
-    "author": "Christina Jewett",
-    "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html",
-    "content": "Dr. Marty Makary at times tried to advance his own principles alongside the administration\u2019s goals, which at times were at odds with the powerful food, tobacco and pharmaceutical industries.",
-    "date": "2026-05-12T18:56:10",
     "category": "NYT"
   }
 ]
