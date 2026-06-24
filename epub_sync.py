@@ -117,7 +117,27 @@ def sync_bookmarks_to_epub():
                     pass
             
             if not rescued_html:
-                print(f"  -> Rescue failed: No cached text found in Firebase.")
+                print(f"  -> Rescue failed. Exorcising ghost from database...")
+                try:
+                    # Automatically un-star the dead article in Firebase
+                    bm_ref = rss_engine.db.reference('app_data/bookmarks')
+                    bm_data = bm_ref.get()
+                    
+                    # Handle both JSON string and native dictionary structures
+                    if isinstance(bm_data, str):
+                        import json
+                        bm_dict = json.loads(bm_data)
+                        if b_id in bm_dict:
+                            del bm_dict[b_id]
+                            bm_ref.set(json.dumps(bm_dict))
+                            print(f"  -> Successfully un-starred and purged ghost.")
+                    elif isinstance(bm_data, dict):
+                        if b_id in bm_data:
+                            del bm_data[b_id]
+                            bm_ref.set(bm_data)
+                            print(f"  -> Successfully un-starred and purged ghost.")
+                except Exception as clean_err:
+                    print(f"  -> Could not clean database: {clean_err}")
                 continue
                 
             # Mine the rescued HTML to figure out what the title of the book should be
