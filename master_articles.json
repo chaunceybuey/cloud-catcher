@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/24/arts/television/josh-johnson-trump-reflecting-pool.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Josh Johnson Muses on the Lincoln Memorial Reflecting Pool",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/24/arts/television/josh-johnson-trump-reflecting-pool.html",
+    "content": "\u201cHey, kids, remember you wanted to go to Disneyland? Instead, we\u2019re going to go see the world\u2019s largest kombucha!\u201d Johnson said of the pool renovation as a tourist stop.",
+    "date": "2026-06-24T05:49:32",
+    "category": "NYT"
+  },
+  {
     "id": "6a3975d1580177a5599b1075",
     "feed_name": "Wired (Science)",
     "title": "French Startup Uses Special Polymers to Better Help Nerves Heal",
@@ -19988,15 +19998,5 @@
     "content": "Ahead of the hit show\u2019s finale, cocreators Paul W. Downs and Lucia Aniello talk about media consolidation, the perils of censorship, and why they find AI \u201cdeeply disturbing.\u201d",
     "date": "2026-05-12T10:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229654",
-    "feed_name": "Texas Tribune",
-    "title": "Companies moving their legal homes to Texas is good PR, but don\u2019t expect many new jobs",
-    "author": "Paul Cobler",
-    "link": "https://feeds.texastribune.org/link/16799/17339068/texas-reincorporation-delaware-dell-exxon",
-    "content": "The logo of the Exxon Mobil Corporation is shown on a monitor above the floor of the New York Stock Exchange in New York on Dec. 30, 2015.",
-    "date": "2026-05-12T10:00:00",
-    "category": "Texas"
   }
 ]
