@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/23/arts/music/clive-davis-whitney-houston.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Clive Davis and Whitney Houston\u2019s Successful and Tragic Story",
+    "author": "Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/06/23/arts/music/clive-davis-whitney-houston.html",
+    "content": "Clive Davis and Whitney Houston experienced major success together, but their story had controversies and ended in tragedy.",
+    "date": "2026-06-24T00:00:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234092",
+    "feed_name": "Texas Tribune",
+    "title": "Texas leaders are asking data centers how much water they use. Most aren\u2019t responding.",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17366250/texas-data-centers-puc-water-survey",
+    "content": "A member of the public wears a \u201cDon\u2019t data center my Texas\u201d pin on the back of their hat while waiting for the Natural Resource Committee to convene on June 23, 2026.",
+    "date": "2026-06-23T23:45:07",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234041",
     "feed_name": "Texas Tribune",
     "title": "Texas officials say rodents and other small wildlife could be to blame for New World Screwworm infestations",
@@ -19978,25 +19998,5 @@
     "content": "Colloquially, OCD is known as the doubting disorder. In his new book How to Not Know, Simone Stolzoff explores whether treating that uncertainty with magic mushrooms can help people through it.",
     "date": "2026-05-12T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19012",
-    "feed_name": "Stratechery",
-    "title": "SpaceX and Anthropic, xAI\u2019s Two Companies, Elon Musk and SpaceXAI\u2019s Future",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
-    "content": "<p>The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.</p>",
-    "date": "2026-05-12T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/opinion/trump-is-fighting-the-worlds-stupidest-culture-war.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Is Fighting the World\u2019s Stupidest Culture War",
-    "author": "Thomas B. Edsall",
-    "link": "https://www.nytimes.com/2026/05/12/opinion/trump-is-fighting-the-worlds-stupidest-culture-war.html",
-    "content": "\u201cHe sees fossil fuels as manly and renewables as woke.\u201d",
-    "date": "2026-05-12T09:03:51",
-    "category": "NYT"
   }
 ]
