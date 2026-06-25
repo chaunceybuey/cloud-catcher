@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/25/arts/television/jimmy-fallon-trump-state-fair.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Fallon Teases Trump\u2019s Great American State Fair",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/25/arts/television/jimmy-fallon-trump-state-fair.html",
+    "content": "\u201cThere\u2019s even a dunk tank with JD Vance and a drunk tank with Kash Patel,\u201d Fallon said.",
+    "date": "2026-06-25T07:39:35",
+    "category": "NYT"
+  },
+  {
+    "id": "de686fac6242e0dc7135960e2b81d6a0",
+    "feed_name": "The Atlantic",
+    "title": "Trump Is Making the 250th Small",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/",
+    "content": "The State Fair rally was an empty celebration of a man instead of a country.",
+    "date": "2026-06-25T03:58:25",
+    "category": "Magazines"
+  },
+  {
     "id": "a2868155f2d57829f62666c703ebd32e",
     "feed_name": "The Atlantic",
     "title": "The Whiplash of Trump\u2019s Iran Capitulation",
@@ -19978,25 +19998,5 @@
     "content": "Donald Trump is a victim of propaganda as much as he is a manipulator of it.\nDelivered by PolitePaul service",
     "date": "2026-05-12T19:18:44",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/realestate/the-sheer-joy-of-cut-flowers.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Sheer Joy of Cut Flowers",
-    "author": "Margaret Roach",
-    "link": "https://www.nytimes.com/2026/05/12/realestate/the-sheer-joy-of-cut-flowers.html",
-    "content": "Sarah Raven, the celebrated British gardener, indulges her obsession with homegrown cutting gardens and shares tips on creating spectacular arrangements.",
-    "date": "2026-05-12T19:17:47",
-    "category": "NYT"
-  },
-  {
-    "id": "cbdf4c87-57c6-4e64-bd50-ae6d0fadec41",
-    "feed_name": "Economist",
-    "title": "Index rebalancing is now the biggest event in markets",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/12/index-rebalancing-is-now-the-biggest-event-in-markets",
-    "content": "But profiting from it is another matter",
-    "date": "2026-05-12T19:05:21",
-    "category": "Magazines"
   }
 ]
