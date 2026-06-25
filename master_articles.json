@@ -100,6 +100,36 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=234166",
+    "feed_name": "Texas Tribune",
+    "title": "The U.S. last beat screwworm in 1966. Can current leaders learn from the past\u2019s playbook?",
+    "author": "Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17367737/texas-screwworm-history-eradication",
+    "content": "A United States Department of Agriculture photograph taken circa 1953-55 reads, &quot;Flies From Irradiated Pupae Were Permitted to Emerge in Special Paper Bags and Held Until Released.\u201d",
+    "date": "2026-06-25T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234204",
+    "feed_name": "Texas Tribune",
+    "title": "As supporters praise Texas\u2019 proposed \u201cJudeo-Christian\u201d curriculum, rabbis say it dismisses Judaism",
+    "author": "By Ellie Ashby, The Texas Tribune, and Chloe Landen, Religion News Service",
+    "link": "https://feeds.texastribune.org/link/16799/17367738/texas-education-board-judeo-christian-required-reading-list",
+    "content": "Rabbi Joshua Fixler speaks at the State Board of Education meeting in Austin on Monday, June 22, 2026. Fixler argued that the required reading list is full of Christians texts that are inappropriate for public school classrooms.",
+    "date": "2026-06-25T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234217",
+    "feed_name": "Texas Tribune",
+    "title": "Census: Texas leads the U.S. in having more kids, but the state\u2019s fertility rate is still falling",
+    "author": "Joshua Fechter",
+    "link": "https://feeds.texastribune.org/link/16799/17367739/texas-census-fertility-rate",
+    "content": "A man blows bubbles with his baby in Boerne on April 8, 2024.",
+    "date": "2026-06-25T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/wedges-climate-research-bp-fossil-fuel-princeton",
     "feed_name": "ProPublica",
     "title": "Beyond Denial: How Oil Execs Shaped a Landmark Climate Study",
@@ -19968,35 +19998,5 @@
     "content": "This is the first time NASA has encountered a situation like this, and it took nearly a week to resolve.",
     "date": "2026-05-13T08:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "3a7108f9328908adafe2f69cad7bc379",
-    "feed_name": "Outside",
-    "title": "She\u2019s Funding Her 2,600-Mile PCT Hike with OnlyFans. Traditionalists Are Skeptical. She Couldn\u2019t Care Less.",
-    "author": "Grayson Haver Currin",
-    "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/kamryn-renae-pct-hiker-onlyfans/",
-    "content": "",
-    "date": "2026-05-13T03:30:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/us/politics/trump-golden-dome.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s \u2018Golden Dome\u2019 Missile Defense Plan Could Cost $1.2 Trillion",
-    "author": "John Ismay",
-    "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-golden-dome.html",
-    "content": "President Trump during an announcement on his plan to develop the \u201cGolden Dome\u201d missile defense program at the White House last May.",
-    "date": "2026-05-13T02:12:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/us/san-francisco-homeless-count.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "In San Francisco, the Tents of Homeless People Are Disappearing",
-    "author": "Heather Knight",
-    "link": "https://www.nytimes.com/2026/05/12/us/san-francisco-homeless-count.html",
-    "content": "Mayor Daniel Lurie of San Francisco spoke with a city worker in 2025 about cleaning up the Tenderloin neighborhood.",
-    "date": "2026-05-13T01:42:22",
-    "category": "NYT"
   }
 ]
