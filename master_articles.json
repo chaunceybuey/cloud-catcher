@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/25/theater/the-loved-ones-review-maryann-plunkett.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Loved Ones\u2019 Review: So Much for That Peaceful Irish Retreat",
+    "author": "Rhoda Feng",
+    "link": "https://www.nytimes.com/2026/06/25/theater/the-loved-ones-review-maryann-plunkett.html",
+    "content": "From left, Maryann Plunkett, Alana Raquel Bowers and Clare O\u2019Malley in \u201cThe Loved Ones\u201d at Irish Repertory Theater in Manhattan.",
+    "date": "2026-06-25T15:35:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/arts/television/robert-townsend-the-bear-director.html",
     "feed_name": "NYT (Arts)",
     "title": "Robert Townsend on \u2018The Bear\u2019 and Directing for Television",
@@ -68,6 +78,16 @@
     "content": "The filmmaker has lately turned to television, acting in FX\u2019s \u201cThe Bear,\u201d directing episodes of \u201cThe Chi\u201d and mentoring Black actors and showrunners reared on his work.",
     "date": "2026-06-25T15:07:36",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234256",
+    "feed_name": "Texas Tribune",
+    "title": "Supreme Court clears way for Trump administration to revive restrictive immigration policy",
+    "author": "By\u00a0LINDSAY WHITEHURST,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17367875/supreme-court-trump-immigration-asylum-ruling-texas-us-mexico-border",
+    "content": "Migrants walk around after dawn on the border as they wait to cross to El Paso, Texas, which is blocked by concertina wire guarded by Texas National Guard soldiers in Ciudad Juarez, Chihuahua state, Mexico, on May 28, 2024.",
+    "date": "2026-06-25T15:01:54",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/06/25/dining/got-zucchini-make-this-pasta.html",
@@ -19978,25 +19998,5 @@
     "content": "U.S. Rep. Julie Johnson, D-Dallas, and Colin Allred. The two candidates are in the May runoff to be the Democratic nominee for the newly drawn 33rd Congressional District.",
     "date": "2026-05-13T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229856",
-    "feed_name": "Texas Tribune",
-    "title": "After being deported, allowed to return, then detained again, a Texas DACA recipient fears what\u2019s next",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17339730/texas-daca-deported-released-jose-contreras-honduras",
-    "content": "Jos\u00e9 Contreras D\u00edaz consoles his 2-month-old son at his home in Edinburg on May 12, 2026. The boy was born while Contreras was in Honduras fighting his deportation.",
-    "date": "2026-05-13T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "69d67e748f29e8abc987397d",
-    "feed_name": "Wired",
-    "title": "Meet the Sad Wives of AI",
-    "author": "Alessandra Ram",
-    "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-    "content": "Are you married to a man who\u2019s obsessed with AI? I\u2019m so, so sorry.",
-    "date": "2026-05-13T10:00:00",
-    "category": "Magazines"
   }
 ]
