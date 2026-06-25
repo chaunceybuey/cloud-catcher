@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234289",
+    "feed_name": "Texas Tribune",
+    "title": "Texas must pay millions to fix errors in Bluebonnet school materials, contract shows",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17368065/bluebonnet-learning-corrections-cost-texas-millions",
+    "content": "A classroom at Alfonso Borrego Sr. Elementary School. The school received Elementary and Secondary School Emergency Relief (ESSER) funds for new flexible seating, desks, and spaces for students to relax during class in San Elizario, Texas on July 23, 2024",
+    "date": "2026-06-25T21:28:40",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/dining/new-yorks-indian-dining-scene-has-never-been-more-exciting.html",
     "feed_name": "NYT (Food)",
     "title": "New York\u2019s Indian Dining Scene Has Never Been More Exciting",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
     "content": "Xi Jinping, China\u2019s leader, at the National People\u2019s Congress in Beijing in March.",
     "date": "2026-05-13T13:03:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/upshot/test-scores-school-districts-us.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Why U.S. Test Scores Are in a \u2018Generation-Long Decline\u2019",
-    "author": "Claire Cain Miller, Francesca Paris and Sarah Mervosh",
-    "link": "https://www.nytimes.com/2026/05/13/upshot/test-scores-school-districts-us.html",
-    "content": "The drops in U.S. scores go beyond the pandemic and cut across income, geographic and racial divides, new data shows.",
-    "date": "2026-05-13T12:37:54",
     "category": "NYT"
   }
 ]
