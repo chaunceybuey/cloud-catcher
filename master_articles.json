@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/25/arts/jerry-moriarty-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jerry Moriarty, Painter Whose Brushstrokes Elevated Comics, Is Dead at 88",
+    "author": "Michael S. Rosenwald",
+    "link": "https://www.nytimes.com/2026/06/25/arts/jerry-moriarty-dead.html",
+    "content": "A self-described \u201cpaintoonist,\u201d Mr. Moriarty created cartoons with spare dialogue that reminded his admirers of poetry or Samuel Beckett\u2019s plays.",
+    "date": "2026-06-25T18:13:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/25/theater/three-days-of-rain-broadway-david-corenswet-francois-arnaud.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Superman\u2019 and \u2018Heated Rivalry\u2019 Alums to Broadway in \u2018Three Days of Rain\u2019",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/06/25/theater/three-days-of-rain-broadway-david-corenswet-francois-arnaud.html",
+    "content": "The revival will star David Corenswet, left, Yvonne Strahovski, center, and Fran\u00e7ois Arnaud, right.",
+    "date": "2026-06-25T18:12:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/dining/solidarity-with-ranch-obsessed-tourists.html",
     "feed_name": "NYT (Food)",
     "title": "Solidarity With Ranch-Obsessed Tourists",
@@ -19978,25 +19998,5 @@
     "content": "Jade Manns is part of a generation of young dance artists who dig deep inside the body\u2019s inner landscape. Nature leads the way.",
     "date": "2026-05-13T12:18:38",
     "category": "NYT"
-  },
-  {
-    "id": "1a4a780e6c0d500d08dfb72c941885d1",
-    "feed_name": "The Atlantic",
-    "title": "The Democrats Can\u2019t Let Go of Racial Preferences",
-    "author": "Richard D. Kahlenberg",
-    "link": "https://www.theatlantic.com/ideas/2026/05/democrats-racial-preferences-affirmative-action/687147/",
-    "content": "How to persuade skeptical voters to take a fresh look at the party",
-    "date": "2026-05-13T11:31:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a02351c904e19c6e2c70473",
-    "feed_name": "Wired (Science)",
-    "title": "Inside the Race to Develop a Test for the Rare Andes Hantavirus",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/race-to-develop-andes-hantavirus-test/",
-    "content": "A University of Nebraska lab has developed a test that can detect the virus before symptoms become severe. Now, it's ready to start testing those returning to the US after a cruise outbreak.",
-    "date": "2026-05-13T11:30:00",
-    "category": "Magazines"
   }
 ]
