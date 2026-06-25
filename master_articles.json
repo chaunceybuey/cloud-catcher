@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/25/movies/little-brother-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Little Brother\u2019 Review: Just the Two of Us",
+    "author": "Glenn Kenny",
+    "link": "https://www.nytimes.com/2026/06/25/movies/little-brother-review.html",
+    "content": "John Cena and Eric Andr\u00e9 star in this crude, but funny, movie about a real estate agent who encounters a blast from the past.",
+    "date": "2026-06-25T23:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "6a3d9aa302972b9a962357fc",
     "feed_name": "Wired (Science)",
     "title": "Venezuela\u2019s Powerful Earthquakes Were a Rare \u2018Seismic Doublet\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/the-paper/v48/n09/alex-cocotas/diary",
     "content": "The movie producer\u200b, cinematographer and screenwriter Harrison Starr died in 2024 at the age of 95. Almost no one noticed. If his name was ever mentioned it was usually in connection with those of more famous collaborators. He was the producer of Michelangelo Antonioni\u2019s legendary flopZabriskie Point, which came out in 1970, and the year before he made a cameo appearance in Kurt...",
     "date": "2026-05-13T13:12:42",
-    "category": "Magazines"
-  },
-  {
-    "id": "37bc6edf05d9b4350391b803a5388179",
-    "feed_name": "Compact",
-    "title": "What\u2019s Behind the Gerrymandering Arms Race",
-    "author": "",
-    "link": "https://www.compactmag.com/article/whats-behind-the-gerrymandering-arms-race/",
-    "content": "",
-    "date": "2026-05-13T13:12:37",
     "category": "Magazines"
   }
 ]
