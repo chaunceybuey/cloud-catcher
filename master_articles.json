@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a3d9aa302972b9a962357fc",
+    "feed_name": "Wired (Science)",
+    "title": "Venezuela\u2019s Powerful Earthquakes Were a Rare \u2018Seismic Doublet\u2019",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
+    "content": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.",
+    "date": "2026-06-25T22:31:21",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234289",
     "feed_name": "Texas Tribune",
     "title": "Texas must pay millions to fix errors in Bluebonnet school materials, contract shows",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-05-13T13:12:37",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors",
-    "author": "David Pierson",
-    "link": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html",
-    "content": "Xi Jinping, China\u2019s leader, at the National People\u2019s Congress in Beijing in March.",
-    "date": "2026-05-13T13:03:22",
-    "category": "NYT"
   }
 ]
