@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "51077634-3d13-4ee2-8b74-cb00b9de1edb",
+    "feed_name": "Economist",
+    "title": "Will AI lower interest rates?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+    "content": "Kevin Warsh is drawing lessons about tech from Alan Greenspan\u2014but selectively",
+    "date": "2026-06-25T09:39:49",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/opinion/gender-sexual-revolution-men-women.html",
     "feed_name": "Interesting Times",
     "title": "Is It Time for a New Sexual Revolution?",
@@ -19988,15 +19998,5 @@
     "content": "NATO should overcome its distaste for President Trump and sends its navies to help open up the Strait of Hormuz.",
     "date": "2026-05-13T00:39:16",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229902",
-    "feed_name": "Texas Tribune",
-    "title": "Texas county pauses data center construction in rural areas for a year",
-    "author": "Alejandra Martinez",
-    "link": "https://feeds.texastribune.org/link/16799/17339521/texas-hill-county-approves-data-center-construction-pause-ai",
-    "content": "Construction for OpenAI\u2019s Stargate Milam County data center in Burlington, Texas on May 4, 2026.",
-    "date": "2026-05-13T00:13:03",
-    "category": "Texas"
   }
 ]
