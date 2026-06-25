@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/25/dining/new-yorks-indian-dining-scene-has-never-been-more-exciting.html",
+    "feed_name": "NYT (Food)",
+    "title": "New York\u2019s Indian Dining Scene Has Never Been More Exciting",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/06/25/dining/new-yorks-indian-dining-scene-has-never-been-more-exciting.html",
+    "content": "Every Sunday Pangat in Park Slope, Brooklyn, serves a proper Maharashtrian thali.",
+    "date": "2026-06-25T20:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "2294c4bf59318dd4ebc24af3ac17b6af",
     "feed_name": "LRB",
     "title": "World Cup Cupidity",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/upshot/test-scores-school-districts-us.html",
     "content": "The drops in U.S. scores go beyond the pandemic and cut across income, geographic and racial divides, new data shows.",
     "date": "2026-05-13T12:37:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html",
-    "feed_name": "NYT (Shared)",
-    "title": "The Supreme Court Has Left Us in a Dangerous Place",
-    "author": "Jamelle Bouie",
-    "link": "https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html",
-    "content": "The ruling in Louisiana v. Callais might drive America\u2019s politics to an even more precarious place of partisan tension and ideological Balkanization.",
-    "date": "2026-05-13T12:33:18",
     "category": "NYT"
   }
 ]
