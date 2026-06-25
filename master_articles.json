@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Is Canada About to Enter the Eurovision Song Contest?",
+    "author": "Alex Marshall and Ian Austen",
+    "link": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
+    "content": "The Eurovision Song Contest final in Vienna in May.",
+    "date": "2026-06-25T13:36:12",
+    "category": "NYT"
+  },
+  {
+    "id": "e3e5f461f3579fb1910245e4e383418e",
+    "feed_name": "Compact",
+    "title": "Mamdani Is Trumpifying the Democrats",
+    "author": "",
+    "link": "https://www.compactmag.com/article/mamdani-is-trumpifying-the-democrats/",
+    "content": "",
+    "date": "2026-06-25T13:20:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Jackass: Best and Last\u2019 Review: Johnny Knoxville and Friends Reunite",
@@ -90,6 +110,16 @@
     "category": "NYT"
   },
   {
+    "id": "39bc09609e74a96dcd44bdb4590257ae",
+    "feed_name": "The Atlantic",
+    "title": "The AI-Tutor Revolution That Wasn\u2019t",
+    "author": "Jenny Anderson",
+    "link": "https://www.theatlantic.com/ideas/2026/06/ai-tutor-education-human-investment/687678/",
+    "content": "It turns out bots aren\u2019t great teachers.",
+    "date": "2026-06-25T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a3d077b2eb3049ca413f1f5",
     "feed_name": "Wired (Science)",
     "title": "Thousands Feared Dead After Venezuela Struck by Strongest Earthquake in Over 125 Years",
@@ -97,6 +127,26 @@
     "link": "https://www.wired.com/story/thousands-feared-dead-after-venezuela-struck-by-strongest-earthquakes-in-over-125-years/",
     "content": "The country's interim leader declared a state of emergency on Wednesday following shocks measuring 7.5 magnitude after two quakes hit in less than a minute.",
     "date": "2026-06-25T11:56:58",
+    "category": "Magazines"
+  },
+  {
+    "id": "1efb255436ea6e19840d132551da6ac8",
+    "feed_name": "The Atlantic",
+    "title": "Alan Greenspan Was \u2018Not Quite God\u2019",
+    "author": "Annie Lowrey",
+    "link": "https://www.theatlantic.com/ideas/2026/06/alan-greenspan-fed-independence/687687/",
+    "content": "He built an independent central bank that withstood many crises. That independence may not last forever.",
+    "date": "2026-06-25T11:44:27",
+    "category": "Magazines"
+  },
+  {
+    "id": "7fa1344b03a963847e4c612fd7a6d36b",
+    "feed_name": "The Atlantic",
+    "title": "The 10,000-Year Flood",
+    "author": "Sean Flynn",
+    "link": "https://www.theatlantic.com/ideas/2026/06/texas-guadalupe-floods-rv-park-deaths/687617/",
+    "content": "The banks of the Guadalupe River were an idyllic spot to park an RV. Then, last summer, it started to rain harder and faster than anyone could imagine.",
+    "date": "2026-06-25T11:00:00",
     "category": "Magazines"
   },
   {
@@ -368,6 +418,16 @@
     "content": "\u201cThere\u2019s even a dunk tank with JD Vance and a drunk tank with Kash Patel,\u201d Fallon said.",
     "date": "2026-06-25T07:39:35",
     "category": "NYT"
+  },
+  {
+    "id": "14d3e4fb64ec7450a832ca9225708249",
+    "feed_name": "Outside",
+    "title": "How Tyler Andrews Shattered the 23-Year-Old Everest Ascent Speed Record",
+    "author": "Ben Ayers",
+    "link": "https://www.outsideonline.com/outdoor-adventure/everest/tyler-andrews-everest-speed-record-2/",
+    "content": "",
+    "date": "2026-06-25T05:19:17",
+    "category": "Magazines"
   },
   {
     "id": "de686fac6242e0dc7135960e2b81d6a0",
@@ -19937,66 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/technology/personaltech/passwords-managers-passkeys.html",
     "content": "A password manager, like the 1Password app shown here, serves as a secure vault for all your user names, passwords and other private information.",
     "date": "2026-05-13T09:02:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/world/europe/three-musketeers-maastricht-dumas-netherlands-dartagnan.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Are These the Bones of the Fourth Musketeer? This Dutch Village Hopes So.",
-    "author": "Jeanna Smialek",
-    "link": "https://www.nytimes.com/2026/05/13/world/europe/three-musketeers-maastricht-dumas-netherlands-dartagnan.html",
-    "content": "An excavation in St. Peter and Paul\u2019s Church in Wolder, the Netherlands, to see if remains found in the church belong to Count d\u2019Artagnan, who was dramatized, fictionalized and immortalized in Dumas\u2019s \u201cThe Three Musketeers.\u201d",
-    "date": "2026-05-13T09:01:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/well/move/exercise-workout-routine-mindset.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "How an All-or-Nothing Mindset Can Sabotage Your Workout",
-    "author": "Danielle Friedman",
-    "link": "https://www.nytimes.com/2026/05/13/well/move/exercise-workout-routine-mindset.html",
-    "content": "It\u2019s not about discipline.",
-    "date": "2026-05-13T09:01:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/us/ak-47.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Where Did All the AK-47s Go?",
-    "author": "Thomas Gibbons-Neff",
-    "link": "https://www.nytimes.com/2026/05/13/us/ak-47.html",
-    "content": "Jim Fuller, who builds AK-47-style rifles, in his office in Scottsdale, Ariz.",
-    "date": "2026-05-13T09:01:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/style/biblical-eating-tiktok-maha-rfk.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Eating Healthy? No, They\u2019re Eating Biblically.",
-    "author": "Madison Malone Kircher",
-    "link": "https://www.nytimes.com/2026/05/13/style/biblical-eating-tiktok-maha-rfk.html",
-    "content": "A diet inspired by the Bible has found new audiences online in the Make America Healthy Again era.",
-    "date": "2026-05-13T09:00:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/travel/stargazing-train-rides.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "5 Great Stargazing Trains",
-    "author": "Michael Harmon",
-    "link": "https://www.nytimes.com/2026/05/13/travel/stargazing-train-rides.html",
-    "content": "On nighttime excursions in dark-sky hot spots like Norway, New Zealand and Nevada, all you have to do is relax and look up. The stars will do the rest.",
-    "date": "2026-05-13T09:00:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/books/closed-door-romance-books.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Closed-Door Romance Books That Will Make You Swoon",
-    "author": "Lynn Painter",
-    "link": "https://www.nytimes.com/2026/05/13/books/closed-door-romance-books.html",
-    "content": "The best-selling author Lynn Painter recommends low-heat love stories that deliver on juicy tension, crackling banter and plenty of swoon.",
-    "date": "2026-05-13T09:00:26",
     "category": "NYT"
   }
 ]
