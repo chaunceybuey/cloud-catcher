@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "2294c4bf59318dd4ebc24af3ac17b6af",
+    "feed_name": "LRB",
+    "title": "World Cup Cupidity",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/world-cup-cupidity",
+    "content": "\u2018The beautiful game has never looked more beautiful on the pitch, or more ugly off it,\u2019 Simon Skinner writes in the latestLRB. Each World Cup seems more tainted by corruption than the last, but is that a nostalgic illusion? The second competition, held in Italy in 1934, was a podium for Mussolini and, as Skinner puts it, \u2018an early advertisement of the tournament\u2019s...",
+    "date": "2026-06-25T19:06:11",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/arts/jerry-moriarty-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Jerry Moriarty, Painter Whose Brushstrokes Elevated Comics, Is Dead at 88",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html",
     "content": "The ruling in Louisiana v. Callais might drive America\u2019s politics to an even more precarious place of partisan tension and ideological Balkanization.",
     "date": "2026-05-13T12:33:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/arts/dance/jade-manns-choreographer-dance-falling.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jade Manns Is Breathing New Life Into Dance",
-    "author": "Gia Kourlas and Erik Tanner",
-    "link": "https://www.nytimes.com/2026/05/13/arts/dance/jade-manns-choreographer-dance-falling.html",
-    "content": "Jade Manns is part of a generation of young dance artists who dig deep inside the body\u2019s inner landscape. Nature leads the way.",
-    "date": "2026-05-13T12:18:38",
     "category": "NYT"
   }
 ]
