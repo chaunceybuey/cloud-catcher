@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/25/dining/solidarity-with-ranch-obsessed-tourists.html",
+    "feed_name": "NYT (Food)",
+    "title": "Solidarity With Ranch-Obsessed Tourists",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/06/25/dining/solidarity-with-ranch-obsessed-tourists.html",
+    "content": "Eleanore Park\u2019s classic ranch dressing, adapted by Julia Moskin.",
+    "date": "2026-06-25T17:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/arts/dance/lincoln-center-contemporary-dance-festival-jeremy-nedd-yinka-esi-graves-her-project.html",
     "feed_name": "NYT (Arts)",
     "title": "A New Dance Festival Moves Beyond the Same Old, Same Old",
@@ -19988,15 +19998,5 @@
     "content": "A University of Nebraska lab has developed a test that can detect the virus before symptoms become severe. Now, it's ready to start testing those returning to the US after a cruise outbreak.",
     "date": "2026-05-13T11:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/science/taxidermist-los-angeles-museum-animals.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Taxidermist Gives Dead Animals a New Life",
-    "author": "Jordan Kisner and Sasha Arutyunova",
-    "link": "https://www.nytimes.com/2026/05/12/science/taxidermist-los-angeles-museum-animals.html",
-    "content": "The creation, care and keeping of creatures is a responsibility the last full-time museum taxidermist in the U.S. takes both seriously and joyfully.",
-    "date": "2026-05-13T11:19:39",
-    "category": "NYT"
   }
 ]
