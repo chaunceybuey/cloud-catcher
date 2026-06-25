@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Jackass: Best and Last\u2019 Review: Johnny Knoxville and Friends Reunite",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html",
+    "content": "In what purports to be the final installment of the MTV franchise, Johnny Knoxville and friends reunite to reminisce.",
+    "date": "2026-06-25T13:00:04",
+    "category": "NYT"
+  },
+  {
+    "id": "6a3c2d14096b0c8d95e50f29",
+    "feed_name": "Wired (Science)",
+    "title": "Colossal and the US Government Are Creating an Endangered Species \u2018BioVault\u2019",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/",
+    "content": "The move comes as the Trump administration is trying to weaken the act that\u2019s meant to protect endangered species from going extinct in the first place.",
+    "date": "2026-06-25T13:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/arts/europe-museums-heat.html",
     "feed_name": "NYT (Arts)",
     "title": "Some European Museums Are Free Havens to Cool Off. Others Can\u2019t Take the Heat.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/books/closed-door-romance-books.html",
     "content": "The best-selling author Lynn Painter recommends low-heat love stories that deliver on juicy tension, crackling banter and plenty of swoon.",
     "date": "2026-05-13T09:00:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/us/texas-corpus-christi-water-crisis.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Corpus Christi Faces Water Crisis as Drought and Industrial Growth Strain Supply",
-    "author": "Lauren McGaughy and Meridith Kohut",
-    "link": "https://www.nytimes.com/2026/05/13/us/texas-corpus-christi-water-crisis.html",
-    "content": "Corpus Christi\u2019s industrial port has been expanding, but new water sources have not been keeping pace, especially amid a drought that has stretched on far longer than local officials expected.",
-    "date": "2026-05-13T09:00:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/travel/ben-franklin-paris.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Walking the Streets of Ben Franklin\u2019s Paris",
-    "author": "Eric Weiner and Camille McOuat",
-    "link": "https://www.nytimes.com/2026/05/13/travel/ben-franklin-paris.html",
-    "content": "The aging statesman braved rough seas and arduous carriage rides to reach Paris, where he persuaded the French to back the American rebels. We followed in his footsteps.",
-    "date": "2026-05-13T09:00:17",
     "category": "NYT"
   }
 ]
