@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "95380d5043661f69352dc12cfd713d2b",
+    "feed_name": "Compact",
+    "title": "Mexico\u2019s Oil Strategy Is Paying Off",
+    "author": "",
+    "link": "https://www.compactmag.com/article/mexicos-oil-strategy-is-paying-off/",
+    "content": "",
+    "date": "2026-06-26T11:10:22",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a3957fd6f2db0127b2a0741",
+    "feed_name": "Wired (Science)",
+    "title": "Ivanka Trump and Jared Kushner's Island Resort Could Bring Down Albania\u2019s Prime Minister",
+    "author": "Arbjona \u00c7ibuku",
+    "link": "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
+    "content": "What began as a \u201cflamingo revolution\u201d to protest the $1.4 billion development on Sazan Island has spiraled into mass protests against a ruling party that thousands now want out.",
+    "date": "2026-06-26T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234270",
     "feed_name": "Texas Tribune",
     "title": "Hundreds of data centers are coming to Texas. Here\u2019s what you need to know.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/12/realestate/jacob-riis-rockaway-ocean-beach-club.html",
     "content": "The Rockaway Ocean Club will open in the historic Jacob Riis Park Bathhouse this summer.",
     "date": "2026-05-13T13:48:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/style/kurt-vile-philadelphia.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Kurt Vile Finds Inspiration in Philadelphia",
-    "author": "Steven Kurutz",
-    "link": "https://www.nytimes.com/2026/05/12/style/kurt-vile-philadelphia.html",
-    "content": "Kurt Vile sings the praises of his home city on his new album.",
-    "date": "2026-05-13T13:37:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/opinion/xi-trump-summit-china-us.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Xi Jinping Is Planning for China\u2019s Final Victory Over the U.S.",
-    "author": "Julian Gewirtz",
-    "link": "https://www.nytimes.com/2026/05/13/opinion/xi-trump-summit-china-us.html",
-    "content": "While Trump chases quick wins and flashy optics, Xi plays a generational game for global dominance.",
-    "date": "2026-05-13T13:33:44",
     "category": "NYT"
   }
 ]
