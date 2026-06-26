@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "d72e1ea53dbd06daf46c6a927eb1465f",
+    "feed_name": "LRB",
+    "title": "Burnham\u2019s Political Economy",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n12/william-davies/burnham-s-political-economy",
+    "content": "B\u200britain\u2019s present\u200b economic bind began in the winter of 2021-22. The success of the vaccine roll-out over the previous months had made it possible to \u2018reopen\u2019 the economy, even in areas such as hospitality whose entire future had once looked uncertain. But bottlenecks in supply chains and labour markets then exerted an upward pressure on prices, including wages....",
+    "date": "2026-06-26T19:50:59",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/26/arts/design/ping-pong-rockaway-beach.html",
     "feed_name": "NYT (Arts)",
     "title": "Ping-Pong\u2019s Endless Summer at Rockaway Beach",
@@ -118,6 +128,16 @@
     "content": "She was just 17 when she played Joan Crawford\u2019s ungrateful daughter in the classic 1945 melodrama. It was the high point of a robust but short film career.",
     "date": "2026-06-26T18:09:11",
     "category": "NYT"
+  },
+  {
+    "id": "896de0af75d4cd973fe0a6be4baf7e87",
+    "feed_name": "The Atlantic",
+    "title": "The Supreme Court\u2019s Era of Meaningless Rights",
+    "author": "Leah Litman",
+    "link": "https://www.theatlantic.com/ideas/2026/06/supreme-court-decisions-unenforceable-rights/687713/",
+    "content": "The Supreme Court is not saying people don\u2019thavecertain rights, just that no courts can help them when those rights are violated.",
+    "date": "2026-06-26T17:52:49",
+    "category": "Magazines"
   },
   {
     "id": "b8498991c4c8a2444ad22e338dab5316",
@@ -19977,26 +19997,6 @@
     "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
     "content": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
     "date": "2026-05-13T19:15:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/realestate/nj-transit-jersey-shore-subway.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Jersey Shore Residents Embrace NJ Transit for Short Trips",
-    "author": "Jill P. Capuzzo and Hannah Beier",
-    "link": "https://www.nytimes.com/2026/05/13/realestate/nj-transit-jersey-shore-subway.html",
-    "content": "Johnny Mac\u2019s House of Spirits in Asbury Park, is the first stop for many after getting off NJ Transit.",
-    "date": "2026-05-13T19:15:44",
-    "category": "NYT"
-  },
-  {
-    "id": "94f80d104979948114d03a14f5c9b5b6",
-    "feed_name": "LRB",
-    "title": "Right of Return",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/may/right-of-return",
-    "content": "The Haganah\u00a0attacked Beersheba on 21 October 1948. A week later, David Ben-Gurion came to inspect the town. He admired the fine stone government.\u00a0.\u00a0.",
-    "date": "2026-05-13T18:57:28",
     "category": "Magazines"
   }
 ]
