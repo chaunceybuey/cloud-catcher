@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/26/arts/dance/american-ballet-theater-don-quixote-susan-jaffe-susan-jones.html",
+    "feed_name": "NYT (Arts)",
+    "title": "American Ballet Theater\u2019s \u2018Don Quixote\u2019: You May Laugh. And Nobody Dies.",
+    "author": "Gia Kourlas and Vincent Tullo",
+    "link": "https://www.nytimes.com/2026/06/26/arts/dance/american-ballet-theater-don-quixote-susan-jaffe-susan-jones.html",
+    "content": "Jaffe, right, with dancers. \u201cThings are stale when they are being performed by rote,\u201d she said.",
+    "date": "2026-06-26T16:00:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/26/movies/international-movies-streaming.html",
     "feed_name": "NYT (Arts)",
     "title": "Five International Movies to Stream Now",
@@ -19988,15 +19998,5 @@
     "content": "\u2018Tam o\u2019 Shanter\u2019 first appeared as a lengthy footnote in Francis Grose's Antiquities of Scotland (1791) after Robert Burns convinced Grose to include the ruined Alloway Kirk in his volume, and its supernatural associations (invented by Burns). Its story of the drunken Tam's encounter with witches in the stormy Ayrshire landscape has served as both a celebration and...",
     "date": "2026-05-13T16:21:03",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/movies/cannes-film-festival-israel-gaza-politics.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At Cannes 2026, Gaza Becomes a Political Flashpoint",
-    "author": "Kyle Buchanan",
-    "link": "https://www.nytimes.com/2026/05/13/movies/cannes-film-festival-israel-gaza-politics.html",
-    "content": "From left, the Cannes Film Festival president, Iris Knobloch, the jury president, Peter Jackson, and the festival director, Thierry Fr\u00e9maux.",
-    "date": "2026-05-13T15:54:38",
-    "category": "NYT"
   }
 ]
