@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a3e91c60e81c1ff23a78947",
+    "feed_name": "Wired (Science)",
+    "title": "How to See the Giant Asteroid That Will Pass by Earth This Weekend",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/",
+    "content": "The asteroid will be visible for several nights from different parts of the world. We\u2019ll tell you when and where to look, and what equipment you\u2019ll need to spot it.",
+    "date": "2026-06-26T18:45:16",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234371",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Supreme Court rejects lawsuit by survivors of Uvalde school shooting",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17368728/texas-uvalde-robb-school-shooting-supreme-court-lawsuit",
+    "content": "The memorial of the Uvalde school shooting is displayed at Robb Elementary School on June 10, 2026. The crosses honor the 19 students and two teachers who were killed.",
+    "date": "2026-06-26T18:28:54",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/26/movies/ann-blyth-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Ann Blyth, Oscar-Nominated \u2018Mildred Pierce\u2019 Actress, Dies at 98",
@@ -19978,25 +19998,5 @@
     "content": "If you are studying coding, we might have some bad news",
     "date": "2026-05-13T18:44:01",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/movies/a-new-leaf-ifc-elaine-may.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018A New Leaf\u2019: A Romantic Comedy, With Murder on the Mind",
-    "author": "J. Hoberman",
-    "link": "https://www.nytimes.com/2026/05/13/movies/a-new-leaf-ifc-elaine-may.html",
-    "content": "This 1971 movie, restored and revived for a week at the IFC Center, offers ample evidence of Elaine May\u2019s screwball genius.",
-    "date": "2026-05-13T18:36:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/world/europe/princess-catherine-italy-visit-uk-cancer.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Catherine, Princess of Wales, to Make First Official Trip Abroad Since Cancer Diagnosis",
-    "author": "Elisabetta Povoledo and Amelia Nierenberg",
-    "link": "https://www.nytimes.com/2026/05/13/world/europe/princess-catherine-italy-visit-uk-cancer.html",
-    "content": "Catherine, Princess of Wales, arriving at the town hall in Reggio Emilia, Italy, on Wednesday.",
-    "date": "2026-05-13T18:20:43",
-    "category": "NYT"
   }
 ]
