@@ -60,13 +60,30 @@ def pdf_to_epub(pdf_path, title):
     """
     
     print("[ACADEMIC SYNC] Parsing PDF with AI (this takes a few seconds)...")
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=[pdf_file, prompt]
-    )
+    
+    # =================================================================
+    # The Auto-Retry Armor
+    # =================================================================
+    max_retries = 3
+    response = None
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=[pdf_file, prompt]
+            )
+            break # Success! Break out of the loop.
+            
+        except Exception as e:
+            if "503" in str(e) and attempt < max_retries - 1:
+                print(f"[ACADEMIC SYNC] Gemini API is busy. Retrying in 5 seconds (Attempt {attempt + 2}/{max_retries})...")
+                time.sleep(5)
+            else:
+                print(f"[ACADEMIC SYNC] AI API Error: {e}")
+                raise e # Throw the error up so the ledger doesn't falsely mark it as complete
+    # =================================================================
     
     print("[ACADEMIC SYNC] Converting text to EPUB...")
-    # Convert the clean Markdown into HTML
     html_content = markdown2.markdown(response.text)
     
     # Build the EPUB Book
