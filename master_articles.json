@@ -60,6 +60,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/26/arts/television/andres-cantor-telemundo-world-cup-goal.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Man Who Cried Goooooooooooal",
+    "author": "Emmanuel Morgan and Steven Molina Contreras",
+    "link": "https://www.nytimes.com/2026/06/26/arts/television/andres-cantor-telemundo-world-cup-goal.html",
+    "content": "The Telemundo announcer Andr\u00e9s Cantor must train to deliver his famed scoring celebration for the World Cup, where he could call 20 games in about a month.",
+    "date": "2026-06-26T15:10:20",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/26/theater/pride-musical-national-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Pride\u2019: A Tale Retold, Zhuzhed Up With Extra Camp",
+    "author": "Houman Barekat",
+    "link": "https://www.nytimes.com/2026/06/26/theater/pride-musical-national-theater.html",
+    "content": "\u201cPride\u201d at the National Theater in London. The story\u2019s bittersweet melodrama and tender evocation of solidarity lend themselves well to a musical theater treatment.",
+    "date": "2026-06-26T15:06:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/26/dining/a-chicken-salad-thats-creamy-without-mayo.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Chicken Salad That\u2019s Creamy Without Mayo",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/06/26/dining/a-chicken-salad-thats-creamy-without-mayo.html",
+    "content": "Andy Baraghani\u2019s spicy and creamy cashew chicken salad.",
+    "date": "2026-06-26T15:00:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/26/dining/drinks/food-wine-connection.html",
+    "feed_name": "NYT (Food)",
+    "title": "Have We Forgotten Wine\u2019s Place at the Table?",
+    "author": "Eric Asimov",
+    "link": "https://www.nytimes.com/2026/06/26/dining/drinks/food-wine-connection.html",
+    "content": "Wine has long been considered an essential part of eating well, but its place no longer seems to be with a meal.",
+    "date": "2026-06-26T14:47:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/how-to-make-easy-zucchini-pasta-for-summer",
     "feed_name": "NYT (Food)",
     "title": "How to Make Easy Zucchini Pasta for Summer",
@@ -19957,46 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/chickpea-salad-recipe-cucumber-lemon-salsa",
     "content": "Yotam Ottolenghi\u2019s fresh recipe delivers everything you want from the classic side dish, plus bright lemon and crisp cucumbers.",
     "date": "2026-05-13T15:26:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/opinion/pediatric-cancer-cuts-trump.html",
-    "feed_name": "NYT (Shared)",
-    "title": "We Cannot Let Trump Cut Childhood Cancer Research",
-    "author": "Zain Habboo",
-    "link": "https://www.nytimes.com/2026/05/13/opinion/pediatric-cancer-cuts-trump.html",
-    "content": "More children will die because the Trump administration is cutting pediatric cancer research.",
-    "date": "2026-05-13T15:06:58",
-    "category": "NYT"
-  },
-  {
-    "id": "46c08e28cf8162a5e1952c8488722ffa",
-    "feed_name": "The Atlantic",
-    "title": "The Trump Counterterrorism Strategy Is a Dangerous Joke",
-    "author": "Tom Nichols",
-    "link": "https://www.theatlantic.com/ideas/2026/05/trump-sebastian-gorka-counterterrorism/687148/",
-    "content": "The policy is unfocused, run by amateurs, and concerned more with the president\u2019s many grievances than the security of the United States.",
-    "date": "2026-05-13T14:58:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/us/trump-vapes-cigarettes-big-tobacco.html",
-    "feed_name": "NYT (Shared)",
-    "title": "With a Friend in Trump, the Tobacco Industry Secures a Lucrative Win",
-    "author": "Christina Jewett and Kenneth P. Vogel",
-    "link": "https://www.nytimes.com/2026/05/13/us/trump-vapes-cigarettes-big-tobacco.html",
-    "content": "The F.D.A. issued new guidance that could pave the way for major tobacco companies to begin selling flavored vapes less than a week after industry executives met with President Trump.",
-    "date": "2026-05-13T14:37:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/us/politics/trump-vapes-cigarettes-big-tobacco.html",
-    "feed_name": "NYT (Shared)",
-    "title": "With a Friend in Trump, the Tobacco Industry Secures a Lucrative Win",
-    "author": "Christina Jewett and Kenneth P. Vogel",
-    "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-vapes-cigarettes-big-tobacco.html",
-    "content": "The F.D.A. issued new guidance that could pave the way for major tobacco companies to begin selling flavored vapes less than a week after industry executives met with President Trump.",
-    "date": "2026-05-13T14:37:31",
     "category": "NYT"
   }
 ]
