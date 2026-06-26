@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/26/movies/international-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five International Movies to Stream Now",
+    "author": "Devika Girish",
+    "link": "https://www.nytimes.com/2026/06/26/movies/international-movies-streaming.html",
+    "content": "This month\u2019s titles include Pride Month picks from Brazil, Sweden and Croatia; a soccer drama from Ireland; and a comedy from Italy.",
+    "date": "2026-06-26T15:25:46",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/26/arts/television/andres-cantor-telemundo-world-cup-goal.html",
     "feed_name": "NYT (Arts)",
     "title": "The Man Who Cried Goooooooooooal",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/movies/cannes-film-festival-israel-gaza-politics.html",
     "content": "From left, the Cannes Film Festival president, Iris Knobloch, the jury president, Peter Jackson, and the festival director, Thierry Fr\u00e9maux.",
     "date": "2026-05-13T15:54:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/chickpea-salad-recipe-cucumber-lemon-salsa",
-    "feed_name": "NYT (Food)",
-    "title": "This Summery Chickpea Salad Is Coming for Your Potato Salad",
-    "author": "Yotam Ottolenghi",
-    "link": "https://cooking.nytimes.com/article/chickpea-salad-recipe-cucumber-lemon-salsa",
-    "content": "Yotam Ottolenghi\u2019s fresh recipe delivers everything you want from the classic side dish, plus bright lemon and crisp cucumbers.",
-    "date": "2026-05-13T15:26:07",
     "category": "NYT"
   }
 ]
