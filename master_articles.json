@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/26/movies/strung-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Strung\u2019 Review: A Tease of a Thriller",
+    "author": "Lisa Kennedy",
+    "link": "https://www.nytimes.com/2026/06/26/movies/strung-review.html",
+    "content": "Chloe Bailey, Lynn Whitfield and Lucien Laviscount have delivered more of a camp classic than a taut psychological film.",
+    "date": "2026-06-26T07:00:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Grades the Attractions at the Great American State Fair",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n09/nicole-flattery/zip-him-in-a-bodybag",
     "content": "In John Cheever\u2019s\u200bBullet Park(1969), Eliot Nailles, a mild-mannered advertising executive, is asked by an Italian doctor: \u2018Why do Americans want to be immortal?\u2019 Amie Barrodale\u2019s first novel,Trip, offers a playful reformulation of this question. In some ways, it\u2019s a send-up of a culture obsessed with \u2018healthmaxxing\u2019, where ageing and death are...",
-    "date": "2026-05-13T13:12:42",
-    "category": "Magazines"
-  },
-  {
-    "id": "cc3e063cb3d4a63c94937992cb96b0ca",
-    "feed_name": "LRB",
-    "title": "\u2018The Stranger\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n09/michael-wood/at-the-movies",
-    "content": "At the end\u200b of Fran\u00e7ois Ozon\u2019s filmThe Stranger, the narrator and hero makes a remarkable speech. He does the same, verbatim, in Luchino Visconti\u2019s 1967 movie, and in Albert Camus\u2019s novelL\u2019\u00c9tranger, on which both films are based. But it means something different in each case and so becomes a sort of test or touchstone for the viewer or reader. A man...",
     "date": "2026-05-13T13:12:42",
     "category": "Magazines"
   }
