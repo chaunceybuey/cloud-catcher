@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/how-to-make-easy-zucchini-pasta-for-summer",
+    "feed_name": "NYT (Food)",
+    "title": "How to Make Easy Zucchini Pasta for Summer",
+    "author": "Eric Kim",
+    "link": "https://cooking.nytimes.com/article/how-to-make-easy-zucchini-pasta-for-summer",
+    "content": "Eric Kim\u2019s riff on aglio e olio is simple, summery and the best use of summer squash.",
+    "date": "2026-06-26T13:56:40",
+    "category": "NYT"
+  },
+  {
     "id": "95380d5043661f69352dc12cfd713d2b",
     "feed_name": "Compact",
     "title": "Mexico\u2019s Oil Strategy Is Paying Off",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/business/economy/tariff-refunds-trump.html",
     "content": "The tariff refunds come at a difficult political moment for President Trump, who is visiting China this week for a series of high-stakes trade talks.",
     "date": "2026-05-13T14:28:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/12/realestate/jacob-riis-rockaway-ocean-beach-club.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "A Private Club Plans a Grand Debut on the \u2018People\u2019s Beach\u2019",
-    "author": "Alyson Krueger and Winnie Au For The New York Times",
-    "link": "https://www.nytimes.com/2026/05/12/realestate/jacob-riis-rockaway-ocean-beach-club.html",
-    "content": "The Rockaway Ocean Club will open in the historic Jacob Riis Park Bathhouse this summer.",
-    "date": "2026-05-13T13:48:59",
     "category": "NYT"
   }
 ]
