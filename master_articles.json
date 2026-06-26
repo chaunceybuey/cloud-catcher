@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Grades the Attractions at the Great American State Fair",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html",
+    "content": "The fair has everything, Jimmy Fallon said, including \u201ca Trump approval rating roller coaster, which has the biggest drop in history.\u201d",
+    "date": "2026-06-26T05:25:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/25/arts/television/love-island-alannah-keyser-racial-slur.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Love Island USA\u2019 Kicks Out Another Contestant for Racial Slur",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n09/michael-wood/at-the-movies",
     "content": "At the end\u200b of Fran\u00e7ois Ozon\u2019s filmThe Stranger, the narrator and hero makes a remarkable speech. He does the same, verbatim, in Luchino Visconti\u2019s 1967 movie, and in Albert Camus\u2019s novelL\u2019\u00c9tranger, on which both films are based. But it means something different in each case and so becomes a sort of test or touchstone for the viewer or reader. A man...",
-    "date": "2026-05-13T13:12:42",
-    "category": "Magazines"
-  },
-  {
-    "id": "0d06b4a241725367bedcdbeb163d342c",
-    "feed_name": "LRB",
-    "title": "Samurai Suits",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n09/ben-walker/samurai-suits",
-    "content": "In\u200b 1598, shortly before his death, the Japanese leader, Toyotomi Hideyoshi, established the Council of Five Elders, a group ofdaimyo(feudal lords) who would govern until his son Hideyori came of age. It took just two years for one of the five, Tokugawa Ieyasu, to oust the seven-year-old ruler and unify Japan under his own banner. The Tokugawa shogunate governed Japan for the next 250...",
     "date": "2026-05-13T13:12:42",
     "category": "Magazines"
   }
