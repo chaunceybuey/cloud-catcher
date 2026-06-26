@@ -70,6 +70,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/easy-zucchini-pasta",
+    "feed_name": "NYT (Food)",
+    "title": "How to Make Easy Zucchini Pasta for Summer",
+    "author": "Eric Kim",
+    "link": "https://cooking.nytimes.com/article/easy-zucchini-pasta",
+    "content": "Eric Kim\u2019s riff on aglio e olio is simple, summery and the best use of summer squash.",
+    "date": "2026-06-26T13:56:40",
+    "category": "NYT"
+  },
+  {
     "id": "95380d5043661f69352dc12cfd713d2b",
     "feed_name": "Compact",
     "title": "Mexico\u2019s Oil Strategy Is Paying Off",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-vapes-cigarettes-big-tobacco.html",
     "content": "The F.D.A. issued new guidance that could pave the way for major tobacco companies to begin selling flavored vapes less than a week after industry executives met with President Trump.",
     "date": "2026-05-13T14:37:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/business/economy/tariff-refunds-trump.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Tariff Refunds Begin to Reach Businesses as Trump Lashes Out at Court",
-    "author": "Tony Romm",
-    "link": "https://www.nytimes.com/2026/05/13/business/economy/tariff-refunds-trump.html",
-    "content": "The tariff refunds come at a difficult political moment for President Trump, who is visiting China this week for a series of high-stakes trade talks.",
-    "date": "2026-05-13T14:28:06",
     "category": "NYT"
   }
 ]
