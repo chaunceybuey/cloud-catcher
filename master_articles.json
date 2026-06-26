@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/26/world/canada/world-cup-toronto-convenience-store-rescue.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A floating convenience store appears in Toronto",
+    "author": "John S.W. MacDonald",
+    "link": "https://www.nytimes.com/2026/06/26/world/canada/world-cup-toronto-convenience-store-rescue.html",
+    "content": "\u201cGlobal Convenience,\u201d an art installation honoring the city\u2019s role as a World Cup host, is a near-perfect replica of a corner shop. Someone got stranded after swimming out to it last week.",
+    "date": "2026-06-26T21:14:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/26/arts/design/thomas-doyle-fraud-courbet-jon-landau.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Man Pleads Guilty to Fraud in Sale of Art to Springsteen\u2019s Manager",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/06/26/arts/design/thomas-doyle-fraud-courbet-jon-landau.html",
+    "content": "Gustave Courbet\u2019s \u201cMother and Child on a Hammock,\u201d which is dated to roughly 1848.",
+    "date": "2026-06-26T20:51:02",
+    "category": "NYT"
+  },
+  {
     "id": "d72e1ea53dbd06daf46c6a927eb1465f",
     "feed_name": "LRB",
     "title": "Burnham\u2019s Political Economy",
@@ -19978,25 +19998,5 @@
     "content": "Matthew Perry, who played Chandler Bing on the 1990s sitcom \u201cFriends,\u201d publicly struggled with drug and alcohol addiction for decades.",
     "date": "2026-05-13T19:39:33",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/arts/design/art-auction-preview-billion-pollock-rothko.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Can Three Auction Houses Sell $2.6 Billion Worth of Art in One Week?",
-    "author": "Tim F. Schneider, Julia Halperin and Zachary Small",
-    "link": "https://www.nytimes.com/2026/05/13/arts/design/art-auction-preview-billion-pollock-rothko.html",
-    "content": "Five luxury artworks hold the key to the spring season, one of the most anticipated sales in years. Major buyers are looking past female and younger artists and toward tradition.",
-    "date": "2026-05-13T19:33:37",
-    "category": "NYT"
-  },
-  {
-    "id": "6a036342c6beeb5243773b4e",
-    "feed_name": "Wired (Science)",
-    "title": "What It Will Take to Make AI Sustainable",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
-    "content": "Researcher Sasha Luccioni argues we need better emissions data and a better sense of how people are using AI in the first place.",
-    "date": "2026-05-13T19:15:59",
-    "category": "Magazines"
   }
 ]
