@@ -70,6 +70,16 @@
     "category": "Magazines"
   },
   {
+    "id": "da07244d50975bee0b463ab6a51b377e",
+    "feed_name": "LRB",
+    "title": "Narrative Poems: \u2018Tam o\u2019 Shanter\u2019 by Robert Burns and \u2018Peter Grimes\u2019 by George Crabbe",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/narrative-poems-tam-o-shanter-by-robert-burns-and-peter-grimes-by-george-crabbe",
+    "content": "\u2018Tam o\u2019 Shanter\u2019 first appeared as a lengthy footnote in Francis Grose's Antiquities of Scotland (1791) after Robert Burns convinced Grose to include the ruined Alloway Kirk in his volume, and its supernatural associations (invented by Burns). Its story of the drunken Tam's encounter with witches in the stormy Ayrshire landscape has served as both a celebration and...",
+    "date": "2026-06-26T17:01:11",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=19396",
     "feed_name": "Stratechery",
     "title": "2026.26: Summer Vibes",
@@ -19988,15 +19998,5 @@
     "content": "President Trump arrived in Beijing on Wednesday for a high-stakes diplomatic visit with President Xi Jinping of China.",
     "date": "2026-05-13T18:06:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229977",
-    "feed_name": "Texas Tribune",
-    "title": "Greg Abbott expands task force targeting repeat offenders from Houston to other large cities",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17340005/texas-repeat-offender-task-force-abbott-dps-expands",
-    "content": "Gov. Greg Abbott announces the launch of a violent crimes task force in Houston on Oct. 1, 2025.",
-    "date": "2026-05-13T17:27:21",
-    "category": "Texas"
   }
 ]
