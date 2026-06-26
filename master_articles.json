@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234270",
+    "feed_name": "Texas Tribune",
+    "title": "Hundreds of data centers are coming to Texas. Here\u2019s what you need to know.",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17368283/texas-data-center-guide-what-you-need-to-know",
+    "content": "The sun sets behind the Stargate data center on May 2, 2026, in Abilene.",
+    "date": "2026-06-26T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234032",
+    "feed_name": "Texas Tribune",
+    "title": "What Texas can learn from Japanese cities that give technology to its senior citizens",
+    "author": "By Terri Langford, Interview Translations by Mizuki Nakamura",
+    "link": "https://feeds.texastribune.org/link/16799/17368284/texas-japan-seniors-technology-monitoring-devices",
+    "content": "Residents at the Sasarindo care home in Kamakura, Japan watch TV at the dining hall on March 2, 2026.",
+    "date": "2026-06-26T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/26/arts/television/larry-david-hbo-life-larry-pursuit-of-unhappiness-review.html",
     "feed_name": "NYT (Arts)",
     "title": "Larry David\u2019s Comedy on HBO and America\u2019s Unhappy 250th Birthday",
@@ -19978,25 +19998,5 @@
     "content": "While Trump chases quick wins and flashy optics, Xi plays a generational game for global dominance.",
     "date": "2026-05-13T13:33:44",
     "category": "NYT"
-  },
-  {
-    "id": "2e3ec0fa310afb2dafdd0ae9e0fc754c",
-    "feed_name": "LRB",
-    "title": "America\u2019s Afghanistan Delusion",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n09/tom-stevenson/we-were-doing-well-when-i-left",
-    "content": "The United States\u200b brought the war on terror to practically every part of the world \u2013 landing military advisers on the Sulu archipelago in the Philippines, operating black sites in Poland and Romania, filling the cages of Guant\u00e1namo Bay. But the challenge to American power presented by the 11 September attacks came from a particular region: what Adam Garfinkle, a future...",
-    "date": "2026-05-13T13:12:42",
-    "category": "Magazines"
-  },
-  {
-    "id": "3bd7ab1787d64af074644169cd228b69",
-    "feed_name": "LRB",
-    "title": "Labour\u2019s Failure",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n09/james-butler/short-cuts",
-    "content": "People\u200b vote irrationally in local elections, at least according to the standards of political scientists. That is, their vote is often motivated by factors outside the purview of local government. The dismal result for Labour in England\u2019s local elections on 7 May was not predominantly a revolt over bin collections. It was strongly related to national revulsion for Labour, and to the...",
-    "date": "2026-05-13T13:12:42",
-    "category": "Magazines"
   }
 ]
