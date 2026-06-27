@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "0799c33896981a4bc3bf5b5d4f4aca03",
+    "feed_name": "LRB",
+    "title": "The Philosophy of \u2018To the Lighthouse\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/the-philosophy-of-to-the-lighthouse",
+    "content": "In 1908, Virginia Woolf wrote that she hoped to revolutionise the novel and \u2018capture multitudes of things at present fugitive\u2019.To the Lighthouse(1927) marks perhaps her fullest realisation of the novel as philosophical enterprise, and not simply because one of its central characters is engaged with the problem of \u2018subject and object and the nature of reality\u2019.",
+    "date": "2026-06-27T09:29:17",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/27/arts/music/phoebe-bridgers-sombr-songs.html",
     "feed_name": "NYT (Arts)",
     "title": "Phoebe Bridgers, Sombr: Songs to Know This Week",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html",
     "content": "When President Trump tried to force China into making concessions last year by threatening extreme tariffs, the tactic backfired, forcing the United States to pare back its goals.",
     "date": "2026-05-13T23:59:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/opinion/hegseth-pentagon-military-budget.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Here Are 1.5 Trillion Reasons Not to Trust Pete Hegseth\u2019s Budget",
-    "author": "Noah Shachtman",
-    "link": "https://www.nytimes.com/2026/05/13/opinion/hegseth-pentagon-military-budget.html",
-    "content": "\u201cYou name it, we\u2019re investing in it\u201d does not inspire confidence.",
-    "date": "2026-05-13T23:19:19",
     "category": "NYT"
   }
 ]
