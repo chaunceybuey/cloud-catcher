@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/27/dining/ali-slagles-mushroom-smash-burgers-really-satisfy.html",
+    "feed_name": "NYT (Food)",
+    "title": "Ali Slagle\u2019s Mushroom Smash Burgers Really Satisfy",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/27/dining/ali-slagles-mushroom-smash-burgers-really-satisfy.html",
+    "content": "Ali Slagle\u2019s mushroom smash burgers.",
+    "date": "2026-06-27T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/27/dining/the-july-monthly-bake-peaches-and-cream-victoria-sandwich.html",
     "feed_name": "NYT (Food)",
     "title": "The July Monthly Bake: Peaches and Cream Victoria Sandwich",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html",
     "content": "The Colombian woman and other migrants are housed in a hotel outside Kinshasa, the capital of the Democratic Republic of Congo.",
     "date": "2026-05-14T02:00:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/us/road-trip-duffy.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Duffy\u2019s \u2018Great American Road Trip\u2019 Prompts Ethical Concerns",
-    "author": "Karoun Demirjian",
-    "link": "https://www.nytimes.com/2026/05/13/us/road-trip-duffy.html",
-    "content": "Mr. Duffy has insisted that the department\u2019s career ethics and budget officials reviewed and approved his participation in the YouTube series.",
-    "date": "2026-05-14T01:32:54",
     "category": "NYT"
   }
 ]
