@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/27/dining/the-july-monthly-bake-peaches-and-cream-victoria-sandwich.html",
+    "feed_name": "NYT (Food)",
+    "title": "The July Monthly Bake: Peaches and Cream Victoria Sandwich",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/06/27/dining/the-july-monthly-bake-peaches-and-cream-victoria-sandwich.html",
+    "content": "Vaughn Vreeland\u2019s peaches and cream Victoria sandwich.",
+    "date": "2026-06-27T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "f4104d5c521529e330dc5acb254275be",
     "feed_name": "The Atlantic",
     "title": "France\u2019s Air Conditioning Failure",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/us/road-trip-duffy.html",
     "content": "Mr. Duffy has insisted that the department\u2019s career ethics and budget officials reviewed and approved his participation in the YouTube series.",
     "date": "2026-05-14T01:32:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/us/doj-lawsuit-dc-bar-trump.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Justice Dept. Sues D.C. Bar Over Efforts to Discipline Government Lawyers",
-    "author": "Devlin Barrett",
-    "link": "https://www.nytimes.com/2026/05/13/us/doj-lawsuit-dc-bar-trump.html",
-    "content": "Todd Blanche, the acting attorney general, accused the D.C. Bar, which handles complaints of lawyer misconduct, of acting as a \u201cblatantly partisan arm of leftist causes.\u201d",
-    "date": "2026-05-14T00:58:52",
     "category": "NYT"
   }
 ]
