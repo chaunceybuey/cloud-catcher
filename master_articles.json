@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "0a1f4631ecf8146dc24146354d6ba996",
+    "feed_name": "The Atlantic",
+    "title": "Higher Ed Is Very Sorry",
+    "author": "Rose Horowitch",
+    "link": "https://www.theatlantic.com/ideas/2026/06/higher-education-universities-public-trust/687714/",
+    "content": "Universities are studying how they lost the public\u2019s trust.",
+    "date": "2026-06-27T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "0799c33896981a4bc3bf5b5d4f4aca03",
     "feed_name": "LRB",
     "title": "The Philosophy of \u2018To the Lighthouse\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
     "content": "Police personnel arrive as people react to the gunshots heard inside the Senate of the Philippines in Manila on Monday.",
     "date": "2026-05-14T00:12:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s Shrinking Ambitions on China",
-    "author": "Ana Swanson",
-    "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html",
-    "content": "When President Trump tried to force China into making concessions last year by threatening extreme tariffs, the tactic backfired, forcing the United States to pare back its goals.",
-    "date": "2026-05-13T23:59:26",
     "category": "NYT"
   }
 ]
