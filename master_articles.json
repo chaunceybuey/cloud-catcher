@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "f4104d5c521529e330dc5acb254275be",
+    "feed_name": "The Atlantic",
+    "title": "France\u2019s Air Conditioning Failure",
+    "author": "Henry Grabar",
+    "link": "https://www.theatlantic.com/ideas/2026/06/france-air-conditioning-failure/687723/",
+    "content": "Millions of people are suffering through the hottest days of their lives with few options.",
+    "date": "2026-06-27T13:14:05",
+    "category": "Magazines"
+  },
+  {
+    "id": "26c4a9ffd898facddb964f7b7def45bc",
+    "feed_name": "The Atlantic",
+    "title": "The Court That Will Believe Absolutely Anything Is \u2018Race-Neutral\u2019",
+    "author": "Adam Serwer",
+    "link": "https://www.theatlantic.com/ideas/2026/06/scotus-asylum-racial-discrimination/687710/",
+    "content": "The majority gives Trump yet more license to discriminate.",
+    "date": "2026-06-27T11:57:14",
+    "category": "Magazines"
+  },
+  {
     "id": "0a1f4631ecf8146dc24146354d6ba996",
     "feed_name": "The Atlantic",
     "title": "Higher Ed Is Very Sorry",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/us/doj-lawsuit-dc-bar-trump.html",
     "content": "Todd Blanche, the acting attorney general, accused the D.C. Bar, which handles complaints of lawyer misconduct, of acting as a \u201cblatantly partisan arm of leftist causes.\u201d",
     "date": "2026-05-14T00:58:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-american-finances-republicans-midterms.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump\u2019s Remark on Americans\u2019 Finances and Iran War Points to GOP Midterm Challenges",
-    "author": "Katie Glueck",
-    "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-american-finances-republicans-midterms.html",
-    "content": "Asked if he was motivated by Americans\u2019 financial woes to make a deal to end the war with Iran, he responded, \u201cNot even a little bit.\u201d",
-    "date": "2026-05-14T00:42:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Chaos in Philippines Senate as Duterte Ally Faces Arrest",
-    "author": "Jason Gutierrez",
-    "link": "https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html",
-    "content": "Police personnel arrive as people react to the gunshots heard inside the Senate of the Philippines in Manila on Monday.",
-    "date": "2026-05-14T00:12:16",
     "category": "NYT"
   }
 ]
