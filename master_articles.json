@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/27/t-magazine/uman-hessel-museum-bard.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Artist Uman\u2019s Technicolor Paintings of Rural Life",
+    "author": "Lauren O\u2019Neill-Butler",
+    "link": "https://www.nytimes.com/2026/06/27/t-magazine/uman-hessel-museum-bard.html",
+    "content": "Ahead of a survey exhibition, Uman discusses skipping art-world functions, living on a farm and making work on the floor.",
+    "date": "2026-06-27T22:05:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234505",
+    "feed_name": "Texas Tribune",
+    "title": "Kendall Scudder wins race to lead Texas Democratic Party into critical midterms",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17369178/texas-democratic-party-chair-kendall-scudder",
+    "content": "Texas Democratic Party Chair Kendall Scudder opens a general session of the Texas Democratic Convention in Corpus Christi on Friday, June 26, 2026.",
+    "date": "2026-06-27T21:25:27",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234477",
     "feed_name": "Texas Tribune",
     "title": "Unease about Talarico\u2019s Black support on display at Texas Democratic Convention",
@@ -19978,25 +19998,5 @@
     "content": "Mass unemployment induced by AI would be unprecedented",
     "date": "2026-05-14T08:58:08",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/arts/television/late-night-trump-china-musk.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Stephen Colbert Slams \u2018Trump\u2019s Fabulous Billionaire Boys Trip\u2019",
-    "author": "Trish Bendix",
-    "link": "https://www.nytimes.com/2026/05/14/arts/television/late-night-trump-china-musk.html",
-    "content": "Late night hosts responded to President Trump\u2019s arrival in Beijing on Wednesday, accompanied by 17 chief executives including Tim Cook and Elon Musk.",
-    "date": "2026-05-14T05:50:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/arts/music/world-cup-halftime-shakira-madonna-bts.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Shakira, Madonna and BTS Are First World Cup Final Halftime Show",
-    "author": "Emmanuel Morgan",
-    "link": "https://www.nytimes.com/2026/05/14/arts/music/world-cup-halftime-shakira-madonna-bts.html",
-    "content": "Shakira recorded the official World Cup song, \u201cDai Dai,\u201d which features the Afrobeats star Burna Boy.",
-    "date": "2026-05-14T05:09:51",
-    "category": "NYT"
   }
 ]
