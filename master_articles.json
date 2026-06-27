@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/27/arts/television/tony-brown-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tony Brown, Host of Public Affairs Show Aimed at Black Audiences, Dies at 93",
+    "author": "Joseph Berger",
+    "link": "https://www.nytimes.com/2026/06/27/arts/television/tony-brown-dead.html",
+    "content": "Tony Brown, left, in 1974, interviewing the civil rights activist William H. Murphy Sr.",
+    "date": "2026-06-27T17:09:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/27/dining/ali-slagles-mushroom-smash-burgers-really-satisfy.html",
     "feed_name": "NYT (Food)",
     "title": "Ali Slagle\u2019s Mushroom Smash Burgers Really Satisfy",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/13/us/politics/nyu-graduation-speaker-free-speech-jonathan-haidt.html",
     "content": "Jonathan Haidt at New York University in 2024.",
     "date": "2026-05-14T02:56:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Judge Orders U.S. to Return Colombian Woman Deported to Congo",
-    "author": "Pranav Baskar",
-    "link": "https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html",
-    "content": "The Colombian woman and other migrants are housed in a hotel outside Kinshasa, the capital of the Democratic Republic of Congo.",
-    "date": "2026-05-14T02:00:43",
     "category": "NYT"
   }
 ]
