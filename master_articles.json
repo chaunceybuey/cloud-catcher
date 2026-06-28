@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/28/dining/these-are-the-cold-noodles-of-the-summer.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "These Are the Cold Noodles of the Summer",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/06/28/dining/these-are-the-cold-noodles-of-the-summer.html",
+    "content": "Melissa Clark\u2019s nutty, gingery take is powerfully delicious.",
+    "date": "2026-06-28T13:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/28/arts/television/the-bear-season-5-recap.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Bear\u2019 Season 5 Recap: What Worked? What Lingers?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
     "content": "Ishmael Reed, 88, an author who has frequently challenged American political culture, at his home in Oakland, Calif. He is writing a play about Elon Musk and other tech billionaires.",
     "date": "2026-05-14T09:02:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/movies/obsession-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Obsession\u2019 Review: I Love You to Death",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/05/14/movies/obsession-review.html",
-    "content": "Inde Navarrette, left, with Michael Johnston in \u201cObsession.\u201d",
-    "date": "2026-05-14T09:02:36",
     "category": "NYT"
   }
 ]
