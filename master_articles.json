@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/28/arts/television/the-bear-season-5-recap.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Bear\u2019 Season 5 Recap: What Worked? What Lingers?",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/06/28/arts/television/the-bear-season-5-recap.html",
+    "content": "Sydney (Ayo Edebiri) and Carmy (Jeremy Allen White) had a suddenly different dynamic in Season 5 of \u201cThe Bear.\u201d",
+    "date": "2026-06-28T12:03:43",
+    "category": "NYT"
+  },
+  {
     "id": "09383b82-5e8e-4ad2-a9fb-9ce49058faf9",
     "feed_name": "Economist",
     "title": "China cracks down on rule-bending offshore investments",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/14/movies/obsession-review.html",
     "content": "Inde Navarrette, left, with Michael Johnston in \u201cObsession.\u201d",
     "date": "2026-05-14T09:02:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/movies/magic-hour-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Magic Hour\u2019 Review: Grief Encounters",
-    "author": "Natalia Winkelman",
-    "link": "https://www.nytimes.com/2026/05/14/movies/magic-hour-review.html",
-    "content": "Katie Aselton\u2019s melodrama follows a woman in the California desert who is reeling after a mysterious marriage conflict.",
-    "date": "2026-05-14T09:02:31",
     "category": "NYT"
   }
 ]
