@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Supergirl\u2019 Falters at the Box Office, Testing DC Studios\u2019 Reboot",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html",
+    "content": "Overall, ticket sales for the weekend were up 21 percent from last year. But the expensive \u201cSupergirl\u201d debuted as a disappointing second, with an estimated $38 million.",
+    "date": "2026-06-28T18:07:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/28/dining/five-bright-and-summery-recipes-for-lazy-vacation-days.html",
     "feed_name": "NYT (Food)",
     "title": "Five Bright and Summery Recipes for Lazy Vacation Days",
@@ -19986,16 +19996,6 @@
     "author": "Kayla Guo",
     "link": "https://feeds.texastribune.org/link/16799/17341054/texas-us-senate-gop-runoff-cornyn-paxton-attack-ads-spending",
     "content": "From left: U.S. Sen. John Cornyn, President Donald Trump and Texas Attorney General Ken Paxton. Cornyn and Paxton are locked in a tight runoff for the Republican nomination for Senate; Trump has so far endorsed neither.",
-    "date": "2026-05-14T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=229623",
-    "feed_name": "Texas Tribune",
-    "title": "Here are the megadonors and dark money groups boosting James Talarico\u2019s anti-billionaire Senate bid",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17341055/texas-james-talarico-super-pac-donors-lone-star-rising-dark-money-democratic-billionaires",
-    "content": "State Rep. James Talarico greets supporters at his election night watch party in Austin on March 3, 2026.",
     "date": "2026-05-14T10:00:00",
     "category": "Texas"
   }
