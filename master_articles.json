@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a3e926ca3cf8a288490559f",
+    "feed_name": "Wired (Science)",
+    "title": "This Is the Most Detailed Image Yet of the Milky Way's Center",
+    "author": "Marta Musso",
+    "link": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/",
+    "content": "The Euclid space telescope's stunning photo of our galaxy's \u201ccrowded heart\u201d captures more than 60 million stars.",
+    "date": "2026-06-28T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/28/arts/the-bear-season-5-recap.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Bear\u2019 Season 5 Recap: What Worked? What Questions Linger?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/14/movies/decorado-review.html",
     "content": "A scene from \u201cDecorado.\u201d",
     "date": "2026-05-14T09:02:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/movies/agathas-almanac-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Agatha\u2019s Almanac\u2019 Review: Living Off the Land",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/05/14/movies/agathas-almanac-review.html",
-    "content": "Over six years, a filmmaker captured her aunt\u2019s largely self-sufficient lifestyle and eccentricities on a 54-acre farm in Canada.",
-    "date": "2026-05-14T09:02:13",
     "category": "NYT"
   }
 ]
