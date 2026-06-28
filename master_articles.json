@@ -70,6 +70,16 @@
     "category": "Magazines"
   },
   {
+    "id": "a40b26ee5c027eb24abfa0ab75c6a764",
+    "feed_name": "The Atlantic",
+    "title": "There Are Three Types of AI Users",
+    "author": "David Brooks",
+    "link": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+    "content": "What will differentiate people is not how smart they are but their relationship to mental effort.",
+    "date": "2026-06-28T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a3e926ca3cf8a288490559f",
     "feed_name": "Wired (Science)",
     "title": "This Is the Most Detailed Image Yet of the Milky Way's Center",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/14/movies/magic-hour-review.html",
     "content": "Katie Aselton\u2019s melodrama follows a woman in the California desert who is reeling after a mysterious marriage conflict.",
     "date": "2026-05-14T09:02:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/movies/life-hack-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Life Hack\u2019 Review: A Heist That Never Leaves the Screen",
-    "author": "Chris Azzopardi",
-    "link": "https://www.nytimes.com/2026/05/14/movies/life-hack-review.html",
-    "content": "A group of teenagers seem to be targeting a cryptocurrency billionaire out of boredom, but they have a more sympathetic motive in this hacker film.",
-    "date": "2026-05-14T09:02:23",
     "category": "NYT"
   }
 ]
