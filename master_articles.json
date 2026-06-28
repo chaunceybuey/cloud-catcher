@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/28/dining/five-bright-and-summery-recipes-for-lazy-vacation-days.html",
+    "feed_name": "NYT (Food)",
+    "title": "Five Bright and Summery Recipes for Lazy Vacation Days",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/06/28/dining/five-bright-and-summery-recipes-for-lazy-vacation-days.html",
+    "content": "Mark Bittman\u2019s chicken kebabs with turmeric and chile.",
+    "date": "2026-06-28T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/28/dining/these-are-the-cold-noodles-of-the-summer.html",
     "feed_name": "Weeknight Dishes",
     "title": "These Are the Cold Noodles of the Summer",
@@ -19988,15 +19998,5 @@
     "content": "Or work. Or have opinions.",
     "date": "2026-05-14T09:55:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
-    "feed_name": "Interesting Times",
-    "title": "China Doesn\u2019t Worry About A.I. Like We Do",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/05/14/opinion/china-trump-ai-xi.html",
-    "content": "The difference in perspectives between superpowers is shaping the race for A.I. dominance.",
-    "date": "2026-05-14T09:05:32",
-    "category": "Uncategorized"
   }
 ]
