@@ -70,6 +70,16 @@
     "category": "NYT"
   },
   {
+    "id": "1f22b985da400ed6628eb9d39404ecbb",
+    "feed_name": "The Atlantic",
+    "title": "What the New AC Culture War Is Really About",
+    "author": "Thomas Chatterton Williams",
+    "link": "https://www.theatlantic.com/ideas/2026/06/europe-heat-wave-air-conditioning/687729/",
+    "content": "Underneath the debates raging online is a fundamental divide about how America and Europe address discomfort.",
+    "date": "2026-06-28T12:24:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/28/arts/television/the-bear-season-5-recap.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Bear\u2019 Season 5 Recap: What Worked? What Lingers?",
@@ -78,6 +88,26 @@
     "content": "Sydney (Ayo Edebiri) and Carmy (Jeremy Allen White) had a suddenly different dynamic in Season 5 of \u201cThe Bear.\u201d",
     "date": "2026-06-28T12:03:43",
     "category": "NYT"
+  },
+  {
+    "id": "3ea8e060b6f77ecd9d121e090e27c3ed",
+    "feed_name": "The Atlantic",
+    "title": "The Comfort Democracies Confront the Control States",
+    "author": "Simon Sebag Montefiore",
+    "link": "https://www.theatlantic.com/ideas/2026/06/democracy-history-autocracies-dictatorships/687720/",
+    "content": "Liberal societies need to show they can win\u2014without destroying their own values from within.",
+    "date": "2026-06-28T12:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "07611d8c7465abe9d9694c877cdc5c34",
+    "feed_name": "The Atlantic",
+    "title": "Instagram Is Monetizing Humanity\u2019s Worst Impulses",
+    "author": "Annie Joy Williams",
+    "link": "https://www.theatlantic.com/ideas/2026/06/instagram-story-meta-dating-social-media/687721/",
+    "content": "Drive yourself crazy for the low price of $3.99 a month!",
+    "date": "2026-06-28T11:31:00",
+    "category": "Magazines"
   },
   {
     "id": "09383b82-5e8e-4ad2-a9fb-9ce49058faf9",
@@ -19968,35 +19998,5 @@
     "content": "The difference in perspectives between superpowers is shaping the race for A.I. dominance.",
     "date": "2026-05-14T09:05:32",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Why the Migrant Child Crisis Is Roiling the California Governor Race",
-    "author": "Hannah Dreier",
-    "link": "https://www.nytimes.com/2026/05/14/us/politics/xavier-becerra-migrant-children.html",
-    "content": "Xavier Becerra, the former secretary of Health and Human Services, is campaigning for California governor.",
-    "date": "2026-05-14T09:05:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/arts/music/julieta-venegas-nortena.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Julieta Venegas, a Mexican Pop Hitmaker, Is Looking Homeward",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/05/14/arts/music/julieta-venegas-nortena.html",
-    "content": "On her new album, \u201cNorte\u00f1a,\u201d the singer embraces regional traditions and unlocks her most personal songwriting yet.",
-    "date": "2026-05-14T09:04:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Ishmael Reed Is Writing a Play About Elon Musk",
-    "author": "David Streitfeld",
-    "link": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
-    "content": "Ishmael Reed, 88, an author who has frequently challenged American political culture, at his home in Oakland, Calif. He is writing a play about Elon Musk and other tech billionaires.",
-    "date": "2026-05-14T09:02:52",
-    "category": "NYT"
   }
 ]
