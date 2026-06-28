@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "09383b82-5e8e-4ad2-a9fb-9ce49058faf9",
+    "feed_name": "Economist",
+    "title": "China cracks down on rule-bending offshore investments",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
+    "content": "It wants mainland investors to bet on its own tech dreams not America\u2019s",
+    "date": "2026-06-28T10:33:26",
+    "category": "Magazines"
+  },
+  {
     "id": "6a3e926ca3cf8a288490559f",
     "feed_name": "Wired (Science)",
     "title": "This Is the Most Detailed Image Yet of the Milky Way's Center",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/14/movies/life-hack-review.html",
     "content": "A group of teenagers seem to be targeting a cryptocurrency billionaire out of boredom, but they have a more sympathetic motive in this hacker film.",
     "date": "2026-05-14T09:02:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/movies/decorado-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Decorado\u2019 Review: Cute Mice Meet Cold Orwellian Despair",
-    "author": "Maya Phillips",
-    "link": "https://www.nytimes.com/2026/05/14/movies/decorado-review.html",
-    "content": "A scene from \u201cDecorado.\u201d",
-    "date": "2026-05-14T09:02:18",
     "category": "NYT"
   }
 ]
