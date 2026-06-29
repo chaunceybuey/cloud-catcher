@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/29/arts/television/elle-and-10-more-shows-to-watch-on-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Elle\u2019 and 10 More Shows to Watch on TV this Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/06/29/arts/television/elle-and-10-more-shows-to-watch-on-tv-this-week.html",
+    "content": "Lexi Minetree as Elle Woods in \u201cElle.\u201d",
+    "date": "2026-06-29T05:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/28/arts/television/house-of-the-dragon-recap-episode-2.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018House of the Dragon\u2019 Season 3 Episode 2 Recap: Throne of Blood",
@@ -19988,15 +19998,5 @@
     "content": "<p>An interview with me about the implications of the compute shortage on Aggregation Theory, consumer AI, and more.</p>",
     "date": "2026-05-14T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230077",
-    "feed_name": "Texas Tribune",
-    "title": "Census: As North Texas\u2019 far-flung towns grow, Dallas and its bigger suburbs shrink",
-    "author": "By Joshua Fechter, GRAPHICS BY\u00a0Dan Keemahill",
-    "link": "https://feeds.texastribune.org/link/16799/17341053/texas-dallas-el-paso-arlington-plano-celina-city-population-census",
-    "content": "Downtown Dallas on Feb. 17, 2026.",
-    "date": "2026-05-14T10:00:00",
-    "category": "Texas"
   }
 ]
