@@ -60,6 +60,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8798482#p8798482",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "mhc",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8798482#p8798482",
+    "content": "I have an external bank linked, which has 3 accounts. Fidelity has a note that those 3 accounts are not currently eligible for analysis. The use of the word \"currently\" makes it seem like they may be included in the future. Fortunately, they are very small and do not impact the analysis. <br /><br />The note is accessed through clicking the ? in the Analysis pane.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=25725\">mhc</a> \u2014 Mon Jun 29, 2026 3:16 pm</p><hr />",
+    "date": "2026-06-29T20:16:06",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/29/movies/daveigh-chase-cause-death-aids.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Daveigh Chase, \u2018Lilo & Stitch\u2019 Voice Actor, Died of AIDS, Officials Say",
+    "author": "Matt Stevens",
+    "link": "https://www.nytimes.com/2026/06/29/movies/daveigh-chase-cause-death-aids.html",
+    "content": "The actress Daveigh Chase in 2011. Her father said she was homeless before she died this month in Los Angeles.",
+    "date": "2026-06-29T20:06:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8798473#p8798473",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8798473#p8798473",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Fidelity just removed the Analysis section of their website.  These are the screens where you see your Asset Allocation and which give a a M* nine box breakdown.  They are gone and have been replaced by inferior sections in the Performance pages.<br /><br />The new Performance 'equivalents' are worse and they do not incorporate my externally linked (or manually entered) bank accounts.  The linked accounts from the degraded Full View screens are not supported in the new Performance section, and of course the external accounts added to the Performance section don't show up on the main page or the remaining Full View screens. <br /><br />Numbers are rounded off improperly in places, and not included in others.  Data downloads don't include sums.<br /> <br />If this is also true for externally linked brokerage accounts, then there is no more way to get a full multi vendor portfolio analysis without manually adding them and all of their holdings to the new Performance View.  I can't tell because I have all my brokerage accounts at Fidelity for now.<br /><br />The good news is that with my 3-fund centric simplified portfolio, I don't need to do much analysis anymore.  Thanks Bogleheads!</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I just checked mine and at least in my case the external accounts are incorporated in the totals and percentages.<br />Let me know please if there is anything I can share that will help you figure out what is happening in your case.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Mon Jun 29, 2026 2:58 pm</p><hr />",
+    "date": "2026-06-29T19:58:23",
+    "category": "Finance"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/how-to-make-crunchy-butter-rice-cakes",
+    "feed_name": "NYT (Food)",
+    "title": "How to Make Crunchy Butter Rice Cakes",
+    "author": "Kayla Hoang",
+    "link": "https://cooking.nytimes.com/article/how-to-make-crunchy-butter-rice-cakes",
+    "content": "Here\u2019s our home-cook-friendly recipe.",
+    "date": "2026-06-29T19:48:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8798400#p8798400",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19958,45 +19998,5 @@
     "content": "About 2,890 cases had been reviewed or were still being assessed by the new unit under U.S. Citizenship and Immigration Services as of May 7.",
     "date": "2026-05-14T19:58:36",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/t-magazine/matt-dillon-art-painting.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Matt Dillon\u2019s Lesser-Known Life as a Visual Artist",
-    "author": "Max Lakin",
-    "link": "https://www.nytimes.com/2026/05/13/t-magazine/matt-dillon-art-painting.html",
-    "content": "The actor\u2019s large scale, Neo-Expressionist-inspired paintings are now on view in New York.",
-    "date": "2026-05-14T19:56:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/summer-meals-bucket-list",
-    "feed_name": "NYT (Food)",
-    "title": "24 Recipes to Cook This Summer",
-    "author": "Krysten Chambrot",
-    "link": "https://cooking.nytimes.com/article/summer-meals-bucket-list",
-    "content": "There\u2019s no mixer required for this olive oil cake.",
-    "date": "2026-05-14T19:54:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/arts/design/independent-art-fair-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Six Unforgettable Artists at the Biggest Independent Fair",
-    "author": "Will Heinrich",
-    "link": "https://www.nytimes.com/2026/05/14/arts/design/independent-art-fair-review.html",
-    "content": "A dependably stylish fair expands and reappears on the far side of Chinatown.",
-    "date": "2026-05-14T19:20:25",
-    "category": "NYT"
-  },
-  {
-    "id": "1c1e0d55528729951ff996f5ba532b66",
-    "feed_name": "Texas Trib",
-    "title": "Federal court allows Texas immigration law to take effect, continuing legal seesaw",
-    "author": "Alex Nguyen",
-    "link": "https://www.texastribune.org/2026/05/14/texas-immigration-law-state-police-arrests-sb4-halt/",
-    "content": "",
-    "date": "2026-05-14T18:49:04",
-    "category": "Texas"
   }
 ]
