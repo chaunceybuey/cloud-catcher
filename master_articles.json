@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a3db00dba0b44838affabce",
+    "feed_name": "Wired (Science)",
+    "title": "The Anti-Data-Center Movement Is Reshaping Michigan Politics",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/anti-data-center-movement-reshaping-michigan-politics/",
+    "content": "Climate activist Will Lawrence cofounded the Sunrise Movement. Now, he has shifted his focus in his attempt to compete for a swing-district seat by calling for a data center moratorium.",
+    "date": "2026-06-29T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234403",
     "feed_name": "Texas Tribune",
     "title": "Texas cities forced to remove rainbow crosswalks are installing colorful alternatives",
@@ -88,6 +98,16 @@
     "content": "<p class=\"wp-block-paragraph\">Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Monday, July 6.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"http://dithering.fm/\">Dithering</a>,&nbsp;<a href=\"http://sharptech.fm/\">Sharp Tech</a>, and&nbsp;<a href=\"http://sharpchina.fm/\">Sharp China</a>&nbsp;will also return the week of July 6.&nbsp;<a href=\"https://goat.passport.online/member\">Greatest of All Talk</a>&nbsp;and&nbsp;<a href=\"https://asianometry.passport.online/member\">Asianometry&nbsp;</a>will continue to publish.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The full Stratechery posting schedule is&nbsp;<a href=\"https://stratechery.com/daily-update/daily-update-schedule/\">here</a>.</p>",
     "date": "2026-06-29T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234319",
+    "feed_name": "Texas Tribune",
+    "title": "Maternal health \u2018deserts\u2019 endanger some Texas women, babies",
+    "author": "By Sandy West,\u00a0Public Health Watch",
+    "link": "https://feeds.texastribune.org/link/16799/17369632/texas-labor-delivery-obgyn-hospital-rural-desert",
+    "content": "Sarah Gipson sits for a photo with her 1-year-old daughter Whitlee, who was born in 2024 in Nacogdoches after complications during pregnancy forced an early delivery.",
+    "date": "2026-06-29T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/06/29/arts/dance/rosalia-lux-tour-ballet-charm-ladonna.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/14/books/judith-barnard-dead.html",
     "content": "Judith Barnard in 1999 with her husband and collaborator, Michael Fain. The couple published 11 novels, starting with \u201cDeceptions,\u201d an out-of-nowhere hit, in 1982.",
     "date": "2026-05-14T14:33:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/13/books/koji-suzuki-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Koji Suzuki, Whose Horror Novels Inspired \u2018Ring\u2019 Movies, Dies at 68",
-    "author": "Jer\u00e9 Longman",
-    "link": "https://www.nytimes.com/2026/05/13/books/koji-suzuki-dead.html",
-    "content": "Koji Suzuki in 2004. Although his horror fiction made him wealthy, he was not a fan of the genre: \u201cI really dislike most horror writing,\u201d he told The New York Times.",
-    "date": "2026-05-14T14:06:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/theater/broadway-tony-salesman-schmigadoon-radcliffe-henson.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How the Stars of 6 Tony-Nominated Broadway Shows Get Into Character",
-    "author": "Michael Paulson, George Etheredge, Amir Hamja and Vincent Tullo",
-    "link": "https://www.nytimes.com/2026/05/14/theater/broadway-tony-salesman-schmigadoon-radcliffe-henson.html",
-    "content": "For Nathan Lane, Taraji P. Henson, Daniel Radcliffe and other actors, it can take wigs, group hugs or banishing ghosts to make the transformation.",
-    "date": "2026-05-14T13:20:44",
     "category": "NYT"
   }
 ]
