@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/29/dining/getting-my-greens-with-this-satisfying-broccoli-salad.html",
+    "feed_name": "NYT (Food)",
+    "title": "Getting My Greens With This Satisfying Broccoli Salad",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/06/29/dining/getting-my-greens-with-this-satisfying-broccoli-salad.html",
+    "content": "Kay Chun\u2019s ginger scallion broccoli salad.",
+    "date": "2026-06-29T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "9f182409b4695a1f56190b9582c56b8f",
     "feed_name": "New Yorker",
     "title": "The Artistry of Tarot",
@@ -19988,15 +19998,5 @@
     "content": "Lacy Lakeview Mayor Chuck Wilson congratulates newly elected Council Member Amy Gage on May 12, 2026. Gage ran on an anti-data center platform and was the top vote-getter in the May 2 election.",
     "date": "2026-05-14T18:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "43311c80296f8d0525573b72b1393579",
-    "feed_name": "LRB",
-    "title": "Plague Ships",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/may/plague-ships",
-    "content": "A hantavirus outbreak is extremely unexpected. Part of the confusion in press coverage has arisen from the messiness of viral classification.\u00a0.\u00a0.",
-    "date": "2026-05-14T17:53:50",
-    "category": "Magazines"
   }
 ]
