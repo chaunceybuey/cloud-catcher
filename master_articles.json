@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234403",
+    "feed_name": "Texas Tribune",
+    "title": "Texas cities forced to remove rainbow crosswalks are installing colorful alternatives",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17369612/texas-rainbow-crosswalk-alternatives-austin-mural-el-paso-dallas",
+    "content": "Attendees paint in hearts on a new mural on 4th Street on June 20, 2026 to commemorate the spot where the rainbow crosswalk will soon be removed in Austin. The removal comes after the Texas Department of Transportation issued a letter to remove any artwork on roadways.",
+    "date": "2026-06-29T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "6a10b0dd6e47ced150ad32db",
+    "feed_name": "Wired",
+    "title": "I Found Jesus at a Drone Show",
+    "author": "Sheon Han",
+    "link": "https://www.wired.com/story/i-found-jesus-at-a-drone-show/",
+    "content": "Drone shows are the new fireworks\u2014and possibly a new kind of religion. I traveled to Texas to be converted.",
+    "date": "2026-06-29T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19399",
+    "feed_name": "Stratechery",
+    "title": "Summer Break: Week of June 29",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/summer-break-week-of-june-29/",
+    "content": "<p class=\"wp-block-paragraph\">Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Monday, July 6.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"http://dithering.fm/\">Dithering</a>,&nbsp;<a href=\"http://sharptech.fm/\">Sharp Tech</a>, and&nbsp;<a href=\"http://sharpchina.fm/\">Sharp China</a>&nbsp;will also return the week of July 6.&nbsp;<a href=\"https://goat.passport.online/member\">Greatest of All Talk</a>&nbsp;and&nbsp;<a href=\"https://asianometry.passport.online/member\">Asianometry&nbsp;</a>will continue to publish.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The full Stratechery posting schedule is&nbsp;<a href=\"https://stratechery.com/daily-update/daily-update-schedule/\">here</a>.</p>",
+    "date": "2026-06-29T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/29/arts/dance/rosalia-lux-tour-ballet-charm-ladonna.html",
     "feed_name": "NYT (Arts)",
     "title": "On the \u2018Lux Tour\u2019, Rosal\u00eda Shape Shifts Through Dance",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/14/theater/broadway-tony-salesman-schmigadoon-radcliffe-henson.html",
     "content": "For Nathan Lane, Taraji P. Henson, Daniel Radcliffe and other actors, it can take wigs, group hugs or banishing ghosts to make the transformation.",
     "date": "2026-05-14T13:20:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html",
-    "feed_name": "NYT (Shared)",
-    "title": "What People in China Say of Trump",
-    "author": "Ana Swanson",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html",
-    "content": "President Trump at the state banquet in Beijing on Thursday.",
-    "date": "2026-05-14T13:17:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/arts/music/national-recording-registry-beyonce-taylor-swift.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Beyonc\u00e9 and Taylor Swift Join National Recording Registry",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/05/14/arts/music/national-recording-registry-beyonce-taylor-swift.html",
-    "content": "Taylor Swift\u2019s album \u201c1989\u201d is entering the National Recording Registry, along with Beyonc\u00e9\u2019s \u201cSingle Ladies\u201d and 23 other works.",
-    "date": "2026-05-14T13:12:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/t-magazine/nepal-buddha-kathmandu-buddhism.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Life, Death and Rebirth in Nepal, the Land of the Buddha",
-    "author": "Aatish Taseer and Keerthana Kunnath",
-    "link": "https://www.nytimes.com/2026/05/14/t-magazine/nepal-buddha-kathmandu-buddhism.html",
-    "content": "Starting at the birthplace of Buddhism, a writer traces how its teachings spread across Asia, transforming the continent forever.",
-    "date": "2026-05-14T13:09:58",
     "category": "NYT"
   }
 ]
