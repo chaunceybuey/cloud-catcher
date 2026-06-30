@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a42ffe4339b059dfc679188",
+    "feed_name": "Wired (Science)",
+    "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
+    "content": "The maps and images show the extent of destruction and give rescue operations a tool to find any remaining survivors.",
+    "date": "2026-06-30T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/30/arts/music/sly-stone-taylor-swift-msg-wedding.html",
     "feed_name": "NYT (Arts)",
     "title": "When Sly Stone Got Married at M.S.G., He Had 20,000 Fans There With Him",
@@ -19988,15 +19998,5 @@
     "content": "President Trump during the State Banquet on Thursday.",
     "date": "2026-05-15T01:30:47",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230257",
-    "feed_name": "Texas Tribune",
-    "title": "Texas executes 600th inmate since death penalty was reinstated in 1976",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17341590/texas-600-execution-edward-busby-death-penalty",
-    "content": "The Texas execution chamber in Huntsville.",
-    "date": "2026-05-15T01:21:31",
-    "category": "Texas"
   }
 ]
