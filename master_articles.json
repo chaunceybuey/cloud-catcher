@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "54223bd9-7eac-4259-b7e6-b80b4fcab2f3",
+    "feed_name": "Economist",
+    "title": "A new Plaza Accord for global currencies wouldn\u2019t work",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work",
+    "content": "The conditions and will for a deal are not what they were in 1985",
+    "date": "2026-06-30T19:46:45",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234723",
     "feed_name": "Texas Tribune",
     "title": "Bo French said Texas shouldn\u2019t recognize babies born to undocumented parents as American citizens",
@@ -19988,15 +19998,5 @@
     "content": "Authoritarians go after data. The president has already started.",
     "date": "2026-05-15T10:51:36",
     "category": "NYT"
-  },
-  {
-    "id": "6a06444f0de26cede44ad6aa",
-    "feed_name": "Wired (Science)",
-    "title": "Trump's Federal Gas Tax Holiday Isn't Likely to Bring Down Prices",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/why-gas-tax-holiday-is-risky-idea/",
-    "content": "Reducing the fee will only have a marginal impact on prices while depriving the government of revenue to maintain roads.",
-    "date": "2026-05-15T10:30:00",
-    "category": "Magazines"
   }
 ]
