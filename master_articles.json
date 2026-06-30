@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/30/arts/design/met-returns-looted-artifacts-95-million.html",
+    "feed_name": "NYT (Arts)",
+    "title": "With New Seizures, Value of the Met\u2019s Looted Artifacts Tops $95 Million",
+    "author": "Graham Bowley and Tom Mashberg",
+    "link": "https://www.nytimes.com/2026/06/30/arts/design/met-returns-looted-artifacts-95-million.html",
+    "content": "The Manhattan district attorney\u2019s office said it secured the return of dozens of ancient artifacts in June, after a process that the museum described as collaborative.",
+    "date": "2026-06-30T14:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "568b7df6328415c9938ac79bdc0b3ba5",
     "feed_name": "LRB",
     "title": "\u2018Release the tapes\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html",
     "content": "The necropolis of Oxyrhynchus in Egypt, where a nonroyal mummy was found with some lines on papyrus from Book 2 of Homer\u2019s \u201cIliad.\u201d",
     "date": "2026-05-15T09:01:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/arts/free-concerts-festivals-movies-summer-nyc.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Free Summer Concerts, Festivals and Events in NYC",
-    "author": "Danielle Dowling",
-    "link": "https://www.nytimes.com/2026/05/15/arts/free-concerts-festivals-movies-summer-nyc.html",
-    "content": "In need of good times that don\u2019t cost a dime? You\u2019re in luck: As the weather heats up, the opportunities to have free fun are everywhere in the city. Here are some of our favorites.",
-    "date": "2026-05-15T09:01:35",
     "category": "NYT"
   }
 ]
