@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234645",
+    "feed_name": "Texas Tribune",
+    "title": "U.S. Supreme Court rejects Trump\u2019s attempt to end birthright citizenship",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17370352/texas-supreme-court-birthright-citizenship-ruling-trump",
+    "content": "The Supreme Court of the United States in Washington, D.C. on March 25, 2024.",
+    "date": "2026-06-30T14:44:03",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/30/arts/design/met-returns-looted-artifacts-95-million.html",
     "feed_name": "NYT (Arts)",
     "title": "With New Seizures, Value of the Met\u2019s Looted Artifacts Tops $95 Million",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html",
     "content": "The Department of Health and critical psychiatry activists are hoping to upend 40 years of medical orthodoxy.",
     "date": "2026-05-15T09:01:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "Archaeologists Find Egyptian Mummy Buried With the \u2018Iliad\u2019",
-    "author": "Franz Lidz",
-    "link": "https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html",
-    "content": "The necropolis of Oxyrhynchus in Egypt, where a nonroyal mummy was found with some lines on papyrus from Book 2 of Homer\u2019s \u201cIliad.\u201d",
-    "date": "2026-05-15T09:01:37",
     "category": "NYT"
   }
 ]
