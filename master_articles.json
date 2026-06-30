@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234723",
+    "feed_name": "Texas Tribune",
+    "title": "Bo French said Texas shouldn\u2019t recognize babies born to undocumented parents as American citizens",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17370507/bo-french-decries-birthright-citizenship-ruling",
+    "content": "Bo French, Republican nominee for Texas Railroad Commissioner, speaks at the second general assembly of the 2026 Texas State Republican Convention in Houston while standing for the Pledge of Allegiance and the Texas state pledge on June 12, 2026.",
+    "date": "2026-06-30T19:00:58",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234712",
+    "feed_name": "Texas Tribune",
+    "title": "Catholic bishop seeks information on \u201cwildly disturbing\u201d ICE arrest of nun walking to South Texas church",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17370508/texas-mcallen-nun-ice-detention-sister-letty",
+    "content": "Sister Leticia \u201cLetty\u201d Ugboaja was detained by U.S. Immigration and Customs Enforcement officials in McAllen.",
+    "date": "2026-06-30T18:27:21",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/30/arts/music/amplifier-newsletter-madison-square-garden-live.html",
     "feed_name": "NYT (Arts)",
     "title": "7 Songs Recorded Live at Madison Square Garden",
@@ -19978,25 +19998,5 @@
     "content": "Reducing the fee will only have a marginal impact on prices while depriving the government of revenue to maintain roads.",
     "date": "2026-05-15T10:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8763099#p8763099",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "LadyGeek",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8763099#p8763099",
-    "content": "I merged Kimchi2's thread into the ongoing discussion.<br /><br />(Thanks to the member who reported the post and provided a link to this thread.)<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=11675\">LadyGeek</a> \u2014 Fri May 15, 2026 5:16 am</p><hr />",
-    "date": "2026-05-15T10:16:14",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230190",
-    "feed_name": "Texas Tribune",
-    "title": "Seesaw rulings on Texas\u2019 smokeable hemp ban is bad for business, retailers say",
-    "author": "Paul Cobler",
-    "link": "https://feeds.texastribune.org/link/16799/17341794/texas-smokeable-hemp-ban-lawsuit-smoke-shop",
-    "content": "Robin Scoville helps a customer purchasing flower at Austin Vape &amp; Smoke in Austin on May 13, 2026.",
-    "date": "2026-05-15T10:00:00",
-    "category": "Texas"
   }
 ]
