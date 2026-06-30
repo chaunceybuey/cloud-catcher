@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234816",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi declines to seek federal grant for long-debated water desalination plant",
+    "author": "Chuck Lindell and Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17370668/texas-corpus-christi-desalination-plant-federal-grant",
+    "content": "A community member speaks against desalination during a Corpus Christi City Council meeting on June 2, 2026.",
+    "date": "2026-06-30T23:40:03",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234811",
+    "feed_name": "Texas Tribune",
+    "title": "Gov. Greg Abbott calls for ban on data center development in rural Texas neighborhoods",
+    "author": "Taylor Goldenstein and Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17370669/texas-abbott-data-center-development-ban-rural-communities",
+    "content": "Gov. Greg Abbott speaks at the George R. Brown Convention Center in Houston during the 2026 Texas State Republican Convention on June 12, 2026.",
+    "date": "2026-06-30T23:39:51",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234682",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Can Ted Cruz save college sports?",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17370670/tribcast-ted-cruz-college-sports",
+    "content": "Chairman Sen. Ted Cruz and ranking member Sen. Maria Cantwell , D-Washington, talk before the start of the Senate Commerce, Science and Transportation Committee markup of the &quot;Protect College Sports Act of 2026&quot; in the Russell Senate Office Building on Thursday, June 18, 2026.",
+    "date": "2026-06-30T22:40:37",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/30/style/john-loring-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "John Loring, Longtime Design Director at Tiffany & Company, Dies at 86",
@@ -19968,35 +19998,5 @@
     "content": "The commencement speech is a ritual act, not an expressive one.",
     "date": "2026-05-15T13:07:22",
     "category": "Magazines"
-  },
-  {
-    "id": "57e5147eaed34c6e5fadba55cf3bc228",
-    "feed_name": "Compact",
-    "title": "Did Christianity Inspire North Korea?",
-    "author": "",
-    "link": "https://www.compactmag.com/article/did-christianity-inspire-north-korea/",
-    "content": "",
-    "date": "2026-05-15T12:55:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/opinion/ezra-klein-podcast-pema-chodron.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "This Is Why I Find Pema Ch\u00f6dr\u00f6n So Essential",
-    "author": "Ezra Klein and Kristin Lin",
-    "link": "https://www.nytimes.com/2026/05/15/opinion/ezra-klein-podcast-pema-chodron.html",
-    "content": "The 89-year-old Buddhist nun teaches the power of agreeing with your anxiety, instead of trying to run from it.",
-    "date": "2026-05-15T12:38:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/movies/five-free-movies-to-stream-now.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five Free Movies to Stream Now",
-    "author": "Brandon Yu",
-    "link": "https://www.nytimes.com/2026/05/15/movies/five-free-movies-to-stream-now.html",
-    "content": "This month\u2019s collection, including Richard Linklater\u2019s \u201cBefore\u201d trilogy, heralds the blooming of love, and all the turmoil that comes with it.",
-    "date": "2026-05-15T12:17:53",
-    "category": "NYT"
   }
 ]
