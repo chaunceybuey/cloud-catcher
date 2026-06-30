@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/30/style/john-loring-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "John Loring, Longtime Design Director at Tiffany & Company, Dies at 86",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/06/30/style/john-loring-dead.html",
+    "content": "John Loring in 2008. In 1979, he became the design director at Tiffany, a position he held for the next 30 years.",
+    "date": "2026-06-30T22:14:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234770",
+    "feed_name": "Texas Tribune",
+    "title": "Dallas will furlough 4,200 city employees amid budget gap",
+    "author": "Joshua Fechter",
+    "link": "https://feeds.texastribune.org/link/16799/17370636/dallas-texas-furlough-budget-shortfall",
+    "content": "Flags wave outside the Dallas City Hall in Dallas on July 11, 2024.",
+    "date": "2026-06-30T21:56:41",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/30/dining/brief-restaurant-review-odo-east-village.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Kaiseki in the East Village",
@@ -19978,25 +19998,5 @@
     "content": "This month\u2019s collection, including Richard Linklater\u2019s \u201cBefore\u201d trilogy, heralds the blooming of love, and all the turmoil that comes with it.",
     "date": "2026-05-15T12:17:53",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Revolt Against the Girl Bosses Has Finally Come",
-    "author": "Tressie McMillan Cottom",
-    "link": "https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html",
-    "content": "Some of this country\u2019s most prominent girl bosses sound like they don\u2019t even know how to read the room.",
-    "date": "2026-05-15T11:15:53",
-    "category": "NYT"
-  },
-  {
-    "id": "6a02221c1dac210a45de1794",
-    "feed_name": "Wired (Science)",
-    "title": "Build a Radio Wave Detector With Balls of Aluminum Foil!",
-    "author": "Rhett Allain",
-    "link": "https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/",
-    "content": "Here\u2019s how you can hack together a radio transmitter and receiver out of stuff you have at home\u2014and explore the weirdness of wireless.",
-    "date": "2026-05-15T11:00:00",
-    "category": "Magazines"
   }
 ]
