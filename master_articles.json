@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234605",
+    "feed_name": "Texas Tribune",
+    "title": "Texas education board member threatens to sue colleagues over posts calling her \u201cMarxist\u201d",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17370053/texas-education-board-member-threatens-lawsuit-bullying",
+    "content": "SBOE member Brandon Hall, R-Aledo and Marisa B. Perez-Diaz, D-San Antonio, at the State Board of Education meeting in Austin on Friday, June 26, 2026.",
+    "date": "2026-06-29T22:48:42",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/louisiana-death-row-prisoner-freed-jimmie-duncan",
     "feed_name": "ProPublica",
     "title": "Louisiana Supreme Court Frees Death Row Prisoner, Calling Evidence Against Him \u201cScientifically Indefensible\u201d",
@@ -19988,15 +19998,5 @@
     "content": "The Supreme Court building in Washington, D.C. on Nov. 1, 2021.",
     "date": "2026-05-14T22:15:18",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
-    "feed_name": "NYT (Shared)",
-    "title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
-    "author": "David E. Sanger",
-    "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html",
-    "content": "President Trump with President Xi Jinping of China in Beijing on Thursday.",
-    "date": "2026-05-14T21:46:30",
-    "category": "NYT"
   }
 ]
