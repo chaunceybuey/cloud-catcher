@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/30/movies/great-documentaries-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Three Great Documentaries to Stream",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/06/30/movies/great-documentaries-streaming.html",
+    "content": "David Hockney in the documentary \u201cA Bigger Splash.\u201d",
+    "date": "2026-06-30T15:17:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/30/theater/birthright-review-israel-spector.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Birthright\u2019 Stages a Thrillingly Complex Conversation on Conversation Itself",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/06/30/theater/birthright-review-israel-spector.html",
+    "content": "In \u201cBirthright,\u201d six American Jews, played by, from left, Zo\u00eb Winters, Molly Bernard, Molly Ranson, Nate Mann, Hale Appleman and Eli Gelb, connect while on an organized trip to Israel.",
+    "date": "2026-06-30T15:00:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/30/movies/blake-lively-justin-baldoni-legal-fees.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Blake Lively Seeks $8 Million in Legal Fees in Dispute With Justin Baldoni",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/06/30/movies/blake-lively-justin-baldoni-legal-fees.html",
+    "content": "Blake Lively is seeking more than $8 million in legal fees as part of her continuing legal dispute with Justin Baldoni.",
+    "date": "2026-06-30T14:58:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234645",
     "feed_name": "Texas Tribune",
     "title": "U.S. Supreme Court rejects Trump\u2019s attempt to end birthright citizenship",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/15/movies/new-movies-this-week-critics.html",
     "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
     "date": "2026-05-15T09:02:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/arts/eurovision-final-how-to-watch.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How to Watch the Eurovision Song Contest Final",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/05/15/arts/eurovision-final-how-to-watch.html",
-    "content": "Watching the Eurovision Song Contest at the press center in Rotterdam, the Netherlands, in 2021. The country is boycotting this year\u2019s event.",
-    "date": "2026-05-15T09:01:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/theater/new-born-review-hugh-jackman.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018New Born\u2019 Review: Let Hugh Jackman Tell You a Story",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/2026/05/15/theater/new-born-review-hugh-jackman.html",
-    "content": "Hugh Jackman in \u201cNew Born\u201d at the Minetta Lane Theater in Manhattan.",
-    "date": "2026-05-15T09:01:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html",
-    "feed_name": "NYT (Emailed)",
-    "title": "The Strange Alliance Trying to Remake American Psychiatry",
-    "author": "Daniel Bergner",
-    "link": "https://www.nytimes.com/2026/05/15/magazine/rfk-jr-antidepressants-ssris-psychiatry.html",
-    "content": "The Department of Health and critical psychiatry activists are hoping to upend 40 years of medical orthodoxy.",
-    "date": "2026-05-15T09:01:43",
     "category": "NYT"
   }
 ]
