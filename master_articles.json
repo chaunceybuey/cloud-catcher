@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/01/dining/these-hot-dogs-are-ridiculously-good.html",
+    "feed_name": "NYT (Food)",
+    "title": "These Hot Dogs Are Ridiculously Good",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/07/01/dining/these-hot-dogs-are-ridiculously-good.html",
+    "content": "Tanya Sichynsky\u2019s hot dogs with pico de gallo, adapted by Genevieve Ko.",
+    "date": "2026-07-01T15:00:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/01/theater/18-off-broadway-shows-july.html",
+    "feed_name": "NYT (Arts)",
+    "title": "18 Off and Off Off Broadway Shows to See in July",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/07/01/theater/18-off-broadway-shows-july.html",
+    "content": "From left: Aubrey Matalon, Maya Sistruck, Jamila Sabares-Klemm, Naomi Serrano, Jennifer Nettles, Bre Jackson and Didi Romero in \u201cGiulia: The Poison Queen of Palermo.\u201d",
+    "date": "2026-07-01T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/how-to-make-cabbage-caesar-salad",
+    "feed_name": "NYT (Food)",
+    "title": "Sorry, Romaine. This Ingredient Makes the Best Caesar Salad.",
+    "author": "Melissa Clark",
+    "link": "https://cooking.nytimes.com/article/how-to-make-cabbage-caesar-salad",
+    "content": "Cabbage makes for a salad that\u2019s just as crunchy, but holds up over time.",
+    "date": "2026-07-01T14:55:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/07/dsa-communist-socialist-democrats/687756/",
     "feed_name": "Chait",
     "title": "The DSA\u2019s Communist Revolution",
@@ -538,6 +568,16 @@
     "content": "Sister Leticia \u201cLetty\u201d Ugboaja was detained by U.S. Immigration and Customs Enforcement officials in McAllen.",
     "date": "2026-06-30T18:27:21",
     "category": "Texas"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/salsa-easy-summer-cooking",
+    "feed_name": "NYT (Food)",
+    "title": "This Salsa Makes Summer Cooking Easy",
+    "author": "Kristina Felix",
+    "link": "https://cooking.nytimes.com/article/salsa-easy-summer-cooking",
+    "content": "A spicy, peanutty, sour, sometimes-sweet sauce, salsa macha enhances anything it tops with its signature crunch.",
+    "date": "2026-06-30T18:07:36",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/06/30/arts/music/amplifier-newsletter-madison-square-garden-live.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/eurovision-favorites-betting-prediction-markets",
     "content": "Linda Lampenius, representing Finland, during the first semifinal of the Eurovision Song Contest in Vienna on Tuesday.",
     "date": "2026-05-16T17:01:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/how-a-few-hundred-voters-could-have-swayed-eurovision-results",
-    "feed_name": "NYT (Arts)",
-    "title": "How a few hundred voters could have swayed Eurovision results.",
-    "author": "Alex Marshall and Mara Hvistendahl",
-    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/how-a-few-hundred-voters-could-have-swayed-eurovision-results",
-    "content": "Watching a screening of the Eurovision Song Contest at a community center in Tel Aviv last year.",
-    "date": "2026-05-16T16:55:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/16/style/tefaf-auction-nyc-art.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Oysters, Champagne and Billionaires Buying Art",
-    "author": "Guy Trebay",
-    "link": "https://www.nytimes.com/2026/05/16/style/tefaf-auction-nyc-art.html",
-    "content": "When the European Fine Art Foundation alights in Manhattan, it\u2019s something like a billionaire version of the classic television game show \u201cSupermarket Sweep.\u201d",
-    "date": "2026-05-16T13:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html",
-    "feed_name": "Douthat",
-    "title": "China\u2019s Peak Is Now",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html",
-    "content": "Does Xi Jinping see the world this way?",
-    "date": "2026-05-16T11:28:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/arts/music/rainelle-krause-queen-night-soprano.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Soprano Rainelle Krause's Death is a Loss of More Than Just a Role",
-    "author": "David Belcher",
-    "link": "https://www.nytimes.com/2026/05/15/arts/music/rainelle-krause-queen-night-soprano.html",
-    "content": "The coloratura soprano Rainelle Krause, who died in March, was one of the most sought after performers of Queen of the Night in \u2018The Magic Flute.\u2019",
-    "date": "2026-05-16T11:10:30",
     "category": "NYT"
   }
 ]
