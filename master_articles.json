@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/01/arts/music/tay-keith-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "8 Essential Songs Produced by Tay Keith",
+    "author": "Brian Josephs",
+    "link": "https://www.nytimes.com/2026/07/01/arts/music/tay-keith-songs.html",
+    "content": "Tay Keith produced four No. 1 hits before his death.",
+    "date": "2026-07-01T15:45:58",
+    "category": "NYT"
+  },
+  {
+    "id": "ce8beb461a56ea13e29d909850561e98",
+    "feed_name": "LRB",
+    "title": "On Politics: The Andy Burnham Show",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-andy-burnham-show",
+    "content": "Andy Burnham will soon become the UK\u2019s seventh prime minister since 2010 and will face many of the same problems that defeated his predecessors, not least the UK\u2019s stubbornly weak economy. To dissect the collapse of the Starmer project and the prospects for a Burnham administration, James is joined by Patrick Maguire, chief political commentator for theTimes, and William Davies, a...",
+    "date": "2026-07-01T15:43:31",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/01/dining/these-hot-dogs-are-ridiculously-good.html",
     "feed_name": "NYT (Food)",
     "title": "These Hot Dogs Are Ridiculously Good",
@@ -108,6 +128,16 @@
     "content": "\u201cElle\u201d and \u201cDescendants: Wicked Wonderland\u201d arrive, and new \u201cStar Trek: Strange New Worlds\u201d and \u201cSilo\u201d seasons begin.",
     "date": "2026-07-01T14:09:33",
     "category": "NYT"
+  },
+  {
+    "id": "f46eecd5651e3f8bbec49efdfa3fa656",
+    "feed_name": "The Atlantic",
+    "title": "There\u2019s Nothing Democratic About These Socialists",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/07/dsa-communist-socialist-democrats/687756/",
+    "content": "The DSA was formed in opposition to the very thing it has become.",
+    "date": "2026-07-01T13:53:32",
+    "category": "Magazines"
   },
   {
     "id": "d3cd9f4e72da9bb8b395dc8348ba9254",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/denmark-eurovision-soren",
     "content": "Soren Torpegaard Lund, representing Denmark this year, said that musical theater and Eurovision were \u201cnatural bedfellows.\u201d",
     "date": "2026-05-16T19:19:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/a-times-investigation-tracked-israels-efforts-to-gain-soft-power-from-eurovision",
-    "feed_name": "NYT (Arts)",
-    "title": "A Times investigation tracked Israel\u2019s efforts to gain soft power from Eurovision.",
-    "author": "Mara Hvistendahl and Alex Marshall",
-    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/a-times-investigation-tracked-israels-efforts-to-gain-soft-power-from-eurovision",
-    "content": "Yuval Raphael represented Israel at the Eurovision Song Contest last year.",
-    "date": "2026-05-16T18:26:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/vienna-has-a-rich-pop-music-scene-and-it-isnt-just-rock-me-amadeus",
-    "feed_name": "NYT (Arts)",
-    "title": "Vienna has a rich pop music scene, and it isn\u2019t just \u2018Rock Me Amadeus.\u2019",
-    "author": "Valeriya Safronova",
-    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/vienna-has-a-rich-pop-music-scene-and-it-isnt-just-rock-me-amadeus",
-    "content": "The Austrian rock band Bilderbuch, which has taken up the mantle of Austropop in the last decade.",
-    "date": "2026-05-16T18:25:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/eurovision-favorites-betting-prediction-markets",
-    "feed_name": "NYT (Arts)",
-    "title": "Who Will Win Eurovision? Prediction Markets Have Their Guess.",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/eurovision-favorites-betting-prediction-markets",
-    "content": "Linda Lampenius, representing Finland, during the first semifinal of the Eurovision Song Contest in Vienna on Tuesday.",
-    "date": "2026-05-16T17:01:17",
     "category": "NYT"
   }
 ]
