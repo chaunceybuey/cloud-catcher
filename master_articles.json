@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a4422d27f135fef2ff0c544",
+    "feed_name": "Wired (Science)",
+    "title": "Space Lasers Show How Venezuela\u2019s Earthquakes Reshaped the Earth\u2019s Crust",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/",
+    "content": "New satellite imagery reveals how much terrain has shifted in the wake of the twin quakes.",
+    "date": "2026-07-01T08:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234816",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi declines to seek federal grant for long-debated water desalination plant",
@@ -19988,15 +19998,5 @@
     "content": "Finland is the favorite for prediction markets and bookmakers, but singers from Australia, Denmark, Greece and Israel are coming for the title, too.",
     "date": "2026-05-15T13:11:51",
     "category": "NYT"
-  },
-  {
-    "id": "00930d3d439693a156dd4b1fe0097aca",
-    "feed_name": "The Atlantic",
-    "title": "The Best Graduation Speech Is One Nobody Remembers",
-    "author": "Ian Bogost",
-    "link": "https://www.theatlantic.com/ideas/2026/05/college-graduation-speeches-speaker/687182/",
-    "content": "The commencement speech is a ritual act, not an expressive one.",
-    "date": "2026-05-15T13:07:22",
-    "category": "Magazines"
   }
 ]
