@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/01/arts/music/victor-willis-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Victor Willis, Village People Frontman, Dies at 74",
+    "author": "Alex Marshall and Isabella Kwai",
+    "link": "https://www.nytimes.com/2026/07/01/arts/music/victor-willis-dead.html",
+    "content": "Victor Willis performing with the Village People in Chicago in 1979.",
+    "date": "2026-07-01T11:44:51",
+    "category": "NYT"
+  },
+  {
     "id": "6a3158a8449eb5347818503c",
     "feed_name": "Wired (Science)",
     "title": "Drive Slower, Save Money on Gas. Thanks, Physics!",
@@ -19988,15 +19998,5 @@
     "content": "The director David Frankel narrates a sequence from his film starring Meryl Streep and Anne Hathaway.",
     "date": "2026-05-15T16:57:38",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230341",
-    "feed_name": "Texas Tribune",
-    "title": "Texas town may offer a preview of Trump administration plan to force noncitizens from public housing",
-    "author": "By Valerie Gonzalez,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17342017/texas-port-isabel-public-housing-trump-hud-policy-legal-residents",
-    "content": "A plastic dollhouse sits among a pile of furniture discarded by families in a public housing subdivision in Port Isabel on April 13, 2026.",
-    "date": "2026-05-15T16:45:44",
-    "category": "Texas"
   }
 ]
