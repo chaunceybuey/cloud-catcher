@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234934",
+    "feed_name": "Texas Tribune",
+    "title": "Acting Texas Comptroller Kelly Hancock to resign at end of month",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17371328/texas-comptroller-kelly-hancock-resigns-greg-abbott-don-huffines",
+    "content": "Acting Texas Comptroller Kelly Hancock answers a question during a Republican candidate forum at the Civic Center in Canton on Jan. 17, 2026.",
+    "date": "2026-07-01T21:44:45",
+    "category": "Texas"
+  },
+  {
     "id": "6a4578b4ce1dea785172aaba",
     "feed_name": "Wired (Science)",
     "title": "Mexico\u2019s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
@@ -19988,15 +19998,5 @@
     "content": "Thanks for everyone's past help!<br /><br />Re adding a new domestic wire recipient online with For Further Credit instructions needed.<br /><br />I swear Fidelity allowed this to be done online within the past year or two, but now it doesn't seem to be an option when I try on the website. Anyone else? Am I just missing it somewhere?<br /><br />Thank you!!!<br /><br />EDITED TO ADD: Seems this functionality was removed online <a class=\"postlink\" href=\"https://www.reddit.com/r/fidelityinvestments/comments/1ipheb8/how_can_you_set_up_domestic_wire_from_fidelity_to/\">https://www.reddit.com/r/fidelityinvest ... delity_to/</a><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=98576\">need403bhelp</a> \u2014 Sat May 16, 2026 9:14 pm</p><hr />",
     "date": "2026-05-17T02:14:15",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/16/arts/music/eurovision-song-contest-2026.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Here\u2019s the latest.",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/05/16/arts/music/eurovision-song-contest-2026.html",
-    "content": "",
-    "date": "2026-05-17T00:13:09",
-    "category": "NYT"
   }
 ]
