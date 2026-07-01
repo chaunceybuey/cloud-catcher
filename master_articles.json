@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a4578b4ce1dea785172aaba",
+    "feed_name": "Wired (Science)",
+    "title": "Mexico\u2019s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
+    "content": "Fans\u2019 euphoric reactions to the Mexican national team\u2019s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
+    "date": "2026-07-01T21:34:03",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/01/briefing/the-good-list-ram-dass-handwriting.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 7 Things to Add Joy to Your Day",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/16/arts/music/eurovision-song-contest-2026.html",
     "content": "",
     "date": "2026-05-17T00:13:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/heres-how-the-voting-works",
-    "feed_name": "NYT (Arts)",
-    "title": "Here\u2019s how the voting works.",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/heres-how-the-voting-works",
-    "content": "Jury votes during the final of the 2021 Eurovision Song Contest in Rotterdam, Netherlands.",
-    "date": "2026-05-16T21:51:19",
     "category": "NYT"
   }
 ]
