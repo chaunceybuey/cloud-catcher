@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/01/arts/dance/montpellier-dance-festival-la-horde-apres-moi-le-deluge.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A New Era at the Montpellier Dance Festival",
+    "author": "Roslyn Sulcas",
+    "link": "https://www.nytimes.com/2026/07/01/arts/dance/montpellier-dance-festival-la-horde-apres-moi-le-deluge.html",
+    "content": "The Montpellier dance festival, with new directors for the first time in more than 40 years, featured the wildly popular (La)Horde.",
+    "date": "2026-07-01T16:42:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/01/obituaries/michael-byrne-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Michael Byrne, British Stage Actor, Dies at 86",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/australian-eurovison-delta-goodrem-eclipse",
     "content": "Delta Goodrem, representing Australia, shot to stardom as a teenager in the early 2000s starring in the wildly popular Australian soap opera \u201cNeighbours.\u201d",
     "date": "2026-05-16T19:53:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/greece-akylas-ferto-eurovision",
-    "feed_name": "NYT (Arts)",
-    "title": "Greece\u2019s Akylas wants it all.",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/greece-akylas-ferto-eurovision",
-    "content": "Akylas representing Greece, during a dress rehearsal for the first semifinal with his performance of \u201cFerto.\u201d",
-    "date": "2026-05-16T19:41:25",
     "category": "NYT"
   }
 ]
