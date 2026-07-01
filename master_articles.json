@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/01/arts/television/movies-tv-shows-july-2026-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Movies and TV Shows Coming to Disney+, Amazon, Apple TV, Peacock and More in July",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/07/01/arts/television/movies-tv-shows-july-2026-streaming.html",
+    "content": "\u201cElle\u201d and \u201cDescendants: Wicked Wonderland\u201d arrive, and new \u201cStar Trek: Strange New Worlds\u201d and \u201cSilo\u201d seasons begin.",
+    "date": "2026-07-01T14:09:33",
+    "category": "NYT"
+  },
+  {
     "id": "d3cd9f4e72da9bb8b395dc8348ba9254",
     "feed_name": "LRB",
     "title": "Catherine of Braganza",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/oil-wells-second-life-clean-energy/",
     "content": "States across the US are looking to take major sources of pollution and use them to generate much-needed power.",
     "date": "2026-05-16T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "a0560b166213e4cf8e9246902a56755e",
-    "feed_name": "The Atlantic",
-    "title": "Xi Jinping Was Only Humoring Trump",
-    "author": "Franklin Foer",
-    "link": "https://www.theatlantic.com/ideas/2026/05/trump-lame-duck-superpower/687189/",
-    "content": "In Beijing, a lame-duck president personified the decline of American power.",
-    "date": "2026-05-16T10:00:00",
     "category": "Magazines"
   }
 ]
