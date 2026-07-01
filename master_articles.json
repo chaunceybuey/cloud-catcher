@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234829",
+    "feed_name": "Texas Tribune",
+    "title": "Supreme Court decision loosening campaign finance rules could be boon for Paxton in Senate race",
+    "author": "Kayla Guo and Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17370833/texas-senate-ken-paxton-us-supreme-court-campaign-finance-ruling-coordinate-spending",
+    "content": "Ken Paxton, the Texas attorney general and GOP nominee for U.S. Senate, speaks to delegates and attendees at the 2026 Texas Republican Convention in Houston on June 12, 2026.",
+    "date": "2026-07-01T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234670",
+    "feed_name": "Texas Tribune",
+    "title": "One year after the July 4 flood, Kerr County shows signs of trauma and healing",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17370834/kerr-county-guadalupe-flood-one-year-anniversary-rebuilding",
+    "content": "A cross nailed to a cypress tree along the Guadalupe River in Center Point on June 13, 2026.",
+    "date": "2026-07-01T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234687",
+    "feed_name": "Texas Tribune",
+    "title": "On the upper Texas coast, many petrochemical facilities may not be prepared for fiercer storms",
+    "author": "By Elena Bruess,\u00a0Public Health Watch",
+    "link": "https://feeds.texastribune.org/link/16799/17370835/texas-coast-petrochemical-industry-hurricane-preparedness-planning",
+    "content": "A refinery flaring during rains from Hurricane Harvey in Houston on Aug. 26, 2017.",
+    "date": "2026-07-01T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/01/obituaries/victor-willis-village-people-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Victor Willis, Village People Frontman, Dies at 74",
@@ -19968,35 +19998,5 @@
     "content": "The company announced that its next season would include a slate of five full-length operas at houses around the Washington area.",
     "date": "2026-05-15T16:26:04",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/arts/television/lisa-ann-walter-abbott-elementary-parent-trap.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Lisa Ann Walter of \u2018Abbott Elementary\u2019 Dishes It Out",
-    "author": "Melena Ryzik and Maddy Rotman",
-    "link": "https://www.nytimes.com/2026/05/15/arts/television/lisa-ann-walter-abbott-elementary-parent-trap.html",
-    "content": "\u201cIf I think something is funny, I\u2019ll say it, even if maybe I shouldn\u2019t,\u201d Lisa Ann Walter said.",
-    "date": "2026-05-15T16:22:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/15/arts/music/london-royal-opera-house-curtains.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Replacing a Royal Hand-Me-Down That Finally Frayed",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/05/15/arts/music/london-royal-opera-house-curtains.html",
-    "content": "Three years after King Charles III was crowned, the Royal Opera House in London hung plush new stage curtains bearing the monarch\u2019s insignia \u2014 but only after the old ones gave up the ghost.",
-    "date": "2026-05-15T16:19:41",
-    "category": "NYT"
-  },
-  {
-    "id": "cfca853ab8206d0ba840bdb36fcea02f",
-    "feed_name": "LRB",
-    "title": "\u2018Hate Marches\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/may/hate-marches",
-    "content": "Two marches will assemble in central London tomorrow. One is championing the rights of Palestinians and commemorating 78 years of displacement.\u00a0.\u00a0.",
-    "date": "2026-05-15T15:17:54",
-    "category": "Magazines"
   }
 ]
