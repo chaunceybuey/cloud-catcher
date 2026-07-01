@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "f99605c420deca34309e01d1e7abbe6f",
+    "feed_name": "The Atlantic",
+    "title": "The Supreme Court\u2019s Utterly Mainstream Ruling on Women\u2019s Sports",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/07/supreme-court-trans-student-athletes-womens-sports/687767/",
+    "content": "The justices position themselves at the center of American public opinion.",
+    "date": "2026-07-01T18:18:04",
+    "category": "Magazines"
+  },
+  {
     "id": "a48e7f8028a94787a749f256bfacadc2",
     "feed_name": "LRB",
     "title": "Holly Pester & Luke Roberts:  Caf\u00e9s",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/heres-how-the-voting-works",
     "content": "Jury votes during the final of the 2021 Eurovision Song Contest in Rotterdam, Netherlands.",
     "date": "2026-05-16T21:51:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/as-the-votes-are-cast-its-a-celebration-of-eurovisions-70th-anniversary",
-    "feed_name": "NYT (Arts)",
-    "title": "As the votes are cast, it\u2019s a celebration of Eurovision\u2019s 70th anniversary.",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/as-the-votes-are-cast-its-a-celebration-of-eurovisions-70th-anniversary",
-    "content": "Members of the Finnish band Lordi, which won Eurovision 2006, at a press conference in Vienna this week.",
-    "date": "2026-05-16T21:30:27",
     "category": "NYT"
   }
 ]
