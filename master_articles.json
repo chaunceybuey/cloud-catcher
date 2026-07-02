@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/02/dining/pick-your-cookout-persona-grill-master-or-bartender.html",
+    "feed_name": "NYT (Food)",
+    "title": "Pick Your Cookout Persona: Grill Master or Bartender",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/07/02/dining/pick-your-cookout-persona-grill-master-or-bartender.html",
+    "content": "Alexa Weibel\u2019s grilled mushrooms with chive butter.",
+    "date": "2026-07-02T17:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "a0685daf3dcc761925c3ea0b201ed194",
+    "feed_name": "LRB",
+    "title": "Sex, Poetry and the Turning World: Sarah Howe, Sandeep Parmar and guests",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/sex-poetry-and-the-turning-world-sarah-howe-sandeep-parmar-and-guests-tickets-1989010194033",
+    "content": "",
+    "date": "2026-07-02T16:51:05",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/02/arts/music/gary-glitter-charged.html",
     "feed_name": "NYT (Arts)",
     "title": "Gary Glitter Is Charged With Assaulting a Young Girl in the 1970s",
@@ -117,6 +137,16 @@
     "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
     "content": "We used artificial intelligence to test the accuracy of our forecasts",
     "date": "2026-07-02T14:22:37",
+    "category": "Magazines"
+  },
+  {
+    "id": "7361691b4acbee679badffb6db27ac27",
+    "feed_name": "The Atlantic",
+    "title": "Pete Buttigieg\u2019s Ordeal Is a Frightening New Form of Political Harassment",
+    "author": "Quinta Jurecic",
+    "link": "https://www.theatlantic.com/ideas/2026/07/buttigieg-cps-michigan-harassment/687776/",
+    "content": "Even in these unimaginative days, Americans are still capable of innovations in cruelty.",
+    "date": "2026-07-02T14:11:36",
     "category": "Magazines"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "It wasn\u2019t the speakers onstage.",
     "date": "2026-05-18T20:00:36",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/17/arts/music/isabel-leonard-frida-y-diego-met.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Isabel Leonard and Others Offer Tastings of \u2018Frida y Diego\u2019",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/05/17/arts/music/isabel-leonard-frida-y-diego-met.html",
-    "content": "Isabel Leonard as Frida Kahlo in a rehearsal of the opera \u201cEl \u00daltimo Sue\u00f1o de Frida y Diego.\u201d This excerpt was an intermission entertainment at a Met Live program of \u201cEugene Onegin\u201d at movie theaters.",
-    "date": "2026-05-18T19:24:07",
-    "category": "NYT"
-  },
-  {
-    "id": "27235a5f-1ba1-47a2-84ee-cbc65616751a",
-    "feed_name": "Economist",
-    "title": "How much is Donald Trump costing America\u2019s economy?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/18/how-much-is-donald-trump-costing-americas-economy",
-    "content": "We calculate the drag on growth from fitful presidential policymaking",
-    "date": "2026-05-18T18:43:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/arts/music/bulgaria-eurovision-europe.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Bulgaria Hopes Eurovision Win Will Show Its Strength as a Continental Player",
-    "author": "Amelia Nierenberg and Boryana Dzhambazova",
-    "link": "https://www.nytimes.com/2026/05/18/arts/music/bulgaria-eurovision-europe.html",
-    "content": "Dara, who represented Bulgaria in this year\u2019s Eurovision Song Contest, singing during the grand final in Vienna on Saturday night.",
-    "date": "2026-05-18T17:51:29",
-    "category": "NYT"
   }
 ]
