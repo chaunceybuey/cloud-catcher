@@ -160,6 +160,16 @@
     "category": "Magazines"
   },
   {
+    "id": "9280afd9d69b770bc76590544d3ea2e1",
+    "feed_name": "The Atlantic",
+    "title": "What Would Mark Twain Think of America at 250?",
+    "author": "Ron Chernow",
+    "link": "https://www.theatlantic.com/ideas/2026/07/mark-twain-america-anniversary-critique/687718/",
+    "content": "The country\u2019s greatest satirist loved technology and hated corruption. He\u2019d have plenty to say about both in 2026.",
+    "date": "2026-07-02T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/07/23/when-india-reinvented-prints-divine-color-household-gods/",
     "feed_name": "NYRB",
     "title": "When India Reinvented Prints",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/17/arts/dance/robert-rauschenberg-choreography-pelican.html",
     "content": "For a short time, Rauschenberg made dances. He used roller skates, pointe shoes and parachute wings for \u201cPelican\u201d (1963), now reimagined by Trisha Brown\u2019s company.",
     "date": "2026-05-18T16:22:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/17/dining/chicken-paprikash-generously-buttered-egg-noodles-and-a-cucumber-salad.html",
-    "feed_name": "NYT (Food)",
-    "title": "Chicken Paprikash, Generously Buttered Egg Noodles and a Cucumber Salad",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/05/17/dining/chicken-paprikash-generously-buttered-egg-noodles-and-a-cucumber-salad.html",
-    "content": "Sam Sifton\u2019s chicken paprikash.",
-    "date": "2026-05-18T15:38:51",
     "category": "NYT"
   }
 ]
