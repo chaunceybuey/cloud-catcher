@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "721106fd-2771-43d0-a0d4-7c193bd8abae",
+    "feed_name": "Economist",
+    "title": "Is The Economist always wrong?",
+    "author": "",
+    "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+    "content": "We used artificial intelligence to test the accuracy of our forecasts",
+    "date": "2026-07-02T14:22:37",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/07/23/the-new-ellis-island-el-paso-jazmine-ulloa/",
     "feed_name": "NYRB",
     "title": "The New Ellis Island",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/18/books/enemies-to-lovers-romance-emily-henry.html",
     "content": "The best-selling author recommends books by Sally Thorne, Jasmine Guillory and more where the line between nemeses and soul mates becomes deliciously flimsy.",
     "date": "2026-05-18T16:31:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/theater/schmigadoon-broadway-music.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How the Music of \u2018Schmigadoon!\u2019 Echoes Broadway\u2019s Past",
-    "author": "Alexis Soloski",
-    "link": "https://www.nytimes.com/2026/05/18/theater/schmigadoon-broadway-music.html",
-    "content": "\u201cSchmigadoon!,\u201d a musical satire adapted from the 2021 AppleTV+ series, is now playing at the Nederlander Theater in Manhattan.",
-    "date": "2026-05-18T16:25:55",
     "category": "NYT"
   }
 ]
