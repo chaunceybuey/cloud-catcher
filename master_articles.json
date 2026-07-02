@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a3c5cef1e85d61983a07bdb",
+    "feed_name": "Wired (Science)",
+    "title": "How Trump Helped China Make America\u2019s Cheapest EV",
+    "author": "Aarian Marshall",
+    "link": "https://www.wired.com/story/how-trump-helped-china-make-slate-americas-cheapest-ev/",
+    "content": "Slate is the latest automaker to transition to lower-cost batteries perfected in China, driven in part by the repeal of EV tax credits that required materials to be sourced domestically.",
+    "date": "2026-07-02T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234896",
     "feed_name": "Texas Tribune",
     "title": "River authority\u2019s budget woes are another blow to water-needy Corpus Christi",
@@ -19988,15 +19998,5 @@
     "content": "The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became US health policy chief, most vaccine scientists tended to ignore it. Now they can\u2019t.",
     "date": "2026-05-18T09:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/arts/television/in-the-city-things-to-watch-on-tv-this-week.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018In the City,\u2019 and 7 More Things to Watch on TV This Week",
-    "author": "Shivani Gonzalez",
-    "link": "https://www.nytimes.com/2026/05/18/arts/television/in-the-city-things-to-watch-on-tv-this-week.html",
-    "content": "Lindsay Hubbard, center, who appeared on \u201cSummer House,\u201d is starring in a new reality series, \u201cIn the City.\u201d",
-    "date": "2026-05-18T05:00:04",
-    "category": "NYT"
   }
 ]
