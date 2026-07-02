@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8800871#p8800871",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "bbrock",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8800871#p8800871",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Consider this a PSA:  don't balance your checkbook before 8 AM for a Fido CMA account.<br />We use the CMA as a checking account w lots of credits and debits over the month.  I keep a google spreadsheet to track balances and see what's coming later in the month.<br /><br />Apparently the Activity &amp; Orders don't always sync with the CMA balance as shown in the left column on the Fido site.<br />I spent an hour?? trying to find the discrepancy between the left column total and my spreadsheet. The I refreshed the page at 8:10 and all's fine.  Nothing changed in the Activity &amp; Orders, only in the CMA total.  It also wasn't a difference that jumped  out at me to be able to say that was the 25 pizzas I prepaid for the 4th.<br /><br />Could it be having a Cash holding and a SPRXX holding in the CMA that update at different times?  I know that weekend transaction don't clear to the CMA till sometime on Monday?  Is there some overnight mystery for Cash v. SPRXX that isn't sync'd until after 8 AM for the combined CMA holdings?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Even simpler heartwood, keep minimum of 6 mo living expenses in your CMA and choose FRSXX as your MM fund. Quit wasting time checking and updating a manual register or Google spreadsheet. If you must check, just look at the activities page periodically. And be done and move on. When your balance is dropping low, transfer in XX amount of funds.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=15995\">bbrock</a> \u2014 Thu Jul 02, 2026 3:37 pm</p><hr />",
+    "date": "2026-07-02T20:37:55",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/02/dining/sandwich-of-the-summer-piadina.html",
     "feed_name": "NYT (Food)",
     "title": "This Is the Sandwich of the Summer",
@@ -1147,6 +1157,16 @@
     "link": "https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/",
     "content": "New satellite imagery reveals how much terrain has shifted in the wake of the twin quakes.",
     "date": "2026-07-01T08:30:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "57ddafb12324201abc5ff85468649f9c",
+    "feed_name": "Outside",
+    "title": "Hot Pools, Waterslides, and Cocktails: Inside Therme\u2019s Plan to Bring Supersized Health Spas to the USA",
+    "author": "Bill Gifford",
+    "link": "https://www.outsideonline.com/health/wellness/therme-spa/",
+    "content": "",
+    "date": "2026-07-01T03:51:21",
     "category": "Magazines"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Joe Tapper, foreground, in \u201cThe Emporium\u201d at the Classic Stage Company in Manhattan.",
     "date": "2026-05-19T01:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230492",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Sen. Brian Birdwell gets U.S. Senate green light for Pentagon post",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17343821/texas-brian-birdwell-assistant-secretary-defense-department",
-    "content": "State Sen. Brian Birdwell, R-Granbury, listens to testimony during a public hearing on the Senate floor on July 22, 2025 in Austin.",
-    "date": "2026-05-19T00:11:38",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.propublica.org/article/trump-immigration-child-parent-separation-estimates-brookings",
-    "feed_name": "ProPublica",
-    "title": "More Than 100,000 American Kids Have Had a Parent Detained in Immigration Sweeps, Report Estimates",
-    "author": "Mica Rosenberg",
-    "link": "https://www.propublica.org/article/trump-immigration-child-parent-separation-estimates-brookings",
-    "content": "<figure><img alt=\"A young boy in a blue and gray hoodie stands in a parking lot at night, holding the hand of an adult in jeans and a gray sweater on the left. Another person in jeans stands on the right next to a white car.\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/ICEFamily_ProPublica_CL_WIDE-48_maxHeight_3000_maxWidth_3000-2.jpg?w=1149\" /><figcaption><small>Volunteers escort a 2-year-old American boy to be reunited with his mother, who awaited deportation in February. Christopher Lee for ProPublica</small></figcaption></figure>\n<p>Far more American children have likely been separated from their parents during immigration sweeps than previously understood, according to a report by the Washington, D.C.-based think tank Brookings.</p>\n\n\n\n<p>The report published Monday estimates <a href=\"https://www.brookings.edu/articles/the-administration-has-detained-400000-immigrants-what-do-we-know-about-their-children/\">more than 100,000 U.S. citizen children</a> have had a parent detained since President Donald Trump\u2019s mass deportation campaign began last year. The analysis cites <a href=\"https://www.propublica.org/article/trump-family-deportations-ice-citizen-kids\">reporting from ProPublica</a> on the detention of parents, which can often lead to family separations.</p>\n\n\n\n<p>During Trump\u2019s first administration, a policy of family separation at the U.S.-Mexico border ended after widespread outrage. Now, the breakup of families is happening amid sweeps by immigration agents across the country.</p>\n\n\n\n<p>About 400,000 people have been detained by immigration agents since Trump returned to office, Brookings noted. But it\u2019s nearly impossible to know how many family separations that has caused, since the administration does not track it.</p>\n\n\n\n<p>Families are also now being split up in ways that are more dispersed, more hidden and harder to track.</p>\n\n\n\n<p>Brookings created its estimate by using census information to approximate the number of children that detainees have. It estimated that roughly 200,000 children, including 145,000 American kids, have had a parent detained. The think tank notes that the actual number could be somewhat higher or lower.</p>\n\n\n\n<p>ProPublica used a different, more conservative, approach that relied on government data obtained through a public information lawsuit by the University of Washington. We found that in just the first seven months of Trump\u2019s second term, at least 11,000 American children had a parent detained. We also found that Trump has been deporting about four times as many mothers of American children per day as President Joe Biden did.</p>\n\n\n\n<p>As we noted, our figures are almost certainly undercounts. For instance, the government data relies on detainees self-reporting whether they have children. In some cases, agents may not ask and parents <a href=\"https://www.womensrefugeecommission.org/research-resources/what-about-my-children-family-separation-among-parents-deported-to-honduras/\">may not share details</a> about their families out of fear of what might happen to their children.</p>\n\n\n\n<p>\u201cThere are a lot of families that are in the situation that are not being written down,\u201d said Tara Watson, one of the authors of the Brookings report. It\u2019s \u201cimportant both for transparency and from a child health and wellbeing perspective to know what&#8217;s happening to the kids. How many of them are leaving the U.S.? How many of them are staying in the U.S. with close family? How many of them do we really not know what their situation is?\u201d</p>\n\n\n\n<p>ProPublica also followed multiple families through their sudden separations and found a wide variety of outcomes for the children.</p>\n\n\n\n<p>Doris Flores, a mother from Honduras, was separated from her breastfeeding infant after Immigration and Customs Enforcement officers arrested her and her fiance at the same time. In the rush to find someone to care for the baby and Flores\u2019 8-year-old daughter, she called on their local pastor to take the children in.</p>\n\n\n\n<p>In response to the Brookings findings, the Department of Homeland Security, which oversees ICE, sent an oft-repeated statement that the agency \u201cdoes not separate families,\u201d adding that parents are asked if they want to be removed with their children or instead to have them placed with a person the parent designates. DHS said this is consistent with the practices of past administrations.</p>\n\n\n\n<p>However, guidelines for ICE officers encountering parents have changed. A document known as the Parental Interests Directive was given a new name under Trump \u2014 the Detained Parents Directive. Its preamble, which once instructed agents to handle immigrant parents in a way that was \u201chumane,\u201d has been stripped of the word.</p>\n<p>The post <a href=\"https://www.propublica.org/article/trump-immigration-child-parent-separation-estimates-brookings\">More Than 100,000 American Kids Have Had a Parent Detained in Immigration Sweeps, Report Estimates</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-05-18T21:45:00",
-    "category": "Magazines"
   }
 ]
