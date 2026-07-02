@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/02/arts/new-york-gallery-surrenders-20-artifacts-thought-looted-from-cambodia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "New York Gallery Surrenders 20 Artifacts Thought Looted From Cambodia",
+    "author": "Tom Mashberg and Graham Bowley",
+    "link": "https://www.nytimes.com/2026/07/02/arts/new-york-gallery-surrenders-20-artifacts-thought-looted-from-cambodia.html",
+    "content": "The Madison Avenue business turned over stone statues and other items that it had purchased from an art dealer accused of trafficking in illicit objects.",
+    "date": "2026-07-02T22:08:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8800909#p8800909",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "EnjoyIt",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8800909#p8800909",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Consider this a PSA:  don't balance your checkbook before 8 AM for a Fido CMA account.<br />We use the CMA as a checking account w lots of credits and debits over the month.  I keep a google spreadsheet to track balances and see what's coming later in the month.<br /><br />Apparently the Activity &amp; Orders don't always sync with the CMA balance as shown in the left column on the Fido site.<br />I spent an hour?? trying to find the discrepancy between the left column total and my spreadsheet. The I refreshed the page at 8:10 and all's fine.  Nothing changed in the Activity &amp; Orders, only in the CMA total.  It also wasn't a difference that jumped  out at me to be able to say that was the 25 pizzas I prepaid for the 4th.<br /><br />Could it be having a Cash holding and a SPRXX holding in the CMA that update at different times?  I know that weekend transaction don't clear to the CMA till sometime on Monday?  Is there some overnight mystery for Cash v. SPRXX that isn't sync'd until after 8 AM for the combined CMA holdings?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Even simpler heartwood, keep minimum of 6 mo living expenses in your CMA and choose FRSXX as your MM fund. Quit wasting time checking and updating a manual register or Google spreadsheet. If you must check, just look at the activities page periodically. And be done and move on. When your balance is dropping low, transfer in XX amount of funds.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I do similar. Once every 3 months I replenish my CMA account with 3 months worth of spending plus a small buffer just in case. <br /><br />Every month I log in and look at transaction to make sure there is no fraud. Every quarter I compare what I spent with my expected budget and jot that down on a running tally spreadsheet. <br /><br />Generally speaking most quarters we are well under budget with every so often large ticket items pop up and average out over the many quarters.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=49988\">EnjoyIt</a> \u2014 Thu Jul 02, 2026 4:56 pm</p><hr />",
+    "date": "2026-07-02T21:56:05",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.propublica.org/article/rape-statute-limitations-dna-evidence-massachusetts",
     "feed_name": "ProPublica",
     "title": "Massachusetts Set to Extend Statute of Limitations for Rape Cases With DNA Evidence",
@@ -19978,25 +19998,5 @@
     "content": "Michael Fassbender and Alicia Vikander at the Cannes news conference for their polarizing film, \u201cHope.\u201d",
     "date": "2026-05-19T04:12:04",
     "category": "NYT"
-  },
-  {
-    "id": "0dd85eaac233d14e5e5a347275e184a1",
-    "feed_name": "Outside",
-    "title": "The Fierce Battle Over the True Height of Mount Rainier",
-    "author": "Peter Frick-Wright",
-    "link": "https://www.outsideonline.com/outdoor-adventure/environment/mount-rainier-height-shrinking/",
-    "content": "",
-    "date": "2026-05-19T03:33:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230366",
-    "feed_name": "Texas Tribune",
-    "title": "Chip Roy gets $2.75 million infusion from GOP megadonor Alex Fairly in attorney general runoff",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17343859/texas-attorney-general-chip-roy-alex-fairly-donation-gop-runoff-mayes-middleton",
-    "content": "Alex Fairly speaks to Amarillo residents about the Range, an advisory group solicited by the Amarillo Economic Development Corporation and its board of directors to cultivate economic development in the Texas Panhandle, during a Conservative Patriots 4 Texas meeting on April 10, 2025, in Amarillo.",
-    "date": "2026-05-19T03:30:00",
-    "category": "Texas"
   }
 ]
