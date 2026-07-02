@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=235048",
+    "feed_name": "Texas Tribune",
+    "title": "Buyouts offered to nearly a quarter of UT Tyler employees amid budget shortfall",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17371953/ut-tyler-texas-university-buyouts",
+    "content": "The University of Texas at Tyler campus.",
+    "date": "2026-07-02T22:14:14",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/02/arts/new-york-gallery-surrenders-20-artifacts-thought-looted-from-cambodia.html",
     "feed_name": "NYT (Arts)",
     "title": "New York Gallery Surrenders 20 Artifacts Thought Looted From Cambodia",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/19/arts/television/jon-stewart-trump-china.html",
     "content": "\u201cHe was gone for a couple of days in China. We were scared,\u201d Stewart said of President Trump on Monday\u2019s \u201cThe Daily Show.\u201d \u201cBut now he\u2019s home, and I\u2019m sure he brought us all the goodies.\u201d",
     "date": "2026-05-19T06:00:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/movies/cannes-film-festival-hope-all-of-a-sudden-paper-tiger.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At Cannes, the Movies Are Divisive and the Arguments Heated",
-    "author": "Kyle Buchanan",
-    "link": "https://www.nytimes.com/2026/05/19/movies/cannes-film-festival-hope-all-of-a-sudden-paper-tiger.html",
-    "content": "Michael Fassbender and Alicia Vikander at the Cannes news conference for their polarizing film, \u201cHope.\u201d",
-    "date": "2026-05-19T04:12:04",
     "category": "NYT"
   }
 ]
