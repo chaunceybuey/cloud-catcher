@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/02/arts/music/gary-glitter-charged.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Gary Glitter Is Charged With Assaulting a Young Girl in the 1970s",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/02/arts/music/gary-glitter-charged.html",
+    "content": "Gary Glitter, whose real name is Paul Gadd, was one of the biggest stars of the glam rock boom of the 1970s, especially thanks to \u201cRock and Roll (Part 2).\u201d",
+    "date": "2026-07-02T15:41:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/02/arts/design/herbert-c-lust-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Herbert Lust, Collector Who Befriended Giacometti, Dies at 99",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/18/arts/dance/megan-fairchild-city-ballet-retiring.html",
     "content": "After \u201cCopp\u00e9lia,\u201d the New York City Ballet star will leave her dancing days behind. \u201cI have an immense amount of peace about this whole thing,\u201d she said.",
     "date": "2026-05-18T16:52:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/books/enemies-to-lovers-romance-emily-henry.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Best Enemies-to-Lovers Romance Books, According to Emily Henry",
-    "author": "Emily Henry",
-    "link": "https://www.nytimes.com/2026/05/18/books/enemies-to-lovers-romance-emily-henry.html",
-    "content": "The best-selling author recommends books by Sally Thorne, Jasmine Guillory and more where the line between nemeses and soul mates becomes deliciously flimsy.",
-    "date": "2026-05-18T16:31:52",
     "category": "NYT"
   }
 ]
