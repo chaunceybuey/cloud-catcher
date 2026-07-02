@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/02/arts/television/netflix-new-july.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Movies and TV Shows Coming to Netflix in July",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/07/02/arts/television/netflix-new-july.html",
+    "content": "A science-fiction thriller with political overtones and a new version of \u201cLittle House on the Prairie\u201d are among this month\u2019s most promising titles.",
+    "date": "2026-07-02T18:53:24",
+    "category": "NYT"
+  },
+  {
     "id": "aa928de88210b3205e38c5b7d2e771fd",
     "feed_name": "LRB",
     "title": "July Late Night Shopping",
@@ -19988,15 +19998,5 @@
     "content": "Texas Attorney General Ken Paxton speaks at Texas Tech University&#039;s chapter of Turning Point USA&#039;s event at Cook&#039;s Garage in Lubbock on Oct. 7, 2025.",
     "date": "2026-05-18T21:36:22",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/17/arts/music/metropolitan-opera-general-manager-peter-gelb.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Inside the Met Opera: Does Peter Gelb Have \u2018the Most Difficult Job on Earth\u2019?",
-    "author": "Adam Nagourney",
-    "link": "https://www.nytimes.com/2026/05/17/arts/music/metropolitan-opera-general-manager-peter-gelb.html",
-    "content": "Peter Gelb, the general manager of the Metropolitan Opera, said he is not going anywhere as he struggles with financial crises and opera\u2019s place in a changing arts landscape.",
-    "date": "2026-05-18T21:34:59",
-    "category": "NYT"
   }
 ]
