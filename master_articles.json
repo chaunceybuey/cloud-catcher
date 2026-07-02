@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8800947#p8800947",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8800947#p8800947",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Consider this a PSA:  don't balance your checkbook before 8 AM for a Fido CMA account.<br />We use the CMA as a checking account w lots of credits and debits over the month.  I keep a google spreadsheet to track balances and see what's coming later in the month.<br /><br />Apparently the Activity &amp; Orders don't always sync with the CMA balance as shown in the left column on the Fido site.<br />I spent an hour?? trying to find the discrepancy between the left column total and my spreadsheet. The I refreshed the page at 8:10 and all's fine.  Nothing changed in the Activity &amp; Orders, only in the CMA total.  It also wasn't a difference that jumped  out at me to be able to say that was the 25 pizzas I prepaid for the 4th.<br /><br />Could it be having a Cash holding and a SPRXX holding in the CMA that update at different times?  I know that weekend transaction don't clear to the CMA till sometime on Monday?  Is there some overnight mystery for Cash v. SPRXX that isn't sync'd until after 8 AM for the combined CMA holdings?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Even simpler heartwood, keep minimum of 6 mo living expenses in your CMA and choose FRSXX as your MM fund. Quit wasting time checking and updating a manual register or Google spreadsheet. If you must check, just look at the activities page periodically. And be done and move on. When your balance is dropping low, transfer in XX amount of funds.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>First you need to seed FRSXX.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Thu Jul 02, 2026 5:52 pm</p><hr />",
+    "date": "2026-07-02T22:52:33",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235048",
     "feed_name": "Texas Tribune",
     "title": "Buyouts offered to nearly a quarter of UT Tyler employees amid budget shortfall",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/eurovision-boycott-spain-iceland-netherlands",
     "content": "A protest in November outside the television studios of RT\u00c9, the Irish state broadcaster, calling for a boycott of the 2026 Eurovision Song Contest if Israel was allowed to participate.",
     "date": "2026-05-19T08:17:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/arts/television/jon-stewart-trump-china.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jon Stewart Asks What \u2018Daddy\u2019 Brought Back From China",
-    "author": "Trish Bendix",
-    "link": "https://www.nytimes.com/2026/05/19/arts/television/jon-stewart-trump-china.html",
-    "content": "\u201cHe was gone for a couple of days in China. We were scared,\u201d Stewart said of President Trump on Monday\u2019s \u201cThe Daily Show.\u201d \u201cBut now he\u2019s home, and I\u2019m sure he brought us all the goodies.\u201d",
-    "date": "2026-05-19T06:00:22",
     "category": "NYT"
   }
 ]
