@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8800421#p8800421",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "heartwood",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8800421#p8800421",
+    "content": "Consider this a PSA:  don't balance your checkbook before 8 AM for a Fido CMA account.<br />We use the CMA as a checking account w lots of credits and debits over the month.  I keep a google spreadsheet to track balances and see what's coming later in the month.<br /><br />Apparently the Activity &amp; Orders don't always sync with the CMA balance as shown in the left column on the Fido site.<br />I spent an hour?? trying to find the discrepancy between the left column total and my spreadsheet. The I refreshed the page at 8:10 and all's fine.  Nothing changed in the Activity &amp; Orders, only in the CMA total.  It also wasn't a difference that jumped  out at me to be able to say that was the 25 pizzas I prepaid for the 4th.<br /><br />Could it be having a Cash holding and a SPRXX holding in the CMA that update at different times?  I know that weekend transaction don't clear to the CMA till sometime on Monday?  Is there some overnight mystery for Cash v. SPRXX that isn't sync'd until after 8 AM for the combined CMA holdings?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=49095\">heartwood</a> \u2014 Thu Jul 02, 2026 7:37 am</p><hr />",
+    "date": "2026-07-02T12:37:07",
+    "category": "Finance"
+  },
+  {
     "id": "85502f3caf71b9994e578fe5928bdb04",
     "feed_name": "LRB",
     "title": "Turn off the lights",
@@ -19988,15 +19998,5 @@
     "content": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
     "date": "2026-05-18T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19061",
-    "feed_name": "Stratechery",
-    "title": "Data Center Discontent, Understanding the Opposition, Fixing the Problem",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
-    "content": "<p>There are understandable reasons for people to oppose data centers; the only solution that will work is simply paying them off.</p>",
-    "date": "2026-05-18T10:00:00",
-    "category": "Tech"
   }
 ]
