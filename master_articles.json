@@ -90,6 +90,66 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=234896",
+    "feed_name": "Texas Tribune",
+    "title": "River authority\u2019s budget woes are another blow to water-needy Corpus Christi",
+    "author": "By\u00a0Rachel Denny Clow, KRIS 6 News",
+    "link": "https://feeds.texastribune.org/link/16799/17371545/texas-corpus-christi-water-crisis-nueces-river-authority",
+    "content": "The Nueces River at sunset on Oct. 20, 2025.",
+    "date": "2026-07-02T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234909",
+    "feed_name": "Texas Tribune",
+    "title": "Measles vaccination rate for Texas kindergarteners increased slightly after 2025 outbreak",
+    "author": "By Terri Langford, DATA ANALYSIS AND GRAPHICS BY\u00a0Dan Keemahill",
+    "link": "https://feeds.texastribune.org/link/16799/17371546/texas-child-school-vaccination-rates-dshs-exemptions",
+    "content": "Signs let people know that measles vaccines are available at the old City Hall in Andrews on March 6, 2025. Andrews is about halfway between Seminole in Gaines County, where the outbreak originated, and Odessa.",
+    "date": "2026-07-02T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=234911",
+    "feed_name": "Texas Tribune",
+    "title": "Vaccination rates in Texas schools have been dropping. Look up the latest vaccination rates in your district.",
+    "author": "Dan Keemahill",
+    "link": "https://feeds.texastribune.org/link/16799/17371547/texas-whats-my-school-districts-vaccine-rate",
+    "content": "Kindergarten students line up for class at Highland Village Elementary on Sept. 8, 2020.",
+    "date": "2026-07-02T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "a46eadd2-de4a-4ac3-b6d4-5efb591f77f7",
+    "feed_name": "Economist",
+    "title": "How much will a 4th of July cookout cost this year?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year",
+    "content": "We calculate the rising price of Americans\u2019 summer staples",
+    "date": "2026-07-02T09:41:44",
+    "category": "Magazines"
+  },
+  {
+    "id": "ff9031ac-d1bb-4c9f-9011-1dc7675e2f18",
+    "feed_name": "Economist",
+    "title": "Are stablecoins money?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
+    "content": "Policymakers\u2019 job is to make them safe as well as useful",
+    "date": "2026-07-02T09:37:02",
+    "category": "Magazines"
+  },
+  {
+    "id": "1baeabd4-7041-4f62-913c-ddaa68e43d2d",
+    "feed_name": "Economist",
+    "title": "Unpacking Venezuela\u2019s peculiar debt restructuring",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/02/unpacking-venezuelas-peculiar-debt-restructuring",
+    "content": "Hazy numbers and the absence of the IMF make for an unusual negotiation",
+    "date": "2026-07-02T09:36:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/02/arts/is-there-life-out-here.html",
     "feed_name": "NYT (Arts)",
     "title": "Is There Life Out Here?",
@@ -19937,66 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/18/arts/television/in-the-city-things-to-watch-on-tv-this-week.html",
     "content": "Lindsay Hubbard, center, who appeared on \u201cSummer House,\u201d is starring in a new reality series, \u201cIn the City.\u201d",
     "date": "2026-05-18T05:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "658242a6022ac173ef6f609d171699da",
-    "feed_name": "Outside",
-    "title": "On the Camino de Santiago, Jos\u00e9 Andr\u00e9s Recovers from the Weight of the World",
-    "author": "Kevin Sintumuang",
-    "link": "https://www.outsideonline.com/adventure-travel/essays/jose-andres-camino-de-santiago-walk-spain/",
-    "content": "",
-    "date": "2026-05-18T03:15:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/17/arts/television/will-ferrell-epstein-snl-season-finale.html",
-    "feed_name": "NYT (Arts)",
-    "title": "What the Dickens? Will Ferrell Plays Ghost of Epstein on \u2018S.N.L.\u2019 Season Finale",
-    "author": "Dave Itzkoff",
-    "link": "https://www.nytimes.com/2026/05/17/arts/television/will-ferrell-epstein-snl-season-finale.html",
-    "content": "Ferrell, the \u201cSaturday Night Live\u201d alum, appears with James Austin Johnson as President Trump in a sendup of \u201cA Christmas Carol.\u201d Paul McCartney provides the music.",
-    "date": "2026-05-18T01:20:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/17/theater/dad-dont-read-this-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Review: In \u2018Dad Don\u2019t Read This\u2019 a Playwright (Maybe?) Grows Up",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/05/17/theater/dad-dont-read-this-review.html",
-    "content": "Eliya Smith\u2019s disturbing teen dramedy explores the ambivalence and confusion of life on the brink of adulthood.",
-    "date": "2026-05-17T20:13:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8765012#p8765012",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "need403bhelp",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8765012#p8765012",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Thanks for everyone's past help!<br /><br />Re adding a new domestic wire recipient online with For Further Credit instructions needed.<br /><br />I swear Fidelity allowed this to be done online within the past year or two, but now it doesn't seem to be an option when I try on the website. Anyone else? Am I just missing it somewhere?<br /><br />Thank you!!!<br /><br />EDITED TO ADD: Seems this functionality was removed online <a class=\"postlink\" href=\"https://www.reddit.com/r/fidelityinvestments/comments/1ipheb8/how_can_you_set_up_domestic_wire_from_fidelity_to/\">https://www.reddit.com/r/fidelityinvest ... delity_to/</a></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I have been using the memo field and it works.<br />I just type in<br /><br />FFC AccountOwnerName #AccountNumber<br /><br />FFC meaning \"for further credit\"<br /><br />Test this with a $10 wire and see if it works for you.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Interesting will try. Thanks so much!!!<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=98576\">need403bhelp</a> \u2014 Sun May 17, 2026 1:14 pm</p><hr />",
-    "date": "2026-05-17T18:14:06",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/16/dining/summer-is-coming.html",
-    "feed_name": "NYT (Food)",
-    "title": "Summer Is Coming!",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/05/16/dining/summer-is-coming.html",
-    "content": "Yewande Komolafe\u2019s coconut-dill salmon with green beans and corn.",
-    "date": "2026-05-17T17:42:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/16/dining/all-about-the-blueberries.html",
-    "feed_name": "NYT (Food)",
-    "title": "All About the Blueberries",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/05/16/dining/all-about-the-blueberries.html",
-    "content": "Jordan Marsh\u2019s blueberry muffins, adapted by Marian Burros.",
-    "date": "2026-05-17T17:42:14",
     "category": "NYT"
   }
 ]
