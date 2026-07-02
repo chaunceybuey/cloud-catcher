@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/02/arts/design/herbert-c-lust-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Herbert Lust, Collector Who Befriended Giacometti, Dies at 99",
+    "author": "Trip Gabriel",
+    "link": "https://www.nytimes.com/2026/07/02/arts/design/herbert-c-lust-dead.html",
+    "content": "Herbert Lust at his home in Connecticut in 2020, wearing a gold medallion made by the artist Alberto Giacometti, a close friend of his.",
+    "date": "2026-07-02T14:40:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/07/23/the-new-ellis-island-el-paso-jazmine-ulloa/",
     "feed_name": "NYRB",
     "title": "The New Ellis Island",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/18/theater/schmigadoon-broadway-music.html",
     "content": "\u201cSchmigadoon!,\u201d a musical satire adapted from the 2021 AppleTV+ series, is now playing at the Nederlander Theater in Manhattan.",
     "date": "2026-05-18T16:25:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/17/arts/dance/robert-rauschenberg-choreography-pelican.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Robert Rauschenberg, Choreographer? His Lost \u2018Pelican\u2019 Glides Again",
-    "author": "Gia Kourlas and George Etheredge",
-    "link": "https://www.nytimes.com/2026/05/17/arts/dance/robert-rauschenberg-choreography-pelican.html",
-    "content": "For a short time, Rauschenberg made dances. He used roller skates, pointe shoes and parachute wings for \u201cPelican\u201d (1963), now reimagined by Trisha Brown\u2019s company.",
-    "date": "2026-05-18T16:22:08",
     "category": "NYT"
   }
 ]
