@@ -90,6 +90,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/07/23/the-new-ellis-island-el-paso-jazmine-ulloa/",
+    "feed_name": "NYRB",
+    "title": "The New Ellis Island",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/the-new-ellis-island-el-paso-jazmine-ulloa/",
+    "content": "A history of five families in El Paso reveals the city\u2019s significance as a bellwether of America\u2019s immigration policy.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T13:18:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/07/23/the-judeo-bolshevist-target-jochen-hellbeck/",
+    "feed_name": "NYRB",
+    "title": "The Judeo-Bolshevist Target",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/the-judeo-bolshevist-target-jochen-hellbeck/",
+    "content": "Popular memory in the West tends to separate the Holocaust from the German war against the Soviet Union, but for the Nazi regime they were two faces of the same undertaking.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T13:03:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/07/23/the-late-bohemian-rosemary-tonks/",
+    "feed_name": "NYRB",
+    "title": "The Late Bohemian",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/the-late-bohemian-rosemary-tonks/",
+    "content": "Rosemary Tonks emulated French Symbolist poets before converting to Christianity and renouncing all her own works.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T12:48:55",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8800421#p8800421",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -98,6 +128,46 @@
     "content": "Consider this a PSA:  don't balance your checkbook before 8 AM for a Fido CMA account.<br />We use the CMA as a checking account w lots of credits and debits over the month.  I keep a google spreadsheet to track balances and see what's coming later in the month.<br /><br />Apparently the Activity &amp; Orders don't always sync with the CMA balance as shown in the left column on the Fido site.<br />I spent an hour?? trying to find the discrepancy between the left column total and my spreadsheet. The I refreshed the page at 8:10 and all's fine.  Nothing changed in the Activity &amp; Orders, only in the CMA total.  It also wasn't a difference that jumped  out at me to be able to say that was the 25 pizzas I prepaid for the 4th.<br /><br />Could it be having a Cash holding and a SPRXX holding in the CMA that update at different times?  I know that weekend transaction don't clear to the CMA till sometime on Monday?  Is there some overnight mystery for Cash v. SPRXX that isn't sync'd until after 8 AM for the combined CMA holdings?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=49095\">heartwood</a> \u2014 Thu Jul 02, 2026 7:37 am</p><hr />",
     "date": "2026-07-02T12:37:07",
     "category": "Finance"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/07/23/wonder-disillusion-the-traveler-andrea-wulf/",
+    "feed_name": "NYRB",
+    "title": "Wonder & Disillusion",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/wonder-disillusion-the-traveler-andrea-wulf/",
+    "content": "The naturalist George Forster was fascinated by plants and animals, but he was also driven by a passionate belief in the rights of all people regardless of race, gender, or social status.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T12:33:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/07/23/song-of-our-cells-beyond-inheritance-roxanne-khamsi/",
+    "feed_name": "NYRB",
+    "title": "Song of Our Cells",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/song-of-our-cells-beyond-inheritance-roxanne-khamsi/",
+    "content": "Though a mystery to Darwin in his lifetime, the constant mutation of our genes is what allows for life\u2019s magnificent diversity.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T12:18:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/07/23/compromised-values-dead-center-joe-manchin/",
+    "feed_name": "NYRB",
+    "title": "Compromised Values",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/compromised-values-dead-center-joe-manchin/",
+    "content": "Joe Manchin\u2019s memoir reveals that the West Virginian Senator worshipped \u201cwork\u201d at the expense of supporting his party\u2019s efforts to help working people.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T12:03:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/07/23/when-india-reinvented-prints-divine-color-household-gods/",
+    "feed_name": "NYRB",
+    "title": "When India Reinvented Prints",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/when-india-reinvented-prints-divine-color-household-gods/",
+    "content": "Two forceful exhibitions have shown how Indian artists and presses met the cultural upheaval of the nineteenth century with lithographic prints that rendered Hindu gods more approachable and helped to galvanize national identity.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T11:48:55",
+    "category": "Magazines"
   },
   {
     "id": "85502f3caf71b9994e578fe5928bdb04",
@@ -130,6 +200,36 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/07/23/on-the-precipice-nadja-andre-breton/",
+    "feed_name": "NYRB",
+    "title": "On the Precipice",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/on-the-precipice-nadja-andre-breton/",
+    "content": "Critics who call Andr\u00e9 Breton\u2019s <em>Nadja</em> a novel miss its most innovative aspects.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T11:33:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/online/2026/06/28/the-unraveling-of-afghan-asylum/",
+    "feed_name": "NYRB",
+    "title": "The Unraveling of Afghan Asylum",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/06/28/the-unraveling-of-afghan-asylum/",
+    "content": "Afghan asylum seekers fled a crisis the US had a direct role in fomenting\u2014only to become targets in Trump\u2019s immigration crackdown.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T11:18:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/online/2026/06/26/resistance-choirs-raven-chacon/",
+    "feed_name": "NYRB",
+    "title": "Resistance Choirs",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/06/26/resistance-choirs-raven-chacon/",
+    "content": "The composer Raven Chacon has long sought ways to combine narrative and political clarity with avant-garde, nonlinear form.\u00a0\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T11:03:55",
+    "category": "Magazines"
+  },
+  {
     "id": "6a3c5cef1e85d61983a07bdb",
     "feed_name": "Wired (Science)",
     "title": "How Trump Helped China Make America\u2019s Cheapest EV",
@@ -137,6 +237,36 @@
     "link": "https://www.wired.com/story/how-trump-helped-china-make-slate-americas-cheapest-ev/",
     "content": "Slate is the latest automaker to transition to lower-cost batteries perfected in China, driven in part by the repeal of EV tax credits that required materials to be sourced domestically.",
     "date": "2026-07-02T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/online/2026/06/24/safety-is-when-theres-no-one-dying-lebanon-children/",
+    "feed_name": "NYRB",
+    "title": "Safety Is When There\u2019s No One Dying",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/06/24/safety-is-when-theres-no-one-dying-lebanon-children/",
+    "content": "Israel\u2019s assault on Palestine and Lebanon has reconfigured how children understand the world.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T10:48:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/online/2026/06/23/an-eternal-indoors-backrooms/",
+    "feed_name": "NYRB",
+    "title": "\u2018An Eternal Indoors\u2019",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/06/23/an-eternal-indoors-backrooms/",
+    "content": "The power of Kane Parsons\u2019s \u201cBackrooms\u201d series\u2014over twenty YouTube videos and now a feature film\u2014comes from the mix of longing and fear with which it views the pre-digital past.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T10:33:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/online/2026/06/20/variations-on-broken-eggs-arendt-jarrell/",
+    "feed_name": "NYRB",
+    "title": "Variations on Broken Eggs",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/06/20/variations-on-broken-eggs-arendt-jarrell/",
+    "content": "When Hannah Arendt suggested that democracy consists, in part, in how we talk with one another, I\u2019m guessing she was thinking of her friendship with Randall Jarrell.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-02T10:18:55",
     "category": "Magazines"
   },
   {
@@ -19868,135 +19998,5 @@
     "content": "Sam Sifton\u2019s chicken paprikash.",
     "date": "2026-05-18T15:38:51",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/theater/just-in-time-broadway-profit.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Bobby Darin Musical Reaches a Rare Broadway Milestone: Profit",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/05/18/theater/just-in-time-broadway-profit.html",
-    "content": "A performance at last year\u2019s Tony Awards ceremony helped bring the show to national attention.",
-    "date": "2026-05-18T15:38:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/arts/music/tyshawn-sorey-piano-concerto-philadelphia-orchestra-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Review: Tyshawn Sorey Unveils a Wondrous New Piano Concerto",
-    "author": "Seth Colter Walls",
-    "link": "https://www.nytimes.com/2026/05/18/arts/music/tyshawn-sorey-piano-concerto-philadelphia-orchestra-review.html",
-    "content": "The Philadelphia Orchestra paired Sorey\u2019s \u201cFor Marilyn Crispell\u201d with Bruckner\u2019s Third Symphony, an unusual bill that flattered both composers.",
-    "date": "2026-05-18T15:33:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/arts/music/marisa-anderson-unamerican-folk-music.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Marisa Anderson\u2019s (Tunefully) Un-American Activities",
-    "author": "Will Hermes",
-    "link": "https://www.nytimes.com/2026/05/18/arts/music/marisa-anderson-unamerican-folk-music.html",
-    "content": "The guitarist mined the scholar Harry Smith\u2019s LP collection, recording her takes on songs rooted in regions the United States has been in conflict with since 1970.",
-    "date": "2026-05-18T15:00:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/arts/louvre-expansion-architect.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Louvre Announces Architects for Expansion That Will Include New Mona Lisa Space",
-    "author": "Mark Landler",
-    "link": "https://www.nytimes.com/2026/05/18/arts/louvre-expansion-architect.html",
-    "content": "The Louvre\u2019s current gallery displaying the Mona Lisa is often packed with visitors.",
-    "date": "2026-05-18T13:54:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/arts/music/breaking-down-drakes-three-album-surprise.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Breaking Down Drake\u2019s Three-Album Surprise",
-    "author": "Jon Caramanica, Joe Coscarelli, Kate LoPresti, Sophie Erickson, Jack Belisle, Bernardo Garcia Elguezabal and Nick Pitman",
-    "link": "https://www.nytimes.com/2026/05/18/arts/music/breaking-down-drakes-three-album-surprise.html",
-    "content": "Our hosts react to \u201cIceman,\u201d \u201cHabibti\u201d and \u201cMaid of Honour.\u201d",
-    "date": "2026-05-18T11:21:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/arts/television/off-campus.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Off Campus\u2019 Promises More Hockey, More Sex",
-    "author": "Shivani Gonzalez and Ricardo Nagaoka",
-    "link": "https://www.nytimes.com/2026/05/18/arts/television/off-campus.html",
-    "content": "\u201cHeated Rivalry\u201d was a surprise sensation, and now a new hockey romance adaptation is steaming up TV. The stars are ready to be the internet\u2019s new boyfriends.",
-    "date": "2026-05-18T11:06:58",
-    "category": "NYT"
-  },
-  {
-    "id": "69c6d5aa11f836e20d54df16",
-    "feed_name": "Wired (Science)",
-    "title": "The Backward Logic of Chickenpox Parties",
-    "author": "Lindsay Dodgson",
-    "link": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
-    "content": "Before vaccines, some parents intentionally exposed their children to the virus. In the internet age, that thinking is resurfacing.",
-    "date": "2026-05-18T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69f23170d5d070c26009c809",
-    "feed_name": "Wired (Science)",
-    "title": "Supercharging Immune Cells May Help Control HIV Long-Term",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
-    "content": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
-    "date": "2026-05-18T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230415",
-    "feed_name": "Texas Tribune",
-    "title": "Texas summer camps have closed, scaled back operations due to state\u2019s new regulations",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17343315/texas-summer-camps-closing-state-regulations",
-    "content": "Camp Mystic along the banks of the Guadalupe River in Hunt on July 5, 2025.",
-    "date": "2026-05-18T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230327",
-    "feed_name": "Texas Tribune",
-    "title": "Defense Department delays 54 wind projects in Texas, citing national security concerns",
-    "author": "Brandon Mulder",
-    "link": "https://feeds.texastribune.org/link/16799/17343316/texas-wind-power-projects-department-defense-federal-permits-stalled",
-    "content": "Justin Shaw drives through the Roscoe Wind Farm on March 6, 2024 in Roscoe.",
-    "date": "2026-05-18T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230349",
-    "feed_name": "Texas Tribune",
-    "title": "Texas primary runoffs: resource guides for races up and down the ballot",
-    "author": "Texas Tribune Staff",
-    "link": "https://feeds.texastribune.org/link/16799/17343317/2026-vote",
-    "content": "Our series of explainers and guides will help you get ready to vote in the upcoming runoffs. Early voting begins May 18.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17343317.gif\" width=\"1\" />",
-    "date": "2026-05-18T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.propublica.org/article/oklahoma-oil-regulators-fort-gibson-meredith-family",
-    "feed_name": "ProPublica",
-    "title": "Oily Sludge Is Flooding Their Dream Home. Oklahoma Regulators Say They Can\u2019t Help.",
-    "author": "Katie Campbell",
-    "link": "https://www.propublica.org/article/oklahoma-oil-regulators-fort-gibson-meredith-family",
-    "content": "<figure><img alt=\"A family of five \u2014 a man holding a baby boy, a woman and two girls \u2014 stand together outside looking at the camera.\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/260117_MeredithsPortrait-3x2008-PDedit_maxHeight_3000_maxWidth_3000.jpg?w=1149\" /><figcaption><small>The Meredith family, from left: Lakely, Fletcher, Mitch, Kara and Tennessee Katie Campbell/ProPublica</small></figcaption></figure>\n<p>It was their dream home, a newly built, 2,500-square-foot modern farmhouse with a playroom that Mitch and Kara Meredith had saved for 12 years to buy for their growing family. During construction, family members had written their favorite Bible verses on studs throughout the house. For four idyllic years on Darlene Lane, the couple hosted birthday parties for their two young daughters, who became fast friends with the other children in the recently built subdivision in Fort Gibson.</p>\n\n\n\n<aside class=\"wp-block-propublica-aside bb--size-xsmall-right p-bb--size-xsmall-right\">\n\t\n\t\n\n<h3 class=\"wp-block-heading\" id=\"h-film-screening\">Film Screening</h3>\n\n\n\n<p>Join The Frontier and ProPublica in Tulsa on May 20 for <a href=\"https://events.propublica.org/toxic-ground\">a public screening of a documentary film</a> featuring the Meredith family.</p>\n\n\n\t</aside>\n\n\n\n<p>Then one evening last summer, five weeks after the couple\u2019s third child was born, their bathroom flooded.<br /><br />When their 7-year-old ran into the garage to report that water was all over the floor, Mitch assumed a pipe had burst, or perhaps the toilet was backed up.&nbsp;&nbsp;</p>\n\n\n\n<p>Then he entered the bathroom. A thick, black fluid with an oily sheen covered the floor. Kara yelled from their bedroom for him to come quickly; the same substance was flowing out of the floor next to their bed.</p>\n\n\n\n<p>Mitch, along with several family members, fought the flood all night, vacuuming up the sludge and emptying buckets out the window. Black goo covered their arms. Shiny rainbow patterns covered their shoes. After pulling the bathtub away from the wall, Mitch saw that the substance was gushing through the house\u2019s foundation. It was clear this wasn\u2019t a plumbing problem.</p>\n\n\n\n<figure class=\"wp-block-video bb--size-large p-bb--size-large\"><video height=\"1080\" loop=\"loop\" poster=\"https://www.propublica.org/wp-content/uploads/2026/05/Merediths-cinemagraph-courtesy_maxHeight_3000_maxWidth_3000.jpg\" preload=\"auto\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/Merediths-cinemagraph-courtesy-whiteBG2-15sec_1d3d99.mp4\" width=\"1920\"></video><figcaption class=\"attribution\"><span class=\"attribution__caption\">Last August, dark, oily fluid came up through the floors of the Merediths\u2019 house and flooded their bathroom, bedroom and closet.\u00a0</span> <span class=\"attribution__credit\">Video collage by ProPublica. Photographs and videos courtesy of the Meredith family.</span></figcaption></figure>\n\n\n\n<p>Around 5 a.m., Mitch\u2019s uncle turned to him. \u201cI think this is oil,\u201d he said. The family called the fire department, and Kara rushed their three children, including their infant, to her grandmother\u2019s house.&nbsp;&nbsp;</p>\n\n\n\n<p>\u201cAnd that\u2019s the last time we got to be in our home,\u201d Mitch said.</p>\n\n\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-1 is-cropped bb--size-full wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex block-visibility-hide-large-screen p-bb--size-full\">\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A man, a woman holding a young girl, and another girl stand together in the snow, posing for a photo in front of a large house that is being built.\" class=\"wp-image-77849\" height=\"960\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/IMG_20260224_143356_maxHeight_3000_maxWidth_3000.jpg\" width=\"720\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">Mitch, Kara and their two daughters, Tennessee and Lakely, as their house was being built. \u201cWe assumed we were getting a perfect house,\u201d Mitch said.</span> <span class=\"attribution__credit\">Courtesy of the Meredith family</span></figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A wooden stud in a house has the words written on it: \u201cWhen you pass through deep waters, I will be with you. When you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned, the flames will not set you ablaze.\u201d\" class=\"wp-image-77858\" height=\"876\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/IMG_20260224_143402-PDcrop_maxHeight_3000_maxWidth_3000.jpg\" width=\"657\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">The Merediths invited family members to write Bible verses on the studs of the house. \u201cOur faith is what\u2019s most important to us, and we wanted to put that into the bones of the house,\u201d Kara said.</span> <span class=\"attribution__credit\">Courtesy of the Meredith family</span></figcaption></figure>\n</figure>\n\n\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-1 is-cropped bb--size-full wp-block-gallery-4 is-layout-flex wp-block-gallery-is-layout-flex block-visibility-hide-large-screen p-bb--size-full\">\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A pregnant woman takes a photo of herself with her phone in the mirror of her bedroom, with one hand holding her belly.\" class=\"wp-image-77850\" height=\"1003\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/IMG_20260427_111803_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A man sitting in a large chair sleeps with a baby boy on his chest. A deer head is mounted on the wall above him.\" class=\"wp-image-77851\" height=\"1003\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/IMG_20260427_111859_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /></figure>\n<figcaption class=\"attribution\"><span class=\"attribution__caption\">The couple\u2019s third child, Fletcher, was born in July 2025. Forty days later dark, oily water surged through the foundation of their home.</span> <span class=\"attribution__credit\">Courtesy of the Meredith family</span></figcaption></figure>\n\n\n\n<p>The Frontier and ProPublica\u2019s reporting on <a href=\"https://www.propublica.org/article/oklahoma-oil-polluted-drinking-water-boarman-family\">oil and gas pollution</a> in Oklahoma over the last year has shown how old oil wells abandoned by the industry pose severe <a href=\"https://www.propublica.org/article/oklahoma-oil-gas-wastewater-pollution\">public and environmental health risks</a>. Officially, the state lists 19,000 orphan wells that state regulators are responsible for cleaning up, but the true figure is likely over 300,000, according to federal researchers.&nbsp;</p>\n\n\n\n<p>State records suggest that the Merediths\u2019 house may have been built on top of an improperly plugged oil well drilled in the 1940s. And on that fateful Saturday last August, something woke it up.&nbsp;</p>\n\n\n\n<p>Mitch drilled a hole into his home\u2019s concrete foundation in hopes of diverting the sludge out of the house and into the yard. It worked: The foul-smelling water began to pour out of the cavity, filling a deep trench they had dug.&nbsp;</p>\n\n\n\n<p>Many of their possessions were ruined. A strong smell of gas hung throughout the house, permeating clothes, sheets and mattresses.&nbsp;</p>\n\n\n\n<p>After leaving Darlene Lane, the family moved four times in four months \u2014 at times paying their mortgage and rent simultaneously.&nbsp;</p>\n\n\n\n<p>At the outset of the crisis, the family had pinned most of their hopes on the Oklahoma Corporation Commission, the regulatory agency responsible for overseeing oil and gas \u2014 including pollution from the industry and plugging old wells. They wanted the agency to figure out what happened \u2014 and help them clean it up.&nbsp;</p>\n\n\n\n<p>It did not take long for their hopes to transform into anger.</p>\n\n\n\n<figure class=\"wp-block-video bb--size-xsmall-right p-bb--size-xsmall-right\"><video controls=\"controls\" height=\"1920\" poster=\"https://www.propublica.org/wp-content/uploads/2026/05/IMG_0963-short_subtitles-cover_maxHeight_3000_maxWidth_3000-1.jpg\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/IMG_0963-short_subtitles-lr.mp4\" width=\"1080\"></video><figcaption class=\"attribution\"><span class=\"attribution__caption\">In a September call, Mitch argued with the Oklahoma Corporation Commission about his case.</span> <span class=\"attribution__credit\">Courtesy of the Meredith family</span></figcaption></figure>\n\n\n\n<p>State regulators, according to the family, have done little to help them.&nbsp;</p>\n\n\n\n<p>\u201cThey wanted to act like it would go away,\u201d Mitch said.&nbsp;</p>\n\n\n\n<p>In October, more than a month after the flooding began, Jeremy Hodges, the director of the commission\u2019s oil and gas division, met with Mitch and Kara at the house.&nbsp;</p>\n\n\n\n<p>He told them that when his team stuck a gas reader into the hole in their bathroom floor, where the oily water continued to flow, it showed gas concentrations at explosive levels, according to a recording that the Merediths provided to The Frontier and ProPublica.&nbsp;</p>\n\n\n\n<p>The local public works authority had also brought out a gas reader. It found gas levels that constituted a \u201cserious and immediate hazard,\u201d according to a report.&nbsp;</p>\n\n\n\n<p>Old, unplugged wells \u2014 like the one that state records indicate is near or possibly under the Merediths\u2019 house \u2014 are known to leak gas and toxic fluids.&nbsp;</p>\n\n\n\n<p>Hodges also told the couple that the agency would likely have to tear down the house to look for the well and plug it. Subsequent sampling conducted by the commission showed salt readings that suggested the presence of wastewater resulting from the production of oil and gas. Other testing by the state\u2019s environmental quality department found elevated levels of heavy metals commonly found in oil field wastewater including barium and bromide. Mitch took his own samples and paid an environmental lab to test them. The results also pointed to oil and gas pollution.</p>\n\n\n\n<figure class=\"wp-block-video bb--size-large p-bb--size-large\"><video height=\"1080\" loop=\"loop\" poster=\"https://www.propublica.org/wp-content/uploads/2026/05/260115_MitchGimbal_cinemagraph-poster_maxHeight_3000_maxWidth_3000.jpg\" preload=\"auto\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/260115_MitchGimbal_cinemagraph.mp4\" width=\"1920\"></video><figcaption class=\"attribution\"><span class=\"attribution__caption\">Mitch didn\u2019t realize when his family rushed out of their house last August that they wouldn\u2019t be able to return.</span> <span class=\"attribution__credit\">Katie Campbell/ProPublica</span></figcaption></figure>\n\n\n\n<p>But as the months wore on, the agency never stated explicitly that the mysterious substance contaminating the Merediths\u2019 home was the byproduct of oil and gas production. It simply referred to the pollution as \u201cwater\u201d in public statements.&nbsp;</p>\n\n\n\n<p>In a packed town hall in March convened after the family began criticizing the agency on social media, community members grilled Hodges and several other high-ranking agency representatives about the Merediths\u2019 situation for two hours, pressing them about the environmental risks and demanding action. About half of Oklahomans live within 1 mile of oil and gas wells.&nbsp;</p>\n\n\n\n<p>\u201cWould you live there?\u201d a woman in the audience asked Hodges.</p>\n\n\n\n<p>\u201cI\u2019m not going to answer that,\u201d he responded, prompting jeers from the crowd.</p>\n\n\n\n<p>\u201cSo you\u2019re saying that you don\u2019t want to answer the question of whether you would actually live in that house?\u201d asked Mitch\u2019s brother, Matt Meredith.</p>\n\n\n\n<p>\u201cThat\u2019s a hypothetical,\u201d Hodges said. \u201cI\u2019m not going to answer that.\u201d</p>\n\n\n\n<figure class=\"wp-block-video bb--size-medium p-bb--size-medium\"><video height=\"1080\" loop=\"loop\" poster=\"https://www.propublica.org/wp-content/uploads/2026/05/260325_MitchKara_praying_cinemagraph_stabilized-poster_maxHeight_3000_maxWidth_3000.jpg\" preload=\"auto\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/260325_MitchKara_praying_cinemagraph_stabilized.mp4\" width=\"1920\"></video><figcaption class=\"attribution\"><span class=\"attribution__caption\">\u201cGod, we just continue to pray that you will put a heavy conviction on these people&#8217;s hearts, and that they would do the right thing,\u201d Kara prayed before a town hall meeting held by the Oklahoma Corporation Commission to discuss the pollution on the family\u2019s property.</span> <span class=\"attribution__credit\">Katie Campbell/ProPublica</span></figcaption></figure>\n\n\n\n<p>Homeowners facing such an event should file damages with their insurance companies, Jim Marshall, an administrator with the Oklahoma Corporation Commission, said from the front of the community center conference room. But the family\u2019s insurance company had denied their claim last fall \u2014 citing exclusions for pollution and water damage \u2014 without ever inspecting the damage, according to the Merediths\u2019 attorney. The Merediths have sued American Mercury, their insurance company, which did not answer questions about the case because of pending litigation, as well as their developers, who did not respond to requests for comment.&nbsp;&nbsp;</p>\n\n\n\n<p>At the public meeting, Marshall suggested underground water sources could be pushing fluid into the home, noting that the Merediths\u2019 neighborhood once contained several ponds. If the culprit is not oil and gas, that would shift the responsibility for cleanup to other state agencies. Marshall, Hodges and an agency attorney repeatedly told the crowd that with the house likely blocking access to the well, the agency had reached the end of its legal ability to help the Merediths.&nbsp;</p>\n\n\n\n<p>Jack Damrill, a spokesperson for the Oklahoma Corporation Commission, did not answer questions about what the agency thinks is causing the pollution but said it \u201crecognizes the seriousness of the concerns raised regarding the Meredith family matter, as well as the broader public interest.\u201d The agency, he said in a statement, has \u201cdevoted significant investigative time, technical expertise, and regulatory resources to reviewing the situation and will continue to evaluate any new, relevant information as it becomes available.\u201d</p>\n\n\n\n<p>Last week, Oklahoma lawmakers passed a bill introduced by the Merediths\u2019 state senator, Avery Frix, that would create a fund to compensate homeowners whose houses have been damaged by oil and gas pollution. While hopeful that the legislation will help them, Mitch noted that it requires the commission to confirm the presence of an old well, something the agency has yet to do at the Merediths\u2019 home.<br /></p>\n\n\n\n<p>On Darlene Lane, the flow of contamination increased in late April and continues to seep into their neighbor\u2019s yard.&nbsp;</p>\n\n\n\n<p>\u201cWhat I\u2019ve begged for from the beginning is for them to help me contain it,\u201d Mitch said. \u201cThey have refused to do anything.\u201d&nbsp;</p>\n\n\n\n<p>Nine months after they were forced to flee their dream home, the family of five is crammed into a 900-square-foot, two-bedroom bungalow on Mitch\u2019s parents\u2019 farm where the couple had lived as newlyweds. The girls share a bunk bed. The baby sleeps in Mitch and Kara\u2019s room.</p>\n\n\n\n<figure class=\"wp-block-video bb--size-large p-bb--size-large\"><video height=\"1080\" loop=\"loop\" poster=\"https://www.propublica.org/wp-content/uploads/2026/05/260117_MeredithFamilyHome_Cinemagraph-poster_maxHeight_3000_maxWidth_3000.jpg\" preload=\"auto\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/260117_MeredithFamilyHome_Cinemagraph.mp4\" width=\"1920\"></video><figcaption class=\"attribution\"><span class=\"attribution__caption\">The Merediths are staying in a house that\u2019s less than half the size of their Darlene Lane house. \u201cIt\u2019s been tough on them,\u201d Kara said of her daughters. \u201cThey don\u2019t understand how we can\u2019t just go buy a new house. We have a mortgage on a house that\u2019s uninhabitable.\u201d</span> <span class=\"attribution__credit\">Katie Campbell/ProPublica</span></figcaption></figure>\n\n\n\n<p>The girls often ask to play with the neighbors they had to leave behind, along with many of their possessions. Their toys still line the shelves of their bedrooms in the house on Darlene Lane, awaiting their return. Wet clothes sat in the washer for months. Half-packed boxes are scattered around the floor, evidence of the family\u2019s panicked retreat last August.&nbsp;</p>\n\n\n\n<p>The house is stuck in time, like a museum of the Merediths\u2019 old life.</p>\n\n\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-1 is-cropped bb--size-full wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex block-visibility-hide-large-screen p-bb--size-full\">\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A dark bedroom, dimly lit by light from the windows. Sheets and pillows are on the bed, disheveled, and water is pooled on the floor.\" class=\"wp-image-78788\" height=\"423\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/Meredith_OilHouse_Still001_middle_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A pair of cowboy boots.\" class=\"wp-image-78789\" height=\"423\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/Meredith_OilHouse_Still013_lighter_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">Kara and the children avoid visiting the house on Darlene Lane because of the methane fumes and the emotional toll.</span> <span class=\"attribution__credit\">Katie Campbell/ProPublica</span></figcaption></figure>\n</figure>\n\n\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-1 is-cropped bb--size-full wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex block-visibility-hide-large-screen p-bb--size-full\">\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A doll lies in a doll bed, lit by a window behind it, with several household items around it.\" class=\"wp-image-78790\" height=\"423\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/Meredith_OilHouse_Still010_lighter_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A deer head mounted on a wall, with a wilted houseplant on the furniture beneath it.\" class=\"wp-image-78791\" height=\"423\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/Meredith_OilHouse_Still005_lighter_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">\u201cWe\u2019re in a position where we can\u2019t move on,\u201d Mitch said. \u201cWe know we\u2019re going to lose the house. Everything we worked for is gone.\u201d</span> <span class=\"attribution__credit\">Katie Campbell/ProPublica</span></figcaption></figure>\n</figure>\n\n\n\n<figure class=\"wp-block-video bb--size-large p-bb--size-large\"><video height=\"1080\" loop=\"loop\" poster=\"https://www.propublica.org/wp-content/uploads/2026/05/260117_MeredithExterior_Cinemagraph-poster_maxHeight_3000_maxWidth_3000.jpg\" preload=\"auto\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/260117_MeredithExterior_Cinemagraph.mp4\" width=\"1920\"></video><figcaption class=\"attribution\"><span class=\"attribution__caption\">Mitch took matters into his own hands, drilling a hole in the side of the house to drain the fluid. He dug a pit and installed a sump pump to divert the flow into an aerobic septic tank. As of late April, the cloudy contamination was still flowing out of the house.</span> <span class=\"attribution__credit\">Katie Campbell/ProPublica</span></figcaption></figure>\n\n\n<div class=\"wp-block-propublica-callout\">\n\t\n<div class=\"wp-block-group story-card is-layout-flow wp-block-group-is-layout-flow\">\n\n\n<div class=\"wp-block-group story-card__description is-layout-flow wp-block-group-is-layout-flow\"><h2 class=\"story-card__hed wp-block-post-title\"><a href=\"https://www.propublica.org/getinvolved/oklahoma-oil-wastewater-help-propublica-report\" target=\"_self\">Show Us What It\u2019s Like to Live with Oil Pollution in Oklahoma</a></h2>\n\n\n<p class=\"story-card__dek wp-block-propublica-dek\">\n\tWe\u2019ve reported on oil and gas pollution contaminating drinking water, killing cattle and damaging property. We need your help to show how this affects people across the state.</p>\n\n\n\n<div class=\"wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button callout-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://airtable.com/apps0wjLdsV4JqZvU/pagLr7CSAR8lvPhQz/form\">Share Your Experience</a></div>\n</div>\n\n</div>\n</div>\n</div>\n\n<p>The post <a href=\"https://www.propublica.org/article/oklahoma-oil-regulators-fort-gibson-meredith-family\">Oily Sludge Is Flooding Their Dream Home. Oklahoma Regulators Say They Can\u2019t Help.</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-05-18T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69e914f215a8034c5a724814",
-    "feed_name": "Wired",
-    "title": "I\u2019m a Normie. Can Normies Really Vibe Code?",
-    "author": "Chris Colin",
-    "link": "https://www.wired.com/story/normie-vibe-code/",
-    "content": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-    "date": "2026-05-18T10:00:00",
-    "category": "Magazines"
   }
 ]
