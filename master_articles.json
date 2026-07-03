@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/03/dining/via-carotas-house-dressing-can-be-your-house-dressing.html",
+    "feed_name": "NYT (Food)",
+    "title": "Via Carota\u2019s House Dressing Can Be Your House Dressing",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/07/03/dining/via-carotas-house-dressing-can-be-your-house-dressing.html",
+    "content": "Samin Nosrat\u2019s house dressing.",
+    "date": "2026-07-03T15:00:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/03/movies/five-science-fiction-movies-to-stream-now.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Science Fiction Movies to Stream Now",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/07/03/movies/five-science-fiction-movies-to-stream-now.html",
+    "content": "This month\u2019s recommendations include a dreamscape space opera, a dark time-travel diner comedy and an existential alien thriller.",
+    "date": "2026-07-03T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/03/dining/america-250-birthday-cake-grace-pak.html",
     "feed_name": "NYT (Food)",
     "title": "Making a Cake for America\u2019s 250th Birthday",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/19/dining/strangers-author-belle-burden.html",
     "content": "The New York City native on her food life, from a childhood on the Upper East Side to an adulthood in TriBeCa.",
     "date": "2026-05-19T20:18:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/arts/music/american-opera-projects-experiments-in-opera-heartbeat-opera.html",
-    "feed_name": "NYT (Arts)",
-    "title": "3 Ways Operas Speak to the Moment, With Success and Failure",
-    "author": "Gabrielle Ferrari",
-    "link": "https://www.nytimes.com/2026/05/19/arts/music/american-opera-projects-experiments-in-opera-heartbeat-opera.html",
-    "content": "New works, \u201cThe Post Office\u201d and \u201cConstance: A Confession,\u201d and a revival of Barber\u2019s \u201cVanessa\u201d show companies attempting to capture these nebulous times.",
-    "date": "2026-05-19T20:10:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/arts/dance/julie-mehretu-john-jasperse-marian-goodman-gallery-wandering.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Julie Mehretu and John Jasperse Find Common Ground",
-    "author": "Brian Seibert",
-    "link": "https://www.nytimes.com/2026/05/19/arts/dance/julie-mehretu-john-jasperse-marian-goodman-gallery-wandering.html",
-    "content": "Julie Mehretu and John Jasperse are collaborating at the Marian Goodman Gallery: \u201cHow do we bring something to each other\u2019s work that feels productive?\u201d",
-    "date": "2026-05-19T20:03:03",
     "category": "NYT"
   }
 ]
