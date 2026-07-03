@@ -100,6 +100,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=235027",
+    "feed_name": "Texas Tribune",
+    "title": "A year after deadly floods, Texas lawmakers haven\u2019t addressed training for emergency coordinators",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17372186/texas-floods-emergency-management-coordinators-training-legislature",
+    "content": "People search and clean up debris along the Guadalupe River near Hunt on July 9, 2025.",
+    "date": "2026-07-03T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235059",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Stock Exchange to launch trading on Monday, in test of upstart\u2019s challenge to Wall Street",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17372187/texas-stock-exchange-launch-trading",
+    "content": "The American and Texas flags over Comerica Bank in downtown Dallas on Feb. 17, 2026.",
+    "date": "2026-07-03T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/03/arts/television/comedy-specials-4th-of-july-holiday-weekend.html",
     "feed_name": "NYT (Arts)",
     "title": "4 Funny Specials for a Long Hot Holiday Weekend",
@@ -19978,25 +19998,5 @@
     "content": "Recasting the January 6 insurrection as the work of heroic patriots remains the president\u2019s highest priority.\nDelivered by PolitePaul service",
     "date": "2026-05-19T15:48:44",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/dining/restaurant-review-meju-queens-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Meju in Queens, the Korean Restaurant in Our Top 5",
-    "author": "Ligaya Mishan",
-    "link": "https://www.nytimes.com/2026/05/19/dining/restaurant-review-meju-queens-nyc.html",
-    "content": "Meju, in Queens (No. 4 on The Times\u2019s list of New York\u2019s 100 best), focuses first on healing and nourishment. Bonus: The food tastes terrific.",
-    "date": "2026-05-19T15:03:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/theater/giant-lithgow-broadway-recoup.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Broadway\u2019s \u2018Giant,\u2019 With John Lithgow as Roald Dahl, Turns a Profit in 10 Weeks",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/05/19/theater/giant-lithgow-broadway-recoup.html",
-    "content": "John Lithgow as Roald Dahl in \u201cGiant.\u201d",
-    "date": "2026-05-19T14:38:34",
-    "category": "NYT"
   }
 ]
