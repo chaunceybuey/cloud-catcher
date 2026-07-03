@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/03/movies/new-movies-this-week-critics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 New Movies Our Critics Are Talking About This Week",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/07/03/movies/new-movies-this-week-critics.html",
+    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+    "date": "2026-07-03T13:36:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8801161#p8801161",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/video/dining/100000010912790/original-plum-torte.html",
     "content": "First published in 1983, Marian Burros\u2019s plum torte has become one of the most popular recipes in the history of The Times, and it\u2019s no mystery why. There are so many things to love: It\u2019s easy, it\u2019s practically no-fail and it\u2019s endlessly adaptable.",
     "date": "2026-05-19T17:28:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/18/dining/my-dead-simple-roasted-sausages-with-chickpeas-and-spinach.html",
-    "feed_name": "NYT (Food)",
-    "title": "My Dead-Simple Roasted Sausages With Chickpeas and Spinach",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/05/18/dining/my-dead-simple-roasted-sausages-with-chickpeas-and-spinach.html",
-    "content": "Melissa Clark\u2019s roasted sausages with chickpeas and spinach.",
-    "date": "2026-05-19T17:07:27",
     "category": "NYT"
   }
 ]
