@@ -110,6 +110,26 @@
     "category": "NYT"
   },
   {
+    "id": "1d495c4d4349974959a86c4d226c0de2",
+    "feed_name": "The Atlantic",
+    "title": "It Wasn\u2019t Just the Founders",
+    "author": "T. H. Breen",
+    "link": "https://www.theatlantic.com/ideas/2026/07/american-revolution-history-founders/687800/",
+    "content": "The conventional telling of America\u2019s origin story leaves out perhaps its greatest heroes.",
+    "date": "2026-07-03T15:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "d11ac4bc2cfc7f458065bbd5f2f593f6",
+    "feed_name": "The Atlantic",
+    "title": "The Strange History of the WordEqual",
+    "author": "Teresa M. Bejan",
+    "link": "https://www.theatlantic.com/ideas/2026/07/history-word-equal-rights-declaration/687777/",
+    "content": "The expansiveness of the concept helps explain its endurance.",
+    "date": "2026-07-03T15:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/03/dining/america-250-birthday-cake-grace-pak.html",
     "feed_name": "NYT (Food)",
     "title": "Making a Cake for America\u2019s 250th Birthday",
@@ -19978,25 +19998,5 @@
     "content": "",
     "date": "2026-05-19T21:21:16",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/dining/nyc-restaurant-news.html",
-    "feed_name": "NYT (Food)",
-    "title": "A New Brasserie Tempts With French Delights",
-    "author": "Florence Fabricant",
-    "link": "https://www.nytimes.com/2026/05/19/dining/nyc-restaurant-news.html",
-    "content": "Michael Lomonaco offers the classics at Brasserie Cognac Am\u00e9ricain, Dr\u0101vida brings new tastes from the Indian diaspora, free Champagne dinners and more restaurant news.",
-    "date": "2026-05-19T20:45:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/dining/strangers-author-belle-burden.html",
-    "feed_name": "NYT (Food)",
-    "title": "\u2018Strangers\u2019 Author Belle Burden Doesn\u2019t Want Eggs Outside Breakfast",
-    "author": "Nikita Richardson",
-    "link": "https://www.nytimes.com/2026/05/19/dining/strangers-author-belle-burden.html",
-    "content": "The New York City native on her food life, from a childhood on the Upper East Side to an adulthood in TriBeCa.",
-    "date": "2026-05-19T20:18:51",
-    "category": "NYT"
   }
 ]
