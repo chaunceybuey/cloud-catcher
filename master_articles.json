@@ -170,6 +170,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=235032",
+    "feed_name": "Texas Tribune",
+    "title": "Records reveal \u201csystemic neglect\u201d after immigrant died at Camp East Montana",
+    "author": "By Perla Trevizo, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17372153/records-reveal-systemic-neglect-after-immigrant-died-at-camp-east-montana",
+    "content": "Geraldo Lunas Campos died at East Camp Montana on Jan. 3, 2026.",
+    "date": "2026-07-03T09:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8801049#p8801049",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "Plaster corsets and Tehuana skirts, men\u2019s wear and spider monkeys: These are the things that made Frida Frida.",
     "date": "2026-05-19T13:34:15",
     "category": "NYT"
-  },
-  {
-    "id": "eb171f27cee3674a61bb5181640175d8",
-    "feed_name": "The Atlantic",
-    "title": "Trump\u2019s $1.8 Billion Slush Fund Is Worse Than Stealing",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/05/trump-anti-weaponization-fund-january-6/687215/",
-    "content": "Recasting the January 6 insurrection as the work of heroic patriots remains the president\u2019s highest priority.",
-    "date": "2026-05-19T13:13:44",
-    "category": "Magazines"
   }
 ]
