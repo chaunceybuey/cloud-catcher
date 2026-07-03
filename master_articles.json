@@ -100,6 +100,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=235111",
+    "feed_name": "Texas Tribune",
+    "title": "Trump administration asks Texas for help providing legal services to immigrant kids facing deportation",
+    "author": "Lomi Kriel",
+    "link": "https://feeds.texastribune.org/link/16799/17372351/trump-texas-doj-indigent-defense-unaccompanied-immigrant-children",
+    "content": "The shadows of asylum seekers are cast on a wall in Roma on Aug. 3, 2021. Roma is on the Texas/Mexico border in Starr County, about 50 miles west of McAllen.",
+    "date": "2026-07-03T17:30:32",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/03/arts/dance/lincoln-center-contemporary-dance-festival.html",
     "feed_name": "NYT (Arts)",
     "title": "A Return to the Familiar at Lincoln Center\u2019s New Dance Festival",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/gallery/cartoons-from-the-may-25-2026-issue",
     "content": "Drawings from the May 25, 2026, magazine.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "7146d0908bdc93792fb29674575a31e2",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Tuesday, May 12, 2026",
-    "author": "ByWyna Liu",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/05/12",
-    "content": "A moderately challenging puzzle.",
     "date": "2026-05-19T21:21:16",
     "category": "Magazines"
   }
