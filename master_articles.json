@@ -90,6 +90,36 @@
     "category": "Texas"
   },
   {
+    "id": "e51a29ac0f82c423f171e437d0812fd0",
+    "feed_name": "LRB",
+    "title": "At Dungeness",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n12/susannah-clapp/at-dungeness",
+    "content": "Here is\u200b an antidote to current traps and poisons. People who rescue rather than attack, who move in a physical, not a virtual, world, who don\u2019t morally triage others. Who put themselves in danger without aiming to get famous or on television. Who risk their lives without being paid.",
+    "date": "2026-07-03T14:10:03",
+    "category": "Magazines"
+  },
+  {
+    "id": "725701a932fb026f366650064e637af4",
+    "feed_name": "New Yorker",
+    "title": "How to Celebrate America\u2019s 250th Birthday",
+    "author": "BySheldon PearceandRachel Syme",
+    "link": "https://www.newyorker.com/culture/goings-on/how-to-celebrate-americas-250th-birthday",
+    "content": "Also: Rachel Syme on the return of Day-Glo.",
+    "date": "2026-07-03T14:09:59",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8801197#p8801197",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "heartwood",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8801197#p8801197",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Does anyone use Fidelity CMA to pay for mortgage? Do you directly pay the mortgage or maybe transfer to your bank and then pay from there?<br /><br />Does anyone use Fidelity CMA for direct deposit?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Yes. Direct deposit, ach auto payment, credit card, insurance, car loan, all deposited or pulled from CMA.<br /><br />No issues.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>It all worked flawlessly for me until COVID. For years Fido  had always sent a paper check to my bank with no problems. This time it arrived late and messed up my WF 1099 for the year.  It was a USPS issue.  Fido sent it in plenty of time.  WF would not reissue claiming it was not received at the time they did the 1099 just a few days into the year.<br />After that we switched to a pull from the bank from our CMA.<br />Fido also switched to EFT transfer for WF sometime that year.  It's not your choice how they pay the payee.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=49095\">heartwood</a> \u2014 Fri Jul 03, 2026 8:53 am</p><hr />",
+    "date": "2026-07-03T13:53:05",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/03/movies/new-movies-this-week-critics.html",
     "feed_name": "NYT (Arts)",
     "title": "5 New Movies Our Critics Are Talking About This Week",
@@ -108,6 +138,36 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Does anyone use Fidelity CMA to pay for mortgage? Do you directly pay the mortgage or maybe transfer to your bank and then pay from there?<br /><br />Does anyone use Fidelity CMA for direct deposit?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Yes. Direct deposit, ach auto payment, credit card, insurance, car loan, all deposited or pulled from CMA.<br /><br />No issues.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Fri Jul 03, 2026 8:04 am</p><hr />",
     "date": "2026-07-03T13:04:59",
     "category": "Finance"
+  },
+  {
+    "id": "80160d4654716f1acb04179d6cda9b4c",
+    "feed_name": "The Atlantic",
+    "title": "American Brands Seem Lukewarm on America\u2019s Birthday",
+    "author": "Annie Joy Williams",
+    "link": "https://www.theatlantic.com/ideas/2026/07/america-250-brands/687805/",
+    "content": "Does patriotism still sell in 2026?",
+    "date": "2026-07-03T13:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "a17a45048d1a3b0083d088b992657090",
+    "feed_name": "The Atlantic",
+    "title": "These Justices Are Not Impartial",
+    "author": "Adam Serwer",
+    "link": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-dissents/687799/",
+    "content": "Why such a slim Supreme Court majority upheld birthright citizenship",
+    "date": "2026-07-03T12:25:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "85f84167abe6be9a97c92baf41493710",
+    "feed_name": "The Atlantic",
+    "title": "The Hispanic Founder",
+    "author": "Geraldo L. Cadava",
+    "link": "https://www.theatlantic.com/ideas/2026/07/hispanic-founder-galvez-spain/687787/",
+    "content": "Bernardo de G\u00e1lvez helped win the Revolution. Can he win over 21st-century America?",
+    "date": "2026-07-03T12:00:00",
+    "category": "Magazines"
   },
   {
     "id": "beaf179a1c0dbf04653baf17f06275e2",
@@ -19938,65 +19998,5 @@
     "content": "So why aren\u2019t more buying inflation-protected bonds?",
     "date": "2026-05-19T19:36:34",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230645",
-    "feed_name": "Texas Tribune",
-    "title": "TribCast: Where have all the school kids gone?",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17344440/tribcast-texas-school-population-immigration",
-    "content": "A student walks down the hallway at Cactus Elementary School in Cactus on Jan. 28, 2020.",
-    "date": "2026-05-19T19:34:57",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230608",
-    "feed_name": "Texas Tribune",
-    "title": "Election for oil regulator becomes battleground for wealthy donors",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17344376/texas-railroad-commission-election-2026-billionaire-battleground",
-    "content": "GOP runoff challenger Bo From left: French and incumbent Texas Railroad Commission Chair Jim Wright.",
-    "date": "2026-05-19T18:33:45",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230602",
-    "feed_name": "Texas Tribune",
-    "title": "In GOP attorney general runoff, two hard-right conservatives spar over experience, Trump loyalty",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17344369/texas-attorney-general-gop-runoff-mayes-middleton-chip-roy-maga-trump-experience",
-    "content": "U.S. Rep. Chip Roy, R-Austin, left, and state Sen. Mayes Middleton, R-Galveston, speak at a debate hosted by the Republican Attorneys General Association (RAGA) at the Grenada Theater in Dallas on Feb. 17, 2026.",
-    "date": "2026-05-19T18:22:38",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/arts/music/amplifier-newsletter-kurt-vile-mike-d.html",
-    "feed_name": "NYT (Arts)",
-    "title": "6 New Songs You Should Hear Now",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/05/19/arts/music/amplifier-newsletter-kurt-vile-mike-d.html",
-    "content": "Kurt Vile",
-    "date": "2026-05-19T18:13:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/17/books/william-steig-shrek-anniversary.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Creator of \u2018Shrek!\u2019 Never Got to See the Memes",
-    "author": "Brian Raftery",
-    "link": "https://www.nytimes.com/2026/05/17/books/william-steig-shrek-anniversary.html",
-    "content": "The writer and illustrator William Steig lived several lives before his book about a surly ogre became a Hollywood hit.",
-    "date": "2026-05-19T18:12:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/dining/100000010912790/original-plum-torte.html",
-    "feed_name": "NYT (Food)",
-    "title": "Original Plum Torte",
-    "author": "",
-    "link": "https://www.nytimes.com/video/dining/100000010912790/original-plum-torte.html",
-    "content": "First published in 1983, Marian Burros\u2019s plum torte has become one of the most popular recipes in the history of The Times, and it\u2019s no mystery why. There are so many things to love: It\u2019s easy, it\u2019s practically no-fail and it\u2019s endlessly adaptable.",
-    "date": "2026-05-19T17:28:13",
-    "category": "NYT"
   }
 ]
