@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/03/dining/america-250-birthday-cake-grace-pak.html",
+    "feed_name": "NYT (Food)",
+    "title": "Making a Cake for America\u2019s 250th Birthday",
+    "author": "Kim Severson",
+    "link": "https://www.nytimes.com/2026/07/03/dining/america-250-birthday-cake-grace-pak.html",
+    "content": "In her quest to mark the nation\u2019s 250th with a unifying dessert, Grace Pak had to navigate the pitfalls of a polarized Washington.",
+    "date": "2026-07-03T14:20:29",
+    "category": "NYT"
+  },
+  {
     "id": "e51a29ac0f82c423f171e437d0812fd0",
     "feed_name": "LRB",
     "title": "At Dungeness",
@@ -19988,15 +19998,5 @@
     "content": "Julie Mehretu and John Jasperse are collaborating at the Marian Goodman Gallery: \u201cHow do we bring something to each other\u2019s work that feels productive?\u201d",
     "date": "2026-05-19T20:03:03",
     "category": "NYT"
-  },
-  {
-    "id": "592259b5-384d-42ca-a4cc-6ca35b4a2d82",
-    "feed_name": "Economist",
-    "title": "Investors fear another surge in inflation",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/19/investors-fear-another-surge-in-inflation",
-    "content": "So why aren\u2019t more buying inflation-protected bonds?",
-    "date": "2026-05-19T19:36:34",
-    "category": "Magazines"
   }
 ]
