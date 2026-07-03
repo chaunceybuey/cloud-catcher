@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=235076",
+    "feed_name": "Texas Tribune",
+    "title": "Border wall through Big Bend state park in \u201cplanning stages\u201d as updated map includes 2-mile barrier",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17372010/texas-big-bend-ranch-state-park-border-wall-plans",
+    "content": "The Rio Grande flows between the U.S.-Mexico border alongside FM 170 in Big Bend Ranch State Park on May 24, 2026.",
+    "date": "2026-07-03T00:35:02",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8800947#p8800947",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/19/arts/television/summer-house-scamanda-scandoval.html",
     "content": "The announcement that Amanda Batula and West Wilson, co-stars of Bravo\u2019s \u201cSummer House,\u201d were dating shocked many.",
     "date": "2026-05-19T09:00:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/arts/tides-tomorrow-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Tides of Tomorrow, Desperate Times Call for Antediluvian Measures",
-    "author": "Christopher Byrd",
-    "link": "https://www.nytimes.com/2026/05/19/arts/tides-tomorrow-review.html",
-    "content": "In the eco-adventure Tides of Tomorrow, the actions of previous players shape the world you will encounter.",
-    "date": "2026-05-19T09:00:35",
     "category": "NYT"
   }
 ]
