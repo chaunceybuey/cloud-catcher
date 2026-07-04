@@ -90,6 +90,76 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/04/arts/television/human-vapor-review-netflix.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Human Vapor\u2019 Review: Netflix Remakes a Japanese Sci-Fi Curio",
+    "author": "Mike Hale",
+    "link": "https://www.nytimes.com/2026/07/04/arts/television/human-vapor-review-netflix.html",
+    "content": "The model Uta Uchida, billed as UTA, stars in \u201cHuman Vapor,\u201d based on a 1960s Japanese film. The remake updates the story with anti-authoritarian and anticapitalist themes.",
+    "date": "2026-07-04T09:01:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/04/movies/readers-choose-films-that-capture-america.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Readers Pick the Definitive Films That Capture America",
+    "author": "Stephanie Goodman",
+    "link": "https://www.nytimes.com/2026/07/04/movies/readers-choose-films-that-capture-america.html",
+    "content": "Though \u201cIdiocracy\u201d and \u201cThe Godfather\u201d topped their list, the sheer range of suggestions shows how there are many ways to understand the country.",
+    "date": "2026-07-04T09:01:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/04/us/politics/joyce-beatty-kennedy-center.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Representative Joyce Beatty Still Celebrating Victory in Kennedy Center Legal Battle",
+    "author": "Olivia Diaz",
+    "link": "https://www.nytimes.com/2026/07/04/us/politics/joyce-beatty-kennedy-center.html",
+    "content": "Representative Joyce Beatty said she had been inspired to wage the legal battle out of a desire to protect the civil rights legacy of President John F. Kennedy.",
+    "date": "2026-07-04T09:00:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/04/movies/catherine-lagaaia-moana-live-action.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Catherine Laga\u2019aia, \u2018Moana\u2019 Star, on the Funniest Podcast Episode Ever",
+    "author": "Kathryn Shattuck",
+    "link": "https://www.nytimes.com/2026/07/04/movies/catherine-lagaaia-moana-live-action.html",
+    "content": "\u201cI would just watch it, replay it, watch it, replay it,\u201d the \u201cMoana\u201d star said.",
+    "date": "2026-07-04T09:00:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/04/movies/cliffhanger-sylvester-stallone.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Perilous and Preposterous, \u2018Cliffhanger\u2019 Brought Stallone Back From the Brink",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/07/04/movies/cliffhanger-sylvester-stallone.html",
+    "content": "Renny Harlin\u2019s high-altitude thriller starring Sylvester Stallone and John Lithgow was peak early 1990s action extravagance.",
+    "date": "2026-07-04T09:00:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/movies/100000010926526/most-american-movie-there-will-be-blood.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why \u2018There Will Be Blood\u2019 Is the Most American Movie",
+    "author": "Alissa Wilkinson, Edward Vega and Gabriel Blanco",
+    "link": "https://www.nytimes.com/video/movies/100000010926526/most-american-movie-there-will-be-blood.html",
+    "content": "The New York Times Film Critic, Alissa Wilkinson, breaks down how Paul Thomas Anderson\u2019s 2007 epic deconstructs and exemplifies American ideals.",
+    "date": "2026-07-04T09:00:09",
+    "category": "NYT"
+  },
+  {
+    "id": "6a456825dae48c15b88ce7ae",
+    "feed_name": "Wired (Science)",
+    "title": "Scientists Have Identified a New Fossil Species of Axolotl in Mexico",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/scientists-have-identified-a-new-fossil-species-of-axolotl-in-mexico/",
+    "content": "Ambystoma quetzalcoatli is the first fossil salamander to be formally identified in Mexico, revealing that axolotls have inhabited the country for millions of years.",
+    "date": "2026-07-04T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/04/movies/good-bad-movies-nytimes.html",
     "feed_name": "NYT (Arts)",
     "title": "Why Loving Good-Bad Movies Feels All Good",
@@ -19926,76 +19996,6 @@
     "author": "ByWeike Wang",
     "link": "https://www.newyorker.com/magazine/2026/05/25/the-dreamdrive-fiction-weike-wang",
     "content": "Each morning, he \u201cawoke\u201d\u2014not the term he would have used\u2014exhausted, having not slept and having driven all night.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "ecafc978ee0d3c275ac0ca8400a1e27b",
-    "feed_name": "New Yorker",
-    "title": "The Prehistory of A.I. Slop",
-    "author": "ByJill Lepore",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/the-prehistory-of-ai-slop",
-    "content": "Before ChatGPT, there was the Plot Robot, Auto-Beatnik, and a century\u2019s worth of schemes for automating authorship.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "7a02d48e7597f781d3609d50bd8b3929",
-    "feed_name": "New Yorker",
-    "title": "Mary Todd Lincoln Has Long Been Derided. Is Her Reputation Salvageable?",
-    "author": "ByThomas Mallon",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/an-inconvenient-widow-lois-romano-book-review",
-    "content": "History knows the First Lady as a hysterical widow and a lavish spender. Her most recent biographer chooses to highlight her mental fortitude and political prowess.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "be153ab7ba08009d9968dca9011e61aa",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/into-the-wood-chipper-transcendence-for-beginners-paradiso-17-the-monuments-of-paris",
-    "content": "\u201cInto the Wood Chipper,\u201d \u201cTranscendence for Beginners,\u201d \u201cParadiso 17,\u201d and \u201cThe Monuments of Paris.\u201d",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "7ca824fef555bffa3cf4742dac0e950d",
-    "feed_name": "New Yorker",
-    "title": "The Age of \u201cIntentional\u201d Drinking",
-    "author": "ByHannah Goldfield",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/the-age-of-intentional-drinking",
-    "content": "Americans are losing their appetite for booze. Could the mini Martini lure them back?",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "99e5ff43e754575c134b07d9a6260b04",
-    "feed_name": "New Yorker",
-    "title": "Rostam Batmanglij Wanders to the Edges of American Sound",
-    "author": "ByAmanda Petrusich",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/rostam-batmanglij-wanders-to-the-edges-of-american-sound",
-    "content": "The polymath musician, formerly of Vampire Weekend, likes to push our idea of what a pop song can be.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "8d934c303500fd4c07af05156ce0dd5f",
-    "feed_name": "New Yorker",
-    "title": "Chaya Czernowin Gives Voice to a Wounded World",
-    "author": "ByAlex Ross",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/chaya-czernowin-gives-voice-to-a-wounded-world",
-    "content": "The composer\u2019s work, featured at a recent festival in Germany, includes a howling denunciation of war crimes against children.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "99ce5a08d081e6f544dd2f08928d848d",
-    "feed_name": "New Yorker",
-    "title": "For/Against Summer, a Spell",
-    "author": "ByValzhyna Mort",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/for-against-summer-a-spell-valzhyna-mort-poem",
-    "content": "\u201cIn sorrowship dues, in sap, on the spines of pines, / despite the winter of hearts, summer came.\u201d",
     "date": "2026-05-19T21:21:16",
     "category": "Magazines"
   }
