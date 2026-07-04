@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/04/movies/good-bad-movies-nytimes.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why Loving Good-Bad Movies Feels All Good",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/07/04/movies/good-bad-movies-nytimes.html",
+    "content": "A pop culture reporter explains why she revels in debating movies that cross the line from bad to sublime.",
+    "date": "2026-07-04T07:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-photos-msg.html",
     "feed_name": "NYT (Arts)",
     "title": "Photos: See Outside Taylor Swift and Travis Kelce\u2019s Wedding at MSG",
@@ -19986,16 +19996,6 @@
     "author": "ByValzhyna Mort",
     "link": "https://www.newyorker.com/magazine/2026/05/25/for-against-summer-a-spell-valzhyna-mort-poem",
     "content": "\u201cIn sorrowship dues, in sap, on the spines of pines, / despite the winter of hearts, summer came.\u201d",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "48ccebb7b7907bac65a0dce8484a58d6",
-    "feed_name": "New Yorker",
-    "title": "\u201cThe Angel of Retail\u201d",
-    "author": "ByRobert Pinsky",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/the-angel-of-retail-robert-pinsky-poem",
-    "content": "\u201cYour spirit of grace in the taffy machine\u2019s chrome arms / At Morris\u2019s Candy performing a sarabande / Unknitting and knitting again immaculate sweets.\u201d",
     "date": "2026-05-19T21:21:16",
     "category": "Magazines"
   }
