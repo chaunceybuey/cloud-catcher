@@ -190,6 +190,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/potato-salad-american",
+    "feed_name": "NYT (Food)",
+    "title": "Potato Salad Is the Best, Most American Dish We Have. Here\u2019s Why.",
+    "author": "Wesley Morris",
+    "link": "https://cooking.nytimes.com/article/potato-salad-american",
+    "content": "This staple of summer gatherings tells a story about who we are.",
+    "date": "2026-07-04T09:00:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/04/movies/cliffhanger-sylvester-stallone.html",
     "feed_name": "NYT (Arts)",
     "title": "Perilous and Preposterous, \u2018Cliffhanger\u2019 Brought Stallone Back From the Brink",
@@ -19986,16 +19996,6 @@
     "author": "ByBen McGrath",
     "link": "https://www.newyorker.com/magazine/2026/05/25/baseballs-magna-carta-finds-a-new-home",
     "content": "In 1999, Frank Murray bid in a Sotheby\u2019s auction and nabbed the \u201cLaws of Base Ball,\u201d a nineteenth-century document detailing early rules of America\u2019s pastime. Now it\u2019s worth two hundred and fifty times what he paid.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "a37a519720c3de93ee1124a4bc63adde",
-    "feed_name": "New Yorker",
-    "title": "Where the Met Gala Really Begins",
-    "author": "ByJane Bua",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/where-the-met-gala-really-begins",
-    "content": "Every year, the Mark Hotel is transformed into a chaotic celebrity holding pen.",
     "date": "2026-05-19T21:21:16",
     "category": "Magazines"
   }
