@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "c926f77c40275cec8816d8343e634564",
+    "feed_name": "The Atlantic",
+    "title": "The Most Perfect Coincidence in American History",
+    "author": "Jim Rasenberger",
+    "link": "https://www.theatlantic.com/ideas/2026/07/america-jefferson-adams-providence/687790/",
+    "content": "How the simultaneous deaths of two Founding Fathers cemented one of the country\u2019s most dangerous beliefs",
+    "date": "2026-07-04T12:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "57300786ecdf9391643d015b86941645",
+    "feed_name": "The Atlantic",
+    "title": "How to Define America in 30 Objects",
+    "author": "Lonnie G. Bunch III",
+    "link": "https://www.theatlantic.com/ideas/2026/07/define-america-30-objects/687778/",
+    "content": "What artifacts capture 250 years of work to attain the dreams of the Declaration?",
+    "date": "2026-07-04T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/04/opinion/250-america-independence-day.html",
     "feed_name": "Interesting Times",
     "title": "The Unifying Speech We Won\u2019t Get This Independence Day",
@@ -19976,26 +19996,6 @@
     "author": "ByJane Bua",
     "link": "https://www.newyorker.com/magazine/2026/05/25/where-the-met-gala-really-begins",
     "content": "Every year, the Mark Hotel is transformed into a chaotic celebrity holding pen.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "c07c644a49b7ed84b377f1e4e732ebe4",
-    "feed_name": "New Yorker",
-    "title": "The Human-Trafficking Victim Next Door",
-    "author": "ByYudhijit Bhattacharjee",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/the-human-trafficking-victim-next-door",
-    "content": "A young girl was brought from Guinea to a wealthy suburb near Dallas. She spent the next sixteen years of her life in forced servitude.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "87bf94d5f53440ec5af75f07ff7781e4",
-    "feed_name": "New Yorker",
-    "title": "The Mystery and Mass Appeal of the N.F.L. Draft",
-    "author": "ByDan Greene",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/the-mystery-and-mass-appeal-of-the-nfl-draft",
-    "content": "The annual draft is watched by millions, and analyzed by a set of professional and amateur prognosticators. Still, it comes down to a crapshoot.",
     "date": "2026-05-19T21:21:16",
     "category": "Magazines"
   }
