@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/04/dining/atlantic-beach-pie-is-the-ultimate-summertime-pie.html",
+    "feed_name": "NYT (Food)",
+    "title": "Atlantic Beach Pie Is the Ultimate Summertime Pie",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/07/04/dining/atlantic-beach-pie-is-the-ultimate-summertime-pie.html",
+    "content": "Bill Smith\u2019s Atlantic Beach pie, adapted by Margaux Laskey.",
+    "date": "2026-07-04T14:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "c926f77c40275cec8816d8343e634564",
     "feed_name": "The Atlantic",
     "title": "The Most Perfect Coincidence in American History",
@@ -19986,16 +19996,6 @@
     "author": "ByMichael Schulman",
     "link": "https://www.newyorker.com/magazine/2026/05/25/can-mozart-and-salieri-work-it-out",
     "content": "At the Morgan Library\u2019s Mozart exhibition, Will Sharpe and Paul Bettany dish about playing classical music\u2019s most notorious rivals, on Starz\u2019s new \u201cAmadeus\u201d reboot.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "b4c91445b87fc65208303db794f23721",
-    "feed_name": "New Yorker",
-    "title": "Baseball\u2019s Magna Carta Finds a New Home",
-    "author": "ByBen McGrath",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/baseballs-magna-carta-finds-a-new-home",
-    "content": "In 1999, Frank Murray bid in a Sotheby\u2019s auction and nabbed the \u201cLaws of Base Ball,\u201d a nineteenth-century document detailing early rules of America\u2019s pastime. Now it\u2019s worth two hundred and fifty times what he paid.",
     "date": "2026-05-19T21:21:16",
     "category": "Magazines"
   }
