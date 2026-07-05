@@ -60,6 +60,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/",
+    "feed_name": "NYRB",
+    "title": "Space Oddity",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/",
+    "content": "Quinn Slobodian and Ben Tarnoff\u2019s <em>Muskism</em> examines how Elon Musk became the world\u2019s first trillionaire, by selling a vision of the future that very few people would want to inhabit.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-05T15:48:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/05/books/mike-wallace-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mike Wallace, Who Wrote a Radical History of New York, Dies at 83",
+    "author": "Sam Roberts",
+    "link": "https://www.nytimes.com/2026/07/05/books/mike-wallace-dead.html",
+    "content": "Mike Wallace in 2017. The Pulitzer committee said that \u201cGotham,\u201d which he wrote with Edwin G. Burrows, tied many strands \u201cinto a single narrative tapestry that reads like a fast-paced novel.\u201d",
+    "date": "2026-07-05T15:45:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/07/23/climate-and-punishment-vigil-george-saunders/",
+    "feed_name": "NYRB",
+    "title": "Climate and Punishment",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/climate-and-punishment-vigil-george-saunders/",
+    "content": "<em>Vigil</em> finds George Saunders returning to the theme of his first novel, grief\u2014this time not for a person but for a planet.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-05T15:33:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nybooks.com/articles/2026/07/23/an-uncertain-triumphalism-1876-centennial-exhibition/",
+    "feed_name": "NYRB",
+    "title": "An Uncertain Triumphalism",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/07/23/an-uncertain-triumphalism-1876-centennial-exhibition/",
+    "content": "America\u2019s centennial in 1876 was celebrated with a grand exhibition that projected an image of national unity and inventiveness in the anxious aftermath of civil war and recession.\n\nDelivered by PolitePaul service",
+    "date": "2026-07-05T15:18:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/05/dining/this-olive-oil-zucchini-bread-is-just-sweet-enough.html",
     "feed_name": "NYT (Food)",
     "title": "This Olive Oil Zucchini Bread Is Just Sweet Enough",
@@ -19957,46 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17344562/texas-35th-congressional-runoff-democrats-condemn-maureen-galindo-antisemitism",
     "content": "Maureen Galindo, Democratic candidate for U.S. Congress in the San Antonio-area 35th Congressional District. Galindo faces Johnny Garcia in the May 26 runoff election in the newly drawn district.",
     "date": "2026-05-20T02:11:18",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8766977#p8766977",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "retiringwhen",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8766977#p8766977",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>My understandng is that one reason Vanguard created Cash Plus was to facilitate outside transactions which require a bank account with an ABA number. The ABA used is that of PNC bank.  To link to an outside account, TreasuryDirect requires an account with an ABA number as well as an account number yet it won't accept a link to a Cash Plus account. Neither Vanguard nor TreasuryDirect could say why there's a problem. Anbyone have any ideas why they're inompatible?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>If you read the earlier parts of this thread you will see that the routing number used by PNC for this account was once assigned to a now defunct savings and loan that was purchased by PNC through some of the bank mergers in the past.<br /><br />It is 100% legal and correct for PNC to use the number, but many merchants/billers have terribly outdated ABA routing number databases.<br /><br />The problem is with the merchant/biller not maintaining their data correctly. It is definitely a problem with TreasuryDirect. Gov't agencies have been the slowest to fix it. Utilities as well.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=122804\">retiringwhen</a> \u2014 Tue May 19, 2026 8:50 pm</p><hr />",
-    "date": "2026-05-20T01:50:31",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8766958#p8766958",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "Kimchi2",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8766958#p8766958",
-    "content": "My understandng is that one reason Vanguard created Cash Plus was to facilitate outside transactions which require a bank account with an ABA number. The ABA used is that of PNC bank.  To link to an outside account, TreasuryDirect requires an account with an ABA number as well as an account number yet it won't accept a link to a Cash Plus account. Neither Vanguard nor TreasuryDirect could say why there's a problem. Anbyone have any ideas why they're inompatible?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=183815\">Kimchi2</a> \u2014 Tue May 19, 2026 7:52 pm</p><hr />",
-    "date": "2026-05-20T00:52:46",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/theater/beaches-broadway-closing.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Beaches\u2019 to Close on Broadway Months Earlier Than Planned",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/05/19/theater/beaches-broadway-closing.html",
-    "content": "\u201cBeaches,\u201d which was rushed to Broadway with a modest cast, had been scheduled to run through Sept. 6.",
-    "date": "2026-05-19T23:28:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230748",
-    "feed_name": "Texas Tribune",
-    "title": "Rain gives Corpus Christi a small break, delaying projected water crisis by 3 months",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17344520/texas-corpus-christi-water-crisis-delay-december",
-    "content": "The Corpus Christi City Council meets to discuss the city&#039;s depleting water supplies on March 17, 2026.",
-    "date": "2026-05-19T22:51:20",
     "category": "Texas"
   }
 ]
