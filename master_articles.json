@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/05/arts/design/v-and-a-east-storehouse.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ordering Objects at V&E East Storehouse: From David Bowie Guitar to Beatrix Potter Originals",
+    "author": "Alex Marshall and Max Miechowski",
+    "link": "https://www.nytimes.com/2026/07/05/arts/design/v-and-a-east-storehouse.html",
+    "content": "Visitors at the V&amp;A East Storehouse can book appointments with artifacts that usually aren\u2019t on show \u2014 and can even touch many of them.",
+    "date": "2026-07-05T04:01:20",
+    "category": "NYT"
+  },
+  {
     "id": "9a9b73b98ff90f5c63b8785a60a7707b",
     "feed_name": "The Atlantic",
     "title": "Pope Leo\u2019s July 4 Message to America Was Unmistakable",
@@ -19986,16 +19996,6 @@
     "author": "ByAmy Davidson Sorkin",
     "link": "https://www.newyorker.com/magazine/2026/05/25/can-the-democrats-take-back-the-senate",
     "content": "Their electoral prospects are finally improving, but opportunities can quickly give way to divisions. Does the Party have a plan?",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "3c95f1ed40856870be1488e9729dd018",
-    "feed_name": "New Yorker",
-    "title": "Shaggy\u2019s Boombastic Pilates Session",
-    "author": "ByNatalie Meade",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/shaggys-boombastic-pilates-session",
-    "content": "In town to talk about his new album, \u201cLottery,\u201d and en route to a collaboration with Sting, the Grammy-winning reggae star stretches and shakes at a reformer workout class.",
     "date": "2026-05-19T21:21:16",
     "category": "Magazines"
   }
