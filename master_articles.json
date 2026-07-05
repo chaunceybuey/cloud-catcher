@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/05/arts/design/america-250-anniversary-smithsonian.html",
+    "feed_name": "NYT (Arts)",
+    "title": "On America\u2019s 250th, Smithsonian Museums Offer Respite and Reflection",
+    "author": "Derrick Bryson Taylor and Lawren Simmons",
+    "link": "https://www.nytimes.com/2026/07/05/arts/design/america-250-anniversary-smithsonian.html",
+    "content": "At the National Museum of American History on Saturday in Washington, where the high was 101 degrees.",
+    "date": "2026-07-05T09:01:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/05/movies/world-cup-soccer-documentaries-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "7 Inspiring Soccer Documentaries to Stream",
+    "author": "Carlos Aguilar",
+    "link": "https://www.nytimes.com/2026/07/05/movies/world-cup-soccer-documentaries-streaming.html",
+    "content": "In these nonfiction accounts, the sport is a force for hope in sometimes dire situations.",
+    "date": "2026-07-05T09:01:24",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/05/style/martin-margiela-auction-paris.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Martin Margiela, One of Fashion\u2019s Most Influential Designers, Auctions Off His Personal Archive",
+    "author": "Vanessa Friedman",
+    "link": "https://www.nytimes.com/2026/07/05/style/martin-margiela-auction-paris.html",
+    "content": "How Martin Margiela, one of the most influential living designers, came to auction off his personal archive, and what it means.",
+    "date": "2026-07-05T09:00:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/05/arts/design/v-and-a-east-storehouse.html",
     "feed_name": "NYT (Arts)",
     "title": "Ordering Objects at V&E East Storehouse: From David Bowie Guitar to Beatrix Potter Originals",
@@ -19967,36 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/may/volleyball-on-the-beach",
     "content": "Before the war, Muhammad had been the most energetic of us. He wasn\u2019t tall, but he never saw that as an obstacle. He was always the first to.\u00a0.\u00a0.",
     "date": "2026-05-19T21:21:21",
-    "category": "Magazines"
-  },
-  {
-    "id": "026d3dea6a319de753b53bea142b04c6",
-    "feed_name": "LRB",
-    "title": "Max Richter\u2019s \u2018Sleep\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/may/max-richter-s-sleep",
-    "content": "Max Richter\u2019s Sleep, made up of 204 continuous movements, plays for nearly eight and a half hours. This is not as long as Erik Satie\u2019s Vexations.\u00a0.\u00a0.",
-    "date": "2026-05-19T21:21:21",
-    "category": "Magazines"
-  },
-  {
-    "id": "00a2a81bc9c7d02e1a836d4bd7d9b3c8",
-    "feed_name": "New Yorker",
-    "title": "The Surrealist Blues Poet aja monet\u2019s Jazzy New Album",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/the-surrealist-blues-poet-aja-monets-jazzy-new-album",
-    "content": "Also: Joan Semmel\u2019s revolutionary nudes, Aleshea Harris\u2019s film adaptation of \u201cIs God Is,\u201d Rachel Syme on thrift markets galore, and more.",
-    "date": "2026-05-19T21:21:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "9b9b0b8a397f340725eaaab328bfb05e",
-    "feed_name": "New Yorker",
-    "title": "Can the Democrats Take Back the Senate?",
-    "author": "ByAmy Davidson Sorkin",
-    "link": "https://www.newyorker.com/magazine/2026/05/25/can-the-democrats-take-back-the-senate",
-    "content": "Their electoral prospects are finally improving, but opportunities can quickly give way to divisions. Does the Party have a plan?",
-    "date": "2026-05-19T21:21:16",
     "category": "Magazines"
   }
 ]
