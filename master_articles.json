@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a45af211d03129e638e43d2",
+    "feed_name": "Wired (Science)",
+    "title": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
+    "author": "Kylie Mohr",
+    "link": "https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/",
+    "content": "Wildfire survivors call fire-prediction markets \u201cmorally reprehensible\u201d and worry they could increase the risk of arson.",
+    "date": "2026-07-05T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a4567dcca2139b68f2de7ee",
     "feed_name": "Wired (Science)",
     "title": "What Are Fish Oil Supplements Good For? Here\u2019s Your Crash Course",
@@ -19988,15 +19998,5 @@
     "content": "Barry Blaustein in 2010. A comedy writer, he was best known for the characters and screenplays he helped write for Eddie Murphy as Mr. Murphy rose to become a superstar.",
     "date": "2026-05-19T21:38:13",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230701",
-    "feed_name": "Texas Tribune",
-    "title": "Death at SpaceX\u2019s Starbase prompts workplace safety investigation",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17344463/texas-spacex-death-prompts-osha-investigation",
-    "content": "SpaceX rockets at the launch pad at the Brownsville facility on Oct. 20, 2021. Texas Parks and Wildlife is negotiating a land swap that would give the company part of Boca Chica State Park.",
-    "date": "2026-05-19T21:28:12",
-    "category": "Texas"
   }
 ]
