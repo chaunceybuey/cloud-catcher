@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "9ddeeb53-e0a2-42fd-aec9-30f43151d358",
+    "feed_name": "Economist",
+    "title": "Women\u2019s progress at work is stalling",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-is-stalling",
+    "content": "Is the \u201cLean In\u201d generation leaning out?",
+    "date": "2026-07-05T17:22:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/05/arts/design/white-house-smithsonian-american-history-museum.html",
     "feed_name": "NYT (Arts)",
     "title": "White House Criticizes Smithsonian Museum for \u2018Extreme Political Activism\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/20/arts/television/older-people-tv-representation.html",
     "content": "While older people are still underrepresented on TV, the characters that are there have become richer and more multidimensional.",
     "date": "2026-05-20T09:01:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/arts/design/obama-presidential-center-mark-bradford-chicago-art.html",
-    "feed_name": "NYT (Arts)",
-    "title": "For the Obama Center, Mark Bradford Paints a Fierce and Luminous Chicago",
-    "author": "Elly Fishman",
-    "link": "https://www.nytimes.com/2026/05/20/arts/design/obama-presidential-center-mark-bradford-chicago-art.html",
-    "content": "The painter Mark Bradford stands at the edge of Lake Michigan on Chicago\u2019s South Side. The artist drew inspiration from both the Great Lake and the city\u2019s industrial roots for his new work commissioned by the Obama Foundation.",
-    "date": "2026-05-20T09:00:42",
     "category": "NYT"
   }
 ]
