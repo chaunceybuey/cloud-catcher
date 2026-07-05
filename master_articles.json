@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/05/dining/bertrand-grebaut-dead.html",
+    "feed_name": "NYT (Food)",
+    "title": "Bertrand Gr\u00e9baut, Influential French Chef, Is Dead at 44",
+    "author": "Elaine Sciolino",
+    "link": "https://www.nytimes.com/2026/07/05/dining/bertrand-grebaut-dead.html",
+    "content": "Bertrand Gr\u00e9baut in 2012 at a food festival in Brooklyn. He avoided social media, saying \u201cI encourage the public and clients to restart taking pleasure in the moment shared around a table and stop consuming photos.\u201d",
+    "date": "2026-07-05T20:44:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235146",
+    "feed_name": "Texas Tribune",
+    "title": "Former U.S. Rep. Bill Archer dies at 98",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17373484/bill-archer-texas-congressman-obituary",
+    "content": "Former U.S. Rep. Bill Archer died Saturday at 98. In this file photo, the Republican congressman who represented parts of Houston spoke in 2017 at the Harris County Republican Party Lincoln Reagan Dinner at the Bayou City Events Center in Houston.",
+    "date": "2026-07-05T19:38:19",
+    "category": "Texas"
+  },
+  {
     "id": "9ddeeb53-e0a2-42fd-aec9-30f43151d358",
     "feed_name": "Economist",
     "title": "Women\u2019s progress at work is stalling",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/20/theater/ava-pickett-1536.html",
     "content": "\u201c1536,\u201d which reached the stage last year, is Ava Pickett\u2019s first full-length play.",
     "date": "2026-05-20T09:02:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/movies/tom-clancys-jack-ryan-ghost-war-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Tom Clancy\u2019s Jack Ryan: Ghost War\u2019 Review: He\u2019s Back for More",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/05/20/movies/tom-clancys-jack-ryan-ghost-war-review.html",
-    "content": "John Krasinski makes his feature-film debut in the Ryan role, alongside Michael Kelly and Wendell Pierce.",
-    "date": "2026-05-20T09:01:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/arts/television/older-people-tv-representation.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Older People Are Still Underrepresented on TV, but Shows Like \u2018The Boroughs\u2019 Are Helping",
-    "author": "Alexis Soloski",
-    "link": "https://www.nytimes.com/2026/05/20/arts/television/older-people-tv-representation.html",
-    "content": "While older people are still underrepresented on TV, the characters that are there have become richer and more multidimensional.",
-    "date": "2026-05-20T09:01:35",
     "category": "NYT"
   }
 ]
