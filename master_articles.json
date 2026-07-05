@@ -70,6 +70,26 @@
     "category": "NYT"
   },
   {
+    "id": "47006ea7c3601d05a2c339cc2af9ac3c",
+    "feed_name": "The Atlantic",
+    "title": "What Trump\u2019s July 4 Speech Revealed",
+    "author": "David Frum",
+    "link": "https://www.theatlantic.com/ideas/2026/07/trump-july-4/687811/",
+    "content": "The president demanded credit for a history that he regards as a sucker\u2019s mistake.",
+    "date": "2026-07-05T12:50:51",
+    "category": "Magazines"
+  },
+  {
+    "id": "e9df750c0b410cb00c8db5dad1976919",
+    "feed_name": "The Atlantic",
+    "title": "A President With More Control, but Less Power",
+    "author": "Philip Hamburger",
+    "link": "https://www.theatlantic.com/ideas/2026/07/slaughter-executive-power-administration/687796/",
+    "content": "Slaughteris a necessary corrective to our age of unaccountable bureaucracy.",
+    "date": "2026-07-05T11:22:11",
+    "category": "Magazines"
+  },
+  {
     "id": "6a45af211d03129e638e43d2",
     "feed_name": "Wired (Science)",
     "title": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/19/books/international-booker-prize-taiwan-travelogue.html",
     "content": "\u201cTaiwan Travelogue\u201d is the first novel originally written in Mandarin to win the major award for fiction translated into English.",
     "date": "2026-05-19T22:36:26",
-    "category": "NYT"
-  },
-  {
-    "id": "6a0ccfb91c00f5d3c73ed9c8",
-    "feed_name": "Wired (Science)",
-    "title": "California's Wildfire Season Is Already Overactive",
-    "author": "Brian Kahn",
-    "link": "https://www.wired.com/story/californias-wildfire-season-already-overactive/",
-    "content": "Major fires are threatening homes and ecologically sensitive areas following a hot, dry winter.",
-    "date": "2026-05-19T22:20:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
-    "feed_name": "Douthat",
-    "title": "How I Lost a Religion",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
-    "content": "Lessons from sports fandom on why traditions fade.",
-    "date": "2026-05-19T22:00:08",
     "category": "NYT"
   }
 ]
