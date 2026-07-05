@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/05/dining/andy-baraghanis-chicken-salad-is-full-of-crunch.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Andy Baraghani\u2019s Chicken Salad Is Full of Crunch",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/07/05/dining/andy-baraghanis-chicken-salad-is-full-of-crunch.html",
+    "content": "And, since it swaps cashew butter for the mayo, it can also stand the summer heat.",
+    "date": "2026-07-05T13:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "6a45af211d03129e638e43d2",
     "feed_name": "Wired (Science)",
     "title": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/19/opinion/baseball-fandom.html",
     "content": "Lessons from sports fandom on why traditions fade.",
     "date": "2026-05-19T22:00:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/19/arts/television/barry-blaustein-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Barry Blaustein Dies at 71; Eddie Murphy Was His Muse",
-    "author": "Richard Sandomir",
-    "link": "https://www.nytimes.com/2026/05/19/arts/television/barry-blaustein-dead.html",
-    "content": "Barry Blaustein in 2010. A comedy writer, he was best known for the characters and screenplays he helped write for Eddie Murphy as Mr. Murphy rose to become a superstar.",
-    "date": "2026-05-19T21:38:13",
     "category": "NYT"
   }
 ]
