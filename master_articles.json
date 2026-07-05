@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/05/dining/this-olive-oil-zucchini-bread-is-just-sweet-enough.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Olive Oil Zucchini Bread Is Just Sweet Enough",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/07/05/dining/this-olive-oil-zucchini-bread-is-just-sweet-enough.html",
+    "content": "Melissa Clark\u2019s olive oil zucchini bread.",
+    "date": "2026-07-05T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/05/dining/andy-baraghanis-chicken-salad-is-full-of-crunch.html",
     "feed_name": "Weeknight Dishes",
     "title": "Andy Baraghani\u2019s Chicken Salad Is Full of Crunch",
@@ -19988,15 +19998,5 @@
     "content": "The Corpus Christi City Council meets to discuss the city&#039;s depleting water supplies on March 17, 2026.",
     "date": "2026-05-19T22:51:20",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/05/28/facing-the-past-transcription-ben-lerner/",
-    "feed_name": "NYRB",
-    "title": "\u2018Facing the Past\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/05/28/facing-the-past-transcription-ben-lerner/",
-    "content": "Ben Lerner\u2019s dazzling new novel, <em>Transcription</em>, plays variations on the conflicts and bonds that are felt among three generations.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-19T22:47:17",
-    "category": "Magazines"
   }
 ]
