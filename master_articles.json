@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/06/arts/design/president-trump-smithsonian-timeline.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Timeline of Trump\u2019s Pressure Campaign Against the Smithsonian",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/07/06/arts/design/president-trump-smithsonian-timeline.html",
+    "content": "The Smithsonian Institution includes 21 museums, libraries, research centers and the National Zoo.",
+    "date": "2026-07-06T15:31:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/06/dining/the-simple-meal-im-making-before-vacation.html",
     "feed_name": "NYT (Food)",
     "title": "The Simple Meal I\u2019m Making Before Vacation",
@@ -77,6 +87,16 @@
     "link": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
     "content": "Holes in socks have become a curious sight at this year\u2019s World Cup. The reasons why are a weird mix of biomechanics, perception, and player habits.",
     "date": "2026-07-06T14:50:52",
+    "category": "Magazines"
+  },
+  {
+    "id": "98c93a45c87a699c281cd5a22dd9673e",
+    "feed_name": "LRB",
+    "title": "When will AI replace us?",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/when-will-ai-replace-us",
+    "content": "Is AI taking us into a world where computer programmers, and perhaps the rest of us too, are obsolete? And if so, how quickly is it taking us there? Paul Taylor has been looking at code since the time when computer games didn't even have screens, and in this episode he talks to Tom about the enormous changes generative AI has brought to programming and the world of work in the past couple of...",
+    "date": "2026-07-06T12:49:36",
     "category": "Magazines"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.wired.com/story/climate-change-next-hantavirus-outbreak/",
     "content": "Climate change is helping create conditions that are driving the rodent boom\u2014dubbed a ratada\u2014in Argentina.",
     "date": "2026-05-20T17:59:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767407#p8767407",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "Kimchi2",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8767407#p8767407",
-    "content": "Thank you for this clarification explaining the underlying problem. I have asked a contact at Vanguard to have an appropriate person coordinate with TD to resolve this issue. I'd bet someone's tried this before.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=183815\">Kimchi2</a> \u2014 Wed May 20, 2026 12:24 pm</p><hr />",
-    "date": "2026-05-20T17:24:55",
-    "category": "Finance"
-  },
-  {
-    "id": "ea3c54d021cbaf376313ac6a95e7dba9",
-    "feed_name": "LRB",
-    "title": "A Rough Guide to Money Laundering",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/a-rough-guide-to-money-laundering",
-    "content": "More than 90 per cent of transactions in the UK are now cashless, yet there is more cash in circulation than ever before. In the UK, there\u2019s about \u00a31300 circulating for every individual; in the US it\u2019s more than $7000, and the majority of this exists in the highest-denomination banknotes, such as the $100 and \u20ac500 bills. So where is it all? Remarkably, nobody really...",
-    "date": "2026-05-20T16:53:33",
     "category": "Magazines"
   }
 ]
