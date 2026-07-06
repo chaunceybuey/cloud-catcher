@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/video/books/100000010953525/understanding-the-world-cup-in-3-books.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Understanding the World Cup in 3 Books",
+    "author": "Miguel Salazar and Haimy Assefa",
+    "link": "https://www.nytimes.com/video/books/100000010953525/understanding-the-world-cup-in-3-books.html",
+    "content": "Miguel Salazar of the New York Times Books Review recommends three titles that can help you understand the history of the World Cup.",
+    "date": "2026-07-06T17:11:36",
+    "category": "NYT"
+  },
+  {
     "id": "40eb558e1341378905a2124e0ea4cccb",
     "feed_name": "LRB",
     "title": "Books by LRB Contributing Editors",
@@ -19988,15 +19998,5 @@
     "content": "Saved from extinction, the New York City Tap Festival is back with its charms and flaws intact.",
     "date": "2026-05-20T19:18:53",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8767504#p8767504",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "heartwood",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8767504#p8767504",
-    "content": "Curious that Fidelity includes so little information when sending me email notice that \"Deposit Received<br />Account: XXXXXXXXX<br />A deposit to your account was received on 05/19/2026.\"<br /><br />This is for my CMA account.<br />No indication of the Payer.<br />No indication of the amount.<br /><br />I get these every month for SS Direct Deposit by EFT for me and DW.  Same each month for pensions (me and DW). Similar for other DD.<br /><br />They do provide email details for withdrawals.<br /><br />I then logon to Fidelity and look at deposit details.  This is several times a month.<br /><br />Any way to get Fido to be more informative?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=49095\">heartwood</a> \u2014 Wed May 20, 2026 1:57 pm</p><hr />",
-    "date": "2026-05-20T18:57:36",
-    "category": "Finance"
   }
 ]
