@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a4567102f5194568fe39951",
+    "feed_name": "Wired (Science)",
+    "title": "Good News! Turns Out the Earth Will Never Be Swallowed by the Sun",
+    "author": "Simone Valesini",
+    "link": "https://www.wired.com/story/good-news-it-turns-out-the-earth-will-never-be-swallowed-by-the-sun/",
+    "content": "A new study suggests that when our star becomes unstable in 5 billion years or so, Earth may avoid being engulfed by its fiery demise.",
+    "date": "2026-07-06T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=234783",
     "feed_name": "Texas Tribune",
     "title": "Rising healthcare costs are straining Texas businesses as the Legislature seeks solutions",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/the-emerging-ai-policy-consensus/",
     "content": "",
     "date": "2026-05-20T13:41:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a0cc66b9aa99b0058f8fdea",
-    "feed_name": "Wired (Science)",
-    "title": "\u2018Perfect Storm\u2019: How Trump's Aid Cuts Are Fueling the Ebola Outbreak",
-    "author": "Kate Knibbs, Leah Feiger",
-    "link": "https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/",
-    "content": "One health provider who works on the ground says that basic medical equipment like masks and hand sanitizers are in short supply due to funding cuts.",
-    "date": "2026-05-20T13:16:22",
     "category": "Magazines"
   }
 ]
