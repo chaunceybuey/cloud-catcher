@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/06/dining/food-drink-banana-flavor.html",
+    "feed_name": "NYT (Food)",
+    "title": "Food and Beverages Have Gone Bananas",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/07/06/dining/food-drink-banana-flavor.html",
+    "content": "The familiarity of banana has made it ripe for beverage and snack experimentation.",
+    "date": "2026-07-06T17:39:52",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/video/books/100000010953525/understanding-the-world-cup-in-3-books.html",
     "feed_name": "NYT (Arts)",
     "title": "Understanding the World Cup in 3 Books",
@@ -19988,15 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Curious that Fidelity includes so little information when sending me email notice that \"Deposit Received<br />Account: XXXXXXXXX<br />A deposit to your account was received on 05/19/2026.\"<br /><br />This is for my CMA account.<br />No indication of the Payer.<br />No indication of the amount.<br /><br />I get these every month for SS Direct Deposit by EFT for me and DW.  Same each month for pensions (me and DW). Similar for other DD.<br /><br />They do provide email details for withdrawals.<br /><br />I then logon to Fidelity and look at deposit details.  This is several times a month.<br /><br />Any way to get Fido to be more informative?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>If you sign up for Text Message Alerts for the account you will get a little more info than in the email version. I sign up for both.  I want all possible notifications.  For most things, the Fidelity App also pushes me a notification of some sort.  <br /><br />In my text messages, I see <br />Deposit amounts and dates, but no payer info.<br />For transfers, I see both the sending and receiving account #s (last 4 digits) and the amount.<br />For debits (auto pays that I have set up) I see the amount, account number, and who it was sent to.<br />For cleared checks, I see the check number and date, but no amounts.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=58345\">PaunchyPirate</a> \u2014 Wed May 20, 2026 2:20 pm</p><hr />",
     "date": "2026-05-20T19:20:22",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/arts/dance/review-tap-city-joyce-theater.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Review: Feels Like Old Times With the Return of Tap City",
-    "author": "Brian Seibert and Rachel Papo",
-    "link": "https://www.nytimes.com/2026/05/20/arts/dance/review-tap-city-joyce-theater.html",
-    "content": "Saved from extinction, the New York City Tap Festival is back with its charms and flaws intact.",
-    "date": "2026-05-20T19:18:53",
-    "category": "NYT"
   }
 ]
