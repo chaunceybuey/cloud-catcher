@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/06/dining/the-simple-meal-im-making-before-vacation.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Simple Meal I\u2019m Making Before Vacation",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/07/06/dining/the-simple-meal-im-making-before-vacation.html",
+    "content": "Sheela Prakash\u2019s puttanesca poached fish.",
+    "date": "2026-07-06T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "6a4bb2891d12c58f2540c1a4",
+    "feed_name": "Wired (Science)",
+    "title": "The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
+    "content": "Holes in socks have become a curious sight at this year\u2019s World Cup. The reasons why are a weird mix of biomechanics, perception, and player habits.",
+    "date": "2026-07-06T14:50:52",
+    "category": "Magazines"
+  },
+  {
     "id": "8639c94d7757f0dc6090cde1a2085cff",
     "feed_name": "Compact",
     "title": "The Deterritorialization of the World Cup",
@@ -19978,25 +19998,5 @@
     "content": "More than 90 per cent of transactions in the UK are now cashless, yet there is more cash in circulation than ever before. In the UK, there\u2019s about \u00a31300 circulating for every individual; in the US it\u2019s more than $7000, and the majority of this exists in the highest-denomination banknotes, such as the $100 and \u20ac500 bills. So where is it all? Remarkably, nobody really...",
     "date": "2026-05-20T16:53:33",
     "category": "Magazines"
-  },
-  {
-    "id": "98c93a45c87a699c281cd5a22dd9673e",
-    "feed_name": "LRB",
-    "title": "When will AI replace us?",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/when-will-ai-replace-us",
-    "content": "Is AI taking us into a world where computer programmers, and perhaps the rest of us too, are obsolete? And if so, how quickly is it taking us there? Paul Taylor has been looking at code since the time when computer games didn't even have screens, and in this episode he talks to Tom about the enormous changes generative AI has brought to programming and the world of work in the past couple of...",
-    "date": "2026-05-20T16:53:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230815",
-    "feed_name": "Texas Tribune",
-    "title": "500,000 fewer Texans are on SNAP as participation slips nationally",
-    "author": "By Terri Langford, DATA REPORTING BY\u00a0Dan Keemahill",
-    "link": "https://feeds.texastribune.org/link/16799/17344936/texas-snap-food-stamps-decline-work-restrictions-immigration",
-    "content": "The Brookshire Brothers Express grocery store and gas station in Pineland on Jan. 29, 2026.",
-    "date": "2026-05-20T16:31:44",
-    "category": "Texas"
   }
 ]
