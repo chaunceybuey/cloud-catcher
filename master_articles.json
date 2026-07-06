@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/06/arts/music/madonna-confessions-ii-album-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Confessions II\u2019 Review: Madonna Returns to the Dance Floor",
+    "author": "Evelyn McDonnell",
+    "link": "https://www.nytimes.com/2026/07/06/arts/music/madonna-confessions-ii-album-review.html",
+    "content": "Madonna performing in Times Square in June.",
+    "date": "2026-07-06T20:07:00",
+    "category": "NYT"
+  },
+  {
+    "id": "1a97f4d4-45a0-4450-a6f2-506c5c353951",
+    "feed_name": "Economist",
+    "title": "The World Bank has ditched its climate targets",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets",
+    "content": "The rise and fall of the institution\u2019s love for green growth",
+    "date": "2026-07-06T19:40:33",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Richard H. Glanton, Combative Head of Barnes Foundation, Dies at 79",
@@ -19978,25 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>We get periodic messages from our Vanguard account rep. about creating a Cash Plus account.  Most of our cash (in taxable accounts) @ Vanguard is held in the Vanguard Treasury Money Market Fund (VUSXX).  What would be the incentives to switch to a Cash Plus Account?  We live in a state where a deduction for U.S. Treasury interest is quite valuable.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I don't think it would make any sense for you to switch to Cash Plus.  You can purchase VUSXX in your Cash Plus account, but you are already doing that.  I guess the biggest upside would be if you want a way to do Bill Pay from a Vanguard account, which you can do from the Cash Plus sweep.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=75\">greg24</a> \u2014 Wed May 20, 2026 3:56 pm</p><hr />",
     "date": "2026-05-20T20:56:09",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/t-magazine/michaela-yearwood-dan-whitworth.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Michaela Yearwood-Dan\u2019s Art Blends Religious Themes With Lines From Her Diary",
-    "author": "Precious Adesina",
-    "link": "https://www.nytimes.com/2026/05/20/t-magazine/michaela-yearwood-dan-whitworth.html",
-    "content": "In a major new solo show, Michaela Yearwood-Dan\u2019s kaleidoscopic paintings blend religious references with lines from her own diary.",
-    "date": "2026-05-20T20:20:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/briefing/20-the-good-list-travel-cake-telegram.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Good List: 6 Things to Add Delight to Your Day",
-    "author": "Melissa Kirsch",
-    "link": "https://www.nytimes.com/2026/05/20/briefing/20-the-good-list-travel-cake-telegram.html",
-    "content": "Travel cake, telegrams and a possibly addictive word game.",
-    "date": "2026-05-20T19:40:22",
-    "category": "NYT"
   }
 ]
