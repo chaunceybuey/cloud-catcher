@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/06/arts/television/the-five-star-weekend-what-to-watch-on-tv.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Five-Star Weekend\u2019 and 6 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/06/arts/television/the-five-star-weekend-what-to-watch-on-tv.html",
+    "content": "From left: Regina Hall, Jennifer Garner, D\u2019Arcy Carden and Chlo\u00eb Sevigny in \u201cThe Five Star Weekend.\u201d",
+    "date": "2026-07-06T05:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/05/arts/television/house-of-the-dragon-season-3-episode-3-recap.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018House of the Dragon\u2019 Season 3 Episode 3 Recap: The Rat Banquet",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/20/arts/music/john-cage-apartment-house-1776-detroit-opera.html",
     "content": "The Detroit Opera production of \u201cApartment House 1776\u201d opens this week at the Cranbrook Art Museum.",
     "date": "2026-05-20T09:03:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/movies/benedetta-good-boy-and-more-streaming-gems.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Benedetta,\u2019 \u2018Good Boy\u2019 and More Streaming Gems",
-    "author": "Jason Bailey",
-    "link": "https://www.nytimes.com/2026/05/20/movies/benedetta-good-boy-and-more-streaming-gems.html",
-    "content": "Lusty nuns, insecure writers and a brave pooch lead this month\u2019s under-the-radar recommendations on your subscription streaming services.",
-    "date": "2026-05-20T09:02:13",
     "category": "NYT"
   }
 ]
