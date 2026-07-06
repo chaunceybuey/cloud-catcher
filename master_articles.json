@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "40eb558e1341378905a2124e0ea4cccb",
+    "feed_name": "LRB",
+    "title": "Books by LRB Contributing Editors",
+    "author": "",
+    "link": "https://www.londonreviewbookshop.co.uk/booklists/books-by-lrb-contributing-editors",
+    "content": "Books by Tom Crewe, William Davies, Francis Gooding, Jeremy Harding, Rosemary Hill, John Lanchester, Patricia Lockwood, James Meek, Jacqueline Rose, David Runciman, Katherine Rundell, Steven Shapin, Amia Srinivasan, Tom Stevenson, Colm T\u00f3ib\u00edn, Marina Warner and Michael Wood.Visit the London Review Bookshoponlineand in store at 14 Bury Place, London, to shop over 20,000 titles, including new releases, signed editions and other books written and reviewed byLRBcontributors.",
+    "date": "2026-07-06T16:21:29",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/hegseth-trump-war-civilian-casualties-elizabeth-warren-pentagon",
     "feed_name": "ProPublica",
     "title": "Amid Mounting War Casualties, Pete Hegseth \u201cDefunded and Impeded\u201d Efforts to Protect Civilians, Lawmakers Say",
@@ -97,6 +107,16 @@
     "link": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
     "content": "Holes in socks have become a curious sight at this year\u2019s World Cup. The reasons why are a weird mix of biomechanics, perception, and player habits.",
     "date": "2026-07-06T14:50:52",
+    "category": "Magazines"
+  },
+  {
+    "id": "9b5639074fe0fd910d72e1b4694d46a2",
+    "feed_name": "The Atlantic",
+    "title": "The Death of Renee Good Has Yet to Be Properly Investigated",
+    "author": "Quinta Jurecic",
+    "link": "https://www.theatlantic.com/ideas/2026/07/alex-pretti-renee-good-accountability/687792/",
+    "content": "Six months after she and Alex Pretti were shot on the streets of Minneapolis, little has come of the probes into their killings.",
+    "date": "2026-07-06T13:42:36",
     "category": "Magazines"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Curious that Fidelity includes so little information when sending me email notice that \"Deposit Received<br />Account: XXXXXXXXX<br />A deposit to your account was received on 05/19/2026.\"<br /><br />This is for my CMA account.<br />No indication of the Payer.<br />No indication of the amount.<br /><br />I get these every month for SS Direct Deposit by EFT for me and DW.  Same each month for pensions (me and DW). Similar for other DD.<br /><br />They do provide email details for withdrawals.<br /><br />I then logon to Fidelity and look at deposit details.  This is several times a month.<br /><br />Any way to get Fido to be more informative?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=49095\">heartwood</a> \u2014 Wed May 20, 2026 1:57 pm</p><hr />",
     "date": "2026-05-20T18:57:36",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/dining/sam-sianis-dead.html",
-    "feed_name": "NYT (Food)",
-    "title": "Sam Sianis, \u2018Cheezborger\u2019-Flipping Owner of Chicago\u2019s Billy Goat Tavern, Dies at 91",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/05/20/dining/sam-sianis-dead.html",
-    "content": "Sam Sianis in an undated photo. For more than 50 years, customers could find him at the Billy Goat Tavern, tending bar or manning the small kitchen in back.",
-    "date": "2026-05-20T18:47:16",
-    "category": "NYT"
-  },
-  {
-    "id": "5aaeffbc-d227-4e73-9973-c0767e9dc2a1",
-    "feed_name": "Economist",
-    "title": "Economics lessons from Home Depot",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/20/economics-lessons-from-home-depot",
-    "content": "What the world\u2019s biggest DIY store says about American housing",
-    "date": "2026-05-20T18:14:46",
-    "category": "Magazines"
   }
 ]
