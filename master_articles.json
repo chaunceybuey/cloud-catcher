@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Richard H. Glanton, Combative Head of Barnes Foundation, Dies at 79",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
+    "content": "Richard H. Glanton in 1992. He served as president of the Barnes Foundation from 1990 to 1998.",
+    "date": "2026-07-06T19:32:41",
+    "category": "NYT"
+  },
+  {
     "id": "117d8dd423d8f056030eb708d7a0f81d",
     "feed_name": "LRB",
     "title": "Trump\u2019s Golden Dome",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/20/briefing/20-the-good-list-travel-cake-telegram.html",
     "content": "Travel cake, telegrams and a possibly addictive word game.",
     "date": "2026-05-20T19:40:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/rhubarb-breakfast-dessert",
-    "feed_name": "NYT (Food)",
-    "title": "How to Use Red Rhubarb in Breakfast and Dessert",
-    "author": "Melissa Clark",
-    "link": "https://cooking.nytimes.com/article/rhubarb-breakfast-dessert",
-    "content": "Make like Melissa Clark and roast ruby-red rhubarb quickly, then use it to top yogurt, ice cream, cakes and cookies all week long.",
-    "date": "2026-05-20T19:38:58",
     "category": "NYT"
   }
 ]
