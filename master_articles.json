@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/05/arts/television/house-of-the-dragon-season-3-episode-3-recap.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018House of the Dragon\u2019 Season 3 Episode 3 Recap: The Rat Banquet",
+    "author": "Sean T. Collins",
+    "link": "https://www.nytimes.com/2026/07/05/arts/television/house-of-the-dragon-season-3-episode-3-recap.html",
+    "content": "It\u2019s not easy being queen: Emma D\u2019Arcy in \u201cHouse of the Dragon.\u201d",
+    "date": "2026-07-06T02:01:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/05/dining/bertrand-grebaut-dead.html",
     "feed_name": "NYT (Food)",
     "title": "Bertrand Gr\u00e9baut, Influential French Chef, Is Dead at 44",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/20/movies/benedetta-good-boy-and-more-streaming-gems.html",
     "content": "Lusty nuns, insecure writers and a brave pooch lead this month\u2019s under-the-radar recommendations on your subscription streaming services.",
     "date": "2026-05-20T09:02:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/20/theater/ava-pickett-1536.html",
-    "feed_name": "NYT (Arts)",
-    "title": "With \u20181536,\u2019 Ava Pickett Is \u2018the Charli XCX of Young Playwrights\u2019",
-    "author": "Andrew Dickson",
-    "link": "https://www.nytimes.com/2026/05/20/theater/ava-pickett-1536.html",
-    "content": "\u201c1536,\u201d which reached the stage last year, is Ava Pickett\u2019s first full-length play.",
-    "date": "2026-05-20T09:02:10",
     "category": "NYT"
   }
 ]
