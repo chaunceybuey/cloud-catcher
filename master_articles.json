@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/07/dining/restaurant-review-salt-hanks.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Salt Hank in the West Village",
+    "author": "Ryan Sutton",
+    "link": "https://www.nytimes.com/2026/07/07/dining/restaurant-review-salt-hanks.html",
+    "content": "Salt Hank\u2019s in the West Village quickly became one of the most talked-about sandwiches in the city. Our critic gives it a go.",
+    "date": "2026-07-07T20:16:55",
+    "category": "NYT"
+  },
+  {
     "id": "9365a8de-f8b5-4252-afcc-693430fe074a",
     "feed_name": "Economist",
     "title": "Europe\u2019s economy is a mess. Its stock markets are a steal",
@@ -67,6 +77,16 @@
     "link": "https://www.economist.com/finance-and-economics/2026/07/07/europes-economy-is-a-mess-its-stock-markets-are-a-steal",
     "content": "International investors still aren\u2019t interested",
     "date": "2026-07-07T19:20:24",
+    "category": "Magazines"
+  },
+  {
+    "id": "74698f7d9995e847b29ecf538ee335c3",
+    "feed_name": "The Atlantic",
+    "title": "Nigel Farage Wants a Mandate For Corruption",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/07/reform-uk-farage-resigns-special-election/687831/",
+    "content": "The British populist leader makes a Trumpian gamble.",
+    "date": "2026-07-07T19:18:56",
     "category": "Magazines"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/06/11/dreams-of-our-nation-american-visions-ayers-great-disorder-slotkin/",
     "content": "Historians must not cede the study of how Americans understand their cacophonous nation to advocates of \u201cpatriotic\u201d history.\n\nDelivered by PolitePaul service",
     "date": "2026-05-21T12:03:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/the-fairy-tale-hour-paul-klee-other-possible-worlds/",
-    "feed_name": "NYRB",
-    "title": "The Fairy-Tale Hour",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/the-fairy-tale-hour-paul-klee-other-possible-worlds/",
-    "content": "An exhibition of Paul Klee\u2019s late works focuses on his depictions of the atmosphere of violence and intimidation in Germany after the Nazis came to power.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-21T11:48:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "87863de94d74d789fcdcc00031d502bc",
-    "feed_name": "Compact",
-    "title": "What the Right Can Learn from the Frankfurt School",
-    "author": "",
-    "link": "https://www.compactmag.com/article/what-the-right-can-learn-from-the-frankfurt-school/",
-    "content": "",
-    "date": "2026-05-21T11:34:26",
     "category": "Magazines"
   }
 ]
