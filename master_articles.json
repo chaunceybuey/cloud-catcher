@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/07/arts/design/new-museum-director-massimiliano-gioni.html",
+    "feed_name": "NYT (Arts)",
+    "title": "New Museum\u2019s Next Director Will Be Massimiliano Gioni",
+    "author": "Jason Farago",
+    "link": "https://www.nytimes.com/2026/07/07/arts/design/new-museum-director-massimiliano-gioni.html",
+    "content": "Massimiliano Gioni, artistic director of the New Museum, will take the reins as director on Aug. 1. The recently expanded museum is a leading destination for contemporary art in Manhattan.",
+    "date": "2026-07-07T16:30:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/07/arts/dance/jake-roxander-american-ballet-theater.html",
     "feed_name": "NYT (Arts)",
     "title": "Jake Roxander, a Ballet Theater Dancer Raised on Superheroes",
@@ -19986,16 +19996,6 @@
     "author": "By Joshua Fechter, Visuals by Manoo Sirivelu, Chart by\u00a0Apurva Mahajan",
     "link": "https://feeds.texastribune.org/link/16799/17345524/austin-project-connect-texas-light-rail-public-transportation",
     "content": "Michael Ludwig and Paige Stumbough ride the CapMetro Red Line from Howard Station for their commute to work on May 4, 2026. Stumbough works at the Austin Theater Alliance and Ludwig works at the Austin Community College.",
-    "date": "2026-05-21T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230868",
-    "feed_name": "Texas Tribune",
-    "title": "Inside the legal battle over undocumented immigrants\u2019 right to challenge their detention.",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17345525/texas-immigrant-rights-due-process",
-    "content": "The T. Don Hutto Residential Center, a detention facility in Taylor on Sept. 24, 2020.",
     "date": "2026-05-21T10:00:00",
     "category": "Texas"
   }
