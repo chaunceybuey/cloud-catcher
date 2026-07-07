@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/07/arts/television/louise-lasser-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Louise Lasser, Star of TV\u2019s \u2018Mary Hartman,\u2019 Is Dead at 87",
+    "author": "Anita Gates",
+    "link": "https://www.nytimes.com/2026/07/07/arts/television/louise-lasser-dead.html",
+    "content": "She began her screen career in Woody Allen movies (he was also her husband), but she was best known for her portrayal of the Ohio housewife in the pigtails and puffed sleeves.",
+    "date": "2026-07-07T15:27:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8804113#p8804113",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
     "content": "Sometimes it is more than merely an exogenous constraint",
     "date": "2026-05-21T09:27:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "aaf8639e-40ef-4619-8371-7b4514d53972",
-    "feed_name": "Economist",
-    "title": "The other China shock",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock",
-    "content": "Does the country\u2019s manufacturing success leave space for anyone else?",
-    "date": "2026-05-21T09:25:53",
     "category": "Magazines"
   }
 ]
