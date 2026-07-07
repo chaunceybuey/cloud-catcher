@@ -70,6 +70,16 @@
     "category": "NYT"
   },
   {
+    "id": "b7a52142-44d5-4937-a06e-2d10d071cb3a",
+    "feed_name": "Economist",
+    "title": "AI has taken over the stock market. The bond market is next",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
+    "content": "Judging credit risk of the AI boom is difficult",
+    "date": "2026-07-07T20:08:30",
+    "category": "Magazines"
+  },
+  {
     "id": "9365a8de-f8b5-4252-afcc-693430fe074a",
     "feed_name": "Economist",
     "title": "Europe\u2019s economy is a mess. Its stock markets are a steal",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/06/11/our-climates-wild-card-into-the-clear-blue-sky/",
     "content": "Methane\u2019s part in the climate crisis remains largely overlooked, even though it is responsible for 30 percent of all global warming to date, and despite the fact that it\u2019s still possible to purge it from our skies.\n\nDelivered by PolitePaul service",
     "date": "2026-05-21T12:18:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/dreams-of-our-nation-american-visions-ayers-great-disorder-slotkin/",
-    "feed_name": "NYRB",
-    "title": "Dreams of Our Nation",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/dreams-of-our-nation-american-visions-ayers-great-disorder-slotkin/",
-    "content": "Historians must not cede the study of how Americans understand their cacophonous nation to advocates of \u201cpatriotic\u201d history.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-21T12:03:51",
     "category": "Magazines"
   }
 ]
