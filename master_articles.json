@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/07/arts/dance/jake-roxander-american-ballet-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jake Roxander, a Ballet Theater Dancer Raised on Superheroes",
+    "author": "Gia Kourlas",
+    "link": "https://www.nytimes.com/2026/07/07/arts/dance/jake-roxander-american-ballet-theater.html",
+    "content": "Jake Roxander, newly minted principal dancer with American Ballet Theater, in the lobby of the Metropolitan Opera, where the company performs its summer season.",
+    "date": "2026-07-07T16:00:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235265",
+    "feed_name": "Texas Tribune",
+    "title": "Senate Leader John Thune and other national Republicans rallying for Paxton at fundraiser this month",
+    "author": "Renzo Downey",
+    "link": "https://feeds.texastribune.org/link/16799/17374498/ken-paxton-john-thune-fundraiser-senate-texas-republicans",
+    "content": "U.S. Senate Majority Leader John Thune, R-South Dakota, looks on as Senate Republican leaders hold a press conference following their weekly policy lunch on Capitol Hill in Washington, D.C. on June 23, 2026.",
+    "date": "2026-07-07T15:34:32",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/07/arts/television/louise-lasser-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Louise Lasser, Star of TV\u2019s \u2018Mary Hartman,\u2019 Is Dead at 87",
@@ -19978,25 +19998,5 @@
     "content": "The T. Don Hutto Residential Center, a detention facility in Taylor on Sept. 24, 2020.",
     "date": "2026-05-21T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=19093",
-    "feed_name": "Stratechery",
-    "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
-    "content": "<p>An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).</p>",
-    "date": "2026-05-21T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "e3c9977c-8324-4130-87b7-9bd6a3a10ea1",
-    "feed_name": "Economist",
-    "title": "How should economists treat morality?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/21/how-should-economists-treat-morality",
-    "content": "Sometimes it is more than merely an exogenous constraint",
-    "date": "2026-05-21T09:27:37",
-    "category": "Magazines"
   }
 ]
