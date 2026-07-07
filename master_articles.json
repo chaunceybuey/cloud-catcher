@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/07/books/hachette-book-publishing-union.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hachette Book Group Employees Vote to Unionize",
+    "author": "Alexandra Alter",
+    "link": "https://www.nytimes.com/2026/07/07/books/hachette-book-publishing-union.html",
+    "content": "Workers at a major publishing house have established what organizers are calling the largest union in trade book publishing history.",
+    "date": "2026-07-07T19:14:35",
+    "category": "NYT"
+  },
+  {
     "id": "6a4d000d452eb32fe7c42135",
     "feed_name": "Wired (Science)",
     "title": "Mysterious Compound Detected on Pluto and Titan",
@@ -90,6 +100,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=234983",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton vowed to crack down on \u201cillegal voting.\u201d He may have violated Texas election law.",
+    "author": "By Zach Despart, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17374617/ken-paxton-voting-election-law",
+    "content": "The Texas attorney general appears to have used an address where he did not live while voting in six elections in the past two years \u2014 despite his warning voters that \u201cit is illegal to misrepresent your residence on election records.\u201d<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17374617.gif\" width=\"1\" />",
+    "date": "2026-07-07T17:30:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/07/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "Jungsik Yim Charts an Eight-Course Tour of Asia at M\u016aJE",
@@ -108,6 +128,16 @@
     "content": "Massimiliano Gioni, artistic director of the New Museum, will take the reins as director on Aug. 1. The recently expanded museum is a leading destination for contemporary art in Manhattan.",
     "date": "2026-07-07T16:30:14",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235286",
+    "feed_name": "Texas Tribune",
+    "title": "Gina Hinojosa proposes sending every Texas household $1,500 in her bid to oust Greg Abbott",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17374618/gina-hinojosa-proposes-sending-every-texas-household-1500-in-her-bid-to-oust-greg-abbott",
+    "content": "Democratic candidate for Texas Governor Gina Hinojosa speaks at the Texas Democratic Convention in Corpus Christi on June 26, 2026.",
+    "date": "2026-07-07T16:26:26",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/07/07/arts/dance/jake-roxander-american-ballet-theater.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/06/11/hitlers-end-long-death-of-adolf-hitler-sharples/",
     "content": "After the fall of Berlin the Soviets concealed their discovery of Hitler\u2019s remains, leaving the Western Allies scrambling for evidence that he was dead.\n\nDelivered by PolitePaul service",
     "date": "2026-05-21T11:33:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/the-second-redemption-voting-rights-act/",
-    "feed_name": "NYRB",
-    "title": "The Second \u2018Redemption\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/the-second-redemption-voting-rights-act/",
-    "content": "The Supreme Court\u2019s decision in <em>Louisiana </em>v<em>. Callais\u00a0</em>deals a fatal blow to the Voting Rights Act, using reasoning that Congress rejected more than forty years ago.\u00a0\n\nDelivered by PolitePaul service",
-    "date": "2026-05-21T11:18:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/enter-man-helen-of-nowhere-makenna-goodman/",
-    "feed_name": "NYRB",
-    "title": "Enter Man",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/enter-man-helen-of-nowhere-makenna-goodman/",
-    "content": "Makenna Goodman\u2019s new novel, <em>Helen of Nowhere</em>, offers up an exhilarating myth for men who need to be shuffled offstage.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-21T11:03:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "b1610588a26723b817df6b556e2a2416",
-    "feed_name": "The Atlantic",
-    "title": "The New Blood Libel",
-    "author": "David Frum",
-    "link": "https://www.theatlantic.com/ideas/2026/05/synagogue-terrorism-vandalism-antisemitism/687241/",
-    "content": "This is what globalizing the intifada looks like.",
-    "date": "2026-05-21T11:00:00",
     "category": "Magazines"
   }
 ]
