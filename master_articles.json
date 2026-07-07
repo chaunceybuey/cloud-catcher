@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/07/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Jungsik Yim Charts an Eight-Course Tour of Asia at M\u016aJE",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/07/07/dining/nyc-restaurant-news.html",
+    "content": "Cipriani Dolci reopens after a renovation, Maison Madison leans on Parisian glamour and more restaurant news.",
+    "date": "2026-07-07T16:58:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/07/arts/design/new-museum-director-massimiliano-gioni.html",
     "feed_name": "NYT (Arts)",
     "title": "New Museum\u2019s Next Director Will Be Massimiliano Gioni",
@@ -19988,15 +19998,5 @@
     "content": "Generations of \u201csociobiologists\u201d have tried and failed to argue that genetic analysis offers the key to understanding social inequality. A new book fares no better.\n\nDelivered by PolitePaul service",
     "date": "2026-05-21T10:33:51",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230440",
-    "feed_name": "Texas Tribune",
-    "title": "Bigger price tag, smaller footprint: How Austin\u2019s Project Connect went off the rails",
-    "author": "By Joshua Fechter, Visuals by Manoo Sirivelu, Chart by\u00a0Apurva Mahajan",
-    "link": "https://feeds.texastribune.org/link/16799/17345524/austin-project-connect-texas-light-rail-public-transportation",
-    "content": "Michael Ludwig and Paige Stumbough ride the CapMetro Red Line from Howard Station for their commute to work on May 4, 2026. Stumbough works at the Austin Theater Alliance and Ludwig works at the Austin Community College.",
-    "date": "2026-05-21T10:00:00",
-    "category": "Texas"
   }
 ]
