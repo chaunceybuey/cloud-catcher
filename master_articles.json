@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/07/arts/television/penelope-keith-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Penelope Keith, Effortlessly Posh Star of British Sitcoms, Dies at 86",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/07/07/arts/television/penelope-keith-dead.html",
+    "content": "Penelope Keith in 1977 in a scene from the sitcom \u201cThe Good Life.\u201d",
+    "date": "2026-07-07T21:42:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235374",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Senate panel lays groundwork for renewed push to ban THC products",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17374668/texas-senate-committee-continues-thc-ban-push",
+    "content": "A man smokes a joint rolled from legal hemp flower  in Onalaska on June 15, 2025.",
+    "date": "2026-07-07T21:12:49",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235377",
+    "feed_name": "Texas Tribune",
+    "title": "ICE fatally shoots man in Houston after he allegedly tried to run over agent",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17374669/ice-fatal-shooting-houston-lorenzo-salgado-araujo",
+    "content": "A U.S. Immigration and Customs Enforcement agent fatally shot a migrant from Mexico in Houston during an enforcement stop, the agency said.",
+    "date": "2026-07-07T21:12:22",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/07/dining/restaurant-review-salt-hanks.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Salt Hank in the West Village",
@@ -19967,36 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/05/doj-conspiracy-theorists-trump/687246/",
     "content": "The DOJ is now very much an active participant in the online discourse that promotes and perpetuates ideas that are barely connected to reality.",
     "date": "2026-05-21T15:00:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/tunnel-of-love-tristan-und-isolde-metropolitan-opera/",
-    "feed_name": "NYRB",
-    "title": "Tunnel of Love",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/tunnel-of-love-tristan-und-isolde-metropolitan-opera/",
-    "content": "The Met\u2019s new <em>Tristan und Isolde</em> was a vocal triumph for Lise Davidsen and Michael Spyres, but Yuval Sharon\u2019s staging only fitfully captured the essence of Wagner\u2019s masterpiece.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-21T12:48:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/the-other-in-the-mirror-mathias-enard/",
-    "feed_name": "NYRB",
-    "title": "The Other in the Mirror",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/the-other-in-the-mirror-mathias-enard/",
-    "content": "In Mathias \u00c9nard\u2019s many novels, encounters between cultures can lead to transformation\u2014and peril.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-21T12:33:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/our-climates-wild-card-into-the-clear-blue-sky/",
-    "feed_name": "NYRB",
-    "title": "Our Climate\u2019s Wild Card",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/our-climates-wild-card-into-the-clear-blue-sky/",
-    "content": "Methane\u2019s part in the climate crisis remains largely overlooked, even though it is responsible for 30 percent of all global warming to date, and despite the fact that it\u2019s still possible to purge it from our skies.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-21T12:18:51",
     "category": "Magazines"
   }
 ]
