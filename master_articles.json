@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=235410",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: What\u2019s the mood among Texas Democrats ahead of November?",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17374727/tribcast-texas-democrats-convention",
+    "content": "Convention attendees dance and bounce beach balls while the floor forms a conga line at the Texas Democratic Convention in Corpus Christi on June 27, 2026.",
+    "date": "2026-07-07T22:17:24",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/07/arts/television/penelope-keith-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Penelope Keith, Effortlessly Posh Star of British Sitcoms, Dies at 86",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/may/checkmate-in-mexico",
     "content": "Unfortunately for Mexicans, Mexico has moved to the top of the US foreign policy agenda. After Trump kidnapped the Venezuelan president Nicol\u00e1s.\u00a0.\u00a0.",
     "date": "2026-05-21T15:33:22",
-    "category": "Magazines"
-  },
-  {
-    "id": "ea2de570ed37bee32f2ea45868aa00a6",
-    "feed_name": "The Atlantic",
-    "title": "A Department of Justice for an Age of Conspiracy Theories",
-    "author": "Quinta Jurecic",
-    "link": "https://www.theatlantic.com/ideas/2026/05/doj-conspiracy-theorists-trump/687246/",
-    "content": "The DOJ is now very much an active participant in the online discourse that promotes and perpetuates ideas that are barely connected to reality.",
-    "date": "2026-05-21T15:00:28",
     "category": "Magazines"
   }
 ]
