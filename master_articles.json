@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "9365a8de-f8b5-4252-afcc-693430fe074a",
+    "feed_name": "Economist",
+    "title": "Europe\u2019s economy is a mess. Its stock markets are a steal",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/07/europes-economy-is-a-mess-its-stock-markets-are-a-steal",
+    "content": "International investors still aren\u2019t interested",
+    "date": "2026-07-07T19:20:24",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/07/books/hachette-book-publishing-union.html",
     "feed_name": "NYT (Arts)",
     "title": "Hachette Book Group Employees Vote to Unionize",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/what-the-right-can-learn-from-the-frankfurt-school/",
     "content": "",
     "date": "2026-05-21T11:34:26",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/hitlers-end-long-death-of-adolf-hitler-sharples/",
-    "feed_name": "NYRB",
-    "title": "Hitler\u2019s End",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/hitlers-end-long-death-of-adolf-hitler-sharples/",
-    "content": "After the fall of Berlin the Soviets concealed their discovery of Hitler\u2019s remains, leaving the Western Allies scrambling for evidence that he was dead.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-21T11:33:51",
     "category": "Magazines"
   }
 ]
