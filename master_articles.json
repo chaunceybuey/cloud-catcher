@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/08/arts/television/late-night-trump-world-cup.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Calls a Foul on Trump After His World Cup Intervention",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/08/arts/television/late-night-trump-world-cup.html",
+    "content": "President Trump may not have known what a red card in soccer is, Ronny Chieng said: \u201cBut you know what he did know? How to get a guy a pardon.\u201d",
+    "date": "2026-07-08T06:05:03",
+    "category": "NYT"
+  },
+  {
     "id": "98f2a8c42a550ef9620496a1fe1b546b",
     "feed_name": "The Atlantic",
     "title": "Perhaps the Nazi Tattoo Was a Clue",
@@ -19988,15 +19998,5 @@
     "content": "The impending arrival of El Ni\u00f1o will help keep the number of storms low. But it only takes one landfall to create a catastrophe.",
     "date": "2026-05-21T15:58:27",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/movies/passenger-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Passenger\u2019 Review: On the Beaten Path",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/05/21/movies/passenger-review.html",
-    "content": "It\u2019s my way on the highway: That\u2019s the message a demon has for a van life couple in Andre Ovredal\u2019s tense supernatural thriller.",
-    "date": "2026-05-21T15:58:09",
-    "category": "NYT"
   }
 ]
