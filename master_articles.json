@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Emmy Nominees 2026: Updating List",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
+    "content": "Television shows that aired between June 1, 2025, and May 31, 2026, are eligible to be nominated for this year\u2019s Emmys.",
+    "date": "2026-07-08T13:14:08",
+    "category": "NYT"
+  },
+  {
     "id": "9e5647d2255ba630ade6ac8b2cd7f480",
     "feed_name": "LRB",
     "title": "Foul Means",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html",
     "content": "A scene from \u201cA Charlie Brown Christmas.\u201d",
     "date": "2026-05-21T20:22:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/dining/three-great-bars-from-three-great-restaurants.html",
-    "feed_name": "NYT (Food)",
-    "title": "Three Great Bars From Three Great Restaurants",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/05/21/dining/three-great-bars-from-three-great-restaurants.html",
-    "content": "Bar Chucho, from the team behind the fine dining restaurant Corima, is casual with high-end offerings.",
-    "date": "2026-05-21T20:00:03",
     "category": "NYT"
   }
 ]
