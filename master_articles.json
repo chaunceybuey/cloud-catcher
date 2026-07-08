@@ -60,6 +60,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/08/movies/the-hole-lincoln-center.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Hole\u2019: Urban Apocalypse as Tuneful Chamber Drama",
+    "author": "J. Hoberman",
+    "link": "https://www.nytimes.com/2026/07/08/movies/the-hole-lincoln-center.html",
+    "content": "Tsai Ming-liang\u2019s 1990s doomsday film gets its first theatrical run with a new 35 mm print at both Film Society at Lincoln Center and Metrograph.",
+    "date": "2026-07-08T09:02:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In Some U.K. Hospitals, the T.L.C. Includes a Movie Theater",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html",
+    "content": "\u201cWhen they come here they can be themselves,\u201d Nikki Mulhall, a nurse at Chelsea and Westminster Hospital in London, said of patients who attend the screenings.",
+    "date": "2026-07-08T09:02:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/television/how-little-house-welcomes-native-neighbors.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How \u2018Little House\u2019 Welcomes Native Neighbors",
+    "author": "Robert Ito",
+    "link": "https://www.nytimes.com/2026/07/08/arts/television/how-little-house-welcomes-native-neighbors.html",
+    "content": "From left, Xander Cole and Corvin Mack on horseback filming a new adaptation of \u201cLittle House on the Prairie\u201d reshaped to include Native characters and perspectives.",
+    "date": "2026-07-08T09:02:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/movies/the-invite-esther-perel-olivia-wilde.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Therapist Esther Perel Helped Olivia Wilde Perfect the Sexual Dynamics in \u2018The Invite\u2019",
+    "author": "Clarissa Cruz and Rosie Marks",
+    "link": "https://www.nytimes.com/2026/07/08/movies/the-invite-esther-perel-olivia-wilde.html",
+    "content": "The psychotherapist helped Olivia Wilde and her cast ground the antics of their relationship comedy in the reality of clinical practice.",
+    "date": "2026-07-08T09:01:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/design/bangladesh-photography-dhaka.html",
+    "feed_name": "NYT (Arts)",
+    "title": "America250? Try Bangladesh 2.",
+    "author": "Walker Mimms",
+    "link": "https://www.nytimes.com/2026/07/08/arts/design/bangladesh-photography-dhaka.html",
+    "content": "As America celebrates its anniversary of self-rule, a critic finds in Bangladesh a nimble photography scene that has flourished during a seismic regime change.",
+    "date": "2026-07-08T09:01:33",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/design/decades-late-museum-scrambles-to-return-2700-native-remains.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Decades Late, Museum Scrambles to Return 2,700 Native Remains",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/07/08/arts/design/decades-late-museum-scrambles-to-return-2700-native-remains.html",
+    "content": "Data sheets from an anthropologist who collected hair samples from Native Americans in the 1890s are stored in boxes at the American Museum of Natural History in New York.",
+    "date": "2026-07-08T09:00:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/music/geri-allen-jazz-music.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Minutes That Will Make You Love Geri Allen",
+    "author": "Giovanni Russonello",
+    "link": "https://www.nytimes.com/2026/07/08/arts/music/geri-allen-jazz-music.html",
+    "content": "Vernon Reid, Kassa Overall, Farah Jasmine Griffin and more artists and writers share their favorites from this pianist who connected jazz music\u2019s past and future.",
+    "date": "2026-07-08T09:00:37",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A New \u2018Little House\u2019 Expands and Updates the Prairie",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html",
+    "content": "Netflix\u2019s \u201cLittle House on the Prairie\u201d was filmed in Winnipeg. The new Ingalls family includes Skywalker Hughes as Mary, left, and Alice Halsey as Laura.",
+    "date": "2026-07-08T09:00:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/08/arts/television/late-night-trump-world-cup.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Calls a Foul on Trump After His World Cup Intervention",
@@ -19918,85 +19998,5 @@
     "content": "Arugula gets muddled alongside cucumber, mint and citrus in this take on the Pimm\u2019s Cup.",
     "date": "2026-05-21T17:05:04",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/dining/my-name-is-becky-and-i-brought-coleslaw-to-the-potluck.html",
-    "feed_name": "NYT (Food)",
-    "title": "My Name Is Becky and I Brought Coleslaw to the Potluck",
-    "author": "Becky Hughes",
-    "link": "https://www.nytimes.com/2026/05/21/dining/my-name-is-becky-and-i-brought-coleslaw-to-the-potluck.html",
-    "content": "Hetty Lui McKinnon\u2019s yuzu-miso glazed asparagus tart",
-    "date": "2026-05-21T17:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/arts/television/survivor-50-finale-spoiled-jeff-probst.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Jeff Probst Spoiled Part of the \u2018Survivor\u2019 Season 50 Finale",
-    "author": "Sopan Deb",
-    "link": "https://www.nytimes.com/2026/05/21/arts/television/survivor-50-finale-spoiled-jeff-probst.html",
-    "content": "Jeff Probst at the \u201cSurvivor 50\u201d premiere in New York in February.",
-    "date": "2026-05-21T16:56:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230960",
-    "feed_name": "Texas Tribune",
-    "title": "Pro-Palestinian protestors sue UT Dallas leaders, police officers over alleged punishment",
-    "author": "By\u00a0Toluwani Osibamowo\u00a0KERA News",
-    "link": "https://feeds.texastribune.org/link/16799/17345830/pro-palestinian-protestors-sue-ut-dallas-leaders-police-officers-over-alleged-punishment",
-    "content": "A student walks through a pavilion on the campus of the University of Texas at Dallas.",
-    "date": "2026-05-21T16:45:43",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/dining/sidle-up-to-turkey-reuben-sliders.html",
-    "feed_name": "NYT (Food)",
-    "title": "Sidle Up to Turkey Reuben Sliders",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/05/21/dining/sidle-up-to-turkey-reuben-sliders.html",
-    "content": "Lidey Heuck\u2019s turkey Reuben sliders.",
-    "date": "2026-05-21T16:45:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230964",
-    "feed_name": "Texas Tribune",
-    "title": "Camp Mystic chief health officer\u2019s nursing license temporarily suspended",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17345801/texas-camp-mystic-nursing-license-suspended",
-    "content": "Mary Liz Eastland exits after testifying before a joint general investigative committee on the July 2025 flood at Camp Mystic at the Capitol in Austin on April 28, 2026.",
-    "date": "2026-05-21T16:29:20",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/arts/music/san-francisco-symphony-elim-chan-music-director.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Elim Chan Becomes First Female Music Director of San Francisco Symphony",
-    "author": "Adam Nagourney",
-    "link": "https://www.nytimes.com/2026/05/21/arts/music/san-francisco-symphony-elim-chan-music-director.html",
-    "content": "\u201cWhen it happened, I was like, \u2018Oh my God \u2014 it\u2019s time,\u2019\u201d the conductor Elim Chan said of her appointment in San Francisco. \u201cIt is groundbreaking. It\u2019s another ceiling broken.\u201d",
-    "date": "2026-05-21T16:15:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=230877",
-    "feed_name": "Texas Tribune",
-    "title": "In the Permian Basin, AI takes on big oil\u2019s dirty water problem",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17345802/texas-oil-companies-use-ai-for-wastewater",
-    "content": "Conex tanks of produced water sit outside the Texas Pacific Water Resources research and development project site outside of Midland before undergoing treatment Friday, Feb. 14, 2025.",
-    "date": "2026-05-21T16:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "69fb8d8f83ccc6a6badf4887",
-    "feed_name": "Wired (Science)",
-    "title": "Why the 2026 Hurricane Season Might Not Be That Bad",
-    "author": "Brian Kahn",
-    "link": "https://www.wired.com/story/why-the-2026-hurricane-season-might-not-be-that-bad/",
-    "content": "The impending arrival of El Ni\u00f1o will help keep the number of storms low. But it only takes one landfall to create a catastrophe.",
-    "date": "2026-05-21T15:58:27",
-    "category": "Magazines"
   }
 ]
