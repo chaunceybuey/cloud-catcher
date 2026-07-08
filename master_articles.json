@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a4c324a1a7d3d7d0bef1040",
+    "feed_name": "Wired (Science)",
+    "title": "Dimming the Sun Would Help Lower the Risks of El Ni\u00f1o",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/",
+    "content": "As worries about a growing super El Ni\u00f1o mount, new findings suggest a radical solution to mitigating its impacts.",
+    "date": "2026-07-08T18:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/08/arts/television/emmy-snubs-surprises.html",
     "feed_name": "NYT (Arts)",
     "title": "Emmys Snubs and Surprises 2026: Jon Hamm, \u2018Half Man\u2019 and More",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/22/dining/guy-savoy.html",
     "content": "Guy Savoy, who worked his way up from modest beginnings (and a recent setback), this week became the first chef inducted into the prestigious Acad\u00e9mie des Beaux-Arts.",
     "date": "2026-05-22T09:01:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/22/movies/the-mandalorian-and-grogu-movie-star-wars-refresher.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Star Wars: The Mandalorian and Grogu\u2019: What to Know Before Seeing the Movie",
-    "author": "Noel Murray",
-    "link": "https://www.nytimes.com/2026/05/22/movies/the-mandalorian-and-grogu-movie-star-wars-refresher.html",
-    "content": "Pedro Pascal as the Mandalorian and his little friend in a scene from the new movie.",
-    "date": "2026-05-22T09:01:38",
     "category": "NYT"
   }
 ]
