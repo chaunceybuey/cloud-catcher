@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/live/2026/us/fifa-world-cup/justin-bieber-burna-boy-world-cup-halftime-show",
+    "feed_name": "NYT (Arts)",
+    "title": "Justin Bieber and Burna Boy Join Inaugural World Cup Halftime Show",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/live/2026/us/fifa-world-cup/justin-bieber-burna-boy-world-cup-halftime-show",
+    "content": "Justin Bieber, a two-time Grammy Award winner known for hits like \u201cBaby\u201d and \u201cNever Say Never,\u201d performing at the Coachella music festival in April.",
+    "date": "2026-07-08T19:13:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/television/taylor-swift-reality-tv-emmys.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Taylor Swift and Reality TV Shows Like \u2018Summer House\u2019 Earn Emmy Nods",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/08/arts/television/taylor-swift-reality-tv-emmys.html",
+    "content": "Nominations for unscripted programs recognized a certain newlywed and the scandalous reality hit of the spring.",
+    "date": "2026-07-08T19:06:33",
+    "category": "NYT"
+  },
+  {
     "id": "ca175dcc55ab5123cf80370cf11e92bf",
     "feed_name": "LRB",
     "title": "Transitions: Sita Balani & Jay Bernard chaired by Sana Goyal",
@@ -78,6 +98,16 @@
     "content": "As worries about a growing super El Ni\u00f1o mount, new findings suggest a radical solution to mitigating its impacts.",
     "date": "2026-07-08T18:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235506",
+    "feed_name": "Texas Tribune",
+    "title": "Son of man killed by ICE agent calls for investigation, says \u201cmy father would have complied\u201d",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17375071/texas-houston-ice-shooting-family-response",
+    "content": "Ronaldo Salgado, center, fights back tears as he speaks about the shooting death of his father, Lorenzo Salgado Araujo, during a press conference Wednesday, July. 8, 2026, in Houston. At left, holding pictures, is Lorenzo Salgado Jr.",
+    "date": "2026-07-08T17:24:49",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/07/08/arts/television/emmy-snubs-surprises.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/22/arts/television/billy-eichner-bros-memoir.html",
     "content": "The comedian needed time to process the poor turnout for his gay rom-com, \u201cBros.\u201d His vulnerable new memoir may surprise \u201cBilly on the Street\u201d fans.",
     "date": "2026-05-22T09:02:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/22/movies/7-new-movies-our-critics-are-talking-about-this-week.html",
-    "feed_name": "NYT (Arts)",
-    "title": "7 New Movies Our Critics Are Talking About This Week",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/05/22/movies/7-new-movies-our-critics-are-talking-about-this-week.html",
-    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
-    "date": "2026-05-22T09:02:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/22/movies/star-wars-the-mandalorian-and-grogu-clip.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Watch Scorsese Make a Mean Sandwich in \u2018The Mandalorian and Grogu\u2019",
-    "author": "Mekado Murphy",
-    "link": "https://www.nytimes.com/2026/05/22/movies/star-wars-the-mandalorian-and-grogu-clip.html",
-    "content": "The director Jon Favreau narrates a sequence featuring a character who works at a food truck and is voiced by Martin Scorsese.",
-    "date": "2026-05-22T09:02:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/22/dining/guy-savoy-legion-dhonneur.html",
-    "feed_name": "NYT (Food)",
-    "title": "Guy Savoy Awarded L\u00e9gion d\u2019Honneur",
-    "author": "Elaine Sciolino",
-    "link": "https://www.nytimes.com/2026/05/22/dining/guy-savoy-legion-dhonneur.html",
-    "content": "Guy Savoy, who worked his way up from modest beginnings (and a recent setback), this week became the first chef inducted into the prestigious Acad\u00e9mie des Beaux-Arts.",
-    "date": "2026-05-22T09:01:50",
     "category": "NYT"
   }
 ]
