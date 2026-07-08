@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8805027#p8805027",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "FatefulTanker",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8805027#p8805027",
+    "content": "It looks like Fidelity messed up check image printing.  The images are the wrong aspect ration (too skinny) and they show up vertical instead of horizontal (ok fine).  When you print them using the \"Print Check\" button/icon, it blows the images up so large that it takes 4 pages to print them out.<br /><br />You can print them at 35% to get one page, but the details are very small, etc.  And they are still vertical and stretched out improperly.<br /><br />We write checks for Cash Management (about 1 a year) and for QCDs (too many).  <br /><br />We tried getting Fidelity to write the checks, but didn't like the stupid way they print our address on the check if we have then sent to us (so we can include a letter, etc).  The one we tried cleared 11 1/2 months ago, and that image isn't even available.  <br /><br />It says \"We can't display this information right now. Please refresh or try again later.\"<br /><br />Same for Windows/Chrome and Mac/Safari so it isn't me as far as I can tell.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=198635\">FatefulTanker</a> \u2014 Wed Jul 08, 2026 11:15 am</p><hr />",
+    "date": "2026-07-08T16:15:43",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/television/widows-bay-apple-emmy-nominations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Widow\u2019s Bay,\u2019 an Apple TV Breakout Hit, Scores TK Emmy Nominations",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/07/08/arts/television/widows-bay-apple-emmy-nominations.html",
+    "content": "The Apple TV horror comedy, one of the buzziest shows of the spring, has parlayed that enthusiasm into an Emmys haul, with 19 nominations.",
+    "date": "2026-07-08T16:10:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/television/heated-rivalry-emmy-nominations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why \u2018Heated Rivalry\u2019 Received No Emmy Nominations While Connor Storrie Did",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/07/08/arts/television/heated-rivalry-emmy-nominations.html",
+    "content": "Connor Storrie, left, and Hudson Williams in \u201cHeated Rivalry.\u201d As a Canadian production, it was not eligible for Emmy nominations.",
+    "date": "2026-07-08T16:01:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/07/23/hungary-the-flood-gordon-sander/",
     "feed_name": "NYRB",
     "title": "Hungary: The Flood",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html",
     "content": "Colbert was joined by famous friends, fellow hosts and special guests like Paul McCartney for the finale of \u201cThe Late Show.\u201d",
     "date": "2026-05-22T07:43:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/22/movies/ladies-first-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Ladies First\u2019 Review: A Nightmare for Men",
-    "author": "Lisa Kennedy",
-    "link": "https://www.nytimes.com/2026/05/22/movies/ladies-first-review.html",
-    "content": "Sacha Baron Cohen and Rosamund Pike star in this role-reversal workplace comedy where women rule the world.",
-    "date": "2026-05-22T06:59:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8768809#p8768809",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "need403bhelp",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8768809#p8768809",
-    "content": "Yes worked for me also, thank you!<br /><br />Minor point of correction/confusion - # character not allowed so my memo was<br /><br />FFC AccountOwnerName AccountNumber<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=98576\">need403bhelp</a> \u2014 Thu May 21, 2026 11:23 pm</p><hr />",
-    "date": "2026-05-22T04:23:51",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/arts/design/womens-museum-bill-sinks-amid-dispute-over-trump-and-trans-issues.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Women\u2019s Museum Bill Sinks Amid Dispute Over Trump and Trans Issues",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/05/21/arts/design/womens-museum-bill-sinks-amid-dispute-over-trump-and-trans-issues.html",
-    "content": "Efforts to advance a Smithsonian museum to celebrate the achievements of American women suffered a setback when a bill to pinpoint a location for it on the National Mall failed to pass in the House.",
-    "date": "2026-05-22T00:03:20",
     "category": "NYT"
   }
 ]
