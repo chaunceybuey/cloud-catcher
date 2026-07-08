@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "6e7dba08911312114f031b68b8d9c3e1",
+    "feed_name": "LRB",
+    "title": "Among the Private Spies",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/among-the-private-spies",
+    "content": "The Trump-Russia dossier, leaked to the press in 2017, contained multiple allegations of collusion between the US president and Putin, including reports of meetings between Kremlin officials and members of Trump\u2019s campaign team, and the existence of kompromat in the form of the infamous \u2018pee tape\u2019. Shortly after the dossier was leaked, Christopher Steele, the head of a...",
+    "date": "2026-07-08T14:15:30",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/design/native-american-remains-hair-museum.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Decades Late, Museum Scrambles to Return 2,700 Native Remains",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/07/08/arts/design/native-american-remains-hair-museum.html",
+    "content": "Data sheets from an anthropologist who collected hair samples from Native Americans in the 1890s are stored in boxes at the American Museum of Natural History in New York.",
+    "date": "2026-07-08T13:59:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
     "feed_name": "NYT (Arts)",
     "title": "Emmy Nominees 2026: Updating List",
@@ -19978,25 +19998,5 @@
     "content": "Ken Paxton walking out at his election results watch party in Dallas on March 3, 2026.",
     "date": "2026-05-21T21:28:06",
     "category": "Texas"
-  },
-  {
-    "id": "f4ab061804581cfb939205fa6a2cb3e6",
-    "feed_name": "LRB",
-    "title": "Martha Sprackland & James Butler: John of the Cross",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/martha-sprackland-james-butler-john-of-the-cross-tickets-1984474629036",
-    "content": "",
-    "date": "2026-05-21T20:52:09",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Peanuts\u2019 Music Owner Sues Interior Department and 3 Companies for Copyright Infringement",
-    "author": "Aimee Ortiz",
-    "link": "https://www.nytimes.com/2026/05/21/arts/music/peanuts-music-us-government-lawsuit.html",
-    "content": "A scene from \u201cA Charlie Brown Christmas.\u201d",
-    "date": "2026-05-21T20:22:42",
-    "category": "NYT"
   }
 ]
