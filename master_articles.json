@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a3ad251415911d85938515d",
+    "feed_name": "Wired",
+    "title": "What Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out",
+    "author": "Andy Greenberg",
+    "link": "https://www.wired.com/story/what-happens-if-china-hacks-the-us-water-supply-war-game-volt-typhoon/",
+    "content": "Burst water mains. Evacuated hospitals. In a closed-door simulation, insurers played out their response to a mass disruption by China\u2019s Volt Typhoon hackers\u2014and found a nightmare scenario.",
+    "date": "2026-07-08T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19455",
+    "feed_name": "Stratechery",
+    "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
+    "content": "<p>Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.</p>",
+    "date": "2026-07-08T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/08/movies/the-hole-lincoln-center.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Hole\u2019: Urban Apocalypse as Tuneful Chamber Drama",
@@ -19978,25 +19998,5 @@
     "content": "Texas Division of Emergency Management personnel monitor weather data prior to a press conference about Hurricane Beryl at the TDEM offices in Austin on July 5, 2024.",
     "date": "2026-05-21T18:25:33",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/theater/in-the-bricks-festival-monologues.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Finding Our Shared Geography in Monologues",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/2026/05/21/theater/in-the-bricks-festival-monologues.html",
-    "content": "Kathryn Grody\u2019s \u201cThe Unexpected 3rd,\u201d Leslie Ayvazian\u2019s \u201cMention My Beauty\u201d and Liza Jessie Peterson\u2019s \u201cThe Peculiar Patriot\u201d are among the solo shows at the In the Bricks Festival.",
-    "date": "2026-05-21T17:57:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/21/theater/review-indian-princesses-atlantic-theater.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Indian Princesses\u2019 Review: A Search for a True Identity",
-    "author": "Brittani Samuel",
-    "link": "https://www.nytimes.com/2026/05/21/theater/review-indian-princesses-atlantic-theater.html",
-    "content": "The five girls in Eliana Theologides Rodriguez\u2019s new play, about a \u201cNative-inspired\u201d program that trafficked in stereotypes, find ways to create their own experiences.",
-    "date": "2026-05-21T17:47:12",
-    "category": "NYT"
   }
 ]
