@@ -60,11 +60,31 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/08/briefing/08-the-good-list-web-pinball-jogging.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Delight to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/07/08/briefing/08-the-good-list-web-pinball-jogging.html",
+    "content": "Stressed desserts, L.A. Metro music and pinball everywhere.",
+    "date": "2026-07-08T19:42:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/us/fifa-world-cup/justin-bieber-burna-boy-world-cup-halftime-show",
     "feed_name": "NYT (Arts)",
     "title": "Justin Bieber and Burna Boy Join Inaugural World Cup Halftime Show",
     "author": "Emmanuel Morgan",
     "link": "https://www.nytimes.com/live/2026/us/fifa-world-cup/justin-bieber-burna-boy-world-cup-halftime-show",
+    "content": "Justin Bieber, a two-time Grammy Award winner known for hits like \u201cBaby\u201d and \u201cNever Say Never,\u201d performing at the Coachella music festival in April.",
+    "date": "2026-07-08T19:13:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/08/arts/music/justin-bieber-burna-boy-world-cup-halftime-show.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Justin Bieber and Burna Boy Join Inaugural World Cup Halftime Show",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/07/08/arts/music/justin-bieber-burna-boy-world-cup-halftime-show.html",
     "content": "Justin Bieber, a two-time Grammy Award winner known for hits like \u201cBaby\u201d and \u201cNever Say Never,\u201d performing at the Coachella music festival in April.",
     "date": "2026-07-08T19:13:12",
     "category": "NYT"
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/22/dining/streeteasy-reserve-your-future.html",
     "content": "Gage & Tollner, which dates back to 1879, is one of five New York restaurants taking a handful of reservations for 2046 in a promotional campaign for StreetEasy.",
     "date": "2026-05-22T09:03:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/22/movies/cannes-paper-tiger-all-of-a-sudden-fatherland.html",
-    "feed_name": "NYT (Arts)",
-    "title": "James Gray Stands Out at a Disappointing Cannes Film Festival",
-    "author": "Manohla Dargis",
-    "link": "https://www.nytimes.com/2026/05/22/movies/cannes-paper-tiger-all-of-a-sudden-fatherland.html",
-    "content": "Adam Driver is among the stars of \u201cPaper Tiger,\u201d directed by James Gray.",
-    "date": "2026-05-22T09:03:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/22/arts/television/billy-eichner-bros-memoir.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Billy Eichner on \u2018Bros\u2019 and His New Memoir",
-    "author": "Jason Zinoman",
-    "link": "https://www.nytimes.com/2026/05/22/arts/television/billy-eichner-bros-memoir.html",
-    "content": "The comedian needed time to process the poor turnout for his gay rom-com, \u201cBros.\u201d His vulnerable new memoir may surprise \u201cBilly on the Street\u201d fans.",
-    "date": "2026-05-22T09:02:30",
     "category": "NYT"
   }
 ]
