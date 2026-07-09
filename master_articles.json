@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=235681",
+    "feed_name": "Texas Tribune",
+    "title": "Crowd demands justice at vigil for Houston man killed in ICE shooting",
+    "author": "By Ayden Runnels\u00a0and\u00a0Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17375308/texas-houston-ice-shooting-vigil",
+    "content": "Sabrina Chavez, facing camera, hugs a stranger during a vigil for Lorenzo Salgado Araujo on July 8, 2026, in Houston. Salgado Araujo was fatally shot by an ICE agent Tuesday. \u201cThese are my people,\u201d she said about the woman she hugged.",
+    "date": "2026-07-09T02:59:36",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235648",
     "feed_name": "Texas Tribune",
     "title": "James Talarico raises over $30 million in second quarter, campaign says, more than triple Ken Paxton\u2019s sum",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/gen-zs-incompetent-converts/",
     "content": "",
     "date": "2026-05-22T12:21:26",
-    "category": "Magazines"
-  },
-  {
-    "id": "69db9f3da07f3b41c641fb28",
-    "feed_name": "Wired (Science)",
-    "title": "All the Fancy Measuring Devices Used in Science Rely on Two Stone-Age Techniques",
-    "author": "Rhett Allain",
-    "link": "https://www.wired.com/story/story/all-measuring-devices-run-on-two-stone-age-techniques/",
-    "content": "The multifarious methods we use to gather experimental data ultimately boil down to counting or comparing.",
-    "date": "2026-05-22T11:00:00",
     "category": "Magazines"
   }
 ]
