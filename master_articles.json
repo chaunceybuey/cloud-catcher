@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/09/movies/westhampton-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Westhampton\u2019 Review: A Humiliating Return",
+    "author": "Glenn Kenny",
+    "link": "https://www.nytimes.com/2026/07/09/movies/westhampton-review.html",
+    "content": "They say that you can\u2019t go home again; in this movie, a young filmmaker learns that the hard way.",
+    "date": "2026-07-09T13:38:11",
+    "category": "NYT"
+  },
+  {
     "id": "6a4ea51acb6c460e3dcb56a6",
     "feed_name": "Wired",
     "title": "WIRED World Fair",
@@ -305,6 +315,16 @@
     "title": "Review: \u2018Little House\u2019 Adds On an Expansion",
     "author": "James Poniewozik",
     "link": "https://www.nytimes.com/2026/07/09/arts/television/review-little-house-adds-on-an-expansion.html",
+    "content": "The classic story (and recent culture-war object) remains wholesome but makes room for people who called the prairie home before the Ingalls family.",
+    "date": "2026-07-09T09:00:40",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/09/arts/television/little-house-on-the-prairie-review-netflix.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: \u2018Little House on the Prairie\u2019 Adds On an Expansion",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/07/09/arts/television/little-house-on-the-prairie-review-netflix.html",
     "content": "The classic story (and recent culture-war object) remains wholesome but makes room for people who called the prairie home before the Ingalls family.",
     "date": "2026-07-09T09:00:40",
     "category": "NYT"
@@ -19976,26 +19996,6 @@
     "author": "Matt von Hippel",
     "link": "https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/",
     "content": "To keep communications secure in a post-quantum world, cryptographers are digging down into the concept of cause and effect.",
-    "date": "2026-05-23T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "ef09aedaaa3c6e93f9ea869dc5b2257c",
-    "feed_name": "The Atlantic",
-    "title": "Barney Frank Was Like No One Else",
-    "author": "Robert G. Kaiser",
-    "link": "https://www.theatlantic.com/ideas/2026/05/barney-frank-obituary-democrats/687285/",
-    "content": "He was the smartest man in the room, a rare attribute for a member of modern-day Congress",
-    "date": "2026-05-23T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "ebf8c6885dc62eb733ffd0ec6e1556a3",
-    "feed_name": "The Atlantic",
-    "title": "College Should Be Way More Fun",
-    "author": "Michael A. Elliott",
-    "link": "https://www.theatlantic.com/ideas/2026/05/college-should-be-way-more-fun/687272/",
-    "content": "I\u2019m not talking about keg stands. I\u2019m talking about the joyous mysteries of intellectual life.",
     "date": "2026-05-23T11:00:00",
     "category": "Magazines"
   }
