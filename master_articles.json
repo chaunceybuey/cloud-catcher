@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a42b6dfc2bd453ddc7d198f",
+    "feed_name": "Wired",
+    "title": "Data Centers Are Quietly Taking Over Texas. The Pollution Could Be Catastrophic",
+    "author": "Evan Simon",
+    "link": "https://www.wired.com/story/data-centers-taking-over-texas-pollution-could-be-catastrophic/",
+    "content": "Thousands of new fossil-fuel power sources are quietly firing up across the state to power the AI boom, thanks to a regulatory loophole, leaving residents feeling blindsided.",
+    "date": "2026-07-09T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a4be36bccd2aa2af80dc393",
     "feed_name": "Wired",
     "title": "Madison Square Garden Kept a List of Gay Celebrities",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/23/movies/amfar-cannes-gala-photographs.html",
     "content": "Coco Rocha at the amfAR Cannes gala in Cap d\u2019Antibes, France, on Thursday.",
     "date": "2026-05-23T09:02:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/movies/cannes-film-festival-oscar-contenders.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Which Cannes Films Could Become Oscar Contenders?",
-    "author": "Kyle Buchanan",
-    "link": "https://www.nytimes.com/2026/05/23/movies/cannes-film-festival-oscar-contenders.html",
-    "content": "Jordan Firstman, center, in his directorial debut, \u201cClub Kid,\u201d which sold to A24 for a reported $17 million.",
-    "date": "2026-05-23T09:02:04",
     "category": "NYT"
   }
 ]
