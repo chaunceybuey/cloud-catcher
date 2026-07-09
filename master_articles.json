@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/09/arts/design/smithsonian-letter-lonnie-bunch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lonnie Bunch Defends Smithsonian Museum After Negative White House Report",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/07/09/arts/design/smithsonian-letter-lonnie-bunch.html",
+    "content": "Secretary Lonnie G. Bunch III has tried not to antagonize President Trump while holding fast to what he says is the Smithsonian\u2019s mission to present a full account of American history.",
+    "date": "2026-07-09T15:23:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/09/arts/design/museum-and-galleries-seating.html",
     "feed_name": "NYT (Arts)",
     "title": "The Best Seat in the House Is No Seat at All",
@@ -19988,15 +19998,5 @@
     "content": "Elon Musk\u2019s outrage at Christopher Nolan says more about today\u2019s myopic notion of identity than it does about classical antiquity.",
     "date": "2026-05-23T11:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
-    "feed_name": "Douthat",
-    "title": "What A.I. Philanthropists Can Learn From the Gilded Age",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html",
-    "content": "Leave a physical legacy to future generations, not just a record of programs and disbursements.",
-    "date": "2026-05-23T11:00:10",
-    "category": "NYT"
   }
 ]
