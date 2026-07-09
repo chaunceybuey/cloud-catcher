@@ -140,6 +140,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/09/dining/tomatoes-cucumbers-basil-zucchini.html",
+    "feed_name": "NYT (Food)",
+    "title": "Tomatoes, Cucumbers, Basil, Zucchini",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/07/09/dining/tomatoes-cucumbers-basil-zucchini.html",
+    "content": "Noor Murad\u2019s tomato and bulgur salad with herbs.",
+    "date": "2026-07-09T17:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235734",
     "feed_name": "Texas Tribune",
     "title": "Ted Cruz warns Talarico has \u201creal chance\u201d to flip Texas\u2019 U.S. Senate seat",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
     "content": "It's long been accepted that the smoother the surface, the lower the aerodynamic drag. That turns out not always to be the case.",
     "date": "2026-05-24T08:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a106360ec8b714c77c878de",
-    "feed_name": "Wired (Science)",
-    "title": "The Universe Is Full of \u2018Impossible\u2019 Black Holes. Now Scientists Know Why",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/",
-    "content": "There are black holes that are too big to be born from the death of a star but aren\u2019t quite supermassive either. There\u2019s finally evidence for where those came from.",
-    "date": "2026-05-24T08:00:00",
     "category": "Magazines"
   }
 ]
