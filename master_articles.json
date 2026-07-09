@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=235766",
+    "feed_name": "Texas Tribune",
+    "title": "Aaron Reitz, former attorney general candidate, appointed U.S. attorney in Texas\u2019 southern district",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17375720/texas-aaron-reitz-us-attorney-southern-district",
+    "content": "Former Paxton aide and DOJ official Aaron Reitz speaks with media following a debate hosted by the Republican Attorneys General Association (RAGA) at the Grenada Theater in Dallas on Feb. 17, 2026.",
+    "date": "2026-07-09T20:32:42",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235754",
     "feed_name": "Texas Tribune",
     "title": "Harris County prosecutor will investigate ICE shooting but cautions that feds control access to evidence",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
     "content": "Garlic, as your grandmother may have told you, repels mosquitoes; it also completely blocks them from mating and laying eggs. Diallyl disulfide, it turns out, deserves the credit.",
     "date": "2026-05-24T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a0f1d82427d5dd5a3f05b05",
-    "feed_name": "Wired (Science)",
-    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
-    "author": "Ritsuko Kawai",
-    "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-    "content": "It's long been accepted that the smoother the surface, the lower the aerodynamic drag. That turns out not always to be the case.",
-    "date": "2026-05-24T08:30:00",
     "category": "Magazines"
   }
 ]
