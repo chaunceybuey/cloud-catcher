@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/09/arts/television/late-night-mitch-mcconnell.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Joins the Hunt for Mitch McConnell",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/09/arts/television/late-night-mitch-mcconnell.html",
+    "content": "\u201cApparently, people don\u2019t like a majority senator disappearing with no explanation for three weeks,\u201d Ronny Chieng said on Wednesday\u2019s \u201cDaily Show.\u201d",
+    "date": "2026-07-09T06:36:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235681",
     "feed_name": "Texas Tribune",
     "title": "Crowd demands justice at vigil for Houston man killed in ICE shooting",
@@ -19988,15 +19998,5 @@
     "content": "Stephen Colbert and an array of famous friends gave \u201cThe Late Show\u201d a joyous send off on Thursday night.",
     "date": "2026-05-22T12:40:26",
     "category": "NYT"
-  },
-  {
-    "id": "de44b8afdeca9de5ce06c71dcf218bb6",
-    "feed_name": "Compact",
-    "title": "Gen Z\u2019s Incompetent Converts",
-    "author": "",
-    "link": "https://www.compactmag.com/article/gen-zs-incompetent-converts/",
-    "content": "",
-    "date": "2026-05-22T12:21:26",
-    "category": "Magazines"
   }
 ]
