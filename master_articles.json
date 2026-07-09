@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=235575",
+    "feed_name": "Texas Tribune",
+    "title": "A data center proposed at a quiet corner of East Texas leaves a community bracing for a boom",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17375591/data-center-backlash-east-texas",
+    "content": "Kaesha Avishai stands beneath the power lines that cut through her property near Lufkin on June 12, 2026. She has concerns about AI data centers potentially being constructed close to her home.",
+    "date": "2026-07-09T16:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/09/arts/design/smithsonian-letter-lonnie-bunch.html",
     "feed_name": "NYT (Arts)",
     "title": "Lonnie Bunch Defends Smithsonian Museum After Negative White House Report",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/23/dining/these-are-a-few-of-my-favorite-picnic-treats.html",
     "content": "Dawn Perry\u2019s peanut butter blackberry bars.",
     "date": "2026-05-23T14:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/arts/design/yiadom-boakye-shainman-art.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Letting Her Art (and Birds) Do the Talking",
-    "author": "Aruna D\u2019Souza",
-    "link": "https://www.nytimes.com/2026/05/23/arts/design/yiadom-boakye-shainman-art.html",
-    "content": "The artist Lynette Yiadom-Boakye, ahead of her exhibition, \u201cMany A Moonlit Caveat,\u201d at Jack Shainman Gallery in Chelsea, with her painting, \u201c9 pm Normandy.\u201d",
-    "date": "2026-05-23T13:10:21",
     "category": "NYT"
   }
 ]
