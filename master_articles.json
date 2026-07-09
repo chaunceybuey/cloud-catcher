@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=235754",
+    "feed_name": "Texas Tribune",
+    "title": "Harris County prosecutor will investigate ICE shooting but cautions that feds control access to evidence",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17375688/texas-harris-da-teare-investigate-ice-shooting-lorenzo-salgado-araujo",
+    "content": "A memorial for Lorenzo Salgado Araujo, who was fatally shot by an ICE officer Tuesday, July 7, is seen on Thursday morning, July 9, 2026, in Houston.",
+    "date": "2026-07-09T20:00:57",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235751",
+    "feed_name": "Texas Tribune",
+    "title": "Houston Democrats demand feds release footage of ICE agent fatally shooting migrant",
+    "author": "Katlyn Ma",
+    "link": "https://feeds.texastribune.org/link/16799/17375689/texas-ice-shooting-lorenzo-salgado-houston-democrats-congress-letter",
+    "content": "U.S. Rep. Al Green, D-Houston, speaks at a vigil for Lorenzo Salgado Araujo at North Wayside Drive and Canal Street in Houston on July 8, 2026.",
+    "date": "2026-07-09T19:32:37",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/new-york-shelter-assistance-lawsuit",
     "feed_name": "ProPublica",
     "title": "New York Hasn\u2019t Raised Housing Allowances for Needy Residents in Decades. That\u2019s Unconstitutional, a Lawsuit Says.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/23/movies/cannes-palme-dor-winner-fjord.html",
     "content": "The director Cristian Mungiu, center, accepted the Palme d\u2019Or in Cannes, France, on Saturday.",
     "date": "2026-05-23T22:12:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/arts/television/grizz-chapman-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Grizz Chapman, Actor Known for His Role on \u201930 Rock,\u2019 Dies at 52",
-    "author": "Aimee Ortiz",
-    "link": "https://www.nytimes.com/2026/05/23/arts/television/grizz-chapman-dead.html",
-    "content": "Grizzwald Chapman in 2012 in New York City.",
-    "date": "2026-05-23T20:46:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Colbert\u2019s Sudden Return to Late Night? It Happened on Public Access.",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html",
-    "content": "A day after the comedian hosted the final episode of \u201cThe Late Show With Stephen Colbert\u201d on CBS, he hosted \u201cOnly in Monroe,\u201d a community-access program in Monroe, Mich.",
-    "date": "2026-05-23T20:44:34",
     "category": "NYT"
   }
 ]
