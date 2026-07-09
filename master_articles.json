@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "6a4be36bccd2aa2af80dc393",
+    "feed_name": "Wired",
+    "title": "Madison Square Garden Kept a List of Gay Celebrities",
+    "author": "Noah Shachtman, Maddy Varner",
+    "link": "https://www.wired.com/story/madison-square-garden-celebrity-database-surveillance/",
+    "content": "An MSG database tracked and categorized hundreds of celebs, famous Knicks superfans, and even some of Taylor Swift\u2019s wedding guests. Labels included \u201cLGBTQIA,\u201d \u201cDO NOT HOST,\u201d and low to high \u201crisk.\u201d",
+    "date": "2026-07-09T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19463",
+    "feed_name": "Stratechery",
+    "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
+    "content": "<p>The batter for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.</p>",
+    "date": "2026-07-09T10:00:00",
+    "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bonnie Tyler, Who Sang \u2018Total Eclipse of the Heart,\u2019 Dies at 75",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html",
+    "content": "Bonnie Tyler in 1983. Her biggest hit, \u201cTotal Eclipse of the Heart,\u201d became a cultural mainstay that has 1.1 billion streams on Spotify and 1.3 billion views on YouTube.",
+    "date": "2026-07-09T09:40:52",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/09/opinion/america-politics-weimar-rod-dreher.html",
     "feed_name": "Interesting Times",
     "title": "Preparing for \u2018Weimar America\u2019",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/23/movies/cannes-film-festival-oscar-contenders.html",
     "content": "Jordan Firstman, center, in his directorial debut, \u201cClub Kid,\u201d which sold to A24 for a reported $17 million.",
     "date": "2026-05-23T09:02:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/arts/john-marion-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "John Marion, the \u2018God of Auctioneers in America,\u2019 Dies at 92",
-    "author": "Penelope Green",
-    "link": "https://www.nytimes.com/2026/05/23/arts/john-marion-dead.html",
-    "content": "John Marion in 1965. \u201cHe was the god of auctioneers in America,\u201d a colleague said. \u201cHe could make people bid by sheer force of his personality.\u201d",
-    "date": "2026-05-23T09:02:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/arts/music/olivia-rodrigo-charli-xcx-songs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Olivia Rodrigo, Vince Staples: 8 Songs We\u2019re Talking About This Week",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/05/23/arts/music/olivia-rodrigo-charli-xcx-songs.html",
-    "content": "Olivia Rodrigo\u2019s orchestral angst, Charli XCX\u2019s fashion crisis and Vince Staples\u2019s frustrated sing-rap.",
-    "date": "2026-05-23T09:01:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/arts/thomas-dambo-garbage-man-trolls.html",
-    "feed_name": "NYT (Arts)",
-    "title": "He\u2019s Trolling Your Trash, and Turning It Into Art",
-    "author": "Alice Godwin",
-    "link": "https://www.nytimes.com/2026/05/23/arts/thomas-dambo-garbage-man-trolls.html",
-    "content": "Trolls under construction in Dambo\u2019s studio. The heads take two or three weeks to make, an assistant said.",
-    "date": "2026-05-23T09:01:06",
     "category": "NYT"
   }
 ]
