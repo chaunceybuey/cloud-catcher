@@ -130,6 +130,16 @@
     "category": "Magazines"
   },
   {
+    "id": "a6f228218569f115e759da136c48ffb6",
+    "feed_name": "The Atlantic",
+    "title": "Trump\u2019s War-Not-War Is Doing Something Odd to the Economy",
+    "author": "Idrees Kahloon",
+    "link": "https://www.theatlantic.com/ideas/2026/07/imf-report-consumers-iran-war/687858/",
+    "content": "Businesses and consumers are struggling with a bizarre conflict that is simultaneously happening and not happening.",
+    "date": "2026-07-09T17:54:03",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235734",
     "feed_name": "Texas Tribune",
     "title": "Ted Cruz warns Talarico has \u201creal chance\u201d to flip Texas\u2019 U.S. Senate seat",
@@ -19988,15 +19998,5 @@
     "content": "There are black holes that are too big to be born from the death of a star but aren\u2019t quite supermassive either. There\u2019s finally evidence for where those came from.",
     "date": "2026-05-24T08:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/movies/cannes-palme-dor-winner-fjord.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Director Cristian Mungiu\u2019s \u2018Fjord\u2019 Wins Palme d\u2019Or at Cannes Film Festival",
-    "author": "Manohla Dargis",
-    "link": "https://www.nytimes.com/2026/05/23/movies/cannes-palme-dor-winner-fjord.html",
-    "content": "The director Cristian Mungiu, center, accepted the Palme d\u2019Or in Cannes, France, on Saturday.",
-    "date": "2026-05-23T22:12:01",
-    "category": "NYT"
   }
 ]
