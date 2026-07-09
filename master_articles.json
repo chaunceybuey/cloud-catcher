@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a4ea51acb6c460e3dcb56a6",
+    "feed_name": "Wired",
+    "title": "WIRED World Fair",
+    "author": "",
+    "link": "https://www.wired.com/wiredworldfair/",
+    "content": "",
+    "date": "2026-07-09T12:51:16",
+    "category": "Magazines"
+  },
+  {
     "id": "6924bc3d1586e3d17734edfdafe075e2",
     "feed_name": "Compact",
     "title": "A Neurologist\u2019s Perspective on Gender Identity",
@@ -19986,16 +19996,6 @@
     "author": "Michael A. Elliott",
     "link": "https://www.theatlantic.com/ideas/2026/05/college-should-be-way-more-fun/687272/",
     "content": "I\u2019m not talking about keg stands. I\u2019m talking about the joyous mysteries of intellectual life.",
-    "date": "2026-05-23T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "cf104cd12059f0d2cce2b2592432d749",
-    "feed_name": "The Atlantic",
-    "title": "Why College Students Are Booing AI",
-    "author": "Ian Bogost",
-    "link": "https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/",
-    "content": "The sound of a cosmic howl",
     "date": "2026-05-23T11:00:00",
     "category": "Magazines"
   }
