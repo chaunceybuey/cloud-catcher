@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/09/arts/design/museum-and-galleries-seating.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Seat in the House Is No Seat at All",
+    "author": "Alexis Soloski and Lexi Parra",
+    "link": "https://www.nytimes.com/2026/07/09/arts/design/museum-and-galleries-seating.html",
+    "content": "Multimedia art is often challenging, provoking. Now it is also potentially bruising. Check your joints before you check out these summer shows.",
+    "date": "2026-07-09T14:35:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/09/movies/westhampton-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Westhampton\u2019 Review: A Humiliating Return",
@@ -19988,15 +19998,5 @@
     "content": "Leave a physical legacy to future generations, not just a record of programs and disbursements.",
     "date": "2026-05-23T11:00:10",
     "category": "NYT"
-  },
-  {
-    "id": "6a0e1c6264dc9886d88b049a",
-    "feed_name": "Wired (Science)",
-    "title": "Quantum \u2018Jamming\u2019 Could Help Unlock the Mysteries of Causality",
-    "author": "Matt von Hippel",
-    "link": "https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/",
-    "content": "To keep communications secure in a post-quantum world, cryptographers are digging down into the concept of cause and effect.",
-    "date": "2026-05-23T11:00:00",
-    "category": "Magazines"
   }
 ]
