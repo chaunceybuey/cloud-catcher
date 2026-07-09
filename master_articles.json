@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6924bc3d1586e3d17734edfdafe075e2",
+    "feed_name": "Compact",
+    "title": "A Neurologist\u2019s Perspective on Gender Identity",
+    "author": "",
+    "link": "https://www.compactmag.com/article/a-neurologists-perspective-on-gender-identity/",
+    "content": "",
+    "date": "2026-07-09T12:05:27",
+    "category": "Magazines"
+  },
+  {
     "id": "6a42b6dfc2bd453ddc7d198f",
     "feed_name": "Wired",
     "title": "Data Centers Are Quietly Taking Over Texas. The Pollution Could Be Catastrophic",
@@ -68,6 +78,16 @@
     "content": "Thousands of new fossil-fuel power sources are quietly firing up across the state to power the AI boom, thanks to a regulatory loophole, leaving residents feeling blindsided.",
     "date": "2026-07-09T11:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235529",
+    "feed_name": "Texas Tribune",
+    "title": "Planned Texas data centers could emit more greenhouse gases than many countries",
+    "author": "By Evan Simon,\u00a0Floodlight",
+    "link": "https://feeds.texastribune.org/link/16799/17375445/texas-data-centers-ai-power-plants-pollution-state-permits",
+    "content": "Omaira Garcia stands at her property line bordering OpenAI\u2019s flagship \u201cStargate\u201d data center in Abilene. The data center\u2019s gas-fueled power plant is located roughly 500 yards from her home.",
+    "date": "2026-07-09T11:00:00",
+    "category": "Texas"
   },
   {
     "id": "6a4be36bccd2aa2af80dc393",
@@ -88,6 +108,36 @@
     "content": "<p>The batter for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.</p>",
     "date": "2026-07-09T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235554",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 ACA enrollment shrinks by 4% after tax credit expiration, new federal data shows",
+    "author": "By Gabby Birenbaum, DATA ANALYSIS BY\u00a0Dan Keemahill",
+    "link": "https://feeds.texastribune.org/link/16799/17375446/texas-aca-obamacare-health-insurance-effectuation",
+    "content": "Compared to February 2025, the number of Affordable Care Act enrollees in Texas dropped 4% in February 2026.",
+    "date": "2026-07-09T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235606",
+    "feed_name": "Texas Tribune",
+    "title": "What to know about Houston ICE shooting and other migrant deaths in Texas",
+    "author": "By Mar\u00eda M\u00e9ndezand\u00a0Juliana Lightsey",
+    "link": "https://feeds.texastribune.org/link/16799/17375447/texas-immigration-deaths-ice",
+    "content": "Antonio is comforted by a passerby after becoming emotional at a memorial for Lorenzo Salgado Araujo at North Wayside Drive and Canal Street in Houston on Wednesday afternoon, July 8, 2026. Salgado Araujo was the second person in Texas shot by federal immigration agents since 2025.",
+    "date": "2026-07-09T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "307aac10abee68eca573826441a7f0f1",
+    "feed_name": "The Atlantic",
+    "title": "Our Oldest Ally",
+    "author": "Eliot A. Cohen",
+    "link": "https://www.theatlantic.com/ideas/2026/07/america-france-enduring-relationship/687844/",
+    "content": "America still needs France.",
+    "date": "2026-07-09T10:00:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/07/09/arts/music/bonnie-tyler-dead.html",
@@ -19948,55 +19998,5 @@
     "content": "The sound of a cosmic howl",
     "date": "2026-05-23T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231168",
-    "feed_name": "Texas Tribune",
-    "title": "House Democratic runoff heats up in the Rio Grande Valley, where the party hopes to reverse GOP gains",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17346909/texas-house-district-41-primary-runoffs-salinas-haddad",
-    "content": "Top row, from left: Democrats Victor &quot;Seby&quot; Haddad and Julio Salinas. Bottom row: Republicans Gary Groves and Sergio Sanchez. The four are vying in their respective parties&#039; runoffs for Texas state House District 41. HD-41 is in the Rio Grande Valley and includes much of McAllen and some of Edinburg.",
-    "date": "2026-05-23T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231162",
-    "feed_name": "Texas Tribune",
-    "title": "Rallies, ad blitzes and a Trump endorsement: inside the final days of the Cornyn-Paxton runoff",
-    "author": "By Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17346910/texas-us-senate-gop-runoff-john-cornyn-ken-paxton-final-week-closing-arguments-trump",
-    "content": "From left: U.S. Sen. John Cornyn speaks to supporters in Corpus Christi on May 22, 2026. Texas Attorney General Paxton attends a rally in San Antonio on May 21, 2026.",
-    "date": "2026-05-23T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "69f8a3c3b84a39b00f24bb05",
-    "feed_name": "Wired (Science)",
-    "title": "Cosmic Voids May Contain the Universe\u2019s Best Secrets",
-    "author": "Becky Ferreira",
-    "link": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
-    "content": "Once dismissed as empty expanses between galaxies, cosmic voids are becoming one of the most promising tools for probing the universe\u2019s biggest mysteries.",
-    "date": "2026-05-23T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/arts/harry-potter-cursed-child-stage-door.html",
-    "feed_name": "NYT (Arts)",
-    "title": "As Draco Malfoy on Broadway, Tom Felton Draws a Crowd",
-    "author": "Sarah Bahr and Vidhya Nagarajan",
-    "link": "https://www.nytimes.com/2026/05/23/arts/harry-potter-cursed-child-stage-door.html",
-    "content": "Fans are traveling great distances for the chance to meet Tom Felton, who has revived a now grown-up Draco Malfoy on Broadway in \u201cHarry Potter and The Cursed Child.\u201d",
-    "date": "2026-05-23T09:02:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/23/movies/amfar-cannes-gala-photographs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Shooting Stars at the amfAR Cannes Gala",
-    "author": "Landon Nordeman",
-    "link": "https://www.nytimes.com/2026/05/23/movies/amfar-cannes-gala-photographs.html",
-    "content": "Coco Rocha at the amfAR Cannes gala in Cap d\u2019Antibes, France, on Thursday.",
-    "date": "2026-05-23T09:02:14",
-    "category": "NYT"
   }
 ]
