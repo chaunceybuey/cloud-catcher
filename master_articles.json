@@ -90,6 +90,96 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/10/arts/television/survivial-of-the-thickest-michelle-buteau.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Michelle Buteau and the Surprising Transgression of \u201cSurvival of the Thickest\u201d",
+    "author": "Maya Phillips",
+    "link": "https://www.nytimes.com/2026/07/10/arts/television/survivial-of-the-thickest-michelle-buteau.html",
+    "content": "Michelle Buteau in the third season of Netflix\u2019s \u201cSurvival of the Thickest.\u201d",
+    "date": "2026-07-10T09:03:39",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/arts/television/chosen-investors-lawsuit.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Chosen\u2019 Studio Is Accused of Shortchanging Crowdfunders",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/07/10/arts/television/chosen-investors-lawsuit.html",
+    "content": "A lawsuit by a former shareholder says he was not fairly compensated when the company behind the popular drama about Jesus\u2019 life went private.",
+    "date": "2026-07-10T09:02:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/arts/television/the-ghost-in-the-shell.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Ghost in the Shell\u2019 Director Wanted Humans in Charge",
+    "author": "Rafael Motamayor",
+    "link": "https://www.nytimes.com/2026/07/10/arts/television/the-ghost-in-the-shell.html",
+    "content": "In an interview, Mokochan discusses his new adaptation of the classic cyberpunk manga and why this story continues to resonate.",
+    "date": "2026-07-10T09:02:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/arts/music/cece-winans-the-hymns-gospel-worship.html",
+    "feed_name": "NYT (Arts)",
+    "title": "CeCe Winans Revisits Pared-Down Worship Music on \u2018The Hymns\u2019",
+    "author": "Robert M. Marovich",
+    "link": "https://www.nytimes.com/2026/07/10/arts/music/cece-winans-the-hymns-gospel-worship.html",
+    "content": "CeCe Winans\u2019s \u201cThe Hymns\u201d debuted at No. 1 on Billboard\u2019s Top Gospel Albums chart, her 12th LP to do so.",
+    "date": "2026-07-10T09:01:40",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/movies/noir-films-paris-theater-festival-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Now Entering Noir City",
+    "author": "Jason Bailey",
+    "link": "https://www.nytimes.com/2026/07/10/movies/noir-films-paris-theater-festival-streaming.html",
+    "content": "Rita Johnson and Ray Milland in a still from \u201cThe Big Clock\u201d (1948).",
+    "date": "2026-07-10T09:01:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/movies/the-invite-clip-olivia-wilde.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Olivia Wilde Builds Comic Tension in \u2018The Invite\u2019",
+    "author": "Mekado Murphy",
+    "link": "https://www.nytimes.com/2026/07/10/movies/the-invite-clip-olivia-wilde.html",
+    "content": "The director and actress discusses a tense scene from her dinner-party comedy, in which she stars with Seth Rogen, Pen\u00e9lope Cruz and Edward Norton.",
+    "date": "2026-07-10T09:01:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/movies/kids-movies-streaming-now.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Children\u2019s Movies to Stream Now",
+    "author": "Dina Gachman",
+    "link": "https://www.nytimes.com/2026/07/10/movies/kids-movies-streaming-now.html",
+    "content": "This month\u2019s picks include two 2026 animated adventures and the finale to a Guillermo del Toro franchise.",
+    "date": "2026-07-10T09:01:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/arts/pathologic-horror-video-games.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In the Pathologic Game Series, Failure Is Inevitable",
+    "author": "Christopher Byrd",
+    "link": "https://www.nytimes.com/2026/07/10/arts/pathologic-horror-video-games.html",
+    "content": "In the psychological horror series Pathologic, eerie theatrics and impossible decisions unfold in a Russian town overrun by plague.",
+    "date": "2026-07-10T09:00:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/arts/design/bayeux-tapestry-british-museum.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bayeux Tapestry Arrives in U.K. After Maximum-Security Operation",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/10/arts/design/bayeux-tapestry-british-museum.html",
+    "content": "The tapestry in Bayeux, France, in 2018. British museums and officials have repeatedly asked to borrow it.",
+    "date": "2026-07-10T08:59:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/federal-election-assistance-commission-trump-dismantled",
     "feed_name": "ProPublica",
     "title": "Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms",
@@ -19908,95 +19998,5 @@
     "content": "Even the president\u2019s supporters are alarmed.",
     "date": "2026-05-25T00:12:40",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/24/dining/carlo-petrini-slow-food.html",
-    "feed_name": "NYT (Food)",
-    "title": "For Carlo Petrini, the Point of \u2018Slow Food\u2019 Wasn\u2019t the Food. It Was Us.",
-    "author": "Pete Wells",
-    "link": "https://www.nytimes.com/2026/05/24/dining/carlo-petrini-slow-food.html",
-    "content": "The Italian activist, who died on Thursday, built his global movement on the idea that eating well could make modern life more meaningful.",
-    "date": "2026-05-24T17:52:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/24/business/media/mandalorian-and-grogu-box-office.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Mandalorian and Grogu\u2019 Tops Box Office as Disney Bets on \u2018Star Wars\u2019 Revival",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/05/24/business/media/mandalorian-and-grogu-box-office.html",
-    "content": "\u201cStar Wars: The Mandalorian and Grogu\u201d was intended to sell toys as much as movie tickets.",
-    "date": "2026-05-24T17:33:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/navalnys-unfinished-work-patriot-a-memoir/",
-    "feed_name": "NYRB",
-    "title": "Navalny\u2019s Unfinished Work",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/navalnys-unfinished-work-patriot-a-memoir/",
-    "content": "In his posthumous memoir, Alexei Navalny\u2019s utopian vision of \u201cthe Beautiful Russia of the Future\u201d remains strangely detached from history.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-24T15:18:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/damming-the-big-ocean-chokepoints-edward-fishman/",
-    "feed_name": "NYRB",
-    "title": "Damming the Big Ocean",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/damming-the-big-ocean-chokepoints-edward-fishman/",
-    "content": "Edward Fishman\u2019s <em>Chokepoints</em> explains how the US came to rely on its economic arsenal, but stops short of a complete assessment of the unreliable tactic and its often devastating consequences.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-24T15:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/24/dining/pulled-pork-at-the-push-of-a-button.html",
-    "feed_name": "NYT (Food)",
-    "title": "Pulled Pork at the Push of a Button",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/05/24/dining/pulled-pork-at-the-push-of-a-button.html",
-    "content": "Margaux Laskey\u2019s slow cooker BBQ pulled pork.",
-    "date": "2026-05-24T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/mighty-real-tracey-emin-a-second-life/",
-    "feed_name": "NYRB",
-    "title": "Mighty Real",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/mighty-real-tracey-emin-a-second-life/",
-    "content": "Tracey Emin\u2019s art has often tackled taboo subjects, including rape, abortion, and sexual abuse, but her multifarious works are always bracingly antitherapeutic.\n\nDelivered by PolitePaul service",
-    "date": "2026-05-24T14:48:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/11/art-for-our-sakes-zadie-smith/",
-    "feed_name": "NYRB",
-    "title": "Art for Our Sakes",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/11/art-for-our-sakes-zadie-smith/",
-    "content": "Why should we go on making things?\n\nDelivered by PolitePaul service",
-    "date": "2026-05-24T14:33:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/24/arts/music/summer-music-festivals-bonnaroo-gov-ball-cma-fest.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Bonnaroo, Governors Ball and 7 More Summer Music Festivals Not to Miss",
-    "author": "Danielle Dowling",
-    "link": "https://www.nytimes.com/2026/05/24/arts/music/summer-music-festivals-bonnaroo-gov-ball-cma-fest.html",
-    "content": "The Ferris wheel at the Bonnaroo Musical and Arts Festival in Manchester, Tenn., last year. The long-running festival will return in June, along with six stages featuring bands such as the Strokes and Geese.",
-    "date": "2026-05-24T13:46:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/24/dining/grilled-salmon-salad-with-lime-chiles-and-herbs.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Grilled Salmon Salad With Lime, Chiles and Herbs",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/05/24/dining/grilled-salmon-salad-with-lime-chiles-and-herbs.html",
-    "content": "And four more bright, easy recipes for your post-holiday week.",
-    "date": "2026-05-24T13:00:04",
-    "category": "NYT"
   }
 ]
