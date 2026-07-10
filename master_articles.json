@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/10/dining/a-new-summer-caesar.html",
+    "feed_name": "NYT (Food)",
+    "title": "A New Summer Caesar",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/07/10/dining/a-new-summer-caesar.html",
+    "content": "Melissa Clark\u2019s cabbage Caesar salad.",
+    "date": "2026-07-10T15:00:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/movies/five-action-movies-to-stream-now.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Action Movies to Stream Now",
+    "author": "Robert Daniels",
+    "link": "https://www.nytimes.com/2026/07/10/movies/five-action-movies-to-stream-now.html",
+    "content": "Upgrade your movie night with these picks, featuring karate-chopping families, rogue assassins and more.",
+    "date": "2026-07-10T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806395#p8806395",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19976,26 +19996,6 @@
     "author": "ByAdam Gopnik",
     "link": "https://www.newyorker.com/magazine/2026/06/01/the-dogs-gaze-a-visual-history-thomas-w-laqueur-book-review",
     "content": "A humane study of how artists have captured our canine companions becomes a meditation on sympathy, trust, and the virtues we have bred them to display.",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "f5d33ce3a6cb4bf7cebf269662540947",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/john-of-john-body-double-the-rolling-stones-unvaccinated-under-god",
-    "content": "\u201cJohn of John,\u201d \u201cBody Double,\u201d \u201cThe Rolling Stones,\u201d and \u201cUnvaccinated Under God.\u201d",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "e43095447c10554131ec18c045182ae4",
-    "feed_name": "New Yorker",
-    "title": "Looking Back at Lewis and Clark",
-    "author": "ByCaleb Crain",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/this-vast-enterprise-craig-fehrman-book-review",
-    "content": "The explorers\u2019 crossing of the continent is America\u2019s most famous camping trip. What was it all for?",
     "date": "2026-05-25T10:12:37",
     "category": "Magazines"
   }
