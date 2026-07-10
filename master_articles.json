@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806395#p8806395",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8806395#p8806395",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I just got a letter from my credit card company that a payment was returned for insufficient funds. Has anyone had similar problems with their CMA?<br /><br />This happened a few months ago and Fidelity said it was because I didn't have enough \"settled\" cash, as EFT deposits can take over a week to clear. I couldn't obtain history of the settled cash balance, but I managed to get the credit card company to try again and drop the returned-payment-fee.<br /><br />I added an extra month of cash to my CMA so this wouldn't happen again. But it just happened again. I have sufficient settled funds to pay. This has really turned me off of this CMA product, and Fido in general.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Hi @Chiaroscuro,<br /><br />I never had this problem since I keep a good 2-3 month buffer on the CMA.<br /><br />But Fidelity has a very long hold time for ACH pulls, check deposits etc. They say it is getting better, but I'm not sure.<br /><br />How do you get the money into your CMA? Do you have a paycheck deposited there? That should have no hold.<br /><br />Do you sell securities in order to get cash? That usually needs a day or two to settle. I don't do that myself as my CMA has only cash.<br /><br />So it would be good to get more details to understand this better.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Fri Jul 10, 2026 9:34 am</p><hr />",
+    "date": "2026-07-10T14:34:53",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/10/movies/new-movies-this-week-critics.html",
     "feed_name": "NYT (Arts)",
     "title": "7 New Movies Our Critics Are Talking About This Week",
@@ -19986,16 +19996,6 @@
     "author": "ByCaleb Crain",
     "link": "https://www.newyorker.com/magazine/2026/06/01/this-vast-enterprise-craig-fehrman-book-review",
     "content": "The explorers\u2019 crossing of the continent is America\u2019s most famous camping trip. What was it all for?",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "f62e7a3babf4843143ff02f1e83b2b26",
-    "feed_name": "New Yorker",
-    "title": "The Fear Driving \u201cWell, I\u2019ll Let You Go\u201d and \u201cOthello\u201d",
-    "author": "ByEmily Nussbaum",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/othello-theatre-review-well-ill-let-you-go",
-    "content": "A new Off Broadway play and Shakespeare\u2019s tragedy hinge on a universal anxiety: How well do you know your partner?",
     "date": "2026-05-25T10:12:37",
     "category": "Magazines"
   }
