@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/09/arts/art-gallery-shows-to-see-in-july.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Art Gallery Shows to See in July",
+    "author": "Travis Diehl",
+    "link": "https://www.nytimes.com/2026/07/09/arts/art-gallery-shows-to-see-in-july.html",
+    "content": "This week in Newly Reviewed, Travis Diehl covers the ramblings of Tinmantis, Jill Magid\u2019s politics, a gory group show and Erin Johnson\u2019s look at Lawrence, Kan., after \u201cThe Day After.\u201d",
+    "date": "2026-07-09T21:01:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235766",
     "feed_name": "Texas Tribune",
     "title": "Aaron Reitz, former attorney general candidate, appointed U.S. attorney in Texas\u2019 southern district",
@@ -19988,15 +19998,5 @@
     "content": "And four more bright, easy recipes for your post-holiday week.",
     "date": "2026-05-24T13:00:04",
     "category": "NYT"
-  },
-  {
-    "id": "ed207b7c5868b5971785ff599da72eb9",
-    "feed_name": "The Atlantic",
-    "title": "Americans Refuse To Be Happy",
-    "author": "Annie Lowrey",
-    "link": "https://www.theatlantic.com/ideas/2026/05/americans-depressed-economy/687278/",
-    "content": "Our prosperity is fueling our pessimism.",
-    "date": "2026-05-24T11:15:12",
-    "category": "Magazines"
   }
 ]
