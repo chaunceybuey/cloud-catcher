@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a4ea932039765edd3930ccf",
+    "feed_name": "Wired (Science)",
+    "title": "What Watching a Soccer Final Does to Your Body, According to Science",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
+    "content": "A recent study tracked hundreds of soccer fans until their favorite team reached the final of a tournament. Their stress levels skyrocketed, and their heart rates jumped too.",
+    "date": "2026-07-10T15:41:31",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806446#p8806446",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "PaunchyPirate",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8806446#p8806446",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I just got a letter from my credit card company that a payment was returned for insufficient funds. Has anyone had similar problems with their CMA?<br /><br />This happened a few months ago and Fidelity said it was because I didn't have enough \"settled\" cash, as EFT deposits can take over a week to clear. I couldn't obtain history of the settled cash balance, but I managed to get the credit card company to try again and drop the returned-payment-fee.<br /><br />I added an extra month of cash to my CMA so this wouldn't happen again. But it just happened again. I have sufficient settled funds to pay. This has really turned me off of this CMA product, and Fido in general.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>On the Balances tab for the CMA account (using a web browser), there are two key number to note:<br />1. Available to Trade (All Settled)<br />2. Available to Withdraw<br /><br />You must have enough money in the \"Available to Withdraw\" category to cover your bill pays at any given time.<br /><br />\"Available to Trade (All Settled)\" means they will let you purchase an investment with the money at Fidelity.  <br /><br />Is that the case?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=58345\">PaunchyPirate</a> \u2014 Fri Jul 10, 2026 10:32 am</p><hr />",
+    "date": "2026-07-10T15:32:12",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/10/dining/a-new-summer-caesar.html",
     "feed_name": "NYT (Food)",
     "title": "A New Summer Caesar",
@@ -19976,26 +19996,6 @@
     "author": "ByCora Frazier",
     "link": "https://www.newyorker.com/magazine/2026/06/01/a-vindication-of-the-rights-of-llms",
     "content": "Pity the poor large language model!",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "e20f1da0b0e9eb821ab45d5c53242704",
-    "feed_name": "New Yorker",
-    "title": "\u201cMany Worlds\u201d",
-    "author": "ByAy\u015feg\u00fcl Sava\u015f",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/many-worlds-fiction-aysegul-savas",
-    "content": "Wasn\u2019t it the case that all friendships involved some amount of attraction? It was the engine of curiosity, the mystery that propelled any relationship forward.",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "106e080822d2f17d137b3174d1e06800",
-    "feed_name": "New Yorker",
-    "title": "What Dogs See When They Look at Us",
-    "author": "ByAdam Gopnik",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/the-dogs-gaze-a-visual-history-thomas-w-laqueur-book-review",
-    "content": "A humane study of how artists have captured our canine companions becomes a meditation on sympathy, trust, and the virtues we have bred them to display.",
     "date": "2026-05-25T10:12:37",
     "category": "Magazines"
   }
