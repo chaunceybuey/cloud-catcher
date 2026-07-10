@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Museum Spreads 800 Pounds of Peanut Butter in Tribute to Dutch Artist",
+    "author": "Natan Odenheimer",
+    "link": "https://www.nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html",
+    "content": "Workers at the Museum Boijmans Van Beuningen in Rotterdam, the Netherlands, recreated \u201cPeanut Butter Floor,\u201d an art installation by Wim T. Schippers, last week.",
+    "date": "2026-07-10T16:38:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806478#p8806478",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -108,6 +118,16 @@
     "content": "Tennessee Williams\u2019s darkly operatic one-act play becomes a proper opera in a new adaptation by the composer Courtney Bryan.",
     "date": "2026-07-10T16:03:33",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235870",
+    "feed_name": "Texas Tribune",
+    "title": "Houston ICE shooting witnesses claim driver didn\u2019t try to ram agents, report says",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17376184/texas-ice-shooting-van-passengers-account-houston",
+    "content": "A person sits near a memorial for Lorenzo Salgado Araujo on July 9, 2026, in Houston. Salgado Araujo was fatally shot by an immigration officer Tuesday.",
+    "date": "2026-07-10T16:01:40",
+    "category": "Texas"
   },
   {
     "id": "6a4ea932039765edd3930ccf",
@@ -19976,26 +19996,6 @@
     "author": "ByArthur Krystal",
     "link": "https://www.newyorker.com/magazine/2026/06/01/how-problematic-is-patriotism",
     "content": "National pride in America has plummeted in the Trump era. Is it worth trying to salvage?",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "54627b4fbf19241d8bbb21c2062a285d",
-    "feed_name": "New Yorker",
-    "title": "Our Warming Planet Is a Petri Dish for New and Deadly Microbes",
-    "author": "ByShayla Love",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/our-warming-planet-is-a-petri-dish-for-new-and-deadly-microbes",
-    "content": "\u201cFlesh-eating\u201d bacteria is spreading. Infectious fungi are emerging. Microbiomes may never be the same. Are we ready?",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "f6db35c3c36541e655df60b338f62062",
-    "feed_name": "New Yorker",
-    "title": "The Stunt Pilot Hunting Russian Drones",
-    "author": "ByEd Caesar",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/the-stunt-pilot-hunting-russian-drones",
-    "content": "A Ukrainian flying ace is leveraging his aerobatics skills to protect his countrymen from nightly attacks.",
     "date": "2026-05-25T10:12:37",
     "category": "Magazines"
   }
