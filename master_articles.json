@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a501400ba309b253cb3cc8c",
+    "feed_name": "Wired (Science)",
+    "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
+    "content": "Data centers are driving up the company\u2019s use of electricity\u2014and carbon pollution.",
+    "date": "2026-07-10T23:16:56",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806684#p8806684",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "There is a lot more to havens than crystal-clear waters and a promise of opacity",
     "date": "2026-05-25T15:38:01",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/25/arts/music/die-walkure-la-philharmonic-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ryan Speedo Green in \u2018Die Walk\u00fcre\u2019: Preview of the Met Opera",
-    "author": "Joshua Barone",
-    "link": "https://www.nytimes.com/2026/05/25/arts/music/die-walkure-la-philharmonic-review.html",
-    "content": "Ryan Speedo Green, front, as Wotan in \u201cDie Walk\u00fcre,\u201d near Christine Goerke as Br\u00fcnnhilde.",
-    "date": "2026-05-25T15:13:04",
-    "category": "NYT"
   }
 ]
