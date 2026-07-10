@@ -140,6 +140,16 @@
     "category": "Finance"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/10/podcasts/best-jay-z-album-popcast.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jay-Z\u2019s Definitive Album? Debating \u2018Reasonable Doubt\u2019 vs. \u2018The Blueprint\u2019",
+    "author": "Jon Caramanica and Joe Coscarelli",
+    "link": "https://www.nytimes.com/2026/07/10/podcasts/best-jay-z-album-popcast.html",
+    "content": "Ahead of the rapper\u2019s three celebratory nights at Yankee Stadium, our \u201cPopcast\u201d hosts debate two major Jay-Z albums.",
+    "date": "2026-07-10T16:15:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/10/arts/music/suddenly-last-summer-opera-bard-review.html",
     "feed_name": "NYT (Arts)",
     "title": "Review: \u2018Suddenly Last Summer\u2019 Opera Premieres at Bard",
@@ -19986,16 +19996,6 @@
     "author": "ByAmanda Petrusich",
     "link": "https://www.newyorker.com/magazine/2026/06/01/singing-the-knicks-praises-with-a-dash-of-metal",
     "content": "Doug Berns, a.k.a. DugLust, is a Knicks nut and a modern-day Weird Al, who counts Ben Stiller among his devotees. With the team in the playoffs, he\u2019s busy.",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "80ad901e4421823cecc1a60f80d04345",
-    "feed_name": "New Yorker",
-    "title": "The Trump-Epstein Files: Look but Don\u2019t Touch",
-    "author": "ByCharlotte Goddu",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/the-trump-epstein-files-look-but-dont-touch",
-    "content": "The Donald J. Trump and Jeffrey Epstein Memorial Reading Room, in Tribeca, housed three and a half million bound files, along with a handy time line charting the ickiness.",
     "date": "2026-05-25T10:12:37",
     "category": "Magazines"
   }
