@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806587#p8806587",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8806587#p8806587",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>But Fidelity has a very long hold time for ACH pulls, check deposits etc. They say it is getting better, but I'm not sure.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>The hold time probably depends on factors specific to the account.  Generally all my ACH pulls and mobile deposits clear in 1 business day.  When my balance dropped a lot last year, it went up to five business days. After a few months with a higher balance it went back to 1.<br /><br />In any case, I keep a large buffer, and don't mix investment and current accounts.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Indeed. And I know securities influence the hold time.<br />For example. When I deposit checks into an account that has ETF investments, there is no hold.<br />When I deposit similar checks into an account that has only cash and cash equivalent, there is a hold. <br />I verified this multiple times. Apparently Fidelity use securities as collateral, but I'm speculating. The truth is that I don't know.<br />So what I do today is (1) I deposit checks and ACH pulls into brokerage and (2) transfer the $ to the CMA the following day. <br />Never failed.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Fri Jul 10, 2026 2:08 pm</p><hr />",
+    "date": "2026-07-10T19:08:16",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806576#p8806576",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Lyrrad",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8806576#p8806576",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>But Fidelity has a very long hold time for ACH pulls, check deposits etc. They say it is getting better, but I'm not sure.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>The hold time probably depends on factors specific to the account.  Generally all my ACH pulls and mobile deposits clear in 1 business day.  When my balance dropped a lot last year, it went up to five business days. After a few months with a higher balance it went back to 1.<br /><br />In any case, I keep a large buffer, and don't mix investment and current accounts.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=9124\">Lyrrad</a> \u2014 Fri Jul 10, 2026 1:55 pm</p><hr />",
+    "date": "2026-07-10T18:55:49",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806571#p8806571",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/05/national-debt-problem/687257/",
     "content": "If you\u2019re not worried about this country\u2019s fiscal outlook, you\u2019re not paying attention.",
     "date": "2026-05-25T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "696b56a7a69abc5571504ba9d6d37152",
-    "feed_name": "New Yorker",
-    "title": "Summer Culture Preview",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/summer-culture-preview-2026",
-    "content": "What\u2019s coming this season in TV, theatre, music, movies, dance, and art.",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "c0b7230beef3ef3f6b32cea1014f6f3c",
-    "feed_name": "New Yorker",
-    "title": "How Prepared Are We for a Public-Health Emergency?",
-    "author": "ByDhruv Khullar",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/how-prepared-are-we-for-a-public-health-emergency",
-    "content": "The outbreaks of hantavirus and Ebola expose the shortsightedness of America\u2019s retreat, under the Trump Administration, from its role as a global-health leader.",
-    "date": "2026-05-25T10:12:37",
     "category": "Magazines"
   }
 ]
