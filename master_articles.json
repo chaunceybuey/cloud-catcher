@@ -90,6 +90,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/10/movies/new-movies-this-week-critics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "7 New Movies Our Critics Are Talking About This Week",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/07/10/movies/new-movies-this-week-critics.html",
+    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+    "date": "2026-07-10T14:04:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/books/hershel-parker-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hershel Parker, Melville Scholar of Ahab-Like Obsessiveness, Dies at 90",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/07/10/books/hershel-parker-dead.html",
+    "content": "The author of an exhaustive two-volume biography, he was \u201cfanatical about his approach to scholarship and infatuated with Melville,\u201d a colleague said.",
+    "date": "2026-07-10T14:00:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/arts/pen-america-dinaw-mengestu-resigns.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dinaw Mengestu Resigns as PEN America President After 7 Months in Role",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/07/10/arts/pen-america-dinaw-mengestu-resigns.html",
+    "content": "Dinaw Mengestu had been on PEN America\u2019s board for about a decade before he was elected its president in December.",
+    "date": "2026-07-10T13:50:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806332#p8806332",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Chiaroscuro",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8806332#p8806332",
+    "content": "I just got a letter from my credit card company that a payment was returned for insufficient funds. Has anyone had similar problems with their CMA?<br /><br />This happened a few months ago and Fidelity said it was because I didn't have enough \"settled\" cash, as EFT deposits can take over a week to clear. I couldn't obtain history of the settled cash balance, but I managed to get the credit card company to try again and drop the returned-payment-fee.<br /><br />I added an extra month of cash to my CMA so this wouldn't happen again. But it just happened again. I have sufficient settled funds to pay. This has really turned me off of this CMA product, and Fido in general.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=224104\">Chiaroscuro</a> \u2014 Fri Jul 10, 2026 8:32 am</p><hr />",
+    "date": "2026-07-10T13:32:37",
+    "category": "Finance"
+  },
+  {
     "id": "351d7b16cfb8af444888e57270e25196",
     "feed_name": "Compact",
     "title": "Nigel Farage Is Flailing",
@@ -19956,46 +19996,6 @@
     "author": "ByEmily Nussbaum",
     "link": "https://www.newyorker.com/magazine/2026/06/01/othello-theatre-review-well-ill-let-you-go",
     "content": "A new Off Broadway play and Shakespeare\u2019s tragedy hinge on a universal anxiety: How well do you know your partner?",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "2cddc40ad3b5b06f0d15bb1bcd5693d6",
-    "feed_name": "New Yorker",
-    "title": "\u201cI Love Boosters,\u201d Reviewed: A Socialist-Surrealist Shoplifting Fantasy",
-    "author": "ByRichard Brody",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/i-love-boosters-movie-review",
-    "content": "Boots Riley\u2019s new film is an exuberantly inventive but overstretched comedy about the redistribution of luxury goods.",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "5efbb2a9f3a36fdc8c33d76d2322d25b",
-    "feed_name": "New Yorker",
-    "title": "\u201cEcologies of Perception\u201d",
-    "author": "ByTerrance Hayes",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/ecologies-of-perception-terrance-hayes-poem",
-    "content": "\u201cThe blackfly breeds in streams & rivers / during the dog days of summer, / but cannot survive on sadness like the housefly.\u201d",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "77aca4e3d7b29f2192f5620a244d9ccf",
-    "feed_name": "New Yorker",
-    "title": "\u201cWhat I Saw\u201d",
-    "author": "ByMatthew Dickman",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/what-i-saw-matthew-dickman-poem",
-    "content": "\u201cI laid my head on the place between my mother\u2019s still-warm / arm and chest, closed my eyes, and cried.\u201d",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "d39df5b0eed6257987f106b4e361b5f3",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-june-1-2026-issue",
-    "content": "Drawings from the June 1, 2026, magazine.",
     "date": "2026-05-25T10:12:37",
     "category": "Magazines"
   }
