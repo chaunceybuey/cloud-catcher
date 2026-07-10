@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/09/arts/wes-anderson-luke-wilson-trapped-elevator.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Wes Anderson and Luke Wilson Walk Into an Elevator and \u2026 Get Stuck",
+    "author": "John S.W. MacDonald",
+    "link": "https://www.nytimes.com/2026/07/09/arts/wes-anderson-luke-wilson-trapped-elevator.html",
+    "content": "From left, Wilson, Anderson and Brooks at the Academy Museum of Motion Pictures in Los Angeles on Monday for a 30th anniversary celebration of Anderson\u2019s film \u201cBottle Rocket.\u201d The group got stuck when they tried to leave the event.",
+    "date": "2026-07-09T19:41:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235751",
     "feed_name": "Texas Tribune",
     "title": "Houston Democrats demand feds release footage of ICE agent fatally shooting migrant",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/05/americans-depressed-economy/687278/",
     "content": "Our prosperity is fueling our pessimism.",
     "date": "2026-05-24T11:15:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "0857b26600d0707cea988c19efbb39f4",
-    "feed_name": "The Atlantic",
-    "title": "The Unfilmable Author Everyone Should Read This Summer",
-    "author": "Helen Lewis",
-    "link": "https://www.theatlantic.com/ideas/2026/05/author-terry-pratchett-film/687253/",
-    "content": "Terry Pratchett, one of the funniest English writers, is in danger of being lost to history.",
-    "date": "2026-05-24T10:00:00",
     "category": "Magazines"
   }
 ]
