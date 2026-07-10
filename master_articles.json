@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=235925",
+    "feed_name": "Texas Tribune",
+    "title": "Days after fatal ICE shooting, Texas GOP leaders remain silent about calls for independent probes",
+    "author": "By Alejandro Serrano\u00a0and\u00a0Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17376337/texas-ice-shooting-houston-gop-silence-greg-abbott-sylvia-garcia",
+    "content": "Gov. Greg Abbott speaks to delegates and attendees at the 2026 Texas Republican Convention in Houston on June 12, 2026.",
+    "date": "2026-07-10T20:29:37",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235929",
+    "feed_name": "Texas Tribune",
+    "title": "Houston mayor vows local investigation into ICE shooting but says feds aren\u2019t sharing information",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17376338/texas-houston-ice-shooting-mayor-whitmire-investigate",
+    "content": "Houston Mayor John Whitmire speaks about the killing of Lorenzo Salgado Araujo during a news conference in Houston on Friday, July 10, 2026. Salgado Araujo was fatally shot by an immigration officer Tuesday.",
+    "date": "2026-07-10T20:26:36",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21171-zilker-theatre-productions-singin-in-the-rain",
     "feed_name": "KMFA",
     "title": "Zilker Theatre Productions: Singin' in the Rain",
@@ -19978,25 +19998,5 @@
     "content": "Melissa Clark\u2019s roasted rhubarb.",
     "date": "2026-05-25T15:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "b1cda7dc73a73a5268cf7b67882aa705",
-    "feed_name": "The Atlantic",
-    "title": "Pope Leo\u2019s Unsettling Vision of the AI Future",
-    "author": "Francis X. Rocca",
-    "link": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-encyclical-magnifica-humanitas/687294/",
-    "content": "His new encyclical,Magnifica Humanitas, seeks to counterbalance alarm with hope but lands firmly on one side.",
-    "date": "2026-05-25T12:16:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "74cb5897b13f16fda06231644b737537",
-    "feed_name": "The Atlantic",
-    "title": "Our National Debt Is a Problem",
-    "author": "Jared Bernstein",
-    "link": "https://www.theatlantic.com/ideas/2026/05/national-debt-problem/687257/",
-    "content": "If you\u2019re not worried about this country\u2019s fiscal outlook, you\u2019re not paying attention.",
-    "date": "2026-05-25T11:00:00",
-    "category": "Magazines"
   }
 ]
