@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Historian Kerri K. Greenidge and Her Book \u2018The Grimkes\u2019 Come Under Fire",
+    "author": "Neil Vigdor",
+    "link": "https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html",
+    "content": "Historians are questioning the validity of multiple works by the historian Kerri K. Greenidge, who is no longer employed by Tufts University.",
+    "date": "2026-07-10T23:22:26",
+    "category": "NYT"
+  },
+  {
     "id": "6a501400ba309b253cb3cc8c",
     "feed_name": "Wired (Science)",
     "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
@@ -19988,15 +19998,5 @@
     "content": "Leave a physical legacy to future generations, not just a record of programs and disbursements.",
     "date": "2026-05-25T16:21:23",
     "category": "NYT"
-  },
-  {
-    "id": "0adcc5d9-e1e4-4b12-966f-c6614df674e0",
-    "feed_name": "Economist",
-    "title": "Crackdowns on financial secrecy aren\u2019t hurting offshore finance",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/25/crackdowns-on-financial-secrecy-arent-hurting-offshore-finance",
-    "content": "There is a lot more to havens than crystal-clear waters and a promise of opacity",
-    "date": "2026-05-25T15:38:01",
-    "category": "Magazines"
   }
 ]
