@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/09/dining/reader-questions.html",
+    "feed_name": "NYT (Food)",
+    "title": "Where to Eat Like a Miranda and More Reader Questions",
+    "author": "Becky Hughes",
+    "link": "https://www.nytimes.com/2026/07/09/dining/reader-questions.html",
+    "content": "The garlicky broiled pork chops at Flor de Mayo don\u2019t rely on any heavy sauces or sides to shine.",
+    "date": "2026-07-09T19:45:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=235751",
     "feed_name": "Texas Tribune",
     "title": "Houston Democrats demand feds release footage of ICE agent fatally shooting migrant",
@@ -19988,15 +19998,5 @@
     "content": "Terry Pratchett, one of the funniest English writers, is in danger of being lost to history.",
     "date": "2026-05-24T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/24/movies/alamo-drafthouse-mobile-ordering.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Alamo Drafthouse Instituted Mobile Ordering. Super Fans Are Not Pleased.",
-    "author": "Brendan Klinkenberg",
-    "link": "https://www.nytimes.com/2026/05/24/movies/alamo-drafthouse-mobile-ordering.html",
-    "content": "Moviegoers at an Alamo Drafthouse in Austin, Texas. It has long served food to patrons at their seats, but now they order by phone instead of writing out their requests.",
-    "date": "2026-05-24T09:02:04",
-    "category": "NYT"
   }
 ]
