@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806478#p8806478",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "vtMaps",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8806478#p8806478",
+    "content": "When I want to move money from my bank to Fidelity, I prefer to let Fidelity pull (ACH) the money from my bank (rather than use my bank to push money into Fidelity).<br /><br />This results in a longer hold time before I can <strong class=\"text-strong\">withdraw</strong> the money.  The reason I do it is because I can <strong class=\"text-strong\">invest</strong> the money sooner.  Fidelity lets me invest the money as soon as I order Fidelity to make the transfer.  If I push money from the bank to Fidelity, Fidelity doesn't know about the money (or let me invest it) until it gets there.<br /><br />Its also quicker and simpler.  Log into Fidelity, order transfer, invest, leave.  No need to log into the bank.<br /><br />--vtMaps<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=10594\">vtMaps</a> \u2014 Fri Jul 10, 2026 11:16 am</p><hr />",
+    "date": "2026-07-10T16:16:24",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/10/arts/music/suddenly-last-summer-opera-bard-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: \u2018Suddenly Last Summer\u2019 Opera Premieres at Bard",
+    "author": "Joshua Barone",
+    "link": "https://www.nytimes.com/2026/07/10/arts/music/suddenly-last-summer-opera-bard-review.html",
+    "content": "Tennessee Williams\u2019s darkly operatic one-act play becomes a proper opera in a new adaptation by the composer Courtney Bryan.",
+    "date": "2026-07-10T16:03:33",
+    "category": "NYT"
+  },
+  {
     "id": "6a4ea932039765edd3930ccf",
     "feed_name": "Wired (Science)",
     "title": "What Watching a Soccer Final Does to Your Body, According to Science",
@@ -19976,26 +19996,6 @@
     "author": "ByEd Caesar",
     "link": "https://www.newyorker.com/magazine/2026/06/01/the-stunt-pilot-hunting-russian-drones",
     "content": "A Ukrainian flying ace is leveraging his aerobatics skills to protect his countrymen from nightly attacks.",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "95dfbf81977272184960b46e2b154aca",
-    "feed_name": "New Yorker",
-    "title": "How \u201cThe Chosen\u201d Spurred a Golden Age of Christian Filmmaking",
-    "author": "ByRachel Monroe",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/how-the-chosen-spurred-a-golden-age-of-christian-filmmaking",
-    "content": "Dallas Jenkins\u2019s show\u2014a prestige drama about Jesus\u2019 life that became the biggest crowdfunded television project in history\u2014has come to model the sort of bottom-up, fandom-first entertainment that is quietly reshaping the industry.",
-    "date": "2026-05-25T10:12:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "b80ccfc6e71eca03875e414cb5222304",
-    "feed_name": "New Yorker",
-    "title": "A Vindication of the Rights of L.L.M.s",
-    "author": "ByCora Frazier",
-    "link": "https://www.newyorker.com/magazine/2026/06/01/a-vindication-of-the-rights-of-llms",
-    "content": "Pity the poor large language model!",
     "date": "2026-05-25T10:12:37",
     "category": "Magazines"
   }
