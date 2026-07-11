@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/11/dining/have-you-made-this-cake-yet.html",
+    "feed_name": "NYT (Food)",
+    "title": "Have You Made This Cake Yet?",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/11/dining/have-you-made-this-cake-yet.html",
+    "content": "Jerrelle Guy\u2019s strawberry spoon cake.",
+    "date": "2026-07-11T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/11/dining/we-have-7-eleven-snacks-at-home.html",
     "feed_name": "NYT (Food)",
     "title": "We Have 7-Eleven Snacks at Home",
@@ -19986,16 +19996,6 @@
     "author": "Kate Knibbs",
     "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
     "content": "There\u2019s a mad dash to automate the world\u2019s most hated calls. Have an unpaid bill? You\u2019ll hear from an AI debt collector sometime soon.",
-    "date": "2026-05-26T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69f4f4e2fb953e220cd4de66",
-    "feed_name": "Wired",
-    "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
-    "author": "Reece Rogers",
-    "link": "https://www.wired.com/story/household-chores-training-robots/",
-    "content": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids\u2014if you\u2019re prepared for the consequences.",
     "date": "2026-05-26T10:00:00",
     "category": "Magazines"
   }
