@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "23b46a47580e7c2dcf0e7e192db0aec7",
+    "feed_name": "The Atlantic",
+    "title": "The Social Ritual That Made Me a Better Man",
+    "author": "Thomas Chatterton Williams",
+    "link": "https://www.theatlantic.com/ideas/2026/07/guys-night-friendship-loneliness/687878/",
+    "content": "Long live guys\u2019 night.",
+    "date": "2026-07-11T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a515ddfeff249f8382acb90",
     "feed_name": "Wired (Science)",
     "title": "China\u2019s Tianwen-2 Space Probe Has Rendezvoused With Earth\u2019s Quasi-Moon",
@@ -19986,16 +19996,6 @@
     "author": "Meghan Herbst",
     "link": "https://www.wired.com/story/fact-checking-ai/",
     "content": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-    "date": "2026-05-26T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69f4f459e1971f6beee0b50b",
-    "feed_name": "Wired",
-    "title": "To Land a Job in AI, Try Reading Kant",
-    "author": "Joel Khalili",
-    "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
-    "content": "The world\u2019s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
     "date": "2026-05-26T10:00:00",
     "category": "Magazines"
   }
