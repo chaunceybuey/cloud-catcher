@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a515ddfeff249f8382acb90",
+    "feed_name": "Wired (Science)",
+    "title": "China\u2019s Tianwen-2 Space Probe Has Rendezvoused With Earth\u2019s Quasi-Moon",
+    "author": "Ritsuko Kawai",
+    "link": "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/",
+    "content": "The probe sent back the first pictures of the asteroid Kamo\u2019oalewa. Next step: landing on the surface and collecting samples to send back to Earth.",
+    "date": "2026-07-11T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/11/arts/music/beyonce-rolling-stones-songs.html",
     "feed_name": "NYT (Arts)",
     "title": "Beyonc\u00e9, the Rolling Stones: Songs to Know This Week",
@@ -19986,16 +19996,6 @@
     "author": "Joel Khalili",
     "link": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
     "content": "The world\u2019s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
-    "date": "2026-05-26T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a0b973e184d81c61ce8cccd",
-    "feed_name": "Wired",
-    "title": "Take This Mandatory AI Workplace Training Right Now\u2014or Else",
-    "author": "WIRED Staff",
-    "link": "https://www.wired.com/story/ai-or-die-trying/",
-    "content": "AI could make you redundant. Here\u2019s what you need to know.",
     "date": "2026-05-26T10:00:00",
     "category": "Magazines"
   }
