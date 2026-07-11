@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/10/theater/giulia-poison-queen-of-palermo-review-nettles.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Giulia\u2019 Review: Jennifer Nettles Delivers Empowerment (and Poison)",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/07/10/theater/giulia-poison-queen-of-palermo-review-nettles.html",
+    "content": "Jennifer Nettles as the title character in \u201cGiulia: The Poison Queen of Palermo\u201d at the Perelman Performing Arts Center in Manhattan.",
+    "date": "2026-07-11T01:00:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html",
     "feed_name": "NYT (Arts)",
     "title": "Historian Kerri K. Greenidge and Her Book \u2018The Grimkes\u2019 Come Under Fire",
@@ -98,6 +108,16 @@
     "content": "Historians are questioning the validity of multiple works by the historian Kerri K. Greenidge, who is no longer employed by Tufts University.",
     "date": "2026-07-10T23:22:26",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=235950",
+    "feed_name": "Texas Tribune",
+    "title": "ICE activity in Texas continues to climb as agency increases focus on street arrests",
+    "author": "By Alex Nguyen, Colleen DeGuzman, Data analysis and graphics by\u00a0Alex Ford",
+    "link": "https://feeds.texastribune.org/link/16799/17376415/ice-arrest-data-texas-houston-shooting",
+    "content": "Immigration agents are arresting more migrants on the streets of cities like Houston, an analysis of federal data shows.",
+    "date": "2026-07-10T23:18:46",
+    "category": "Texas"
   },
   {
     "id": "6a501400ba309b253cb3cc8c",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-dead.html",
     "content": "Sonny Rollins in 2006. He flirted with the avant-garde, jazz-rock fusion and other styles over the years, but he was ultimately unclassifiable.",
     "date": "2026-05-26T01:41:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/24/dining/grilled-salmon-salad-with-lime-chiles-and-herbs.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Grilled Salmon Salad With Lime, Chiles and Herbs",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/05/24/dining/grilled-salmon-salad-with-lime-chiles-and-herbs.html",
-    "content": "And four more bright, easy recipes for your post-holiday week.",
-    "date": "2026-05-25T21:22:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/25/arts/music/lizzo-new-york-times-live-performance.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Lizzo Addresses the Backlash and Performs Live at The New York Times",
-    "author": "Joe Coscarelli and Jon Caramanica",
-    "link": "https://www.nytimes.com/2026/05/25/arts/music/lizzo-new-york-times-live-performance.html",
-    "content": "During a special edition of \u201cPopcast,\u201d the singer discussed her new album and the public fallout from a series of lawsuits. Then she performed a stripped-down set.",
-    "date": "2026-05-25T17:38:23",
     "category": "NYT"
   }
 ]
