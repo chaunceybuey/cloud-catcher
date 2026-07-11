@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/11/dining/we-have-7-eleven-snacks-at-home.html",
+    "feed_name": "NYT (Food)",
+    "title": "We Have 7-Eleven Snacks at Home",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/07/11/dining/we-have-7-eleven-snacks-at-home.html",
+    "content": "Margaux Laskey\u2019s homemade Pop-Tarts.",
+    "date": "2026-07-11T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "23b46a47580e7c2dcf0e7e192db0aec7",
     "feed_name": "The Atlantic",
     "title": "The Social Ritual That Made Me a Better Man",
@@ -19986,16 +19996,6 @@
     "author": "Reece Rogers",
     "link": "https://www.wired.com/story/household-chores-training-robots/",
     "content": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids\u2014if you\u2019re prepared for the consequences.",
-    "date": "2026-05-26T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69d67d849dad1bfe79e89acb",
-    "feed_name": "Wired",
-    "title": "I\u2019m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-    "author": "Meghan Herbst",
-    "link": "https://www.wired.com/story/fact-checking-ai/",
-    "content": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
     "date": "2026-05-26T10:00:00",
     "category": "Magazines"
   }
