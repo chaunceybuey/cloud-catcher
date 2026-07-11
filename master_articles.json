@@ -90,6 +90,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/11/arts/music/beyonce-rolling-stones-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Beyonc\u00e9, the Rolling Stones: Songs to Know This Week",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/07/11/arts/music/beyonce-rolling-stones-songs.html",
+    "content": "The Rolling Stones deliver straightforward, propulsive rock on their new album.",
+    "date": "2026-07-11T09:02:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/11/arts/design/whistle-blowers-accuse-kennedy-center-of-contracting-flaws-under-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
+    "author": "Julia Jacobs and Zach Montague",
+    "link": "https://www.nytimes.com/2026/07/11/arts/design/whistle-blowers-accuse-kennedy-center-of-contracting-flaws-under-trump.html",
+    "content": "Since President Trump took over the Kennedy Center, he helped secure $257 million from Congress to fund building renovation and maintenance. The center\u2019s contracting is now under scrutiny.",
+    "date": "2026-07-11T09:02:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
+    "author": "Penelope Green",
+    "link": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
+    "content": "Yaacov Agam in 2003 with one of his pieces at the Pompidou Center in Paris. He described his work as \u201cthe plastic expression of Einstein\u2019s space\u2010time continuum.\u201d",
+    "date": "2026-07-11T09:01:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
+    "author": "Matthew Huff",
+    "link": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
+    "content": "Inside the high-wire act of casting celebrities to play themselves, including in movies like \u201cGail Daughtry and the Celebrity Sex Pass.\u201d",
+    "date": "2026-07-11T09:00:44",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/11/arts/television/orna-guralnik-couples-therapy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Orna Guralnik of \u2018Couples Therapy\u2019 Considers Kendrick Lamar a Genius",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/11/arts/television/orna-guralnik-couples-therapy.html",
+    "content": "Outside of her job as the therapist on the series \u201cCouples Therapy,\u201d she has a favorite clip of the rapper performing and shows it to everyone she knows.",
+    "date": "2026-07-11T09:00:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/11/books/cannibalism-fiction.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Our Insatiable Appetite for Stories About Cannibalism",
+    "author": "Alexandra Alter",
+    "link": "https://www.nytimes.com/2026/07/11/books/cannibalism-fiction.html",
+    "content": "Why do the characters in so many new novels insist upon eating each other?",
+    "date": "2026-07-11T09:00:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kids Can\u2019t Stop Watching \u2018Moana.\u2019 There\u2019s a Scientific Explanation.",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
+    "content": "Streams of \u201cMoana\u201d on Disney+ total more than 1.5 billion hours.",
+    "date": "2026-07-11T09:00:11",
+    "category": "NYT"
+  },
+  {
+    "id": "6a513a465a78161ead45bc5f",
+    "feed_name": "Wired (Science)",
+    "title": "El Ni\u00f1o Is Already Wreaking Havoc on Pacific Fisheries",
+    "author": "Joseph Winters",
+    "link": "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/",
+    "content": "As the climate phenomenon sends warm water surging across the eastern Pacific, some parts of the fishing industry are suffering\u2014but other regions are seeing a windfall.",
+    "date": "2026-07-11T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/10/theater/giulia-poison-queen-of-palermo-review-nettles.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Giulia\u2019 Review: Jennifer Nettles Delivers Empowerment (and Poison)",
@@ -19918,85 +19998,5 @@
     "content": "AI could make you redundant. Here\u2019s what you need to know.",
     "date": "2026-05-26T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19130",
-    "feed_name": "Stratechery",
-    "title": "Nvidia Earnings, The AI Stack, Nvidia\u2019s New Reporting",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
-    "content": "<p>Nvidia is changing its reporting to delineate between hyperscaler sales \u2014 where Nvidia is fighting commoditization \u2014\u00a0and everyone else, where Nvidia runs the whole stack.</p>",
-    "date": "2026-05-26T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Maids,\u2019 With Yerin Ha, Asks: Has Life Become One Big Performance?",
-    "author": "Roslyn Sulcas",
-    "link": "https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html",
-    "content": "Power dynamic: Saban and Ha in Kip Williams\u2019s production, which was rewritten in a contemporary idiom while hewing closely to Genet\u2019s plot.",
-    "date": "2026-05-26T09:02:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/arts/music/anthony-roth-costanzo-opera-philadelphia.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Opera Philadelphia: Behind Its Comeback",
-    "author": "Joshua Barone",
-    "link": "https://www.nytimes.com/2026/05/26/arts/music/anthony-roth-costanzo-opera-philadelphia.html",
-    "content": "Anthony Roth Costanzo took over Opera Philadelphia when it was \u201cthree weeks away from stopping payroll.\u201d Now, it is rebounding with a surplus.",
-    "date": "2026-05-26T09:02:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/movies/armageddon-1998-michael-bay.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Armageddon\u2019: The Blockbuster Melodrama That Left Our Heads Spinning",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/05/26/movies/armageddon-1998-michael-bay.html",
-    "content": "Michael Bay wasn\u2019t remotely worried about the science in his 1998 science-fiction action hit that launched an elite ensemble cast to space.",
-    "date": "2026-05-26T09:00:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/arts/matthew-perry-personal-assistant-ketamine.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Celebrity Assistants Exist to Indulge Their Bosses, but When Does Duty Cross a Line?",
-    "author": "Matt Stevens",
-    "link": "https://www.nytimes.com/2026/05/26/arts/matthew-perry-personal-assistant-ketamine.html",
-    "content": "An autopsy report attributed Matthew Perry\u2019s death in 2023 to the \u201cacute effects\" of ketamine. The actor\u2019s personal assistant had found him unresponsive in a hot tub in his home in Los Angeles.",
-    "date": "2026-05-26T09:00:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.propublica.org/article/puerto-rico-trump-drugs-for-votes-doj-inspector-general-investigation",
-    "feed_name": "ProPublica",
-    "title": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
-    "author": "Raquel Rutledge",
-    "link": "https://www.propublica.org/article/puerto-rico-trump-drugs-for-votes-doj-inspector-general-investigation",
-    "content": "<figure><img alt=\"A man wearing a white dress shirt, a gray tie and wireless earbuds holds a dark suit jacket over his arm, next to a large marble column.\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/20260521-prjustice-folo.jpg?w=1149\" /><figcaption><small>Puerto Rico Resident Commissioner Pablo Jos\u00e9 Hern\u00e1ndez Rivera, a Democrat Tom Williams/CQ-Roll Call Inc. via Getty Images</small></figcaption></figure>\n<p>Puerto Rico\u2019s representative in Congress and four other members of the House of Representatives have asked the Department of Justice\u2019s Office of the Inspector General to investigate why a federal probe into a prison drugs-for-votes scheme was abandoned after the 2024 elections.&nbsp;</p>\n\n\n\n<p>\u201cCredible allegations of election fraud uncovered through federal investigative work warrant serious scrutiny and transparent explanation,\u201d the members of Congress wrote in the May 20 letter, adding that it was essential for \u201cpublic confidence in democratic institutions\u201d that such claims are handled consistently, \u201cregardless of the political actors involved.\u201d&nbsp;</p>\n\n\n\n<p><a href=\"https://embed.documentcloud.org/documents/28140213-election-protection-letter/?embed=1\">The letter</a> was signed by Resident Commissioner Pablo Jos\u00e9 Hern\u00e1ndez Rivera, a Democrat and member of Puerto Rico\u2019s Popular Democratic Party, as well as Reps. Robert Garcia, D-Calif., ranking member of the House Oversight Committee; Nydia Vel\u00e1zquez, D-N.Y.; Adriano Espaillat, D-N.Y., chair of the Congressional Hispanic Caucus; and Jes\u00fas \u201cChuy\u201d Garc\u00eda, D-Ill., a member of the House Judiciary Committee.</p>\n\n\n\n<p>Their request follows a ProPublica investigation that published earlier this month detailing how prosecutors had uncovered a <a href=\"https://www.propublica.org/article/trump-doj-puerto-rico-election-fraud-prison-drugs-votes\">drugs-for-votes scheme being run by a violent gang in Puerto Rican prisons</a> and were deep into looking at whether now-Gov. Jenniffer Gonz\u00e1lez-Col\u00f3n or her campaign were involved. In the days following President Donald Trump\u2019s election in 2024, as prosecutors prepared the indictment, they were told by supervisors in the U.S. Attorney\u2019s Office for the District of Puerto Rico to exclude the voting-related charges against inmates and prison staff, four sources with knowledge of the investigation told ProPublica. Then, once Trump took office, they were told to abandon the probe into potential political ties entirely, the sources said.</p>\n\n\n\n<p>In their letter, the members of Congress urged the inspector general to examine the Justice Department\u2019s decision to not pursue charges related to election fraud \u201cdespite reported findings and evidence.\u201d They added that the failure to further investigate contradicts the Trump administration\u2019s \u201crepeated emphasis on prioritizing election integrity and election security as federal enforcement priorities,\u201d in addition to deeming drug traffickers threats to public safety and democratic institutions.&nbsp;</p>\n\n\n\n<p>Initially, Hern\u00e1ndez Rivera <a href=\"https://www.propublica.org/article/puerto-rico-trump-drugs-votes-prisons-elections-jenniffer-gonzalez-colon\">sought</a> a House Judiciary Committee investigation into the issue but then decided the inspector general\u2019s office would be a better avenue.&nbsp;</p>\n\n\n\n<p>\u201cThis has always been about following the facts and ensuring there is accountability,\u201d he said in an email to ProPublica. \u201cGiven the concerns raised about the DOJ\u2019s handling of the investigation and prosecutorial decisions, we believe an Inspector General review is the appropriate mechanism to independently examine what occurred and whether standards were applied consistently.\u201d</p>\n\n\n\n<p>The letter was addressed to Don Berthiaume, who had been serving as acting inspector general and has been nominated for the position. While his confirmation is pending, William Blier, the deputy inspector general, is leading the office.&nbsp;</p>\n\n\n\n<p>The inspector general\u2019s office has jurisdiction over misconduct by Justice Department employees, including the Bureau of Prisons, the Federal Bureau of Investigation and the Drug Enforcement Administration. However, it does not oversee allegations of attorney misconduct, which are handled by the Office of Professional Responsibility, unless the allegations include criminal behavior. The inspector general\u2019s office declined to comment on the letter.&nbsp;&nbsp;</p>\n\n\n\n<p>Gonz\u00e1lez-Col\u00f3n, a longtime Republican and member of the pro-statehood New Progressive Party, has declined repeated requests for interviews by ProPublica. In a previous statement, she denied any wrongdoing and said she \u201chas stood firmly against corruption\u201d throughout her career and political campaigns. \u201cI categorically reject any attempt to link me to unlawful conduct,\u201d she said. She also told <a href=\"https://www.elnuevodia.com/noticias/politica/notas/aqui-no-hay-nada-jenniffer-gonzalez-descarta-investigar-supuesto-esquema-de-compra-de-votos-en-carceles/?templateId=OTB2HAZL1TSY&amp;templateVariantId=OTB2HAZL1TSY&amp;experienceID=EXRSL2YIUINN\">local news outlets</a> she didn\u2019t think any investigation into the matter is warranted. Gonz\u00e1lez-Col\u00f3n has not been charged with any crime.&nbsp;</p>\n\n\n\n<div class=\"wp-block-propublica-lead-in bb--size-small-right p-bb--size-small-right\">\n<h3 class=\"wp-block-heading\" id=\"h-read-more\">Read More</h3>\n\n\n<div class=\"wp-block-propublica-story-promo\">\n\t<a class=\"story-promo\" href=\"https://www.propublica.org/article/trump-doj-puerto-rico-election-fraud-prison-drugs-votes\">\n\t\t\t\t<div class=\"story-promo__art\">\n\t\t\t<img alt=\"\" class=\"attachment-propublica-story-promo size-propublica-story-promo wp-post-image\" height=\"400\" src=\"https://www.propublica.org/wp-content/uploads/2026/05/20260504-prjustice-final-featurecrop.jpg?w=400&amp;h=400&amp;crop=1\" width=\"400\" />\t\t</div>\n\t\t\t\t<div class=\"story-promo__info\">\n\t\t\t<strong class=\"story-promo__hed\">Prosecutors Had a Drugs-for-Votes Scheme \u201cLocked Up.\u201d Under Trump, They Were Told Not to Pursue Charges.</strong>\n\t\t</div>\n\t</a>\n</div>\n</div>\n\n\n\n<p>An <a href=\"https://www.documentcloud.org/documents/28086297-usa-v-juan-carlos-ortiz-vazquez/\">indictment</a> filed in December 2024, while Joe Biden was still president, charged 34 members of a gang, known as Group 31 or Los Tiburones, and associates with crimes including drug distribution resulting in at least four overdose deaths. The indictment also alleged that the gang connected with government officials \u201cfor the purpose of reducing prison sentences\u201d and told inmates \u201cwho to vote for in primary and general elections.\u201d But the indictment included no charges related to the drugs-for-votes scheme.</p>\n\n\n\n<p>Sources familiar with the investigation said gang leaders forced inmates to vote for Gonz\u00e1lez-Col\u00f3n or face brutal beatings, or be cut off from the drugs they were addicted to. Prosecutors said they had evidence that Gonz\u00e1lez-Col\u00f3n had spoken with one of the prison gang leaders on WhatsApp during the primary campaign and were pursuing other potential ties when they were instructed not to look any further, people with knowledge of the investigation told ProPublica.&nbsp;</p>\n\n\n\n<p>W. Stephen Muldrow, U.S. attorney for the District of Puerto Rico, said his office does not comment on open cases. While a couple of defendants have made plea agreements, most of the cases are still pending.&nbsp;</p>\n\n\n\n<p>A spokesperson for his office, Lymarie Llovet-Ayala, told ProPublica in a previous email that charging corrupt public officials \u201chas always been and remains a top priority\u201d of the office.&nbsp;</p>\n<p>The post <a href=\"https://www.propublica.org/article/puerto-rico-trump-drugs-for-votes-doj-inspector-general-investigation\">Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-05-26T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-albums.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sonny Rollins: 12 Essential Albums",
-    "author": "Hank Shteamer",
-    "link": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-albums.html",
-    "content": "Sonny Rollins performing in Nice, France, in 2009.",
-    "date": "2026-05-26T02:57:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sonny Rollins, Giant of the Jazz Saxophone, Is Dead at 95",
-    "author": "Peter Keepnews",
-    "link": "https://www.nytimes.com/2026/05/25/arts/music/sonny-rollins-dead.html",
-    "content": "Sonny Rollins in 2006. He flirted with the avant-garde, jazz-rock fusion and other styles over the years, but he was ultimately unclassifiable.",
-    "date": "2026-05-26T01:41:01",
-    "category": "NYT"
   }
 ]
