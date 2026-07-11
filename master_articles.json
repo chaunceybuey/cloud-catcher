@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
+    "author": "Julia Jacobs and Zach Montague",
+    "link": "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html",
+    "content": "Since President Trump took over the Kennedy Center, he helped secure $257 million from Congress to fund building renovation and maintenance. The center\u2019s contracting is now under scrutiny.",
+    "date": "2026-07-11T09:02:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
@@ -19986,16 +19996,6 @@
     "author": "Steven Levy",
     "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
     "content": "The definitive story of how Claude Code and OpenClaw kicked off computing\u2019s biggest transformation possibly ever.",
-    "date": "2026-05-26T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69f4f494ed110137695d62b7",
-    "feed_name": "Wired",
-    "title": "AI Is Taking Over the Most Cursed Job in the World",
-    "author": "Kate Knibbs",
-    "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
-    "content": "There\u2019s a mad dash to automate the world\u2019s most hated calls. Have an unpaid bill? You\u2019ll hear from an AI debt collector sometime soon.",
     "date": "2026-05-26T10:00:00",
     "category": "Magazines"
   }
