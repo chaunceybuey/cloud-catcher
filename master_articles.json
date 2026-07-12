@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/12/dining/the-summeriest-skillet-pork-chops-courtesy-of-ali-slagle.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "The Summeriest Skillet Pork Chops, Courtesy of Ali Slagle",
+    "author": "Margaux Laskey",
+    "link": "https://www.nytimes.com/2026/07/12/dining/the-summeriest-skillet-pork-chops-courtesy-of-ali-slagle.html",
+    "content": "And the fettuccine Alfredo my teenager makes over and over.",
+    "date": "2026-07-12T13:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21204-family-day-weaving-with-allison-lash",
     "feed_name": "KMFA",
     "title": "Family Day: Weaving With Allison Lash",
@@ -19988,15 +19998,5 @@
     "content": "Democrats are in thrall to the idea that corporate consolidation is America\u2019s biggest, and maybe only, problem.\nDelivered by PolitePaul service",
     "date": "2026-05-26T12:05:54",
     "category": "Uncategorized"
-  },
-  {
-    "id": "b738800c69ef507424eb69215b6b1d4b",
-    "feed_name": "The Atlantic",
-    "title": "Where Are America\u2019s Ambassadors?",
-    "author": "Tom Nichols",
-    "link": "https://www.theatlantic.com/ideas/2026/05/american-ambassadors-trump-vacancies/687286/",
-    "content": "Around the world, more than 100 of the country\u2019s ambassadorships are unfilled\u2014a sign of the Trump administration\u2019s opinions about the value of diplomacy.",
-    "date": "2026-05-26T11:18:42",
-    "category": "Magazines"
   }
 ]
