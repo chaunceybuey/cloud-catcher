@@ -90,6 +90,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Fans of \u2018Love Island USA\u2019 Ask: \u2018Are These Couples for Real?\u2019",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
+    "content": "For many viewers of the hit reality TV show, lively debates over whether the competing couples are truly in love is a central part of being a fan.",
+    "date": "2026-07-12T09:01:01",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/12/business/media/michael-movie-lionsgate.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Michael\u2019 Crosses $1 Billion at the Box Office as Lionsgate Roars Back",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/07/12/business/media/michael-movie-lionsgate.html",
+    "content": "Shunned by bigger studios as too risky, \u201cMichael\u201d and other hits have revived Hollywood\u2019s last major independent studio. But is it enough?",
+    "date": "2026-07-12T09:00:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Don\u2019t Try This at Home: How Performers Turn Stunts Into Movie Magic",
+    "author": "Chris Maggio and Erynn Lamont",
+    "link": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
+    "content": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire.",
+    "date": "2026-07-12T09:00:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/12/nyregion/tracee-ellis-ross-broadway-every-brilliant-thing.html",
     "feed_name": "NYT (Arts)",
     "title": "Tracee Ellis Ross Is Back in New York City, Living a Dream Come True",
@@ -19968,35 +19998,5 @@
     "content": "Why is the birth rate declining in every country on Earth?",
     "date": "2026-05-26T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "f2d8074055a263eeceb9d99f1b5e7162",
-    "feed_name": "The Atlantic",
-    "title": "A Sweeping Theory of Everything Is Revolutionizing the Democratic Party",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/05/antitrust-theory-barry-lynn/687287/",
-    "content": "Democrats are in thrall to the idea that corporate consolidation is America\u2019s biggest, and maybe only, problem.",
-    "date": "2026-05-26T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231141",
-    "feed_name": "Texas Tribune",
-    "title": "Texas 2026 primary runoff election results for U.S. Senate, attorney general and more",
-    "author": "Apurva Mahajan",
-    "link": "https://feeds.texastribune.org/link/16799/17348597/texas-primary-runoff-results-2026",
-    "content": "<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17348597.gif\" width=\"1\" />",
-    "date": "2026-05-26T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231142",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 raucous primary runoffs end today. Here\u2019s what to watch.",
-    "author": "Gabby Birenbaum, Eleanor Klibanoff, and Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17348598/texas-primary-runoff-may-26-races-to-watch",
-    "content": "Three runoff elections in Texas are of particular interest. Top left: Texas Attorney General Ken Paxton, who is challenging incumbent U.S. Sen. John Cornyn (top right). Middle left: U.S. Rep. Chip Roy, vying for state attorney general against state Sen. Mayes Middleton (middle right). Bottom left: incumbent Railroad Commissioner Jim Wright, who faces challenger Bo French (bottom right).",
-    "date": "2026-05-26T10:00:00",
-    "category": "Texas"
   }
 ]
