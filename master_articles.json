@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a50b6a1801742f6885445d1",
+    "feed_name": "Wired (Science)",
+    "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "content": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+    "date": "2026-07-12T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
     "feed_name": "NYT (Arts)",
     "title": "Fans of \u2018Love Island USA\u2019 Ask: \u2018Are These Couples for Real?\u2019",
@@ -19986,16 +19996,6 @@
     "author": "Molly Taft",
     "link": "https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/",
     "content": "There\u2019s a new front in the war over the safety of chemicals used to make nonstick pans.",
-    "date": "2026-05-26T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "4a307f3d34938704c618132285b60437",
-    "feed_name": "The Atlantic",
-    "title": "The Great Depopulation",
-    "author": "Derek Thompson",
-    "link": "https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/",
-    "content": "Why is the birth rate declining in every country on Earth?",
     "date": "2026-05-26T11:00:00",
     "category": "Magazines"
   }
