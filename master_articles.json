@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/12/dining/this-healthy-roasted-fish-al-pastor-is-already-earning-raves.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Healthy Roasted Fish Al Pastor Is Already Earning Raves",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/12/dining/this-healthy-roasted-fish-al-pastor-is-already-earning-raves.html",
+    "content": "Paola Brise\u00f1o-Gonz\u00e1lez\u2019s roasted fish al pastor.",
+    "date": "2026-07-12T15:00:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21105-austin-scottish-rite-theater-modern-medieval-musical",
     "feed_name": "KMFA",
     "title": "Austin Scottish Rite Theater: Modern Medieval Musical",
@@ -19988,15 +19998,5 @@
     "content": "I survived two school shootings. This is what I learned.",
     "date": "2026-05-26T14:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/arts/music/daniel-harding-la-philharmonic.html",
-    "feed_name": "NYT (Arts)",
-    "title": "L.A. Philharmonic Names Daniel Harding as Music Director",
-    "author": "Adam Nagourney",
-    "link": "https://www.nytimes.com/2026/05/26/arts/music/daniel-harding-la-philharmonic.html",
-    "content": "The conductor Daniel Harding, who will begin as the music director of the Los Angeles Philharmonic in the 2027-28 season.",
-    "date": "2026-05-26T13:13:44",
-    "category": "NYT"
   }
 ]
