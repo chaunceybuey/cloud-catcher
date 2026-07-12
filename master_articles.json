@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Moana\u2019 Falters at the Box Office, Casting Doubt on Disney\u2019s Formula",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
+    "content": "Dwayne Johnson as Maui in \u201cMoana,\u201d which cost an estimated $250 million to make and at least $100 million to market worldwide.",
+    "date": "2026-07-12T17:39:04",
+    "category": "NYT"
+  },
+  {
+    "id": "c0fd633f-ba62-4086-b95c-730b17708976",
+    "feed_name": "Economist",
+    "title": "Storm clouds gather over America\u2019s financial supremacy",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+    "content": "Its payments firms may be the first casualties",
+    "date": "2026-07-12T17:05:30",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/12/dining/this-healthy-roasted-fish-al-pastor-is-already-earning-raves.html",
     "feed_name": "NYT (Food)",
     "title": "This Healthy Roasted Fish Al Pastor Is Already Earning Raves",
@@ -19978,25 +19998,5 @@
     "content": "Komal is a molino and restaurant inside Mercado la Paloma.",
     "date": "2026-05-26T14:34:33",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/theater/dreyfus-harris-janney-keery-other-desert-cities-broadway.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Julia Louis-Dreyfus to Star in \u2018Other Desert Cities\u2019 on Broadway",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/05/26/theater/dreyfus-harris-janney-keery-other-desert-cities-broadway.html",
-    "content": "Louis-Dreyfus, photographed earlier this month at the Cannes film festival, will be making her Broadway debut in the play.",
-    "date": "2026-05-26T14:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "87494712cade009030ea0377b6f0c0ef",
-    "feed_name": "The Atlantic",
-    "title": "The Advice I Hope You\u2019ll Never Need",
-    "author": "Zoe Weissman",
-    "link": "https://www.theatlantic.com/ideas/2026/05/i-survived-two-school-shootings/687295/",
-    "content": "I survived two school shootings. This is what I learned.",
-    "date": "2026-05-26T14:00:00",
-    "category": "Magazines"
   }
 ]
