@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/12/arts/music/jayson-gillham-melbourne-symphony-orchestra-gaza.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Melbourne Symphony Wins Discrimination Case Over Gaza Comments",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/07/12/arts/music/jayson-gillham-melbourne-symphony-orchestra-gaza.html",
+    "content": "The classical pianist Jayson Gillham outside federal court in Melbourne, Australia, in May.",
+    "date": "2026-07-12T13:40:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/12/dining/the-summeriest-skillet-pork-chops-courtesy-of-ali-slagle.html",
     "feed_name": "Weeknight Dishes",
     "title": "The Summeriest Skillet Pork Chops, Courtesy of Ali Slagle",
@@ -19988,15 +19998,5 @@
     "content": "The conductor Daniel Harding, who will begin as the music director of the Los Angeles Philharmonic in the 2027-28 season.",
     "date": "2026-05-26T13:13:44",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/05/antitrust-theory-barry-lynn/687287/",
-    "feed_name": "Chait",
-    "title": "The Antitrust Theory of Everything",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/05/antitrust-theory-barry-lynn/687287/",
-    "content": "Democrats are in thrall to the idea that corporate consolidation is America\u2019s biggest, and maybe only, problem.\nDelivered by PolitePaul service",
-    "date": "2026-05-26T12:05:54",
-    "category": "Uncategorized"
   }
 ]
