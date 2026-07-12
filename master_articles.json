@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why Dior\u2019s Jonathan Anderson Is Inspired by Lynda Benglis",
+    "author": "Julia Halperin",
+    "link": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
+    "content": "Lynda Benglis redefined sculpture in the 1960s. No longer overlooked, her audacious talent moves from museums to runways, transformed by Dior\u2019s Jonathan Anderson.",
+    "date": "2026-07-12T17:54:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Moana\u2019 Falters at the Box Office, Casting Doubt on Disney\u2019s Formula",
@@ -87,6 +97,16 @@
     "link": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
     "content": "Its payments firms may be the first casualties",
     "date": "2026-07-12T17:05:30",
+    "category": "Magazines"
+  },
+  {
+    "id": "919b44ae998510166f3e37789f693941",
+    "feed_name": "The Atlantic",
+    "title": "The Quintessential Politician of This Era",
+    "author": "Anne Applebaum",
+    "link": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham/687893/",
+    "content": "The late South Carolina senator made a mid-career turn to MAGA.",
+    "date": "2026-07-12T16:57:36",
     "category": "Magazines"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "",
     "date": "2026-05-26T15:38:07",
     "category": "Magazines"
-  },
-  {
-    "id": "6a0f83469e18cc3e8178a595",
-    "feed_name": "Wired",
-    "title": "The US Can Put People on the Moon. Why Can\u2019t It Get Iranians Online?",
-    "author": "Katie Drummond",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/",
-    "content": "Jason Rezaian spent years reporting from Iran before being imprisoned by the regime. He says internet access is key to transforming the country\u2014if only the US government would do something about it.",
-    "date": "2026-05-26T14:41:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/dining/restaurant-review-komal-los-angeles.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Komal in Los Angeles",
-    "author": "Tejal Rao",
-    "link": "https://www.nytimes.com/2026/05/26/dining/restaurant-review-komal-los-angeles.html",
-    "content": "Komal is a molino and restaurant inside Mercado la Paloma.",
-    "date": "2026-05-26T14:34:33",
-    "category": "NYT"
   }
 ]
