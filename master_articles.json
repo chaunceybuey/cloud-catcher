@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "31e1f24d052b55bff4da8f7332910c3e",
+    "feed_name": "Compact",
+    "title": "The AI Apocalypse Is Already Here",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+    "content": "",
+    "date": "2026-07-13T13:26:29",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Sam Neill, New Zealand Actor Known for \u2018Jurassic Park,\u2019 Dies at 78",
@@ -78,6 +88,26 @@
     "content": "Sam Neill in 2024. He combined a credible Everyman quality with rugged good looks.",
     "date": "2026-07-13T11:15:19",
     "category": "NYT"
+  },
+  {
+    "id": "9c74220d841042147412cf6fda6242e2",
+    "feed_name": "The Atlantic",
+    "title": "Russia and America Are Rediscovering the Limits of Nuclear Weapons",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/07/nuclear-weapons-limits-cold-war-deterrence/687883/",
+    "content": "They buy deterrence. That\u2019s about it.",
+    "date": "2026-07-13T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "398e91c3333a22daaaf9da85363038f2",
+    "feed_name": "The Atlantic",
+    "title": "A Win for American Democracy",
+    "author": "David Frum",
+    "link": "https://www.theatlantic.com/ideas/2026/07/supreme-court-fec-nrsc-campaign-donations/687870/",
+    "content": "The Supreme Court has restored power\u2014financial and otherwise\u2014to political parties in elections.",
+    "date": "2026-07-13T10:30:00",
+    "category": "Magazines"
   },
   {
     "id": "3a652140a737a795c589ef38dbb413de",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/27/theater/tony-nominated-broadway-shows-tickets.html",
     "content": "\u201cThe Lost Boys\u201d received 12 Tony nominations, including one for Ali Louis Bourzgui\u2019s performance as David, the lead singer of a rock band who also happens to be a vampire.",
     "date": "2026-05-27T09:02:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/arts/television/yogurt-shop-murders-new-episode.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The \u2018Yogurt Shop Murders\u2019 Case Was Solved, but the Story Hasn\u2019t Changed",
-    "author": "Mike Hale",
-    "link": "https://www.nytimes.com/2026/05/27/arts/television/yogurt-shop-murders-new-episode.html",
-    "content": "The true culprit was identified soon after this HBO documentary came out. A new episode shows that the series was less about who did the killings than about the agony of uncertainty.",
-    "date": "2026-05-27T09:02:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/arts/dance/tiler-peck-symphonie-espagnole-city-ballet.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tiler Peck\u2019s New Ballet Expands the Idea of What Female and Male Dancers Can Be",
-    "author": "Gia Kourlas",
-    "link": "https://www.nytimes.com/2026/05/27/arts/dance/tiler-peck-symphonie-espagnole-city-ballet.html",
-    "content": "The idea of sisterhood and brotherhood flows through \u201cSymphonie Espagnole,\u201d Peck\u2019s new work for New York City Ballet. We dissect two sections.",
-    "date": "2026-05-27T09:02:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/arts/design/courbet-a-burian-at-ornans-musee-dorsay.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Bringing Courbet\u2019s \u2018A Burial at Ornans\u2019 Back to Life, While Visitors Watch",
-    "author": "Elaine Sciolino and Elliott Verdier",
-    "link": "https://www.nytimes.com/2026/05/27/arts/design/courbet-a-burian-at-ornans-musee-dorsay.html",
-    "content": "The Mus\u00e9e d\u2019Orsay demystified art conservation by turning the meticulous, yearlong restoration of a 22-foot Gustave Courbet painting into a public event.",
-    "date": "2026-05-27T09:02:30",
     "category": "NYT"
   }
 ]
