@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/most-popular-recipes-2026-so-far",
+    "feed_name": "NYT (Food)",
+    "title": "Our 25 Most Popular Recipes of 2026 So Far",
+    "author": "Margaux Laskey",
+    "link": "https://cooking.nytimes.com/article/most-popular-recipes-2026-so-far",
+    "content": "Ali Slagle\u2019s one-pan dumplings with greens.",
+    "date": "2026-07-13T14:18:50",
+    "category": "NYT"
+  },
+  {
     "id": "31e1f24d052b55bff4da8f7332910c3e",
     "feed_name": "Compact",
     "title": "The AI Apocalypse Is Already Here",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/the-cheap-tradsploitation-of-yesteryear/",
     "content": "",
     "date": "2026-05-27T12:55:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "de4f38e4daadb375d68008e37ac7b514",
-    "feed_name": "The Atlantic",
-    "title": "Pausing the Gas Tax Is a Lose-Lose Proposition",
-    "author": "Henry Grabar",
-    "link": "https://www.theatlantic.com/ideas/2026/05/gas-tax-reckoning/687299/",
-    "content": "The tax is too small for its absence to make a real difference to consumers, but the revenue it generates is still badly needed.",
-    "date": "2026-05-27T11:00:00",
     "category": "Magazines"
   }
 ]
