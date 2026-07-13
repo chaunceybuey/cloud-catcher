@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States",
+    "author": "Benjamin Mullin, David McCabe and Lauren Hirsch",
+    "link": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html",
+    "content": "Paramount\u2019s acquisition of Warner Bros. was scheduled to be completed in the third quarter this year.",
+    "date": "2026-07-13T16:13:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/13/dining/this-recipe-changed-my-mind-about-orzo.html",
     "feed_name": "NYT (Food)",
     "title": "This Recipe Changed My Mind About Orzo",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/gaza-after-the-ceasefire",
     "content": "Since the announcement of a ceasefire in Gaza six months ago, 904 Palestinians have been killed and more than 2700 wounded by the Israeli army. Last week, Trump\u2019s Board of Peace released a report complaining of a \u2018funding gap\u2019 after reports emerged that it had received only a \u2018tiny fraction\u2019 of the $17 billion its members had pledged to rebuild the region.",
     "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "fb9790bf6cbb17833ad727d9096d339f",
-    "feed_name": "Compact",
-    "title": "The Cheap Tradsploitation of \u2018Yesteryear\u2019",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-cheap-tradsploitation-of-yesteryear/",
-    "content": "",
-    "date": "2026-05-27T12:55:11",
     "category": "Magazines"
   }
 ]
