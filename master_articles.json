@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "840693486859350d58dfeedebd6b5bc1",
+    "feed_name": "LRB",
+    "title": "Palantir and the NHS",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n13/peter-geoghegan-and-lucas-amin/this-looks-absolutely-rubbish",
+    "content": "There\u2019s\u200bno signover the door of Palantir\u2019s UK headquarters, an eight-storey neoclassical building in Soho Square. The windows are lined with thick reflective glass. When we tried to take some photographs outside recently, a man with a lanyard told us to stop. He wouldn\u2019t be drawn on his employer: \u2018It\u2019s just a tech company.\u2019 Two independent sources who...",
+    "date": "2026-07-13T16:35:34",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html",
     "feed_name": "NYT (Arts)",
     "title": "Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States",
@@ -108,6 +118,16 @@
     "content": "The rap mogul convened his starriest collaborators, showed off his still-dazzling skills and made a convincing argument for his singular legacy.",
     "date": "2026-07-13T14:53:56",
     "category": "NYT"
+  },
+  {
+    "id": "e7445f2f7085d37a46a66464d2223140",
+    "feed_name": "The Atlantic",
+    "title": "The Last of the Three Amigos",
+    "author": "Richard Fontaine",
+    "link": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham-ukraine-russia/687898/",
+    "content": "Lindsey Graham believed American power could be a force for good in the world.",
+    "date": "2026-07-13T14:44:26",
+    "category": "Magazines"
   },
   {
     "id": "https://cooking.nytimes.com/article/most-popular-recipes-2026-so-far",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n10/michael-hofmann/let-me-count-the-geese",
     "content": "I\u2019m\u200bguessingthatThe Effingersis a roman fleuve \u2013 one of those plotty, fast-moving books, not overburdened with inwardness, that might have set Virginia Woolf\u2019s teeth on edge. I say I guess because I don\u2019t think I\u2019ve read one before. I haven\u2019t read Alex Haley, whoseRootsis advertised on the back of my old German edition ofThe Effingers; or Lion...",
-    "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "92db910913393cd2e17a7f6fa34502aa",
-    "feed_name": "LRB",
-    "title": "Royal Frocks",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10/susannah-clapp/at-the-king-s-gallery",
-    "content": "It is\u200b a fascinating and fawning exhibition. At the King\u2019s Gallery (until 18 October) some three hundred items of clothing belonging to Queen Elizabeth II are displayed \u2013 headless, limbless, fleshless \u2013 like the remains of extinct animals. Norman Hartnell supplies silky flamboyance and encrustations: lace re-embroidered with sequins and crystals. Hardy Amies, fresh from a...",
-    "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "81eaccf5e3fd295418459e85c163762d",
-    "feed_name": "LRB",
-    "title": "Gaza after the Ceasefire",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/gaza-after-the-ceasefire",
-    "content": "Since the announcement of a ceasefire in Gaza six months ago, 904 Palestinians have been killed and more than 2700 wounded by the Israeli army. Last week, Trump\u2019s Board of Peace released a report complaining of a \u2018funding gap\u2019 after reports emerged that it had received only a \u2018tiny fraction\u2019 of the $17 billion its members had pledged to rebuild the region.",
     "date": "2026-05-27T12:55:16",
     "category": "Magazines"
   }
