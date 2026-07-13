@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://stratechery.com/?p=19499",
+    "feed_name": "Stratechery",
+    "title": "Apple Sues OpenAI, Apple\u2019s Real Problem",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+    "content": "<p>Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.</p>",
+    "date": "2026-07-13T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/13/arts/murder-mystery-audrey-gelman-wing.html",
     "feed_name": "NYT (Arts)",
     "title": "A Murder Mystery Evening at Audrey Gelman\u2019s Guesthouse",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/26/arts/music/amplifier-newsletter-rolling-stones-grace-ives.html",
     "content": "Hear Mick Taylor\u2019s swan song, Grace Ives\u2019s exuberant crushing and a foundational hip-hop sample.",
     "date": "2026-05-26T18:00:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/arts/television/john-barbour-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "John Barbour, Who Played Key Role in the Rise of Reality TV, Dies at 93",
-    "author": "Richard Sandomir",
-    "link": "https://www.nytimes.com/2026/05/26/arts/television/john-barbour-dead.html",
-    "content": "John Barbour in 1981. Mr. Barbour was a producer and writer of the good-natured series \u201cReal People,\u201d bantering cheerfully about its subjects with the members of an onscreen panel.",
-    "date": "2026-05-26T17:33:02",
     "category": "NYT"
   }
 ]
