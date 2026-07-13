@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/arts/television/lucky-and-6-more-shows-to-watch-on-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Lucky\u2019 and 6 More Shows to Watch on TV this Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/13/arts/television/lucky-and-6-more-shows-to-watch-on-tv-this-week.html",
+    "content": "Anya Taylor-Joy in \u201cLucky.\u201d",
+    "date": "2026-07-13T05:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/12/arts/television/house-of-the-dragon-recap-season-3-episode-4.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018House of the Dragon\u2019 Season 3, Episode 4 Recap: Heavy Is the Head",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/the-paper/v48/n10/stefan-collini/squadrons-of-pigs",
     "content": "Britain\u2019s\u200b \u2018world-leading\u2019 university system is in deep trouble. There are, inevitably, conflicting diagnoses of the malady, but the indicators of deteriorating health are too ubiquitous to be ignored. When a substantial number of universities are in serious financial jeopardy, with some hinting at possible bankruptcy in the short term (according to the Office for Students,...",
     "date": "2026-05-26T15:38:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "3819fe288de7f5fe46d58da4fea63807",
-    "feed_name": "Compact",
-    "title": "Post-Literacy Raised the Stakes of the Odyssey Debate",
-    "author": "",
-    "link": "https://www.compactmag.com/article/post-literacy-raised-the-stakes-of-the-odyssey-debate/",
-    "content": "",
-    "date": "2026-05-26T15:38:07",
     "category": "Magazines"
   }
 ]
