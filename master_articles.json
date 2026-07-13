@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/movies/tony-rayns-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tony Rayns, Who Helped Bring Asian Film to the World, Dies at 77",
+    "author": "Trip Gabriel",
+    "link": "https://www.nytimes.com/2026/07/13/movies/tony-rayns-dead.html",
+    "content": "In reviews and at festivals, he played a key role in introducing English-speaking audiences to directors like Wong Kar-wai, Jia Zhangke and Bong Joon Ho.",
+    "date": "2026-07-13T18:43:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
     "feed_name": "NYT (Arts)",
     "title": "Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n10/malcolm-gaskill/dangerously-scary",
     "content": "Released\u200b in 1945,Dead of Nightis the most imaginative British horror film of the postwar era. It was produced by Ealing Studios and pioneered the anthology format, much imitated in subsequent decades. The film fits five ghost stories from four directors into a framework that gathers its own supernatural momentum. It\u2019s only when Walter Craig, played by Mervyn Johns, pulls up outside...",
-    "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "d970718e4d222ca64500579bacf2b74e",
-    "feed_name": "LRB",
-    "title": "A Dose of Duchamp",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10/hal-foster/at-moma",
-    "content": "In\u200b 1973, when a Marcel Duchamp retrospective was last staged in the United States, the critic Lucy Lippard declared that too much was made of him already. More than fifty years later he is still ubiquitous: we see endless variations on his old theme of the readymade object. The best cure for Duchamp fatigue, though, might be a large dose of the real thing. This is what the curators deliver...",
     "date": "2026-05-27T12:55:16",
     "category": "Magazines"
   }
