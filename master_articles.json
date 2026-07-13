@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/movies/sam-neill-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sam Neill\u2019s Best Movie Performances: Where to Stream",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/07/13/movies/sam-neill-movies-streaming.html",
+    "content": "From his global breakthrough in \u201cJurassic Park\u201d to the more recent \u201cPeaky Blinders,\u201d the actor\u2019s range was always on display.",
+    "date": "2026-07-13T20:59:38",
+    "category": "NYT"
+  },
+  {
     "id": "41439e36-07b8-42c6-91b7-1f1339da6da4",
     "feed_name": "Economist",
     "title": "The stubborn scarcity of female breadwinners",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n10/claire-wilmot/gold-rush",
     "content": "The road\u200b that leads to the city of Shire, the centre of Ethiopia\u2019s gold rush, is pockmarked and warped. My driver told me the origins of each fissure: a drone strike here, an artillery shell there. He was stationed near Shire during the recent war, as a soldier with the Tigray Defence Forces, the popular army that rose up in 2020. All the seatbelts in his car had been cut off and...",
-    "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "4900a0e20e4e054a4f6e80c5eae9d3e3",
-    "feed_name": "LRB",
-    "title": "JFK Jr and Me",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10/inigo-thomas/diary",
-    "content": "In\u200b 1978, Jacqueline Onassis thought it a good idea for her teenage son John to spend some months away from New York with the Youth Conservation Corps of the Yellowstone National Park. But John didn\u2019t fit in, so she rang John Perry Barlow, a lyricist for the Grateful Dead and owner of a twenty-thousand-acre Wyoming ranch. Barlow had been in San Francisco for the Summer of Love; he knew...",
     "date": "2026-05-27T12:55:16",
     "category": "Magazines"
   }
