@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/arts/murder-mystery-audrey-gelman-wing.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Murder Mystery Evening at Audrey Gelman\u2019s Guesthouse",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/07/13/arts/murder-mystery-audrey-gelman-wing.html",
+    "content": "Guests are encouraged to \u201cdress to impress\u201d for the dinner and murder mystery evening.",
+    "date": "2026-07-13T09:02:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/13/books/age-gap-romance-books.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sizzling, Sexy Age-Gap Romance Novels",
+    "author": "Rachel Lynn Solomon",
+    "link": "https://www.nytimes.com/2026/07/13/books/age-gap-romance-books.html",
+    "content": "The best-selling author Rachel Lynn Solomon recommends forbidden love stories full of fiery desire, shifting power dynamics and so-wrong-it\u2019s-right drama.",
+    "date": "2026-07-13T09:01:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/13/arts/television/lucky-and-6-more-shows-to-watch-on-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Lucky\u2019 and 6 More Shows to Watch on TV this Week",
@@ -19978,25 +19998,5 @@
     "content": "Ben Morea in 2016 at an exhibition of his paintings in New York City. He was mostly known for an anarchist-centered activism he called \u201carmed love.\u201d",
     "date": "2026-05-26T17:16:01",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/26/dining/nyc-restaurant-news.html",
-    "feed_name": "NYT (Food)",
-    "title": "Find Hokkaido Scallop Wellington From an Atomix Alumnus at 28 Nomad",
-    "author": "Florence Fabricant",
-    "link": "https://www.nytimes.com/2026/05/26/dining/nyc-restaurant-news.html",
-    "content": "The Silent Sea brings more seafood to City Island, the Ludlow Room provides more seating for Katz\u2019s and more restaurant news.",
-    "date": "2026-05-26T17:00:44",
-    "category": "NYT"
-  },
-  {
-    "id": "cb7230f7626d2d4eec14701a99ea54ec",
-    "feed_name": "LRB",
-    "title": "Bonfire of the Universities",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10/stefan-collini/squadrons-of-pigs",
-    "content": "Britain\u2019s\u200b \u2018world-leading\u2019 university system is in deep trouble. There are, inevitably, conflicting diagnoses of the malady, but the indicators of deteriorating health are too ubiquitous to be ignored. When a substantial number of universities are in serious financial jeopardy, with some hinting at possible bankruptcy in the short term (according to the Office for Students,...",
-    "date": "2026-05-26T15:38:39",
-    "category": "Magazines"
   }
 ]
