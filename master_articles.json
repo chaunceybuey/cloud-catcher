@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sam Neill, New Zealand Actor Known for \u2018Jurassic Park,\u2019 Dies at 78",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html",
+    "content": "Sam Neill in 2024. He combined a credible Everyman quality with rugged good looks.",
+    "date": "2026-07-13T11:15:19",
+    "category": "NYT"
+  },
+  {
     "id": "3a652140a737a795c589ef38dbb413de",
     "feed_name": "New Yorker",
     "title": "Mark Morris\u2019s Summer Season",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/27/arts/design/courbet-a-burian-at-ornans-musee-dorsay.html",
     "content": "The Mus\u00e9e d\u2019Orsay demystified art conservation by turning the meticulous, yearlong restoration of a 22-foot Gustave Courbet painting into a public event.",
     "date": "2026-05-27T09:02:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/movies/i-love-boosters-cast-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Cast of \u2018I Love Boosters\u2019 Want You to Think Critically",
-    "author": "Sandra E. Garcia",
-    "link": "https://www.nytimes.com/2026/05/27/movies/i-love-boosters-cast-interview.html",
-    "content": "Four cast members from Boots Riley\u2019s working-class comedy discuss capitalism, art, protest and trying to change the world (with some laughs thrown in).",
-    "date": "2026-05-27T09:02:05",
     "category": "NYT"
   }
 ]
