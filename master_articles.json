@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
+    "content": "The French streaming service Deezer says as many as 75,000 A.I.-generated tracks are uploaded to its system daily.",
+    "date": "2026-07-13T17:32:29",
+    "category": "NYT"
+  },
+  {
     "id": "840693486859350d58dfeedebd6b5bc1",
     "feed_name": "LRB",
     "title": "Palantir and the NHS",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n10/hal-foster/at-moma",
     "content": "In\u200b 1973, when a Marcel Duchamp retrospective was last staged in the United States, the critic Lucy Lippard declared that too much was made of him already. More than fifty years later he is still ubiquitous: we see endless variations on his old theme of the readymade object. The best cure for Duchamp fatigue, though, might be a large dose of the real thing. This is what the curators deliver...",
-    "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "f0b882f0f26e96a157e40a9e77e202f3",
-    "feed_name": "LRB",
-    "title": "Illuminated Psalms",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10/ardis-butterfield/when-horses-snigger",
-    "content": "\u2018Apsalmconsoles the sad, restrains the joyful, tempers the angry, refreshes the poor and chides the rich man to know himself,\u2019 wrote Niceta of Remesiana, a fourth-century bishop from what is now Serbia. His far better-known contemporary Augustine of Hippo praised the psalms in more flamboyant terms:",
     "date": "2026-05-27T12:55:16",
     "category": "Magazines"
   }
