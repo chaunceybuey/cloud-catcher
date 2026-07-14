@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/14/arts/music/amplifier-newsletter-world-cup-rosalia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Soundtrack to the 2026 World Cup Semifinals",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/07/14/arts/music/amplifier-newsletter-world-cup-rosalia.html",
+    "content": "Fans of the Argentina team celebrating after a win over Switzerland in the World Cup quarterfinals.",
+    "date": "2026-07-14T18:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/14/theater/the-whoopi-monologues-review-kerry-washington-kara-young.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Whoopi Monologues\u2019 Review: Expanding a One-Woman Show",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/28/movies/the-breadwinner-review.html",
     "content": "The comedian Nate Bargatze makes a big swing with this movie about a stay-at-home dad, and gets a big assist from three funny kids.",
     "date": "2026-05-28T09:01:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/movies/backrooms-review-lost-in-the-expansion.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Backrooms\u2019 Review: Lost in the Expansion",
-    "author": "Beatrice Loayza",
-    "link": "https://www.nytimes.com/2026/05/28/movies/backrooms-review-lost-in-the-expansion.html",
-    "content": "Born from a single unsettling image, this viral horror concept from Kane Parsons wears thin under the weight of a full feature.",
-    "date": "2026-05-28T09:01:04",
     "category": "NYT"
   }
 ]
