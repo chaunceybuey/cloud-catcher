@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a3d2de6e6c7ac5cabfbc989",
+    "feed_name": "Wired",
+    "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+    "author": "Sarah Ciston, David M. Berry, Anthony C. Hay, Mark C. Marino, Peter Millican, Jeff Shrager, Arthur I. Schwarz, Peggy Weil",
+    "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+    "content": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+    "date": "2026-07-14T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19506",
+    "feed_name": "Stratechery",
+    "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+    "content": "<p>OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?</p>",
+    "date": "2026-07-14T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "6a5507f56ae8b95870dcdca5",
     "feed_name": "Wired (Science)",
     "title": "Sotheby\u2019s Big T. Rex Auction Raises Concerns Hype and Wealth Are Upending Science",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/27/arts/music/may-festival-julia-bullock.html",
     "content": "Julia Bullock at Music Hall in Cincinnati.",
     "date": "2026-05-27T15:45:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/05/texas-senate-trump-paxton-cornyn/687327/",
-    "feed_name": "Chait",
-    "title": "John Cornyn Lost With His Boots Off",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/05/texas-senate-trump-paxton-cornyn/687327/",
-    "content": "Like fellow Republicans exiled by the president, he still accepted Trump\u2019s claim to inhabit the will of the party.\nDelivered by PolitePaul service",
-    "date": "2026-05-27T15:18:49",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/dining/a-lightning-fast-stir-fry-to-ease-the-short-workweek.html",
-    "feed_name": "NYT (Food)",
-    "title": "A Lightning-Fast Stir-Fry to Ease the Short Workweek",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/05/27/dining/a-lightning-fast-stir-fry-to-ease-the-short-workweek.html",
-    "content": "Kay Chun\u2019s beef, asparagus and tofu stir-fry.",
-    "date": "2026-05-27T15:00:21",
     "category": "NYT"
   }
 ]
