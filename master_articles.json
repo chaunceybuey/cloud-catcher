@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/arts/pat-oliphant-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Pat Oliphant, Cartoonist Who Skewered the Powerful, Dies at 90",
+    "author": "Robert D. McFadden",
+    "link": "https://www.nytimes.com/2026/07/13/arts/pat-oliphant-dead.html",
+    "content": "The political cartoonist Pat Oliphant at work in his studio in Washington in 1998.",
+    "date": "2026-07-14T03:09:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236089",
     "feed_name": "Texas Tribune",
     "title": "Harris County DA\u2019s office to treat ICE shooting as criminal investigation, says it may take months or years to complete",
@@ -19985,16 +19995,6 @@
     "title": "In the latest issue",
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n10",
-    "content": "",
-    "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "90afd4634fe84844c3a228f3c448f986",
-    "feed_name": "LRB",
-    "title": "Jonathan  Parry: James Bryce\u2019s Liberalism",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10/jonathan-parry/certain-kinds-of-carpet",
     "content": "",
     "date": "2026-05-27T12:55:16",
     "category": "Magazines"
