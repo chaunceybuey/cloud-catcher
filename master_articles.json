@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=236199",
+    "feed_name": "Texas Tribune",
+    "title": "Crowd packs Houston City Hall to demand action, express anger after ICE shooting",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17380405/texas-ice-shooting-houston-city-council-protest",
+    "content": "Houston Mayor John Whitmire, second from right, speaks during a City Council meeting on Tuesday, July 14, 2026, in Houston. People demanded action from city leaders after the fatal shooting of Lorenzo Salgado Araujo by an immigration agent on July 7.",
+    "date": "2026-07-14T22:08:02",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=236195",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: An ICE shooting roils Houston",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17380406/tribcast-houston-ice-shooting",
+    "content": "A community vigil for Lorenzo Salgado Araujo is held at Wildflower Church in Austin on July 11, 2026. Salgado Araujo, who was fatally shot by an ICE officer in Houston on Tuesday morning, July 7.",
+    "date": "2026-07-14T21:52:16",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
     "feed_name": "Douthat",
     "title": "Lindsey Graham Made Trumpism in His Own Image",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/28/movies/forastera-review.html",
     "content": "A teenager affects aspects of her late grandmother in this beguiling first feature set on the island of Mallorca.",
     "date": "2026-05-28T09:01:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/movies/the-currents-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Currents\u2019 Review: Lost and Found",
-    "author": "Nicolas Rapold",
-    "link": "https://www.nytimes.com/2026/05/28/movies/the-currents-review.html",
-    "content": "Milagros Mumenthaler\u2019s superb, sensuously realized film follows an Argentine fashion stylist trying to overcome a deep sense of destabilization.",
-    "date": "2026-05-28T09:01:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/movies/the-breadwinner-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Breadwinner\u2019 Review:",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/05/28/movies/the-breadwinner-review.html",
-    "content": "The comedian Nate Bargatze makes a big swing with this movie about a stay-at-home dad, and gets a big assist from three funny kids.",
-    "date": "2026-05-28T09:01:34",
     "category": "NYT"
   }
 ]
