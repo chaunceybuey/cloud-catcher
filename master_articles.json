@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
+    "feed_name": "Douthat",
+    "title": "Lindsey Graham Made Trumpism in His Own Image",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
+    "content": "He bent the knee and made the most of it.",
+    "date": "2026-07-14T21:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "94388254-7d2c-4da0-917e-4789669d15bf",
     "feed_name": "Economist",
     "title": "Trump\u2019s Hormuz brinkmanship is worsening a global fuel crunch",
@@ -107,6 +117,16 @@
     "link": "https://www.nytimes.com/2026/07/14/arts/music/young-world-festival-mike.html",
     "content": "The Brooklyn festival Young World spotlights emergent indie rappers and veteran artists. It was the brainchild of Mike, an artist and label head who has become a fulcrum of the alt-rap scene.",
     "date": "2026-07-14T17:45:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/14/dining/drinks/uncle-nearest-whiskey-federal-fraud-investigations.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Latest in the Uncle Nearest Whiskey Saga: Federal Fraud Investigations",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/07/14/dining/drinks/uncle-nearest-whiskey-federal-fraud-investigations.html",
+    "content": "One of the few Black-owned operations in the spirits industry, the Tennessee distillery had grown rapidly before unraveling in recent years.",
+    "date": "2026-07-14T17:38:26",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/28/movies/backrooms-review-lost-in-the-expansion.html",
     "content": "Born from a single unsettling image, this viral horror concept from Kane Parsons wears thin under the weight of a full feature.",
     "date": "2026-05-28T09:01:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/arts/firelei-baez-harvests-trickster-energy-to-remap-stories-of-the-world.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Firelei B\u00e1ez Harvests Trickster Energy to Remap Stories of the World",
-    "author": "J Wortham and Guarionex Rodriguez",
-    "link": "https://www.nytimes.com/2026/05/28/arts/firelei-baez-harvests-trickster-energy-to-remap-stories-of-the-world.html",
-    "content": "Firelei B\u00e1ez with a towering bronze sculpture with feathers titled \u201cAyida,\u201d a centerpiece in her exhibition at Hauser & Wirth. It represents a ciguepas, a female trickster of Dominican folklore (equal parts woman, plant and animal) that is a powerful shape-shifter, always evolving.",
-    "date": "2026-05-28T09:00:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/movies/pressure-movie-fact-fiction-james-stagg.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Real Story Behind \u201cPressure,\u201d the Film About the D-Day Weather Forecast",
-    "author": "Nazaneen Ghaffar",
-    "link": "https://www.nytimes.com/2026/05/28/movies/pressure-movie-fact-fiction-james-stagg.html",
-    "content": "The new film \u201cPressure\u201d tells the story of the fateful D-Day weather forecast. Here\u2019s what it got right and wrong from the historical record.",
-    "date": "2026-05-28T09:00:42",
     "category": "NYT"
   }
 ]
