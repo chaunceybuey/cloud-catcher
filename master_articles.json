@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "d3fc81de-a569-4970-81a4-586558173ff7",
+    "feed_name": "Economist",
+    "title": "What investment gurus get wrong",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/14/what-investment-gurus-get-wrong",
+    "content": "To see a country\u2019s financial follies, look to its celebrity advisers",
+    "date": "2026-07-14T17:21:18",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-teacher-sexual-misconduct-crackdown-linda-mcmahon",
     "feed_name": "ProPublica",
     "title": "Trump Administration Launches Crackdown on Teacher Sexual Misconduct Following KQED-ProPublica Investigation",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-05-27T21:58:17",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
-    "feed_name": "Douthat",
-    "title": "Pope Leo\u2019s A.I. Vision Might Not Be Strange Enough",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html",
-    "content": "He is both a critic and a normalizer of the technology.",
-    "date": "2026-05-27T21:00:02",
-    "category": "NYT"
   }
 ]
