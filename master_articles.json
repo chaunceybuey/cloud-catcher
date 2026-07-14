@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/14/theater/the-whoopi-monologues-review-kerry-washington-kara-young.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Whoopi Monologues\u2019 Review: Expanding a One-Woman Show",
+    "author": "Brittani Samuel",
+    "link": "https://www.nytimes.com/2026/07/14/theater/the-whoopi-monologues-review-kerry-washington-kara-young.html",
+    "content": "From left: Kecia Lewis, Dominique Fishback, Danielle Pinnock, Kerry Washington and Kara Young in the play \u201cThe Whoopi Monologues\u201d at the Mitzi E. Newhouse Theater.",
+    "date": "2026-07-14T17:54:47",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/14/arts/music/young-world-festival-mike.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At Young World Festival, Rap\u2019s Avant-Garde Takes Shape",
+    "author": "Dylan Green and Marcus Maddox",
+    "link": "https://www.nytimes.com/2026/07/14/arts/music/young-world-festival-mike.html",
+    "content": "The Brooklyn festival Young World spotlights emergent indie rappers and veteran artists. It was the brainchild of Mike, an artist and label head who has become a fulcrum of the alt-rap scene.",
+    "date": "2026-07-14T17:45:14",
+    "category": "NYT"
+  },
+  {
     "id": "d3fc81de-a569-4970-81a4-586558173ff7",
     "feed_name": "Economist",
     "title": "What investment gurus get wrong",
@@ -68,6 +88,16 @@
     "content": "To see a country\u2019s financial follies, look to its celebrity advisers",
     "date": "2026-07-14T17:21:18",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/14/arts/design/t-rex-fossil-auction-sothebys.html",
+    "feed_name": "NYT (Arts)",
+    "title": "T. Rex Fossil Sells for $50.1 Million, Putting the King Back On Top",
+    "author": "Julia Jacobs and Zachary Small",
+    "link": "https://www.nytimes.com/2026/07/14/arts/design/t-rex-fossil-auction-sothebys.html",
+    "content": "The 12-and-a-half-foot-tall T. rex, known as Gus, on view at Sotheby\u2019s ahead of its auction on Tuesday.",
+    "date": "2026-07-14T16:42:13",
+    "category": "NYT"
   },
   {
     "id": "https://www.propublica.org/article/trump-teacher-sexual-misconduct-crackdown-linda-mcmahon",
@@ -19968,35 +19998,5 @@
     "content": "",
     "date": "2026-05-28T05:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231651",
-    "feed_name": "Texas Tribune",
-    "title": "Camp Mystic chief health officer barred from direct patient care by Texas nursing board",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17349812/texas-camp-mystic-nursing-license-restrictions-patient-care",
-    "content": "Mary Liz Eastland, Camp Mystic\u2019s chief health officer, is questioned on April 14, 2026, during a hearing in the 459th State District Court in Austin regarding lawsuits filed against the camp.",
-    "date": "2026-05-27T23:56:14",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/books/david-henderson-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "David Henderson, Innovative Poet and Hendrix Biographer, Dies at 83",
-    "author": "Alex Williams",
-    "link": "https://www.nytimes.com/2026/05/27/books/david-henderson-dead.html",
-    "content": "Part of the Black Arts Movement of the 1960s, he went on to reclaim a leading musician of the psychedelic era as a distinctly African American artist.",
-    "date": "2026-05-27T21:59:10",
-    "category": "NYT"
-  },
-  {
-    "id": "c80dd25c17e1c5849cb8e2e4bf7c0cc7",
-    "feed_name": "LRB",
-    "title": "Elizabeth Bishop\u2019s Styles: Andrew Dickinson and Peter McDonald",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/elizabeth-bishops-styles-andrew-dickinson-and-peter-mcdonald-tickets-1984474673168",
-    "content": "",
-    "date": "2026-05-27T21:58:17",
-    "category": "Magazines"
   }
 ]
