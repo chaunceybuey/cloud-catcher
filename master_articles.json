@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a5507f56ae8b95870dcdca5",
+    "feed_name": "Wired (Science)",
+    "title": "Sotheby\u2019s Big T. Rex Auction Raises Concerns Hype and Wealth Are Upending Science",
+    "author": "Kate Wong",
+    "link": "https://www.wired.com/story/sothebys-t-rex-auction-shows-wealth-upending-science/",
+    "content": "Private buyers are increasingly outbidding museums for fossils. That\u2019s making it difficult\u2014or even impossible\u2014for researchers to improve our understanding of the past.",
+    "date": "2026-07-14T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/14/arts/television/the-westies.html",
     "feed_name": "NYT (Arts)",
     "title": "In \u2018The Westies,\u2019 Chris Brancato Expands His \u2018Scumbag Universe\u2019 (Again)",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/27/dining/a-lightning-fast-stir-fry-to-ease-the-short-workweek.html",
     "content": "Kay Chun\u2019s beef, asparagus and tofu stir-fry.",
     "date": "2026-05-27T15:00:21",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/arts/television/blake-lively-justin-baldoni-defamation.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Blake Lively\u2019s Last Chance: A U.S. Judge\u2019s Take on an Untested State Law",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/05/27/arts/television/blake-lively-justin-baldoni-defamation.html",
-    "content": "Blake Lively settled her retaliation claims that stemmed from the making of the 2024 movie \u201cIt Ends with Us,\u201d but she is continuing to seek compensation through another legal avenue.",
-    "date": "2026-05-27T15:00:13",
     "category": "NYT"
   }
 ]
