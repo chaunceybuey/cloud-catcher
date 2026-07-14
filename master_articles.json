@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/14/arts/music/ravinia-festival-hunter-pavilion-chicago-symphony.html",
+    "feed_name": "NYT (Arts)",
+    "title": "With Lizzo and Calm Flair, a Storied Venue Reopens for Summer",
+    "author": "David Allen",
+    "link": "https://www.nytimes.com/2026/07/14/arts/music/ravinia-festival-hunter-pavilion-chicago-symphony.html",
+    "content": "Lizzo performing with the Chicago Symphony Orchestra at Ravinia on Saturday.",
+    "date": "2026-07-14T15:10:33",
+    "category": "NYT"
+  },
+  {
     "id": "6a217447e33edc84a60662ca",
     "feed_name": "Wired (Science)",
     "title": "New York Governor Signs First Statewide Data Center Moratorium",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17349646/james-talarico-ken-paxton-launch-attack-ads-in-texas-u-s-senate-race",
     "content": "From left: Attorney General Ken Paxton and state Rep. James Talarico, the Republican and Democratic nominees for the U.S. Senate, will face each other in the November mid-term. election",
     "date": "2026-05-27T19:45:32",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231594",
-    "feed_name": "Texas Tribune",
-    "title": "Gov. Greg Abbott to Texas colleges: don\u2019t increase tuition, fees",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17349647/abbott-texas-college-tuition-freeze-2026",
-    "content": "Gov. Greg Abbott speaks a press conference in Austin on May 14, 2026.",
-    "date": "2026-05-27T19:37:20",
     "category": "Texas"
   }
 ]
