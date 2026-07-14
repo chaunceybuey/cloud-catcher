@@ -530,6 +530,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/13/theater/murder-mystery-audrey-gelman-wing.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Murder Mystery Evening at Audrey Gelman\u2019s Guesthouse",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/07/13/theater/murder-mystery-audrey-gelman-wing.html",
+    "content": "Guests are encouraged to \u201cdress to impress\u201d for the dinner and murder mystery evening.",
+    "date": "2026-07-13T09:02:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/13/books/age-gap-romance-books.html",
     "feed_name": "NYT (Arts)",
     "title": "Sizzling, Sexy Age-Gap Romance Novels",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n10/jonathan-parry/certain-kinds-of-carpet",
     "content": "",
-    "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "fbb8823d3a0266600e5dece6f9c7db17",
-    "feed_name": "LRB",
-    "title": "Will Newsom run?",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10/deborah-friedell/gavin-gavin-we-love-you!",
-    "content": "The Gettys\u200b were one of the richest families in the world, and Gavin Newsom\u2019s father was their \u2018consigliere\u2019. In 1973, when John Paul Getty III was kidnapped by the Calabrian mafia, it fell to Bill Newsom to fly to Italy to get him back. At first he suspected that his godson \u2013 \u2018Little Paul\u2019, a trust fund kid locked out of his trust \u2013 might have...",
     "date": "2026-05-27T12:55:16",
     "category": "Magazines"
   }
