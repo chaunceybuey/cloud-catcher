@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "04cb930b1c494927dda5d2678c3c39e5",
+    "feed_name": "Compact",
+    "title": "The Resurrection of Mitch McConnell",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-resurrection-of-mitch-mcconnell/",
+    "content": "",
+    "date": "2026-07-14T12:15:08",
+    "category": "Magazines"
+  },
+  {
+    "id": "c0a931e06ee042ddbc435de6b9da5b29",
+    "feed_name": "The Atlantic",
+    "title": "The See-No-Evil Supreme Court",
+    "author": "Adam Serwer",
+    "link": "https://www.theatlantic.com/ideas/2026/07/the-see-no-evil-supreme-court/687902/",
+    "content": "The majority refuses to see evidence of racism.",
+    "date": "2026-07-14T12:04:44",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20346-kmfa-s-kids-on-key-noon-tunes-summer-family-series",
     "feed_name": "KMFA",
     "title": "KMFA's Kids on Key: Noon Tunes Summer Family Series",
@@ -19978,25 +19998,5 @@
     "content": "Texas Attorney General Ken Paxton dances onstage at a Lone Star Liberty PAC rally at The Angry Elephant in San Antonio on May 21, 2026.",
     "date": "2026-05-27T19:21:17",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/briefing/the-good-list-nelkin-aggression-cookies.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Good List: 6 Things to Add Some Joy to Your Day",
-    "author": "Melissa Kirsch",
-    "link": "https://www.nytimes.com/2026/05/27/briefing/the-good-list-nelkin-aggression-cookies.html",
-    "content": "Aggression cookies, dancing the seasons and typing \u2018Mrs. Dalloway.\u2019",
-    "date": "2026-05-27T19:01:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/27/arts/matthew-perry-personal-assistant-ketamine.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Matthew Perry\u2019s Personal Assistant, Kenneth Iwamasa, Sentenced to More Than 3 Years in Prison",
-    "author": "Matt Stevens",
-    "link": "https://www.nytimes.com/2026/05/27/arts/matthew-perry-personal-assistant-ketamine.html",
-    "content": "The actor Matthew Perry was found unresponsive in a hot tub at his home in Los Angeles on Oct. 28, 2023. His assistant had injected him with at least three shots of ketamine that day.",
-    "date": "2026-05-27T18:59:09",
-    "category": "NYT"
   }
 ]
