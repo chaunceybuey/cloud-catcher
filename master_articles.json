@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/the-odyssey-matt-damon-tom-holland-pizza",
+    "feed_name": "NYT (Food)",
+    "title": "Matt Damon and Tom Holland Make Epic Pizzas",
+    "author": "Victoria Chen",
+    "link": "https://cooking.nytimes.com/article/the-odyssey-matt-damon-tom-holland-pizza",
+    "content": "\u201cThe Odyssey\u201d co-stars sling pies while chatting about cooking, food and their latest film at the New York Times kitchen studio.",
+    "date": "2026-07-14T09:02:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/14/dining/restaurant-review-ambassadors-clubhouse-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Ambassadors Clubhouse in New York",
@@ -19988,15 +19998,5 @@
     "content": "The new Fed chair will struggle to appease his colleagues, the market and Donald Trump\u00a0all at once",
     "date": "2026-05-27T20:26:28",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231600",
-    "feed_name": "Texas Tribune",
-    "title": "Tala-freak-o vs. Ken the Criminal: Texas candidates sharpen attacks as U.S. Senate race locks in",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17349646/james-talarico-ken-paxton-launch-attack-ads-in-texas-u-s-senate-race",
-    "content": "From left: Attorney General Ken Paxton and state Rep. James Talarico, the Republican and Democratic nominees for the U.S. Senate, will face each other in the November mid-term. election",
-    "date": "2026-05-27T19:45:32",
-    "category": "Texas"
   }
 ]
