@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a217447e33edc84a60662ca",
+    "feed_name": "Wired (Science)",
+    "title": "New York Governor Signs First Statewide Data Center Moratorium",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
+    "content": "\u201cWe have no choice but to address the challenges created by these massive facilities,\u201d New York governor Kathy Hochul said. The executive order will pause construction for one year.",
+    "date": "2026-07-14T14:54:41",
+    "category": "Magazines"
+  },
+  {
     "id": "04cb930b1c494927dda5d2678c3c39e5",
     "feed_name": "Compact",
     "title": "The Resurrection of Mitch McConnell",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17349647/abbott-texas-college-tuition-freeze-2026",
     "content": "Gov. Greg Abbott speaks a press conference in Austin on May 14, 2026.",
     "date": "2026-05-27T19:37:20",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231581",
-    "feed_name": "Texas Tribune",
-    "title": "Senate GOP leaders spent months trashing Paxton. Can they turn the page and unify against Talarico?",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17349648/texas-us-senate-gop-primary-runoff-ken-paxton-john-thune-leadership-talarico",
-    "content": "Texas Attorney General Ken Paxton dances onstage at a Lone Star Liberty PAC rally at The Angry Elephant in San Antonio on May 21, 2026.",
-    "date": "2026-05-27T19:21:17",
     "category": "Texas"
   }
 ]
