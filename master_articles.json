@@ -80,6 +80,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=236118",
+    "feed_name": "Texas Tribune",
+    "title": "Houston ICE shooting strains already tense relations between U.S., Mexico",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17379877/texas-mexico-president-complaints-houston-ice-shooting",
+    "content": "Mexican President Claudia Sheinbaum speaks during a morning news conference at the National Palace in Mexico City, Mexico, on July 8, 2026.",
+    "date": "2026-07-14T03:06:20",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236089",
     "feed_name": "Texas Tribune",
     "title": "Harris County DA\u2019s office to treat ICE shooting as criminal investigation, says it may take months or years to complete",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n10/greg-afinogenov/slavdom",
     "content": "Across Europe\u200b, military leaders are dreaming of war with Russia. Nato\u2019s defence chief, Giuseppe Cavo Dragone, has called for a pre-emptive, \u2018defensive\u2019 strike (whatever that means); the German defence minister, Boris Pistorius, said in the autumn that it might have been \u2018the last summer of peace for Europeans\u2019. France\u2019s chief of the defence staff, Fabien...",
-    "date": "2026-05-27T12:55:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "6891cc16ca7f85394f23baef044fdc2a",
-    "feed_name": "LRB",
-    "title": "In the latest issue",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10",
-    "content": "",
     "date": "2026-05-27T12:55:16",
     "category": "Magazines"
   }
