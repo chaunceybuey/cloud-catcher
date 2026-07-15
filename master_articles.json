@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/15/arts/television/late-night-lindsey-graham-sister-senator.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Calls Lindsey Graham\u2019s Senate Seat \u2018an Inheritance Jackpot\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/15/arts/television/late-night-lindsey-graham-sister-senator.html",
+    "content": "\u201cA Senate seat? Most people just get a garage full of damp boxes,\u201d Michael Kosta said of Graham\u2019s sister filling the late senator\u2019s seat on \u201cThe Daily Show.\u201d",
+    "date": "2026-07-15T05:41:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236216",
     "feed_name": "Texas Tribune",
     "title": "Considerable to catastrophic flooding likely through Thursday in Texas, forecasters say",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/28/movies/with-hasan-in-gaza-review.html",
     "content": "The Palestinian filmmaker Kamal Aljafari has constructed this elliptical documentary out of material filmed in Gaza in 2001, when he was searching for a friend.",
     "date": "2026-05-28T09:01:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/movies/propeller-one-way-night-coach-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Propeller One-Way Night Coach\u2019: John Travolta\u2019s Directing Debut",
-    "author": "Lisa Kennedy",
-    "link": "https://www.nytimes.com/2026/05/28/movies/propeller-one-way-night-coach-review.html",
-    "content": "John Travolta makes his directing debut with this short and sentimental coming-of-age film about a son\u2019s first plane trip taken with his single mother.",
-    "date": "2026-05-28T09:01:47",
     "category": "NYT"
   }
 ]
