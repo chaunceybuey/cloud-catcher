@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/15/arts/pen-america-israel-gaza-report.html",
+    "feed_name": "NYT (Arts)",
+    "title": "PEN America Defends Israel Article That Led to President\u2019s Resignation",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/07/15/arts/pen-america-israel-gaza-report.html",
+    "content": "Clarisse Rosaz Shariyf, left, and Summer Lopez were named co-chief executives of PEN America in February.",
+    "date": "2026-07-15T21:26:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236452",
     "feed_name": "Texas Tribune",
     "title": "Abortion not a focus in Texas race for U.S. Senate as neither candidates emphasize the issue",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/29/dining/fiber-rich-dates-snacks.html",
     "content": "Grocery stores aisles are bursting with stuffed, sugared, blended, rolled and coated dates as a new wave of snack brands glorify the wrinkly fruit.",
     "date": "2026-05-29T09:00:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/29/movies/kane-parsons-24-youngest-director-backrooms.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Kane Parsons: From YouTube Sensation to A24\u2019s Youngest Director",
-    "author": "Kyle Buchanan",
-    "link": "https://www.nytimes.com/2026/05/29/movies/kane-parsons-24-youngest-director-backrooms.html",
-    "content": "\u201cAge has never not been part of the conversation with me,\u201d Parsons said.",
-    "date": "2026-05-29T09:00:37",
     "category": "NYT"
   }
 ]
