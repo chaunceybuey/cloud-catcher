@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=236371",
+    "feed_name": "Texas Tribune",
+    "title": "ICE should continue traffic stops despite recent shootings, Trump says, seeming to oppose new suspension",
+    "author": "By Darlene Superville, Patrick Whittle, Rebecca Santana and Michael R. Sisak,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17380800/texas-ice-traffic-stops-shooting-trump-social-media-post",
+    "content": "In a social media post, President Donald Trump said ICE should continue doing vehicle stops. The agency suspended such stops after agents fatally shot immigrants in Houston and Maine during vehicle stops.",
+    "date": "2026-07-15T15:32:22",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=236369",
+    "feed_name": "Texas Tribune",
+    "title": "Texas agencies must cut spending by 3% under new order from Abbott, Patrick and Burrows",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17380801/texas-state-agency-3-percent-budget-cuts-abbott-patrick-burrows-legislature",
+    "content": "From left, House Speaker Dustin Burrows, Gov. Greg Abbott and Lt. Gov. Dan Patrick hold a bill-signing ceremony at the Texas Capitol on April 23, 2025, to create a Texas Department of Government Efficiency.",
+    "date": "2026-07-15T15:26:21",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/15/dining/melissa-clarks-panzanella.html",
     "feed_name": "NYT (Food)",
     "title": "Melissa Clark\u2019s Panzanella",
@@ -19978,25 +19998,5 @@
     "content": "",
     "date": "2026-05-28T21:56:29",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231763",
-    "feed_name": "Texas Tribune",
-    "title": "Austin ISD\u2019s bid to avoid state takeover rejected by Texas Education Agency",
-    "author": "Acacia Coronado",
-    "link": "https://feeds.texastribune.org/link/16799/17350374/austin-isds-bid-to-avoid-state-takeover-rejected-by-texas-education-agency",
-    "content": "Webb Middle School in Austin on Jan. 5, 2026.",
-    "date": "2026-05-28T21:42:53",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Young MC and Morris Day Pull Out of Freedom 250 Concerts",
-    "author": "Jonathan Abrams",
-    "link": "https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html",
-    "content": "\u201cI have informed my agents that I will not be performing,\u201d the rapper Young MC said about Freedom 250.",
-    "date": "2026-05-28T20:32:56",
-    "category": "NYT"
   }
 ]
