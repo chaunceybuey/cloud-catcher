@@ -80,6 +80,36 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=236151",
+    "feed_name": "Texas Tribune",
+    "title": "Called to ministry, Latina leaders are reshaping the United Methodist Church in Texas",
+    "author": "By Ellie Ashby, Texas Tribune, and Chloe Landen, Religion News Service",
+    "link": "https://feeds.texastribune.org/link/16799/17380637/texas-united-methodist-church-latina-ministry",
+    "content": "The Rev. Martha Valencia baptizes an individual outside of Elmwood-El Buen Samaritano United Methodist Church in Dallas.",
+    "date": "2026-07-15T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=236210",
+    "feed_name": "Texas Tribune",
+    "title": "\u201cICE is everywhere\u201d: In Houston, fear and grief permeate Latino neighborhoods after fatal shooting",
+    "author": "Alejandro Santos Cid",
+    "link": "https://feeds.texastribune.org/link/16799/17380638/texas-houston-ice-shooting-fear",
+    "content": "Jose and his mother embrace near the site where Lorenzo Salgado Araujo was fatally shot by an ICE agent in Houston&#039;s Magnolia Park neighborhood, plunging the neighborhood into fear.",
+    "date": "2026-07-15T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=236266",
+    "feed_name": "Texas Tribune",
+    "title": "Texas officials are cracking down on \u201cillegal birth tourism.\u201d Here\u2019s what that means.",
+    "author": "Katlyn Ma",
+    "link": "https://feeds.texastribune.org/link/16799/17380639/texas-birth-tourism-illegal-immigration-explainer",
+    "content": "Gov. Greg Abbott speaks with U.S. Supreme Court Justice Samuel Alito during a ceremonial swearing in of Texas Supreme Court Justices James Sullivan and Kyle Hawkins at the Capitol in Austin on May 7, 2026.",
+    "date": "2026-07-15T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6a565e43172a7c9e12eea662",
     "feed_name": "Wired (Science)",
     "title": "The Explosive Diarrhea Outbreak Is About to Get Much Bigger",
@@ -19968,35 +19998,5 @@
     "content": "The choreographer-provocateur followed a hit show at the Venice Biennale with one in Vienna. \u201cViolence is something we\u2019re used to,\u201d she said.",
     "date": "2026-05-28T10:32:21",
     "category": "NYT"
-  },
-  {
-    "id": "6a172049235be46da31f1f0e",
-    "feed_name": "Wired (Science)",
-    "title": "These Ebola Researchers Are Stuck in US Due to Trump\u2019s Funding Cuts",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
-    "content": "The Centers for Research in Emerging Infectious Diseases were launched during the Covid-19 pandemic. The group lost its funding under Trump in part due to conspiracy theories.",
-    "date": "2026-05-28T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19146",
-    "feed_name": "Stratechery",
-    "title": "An Interview with Eric Seufert About Models and Ads, and AI\u2019s Upside for Humanity",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
-    "content": "<p>An Interview with Eric Seufert about building models for generative AI, why Meta's foundational models are so important, and why understanding advertising leads to optimism about humanity's future.</p>",
-    "date": "2026-05-28T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231524",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 discipline push sends kids to \u2018jail-like\u2019 campuses",
-    "author": "By Sarah\u00a0Butrymowicz\u00a0The Hechinger Report",
-    "link": "https://feeds.texastribune.org/link/16799/17350020/texas-school-discipline-push-drives-kids-to-jail-like-campuses",
-    "content": "After distributing flyers about a protest against Immigration and Customs Enforcement at his high school, Jordan Comfort was suspended and then assigned to a Disciplinary Alternative Education Program for six weeks.",
-    "date": "2026-05-28T10:00:00",
-    "category": "Texas"
   }
 ]
