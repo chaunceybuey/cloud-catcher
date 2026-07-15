@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/15/dining/melissa-clarks-panzanella.html",
+    "feed_name": "NYT (Food)",
+    "title": "Melissa Clark\u2019s Panzanella",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/15/dining/melissa-clarks-panzanella.html",
+    "content": "Melissa Clark\u2019s panzanella.",
+    "date": "2026-07-15T15:00:16",
+    "category": "NYT"
+  },
+  {
     "id": "41ee67ebf0d010ca2a471afa3ff5dedb",
     "feed_name": "LRB",
     "title": "Limited Leave to Remain English",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html",
     "content": "\u201cI have informed my agents that I will not be performing,\u201d the rapper Young MC said about Freedom 250.",
     "date": "2026-05-28T20:32:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/dining/the-dream-of-a-50-dinner-is-still-alive-at-these-restaurants.html",
-    "feed_name": "NYT (Food)",
-    "title": "The Dream of a $50 Dinner Is Still Alive at These Restaurants",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/05/28/dining/the-dream-of-a-50-dinner-is-still-alive-at-these-restaurants.html",
-    "content": "The cost of a meal at Lovely Day in NoLIta hasn\u2019t changed much since it opened in 2002.",
-    "date": "2026-05-28T20:00:06",
     "category": "NYT"
   }
 ]
