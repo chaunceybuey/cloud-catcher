@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a565e43172a7c9e12eea662",
+    "feed_name": "Wired (Science)",
+    "title": "The Explosive Diarrhea Outbreak Is About to Get Much Bigger",
+    "author": "Emily Mullin, Kate Taylor",
+    "link": "https://www.wired.com/story/explosive-diarrhea-outbreak-about-to-get-bigger/",
+    "content": "Official case counts likely capture only a fraction of US cyclosporiasis infections, and the outbreak is likely to get worse before it gets better.",
+    "date": "2026-07-15T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/15/arts/television/heartstopper-forever.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Heartstopper Forever\u2019: Growing Up, and Staying True to Themselves",
@@ -19850,6 +19860,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/05/28/opinion/military-iran-ukraine-russia-war-drones.html",
+    "feed_name": "Interesting Times",
+    "title": "Our Military Is Built for the Wrong Century",
+    "author": "Ross Douthat and Victoria Chamberlin",
+    "link": "https://www.nytimes.com/2026/05/28/opinion/military-iran-ukraine-russia-war-drones.html",
+    "content": "Ukraine and Iran have shown us that war as we\u2019ve known it is over.",
+    "date": "2026-05-28T15:26:20",
+    "category": "Uncategorized"
+  },
+  {
     "id": "https://www.nytimes.com/2026/05/28/dining/shrimp-and-white-beans-but-on-vacation.html",
     "feed_name": "NYT (Food)",
     "title": "Shrimp and White Beans, but on Vacation",
@@ -19978,25 +19998,5 @@
     "content": "The Texas Department of Public Safety Region II Headquarters on Oct. 1, 2025, in Houston.",
     "date": "2026-05-28T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "9fa90241-4fd0-471f-aca6-1eac4c9dea3a",
-    "feed_name": "Economist",
-    "title": "China is quietly making rural migrants\u2019 lives easier",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/28/china-is-quietly-making-rural-migrants-lives-easier",
-    "content": "The notorious hukou system is being relaxed. Marx would approve",
-    "date": "2026-05-28T09:29:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "a9302524-4c9a-4ec7-b8e9-5d4c2a4686b5",
-    "feed_name": "Economist",
-    "title": "How to tax businesses in orbit and beyond",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond",
-    "content": "As the space business grows, so will offplanet finance",
-    "date": "2026-05-28T09:28:19",
-    "category": "Magazines"
   }
 ]
