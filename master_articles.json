@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "6a579be480197b930314be8a",
+    "feed_name": "Wired (Science)",
+    "title": "Lionel Messi\u2019s Final World Cup\u2014and the Death of Early Retirement",
+    "author": "Malak Saleh",
+    "link": "https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/",
+    "content": "Argentina\u2019s Lionel Messi was supposed to be done years ago. Now, sports science is helping soccer\u2019s biggest stars rewrite the rules of aging.",
+    "date": "2026-07-15T16:28:43",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/15/theater/the-potluck-review-cesar-alvarez.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Potluck\u2019 Review: The Greensboro Massacre, and a Heavy Legacy to Bear",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/07/15/theater/the-potluck-review-cesar-alvarez.html",
+    "content": "Anthony Alfaro, center, stars in \u201cThe Potluck\u201d as C\u00e9sar, the stand-in for the show\u2019s playwright, C\u00e9sar Alvarez.",
+    "date": "2026-07-15T16:27:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Odyssey\u2019 Review: Passion in Every Frame",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html",
+    "content": "Few directors close the divide between the art film and the blockbuster like Christopher Nolan.",
+    "date": "2026-07-15T16:01:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236371",
     "feed_name": "Texas Tribune",
     "title": "ICE should continue traffic stops despite recent shootings, Trump says, seeming to oppose new suspension",
@@ -19968,35 +19998,5 @@
     "content": "The Apple App Store application appears on a smartphone screen in this photo illustration on Oct. 10, 2025.",
     "date": "2026-05-28T23:02:46",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231791",
-    "feed_name": "Texas Tribune",
-    "title": "From Cornyn to Paxton: How Trump helped accelerate the Texas GOP\u2019s transformation",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17350430/texas-donald-trump-endorsement-ken-paxton-john-cornyn-gop-remaking",
-    "content": "President Donald Trump, center, greets Texas Attorney General Ken Paxton, with Texas Lt. Gov. Dan Patrick, right, at Austin-Bergstrom International Airport on Nov. 20, 2019.",
-    "date": "2026-05-28T22:56:06",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231775",
-    "feed_name": "Texas Tribune",
-    "title": "U.S. Supreme Court settles long-running Texas-New Mexico water dispute over Rio Grande",
-    "author": "By Susan Montoya Bryan,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17350409/texas-new-mexico-rio-grande-water-dispute-supreme-court-settlement",
-    "content": "The Rio Grande near Las Cruces, New Mexico.",
-    "date": "2026-05-28T22:22:20",
-    "category": "Texas"
-  },
-  {
-    "id": "0fed81f211ddc0ddbcc51f8b301a5912",
-    "feed_name": "LRB",
-    "title": "June Late Shopping Evening",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/june-late-shopping-evening-tickets-1988843991918",
-    "content": "",
-    "date": "2026-05-28T21:56:29",
-    "category": "Magazines"
   }
 ]
