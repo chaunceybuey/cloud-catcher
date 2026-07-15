@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/14/dining/restaurant-review-demo-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Demo in New York",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/2026/07/14/dining/restaurant-review-demo-nyc.html",
+    "content": "Demo in the West Village earns its place among the sophisticated, youthful restaurants New York is so good at.",
+    "date": "2026-07-14T20:01:31",
+    "category": "NYT"
+  },
+  {
     "id": "94388254-7d2c-4da0-917e-4789669d15bf",
     "feed_name": "Economist",
     "title": "Trump\u2019s Hormuz brinkmanship is worsening a global fuel crunch",
@@ -108,6 +118,16 @@
     "content": "Rising oil prices are only part of the problem",
     "date": "2026-07-14T18:22:01",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/14/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Graciela Has Fired Up the Parrilla for Argentine Cooking",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/07/14/dining/nyc-restaurant-news.html",
+    "content": "Casa Felix serves up esquites risotto, Granola Bar expands and more restaurant news.",
+    "date": "2026-07-14T18:16:08",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=236157",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/28/movies/propeller-one-way-night-coach-review.html",
     "content": "John Travolta makes his directing debut with this short and sentimental coming-of-age film about a son\u2019s first plane trip taken with his single mother.",
     "date": "2026-05-28T09:01:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/movies/miss-you-love-you-review-a-son-outsources-his-solace.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Miss You, Love You\u2019 Review: A Son Outsources His Solace",
-    "author": "Chris Azzopardi",
-    "link": "https://www.nytimes.com/2026/05/28/movies/miss-you-love-you-review-a-son-outsources-his-solace.html",
-    "content": "The mourning process feels theatrical in this dramedy starring Allison Janney as a new widow estranged from her son.",
-    "date": "2026-05-28T09:01:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/28/movies/the-last-viking-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Last Viking\u2019 Review: Imagine Mads Mikkelsen",
-    "author": "Calum Marsh",
-    "link": "https://www.nytimes.com/2026/05/28/movies/the-last-viking-review.html",
-    "content": "Mikkelsen plays a man convinced he\u2019s John Lennon in a darkly comic crime film from the Danish auteur Anders Thomas Jensen.",
-    "date": "2026-05-28T09:01:42",
     "category": "NYT"
   }
 ]
