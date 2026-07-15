@@ -70,6 +70,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=236468",
+    "feed_name": "Texas Tribune",
+    "title": "Detainees at El Paso ICE detention say they\u2019re frequently beaten, report says",
+    "author": "By Michael Biesecker,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17380938/texas-camp-east-montana-el-paso-migrants-conditions-report",
+    "content": "Tents at the East Montana Detention Facility, an ICE detention center at Fort Bliss in El Paso.",
+    "date": "2026-07-15T21:04:40",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236452",
     "feed_name": "Texas Tribune",
     "title": "Abortion not a focus in Texas race for U.S. Senate as neither candidates emphasize the issue",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/29/arts/dance/olivia-book-ballet-west-limb-difference.html",
     "content": "Olivia Book, who is from Grimsby, Ontario, on the shore of Lake Ontario.",
     "date": "2026-05-29T09:01:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/29/dining/fiber-rich-dates-snacks.html",
-    "feed_name": "NYT (Food)",
-    "title": "Fiber-Rich Dates Are the Latest \u2018It Girl\u2019 of the Snack Aisle",
-    "author": "Kendra Vaculin",
-    "link": "https://www.nytimes.com/2026/05/29/dining/fiber-rich-dates-snacks.html",
-    "content": "Grocery stores aisles are bursting with stuffed, sugared, blended, rolled and coated dates as a new wave of snack brands glorify the wrinkly fruit.",
-    "date": "2026-05-29T09:00:46",
     "category": "NYT"
   }
 ]
