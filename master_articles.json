@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/15/arts/television/scott-bryce-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Scott Bryce, \u2018As the World Turns\u2019 Actor, Dies at 68",
+    "author": "Johnny Diaz",
+    "link": "https://www.nytimes.com/2026/07/15/arts/television/scott-bryce-dead.html",
+    "content": "Scott Bryce in 2007. He originated the role of Craig Montgomery on \u201cAs the World Turns\u201d in 1982 and played him off and on until 2008.",
+    "date": "2026-07-15T19:09:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/15/dining/cheesemonger-jobs.html",
     "feed_name": "NYT (Food)",
     "title": "Everybody Loves Cheese. Why Is Selling It So Hard These Days?",
@@ -19988,15 +19998,5 @@
     "content": "A new poll shows it sitting at 34 percent. \u201cHe has the same approval rating as \u2018Paul Blart: Mall Cop,\u2019\u201d Kimmel said on Thursday.",
     "date": "2026-05-29T06:40:50",
     "category": "NYT"
-  },
-  {
-    "id": "f8dcc9efa76926762e1b6286298b9c0a",
-    "feed_name": "Texas Trib",
-    "title": "With limited options, Corpus Christi focuses on delaying \u2013 not avoiding \u2013 its looming water crisis",
-    "author": "by",
-    "link": "https://www.texastribune.org/2026/05/29/texas-corpus-christi-water-crisis-few-options/",
-    "content": "",
-    "date": "2026-05-29T05:00:00",
-    "category": "Texas"
   }
 ]
