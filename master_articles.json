@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a57c31a11ccda473241f290",
+    "feed_name": "Wired (Science)",
+    "title": "The Northeast Is Being Blanketed in Canadian Wildfire Smoke",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
+    "content": "Roughly 100 wildfires are raging out of control in Ontario, sending smoke streaming more than 1,000 miles from their origin.",
+    "date": "2026-07-15T23:05:03",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/15/arts/pen-america-israel-gaza-report.html",
     "feed_name": "NYT (Arts)",
     "title": "PEN America Defends Israel Article That Led to President\u2019s Resignation",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/29/theater/kelli-ohara-rose-byrne-fallen-angels-broadway.html",
     "content": "The Tony-nominated stars of \u201cFallen Angels\u201d demonstrate how to act drunk onstage and have a hilarious hangover.",
     "date": "2026-05-29T09:02:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/29/arts/dance/olivia-book-ballet-west-limb-difference.html",
-    "feed_name": "NYT (Arts)",
-    "title": "This Dancer Is Helping to Expand What a Ballet Body Can Be",
-    "author": "Sophie Bress",
-    "link": "https://www.nytimes.com/2026/05/29/arts/dance/olivia-book-ballet-west-limb-difference.html",
-    "content": "Olivia Book, who is from Grimsby, Ontario, on the shore of Lake Ontario.",
-    "date": "2026-05-29T09:01:05",
     "category": "NYT"
   }
 ]
