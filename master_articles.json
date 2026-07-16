@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/16/arts/television/dave-kendall-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dave Kendall, Creator and Host of MTV\u2019s \u2018120 Minutes,\u2019 Dies at 63",
+    "author": "John S.W. MacDonald",
+    "link": "https://www.nytimes.com/2026/07/16/arts/television/dave-kendall-dead.html",
+    "content": "Dave Kendall at Limelight nightclub in New York in 1993. As the host of \u201c120 Minutes\u201d on MTV, he promoted acts like R.E.M., the Red Hot Chili Peppers and Nirvana, who became mainstream stars.",
+    "date": "2026-07-16T19:04:58",
+    "category": "NYT"
+  },
+  {
     "id": "6a58ec8b589ef12506ae2ca0",
     "feed_name": "Wired (Science)",
     "title": "Everyone Thinks They Have the Diarrhea Parasite",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17351032/immigration-crackdown-hits-texas-nonprofit",
     "content": "Attendees listen to LUPE staff members during a training to prepare people for the incoming Trump administration&#039;s deportation plans on Dec. 6, 2024 in San Juan.",
     "date": "2026-05-29T21:56:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231982",
-    "feed_name": "Texas Tribune",
-    "title": "Accused of a crime after shooting a migrant in Minnesota, ICE agent is arrested in South Texas",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17351023/texas-ice-agent-arrested-minnesota-migrant-shooting",
-    "content": "Federal agents stand guard after deploying tear gas as community members protest a shooting incident involving federal agents and a migrant on Jan. 14, 2026 in Minneapolis, Minnesota.",
-    "date": "2026-05-29T21:51:36",
     "category": "Texas"
   }
 ]
