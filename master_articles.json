@@ -70,6 +70,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=236440",
+    "feed_name": "Texas Tribune",
+    "title": "Proposed EPA rule could weaken Texans\u2019 voice on certain air permits used by data centers",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17381196/texas-epa-rule-minor-pollution-permits-public-input-tceq-data-centers",
+    "content": "The Stargate data center in Abilene on May 2, 2026.",
+    "date": "2026-07-16T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=236521",
+    "feed_name": "Texas Tribune",
+    "title": "East Texas counties move to protect groundwater with new conservation district",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17381197/east-texas-groundwater-district",
+    "content": "Longview is the county seat of Gregg County, which has agreed to be part of the Northeast Texas Groundwater Conservation District, a water conservation district that has yet to be formed.",
+    "date": "2026-07-16T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6a57c0148c18b872362b58b7",
     "feed_name": "Wired (Science)",
     "title": "Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever",
@@ -19977,26 +19997,6 @@
     "link": "https://www.texastribune.org/2026/05/29/immigration-crackdown-hits-texas-nonprofit/",
     "content": "La Union Del Pueblo Entero has seen engagement at its 8,000-member organization drop off after the Trump administration\u2019s immigration raids.",
     "date": "2026-05-29T16:56:00",
-    "category": "Texas"
-  },
-  {
-    "id": "9ecaf816fdc190d750c391a0c442fca4",
-    "feed_name": "Texas Trib",
-    "title": "Accused of a crime after shooting a migrant in Minnesota, ICE agent is arrested in South Texas",
-    "author": "by",
-    "link": "https://www.texastribune.org/2026/05/29/texas-ice-agent-arrested-minnesota-migrant-shooting/",
-    "content": "",
-    "date": "2026-05-29T16:51:36",
-    "category": "Texas"
-  },
-  {
-    "id": "183675a6e5b275eb8b83f1c97185d934",
-    "feed_name": "Texas Trib",
-    "title": "Teaching restrictions prompted half of surveyed Texas Tech faculty to alter courses, results show",
-    "author": "by",
-    "link": "https://www.texastribune.org/2026/05/29/texas-tech-university-faculty-alter-courses-restrictions-lessons-survey/",
-    "content": "",
-    "date": "2026-05-29T16:31:37",
     "category": "Texas"
   }
 ]
