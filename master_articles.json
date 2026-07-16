@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/16/movies/akihiro-miwa-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Akihiro Miwa, Actor and Singer With Gender-Fluid Glamour, Dies at 91",
+    "author": "Ash Wu",
+    "link": "https://www.nytimes.com/2026/07/16/movies/akihiro-miwa-dead.html",
+    "content": "In Japan, he was one of the first androgynous pop-culture stars and an inspirational figure. Abroad, he was known for his work in animated films by Hayao Miyazaki.",
+    "date": "2026-07-16T14:19:07",
+    "category": "NYT"
+  },
+  {
     "id": "5dd0d3c611b6b641b9fa051aeef8dab0",
     "feed_name": "Compact",
     "title": "America Isn\u2019t Ready for Blue City Defaults",
@@ -267,6 +277,16 @@
     "link": "https://www.nytimes.com/2026/07/16/arts/design/washington-smithsonian-museums-last-chance-review.html",
     "content": "These history-rich shows at the Smithsonian museums are a culturally-representative accounting of this nation\u2019s history, our critic says. See them before they close.",
     "date": "2026-07-16T09:01:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/summer-shandy",
+    "feed_name": "NYT (Food)",
+    "title": "It\u2019s Not Summer Until You\u2019ve Had a Proper Shandy",
+    "author": "Rebekah Peppler",
+    "link": "https://cooking.nytimes.com/article/summer-shandy",
+    "content": "Shandies have long been a favorite in British pubs, but you don\u2019t need to be a bartender to make this easy summer drink.",
+    "date": "2026-07-16T09:00:39",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Halfway\u200b throughJesus Christ Kinski,the narrator, a nameless writer who shares many biographical details with Benjamin Myers, describes the reception of a book that sounds a lot like his novelThe Offing(2019). \u2018After twenty years of putting his words out into the world to decent reviews and aggressively modest sales,\u2019 the writer reflects, \u2018his most recent novel, a...",
     "date": "2026-05-29T18:35:32",
     "category": "Magazines"
-  },
-  {
-    "id": "ed065976a10d3ce73f0548de2e7b2b26",
-    "feed_name": "Texas Trib",
-    "title": "Outside spending blitz defined the close of Texas\u2019 District 35 Democratic runoff",
-    "author": "by",
-    "link": "https://www.texastribune.org/2026/05/29/texas-35th-congressional-district-maureen-galindo-johnny-garcia-outside-spending-gop-pac/",
-    "content": "To counter what appeared to be a GOP push to elevate Maureen Galindo, who\u2019d voiced antisemitic stereotypes, national Democrats carpet-bombed the San Antonio area with $1.7 million worth of ads.",
-    "date": "2026-05-29T17:57:22",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231926",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Democratic chair calls for party to abandon GOP House Speaker Dustin Burrows",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17350924/texas-democratic-party-chair-resolution-house-speaker-dustin-burrows-legislature",
-    "content": "House Speaker Dustin Burrows speaks to the media after the chamber adjourned upon failing to reach a quorum on Aug. 4, 2025. Dozens of Democrats had left the state to protest the GOP&#039;s mid-decade redraw of Texas&#039; congressional map.",
-    "date": "2026-05-29T17:03:52",
-    "category": "Texas"
   }
 ]
