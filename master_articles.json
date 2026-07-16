@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a58ec8b589ef12506ae2ca0",
+    "feed_name": "Wired (Science)",
+    "title": "Everyone Thinks They Have the Diarrhea Parasite",
+    "author": "Emily Mullin, Kate Taylor, Leah Feiger",
+    "link": "https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/",
+    "content": "Cyclosporiasis isn\u2019t the only thing spreading across the US. So is anxiety about getting hit with it.",
+    "date": "2026-07-16T18:36:19",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236624",
     "feed_name": "Texas Tribune",
     "title": "FBI suggests migrants\u2019 van in fatal Houston shooting had meth. A lawyer says it was salt.",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17351023/texas-ice-agent-arrested-minnesota-migrant-shooting",
     "content": "Federal agents stand guard after deploying tear gas as community members protest a shooting incident involving federal agents and a migrant on Jan. 14, 2026 in Minneapolis, Minnesota.",
     "date": "2026-05-29T21:51:36",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231969",
-    "feed_name": "Texas Tribune",
-    "title": "Teaching restrictions prompted half of surveyed Texas Tech faculty to alter courses, results show",
-    "author": "Eva-Marie Ayala",
-    "link": "https://feeds.texastribune.org/link/16799/17351016/texas-tech-university-faculty-alter-courses-restrictions-lessons-survey",
-    "content": "Members of the Texas Tech University community hold a &quot;funeral protest&quot; for the death of academic freedom at the university&#039;s campus in Lubbock on May 7, 2026.",
-    "date": "2026-05-29T21:31:37",
     "category": "Texas"
   }
 ]
