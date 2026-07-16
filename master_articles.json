@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "037b133caeaf321bb27b212044eb86ee",
+    "feed_name": "LRB",
+    "title": "Edna Bonhomme & Lola Olufemi: Tending to Our Wounds",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/edna-bonhomme-lola-olufemi-tending-to-our-wounds-tickets-1988101787966",
+    "content": "",
+    "date": "2026-07-16T11:41:20",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-dhs-immigration-scams-fraud-homeland-security",
     "feed_name": "ProPublica",
     "title": "DHS Plans \u201cAll-Out War\u201d on Immigration Scammers as Fraud Complaints Double",
@@ -278,6 +288,16 @@
     "content": "\u201cIt\u2019s the second book Biden has written,\u201d Fallon said of the former president. \u201cThe first was \u2018The Odyssey.\u2019\u201d",
     "date": "2026-07-16T06:09:54",
     "category": "NYT"
+  },
+  {
+    "id": "a8853e4672a2a19636bfa3ebd60cf067",
+    "feed_name": "Outside",
+    "title": "This Veteran\u2019s Cure for Soldiers with PTSD: Go Build an Earthship in the Desert",
+    "author": "Nick Aspinwall",
+    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/veterans-off-grid/",
+    "content": "",
+    "date": "2026-07-16T03:28:46",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=236533",
@@ -19978,25 +19998,5 @@
     "content": "<figure class=\"wp-block-image size-full\"><img alt=\"\" class=\"wp-image-19166\" height=\"810\" src=\"https://stratechery.com/wp-content/uploads/2026/05/6a146c00f12433002135464a-ferrari_luce_high_side_16x9_rgb_web_socials.avif\" width=\"1440\" /><figcaption class=\"wp-element-caption\">(Ferrari)</figcaption></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Welcome back to This Week in Stratechery!</p>\n\n\n\n<p class=\"wp-block-paragraph\">As a reminder, each week, every Friday, we&#8217;re sending out this overview of content in the Stratechery bundle; <span class=\"passport-tokenized-link\">highlighted links are free for everyone</span>. Additionally, you have complete control over what we send to you. If you don&#8217;t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in <a href=\"https://stratechery.passport.online/member/account/delivery\">your delivery settings</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">On that note, here were a few of our favorites this week.</p>\n\n\n\n<ol class=\"wp-block-list is-style-default\">\n<li><strong>Why Everyone Hates Luce.</strong> To say that the Jony Ive-designed Ferrari Luce, the iconic carmaker&#8217;s first electric vehicle, has faced a chilly reception is an understatement. I actually think it looks great \u2014\u00a0<em>for an electric car</em>. On <a href=\"https://dithering.passport.online/member/episode/the-ferrari-luce\">Dithering</a>, John and I discuss why the real problem is that it&#8217;s branded Ferrari, and on <a href=\"https://sharptech.fm/member/episode/space-x-hype-and-the-elon-bargain-nvidia-and-the-neoclouds-q-a-on-dropbox-google-ferrari-luce-backlash\">Sharp Tech</a> I get even more philosophical: electric cars are focused first and foremost on efficiency, and not only is that different than performance, Ferrari&#8217;s calling card, but also representative of the parts of modern society \u2014 including tech \u2014 that leave everyone feeling increasingly alienated (and why, surprisingly, AI might help). \u2014 <em>Ben Thompson</em><br /></li>\n</ol>\n\n\n\n<span id=\"more-19157\"></span>\n\n\n\n<ol class=\"wp-block-list is-style-default\" start=\"2\">\n<li><strong>How to Monetize AI Answers. </strong>The ad business is, for me at least, endlessly fascinating, and not just because it is the most important business model in consumer tech: I think digital ads, particularly Meta-style ads that introduce you to things you never knew you wanted, a societal good. The other reason to care about ads, however, is that their economic importance means they are where the impacts of new technology are often felt first. <a href=\"https://riverside.com/studio/sharp-tech?t=8b65cd44c12e62e59c0d\">This week&#8217;s Interview with Eric Seufert</a> covers all this: how LLMs are changing digital ads, the changes both Google and OpenAI have made in terms of monetizing AI, and, more philosophically, why believing in ads might make one more optimistic about humanity in an AI-denominated future. \u2014 <em>BT</em><br /><br /></li>\n\n\n\n<li><strong>Social Mobility in China, and Lack Thereof.&nbsp;</strong>Late last week China&#8217;s State Council announced a reform that will ease so-called &#8220;hukou restrictions&#8221; and allow migrant workers from all over the country to access social services in the cities where they work, which had long been forbidden. It&#8217;s a major reform that furthers Xi&#8217;s goal to unify the national market, and should improve the lives of millions of workers, but it also comes with plenty of questions as it&#8217;s implemented. We discussed all of it on <a href=\"https://sharpchina.fm/member/episode/social-mobility-and-hukou-reform-us-halts-taiwan-arms-sales-ongoing-pressure-on-japan-an-american-xinhua-journalist-arrested\">a great episode of Sharp China this week</a>, as well as reports that top Chinese talent in AI has been banned from leaving the country, continued capital control, and ongoing tensions with Japan and the U.S. that call to mind an ominous passage from Mao Zedong.&nbsp;<em>\u2014</em> <em>AS</em></li>\n</ol>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Stratechery Articles and Updates</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/\">Nvidia Earnings, The AI Stack, Nvidia\u2019s New Reporting</a> <em>\u2014 Nvidia is changing its reporting to delineate between hyperscaler sales \u2014 where Nvidia is fighting commoditization \u2014 and everyone else, where Nvidia runs the whole stack.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/\"><span class=\"passport-tokenized-link\">The SpaceX IPO and Data Centers in Space</span></a> <em>\u2014 There isn\u2019t a financial model that justifies the SpaceX IPO, but data centers in space are plausible, and that might be enough.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/\">An Interview with Eric Seufert About Models and Ads, and AI&#8217;s Upside for Humanity</a> <em>\u2014 <br />An Interview with Eric Seufert about building models for generative AI, why Meta&#8217;s foundational models are so important, and why understanding advertising leads to optimism about humanity&#8217;s future.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Text by Andrew Sharp</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptext.net/2026/how-spencer-pratt-happens/\"><span class=\"passport-tokenized-link\">How Spencer Pratt Happens</span></a> \u2014 <em>Spencer Pratt&#8217;s success in L.A. reflects his own surprising political talent, and an increasingly broken Democratic machine in California and beyond.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Dithering with Ben Thompson and Daring Fireball&#8217;s John Gruber</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dithering.passport.online/member/episode/acquired-the-podcast\">Acquired the Podcast</a></li>\n\n\n\n<li><a href=\"https://dithering.passport.online/member/episode/the-ferrari-luce\">The Ferrari Luce</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Asianometry with Jon Yu</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://asianometry.passport.online/member/episode/how-things-fell-apart-for-germanys-nixdorf-computer\">How Things Fell Apart for Germany\u2019s Nixdorf Computer</a></li>\n\n\n\n<li><a href=\"https://asianometry.passport.online/member/episode/japans-rare-earths-island\">Japan\u2019s Rare Earths Island</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp China with Andrew Sharp and Sinocism&#8217;s Bill Bishop</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharpchina.fm/member/episode/social-mobility-and-hukou-reform-us-halts-taiwan-arms-sales-ongoing-pressure-on-japan-an-american-xinhua-journalist-arrested\">Social Mobility and Hukou Reform; US Halts Taiwan Arms Sales?; Ongoing Pressure on Japan; An American Xinhua Journalist Arrested</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Greatest of All Talk</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://goat.passport.online/member/episode/the-knicks-are-in-the-nba-finals-a-moment-of-sga-truth-around-the-league-with-giannis-bulls-and-the-basketball-gods\">The Knicks are in the NBA Finals, A Moment of SGA Truth, Around the League with Giannis, Bulls, and the Basketball Gods</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Tech with Andrew Sharp and Ben Thompson</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptech.fm/member/episode/space-x-hype-and-the-elon-bargain-nvidia-and-the-neoclouds-q-a-on-dropbox-google-ferrari-luce-backlash\">SpaceX Hype and the Elon Bargain, Nvidia and the Neoclouds, Q&amp;A on Dropbox, Google, Ferrari Luce Backlash</a></li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">This week&#8217;s Stratechery video is on <a href=\"https://stratechery.com/2026/the-inference-shift/\"><span class=\"passport-tokenized-link\">The Inference Shift</span></a>.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\"></p>",
     "date": "2026-05-29T17:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231928",
-    "feed_name": "Texas Tribune",
-    "title": "Recent rain gives two Corpus Christi reservoirs a much-needed boost",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17350925/texas-corpus-christi-rainfall-resrevoirs-rebound",
-    "content": "Corpus Christi raw water intake plant on the Nueces River on Oct. 20, 2025.",
-    "date": "2026-05-29T16:59:52",
-    "category": "Texas"
-  },
-  {
-    "id": "882d4b88ba78477e92511a7f57dd1822",
-    "feed_name": "Texas Trib",
-    "title": "Members of pro-immigration group hit by Trump crackdown on immigration",
-    "author": "by",
-    "link": "https://www.texastribune.org/2026/05/29/immigration-crackdown-hits-texas-nonprofit/",
-    "content": "La Union Del Pueblo Entero has seen engagement at its 8,000-member organization drop off after the Trump administration\u2019s immigration raids.",
-    "date": "2026-05-29T16:56:00",
-    "category": "Texas"
   }
 ]
