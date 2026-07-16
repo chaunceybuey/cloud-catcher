@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=236753",
+    "feed_name": "Texas Tribune",
+    "title": "Trump administration revives rule that could deny green cards to immigrants who use public benefits",
+    "author": "By Gisela Salomon,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17381611/texas-trump-public-charge-rule-revived",
+    "content": "A shopper looks at frozen food items inside an H-E-B in Corpus Christi on Jan. 17, 2026.",
+    "date": "2026-07-16T22:31:30",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/16/arts/television/chloe-fineman-leaves-snl.html",
     "feed_name": "NYT (Arts)",
     "title": "Chloe Fineman Is Leaving \u2018S.N.L.\u2019 After 7 Seasons",
@@ -68,6 +78,26 @@
     "content": "Britney Spears was one of many celebrities portrayed by Chloe Fineman during her time on \u201cSaturday Night Live.\u201d",
     "date": "2026-07-16T22:06:55",
     "category": "NYT"
+  },
+  {
+    "id": "e65d347a4f5c4924fd1e1ea4e48bdef6",
+    "feed_name": "The Atlantic",
+    "title": "Explaining Sex to an Anthropologist",
+    "author": "Conor Friedersdorf",
+    "link": "https://www.theatlantic.com/ideas/2026/07/explaining-sex-anthropologist/687948/",
+    "content": "The president of the field\u2019s leading professional association was asked about a polarizing topic\u2014and showed that she doesn\u2019t understand the position she is dismissing.",
+    "date": "2026-07-16T22:03:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "5e18ea4fe7de3954535f18e4757a3088",
+    "feed_name": "The Atlantic",
+    "title": "J. D. Vance\u2019s Own Alien Abduction",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/07/jd-vance-rogan-epstein/687944/",
+    "content": "The vice president has been replaced with a guy who\u2019s just asking questions.",
+    "date": "2026-07-16T21:15:19",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=236722",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/30/arts/music/ariana-grande-ravyn-lenae-songs.html",
     "content": "After a couple of years spent immersed in \u201cWicked\u201d world, Ariana Grande returns to pop with her newest single.",
     "date": "2026-05-30T09:02:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html",
-    "feed_name": "NYT (Food)",
-    "title": "In the Los Angeles Mayoral Race, Restaurants Are One of the Hottest Issues",
-    "author": "Meghan McCarron",
-    "link": "https://www.nytimes.com/2026/05/30/dining/los-angeles-mayoral-race-restaurants.html",
-    "content": "A succession of hardships, including Covid, the Hollywood strikes, ICE activity and wildfires have rocked the hospitality industry in Los Angeles in recent years.",
-    "date": "2026-05-30T09:02:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/30/arts/television/spider-noir-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Spider-Noir\u2019 Review: Your Friendly Neighborhood Nicolas Cage",
-    "author": "Mike Hale",
-    "link": "https://www.nytimes.com/2026/05/30/arts/television/spider-noir-review.html",
-    "content": "An often unbridled actor gets to play a mutant in a mash-up of superheroes and film noir on Amazon Prime Video.",
-    "date": "2026-05-30T09:02:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/30/arts/london-southbank-undercroft-skate-park.html",
-    "feed_name": "NYT (Arts)",
-    "title": "50 Years of Skateboarding at London\u2019s Southbank Undercroft",
-    "author": "Eleanor Stanford and Alice Zoo",
-    "link": "https://www.nytimes.com/2026/05/30/arts/london-southbank-undercroft-skate-park.html",
-    "content": "Skateboarders make pilgrimages from around the world to a \u201cfound\u201d London space that a grass-roots campaign saved from redevelopment.",
-    "date": "2026-05-30T09:02:07",
     "category": "NYT"
   }
 ]
