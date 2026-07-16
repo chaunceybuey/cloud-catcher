@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=236624",
+    "feed_name": "Texas Tribune",
+    "title": "FBI suggests migrants\u2019 van in fatal Houston shooting had meth. A lawyer says it was salt.",
+    "author": "Alex Nguyen and Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17381430/texas-houston-ice-shooting-fbi-search-warrant-lorenzo-salgado-araujo",
+    "content": "A memorial for Lorenzo Salgado Araujo, who was fatally shot by an immigration officer in Houston.",
+    "date": "2026-07-16T17:22:41",
+    "category": "Texas"
+  },
+  {
+    "id": "d83c872b0724db7c050639adc70c31c1",
+    "feed_name": "The Atlantic",
+    "title": "Nobody Even Expects DOJ to Be Independent Anymore",
+    "author": "Quinta Jurecic",
+    "link": "https://www.theatlantic.com/ideas/2026/07/todd-blanche-attorney-general-confirmation-hearing/687933/",
+    "content": "At Todd Blanche\u2019s confirmation hearing, there was scant support for the once-cherished ideal of dispensing impartial justice.",
+    "date": "2026-07-16T17:10:23",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/16/dining/these-recipes-fit-just-right.html",
     "feed_name": "NYT (Food)",
     "title": "These Recipes Fit Just Right",
@@ -68,6 +88,16 @@
     "content": "Nico de Leon\u2019s summer vegetable pancit canton, adapted by Christian Reynoso.",
     "date": "2026-07-16T17:00:05",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=236600",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton\u2019s campaign says he will debate James Talarico in Texas\u2019 U.S. Senate race",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17381431/texas-ken-paxton-james-talarico-debate-senate-race-2026",
+    "content": "From left: Democratic and Republican nominees for U.S. Senate James Talarico and Ken Paxton.",
+    "date": "2026-07-16T16:58:54",
+    "category": "Texas"
   },
   {
     "id": "https://www.texastribune.org/?p=236591",
@@ -19968,35 +19998,5 @@
     "content": "Members of the Texas Tech University community hold a &quot;funeral protest&quot; for the death of academic freedom at the university&#039;s campus in Lubbock on May 7, 2026.",
     "date": "2026-05-29T21:31:37",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231919",
-    "feed_name": "Texas Tribune",
-    "title": "In Harris County judge runoff, a Democratic upset underscores voters\u2019 desire for new blood",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17351007/harris-county-judge-election-upset-runoff",
-    "content": "Former Houston City Council Member Letitia Plummer  defeated longtime local politician Annise Parker to win the Democratic nomination for Harris County judge.",
-    "date": "2026-05-29T20:55:09",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/29/arts/dance/claude-bessy-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Claude Bessy, Who Ruled Paris Opera Ballet School, Dies at 93",
-    "author": "Adam Nossiter",
-    "link": "https://www.nytimes.com/2026/05/29/arts/dance/claude-bessy-dead.html",
-    "content": "Claude Bessy in 1957.",
-    "date": "2026-05-29T20:54:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Kennedy Center Must Remove Trump\u2019s Name From Building, Judge Orders",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html",
-    "content": "\u201cCongress gave the Kennedy Center its name, and only Congress can change it,\u201d Judge Christopher R. Cooper of the Federal District Court in Washington wrote in a ruling on Friday.",
-    "date": "2026-05-29T19:38:10",
-    "category": "NYT"
   }
 ]
