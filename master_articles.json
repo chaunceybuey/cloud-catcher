@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/16/arts/television/jimmy-fallon-joe-biden-memoir-book.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Fallon Pokes Fun at Joe Biden\u2019s New Memoir",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/16/arts/television/jimmy-fallon-joe-biden-memoir-book.html",
+    "content": "\u201cIt\u2019s the second book Biden has written,\u201d Fallon said of the former president. \u201cThe first was \u2018The Odyssey.\u2019\u201d",
+    "date": "2026-07-16T06:09:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236533",
     "feed_name": "Texas Tribune",
     "title": "Texas Tech chair donated $275K to Ken Paxton day before AG intervened in Brendan Sorsby saga",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/29/movies/new-movie-releases.html",
     "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
     "date": "2026-05-29T09:02:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/29/arts/television/hacks-series-finale.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Hacks\u2019 Was Always a Love Story",
-    "author": "James Poniewozik",
-    "link": "https://www.nytimes.com/2026/05/29/arts/television/hacks-series-finale.html",
-    "content": "In its finale, this comedy about comedy circled back to the romance of creative partnership and the saving power of laughs.",
-    "date": "2026-05-29T09:02:27",
     "category": "NYT"
   }
 ]
