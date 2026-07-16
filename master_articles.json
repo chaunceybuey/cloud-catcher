@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/16/dining/these-recipes-fit-just-right.html",
+    "feed_name": "NYT (Food)",
+    "title": "These Recipes Fit Just Right",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/07/16/dining/these-recipes-fit-just-right.html",
+    "content": "Nico de Leon\u2019s summer vegetable pancit canton, adapted by Christian Reynoso.",
+    "date": "2026-07-16T17:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236591",
     "feed_name": "Texas Tribune",
     "title": "Brownsville lands $3.2B AI drone tech company. Community members question the impact it could bring.",
@@ -19988,15 +19998,5 @@
     "content": "\u201cCongress gave the Kennedy Center its name, and only Congress can change it,\u201d Judge Christopher R. Cooper of the Federal District Court in Washington wrote in a ruling on Friday.",
     "date": "2026-05-29T19:38:10",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/20082-austin-symphony-orchestra-video-games-live",
-    "feed_name": "KMFA",
-    "title": "Austin Symphony Orchestra: Video Games Live",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/20082-austin-symphony-orchestra-video-games-live",
-    "content": "AUSTIN SYMPHONY ORCHESTRA PRESENTS\n\nVIDEO GAMES LIVE\n\nMAY 29 | 7:30 P.M. | LONG CENTER'S DELL HALL\n\n\n\nButler Pops Series\n\nNEW SETLIST for 2026 including music from Final Fantasy, Halo, Warcraft, Skyrim, Kingdom Hearts, Metal Gear Solid, The Last of Us, Shadow of the Colossus, Undertale, Uncharted, Okami... AND MANY MORE!\n\nBUY TICKETS!\n\nEvent Details\nDate: Friday, May 29, 2026\nTime: 7:30 P.M.\nVenue: Long Center's Dell Hall\n\nTicket Information\nCost: $39.00 - $129.00\nPhone: \n\nPresenter Details: Founded in 1911, the Austin Symphony Orchestra is the city\u2019s oldest performing arts organization. The Symphony presents a full season of musical and educational programming, including the Masterworks Series and the Butler Pops Series, which run from September through May at the state-of-the-art Joe R. &amp; Teresa Lozano Long Center for the Performing Arts. Special events include the Halloween Children\u2019s Concert, Handel\u2019s\u00a0Messiah, and free community concerts during the summer.\u00a0 The James C. Armstrong Youth Educations Programs include\u00a0ASO Tuneful Tales,\u00a0Young People\u2019s Concerts, and a variety of other\u00a0school programs.",
-    "date": "2026-05-29T19:30:00",
-    "category": "Texas"
   }
 ]
