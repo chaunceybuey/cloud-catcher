@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a569f1e18e4a2cdefe3c22f",
+    "feed_name": "Wired (Science)",
+    "title": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
+    "author": "Matthew Korfhage",
+    "link": "https://www.wired.com/story/wildfire-smoke-safety-guide/",
+    "content": "As wildfire smoke threatens air quality and safety for millions, here\u2019s your playbook to keep your family safe from the damaging effects of smoke.",
+    "date": "2026-07-16T20:41:10",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/16/dining/best-mango-dishes.html",
     "feed_name": "NYT (Food)",
     "title": "Summer Tastes Like Mango (and Vice Versa)",
@@ -19988,15 +19998,5 @@
     "content": "The activewear giant has used chemical recycling to make jersey for 16 teams competing in the tournament. But the technique is unlikely to help solve fashion\u2019s waste issue.",
     "date": "2026-05-30T08:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "0202f8b2ecbdb72a6e8eba415c029d25",
-    "feed_name": "Texas Trib",
-    "title": "ICE sued over \u201cinhumane\u201d conditions at Camp East Montana in West Texas",
-    "author": "by",
-    "link": "https://www.texastribune.org/2026/05/30/texas-ice-camp-east-montana-conditions-lawsuit/",
-    "content": "The El Paso tent camp has seen at least three detainee deaths, a measles outbreak and nearly 50 detention standards violations in less than a year of operation.",
-    "date": "2026-05-30T06:33:13",
-    "category": "Texas"
   }
 ]
