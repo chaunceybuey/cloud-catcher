@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/16/dining/best-mango-dishes.html",
+    "feed_name": "NYT (Food)",
+    "title": "Summer Tastes Like Mango (and Vice Versa)",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/07/16/dining/best-mango-dishes.html",
+    "content": "At Pata Market in Elmhurst, mango sticky rice is a summertime best seller.",
+    "date": "2026-07-16T19:46:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/16/dining/drinks/southold-wine-france.html",
+    "feed_name": "NYT (Food)",
+    "title": "These Winemakers Are Starting Over. Will the Third Time Be the Charm?",
+    "author": "Eric Asimov",
+    "link": "https://www.nytimes.com/2026/07/16/dining/drinks/southold-wine-france.html",
+    "content": "Regan and Carey Meador made great wine in Long Island and Texas but couldn\u2019t make the businesses work. Now they have relocated to Bordeaux.",
+    "date": "2026-07-16T19:17:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/16/arts/television/dave-kendall-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Dave Kendall, Creator and Host of MTV\u2019s \u2018120 Minutes,\u2019 Dies at 63",
@@ -68,6 +88,16 @@
     "content": "Dave Kendall at Limelight nightclub in New York in 1993. As the host of \u201c120 Minutes\u201d on MTV, he promoted acts like R.E.M., the Red Hot Chili Peppers and Nirvana, who became mainstream stars.",
     "date": "2026-07-16T19:04:58",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=236668",
+    "feed_name": "Texas Tribune",
+    "title": "Billionaire Reid Hoffman gives $10 million to super PAC backing Talarico\u2019s Senate bid in Texas",
+    "author": "Samanta Habashy",
+    "link": "https://feeds.texastribune.org/link/16799/17381489/texas-senate-james-talarico-super-pac-reid-hoffman-10-million-lone-star-rising",
+    "content": "Reid Hoffman, co-founder of LinkedIn, attends the annual Allen and Co. Sun Valley Media and Technology Conference at the Sun Valley Resort in Sun Valley, Idaho, on July 7, 2026.",
+    "date": "2026-07-16T18:57:14",
+    "category": "Texas"
   },
   {
     "id": "6a58ec8b589ef12506ae2ca0",
@@ -19967,36 +19997,6 @@
     "link": "https://www.texastribune.org/2026/05/30/texas-ice-camp-east-montana-conditions-lawsuit/",
     "content": "The El Paso tent camp has seen at least three detainee deaths, a measles outbreak and nearly 50 detention standards violations in less than a year of operation.",
     "date": "2026-05-30T06:33:13",
-    "category": "Texas"
-  },
-  {
-    "id": "b7d286172069568e078ec6654e347330",
-    "feed_name": "Texas Trib",
-    "title": "Texas school police pepper-sprayed, tackled and tasered students",
-    "author": "",
-    "link": "https://www.texastribune.org/2026/05/30/texas-dream-act-federal-appeals-lawsuit-2/",
-    "content": "School officers across the state turned to heavy-handed tactics on children, often in response to minor misbehavior, investigation shows.",
-    "date": "2026-05-30T05:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231997",
-    "feed_name": "Texas Tribune",
-    "title": "Outside spending blitz defined the close of Texas\u2019 District 35 Democratic runoff",
-    "author": "Olivia Borgula",
-    "link": "https://feeds.texastribune.org/link/16799/17351070/texas-35th-congressional-district-maureen-galindo-johnny-garcia-outside-spending-gop-pac",
-    "content": "Johnny Garcia, the Democratic nominee for Texas&#039;s 35th Congressional District.",
-    "date": "2026-05-29T22:57:22",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231974",
-    "feed_name": "Texas Tribune",
-    "title": "Members of pro-immigration group hit by Trump crackdown on immigration",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17351032/immigration-crackdown-hits-texas-nonprofit",
-    "content": "Attendees listen to LUPE staff members during a training to prepare people for the incoming Trump administration&#039;s deportation plans on Dec. 6, 2024 in San Juan.",
-    "date": "2026-05-29T21:56:00",
     "category": "Texas"
   }
 ]
