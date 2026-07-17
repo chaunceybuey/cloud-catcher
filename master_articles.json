@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "7c9db53f38d46352bef3a3b7d482cbce",
+    "feed_name": "The Atlantic",
+    "title": "The Attention-Span Class Divide",
+    "author": "Xochitl Gonzalez",
+    "link": "https://www.theatlantic.com/ideas/2026/07/attention-span-class-divide-ballet-opera-movies/687919/",
+    "content": "Who can afford to sit still at the movies?",
+    "date": "2026-07-17T13:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "ac25ab2447af42aa62f06d91bf1b1808",
     "feed_name": "LRB",
     "title": "Evicted",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/01/arts/television/popcast-euphoria-sam-levinson-interview.html",
     "content": "In an exclusive interview, Sam Levinson explained why he felt it was time to bring the series to a close and responded to its detractors.",
     "date": "2026-06-01T04:04:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/31/theater/and-then-the-rodeo-burned-down-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018And Then the Rodeo Burned Down\u2019 Review: Tenderness as Transgression",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/05/31/theater/and-then-the-rodeo-burned-down-review.html",
-    "content": "In their Off Broadway debut at Ars Nova, Xhloe and Natasha play two rodeo clowns, until the lights go out and the show takes a turn.",
-    "date": "2026-06-01T01:15:03",
     "category": "NYT"
   }
 ]
