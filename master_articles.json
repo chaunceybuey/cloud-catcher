@@ -60,6 +60,116 @@
     "category": "Texas"
   },
   {
+    "id": "6a5945d2f4f5048d46b3fb4c",
+    "feed_name": "Wired (Science)",
+    "title": "The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/",
+    "content": "\u201cBased on simple math, these outbreak responses\u2014which require rapid, timely responses\u2014are going to be greatly diminished,\u201d the former CDC lab director tells WIRED.",
+    "date": "2026-07-17T09:15:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/movies/five-free-movies-to-stream-now.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Free Movies to Stream Now",
+    "author": "Brandon Yu",
+    "link": "https://www.nytimes.com/2026/07/17/movies/five-free-movies-to-stream-now.html",
+    "content": "This month\u2019s picks include epics from Werner Herzog and Akira Kurosawa, along with one of the most quintessential New York movies.",
+    "date": "2026-07-17T09:02:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/arts/music/internet-syd-steve-lacy-interview.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Internet\u2019s Steve Lacy, Syd and Matt Martians Discuss New Music",
+    "author": "Jon Caramanica, Joe Coscarelli and Caroline Tompkins",
+    "link": "https://www.nytimes.com/2026/07/17/arts/music/internet-syd-steve-lacy-interview.html",
+    "content": "The band members Steve Lacy and Syd, both of whom have new solo albums out now, reunite with the producer Matt Martians to discuss achieving TikTok fame, writing a Beyonc\u00e9 song and staying a family.",
+    "date": "2026-07-17T09:02:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/movies/new-movies-this-week-critics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 New Movies Our Critics Are Talking About This Week",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/07/17/movies/new-movies-this-week-critics.html",
+    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+    "date": "2026-07-17T09:02:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Has the World Cup Turned Me Into \u2026 a Sports Guy?",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html",
+    "content": "The spectacle of the World Cup, which wraps up on Sunday, stretches far beyond the pitch.",
+    "date": "2026-07-17T09:01:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/theater/shifters-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Shifters\u2019 Review: Fast-Forwarding Through a Predictable Romance",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/07/17/theater/shifters-review.html",
+    "content": "Des (Heather Agyepong) and Dre (Daniel Ezra), navigate a mutual magnetic pull in this British love story by Benedict Lombe at Cherry Lane Theater.",
+    "date": "2026-07-17T09:01:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/arts/music/gary-stewart-country-music.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Rediscovery of Country Original Gary Stewart",
+    "author": "Bob Mehr",
+    "link": "https://www.nytimes.com/2026/07/17/arts/music/gary-stewart-country-music.html",
+    "content": "Gary Stewart spent a few years on top, but was largely forgotten after his tragic death in 2003. Now a new generation is rediscovering the onetime \u201cking of honky-tonk.\u201d",
+    "date": "2026-07-17T09:00:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Heartstopper Forever\u2019: What to Know Before Seeing the Movie",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
+    "content": "The Netflix series and its feature-length finale are based on the graphic novels by Alice Oseman. Here\u2019s a reminder of the events of the characters and where their stories left of.",
+    "date": "2026-07-17T09:00:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Christopher Nolan on \u2018The Odyssey\u2019 and IMAX Technical Challenges",
+    "author": "Melena Ryzik",
+    "link": "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html",
+    "content": "\u201cI called up my friends at IMAX,\u201d Christopher Nolan said. \u201cI couldn\u2019t tell them what the movie was yet, but I said if ever we were going to do a film all in IMAX, this is the one.\u201d",
+    "date": "2026-07-17T09:00:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/arts/design/my-5-favorite-places-for-art-in-venice.html",
+    "feed_name": "NYT (Arts)",
+    "title": "My 5 Favorite Places for Art in Venice",
+    "author": "Jason Farago",
+    "link": "https://www.nytimes.com/2026/07/17/arts/design/my-5-favorite-places-for-art-in-venice.html",
+    "content": "Our critic Jason Farago shares what you shouldn\u2019t miss in a city full of secrets and surprises.",
+    "date": "2026-07-17T09:00:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/books/the-odyssey-books.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Want More of the \u2018Odyssey\u2019? Read These Books Next",
+    "author": "Calum Marsh",
+    "link": "https://www.nytimes.com/2026/07/17/books/the-odyssey-books.html",
+    "content": "Informative histories, modern retellings and genre-bending homages will take you back to the long road to Ithaca.",
+    "date": "2026-07-17T09:00:25",
+    "category": "NYT"
+  },
+  {
     "id": "e1267c99bff64c3ba2d4b4709c2c2a97",
     "feed_name": "LRB",
     "title": "On Politics: The Pope and the President",
@@ -19887,116 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/31/dining/grilled-zaatar-chicken-lemon-sorbet-and-more-alfresco-daydreams.html",
     "content": "Melissa Clark\u2019s grilled za\u2019atar chicken with garlic yogurt and cilantro.",
     "date": "2026-05-31T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/31/dining/dijon-chicken-tomatoes-and-scallions.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Dijon Chicken, Tomatoes and Scallions",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/05/31/dining/dijon-chicken-tomatoes-and-scallions.html",
-    "content": "And more recipes to harness a fresh jar of eye-watering-in-a-good-way mustard.",
-    "date": "2026-05-31T14:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "9486ad3882ea9ab9a1fbb65381d7f715",
-    "feed_name": "The Atlantic",
-    "title": "The Scariest Monster on Broadway",
-    "author": "Yair Rosenberg",
-    "link": "https://www.theatlantic.com/ideas/2026/05/roald-dahl-play-giant-antisemitism/687373/",
-    "content": "A new play about Roald Dahl and his anti-Jewish prejudice captures uncomfortable truths.",
-    "date": "2026-05-31T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/31/arts/music/recess-festival-margate-london.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Festival of Black Culture With a \u201990s Vibe",
-    "author": "Kadish Morris and Sophie Stafford",
-    "link": "https://www.nytimes.com/2026/05/31/arts/music/recess-festival-margate-london.html",
-    "content": "The brothers behind the London party organizers Recess decamped to a seaside amusement park for a two-day event channeling an earlier era of Black British nightlife.",
-    "date": "2026-05-31T09:02:06",
-    "category": "NYT"
-  },
-  {
-    "id": "6a15a969fafbd32f2a6d2b95",
-    "feed_name": "Wired (Science)",
-    "title": "How Turkey Hacked the Hair Transplant Industry",
-    "author": "Levent Da\u015fk\u0131ran",
-    "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "content": "From specialized motors to the use of machine learning algorithms, Turkey\u2019s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
-    "date": "2026-05-31T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "16aeaa76deb9e1616e19878675220356",
-    "feed_name": "Texas Trib",
-    "title": "Elected Officials Directory",
-    "author": "",
-    "link": "https://www.texastribune.org/2018/02/20/directory-5/",
-    "content": "To help Texans know more about their representatives, we\u2019ve gathered the bios, contact information and more for the occupants of the state\u2019s highest offices.",
-    "date": "2026-05-31T01:06:32",
-    "category": "Texas"
-  },
-  {
-    "id": "4ff98f513c4b0793dde8ad798a0feb4b",
-    "feed_name": "Texas Trib",
-    "title": "Government Salaries Explorer",
-    "author": "",
-    "link": "https://www.texastribune.org/2018/02/20/salaries-texastribune-org-6/",
-    "content": "Review the compensation of hundreds of thousands of state and municipal employees in Texas.",
-    "date": "2026-05-31T01:06:32",
-    "category": "Texas"
-  },
-  {
-    "id": "20420c6742705874fc6a50538255a731",
-    "feed_name": "Texas Trib",
-    "title": "Texas Public Schools Explorer",
-    "author": "",
-    "link": "https://www.texastribune.org/2018/02/20/schools-texastribune-org/",
-    "content": "Review enrollment trends, demographics, teacher experience, pay and outcomes for all schools, and more.",
-    "date": "2026-05-31T01:06:32",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Trump Suggests He\u2019ll Headline Freedom 250 Concerts After Artists Drop Off",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html",
-    "content": "President Trump at an event in Suffern, N.Y., last week.",
-    "date": "2026-05-30T20:34:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/20313-austin-cantorum-alimental-songs-of-hunger-and-harvest",
-    "feed_name": "KMFA",
-    "title": "Austin Cantorum: Alimental | Songs of Hunger and Harvest",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/20313-austin-cantorum-alimental-songs-of-hunger-and-harvest",
-    "content": "AUSTIN CANTORUM\n\nALIMENTAL\n\nSONGS OF HUNGER AND HARVEST\n\nMAY 30 AT FIRST\u00a0ENGLISH LUTHERAN | MAY 31 AT SHEHERD OF THE HILLS\n\n\n\nJoin Austin Cantorum for a musical feast!\u00a0 Exploring choral music that celebrates regional cuisine, reflects on the nature of hunger, and examines what it means to have a purposeful relationship with the food we eat. This program connects us together through two universal languages: music and food! Featuring Pianist Dr. Gloria Kim, percussionist Jordan Walsh, and choral selections from Sydney Guillaume, Thomas LaVoy, \u00a0Anna-Mari K\u00e4h\u00e4r\u00e4, and more!\u00a0 We're also holding a canned food drive as part of the event to benefit the Central Texas Food Bank: bring non-perishable items to donate to families in need. \u00a0 Admission is FREE with suggested donation of $25. RSVP today to secure your spot!\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, May 30, 2026 & Sunday May 31, 2026\nTime: Saturday at 7:30 P.M. | Sunday at 3:00 P.M.\nVenue: First English Lutheran Church & Shepherd of the Hills Christian Church\n\nTicket Information\nCost: Admission is FREE with suggested donation of $25\nPhone: \n\nPresenter Details: Austin Cantorum is a chamber choir that creates unique and powerful musical experiences through creative programming, thematic storytelling, and personal connection.\u00a0 Cantorum concerts are illuminating and meditative and they allow listeners to connect to something primal yet otherworldly. \u00a0Through choral music, we strive to give audiences moments of clarity and the space to feel centered, connected, and whole.",
-    "date": "2026-05-30T19:30:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/19917-austin-wine-food-foundation-hill-country-galleria-wine-food-festival",
-    "feed_name": "KMFA",
-    "title": "Austin Wine &amp; Food Foundation: Hill Country Galleria Wine &amp; Food Festival",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/19917-austin-wine-food-foundation-hill-country-galleria-wine-food-festival",
-    "content": "AUSTIN WINE &amp; FOOD FOUNDATION PRESENTS\n\nHILL COUNTRY GALLERIA WINE &amp; FOOD FESTIVAL\n\nMAY 30 | 4 P.M. - 7P.M. | HILL COUNTRY GALLERIA\n\n\n\nSip, savor, and soak it all in. The Hill Country Galleria Wine &amp; Food Festival is a sun-drenched afternoon of great wine, delicious food, live music, and good company, right in the heart of the Texas Hill Country.\n\nExplore warm-weather-friendly wines from across the Mediterranean and beyond, graze through bites from local vendors, and let the music set the mood. Whether you\u2019re a seasoned wine lover or just here for a good time, this is your kind of Saturday!\n\nAll Proceeds benefit the\u00a0Austin Wine &amp; Food Foundation.\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, May 30, 2026\nTime: 4:00 P.M. - 7:00 P.M.\nVenue: Hill Country Galleria\n\nTicket Information\nCost: Starting at $20.00\nPhone: \n\nPresenter Details: The Austin Wine &amp; Food Foundation engages a vibrant community of local wine-lovers and food enthusiasts through 50+ top-notch tasting events each year. From intimate gatherings with visiting winemakers and sommelier-led educational classes to our signature premier events \u2014 Big Reds &amp; Bubbles, Toast of Texas, and our flagship Austin Wine Auction &amp; Gala Weekend \u2014 we offer unique programming curated for local wine and food enthusiasts, which enables us to fundraise in support of our neighbors in need.",
-    "date": "2026-05-30T16:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/30/dining/a-frosty-glass-of-greens.html",
-    "feed_name": "NYT (Food)",
-    "title": "A Frosty Glass of Greens",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/05/30/dining/a-frosty-glass-of-greens.html",
-    "content": "Veggies Natural Juice Bar & Cafe\u2019s green smoothie, adapted by Ali Slagle.",
-    "date": "2026-05-30T15:00:06",
     "category": "NYT"
   }
 ]
