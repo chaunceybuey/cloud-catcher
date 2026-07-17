@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/17/arts/dance/mark-morris-dances-to-american-music.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mark Morris: A Little Bit Country, a Little Bit Jazz",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/07/17/arts/dance/mark-morris-dances-to-american-music.html",
+    "content": "Morris\u2019s dance troupe presents \u201cDances to American Music,\u201d three programs at the Joyce Theater.",
+    "date": "2026-07-17T16:19:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/17/movies/ross-mcelwee-the-real-world-nathan-fielder.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Real World\u2019 and Nathan Fielder Can Both Thank Ross McElwee",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/01/theater/joaquin-mark-consuelos-broadway-salesman-fallen-angels.html",
     "content": "\u201cI\u2019m already sad that it\u2019s going to be over,\u201d Joaquin Consuelos said. \u201cAnd now I want to do everything. I don\u2019t want to limit myself.\u201d",
     "date": "2026-06-01T09:02:21",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/01/arts/west-end-london-whats-on.html",
-    "feed_name": "NYT (Arts)",
-    "title": "What\u2019s On in London Theaters This Summer",
-    "author": "Matt Wolf",
-    "link": "https://www.nytimes.com/2026/06/01/arts/west-end-london-whats-on.html",
-    "content": "Catherine Tate, Greek classics and plenty in between \u2014 here\u2019s our selection of West End productions for Londoners and visitors to check out over the coming months.",
-    "date": "2026-06-01T09:02:13",
     "category": "NYT"
   }
 ]
