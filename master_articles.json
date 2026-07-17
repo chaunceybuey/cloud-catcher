@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/17/arts/design/ana-mendieta-tate-modern.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Burning, Bleeding, Breathing Art of Ana Mendieta",
+    "author": "Emily LaBarge",
+    "link": "https://www.nytimes.com/2026/07/17/arts/design/ana-mendieta-tate-modern.html",
+    "content": "A Tate Modern survey of the artist\u2019s lifetime of work sidesteps chronology to focus on her engagement with nature. But does that give us the whole picture?",
+    "date": "2026-07-17T11:17:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/alice-sebold-anthony-broadwater-rape-case-prosecutorial-misconduct-bennett-gershman",
     "feed_name": "ProPublica",
     "title": "How a Paid Expert Reversed His View of a Notoriously Flawed Prosecution in the Rape of a Bestselling Author",
@@ -19988,15 +19998,5 @@
     "content": "The horror film, which cost $10 million and came from a 20-year-old filmmaker, added to evidence that young people will go to theaters for the right offering.",
     "date": "2026-05-31T17:28:54",
     "category": "NYT"
-  },
-  {
-    "id": "13274dba7cd16201351649af15f7138e",
-    "feed_name": "The Atlantic",
-    "title": "The Race That Changed the Country",
-    "author": "Eric Moskowitz",
-    "link": "https://www.theatlantic.com/ideas/2026/05/race-guggenheim-cup-cars/687352/",
-    "content": "At the dawn of the automobile age, four teams set out to test the limits of their machines\u2014and of human endurance.",
-    "date": "2026-05-31T15:31:04",
-    "category": "Magazines"
   }
 ]
