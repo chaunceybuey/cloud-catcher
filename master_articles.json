@@ -70,6 +70,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Heartstopper Forever\u2019 Review: Facing a Grown-Up Reality",
+    "author": "Chris Azzopardi",
+    "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-review.html",
+    "content": "The glossy Netflix series graduates into adulthood with this movie starring Kit Connor and Joe Locke as a couple with thoughts of college ahead.",
+    "date": "2026-07-17T07:01:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Is Amused by Alleged White House Teleprompter Grift",
@@ -19988,15 +19998,5 @@
     "content": "Vaughn Vreeland\u2019s cosmic blondies.",
     "date": "2026-05-30T14:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "e1267c99bff64c3ba2d4b4709c2c2a97",
-    "feed_name": "LRB",
-    "title": "On Politics: The Pope and the President",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-pope-and-the-president",
-    "content": "When commenting on the power and influence of the Catholic Church, Stalin is supposed to have asked: \u2018how many divisions has the pope?\u2019 Donald Trump has yet to question how many F35s Leo XIV has, but he may as well have done in his angry response to the American pope\u2019s criticism of the US and Israel\u2019s attack on Iran. With the US president\u2019s supporters invoking the...",
-    "date": "2026-05-30T13:43:31",
-    "category": "Magazines"
   }
 ]
