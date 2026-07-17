@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "ac25ab2447af42aa62f06d91bf1b1808",
+    "feed_name": "LRB",
+    "title": "Evicted",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/july/evicted",
+    "content": "The masked men had hidden the identification on their olive green private security uniforms. They wore sunglasses, body cameras and a variety.\u00a0.\u00a0.",
+    "date": "2026-07-17T11:35:04",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/17/arts/design/ana-mendieta-tate-modern.html",
     "feed_name": "NYT (Arts)",
     "title": "The Burning, Bleeding, Breathing Art of Ana Mendieta",
@@ -68,6 +78,16 @@
     "content": "A Tate Modern survey of the artist\u2019s lifetime of work sidesteps chronology to focus on her engagement with nature. But does that give us the whole picture?",
     "date": "2026-07-17T11:17:03",
     "category": "NYT"
+  },
+  {
+    "id": "b8231ee349257e07a86751a28e2fbb93",
+    "feed_name": "The Atlantic",
+    "title": "Just Pay the NIMBYs",
+    "author": "Rog\u00e9 Karma",
+    "link": "https://www.theatlantic.com/ideas/2026/07/housing-shortage-pay-nimby/687932/",
+    "content": "The biggest obstacle to building new housing is local resistance. But everyone has a price.",
+    "date": "2026-07-17T11:00:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.propublica.org/article/alice-sebold-anthony-broadwater-rape-case-prosecutorial-misconduct-bennett-gershman",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/31/theater/and-then-the-rodeo-burned-down-review.html",
     "content": "In their Off Broadway debut at Ars Nova, Xhloe and Natasha play two rodeo clowns, until the lights go out and the show takes a turn.",
     "date": "2026-06-01T01:15:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/31/arts/television/love-island-usa-contestant-dismissed-racist-slur.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Vasana Montgomery, \u2018Love Island USA\u2019 Contestant, Dismissed After Using Racial Slur",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/05/31/arts/television/love-island-usa-contestant-dismissed-racist-slur.html",
-    "content": "Two videos of Vasana Montgomery, 25, using a racial slur surfaced on social media last week.",
-    "date": "2026-05-31T18:48:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/31/business/media/young-moviegoers-backrooms-a24-box-office.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Young Moviegoers Power \u2018Backrooms\u2019 to $82 Million in Ticket Sales",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/05/31/business/media/young-moviegoers-backrooms-a24-box-office.html",
-    "content": "The horror film, which cost $10 million and came from a 20-year-old filmmaker, added to evidence that young people will go to theaters for the right offering.",
-    "date": "2026-05-31T17:28:54",
     "category": "NYT"
   }
 ]
