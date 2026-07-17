@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=236823",
+    "feed_name": "Texas Tribune",
+    "title": "New flooding haunts Hill Country residents a year after historic disaster",
+    "author": "Ayden Runnels and Ellie Ashby",
+    "link": "https://feeds.texastribune.org/link/16799/17381647/texas-hill-country-flood-residents-anxiety-one-year-later",
+    "content": "Sherri Steadham stands on her front lawn after floodwaters from the Guadalupe River receded from near her home in Center Point on July 16, 2026.",
+    "date": "2026-07-17T02:06:25",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=236830",
+    "feed_name": "Texas Tribune",
+    "title": "At a Houston funeral home, a community comes together to pay respects to Lorenzo Salgado Araujo",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17381648/texas-ice-shooting-lorenzo-salgado-public-viewing-houston",
+    "content": "Ronaldo Salgado, center, gets a hug from an attendee during a public visitation for his father Lorenzo Salgado Araujo on July 16, 2026, in Houston. Salgado Araujo was fatally shot by an immigration agent on July 7 in Houston.",
+    "date": "2026-07-17T02:05:51",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236620",
     "feed_name": "Texas Tribune",
     "title": "Paxton and Talarico open battle for South Texas with dueling rallies, diverging pitches",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/30/opinion/murder-crime-rate-america.html",
     "content": "A low murder rate is by no means the only measure of a good society. But it\u2019s a pretty good measure of a society\u2019s underlying stability.",
     "date": "2026-05-30T11:00:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231797",
-    "feed_name": "Texas Tribune",
-    "title": "Texas school police pepper-sprayed, tackled and tasered students",
-    "author": "Story By\u00a0Clare Amari, Kristian Hern\u00e1ndez and Asher Lehrer-Small.\u00a0Photographs by Meridith Kohut\u00a0| The New York Times",
-    "link": "https://feeds.texastribune.org/link/16799/17351207/texas-dream-act-federal-appeals-lawsuit-2",
-    "content": "Texas is home to nearly 400 school district police departments, more than all other states combined. Officers across the state have grabbed, tackled and shocked students.",
-    "date": "2026-05-30T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 Takeaways From a Kennedy Center Ruling That Angered Trump",
-    "author": "Zach Montague and Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html",
-    "content": "President Trump, the chairman of the Kennedy Center, wrote on social media that \u201cwe are going to be working with Congress to transfer this failing Institution back to them.\u201d",
-    "date": "2026-05-30T09:02:55",
     "category": "NYT"
   }
 ]
