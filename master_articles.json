@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://stratechery.com/?p=19520",
+    "feed_name": "Stratechery",
+    "title": "2026.29: Mainframes and Main Characters",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/mainframes-and-main-characters/",
+    "content": "<figure class=\"wp-block-image size-full is-resized\"><img alt=\"\" class=\"wp-image-19530\" height=\"564\" src=\"https://i0.wp.com/stratechery.com/wp-content/uploads/2026/07/twis-ibm-openai-1.png?resize=1330%2C564&#038;ssl=1\" style=\"width: 665px; height: auto;\" width=\"1330\" /><figcaption class=\"wp-element-caption\">Jean Pigozzi via Andy Hertzfeld on left, GenAI via Muse Image on right</figcaption></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Welcome back to This Week in Stratechery!</p>\n\n\n\n<p class=\"wp-block-paragraph\">As a reminder, each week, every Friday, we&#8217;re sending out this overview of content in the Stratechery bundle; <span class=\"passport-tokenized-link\">highlighted links are free for everyone</span>. Additionally, you have complete control over what we send to you. If you don&#8217;t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in <a href=\"https://stratechery.passport.online/member/account/delivery\">your delivery settings</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">On that note, here were a few of our favorites this week.</p>\n\n\n\n<ol class=\"wp-block-list is-style-default\">\n<li><strong>The End of the Mainframe?</strong> IBM&#8217;s stock experienced the worst day in its history, which is saying something considering the company has been a public stock for 115 years. The product most synonymous with that history is the mainframe computer; mainframes defined <a href=\"https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/\"><span class=\"passport-tokenized-link\">the first wave of IT</span></a>, and they are so useful and essential that IBM&#8217;s customer base is largely the same as it was half a century ago. Now, however, mainframe sales and the software that runs on them are faltering; management blamed AI spend, but as I argued in <a href=\"https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/\">Wednesday&#8217;s Update</a>, the real concern for IBM is that AI&#8217;s ability to port the essential backend programs that run on archaic technology will mean those missed sales never come back. <em>\u2014</em> <em>Ben Thompson</em></li>\n</ol>\n\n\n\n<span id=\"more-19520\"></span>\n\n\n\n<ol class=\"wp-block-list is-style-default\" start=\"2\">\n<li><strong>The Continuing Adventures of OpenAI.&nbsp;</strong>The fun with OpenAI never ends, and the middle of the summer is no exception. In <a href=\"https://stratechery.com/2026/apple-sues-openai-apples-real-problem/\">Monday&#8217;s Update</a> Ben parsed a new lawsuit from Apple that looks like more smoke than fire, and in <a href=\"https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/\">Tuesday&#8217;s Update</a> he doubled back to cover the revamped ChatGPT app on the Mac and what it signals about the company&#8217;s priorities going forward. On <a href=\"https://sharptech.fm/member/episode/the-continuing-adventures-of-open-ai-apples-trade-secrets-lawsuit-q-a-on-mainframes-meta-daylight-savings-time\">this week&#8217;s episode of Sharp Tech</a>, and <a href=\"https://dithering.passport.online/member/episode/open-ai-hardware\">both episodes of Dithering</a>, we discussed all these topics, as well the reports of OpenAI&#8217;s new hardware product <em>\u2014</em> an ambient speaker, with robotic components <em>\u2014</em> and why that idea sounds like a great first experiment in the hardware category.&nbsp;<em>\u2014</em> <em>Andrew Sharp</em><br /><br /></li>\n\n\n\n<li><strong>Is Netflix Washed? </strong>It was only last December that Netflix was set to buy Warner Bros. Discovery, dominate Hollywood in perpetuity, and compete with YouTube using a massive library of hit franchises and HBO IP. That idea was abandoned in February and it&#8217;s been a rocky year ever since, including another hit to the stock on Thursday and Friday. <a href=\"https://sharptext.net/2026/is-netflix-washed-now/\"><span class=\"passport-tokenized-link\">I wrote about all of it on Sharp Text this week</span></a>, where I marvel at how disposable the original content has become and argue that the attempts to retain attention by mimicking YouTube (and possibly Tubi?) have left the biggest premium\u00a0platform in the world looking more mortal than ever.\u00a0<em>\u2014</em> <em>AS</em></li>\n</ol>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Stratechery Articles and Updates</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://stratechery.com/2026/apple-sues-openai-apples-real-problem/\">Apple Sues OpenAI, Apple\u2019s Real Problem</a> <em>\u2014 Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/\">The OpenAI Super App, ChatGPT = Codex, Whither Chat</a> <em>\u2014 OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/\">IBM Misses, IBM\u2019s Mainframe Moat, IBM\u2019s Many AI Problems</a> <em>\u2014 IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Text by Andrew Sharp</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptext.net/2026/is-netflix-washed-now/\"><span class=\"passport-tokenized-link\">Is Netflix Washed Now?</span></a> \u2014 <em>Watching Netflix as the platform exits its prime.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Dithering with Ben Thompson and Daring Fireball&#8217;s John Gruber</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dithering.passport.online/member/episode/apple-sues-open-ai\"><span class=\"passport-tokenized-link\">Apple Sues OpenAI</span></a></li>\n\n\n\n<li><a href=\"https://dithering.passport.online/member/episode/open-ai-hardware\">OpenAI Hardware</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Asianometry with Jon Yu</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://asianometry.passport.online/member/episode/the-cochlear-ear-miracle\">The Cochlear Ear Miracle</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp China with Andrew Sharp and Sinocism&#8217;s Bill Bishop</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharpchina.fm/member/episode/k-shaped-economic-data-and-its-implications-ma-xingrui-news-closing-window-for-open-source-ai-the-scs-and-international-law\">K-Shaped Economic Data And Its Implications; Ma Xingrui News; Closing Window for Open Source AI?; The SCS and International Law</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Greatest of All Talk</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://goat.passport.online/member/episode/everyone-at-summer-league-is-thrilled-the-summer-of-second-apron-angst-how-to-be-an-nba-gm\">Everyone at Summer League Is Thrilled, The Summer of Second Apron Angst, How to Be an NBA GM</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Tech with Andrew Sharp and Ben Thompson</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptech.fm/member/episode/the-continuing-adventures-of-open-ai-apples-trade-secrets-lawsuit-q-a-on-mainframes-meta-daylight-savings-time\">The Continuing Adventures of OpenAI, Apple\u2019s Trade Secrets Lawsuit, Q&amp;A on Mainframes, Meta, Daylight Savings Time</a></li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">This week&#8217;s Stratechery video is on <a href=\"https://stratechery.com/2026/a-script-for-mark-zuckerberg/\"><span class=\"passport-tokenized-link\">A Script for Mark Zuckerberg</span></a>.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\"></p>",
+    "date": "2026-07-17T17:00:00",
+    "category": "Tech"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/movies/brenda-fricker-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Brenda Fricker, First Irish Actress to Win an Oscar, Dies at 81",
+    "author": "Natasha King",
+    "link": "https://www.nytimes.com/2026/07/17/movies/brenda-fricker-dead.html",
+    "content": "She won for playing a stoic mother in \u201cMy Left Foot\u201d (1989) and achieved cult status as a pigeon whisperer in Central Park in \u201cHome Alone 2\u201d (1992).",
+    "date": "2026-07-17T16:53:25",
+    "category": "NYT"
+  },
+  {
+    "id": "b2894b134620c654fc780b89d2a89b05",
+    "feed_name": "The Atlantic",
+    "title": "Susan Collins Is Not Concerned About Election Denial",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/07/trump-speech-election-integrity-republicans/687978/",
+    "content": "Mortal threats to the republic are apparently a sideshow that distracts from cutting taxes, confirming judges, and deregulation.",
+    "date": "2026-07-17T16:43:33",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/17/arts/dance/mark-morris-dances-to-american-music.html",
     "feed_name": "NYT (Arts)",
     "title": "Mark Morris: A Little Bit Country, a Little Bit Jazz",
@@ -19968,35 +19998,5 @@
     "content": "Corpus Christi City Manager Peter Zanoni leads the city&#039;s Friday news conference from the city hall council chambers and discusses ongoing water issues.",
     "date": "2026-06-01T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231266",
-    "feed_name": "Texas Tribune",
-    "title": "How Cherokee farming traditions are transforming one Texas school",
-    "author": "By Acacia Coronado,\u00a0Austin Current",
-    "link": "https://feeds.texastribune.org/link/16799/17352273/texas-school-cherokee-farming-traditions",
-    "content": "Cunningham Elementary school students take home plants from the Partners for Education, Agriculture, and Sustainability (PEAS) school garden on April 28, 2026.",
-    "date": "2026-06-01T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/01/arts/television/hoyt-richards-bring-me-the-beauties-model-cult-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Hoyt Richards, Former Model, on \u2018Bring Me The Beauties\u2019 and How to Escape a Cult",
-    "author": "Dina Gachman",
-    "link": "https://www.nytimes.com/2026/06/01/arts/television/hoyt-richards-bring-me-the-beauties-model-cult-interview.html",
-    "content": "Richards, a globe-trotting former model, discusses \u201cBring Me the Beauties: A Model Cult,\u201d a new three-part docuseries on HBO.",
-    "date": "2026-06-01T09:02:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/01/theater/joaquin-mark-consuelos-broadway-salesman-fallen-angels.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mark and Joaquin Consuelos, Father and Son, Make Broadway Debuts Together",
-    "author": "Michael Paulson and OK McCausland",
-    "link": "https://www.nytimes.com/2026/06/01/theater/joaquin-mark-consuelos-broadway-salesman-fallen-angels.html",
-    "content": "\u201cI\u2019m already sad that it\u2019s going to be over,\u201d Joaquin Consuelos said. \u201cAnd now I want to do everything. I don\u2019t want to limit myself.\u201d",
-    "date": "2026-06-01T09:02:21",
-    "category": "NYT"
   }
 ]
