@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/17/dining/world-cup-senegal-fans-harlem.html",
+    "feed_name": "NYT (Food)",
+    "title": "How Senegal Spread Its Hospitality in Harlem",
+    "author": "McGraw Wolfman",
+    "link": "https://www.nytimes.com/2026/07/17/dining/world-cup-senegal-fans-harlem.html",
+    "content": "As Senegal advanced in the World Cup, its fans found the flavors of home on 116th Street.",
+    "date": "2026-07-17T19:23:46",
+    "category": "NYT"
+  },
+  {
+    "id": "6a5a41004b54be8a5a7b9aca",
+    "feed_name": "Wired (Science)",
+    "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
+    "content": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
+    "date": "2026-07-17T19:17:46",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236918",
     "feed_name": "Texas Tribune",
     "title": "Sex abuse victim family says they\u2019re \u201ctired of being used\u201d for politics amid Talarico attacks",
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/magazine/2026/07/free-press-first-amendment-rights/687317/",
     "content": "Freedom of speech, and of the press, can be guaranteed only if Americans exercise their rights.",
     "date": "2026-06-01T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a187520931e039d612e0957",
-    "feed_name": "Wired",
-    "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
-    "author": "Carlos Barrag\u00e1n",
-    "link": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
-    "content": "In this excerpt from WIRED Book Club pick The Yahoo Boys, journalist Carlos Barrag\u00e1n traces one scammer\u2019s journey from flop to fortune.",
-    "date": "2026-06-01T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a19f1ccab5c174f580213ff",
-    "feed_name": "Wired (Science)",
-    "title": "\u2018Sexual Chocolate\u2019 Faces Recalls After FDA Tests Reveal Undisclosed Viagra",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/",
-    "content": "Sellers of products with names like Boner Bears and DTF have voluntarily recalled their products after testing positive for the active ingredients in Viagra and Cialis.",
-    "date": "2026-06-01T10:30:00",
     "category": "Magazines"
   }
 ]
