@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/17/movies/ross-mcelwee-the-real-world-nathan-fielder.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Real World\u2019 and Nathan Fielder Can Both Thank Ross McElwee",
+    "author": "Alissa Wilkinson",
+    "link": "https://www.nytimes.com/2026/07/17/movies/ross-mcelwee-the-real-world-nathan-fielder.html",
+    "content": "Ross McElwee\u2019s documentaries have shaped reality TV, comedy, podcasts and more in ways that you may not realize.",
+    "date": "2026-07-17T15:56:27",
+    "category": "NYT"
+  },
+  {
     "id": "7b429acd5136803923177cf1593ea6c0",
     "feed_name": "LRB",
     "title": "England\u2019s Birthright Citizenship",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/01/arts/west-end-london-whats-on.html",
     "content": "Catherine Tate, Greek classics and plenty in between \u2014 here\u2019s our selection of West End productions for Londoners and visitors to check out over the coming months.",
     "date": "2026-06-01T09:02:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/01/arts/pride-month-comic-books-graphic-novels.html",
-    "feed_name": "NYT (Arts)",
-    "title": "9 Comic Books and Graphic Novels to Celebrate Pride Month",
-    "author": "George Gene Gustines",
-    "link": "https://www.nytimes.com/2026/06/01/arts/pride-month-comic-books-graphic-novels.html",
-    "content": "Historical chronicles and flights of fancy, all with L.G.B.T.Q. protagonists, arrive starting in June.",
-    "date": "2026-06-01T09:00:54",
     "category": "NYT"
   }
 ]
