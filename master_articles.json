@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=236918",
+    "feed_name": "Texas Tribune",
+    "title": "Sex abuse victim family says they\u2019re \u201ctired of being used\u201d for politics amid Talarico attacks",
+    "author": "Taylor Goldenstein",
+    "link": "https://feeds.texastribune.org/link/16799/17382037/james-talarico-adam-hoffman-victim-politics-senate-ken-paxton",
+    "content": "State Rep. and Democratic nominee for U.S. Senate James Talarico holds a press conference to share a major announcement that the office of attorney general will not release any more files relating to former Waco attorney Adam Hoffman in downtown Austin on July 9, 2026.",
+    "date": "2026-07-17T18:26:21",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/17/arts/music/x-music-lawsuits.html",
     "feed_name": "NYT (Arts)",
     "title": "X and Music Publishers Retreat From Lawsuits",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/",
     "content": "Sellers of products with names like Boner Bears and DTF have voluntarily recalled their products after testing positive for the active ingredients in Viagra and Cialis.",
     "date": "2026-06-01T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "69c6afbd4593d05c6cdc646d",
-    "feed_name": "Wired",
-    "title": "The Painful Truth About Long Covid",
-    "author": "Alan Levinovitz",
-    "link": "https://www.wired.com/story/the-painful-truth-about-long-covid/",
-    "content": "There might finally be a way forward for long Covid treatment\u2014if only you were allowed to talk about it.",
-    "date": "2026-06-01T10:00:00",
     "category": "Magazines"
   }
 ]
