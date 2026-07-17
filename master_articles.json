@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-review-facing-a-grown-up-reality.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Heartstopper Forever\u2019 Review: Facing a Grown-Up Reality",
+    "author": "Chris Azzopardi",
+    "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-review-facing-a-grown-up-reality.html",
+    "content": "The glossy Netflix series graduates into adulthood with this movie starring Kit Connor and Joe Locke as a couple with thoughts of college ahead.",
+    "date": "2026-07-17T07:01:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Is Amused by Alleged White House Teleprompter Grift",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html",
+    "content": "Hosts responded on Thursday to a teleprompter operator reportedly winning around $100,000 betting on what President Trump would say in his speeches.",
+    "date": "2026-07-17T07:00:13",
+    "category": "NYT"
+  },
+  {
     "id": "0d713baf20170c1ac64217c883f9c398",
     "feed_name": "The Atlantic",
     "title": "Trump Just Did More Damage to Elections Than China",
@@ -19978,25 +19998,5 @@
     "content": "When commenting on the power and influence of the Catholic Church, Stalin is supposed to have asked: \u2018how many divisions has the pope?\u2019 Donald Trump has yet to question how many F35s Leo XIV has, but he may as well have done in his angry response to the American pope\u2019s criticism of the US and Israel\u2019s attack on Iran. With the US president\u2019s supporters invoking the...",
     "date": "2026-05-30T13:43:31",
     "category": "Magazines"
-  },
-  {
-    "id": "76cee7061fd033507caffd31074b58c9",
-    "feed_name": "The Atlantic",
-    "title": "The Pope\u2019s Admirers Are Missing Something",
-    "author": "Randy Boyagoda",
-    "link": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-big-tech/687375/",
-    "content": "Leo\u2019s new encyclical challenges much more than Big Tech.",
-    "date": "2026-05-30T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=231910",
-    "feed_name": "Texas Tribune",
-    "title": "ICE sued over \u201cinhumane\u201d conditions at Camp East Montana in West Texas",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17351225/texas-ice-camp-east-montana-conditions-lawsuit",
-    "content": "An aerial view of the Camp East Montana detention facility at Fort Bliss on Sept. 7, 2025.",
-    "date": "2026-05-30T11:33:13",
-    "category": "Texas"
   }
 ]
