@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=236620",
+    "feed_name": "Texas Tribune",
+    "title": "Paxton and Talarico open battle for South Texas with dueling rallies, diverging pitches",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17381621/texas-senate-race-james-talarico-ken-paxton-south-texas",
+    "content": "People opposing Attorney General Ken Paxton, who is running for U.S. Senate, show up with signs supporting Democratic candidates during his rally in McAllen on July 14, 2026.",
+    "date": "2026-07-16T23:27:24",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236753",
     "feed_name": "Texas Tribune",
     "title": "Trump administration revives rule that could deny green cards to immigrants who use public benefits",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html",
     "content": "President Trump, the chairman of the Kennedy Center, wrote on social media that \u201cwe are going to be working with Congress to transfer this failing Institution back to them.\u201d",
     "date": "2026-05-30T09:02:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/05/30/arts/music/ariana-grande-ravyn-lenae-songs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ariana Grande, Ravyn Lenae: 7 Songs We\u2019re Talking About This Week",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/05/30/arts/music/ariana-grande-ravyn-lenae-songs.html",
-    "content": "After a couple of years spent immersed in \u201cWicked\u201d world, Ariana Grande returns to pop with her newest single.",
-    "date": "2026-05-30T09:02:49",
     "category": "NYT"
   }
 ]
