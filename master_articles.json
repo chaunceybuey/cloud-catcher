@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/17/arts/music/x-music-lawsuits.html",
+    "feed_name": "NYT (Arts)",
+    "title": "X and Music Publishers Retreat From Lawsuits",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/07/17/arts/music/x-music-lawsuits.html",
+    "content": "Elon Musk\u2019s social media company did not respond to requests for comment on the agreement, which was made public on Friday.",
+    "date": "2026-07-17T18:16:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/07/trump-speech-election-integrity-republicans/687978/",
     "feed_name": "Chait",
     "title": "Susan Collins Is Not Concerned About Election Denial",
@@ -19988,15 +19998,5 @@
     "content": "<p>YouTubers are ruling the box office,  and it shouldn't be a surprise: succeeding on YouTube is a much higher bar than the gates that currently govern Hollywood.</p>",
     "date": "2026-06-01T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "18a71a881574635ae3fc0f1ac85b05ec",
-    "feed_name": "The Atlantic",
-    "title": "D.C. Progressives\u2019 Great Socialist Hope",
-    "author": "Idrees Kahloon",
-    "link": "https://www.theatlantic.com/ideas/2026/06/dc-mayor-socialist-election/687348/",
-    "content": "The bitter contest for D.C. mayor has replicated the Democrats\u2019 central ideological struggle.",
-    "date": "2026-06-01T10:00:00",
-    "category": "Magazines"
   }
 ]
