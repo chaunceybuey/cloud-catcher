@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
+    "feed_name": "Douthat",
+    "title": "China\u2019s A.I. Play Is Different From America\u2019s",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
+    "content": "When great powers disagree about the nature of A.I.",
+    "date": "2026-07-18T11:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "6a5a831fdc8c76f664e1e52d",
     "feed_name": "Wired (Science)",
     "title": "FIFA Doesn\u2019t Have a Plan to Deal With Climate Change",
@@ -19986,16 +19996,6 @@
     "author": "ByBecca Rothfeld",
     "link": "https://www.newyorker.com/magazine/2026/06/08/love-and-death-in-the-american-novel-leslie-fiedler-book-review",
     "content": "For the critic Leslie Fiedler, the country\u2019s best and worst fiction was shaped by visions of escape from society\u2014and therefore from maturity.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "6531e9e1dad40d807093fec4dbce8fc5",
-    "feed_name": "New Yorker",
-    "title": "What Did \u201cLady Chatterley\u201d Liberate?",
-    "author": "ByLouis Menand",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/lady-c-guy-cuthbertson-book-review",
-    "content": "Once outlawed as obscene, D. H. Lawrence\u2019s novel was meant to heal the world\u2019s sickness about sex. Instead, it mattered most as a legal milestone, a pop-culture shorthand, and a meme.",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
