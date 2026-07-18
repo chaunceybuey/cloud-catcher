@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/18/arts/music/joe-melson-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Joe Melson, 91, Dies; Wrote \u2018Only the Lonely\u2019 and Other Hits With Roy Orbison",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/07/18/arts/music/joe-melson-dead.html",
+    "content": "Working together closely, the pair turned out more than 200 songs, including \u201cCrying,\u201d \u201cRunning Scared\u201d and \u201cBlue Bayou.\u201d",
+    "date": "2026-07-18T19:18:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/18/dining/garlic-bread-grilled-cheese-of-course.html",
     "feed_name": "NYT (Food)",
     "title": "Garlic Bread Grilled Cheese, of Course",
@@ -19986,16 +19996,6 @@
     "author": "ByMiriam Toews",
     "link": "https://www.newyorker.com/magazine/2026/06/08/love-omen-miriam-toews",
     "content": "I was panicking a bit, thinking of a career, thinking that I should probably get one.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "8d5f94b0767d8670dded28c236e31f2e",
-    "feed_name": "New Yorker",
-    "title": "The Antagonist",
-    "author": "ByHan Ong",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/the-antagonist-han-ong",
-    "content": "I suddenly wondered what had happened to my mother, as if she were one of my characters.",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
