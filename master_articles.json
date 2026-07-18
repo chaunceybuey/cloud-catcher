@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/18/dining/garlic-bread-grilled-cheese-of-course.html",
+    "feed_name": "NYT (Food)",
+    "title": "Garlic Bread Grilled Cheese, of Course",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/18/dining/garlic-bread-grilled-cheese-of-course.html",
+    "content": "Kayla Hoang\u2019s garlic bread grilled cheese.",
+    "date": "2026-07-18T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/18/dining/peak-mango-season-is-upon-us-thank-goodness.html",
     "feed_name": "NYT (Food)",
     "title": "Peak Mango Season Is Upon Us, Thank Goodness",
@@ -19986,16 +19996,6 @@
     "author": "ByHan Ong",
     "link": "https://www.newyorker.com/magazine/2026/06/08/the-antagonist-han-ong",
     "content": "I suddenly wondered what had happened to my mother, as if she were one of my characters.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "8c0ee401deedeca8c8255e6dbf7281f7",
-    "feed_name": "New Yorker",
-    "title": "Forward Into Foreignness",
-    "author": "ByJoseph O\u2019Neill",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/forward-into-foreignness-joseph-oneill",
-    "content": "That\u2019s how we did things in my family. Tabbouleh, hurling, helva, \u201cInshallah,\u201d \u201cgodverdomme\u201d\u2014all of it was our culture.",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
