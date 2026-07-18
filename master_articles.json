@@ -60,6 +60,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/18/arts/hottest-summer-blockbuster-movies-sketch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Blockbuster Summer Movies for the Hottest Summer Ever",
+    "author": "Michael Lukk Litwak",
+    "link": "https://www.nytimes.com/2026/07/18/arts/hottest-summer-blockbuster-movies-sketch.html",
+    "content": "\u201cIron Man 4: Age of Air Con\u201d coming to theaters? With record-setting heat projected for 2026, our cartoonist imagines a cool slate of films.",
+    "date": "2026-07-18T09:01:33",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/18/arts/music/world-cup-halftime-show.html",
+    "feed_name": "NYT (Arts)",
+    "title": "It\u2019s a Crowded and Contested World Cup Halftime Show",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/07/18/arts/music/world-cup-halftime-show.html",
+    "content": "The inaugural World Cup halftime show will include, clockwise from top left, Madonna, Burna Boy, Shakira and Justin Bieber.",
+    "date": "2026-07-18T09:01:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What to Know Before Seeing \u2018The Odyssey\u2019: Plot, Characters and More",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
+    "content": "Matt Damon as Odysseus in the new movie.",
+    "date": "2026-07-18T09:00:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/18/arts/television/lindsay-hubbard-in-the-city-interview.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lindsay Hubbard Prefers a Long-Distance Boyfriend",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/18/arts/television/lindsay-hubbard-in-the-city-interview.html",
+    "content": "The \u201cSummer House\u201d cast member once yelled at a boyfriend, \u201cHow many sandwiches have you made for me?\u201d These days, she\u2019s enjoying her space.",
+    "date": "2026-07-18T09:00:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/movies/100000010926537/odyssey-oppenheimer.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Surprising Parallels Between \u2018The Odyssey\u2019 and \u2018Oppenheimer\u2019",
+    "author": "Alissa Wilkinson, Edward Vega and Gabriel Blanco",
+    "link": "https://www.nytimes.com/video/movies/100000010926537/odyssey-oppenheimer.html",
+    "content": "Our movie critic Alissa Wilkinson describes how Christopher Nolan\u2019s version of \u201cThe Odyssey\u201d builds on key themes in his previous film \u201cOppenheimer.\u201d",
+    "date": "2026-07-18T09:00:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/islamic-private-schools-texas-vouchers-sam-westrop",
     "feed_name": "ProPublica",
     "title": "How a Man Once Ordered to Pay Libel Damages Helped Launch an Investigation Into Islamic Private Schools",
@@ -19946,56 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/magazine/2026/06/08/look-what-you-made-me-do-madagh-adrift-in-the-south-the-story-of-birds",
     "content": "\u201cLook What You Made Me Do,\u201d \u201cMagadh,\u201d \u201cAdrift in the South,\u201d and \u201cThe Story of Birds.\u201d",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "6513f408ed671564b2526b04cc8fed87",
-    "feed_name": "New Yorker",
-    "title": "The Star-Crossed Recluse Who Brought Astrology to the Masses",
-    "author": "ByRachel Syme",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/follow-the-signs-courtney-ann-lafaive-book-review",
-    "content": "Linda Goodman argued that our destinies were written. But her own life took some unexpected turns.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "c978715d3d567b57be6c005a9ca74fad",
-    "feed_name": "New Yorker",
-    "title": "Maggie O\u2019Farrell and the Art of Inventing the Past",
-    "author": "ByKaty Waldman",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/land-maggie-ofarrell-book-review",
-    "content": "Why read historical fiction? A new novel by the author of \u201cHamnet\u201d offers one answer: because it\u2019s fun.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "831d74c26b41bf0287b1caa6d68df009",
-    "feed_name": "New Yorker",
-    "title": "\u201cPower Ballad,\u201d Reviewed: A Bromantic Conflict Over a Hit Song",
-    "author": "ByRichard Brody",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/power-ballad-movie-review",
-    "content": "In John Carney\u2019s dramedy, a thwarted songwriter, played by Paul Rudd, crosses paths with a former boy-band star in search of new material.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "b763e8940431d4828141b5c38000434e",
-    "feed_name": "New Yorker",
-    "title": "\u201cHow to Grow Old\u201d",
-    "author": "BySandra Cisneros",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/how-to-grow-old-sandra-cisneros-poem",
-    "content": "\u201cDon\u2019t fret about / the champagne-glass / neck. / Drink champagne.\u201d",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "04fa1aeec0787967488103bb0a188341",
-    "feed_name": "New Yorker",
-    "title": "\u201cMirage\u201d",
-    "author": "ByArthur Sze",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/mirage-arthur-sze-poem",
-    "content": "\u201cIn this world of endless disjunctions and conjunctions, / you struggle to parse the zigzag flight of a butterfly.\u201d",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
