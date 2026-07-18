@@ -70,6 +70,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=236724",
+    "feed_name": "Texas Tribune",
+    "title": "How a man once ordered to pay libel damages helped launch an investigation into Islamic private schools",
+    "author": "By Lexi Churchill, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17382251/texas-vouchers-islamic-private-schools-sam-westrop",
+    "content": "Brighter Horizons Academy is one of nearly 50 Texas-based Islamic and Chinese schools that were investigated by the state comptroller\u2019s office.",
+    "date": "2026-07-18T03:10:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=237016",
     "feed_name": "Texas Tribune",
     "title": "Key differences spared Texas lives in second straight July flood",
@@ -19986,16 +19996,6 @@
     "author": "ByArthur Sze",
     "link": "https://www.newyorker.com/magazine/2026/06/08/mirage-arthur-sze-poem",
     "content": "\u201cIn this world of endless disjunctions and conjunctions, / you struggle to parse the zigzag flight of a butterfly.\u201d",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "0dc72635c7348269f16000d7d0ffd368",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-june-8-2026-issue",
-    "content": "Drawings from the June 8, 2026, magazine.",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
