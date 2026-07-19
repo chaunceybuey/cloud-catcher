@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/19/dining/get-me-to-the-grill.html",
+    "feed_name": "NYT (Food)",
+    "title": "Get Me to the Grill",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/07/19/dining/get-me-to-the-grill.html",
+    "content": "Ashley Lonsdale\u2019s grilled chicken thighs with tomato and avocado.",
+    "date": "2026-07-19T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/19/dining/tajin-chicken-and-peppers-at-the-push-of-a-button.html",
     "feed_name": "Weeknight Dishes",
     "title": "Taj\u00edn Chicken and Peppers at the Push of a Button",
@@ -19986,16 +19996,6 @@
     "author": "ByPeter Hessler",
     "link": "https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret",
     "content": "In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "51842ec35da72bfe79acfe4392b00940",
-    "feed_name": "New Yorker",
-    "title": "\u201cStories\u201d",
-    "author": "ByAnnie Ernaux",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/stories-fiction-annie-ernaux",
-    "content": "I believed that, when it came to words, everything was allowed.",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
