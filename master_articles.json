@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a5a9d87087b4a8eadcc0723",
+    "feed_name": "Wired (Science)",
+    "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/",
+    "content": "Astronomers have discovered a rocky exoplanet that has an atmosphere and sits within the habitable zone of a solar system.",
+    "date": "2026-07-19T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/19/theater/whoopi-goldberg-kerry-washington-whoopi-monologues.html",
     "feed_name": "NYT (Arts)",
     "title": "How Kerry Washington and Whitney White Are Honoring Whoopi Goldberg Through Theater",
@@ -19986,16 +19996,6 @@
     "author": "ByJonathan Franzen",
     "link": "https://www.newyorker.com/magazine/2026/06/08/a-talent-for-seeming-fiction-jonathan-franzen",
     "content": "Lust wasn\u2019t her only sin. There was also an actor\u2019s envy.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "a938b8ef82f5aaf56fd6c70977d3e3df",
-    "feed_name": "New Yorker",
-    "title": "The Tally",
-    "author": "ByAnne Enright",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/the-tally-anne-enright",
-    "content": "Honesty may be a one-sided contract with the world, but it is the only side that we can control.",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
