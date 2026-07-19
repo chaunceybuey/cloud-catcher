@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "First World Cup Halftime Show: Lots of Stars, Little Purpose",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html",
+    "content": "The first World Cup halftime show had a simple message of love and unity.",
+    "date": "2026-07-19T21:56:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/burna-boy-is-one-of-the-biggest-stars-to-emerge-from-africa",
     "feed_name": "NYT (Arts)",
     "title": "Burna Boy is one of the biggest stars to emerge from Africa.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/the-man-behind-the-curtain-frankenstein-by-mary-shelley",
     "content": "Mary Shelley signed off her introduction to the 1831 edition ofFrankensteinby bidding her \u2018hideous progeny go forth and prosper\u2019. In this episode of The Man Behind the Curtain, Tom McCarthy and Thomas Jones look at the machinery that Shelley used to assemble her immortal creature and bring it to life. As well as its origins and afterlives, they consider the many systems that the...",
     "date": "2026-06-01T12:39:29",
-    "category": "Magazines"
-  },
-  {
-    "id": "f9b6c58a2c1dc81175b10f1d2be5defd",
-    "feed_name": "New Yorker",
-    "title": "\u201cGreater New York\u201d Takes the Pulse of the City",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/greater-new-york-takes-the-pulse-of-the-city",
-    "content": "Also: the megawatt hip-hop of Baby Keem, the buzzy period reimaginings of Scottish Ballet, the time-capsule documentary \u201cWith Hasan in Gaza,\u201d and more.",
-    "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
 ]
