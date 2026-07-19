@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/19/dining/tajin-chicken-and-peppers-at-the-push-of-a-button.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Taj\u00edn Chicken and Peppers at the Push of a Button",
+    "author": "Margaux Laskey",
+    "link": "https://www.nytimes.com/2026/07/19/dining/tajin-chicken-and-peppers-at-the-push-of-a-button.html",
+    "content": "A five-star slow cooker recipe that won\u2019t heat up your house, and more summer weeknight savers.",
+    "date": "2026-07-19T13:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "00526ff640f7b41ff7646f0905c5aea6",
     "feed_name": "The Atlantic",
     "title": "The Anti-Populist",
@@ -19986,16 +19996,6 @@
     "author": "ByAnnie Ernaux",
     "link": "https://www.newyorker.com/magazine/2026/06/08/stories-fiction-annie-ernaux",
     "content": "I believed that, when it came to words, everything was allowed.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "b5eb5d2d2234bf010431b4cee3db08b4",
-    "feed_name": "New Yorker",
-    "title": "\u201cFirstborn Immigrant Daughter\u201d",
-    "author": "ByTaiye Selasi",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/firstborn-immigrant-daughter-fiction-taiye-selasi",
-    "content": "Your mother doesn\u2019t want her daughter to be happy. Your mother wants her daughter to be impressive. And you tried, o!",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
