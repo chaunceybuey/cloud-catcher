@@ -50,6 +50,26 @@
     "category": "Texas"
   },
   {
+    "id": "00526ff640f7b41ff7646f0905c5aea6",
+    "feed_name": "The Atlantic",
+    "title": "The Anti-Populist",
+    "author": "Gilad Edelman",
+    "link": "https://www.theatlantic.com/ideas/2026/07/trump-populism-right-wing-critique/687974/",
+    "content": "The writer and former white supremacist Richard Hanania was once the toast of MAGA-curious tech barons and reactionary intellectuals. Now he thinks Trumpism has broken their brains.",
+    "date": "2026-07-19T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "c50a61da860fc5d4cf9123e5f927e7c6",
+    "feed_name": "The Atlantic",
+    "title": "The Beauty of a Stone Wall",
+    "author": "Matt Seaton",
+    "link": "https://www.theatlantic.com/ideas/2026/07/second-career-passion-life-meaning/687952/",
+    "content": "Why we love them, and why I build them",
+    "date": "2026-07-19T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a5a9d87087b4a8eadcc0723",
     "feed_name": "Wired (Science)",
     "title": "The Search for Another Earth-Like Planet Just Took a Big Step Forward",
@@ -19976,26 +19996,6 @@
     "author": "ByTaiye Selasi",
     "link": "https://www.newyorker.com/magazine/2026/06/08/firstborn-immigrant-daughter-fiction-taiye-selasi",
     "content": "Your mother doesn\u2019t want her daughter to be happy. Your mother wants her daughter to be impressive. And you tried, o!",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "b7a428093124ff850198e941b9b76827",
-    "feed_name": "New Yorker",
-    "title": "\u201cThe Twice-Widowed Khala Helai\u201d",
-    "author": "ByJamil Jan Kochai",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/the-twice-widowed-khala-helai-fiction-jamil-jan-kochai",
-    "content": "Fifty years and I dream of him still, fifty years and every story, every joke, every bit of news or gossip leads back to him still.",
-    "date": "2026-06-01T12:39:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "e2d12288f8d405580a8e69175df3f5d8",
-    "feed_name": "New Yorker",
-    "title": "\u201cA Talent for Seeming\u201d",
-    "author": "ByJonathan Franzen",
-    "link": "https://www.newyorker.com/magazine/2026/06/08/a-talent-for-seeming-fiction-jonathan-franzen",
-    "content": "Lust wasn\u2019t her only sin. There was also an actor\u2019s envy.",
     "date": "2026-06-01T12:39:28",
     "category": "Magazines"
   }
