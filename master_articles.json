@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/20/arts/greece-andy-burnham-parthenon-sculptures.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Greece Hopes Andy Burnham Will Return the Parthenon Sculptures",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/20/arts/greece-andy-burnham-parthenon-sculptures.html",
+    "content": "The Parthenon Sculptures on display at the British Museum in London, Britain, in 2023.",
+    "date": "2026-07-20T13:41:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/20/style/world-cup-halftime-show-fashion.html",
     "feed_name": "NYT (Arts)",
     "title": "The World Cup Halftime Show Had Star Power. But the Style Missed the Point.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/02/arts/music/amplifier-newsletter-paul-mccartney.html",
     "content": "Paul McCartney performing with Wings in a 1976 concert.",
     "date": "2026-06-02T18:00:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/02/arts/television/netflix-new-june.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Best Movies and TV Shows Coming to Netflix in June",
-    "author": "Noel Murray",
-    "link": "https://www.nytimes.com/2026/06/02/arts/television/netflix-new-june.html",
-    "content": "Oscar Isaac plays both the Italian poet Dante Alighieri and the novelist Nick Tosches in the film adaptation \u201cIn the Hand of Dante.\u201d",
-    "date": "2026-06-02T16:55:57",
     "category": "NYT"
   }
 ]
