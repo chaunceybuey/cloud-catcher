@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a5e1b6fb769c90de06b8497",
+    "feed_name": "Wired (Science)",
+    "title": "Even Mild Sleep Deprivation May Lead to Weight Gain",
+    "author": "Ritsuko Kawai",
+    "link": "https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/",
+    "content": "A recent study suggests that not getting enough sleep increases the risk of weight gain, and thus of conditions like heart disease and type 2 diabetes.",
+    "date": "2026-07-20T19:06:08",
+    "category": "Magazines"
+  },
+  {
     "id": "d7885dfe9b7ac0ba556b716008a1f5bb",
     "feed_name": "LRB",
     "title": "On Susan Stewart",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/02/arts/design/moma-photography-chief.html",
     "content": "Makeda Best, a deputy director of the Oakland Museum of California and a photographer, will lead the department.",
     "date": "2026-06-02T21:30:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/02/opinion/graham-platner-morality-sexting.html",
-    "feed_name": "Douthat",
-    "title": "Graham Platner, Ken Paxton and the Amoral Center",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/06/02/opinion/graham-platner-morality-sexting.html",
-    "content": "Why a morally divided country might find sleazy candidates reassuring.",
-    "date": "2026-06-02T21:02:53",
     "category": "NYT"
   }
 ]
