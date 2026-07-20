@@ -50,6 +50,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/20/dining/good-grain-bowl.html",
+    "feed_name": "NYT (Food)",
+    "title": "Good Grain Bowl",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/07/20/dining/good-grain-bowl.html",
+    "content": "Ali Slagle\u2019s roasted mushroom and halloumi grain bowl.",
+    "date": "2026-07-20T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/20/arts/design/dave-dawson-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dave Dawson, Co-founder of Bespoke Lighting Company Urban Electric, Dies at 53",
+    "author": "Penelope Green",
+    "link": "https://www.nytimes.com/2026/07/20/arts/design/dave-dawson-dead.html",
+    "content": "He and his wife knew nothing about the business when they decided to produce lighting in Charleston, S.C. Their company became a beacon of American manufacturing.",
+    "date": "2026-07-20T14:58:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/20/theater/france-theater-cuts-politics-avignon-festival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "As Budget Cuts Loom, French Theater Turns Up the Political Heat",
+    "author": "Laura Cappelle",
+    "link": "https://www.nytimes.com/2026/07/20/theater/france-theater-cuts-politics-avignon-festival.html",
+    "content": "Julia Bernat, Danilo Grangheia and Wagner Moura in \u201cA Trial \u2014 after An Enemy of the People\u201d at the Avignon Festival.",
+    "date": "2026-07-20T14:57:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/20/arts/greece-andy-burnham-parthenon-sculptures.html",
     "feed_name": "NYT (Arts)",
     "title": "Greece Hopes Andy Burnham Will Return the Parthenon Sculptures",
@@ -19968,35 +19998,5 @@
     "content": "Adam Gill and new hires at Vanguard: \"Gill's LinkedIn profile states he is now working \"to launch [a] debit card and modernize\" Vanguard's cash accounts.\"<br /><br /><a class=\"postlink\" href=\"https://riabiz.com/a/2026/4/24/vanguard-could-flip-narrative-as-key-poach-of-ally-bank-exec-positions-it-to-meet-overwhelming-demand-for-debit-card-and-finally-stop-acting-like-stodgy-etf-company\">https://riabiz.com/a/2026/4/24/vanguard ... tf-company</a><br /><br />Gill was recently hired.  Article doesn't state timeline for re-launch<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=223479\">sportie</a> \u2014 Tue Jun 02, 2026 2:40 pm</p><hr />",
     "date": "2026-06-02T19:40:29",
     "category": "Finance"
-  },
-  {
-    "id": "082b6639b39a4b53960d65169773ac4c",
-    "feed_name": "The Atlantic",
-    "title": "AI Has Ruined the Job Market",
-    "author": "Annie Lowrey",
-    "link": "https://www.theatlantic.com/ideas/2026/06/ai-job-market-hiring/687403/",
-    "content": "Maybe flawed people were better than brute algorithms.",
-    "date": "2026-06-02T19:27:06",
-    "category": "Magazines"
-  },
-  {
-    "id": "9ad6a920-e1dc-4578-afe9-85800bb29afa",
-    "feed_name": "Economist",
-    "title": "Want to know the future? Don\u2019t trust the stockmarket",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/02/want-to-know-the-future-dont-trust-the-stockmarket",
-    "content": "Share prices are buffeted by far more than just new information",
-    "date": "2026-06-02T18:39:21",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/02/arts/music/amplifier-newsletter-paul-mccartney.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Dark Side of Paul McCartney",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/06/02/arts/music/amplifier-newsletter-paul-mccartney.html",
-    "content": "Paul McCartney performing with Wings in a 1976 concert.",
-    "date": "2026-06-02T18:00:03",
-    "category": "NYT"
   }
 ]
