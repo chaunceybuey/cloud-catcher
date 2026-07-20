@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/20/arts/television/ransom-canyon-tv-shows-to-watch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Ransom Canyon,\u2019 and 5 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/20/arts/television/ransom-canyon-tv-shows-to-watch.html",
+    "content": "From left: Josh Duhamel and Jack Schumacher in \u201cRansom Canyon.\u201d",
+    "date": "2026-07-20T05:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/19/arts/television/house-of-the-dragon-recap-season-3-episode-5.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018House of the Dragon\u2019 Season 3, Episode 5 Recap: Under Pressure",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/01/dining/bright-and-colorful-fish-and-lentils.html",
     "content": "Yewande Komolafe\u2019s fish and lentils with sauce rof.",
     "date": "2026-06-01T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/01/arts/fun-things-to-do-nyc-june.html",
-    "feed_name": "NYT (Arts)",
-    "title": "33 Fun Things to Do in N.Y.C. in June",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/06/01/arts/fun-things-to-do-nyc-june.html",
-    "content": "A participant in last year\u2019s Mermaid Parade at Coney Island. It returns on June 20.",
-    "date": "2026-06-01T13:51:24",
     "category": "NYT"
   }
 ]
