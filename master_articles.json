@@ -60,6 +60,16 @@
     "category": "NYT"
   },
   {
+    "id": "1bba384d7550c2da4b1ea99779f58219",
+    "feed_name": "LRB",
+    "title": "The Man Behind the Curtain: \u2018Frankenstein\u2019 by Mary Shelley",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/the-man-behind-the-curtain-frankenstein-by-mary-shelley",
+    "content": "Mary Shelley signed off her introduction to the 1831 edition ofFrankensteinby bidding her \u2018hideous progeny go forth and prosper\u2019. In this episode of The Man Behind the Curtain, Tom McCarthy and Thomas Jones look at the machinery that Shelley used to assemble her immortal creature and bring it to life. As well as its origins and afterlives, they consider the many systems that the...",
+    "date": "2026-07-19T23:59:36",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html",
     "feed_name": "NYT (Arts)",
     "title": "First World Cup Halftime Show: Lots of Stars, Little Purpose",
@@ -19988,15 +19998,5 @@
     "content": "A participant in last year\u2019s Mermaid Parade at Coney Island. It returns on June 20.",
     "date": "2026-06-01T13:51:24",
     "category": "NYT"
-  },
-  {
-    "id": "4c9055c9c91046fe1360b1440089e23e",
-    "feed_name": "LRB",
-    "title": "Chattiness",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/june/chattiness",
-    "content": "Several people I know now refer to ChatGPT as \u2018Chat\u2019. They give it human pronouns (Chat is usually a he) and ask it for restaurant recommendations.\u00a0.\u00a0.",
-    "date": "2026-06-01T12:39:29",
-    "category": "Magazines"
   }
 ]
