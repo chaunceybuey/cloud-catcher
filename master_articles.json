@@ -80,6 +80,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=237281",
+    "feed_name": "Texas Tribune",
+    "title": "Judge blocks feds from deporting witness to Houston ICE shooting",
+    "author": "Alex Nguyen and Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17384363/ice-shooting-houston-witnesses-habeas-petition-deportation-texas",
+    "content": "People march to protest the killing of Lorenzo Salgado Araujo on July 8, 2026, in Houston.",
+    "date": "2026-07-21T19:32:20",
+    "category": "Texas"
+  },
+  {
     "id": "6649ed74d40d6982972b9f45e39d6d9f",
     "feed_name": "LRB",
     "title": "August Late Night Shopping",
@@ -19988,15 +19998,5 @@
     "content": "Questions for bats, Rothko weather and Knicks fever.",
     "date": "2026-06-03T19:44:47",
     "category": "NYT"
-  },
-  {
-    "id": "960383c7fbf9a121b6fcb6511a320839",
-    "feed_name": "The Atlantic",
-    "title": "A Gift From the Basketball Gods",
-    "author": "Michael Powell",
-    "link": "https://www.theatlantic.com/ideas/2026/06/knicks-spurs-nba-finals-brunson/687421/",
-    "content": "The Knicks represent the best of New York sports.",
-    "date": "2026-06-03T19:30:00",
-    "category": "Magazines"
   }
 ]
