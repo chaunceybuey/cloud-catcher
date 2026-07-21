@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/arts/design/trump-republicans-smithsonian-american-history.html",
+    "feed_name": "NYT (Arts)",
+    "title": "G.O.P. Lawmakers Join White House in Challenging a Smithsonian Museum",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/07/21/arts/design/trump-republicans-smithsonian-american-history.html",
+    "content": "Republican lawmakers were harshly critical of Anthea M. Hartig, director of the Smithsonian\u2019s National Museum of American History, during a hearing on Tuesday. Their Democratic colleagues dismissed the allegations as unfounded.",
+    "date": "2026-07-21T18:57:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/21/arts/music/plas-johnson-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Plas Johnson, Saxophonist Behind \u2018The Pink Panther,\u2019 Dies at 94",
+    "author": "Matt Schudel",
+    "link": "https://www.nytimes.com/2026/07/21/arts/music/plas-johnson-dead.html",
+    "content": "His recording for the theme song, written by Henry Mancini, included a solo improvised in the studio. He also backed Frank Sinatra and Barbra Streisand.",
+    "date": "2026-07-21T18:51:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/arts/music/amplifier-newsletter-phoebe-bridgers-kelela-spoon.html",
     "feed_name": "NYT (Arts)",
     "title": "The Last Song That Made Me Cry, and 4 Other Recommendations",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/03/theater/fantasticks-gloria-broadway-second-stage.html",
     "content": "The 2015 production of Branden Jacobs-Jenkins\u2019s play \u201cGloria\u201d at the Vineyard Theater.",
     "date": "2026-06-03T17:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/arts/music/john-mcclain-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "John McClain, Who Helped Keep Michael Jackson\u2019s Profits Flowing, Dies at 72",
-    "author": "Alex Williams",
-    "link": "https://www.nytimes.com/2026/06/03/arts/music/john-mcclain-dead.html",
-    "content": "John McClain in 1998. He was a producer of the Jackson biopic \u201cMichael,\u201d released in April, which has earned about $850 million worldwide.",
-    "date": "2026-06-03T16:35:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/theater/caissie-levy-broadway-tonys-ragtime.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Caissie Levy, Tony Awards Contender and \u2018Ragtime\u2019 Star, Is Having a Moment",
-    "author": "Michael Paulson and George Etheredge",
-    "link": "https://www.nytimes.com/2026/06/03/theater/caissie-levy-broadway-tonys-ragtime.html",
-    "content": "Caissie Levy was Broadway\u2019s first Elsa. She starred in \u201cHair\u201d and \u201cGhost.\u201d And now, for \u201cRagtime,\u201d she is an odds-on favorite to win a Tony Award.",
-    "date": "2026-06-03T15:38:06",
     "category": "NYT"
   }
 ]
