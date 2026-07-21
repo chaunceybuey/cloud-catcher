@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Seth Meyers Calls Trump \u2018The Sports Reaper\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html",
+    "content": "The late-night host joked that the president\u2019s sports curse had struck again after he backed Lionel Messi of Argentina, which then lost the World Cup final to Spain.",
+    "date": "2026-07-21T07:44:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=237183",
     "feed_name": "Texas Tribune",
     "title": "Texas flood destroyed or heavily damaged 135 Kerr County homes, Abbott said",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-06-03T03:10:33",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/02/theater/jerome-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Jerome\u2019 Review: Darkness Swallows a Three-Way Romance",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/06/02/theater/jerome-review.html",
-    "content": "John J. Caswell\u2019s triangular romance set in the early 1990s speaks to us from the smoking psychic caldera left by AIDS.",
-    "date": "2026-06-03T01:30:05",
-    "category": "NYT"
   }
 ]
