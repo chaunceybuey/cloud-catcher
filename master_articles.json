@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/arts/music/amplifier-newsletter-phoebe-bridgers-kelela-spoon.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Last Song That Made Me Cry, and 4 Other Recommendations",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/07/21/arts/music/amplifier-newsletter-phoebe-bridgers-kelela-spoon.html",
+    "content": "Phoebe Bridgers",
+    "date": "2026-07-21T18:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/dining/hungry-spicy-nyc-restaurant-openings.html",
     "feed_name": "NYT (Food)",
     "title": "Hungry Spicy Doesn\u2019t Pull Its Punches",
@@ -378,6 +388,16 @@
     "content": "Tesla\u2019s lithium refining plant, located between Robstown and Driscoll in Nueces County, on April 21, 2026.",
     "date": "2026-07-20T19:05:58",
     "category": "Texas"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/how-to-cook-tomatoes",
+    "feed_name": "NYT (Food)",
+    "title": "7 Ways to Cook Better With Tomatoes",
+    "author": "Ali Slagle",
+    "link": "https://cooking.nytimes.com/article/how-to-cook-tomatoes",
+    "content": "Ali Slagle\u2019s tomato salad.",
+    "date": "2026-07-20T15:59:38",
+    "category": "NYT"
   },
   {
     "id": "d7885dfe9b7ac0ba556b716008a1f5bb",
@@ -19978,25 +19998,5 @@
     "content": "For the shallowest man ever to occupy the presidency, surface appeal is a guiding principle.\nDelivered by PolitePaul service",
     "date": "2026-06-03T15:18:51",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/dining/need-some-zucchini-recipes.html",
-    "feed_name": "NYT (Food)",
-    "title": "Need Some Zucchini Recipes?",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/06/03/dining/need-some-zucchini-recipes.html",
-    "content": "Ali Slagle\u2019s seared zucchini and halloumi in red-wine vinaigrette.",
-    "date": "2026-06-03T15:00:15",
-    "category": "NYT"
-  },
-  {
-    "id": "6aff37efbd9fc01f3c9e1b1e5ed4abb0",
-    "feed_name": "Compact",
-    "title": "What Pope Leo Should Have Said About AI",
-    "author": "",
-    "link": "https://www.compactmag.com/article/what-pope-leo-should-have-said-about-ai/",
-    "content": "",
-    "date": "2026-06-03T14:42:56",
-    "category": "Magazines"
   }
 ]
