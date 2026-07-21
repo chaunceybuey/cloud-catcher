@@ -80,6 +80,36 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=237342",
+    "feed_name": "Texas Tribune",
+    "title": "Texas lawmakers call for audit of state\u2019s broadband grant funding",
+    "author": "Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17384464/texas-broadband-office-audit",
+    "content": "Nancy Shanafelt shows the speed of her internet in the small East Texas town of Groveton on March 20, 2023.",
+    "date": "2026-07-21T22:04:22",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237325",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: The Hill Country floods again",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17384465/tribcast-floods-kerrville-texas",
+    "content": "A woman at the Dallas Daughtry Memorial Pavilion in Kerrville takes a video of the Guadalupe River on July 16, 2026, after devastating rounds of flooding hit the Hill Country and South Texas.",
+    "date": "2026-07-21T21:59:09",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237329",
+    "feed_name": "Texas Tribune",
+    "title": "Texas foster care agency cancels troubled provider\u2019s contract",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17384466/texas-foster-care-dfps-empower-contract",
+    "content": "A sign for the Texas Department of Aging and Disability Services and the Texas Department of Family and Protective Services building in Austin on Nov. 14, 2019.",
+    "date": "2026-07-21T21:35:12",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
     "feed_name": "Douthat",
     "title": "Even Under Populism, Elite Failure Is Still a Problem",
@@ -19968,35 +19998,5 @@
     "content": "\u201cThe whole art gallery art system became too big, too commercial, too impersonal and too corporate,\u201d Marc Glimcher, the chief executive of Pace Gallery, said.",
     "date": "2026-06-04T02:43:11",
     "category": "NYT"
-  },
-  {
-    "id": "6a1f0895cad962586338469b",
-    "feed_name": "Wired (Science)",
-    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-    "content": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-    "date": "2026-06-04T01:01:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/arts/ted-danson-blackface-whoopi-goldberg-apology.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ted Danson Apologizes for Blackface Roast of Whoopi Goldberg in 1993",
-    "author": "Neil Vigdor",
-    "link": "https://www.nytimes.com/2026/06/03/arts/ted-danson-blackface-whoopi-goldberg-apology.html",
-    "content": "Whoopi Goldberg and Ted Danson before the Friars Club roast in 1993.",
-    "date": "2026-06-03T23:08:39",
-    "category": "NYT"
-  },
-  {
-    "id": "2c55d828935673f3b7e9b48cd4431f78",
-    "feed_name": "LRB",
-    "title": "Olivia Laing & Jack Parlett: The Silver Book",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/olivia-laing-jack-parlett-the-silver-book-tickets-1984380357066",
-    "content": "",
-    "date": "2026-06-03T21:51:06",
-    "category": "Magazines"
   }
 ]
