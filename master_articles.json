@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/dining/restaurant-review-stars-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Stars in New York",
+    "author": "Ryan Sutton",
+    "link": "https://www.nytimes.com/2026/07/21/dining/restaurant-review-stars-nyc.html",
+    "content": "The wine bar Stars, from the Claud and Penny team, nods to breezy Parisian after-work spots with its zinc counter, quirky snacks and thoughtful glasses.",
+    "date": "2026-07-21T20:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "6649ed74d40d6982972b9f45e39d6d9f",
     "feed_name": "LRB",
     "title": "August Late Night Shopping",
@@ -19988,15 +19998,5 @@
     "content": "The Knicks represent the best of New York sports.",
     "date": "2026-06-03T19:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232352",
-    "feed_name": "Texas Tribune",
-    "title": "Democrat Gina Hinojosa launches first ad of Texas governor\u2019s race, to be streamed during NBA Finals",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17353532/texas-governor-race-gina-hinojosa-ad-greg-abbott-nba-finals-spurs-2026-midterms",
-    "content": "State Rep. Gina Hinojosa, Democratic candidate for governor, speaks during her campaign launch event in Brownsville on Oct. 15, 2025.",
-    "date": "2026-06-03T18:55:02",
-    "category": "Texas"
   }
 ]
