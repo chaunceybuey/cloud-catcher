@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/arts/music/wachner-plea-deal-child-sex-abuse-imagery-trinity-church.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Former Conductor to Plead Guilty in Child Sex Abuse Imagery Case",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/07/21/arts/music/wachner-plea-deal-child-sex-abuse-imagery-trinity-church.html",
+    "content": "Julian Wachner directed the music program for Trinity Church in New York until his ouster in 2022.",
+    "date": "2026-07-21T22:09:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
     "feed_name": "Douthat",
     "title": "Even Under Populism, Elite Failure Is Still a Problem",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-06-03T21:51:06",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232360",
-    "feed_name": "Texas Tribune",
-    "title": "First U.S. suspected case of New World screwworm reported in South Texas",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17353560/new-world-screwworm-texas-reported-case",
-    "content": "The U.S. Department of Agriculture is testing a suspected case of New World screwworm in South Texas. It would be the first of its kind in the U.S. in decades.",
-    "date": "2026-06-03T20:06:26",
-    "category": "Texas"
   }
 ]
