@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/dining/hungry-spicy-nyc-restaurant-openings.html",
+    "feed_name": "NYT (Food)",
+    "title": "Hungry Spicy Doesn\u2019t Pull Its Punches",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/07/21/dining/hungry-spicy-nyc-restaurant-openings.html",
+    "content": "A location of Kings Co. Imperial for Park Slope, Brooklyn, a new Frenchette bakery and more restaurant news.",
+    "date": "2026-07-21T17:09:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/us/kaylee-hottle-godzilla-kong-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Kaylee Hottle, Actress in \u2018Godzilla\u2019 Movies, Is Killed in Car Crash",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-06-03T14:42:56",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8779394#p8779394",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "retiringwhen",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8779394#p8779394",
-    "content": "What folks may not remember is that one primary reasons I understand that Vanguard dropped the old service was how embedded it was in the legacy IT systems. Tim Buckley implied in more than one interview that they jettisoned several areas of business to make it possible to modernize the IT infrastructure. Now that the modernization is mostly done, they can start adding back more niche services.<br /><br />The timing here makes that appear likely.<br /><br />Other businesses they stepped back from were Sovereign funds management, annuities, 403b and solo 401K accounts.<br /><br />I had predicted that Tim Buckley would end up looking like a fall guy for the tough IT environment of the early 2020s and his successor would look like the hero while all the really hard work got done under Tim's leadership. The prediction is looking more and more likely... His abrupt departure supports that thesis.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=122804\">retiringwhen</a> \u2014 Wed Jun 03, 2026 9:31 am</p><hr />",
-    "date": "2026-06-03T14:31:41",
-    "category": "Finance"
   }
 ]
