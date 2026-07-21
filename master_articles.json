@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a21cdf2f5769ed385fdf9e3",
+    "feed_name": "Wired",
+    "title": "Stop Saying Kids Can\u2019t Read",
+    "author": "Megan Greenwell",
+    "link": "https://www.wired.com/story/mississippi-state-testing-reading-comprehension-literacy/",
+    "content": "Everyone is talking about the reading crisis. But inside the \u201cMississippi Miracle,\u201d it\u2019s all about comprehension.",
+    "date": "2026-07-21T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19557",
+    "feed_name": "Stratechery",
+    "title": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
+    "content": "<p>Netflix's earnings were fine, and befitting a mature company whose most exciting days are likely behind them.</p>",
+    "date": "2026-07-21T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/arts/dance/american-ballet-theater-summer-dancer-standouts.html",
     "feed_name": "NYT (Arts)",
     "title": "Like It or Not, Summer Means Storytime at Ballet Theater",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/03/podcasts/best-friends-parenting-kid.html",
     "content": "Two queer friends dreamed of raising a child together. They almost made it real.",
     "date": "2026-06-03T09:02:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/movies/nick-jonas-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Even on His Own, Nick Is Still a Jonas Brother",
-    "author": "Ashley Spencer and OK McCausland",
-    "link": "https://www.nytimes.com/2026/06/03/movies/nick-jonas-interview.html",
-    "content": "With a starring role in \u201cPower Ballad\u201d and ambitions across mediums, the 33-year-old is carving a singular path.",
-    "date": "2026-06-03T09:02:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/arts/jeffrey-epstein-interlochen-michigan.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At Interlochen, Where Jeffrey Epstein\u2019s Shadow Still Lingers",
-    "author": "Graham Bowley and Jamie Kelter Davis",
-    "link": "https://www.nytimes.com/2026/06/03/arts/jeffrey-epstein-interlochen-michigan.html",
-    "content": "The arts school and camp is still contending with the fallout from its former ties to Mr. Epstein, an alumnus and donor accused of preying on two girls he met there.",
-    "date": "2026-06-03T09:02:01",
     "category": "NYT"
   }
 ]
