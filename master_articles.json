@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+    "feed_name": "Douthat",
+    "title": "Even Under Populism, Elite Failure Is Still a Problem",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
+    "content": "A new critique of Trumpism is too easy on elites.",
+    "date": "2026-07-21T21:16:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/dining/restaurant-review-stars-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Stars in New York",
@@ -19988,15 +19998,5 @@
     "content": "The U.S. Department of Agriculture is testing a suspected case of New World screwworm in South Texas. It would be the first of its kind in the U.S. in decades.",
     "date": "2026-06-03T20:06:26",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/briefing/03-the-good-list-knicks-rothko.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Good List: 6 Things to Bring Delight to Your Day",
-    "author": "Melissa Kirsch",
-    "link": "https://www.nytimes.com/2026/06/03/briefing/03-the-good-list-knicks-rothko.html",
-    "content": "Questions for bats, Rothko weather and Knicks fever.",
-    "date": "2026-06-03T19:44:47",
-    "category": "NYT"
   }
 ]
