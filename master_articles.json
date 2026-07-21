@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/arts/design/european-commission-venice-biennale-russia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Europe Cancels Venice Biennale Funding Over Russia\u2019s Return",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/21/arts/design/european-commission-venice-biennale-russia.html",
+    "content": "The Russian pavilion at the Venice Biennale this year.",
+    "date": "2026-07-21T15:07:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/21/movies/ava-duvernay-14th-new-york-film-festival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ava DuVernay\u2019s Documentary \u201914th\u2019 Will Close New York Film Festival",
+    "author": "Stephanie Goodman",
+    "link": "https://www.nytimes.com/2026/07/21/movies/ava-duvernay-14th-new-york-film-festival.html",
+    "content": "Ava DuVernay, left, with the former librarian of Congress, Carla Hayden.",
+    "date": "2026-07-21T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "7d6bd40e1dd2d0253df4f5254689f01a",
     "feed_name": "Compact",
     "title": "How French Theory Lost Its Cool",
@@ -19978,25 +19998,5 @@
     "content": "The president\u2019s battle over presidential records is more serious than it looks.",
     "date": "2026-06-03T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232303",
-    "feed_name": "Texas Tribune",
-    "title": "National Democrats aim to flip 12 Texas House seats under newly expanded target list",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17353159/texas-house-national-democrats-target-list-gop-districts-2026-midterms-legislature",
-    "content": "State lawmakers and their families bow their heads during the invocation on the House floor during the opening ceremony of the 89th Texas legislative session at the Capitol in Austin on Jan. 14, 2025.",
-    "date": "2026-06-03T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232115",
-    "feed_name": "Texas Tribune",
-    "title": "Big Tech finds a foe in Texas\u2019 robust consumer protection laws and AG Ken Paxton",
-    "author": "Paul Cobler",
-    "link": "https://feeds.texastribune.org/link/16799/17353160/texas-ken-paxton-tech-lawsuits-senate-campaign",
-    "content": "Texas Attorney General Ken Paxton speaks at a Lone Star Liberty PAC rally at The Angry Elephant in San Antonio on Thursday, May 21, 2025.",
-    "date": "2026-06-03T10:00:00",
-    "category": "Texas"
   }
 ]
