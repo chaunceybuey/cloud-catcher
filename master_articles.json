@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "d170d8411ea76996ac66741a9b118898",
+    "feed_name": "LRB",
+    "title": "On Politics: The US at 250",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-us-at-250",
+    "content": "Would the Founding Fathers recognise the modern United States as the republic they declared in 1776? The nation formed from Britain\u2019s North American colonies has become the most powerful and prosperous in the world, but the muted celebrations on 4 July reflected a divided country in which, for many of its citizens, the principles of the Declaration of Independence are hard to square with...",
+    "date": "2026-07-21T15:45:09",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/arts/design/european-commission-venice-biennale-russia.html",
     "feed_name": "NYT (Arts)",
     "title": "Europe Cancels Venice Biennale Funding Over Russia\u2019s Return",
@@ -78,6 +88,16 @@
     "content": "Ava DuVernay, left, with the former librarian of Congress, Carla Hayden.",
     "date": "2026-07-21T15:00:06",
     "category": "NYT"
+  },
+  {
+    "id": "0f3d41d93a1aab57962698f1f56a9b43",
+    "feed_name": "The Atlantic",
+    "title": "The Lines the Court Won\u2019t Cross",
+    "author": "Aziz Huq",
+    "link": "https://www.theatlantic.com/ideas/2026/07/scotus-birthright-citizenship-trump/687797/",
+    "content": "The Supreme Court is mostly giving the Trump administration what it wants\u2014with interesting exceptions.",
+    "date": "2026-07-21T14:06:47",
+    "category": "Magazines"
   },
   {
     "id": "7d6bd40e1dd2d0253df4f5254689f01a",
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/06/trump-superficiality/687413/",
     "content": "For the shallowest man ever to occupy the presidency, surface appeal is a guiding principle.",
     "date": "2026-06-03T13:19:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/arts/design/venice-biennale-public-vote.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Artists Threaten to Sue Venice Biennale for Including Them in Awards",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/06/03/arts/design/venice-biennale-public-vote.html",
-    "content": "The Venice Biennale\u2019s central pavilion last month.",
-    "date": "2026-06-03T12:05:36",
-    "category": "NYT"
-  },
-  {
-    "id": "952b2b72f983af9c1e2714f4c19ac8eb",
-    "feed_name": "The Atlantic",
-    "title": "Another Chance for Trump to Cash Out",
-    "author": "David Frum",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trump-presidential-library-presidential-records/687390/",
-    "content": "The president\u2019s battle over presidential records is more serious than it looks.",
-    "date": "2026-06-03T11:00:00",
     "category": "Magazines"
   }
 ]
