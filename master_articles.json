@@ -70,6 +70,16 @@
     "category": "NYT"
   },
   {
+    "id": "e8456514-5b50-413a-a250-13e7fb3c2af1",
+    "feed_name": "Economist",
+    "title": "How investors learned to live with inflation",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation",
+    "content": "Fewer than ever believe central bankers will bring it back to target",
+    "date": "2026-07-21T17:29:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/dining/hungry-spicy-nyc-restaurant-openings.html",
     "feed_name": "NYT (Food)",
     "title": "Hungry Spicy Doesn\u2019t Pull Its Punches",
@@ -19988,15 +19998,5 @@
     "content": "Caissie Levy was Broadway\u2019s first Elsa. She starred in \u201cHair\u201d and \u201cGhost.\u201d And now, for \u201cRagtime,\u201d she is an odds-on favorite to win a Tony Award.",
     "date": "2026-06-03T15:38:06",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/06/trump-superficiality/687413/",
-    "feed_name": "Chait",
-    "title": "Donald Trump\u2019s Superficiality Is Bone Deep",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trump-superficiality/687413/",
-    "content": "For the shallowest man ever to occupy the presidency, surface appeal is a guiding principle.\nDelivered by PolitePaul service",
-    "date": "2026-06-03T15:18:51",
-    "category": "Uncategorized"
   }
 ]
