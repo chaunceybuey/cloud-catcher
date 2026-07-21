@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/us/kaylee-hottle-godzilla-kong-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kaylee Hottle, Actress in \u2018Godzilla\u2019 Movies, Is Killed in Car Crash",
+    "author": "Victor Mather",
+    "link": "https://www.nytimes.com/2026/07/21/us/kaylee-hottle-godzilla-kong-dead.html",
+    "content": "Kaylee Hottle at the premiere of \u201cGodzilla x Kong: The New Empire\u201d in Hollywood, Calif., in March 2024.",
+    "date": "2026-07-21T16:11:39",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/21/dining/restaurant-review-chez-panisse.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Chez Panisse and Bar Panisse in Berkeley",
+    "author": "Tejal Rao",
+    "link": "https://www.nytimes.com/2026/07/21/dining/restaurant-review-chez-panisse.html",
+    "content": "The Bay Area farm-to-table classic changed the American restaurant scene. Now it has opened a dynamic new place right next door.",
+    "date": "2026-07-21T16:09:43",
+    "category": "NYT"
+  },
+  {
     "id": "d170d8411ea76996ac66741a9b118898",
     "feed_name": "LRB",
     "title": "On Politics: The US at 250",
@@ -19978,25 +19998,5 @@
     "content": "What folks may not remember is that one primary reasons I understand that Vanguard dropped the old service was how embedded it was in the legacy IT systems. Tim Buckley implied in more than one interview that they jettisoned several areas of business to make it possible to modernize the IT infrastructure. Now that the modernization is mostly done, they can start adding back more niche services.<br /><br />The timing here makes that appear likely.<br /><br />Other businesses they stepped back from were Sovereign funds management, annuities, 403b and solo 401K accounts.<br /><br />I had predicted that Tim Buckley would end up looking like a fall guy for the tough IT environment of the early 2020s and his successor would look like the hero while all the really hard work got done under Tim's leadership. The prediction is looking more and more likely... His abrupt departure supports that thesis.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=122804\">retiringwhen</a> \u2014 Wed Jun 03, 2026 9:31 am</p><hr />",
     "date": "2026-06-03T14:31:41",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8779389#p8779389",
-    "feed_name": "Vanguard",
-    "title": "Re: Vanguard Cash Plus Account",
-    "author": "stan1",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8779389#p8779389",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Adam Gill and new hires at Vanguard: \"Gill's LinkedIn profile states he is now working \"to launch [a] debit card and modernize\" Vanguard's cash accounts.\"<br /><br /><a class=\"postlink\" href=\"https://riabiz.com/a/2026/4/24/vanguard-could-flip-narrative-as-key-poach-of-ally-bank-exec-positions-it-to-meet-overwhelming-demand-for-debit-card-and-finally-stop-acting-like-stodgy-etf-company\">https://riabiz.com/a/2026/4/24/vanguard ... tf-company</a><br /><br />Gill was recently hired.  Article doesn't state timeline for re-launch</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Now that's an interesting reversal but Vanguard still has a long history of hiring top tier experts then implementing to 80% and stopping to save money.  I still want the legal protections and cash back of credit cards but glad they are doing it.  I almost wonder if ACH fraud is becoming such a significant risk that they have no other choice to move towards digital and tokenization (long term).  Will be even more surprised if they buy an FDIC bank.<br /><br />My guess is they have 100,000s of cash plus accounts sitting there with little use if there are 500,000 total as mentioned in the article.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=3663\">stan1</a> \u2014 Wed Jun 03, 2026 9:26 am</p><hr />",
-    "date": "2026-06-03T14:26:37",
-    "category": "Finance"
-  },
-  {
-    "id": "fdbbe3ca5284f5f0194d5fe6619a86ea",
-    "feed_name": "The Atlantic",
-    "title": "Donald Trump\u2019s Superficiality Is Bone Deep",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trump-superficiality/687413/",
-    "content": "For the shallowest man ever to occupy the presidency, surface appeal is a guiding principle.",
-    "date": "2026-06-03T13:19:00",
-    "category": "Magazines"
   }
 ]
