@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a21ca714a7696d91099f72e",
+    "feed_name": "Wired",
+    "title": "A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out",
+    "author": "Ara Rosenthal",
+    "link": "https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/",
+    "content": "An Instagram post turned one California student newspaper into a free-speech flash point. The students say they were just doing their homework.",
+    "date": "2026-07-22T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19564",
+    "feed_name": "Stratechery",
+    "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+    "content": "<p>OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.</p>",
+    "date": "2026-07-22T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/22/movies/white-nights-film-forum.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018White Nights\u2019: A Loner\u2019s All-Consuming Crush",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/04/movies/shes-the-he-review.html",
     "content": "Nico Carney and Misha Osherovich play best friends on a mission to enter the women\u2019s locker room.",
     "date": "2026-06-04T09:01:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/movies/masters-of-the-universe-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Masters of the Universe\u2019 Review: Becoming a He-Man",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/06/04/movies/masters-of-the-universe-review.html",
-    "content": "The filmmakers behind this new live-action movie lean into the franchise\u2019s ridiculousness, with sometimes engaging results.",
-    "date": "2026-06-04T09:01:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/movies/the-little-sister-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Little Sister\u2019 Review: Learning to Love",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/06/04/movies/the-little-sister-review.html",
-    "content": "A French Algerian teenager grapples with her sexuality and her faith in a tender coming-of-age drama.",
-    "date": "2026-06-04T09:01:40",
     "category": "NYT"
   }
 ]
