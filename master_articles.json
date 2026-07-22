@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/22/books/ellie-gottheimer-larra-mullin-childrens-book.html",
+    "feed_name": "NYT (Arts)",
+    "title": "They Wrote a Picture Book to Encourage Bipartisanship",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/07/22/books/ellie-gottheimer-larra-mullin-childrens-book.html",
+    "content": "Inspired by their fathers\u2019 friendship, Ellie Gottheimer, left, and Larra Mullin wrote \u201cShmoo & Ozzie Go to Washington.\u201d",
+    "date": "2026-07-22T21:11:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/the-bear-ayo-edebiri-ebon-moss-bachrach",
     "feed_name": "NYT (Arts)",
     "title": "These 2 Stars of \u2018The Bear\u2019 Are Close Friends Who Cook Together in Real Life",
@@ -88,6 +98,16 @@
     "content": "Forgetting yourself, listening to forests and The Most \u2018Wuthering Heights\u2019 Day Ever.",
     "date": "2026-07-22T20:08:04",
     "category": "NYT"
+  },
+  {
+    "id": "1177910bb2455dd7b34a0f1b078b00f9",
+    "feed_name": "The Atlantic",
+    "title": "The American People Need the Truth About the Iran War",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/07/trump-iran-conflict-pentagon/688026/",
+    "content": "The president and the Pentagon are not being up front about what has happened in more than 20 weeks of hostilities.",
+    "date": "2026-07-22T20:03:30",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=237615",
@@ -19978,25 +19998,5 @@
     "content": "Pommelien Thijs\u2019s catchy tunes are beloved in Belgium \u2014 in the Dutch-speaking part, at least.",
     "date": "2026-06-04T12:43:42",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/visiting-privileges-the-hill-harriet-clark/",
-    "feed_name": "NYRB",
-    "title": "Visiting Privileges",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/visiting-privileges-the-hill-harriet-clark/",
-    "content": "Harriet Clark\u2019s debut novel is a fable-like story of growing up in the fallout of a family\u2019s radical dreams.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-04T12:33:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/metsochism-metropolitans-new-york-baseball/",
-    "feed_name": "NYRB",
-    "title": "\u2018Metsochism\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/metsochism-metropolitans-new-york-baseball/",
-    "content": "A new history of the Mets tries to turn the pain of losing into the struggle of class politics.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-04T12:18:49",
-    "category": "Magazines"
   }
 ]
