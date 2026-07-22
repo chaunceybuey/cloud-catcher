@@ -70,6 +70,36 @@
     "category": "Texas"
   },
   {
+    "id": "0fc7047e1c2a7919a530b3accf113183",
+    "feed_name": "LRB",
+    "title": "Remembering Big Bill",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/july/remembering-big-bill",
+    "content": "Occasionally when the phone rang at the London Review offices in the late 1990s it would be the operator asking if we\u2019d accept a reverse.\u00a0.\u00a0.",
+    "date": "2026-07-22T15:04:48",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/22/dining/stir-fry-your-lettuce-ragu-your-green-beans-and-cake-your-coconut.html",
+    "feed_name": "NYT (Food)",
+    "title": "Stir-Fry Your Lettuce, Rag\u00f9 Your Green Beans and Cake Your Coconut",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/07/22/dining/stir-fry-your-lettuce-ragu-your-green-beans-and-cake-your-coconut.html",
+    "content": "Hetty Lui McKinnon\u2019s stir-fried lettuce with crispy garlic and fried eggs.",
+    "date": "2026-07-22T15:00:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/22/theater/oskar-eustis-public-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Oskar Eustis Is Stepping Down From the Public Theater",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/07/22/theater/oskar-eustis-public-theater.html",
+    "content": "\u201cI did not think remaking the business model in the midst of the greatest crisis in the history of the American theater was going to be my lot,\u201d Oskar Eustis said.",
+    "date": "2026-07-22T15:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=237448",
     "feed_name": "Texas Tribune",
     "title": "Community colleges beat student outcome predictions. Now Texas can\u2019t afford related incentives.",
@@ -19967,36 +19997,6 @@
     "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
     "content": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
     "date": "2026-06-04T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/when-the-rents-were-low-new-york-school-poets/",
-    "feed_name": "NYRB",
-    "title": "When the Rents Were Low",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/when-the-rents-were-low-new-york-school-poets/",
-    "content": "An oral history of the New York School Poets suggests how its successive cohorts have changed over the years.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-04T10:18:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/books/alan-gribben-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Alan Gribben, Twain Scholar Who Excised Slur From \u2018Huck Finn,\u2019 Dies at 84",
-    "author": "Michael S. Rosenwald",
-    "link": "https://www.nytimes.com/2026/06/04/books/alan-gribben-dead.html",
-    "content": "He made it his mission to track down every book Mark Twain owned \u2014 and to fix what he saw as flaws that kept schools from teaching the author\u2019s most famous works.",
-    "date": "2026-06-04T10:05:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/online/2026/05/28/subverting-the-nude-joan-semmel/",
-    "feed_name": "NYRB",
-    "title": "Subverting the Nude",
-    "author": "",
-    "link": "https://www.nybooks.com/online/2026/05/28/subverting-the-nude-joan-semmel/",
-    "content": "Joan Semmel\u2019s work is not just about reclaiming the female body from the male gaze but also about flesh, about carnality.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-04T10:03:49",
     "category": "Magazines"
   }
 ]
