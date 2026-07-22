@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/22/arts/design/tate-museums-jessica-morgan-director.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tate Museums Taps Leader of Dia Art Foundation as Next Director",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/22/arts/design/tate-museums-jessica-morgan-director.html",
+    "content": "Jessica Morgan in 2024. The Tate post is a homecoming for Morgan, who was born in London.",
+    "date": "2026-07-22T12:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "99d2a2b48589bb30dd27fc06bd3f6d88",
     "feed_name": "LRB",
     "title": "Palantir and the NHS",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/06/04/european-electricity-markets-have-too-much-power",
     "content": "They must learn to deal with it",
     "date": "2026-06-04T09:37:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "5d82e3b3-7bf3-44fe-a434-2235bd7dfe25",
-    "feed_name": "Economist",
-    "title": "Some billionaires pay too little tax",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/04/some-billionaires-pay-too-little-tax",
-    "content": "But the case for levies on wealth is unconvincing",
-    "date": "2026-06-04T09:18:42",
     "category": "Magazines"
   }
 ]
