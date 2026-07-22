@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/22/arts/design/glasgow-school-of-art-fire.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Fire Ravaged the Glasgow School of Art. It May Cost Too Much to Restore It.",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/22/arts/design/glasgow-school-of-art-fire.html",
+    "content": "The fire that destroyed the Glasgow School of Art building in 2018, four years after another huge fire there.",
+    "date": "2026-07-22T16:38:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/22/arts/television/the-vampire-lestat-season-finale.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Vampire Lestat\u2019 Was a Dissonant Viewing Experience",
+    "author": "Maya Phillips",
+    "link": "https://www.nytimes.com/2026/07/22/arts/television/the-vampire-lestat-season-finale.html",
+    "content": "This season of \u201cThe Vampire Lestat\u201d featured an outstanding lead performance but an unrecognizable title character.",
+    "date": "2026-07-22T16:30:31",
+    "category": "NYT"
+  },
+  {
     "id": "0fc7047e1c2a7919a530b3accf113183",
     "feed_name": "LRB",
     "title": "Remembering Big Bill",
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/06/ai-writing-reading-nazir/687419/",
     "content": "AI has already changed writing. Now the technology is changing what it means to read.",
     "date": "2026-06-04T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/image-crazy-a-flood-of-pictures-michael-leja/",
-    "feed_name": "NYRB",
-    "title": "Image Crazy",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/image-crazy-a-flood-of-pictures-michael-leja/",
-    "content": "In the decades before the Civil War, innovations in printmaking and photography created a \u201crage for pictures\u201d that transformed American visual culture.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-04T10:48:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/the-siren-song-of-illness-master-of-contradictions-jensen/",
-    "feed_name": "NYRB",
-    "title": "The Siren Song of Illness",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/the-siren-song-of-illness-master-of-contradictions-jensen/",
-    "content": "In writing <em>The Magic Mountain</em>, Thomas Mann struggled to free himself from his artistic preoccupation with sickness and death.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-04T10:33:49",
     "category": "Magazines"
   }
 ]
