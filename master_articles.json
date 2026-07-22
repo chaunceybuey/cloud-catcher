@@ -300,6 +300,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/22/movies/criterion-collection-black-film.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Six Years After a Reckoning, Criterion Puts \u2018Cinematic Blackness\u2019 in Focus",
+    "author": "Beandrea July",
+    "link": "https://www.nytimes.com/2026/07/22/movies/criterion-collection-black-film.html",
+    "content": "Adding a curator, the Criterion Collection expanded its offerings and its vision of Black film. But auteurs continue to push the company on what inclusion means.",
+    "date": "2026-07-22T09:01:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/22/arts/six-years-after-a-reckoning-criterion-puts-cinematic-blackness-in-focus.html",
     "feed_name": "NYT (Arts)",
     "title": "Six Years After a Reckoning, Criterion Puts \u2018Cinematic Blackness\u2019 in Focus",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/06/25/the-siren-song-of-illness-master-of-contradictions-jensen/",
     "content": "In writing <em>The Magic Mountain</em>, Thomas Mann struggled to free himself from his artistic preoccupation with sickness and death.\n\nDelivered by PolitePaul service",
     "date": "2026-06-04T10:33:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a0f8e0e730e71e90fb731c1",
-    "feed_name": "Wired",
-    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain\u2019s \u2018Core Algorithm\u2019",
-    "author": "Steven Levy",
-    "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
-    "content": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
-    "date": "2026-06-04T10:30:00",
     "category": "Magazines"
   }
 ]
