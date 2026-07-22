@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "99d2a2b48589bb30dd27fc06bd3f6d88",
+    "feed_name": "LRB",
+    "title": "Palantir and the NHS",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/palantir-and-the-nhs",
+    "content": "The US tech giant Palantir \u2018holds public contracts worth hundreds of millions of pounds in everything from financial regulation to local government\u2019, Peter Geoghegan and Lucas Amin wrote recently in theLRB. The newsletter where they work, Democracy for Sale, \u2018has been looking into Palantir\u2019s business in the UK, and particularly its contracts with the NHS\u2019. On...",
+    "date": "2026-07-22T10:26:30",
+    "category": "Magazines"
+  },
+  {
     "id": "6a21ca714a7696d91099f72e",
     "feed_name": "Wired",
     "title": "A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out",
@@ -178,6 +188,16 @@
     "content": "\u201cFighting again with Canada?\u201d Desi Lydic said about the president imposing new tariffs on the country. \u201cI thought we were going to work this \u2018oot.\u2019\u201d",
     "date": "2026-07-22T06:02:28",
     "category": "NYT"
+  },
+  {
+    "id": "fe0cd726bdd8fe7a83f288cc29397a56",
+    "feed_name": "Outside",
+    "title": "Noodling for Catfish Is Now a Tourist Activity. We Blame TikTok.",
+    "author": "Aidan McCahill",
+    "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/catfish-noodling-guide/",
+    "content": "",
+    "date": "2026-07-22T03:29:05",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=237453",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/04/theater/lane-metcalf-mantello-death-of-a-salesman-broadway.html",
     "content": "From left, Nathan Lane, Joe Mantello and Laurie Metcalf in Lane\u2019s dressing room at the Winter Garden Theater in Manhattan after a recent performance of \u201cDeath of a Salesman.\u201d",
     "date": "2026-06-04T09:02:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/movies/underland-review-subterranean-adventurers.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Underland\u2019 Review: Subterranean Adventurers",
-    "author": "Manohla Dargis",
-    "link": "https://www.nytimes.com/2026/06/04/movies/underland-review-subterranean-adventurers.html",
-    "content": "All over the world, voyagers are descending, legally and not, into the lower depths. This documentary offers a frustratingly abbreviated look at three of them.",
-    "date": "2026-06-04T09:01:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/movies/shes-the-he-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018She\u2019s the He\u2019 Review: A Campy, Gender Swap Comedy",
-    "author": "Chris Azzopardi",
-    "link": "https://www.nytimes.com/2026/06/04/movies/shes-the-he-review.html",
-    "content": "Nico Carney and Misha Osherovich play best friends on a mission to enter the women\u2019s locker room.",
-    "date": "2026-06-04T09:01:46",
     "category": "NYT"
   }
 ]
