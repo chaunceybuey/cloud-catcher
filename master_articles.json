@@ -70,6 +70,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/22/arts/television/peter-lassally-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Peter Lassally, Longtime Late-Night TV Producer, Dies at 93",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/07/22/arts/television/peter-lassally-dead.html",
+    "content": "Peter Lassally in an undated photo. One of his strengths was \u201cgetting the host to understand how to listen,\u201d the comedian Garry Shandling said, and \u201chow to ask the questions that an audience might want to hear.\u201d",
+    "date": "2026-07-22T22:12:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/22/arts/music/sparky-d-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Doreen Broadnax, Famous (as Sparky D) for \u201980s Rap Battle, Dies at 61",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/07/22/arts/music/sparky-d-dead.html",
+    "content": "Doreen Broadnax in 1988, after the end of the so-called Roxanne Wars, one of the first rap battles.",
+    "date": "2026-07-22T22:08:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/22/arts/television/jason-alexander-apology-courtney-stodden.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jason Alexander Apologizes for to Courtney Stodden for 2012 Comedy Sketch",
+    "author": "Reggie Ugwu",
+    "link": "https://www.nytimes.com/2026/07/22/arts/television/jason-alexander-apology-courtney-stodden.html",
+    "content": "\u201cI completely agree that it was inappropriate and I truly regret it,\u201d Jason Alexander said.",
+    "date": "2026-07-22T21:47:39",
+    "category": "NYT"
+  },
+  {
     "id": "6a5f946e7fd88f48c7789a41",
     "feed_name": "Wired (Science)",
     "title": "Why Lettuce Is Always Making People Sick",
@@ -19968,35 +19998,5 @@
     "content": "\u201cAnother Wonderland: Abram Champanier\u2019s Alice Mural\u201d at the Museum of the City of New York brings together 16 panels of the only surviving W.P.A. mural from a hospital children\u2019s ward.",
     "date": "2026-06-04T14:33:08",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/arts/music/limmie-pulliam-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Limmie Pulliam, Tenor Who Overcame the Stigma of His Size, Dies at 50",
-    "author": "Adam Nossiter",
-    "link": "https://www.nytimes.com/2026/06/04/arts/music/limmie-pulliam-dead.html",
-    "content": "He quit singing in his early 20s when opera companies objected to his appearance, but after a 12-year absence he revived his career to acclaim.",
-    "date": "2026-06-04T13:18:23",
-    "category": "NYT"
-  },
-  {
-    "id": "72d88476ccfaaebb09a68070ab52f72a",
-    "feed_name": "The Atlantic",
-    "title": "Men in Cages",
-    "author": "Eric Schlosser",
-    "link": "https://www.theatlantic.com/ideas/2026/06/alligator-alcatraz-desantis-florida-immigration/687415/",
-    "content": "The immigrant-detention facility Alligator Alcatraz, which may soon be shut down, has been a cruel and costly publicity stunt.",
-    "date": "2026-06-04T13:07:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/call-my-agent-middlemen-laura-b-mcgrath/",
-    "feed_name": "NYRB",
-    "title": "Call My Agent",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/call-my-agent-middlemen-laura-b-mcgrath/",
-    "content": "With their blend of taste and market savvy, literary agents have been both invisible and necessary in contemporary American fiction.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-04T12:48:49",
-    "category": "Magazines"
   }
 ]
