@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Whitney Cummings\u2019s Trump Joke at Kennedy Center Is Cut From Netflix Special",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html",
+    "content": "Whitney Cummings opened the ceremony for the Mark Twain Prize, which was awarded to Bill Maher at the Kennedy Center last month.",
+    "date": "2026-07-22T00:22:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237388",
+    "feed_name": "Texas Tribune",
+    "title": "Passengers in Houston ICE shooting say agents rammed their van before firing",
+    "author": "Uriel J. Garc\u00eda, Lomi Kriel, and Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17384517/texas-houston-ice-shooting-witnesses-statements",
+    "content": "A community vigil in honor of  Lorenzo Salgado Araujo at Wildflower Church in Austin on July 11, 2026.",
+    "date": "2026-07-22T00:07:50",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/21/arts/music/wachner-plea-deal-child-sex-abuse-imagery-trinity-church.html",
     "feed_name": "NYT (Arts)",
     "title": "Former Conductor to Plead Guilty in Child Sex Abuse Imagery Case",
@@ -19978,25 +19998,5 @@
     "content": "",
     "date": "2026-06-04T04:16:29",
     "category": "Magazines"
-  },
-  {
-    "id": "fd580c3845d9dc1faada04f5f5ef39e8",
-    "feed_name": "Outside",
-    "title": "Colorado\u2019s Wolf Reintroduction Hasn\u2019t Gone to Plan. Are the New Midnight Cowboys Its Last Hope?",
-    "author": "Corey Buhay",
-    "link": "https://www.outsideonline.com/outdoor-adventure/environment/colorado-wolf-reintroduction-range-riders/",
-    "content": "",
-    "date": "2026-06-04T03:20:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Pace Gallery Cuts 50 Artists and 50 Staff Amid Art Market Challenges",
-    "author": "Robin Pogrebin",
-    "link": "https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html",
-    "content": "\u201cThe whole art gallery art system became too big, too commercial, too impersonal and too corporate,\u201d Marc Glimcher, the chief executive of Pace Gallery, said.",
-    "date": "2026-06-04T02:43:11",
-    "category": "NYT"
   }
 ]
