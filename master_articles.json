@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a5f946e7fd88f48c7789a41",
+    "feed_name": "Wired (Science)",
+    "title": "Why Lettuce Is Always Making People Sick",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/why-lettuce-always-making-people-sick/",
+    "content": "The cyclospora diarrhea outbreak isn't an isolated incident. It's part of a pattern of leafy greens wreaking digestive havoc.",
+    "date": "2026-07-22T21:41:29",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/22/books/ellie-gottheimer-larra-mullin-childrens-book.html",
     "feed_name": "NYT (Arts)",
     "title": "They Wrote a Picture Book to Encourage Bipartisanship",
@@ -19988,15 +19998,5 @@
     "content": "With their blend of taste and market savvy, literary agents have been both invisible and necessary in contemporary American fiction.\n\nDelivered by PolitePaul service",
     "date": "2026-06-04T12:48:49",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/arts/music/pommelien-thijs-belgium-pop.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Pommelien Thijs, a Pop Star for Half a Country",
-    "author": "Alex Marshall and Ilvy Njiokiktjien",
-    "link": "https://www.nytimes.com/2026/06/04/arts/music/pommelien-thijs-belgium-pop.html",
-    "content": "Pommelien Thijs\u2019s catchy tunes are beloved in Belgium \u2014 in the Dutch-speaking part, at least.",
-    "date": "2026-06-04T12:43:42",
-    "category": "NYT"
   }
 ]
