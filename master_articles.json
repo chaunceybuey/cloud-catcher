@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/22/business/media/cinerama-dome-sony-pictures-hollywood.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sony Revives Cinerama Dome in Los Angeles as Box Office Sales Rebound",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/07/22/business/media/cinerama-dome-sony-pictures-hollywood.html",
+    "content": "The 956-seat Cinerama Dome in Hollywood first opened in 1963.",
+    "date": "2026-07-22T18:58:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/22/arts/design/glasgow-school-of-art-fire.html",
     "feed_name": "NYT (Arts)",
     "title": "Fire Ravaged the Glasgow School of Art. It May Cost Too Much to Restore It.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/06/25/a-different-country-came-to-them-jewish-and-greek-merchants-salonica/",
     "content": "Until Greece annexed Salonica in 1912, it had long been a city where \u201call peoples\u201d used to pass. How did its Jews come to be eliminated and their history erased?\n\nDelivered by PolitePaul service",
     "date": "2026-06-04T11:03:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "1f24bfa8b83ea27b24b26ca6a2df36d5",
-    "feed_name": "The Atlantic",
-    "title": "The Death of the Reader",
-    "author": "Walt Hunter",
-    "link": "https://www.theatlantic.com/ideas/2026/06/ai-writing-reading-nazir/687419/",
-    "content": "AI has already changed writing. Now the technology is changing what it means to read.",
-    "date": "2026-06-04T11:00:00",
     "category": "Magazines"
   }
 ]
