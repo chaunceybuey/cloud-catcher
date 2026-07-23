@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "ff9920824ba4c687282095e35f4e8cd4",
+    "feed_name": "Compact",
+    "title": "Podcast",
+    "author": "",
+    "link": "https://www.compactmag.com/podcast/",
+    "content": "",
+    "date": "2026-07-23T20:13:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "be9831d94055de1abb1cb322fcab715a",
+    "feed_name": "Compact",
+    "title": "Compact",
+    "author": "",
+    "link": "https://www.compactmag.com/",
+    "content": "",
+    "date": "2026-07-23T20:13:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/23/dining/fine-casual.html",
+    "feed_name": "NYT (Food)",
+    "title": "Three Excellent Restaurants from Fine-Dining Dropouts",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/07/23/dining/fine-casual.html",
+    "content": "At these restaurants the chefs have hung up their tweezers to focus on the kind of casual food you can enjoy any day of the week.",
+    "date": "2026-07-23T19:45:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=237791",
     "feed_name": "Texas Tribune",
     "title": "Texas Panhandle shaken by strongest earthquake in five years",
@@ -19967,36 +19997,6 @@
     "link": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
     "content": "From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.",
     "date": "2026-06-05T16:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "4e7d033832ab27dba0674e416d114c20",
-    "feed_name": "LRB",
-    "title": "Labour in Scotland",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n10/rory-scothorne/capture-the-flag",
-    "content": "Some Labour MPs\u200b always had their doubts about the 1998 Scotland Act. According to Tom Harris, former Labour MP for Glasgow South, there was a joke in the Commons tearoom: \u2018Line 1, between \u201cthere shall\u201d and \u201cbe a Scottish Parliament\u201d, insert \u201cnot\u201d.\u2019 Since the inception of the Scottish Parliament, Labour\u2019s number of seats has dropped in...",
-    "date": "2026-06-05T15:55:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "18fb79b8fe93363eae398aeb8f2ca820",
-    "feed_name": "New Yorker",
-    "title": "Cartoon Caption Contest",
-    "author": "",
-    "link": "https://www.newyorker.com/cartoons/contest",
-    "content": "Submit a caption, plus vote on other entries and finalists.",
-    "date": "2026-06-05T15:55:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "801d30df1c2ca1588c05c7654a88c397",
-    "feed_name": "Compact",
-    "title": "The Coming Age of Digital Warfare",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-coming-age-of-digital-warfare/",
-    "content": "",
-    "date": "2026-06-05T15:55:38",
     "category": "Magazines"
   }
 ]
