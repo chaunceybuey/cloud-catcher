@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=237791",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Panhandle shaken by strongest earthquake in five years",
+    "author": "Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17385634/texas-panhandle-earthquake",
+    "content": "A view of Lake Palo Duro in Hansford County. The U.S. Geological Survey recorded a 5.0 magnitude earthquake near Spearman, the county seat.",
+    "date": "2026-07-23T19:21:33",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237786",
+    "feed_name": "Texas Tribune",
+    "title": "East Texas data center project pulled after facing community backlash",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17385635/east-texas-data-center-withdrawn",
+    "content": "A heavily wooded property off of a country road near Athens in Henderson Co. on April 1, 2019. Diode Ventures has withdrawn plans for a datacenter in the East Texas county.",
+    "date": "2026-07-23T19:06:26",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/23/movies/venice-film-festival-lineup.html",
     "feed_name": "NYT (Arts)",
     "title": "Rupert Murdoch Biopic Is Among Premieres at Venice Film Festival",
@@ -19975,26 +19995,6 @@
     "title": "The Coming Age of Digital Warfare",
     "author": "",
     "link": "https://www.compactmag.com/article/the-coming-age-of-digital-warfare/",
-    "content": "",
-    "date": "2026-06-05T15:55:38",
-    "category": "Magazines"
-  },
-  {
-    "id": "ff9920824ba4c687282095e35f4e8cd4",
-    "feed_name": "Compact",
-    "title": "Podcast",
-    "author": "",
-    "link": "https://www.compactmag.com/podcast/",
-    "content": "",
-    "date": "2026-06-05T15:55:38",
-    "category": "Magazines"
-  },
-  {
-    "id": "be9831d94055de1abb1cb322fcab715a",
-    "feed_name": "Compact",
-    "title": "Compact",
-    "author": "",
-    "link": "https://www.compactmag.com/",
     "content": "",
     "date": "2026-06-05T15:55:38",
     "category": "Magazines"
