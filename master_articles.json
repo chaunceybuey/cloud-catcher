@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/23/movies/the-odyssey-viking-ship-sweden.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Odyssey\u2019 Hired Their Viking Ship. They Say It Came Back Damaged.",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/23/movies/the-odyssey-viking-ship-sweden.html",
+    "content": "A Swedish Viking center said its vessel was used in the filming of Christopher Nolan\u2019s epic but needed repairs when it was returned. Now, the center is seeking compensation.",
+    "date": "2026-07-23T14:23:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/23/arts/trainspotting-the-musical-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Trainspotting: The Musical\u2019: When the Lust for Life Is Gone",
@@ -317,6 +327,16 @@
     "link": "https://www.nytimes.com/2026/07/23/arts/television/keith-david-president-curtis.html",
     "content": "Keith David has appeared in hundreds of feature films and TV series, many times in voice-over. Now his character in \u201cRick and Morty\u201d is getting its own spinoff, \u201cPresident Curtis.\u201d",
     "date": "2026-07-23T09:00:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/best-crunchy-recipes",
+    "feed_name": "NYT (Food)",
+    "title": "Let\u2019s Get Loud: These 19 Extra-Crunchy Recipes Hit The Spot Every Time",
+    "author": "Emily Fleischaker",
+    "link": "https://cooking.nytimes.com/article/best-crunchy-recipes",
+    "content": "From chickpea fatteh to Frito pie, here are our best noisy, crackly dishes to satisfy cravings.",
+    "date": "2026-07-23T09:00:30",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/05/theater/rebecca-chaillon-wiener-festwochen-avignin-festival.html",
     "content": "\u201cNo one is going to hurt themselves like you do,\u201d a member of the production team for R\u00e9becca Chaillon\u2019s new show told her.",
     "date": "2026-06-05T13:36:15",
-    "category": "NYT"
-  },
-  {
-    "id": "392426b76c9932cb615c98d2a4323d1d",
-    "feed_name": "The Atlantic",
-    "title": "The Republicans Who Impugn Talarico\u2019s Manhood",
-    "author": "Helen Lewis",
-    "link": "https://www.theatlantic.com/ideas/2026/06/james-talarico-senate-paxton/687436/",
-    "content": "Attacks on the Democratic Senate candidate in Texas show the GOP\u2019s narrow, anxious definition of masculinity.",
-    "date": "2026-06-05T13:25:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/05/arts/music/freedom-250-trump-lee-greenwood-christopher-macchio.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Trump Says Lee Greenwood and Christopher Macchio Will Replace Freedom 250 Artists",
-    "author": "Jason M. Bailey",
-    "link": "https://www.nytimes.com/2026/06/05/arts/music/freedom-250-trump-lee-greenwood-christopher-macchio.html",
-    "content": "Lee Greenwood performing last month. In his announcement, President Trump called Mr. Greenwood\u2019s song \u201cGod Bless the U.S.A.\u201d \u201cone of the greatest hits of all time.\u201d",
-    "date": "2026-06-05T13:10:38",
     "category": "NYT"
   }
 ]
