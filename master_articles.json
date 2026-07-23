@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/23/dining/charred-shrimp-with-shimi-sauce-to-share.html",
+    "feed_name": "NYT (Food)",
+    "title": "Charred Shrimp With Shimi Sauce to Share",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/23/dining/charred-shrimp-with-shimi-sauce-to-share.html",
+    "content": "Lay Alston\u2019s charred shrimp with shimi sauce, adapted by Yewande Komolafe.",
+    "date": "2026-07-23T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/23/movies/the-odyssey-viking-ship-sweden.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Odyssey\u2019 Hired Their Viking Ship. They Say It Came Back Damaged.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/05/theater/rebecca-chaillon-wiener-festwochen-avignon-festival.html",
     "content": "\u201cNo one is going to hurt themselves like you do,\u201d a member of the production team for R\u00e9becca Chaillon\u2019s new show told her.",
     "date": "2026-06-05T13:59:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/05/theater/rebecca-chaillon-wiener-festwochen-avignin-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "R\u00e9becca Chaillon Punished Her Body Onstage for Years. Now, She\u2019s Testing New Limits.",
-    "author": "Laura Cappelle",
-    "link": "https://www.nytimes.com/2026/06/05/theater/rebecca-chaillon-wiener-festwochen-avignin-festival.html",
-    "content": "\u201cNo one is going to hurt themselves like you do,\u201d a member of the production team for R\u00e9becca Chaillon\u2019s new show told her.",
-    "date": "2026-06-05T13:36:15",
     "category": "NYT"
   }
 ]
