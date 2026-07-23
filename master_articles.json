@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "18fb79b8fe93363eae398aeb8f2ca820",
+    "feed_name": "New Yorker",
+    "title": "Cartoon Caption Contest",
+    "author": "",
+    "link": "https://www.newyorker.com/cartoons/contest",
+    "content": "Submit a caption, plus vote on other entries and finalists.",
+    "date": "2026-07-23T20:13:57",
+    "category": "Magazines"
+  },
+  {
     "id": "ff9920824ba4c687282095e35f4e8cd4",
     "feed_name": "Compact",
     "title": "Podcast",
@@ -19986,16 +19996,6 @@
     "author": "Jaclyn Trop",
     "link": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
     "content": "As the conflict in Iran disrupts the world\u2019s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease.",
-    "date": "2026-06-05T16:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a108f9454ae2f8381915817",
-    "feed_name": "Wired (Science)",
-    "title": "So Long, \u2018Ferrynoia.\u2019 Green Maritime Technology Is Here",
-    "author": "Jaclyn Trop",
-    "link": "https://www.wired.com/story/so-long-ferrynoia-green-maritime-technology-is-here/",
-    "content": "From San Francisco to Stockholm, a new generation of electric ferries is entering passenger service, marking a tipping point for green maritime technology.",
     "date": "2026-06-05T16:00:00",
     "category": "Magazines"
   }
