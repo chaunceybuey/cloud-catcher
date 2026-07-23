@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/23/arts/jessica-morgan-tate-dia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tate\u2019s New Director Knows Its Glory Days. Can She Bring Them Back?",
+    "author": "Emily LaBarge",
+    "link": "https://www.nytimes.com/2026/07/23/arts/jessica-morgan-tate-dia.html",
+    "content": "Jessica Morgan in 2024. In her earlier Tate days, she brought works by about 100 new artists into the permanent collection and curated a variety of critically admired exhibitions.",
+    "date": "2026-07-23T08:40:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/23/arts/television/late-night-trump-administration-tiktok.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Rags on Trump and His Cabinet Joining TikTok",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/04/arts/music/kennedy-center-trump-name-memo.html",
     "content": "An internal memo instructed Kennedy Center employees to update the institution\u2019s branding on social media accounts, email signatures and voice mail messages.",
     "date": "2026-06-04T17:44:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/arts/kennedy-center-national-symphony.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Amid Kennedy Center Strife, the National Symphony Faces a Cloudy Future",
-    "author": "Julia Jacobs and Adam Nagourney",
-    "link": "https://www.nytimes.com/2026/06/04/arts/kennedy-center-national-symphony.html",
-    "content": "Gianandrea Noseda, music director of the National Symphony Orchestra, conducting a performance featuring the Washington Chorus in January. The orchestra\u2019s next season is facing uncertainties.",
-    "date": "2026-06-04T17:04:12",
     "category": "NYT"
   }
 ]
