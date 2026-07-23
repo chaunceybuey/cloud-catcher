@@ -70,6 +70,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=237693",
+    "feed_name": "Texas Tribune",
+    "title": "Higher education agency prepares to cut 3% of spending as ordered by Texas leaders",
+    "author": "Sneha Dey",
+    "link": "https://feeds.texastribune.org/link/16799/17385128/texas-higher-education-spending-cuts",
+    "content": "Students walk through the Trauth-Huffman Hall arch at Texas State University on Sept. 2, 2025, in San Marcos.",
+    "date": "2026-07-23T00:32:11",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237688",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 longstanding \u201cRobin Hood\u201d school finance system will face a new legal challenge",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17385129/west-texas-midland-district-lawsuit-school-finance-robin-hood",
+    "content": "The Midland Independent School District Administration Building on Oct. 7, 2025 in downtown Midland.",
+    "date": "2026-07-23T00:03:32",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=237681",
     "feed_name": "Texas Tribune",
     "title": "Cornyn votes for Trump diplomatic nominees after securing funds for global HIV/AIDS initiative",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/04/dining/my-post-vacation-vegetable-deficit-is-critical.html",
     "content": "Jenn\u00e9 Claiborne\u2019s vegan spring vegetable frittata.",
     "date": "2026-06-04T17:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232415",
-    "feed_name": "Texas Tribune",
-    "title": "What to know about screwworm in Texas",
-    "author": "Stephen Simpson and Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17354099/screwworm-texas-united-states",
-    "content": "The first case of New World screwworm in the U.S. was found in South Texas and confirmed June 3.",
-    "date": "2026-06-04T16:24:43",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/04/movies/wim-wenders-nastassja-kinski-nudity-topless-wrong-move.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Wim Wenders Pulls Film With Teenage Nudity After Pleas by Nastassja Kinski",
-    "author": "Christopher F. Schuetze",
-    "link": "https://www.nytimes.com/2026/06/04/movies/wim-wenders-nastassja-kinski-nudity-topless-wrong-move.html",
-    "content": "Nastassja Kinski and Wim Wenders after a screening of \u201cParis, Texas\u201d in 1984.",
-    "date": "2026-06-04T15:53:44",
     "category": "NYT"
   }
 ]
