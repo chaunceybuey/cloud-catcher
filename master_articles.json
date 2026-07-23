@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/23/dining/cooking-with-heat-in-this-heat-not-on-my-watch.html",
+    "feed_name": "NYT (Food)",
+    "title": "Cooking With Heat? In This Heat? Not on My Watch",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/07/23/dining/cooking-with-heat-in-this-heat-not-on-my-watch.html",
+    "content": "Hana Asbrink\u2019s cold tofu salad with tomatoes and peaches.",
+    "date": "2026-07-23T17:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "38b7c86d7082a5c8b01926072b6463c0",
     "feed_name": "LRB",
     "title": "Don\u2019t extradite him",
@@ -19988,15 +19998,5 @@
     "content": "In this month\u2019s picks, fatal fungi and killer calamari. Plus, lots of zombies (and a few podcasters).",
     "date": "2026-06-05T15:00:02",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/05/opinion/anna-paulina-luna-epstein-jfk-ufo-conspiracy.html",
-    "feed_name": "Interesting Times",
-    "title": "Anna Paulina Luna Wants Everything Disclosed",
-    "author": "Ross Douthat and Victoria Chamberlin",
-    "link": "https://www.nytimes.com/2026/06/05/opinion/anna-paulina-luna-epstein-jfk-ufo-conspiracy.html",
-    "content": "The MAGA Representative on Epstein, J.F.K. and U.F.O.s.",
-    "date": "2026-06-05T14:45:53",
-    "category": "Uncategorized"
   }
 ]
