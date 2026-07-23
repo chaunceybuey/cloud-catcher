@@ -70,6 +70,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/23/arts/trainspotting-the-musical-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Trainspotting: The Musical\u2019: When the Lust for Life Is Gone",
+    "author": "Houman Barekat",
+    "link": "https://www.nytimes.com/2026/07/23/arts/trainspotting-the-musical-review.html",
+    "content": "If the 1996 cult classic film was a high for a generation of moviegoers, a new London stage production feels like the comedown.",
+    "date": "2026-07-23T12:02:44",
+    "category": "NYT"
+  },
+  {
     "id": "72b9193a6d770a1f5518265066376155",
     "feed_name": "Compact",
     "title": "Misanthropic Altruism",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/05/arts/music/freedom-250-trump-lee-greenwood-christopher-macchio.html",
     "content": "Lee Greenwood performing last month. In his announcement, President Trump called Mr. Greenwood\u2019s song \u201cGod Bless the U.S.A.\u201d \u201cone of the greatest hits of all time.\u201d",
     "date": "2026-06-05T13:10:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/05/theater/morgan-bassichis-can-i-be-frank.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018Can I Be Frank?,\u2019 Imitation Is the Sincerest Form of Tragedy",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/06/05/theater/morgan-bassichis-can-i-be-frank.html",
-    "content": "Morgan Bassichis in the solo show \u201cCan I Be Frank?\u201d at the SoHo Playhouse in Manhattan.",
-    "date": "2026-06-05T12:31:18",
     "category": "NYT"
   }
 ]
