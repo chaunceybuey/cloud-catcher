@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/arts/television/jimmy-fallon-trump-pinky-herman.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Fallon Pokes Fun at Trump\u2019s \u2018Pinky Herman\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/24/arts/television/jimmy-fallon-trump-pinky-herman.html",
+    "content": "\u201cYou got to give Trump credit: He misspeaks in ways nobody ever thought possible,\u201d Fallon said of the president\u2019s calling the famous man-child character \u201cPinky,\u201d instead of \u201cPee-wee,\u201d Herman.",
+    "date": "2026-07-24T05:34:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/23/movies/72-hours-review-kevin-hart-netflix.html",
     "feed_name": "NYT (Arts)",
     "title": "\u201872 Hours\u2019 Review: Kevin Hart Is Joining Your Bachelor Party",
@@ -19986,16 +19996,6 @@
     "author": "Rachel Cernansky",
     "link": "https://www.wired.com/story/environmentally-conscious-packing-tips/",
     "content": "Your trip starts impacting the planet before you even leave home. Here are a few pointers for keeping your footprint small.",
-    "date": "2026-06-05T16:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a10831453c0522b0e59b1eb",
-    "feed_name": "Wired (Science)",
-    "title": "How to Spot Greenwashing Claims When You Travel",
-    "author": "Rachel Cernansky",
-    "link": "https://www.wired.com/story/how-to-spot-greenwashing-when-you-travel/",
-    "content": "Hotels and other service providers pitch themselves as eco-friendly when they\u2019re not. Here\u2019s how to call their bluff.",
     "date": "2026-06-05T16:00:00",
     "category": "Magazines"
   }
