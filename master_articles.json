@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a638631e1cb4b1845cdbf8a",
+    "feed_name": "Wired (Science)",
+    "title": "The 2026 El Ni\u00f1o Is on Track to Be the Strongest on Record",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
+    "content": "This climate phenomenon could cause a massive global temperature spike and cause economic losses of $10 trillion by 2032.",
+    "date": "2026-07-24T18:50:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=19572",
     "feed_name": "Stratechery",
     "title": "2026.30: The Copium Wars",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/06/dining/ive-been-depriving-you-of-cookies.html",
     "content": "Eric Kim\u2019s frosted sugar cookies.",
     "date": "2026-06-06T14:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html",
-    "feed_name": "Douthat",
-    "title": "When Is It Wrong to Use A.I.?",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html",
-    "content": "How to criticize an inevitable disruption.",
-    "date": "2026-06-06T11:00:08",
     "category": "NYT"
   }
 ]
