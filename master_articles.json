@@ -60,6 +60,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/dining/these-grilled-chicken-breasts-are-juicy-and-flavorful-promise.html",
+    "feed_name": "NYT (Food)",
+    "title": "These Grilled Chicken Breasts Are Juicy and Flavorful \u2014 Promise",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/07/24/dining/these-grilled-chicken-breasts-are-juicy-and-flavorful-promise.html",
+    "content": "Genevieve Ko\u2019s lemon-garlic grilled chicken breasts.",
+    "date": "2026-07-24T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237802",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton has long crusaded against voter fraud. His Senate rival now accuses him of committing it.",
+    "author": "By Zach Despart, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17386636/talarico-accuses-paxton-voter-fraud",
+    "content": "Texas state Rep. James Talarico is challenging Attorney General Ken Paxton in a U.S. Senate race.",
+    "date": "2026-07-24T15:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "927d641935e1fe2984bdab128d5a00e6",
+    "feed_name": "LRB",
+    "title": "Close Readings 2026",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings",
+    "content": "On the Close Readings podcast,\u00a0longstandingLRBcontributors explore a literary period or theme through a selection of key works.",
+    "date": "2026-07-24T14:56:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "cf5073aa4b806b752ff0ce4dfc4820b8",
+    "feed_name": "LRB",
+    "title": "Newsletter Preferences",
+    "author": "",
+    "link": "https://www.lrb.co.uk/newsletters",
+    "content": "In the next issue, which will be dated 13 August, Alan Hollinghurst on Firbank.",
+    "date": "2026-07-24T14:56:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
     "feed_name": "NYT (Arts)",
     "title": "Life of Alan Turing Emerges in Richer Detail From Short Story",
@@ -19956,46 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/another-country",
     "content": "\u2018The very word \u201cAmerica\u201d remains a new, almost completely undefined and extremely controversial proper noun,\u2019 James Baldwin wrote in 1959. \u2018No one in the world seems to know exactly what it describes, not even we motley millions who call ourselves Americans.\u2019 Donald Trump\u2019s vision of Fortress America, at war with immigrants, shadowy globalists and...",
-    "date": "2026-06-05T20:04:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "c60c57fc13f3ce36d84be5fa77b24cce",
-    "feed_name": "LRB",
-    "title": "Nature in Crisis: \u2018Silent Spring\u2019 by Rachel Carson",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/nature-in-crisis-silent-spring-by-rachel-carson",
-    "content": "After following up a lead from a birdwatcher, Rachel Carson drew a web of connections that led to one of the most influential books of the 20th century.Silent Spring(1962) investigated the synthetic pesticides that proliferated after the Second World War, which were assiduously defended by overconfident policymakers, industrial chemists and agribusiness. The book quickly became a bestseller...",
-    "date": "2026-06-05T20:04:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "c7f27120b9158a34c6ce71d21ee1b261",
-    "feed_name": "LRB",
-    "title": "Will the AI bubble burst?",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/will-the-ai-bubble-burst",
-    "content": "\u2018Is it a bubble?\u2019 John Lanchester asked in a recentLRBof the colossal amounts of money pouring into AI firms. \u2018Of course it\u2019s a bubble. The salient questions are how we got here, and what happens next.\u2019",
-    "date": "2026-06-05T20:04:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "898edf488bc36b50f6cc50a5249439af",
-    "feed_name": "LRB",
-    "title": "Albert Camus: A Short Life",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/albert-camus-a-short-life",
-    "content": "Albert Camus\u2019s short life began in Algiers in 1913 and ended in a car crash near Paris in 1960. After being rejected from the \u00c9cole Normale because of a failed medical assessment, Camus became a journalist in Algiers and planned his writing career around three concepts based on the figures of Sisyphus, Prometheus and Nemesis, a scheme that he never finished.",
-    "date": "2026-06-05T20:04:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "8a8df8b13270db8d5e50c2561ffd8266",
-    "feed_name": "LRB",
-    "title": "Eric Hobsbawm: The Consolations of History",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/eric-hobsbawm-the-consolations-of-history",
-    "content": "In this feature-length documentary,\u00a0Anthony Wilks traces the connections between the events of Hobsbawm\u2019s life and the history he told, from his teenage years in Germany as Hitler came to power\u00a0and his communist membership, to the jazz clubs of 1950s Soho and the makings of New Labour, taking in Italian bandits, Peruvian peasant movements and the development of nationalism in...",
     "date": "2026-06-05T20:04:55",
     "category": "Magazines"
   }
