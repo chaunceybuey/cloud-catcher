@@ -60,6 +60,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Life of Alan Turing Emerges in Richer Detail From Short Story",
+    "author": "Claire Moses",
+    "link": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
+    "content": "Sarah Dillon, a professor of English literature, with Alan Turing\u2019s handwritten short story in the Archive Centre at King\u2019s College, Cambridge.",
+    "date": "2026-07-24T14:46:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/24/dining/kentucky-fried-chicken-colonel-sander-auction.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Legacy of Kentucky Fried Chicken\u2019s Colonel Sanders Is Up For Sale",
+    "author": "Kim Severson",
+    "link": "https://www.nytimes.com/2026/07/24/dining/kentucky-fried-chicken-colonel-sander-auction.html",
+    "content": "In the town where Kentucky Fried Chicken grew up, they\u2019ll auction off the home, restaurant and maybe even the secret spice mix of a cantankerous innovator.",
+    "date": "2026-07-24T14:41:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/24/arts/music/chris-brown-guilty-affray-london.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Chris Brown Pleads Guilty to Affray Charge in London Nightclub Assault Case",
+    "author": "Jonathan Wolfe",
+    "link": "https://www.nytimes.com/2026/07/24/arts/music/chris-brown-guilty-affray-london.html",
+    "content": "Chris Brown gives an autograph as he leaves Southwark Crown Court in London on Friday.",
+    "date": "2026-07-24T14:27:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/24/movies/new-movies-this-week-critics.html",
     "feed_name": "NYT (Arts)",
     "title": "8 New Movies Our Critics Are Talking About This Week",
@@ -19966,36 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/eric-hobsbawm-the-consolations-of-history",
     "content": "In this feature-length documentary,\u00a0Anthony Wilks traces the connections between the events of Hobsbawm\u2019s life and the history he told, from his teenage years in Germany as Hitler came to power\u00a0and his communist membership, to the jazz clubs of 1950s Soho and the makings of New Labour, taking in Italian bandits, Peruvian peasant movements and the development of nationalism in...",
-    "date": "2026-06-05T20:04:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "927d641935e1fe2984bdab128d5a00e6",
-    "feed_name": "LRB",
-    "title": "Close Readings 2026",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings",
-    "content": "On the Close Readings podcast,\u00a0longstandingLRBcontributors explore a literary period or theme through a selection of key works.",
-    "date": "2026-06-05T20:04:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "843f326dec056a4bdae042a644e30ce0",
-    "feed_name": "LRB",
-    "title": "LRB 45s: Poetry on vinyl",
-    "author": "",
-    "link": "https://www.lrb.co.uk/45s",
-    "content": "Why is theLondon Review of Booksputting out records?",
-    "date": "2026-06-05T20:04:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "cf5073aa4b806b752ff0ce4dfc4820b8",
-    "feed_name": "LRB",
-    "title": "Newsletter Preferences",
-    "author": "",
-    "link": "https://www.lrb.co.uk/newsletters",
-    "content": "",
     "date": "2026-06-05T20:04:55",
     "category": "Magazines"
   }
