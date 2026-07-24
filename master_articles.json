@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a4d546d1ab9e3f9b56523e7",
+    "feed_name": "Wired (Science)",
+    "title": "What Is Entropy, Really?",
+    "author": "Rhett Allain",
+    "link": "https://www.wired.com/story/what-is-entropy-really/",
+    "content": "Never mind the \u201cheat death of the universe.\u201d Entropy is just a bridge between two levels of reality.",
+    "date": "2026-07-24T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "064e22abd094bda3a68cf0c1a41739fc",
     "feed_name": "LRB",
     "title": "Ebola in DRC",
@@ -19988,15 +19998,5 @@
     "content": "Alabama gambled on the Court\u2019s partisanship, and won.",
     "date": "2026-06-05T19:06:37",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232562",
-    "feed_name": "Texas Tribune",
-    "title": "Texas county rescinds its data center moratorium after $100 million lawsuit from developer",
-    "author": "Taylor Goldenstein",
-    "link": "https://feeds.texastribune.org/link/16799/17354935/texas-hill-county-moratorium-rescinded-data-centers",
-    "content": "Work continues on the Stargate data center Sunday, April 26, 2026, in Abilene.",
-    "date": "2026-06-05T19:04:32",
-    "category": "Texas"
   }
 ]
