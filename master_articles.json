@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=237939",
+    "feed_name": "Texas Tribune",
+    "title": "DA says feds haven\u2019t shared evidence in Houston ICE shooting",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17386927/texas-houston-ice-shooting-public-hearing-district-attorney-teare",
+    "content": "Harris County District Attorney Sean Teare looks at Ronaldo Salgado, whose father Lorenzo Salgado Araujo was killed by an ICE agent, during a congressional hearing in Houston on July 24, 2026.",
+    "date": "2026-07-24T21:33:21",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237936",
+    "feed_name": "Texas Tribune",
+    "title": "Eleven people charged in the smuggling deaths of seven migrants in Texas",
+    "author": "By Rebecca Boone,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17386928/texas-smuggling-deaths-indictments-laredo",
+    "content": "Border Patrol agents monitor the Rio Grande on May 11, 2026, after six bodies were found in a train boxcar in Laredo.",
+    "date": "2026-07-24T21:09:45",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/24/arts/music/charli-xcx-music-fashion-film.html",
     "feed_name": "NYT (Arts)",
     "title": "Charli XCX \u2018Music, Fashion, Film\u2019 Album Review",
@@ -80,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=237929",
+    "feed_name": "Texas Tribune",
+    "title": "A third person has died in the Texas floods, Greg Abbott says",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17386929/texas-third-flood-death-greg-abbott",
+    "content": "Emergency vehicles cross the debris-covered San Antonio Street bridge in Center Point, on July 16, 2026, after floodwaters from the Guadalupe River overtook it that morning.",
+    "date": "2026-07-24T20:41:45",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/24/arts/music/freddy-cannon-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Freddy Cannon, Rocker Who Sang \u2018Palisades Park,\u2019 Dies at 89",
@@ -98,6 +128,16 @@
     "content": "Months after Celeste Rivas Hernandez\u2019s body was discovered in September, D4vd was arrested and charged with murder.",
     "date": "2026-07-24T20:00:43",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237915",
+    "feed_name": "Texas Tribune",
+    "title": "Floodwater starts arriving in Corpus Christi reservoirs, sparking hope for a water crisis delay",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17386930/texas-corpus-christi-flood-water-gains-lakes-choke-canyon",
+    "content": "The Corpus Christi skyline along the north end of downtown includes city hall and the new Harbor Bridge over the Port of Corpus Christi.",
+    "date": "2026-07-24T19:48:12",
+    "category": "Texas"
   },
   {
     "id": "28f7878a8cca564e92fb308b84dc5213",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html",
     "content": "\u201cFor years, I was working out my mom and dad\u2019s divorce through my stories,\u201d Spielberg says.",
     "date": "2026-06-07T09:00:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/how-to-watch-tony-awards-2026-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How to Watch the 2026 Tony Awards",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/06/07/theater/how-to-watch-tony-awards-2026-streaming.html",
-    "content": "Pink will host he 79th Tony Awards at Radio City Hall. The ceremony, which will be broadcast live on CBS and is available to stream on Paramount+, begins at 8 p.m. Eastern.",
-    "date": "2026-06-07T09:00:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Americans Love Soccer Stars Who Aren\u2019t Made in America",
-    "author": "Emmanuel Morgan",
-    "link": "https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html",
-    "content": "The Argentine star Lionel Messi is about to play in his sixth World Cup. His pink Inter Miami jersey became a hot item when he began playing in the United States in 2023.",
-    "date": "2026-06-07T09:00:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/arts/music/barry-manilow-cant-smile-duets.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Barry Manilow Can\u2019t Smile Without Fans\u2019 Help on This Song",
-    "author": "Rob Tannenbaum",
-    "link": "https://www.nytimes.com/2026/06/07/arts/music/barry-manilow-cant-smile-duets.html",
-    "content": "Manilow, 82, is slated to resume his \u201cfarewell tour\u201d later this month after postponing dates amid a bout with lung cancer.",
-    "date": "2026-06-07T04:01:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Despite Protest, Ye Takes the Stage for Thousands of European Fans",
-    "author": "Claire Moses",
-    "link": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
-    "content": "\u201cThis crowd is too crazy,\u201d Ye said inside the GelreDome stadium in Arnhem, the Netherlands, on Saturday.",
-    "date": "2026-06-06T23:40:14",
     "category": "NYT"
   }
 ]
