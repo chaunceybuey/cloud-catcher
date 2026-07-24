@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/23/movies/72-hours-review-kevin-hart-netflix.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u201872 Hours\u2019 Review: Kevin Hart Is Joining Your Bachelor Party",
+    "author": "Glenn Kenny",
+    "link": "https://www.nytimes.com/2026/07/23/movies/72-hours-review-kevin-hart-netflix.html",
+    "content": "Hart plays an ad executive who tries to learn about the younger generation by tagging along to a bachelor party weekend. It proves a less than healthy move.",
+    "date": "2026-07-24T01:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "6a5fbbc0f1768585876832b0",
     "feed_name": "Wired (Science)",
     "title": "An FDA Panel Just Endorsed These Unproven Peptides",
@@ -19986,16 +19996,6 @@
     "author": "Rachel Cernansky",
     "link": "https://www.wired.com/story/how-to-spot-greenwashing-when-you-travel/",
     "content": "Hotels and other service providers pitch themselves as eco-friendly when they\u2019re not. Here\u2019s how to call their bluff.",
-    "date": "2026-06-05T16:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a1087e18b454232598e7368",
-    "feed_name": "Wired (Science)",
-    "title": "How a Citizen Science Organization Aims to Preserve the Places It Brings Tourists to Study",
-    "author": "Rachel Cernansky",
-    "link": "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/",
-    "content": "The actual eco-friendliness of ecotourism varies considerably. One research station in the Peruvian Amazon is out to prove it can bring visitors to the area without disrupting the environment.",
     "date": "2026-06-05T16:00:00",
     "category": "Magazines"
   }
