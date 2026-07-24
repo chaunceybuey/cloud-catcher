@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a5fbbc0f1768585876832b0",
+    "feed_name": "Wired (Science)",
+    "title": "An FDA Panel Just Endorsed These Unproven Peptides",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+    "content": "Outside experts\u2014some with a vested interest in peptides\u2014recommended adding a number of the amino acids to the FDA's bulk list, including the \u201cWolverine stack\u201d touted by Joe Rogan and other influencers.",
+    "date": "2026-07-23T23:45:12",
+    "category": "Magazines"
+  },
+  {
     "id": "18fb79b8fe93363eae398aeb8f2ca820",
     "feed_name": "New Yorker",
     "title": "Cartoon Caption Contest",
@@ -19986,16 +19996,6 @@
     "author": "Rachel Cernansky",
     "link": "https://www.wired.com/story/preserving-the-places-tourists-go-to-study/",
     "content": "The actual eco-friendliness of ecotourism varies considerably. One research station in the Peruvian Amazon is out to prove it can bring visitors to the area without disrupting the environment.",
-    "date": "2026-06-05T16:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a108d91241039a819a0f44e",
-    "feed_name": "Wired (Science)",
-    "title": "This Summer Travel Season Could Forever Alter the Future of Sustainable Aviation Fuel",
-    "author": "Jaclyn Trop",
-    "link": "https://www.wired.com/story/summer-travel-season-sustainable-aviation-fuel/",
-    "content": "As the conflict in Iran disrupts the world\u2019s oil supply, airlines are looking for jet fuel alternatives. The answer: energy from used cooking oil and french fry grease.",
     "date": "2026-06-05T16:00:00",
     "category": "Magazines"
   }
