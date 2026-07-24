@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/arts/music/victoria-monet-sam-smith-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Victoria Mon\u00e9t, Sam Smith: Songs to Know This Week",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/07/24/arts/music/victoria-monet-sam-smith-songs.html",
+    "content": "Victoria Mon\u00e9t goes girl-group, Sam Smith gets a choral assist, and Chad Hugo re-emerges.",
+    "date": "2026-07-24T22:57:07",
+    "category": "NYT"
+  },
+  {
     "id": "6a63d358d00ff8bf60c595f3",
     "feed_name": "Wired (Science)",
     "title": "One of NASA\u2019s Most Important Deep Space Observatories Hit by Spanish Wildfires",
@@ -68,6 +78,16 @@
     "content": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
     "date": "2026-07-24T22:30:26",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=237942",
+    "feed_name": "Texas Tribune",
+    "title": "Substance found in van after Houston ICE shooting wasn\u2019t drugs, DA and U.S. Rep. Sylvia Garcia say",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17386996/texas-ice-shooting-drug-test-results-salt-meth",
+    "content": "Canal Street, looking east, is seen Sunday, July 12, 2026, in Houston. Lorenzo Salgado Araujo was fatally shot by an immigration agent at the location Tuesday.",
+    "date": "2026-07-24T22:27:05",
+    "category": "Texas"
   },
   {
     "id": "https://www.texastribune.org/?p=237939",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/arts/music/carter-brey-cellist-new-york-philharmonic.html",
     "content": "During recent bows, Brey acknowledged the audience\u2019s standing ovation then lithely maneuvered himself out of the spotlight.",
     "date": "2026-06-07T09:02:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/movies/scary-movie-and-the-art-of-the-pop-culture-gag.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Scary Movie\u2019 and the Art of the Pop Culture Gag",
-    "author": "Kellina Moore",
-    "link": "https://www.nytimes.com/2026/06/07/movies/scary-movie-and-the-art-of-the-pop-culture-gag.html",
-    "content": "Marlon Wayans in a scene from \u201cScary Movie 6\u201d recalling the 2017 horror film \u201cGet Out.\u201d",
-    "date": "2026-06-07T09:02:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/june-squibb-tony-awards.html",
-    "feed_name": "NYT (Arts)",
-    "title": "June Squibb, the \u2018Foulest Mouth on Broadway\u2019, Is Up for a Tony at 96",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/06/07/theater/june-squibb-tony-awards.html",
-    "content": "June Squibb has received her first Tony nomination, for her featured role in \u201cMarjorie Prime.\u201d",
-    "date": "2026-06-07T09:01:40",
     "category": "NYT"
   }
 ]
