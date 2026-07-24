@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a63d358d00ff8bf60c595f3",
+    "feed_name": "Wired (Science)",
+    "title": "One of NASA\u2019s Most Important Deep Space Observatories Hit by Spanish Wildfires",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+    "content": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
+    "date": "2026-07-24T22:30:26",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=237939",
     "feed_name": "Texas Tribune",
     "title": "DA says feds haven\u2019t shared evidence in Houston ICE shooting",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/theater/june-squibb-tony-awards.html",
     "content": "June Squibb has received her first Tony nomination, for her featured role in \u201cMarjorie Prime.\u201d",
     "date": "2026-06-07T09:01:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Why We Still Need Steven Spielberg",
-    "author": "Wesley Morris",
-    "link": "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html",
-    "content": "\u201cFor years, I was working out my mom and dad\u2019s divorce through my stories,\u201d Spielberg says.",
-    "date": "2026-06-07T09:00:53",
     "category": "NYT"
   }
 ]
