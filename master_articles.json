@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/arts/music/freddy-cannon-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Freddy Cannon, Rocker Who Sang \u2018Palisades Park,\u2019 Dies at 89",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/07/24/arts/music/freddy-cannon-dead.html",
+    "content": "Freddy Cannon in 1963. He rose to stardom in an era teeming with clean-cut teen idols like Fabian, Frankie Avalon and Bobby Rydell.",
+    "date": "2026-07-24T20:07:40",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/24/arts/music/d4vd-celeste-rivas-hernandez-medical-examiner.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Medical Examiner in D4vd Murder Case Describes Body in Graphic Testimony",
+    "author": "Matt Stevens",
+    "link": "https://www.nytimes.com/2026/07/24/arts/music/d4vd-celeste-rivas-hernandez-medical-examiner.html",
+    "content": "Months after Celeste Rivas Hernandez\u2019s body was discovered in September, D4vd was arrested and charged with murder.",
+    "date": "2026-07-24T20:00:43",
+    "category": "NYT"
+  },
+  {
     "id": "6a638631e1cb4b1845cdbf8a",
     "feed_name": "Wired (Science)",
     "title": "The 2026 El Ni\u00f1o Is on Track to Be the Strongest on Record",
@@ -19978,25 +19998,5 @@
     "content": "Just a few years ago, Republicans sacrificed an Alabama Senate seat rather than endure an unacceptable colleague. Will Democrats do the same in Maine?",
     "date": "2026-06-06T16:27:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/arts/madonna-confessions-tribeca-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Madonna Premieres \u2018Confessions II,\u2019 a Star-Studded Short Film, at Tribeca Film Festival",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/06/06/arts/madonna-confessions-tribeca-festival.html",
-    "content": "Madonna during a surprise concert in Times Square on Thursday. \u201cI came to this earth to be a doer, not a watcher,\u201d she said after her new film premiered on Friday.",
-    "date": "2026-06-06T15:51:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/dining/its-gazpacho-time.html",
-    "feed_name": "NYT (Food)",
-    "title": "It\u2019s Gazpacho Time",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/06/06/dining/its-gazpacho-time.html",
-    "content": "Julia Moskin\u2019s best gazpacho.",
-    "date": "2026-06-06T15:00:06",
-    "category": "NYT"
   }
 ]
