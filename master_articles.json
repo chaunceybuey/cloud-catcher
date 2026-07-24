@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/arts/music/charli-xcx-music-fashion-film.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Charli XCX \u2018Music, Fashion, Film\u2019 Album Review",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/07/24/arts/music/charli-xcx-music-fashion-film.html",
+    "content": "How does one follow a pop album that became a cultural juggernaut? On \u201cMusic, Fashion, Film,\u201d Charli XCX embraces, and even glorifies, the slapdash.",
+    "date": "2026-07-24T21:08:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html",
     "feed_name": "NYT (Arts)",
     "title": "Trump Orders Warnings Placed at \u2018Inaccurate\u2019 Smithsonian History Museum",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
     "content": "\u201cThis crowd is too crazy,\u201d Ye said inside the GelreDome stadium in Arnhem, the Netherlands, on Saturday.",
     "date": "2026-06-06T23:40:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Kennedy Center Loses Case Against Musician Who Canceled Over Trump Naming Dispute",
-    "author": "Mark Walker",
-    "link": "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html",
-    "content": "A federal judge threw out a lawsuit filed by the John F. Kennedy Center against a jazz musician who canceled a Christmas Eve performance.",
-    "date": "2026-06-06T22:07:30",
     "category": "NYT"
   }
 ]
