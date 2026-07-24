@@ -70,6 +70,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=237895",
+    "feed_name": "Texas Tribune",
+    "title": "After the Houston ICE shooting, Sylvia Garcia demanded answers. Alex Mealer urges patience.",
+    "author": "Samanta Habashy",
+    "link": "https://feeds.texastribune.org/link/16799/17386871/texas-alex-mealer-houston-ice-shooting-sylvia-garcia-congress-redistricting",
+    "content": "Democratic U.S. Rep. Sylvia Garcia, left, currently represents Houston&#039;s Magnolia Park neighborhood, which is being moved into a new Republican-favorable congressional district where Alex Mealer, right, is the GOP nominee.",
+    "date": "2026-07-24T18:39:14",
+    "category": "Texas"
+  },
+  {
     "id": "https://stratechery.com/?p=19572",
     "feed_name": "Stratechery",
     "title": "2026.30: The Copium Wars",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/06/dining/its-gazpacho-time.html",
     "content": "Julia Moskin\u2019s best gazpacho.",
     "date": "2026-06-06T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/dining/ive-been-depriving-you-of-cookies.html",
-    "feed_name": "NYT (Food)",
-    "title": "I\u2019ve Been Depriving You of Cookies",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/06/06/dining/ive-been-depriving-you-of-cookies.html",
-    "content": "Eric Kim\u2019s frosted sugar cookies.",
-    "date": "2026-06-06T14:00:05",
     "category": "NYT"
   }
 ]
