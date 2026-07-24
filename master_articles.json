@@ -60,6 +60,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/movies/international-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five International Movies to Stream Now",
+    "author": "Devika Girish",
+    "link": "https://www.nytimes.com/2026/07/24/movies/international-movies-streaming.html",
+    "content": "Naian Gonza\u0301lez Norvind in \u201cCorina.\u201d",
+    "date": "2026-07-24T16:13:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Stream These 5 Movies Before They Leave Netflix in August",
+    "author": "Jason T. Bailey",
+    "link": "https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html",
+    "content": "James McAvoy and Keira Knightley in a scene from \u201cAtonement,\u201d adapted from the novel by Ian McEwan.",
+    "date": "2026-07-24T15:48:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/24/dining/coca-cola-marlboro.html",
     "feed_name": "NYT (Food)",
     "title": "Coca-Cola\u2019s New Branding Reminds People of Marlboro",
@@ -166,6 +186,56 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/eric-hobsbawm-the-consolations-of-history",
     "content": "In this feature-length documentary,\u00a0Anthony Wilks traces the connections between the events of Hobsbawm\u2019s life and the history he told, from his teenage years in Germany as Hitler came to power\u00a0and his communist membership, to the jazz clubs of 1950s Soho and the makings of New Labour, taking in Italian bandits, Peruvian peasant movements and the development of nationalism in...",
+    "date": "2026-07-24T14:56:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "a838d252399789060377ab2bb8afaecf",
+    "feed_name": "LRB",
+    "title": "Another Country",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/another-country",
+    "content": "\u2018The very word \u201cAmerica\u201d remains a new, almost completely undefined and extremely controversial proper noun,\u2019 James Baldwin wrote in 1959. \u2018No one in the world seems to know exactly what it describes, not even we motley millions who call ourselves Americans.\u2019 Donald Trump\u2019s vision of Fortress America, at war with immigrants, shadowy globalists and...",
+    "date": "2026-07-24T14:56:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "d74bde8b5bc3a20ac3815e39e669e146",
+    "feed_name": "LRB",
+    "title": "Nature in Crisis: \u2018Silent Spring\u2019 by Rachel Carson",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/nature-in-crisis-silent-spring-by-rachel-carson",
+    "content": "After following up a lead from a birdwatcher, Rachel Carson drew a web of connections that led to one of the most influential books of the 20th century.Silent Spring(1962) investigated the synthetic pesticides that proliferated after the Second World War, which were assiduously defended by overconfident policymakers, industrial chemists and agribusiness. The book quickly became a bestseller...",
+    "date": "2026-07-24T14:56:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "8ddf418cb9c03a85bd4a4e30a1543836",
+    "feed_name": "LRB",
+    "title": "Episode 6: Aftershock \u2018Live\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/aftershock-the-war-on-terror/episode-6-aftershock-live",
+    "content": "For the final episode, host Daniel Soar is joined by Patrick Cockburn, Laleh Khalili and Tom Stevenson for a live discussion on the War on Terror and its aftershocks.",
+    "date": "2026-07-24T14:56:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "377069b9aeb126c29b5e2f9971a231af",
+    "feed_name": "LRB",
+    "title": "Narrative Poems: \u2018Hero and Leander\u2019 by Christopher Marlowe",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/narrative-poems-hero-and-leander-by-christopher-marlowe",
+    "content": "Hero and Leanderwas published in 1598, and anyone who came across it in a stationer\u2019s shop in Elizabethan London would have known that its author was dead, killed in a brawl in Deptford in 1593. Christopher Marlowe\u2019s sensational life as playwright and spy is matched by the wit, sophistication and eroticism of his eccentric retelling of Ovid\u2019s myth, based on a...",
+    "date": "2026-07-24T14:56:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "9991c1fa22c937027eed46d8b32541d9",
+    "feed_name": "LRB",
+    "title": "The Impossible Patient",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/the-impossible-patient",
+    "content": "Not for the first time, theorists of politics are turning to the unconscious and its strange workings \u2013 repression and fantasy, libido and death drive, disavowal and displacement \u2013 to understand the present conjuncture: a conjuncture of authoritarian strongmen, anti-democratic populism, regressive sexual morality and genocidal war. What form of knowledge does psychoanalysis give us...",
     "date": "2026-07-24T14:56:53",
     "category": "Magazines"
   },
@@ -19928,75 +19998,5 @@
     "content": "Can our 18th-century institutions survive 21st-century technology?",
     "date": "2026-06-06T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "6a1f371485b81e0783792297",
-    "feed_name": "Wired (Science)",
-    "title": "The Moons of Uranus May Hold the Key to Finding Missing Planets",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/",
-    "content": "New simulations reveal that the moons of Uranus may retain traces of giant planets.",
-    "date": "2026-06-06T09:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/arts/music/taylor-swift-madonna-songs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Taylor Swift, Madonna: 9 Songs We\u2019re Talking About This Week",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/06/06/arts/music/taylor-swift-madonna-songs.html",
-    "content": "Madonna performed new songs, including \u201cLove Sensation,\u201d at a surprise concert in Times Square in New York on Thursday.",
-    "date": "2026-06-06T09:02:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/arts/television/half-man-scenes-masculinity.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u201cHalf Man\u201d Shows the Dueling Sides of Modern Masculinity",
-    "author": "Maya Phillips",
-    "link": "https://www.nytimes.com/2026/06/06/arts/television/half-man-scenes-masculinity.html",
-    "content": "Powered by exceptional performances from Jamie Bell and Richard Gadd, \u201cHalf Man\u201d captures rare moments of male tenderness \u2014 before inevitably punishing them.",
-    "date": "2026-06-06T09:01:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/arts/100000010938048/ask-e-jean-illuminates-cultural-shifts.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Ask E. Jean\u2019 Illuminates Cultural Shifts",
-    "author": "Alissa Wilkinson and Haimy Assefa",
-    "link": "https://www.nytimes.com/video/arts/100000010938048/ask-e-jean-illuminates-cultural-shifts.html",
-    "content": "Alissa Wilkinson, a New York Times film critic, reflects on the documentary \u201cAsk E. Jean\u201d and the cultural shift toward accusers of sexual assault. E. Jean Carroll, the film\u2019s protagonist, won two civil lawsuits against President Trump.",
-    "date": "2026-06-06T09:01:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/books/linea-ernst-denmark-millennial-novel-waist-deep.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018Waist Deep,\u2019 Linea Maja Linea Explores Millennial Desire",
-    "author": "Amelia Nierenberg",
-    "link": "https://www.nytimes.com/2026/06/06/books/linea-ernst-denmark-millennial-novel-waist-deep.html",
-    "content": "Linea Maja Ernst is polyamorous, but her wife isn\u2019t. Although they love each other, they still haven\u2019t quite \u201cfigured it out,\u201d much like some of the characters in her debut novel.",
-    "date": "2026-06-06T09:01:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/theater/tony-awards-2026-pink.html",
-    "feed_name": "NYT (Arts)",
-    "title": "2026 Tony Awards: What to Expect",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/06/06/theater/tony-awards-2026-pink.html",
-    "content": "The CBS telecast of the Tonys introduces the latest plays and musicals to a television audience of several million.",
-    "date": "2026-06-06T09:00:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/06/arts/dance/martha-graham-modern-dance-centennial.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Why the Radical Vision of Martha Graham Still Matters",
-    "author": "Gia Kourlas",
-    "link": "https://www.nytimes.com/2026/06/06/arts/dance/martha-graham-modern-dance-centennial.html",
-    "content": "The choreographer took a barefoot leap for modern dance 100 years ago. Her influence continues to reverberate.",
-    "date": "2026-06-06T09:00:45",
-    "category": "NYT"
   }
 ]
