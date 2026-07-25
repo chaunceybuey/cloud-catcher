@@ -580,3 +580,20 @@ body.eink {
 .eink .empty-state { color: #888; }
 .eink .drawer-action-btn { background: #ddd; border-color: #bbb; color: #333; }
 .eink .drawer-input { background: #fff; border-color: #bbb; color: #222; }
+
+/* ═══ Substack Inline Override Hard-Lock ═══ */
+.reader-pages img, 
+.reader-pages table, 
+.reader-pages div {
+    max-width: 100% !important;
+    height: auto !important;
+    box-sizing: border-box !important;
+}
+
+/* Force stubborn email tables to fit the screen */
+.reader-pages table {
+    width: 100% !important;
+    table-layout: fixed !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+}
