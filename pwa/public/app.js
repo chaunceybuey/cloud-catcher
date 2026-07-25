@@ -29,6 +29,19 @@ function extractArticle(html, url) {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
     
+    // 1. Keep the styles (they handle the mobile responsiveness)
+    // BUT remove fixed-width attributes from problematic tags
+    const elementsToFix = doc.querySelectorAll("table, img, div, td");
+    elementsToFix.forEach(el => {
+        el.removeAttribute("width");
+        el.removeAttribute("height");
+        // Ensure images don't exceed screen width
+        if (el.tagName === "IMG") {
+            el.style.maxWidth = "100%";
+            el.style.height = "auto";
+        }
+    });
+    
     // Remove non-content elements — aggressive list for cleaner output
     doc.querySelectorAll([
         "script", "style", "nav", "footer", "header", "aside", "noscript", "iframe",
