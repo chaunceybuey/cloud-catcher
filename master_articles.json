@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=238003",
+    "feed_name": "Texas Tribune",
+    "title": "U.S. will begin limited imports of Mexican cattle as screwworm outbreak continues",
+    "author": "By Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17387046/united-states-mexico-cattle-industry-imports-resumption-screwworm",
+    "content": "Cattle and calves graze at a pasture near La Pryor, Texas, on June 6, 2026.",
+    "date": "2026-07-25T01:30:23",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/24/arts/chuck-russell-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Chuck Russell, Director of \u2018The Mask\u2019 and Third \u2018Nightmare on Elm Street\u2019 Movie, Dies at 74",
@@ -96,6 +106,26 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/caravaggio-s-bodies",
     "content": "In the 1590s, Caravaggio was one of \u2018the swaggering, violent young men who terrorised Romans\u2019, Erin Maglaque wrote recently in theLRB, and he \u2018made his name by painting this violent, chaotic world\u2019.On this episode, Erin joins Thomas Jones to discuss the ways that Caravaggio represented his models' bodies on canvas \u2013 their muscles, skin, hair, clothing and dirty...",
+    "date": "2026-07-25T00:05:23",
+    "category": "Magazines"
+  },
+  {
+    "id": "ff9b4556b70598e9d5f76541d3460f14",
+    "feed_name": "LRB",
+    "title": "On Politics: Keir Starmer\u2019s Mess",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-keir-starmer-s-mess",
+    "content": "Less than two years after winning a huge majority, even many of Keir Starmer\u2019s own MPs think he\u2019s doomed. But is he? Despite a historic loss to the Green Party in the Gorton and Denton by-election last month, the prime minister has managed to cling on, for now. His critics point to a lack of vision in government, the alienation of Labour members and a failure to accept the need for...",
+    "date": "2026-07-25T00:05:23",
+    "category": "Magazines"
+  },
+  {
+    "id": "76f4022498091306b3efd7e174591bd2",
+    "feed_name": "LRB",
+    "title": "What next in Iran?",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/what-next-in-iran",
+    "content": "In a press conference on 9 March, Donald Trump described the war against Iran as \u2018very complete, pretty much\u2019. Earlier that day, his secretary of war, Pete Hegseth, told ABC that the ongoing strikes were \u2018just the beginning\u2019. In this episode, Adam Shatz is joined by Robert Malley and Esfandyar Batmanghelidj to discuss the chaos of Trump\u2019s Iran strategy, whether...",
     "date": "2026-07-25T00:05:23",
     "category": "Magazines"
   },
@@ -19967,36 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/06/25/we-did-our-best-ai-meghan-ogieblyn/",
     "content": "Metaphors of parenting have defined our understanding of AI, but lately the parent-child relationship between creator and machine is becoming reversed.\n\nDelivered by PolitePaul service",
     "date": "2026-06-07T14:48:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/think-for-yourself-ai-dan-chiasson/",
-    "feed_name": "NYRB",
-    "title": "Think for Yourself",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/think-for-yourself-ai-dan-chiasson/",
-    "content": "One of the most dehumanizing effects of AI is the short cuts it offers through the gaps and impasses intrinsic to the act of writing.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-07T14:33:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/gullivers-warning-fintan-otoole/",
-    "feed_name": "NYRB",
-    "title": "Gulliver\u2019s Warning",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/gullivers-warning-fintan-otoole/",
-    "content": "Like Gulliver in Lilliput, \u201cgreatness\u201d in the political realm depends on the existence of a group deemed puny or weak.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-07T14:18:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/their-own-private-genesis-what-god-kept-for-himself-grassi/",
-    "feed_name": "NYRB",
-    "title": "Their Own Private Genesis",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/their-own-private-genesis-what-god-kept-for-himself-grassi/",
-    "content": "What if Augustine\u2019s idea of original sin was wrong? Testimony from the Inquisition reveals freethinkers using their sexual experience to dispute the reign of shame and otherwise critique Church doctrine.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-07T14:03:48",
     "category": "Magazines"
   }
 ]
