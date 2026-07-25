@@ -70,6 +70,16 @@
     "category": "NYT"
   },
   {
+    "id": "a83056f954fed42d1605a9fd17d4e7e1",
+    "feed_name": "The Atlantic",
+    "title": "Public Health Needs MAHA",
+    "author": "Craig Spencer",
+    "link": "https://www.theatlantic.com/ideas/2026/07/public-health-maha-rfk/688014/",
+    "content": "The field must swallow its pride and admit where the insurgent movement is right.",
+    "date": "2026-07-25T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "801f63b623d027f3038b9e2b5f5a5423",
     "feed_name": "LRB",
     "title": "Ordinary Abuse",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/whats-onstage-this-summer",
     "content": "A play inspired by the horror franchise \u201cParanormal Activity\u201d makes its Broadway bow in August.",
     "date": "2026-06-07T22:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
-    "feed_name": "NYT (Arts)",
-    "title": "How to watch the Tony Awards.",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
-    "content": "Pink will host the 79th Tony Awards at Radio City Music Hall. The ceremony, which will be broadcast live on CBS and is available to stream on Paramount+, begins at 8 p.m. Eastern.",
-    "date": "2026-06-07T21:30:29",
     "category": "NYT"
   }
 ]
