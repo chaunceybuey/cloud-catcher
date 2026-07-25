@@ -60,6 +60,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/25/arts/music/odyssey-music-sirens-song.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Haunting Music in the \u2018Odyssey\u2019 Siren Scene Has Ancient Roots",
+    "author": "Joshua Barone",
+    "link": "https://www.nytimes.com/2026/07/25/arts/music/odyssey-music-sirens-song.html",
+    "content": "The depiction of an aulos being played in ancient Greek art. It appears in both martial scenes and domestic ones, like this banquet.",
+    "date": "2026-07-25T09:02:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/25/theater/kenneth-branagh-royal-shakespeare-company.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kenneth Branagh Returns to the Stage Where It All Began",
+    "author": "Houman Barekat",
+    "link": "https://www.nytimes.com/2026/07/25/theater/kenneth-branagh-royal-shakespeare-company.html",
+    "content": "Over 40 years after his breakthrough at the Royal Shakespeare Company, the actor tackles Chekhov and the Bard in two productions that subtly resonate with his own story.",
+    "date": "2026-07-25T09:01:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/25/arts/music/dread-beat-an-blood-linton-kwesi-johnson.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Dread Beat an Blood\u2019 Set Black Londoners\u2019 Struggle to a Groove",
+    "author": "Patricia Meschino",
+    "link": "https://www.nytimes.com/2026/07/25/arts/music/dread-beat-an-blood-linton-kwesi-johnson.html",
+    "content": "Linton Kwesi Johnson in \u201cDread Beat an Blood.\u201d",
+    "date": "2026-07-25T09:01:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/25/arts/television/pompeii-tom-hiddleston-national-geographic-documentary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In Pompeii, Tom Hiddleston, \u2018Amateur Classicist,\u2019 Sees Lessons for Today",
+    "author": "Graham Bowley",
+    "link": "https://www.nytimes.com/2026/07/25/arts/television/pompeii-tom-hiddleston-national-geographic-documentary.html",
+    "content": "A new docuseries sent the star of \u201cLoki,\u201d who holds a classics degree, back to the site of an ancient tragedy, in search of relatable human stories.",
+    "date": "2026-07-25T09:00:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/25/arts/podcasts-coverups-larry-nasser.html",
+    "feed_name": "NYT (Arts)",
+    "title": "6 Podcasts About Scandals and Cover-Ups",
+    "author": "Emma Dibdin",
+    "link": "https://www.nytimes.com/2026/07/25/arts/podcasts-coverups-larry-nasser.html",
+    "content": "These shows explore stories of corruption and institutional wrongdoing, forging an emotional connection between the listener and the people affected.",
+    "date": "2026-07-25T09:00:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/25/movies/will-poulter-union-county.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Will Poulter on the TV Series That Reaffirmed His Faith in Humanity",
+    "author": "Kathryn Shattuck",
+    "link": "https://www.nytimes.com/2026/07/25/movies/will-poulter-union-county.html",
+    "content": "\u201cThe show really has highlighted just so much kindness and brought so much understanding to the subject of autism,\u201d the actor said.",
+    "date": "2026-07-25T09:00:46",
+    "category": "NYT"
+  },
+  {
+    "id": "6a63805aa913a700c283cfb2",
+    "feed_name": "Wired (Science)",
+    "title": "Contagious Cancer Found in North American Catfish",
+    "author": "Javier Carbajal",
+    "link": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
+    "content": "Scientists identified the first known cancer transmissible among freshwater fish in a lake that spans the US and Canada.",
+    "date": "2026-07-25T09:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a63772c40c80b7682864004",
+    "feed_name": "Wired (Science)",
+    "title": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many?",
+    "author": "Megan Tomos",
+    "link": "https://www.wired.com/story/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many/",
+    "content": "Electrolyte powders promise better hydration, energy, and recovery. But unless you\u2019re losing serious fluid, water and food probably have you covered.",
+    "date": "2026-07-25T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238003",
     "feed_name": "Texas Tribune",
     "title": "U.S. will begin limited imports of Mexican cattle as screwworm outbreak continues",
@@ -19917,86 +19997,6 @@
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/nature-in-crisis-the-light-eaters-by-zoe-schlanger",
     "content": "In \u2018The Light Eaters\u2019 (2024), Zo\u00eb Schlanger reports from the frontiers of botany, where researchers are discovering forms of sensing, signalling and responding that challenge our ideas of plants as passive life forms. Meehan Crist and Peter Godfrey-Smith explore Schlanger\u2019s account of new research into plant behaviour. They examine the case for plant agency \u2013 and...",
     "date": "2026-06-07T15:37:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "1f6869de940045181157add150f0a34b",
-    "feed_name": "LRB",
-    "title": "Pluralism and the Modern Poet",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/pluralism-and-the-modern-poet",
-    "content": "Many thinkers have characterised modernity by its investment in the idea of pluralism, \u2018of things being various\u2019, in Louis MacNeice\u2019s phrase. How do the virtues of plurality and difference fit with the more traditional virtues of poetic unity and imaginative order? Seamus Perry\u00a0considers the ways in which modern poets have responded to the demands of pluralism, and...",
-    "date": "2026-06-07T15:37:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "1221447b1658d4f2ebe90c8f5a0c6f64",
-    "feed_name": "LRB",
-    "title": "Jessica Mitford\u2019s Handbag",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/jessica-mitford-s-handbag",
-    "content": "When Jessica Mitford (aka Decca) was eleven, in 1928, she opened a Running Away Account at Drummonds Bank. A few years later she ran away to Spain to help in the fight against Franco, and not long after that moved to the US where she became a naturalised citizen and joined the Communist Party.",
-    "date": "2026-06-07T15:37:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "3bcd876d62f4f4b3b3c8693ed723e08e",
-    "feed_name": "LRB",
-    "title": "James Lasdun\u2019s road trip to America\u2019s courts",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/james-lasdun-s-road-trip-to-america-s-courts",
-    "content": "\u2018Courtroom encounters present you with only a fragment of a person\u2019s story, from which you may or may not be inclined to infer the rest,\u2019 James Lasdun wrote recently in theLRB. Last October, he set out on a road trip across America, with the aim of attending as many different kinds of criminal and civil trials as possible in one month. His journey took him from immigration...",
-    "date": "2026-06-07T15:37:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "1bc6fa97a177bb143886e54a0a1f8594",
-    "feed_name": "LRB",
-    "title": "Early Modern News",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/early-modern-news",
-    "content": "\u2018Information in the early modern world could move no faster than the bodies that carried it,\u2019 John Gallagher wrote recently in theLRB. For a horse and rider, that was just under fifteen kilometres per hour. Yet postal systems, as pioneered by the enterprising Tassis family, were becoming ever more reliable and efficient, at first in northern Italy and then across much of...",
-    "date": "2026-06-07T15:37:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "491d09a02092bd27afe5b3f1cf140251",
-    "feed_name": "LRB",
-    "title": "From the Archive: \u2018The War on Terrorism: Is There an Alternative?\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/aftershock-the-war-on-terror/from-the-archive-the-war-on-terrorism-is-there-an-alternative",
-    "content": "In May 2002, six months after the invasion of Afghanistan but before the Iraq war, theLondon Review of Booksheld a debate: \u2018The War on Terrorism: Is There an Alternative?\u2019 The panel comprised Tariq Ali, Christopher Hitchens, Jacqueline Rose, Anatol Lieven and Onora O\u2019Neill.President Bush\u2019s ultimatum set the tone: either you\u2019re with us or you\u2019re with the...",
-    "date": "2026-06-07T15:37:52",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/dining/this-vanilla-sheet-pan-cake-is-ready-to-party.html",
-    "feed_name": "NYT (Food)",
-    "title": "This Vanilla Sheet-Pan Cake Is Ready to Party",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/06/07/dining/this-vanilla-sheet-pan-cake-is-ready-to-party.html",
-    "content": "Lidey Heuck\u2019s vanilla sheet-pan party cake.",
-    "date": "2026-06-07T15:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/20412-armstrong-community-music-school-we-are-the-chorus-beauty-and-the-beast",
-    "feed_name": "KMFA",
-    "title": "Armstrong Community Music School: We Are the Chorus - Beauty and the Beast",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/20412-armstrong-community-music-school-we-are-the-chorus-beauty-and-the-beast",
-    "content": "ARMSTRONG COMMUNITY MUSIC SCHOOL PRESENTS\n\nWE ARE THE CHORUS:\n\nBEAUTY AND THE BEAST\n\nJUNE 7 | 3 P.M. - 4:30 P.M. | SHEPHERD OF THE HILLS CHRISTIAN CHURCH\n\n\n\nBring family and friends and experience an enchanting afternoon of music, connection, and celebration!\u00a0\n\nJoin We Are The Chorus for a magical afternoon of music celebrating\u00a0Beauty and the Beast! This special hour-long concert will feature beloved songs and choral favorites inspired by the timeless story, performed by our talented singers in a joyful community celebration.\n\nFollowing the performance, guests are invited to stay for a reception.\n\nWe Are the Chorus was founded in 1999 by parents of young adults with disabilities and has been going strong with its original members, as well as some newcomers, ever since. Rehearsals are once a week on Mondays during the school year, 7-8pm, at Violet Crown City Church. This group rehearses like a formal choir and members present a Fall concert and Spring Musical each year. For more information, including how to join, please fill out the form below or email\u00a0jplatt@acmsaustin.org.\u00a0\u00a0\n\nLEARN MORE!\n\nEvent Details\nDate: Sunday, June 7, 2026\nTime: 3:00 P.M. - 4:30 P.M.\nVenue: Shepherd of the Hills Christian Church\n\nTicket Information\nCost: Free\nPhone: \n\nPresenter Details: At Armstrong Community Music School we teach, explore, perform, and celebrate music by supporting and engaging our entire community with nurturing and transformational musical experiences.",
-    "date": "2026-06-07T15:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/06/25/we-did-our-best-ai-meghan-ogieblyn/",
-    "feed_name": "NYRB",
-    "title": "\u2018We Did Our Best!\u2019",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/06/25/we-did-our-best-ai-meghan-ogieblyn/",
-    "content": "Metaphors of parenting have defined our understanding of AI, but lately the parent-child relationship between creator and machine is becoming reversed.\n\nDelivered by PolitePaul service",
-    "date": "2026-06-07T14:48:48",
     "category": "Magazines"
   }
 ]
