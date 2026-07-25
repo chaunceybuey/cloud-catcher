@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/25/dining/our-very-best-celebration-worthy-cakes.html",
+    "feed_name": "NYT (Food)",
+    "title": "Our Very Best Celebration-Worthy Cakes",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/07/25/dining/our-very-best-celebration-worthy-cakes.html",
+    "content": "Claire Saffitz\u2019s chocolate layer cake.",
+    "date": "2026-07-25T14:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
     "feed_name": "Douthat",
     "title": "Why Vance Still Trumps Rubio",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
     "content": "A sparse musical season included a radically reconceived version of \u201cCats\u201d and a \u201cRagtime\u201d revival. Pink will host a ceremony filled with nostalgic performances.",
     "date": "2026-06-07T22:14:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/whats-onstage-this-summer",
-    "feed_name": "NYT (Arts)",
-    "title": "What\u2019s onstage this summer?",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/whats-onstage-this-summer",
-    "content": "A play inspired by the horror franchise \u201cParanormal Activity\u201d makes its Broadway bow in August.",
-    "date": "2026-06-07T22:00:04",
     "category": "NYT"
   }
 ]
