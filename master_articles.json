@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/obituaries/barbara-rubin-overlooked.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Overlooked No More: Barbara Rubin, Teenage Filmmaker at the Heart of New York\u2019s Underground",
+    "author": "J. Hoberman",
+    "link": "https://www.nytimes.com/2026/07/24/obituaries/barbara-rubin-overlooked.html",
+    "content": "Rubin in 1964. She was known for connecting important figures of New York\u2019s avant-garde movement with one another.",
+    "date": "2026-07-25T00:16:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=237971",
     "feed_name": "Texas Tribune",
     "title": "National teacher certification board told to scrub DEI mentions to comply with Texas law",
@@ -19988,15 +19998,5 @@
     "content": "In the 1590s, Caravaggio was one of \u2018the swaggering, violent young men who terrorised Romans\u2019, Erin Maglaque wrote recently in theLRB, and he \u2018made his name by painting this violent, chaotic world\u2019.On this episode, Erin joins Thomas Jones to discuss the ways that Caravaggio represented his models' bodies on canvas \u2013 their muscles, skin, hair, clothing and dirty...",
     "date": "2026-06-07T13:58:09",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/dining/tangy-and-bold-chile-tofu.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Tangy and Bold Chile Tofu",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/06/07/dining/tangy-and-bold-chile-tofu.html",
-    "content": "Hetty Lui McKinnon\u2019s new take on a popular Indo-Chinese stir-fry pairs the mild protein with a bold, punchy sauce.",
-    "date": "2026-06-07T13:00:05",
-    "category": "NYT"
   }
 ]
