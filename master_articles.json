@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/25/books/charles-gaines-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Charles Gaines, Whose \u2018Pumping Iron\u2019 Sparked Schwarzenegger\u2019s Career, Dies at 84",
+    "author": "Trip Gabriel",
+    "link": "https://www.nytimes.com/2026/07/25/books/charles-gaines-dead.html",
+    "content": "An author and sportsman, he helped create the game of paintball and wrote the book and movie that made Arnold Schwarzenegger a household name.",
+    "date": "2026-07-25T18:06:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/25/science/guy-tudor-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Guy Tudor, Whose Art Brought Obscure Birds to Life, Dies at 91",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html",
     "content": "The ceremony will be hosted by the pop singer-songwriter Pink.",
     "date": "2026-06-07T22:43:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/38-tony-nominees-on-the-strangest-skills-theyve-picked-up-for-a-show",
-    "feed_name": "NYT (Arts)",
-    "title": "38 Tony nominees on the strangest skills they\u2019ve picked up for a show.",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/38-tony-nominees-on-the-strangest-skills-theyve-picked-up-for-a-show",
-    "content": "",
-    "date": "2026-06-07T22:30:02",
     "category": "NYT"
   }
 ]
