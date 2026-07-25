@@ -60,6 +60,76 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/25/dining/i-will-never-not-roast-a-chicken.html",
+    "feed_name": "NYT (Food)",
+    "title": "I Will Never Not Roast a Chicken",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/25/dining/i-will-never-not-roast-a-chicken.html",
+    "content": "Ali Slagle\u2019s roast chicken with caramelized zucchini and leeks.",
+    "date": "2026-07-25T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/25/dining/our-very-best-celebration-worthy-cakes.html",
+    "feed_name": "NYT (Food)",
+    "title": "Our Very Best Celebration-Worthy Cakes",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/07/25/dining/our-very-best-celebration-worthy-cakes.html",
+    "content": "Claire Saffitz\u2019s chocolate layer cake.",
+    "date": "2026-07-25T14:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
+    "feed_name": "Douthat",
+    "title": "Why Vance Still Trumps Rubio",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
+    "content": "There\u2019s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
+    "date": "2026-07-25T11:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "a83056f954fed42d1605a9fd17d4e7e1",
+    "feed_name": "The Atlantic",
+    "title": "Public Health Needs MAHA",
+    "author": "Craig Spencer",
+    "link": "https://www.theatlantic.com/ideas/2026/07/public-health-maha-rfk/688014/",
+    "content": "The field must swallow its pride and admit where the insurgent movement is right.",
+    "date": "2026-07-25T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "801f63b623d027f3038b9e2b5f5a5423",
+    "feed_name": "LRB",
+    "title": "Ordinary Abuse",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/ordinary-abuse",
+    "content": "\u2018I hadn\u2019t wanted to have sex with the prince,\u2019 Virginia Giuffre said, \u2018but I felt I had to.\u2019 Reviewing Giuffre\u2019s memoir,Nobody\u2019s Girl, in theLRB, Andrew O\u2019Hagan writes: \u2018All the pomp, tradition, ceremony and \u201cloyalty\u201d in the world can\u2019t wash away the simple facts. Ghislaine Maxwell took this young girl to...",
+    "date": "2026-07-25T09:50:02",
+    "category": "Magazines"
+  },
+  {
+    "id": "a1aa0489cdb7c1789872ea8b2f8aeea3",
+    "feed_name": "LRB",
+    "title": "On Politics: Mandelson and the Private Life of Power",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-mandelson-and-the-private-life-of-power",
+    "content": "When Peter Mandelson was a minister in Gordon Brown\u2019s government he passed confidential advice to Jeffrey Epstein, who had recently been convicted of procuring a child for prostitution. This is among the many extraordinary details of Mandelson\u2019s relationship with Epstein revealed by the release of more than three million pages of documents by the US Justice Department last month....",
+    "date": "2026-07-25T09:50:02",
+    "category": "Magazines"
+  },
+  {
+    "id": "c729547ec8640e364fddc28854334f6d",
+    "feed_name": "LRB",
+    "title": "Nature in Crisis: \u2018The Light Eaters\u2019 by Zo\u00eb Schlanger",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/nature-in-crisis-the-light-eaters-by-zoe-schlanger",
+    "content": "In \u2018The Light Eaters\u2019 (2024), Zo\u00eb Schlanger reports from the frontiers of botany, where researchers are discovering forms of sensing, signalling and responding that challenge our ideas of plants as passive life forms. Meehan Crist and Peter Godfrey-Smith explore Schlanger\u2019s account of new research into plant behaviour. They examine the case for plant agency \u2013 and...",
+    "date": "2026-07-25T09:50:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/25/arts/music/odyssey-music-sirens-song.html",
     "feed_name": "NYT (Arts)",
     "title": "The Haunting Music in the \u2018Odyssey\u2019 Siren Scene Has Ancient Roots",
@@ -19927,76 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html",
     "content": "Qween Jean, who\u2019s nominated for best costume design for \u201cLiberation\u201d and \u201cCats: The Jellicle Ball.\u201d",
     "date": "2026-06-07T22:16:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
-    "feed_name": "NYT (Arts)",
-    "title": "Tonys 2026 Live Updates: Stars Arrive on Red Carpet in Honor of Broadway\u2019s Best",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
-    "content": "A sparse musical season included a radically reconceived version of \u201cCats\u201d and a \u201cRagtime\u201d revival. Pink will host a ceremony filled with nostalgic performances.",
-    "date": "2026-06-07T22:14:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/whats-onstage-this-summer",
-    "feed_name": "NYT (Arts)",
-    "title": "What\u2019s onstage this summer?",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/whats-onstage-this-summer",
-    "content": "A play inspired by the horror franchise \u201cParanormal Activity\u201d makes its Broadway bow in August.",
-    "date": "2026-06-07T22:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
-    "feed_name": "NYT (Arts)",
-    "title": "How to watch the Tony Awards.",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
-    "content": "Pink will host the 79th Tony Awards at Radio City Music Hall. The ceremony, which will be broadcast live on CBS and is available to stream on Paramount+, begins at 8 p.m. Eastern.",
-    "date": "2026-06-07T21:30:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-the-latest",
-    "feed_name": "NYT (Arts)",
-    "title": "Here\u2019s the latest.",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-the-latest",
-    "content": "",
-    "date": "2026-06-07T21:30:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-what-to-expect-at-tonights-ceremony",
-    "feed_name": "NYT (Arts)",
-    "title": "Here\u2019s what to expect at tonight\u2019s ceremony.",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-what-to-expect-at-tonights-ceremony",
-    "content": "The CBS telecast of the Tonys introduces the latest plays and musicals to a television audience of several million.",
-    "date": "2026-06-07T21:30:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/world/middleeast/tribeca-film-festival-response-palestinian-joke.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tribeca Festival Denounces Pair Who Joked on the Red Carpet About Rape",
-    "author": "Claire Moses and Johnny Diaz",
-    "link": "https://www.nytimes.com/2026/06/07/world/middleeast/tribeca-film-festival-response-palestinian-joke.html",
-    "content": "A clip of the actor Elon Gold with Lizzy Savetsky, a social media influencer, at the premiere of \u201cThe Wedding Entertainer\u201d has been circulating online.",
-    "date": "2026-06-07T20:30:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/business/media/scary-movie-politically-incorrect-humor.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Scary Movie\u2019 Returns Politically Incorrect Humor to Top of the Box Office",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/06/07/business/media/scary-movie-politically-incorrect-humor.html",
-    "content": "The film took in $55 million over the weekend in the United States and Canada. It was the biggest opening for an R-rated comedy in 12 years.",
-    "date": "2026-06-07T18:19:59",
     "category": "NYT"
   }
 ]
