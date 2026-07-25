@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/25/science/guy-tudor-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Guy Tudor, Whose Art Brought Obscure Birds to Life, Dies at 91",
+    "author": "Guy Trebay",
+    "link": "https://www.nytimes.com/2026/07/25/science/guy-tudor-dead.html",
+    "content": "A self-taught ornithologist, he won a MacArthur fellowship for his precise, resplendent illustrations that appeared in definitive field guides to tropical songbirds.",
+    "date": "2026-07-25T16:32:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/25/dining/i-will-never-not-roast-a-chicken.html",
     "feed_name": "NYT (Food)",
     "title": "I Will Never Not Roast a Chicken",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/38-tony-nominees-on-the-strangest-skills-theyve-picked-up-for-a-show",
     "content": "",
     "date": "2026-06-07T22:30:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Our Favorite Photos From the Tony Awards Red Carpet",
-    "author": "Jutharat Pinyodoonyachet",
-    "link": "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html",
-    "content": "Qween Jean, who\u2019s nominated for best costume design for \u201cLiberation\u201d and \u201cCats: The Jellicle Ball.\u201d",
-    "date": "2026-06-07T22:16:48",
     "category": "NYT"
   }
 ]
