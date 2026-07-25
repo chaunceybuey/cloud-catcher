@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/24/arts/chuck-russell-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Chuck Russell, Director of \u2018The Mask\u2019 and Third \u2018Nightmare on Elm Street\u2019 Movie, Dies at 74",
+    "author": "John S.W. MacDonald",
+    "link": "https://www.nytimes.com/2026/07/24/arts/chuck-russell-dead.html",
+    "content": "Chuck Russell, the director of \u201cThe Mask\u201d and genre films like \u201cA Nightmare on Elm Street 3: Dream Warriors,\u201d has died at 74.",
+    "date": "2026-07-25T01:05:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/24/obituaries/barbara-rubin-overlooked.html",
     "feed_name": "NYT (Arts)",
     "title": "Overlooked No More: Barbara Rubin, Teenage Filmmaker at the Heart of New York\u2019s Underground",
@@ -19080,6 +19090,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/07/dining/tangy-and-bold-chile-tofu.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Tangy and Bold Chile Tofu",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/06/07/dining/tangy-and-bold-chile-tofu.html",
+    "content": "Hetty Lui McKinnon\u2019s new take on a popular Indo-Chinese stir-fry pairs the mild protein with a bold, punchy sauce.",
+    "date": "2026-06-08T15:21:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/08/dining/yewande-komolafes-mushroom-stuffed-plantains.html",
     "feed_name": "NYT (Food)",
     "title": "Yewande Komolafe\u2019s Mushroom-Stuffed Plantains",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/what-next-in-iran",
     "content": "In a press conference on 9 March, Donald Trump described the war against Iran as \u2018very complete, pretty much\u2019. Earlier that day, his secretary of war, Pete Hegseth, told ABC that the ongoing strikes were \u2018just the beginning\u2019. In this episode, Adam Shatz is joined by Robert Malley and Esfandyar Batmanghelidj to discuss the chaos of Trump\u2019s Iran strategy, whether...",
-    "date": "2026-06-07T13:58:09",
-    "category": "Magazines"
-  },
-  {
-    "id": "68e259eb6889a943b76789d90d2b0853",
-    "feed_name": "LRB",
-    "title": "Nature in Crisis: \u2018Blue Machine\u2019 by Helen Czerski",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/nature-in-crisis-blue-machine-by-helen-czerski",
-    "content": "InBlue Machine(2024), Helen Czerski refigures the ocean as an enormous planetary engine, converting light and heat into motion. Her book invites us to see the ocean not as an \u2018absence\u2019 but an intricate series of operations that makes life as we know it possible.In this episode, Meehan Crist and Peter Godfrey-Smith reflect on the ways Czerski\u2019s book has...",
-    "date": "2026-06-07T13:58:09",
-    "category": "Magazines"
-  },
-  {
-    "id": "5fe8682d093ec14c4a4b17b7fd738fc7",
-    "feed_name": "LRB",
-    "title": "Caravaggio\u2019s Bodies",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/caravaggio-s-bodies",
-    "content": "In the 1590s, Caravaggio was one of \u2018the swaggering, violent young men who terrorised Romans\u2019, Erin Maglaque wrote recently in theLRB, and he \u2018made his name by painting this violent, chaotic world\u2019.On this episode, Erin joins Thomas Jones to discuss the ways that Caravaggio represented his models' bodies on canvas \u2013 their muscles, skin, hair, clothing and dirty...",
     "date": "2026-06-07T13:58:09",
     "category": "Magazines"
   }
