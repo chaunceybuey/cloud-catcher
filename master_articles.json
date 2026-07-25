@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/25/dining/i-will-never-not-roast-a-chicken.html",
+    "feed_name": "NYT (Food)",
+    "title": "I Will Never Not Roast a Chicken",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/25/dining/i-will-never-not-roast-a-chicken.html",
+    "content": "Ali Slagle\u2019s roast chicken with caramelized zucchini and leeks.",
+    "date": "2026-07-25T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/25/dining/our-very-best-celebration-worthy-cakes.html",
     "feed_name": "NYT (Food)",
     "title": "Our Very Best Celebration-Worthy Cakes",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html",
     "content": "Qween Jean, who\u2019s nominated for best costume design for \u201cLiberation\u201d and \u201cCats: The Jellicle Ball.\u201d",
     "date": "2026-06-07T22:16:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
-    "feed_name": "NYT (Arts)",
-    "title": "Tonys 2026 Live Updates: Stars Arrive on Red Carpet in Honor of Broadway\u2019s Best",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
-    "content": "A sparse musical season included a radically reconceived version of \u201cCats\u201d and a \u201cRagtime\u201d revival. Pink will host a ceremony filled with nostalgic performances.",
-    "date": "2026-06-07T22:14:38",
     "category": "NYT"
   }
 ]
