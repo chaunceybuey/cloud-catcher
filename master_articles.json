@@ -60,6 +60,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
+    "feed_name": "Douthat",
+    "title": "Why Vance Still Trumps Rubio",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
+    "content": "There\u2019s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
+    "date": "2026-07-25T11:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "801f63b623d027f3038b9e2b5f5a5423",
     "feed_name": "LRB",
     "title": "Ordinary Abuse",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
     "content": "Pink will host the 79th Tony Awards at Radio City Music Hall. The ceremony, which will be broadcast live on CBS and is available to stream on Paramount+, begins at 8 p.m. Eastern.",
     "date": "2026-06-07T21:30:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-the-latest",
-    "feed_name": "NYT (Arts)",
-    "title": "Here\u2019s the latest.",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-the-latest",
-    "content": "",
-    "date": "2026-06-07T21:30:28",
     "category": "NYT"
   }
 ]
