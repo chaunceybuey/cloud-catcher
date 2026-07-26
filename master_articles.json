@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/26/dining/some-like-it-hot-and-then-cold.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Some Like It Hot, and Then Cold",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/26/dining/some-like-it-hot-and-then-cold.html",
+    "content": "Five of my favorite quick, easy dinners that turn into no-reheating-needed lunches.",
+    "date": "2026-07-26T13:00:08",
+    "category": "NYT"
+  },
+  {
     "id": "6a63f6bb2dfb4c1c0727105c",
     "feed_name": "Wired (Science)",
     "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/american-players-theater-is-receiving-the-regional-theater-award",
     "content": "Samantha Newcomb and Briana J. Resa, top center on the balcony, in a 2024 American Players Theater production of \u201cMuch Ado About Nothing.\u201d",
     "date": "2026-06-07T22:55:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/andre-bishop-jules-fisher-and-james-lapine-to-receive-lifetime-achievement-awards",
-    "feed_name": "NYT (Arts)",
-    "title": "Andr\u00e9 Bishop, Jules Fisher and James Lapine to receive lifetime achievement awards.",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/andre-bishop-jules-fisher-and-james-lapine-to-receive-lifetime-achievement-awards",
-    "content": "From left, the producer Andr\u00e9 Bishop, the lighting designer Jules Fisher and the book writer and director James Lapine.",
-    "date": "2026-06-07T22:46:09",
     "category": "NYT"
   }
 ]
