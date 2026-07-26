@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a63f6bb2dfb4c1c0727105c",
+    "feed_name": "Wired (Science)",
+    "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
+    "author": "Matt Simon",
+    "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
+    "content": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
+    "date": "2026-07-26T10:45:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20709-austin-chamber-music-center-galvin-cello-quartet",
     "feed_name": "KMFA",
     "title": "Austin Chamber Music Center: Galvin Cello Quartet",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/andre-bishop-jules-fisher-and-james-lapine-to-receive-lifetime-achievement-awards",
     "content": "From left, the producer Andr\u00e9 Bishop, the lighting designer Jules Fisher and the book writer and director James Lapine.",
     "date": "2026-06-07T22:46:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tony Award Winners 2026: The Updating List",
-    "author": "Rachel Sherman",
-    "link": "https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html",
-    "content": "The ceremony will be hosted by the pop singer-songwriter Pink.",
-    "date": "2026-06-07T22:43:33",
     "category": "NYT"
   }
 ]
