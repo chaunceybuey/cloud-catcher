@@ -60,6 +60,16 @@
     "category": "NYT"
   },
   {
+    "id": "2d9ddd7fae4c6edcb841cee8e750f8d7",
+    "feed_name": "The Atlantic",
+    "title": "Joe Rogan\u2019s New British Crush",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/07/rupert-lowe-restore-britain-rogan/688033/",
+    "content": "Rupert Lowe understands what the American right wants to hear.",
+    "date": "2026-07-26T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a63f6bb2dfb4c1c0727105c",
     "feed_name": "Wired (Science)",
     "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/who-is-going-to-win-tonight",
     "content": "",
     "date": "2026-06-07T23:00:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/american-players-theater-is-receiving-the-regional-theater-award",
-    "feed_name": "NYT (Arts)",
-    "title": "American Players Theater is receiving the regional theater award.",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/american-players-theater-is-receiving-the-regional-theater-award",
-    "content": "Samantha Newcomb and Briana J. Resa, top center on the balcony, in a 2024 American Players Theater production of \u201cMuch Ado About Nothing.\u201d",
-    "date": "2026-06-07T22:55:30",
     "category": "NYT"
   }
 ]
