@@ -50,6 +50,16 @@
     "category": "Texas"
   },
   {
+    "id": "f06a47c9-9b58-4af7-b27c-42806b9b0ad7",
+    "feed_name": "Economist",
+    "title": "How high will oil prices go this time?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/26/how-high-will-oil-prices-go-this-time",
+    "content": "As trouble mounts in the Gulf and the Red Sea, fears are rising once again",
+    "date": "2026-07-26T14:06:48",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/26/dining/some-like-it-hot-and-then-cold.html",
     "feed_name": "Weeknight Dishes",
     "title": "Some Like It Hot, and Then Cold",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/a-middle-school-teacher-whos-sent-students-to-broadway-wins-excellence-in-education-award",
     "content": "Freddie Hendricks, a teacher at Utopian Academy for the Arts in Ellenwood, Ga., also founded the Youth Ensemble of Atlanta.",
     "date": "2026-06-07T23:13:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/who-is-going-to-win-tonight",
-    "feed_name": "NYT (Arts)",
-    "title": "Who is going to win tonight?",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/who-is-going-to-win-tonight",
-    "content": "",
-    "date": "2026-06-07T23:00:01",
     "category": "NYT"
   }
 ]
