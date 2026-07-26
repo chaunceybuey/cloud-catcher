@@ -40,6 +40,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/26/dining/my-piece-of-cake-cake.html",
+    "feed_name": "NYT (Food)",
+    "title": "My Piece-of-Cake Cake",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/07/26/dining/my-piece-of-cake-cake.html",
+    "content": "Melissa Clark\u2019s most adaptable one-bowl cornmeal pound cake.",
+    "date": "2026-07-26T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20676-austin-chamber-music-center-ariel-quartet",
     "feed_name": "KMFA",
     "title": "Austin Chamber Music Center: Ariel Quartet",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/theater/tonys-host-pink.html",
     "content": "Pink arrives at the 79th Tony Awards before hosting the ceremony.",
     "date": "2026-06-07T23:45:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/a-middle-school-teacher-whos-sent-students-to-broadway-wins-excellence-in-education-award",
-    "feed_name": "NYT (Arts)",
-    "title": "A middle-school teacher who\u2019s sent students to Broadway wins excellence in education award.",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/a-middle-school-teacher-whos-sent-students-to-broadway-wins-excellence-in-education-award",
-    "content": "Freddie Hendricks, a teacher at Utopian Academy for the Arts in Ellenwood, Ga., also founded the Youth Ensemble of Atlanta.",
-    "date": "2026-06-07T23:13:27",
     "category": "NYT"
   }
 ]
