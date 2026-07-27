@@ -40,6 +40,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/27/dining/halloumi-peach-and-cucumber-spoon-salad.html",
+    "feed_name": "NYT (Food)",
+    "title": "Halloumi, Peach and Cucumber Spoon Salad",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/07/27/dining/halloumi-peach-and-cucumber-spoon-salad.html",
+    "content": "Ali Slagle\u2019s halloumi, peach, and cucumber spoon salad.",
+    "date": "2026-07-27T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "4a959c1f2f1479bc9f84cbe11a432e81",
     "feed_name": "New Yorker",
     "title": "Julio Torres\u2019s Sea Wench,\u00a0Qween Jean at Little Island",
@@ -19986,16 +19996,6 @@
     "author": "ByRoz Chast",
     "link": "https://www.newyorker.com/magazine/2026/06/15/a-dad-story-or-after-six-beers",
     "content": "One man\u2019s naval adventure, fuelled by hops.",
-    "date": "2026-06-08T14:10:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "718969c18d92342159237c66c0c7484d",
-    "feed_name": "New Yorker",
-    "title": "\u201cConstellation\u201d",
-    "author": "ByAndrea Bajani",
-    "link": "https://www.newyorker.com/magazine/2026/06/15/constellation-fiction-andrea-bajani",
-    "content": "There was something absurd and distressing in that prelude to the domestic drama.",
     "date": "2026-06-08T14:10:23",
     "category": "Magazines"
   }
