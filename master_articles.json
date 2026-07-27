@@ -80,6 +80,36 @@
     "category": "Texas"
   },
   {
+    "id": "6a67bbcf6f953c2323321b85",
+    "feed_name": "Wired (Science)",
+    "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
+    "content": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them.",
+    "date": "2026-07-27T21:06:54",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/27/theater/game-of-thrones-mad-king-royal-shakespeare-cancellations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Despite Cancellations, Company Says \u2018Game of Thrones\u2019 Play Is On Track",
+    "author": "Precious Adesina",
+    "link": "https://www.nytimes.com/2026/07/27/theater/game-of-thrones-mad-king-royal-shakespeare-cancellations.html",
+    "content": "\u201cGame of Thrones: The Mad King\u201d is scheduled to open officially on Aug. 8 and run through Sept. 5 at the Royal Shakespeare Theater in Stratford-upon-Avon, England.",
+    "date": "2026-07-27T21:04:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/27/arts/music/d4vd-celesete-rivas-hernandez-murder.html",
+    "feed_name": "NYT (Arts)",
+    "title": "D4vd Murder Case May Go to Trial, Judge Rules",
+    "author": "Matt Stevens",
+    "link": "https://www.nytimes.com/2026/07/27/arts/music/d4vd-celesete-rivas-hernandez-murder.html",
+    "content": "D4vd, whose real name is David Burke, is perhaps best known for creating the anthem to the video game Fortnite. In April, he was charged with first-degree murder.",
+    "date": "2026-07-27T20:58:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/20874-one-ounce-opera-8th-fresh-squeezed-ounce-of-opera",
     "feed_name": "KMFA",
     "title": "One Ounce Opera: 8th Fresh Squeezed Ounce of Opera",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/08/theater/tony-awards-saturday-night-live.html",
     "content": "Lorne Michaels, the creator of \u201cSaturday Night Live,\u201d accepting the Tony Award for best new musical on Sunday.",
     "date": "2026-06-08T16:40:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/08/theater/readers-tony-awards-voting.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The One Tony Award Our Readers Would Have Changed",
-    "author": "Robin Kawakami",
-    "link": "https://www.nytimes.com/2026/06/08/theater/readers-tony-awards-voting.html",
-    "content": "Thousands of people contributed their Broadway favorites of the season ahead of the Tony Awards. Here\u2019s how their votes stacked up.",
-    "date": "2026-06-08T16:34:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/08/arts/design/frida-kahlo-diego-rivera.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Bounty of Frida Kahlo Art Emerges in Mexico\u2019s Restored Museum",
-    "author": "Victoria Burnett and Pablo L\u00f3pez Luz",
-    "link": "https://www.nytimes.com/2026/06/08/arts/design/frida-kahlo-diego-rivera.html",
-    "content": "Frida Kahlo, \u201cAutorretrato con Changuito (Self-Portrait With Monkey),\u201d 1945 at the reopened Dolores Olmedo Museum in Mexico City.",
-    "date": "2026-06-08T16:21:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/08/theater/scott-rudin-salesman-tony-awards.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Was Scott Rudin the Biggest Winner at This Year\u2019s Tony Awards?",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/06/08/theater/scott-rudin-salesman-tony-awards.html",
-    "content": "Nathan Lane, the star of \u201cDeath of a Salesman,\u201d accepted the Tony Award for best play revival surrounded by cast members and co-producers. Conspicuously not present: the lead producer Scott Rudin.",
-    "date": "2026-06-08T16:14:42",
     "category": "NYT"
   }
 ]
