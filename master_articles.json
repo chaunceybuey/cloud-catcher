@@ -40,6 +40,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a677137fe9f8bb0782adbc8",
+    "feed_name": "Wired (Science)",
+    "title": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
+    "author": "Kate Knibbs",
+    "link": "https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/",
+    "content": "Beluga whales were in danger of getting euthanized after a Canadian theme park went bust. WIRED spoke with some of the scientists behind the groundbreaking rescue mission.",
+    "date": "2026-07-27T15:33:56",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/27/dining/halloumi-peach-and-cucumber-spoon-salad.html",
     "feed_name": "NYT (Food)",
     "title": "Halloumi, Peach and Cucumber Spoon Salad",
@@ -48,6 +58,16 @@
     "content": "Ali Slagle\u2019s halloumi, peach, and cucumber spoon salad.",
     "date": "2026-07-27T15:00:06",
     "category": "NYT"
+  },
+  {
+    "id": "0b5a62c4616dc8e788848e55f0895417",
+    "feed_name": "The Atlantic",
+    "title": "An Odyssey for Our Own Time",
+    "author": "Peter Wehner",
+    "link": "https://www.theatlantic.com/ideas/2026/07/nolan-odysseus-morality-guilt/688076/",
+    "content": "Christopher Nolanpresents a very human hero to a culture that desperately needs one.",
+    "date": "2026-07-27T13:43:28",
+    "category": "Magazines"
   },
   {
     "id": "4a959c1f2f1479bc9f84cbe11a432e81",
@@ -19976,26 +19996,6 @@
     "author": "ByHeidi Blake",
     "link": "https://www.newyorker.com/magazine/2026/06/15/andrew-tates-empire-of-abuse",
     "content": "How the defining figure of the manosphere built a fortune\u2014and became a political force\u2014by systematically exploiting women.",
-    "date": "2026-06-08T14:10:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "697af1b95b61a89e2e06a4316fabd0d3",
-    "feed_name": "New Yorker",
-    "title": "Ticks to Fear This Summer",
-    "author": "ByJay Ruttenberg",
-    "link": "https://www.newyorker.com/magazine/2026/06/15/ticks-to-fear-this-summer",
-    "content": "Physically resembling a crossbreed of a gremlin and Stephen Miller\u2019s soul, the Gray-Legged Tick can be found wherever it is even moderately interesting to vacation in the Northeast.",
-    "date": "2026-06-08T14:10:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "b617f13800f75babadcb825da18e5a4e",
-    "feed_name": "New Yorker",
-    "title": "A Dad Story, or, After Six Beers",
-    "author": "ByRoz Chast",
-    "link": "https://www.newyorker.com/magazine/2026/06/15/a-dad-story-or-after-six-beers",
-    "content": "One man\u2019s naval adventure, fuelled by hops.",
     "date": "2026-06-08T14:10:23",
     "category": "Magazines"
   }
