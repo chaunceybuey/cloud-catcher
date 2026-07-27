@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a67d6c4fc15b8f5aefc045a",
+    "feed_name": "Wired (Science)",
+    "title": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/",
+    "content": "Extreme fire conditions on the ground have created unprecedented conditions in the atmosphere.",
+    "date": "2026-07-27T22:57:20",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/27/arts/music/bill-mcglaughlin-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Bill McGlaughlin, Who Unlocked Classical Music for Many, Dies at 82",
@@ -19988,15 +19998,5 @@
     "content": "People attend an informational meeting hosted by the Texas Animal Health Commission two days after the U.S. Department of Agriculture confirmed that New World screwworm was detected in a Texas calf in Zavala County, at Cotulla High School in Cotulla, Texas, U.S., June 5, 2026.  REUTERS/Kaylee Greenlee",
     "date": "2026-06-08T18:13:02",
     "category": "Texas"
-  },
-  {
-    "id": "d9e5697d16633e2f5149232415473501",
-    "feed_name": "LRB",
-    "title": "Get Your Jabs",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/june/get-your-jabs",
-    "content": "Among the unvaccinated, one in five people who get measles in the US will be hospitalised; one in twenty children will get pneumonia; one in.\u00a0.\u00a0.",
-    "date": "2026-06-08T17:56:16",
-    "category": "Magazines"
   }
 ]
