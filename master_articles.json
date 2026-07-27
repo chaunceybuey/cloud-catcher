@@ -80,6 +80,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/27/arts/music/bill-mcglaughlin-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bill McGlaughlin, Who Unlocked Classical Music for Many, Dies at 82",
+    "author": "Tim Page",
+    "link": "https://www.nytimes.com/2026/07/27/arts/music/bill-mcglaughlin-dead.html",
+    "content": "His public-radio programs \u201cSaint Paul Sunday\u201d and \u201cExploring Music\u201d were, at their height, listened to by hundreds of thousands of people a week.",
+    "date": "2026-07-27T22:30:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238086",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 multibillion-dollar sales tax exemption for data centers is growing, while audits lag",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17389245/texas-data-centers-sales-tax-break-audits",
+    "content": "From left, at front and standing: Don\u2019t Drain Texas organizer Maggie Hill, Agriculture Commissioner Sid Miller and Clayton Tucker, Democratic nominee for agriculture commissioner, join protesters on the Capitol steps in demand of a special session to regulate data center growth before a Senate Committee Hearing on Monday, July 27, 2026.",
+    "date": "2026-07-27T22:30:24",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/27/arts/design/betye-saar-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Betye Saar, Artist Who Upended Black Stereotypes, Dies at 99",
@@ -19978,25 +19998,5 @@
     "content": "Among the unvaccinated, one in five people who get measles in the US will be hospitalised; one in twenty children will get pneumonia; one in.\u00a0.\u00a0.",
     "date": "2026-06-08T17:56:16",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/08/theater/how-to-see-the-2026-tony-winners.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How to See the 2026 Tony-Winning Plays and Musicals",
-    "author": "Laura Collins-Hughes and Rachel Sherman",
-    "link": "https://www.nytimes.com/2026/06/08/theater/how-to-see-the-2026-tony-winners.html",
-    "content": "A scene from \u201cSchmigadoon!,\u201d which won four Tony Awards.",
-    "date": "2026-06-08T17:32:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/08/theater/tickets-tony-winners-plays-musicals.html",
-    "feed_name": "NYT (Arts)",
-    "title": "2026 Tonys: How to Get Tickets for Winning Plays and Musicals",
-    "author": "Laura Collins-Hughes and Rachel Sherman",
-    "link": "https://www.nytimes.com/2026/06/08/theater/tickets-tony-winners-plays-musicals.html",
-    "content": "A scene from \u201cSchmigadoon!,\u201d which won four Tony Awards.",
-    "date": "2026-06-08T17:32:25",
-    "category": "NYT"
   }
 ]
