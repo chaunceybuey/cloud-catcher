@@ -40,6 +40,76 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/27/theater/chorus-line-barrington-stage.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018A Chorus Line\u2019 at 50-ish: Seeing Through Perfection to the Pain",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/07/27/theater/chorus-line-barrington-stage.html",
+    "content": "A new production at Barrington Stage Company reminds us of how the \u201csingular sensation\u201d changed our relationship to performance.",
+    "date": "2026-07-27T09:06:37",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/27/arts/mina-hollower-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mina the Hollower Pays Homage to the Game Boy",
+    "author": "Christopher Byrd",
+    "link": "https://www.nytimes.com/2026/07/27/arts/mina-hollower-review.html",
+    "content": "Mina the Hollower draws inspiration from \u201cThe Secret of NIMH,\u201d Victorian literature and 1990s role-playing games.",
+    "date": "2026-07-27T09:05:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/27/arts/dance/nyc-ballet-tim-foster-pointe-shoes.html",
+    "feed_name": "NYT (Arts)",
+    "title": "As New York City Ballet\u2019s Shoe Colorist, Tim Foster Brings a Niche and Needed Craft",
+    "author": "Margaret Fuhrer",
+    "link": "https://www.nytimes.com/2026/07/27/arts/dance/nyc-ballet-tim-foster-pointe-shoes.html",
+    "content": "Tim Foster is a shoe colorist for New York City Ballet, an unexpected but, thanks to a new documentary, no longer unsung hero who practices a delicate, painstaking art.",
+    "date": "2026-07-27T09:04:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/27/movies/the-odyssey-circe.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Christopher Nolan\u2019s \u2018Odyssey\u2019 Has a Circe Problem",
+    "author": "Maya Phillips",
+    "link": "https://www.nytimes.com/2026/07/27/movies/the-odyssey-circe.html",
+    "content": "One of the fascinating women of early literature, Circe becomes a simple witch in Christopher Nolan\u2019s blockbuster.",
+    "date": "2026-07-27T09:03:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Paramount is Betting Johnny Depp Can Make a Comeback With \u2018Ebenezer: A Christmas Carol\u2019",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html",
+    "content": "Johnny Depp, dressed as the title character of \u201cEbenezer,\u201d interacting with fans at Comic-Con International.",
+    "date": "2026-07-27T09:00:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/27/travel/travel-journal-tips-recommendations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How to Keep a Travel Journal",
+    "author": "Jenna Schnuer",
+    "link": "https://www.nytimes.com/2026/07/27/travel/travel-journal-tips-recommendations.html",
+    "content": "A travel journal can be a great way to evoke specific details and memories from a trip. Here are some tips on how to lower the barrier to entry and to stay organized.",
+    "date": "2026-07-27T09:00:27",
+    "category": "NYT"
+  },
+  {
+    "id": "6a637ae1cfcafa25aa779fa1",
+    "feed_name": "Wired (Science)",
+    "title": "It\u2019s Becoming Clear Why Black Holes Never Run Out of Fuel",
+    "author": "Teruyuki Hayakawa",
+    "link": "https://www.wired.com/story/its-becoming-clear-why-black-holes-never-run-out-of-fuel/",
+    "content": "Black holes eject powerful energy jets that blow away the surrounding gas to great distances. So how can they continue to grow?",
+    "date": "2026-07-27T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/27/arts/television/furious-and-7-more-shows-to-watch-on-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Furious\u2019 and 7 More Shows to Watch on TV This Week",
@@ -19927,76 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/theater/schmigadoon-wins-best-musical-tony-award.html",
     "content": "A scene from Broadway\u2019s \u201cSchmigadoon!,\u201d which is running at the Nederlander Theater in Manhattan.",
     "date": "2026-06-08T03:05:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/caissie-levy-wins-the-tony-for-best-actress-in-a-musical",
-    "feed_name": "NYT (Arts)",
-    "title": "Caissie Levy wins the Tony for best actress in a musical.",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/caissie-levy-wins-the-tony-for-best-actress-in-a-musical",
-    "content": "From left: Joshua Henry, Caissie Levy and Brandon Uranowitz in \u201cRagtime.\u201d",
-    "date": "2026-06-08T02:52:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/death-of-a-salesman-revival-play.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Death of a Salesman\u2019 Wins the Tony for Best Revival of a Play",
-    "author": "Jesse Green",
-    "link": "https://www.nytimes.com/2026/06/07/theater/death-of-a-salesman-revival-play.html",
-    "content": "Laurie Metcalf, left, as Linda and Nathan Lane as Willy Loman in the Arthur Miller play \u201cDeath of a Salesman\u201d at the Winter Garden Theater in New York.",
-    "date": "2026-06-08T02:36:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/ragtime-tony-award-best-musical-revival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Ragtime\u2019 Wins the Tony for Best Revival of a Musical",
-    "author": "Jesse Green",
-    "link": "https://www.nytimes.com/2026/06/07/theater/ragtime-tony-award-best-musical-revival.html",
-    "content": "Nichelle Lewis, left, as Sarah and Joshua Henry as Coalhouse Walker Jr. in the musical \u201cRagtime.\u201d",
-    "date": "2026-06-08T02:08:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/lesley-manville-wins-the-tony-for-best-actress-in-a-play",
-    "feed_name": "NYT (Arts)",
-    "title": "Lesley Manville wins the Tony for best actress in a play.",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/lesley-manville-wins-the-tony-for-best-actress-in-a-play",
-    "content": "Lesley Manville and Mark Strong in \u201cOedipus.\u201d",
-    "date": "2026-06-08T01:49:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/liberation-tony-awards-best-play.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Liberation\u2019 Wins the Tony for Best Play",
-    "author": "Alexis Soloski",
-    "link": "https://www.nytimes.com/2026/06/07/theater/liberation-tony-awards-best-play.html",
-    "content": "From left: Audrey Corsa, Susannah Flood, Irene Sofia Lucio and Adina Verson in \u201cLiberation.\u201d",
-    "date": "2026-06-08T01:19:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/june-squibb-is-one-of-the-oldest-actors-ever-to-be-nominated-for-a-tony",
-    "feed_name": "NYT (Arts)",
-    "title": "June Squibb is one of the oldest actors ever to be nominated for a Tony.",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/june-squibb-is-one-of-the-oldest-actors-ever-to-be-nominated-for-a-tony",
-    "content": "June Squibb in the play \u201cMarjorie Prime,\u201d which had a limited run last winter at the Helen Hayes Theater.",
-    "date": "2026-06-08T00:27:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/john-lithgow-tony-giant.html",
-    "feed_name": "NYT (Arts)",
-    "title": "John Lithgow Wins the Tony for Best Actor in a Play",
-    "author": "Rachel Sherman",
-    "link": "https://www.nytimes.com/2026/06/07/theater/john-lithgow-tony-giant.html",
-    "content": "John Lithgow as Roald Dahl in \u201cGiant\u201d at the Music Box Theater in Manhattan.",
-    "date": "2026-06-08T00:23:17",
     "category": "NYT"
   }
 ]
