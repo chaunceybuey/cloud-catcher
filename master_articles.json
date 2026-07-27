@@ -40,6 +40,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/27/arts/television/furious-and-7-more-shows-to-watch-on-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Furious\u2019 and 7 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/07/27/arts/television/furious-and-7-more-shows-to-watch-on-tv-this-week.html",
+    "content": "Scoot McNairy and Emmy Rossum in \u201cFurious.\u201d",
+    "date": "2026-07-27T05:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/26/arts/television/house-of-the-dragon-recap-season-3-episode-6.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018House of the Dragon\u2019 Season 3, Episode 6 Recap: Mistakes Were Made",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/07/theater/john-lithgow-tony-giant.html",
     "content": "John Lithgow as Roald Dahl in \u201cGiant\u201d at the Music Box Theater in Manhattan.",
     "date": "2026-06-08T00:23:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/07/theater/john-lithgow-wins-the-tony-for-best-actor-in-a-play.html",
-    "feed_name": "NYT (Arts)",
-    "title": "John Lithgow wins the Tony for best actor in a play.",
-    "author": "Rachel Sherman",
-    "link": "https://www.nytimes.com/2026/06/07/theater/john-lithgow-wins-the-tony-for-best-actor-in-a-play.html",
-    "content": "John Lithgow as Roald Dahl in \u201cGiant\u201d at the Music Box Theater in Manhattan.",
-    "date": "2026-06-08T00:16:35",
     "category": "NYT"
   }
 ]
