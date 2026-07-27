@@ -40,6 +40,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/27/theater/prince-purple-rain-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Purple Rain,\u2019 Packed With Prince Songs, Plans Broadway Opening",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/07/27/theater/prince-purple-rain-broadway.html",
+    "content": "A still from \u201cPurple Rain,\u201d Prince\u2019s film from 1984, which a new musical adapts.",
+    "date": "2026-07-27T16:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "6a677137fe9f8bb0782adbc8",
     "feed_name": "Wired (Science)",
     "title": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
@@ -19986,16 +19996,6 @@
     "author": "ByJessi Jezewska Stevens",
     "link": "https://www.newyorker.com/magazine/2026/06/15/could-switzerland-become-the-first-country-to-limit-its-population",
     "content": "The Swiss will soon go to the polls for a novel initiative that could upend the nation\u2019s economy and rupture ties with the European Union.",
-    "date": "2026-06-08T14:10:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "dce2bb321eb19b1a2ee0c67e22534cd8",
-    "feed_name": "New Yorker",
-    "title": "Andrew Tate\u2019s Empire of Abuse",
-    "author": "ByHeidi Blake",
-    "link": "https://www.newyorker.com/magazine/2026/06/15/andrew-tates-empire-of-abuse",
-    "content": "How the defining figure of the manosphere built a fortune\u2014and became a political force\u2014by systematically exploiting women.",
     "date": "2026-06-08T14:10:23",
     "category": "Magazines"
   }
