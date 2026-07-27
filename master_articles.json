@@ -40,6 +40,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/27/arts/music/carly-simon-parkinsons.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Carly Simon Reveals She Has Parkinson\u2019s Disease",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/07/27/arts/music/carly-simon-parkinsons.html",
+    "content": "The singer-songwriter, 83, has also had surgery to treat basal cell carcinoma on her face, making her \u201cself-conscious about being seen in public,\u201d she said.",
+    "date": "2026-07-27T11:50:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=19574",
     "feed_name": "Stratechery",
     "title": "Vacation: Week of July 27",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/08/dining/post-modern-times-minneapolis-free-food.html",
     "content": "Dylan Alverson changed his restaurant\u2019s business model early this year, frustrated by Operation Metro Surge but also the dire state of the restaurant business. \u201cThere is something wrong in our economy,\u201d he said.",
     "date": "2026-06-08T09:01:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/08/technology/uk-video-memes-archive-tape.html",
-    "feed_name": "NYT (Arts)",
-    "title": "B.F.I. Preserves \u2018Charlie Bit My Finger\u2019 and More Videos in Archive of Viral Moments",
-    "author": "Leo Sands",
-    "link": "https://www.nytimes.com/2026/06/08/technology/uk-video-memes-archive-tape.html",
-    "content": "The British Film Institute assembled more than 400 videos in an archive of culturally significant internet moments. See what made the cut.",
-    "date": "2026-06-08T09:00:52",
     "category": "NYT"
   }
 ]
