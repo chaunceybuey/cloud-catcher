@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/27/arts/design/betye-saar-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Betye Saar, Artist Who Upended Black Stereotypes, Dies at 99",
+    "author": "Jori Finkel",
+    "link": "https://www.nytimes.com/2026/07/27/arts/design/betye-saar-dead.html",
+    "content": "Bettye Saar in 2019.",
+    "date": "2026-07-27T21:40:51",
+    "category": "NYT"
+  },
+  {
     "id": "6a67bbcf6f953c2323321b85",
     "feed_name": "Wired (Science)",
     "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
@@ -108,6 +118,16 @@
     "content": "D4vd, whose real name is David Burke, is perhaps best known for creating the anthem to the video game Fortnite. In April, he was charged with first-degree murder.",
     "date": "2026-07-27T20:58:49",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238078",
+    "feed_name": "Texas Tribune",
+    "title": "U.S. House Ethics Committee is investigating GOP Rep. Lance Gooden",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17389176/texas-lance-gooden-house-ethics-committee-probe-office-congressional-conduct",
+    "content": "U.S. Rep. Lance Gooden, R-Terrell, attends a House Armed Services Committee hearing in the Rayburn building in Washington on April 29, 2026.",
+    "date": "2026-07-27T20:55:41",
+    "category": "Texas"
   },
   {
     "id": "https://www.kmfa.org/pages/20874-one-ounce-opera-8th-fresh-squeezed-ounce-of-opera",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/08/theater/tickets-tony-winners-plays-musicals.html",
     "content": "A scene from \u201cSchmigadoon!,\u201d which won four Tony Awards.",
     "date": "2026-06-08T17:32:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/08/world/europe/patrick-bruel-questioning-rape-sexual-assault.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Patrick Bruel, French Singer, Is Taken Into Custody Over Sex Assault Claims",
-    "author": "Claire Moses and S\u00e9gol\u00e8ne Le Stradic",
-    "link": "https://www.nytimes.com/2026/06/08/world/europe/patrick-bruel-questioning-rape-sexual-assault.html",
-    "content": "The French singer and actor Patrick Bruel in Paris last year.",
-    "date": "2026-06-08T17:29:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/08/theater/tony-awards-saturday-night-live.html",
-    "feed_name": "NYT (Arts)",
-    "title": "On Broadway\u2019s Biggest Night, \u2018Saturday Night Live\u2019 Shows Its Strength",
-    "author": "Derrick Bryson Taylor and Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/06/08/theater/tony-awards-saturday-night-live.html",
-    "content": "Lorne Michaels, the creator of \u201cSaturday Night Live,\u201d accepting the Tony Award for best new musical on Sunday.",
-    "date": "2026-06-08T16:40:52",
     "category": "NYT"
   }
 ]
