@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/28/arts/design/guggenheim-abu-dhabi-opening-december.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Long-Delayed Guggenheim Abu Dhabi to Open in December",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/07/28/arts/design/guggenheim-abu-dhabi-opening-december.html",
+    "content": "The museum, designed by Frank Gehry for the capital of the United Arab Emirates, will show art from the 1960s to the present.",
+    "date": "2026-07-28T18:52:17",
+    "category": "NYT"
+  },
+  {
+    "id": "83b5eda3-fea4-45c0-b5f4-92e16d5a14e9",
+    "feed_name": "Economist",
+    "title": "Retail investors should beware perpetual futures",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
+    "content": "These peculiar products, popular in the crypto world, are hitting the mainstream",
+    "date": "2026-07-28T18:48:27",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/28/arts/music/amplifier-newsletter-charli-xcx-david-cronenberg.html",
     "feed_name": "NYT (Arts)",
     "title": "Auteur-core! 9 Great Songs That Reference Filmmakers",
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/06/flight-price-prediction-oil-prices/687479/",
     "content": "The normal patterns of price changes may no longer hold true.",
     "date": "2026-06-09T14:10:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a27f3abf5ab5a771f2c5c72",
-    "feed_name": "Wired (Science)",
-    "title": "Longevity Startup Doses First Human in Bid to Reverse Age-Related Sight Loss",
-    "author": "Isabella Ward",
-    "link": "https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/",
-    "content": "It will be the first time ER-100 technology they claim can reverse aging in cells has been tested on a human.",
-    "date": "2026-06-09T13:23:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "64bbd7c6a6444bb8da8fc64d259acc2d",
-    "feed_name": "Compact",
-    "title": "There Will Be More Henry Nowaks",
-    "author": "",
-    "link": "https://www.compactmag.com/article/there-will-be-more-henry-nowaks/",
-    "content": "",
-    "date": "2026-06-09T12:39:22",
     "category": "Magazines"
   }
 ]
