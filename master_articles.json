@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Roasts President Trump\u2019s Attempt at Comedy",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html",
+    "content": "\u201cAnd let\u2019s just say Iran\u2019s not the only thing he bombed,\u201d Seth Meyers said of the president\u2019s performance at the White House Correspondents\u2019 Dinner.",
+    "date": "2026-07-28T06:27:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/27/theater/cat-cohen-broad-strokes.html",
     "feed_name": "NYT (Arts)",
     "title": "In \u2018Cat Cohen: Broad Strokes,\u2019 a Comic Faces Death (and Being Basic)",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/06/08/in-china-innovation-and-economic-malaise-live-side-by-side",
     "content": "Which will win out?",
     "date": "2026-06-08T19:17:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "f81ae2a4-62bb-453f-8f5f-d504d175927a",
-    "feed_name": "Economist",
-    "title": "A bidding war erupts for the world\u2019s oldest bank",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/08/a-bidding-war-erupts-for-the-worlds-oldest-bank",
-    "content": "Monte dei Paschi di Siena is suddenly all the rage",
-    "date": "2026-06-08T18:37:54",
     "category": "Magazines"
   }
 ]
