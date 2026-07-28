@@ -80,6 +80,16 @@
     "category": "Texas"
   },
   {
+    "id": "3b455c92e286d2baeedb464478c5c48f",
+    "feed_name": "LRB",
+    "title": "Emily Wilson: Crossing the Wine-Dark Sea",
+    "author": "",
+    "link": "https://www.londonreviewbookshop.co.uk/stock/crossing-the-wine-dark-sea-journeys-through-ancient-literature-emily-wilson",
+    "content": "How do we give old words new voices? What must a translator lose \u2013 and what might she gain \u2013 when she moves between languages, bringing ancient stories to modern life? Emily Wilson has spent a lifetime wrestling with these questions. Here, she invites us to consider the meaning and messages of translators from antiquity to today \u2013 and offers fresh insights into her own work on Homer.",
+    "date": "2026-07-28T14:10:51",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/28/books/booker-prize-longlist.html",
     "feed_name": "NYT (Arts)",
     "title": "Booker Prize 2026 Nominees: Marlon James, Elizabeth Strout and More",
@@ -88,6 +98,16 @@
     "content": "Also among the 13 works up for the British literary award are the latest books from Douglas Stuart, Gwendoline Riley and Emma Cline.",
     "date": "2026-07-28T13:04:16",
     "category": "NYT"
+  },
+  {
+    "id": "dc33a36009faf7604dc349887e3dfec3",
+    "feed_name": "The Atlantic",
+    "title": "Automation Led to Economic Misery. AI Doesn\u2019t Have To.",
+    "author": "Daron Acemoglu",
+    "link": "https://www.theatlantic.com/ideas/2026/07/ai-automation-productivity-workers/688083/",
+    "content": "How to make AI work for workers",
+    "date": "2026-07-28T11:30:00",
+    "category": "Magazines"
   },
   {
     "id": "aa17bcd3018894239a3120d00e08ce06",
@@ -19976,26 +19996,6 @@
     "author": "Gabby Birenbaum",
     "link": "https://feeds.texastribune.org/link/16799/17356795/screwworm-texas-vacant-congressional-district-gonzales-herrera-padilla-stout",
     "content": "The Kinney County courthouse in Bracketville on Aug. 24, 2021. Kinney County is in Texas&#039; 23rd Congressional District.",
-    "date": "2026-06-09T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232601",
-    "feed_name": "Texas Tribune",
-    "title": "The Tribune introduces 11 summer fellows",
-    "author": "Brandon Formby",
-    "link": "https://feeds.texastribune.org/link/16799/17356796/fellowship-program-summer-2026",
-    "content": "Eleven college students and recent graduates join The Texas Tribune for its summer fellowship program.",
-    "date": "2026-06-09T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232423",
-    "feed_name": "Texas Tribune",
-    "title": "How bad will drought be in Texas? Rio Grande Valley farmers are bracing for the worst.",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17356797/texas-drought-rio-grande-valley-agriculture",
-    "content": "Texas farmers from the Panhandle to the Rio Grande Valley are bracing for another dry summer.",
     "date": "2026-06-09T10:00:00",
     "category": "Texas"
   }
