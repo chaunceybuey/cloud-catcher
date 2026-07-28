@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
+    "content": "Stacy Spikes, founder of Urbanworld, a festival that specializes in Black and multicultural films.",
+    "date": "2026-07-28T20:24:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Spider-Man: Brand New Day\u2019 Review: Can We Do Whatever a Spider Can?",
@@ -19988,15 +19998,5 @@
     "content": "Tony Orlando and Dawn.",
     "date": "2026-06-09T18:07:59",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232844",
-    "feed_name": "Texas Tribune",
-    "title": "New pro-Talarico super PAC wants to give GOP voters \u201cpermission to defect\u201d",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17357053/james-talarico-new-super-pac-texas-senate-race-2026-paxton",
-    "content": "James Talarico speaks to the crowd in Houston on May 27, 2026, during his first appearance after Ken Paxton secured the GOP nomination for U.S. Senate, pitting him against Talarico, D-Austin, in November.",
-    "date": "2026-06-09T17:44:03",
-    "category": "Texas"
   }
 ]
