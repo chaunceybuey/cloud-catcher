@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/28/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Cervo\u2019s Team Dives for Oysters at Zig Zag",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/07/28/dining/nyc-restaurant-news.html",
+    "content": "Tin\u2019s sticks to cold food while waiting for utilities, Keepers offers more tavern fare for downtown and more restaurant news.",
+    "date": "2026-07-28T16:11:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/28/arts/music/tobias-picker-lili-elbe-transgender-santa-fe-opera.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Lili Elbe,\u2019 Opera About Trans Heroine of \u2018The Danish Girl,\u2019 Is Timely",
+    "author": "Max Keller",
+    "link": "https://www.nytimes.com/2026/07/28/arts/music/tobias-picker-lili-elbe-transgender-santa-fe-opera.html",
+    "content": "The composer Tobias Picker at the Santa Fe Opera. Picker\u2019s opera \u201cLili Elbe\u201d will have its American debut there.",
+    "date": "2026-07-28T16:02:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/steakhouse-tomato-salad-doenjang-vinaigrette",
     "feed_name": "NYT (Food)",
     "title": "The Tomato Salad You\u2019ve Been Waiting For",
@@ -19976,26 +19996,6 @@
     "author": "Jonathan Weber",
     "link": "https://www.wired.com/story/book-excerpt-city-on-the-edge-google-buses-san-francisco/",
     "content": "A decade ago, commuter buses attracted big protests in San Francisco. Years later, the city is still feeling the repercussions.",
-    "date": "2026-06-09T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "88b537c4bc0d10764a00f40d283d3d29",
-    "feed_name": "The Atlantic",
-    "title": "The Betrayal of Black Patriots",
-    "author": "Clint Smith",
-    "link": "https://www.theatlantic.com/magazine/2026/07/black-military-patriots-hegseth/687306/",
-    "content": "They devoted their lives to serving the United States. Now the nation\u2019s top military leader is sending the message that they\u2019re not welcome.",
-    "date": "2026-06-09T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "518c745ecb003ae8f846f95f9d241661",
-    "feed_name": "The Atlantic",
-    "title": "The Americans Shelling Out Five Figures for a Coat of Arms",
-    "author": "Helen Lewis",
-    "link": "https://www.theatlantic.com/magazine/2026/07/americans-english-aristocratic-traditions/687305/",
-    "content": "A nation founded on the rejection of aristocratic traditions still yearns for them.",
     "date": "2026-06-09T11:00:00",
     "category": "Magazines"
   }
