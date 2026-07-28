@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/28/theater/lilly-yokoi-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lilly Yokoi, Acrobat Who Dazzled on a Golden Bicycle, Dies at 96",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/07/28/theater/lilly-yokoi-dead.html",
+    "content": "With her family troupe \u2014 and later as a solo star \u2014 she performed balletic, gymnastic tricks in circuses and theaters, at fairs and on television.",
+    "date": "2026-07-28T21:17:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
     "feed_name": "NYT (Arts)",
     "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
@@ -19988,15 +19998,5 @@
     "content": "The historian who recovered the radicalism of the American founding died on Sunday.",
     "date": "2026-06-09T19:12:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/09/arts/music/amplifier-newsletter-1973-tony-orlando-war.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Knicks in \u201973: Revisiting the Charts From a Championship Year",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/06/09/arts/music/amplifier-newsletter-1973-tony-orlando-war.html",
-    "content": "Tony Orlando and Dawn.",
-    "date": "2026-06-09T18:07:59",
-    "category": "NYT"
   }
 ]
