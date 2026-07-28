@@ -90,6 +90,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Review: Can We Do Whatever a Spider Can?",
+    "author": "Alissa Wilkinson",
+    "link": "https://www.nytimes.com/2026/07/28/movies/spider-man-brand-new-day-review.html",
+    "content": "The Spider-Man series is about growing up. Now its superhero has become an adult.",
+    "date": "2026-07-28T20:01:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/28/dining/restaurant-review-arthur-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Arthur in New York",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/2026/07/28/dining/restaurant-review-arthur-nyc.html",
+    "content": "The labor-intensive roast chicken at Arthur is a reminder of what great bistro food can taste like.",
+    "date": "2026-07-28T20:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/28/dining/little-treat-conchas-masa-madre.html",
+    "feed_name": "NYT (Food)",
+    "title": "Masa Madre Makes New York City\u2019s Most Unforgettable Concha",
+    "author": "Nikita Richardson",
+    "link": "https://www.nytimes.com/2026/07/28/dining/little-treat-conchas-masa-madre.html",
+    "content": "Conchitas, conchas filled with whipped cream, at Masa Madre in Queens.",
+    "date": "2026-07-28T19:56:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/28/arts/music/linda-perhacs-missing-folk-music.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Linda Perhacs, Experimental Folk Singer, Is Reported Missing",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/07/28/arts/music/linda-perhacs-missing-folk-music.html",
+    "content": "Linda Perhacs in 2014. Her first album, \u201cParallelograms,\u201d received little commercial attention when it was released in 1970 but enjoyed a resurgence decades later.",
+    "date": "2026-07-28T19:53:35",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/28/books/ai-bookselling-amazon.html",
     "feed_name": "NYT (Arts)",
     "title": "How A.I. Books Sneak Their Way Into Stores",
@@ -128,6 +168,16 @@
     "content": "Cars drive on Interstate 35 East with the downtown Dallas skyline in the distance on July 27, 2025.",
     "date": "2026-07-28T18:46:48",
     "category": "Texas"
+  },
+  {
+    "id": "e6ddc9754c1f36f98c8545ea18c497bf",
+    "feed_name": "The Atlantic",
+    "title": "The Worst Way to Regulate AI",
+    "author": "Conor Friedersdorf",
+    "link": "https://www.theatlantic.com/ideas/2026/07/white-house-ai-regulation/688088/",
+    "content": "Abdicating power over the technology to this or any White House would be a mistake.",
+    "date": "2026-07-28T18:32:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/07/28/arts/music/amplifier-newsletter-charli-xcx-david-cronenberg.html",
@@ -19948,55 +19998,5 @@
     "content": "James Talarico speaks to the crowd in Houston on May 27, 2026, during his first appearance after Ken Paxton secured the GOP nomination for U.S. Senate, pitting him against Talarico, D-Austin, in November.",
     "date": "2026-06-09T17:44:03",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/09/movies/nick-reiner-trust-fund-defense-murder-charges.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Nick Reiner, Accused of Killing Parents, Asks to Use Trust Fund for His Defense",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/06/09/movies/nick-reiner-trust-fund-defense-murder-charges.html",
-    "content": "A court filing says a trust fund for Nick Reiner, 32, stipulates that he should have received one-half of the money on his 30th birthday.",
-    "date": "2026-06-09T17:08:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/09/dining/nyc-restaurant-news.html",
-    "feed_name": "NYT (Food)",
-    "title": "Fireboat Joins a Fleet of Floating N.Y.C. Bars",
-    "author": "Florence Fabricant",
-    "link": "https://www.nytimes.com/2026/06/09/dining/nyc-restaurant-news.html",
-    "content": "Malvan serves up Goan cuisine, Forno d\u2019Oro fires pizzas with a pedigree and more restaurant news.",
-    "date": "2026-06-09T16:21:40",
-    "category": "NYT"
-  },
-  {
-    "id": "9c38632f39fb56e91a9a2485890f5f8e",
-    "feed_name": "The Atlantic",
-    "title": "Actually, the SAT Was Necessary After All",
-    "author": "Idrees Kahloon",
-    "link": "https://www.theatlantic.com/ideas/2026/06/standardized-testing-math-gaps/687481/",
-    "content": "University of California faculty are in open revolt over the lack of standardized test scores.",
-    "date": "2026-06-09T16:05:25",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/09/dining/aasif-mandvi.html",
-    "feed_name": "NYT (Food)",
-    "title": "Aasif Mandvi Would Leave New York in a Blaze of Margaritas",
-    "author": "Nikita Richardson",
-    "link": "https://www.nytimes.com/2026/06/09/dining/aasif-mandvi.html",
-    "content": "The actor, playwright and former \u201cDaily Show\u201d correspondent takes on the Where to Eat questionnaire.",
-    "date": "2026-06-09T16:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/09/arts/design/julio-le-parc-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Julio Le Park, Kinetic Sculpture and Op-Art Master, Dies at 97",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/06/09/arts/design/julio-le-parc-dead.html",
-    "content": "His socially engaged works, created over a 70-year career, sought to engage viewers through shifting lights, motors and even Ping-Pong balls.",
-    "date": "2026-06-09T15:42:24",
-    "category": "NYT"
   }
 ]
