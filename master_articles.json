@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/28/arts/music/jeffrey-epstein-interlochen-arts-abuse.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Investigation of School Epstein Helped Finds Abuses Went Beyond Him",
+    "author": "Graham Bowley",
+    "link": "https://www.nytimes.com/2026/07/28/arts/music/jeffrey-epstein-interlochen-arts-abuse.html",
+    "content": "After a complaint from an alumnus, Interlochen hired a law firm to investigate allegations that teachers and other staff at the Michigan school had acted inappropriately, and worse, with students.",
+    "date": "2026-07-28T22:18:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/28/science/gunther-von-hagens-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Gunther von Hagens, Creator of Polarizing \u2018Body Worlds\u2019 Exhibits, Dies at 81",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/07/28/science/gunther-von-hagens-dead.html",
+    "content": "Gunther von Hagens in 2002 with a flayed, bisected human specimen used in one of his \u201cBody Worlds\u201d exhibitions. In the late 1970s, he developed plastination, the method of making corpses into malleable figures.",
+    "date": "2026-07-28T21:57:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/28/theater/lilly-yokoi-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Lilly Yokoi, Acrobat Who Dazzled on a Golden Bicycle, Dies at 96",
@@ -19978,25 +19998,5 @@
     "content": "\u201cThis is the best cake ever,\u201d said one reader about Yotam Ottolenghi\u2019s blueberry, lemon and almond cake.",
     "date": "2026-06-09T19:39:32",
     "category": "NYT"
-  },
-  {
-    "id": "bfc7a0d4-207e-4d05-8de5-e363a3e96697",
-    "feed_name": "Economist",
-    "title": "Wall Street\u2019s undignified SpaceX mania",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/09/wall-streets-undignified-spacex-mania",
-    "content": "Is that a rocket in your lobby, or are you just happy to see me?",
-    "date": "2026-06-09T19:16:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "119d2861f26a668afba9e1627dbf3599",
-    "feed_name": "The Atlantic",
-    "title": "The Revolutionary Gordon Wood",
-    "author": "Craig Bruce Smith",
-    "link": "https://www.theatlantic.com/ideas/2026/06/revolutionary-gordon-wood-historian/687487/",
-    "content": "The historian who recovered the radicalism of the American founding died on Sunday.",
-    "date": "2026-06-09T19:12:00",
-    "category": "Magazines"
   }
 ]
