@@ -100,6 +100,36 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=238167",
+    "feed_name": "Texas Tribune",
+    "title": "\u201cA deal with the devil\u201d: Religion motivates data center opponents in Texas",
+    "author": "By Ellie Ashby, The Texas Tribune, and Chloe Landen, Religion News Service",
+    "link": "https://feeds.texastribune.org/link/16799/17391662/texas-data-centers-religion-opposition",
+    "content": "Matt Long in his backyard, which sits along the Brazos River, in the Pecan Plantation neighborhood of Hood County on May 28, 2026. His home is near a planned data center.",
+    "date": "2026-07-29T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238199",
+    "feed_name": "Texas Tribune",
+    "title": "Energy agencies want more authority over Texas data centers",
+    "author": "By Natalie Weber, Houston Public Media",
+    "link": "https://feeds.texastribune.org/link/16799/17391663/texas-ercot-puct-power-grid-data-centers",
+    "content": "The exterior of a data server hall at the Meta Temple Data Center in Temple on July 22, 2026.",
+    "date": "2026-07-29T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238209",
+    "feed_name": "Texas Tribune",
+    "title": "\u201cWhere are all the volunteers?\u201d Kerr County faces worse flood damage with fewer resources",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17391664/texas-floods-kerr-county-damage-donations-volunteers",
+    "content": "Flood damage in Louise Hays Park on July 27, 2026 in Kerrville.",
+    "date": "2026-07-29T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6a68e474d9309db335a307c2",
     "feed_name": "Wired (Science)",
     "title": "NASA\u2019s New 3D Model Shows the Earth Is a Lumpy Mess",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/10/theater/maya-rudolph-oh-mary-broadway.html",
     "content": "Rudolph\u2019s first thought said about stepping into the role, \u201cwas, how do I do what they did?\u201d she said. \u201cI remember saying, I can\u2019t find my voice.\u201d",
     "date": "2026-06-10T09:01:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/arts/titanium-court-kafka-trial.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Bewildering Bejeweled Has Kafka\u2019s Fingerprints",
-    "author": "Grayson Morley",
-    "link": "https://www.nytimes.com/2026/06/10/arts/titanium-court-kafka-trial.html",
-    "content": "Both \u201cThe Trial\u201d and Titanium Court, a lauded Match-3 game, trade in the frustration of a system of nonsensical rules.",
-    "date": "2026-06-10T09:00:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/arts/music/summerstage-nyc-oral-history.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Patti Smith, Jon Batiste and More Tell the History of SummerStage",
-    "author": "Ben Sisario",
-    "link": "https://www.nytimes.com/2026/06/10/arts/music/summerstage-nyc-oral-history.html",
-    "content": "Patti Smith, David Byrne, Youssou N\u2019Dour and other artists remember the performances, chance meetings and rainouts of the concert series that has defined New York City summers.",
-    "date": "2026-06-10T09:00:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/books/review/cocked-and-boozy-brooke-barbier.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Book Review: \u2018Cocked and Boozy,\u2019 by Brooke Barbier",
-    "author": "J. D. Biersdorfer",
-    "link": "https://www.nytimes.com/2026/06/10/books/review/cocked-and-boozy-brooke-barbier.html",
-    "content": "A depiction of Gen. George Washington giving his farewell speech to his officers at Manhattan\u2019s Fraunces Tavern in 1783.",
-    "date": "2026-06-10T09:00:33",
     "category": "NYT"
   }
 ]
