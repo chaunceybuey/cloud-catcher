@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/dining/drinks/david-hirsch-dead.html",
+    "feed_name": "NYT (Food)",
+    "title": "David Hirsch, Who Turned Sonoma Coast Into World-Class Wine Region, Dies at 81",
+    "author": "Eric Asimov",
+    "link": "https://www.nytimes.com/2026/07/29/dining/drinks/david-hirsch-dead.html",
+    "content": "David Hirsch in what he called his Old Vineyard in 2009. He bought his first piece of land on the Sonoma Coast in 1978, and began growing grapes two years later.",
+    "date": "2026-07-29T17:15:33",
+    "category": "NYT"
+  },
+  {
     "id": "6a6788865de090ff7b54f834",
     "feed_name": "Wired (Science)",
     "title": "Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe",
@@ -98,6 +108,16 @@
     "content": "Climate change is helping invasive species to not only establish themselves across the Continent but to stay alive for longer. Scientists suggest we get used to it.",
     "date": "2026-07-29T16:31:45",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238283",
+    "feed_name": "Texas Tribune",
+    "title": "Corpus Christi City Council rejects $60,000 community gift to benefit water desalination plant",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17393068/texas-corpus-christi-council-vote-water-grant-gift",
+    "content": "Shoreline Boulevard along the Corpus Christi Bay near downtown Corpus Christi on March 19, 2026. A proposed desalination plant could be built along the bay near the city&#039;s Hillcrest neighborhood.",
+    "date": "2026-07-29T16:17:03",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/07/29/arts/music/kavinsky-dj-dead.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/06/christian-humanism-trump-choice/687475/",
     "content": "The faithful can still repair the wreckage they have wrought.",
     "date": "2026-06-10T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "de5a27a6ce4d0650eb2d5fe81bf2f03b",
-    "feed_name": "The Atlantic",
-    "title": "How Britain Became as Poor as Mississippi",
-    "author": "Idrees Kahloon",
-    "link": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
-    "content": "A case study in self-sabotage",
-    "date": "2026-06-10T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "5fd68b6e864244a8c967f62ffe1d8524",
-    "feed_name": "LRB",
-    "title": "Poetry and the Turning World: Work",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/poetry-and-the-turning-world-work",
-    "content": "Is writing a poem work? In the first episode of their series exploring the ways in which poetry responds to our personal and collective challenges, Sarah Howe and Sandeep Parmar start by considering the concepts of both work and play in the writing process. They then look at three poems that address workplace experiences. Valzhyna Mort\u2019s \u2018Factory of Tears\u2019 and Robert...",
-    "date": "2026-06-10T10:05:39",
     "category": "Magazines"
   }
 ]
