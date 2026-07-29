@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56",
+    "author": "Alex Marshall and Isabella Kwai",
+    "link": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html",
+    "content": "Glen Hansard in New York City in 2012. The Irish singer-songwriter was best known as the frontman of the Frames.",
+    "date": "2026-07-29T15:13:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/29/dining/ground-chicken-grounds-this-savory-stir-fry-with-green-beans.html",
+    "feed_name": "NYT (Food)",
+    "title": "Ground Chicken Grounds This Savory Stir-Fry With Green Beans",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/29/dining/ground-chicken-grounds-this-savory-stir-fry-with-green-beans.html",
+    "content": "Melissa Clark\u2019s stir-fried cumin green beans and chicken.",
+    "date": "2026-07-29T15:00:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/29/obituaries/glen-hansard-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Glen Hansard, Frontman of Irish Band the Frames, Dies at 56",
@@ -19978,25 +19998,5 @@
     "content": "Traditional Texas public schools are seeing an enrollment decline for the first time in nearly 40 years. Charter schools are still growing but at a slower pace.",
     "date": "2026-06-10T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=19268",
-    "feed_name": "Stratechery",
-    "title": "Fable 5, Anthropic Alignment, AI Tiers",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
-    "content": "<p>Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.</p>",
-    "date": "2026-06-10T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/arts/television/widows-bay-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018Widow\u2019s Bay,\u2019 History Is Hard to Kill",
-    "author": "James Poniewozik",
-    "link": "https://www.nytimes.com/2026/06/10/arts/television/widows-bay-review.html",
-    "content": "The season\u2019s best new show is a horror-comedy rooted in a timely idea: Is the past a treasure to preserve or a monster to escape?",
-    "date": "2026-06-10T09:02:54",
-    "category": "NYT"
   }
 ]
