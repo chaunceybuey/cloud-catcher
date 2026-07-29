@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/dining/emeril-lagasse.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Internet Suddenly Loves Emeril, Years After His TV Stardom",
+    "author": "Kim Severson",
+    "link": "https://www.nytimes.com/2026/07/29/dining/emeril-lagasse.html",
+    "content": "Clips of his live shows are a hot item on social media, charming younger viewers with his kitchen basics.",
+    "date": "2026-07-29T20:11:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/29/us/jared-leto-sexual-assault-bbc.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ten Women Accuse Jared Leto of Sexual Misconduct in BBC Report",
+    "author": "Remy Tumin",
+    "link": "https://www.nytimes.com/2026/07/29/us/jared-leto-sexual-assault-bbc.html",
+    "content": "Jared Leto at the premiere for \u201cTron: Ares\u201d in Los Angeles in October.",
+    "date": "2026-07-29T19:57:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/29/briefing/29-the-good-list-museum-first-kiss.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Bring Joy to Your Day",
@@ -19978,25 +19998,5 @@
     "content": "I\u2019m following the NBA Finals thousands of miles from midtown Manhattan. In my North London flat, I set the alarm for 1.20 a.m. on game nights.\u00a0.\u00a0.",
     "date": "2026-06-10T14:24:22",
     "category": "Magazines"
-  },
-  {
-    "id": "45b9b4709598ce644a01bc2f78334125",
-    "feed_name": "Compact",
-    "title": "The Corporal Philosophers",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-corporal-philosophers/",
-    "content": "",
-    "date": "2026-06-10T14:24:19",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/theater/under-the-shadow-almeida-theater-london.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In a Timely \u201cUnder the Shadow\u201d Staging, a Ghost Haunts War-Torn Iran",
-    "author": "Houman Barekat",
-    "link": "https://www.nytimes.com/2026/06/10/theater/under-the-shadow-almeida-theater-london.html",
-    "content": "The supernatural mixes with secular modernity, family dynamics and feminism in a new London production of \u201cUnder the Shadow.\u201d",
-    "date": "2026-06-10T13:55:11",
-    "category": "NYT"
   }
 ]
