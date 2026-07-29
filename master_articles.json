@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "0917ac5b1ced6c177efaa92e40336fbf",
+    "feed_name": "LRB",
+    "title": "See more events",
+    "author": "",
+    "link": "https://www.lrb.co.uk/events",
+    "content": "",
+    "date": "2026-07-29T22:06:21",
+    "category": "Magazines"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/reader-favorite-easy-quick-chicken-recipes",
     "feed_name": "NYT (Food)",
     "title": "Our Best Easy Chicken Recipes, According to Readers",
@@ -19988,15 +19998,5 @@
     "content": "Duane Michaels in 2014. While his contemporaries photographed the chaos of street life or the majesty of nature, he took inspiration from the work of Surrealists like Ren\u00e9 Magritte.",
     "date": "2026-06-10T15:38:17",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232942",
-    "feed_name": "Texas Tribune",
-    "title": "Abbott recommends sweeping data center regulation, including eliminating sales tax exemption",
-    "author": "Alejandra Martinez",
-    "link": "https://feeds.texastribune.org/link/16799/17357566/texas-greg-abbott-data-centers-regulation-sales-tax",
-    "content": "Governor Greg Abbott speaks during a campaign event in Houston on Feb. 11, 2026.",
-    "date": "2026-06-10T15:10:40",
-    "category": "Texas"
   }
 ]
