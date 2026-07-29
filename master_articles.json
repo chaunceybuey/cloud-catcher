@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/reader-favorite-easy-quick-chicken-recipes",
+    "feed_name": "NYT (Food)",
+    "title": "Our Best Easy Chicken Recipes, According to Readers",
+    "author": "Allison Jiang",
+    "link": "https://cooking.nytimes.com/article/reader-favorite-easy-quick-chicken-recipes",
+    "content": "These dishes, which take a half-hour or less, deserve a spot in your rotation, too.",
+    "date": "2026-07-29T21:40:18",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238316",
+    "feed_name": "Texas Tribune",
+    "title": "John Cornyn\u2019s unmet demands imperil Trump\u2019s U.S. attorney general nomination ahead of key vote",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17393642/texas-john-cornyn-todd-blanche-attorney-general-vote-doj-weaponization-fund-trump",
+    "content": "U.S. Sen. John Cornyn speaks with reporters about his thinking on whether to vote to advance the nomination of Todd Blanche, President Trump&#039;s nominee to be U.S. attorney general, out of the Senate Judiciary Committee, at his office on Capitol Hill in Washington on July 29, 2026.",
+    "date": "2026-07-29T20:57:13",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/transdev-senate-oversight-bus-crashes-public-transit",
     "feed_name": "ProPublica",
     "title": "Senators Push Federal Regulator to Prove School Bus Safety Data Is Accurate",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17357566/texas-greg-abbott-data-centers-regulation-sales-tax",
     "content": "Governor Greg Abbott speaks during a campaign event in Houston on Feb. 11, 2026.",
     "date": "2026-06-10T15:10:40",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/dining/these-cold-peanut-noodles-are-for-ginger-lovers.html",
-    "feed_name": "NYT (Food)",
-    "title": "These Cold Peanut Noodles Are for Ginger Lovers",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/06/10/dining/these-cold-peanut-noodles-are-for-ginger-lovers.html",
-    "content": "Melissa Clark\u2019s cold peanut ginger noodles.",
-    "date": "2026-06-10T15:00:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232938",
-    "feed_name": "Texas Tribune",
-    "title": "Texas high schoolers show gains across all subjects on STAAR tests",
-    "author": "By Sneha Dey, graphics by Hien An Ngo",
-    "link": "https://feeds.texastribune.org/link/16799/17357567/texas-staar-end-of-course-high-school-results-2026",
-    "content": "High school students walk to an after-school science tutorial that provides additional support for students taking the STAAR test at Elsik 9th Grade Center on April 19, 2018.",
-    "date": "2026-06-10T14:59:48",
     "category": "Texas"
   }
 ]
