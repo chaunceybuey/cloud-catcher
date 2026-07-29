@@ -90,6 +90,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/obituaries/glen-hansard-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Glen Hansard, Frontman of Irish Band the Frames, Dies at 56",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/07/29/obituaries/glen-hansard-dead.html",
+    "content": "Glen Hansard in New York City in 2012. The Irish singer-songwriter was best known as the frontman of the Frames.",
+    "date": "2026-07-29T12:11:43",
+    "category": "NYT"
+  },
+  {
+    "id": "b1277fd4e140cd280be850385bf742ac",
+    "feed_name": "Compact",
+    "title": "The Interventionist Future of the DSA",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-interventionist-future-of-the-dsa/",
+    "content": "",
+    "date": "2026-07-29T12:01:59",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
+    "feed_name": "NYT (Arts)",
+    "title": "BTS Won\u2019t Enter Music From Comeback Album for Grammy Awards",
+    "author": "Max Kim",
+    "link": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
+    "content": "BTS performing at the halftime show of the soccer World Cup final this month in East Rutherford, N.J.",
+    "date": "2026-07-29T11:58:32",
+    "category": "NYT"
+  },
+  {
+    "id": "79bb86c6652c11c3be1f2a109c541f34",
+    "feed_name": "The Atlantic",
+    "title": "Rural America\u2019s Maternal-Health Crisis Is About to Get Much Worse",
+    "author": "Keith Humphreys",
+    "link": "https://www.theatlantic.com/ideas/2026/07/giving-birth-rural-hospitals-danger-mortality/688091/",
+    "content": "Care will be in shorter supply, travel distances will stretch farther, and high-risk situations will more likely result in tragedy.",
+    "date": "2026-07-29T11:34:57",
+    "category": "Magazines"
+  },
+  {
     "id": "6a6783aad2f2ead29e215b92",
     "feed_name": "Wired (Science)",
     "title": "How to Bring a Geothermal Well Back from the Dead",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/10/arts/television/widows-bay-review.html",
     "content": "The season\u2019s best new show is a horror-comedy rooted in a timely idea: Is the past a treasure to preserve or a monster to escape?",
     "date": "2026-06-10T09:02:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/arts/music/glenn-branca-100-guitars-reg-bloor.html",
-    "feed_name": "NYT (Arts)",
-    "title": "100 Guitars\u2019 Worth of Glenn Branca\u2019s Violent Ecstasy",
-    "author": "Rob Tannenbaum",
-    "link": "https://www.nytimes.com/2026/06/10/arts/music/glenn-branca-100-guitars-reg-bloor.html",
-    "content": "Reg Bloor with a Glenn Branca creation: a two-headed guitar that creates otherworldly sounds.",
-    "date": "2026-06-10T09:02:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/arts/design/meg-webster-land-artist.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Land Artist Asks: What Will Be Left When I\u2019m Not Here?",
-    "author": "Julia Halperin and Sara Messinger",
-    "link": "https://www.nytimes.com/2026/06/10/arts/design/meg-webster-land-artist.html",
-    "content": "Meg Webster creates works that are often fleeting. At 82, with a new show at the Paula Cooper Gallery, now she\u2019s looking for a place in history.",
-    "date": "2026-06-10T09:01:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/arts/meg-webster-land-artist.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Land Artist Asks: What Will Be Left When I\u2019m Not Here?",
-    "author": "Julia Halperin and Sara Messinger",
-    "link": "https://www.nytimes.com/2026/06/10/arts/meg-webster-land-artist.html",
-    "content": "Meg Webster creates works that are often fleeting. At 82, with a new show at the Paula Cooper Gallery, now she\u2019s looking for a place in history.",
-    "date": "2026-06-10T09:01:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/theater/maya-rudolph-oh-mary-broadway.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Maya Rudolph Became an \u2018Absolute Menace\u2019 in \u2018Oh, Mary!\u2019",
-    "author": "Alexandra Alter and Thea Traff",
-    "link": "https://www.nytimes.com/2026/06/10/theater/maya-rudolph-oh-mary-broadway.html",
-    "content": "Rudolph\u2019s first thought said about stepping into the role, \u201cwas, how do I do what they did?\u201d she said. \u201cI remember saying, I can\u2019t find my voice.\u201d",
-    "date": "2026-06-10T09:01:43",
     "category": "NYT"
   }
 ]
