@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/briefing/29-the-good-list-museum-first-kiss.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Bring Joy to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/07/29/briefing/29-the-good-list-museum-first-kiss.html",
+    "content": "First Kiss Moon, the biggest museum and being sure of someone.",
+    "date": "2026-07-29T18:40:44",
+    "category": "NYT"
+  },
+  {
     "id": "5fd68b6e864244a8c967f62ffe1d8524",
     "feed_name": "LRB",
     "title": "Poetry and the Turning World: Work",
@@ -19988,15 +19998,5 @@
     "content": "The supernatural mixes with secular modernity, family dynamics and feminism in a new London production of \u201cUnder the Shadow.\u201d",
     "date": "2026-06-10T13:55:11",
     "category": "NYT"
-  },
-  {
-    "id": "6a2879d66c78e87b70cef253",
-    "feed_name": "Wired (Science)",
-    "title": "China Opens World's First Wind-Powered Underwater Data Center",
-    "author": "Fernanda Gonz\u00e1lez",
-    "link": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
-    "content": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system.",
-    "date": "2026-06-10T13:39:32",
-    "category": "Magazines"
   }
 ]
