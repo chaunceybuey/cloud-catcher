@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/arts/television/jimmy-fallon-rfk-jr-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Fallon Weighs In on Trump and Kennedy",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/29/arts/television/jimmy-fallon-rfk-jr-trump.html",
+    "content": "The \u201cTonight Show\u201d host surmised that Trump might be regretting \u201cpicking a health secretary who lives on raccoon meat and Zyn pouches.\u201d",
+    "date": "2026-07-29T06:23:12",
+    "category": "NYT"
+  },
+  {
     "id": "c1d36a4f2444e6edebbdba1e0d2f9210",
     "feed_name": "The Atlantic",
     "title": "The American Commentator Making Excuses for Iran",
@@ -19988,15 +19998,5 @@
     "content": "An illustration of a fly at a press conference about the New World screwworm in Kerrville on June 8, 2026.",
     "date": "2026-06-09T21:08:21",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
-    "feed_name": "Douthat",
-    "title": "For America\u2019s 250th, Let\u2019s Get Something Clear About Our National Identity",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
-    "content": "Our national identity depends on both ideas and cultural inheritance.",
-    "date": "2026-06-09T21:00:09",
-    "category": "NYT"
   }
 ]
