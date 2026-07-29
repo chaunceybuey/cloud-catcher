@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "c1d36a4f2444e6edebbdba1e0d2f9210",
+    "feed_name": "The Atlantic",
+    "title": "The American Commentator Making Excuses for Iran",
+    "author": "James Kirchick",
+    "link": "https://www.theatlantic.com/ideas/2026/07/iran-apologists-blumenthal/688068/",
+    "content": "Max Blumenthal fits into a long, disreputable tradition.",
+    "date": "2026-07-29T00:40:58",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238243",
     "feed_name": "Texas Tribune",
     "title": "Community colleges brace for local cuts after Texas funding shortchanges them millions",
@@ -19988,15 +19998,5 @@
     "content": "Our national identity depends on both ideas and cultural inheritance.",
     "date": "2026-06-09T21:00:09",
     "category": "NYT"
-  },
-  {
-    "id": "cb4a6228512c5f7670c90f80163933fc",
-    "feed_name": "LRB",
-    "title": "Rachel Long & Sarah Howe: Sparrow on the Rooftop",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/rachel-long-sarah-howe-sparrow-on-the-rooftop-tickets-1987073794209",
-    "content": "",
-    "date": "2026-06-09T20:59:42",
-    "category": "Magazines"
   }
 ]
