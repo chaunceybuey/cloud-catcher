@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a6788865de090ff7b54f834",
+    "feed_name": "Wired (Science)",
+    "title": "Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe",
+    "author": "Victoria Turk",
+    "link": "https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/",
+    "content": "Climate change is helping invasive species to not only establish themselves across the Continent but to stay alive for longer. Scientists suggest we get used to it.",
+    "date": "2026-07-29T16:31:45",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/29/arts/music/kavinsky-dj-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Kavinsky, French D.J. and Electronic Musician, Dies at 50",
@@ -19988,15 +19998,5 @@
     "content": "Is writing a poem work? In the first episode of their series exploring the ways in which poetry responds to our personal and collective challenges, Sarah Howe and Sandeep Parmar start by considering the concepts of both work and play in the writing process. They then look at three poems that address workplace experiences. Valzhyna Mort\u2019s \u2018Factory of Tears\u2019 and Robert...",
     "date": "2026-06-10T10:05:39",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232900",
-    "feed_name": "Texas Tribune",
-    "title": "Texas death row inmate asks Supreme Court to allow appeal challenging hypnotized witness",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17357396/texas-death-row-hypnosis-supreme-court-charles-flores",
-    "content": "The U.S. Supreme Court in Washington, D.C.",
-    "date": "2026-06-10T10:00:00",
-    "category": "Texas"
   }
 ]
