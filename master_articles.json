@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/arts/music/kavinsky-dj-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kavinsky, French D.J. and Electronic Musician, Dies at 50",
+    "author": "Jonathan Wolfe",
+    "link": "https://www.nytimes.com/2026/07/29/arts/music/kavinsky-dj-dead.html",
+    "content": "Kavinsky performing at the Eurock\u00e9ennes music festival in France in 2012.",
+    "date": "2026-07-29T16:13:52",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56",
@@ -19986,16 +19996,6 @@
     "author": "Ayden Runnels",
     "link": "https://feeds.texastribune.org/link/16799/17357396/texas-death-row-hypnosis-supreme-court-charles-flores",
     "content": "The U.S. Supreme Court in Washington, D.C.",
-    "date": "2026-06-10T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232912",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 charter school boom may soon bust, experts caution",
-    "author": "Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17357397/texas-charter-school-enrollment-growth-slows",
-    "content": "Traditional Texas public schools are seeing an enrollment decline for the first time in nearly 40 years. Charter schools are still growing but at a slower pace.",
     "date": "2026-06-10T10:00:00",
     "category": "Texas"
   }
