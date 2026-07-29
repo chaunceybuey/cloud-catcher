@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/movies/the-devils-mouth-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Devil\u2019s Mouth\u2019 Review: Between a Shark and a Hard Place",
+    "author": "Beatrice Loayza",
+    "link": "https://www.nytimes.com/2026/07/29/movies/the-devils-mouth-review.html",
+    "content": "This Thailand-set vacation thriller is neither silly nor gory enough to chum the waters for audiences at home.",
+    "date": "2026-07-29T07:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/29/arts/television/jimmy-fallon-rfk-jr-trump.html",
     "feed_name": "NYT (Arts)",
     "title": "Jimmy Fallon Weighs In on Trump and Kennedy",
@@ -9217,6 +9227,16 @@
     "link": "https://www.nytimes.com/2026/07/06/arts/smithsonian-trump-activism-american-history.html",
     "content": "In a lengthy report released on Saturday, the Trump administration accused the Smithsonian Institution\u2019s National Museum of American History of \u201cextreme political activism.\u201d",
     "date": "2026-07-06T21:02:47",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
+    "feed_name": "Douthat",
+    "title": "For America\u2019s 250th, Let\u2019s Get Something Clear About Our National Identity",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
+    "content": "It depends on both ideas and cultural inheritance.",
+    "date": "2026-07-06T20:19:10",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17357211/texas-immigration-camp-east-montana-el-paso-gao-report",
     "content": "An aerial view of the Camp East Montana  at Fort Bliss in El Paso, on Sept. 7, 2025.",
     "date": "2026-06-09T21:55:26",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "John Basinger, Who Memorized All 12 Books of \u2018Paradise Lost,\u2019 Dies at 92",
-    "author": "Alex Traub",
-    "link": "https://www.nytimes.com/2026/06/09/arts/john-basinger-dead.html",
-    "content": "After nearly nine years of practice, he made John Milton\u2019s epic poem vividly dramatic for audiences and inspired a study of his \u201cmemory virtuosity.\u201d",
-    "date": "2026-06-09T21:23:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232866",
-    "feed_name": "Texas Tribune",
-    "title": "TribCast: How big of a threat is screwworm?",
-    "author": "Matthew Watkins",
-    "link": "https://feeds.texastribune.org/link/16799/17357156/tribcast-screwworm-texas",
-    "content": "An illustration of a fly at a press conference about the New World screwworm in Kerrville on June 8, 2026.",
-    "date": "2026-06-09T21:08:21",
     "category": "Texas"
   }
 ]
