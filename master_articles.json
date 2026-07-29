@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=238243",
+    "feed_name": "Texas Tribune",
+    "title": "Community colleges brace for local cuts after Texas funding shortchanges them millions",
+    "author": "Sneha Dey",
+    "link": "https://feeds.texastribune.org/link/16799/17391271/texas-community-college-funding-shortfalls",
+    "content": "Edward Montoya and Serena Smith walk through the Houston Community College Central Campus in Houston on April 26, 2022.",
+    "date": "2026-07-29T00:06:47",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/28/arts/music/jeffrey-epstein-interlochen-arts-abuse.html",
     "feed_name": "NYT (Arts)",
     "title": "Investigation of School Epstein Helped Finds Abuses Went Beyond Him",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-06-09T20:59:42",
     "category": "Magazines"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/snacking-cake-yotam-ottolenghi-eats-with-his-kids-at-home",
-    "feed_name": "NYT (Food)",
-    "title": "The Snacking Cake Yotam Ottolenghi Eats With His Kids at Home",
-    "author": "Krysten Chambrot",
-    "link": "https://cooking.nytimes.com/article/snacking-cake-yotam-ottolenghi-eats-with-his-kids-at-home",
-    "content": "\u201cThis is the best cake ever,\u201d said one reader about Yotam Ottolenghi\u2019s blueberry, lemon and almond cake.",
-    "date": "2026-06-09T19:39:32",
-    "category": "NYT"
   }
 ]
