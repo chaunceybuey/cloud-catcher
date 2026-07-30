@@ -350,6 +350,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/30/movies/i-want-your-sex-review-olivia-wilde.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018I Want Your Sex\u2019 Review: Working Out the Kinks With Your Boss",
+    "author": "Jeannette Catsoulis",
+    "link": "https://www.nytimes.com/2026/07/30/movies/i-want-your-sex-review-olivia-wilde.html",
+    "content": "Cooper Hoffman and Olivia Wilde explore a tie-me-up, turn-me-on relationship in Gregg Araki\u2019s jolly sex comedy.",
+    "date": "2026-07-30T09:01:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/30/movies/i-want-your-sex-review-working-out-the-kinks-with-your-boss.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018I Want Your Sex\u2019 Review: Working Out the Kinks With Your Boss",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/magazine/2026/07/american-sports-culture-origins/687302/",
     "content": "To understand the history of the nation, look to the history of its sports.",
     "date": "2026-06-11T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "287d351e-4232-4d1d-ae17-77db5ac94440",
-    "feed_name": "Economist",
-    "title": "How big are China\u2019s emerging industries?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/11/how-big-are-chinas-emerging-industries",
-    "content": "Probably not big enough to offset the drag from the old",
-    "date": "2026-06-11T10:31:01",
     "category": "Magazines"
   }
 ]
