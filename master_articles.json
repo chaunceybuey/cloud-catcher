@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/30/t-magazine/precious-okoyomon-moma-ps1.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In Queens, a Fantastical Garden Featuring a 25-Foot-Long Teddy Bear",
+    "author": "Yaniya Lee",
+    "link": "https://www.nytimes.com/2026/07/30/t-magazine/precious-okoyomon-moma-ps1.html",
+    "content": "Ahead of their installation at MoMA PS1, the artist Precious Okoyomon discusses finding inspiration in an empty room and embracing absurdity.",
+    "date": "2026-07-30T23:08:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238457",
     "feed_name": "Texas Tribune",
     "title": "ACLU launches legal claims in 17 states against immigration detention conditions, including Texas",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-06-11T21:22:34",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/dining/looking-for-an-egyptian-sandwich-and-more-reader-questions.html",
-    "feed_name": "NYT (Food)",
-    "title": "Looking for an Egyptian Sandwich and More Reader Questions",
-    "author": "Becky Hughes",
-    "link": "https://www.nytimes.com/2026/06/11/dining/looking-for-an-egyptian-sandwich-and-more-reader-questions.html",
-    "content": "Becky Hughes is back to answer readers\u2019 urgent restaurant requests.",
-    "date": "2026-06-11T20:16:39",
-    "category": "NYT"
   }
 ]
