@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "144f9149b9908c83fbe585c59c0ce1b1",
+    "feed_name": "Compact",
+    "title": "What\u2019s the Matter With the Democratic Party?",
+    "author": "",
+    "link": "https://www.compactmag.com/article/whats-the-matter-with-the-democratic-party/",
+    "content": "",
+    "date": "2026-07-30T12:45:09",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/07/michigan-election-el-sayed-stevens-zionism/688101/",
     "feed_name": "Chait",
     "title": "What Abdul El-Sayed\u2019s Election in Michigan Would Prove",
@@ -98,6 +108,26 @@
     "content": "He and his allies are betting that an obsessively anti-Zionist left-wing politics can win everywhere.\nDelivered by PolitePaul service",
     "date": "2026-07-30T11:18:54",
     "category": "Uncategorized"
+  },
+  {
+    "id": "14eb2aa2061fac23161a52a1293a3c03",
+    "feed_name": "The Atlantic",
+    "title": "Abdul El-Sayed Fuses Together Two Toxic Ideologies",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/07/michigan-election-el-sayed-stevens-zionism/688101/",
+    "content": "He talks about the Israel lobby the way he talks on the stump about nearly any other political issue. That\u2019s the problem.",
+    "date": "2026-07-30T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "1756fd93143a59f8c2a2566457eee571",
+    "feed_name": "The Atlantic",
+    "title": "The Cities That Said Yes to Drugs",
+    "author": "Michael Powell",
+    "link": "https://www.theatlantic.com/magazine/2026/09/city-drug-addiction-harm-reduction-policy/687967/",
+    "content": "Policies that gave addicts clean needles and places to use drugs were intended to reduce harm. They created a \u201czombie apocalypse.\u201d",
+    "date": "2026-07-30T11:00:00",
+    "category": "Magazines"
   },
   {
     "id": "6a57af504de2a00b6b98bb1c",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/11/movies/stop-that-train-review.html",
     "content": "RuPaul stars as the American president, who must contend with an unfolding transit crisis and drag queens galore as a dangerous storm approaches.",
     "date": "2026-06-11T09:04:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/movies/promised-sky-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Promised Sky\u2019 Review: Living in a State of Uncertainty",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/06/11/movies/promised-sky-review.html",
-    "content": "Three women living in Tunisia shelter Kenza, a young girl who survived a shipwreck, while they deal with their own issues.",
-    "date": "2026-06-11T09:04:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/movies/o-horizon-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018O Horizon\u2019 Review: Trying to Skip Pain",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/06/11/movies/o-horizon-review.html",
-    "content": "An already unwieldy film feels more queasy when taken in cultural context.",
-    "date": "2026-06-11T09:04:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/movies/i-am-frankelda-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018I Am Frankelda\u2019 Review: Nightmares in Stop-Motion",
-    "author": "Laura Zornosa",
-    "link": "https://www.nytimes.com/2026/06/11/movies/i-am-frankelda-review.html",
-    "content": "An origin story that proves the dark flame of Mexican fantasy is alive and well.",
-    "date": "2026-06-11T09:04:46",
     "category": "NYT"
   }
 ]
