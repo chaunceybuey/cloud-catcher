@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/30/movies/documentaries-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Three Great Documentaries to Stream",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/07/30/movies/documentaries-streaming.html",
+    "content": "In this month\u2019s picks, a portrait of a jazz musician, a French archival family film and an Alabama prison expos\u00e9 using footage from inmates.",
+    "date": "2026-07-30T15:18:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/30/dining/zucchini-chickpea-and-tomato-salad-super-and-simple.html",
     "feed_name": "NYT (Food)",
     "title": "Zucchini, Chickpea and Tomato Salad, Super and Simple",
@@ -19988,15 +19998,5 @@
     "content": "Orlan, with horn-like cheek implants in her forehead, has also created what she calls \u201cbio-art\u201d performances.",
     "date": "2026-06-11T12:01:45",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232993",
-    "feed_name": "Texas Tribune",
-    "title": "James Talarico launches Spanish-language World Cup TV ad",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17359417/texas-senate-james-talarico-spanish-ad-world-cup-latino-voters",
-    "content": "James Talarico, Democratic nominee for U.S. Senate, meets with supporters at a rally in San Antonio on May 26, 2026.",
-    "date": "2026-06-11T11:00:00",
-    "category": "Texas"
   }
 ]
