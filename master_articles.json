@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.kmfa.org/pages/21666-open-canopy-open-artist-studio",
+    "feed_name": "KMFA",
+    "title": "Open Canopy: Open Artist Studio",
+    "author": "",
+    "link": "https://www.kmfa.org/pages/21666-open-canopy-open-artist-studio",
+    "content": "OPEN CANOPY PRESENTS:\n\nOPEN ARTIST STUDIO\n\nAugust 1 | 1:00 - 4:00 P.M. | Open Canopy\n\n\n\nCelebrate Austin arts and creative practice at our monthly Open Canopy. Resident artists open their private studios to the public once a month for a behind-the-scenes look at their practice.\n\nEnjoy drinks and food from Sa-ten Cafe on-site, a wonderful outdoor breezeway and open retail shops/galleries. 1-4pm every first Saturday!\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, August 1st\nTime: 1:00 - 4:00 P.M.\nVenue: Canopy\n\nTicket Information\nCost: FREE\nPhone: \n\nPresenter Details: Canopy is a community of artists, gallerists, and other creatives, located in Central East Austin. The centerpiece of the property, a former Goodwill warehouse, consists of 89 studios, three galleries, several creative offices, and a caf\u00e9/coffee shop.",
+    "date": "2026-08-01T13:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/arts/music/linda-perhacs-found-folk-singer.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Folk Singer Linda Perhacs Is Found and Is Safe, Authorities Confirm",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/07/30/arts/music/linda-perhacs-found-folk-singer.html",
+    "content": "Linda Perhacs\u2019s former manager Laurel Stearns said in a statement, \u201cWe extend our sincere thanks to everyone who helped amplify this effort by sharing information.\u201d",
+    "date": "2026-07-30T18:12:05",
+    "category": "NYT"
+  },
+  {
     "id": "9c70df93ec5bec89555da9e46be493ff",
     "feed_name": "LRB",
     "title": "Bombs Away",
@@ -19978,25 +19998,5 @@
     "content": "Scott Pelley\u2019s recent interview reveals why the show should take critiques of its work seriously.",
     "date": "2026-06-11T17:58:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/dining/these-dense-bean-salads-are-smart.html",
-    "feed_name": "NYT (Food)",
-    "title": "These Dense Bean Salads Are Smart",
-    "author": "Tanya Sichynsky",
-    "link": "https://www.nytimes.com/2026/06/11/dining/these-dense-bean-salads-are-smart.html",
-    "content": "Hetty Lui McKinnon\u2019s fresh corn and black bean salad with corn chips.",
-    "date": "2026-06-11T17:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232973",
-    "feed_name": "Texas Tribune",
-    "title": "Corpus Christi\u2019s delayed water response bubbles up to Texas governor\u2019s race",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17359579/texas-corpus-christi-water-crisis-abbott-hinojosa-politics",
-    "content": "The Corpus Christi City Council holds a meeting on June 2, 2026.",
-    "date": "2026-06-11T16:00:00",
-    "category": "Texas"
   }
 ]
