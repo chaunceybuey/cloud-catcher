@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a57af504de2a00b6b98bb1c",
+    "feed_name": "Wired",
+    "title": "A Civilian Plane Crashed in New Mexico. Was the Military\u2019s Tech to Blame?",
+    "author": "Jeff Wise",
+    "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "content": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
+    "date": "2026-07-30T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "cd879aca-2181-4739-b9dc-62017d56ed5e",
+    "feed_name": "Economist",
+    "title": "How many people are dying as a result of USAID\u2019s demise?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise",
+    "content": "Fewer than academics imagine, but more than Elon Musk will admit",
+    "date": "2026-07-30T09:38:15",
+    "category": "Magazines"
+  },
+  {
     "id": "8e6b30a8-db1b-481e-8b84-d3f7431812c9",
     "feed_name": "Economist",
     "title": "High government debt makes a common European safe asset unlikely",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-steven-spielberg.html",
     "content": "In a fast-paced sci-fi fantasy, infused with epic intentions and starring Emily Blunt, Josh O\u2019Connor and Colman Domingo, the filmmaker brings the rest of us home.",
     "date": "2026-06-11T09:04:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/arts/broadway-shows-closing-soon-becky-shaw-giant-and-more.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Broadway Shows Closing Soon: \u2018Becky Shaw,\u2019 \u2018Giant\u2019 and More",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/2026/06/11/arts/broadway-shows-closing-soon-becky-shaw-giant-and-more.html",
-    "content": "Rachael Stirling, background, and John Lithgow in \u201cGiant,\u201d a bio-drama based on a moment of crisis in the writer Roald Dahl\u2019s life. It closes on June 28.",
-    "date": "2026-06-11T09:04:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/arts/music/best-classical-music-albums-june-2026.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 Classical Music Albums You Can Listen to Right Now",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/06/11/arts/music/best-classical-music-albums-june-2026.html",
-    "content": "Recordings of songs by Schubert, music by Martyna Basta and symphonies by Martinu are among our selections.",
-    "date": "2026-06-11T09:04:30",
     "category": "NYT"
   }
 ]
