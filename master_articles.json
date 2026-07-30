@@ -90,6 +90,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/29/arts/dance/simone-forti-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Simone Forti, Movement Artist Inspired by the Everyday, Dies at 91",
+    "author": "Claudia Bauer",
+    "link": "https://www.nytimes.com/2026/07/29/arts/dance/simone-forti-dead.html",
+    "content": "Simone Forti performing in 2012 at Danspace Project in New York City. She found inspiration in children\u2019s play, animals, Minimalism and LSD trips.",
+    "date": "2026-07-30T00:41:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238353",
+    "feed_name": "Texas Tribune",
+    "title": "ERCOT: Texas\u2019 power grid meeting record demand now, but could falter when it doubles by 2032",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17393708/texas-ercot-power-grid-record-data-center",
+    "content": "An Oberon solar project in Notrees in Ector County. The farm, operated by 174 Power Global, produces 180 megawatts of power.",
+    "date": "2026-07-29T23:59:42",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238346",
+    "feed_name": "Texas Tribune",
+    "title": "Small plots of land fuel big suspicions among Lubbock residents, who fear it\u2019s for a data center",
+    "author": "Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17393709/lubbock-texas-land-annexed-data-center",
+    "content": "A City of Lubbock water tower on May 21, 2025.",
+    "date": "2026-07-29T23:41:22",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238339",
+    "feed_name": "Texas Tribune",
+    "title": "South Texas Republican builders warn of voter backlash in November if aggressive ICE tactics continue",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17393710/republican-south-texas-builders-decry-ice-raids",
+    "content": "An aerial view of an apartment complex next to commercially zoned land for sale in McAllen on May 12, 2025.",
+    "date": "2026-07-29T23:09:48",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238329",
     "feed_name": "Texas Tribune",
     "title": "Paxton lawsuit prompts end of federal endangered species protection for Texas lizard",
@@ -19958,45 +19998,5 @@
     "content": "It isn\u2019t an exaggeration to say that we are living under a kind of house arrest, unable to go out, with an oppressive sense that an assault.\u00a0.\u00a0.",
     "date": "2026-06-10T18:00:51",
     "category": "Magazines"
-  },
-  {
-    "id": "21ee4ba97a14d245c870cad82c66deda",
-    "feed_name": "The Atlantic",
-    "title": "A Crime Doesn\u2019t Make a Child an Adult",
-    "author": "Elizabeth Bruenig",
-    "link": "https://www.theatlantic.com/ideas/2026/06/kids-adult-time-counterproductive/687449/",
-    "content": "Harsher penalties for juveniles are counterproductive.",
-    "date": "2026-06-10T18:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/10/dining/noma-reopening-copenhagen-rene-redzepi.html",
-    "feed_name": "NYT (Food)",
-    "title": "Noma Will Reopen With Ren\u00e9 Redzepi as Creative Director",
-    "author": "Priya Krishna",
-    "link": "https://www.nytimes.com/2026/06/10/dining/noma-reopening-copenhagen-rene-redzepi.html",
-    "content": "Ren\u00e9 Redzepi, who originally opened Noma in 2003, has been accused of abusive behavior by dozens of former employees.",
-    "date": "2026-06-10T17:25:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232964",
-    "feed_name": "Texas Tribune",
-    "title": "Proposed ban on Big Bend border wall fails in U.S. House funding panel",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17357590/texas-big-bend-national-park-border-wall-ban-house-vote-henry-cuellar",
-    "content": "The Rio Grande cuts through the desert between the U.S. and Mexico as seen from an aerial view over Big Bend National Park on May 24, 2026.",
-    "date": "2026-06-10T16:42:46",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=232961",
-    "feed_name": "Texas Tribune",
-    "title": "Judge recommends medical parole for inmate who had been on Texas death row for 47 years",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17357591/clarence-curtis-jordan-compassionate-release-recommendation",
-    "content": "The Texas Court of Criminal Appeals on Jan. 15, 2020.",
-    "date": "2026-06-10T16:30:14",
-    "category": "Texas"
   }
 ]
