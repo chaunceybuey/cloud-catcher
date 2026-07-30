@@ -100,6 +100,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=238364",
+    "feed_name": "Texas Tribune",
+    "title": "Texas could send a record four GOP women to Congress \u2014 if they make it through November",
+    "author": "Samanta Habashy",
+    "link": "https://feeds.texastribune.org/link/16799/17396268/texas-republican-women-congress-house-record-steinmann-mealer-2026",
+    "content": "From left: Republican congressional nominees Alex Mealer and Jessica Steinmann. With Mealer and Steinmann both favored to win in their neighboring Houston-area congressional districts, Texas could see a record four Republican women in its congressional delegation in January.",
+    "date": "2026-07-30T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238193",
+    "feed_name": "Texas Tribune",
+    "title": "Dream Con brought Black nerd culture to Texas, but to keep it, founders say support is needed",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17396269/dream-con-brings-black-nerd-culture-texas",
+    "content": "An inflatable version of the Dream Con logo welcomes attendees into Houston\u2019s George R. Brown Convention  Center in Houston for the 2026 Dream Con, a three day pop culture, tech, film and gaming event on Saturday, July 11, 2026.",
+    "date": "2026-07-30T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "cd879aca-2181-4739-b9dc-62017d56ed5e",
     "feed_name": "Economist",
     "title": "How many people are dying as a result of USAID\u2019s demise?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/11/movies/the-furious-review.html",
     "content": "Xie Miao and Joe Taslim kick butt and take names in Kenji Tanigaki\u2019s Asian action extravaganza.",
     "date": "2026-06-11T09:04:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-spielberg-plays-his-greatest-cosmic-hits.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Disclosure Day\u2019 Review: Spielberg Plays His Greatest Cosmic Hits",
-    "author": "Manohla Dargis",
-    "link": "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-spielberg-plays-his-greatest-cosmic-hits.html",
-    "content": "In a fast-paced sci-fi fantasy, infused with epic intentions and starring Emily Blunt, Josh O\u2019Connor and Colman Domingo, the filmmaker brings the rest of us home.",
-    "date": "2026-06-11T09:04:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-steven-spielberg.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Disclosure Day\u2019 Review: Spielberg Plays His Greatest Cosmic Hits",
-    "author": "Manohla Dargis",
-    "link": "https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-steven-spielberg.html",
-    "content": "In a fast-paced sci-fi fantasy, infused with epic intentions and starring Emily Blunt, Josh O\u2019Connor and Colman Domingo, the filmmaker brings the rest of us home.",
-    "date": "2026-06-11T09:04:41",
     "category": "NYT"
   }
 ]
