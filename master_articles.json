@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/30/theater/ronald-g-davis-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ronald G. Davis, a Mime Who Spoke Out, Dies at 92",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/07/30/theater/ronald-g-davis-dead.html",
+    "content": "At the height of the psychedelic era, he guided the very vocal San Francisco Mime Troupe\u2019s pointed satire of American militarism, racism and bourgeois values.",
+    "date": "2026-07-30T16:29:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/30/movies/jimmy-review-james-baldwin.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Jimmy\u2019 Review: Inhabiting the World of a Young James Baldwin",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/11/arts/doctor-who-christmas-special.html",
     "content": "Russell T Davies, the showrunner who rebooted \u201cDoctor Who\u201d in 2005.",
     "date": "2026-06-11T13:37:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/11/arts/design/duane-michals-artist-of-wit-and-courage.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Duane Michals, Artist of Wit and Courage",
-    "author": "Philip Gefter",
-    "link": "https://www.nytimes.com/2026/06/11/arts/design/duane-michals-artist-of-wit-and-courage.html",
-    "content": "Our conversations over the years were, at times, philosophical, metaphysical, honest about the daily circumstances of our lives, and dishy, a photography critic says, as he looks back.",
-    "date": "2026-06-11T13:32:16",
     "category": "NYT"
   }
 ]
