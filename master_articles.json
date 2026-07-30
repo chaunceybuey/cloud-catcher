@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/30/dining/zucchini-chickpea-and-tomato-salad-super-and-simple.html",
+    "feed_name": "NYT (Food)",
+    "title": "Zucchini, Chickpea and Tomato Salad, Super and Simple",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/07/30/dining/zucchini-chickpea-and-tomato-salad-super-and-simple.html",
+    "content": "Yossy Arefi\u2019s zucchini, chickpea and tomato salad.",
+    "date": "2026-07-30T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/30/arts/music/amy-winehouse-father-mitch-friends-lawsuit.html",
     "feed_name": "NYT (Arts)",
     "title": "Amy Winehouse\u2019s Father Ordered to Pay $1.3 Million in Suit Over Her Belongings",
@@ -19988,15 +19998,5 @@
     "content": "James Talarico, Democratic nominee for U.S. Senate, meets with supporters at a rally in San Antonio on May 26, 2026.",
     "date": "2026-06-11T11:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "78abf59716c374ca0173cd66e154d82e",
-    "feed_name": "The Atlantic",
-    "title": "As American as the Forward Pass",
-    "author": "Sally Jenkins",
-    "link": "https://www.theatlantic.com/magazine/2026/07/american-sports-culture-origins/687302/",
-    "content": "To understand the history of the nation, look to the history of its sports.",
-    "date": "2026-06-11T11:00:00",
-    "category": "Magazines"
   }
 ]
