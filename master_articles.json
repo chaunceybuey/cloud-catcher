@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=238457",
+    "feed_name": "Texas Tribune",
+    "title": "ACLU launches legal claims in 17 states against immigration detention conditions, including Texas",
+    "author": "Uriel J. Garc\u00eda and Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17396634/texas-immigrant-detention-legal-claim-medical-neglect-aclu",
+    "content": "South Texas ICE Processing Center, an ICE detention center in Pearsall, on Sept. 30, 2020.",
+    "date": "2026-07-30T21:37:16",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
     "feed_name": "NYT (Arts)",
     "title": "After Claiming \u2018Bias\u2019 at Smithsonian, Trump Officials Stage Patriotic Exhibition",
@@ -19988,15 +19998,5 @@
     "content": "Becky Hughes is back to answer readers\u2019 urgent restaurant requests.",
     "date": "2026-06-11T20:16:39",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233105",
-    "feed_name": "Texas Tribune",
-    "title": "Paxton\u2019s office threatens legal action if Big 12 penalizes Texas Tech for playing QB who placed bets",
-    "author": "Ayden Runnels and Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17359674/texas-tech-ken-paxton-brendan-sorsby-big-12",
-    "content": "Texas Tech players Brendan Sorbsy (right) and Willi Hammond (back) and assistant quarterbacks coach Lindsey Scott look on during spring football practice at the at the Womble Football Center in Lubbock on April 7, 2026.",
-    "date": "2026-06-11T20:00:28",
-    "category": "Texas"
   }
 ]
