@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/31/movies/science-fiction-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Project Hail Mary\u2019 and More Science Fiction Movies to Stream Now",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/07/31/movies/science-fiction-movies-streaming.html",
+    "content": "Ryan Gosling in \u201cProject Hail Mary.\u201d",
+    "date": "2026-07-31T15:00:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/31/dining/the-best-cucumber-salad-ive-ever-made.html",
+    "feed_name": "NYT (Food)",
+    "title": "\u201cThe Best Cucumber Salad I\u2019ve Ever Made\u201d",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/07/31/dining/the-best-cucumber-salad-ive-ever-made.html",
+    "content": "And more of the week\u2019s most popular recipes.",
+    "date": "2026-07-31T15:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/31/arts/music/ariana-grande-petal-review.html",
     "feed_name": "NYT (Arts)",
     "title": "Ariana Grande \u2018Petal\u2019 Album Review: The Pitfalls of Fame",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/12/arts/music/taylor-swift-songwriters-hall-speech.html",
     "content": "In a speech, Taylor Swift called songwriting \u201cpretty much the only thing I ever just naturally did.\u201d",
     "date": "2026-06-12T14:47:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-washington-national-opera-lawsuit-endowment.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Opera Company Sues to Collect $17 Million From the Kennedy Center",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-washington-national-opera-lawsuit-endowment.html",
-    "content": "The Kennedy Center and the Washington National Opera are no longer affiliated, but they remained entangled in a dispute over what assets the opera might still be owed.",
-    "date": "2026-06-12T14:31:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/music/joe-negri-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Joe Negri, Handyman and Music Maestro on \u2018Mister Rogers,\u2019 Dies at 99",
-    "author": "Michael S. Rosenwald",
-    "link": "https://www.nytimes.com/2026/06/12/arts/music/joe-negri-dead.html",
-    "content": "An accomplished jazz guitarist, he appeared on more than 300 episodes of the public television show, playing alongside musicians like Wynton Marsalis and Yo-Yo Ma.",
-    "date": "2026-06-12T14:11:05",
     "category": "NYT"
   }
 ]
