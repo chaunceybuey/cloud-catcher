@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "3ef0b20556879be2fbab08cf83d8f582",
+    "feed_name": "LRB",
+    "title": "Emily Wilson and Thomas Jones discuss Homer\u2019s \u2018Odyssey\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/among-the-ancients-the-odyssey",
+    "content": "Emily Wilson and Thomas Jones look at Homer\u2019sOdysseyin this free Close Readings episode. They discuss the twisting, turning nature of both the narrative and its hero, the poem\u2019s complex interrogation of the idea of \u2018home\u2019 and the violence Odysseus brings with him on his return from the Trojan War. With readings by Hazel Holder.",
+    "date": "2026-07-31T15:20:14",
+    "category": "Magazines"
+  },
+  {
+    "id": "6f582613fe2df22a5b06ddcb154b6eb3",
+    "feed_name": "LRB",
+    "title": "Sharky Waters",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v40/n19/amia-srinivasan/sharky-waters",
+    "content": "On 15 September\u200b, 26-year-old Arthur Medici was killed by a great white shark off Newcomb Hollow Beach in Cape Cod, Massachusetts. He was thirty yards from the shore, boogie boarding, when the shark attacked. A witness says that everything was calm until he saw \u2018a giant eruption of water\u2019 and then \u2018a tail and a lot of thrashing\u2019. Medici was pulled from the water...",
+    "date": "2026-07-31T15:20:14",
+    "category": "Magazines"
+  },
+  {
+    "id": "f9be9ec5e6f107f924ad47dddafaf649",
+    "feed_name": "LRB",
+    "title": "Time and the Sea",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v42/n08/fredric-jameson/time-and-the-sea",
+    "content": "Recently\u200b a happy accident put me in possession of a rarely seen film by Andrzej Wajda,Smuga cienia, from 1976. It is an adaptation of Joseph Conrad\u2019s short, openly autobiographical novelThe Shadow-Line(1916). Wajda conceived the film as a modest docudrama based on Conrad\u2019s last mission at sea. The British government, in the thick of the First World War, had enlisted the...",
+    "date": "2026-07-31T15:20:14",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/31/movies/science-fiction-movies-streaming.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Project Hail Mary\u2019 and More Science Fiction Movies to Stream Now",
@@ -158,6 +188,16 @@
     "content": "Boy George in June, during an interview at the New York Stock Exchange.",
     "date": "2026-07-31T13:09:52",
     "category": "NYT"
+  },
+  {
+    "id": "6a12d67858dcbd145e94b7d5d1d67f56",
+    "feed_name": "The Atlantic",
+    "title": "What the Fauci Diary Reveals About Washington",
+    "author": "Mark Leibovich",
+    "link": "https://www.theatlantic.com/ideas/2026/07/anthony-fauci-washington-diary/688127/",
+    "content": "His musings seem to confirm everyone\u2019s worst suspicions about the capital.",
+    "date": "2026-07-31T13:00:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/07/31/arts/historic-sites-trump-regulation-changes.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html",
     "content": "Whether in Los Angeles, in his native England or traveling the world, the artist always reinvented the world he saw, with psychological insight.",
     "date": "2026-06-12T15:31:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/music/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Review: Olivia Rodrigo\u2019s \u2018You Seem Pretty Sad for a Girl So in Love\u2019",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/06/12/arts/music/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-review.html",
-    "content": "Olivia Rodrigo\u2019s third album documents a relationship, from beginning to end.",
-    "date": "2026-06-12T15:02:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/dining/spaghetti-carbonara-is-a-classic-for-a-reason.html",
-    "feed_name": "NYT (Food)",
-    "title": "Spaghetti Carbonara Is a Classic for a Reason",
-    "author": "The New York Times Cooking",
-    "link": "https://www.nytimes.com/2026/06/12/dining/spaghetti-carbonara-is-a-classic-for-a-reason.html",
-    "content": "Ian Fisher's spaghetti carbonara.",
-    "date": "2026-06-12T15:00:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/movies/action-movies-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five Action Movies to Stream Now",
-    "author": "Robert Daniels",
-    "link": "https://www.nytimes.com/2026/06/12/movies/action-movies-streaming.html",
-    "content": "A still from \u201cBeast,\u201d featuring Daniel MacPherson.",
-    "date": "2026-06-12T15:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/music/taylor-swift-songwriters-hall-speech.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Taylor Swift Enters the Songwriters Hall of Fame With Tears, Jokes and a Warning",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/06/12/arts/music/taylor-swift-songwriters-hall-speech.html",
-    "content": "In a speech, Taylor Swift called songwriting \u201cpretty much the only thing I ever just naturally did.\u201d",
-    "date": "2026-06-12T14:47:22",
     "category": "NYT"
   }
 ]
