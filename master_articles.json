@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a6cce158eeea7417536620b",
+    "feed_name": "Wired (Science)",
+    "title": "SpaceX\u2019s Falcon 9 Rocket Is About to Crash Into the Moon\u2014and It Could Be Visible From Earth",
+    "author": "Nathaniel Janowitz",
+    "link": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
+    "content": "The impact will kick up a plume of debris so high, it\u2019ll likely be visible through some telescopes. Astronomers will be watching.",
+    "date": "2026-07-31T23:38:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8821712#p8821712",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "lstone19",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8821712#p8821712",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Strange. Perhaps one message bounced back. Vanguard <a class=\"postlink\" href=\"https://www.bogleheads.org/forum/viewtopic.php?t=213849\">sends letters</a> when they believe they can\u2019t reach someone by email.<br /><br />I have been removed (or been threatened with removal) from some mailing lists if I don\u2019t occasionally allow tracking images to load. <br /><br />Many mailers  put \u201ctracking pixels\u201d into emails to know when messages are opened/read, but I turn it off by default. Some mailers remove recipients that don\u2019t appear to read messages to try to increase their \u201creputation\u201d. Mailers with worse reputation may have more messages filtered as spam or rejected.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>My experience is for some reason, many financial institutions treat transient errors as permanent which is wrong. Transient errors are things like the destination mail server is down for maintenance, is overloaded so didn't respond in time, or out of disk space / disk quota. A transient error means retry at some point in the future (how often being under the control of the sending server - when I ran my own mail server, the retry interval was 5 min, 10 min, 20 min, 40 min, and then hourly); Internet best practice is to retry for five days before giving up although many servers will send a delay warning message after some time (four hours is common). Permanent errors are things like no such user.<br /><br />Treating transient errors as permanent results in many false assumptions of being undeliverable. Nothing in the Internet standard for email guarantees immediate delivery or 100% uptime.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=126664\">lstone19</a> \u2014 Fri Jul 31, 2026 6:37 pm</p><hr />",
+    "date": "2026-07-31T23:37:08",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144/",
     "feed_name": "Chait",
     "title": "The Incoherence of the Iran Hawks",
@@ -19978,25 +19998,5 @@
     "content": "Gov. Greg Abbott speaks to delegates and attendees at the 2026 Texas Republican Convention on June 12, 2026, in Houston.",
     "date": "2026-06-12T20:35:38",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/theater/charles-dennis-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Charles Dennis, a Founder of the Avant-Garde Space P.S. 122, Dies at 77",
-    "author": "Jer\u00e9 Longman",
-    "link": "https://www.nytimes.com/2026/06/12/theater/charles-dennis-dead.html",
-    "content": "A performance artist, dancer, choreographer, videographer, filmmaker and curator, he was a central figure in the downtown Manhattan experimental arts scene.",
-    "date": "2026-06-12T20:34:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/music/james-blood-ulmer-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "James Blood Ulmer, Guitarist Who Smashed Through Genres, Dies at 86",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/06/12/arts/music/james-blood-ulmer-dead.html",
-    "content": "James Blood Ulmer in 1990. The New York Times called him \u201cthe most original electric guitarist to emerge since the late Jimi Hendrix.\u201d",
-    "date": "2026-06-12T19:47:54",
-    "category": "NYT"
   }
 ]
