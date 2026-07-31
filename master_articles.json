@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "ef854a88d260727ebf89fc1e1d5812a3",
+    "feed_name": "The Atlantic",
+    "title": "Anthony Fauci Is Not the Villain in This Story",
+    "author": "David Frum",
+    "link": "https://www.theatlantic.com/ideas/2026/07/fauci-senate-diary-rand-paul/688135/",
+    "content": "The doctor was thrust into his pandemic-leadership role because of Trump\u2019s deadly dereliction of duty.",
+    "date": "2026-07-31T19:17:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238517",
     "feed_name": "Texas Tribune",
     "title": "Texas land commissioner orders feds to stop \u201cillegally\u201d clearing state border tract",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/12/movies/blake-lively-legal-fees-ruling-justin-baldoni-settlement.html",
     "content": "A judge on Friday awarded Blake Lively some legal fees in her court battle with Justin Baldoni. The amount was not set in the ruling.",
     "date": "2026-06-12T16:52:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/music/bruckner-eight-ny-phil-met-orchestra.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Philharmonic and the Met Engage in a Battle of the Bands",
-    "author": "Joshua Barone",
-    "link": "https://www.nytimes.com/2026/06/12/arts/music/bruckner-eight-ny-phil-met-orchestra.html",
-    "content": "Yannick N\u00e9zet-S\u00e9guin, left, and Semyon Bychkov both conducted Bruckner\u2019s Eighth Symphony in New York this past week.",
-    "date": "2026-06-12T16:14:15",
     "category": "NYT"
   }
 ]
