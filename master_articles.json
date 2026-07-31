@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=238430",
+    "feed_name": "Texas Tribune",
+    "title": "For Texas DACA recipients, a fearful present and an uncertain future as protected status expires",
+    "author": "Alejandro Santos Cid",
+    "link": "https://feeds.texastribune.org/link/16799/17397054/texas-daca-work-permits-renewal-delays-deportation-fears",
+    "content": "Itzayana Mondrag\u00f3n, 26, at her farm on July 8, 2026, in Cedar Creek. A federal court\u2019s upcoming ruling in a lawsuit could ban DACA recipients from working in Texas, forcing them to move to other states to work legally.",
+    "date": "2026-07-31T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238462",
+    "feed_name": "Texas Tribune",
+    "title": "Texas businesses bracing for a financial hit from U.S.-Mexico-Canada trade limbo",
+    "author": "By  Andrew Schneider,\u00a0Houston Public Media",
+    "link": "https://feeds.texastribune.org/link/16799/17397055/texas-us-mexico-canada-trade-agreement",
+    "content": "The World Trade International Bridge between Texas and Mexico on April 9, 2026.",
+    "date": "2026-07-31T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/31/movies/5-new-movies-our-critics-are-talking-about-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "5 New Movies Our Critics Are Talking About This Week",
@@ -165,6 +185,16 @@
     "title": "Ella Langley? Drake? Stella Lefty? A Song of the Summer Debate.",
     "author": "Jon Caramanica and Joe Coscarelli",
     "link": "https://www.nytimes.com/2026/07/31/arts/music/what-is-the-song-of-the-summer-breaking-down-the-8-top-contenders.html",
+    "content": "Can Drake reclaim the throne? Is it the season of Stella Lefty? Or is Ella Langley inevitable?",
+    "date": "2026-07-31T09:03:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/31/arts/music/song-of-the-summer-drake-ella-langley.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ella Langley? Drake? Stella Lefty? A Song of the Summer Debate.",
+    "author": "Jon Caramanica and Joe Coscarelli",
+    "link": "https://www.nytimes.com/2026/07/31/arts/music/song-of-the-summer-drake-ella-langley.html",
     "content": "Can Drake reclaim the throne? Is it the season of Stella Lefty? Or is Ella Langley inevitable?",
     "date": "2026-07-31T09:03:25",
     "category": "NYT"
@@ -19968,35 +19998,5 @@
     "content": "Journalists looking at David Hockney\u2019s work before the opening of the exhibition \u201cDavid Hockney 25\u201d at Fondation Louis Vuitton in Paris in April 2025.",
     "date": "2026-06-12T10:21:12",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-ipad-iphone-photocopier-fax.html",
-    "feed_name": "NYT (Arts)",
-    "title": "With iPhones and Faxes, David Hockney Embraced Tech",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-ipad-iphone-photocopier-fax.html",
-    "content": "\u201cMulholland Drive, June 1986,\u201d a homemade print from a photocopier.",
-    "date": "2026-06-12T10:19:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233118",
-    "feed_name": "Texas Tribune",
-    "title": "Texas agency to set rules for using treated fracking wastewater on farmland",
-    "author": "Alejandra Martinez",
-    "link": "https://feeds.texastribune.org/link/16799/17359927/texas-environment-tceq-rules-produced-water-fracking-wasterwater-reuse",
-    "content": "The Texas Railroad Commission approved the construction of produced water ponds to treat and recycle produced water from fracking, next to the Circle 6 Baptist Camp in the Permian Basin.",
-    "date": "2026-06-12T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233146",
-    "feed_name": "Texas Tribune",
-    "title": "Texas takes over voter registration in Val Verde County amid struggles with registration",
-    "author": "By\u00a0Natalia Contreras, Votebeat and The Texas Tribune",
-    "link": "https://feeds.texastribune.org/link/16799/17359928/texas-elections-takeover-val-verde-county",
-    "content": "A cyclist rides their bike through downtown Del Rio on Aug. 21, 2024.",
-    "date": "2026-06-12T10:00:00",
-    "category": "Texas"
   }
 ]
