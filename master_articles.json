@@ -270,6 +270,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/31/theater/broadway-shows-closing-death-of-a-salesman-ragtime.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Broadway Shows Closing Soon: \u2018Death of a Salesman,\u2019 \u2018Ragtime\u2019 and More",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/07/31/theater/broadway-shows-closing-death-of-a-salesman-ragtime.html",
+    "content": "Catch these Tony Award winners and nominees before the curtain comes down on them for a final time.",
+    "date": "2026-07-31T09:01:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/31/theater/broadway-shows-closing-soon-death-of-a-salesman-ragtime-and-more.html",
     "feed_name": "NYT (Arts)",
     "title": "Broadway Shows Closing Soon: \u2018Death of a Salesman,\u2019 \u2018Ragtime\u2019 and More",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/dwight-macdonalds-american-century/",
     "content": "",
     "date": "2026-06-12T12:27:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "f150d1eb1a01446e8138736721ec12e7",
-    "feed_name": "The Atlantic",
-    "title": "The National Debt Is Raising Borrowing Costs for Everyone",
-    "author": "Martha Gimbel",
-    "link": "https://www.theatlantic.com/ideas/2026/06/national-debt-affordability-legislation/687517/",
-    "content": "Consumers are already paying the price for the government\u2019s deficits.",
-    "date": "2026-06-12T11:30:00",
     "category": "Magazines"
   }
 ]
