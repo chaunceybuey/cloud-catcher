@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "ecbfe47c37304b3b92f36fe237c2eb14",
+    "feed_name": "Compact",
+    "title": "The Rise of the V\u00f6lkisch Left",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-rise-of-the-volkisch-left/",
+    "content": "",
+    "date": "2026-07-31T12:00:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/31/arts/dance/review-philadanco-rennie-harris.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dance Review: \u2018To Philly, Love, Rennie\u2019 Is the Sound of Soul, but Muted",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/07/31/arts/dance/review-philadanco-rennie-harris.html",
+    "content": "At the Joyce Theater, Philadanco! premiered a new dance of civic pride by Rennie Harris that\u2019s oddly muffled.",
+    "date": "2026-07-31T11:58:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/california-teacher-misconduct-database-bill-failed-al-muratsuchi",
     "feed_name": "ProPublica",
     "title": "For the Second Time, Lawmakers Failed to Fix California\u2019s Warning System for Teacher Misconduct",
@@ -19978,25 +19998,5 @@
     "content": "Critics are inflating the costs.",
     "date": "2026-06-12T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "7b9ed75eb6a704b90d0a414884a8da72",
-    "feed_name": "The Atlantic",
-    "title": "The Boeing 747 Begins Its Final Descent",
-    "author": "Ian Bogost",
-    "link": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-    "content": "The jet was perhaps the pinnacle of American engineering excellence. Its retirement signals an end to an era of American culture\u2014and ambition.",
-    "date": "2026-06-12T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "David Hockney, Who Restored the Human Form to Art, Dies at 88",
-    "author": "Holland Cotter",
-    "link": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
-    "content": "His colorful figurative paintings were both conservative and iconoclastic, defying the dominant abstract schools of the mid-20th century.",
-    "date": "2026-06-12T10:44:07",
-    "category": "NYT"
   }
 ]
