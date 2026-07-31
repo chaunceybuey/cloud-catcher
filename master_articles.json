@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/31/arts/television/jordan-klepper-anthony-fauci-covid.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jordan Klepper Revisits His \u2018Fauci Fever\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/07/31/arts/television/jordan-klepper-anthony-fauci-covid.html",
+    "content": "\u201cThe Daily Show\u201d host defended the doctor\u2019s diary entries about his Covid-era fame: \u201cI literally saw Fauci more than I saw my parents.\u201d",
+    "date": "2026-07-31T06:30:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238499",
     "feed_name": "Texas Tribune",
     "title": "DACA mother of three suing the federal government over deportation to Mexico",
@@ -19988,15 +19998,5 @@
     "content": "Judge Christopher R. Cooper ruled that only Congress had the power to alter the name of the John F. Kennedy Center for the Performing Arts, which was dedicated to the president in a 1964 law.",
     "date": "2026-06-11T23:28:52",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233121",
-    "feed_name": "Texas Tribune",
-    "title": "Conservation groups sue to stop SpaceX land deal",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17359691/environmental-groups-sue-to-stop-spacex-land-deal",
-    "content": "A SpaceX rocket on the launchpad at Starbase on Feb. 3, 2026.",
-    "date": "2026-06-11T21:46:54",
-    "category": "Texas"
   }
 ]
