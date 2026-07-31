@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "4f64f902c656da134e6542666680a91a",
+    "feed_name": "The Atlantic",
+    "title": "The Incoherence of the Iran Hawks",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144/",
+    "content": "If bombing has limited, reversible effects, then it will have to continue indefinitely.",
+    "date": "2026-07-31T20:23:01",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238536",
     "feed_name": "Texas Tribune",
     "title": "Houston mothers challenge Ten Commandments posters under Texas\u2019 new parental rights amendment",
@@ -19988,15 +19998,5 @@
     "content": "Just was in the IPO for SpaceX at Fidelity.  The good news is I got my full allocation I requested, a small amount.  The bad news is the process for confirmation of interest last night was between 7:30 to 12::00 EST.  The notice from Fidelity had no instructions on how to confirm my intention and it is really not easy to find on their website.  The phone number they provided was slammed and giving a busy signal.  The chat was almost as bad with 100s waiting in the queue.  I was able to figure it out eventually, but it was not the usual top notch service I have received from Fidelity in the past.  Some simple basic instructions on confirming online would have been useful.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=128505\">Golf maniac</a> \u2014 Fri Jun 12, 2026 1:40 pm</p><hr />",
     "date": "2026-06-12T18:40:37",
     "category": "Finance"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/ottolenghi-nectarines-summer-dessert",
-    "feed_name": "NYT (Food)",
-    "title": "Nectarines Are the Secret Ingredient to This Summer Dessert",
-    "author": "Yotam Ottolenghi",
-    "link": "https://cooking.nytimes.com/article/ottolenghi-nectarines-summer-dessert",
-    "content": "When he couldn\u2019t find apricots, the chef turned to nectarines for this special and surprisingly unfussy dessert.",
-    "date": "2026-06-12T17:53:33",
-    "category": "NYT"
   }
 ]
