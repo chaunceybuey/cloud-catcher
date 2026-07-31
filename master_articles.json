@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8821597#p8821597",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "runr",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8821597#p8821597",
+    "content": "Strangely, on my wife's FIDO account, she received a letter in the mail a week ago saying there's no email on file, so she went back in and re-added her email. I have no idea what happened and I never seen that happen from any FI company. My FIDO account didn't have that issue.<br /><br />Also for both of our FIDO accounts we secured messaged them with (and instant messaged for the 401(k)),<br /><br />I don't want unsolicited portfolio review calls and emails. Please add me to your do not call list for investment consultation and marketing outreach for all of my accounts.<br /><br />Please confirm that the request applies across all Fidelity business units, not just marketing.<br /><br />FIDO responded promptly with,<br /><br />\"I have added you to the do not call list. In my role I have limited access to other business units.\"<br /><br />So hopefully this fixes all that cold calling/emailing nonsense, and we already had all the marketing options turned off beforehand.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=197342\">runr</a> \u2014 Fri Jul 31, 2026 3:47 pm</p><hr />",
+    "date": "2026-07-31T20:47:59",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/31/style/met-gala-costume-institute-john-galliano.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Next Met Fashion Blockbuster and Gala Will Honor Controversial Designer John Galliano",
+    "author": "Vanessa Friedman",
+    "link": "https://www.nytimes.com/2026/07/31/style/met-gala-costume-institute-john-galliano.html",
+    "content": "John Galliano is considered by many in the fashion world to be one of the most influential living designers. But he became a household name after a video of him making antisemitic comments at a Paris bar became international news in 2011.",
+    "date": "2026-07-31T20:32:44",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238536",
+    "feed_name": "Texas Tribune",
+    "title": "Houston mothers challenge Ten Commandments posters under Texas\u2019 new parental rights amendment",
+    "author": "Ellie Ashby",
+    "link": "https://feeds.texastribune.org/link/16799/17398220/texas-ten-commandments-lawsuit-houston-parental-rights",
+    "content": "The Ten Commandments, written out on a monument, sit outside the Texas Capitol on March 17, 2025.",
+    "date": "2026-07-31T19:24:02",
+    "category": "Texas"
+  },
+  {
     "id": "ef854a88d260727ebf89fc1e1d5812a3",
     "feed_name": "The Atlantic",
     "title": "Anthony Fauci Is Not the Villain in This Story",
@@ -19967,36 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/ottolenghi-nectarines-summer-dessert",
     "content": "When he couldn\u2019t find apricots, the chef turned to nectarines for this special and surprisingly unfussy dessert.",
     "date": "2026-06-12T17:53:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://stratechery.com/?p=19288",
-    "feed_name": "Stratechery",
-    "title": "2026.24: Hey Siri, Tell Me a Fable",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
-    "content": "<figure class=\"wp-block-image size-large\"><img alt=\"\" class=\"wp-image-19299\" height=\"951\" src=\"https://i0.wp.com/stratechery.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-11-at-11.22.05.jpeg?resize=1700%2C951&#038;ssl=1\" width=\"1700\" /><figcaption class=\"wp-element-caption\">(Apple)</figcaption></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Welcome back to This Week in Stratechery!</p>\n\n\n\n<p class=\"wp-block-paragraph\">As a reminder, each week, every Friday, we&#8217;re sending out this overview of content in the Stratechery bundle; <span class=\"passport-tokenized-link\">highlighted links are free for everyone</span>. Additionally, you have complete control over what we send to you. If you don&#8217;t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in <a href=\"https://stratechery.passport.online/member/account/delivery\">your delivery settings</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">On that note, here were a few of our favorites this week.</p>\n\n\n\n<ol class=\"wp-block-list is-style-default\">\n<li><strong>Apple Finally Ships Intelligence. </strong>Tim Cook&#8217;s final WWDC as CEO was in large part an effort to clean up a mess that Apple made two years ago, and even though Cook wasn&#8217;t driving the Siri AI presentations \u2014 that was Mike Rockwell, head of engineering and now head of Siri \u2014 the final product felt like an appropriate send off as his tenure nears its conclusion. Siri AI doesn&#8217;t dazzle, but it delivered. We saw working demos that were so slow they couldn&#8217;t have been faked. That&#8217;s distinct from the vaporware Apple displayed two years ago, and <a href=\"https://stratechery.com/2026/the-iphones-last-stand/\"><span class=\"passport-tokenized-link\">as Ben wrote Tuesday</span></a>, competent AI that doubles down all the iPhone&#8217;s advantages may well be enough to keep Apple central in an entirely new generation of computing. <em>\u2014</em> <em>Andrew Sharp</em><br /></li>\n</ol>\n\n\n\n<span id=\"more-19288\"></span>\n\n\n\n<ol class=\"wp-block-list is-style-default\" start=\"2\">\n<li><strong>Anthropic&#8217;s Fable.\u00a0</strong>Anthropic released a public version of its Mythos model on Tuesday dubbed Fable 5, complete with a set of very visible guardrails on cybersecurity and biology topics, and silent nerfing around LLM creation capabilities. The latter decision was <a href=\"https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/\">reversed on Thursday</a> after public outcry, but I wasn&#8217;t surprised: I explained on <a href=\"https://sharptech.fm/member/episode/five-questions-on-wwdc-2026-fable-5-and-its-guardrails-what-anthropic-has-in-common-with-apple\">Sharp Tech</a> why this sort of behavior was predictable from Anthropic \u2014 indeed, it&#8217;s exactly why <a href=\"https://stratechery.com/2026/anthropic-and-alignment/\"><span class=\"passport-tokenized-link\">I criticized the company in its standoff with the U.S. government</span></a>. And yet, Fable is also remarkable: in <a href=\"https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/\">Wednesday&#8217;s Update</a> I explore how Anthropic&#8217;s fusion of belief and business makes the company feel unbeatable. \u2014 <em>Ben Thompson</em><br /><br /></li>\n\n\n\n<li><strong>The Future of European Industry.&nbsp;</strong>For anyone who&#8217;s missed it, the past few weeks have seen a steady rise in temperatures between the EU and China as various European leaders speak out about increasingly oppressive Chinese trade practices that are eroding European industries. Before next week&#8217;s G7 Summit in France and an EU summit in Brussels that will be dedicated to countering China, <a href=\"https://sharptext.net/2026/europes-final-warning/\"><span class=\"passport-tokenized-link\">I wrote&nbsp;about all the dynamics driving the tensions</span></a> and what comes next. In short: the smart money says that Europe will be more talk than action this summer, but even if a full blown trade war isn&#8217;t quite imminent, that destination may well be inevitable. <em>\u2014</em> <em>AS</em></li>\n</ol>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Stratechery Articles and Updates</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/\">Google Buys Compute From SpaceX, Broadcom\u2019s Outlook, Apple\u2019s AI Politics</a> <em>\u2014 Google\u2019s deal with SpaceX, and Broadcom\u2019s earnings, both seem bullish for Nvidia. Then, what I\u2019m looking for at WWDC.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/the-iphones-last-stand/\"><span class=\"passport-tokenized-link\">The iPhone\u2019s Last Stand</span></a> <em>\u2014 Siri isn\u2019t state of the art, but as long as it works \u2014 and it appears it does \u2014 it\u2019s good enough for the consumer market.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/\">Fable 5, Anthropic Alignment, AI Tiers</a> <em>\u2014 Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/\">An Interview with Ben Bajarin About Apple, AI, and Compute</a> <em>\u2014 An interview with Ben Bajarin about WWDC and the status of the AI compute industry.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Text by Andrew Sharp</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptext.net/2026/europes-final-warning/\"><span class=\"passport-tokenized-link\">Europe&#8217;s Final Warning</span></a> \u2014 <em>A closer look at Europe&#8217;s compounding China problems, and why a trade war is probably not imminent, but might be inevitable.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Dithering with Ben Thompson and Daring Fireball&#8217;s John Gruber</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dithering.passport.online/member/episode/a-working-siri\">A Working Siri</a></li>\n\n\n\n<li><a href=\"https://dithering.passport.online/member/episode/wwdc-follow-up\">WWDC Follow-Up</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Asianometry with Jon Yu</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://asianometry.passport.online/member/episode/the-eu-chips-act-is-a-failure\">The EU Chips Act is a Failure</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp China with Andrew Sharp and Sinocism&#8217;s Bill Bishop</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharpchina.fm/member/episode/xi-goes-to-north-korea-inspecting-xinjiang-a-295-billion-ai-buildout-the-pentagon-alleges-pla-links-for-alibaba-and-others\">Xi Goes to North Korea; Inspecting Xinjiang; A $295 Billion AI Buildout; The Pentagon Alleges PLA Links for Alibaba and Others</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Greatest of All Talk</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://goat.passport.online/member/episode/a-mid-finals-mailbag-instant-classics-wemby-the-villain-officiating-angst-brunson-and-kat-questions-the-parity-decade-and-lots-more\">A Mid-Finals Mailbag: Instant Classics, Wemby the Villain, Officiating Angst, Brunson and KAT Questions, The Parity Decade, and Lots More</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Tech with Andrew Sharp and Ben Thompson</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptech.fm/member/episode/five-questions-on-wwdc-2026-fable-5-and-its-guardrails-what-anthropic-has-in-common-with-apple\">Five Questions on WWDC 2026, Fable 5 And Its Guardrails, What Anthropic Has in Common With Apple</a></li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">This week&#8217;s Stratechery video is on <a href=\"https://stratechery.com/2026/the-google-capital-company/\"><span class=\"passport-tokenized-link\">The Google Capital Company</span></a>.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\"></p>",
-    "date": "2026-06-12T17:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233183",
-    "feed_name": "Texas Tribune",
-    "title": "Midland shooting leaves one dead, 10 injured; police say suspect was also killed",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17360130/texas-midland-shooting-suspect-dead",
-    "content": "Residents had been urged to shelter in place as police responded.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17360130.gif\" width=\"1\" />",
-    "date": "2026-06-12T16:55:32",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/movies/blake-lively-legal-fees-ruling-justin-baldoni-settlement.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Blake Lively Awarded Legal Fees in Ruling After Justin Baldoni Settlement",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/06/12/movies/blake-lively-legal-fees-ruling-justin-baldoni-settlement.html",
-    "content": "A judge on Friday awarded Blake Lively some legal fees in her court battle with Justin Baldoni. The amount was not set in the ruling.",
-    "date": "2026-06-12T16:52:29",
     "category": "NYT"
   }
 ]
