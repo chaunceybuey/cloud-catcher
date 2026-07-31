@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/31/arts/music/ariana-grande-petal-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ariana Grande \u2018Petal\u2019 Album Review: The Pitfalls of Fame",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/07/31/arts/music/ariana-grande-petal-review.html",
+    "content": "Ariana Grande has said she was planning to focus more on acting and theater than pop stardom, but so far that has not come to pass.",
+    "date": "2026-07-31T14:04:35",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/31/theater/boy-george-israel.html",
     "feed_name": "NYT (Arts)",
     "title": "Boy George Pulled From \u2018Jesus Christ Superstar\u2019 Days After Posting Pro-Israel Reggae Song",
@@ -127,6 +137,16 @@
     "link": "https://www.nytimes.com/2026/07/31/theater/boy-george-israel.html",
     "content": "Boy George in June, during an interview at the New York Stock Exchange.",
     "date": "2026-07-31T13:09:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/31/arts/historic-sites-trump-regulation-changes.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Critics Say Historic Sites Are Endangered by Trump-Aligned Panel\u2019s Plan",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/07/31/arts/historic-sites-trump-regulation-changes.html",
+    "content": "Whitney Plantation in Louisiana is among the historic sites that preservationists say have been protected by federal regulations that are currently under scrutiny.",
+    "date": "2026-07-31T12:47:20",
     "category": "NYT"
   },
   {
@@ -188,6 +208,16 @@
     "content": "The World Trade International Bridge between Texas and Mexico on April 9, 2026.",
     "date": "2026-07-31T10:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/31/movies/new-movies-this-week-critics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 New Movies Our Critics Are Talking About This Week",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/07/31/movies/new-movies-this-week-critics.html",
+    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+    "date": "2026-07-31T09:04:33",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/07/31/movies/5-new-movies-our-critics-are-talking-about-this-week.html",
@@ -19968,35 +19998,5 @@
     "content": "An accomplished jazz guitarist, he appeared on more than 300 episodes of the public television show, playing alongside musicians like Wynton Marsalis and Yo-Yo Ma.",
     "date": "2026-06-12T14:11:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-    "feed_name": "NYT (Arts)",
-    "title": "JR Conjures a Mountainous Illusion Out of the Pont Neuf in Paris",
-    "author": "Mark Landler and Elliott Verdier",
-    "link": "https://www.nytimes.com/2026/06/12/arts/design/pont-neuf-jj.html",
-    "content": "The bridge has been wrapped with fabric that was then inflated to create a craggy appearance.",
-    "date": "2026-06-12T13:09:49",
-    "category": "NYT"
-  },
-  {
-    "id": "1e0b9b7d6d298e8ea633788bccf29f08",
-    "feed_name": "The Atlantic",
-    "title": "The Women Who Don\u2019t Own Clothes",
-    "author": "Annie Joy Williams",
-    "link": "https://www.theatlantic.com/ideas/2026/06/clothing-rental-sustainability-nuuly-shopping/687526/",
-    "content": "The rental service Nuuly is taking over America\u2019s closets.",
-    "date": "2026-06-12T13:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "46842a2538fa6b2c33f8e73e62004cbf",
-    "feed_name": "Compact",
-    "title": "Dwight Macdonald\u2019s American Century",
-    "author": "",
-    "link": "https://www.compactmag.com/article/dwight-macdonalds-american-century/",
-    "content": "",
-    "date": "2026-06-12T12:27:01",
-    "category": "Magazines"
   }
 ]
