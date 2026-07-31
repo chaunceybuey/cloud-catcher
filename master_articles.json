@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=238499",
+    "feed_name": "Texas Tribune",
+    "title": "DACA mother of three suing the federal government over deportation to Mexico",
+    "author": "By Valerie Gonzalez,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17396856/texas-mother-daca-recepient-deportation-lawsuit",
+    "content": "Jessica Trevi\u00f1o, seen in this undated photo, was deported to Mexico in March 2026 despite having a valid DACA status and clean criminal record.",
+    "date": "2026-07-31T03:23:22",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/30/t-magazine/precious-okoyomon-moma-ps1.html",
     "feed_name": "NYT (Arts)",
     "title": "In Queens, a Fantastical Garden Featuring a 25-Foot-Long Teddy Bear",
@@ -19988,15 +19998,5 @@
     "content": "A SpaceX rocket on the launchpad at Starbase on Feb. 3, 2026.",
     "date": "2026-06-11T21:46:54",
     "category": "Texas"
-  },
-  {
-    "id": "773365cda040626d344b3c1bad76661d",
-    "feed_name": "LRB",
-    "title": "Erin Maglaque & Hannah Dawson: Presence",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/erin-maglaque-hannah-dawson-presence-tickets-1987077822257",
-    "content": "",
-    "date": "2026-06-11T21:22:34",
-    "category": "Magazines"
   }
 ]
