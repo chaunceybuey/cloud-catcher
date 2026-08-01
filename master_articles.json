@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=238632",
+    "feed_name": "Texas Tribune",
+    "title": "Don Huffines sworn in as Texas comptroller ahead of November elections",
+    "author": "Taylor Goldenstein",
+    "link": "https://feeds.texastribune.org/link/16799/17399812/don-huffines-sworn-in-as-texas-acting-comptroller-ahead-of-november-elections",
+    "content": "Don Huffines, Republican candidate for Texas Comptroller, speaks during the 2026 Texas State Republican Convention stand for the Pledge of Allegiance and the Texas state pledge on Friday, June 12, 2026 in Houston.",
+    "date": "2026-08-01T21:45:47",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Vincent Pastore, Actor on \u2018The Sopranos,\u2019 Dies at 80",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-los-angeles-pool-paintings.html",
     "content": "David Hockney repainted his own pool \u2014 and signed and dated it July 8, 2017, the day before his 80th birthday.",
     "date": "2026-06-13T16:41:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/dining/a-dinner-for-people-who-like-to-press-on-things.html",
-    "feed_name": "NYT (Food)",
-    "title": "A Dinner for People Who Like to Press on Things",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/06/13/dining/a-dinner-for-people-who-like-to-press-on-things.html",
-    "content": "Ashley Lonsdale\u2019s smashed chicken with corn and cabbage.",
-    "date": "2026-06-13T15:00:06",
     "category": "NYT"
   }
 ]
