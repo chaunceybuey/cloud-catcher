@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Spider-Man\u2019 Heads for $875 Million Global Opening, Defying Superhero Slump",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
+    "content": "The movie, the 11th big-budget Spider-Man movie since 2002, was on pace to have one of the biggest domestic first weekends ever.",
+    "date": "2026-08-01T17:20:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/01/dining/peanut-peanut-noodles-and-cabbage.html",
     "feed_name": "NYT (Food)",
     "title": "Peanut, Peanut Noodles (and Cabbage)",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/13/dining/ben-mims-loves-an-erewhon-brownie.html",
     "content": "Melissa Clark\u2019s easy buttermilk peach cobbler.",
     "date": "2026-06-13T14:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
-    "feed_name": "Douthat",
-    "title": "Does U.F.O. Disclosure Threaten Faith?",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
-    "content": "Steven Spielberg\u2019s \u2018Disclosure Day\u2019 and the God-and-aliens debate.",
-    "date": "2026-06-13T12:08:05",
     "category": "NYT"
   }
 ]
