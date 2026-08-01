@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Vincent Pastore, Actor on \u2018The Sopranos,\u2019 Dies at 80",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
+    "content": "Vincent Pastore in 2002. A character actor who specialized in playing Italian American tough guys, he had his biggest role on \u201cThe Sopranos.\u201d",
+    "date": "2026-08-01T21:10:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8822343#p8822343",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/13/dining/a-dinner-for-people-who-like-to-press-on-things.html",
     "content": "Ashley Lonsdale\u2019s smashed chicken with corn and cabbage.",
     "date": "2026-06-13T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood\u2019s Shadow",
-    "author": "Matina Stevis-Gridneff and Cole Burston",
-    "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
-    "content": "The actor Robbie Graham-Kunz speaking with fans outside the 14th Canadian Screen Awards in Toronto.",
-    "date": "2026-06-13T14:41:50",
     "category": "NYT"
   }
 ]
