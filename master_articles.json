@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/01/dining/peanut-peanut-noodles-and-cabbage.html",
+    "feed_name": "NYT (Food)",
+    "title": "Peanut, Peanut Noodles (and Cabbage)",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/01/dining/peanut-peanut-noodles-and-cabbage.html",
+    "content": "Hetty Lui McKinnon\u2019s crunchy peanut noodle slaw.",
+    "date": "2026-08-01T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21633-will-taylor-and-strings-attached-zeppelin-beatles-and-beyond-concert-in-the-dark",
     "feed_name": "KMFA",
     "title": "Will Taylor and Strings Attached: Zeppelin, Beatles and Beyond Concert in the Dark",
@@ -19988,15 +19998,5 @@
     "content": "Trump voters don\u2019t care to defend institutions that they see as illegitimate.",
     "date": "2026-06-13T12:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
-    "feed_name": "Douthat",
-    "title": "Do U.F.O.s Usurp Religion?",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/06/13/opinion/disclosure-day-ufo-religion.html",
-    "content": "Steven Spielberg\u2019s \u2018Disclosure Day\u2019 and the God-and-aliens debate.",
-    "date": "2026-06-13T11:00:22",
-    "category": "NYT"
   }
 ]
