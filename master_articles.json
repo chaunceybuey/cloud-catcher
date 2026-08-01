@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+    "feed_name": "Douthat",
+    "title": "Why We Can\u2019t Stop Talking About \u2018The Odyssey\u2019",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
+    "content": "Christopher Nolan\u2019s film is perfectly calibrated for the culture war.",
+    "date": "2026-08-01T11:00:13",
+    "category": "NYT"
+  },
+  {
+    "id": "6a6ceb2646e03cf1beb7f940",
+    "feed_name": "Wired (Science)",
+    "title": "China\u2019s EV Market Is Booming. There\u2019s Just One Problem",
+    "author": "Andrew Liu",
+    "link": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/",
+    "content": "More EVs reaching the end of their life means more batteries to recycle. But waste management companies have yet to catch up to the new reality.",
+    "date": "2026-08-01T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "0a4c44f4623fb4b54c951f548e328527",
+    "feed_name": "The Atlantic",
+    "title": "The Migrants Who Know the Rules, and Evade Them",
+    "author": "Graeme Wood",
+    "link": "https://www.theatlantic.com/ideas/2026/08/ceuta-morocco-crisis-immigration/688149/",
+    "content": "A supreme-court decision helped cause the Ceuta disaster.",
+    "date": "2026-08-01T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/01/arts/dance/paul-sanasardo-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Paul Sanasardo, Creator of Intense (and Even Brutal) Dances, Dies at 97",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/13/arts/music/jack-white-sylvan-esso-songs.html",
     "content": "Jack White \u2014 who just presented his first exhibition of art in London \u2014 returns with a new single ahead of a new album in July.",
     "date": "2026-06-13T09:02:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/world/americas/world-cup-brazil-street-art.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Brazilians Revive a World Cup Ritual to Cheer on Their National Team",
-    "author": "Ana Ionova and Dado Galdieri",
-    "link": "https://www.nytimes.com/2026/06/13/world/americas/world-cup-brazil-street-art.html",
-    "content": "After years of dampened enthusiasm about the World Cup, Brazilians are excited about their national team again \u2014 and they\u2019re showing it by painting the streets.",
-    "date": "2026-06-13T09:02:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/movies/emily-blunt-disclosure-day-devil-wears-prada.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Emily Blunt on \u2018Disclosure Day\u2019 and Feeling Flappable Around Spielberg",
-    "author": "Kyle Buchanan",
-    "link": "https://www.nytimes.com/2026/06/13/movies/emily-blunt-disclosure-day-devil-wears-prada.html",
-    "content": "\u201cI remember being completely traumatized by \u2018Jaws\u2019 and thrilled by \u2018Indiana Jones,\u2019\u201d Emily Blunt said. \u201cSo it is a very surreal thing\u201d when Steven Spielberg wants to work with you.",
-    "date": "2026-06-13T09:01:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/movies/ai-tribeca-dreams-violets-iran.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Violence in Iran Was Real. The Film Showing It Was A.I.",
-    "author": "Malia Mendez and Matt Stevens",
-    "link": "https://www.nytimes.com/2026/06/13/movies/ai-tribeca-dreams-violets-iran.html",
-    "content": "The docudrama \u201cDreams of Violets\u201d premiered at the Tribeca Festival, a sign that some in Hollywood have warmed to the technology.",
-    "date": "2026-06-13T09:01:49",
     "category": "NYT"
   }
 ]
