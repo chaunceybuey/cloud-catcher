@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/08/20/close-calls-us-supreme-court-david-cole/",
+    "feed_name": "NYRB",
+    "title": "Close Calls",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/08/20/close-calls-us-supreme-court-david-cole/",
+    "content": "In the Supreme Court\u2019s recently concluded term, it showed that it is willing to constrain Trump but less willing to accept limits on its own authority.\n\nDelivered by PolitePaul service",
+    "date": "2026-08-01T14:18:54",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/01/dining/the-monthly-bake-heirloom-tomato-and-cheddar-pie.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Monthly Bake: Heirloom Tomato and Cheddar Pie",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/08/01/dining/the-monthly-bake-heirloom-tomato-and-cheddar-pie.html",
+    "content": "Vaughn Vreeland\u2019s heirloom tomato and cheddar pie.",
+    "date": "2026-08-01T14:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21666-open-canopy-open-artist-studio",
     "feed_name": "KMFA",
     "title": "Open Canopy: Open Artist Studio",
@@ -19978,25 +19998,5 @@
     "content": "Steven Spielberg\u2019s \u2018Disclosure Day\u2019 and the God-and-aliens debate.",
     "date": "2026-06-13T11:00:22",
     "category": "NYT"
-  },
-  {
-    "id": "6a1db97a1af38c2b401a5d28",
-    "feed_name": "Wired (Science)",
-    "title": "How Can Soccer Players Bend Their Shots in Midair?",
-    "author": "Rhett Allain",
-    "link": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/",
-    "content": "As World Cup action kicks off, we look at the physics of the beautiful game.",
-    "date": "2026-06-13T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "220eaba8eec54b56536a13712f789332",
-    "feed_name": "The Atlantic",
-    "title": "The Emperor Has No Ludus Magnus",
-    "author": "Cullen Murphy",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trump-gladiator-fight-ufc/687531/",
-    "content": "The most notable thing about President Trump\u2019s South Lawn fight is its curious lack of ambition.",
-    "date": "2026-06-13T10:00:00",
-    "category": "Magazines"
   }
 ]
