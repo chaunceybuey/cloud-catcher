@@ -130,6 +130,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/01/arts/dance/paul-sanasardo-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Paul Sanasardo, Creator of Intense (and Even Brutal) Dances, Dies at 97",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/08/01/arts/dance/paul-sanasardo-dead.html",
+    "content": "Paul Sanasardo in 1969. He acknowledged that he was interested in intensity: \u201cIt is at extremes that we reveal ourselves,\u201d he said.",
+    "date": "2026-08-01T09:02:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/01/arts/14-off-broadway-shows-and-1-festival-to-elevate-your-august.html",
+    "feed_name": "NYT (Arts)",
+    "title": "14 Off Broadway Shows (and 1 Festival) to Elevate Your August",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/08/01/arts/14-off-broadway-shows-and-1-festival-to-elevate-your-august.html",
+    "content": "Bridget Everett, Patti LuPone, Alex Moffat, Ben Folds and Michael R. Jackson are all slated to perform on New York City stages this month.",
+    "date": "2026-08-01T09:01:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/01/arts/music/shaboozey-ariana-grande-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Shaboozey, Ariana Grande: Songs to Know This week",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/08/01/arts/music/shaboozey-ariana-grande-songs.html",
+    "content": "Shaboozey duets with Kehlani on a song from his new album, \u201cThe Outlaw Cherie Lee & Other Western Tales.\u201d",
+    "date": "2026-08-01T09:01:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/01/arts/television/movies-tv-shows-august-2026-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Movies and TV Shows Coming to Disney+, AMC+, Apple TV and More in August",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/08/01/arts/television/movies-tv-shows-august-2026-streaming.html",
+    "content": "\u201cTed Lasso\u201d returns, and \u201cThe Shards\u201d and a documentary about Novak Djokovic also arrive.",
+    "date": "2026-08-01T09:01:39",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/01/arts/33-things-to-do-in-nyc-in-august.html",
+    "feed_name": "NYT (Arts)",
+    "title": "33 Things to Do in N.Y.C. in August",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/08/01/arts/33-things-to-do-in-nyc-in-august.html",
+    "content": "The swimming pool at Dry Dock Park on the Lower East Side of Manhattan in June. The city\u2019s outdoor pools are open to the public through Sept. 13.",
+    "date": "2026-08-01T09:00:47",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/01/movies/greta-lee-late-fame.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Greta Lee Has a New Appreciation for Martha Stewart",
+    "author": "Kathryn Shattuck",
+    "link": "https://www.nytimes.com/2026/08/01/movies/greta-lee-late-fame.html",
+    "content": "\u201cI mean, here she is, tending her garden in such a physical and athletic way in her short shorts,\u201d the actress said. \u201cThat\u2019s how I do it.\u201d",
+    "date": "2026-08-01T09:00:36",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/movies/100000011022345/can-spider-man-evolve-again-in-brand-new-day.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Can Spider-Man Evolve Again in \u2018Brand New Day\u2019?",
+    "author": "Alissa Wilkinson, Edward Vega and Gabriel Blanco",
+    "link": "https://www.nytimes.com/video/movies/100000011022345/can-spider-man-evolve-again-in-brand-new-day.html",
+    "content": "Our movie critic Alissa Wilkinson reviews \u201cSpider-Man: Brand New Day,\u201d in which the titular hero must grapple with his new, unwanted powers, along with the weight of the Marvel Cinematic Universe.",
+    "date": "2026-08-01T09:00:25",
+    "category": "NYT"
+  },
+  {
+    "id": "6a6be31fe1a397112767f642",
+    "feed_name": "Wired (Science)",
+    "title": "Astronomers Have Detected an Exomoon for the First Time",
+    "author": "Ritsuko Kawai",
+    "link": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
+    "content": "A discovery in a solar system 73 light-years from Earth is challenging definitions and \u201cblurring the lines between stars, planets, and moons.\u201d",
+    "date": "2026-08-01T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/01/arts/television/hannah-waddington-ted-lasso.html",
     "feed_name": "NYT (Arts)",
     "title": "On \u2018Ted Lasso,\u2019 Hannah Waddingham Is Ruthless. Off Camera, She\u2019s \u2018Quite a Goofy Nugget.\u2019",
@@ -19918,85 +19998,5 @@
     "content": "The docudrama \u201cDreams of Violets\u201d premiered at the Tribeca Festival, a sign that some in Hollywood have warmed to the technology.",
     "date": "2026-06-13T09:01:49",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/arts/television/ufc-white-house-fights.html",
-    "feed_name": "NYT (Arts)",
-    "title": "What to Know About the U.F.C. Fights at the White House",
-    "author": "Emmanuel Morgan",
-    "link": "https://www.nytimes.com/2026/06/13/arts/television/ufc-white-house-fights.html",
-    "content": "The U.F.C. fights at the White House are scheduled to begin at 8 p.m. Eastern time on Sunday and will be shown on Paramount+.",
-    "date": "2026-06-13T09:01:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/movies/100000010926518/spielberg-gets-paranoid-with-disclosure-day.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Spielberg Gets Paranoid With \u2018Disclosure Day\u2019",
-    "author": "Alissa Wilkinson, Edward Vega and Alex Gallitano",
-    "link": "https://www.nytimes.com/video/movies/100000010926518/spielberg-gets-paranoid-with-disclosure-day.html",
-    "content": "Disclosure Day shows that after 50 years Spielberg\u2019s fixations are the same, but his faith in the system has deteriorated.",
-    "date": "2026-06-13T09:00:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/arts/television/olivia-cooke-house-of-the-dragon.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Olivia Cooke of \u2018House of the Dragon\u2019 Shares Her Comfort Items",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/2026/06/13/arts/television/olivia-cooke-house-of-the-dragon.html",
-    "content": "She hates when the mugs on offer at a hotel are \u201cteeny-weeny.\u201d \u201cSo I just bring my own massive one,\u201d she said.",
-    "date": "2026-06-13T09:00:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/arts/television/captain-sandy-yawn-below-deck-mediterranean.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Captain Sandy Keeps It Moving on Bravo\u2019s \u2018Below Deck Mediterranean\u2019",
-    "author": "Johnny Diaz",
-    "link": "https://www.nytimes.com/2026/06/13/arts/television/captain-sandy-yawn-below-deck-mediterranean.html",
-    "content": "Capt. Sandy Yawn, a maritime industry veteran of nearly four decades, has built a following as the star of Bravo\u2019s \u201cBelow Deck Mediterranean.\u201d",
-    "date": "2026-06-13T09:00:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-lawrence-weschler-appreciation.html",
-    "feed_name": "NYT (Arts)",
-    "title": "David Hockney and the Bliss of Not Standing Still",
-    "author": "Lawrence Weschler",
-    "link": "https://www.nytimes.com/2026/06/13/arts/design/david-hockney-lawrence-weschler-appreciation.html",
-    "content": "\u201cAs important as the boys and the pools and the light,\u201d a memoirist writes, \u201cthe most important thing was becoming the driving.\u201d It would inspire an obsession with moving focus into the future.",
-    "date": "2026-06-13T09:00:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/12/arts/television/gene-shalit-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Gene Shalit, Film Critic Bristling With Hair and Puns, Dies at 100",
-    "author": "Robert D. McFadden",
-    "link": "https://www.nytimes.com/2026/06/12/arts/television/gene-shalit-dead.html",
-    "content": "Gene Shalit in 1980. With his handlebar mustache, bushy hair, black horn-rimmed glasses and extravagant bow ties, he was one of the nation\u2019s most recognizable characters.",
-    "date": "2026-06-13T00:16:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233269",
-    "feed_name": "Texas Tribune",
-    "title": "Where is screwworm in Texas? Track cases here.",
-    "author": "By Berenice Garcia, Jayme Lozano Carver and Stephen Simpson, graphics by Hien An Ngo",
-    "link": "https://feeds.texastribune.org/link/16799/17360310/screwworm-tracker-texas-cases-by-county",
-    "content": "People attend an informational meeting hosted by the Texas Animal Health Commission two days after the U.S. Department of Agriculture confirmed that New World screwworm was detected in a Texas calf in Zavala County, at Cotulla High School in Cotulla, Texas, U.S., June 5, 2026.  REUTERS/Kaylee Greenlee",
-    "date": "2026-06-12T22:28:08",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233246",
-    "feed_name": "Texas Tribune",
-    "title": "Lt. Gov. Dan Patrick says James Talarico will \u201cgo to hell\u201d for his view of the Bible",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17360232/dan-patrick-james-talarico-go-to-hell-texas-senate-gop-convention",
-    "content": "Lt. Gov. Dan Patrick speaks to delegates and attendees at the 2026 Texas State Republican Convention on Friday, June 12, 2026 in Houston.",
-    "date": "2026-06-12T21:05:01",
-    "category": "Texas"
   }
 ]
