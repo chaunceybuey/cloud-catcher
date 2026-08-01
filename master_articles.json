@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8822343#p8822343",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "jeam3131",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8822343#p8822343",
+    "content": "Vanguard sells orders with funds transferred to Fidelity used to show up next day as long as the order was placed before 4PM. I've noticed this isn't always the case anymore. Sometimes it takes two days for the funds to hit Fidelity.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=138392\">jeam3131</a> \u2014 Sat Aug 01, 2026 3:31 pm</p><hr />",
+    "date": "2026-08-01T20:31:09",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Spider-Man\u2019 Heads for $875 Million Global Opening, Defying Superhero Slump",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html",
     "content": "The actor Robbie Graham-Kunz speaking with fans outside the 14th Canadian Screen Awards in Toronto.",
     "date": "2026-06-13T14:41:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/dining/ben-mims-loves-an-erewhon-brownie.html",
-    "feed_name": "NYT (Food)",
-    "title": "Ben Mims Loves an Erewhon Brownie",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/06/13/dining/ben-mims-loves-an-erewhon-brownie.html",
-    "content": "Melissa Clark\u2019s easy buttermilk peach cobbler.",
-    "date": "2026-06-13T14:00:06",
     "category": "NYT"
   }
 ]
