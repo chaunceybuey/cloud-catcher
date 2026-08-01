@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/01/arts/television/hannah-waddington-ted-lasso.html",
+    "feed_name": "NYT (Arts)",
+    "title": "On \u2018Ted Lasso,\u2019 Hannah Waddingham Is Ruthless. Off Camera, She\u2019s \u2018Quite a Goofy Nugget.\u2019",
+    "author": "Eleanor Stanford",
+    "link": "https://www.nytimes.com/2026/08/01/arts/television/hannah-waddington-ted-lasso.html",
+    "content": "Waddingham is nothing like Rebecca, the character she plays on \u201cTed Lasso,\u201d she said, adding, \u201cI\u2019m the wayward sister of Rebecca.\u201d",
+    "date": "2026-08-01T04:01:08",
+    "category": "NYT"
+  },
+  {
     "id": "6a6cce158eeea7417536620b",
     "feed_name": "Wired (Science)",
     "title": "SpaceX\u2019s Falcon 9 Rocket Is About to Crash Into the Moon\u2014and It Could Be Visible From Earth",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17360232/dan-patrick-james-talarico-go-to-hell-texas-senate-gop-convention",
     "content": "Lt. Gov. Dan Patrick speaks to delegates and attendees at the 2026 Texas State Republican Convention on Friday, June 12, 2026 in Houston.",
     "date": "2026-06-12T21:05:01",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233240",
-    "feed_name": "Texas Tribune",
-    "title": "At GOP convention, Abbott vows to \u201cdemolish\u201d Democrats, calls for crackdown on H-1B visas and Sharia law",
-    "author": "By Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17360233/texas-gop-convention-greg-abbott-demolish-democrats-james-talarico-2027-legislature",
-    "content": "Gov. Greg Abbott speaks to delegates and attendees at the 2026 Texas Republican Convention on June 12, 2026, in Houston.",
-    "date": "2026-06-12T20:35:38",
     "category": "Texas"
   }
 ]
