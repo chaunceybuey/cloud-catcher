@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "5cbea5b694e5491b3f992bb2dace079b",
+    "feed_name": "The Atlantic",
+    "title": "The Two Great Threats to Truth",
+    "author": "Robert P. George",
+    "link": "https://www.theatlantic.com/ideas/2026/08/truth-relativism-civil-discourse/688112/",
+    "content": "Moral relativism and fanaticism may seem to have nothing in common, but they lead to the same result.",
+    "date": "2026-08-01T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
     "feed_name": "Douthat",
     "title": "Why We Can\u2019t Stop Talking About \u2018The Odyssey\u2019",
@@ -19988,15 +19998,5 @@
     "content": "The most notable thing about President Trump\u2019s South Lawn fight is its curious lack of ambition.",
     "date": "2026-06-13T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/arts/music/jack-white-sylvan-esso-songs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jack White, Sylvan Esso: Songs to Know This Week",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/06/13/arts/music/jack-white-sylvan-esso-songs.html",
-    "content": "Jack White \u2014 who just presented his first exhibition of art in London \u2014 returns with a new single ahead of a new album in July.",
-    "date": "2026-06-13T09:02:42",
-    "category": "NYT"
   }
 ]
