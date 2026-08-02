@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/02/dining/we-have-seafood-shack-at-home.html",
+    "feed_name": "NYT (Food)",
+    "title": "We Have Seafood Shack at Home",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/02/dining/we-have-seafood-shack-at-home.html",
+    "content": "Melissa Clark\u2019s baked fish and chips.",
+    "date": "2026-08-02T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/08/20/refusing-to-look-away-killing-spree-jorie-graham/",
     "feed_name": "NYRB",
     "title": "Refusing to Look Away",
@@ -19988,15 +19998,5 @@
     "content": "Graham Platner\u2019s defenders are playing into a dangerous stereotype about Americans who have fought in war.",
     "date": "2026-06-14T12:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/14/style/heathcliff-comic-strip-new-fans.html",
-    "feed_name": "NYT (Arts)",
-    "title": "He Made \u2018Heathcliff\u2019 Absurd",
-    "author": "Calum Marsh",
-    "link": "https://www.nytimes.com/2026/06/14/style/heathcliff-comic-strip-new-fans.html",
-    "content": "Peter Gallagher in his basement office, which he calls \u201cthe Dungeon.\u201d",
-    "date": "2026-06-14T11:55:21",
-    "category": "NYT"
   }
 ]
