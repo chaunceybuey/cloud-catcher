@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a6cc80346e03cf1beb7ee30",
+    "feed_name": "Wired (Science)",
+    "title": "There Are 2 Eclipses This August. Here\u2019s How to See Them",
+    "author": "Javier Carbajal",
+    "link": "https://www.wired.com/story/two-eclipses-august-how-to-see-them/",
+    "content": "Everything you need to know about the solar eclipse and lunar eclipse that will occur in August 2026.",
+    "date": "2026-08-02T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/02/arts/television/morgan-freeman-interview-lioness.html",
     "feed_name": "NYT (Arts)",
     "title": "Morgan Freeman Interview: On \u201cLioness\u201d and His Iconic Voice",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/14/arts/music/chicago-symphony-blood-donation.html",
     "content": "Margaret Wiegel, who gives blood as often as every three weeks, testing out Abbott\u2019s mixed-reality games while donating recently.",
     "date": "2026-06-14T09:01:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/14/arts/design/weaving-traditional-venezuela-margarita-mora.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Venezuela, a 91-Year-Old Weaver Sticks to Traditions",
-    "author": "Silvia Benedetti and Andrea Hern\u00e1ndez",
-    "link": "https://www.nytimes.com/2026/06/14/arts/design/weaving-traditional-venezuela-margarita-mora.html",
-    "content": "Though electric machines are now standard, the Venezuelan weaver Margarita Mora has clung to a mix of ancestral Indigenous and Spanish practices to create surprisingly modern work.",
-    "date": "2026-06-14T04:01:10",
     "category": "NYT"
   }
 ]
