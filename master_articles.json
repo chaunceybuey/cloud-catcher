@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/02/arts/television/morgan-freeman-interview-lioness.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Morgan Freeman Interview: On \u201cLioness\u201d and His Iconic Voice",
+    "author": "Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/08/02/arts/television/morgan-freeman-interview-lioness.html",
+    "content": "The 89-year-old actor returns for the third season of \u201cLioness,\u201d and he still can\u2019t understand the fuss over his voice.",
+    "date": "2026-08-02T09:01:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/arts/100000011045309/is-chess-a-form-of-art.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Is Chess a Form of Art?",
+    "author": "Deborah Solomon and Haimy Assefa",
+    "link": "https://www.nytimes.com/video/arts/100000011045309/is-chess-a-form-of-art.html",
+    "content": "Our art critic Deborah Solomon was one of 50 players to go up against a chess grandmaster for Marcel Duchamp\u2019s 139th birthday celebration at MoMA, exploring the game as an art form.",
+    "date": "2026-08-02T09:00:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/02/arts/death-of-a-salesman.html",
     "feed_name": "NYT (Arts)",
     "title": "A \u2018Death of a Salesman,\u2019 Edged in Darkness",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/14/arts/design/weaving-traditional-venezuela-margarita-mora.html",
     "content": "Though electric machines are now standard, the Venezuelan weaver Margarita Mora has clung to a mix of ancestral Indigenous and Spanish practices to create surprisingly modern work.",
     "date": "2026-06-14T04:01:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/14/arts/stephen-sondheim-song-sunday.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Listen to This Sondheim Masterpiece and It Will Bring Order to Your Day",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/06/14/arts/stephen-sondheim-song-sunday.html",
-    "content": "Stephen Sondheim\u2019s masterpiece, \u201cSunday in the Park With George,\u201d contains a song capable of making order out of mayhem. Listen to hear how he did it.",
-    "date": "2026-06-14T04:01:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/theater/dito-van-reigersberg-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Dito van Reigersberg, Avant-Garde and Drag Virtuoso, Dies at 53",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/06/13/theater/dito-van-reigersberg-dead.html",
-    "content": "A co-founder of Pig Iron Theater Company, known for its surreal productions, he also gave energetic performances as his alter ego, Martha Graham Cracker.",
-    "date": "2026-06-13T19:32:47",
     "category": "NYT"
   }
 ]
