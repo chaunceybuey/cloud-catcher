@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "e431882d-53e4-4e10-8540-bdd135113832",
+    "feed_name": "Economist",
+    "title": "What will Kevin Warsh do if America\u2019s economy breaks?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
+    "content": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring",
+    "date": "2026-08-02T16:12:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/02/dining/we-have-seafood-shack-at-home.html",
     "feed_name": "NYT (Food)",
     "title": "We Have Seafood Shack at Home",
@@ -19988,15 +19998,5 @@
     "content": "The word \u201cperfect\u201d turns up a lot in the comments on this new spicy-sweet dish.",
     "date": "2026-06-14T13:00:10",
     "category": "NYT"
-  },
-  {
-    "id": "fe4ea81068f60994b849847bc13893ad",
-    "feed_name": "The Atlantic",
-    "title": "The \u2018Broken Veteran\u2019 Excuse",
-    "author": "Mike Nelson",
-    "link": "https://www.theatlantic.com/ideas/2026/06/graham-platner-veteran-defense/687542/",
-    "content": "Graham Platner\u2019s defenders are playing into a dangerous stereotype about Americans who have fought in war.",
-    "date": "2026-06-14T12:00:00",
-    "category": "Magazines"
   }
 ]
