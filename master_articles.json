@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/02/arts/death-of-a-salesman.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A \u2018Death of a Salesman,\u2019 Edged in Darkness",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/08/02/arts/death-of-a-salesman.html",
+    "content": "Every Broadway production of \u201cDeath of a Salesman\u201d has its distinguishing features. Willy Loman\u2019s Chevrolet is a powerful character in the latest production.",
+    "date": "2026-08-02T04:01:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8822553#p8822553",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/13/theater/dito-van-reigersberg-dead.html",
     "content": "A co-founder of Pig Iron Theater Company, known for its surreal productions, he also gave energetic performances as his alter ego, Martha Graham Cracker.",
     "date": "2026-06-13T19:32:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/13/arts/houston-museum-black-art-vandalized.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Vandals Damage Work by Black Artist at Houston Museum, Officials Say",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/06/13/arts/houston-museum-black-art-vandalized.html",
-    "content": "The damaged painting, \u201cMan in the Garden\u201d by the artist Clarence Heyward, was part of an exhibition called \u201cEden.\u201d",
-    "date": "2026-06-13T18:07:51",
     "category": "NYT"
   }
 ]
