@@ -100,6 +100,16 @@
     "category": "Magazines"
   },
   {
+    "id": "b62b48e73126333e66699c9068dfc858",
+    "feed_name": "The Atlantic",
+    "title": "I Can\u2019t Be the Only One Who Loves Dulles",
+    "author": "Adrienne LaFrance",
+    "link": "https://www.theatlantic.com/ideas/2026/08/sorry-haters-dulles-rules/688139/",
+    "content": "A plan to renovate one of America\u2019s most hated airports will surely be popular\u2014but the airport is actually fine the way it is.",
+    "date": "2026-08-02T15:44:39",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/02/dining/we-have-seafood-shack-at-home.html",
     "feed_name": "NYT (Food)",
     "title": "We Have Seafood Shack at Home",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/14/dining/for-the-best-strawberry-pie-roast-those-berries.html",
     "content": "Genevieve Ko\u2019s rhubarb and roasted strawberry pie.",
     "date": "2026-06-14T15:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/14/dining/harissa-apricot-chicken-done-in-20-minutes.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Harissa Apricot Chicken, Done in 20 Minutes",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/06/14/dining/harissa-apricot-chicken-done-in-20-minutes.html",
-    "content": "The word \u201cperfect\u201d turns up a lot in the comments on this new spicy-sweet dish.",
-    "date": "2026-06-14T13:00:10",
     "category": "NYT"
   }
 ]
