@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a6a7cd140acee2ccd995428",
+    "feed_name": "Wired (Science)",
+    "title": "The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos",
+    "author": "Jay Bennett",
+    "link": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
+    "content": "From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists new data to explore\u2014and theories to build out.",
+    "date": "2026-08-02T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "0ea09da4bfa20c19155ba03257f75696",
+    "feed_name": "The Atlantic",
+    "title": "Taking Care of the Father Who Broke My Heart",
+    "author": "Jenisha Watts",
+    "link": "https://www.theatlantic.com/ideas/2026/08/father-family-old-age/688113/",
+    "content": "I barely knew him. But in the last years of his life, he needed me.",
+    "date": "2026-08-02T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a6cc80346e03cf1beb7ee30",
     "feed_name": "Wired (Science)",
     "title": "There Are 2 Eclipses This August. Here\u2019s How to See Them",
@@ -19978,25 +19998,5 @@
     "content": "President Donald Trump says a secret mission moved 100 million barrels of oil through the blocked Strait of Hormuz. That number is impossible to verify.",
     "date": "2026-06-14T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233324",
-    "feed_name": "Texas Tribune",
-    "title": "At Texas GOP convention, friction overshadows talk of unity",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17360809/texas-gop-convention-houston-2026",
-    "content": "Attendees cheer as Gov. Greg Abbott speaks at the George R. Brown Convention Center in Houston during the  Texas GOP Convention on June 12, 2026.",
-    "date": "2026-06-14T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/14/arts/music/chicago-symphony-blood-donation.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Coming to a Blood Donation Center Near You: the Chicago Symphony",
-    "author": "Hannah Edgar",
-    "link": "https://www.nytimes.com/2026/06/14/arts/music/chicago-symphony-blood-donation.html",
-    "content": "Margaret Wiegel, who gives blood as often as every three weeks, testing out Abbott\u2019s mixed-reality games while donating recently.",
-    "date": "2026-06-14T09:01:05",
-    "category": "NYT"
   }
 ]
