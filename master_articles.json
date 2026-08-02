@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/02/dining/five-fast-recipes-that-sing-of-summer.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Five Fast Recipes that Sing of Summer",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/08/02/dining/five-fast-recipes-that-sing-of-summer.html",
+    "content": "Starting with Ali Slagle\u2019s pork tenderloin with corn, peaches and lime.",
+    "date": "2026-08-02T13:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "6a6a7cd140acee2ccd995428",
     "feed_name": "Wired (Science)",
     "title": "The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/06/mifepristone-abortion-pill-access-impossible/687519/",
     "content": "Louisiana\u2019s case against the FDA is not just about one drug.",
     "date": "2026-06-14T11:31:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a2c7d93a150560dc8a57d7d",
-    "feed_name": "Wired (Science)",
-    "title": "The Strait of Hormuz Has Been Closed for 100 Days. Why Aren\u2019t Oil Prices Higher?",
-    "author": "Carla Sertin",
-    "link": "https://www.wired.com/story/strait-of-hormuz-closed-100-days-why-arent-oil-prices-higher/",
-    "content": "President Donald Trump says a secret mission moved 100 million barrels of oil through the blocked Strait of Hormuz. That number is impossible to verify.",
-    "date": "2026-06-14T10:00:00",
     "category": "Magazines"
   }
 ]
