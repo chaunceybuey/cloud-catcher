@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/02/arts/music/ariana-grande-break-world-tour.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ariana Grande to Step Away From Public Life After Tour Concludes",
+    "author": "Alexandra E. Petri",
+    "link": "https://www.nytimes.com/2026/08/02/arts/music/ariana-grande-break-world-tour.html",
+    "content": "Ariana Grande at the American Film Institute Awards Luncheon in Los Angeles in January. The singer announced on Sunday that she would be taking \u201ca much-deserved break from public-facing work and appearances,\u201d when her tour ends next month.",
+    "date": "2026-08-02T23:34:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/02/arts/hadestown-geno-segers-transgender-departs.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Hadestown\u2019 Parts Ways With Geno Segers After Transgender Comments Surface",
@@ -19988,15 +19998,5 @@
     "content": "Nowhere in the developing world has done so well out of the past year",
     "date": "2026-06-14T17:14:46",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jane Yolen, Whose Books for Children Drew on Everyday Life, Dies at 87",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/06/14/books/jane-yolen-dead.html",
-    "content": "Jane Yolen in 1993. Her best known books include \u201cOwl Moon,\u201d which won the Caldecott Medal in 1988, and \u201cThe Devil\u2019s Arithmetic\u201d (1988), about a Jewish girl who travels back in time to the Holocaust.",
-    "date": "2026-06-14T16:44:42",
-    "category": "NYT"
   }
 ]
