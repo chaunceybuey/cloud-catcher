@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a70da3a16b60ca8cf42da95",
+    "feed_name": "Wired (Science)",
+    "title": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases",
+    "author": "Javier Carbajal",
+    "link": "https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/",
+    "content": "The risk of more debris hitting the moon is on the rise as the space race heats up.",
+    "date": "2026-08-03T19:58:23",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Mary de Rachewiltz, Ezra Pound\u2019s Daughter and Defender, Dies at 101",
@@ -19986,16 +19996,6 @@
     "author": "ByAlex Ross",
     "link": "https://www.newyorker.com/magazine/2026/06/22/jurgen-habermas-desperate-fight-for-democracy",
     "content": "The great German philosopher, who died in March, understood how much depended on a principled public sphere.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "92e757b905a8b8b5e992a69f958d7c35",
-    "feed_name": "New Yorker",
-    "title": "Inside the Ludicrous, Deadly Serious Plan to Take Over Greenland",
-    "author": "ByBen Taub",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/inside-the-ludicrous-deadly-serious-plan-to-take-over-greenland",
-    "content": "\u201cWe want Greenland,\u201d Trump said. Four men sprang into action to make fantasy a reality.",
     "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
