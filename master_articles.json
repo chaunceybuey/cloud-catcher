@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/will-ferrell-molly-shannon-the-hawk-pizza-interview",
+    "feed_name": "NYT (Food)",
+    "title": "Will Ferrell and Molly Shannon on \u2018The Hawk,\u2019 Pizza, Family and More",
+    "author": "Victoria Chen",
+    "link": "https://cooking.nytimes.com/article/will-ferrell-molly-shannon-the-hawk-pizza-interview",
+    "content": "The longtime \u201cSaturday Night Live\u201d co-stars stopped by the New York Times kitchen studio to take on the Pizza Interview.",
+    "date": "2026-08-03T18:48:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/summer-favorites-smores-hot-dogs-bbq-sauce",
     "feed_name": "NYT (Food)",
     "title": "Barbecue Sauce, Hot Dogs, Grilled Chicken and More: 13 Easy Ways to Level Up Summer Favorites",
@@ -19986,16 +19996,6 @@
     "author": "ByGary Sernovitz",
     "link": "https://www.newyorker.com/magazine/2026/06/22/ken-griffins-billions-and-billions",
     "content": "The hedge-fund titan is an unabashed big spender\u2014from pi\u00e8ds-a-terre to politics.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "66415bc2fe126b895ca2c47b26f6575c",
-    "feed_name": "New Yorker",
-    "title": "Meet Russ Freud",
-    "author": "ByIan Frazier",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/meet-russ-freud",
-    "content": "Under its new director, Bob\u2019s Insane Asylum is seeking residents out rather than just sitting back and waiting for them.",
     "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
