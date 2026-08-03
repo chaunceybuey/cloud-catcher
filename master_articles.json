@@ -370,6 +370,26 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=238596",
+    "feed_name": "Texas Tribune",
+    "title": "They\u2019ve been hit by two major floods in two years. But Kerr County residents are staying.",
+    "author": "By Emily Foxhall, graphics by\u00a0Dan Keemahill",
+    "link": "https://feeds.texastribune.org/link/16799/17402420/texas-two-floods-kerr-county-rebuilds",
+    "content": "Joan Connor and David Stearns outside their home in Hunt that flooded on July 4, 2025 and again this year on July 16.",
+    "date": "2026-08-03T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238570",
+    "feed_name": "Texas Tribune",
+    "title": "Flock license plate cameras are surging in Texas. So is an anti-surveillance backlash.",
+    "author": "By Sam Shaw,\u00a0The Waco Bridge",
+    "link": "https://feeds.texastribune.org/link/16799/17402421/texas-flock-cameras-law-enforcement-license-plate-readers",
+    "content": "A Flock license plate reader operated by Hewitt city government records vehicles that drive by on Panther Way in Hewitt on July 28, 2026.",
+    "date": "2026-08-03T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/03/arts/dance/misty-copeland-ballet-festival-joyce-theater.html",
     "feed_name": "NYT (Arts)",
     "title": "Misty Copeland on Her Joyce Theater Festival and Ballet Philosophy",
@@ -19976,26 +19996,6 @@
     "author": "ByJustin Chang",
     "link": "https://www.newyorker.com/magazine/2026/06/22/disclosure-day-movie-review",
     "content": "His new alien thriller has shades of \u201cClose Encounters of the Third Kind,\u201d \u201cMinority Report,\u201d even \u201cThe Post\u201d\u2014but the retreads yield diminishing returns.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "e5fbc86882bd830f62f1d8308b573150",
-    "feed_name": "New Yorker",
-    "title": "\u201cSectioned\u201d",
-    "author": "ByMeghan O\u2019Rourke",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/sectioned-meghan-orourke-poem",
-    "content": "\u201cI wanted to sleep, / having been cut in half; / having been turned from one to two.\u201d",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "7e1423980813d91301c66fec43997877",
-    "feed_name": "New Yorker",
-    "title": "\u201cAmerican Pokeberry\u201d",
-    "author": "ByJanuary Gill O\u2019Neil",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/american-pokeberry-january-gill-oneil-poem",
-    "content": "\u201cThrashers and cardinals dart / through the brush, through / the season.\u201d",
     "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
