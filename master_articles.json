@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/summer-favorites-smores-hot-dogs-bbq-sauce",
+    "feed_name": "NYT (Food)",
+    "title": "Barbecue Sauce, Hot Dogs, Grilled Chicken and More: 13 Easy Ways to Level Up Summer Favorites",
+    "author": "Ali Slagle",
+    "link": "https://cooking.nytimes.com/article/summer-favorites-smores-hot-dogs-bbq-sauce",
+    "content": "A small, simple adjustment to how you grill hot dogs can significantly change their flavor.",
+    "date": "2026-08-03T17:43:51",
+    "category": "NYT"
+  },
+  {
+    "id": "398b2845-23bd-46db-94d3-c8869181fa79",
+    "feed_name": "Economist",
+    "title": "How China gets better bang for its buck than America in AI",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
+    "content": "Its investment lags far behind America\u2019s. Its models do not",
+    "date": "2026-08-03T17:15:13",
+    "category": "Magazines"
+  },
+  {
     "id": "1e50a82ad1ed50227899c688fcbde26b",
     "feed_name": "LRB",
     "title": "Helen of Troy",
@@ -19976,26 +19996,6 @@
     "author": "ByIan Frazier",
     "link": "https://www.newyorker.com/magazine/2026/06/22/meet-russ-freud",
     "content": "Under its new director, Bob\u2019s Insane Asylum is seeking residents out rather than just sitting back and waiting for them.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "a42ea78f4041f4c44b4df46466add24f",
-    "feed_name": "New Yorker",
-    "title": "\u201cMutter\u201d",
-    "author": "ByEsther Yi",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/mutter-fiction-esther-yi",
-    "content": "I tell my mother that sometimes it feels like an emergency: she must know that no one else can ever be what she is for me.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a3731a1b81d3e0b3f47d4ae66462f29",
-    "feed_name": "New Yorker",
-    "title": "How Did American Christianity End Up Like This?",
-    "author": "ByMichael Luo",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/the-church-that-won-america",
-    "content": "History helps explain the particular faith that now rules our religious marketplace.",
     "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
