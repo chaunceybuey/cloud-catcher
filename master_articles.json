@@ -100,6 +100,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=238695",
+    "feed_name": "Texas Tribune",
+    "title": "Former U.S. Rep. Kay Granger dies at 83",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17400319/kay-granger-texas-congresswoman-obituary",
+    "content": "U.S. Rep. Kay Granger, R-Fort Worth, speaks to supporters at a Blue Mesa restaurant in Fort Worth as the 2020 primary election results trickled in on March 3, 2020.",
+    "date": "2026-08-03T02:02:22",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/02/arts/music/ariana-grande-break-world-tour.html",
     "feed_name": "NYT (Arts)",
     "title": "Ariana Grande to Step Away From Public Life After Tour Concludes",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/14/business/media/disclosure-day-steven-spielberg-box-office.html",
     "content": "Universal Pictures\u2019 promotional campaign for \u201cDisclosure Day\u201d sought to remind summertime audiences that Steven Spielberg was capable of delivering a major event movie.",
     "date": "2026-06-14T18:38:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/14/arts/television/tyra-banks-netflix-lawsuit-defamation-antm.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tyra Banks Sues Netflix for Defamation Over \u2018America\u2019s Next Top Model\u2019 Docuseries",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/06/14/arts/television/tyra-banks-netflix-lawsuit-defamation-antm.html",
-    "content": "The lawsuit claims that producers used roughly 16 minutes of Ms. Banks\u2019s three-and-a-half-hour interview to present a false narrative stripped of context.",
-    "date": "2026-06-14T17:35:29",
     "category": "NYT"
   }
 ]
