@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mary de Rachewiltz, Ezra Pound\u2019s Daughter and Defender, Dies at 101",
+    "author": "Trip Gabriel",
+    "link": "https://www.nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
+    "content": "Mary de Rachewiltz in London in 2004, unveiling a plaque at the house where her father, the poet Ezra Pound, lived from 1909 to 1914.",
+    "date": "2026-08-03T19:12:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/will-ferrell-molly-shannon-the-hawk-pizza-interview",
     "feed_name": "NYT (Food)",
     "title": "Will Ferrell and Molly Shannon on \u2018The Hawk,\u2019 Pizza, Family and More",
@@ -19986,16 +19996,6 @@
     "author": "ByBen Taub",
     "link": "https://www.newyorker.com/magazine/2026/06/22/inside-the-ludicrous-deadly-serious-plan-to-take-over-greenland",
     "content": "\u201cWe want Greenland,\u201d Trump said. Four men sprang into action to make fantasy a reality.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "2d18aac4f352a75e3a1300f7dc5aefc6",
-    "feed_name": "New Yorker",
-    "title": "Ken Griffin\u2019s Billions and Billions",
-    "author": "ByGary Sernovitz",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/ken-griffins-billions-and-billions",
-    "content": "The hedge-fund titan is an unabashed big spender\u2014from pi\u00e8ds-a-terre to politics.",
     "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
