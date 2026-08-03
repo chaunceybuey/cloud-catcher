@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/03/dining/this-crunchy-cabbage-laden-rice-salad-is-always-good.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Crunchy, Cabbage-Laden Rice Salad Is Always Good",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/03/dining/this-crunchy-cabbage-laden-rice-salad-is-always-good.html",
+    "content": "Kayla Hoang\u2019s toasted coconut rice salad.",
+    "date": "2026-08-03T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "87584b5c7ff161bb86ec73219ec432cc",
     "feed_name": "LRB",
     "title": "Manchesterisms",
@@ -19986,16 +19996,6 @@
     "author": "ByAlex Ross",
     "link": "https://www.newyorker.com/magazine/2026/06/22/gustavo-dudamel-and-james-conlon-bid-la-goodbye",
     "content": "Two progressive conductors depart, but Frank Gehry\u2019s legacy to the city is growing.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "d951d5fe49ae258dba40384507e1d7c6",
-    "feed_name": "New Yorker",
-    "title": "The Hell-Raising Rocker Who Conquered Country Radio",
-    "author": "ByKelefa Sanneh",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/koe-wetzel-music-review",
-    "content": "Koe Wetzel, who broke out with a song about driving drunk to Taco Bell, reintroduces himself on a new album, \u201cThe Night Champion.\u201d",
     "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
