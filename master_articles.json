@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/03/movies/zendaya-tom-holland-spiderman.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Tom Holland and Zendaya Helped Draw Gen Z Crowds to \u2018Spider-Man: Brand New Day\u2019",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/08/03/movies/zendaya-tom-holland-spiderman.html",
+    "content": "The couple helped draw young audiences to \u201cSpider-Man: Brand New Day\u201d and \u201cThe Odyssey\u201d on a historic Hollywood weekend.",
+    "date": "2026-08-03T21:41:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/03/arts/dance/dudley-laufman-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dudley Laufman, Eminent Folk Dance Caller, Dies at 95",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/08/03/arts/dance/dudley-laufman-dead.html",
+    "content": "A farmer, poet and musician, he revitalized contra dancing in the 1960s and \u201970s, bringing the tradition to a new generation.",
+    "date": "2026-08-03T21:22:22",
+    "category": "NYT"
+  },
+  {
     "id": "1fb188dd36c173d82965b914e2a6973f",
     "feed_name": "LRB",
     "title": "Claudia Rankine & Victoria Adukwei Bulley: Triage",
@@ -19976,26 +19996,6 @@
     "author": "ByRuth Marcus",
     "link": "https://www.newyorker.com/magazine/2026/06/22/why-todd-blanche-should-not-be-attorney-general",
     "content": "In a Senate that took its constitutional role seriously, Blanche would not win confirmation a second time.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "d49d0d879116911e74b9049602130ced",
-    "feed_name": "New Yorker",
-    "title": "On the Front Lines of Delaney Hall, ICE\u2019s Newark Prison",
-    "author": "ByIan Frazier",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/on-the-front-lines-of-delaney-hall-ices-newark-prison",
-    "content": "The detention center was the first new facility to open under the second Trump Administration. Protesters won\u2019t stop until it is shut down.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "af285e97b464c1188472aa6c67ab23f9",
-    "feed_name": "New Yorker",
-    "title": "Melanie Hamrick Is Still On Pointe",
-    "author": "ByBob Morris",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/melanie-hamrick-is-still-on-pointe",
-    "content": "Since retiring from the American Ballet Theatre, the dancer has expanded her pursuits\u2014writing romance books and choreographing shows with the help of her fianc\u00e9, Mick Jagger.",
     "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
