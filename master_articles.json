@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/03/arts/television/the-shards-tv-to-watch-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Shards,\u2019 and 7 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/08/03/arts/television/the-shards-tv-to-watch-this-week.html",
+    "content": "Igby Rigney and Kaia Gerber in \u201cThe Shards.\u201d",
+    "date": "2026-08-03T05:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/02/arts/television/house-of-the-dragon-recap-season-3-episode-7.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018House of the Dragon\u2019 Season 3, Episode 7 Recap: Wild Animals",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/14/arts/dance/the-knicks-spontaneous-dancing.html",
     "content": "The Knicks turned New York City into a stage, where movement is a catalyst for untainted happiness.",
     "date": "2026-06-14T19:46:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/14/business/media/disclosure-day-steven-spielberg-box-office.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Disclosure Day\u2019 Ends Spielberg\u2019s Summer Box Office Drought",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/06/14/business/media/disclosure-day-steven-spielberg-box-office.html",
-    "content": "Universal Pictures\u2019 promotional campaign for \u201cDisclosure Day\u201d sought to remind summertime audiences that Steven Spielberg was capable of delivering a major event movie.",
-    "date": "2026-06-14T18:38:14",
     "category": "NYT"
   }
 ]
