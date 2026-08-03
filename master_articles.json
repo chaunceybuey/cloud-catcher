@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/02/arts/television/house-of-the-dragon-recap-season-3-episode-7.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018House of the Dragon\u2019 Season 3, Episode 7 Recap: Wild Animals",
+    "author": "Sean T. Collins",
+    "link": "https://www.nytimes.com/2026/08/02/arts/television/house-of-the-dragon-recap-season-3-episode-7.html",
+    "content": "From left, Larys, Aegon and Tyland (Matthew Needham, Tom Glynn-Carney and Jefferson Hall) thought their gooses were cooked. They didn\u2019t reckon on the return of Sunfyre.",
+    "date": "2026-08-03T02:08:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/02/arts/music/ariana-grande-break-world-tour.html",
     "feed_name": "NYT (Arts)",
     "title": "Ariana Grande to Step Away From Public Life After Tour Concludes",
@@ -19988,15 +19998,5 @@
     "content": "The lawsuit claims that producers used roughly 16 minutes of Ms. Banks\u2019s three-and-a-half-hour interview to present a false narrative stripped of context.",
     "date": "2026-06-14T17:35:29",
     "category": "NYT"
-  },
-  {
-    "id": "e2ab9b18-c173-4e3e-8d4c-3a11c543b260",
-    "feed_name": "Economist",
-    "title": "Does Donald Trump make Latin America a good bet?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/14/does-donald-trump-make-latin-america-a-good-bet",
-    "content": "Nowhere in the developing world has done so well out of the past year",
-    "date": "2026-06-14T17:14:46",
-    "category": "Magazines"
   }
 ]
