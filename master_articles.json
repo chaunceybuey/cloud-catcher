@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-review-bar-chucho-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Bar Chucho in NYC",
+    "author": "Ryan Sutton",
+    "link": "https://www.nytimes.com/2026/08/04/dining/restaurant-review-bar-chucho-nyc.html",
+    "content": "Bar Chucho \u2014 from the team behind the Michelin-starred Mexican standout Corima \u2014 overachieves but stays true to its purpose. And there\u2019s a great burger at a fair price.",
+    "date": "2026-08-04T20:00:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238870",
+    "feed_name": "Texas Tribune",
+    "title": "Arrests made, room cleared during chaotic Tarrant County meeting on voting site cuts",
+    "author": "By\u00a0Cecilia Lenzen,\u00a0Fort Worth Report",
+    "link": "https://feeds.texastribune.org/link/16799/17403426/texas-tarrant-county-voting-polling-sites-closed-meeting",
+    "content": "Lon Burnam, former Texas House representative, is arrested during a Tarrant County Commissioners Court meeting Aug. 4, 2026, in Fort Worth.",
+    "date": "2026-08-04T19:46:28",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/arts/music/amplifier-newsletter-summer-way-machine-lolitah.html",
     "feed_name": "NYT (Arts)",
     "title": "Songs for the Return of Lizard Season \ud83e\udd8e\u2600\ufe0f",
@@ -19978,25 +19998,5 @@
     "content": "At 21, Speed has pushed the limits of streaming by transforming a distinctly solo format into a global group chat. His song for this year\u2019s World Cup is becoming the tournament\u2019s unofficial anthem.",
     "date": "2026-06-16T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19314",
-    "feed_name": "Stratechery",
-    "title": "Fox Buys Roku, The Problem With Fox\u2019s Smart Strategy, Streaming That Works",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works/",
-    "content": "<p>The market hates Fox's acquisition of Roku, but the company is trading extraction from rights holders for leverage as a renter.</p>",
-    "date": "2026-06-16T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233406",
-    "feed_name": "Texas Tribune",
-    "title": "No fat to trim: Texas beef industry profits eaten away by new threat \u2014 the screwworm",
-    "author": "Paul Cobler and Jayme Lozano Carver",
-    "link": "https://feeds.texastribune.org/link/16799/17361939/texas-cattle-beef-prices-screwworm-inflation",
-    "content": "The Bradley 3 Ranch on June 14, 2026 near Memphis, Texas. It operates on 11,500 acres.",
-    "date": "2026-06-16T10:00:00",
-    "category": "Texas"
   }
 ]
