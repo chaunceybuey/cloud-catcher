@@ -90,6 +90,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-news-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Derby Club Gives the Former Neary\u2019s Space a Touch of Elegance",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/08/04/dining/restaurant-news-nyc.html",
+    "content": "Camp 5 Acres channels Boy Scout vibes, sourdough bread from Mark Bittman and more restaurant news.",
+    "date": "2026-08-04T17:08:15",
+    "category": "NYT"
+  },
+  {
+    "id": "9bb24360c0927c13ebc760fa8bdb1c3a",
+    "feed_name": "The Atlantic",
+    "title": "A Trojan Horse Is Supposed to Have Humans Inside It",
+    "author": "Emily Wilson",
+    "link": "https://www.theatlantic.com/ideas/2026/08/odyssey-movie-trojan-horse/688168/",
+    "content": "Christopher Nolan\u2019sOdysseyis full of contradictions about deceit and violence.",
+    "date": "2026-08-04T16:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/arts/dance/venice-dance-biennale-diana-vishneva.html",
     "feed_name": "NYT (Arts)",
     "title": "Diana Vishneva\u2019s Quiet Return in Venice Makes a Powerful Statement",
@@ -108,6 +128,16 @@
     "content": "",
     "date": "2026-08-04T14:19:18",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238837",
+    "feed_name": "Texas Tribune",
+    "title": "Professors sue Texas A&M System over limits on teaching race, gender",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17403330/texas-am-sued-race-gender-restrictions-professors",
+    "content": "The Academic Building sits on the Texas A&amp;M University campus in College Station on Nov. 13, 2025.",
+    "date": "2026-08-04T14:18:20",
+    "category": "Texas"
   },
   {
     "id": "e43448b030d124b574b153ce57bc8e2a",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/16/arts/dance/sharleen-chidiac-punk-musical.html",
     "content": "Sharleen Chidiac, a choreographer and the effervescent lead singer of Voyeur, looks at ambition and freedom in her hybrid new work: a punk musical.",
     "date": "2026-06-16T09:02:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/16/dining/restaurant-review-albi-washington-dc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Four Stars for Albi in Washington D.C.",
-    "author": "Ligaya Mishan and Yuvraj Khanna",
-    "link": "https://www.nytimes.com/2026/06/16/dining/restaurant-review-albi-washington-dc.html",
-    "content": "At his Palestinian restaurant in Washington, D.C., the chef Michael Rafidi is telling a vivid story through bread and fire.",
-    "date": "2026-06-16T09:02:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/16/arts/music/ercole-amante-antonia-bembo-paris-opera.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Baroque Opera Written By a Female Composer Feels Ripped From the Headlines",
-    "author": "Roslyn Sulcas",
-    "link": "https://www.nytimes.com/2026/06/16/arts/music/ercole-amante-antonia-bembo-paris-opera.html",
-    "content": "The Paris Opera production of \u201cErcole Amante\u201d (\u201cHercules in Love\u201d), a rediscovered 1707 work by the female composer Antonia Bembo, leans into contemporary themes of coercion and consent.",
-    "date": "2026-06-16T09:01:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/16/arts/music/best-classical-music-opera-2026.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Best Classical Music and Opera of 2026 So Far",
-    "author": "Joshua Barone",
-    "link": "https://www.nytimes.com/2026/06/16/arts/music/best-classical-music-opera-2026.html",
-    "content": "Kaija Saariaho\u2019s final opera, a premiere by Ellen Reid and a multitasking performance by Barbara Hannigan are among the highlights.",
-    "date": "2026-06-16T09:01:44",
     "category": "NYT"
   }
 ]
