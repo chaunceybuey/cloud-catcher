@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/04/arts/television/late-night-trump-iran-deal.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Reacts to Trump\u2019s Latest Iran Deal Comments",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/08/04/arts/television/late-night-trump-iran-deal.html",
+    "content": "\u201cI\u2019m not saying that they\u2019re out of ideas, but the best option they came up with was pinning the war on Dr. Fauci,\u201d Jimmy Fallon said.",
+    "date": "2026-08-04T05:20:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html",
     "feed_name": "NYT (Arts)",
     "title": "Cambridge Professor\u2019s Jason Arday\u2019s Work Challenged Ahead of Book Launch",
@@ -19987,16 +19997,6 @@
     "link": "https://www.eventbrite.co.uk/e/sara-baume-emily-labarge-opening-night-tickets-1988101049758",
     "content": "",
     "date": "2026-06-15T13:17:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "bc6e93c9d0da9002f789b18f03c84d72",
-    "feed_name": "New Yorker",
-    "title": "A Wondrous Array of Boundary Pushers at SummerStage",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/a-wondrous-array-of-boundary-pushers-at-summerstage",
-    "content": "Also: Lucy Sante\u2019s poignant humor, American Ballet Theatre\u2019s summer season, the incisive melodrama of Satyajit Ray, and more.",
-    "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
 ]
