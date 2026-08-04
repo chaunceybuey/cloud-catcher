@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Cambridge Professor\u2019s Jason Arday\u2019s Work Challenged Ahead of Book Launch",
+    "author": "Jennifer Schuessler and Alexandra Alter",
+    "link": "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html",
+    "content": "Jason Arday",
+    "date": "2026-08-04T00:08:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/03/movies/zendaya-tom-holland-spiderman.html",
     "feed_name": "NYT (Arts)",
     "title": "How Tom Holland and Zendaya Helped Draw Gen Z Crowds to \u2018Spider-Man: Brand New Day\u2019",
@@ -19986,16 +19996,6 @@
     "author": "ByHelen Rosner",
     "link": "https://www.newyorker.com/culture/the-food-scene/all-that-glimmers-at-ambassadors-clubhouse",
     "content": "Theatricality goes only so far at the ambitious new restaurant from the group behind London\u2019s Gymkhana.",
-    "date": "2026-06-15T13:16:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "dc6061a763b1e0fb4a1d171442041e97",
-    "feed_name": "New Yorker",
-    "title": "Why Todd Blanche Should Not Be Attorney General",
-    "author": "ByRuth Marcus",
-    "link": "https://www.newyorker.com/magazine/2026/06/22/why-todd-blanche-should-not-be-attorney-general",
-    "content": "In a Senate that took its constitutional role seriously, Blanche would not win confirmation a second time.",
     "date": "2026-06-15T13:16:49",
     "category": "Magazines"
   }
