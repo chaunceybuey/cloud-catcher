@@ -110,6 +110,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=238887",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: The Flock camera freakout",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17403556/tribcast-flock-cameras-police-surveillance",
+    "content": "A Flock automatic license plate reader (ALPR), operated by Hewitt city government, records vehicles that drive into Hewitt Park in Hewitt on July 28, 2026.",
+    "date": "2026-08-04T20:58:55",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-review-bar-chucho-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Bar Chucho in NYC",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/16/arts/design/in-30000-gallons-of-water-hundreds-of-bowls-play-music-of-the-spheres.html",
     "content": "The French sound artist C\u00e9leste Boursier-Mougenot creates an unlikely symphony by setting singing bowls bobbing at the Park Avenue Armory.",
     "date": "2026-06-16T13:53:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/16/theater/paddington-musical-broadway.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The \u2018Paddington\u2019 Musical Will Come to Broadway Next Spring",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/06/16/theater/paddington-musical-broadway.html",
-    "content": "\u201cPaddington,\u201d according to the musical\u2019s producer Sonia Friedman, is \u201ca show about fun, adventure, joy and comedy, but on a more profound level it\u2019s a story about searching for home.\u201d",
-    "date": "2026-06-16T12:30:05",
     "category": "NYT"
   }
 ]
