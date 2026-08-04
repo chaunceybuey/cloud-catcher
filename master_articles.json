@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
+    "feed_name": "Douthat",
+    "title": "Can Trump Wriggle Out One Last Time?",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
+    "content": "Iran. The midterms. Can Trump wriggle out one last time?",
+    "date": "2026-08-04T21:46:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/theater/bowen-yang-broadway-oh-mary.html",
     "feed_name": "NYT (Arts)",
     "title": "Bowen Yang to Make Broadway Debut as Mary Todd Lincoln in \u2018Oh, Mary!\u2019",
@@ -19988,15 +19998,5 @@
     "content": "\u201cPaddington,\u201d according to the musical\u2019s producer Sonia Friedman, is \u201ca show about fun, adventure, joy and comedy, but on a more profound level it\u2019s a story about searching for home.\u201d",
     "date": "2026-06-16T12:30:05",
     "category": "NYT"
-  },
-  {
-    "id": "e299b46b157e18a68296856f4c35c739",
-    "feed_name": "The Atlantic",
-    "title": "The Cult of Delayed Gratification Is a Lie",
-    "author": "Ian Bogost",
-    "link": "https://www.theatlantic.com/ideas/2026/06/instant-gratification-psychology-economy/687550/",
-    "content": "The sensory enchantment of everyday life can upend the bland monotony of our overly optimized, anodyne world.",
-    "date": "2026-06-16T11:00:00",
-    "category": "Magazines"
   }
 ]
