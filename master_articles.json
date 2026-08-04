@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/04/theater/disruption-review-john-david-washington.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Disruption\u2019 Review: John David Washington as Just Another Tech Bro",
+    "author": "Tim Teeman",
+    "link": "https://www.nytimes.com/2026/08/04/theater/disruption-review-john-david-washington.html",
+    "content": "John David Washington, far right, with the cast of \u201cDisruption\u201d at the Pershing Square Signature Center in Manhattan.",
+    "date": "2026-08-04T17:35:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-news-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Derby Club Gives the Former Neary\u2019s Space a Touch of Elegance",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/16/dining/donohues-steak-house-closing.html",
     "content": "After 76 years as a Midtown favorite, the family-run restaurant says goodbye to its many, many regulars.",
     "date": "2026-06-16T09:02:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/16/arts/dance/sharleen-chidiac-punk-musical.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sharleen Chidiac Brings Punk and Excess in New Musical \u2018All the Rage\u2019",
-    "author": "Gia Kourlas and George Etheredge",
-    "link": "https://www.nytimes.com/2026/06/16/arts/dance/sharleen-chidiac-punk-musical.html",
-    "content": "Sharleen Chidiac, a choreographer and the effervescent lead singer of Voyeur, looks at ambition and freedom in her hybrid new work: a punk musical.",
-    "date": "2026-06-16T09:02:34",
     "category": "NYT"
   }
 ]
