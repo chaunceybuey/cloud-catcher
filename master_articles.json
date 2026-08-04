@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/04/arts/music/amplifier-newsletter-summer-way-machine-lolitah.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Songs for the Return of Lizard Season \ud83e\udd8e\u2600\ufe0f",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/08/04/arts/music/amplifier-newsletter-summer-way-machine-lolitah.html",
+    "content": "Sunbathers in 1935.",
+    "date": "2026-08-04T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/theater/disruption-review-john-david-washington.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Disruption\u2019 Review: John David Washington as Just Another Tech Bro",
@@ -98,6 +108,16 @@
     "content": "John David Washington, far right, with the cast of \u201cDisruption\u201d at the Pershing Square Signature Center in Manhattan.",
     "date": "2026-08-04T17:35:36",
     "category": "NYT"
+  },
+  {
+    "id": "65f9e976-b236-4df4-9585-0354e92a4070",
+    "feed_name": "Economist",
+    "title": "Investors in Situational Awareness deserved to lose their shirts",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+    "content": "The plight of the hedge fund says more about them than about its 24-year-old founder",
+    "date": "2026-08-04T17:11:44",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-news-nyc.html",
@@ -19978,25 +19998,5 @@
     "content": "The Bradley 3 Ranch on June 14, 2026 near Memphis, Texas. It operates on 11,500 acres.",
     "date": "2026-06-16T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233471",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Railroad Commission race pits oil field engineer against energy trader running on culture wars",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17361940/texas-railroad-commission-general-election-bo-french-jon-rosenthal-social-issues-oil-gas",
-    "content": "From left: Republican and Democratic nominees for Texas Railroad commissioner Bo French and Jon Rosenthal. French is a former Tarrant County GOP chairman; Rosenthal is a Houston-area state representative.",
-    "date": "2026-06-16T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/16/dining/donohues-steak-house-closing.html",
-    "feed_name": "NYT (Food)",
-    "title": "Last Call at Donohue\u2019s in New York, \u2018a Museum of What Bars Used to Be\u2019",
-    "author": "Pete Wells",
-    "link": "https://www.nytimes.com/2026/06/16/dining/donohues-steak-house-closing.html",
-    "content": "After 76 years as a Midtown favorite, the family-run restaurant says goodbye to its many, many regulars.",
-    "date": "2026-06-16T09:02:51",
-    "category": "NYT"
   }
 ]
