@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/04/theater/bowen-yang-broadway-oh-mary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bowen Yang to Make Broadway Debut as Mary Todd Lincoln in \u2018Oh, Mary!\u2019",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/08/04/theater/bowen-yang-broadway-oh-mary.html",
+    "content": "Bowen Yang, right, with Cole Escola, the creator of \u201cOh, Mary!\u201d \u2014 and the show\u2019s original Mary Todd Lincoln \u2014 at the Tony Awards in June.",
+    "date": "2026-08-04T21:16:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-review-bar-chucho-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Bar Chucho in NYC",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/06/instant-gratification-psychology-economy/687550/",
     "content": "The sensory enchantment of everyday life can upend the bland monotony of our overly optimized, anodyne world.",
     "date": "2026-06-16T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a19ad03b6c847bce706b4ee",
-    "feed_name": "Wired",
-    "title": "Streamer IShowSpeed Is Gen Z\u2019s ESPN",
-    "author": "Jason Parham",
-    "link": "https://www.wired.com/story/big-interview-ishowspeed-world-cup/",
-    "content": "At 21, Speed has pushed the limits of streaming by transforming a distinctly solo format into a global group chat. His song for this year\u2019s World Cup is becoming the tournament\u2019s unofficial anthem.",
-    "date": "2026-06-16T10:00:00",
     "category": "Magazines"
   }
 ]
