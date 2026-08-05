@@ -90,6 +90,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=238914",
+    "feed_name": "Texas Tribune",
+    "title": "National Democrats add former GOP Rep. Tony Gonzales\u2019 district to Texas congressional target list",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17403755/texas-dccc-adds-tony-gonzales-congressional-district-target-list-2026-house",
+    "content": "From left: Katy Padilla Stout and Brandon Herrera, Democratic and Republican candidates for the U.S. House in Texas&#039; 23rd Congressional District.",
+    "date": "2026-08-05T11:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "6a72153652cbcac31bc24a1e",
+    "feed_name": "Wired (Science)",
+    "title": "Cougars Lower the Risks of Car Crashes by Hunting Deer",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/cougars-lower-risks-car-crashes-by-hunting-deer/",
+    "content": "A new study shows how the big cats cause deer to move away from roads and deeper into the forest, where they pose less of a hazard to motorists.",
+    "date": "2026-08-05T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a70f9f44462a9fd14b41604",
+    "feed_name": "Wired (Science)",
+    "title": "Gene-Edited Puppies Will Melt Your Heart\u2014but Won\u2019t Trigger Your Allergies",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/gene-edited-puppies-wont-trigger-allergies/",
+    "content": "A startup has created beagles without the gene that causes runny noses and watery eyes for allergy sufferers.",
+    "date": "2026-08-05T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=19637",
     "feed_name": "Stratechery",
     "title": "Google Earnings, The Frontier Case, Amazon Earnings",
@@ -118,6 +148,26 @@
     "content": "Twenty-five years after 9/11, analysts can\u2019t decide whether the terrorist organization got what it wanted.",
     "date": "2026-08-05T10:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238864",
+    "feed_name": "Texas Tribune",
+    "title": "Families brace for change as Third Future takes over more struggling Texas schools",
+    "author": "By Raquel Villatoro,\u00a0The Waco Bridge",
+    "link": "https://feeds.texastribune.org/link/16799/17403756/third-future-charter-network-takeover-texas",
+    "content": "Families wait outside of South Waco Elementary school ahead of a Meet the Teacher event on Friday. The new school year begins on Tuesday, Aug. 4, under the Third Future Schools partnership.",
+    "date": "2026-08-05T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=238802",
+    "feed_name": "Texas Tribune",
+    "title": "James Talarico accused Ken Paxton of voter fraud. His own voter registration is raising questions.",
+    "author": "By Kayla Guo, The Texas Tribune, and Zach Despart, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17403757/texas-senate-james-talarico-election-law-residency-ken-paxton",
+    "content": "State Rep. James Talarico accused his U.S. Senate opponent, Texas Attorney General Ken Paxton, of voter fraud after a ProPublica-Texas Tribune report. Last week, Paxton hit back with similar accusations.",
+    "date": "2026-08-05T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-recap-season-4-premiere.html",
@@ -19948,55 +19998,5 @@
     "content": "How we live now is defined by unprecedented forces. In this special issue, WIRED and Architectural Digest help you understand what home will look like tomorrow\u2014and beyond.",
     "date": "2026-06-16T17:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "6a317dfd03c0be2f1d7e7fdd",
-    "feed_name": "Wired",
-    "title": "One Climate Change Innovation: Just Look Up",
-    "author": "Fred A. Bernstein",
-    "link": "https://www.wired.com/story/tom-kundig-mississippi-delta/",
-    "content": "To build one family\u2019s dream house on a flood-prone Mississippi bayou, AD100 architect Tom Kundig decided the sky\u2019s the limit.",
-    "date": "2026-06-16T16:58:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/",
-    "feed_name": "Chait",
-    "title": "Why July 4 Turned Into a Trump Rally",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/",
-    "content": "The president has never accepted that the head of state and the leader of the Republican Party are separate roles.\nDelivered by PolitePaul service",
-    "date": "2026-06-16T16:48:58",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233561",
-    "feed_name": "Texas Tribune",
-    "title": "First-of-its-kind GOP midterm convention coming to Dallas in September, Paxton says",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17362141/texas-republican-midterm-convention-dallas-rnc",
-    "content": "Then-Republican presidential nominee Donald Trump arrives to watch proceedings during the second day of the Republican National Convention in Milwaukee, Wisconsin on July 16, 2024.",
-    "date": "2026-06-16T16:25:50",
-    "category": "Texas"
-  },
-  {
-    "id": "59ff80537b89ea9683dd09c1434fde17",
-    "feed_name": "Compact",
-    "title": "The Fujimori Restoration",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-fujimori-restoration/",
-    "content": "",
-    "date": "2026-06-16T15:56:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233529",
-    "feed_name": "Texas Tribune",
-    "title": "Newly announced TribFest speakers grapple with the country\u2019s hardest questions",
-    "author": "By Matt Ewalt",
-    "link": "https://feeds.texastribune.org/link/16799/17362128/newly-announced-tribfest-speakers-grapple-with-the-countrys-hardest-questions",
-    "content": "Kevin Stitt, Sherrilyn Ifill, Karl Rove, Imani Perry, Carla Espinoza-Grcic and Avi Loeb join us this September \n\n<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17362128.gif\" width=\"1\" />",
-    "date": "2026-06-16T15:56:06",
-    "category": "Texas"
   }
 ]
