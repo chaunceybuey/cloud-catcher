@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=238980",
+    "feed_name": "Texas Tribune",
+    "title": "Former state Rep. Lon Burnam eyes lawsuit after arrest during meeting on voting site cuts",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17404029/texas-lon-burnam-arrest-jail-tarrant-county-voting",
+    "content": "Former state Rep. Lon Burnam is arrested and carried out of the chamber after his public comment in the Tarrant County Commissioners Court meeting on Tuesday, Aug. 4, 2026, in Fort Worth.",
+    "date": "2026-08-05T20:07:30",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/05/briefing/05-the-good-list-html-day-cookie-queens.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Delight to Your Day",
@@ -19988,15 +19998,5 @@
     "content": "Formed by siblings who grew up playing together, the Hagen Quartet is finishing a farewell tour with an unforced, casual goodbye.",
     "date": "2026-06-17T11:50:20",
     "category": "NYT"
-  },
-  {
-    "id": "f50810c3966005c3e285980162432614",
-    "feed_name": "Compact",
-    "title": "A Jewish Frenchman\u2019s Case for Christian Nationalism",
-    "author": "",
-    "link": "https://www.compactmag.com/article/a-jewish-frenchmans-case-for-christian-nationalism/",
-    "content": "",
-    "date": "2026-06-17T11:49:48",
-    "category": "Magazines"
   }
 ]
