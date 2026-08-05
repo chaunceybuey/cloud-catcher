@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a73b0890afdb707f74ecbc6",
+    "feed_name": "Wired (Science)",
+    "title": "Welp, Nobody Saw SpaceX\u2019s Falcon 9 Rocket Crash Into the Moon",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/",
+    "content": "Although no one captured a direct image of the impact, scientists have detected signals confirming the rocket hit the lunar surface. Orbiters could provide the first images of the crash site in the coming days.",
+    "date": "2026-08-05T22:40:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/05/arts/music/lou-koller-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Lou Koller, Ambassador of New York Hardcore, Dies at 61",
@@ -19988,15 +19998,5 @@
     "content": "The Trump administration\u2019s theory of how the federal government should work is a threat to American science.",
     "date": "2026-06-17T14:41:52",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/17/movies/curse-of-the-seven-jackals-anthology-film-archives.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Curse of the Seven Jackals\u2019: A Film Made to Be Exhumed",
-    "author": "J. Hoberman",
-    "link": "https://www.nytimes.com/2026/06/17/movies/curse-of-the-seven-jackals-anthology-film-archives.html",
-    "content": "Bernard (Kevin Barnes from the band Of Montreal) signs on to test an experimental form of synthetic blood.",
-    "date": "2026-06-17T12:07:07",
-    "category": "NYT"
   }
 ]
