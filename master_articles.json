@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/05/arts/music/lou-koller-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lou Koller, Ambassador of New York Hardcore, Dies at 61",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/08/05/arts/music/lou-koller-dead.html",
+    "content": "Lou Koller in 2018. He was the frontman of Sick of It All, a band that was the closest thing \u201cthe hard-core scene has to a household name,\u201d Vice observed.",
+    "date": "2026-08-05T21:48:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238980",
     "feed_name": "Texas Tribune",
     "title": "Former state Rep. Lon Burnam eyes lawsuit after arrest during meeting on voting site cuts",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/17/movies/curse-of-the-seven-jackals-anthology-film-archives.html",
     "content": "Bernard (Kevin Barnes from the band Of Montreal) signs on to test an experimental form of synthetic blood.",
     "date": "2026-06-17T12:07:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/17/arts/music/hagen-quartet-farewell-tour.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Hagen Quartet Is Taking Its Final Bows After 45 Years",
-    "author": "Jeffrey Arlo Brown",
-    "link": "https://www.nytimes.com/2026/06/17/arts/music/hagen-quartet-farewell-tour.html",
-    "content": "Formed by siblings who grew up playing together, the Hagen Quartet is finishing a farewell tour with an unforced, casual goodbye.",
-    "date": "2026-06-17T11:50:20",
     "category": "NYT"
   }
 ]
