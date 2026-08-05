@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/05/arts/television/netflix-new-august.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Movies and TV Shows Coming to Netflix in August",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/08/05/arts/television/netflix-new-august.html",
+    "content": "The second season of \u201cOne Hundred Years of Solitude\u201d and the documentary \u201cA Child of My Own\u201d are among the most promising titles.",
+    "date": "2026-08-05T11:58:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=238914",
     "feed_name": "Texas Tribune",
     "title": "National Democrats add former GOP Rep. Tony Gonzales\u2019 district to Texas congressional target list",
@@ -19988,15 +19998,5 @@
     "content": "The chef Igor Almeida Cabral breathes new life into this bistro, a very large venue for Korean barbecue opens in Williamsburg, Brooklyn, and more restaurant news.",
     "date": "2026-06-16T17:29:07",
     "category": "NYT"
-  },
-  {
-    "id": "6a288ed681b472b6e9674533",
-    "feed_name": "Wired",
-    "title": "The Future of Home",
-    "author": "",
-    "link": "https://www.wired.com/future-of-home/",
-    "content": "How we live now is defined by unprecedented forces. In this special issue, WIRED and Architectural Digest help you understand what home will look like tomorrow\u2014and beyond.",
-    "date": "2026-06-16T17:00:00",
-    "category": "Magazines"
   }
 ]
