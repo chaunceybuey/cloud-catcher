@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "8bdd42a333adcbf5b7bdd9448859583d",
+    "feed_name": "The Atlantic",
+    "title": "Trump\u2019s Irrationality Is Dangerous",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/08/trump-reflecting-pool-irrationality/688180/",
+    "content": "The president\u2019s recent rant is a sign of serious dysfunction in the Oval Office.",
+    "date": "2026-08-04T22:03:51",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
     "feed_name": "Douthat",
     "title": "Can Trump Wriggle Out One Last Time?",
@@ -19988,15 +19998,5 @@
     "content": "An icon of Silicon Valley\u2019s counterculture, Stewart Brand is confronting his final years in a home that embodies the self-sufficient, DIY ethos of his famous Whole Earth Catalog.",
     "date": "2026-06-16T14:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/16/arts/design/in-30000-gallons-of-water-hundreds-of-bowls-play-music-of-the-spheres.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In 30,000 Gallons of Water, Hundreds of Bowls Play Music of the Spheres",
-    "author": "Walker Mimms and Guarionex Rodriguez",
-    "link": "https://www.nytimes.com/2026/06/16/arts/design/in-30000-gallons-of-water-hundreds-of-bowls-play-music-of-the-spheres.html",
-    "content": "The French sound artist C\u00e9leste Boursier-Mougenot creates an unlikely symphony by setting singing bowls bobbing at the Park Avenue Armory.",
-    "date": "2026-06-16T13:53:33",
-    "category": "NYT"
   }
 ]
