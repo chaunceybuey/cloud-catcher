@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/05/briefing/05-the-good-list-html-day-cookie-queens.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Delight to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/08/05/briefing/05-the-good-list-html-day-cookie-queens.html",
+    "content": "\u2018Kindergarten for adults,\u2019 a video store tribute and The Thin Mint hustle.",
+    "date": "2026-08-05T19:39:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/05/movies/one-night-only-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018One Night Only\u2019 Review: A 12-Hour Sexual Reprieve",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/a-jewish-frenchmans-case-for-christian-nationalism/",
     "content": "",
     "date": "2026-06-17T11:49:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a300468659425fd40b8cca3",
-    "feed_name": "Wired",
-    "title": "Tim Heidecker Wants to Turn Infowars Into Adult Swim for the Internet",
-    "author": "Katie Drummond",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-tim-heidecker/",
-    "content": "Infowars\u2019 would-be creative director talks Sandy Hook, comedy\u2019s MAGA turn, and why the future of satire may look more like a streaming startup than a late-night show.",
-    "date": "2026-06-17T10:30:00",
     "category": "Magazines"
   }
 ]
