@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/06/dining/fettuccine-alfredo-always-hits.html",
+    "feed_name": "NYT (Food)",
+    "title": "Fettuccine Alfredo Always Hits",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/06/dining/fettuccine-alfredo-always-hits.html",
+    "content": "Elaine Kaufman\u2019s fettuccine Alfredo, adapted by Alex Witchel.",
+    "date": "2026-08-06T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/08/20/whose-party-democratic-socialists-of-america/",
     "feed_name": "NYRB",
     "title": "Whose Party?",
@@ -19988,15 +19998,5 @@
     "content": "Perhaps this was always how Trump\u2019s ill-conceived war was destined to end.",
     "date": "2026-06-17T22:59:15",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233723",
-    "feed_name": "Texas Tribune",
-    "title": "West Texas organization sues Trump administration to stop border wall in Big Bend",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17362949/texas-border-wall-presidio-county-lawsuit-big-bend",
-    "content": "A canoe serves as a protest sign against a border wall in Redford on June 5, 2026.",
-    "date": "2026-06-17T22:14:46",
-    "category": "Texas"
   }
 ]
