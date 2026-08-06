@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a70bede4b483e5d7ba0aa75",
+    "feed_name": "Wired (Science)",
+    "title": "Two Fossil Fuel Companies Are Betting Big on Data Centers",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/chevron-williams-driving-data-center-boom/",
+    "content": "Chevron and Williams are big winners in the race to power artificial intelligence as they build out gas-fired power plants and pipelines.",
+    "date": "2026-08-06T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/06/arts/music/bayreuth-festival-wagner-rienzi-germany.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Our Drug Is Wagner\u2019: Bayreuth Festival Draws the Composer\u2019s Fiercest Fans",
@@ -19988,15 +19998,5 @@
     "content": "Joshua Baer, founder and CEO of Capital Factory, in downtown Austin on Dec. 19, 2018.",
     "date": "2026-06-17T16:52:12",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",
-    "author": "Jonathan Kandell",
-    "link": "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html",
-    "content": "Carlo Ginzburg in Bologna, Italy, in 1996. When he embarked on his research in 1960s, there was little interest in discovering what the everyday people of centuries past thought and believed.",
-    "date": "2026-06-17T16:46:04",
-    "category": "NYT"
   }
 ]
