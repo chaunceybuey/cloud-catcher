@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a70c5cf7eaea70665a1d5af",
+    "feed_name": "Wired (Science)",
+    "title": "Microsoft\u2019s Quantum Chief Doesn\u2019t Care That Scientists Don\u2019t Believe His Results",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/microsoft-quantum-chief-majorana-results/",
+    "content": "Zulfi Alam thinks his team doesn\u2019t need to \u201cprove\u201d they engineered a new state of matter in their bid to reinvent computing. Science would disagree.",
+    "date": "2026-08-06T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a70bede4b483e5d7ba0aa75",
     "feed_name": "Wired (Science)",
     "title": "Two Fossil Fuel Companies Are Betting Big on Data Centers",
@@ -19988,15 +19998,5 @@
     "content": "A memory workout, an endless playlist and an antidote to worry.",
     "date": "2026-06-17T17:42:28",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233669",
-    "feed_name": "Texas Tribune",
-    "title": "Former Texas Tribune board member killed in Laredo plane crash",
-    "author": "Alejandro Santos Cid",
-    "link": "https://feeds.texastribune.org/link/16799/17362763/laredo-plane-crash-josh-baer-capital-factory",
-    "content": "Joshua Baer, founder and CEO of Capital Factory, in downtown Austin on Dec. 19, 2018.",
-    "date": "2026-06-17T16:52:12",
-    "category": "Texas"
   }
 ]
