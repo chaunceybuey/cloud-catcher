@@ -170,6 +170,26 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=239022",
+    "feed_name": "Texas Tribune",
+    "title": "A border agent killed a migrant who crossed into Starr County. Eight months later, it\u2019s still under investigation.",
+    "author": "Lomi Kriel",
+    "link": "https://feeds.texastribune.org/link/16799/17404325/texas-immigration-border-patrol-killed-migrant-starr-county-isaias-sanchez-barbosa",
+    "content": "A U.S. Customs and Border Protection officer looks at paperwork inside his vehicle after apprehending groups of asylum seekers in Starr County on Aug. 3, 2021.",
+    "date": "2026-08-06T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239073",
+    "feed_name": "Texas Tribune",
+    "title": "Fracas over Tarrant County voting sites highlights public distrust over how elections are run",
+    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17404326/tarrant-county-tim-ohare-polling-place-voting-access-public-meeting-arrests",
+    "content": "People gather outside the Tarrant County Commissioners Court in Fort Worth to protest the proposed cut of polling locations, on Aug. 4, 2026.",
+    "date": "2026-08-06T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/06/movies/tony-review-dominic-sessa.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Tony\u2019 Review: An Appetite for Experiences",
@@ -19978,25 +19998,5 @@
     "content": "Neoconservatives are struggling to reconcile their hopes for Trump with the failure of his Iran war.",
     "date": "2026-06-17T18:36:17",
     "category": "Magazines"
-  },
-  {
-    "id": "e2e0b4f38496c5baed30f123e4901ac5",
-    "feed_name": "The Atlantic",
-    "title": "Trump Has Entered His Decline",
-    "author": "Peter Wehner",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trump-decline-ufc-fight/687582/",
-    "content": "The president\u2019s 80th birthday was in many ways the apotheosis of his administration.",
-    "date": "2026-06-17T18:02:19",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/17/briefing/17-the-good-list-knicks-memory.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Good List: 6 Things to Bring Joy to Your Day",
-    "author": "Melissa Kirsch",
-    "link": "https://www.nytimes.com/2026/06/17/briefing/17-the-good-list-knicks-memory.html",
-    "content": "A memory workout, an endless playlist and an antidote to worry.",
-    "date": "2026-06-17T17:42:28",
-    "category": "NYT"
   }
 ]
