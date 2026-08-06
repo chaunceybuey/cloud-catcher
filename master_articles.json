@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/06/arts/art-gallery-shows-to-see-in-august.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Art Gallery Shows to See in August",
+    "author": "Carolina A. Miranda",
+    "link": "https://www.nytimes.com/2026/08/06/arts/art-gallery-shows-to-see-in-august.html",
+    "content": "This week in Newly Reviewed Carolina Miranda covers three shows in Los Angeles: a group exhibit with Tom of Finland at the center, Betye Saar\u2019s \u201cwearable art\u201d and Esther Pearl Watson\u2019s spaceships.",
+    "date": "2026-08-06T22:02:44",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239164",
+    "feed_name": "Texas Tribune",
+    "title": "Harris County DA says independent investigation into fatal ICE shooting will cost $2.5 million",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17404691/texas-ice-shooting-investigation-budget-harris-county-district-attorney",
+    "content": "Vans with messages in support of Lorenzo Salgado Araujo and against ICE pass by his memorial during a caravan protest in Houston on July 17, 2026.",
+    "date": "2026-08-06T21:48:18",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/06/dining/reader-questions.html",
     "feed_name": "NYT (Food)",
     "title": "Cheese on a Conveyor Belt? (Actually) Groundbreaking.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/18/movies/color-book-review.html",
     "content": "In this tender family drama, a widowed father and his disabled son overcome personal tragedy.",
     "date": "2026-06-18T09:00:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/movies/never-change-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Never Change!\u2019 Review: Failing the Assignment",
-    "author": "Chris Azzopardi",
-    "link": "https://www.nytimes.com/2026/06/18/movies/never-change-review.html",
-    "content": "This comedy squanders a promising premise about adults forced back to high school on repetitive sketches and hollow jokes.",
-    "date": "2026-06-18T09:00:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/movies/the-devil-queen-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Devil Queen\u2019 Review: A Seedy Quest for Vengeance",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/06/18/movies/the-devil-queen-review.html",
-    "content": "Antonio Carlos da Fontoura\u2019s 1974 gay gangster thriller returns in a gorgeous new restoration.",
-    "date": "2026-06-18T09:00:23",
     "category": "NYT"
   }
 ]
