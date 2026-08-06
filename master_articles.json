@@ -140,6 +140,156 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/06/movies/avatar-aang-the-last-airbender.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Avatar Aang: The Last Airbender\u2019 Shows How to Beat Franchise Fatigue",
+    "author": "Maya Phillips",
+    "link": "https://www.nytimes.com/2026/08/06/movies/avatar-aang-the-last-airbender.html",
+    "content": "There have been ups and downs, including a widely reviled big-screen disaster. But the latest film shows a story that is headed in the right direction.",
+    "date": "2026-08-06T09:03:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/arts/television/jacqueline-woodson-the-day-you-begin-pbs-kids.html",
+    "feed_name": "NYT (Arts)",
+    "title": "On PBS Kids, Jacqueline Woodson Reminds Children Their Stories Matter",
+    "author": "Laurel Graeber",
+    "link": "https://www.nytimes.com/2026/08/06/arts/television/jacqueline-woodson-the-day-you-begin-pbs-kids.html",
+    "content": "A new animated special, \u201cThe Day You Begin,\u201d based on the best-selling picture book, emphasizes the richness that diversity brings to a community.",
+    "date": "2026-08-06T09:03:24",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/opinion/ross-douthat-scott-galloway-masculinity.html",
+    "feed_name": "Interesting Times",
+    "title": "Scott Galloway on What It Takes to Raise Good Men",
+    "author": "Ross Douthat and Victoria Chamberlin",
+    "link": "https://www.nytimes.com/2026/08/06/opinion/ross-douthat-scott-galloway-masculinity.html",
+    "content": "The author and academic attributes some of his success to a system that supported \u201cunremarkable\u201d young men.",
+    "date": "2026-08-06T09:03:08",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/arts/design/tarot-cards-morgan.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tarot Was a Courtly Card Game. How Did It Become a Tool for Divination?",
+    "author": "Nina Siegal",
+    "link": "https://www.nytimes.com/2026/08/06/arts/design/tarot-cards-morgan.html",
+    "content": "A Morgan Library & Museum exhibition explores the origins of a popular tradition that has drawn occultists and everyday people alike.",
+    "date": "2026-08-06T09:03:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/movies/tony-review-an-appetite-for-experiences.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Tony\u2019 Review: An Appetite for Experiences",
+    "author": "Jeannette Catsoulis",
+    "link": "https://www.nytimes.com/2026/08/06/movies/tony-review-an-appetite-for-experiences.html",
+    "content": "On 1970s Cape Cod, a young Anthony Bourdain chases love and finds his future in this rambunctious, utterly charming little movie.",
+    "date": "2026-08-06T09:02:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/movies/olmo-review-a-new-mexican-coming-of-age-comedy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Olmo\u2019 Review: A New Mexican Coming-of-Age Comedy",
+    "author": "Beandrea July",
+    "link": "https://www.nytimes.com/2026/08/06/movies/olmo-review-a-new-mexican-coming-of-age-comedy.html",
+    "content": "Fernando Eimbcke\u2019s film, set in Las Cruces, finds tenderness and turmoil in a 1970s Mexican American household.",
+    "date": "2026-08-06T09:02:46",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/movies/the-last-picture-shows-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Last Picture Shows\u2019 Review: Celebrating Old-School Movie Houses",
+    "author": "Glenn Kenny",
+    "link": "https://www.nytimes.com/2026/08/06/movies/the-last-picture-shows-review.html",
+    "content": "The stand-alone cinema is facing extinction. A new documentary chronicles its fight for survival in the United States.",
+    "date": "2026-08-06T09:02:46",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/movies/ice-cream-man-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Ice Cream Man\u2019 Review: A Rocky Road to Hell",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/08/06/movies/ice-cream-man-review.html",
+    "content": "Sweet-faced kids who just want a treat turn into murderous maniacs in Eli Roth\u2019s messy new horror film.",
+    "date": "2026-08-06T09:02:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/movies/julian-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Julian\u2019 Review: Getting Married in 22 Countries",
+    "author": "Lisa Kennedy",
+    "link": "https://www.nytimes.com/2026/08/06/movies/julian-review.html",
+    "content": "Cato Kusters\u2019 feature debut recounts the abbreviated love story of the Belgian artist Fleur Pierets and her wife, Julian Boom, as they fight for gay rights abroad.",
+    "date": "2026-08-06T09:02:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/movies/the-big-cheese-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Big Cheese\u2019 Review: Who Will Become the World\u2019s Best Cheesemonger?",
+    "author": "Chris Azzopardi",
+    "link": "https://www.nytimes.com/2026/08/06/movies/the-big-cheese-review.html",
+    "content": "In this documentary, a team is determined to help the United States finally claim top honors at a fierce competition in France.",
+    "date": "2026-08-06T09:02:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/movies/late-fame-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Late Fame\u2019 Review: Lost Poet, Found Again",
+    "author": "Alissa Wilkinson",
+    "link": "https://www.nytimes.com/2026/08/06/movies/late-fame-review.html",
+    "content": "Willem Dafoe stars as a former poet charmed by a group of would-be young artists.",
+    "date": "2026-08-06T09:01:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/movies/teenage-sex-and-death-at-camp-miasma-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019 Review: Gushing With Desire",
+    "author": "Alissa Wilkinson",
+    "link": "https://www.nytimes.com/2026/08/06/movies/teenage-sex-and-death-at-camp-miasma-review.html",
+    "content": "Hannah Einbinder and Gillian Anderson star in an exhilarating tale of a filmmaker rebooting a problematic slasher franchise.",
+    "date": "2026-08-06T09:01:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/arts/music/john-carpenter-cathedral-graphic-novel-album.html",
+    "feed_name": "NYT (Arts)",
+    "title": "John Carpenter Found a New Way to Give You Nightmares",
+    "author": "Brian Raftery",
+    "link": "https://www.nytimes.com/2026/08/06/arts/music/john-carpenter-cathedral-graphic-novel-album.html",
+    "content": "The director of slasher films that defined horror from the 1970s through the \u201990s realizes his latest work, \u201cCathedral,\u201d as both a graphic novel and a hard-rock album.",
+    "date": "2026-08-06T09:01:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/06/arts/design/cloisters-art-handler-bat-lord.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Bat Lord Has Landed at the Cloisters. He\u2019ll Be Its Caretaker.",
+    "author": "Scott Schomburg and Christopher Gregory-Rivera",
+    "link": "https://www.nytimes.com/2026/08/06/arts/design/cloisters-art-handler-bat-lord.html",
+    "content": "As the museum reframes its story of medieval art, Andrew Winslow, the collections manager,  embraces the challenge.",
+    "date": "2026-08-06T09:00:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.propublica.org/article/louisiana-wrongful-conviction-compensation-liz-murrill-elvis-brooks",
+    "feed_name": "ProPublica",
+    "title": "He\u2019s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.",
+    "author": "Richard A. Webster",
+    "link": "https://www.propublica.org/article/louisiana-wrongful-conviction-compensation-liz-murrill-elvis-brooks",
+    "content": "<figure><img alt=\"A man wearing denim shorts, a blue T-shirt that says \u201cInnocence &amp; Justice Louisiana,\u201d a baseball cap and glasses holds his hands in front of his torso. He stands on a sidewalk with grass growing on both sides and cars, trees, power lines and houses in the distance. He looks away from the camera.\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/20260714_CZB_ElvisBrooks_12_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=1149\" /><figcaption><small>After Elvis Brooks spent 42 years in prison, a court threw out his conviction for murder. But he has struggled to get compensation from Louisiana for his wrongful conviction. Christiana Botic/Verite News and Catchlight Local/Report for America</small></figcaption></figure>\n\n\n<p>Elvis Brooks thought he had an airtight case when he applied for compensation from the state of Louisiana after he was wrongfully convicted in a fatal bar shooting that kept him in prison for more than four decades.</p>\n\n\n\n<p>The 69-year-old New Orleans native has never wavered in his claims of innocence, insisting since his 1977 arrest that the cops had the wrong guy. But it would take nearly 45 years and a prosecutor admitting he failed to turn over key fingerprint evidence before the courts threw out Brooks\u2019 conviction.</p>\n\n\n\n<p>That decision made Brooks eligible for up to $480,000 <a href=\"https://legis.la.gov/legis/Law.aspx?d=321005\">under a program created</a> by Louisiana lawmakers to pay those wrongfully convicted in a state with one of the highest rates of overturned guilty verdicts. But Louisiana Attorney General Liz Murrill, the top prosecutor in the state, has vigorously fought Brooks\u2019 compensation claim, asserting in court filings that he is still guilty and therefore should not receive any money at all.</p>\n\n\n\n<p>And it isn\u2019t just Brooks: Since taking office two years ago, Murrill has opposed all but one of 23 compensation claims brought by people whose convictions have been vacated by the courts. These include cases in which the men were exonerated through DNA or blood evidence and others in which police are accused of fabricating evidence. Once, Murrill even threatened to block an exoneree\u2019s ability to obtain a license to practice law if he didn\u2019t drop his claim.</p>\n\n\n\n<p>Civil rights attorneys say Brooks\u2019 case is one of the most egregious examples of a wrongful conviction in recent years. Murrill has been pushing the court since September 2024 to reject his compensation claim and also to reinstate a manslaughter charge against him. The case is pending before a district court judge in New Orleans; attorneys are scheduled to appear for the next hearing Monday.</p>\n\n\n\n<p>When Brooks heard what Murrill was trying to do, five months after he\u2019d filed his claim, he said he was flooded with anger and disbelief. Once again, he said, the state was trying to rip away his good name and falsely brand him a killer.</p>\n\n\n\n<p>\u201cShe knows people are innocent but she doesn\u2019t care,\u201d Brooks said of Murrill during a recent interview, his voice rising with frustration. \u201cShe wouldn\u2019t want nobody to do this to one of her loved ones.\u201d</p>\n\n\n\n<p>Some states that have more recently created compensation funds have experienced startup problems. In Michigan, <a href=\"https://www.propublica.org/article/why-michigan-failing-compensate-wrongly-convicted-despite-law\">narrow criteria and confusion over eligibility</a> have prevented exonerees from getting paid. But in Louisiana, conservative politicians who oppose the very existence of a compensation fund and therefore fight nearly every claim have proven to be the biggest obstacle.</p>\n\n\n\n<p>Gov. Jeff Landry, a Republican who served as attorney general for eight years, during which time <a href=\"https://lailluminator.com/2023/09/05/jeff-landry-and-liz-murrill-have-been-a-team-for-years-will-that-continue/\">he hired Murrill</a> as the state\u2019s solicitor general, opposed 10 of 12 compensation claims during his tenure. Both have staked their political careers on a tough-on-crime agenda. By contrast, Murrill\u2019s more moderate Republican predecessor, Buddy Caldwell, who served as attorney general from 2008 to 2015, opposed just 33% of all claims.</p>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium bb--size-medium p-bb--size-medium\"><img alt=\"A woman with shoulder-length brown hair wearing pearl earrings, a black blazer and a white ruffled shirt looks off camera. She is standing in front of a man wearing a blue suit and yellow tie. News microphones appear in the lower right corner.\" class=\"wp-image-89303\" height=\"501\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/20260120_CZB_LizMurrill_02_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">Louisiana Attorney General Liz Murrill has taken a hard line against compensating the wrongfully convicted in Louisiana, maintaining they haven\u2019t proven their innocence.</span> <span class=\"attribution__credit\">Christiana Botic/Verite News and Catchlight Local/Report for America</span></figcaption></figure>\n\n\n\n<p>Murrill\u2019s hard-line tactics, particularly in Brooks\u2019 case, stand out among her peers in other states, said Jeffrey Gutman, a professor emeritus at the George Washington University Law School and a national expert on compensation funds.</p>\n\n\n\n<p>\u201cI can\u2019t think of an attorney general who has been quite as aggressive in trying to prevent people from getting compensation,\u201d Gutman said.</p>\n\n\n\n<p>Murrill, through her spokesperson, declined interview requests and did not answer questions regarding her opposition to the compensation fund. Both she and Landry have made their views on the fund clear during recent legislative sessions. Murrill told lawmakers last year that defending the state against these claims consumes an enormous amount of time and resources and that the <a href=\"https://www.fox8live.com/2025/04/23/louisiana-house-advances-bill-eliminate-wrongful-conviction-compensation-law/\">fund should be abolished</a> altogether. And in June, Landry vetoed a bill passed unanimously by the Republican-controlled Legislature that would have increased the amount paid to the wrongfully convicted. In <a href=\"https://legis.la.gov/legis/ViewDocument.aspx?d=1480128\">his veto statement,</a> Landry painted many of the exonerees as \u201cconvicted criminals\u201d whose only interest is money.</p>\n\n\n\n<p>Murrill\u2019s opposition doesn\u2019t necessarily mean that Brooks and other exonerees won\u2019t eventually be compensated. The claims are ultimately decided by one of a number of district court judges, whose approach to this issue may vary. But it ensures that a process the law says should take no more than five months could instead drag on for years, exacting financial hardship and emotional pain on people who have already endured decades of both, said Herbert Larson, an attorney representing exonerees and a senior professor at the Tulane University Law School.</p>\n\n\n\n<p>\u201cIf they\u2019ve got DNA evidence that points at somebody else, if they\u2019ve got fingerprints that point at somebody else, if it looks like sloppy police work, then we should pay the money and not spend the next two years litigating it,\u201d Larson said. \u201cThat\u2019s not a very effective use of time and money on the part of the attorney general.\u201d</p>\n\n\n\n<p>Brooks filed his application in 2024, but more than two years later, his case has yet to be heard by a district court judge. After having 42 years of his life stolen \u2014 missing his son\u2019s childhood and losing his parents and three siblings while he was behind bars \u2014 Brooks said he shouldn\u2019t continue to suffer at the hands of the state.</p>\n\n\n\n<p>\u201cIt\u2019s miserable and it\u2019s frustrating, the games they play,\u201d he said. \u201cBut if they think I\u2019m going to give up, wave the white flag, they got me wrong.\u201d</p>\n\n\n\n<h3 class=\"wp-block-heading\" id=\"h-conflicting-evidence-and-a-one-day-trial\">Conflicting Evidence and a One-Day Trial</h3>\n\n\n\n<p>On most days, Brooks can be found riding his bicycle down to Tricou and Douglas streets in New Orleans\u2019 Lower 9th Ward, where he was raised, or through the French Quarter, where as teens, he and his friends would go to meet girls.</p>\n\n\n\n<p>But there is one place he avoids: a vacant lot at the intersection of Dauphine and Alabo streets. That\u2019s where the Welcome Inn once stood, and where a murder took place that would change his life.</p>\n\n\n\n<p>In July 1977, a man named Cecil Lloyd was seated at the bar in the local dive when he was shot to death during an armed robbery. Less than three weeks later, police arrested 19-year-old Brooks.</p>\n\n\n\n<p>There was no physical evidence tying him to the killing, and a dozen people testified that Brooks was at a family party at the time of the shooting. But three white witnesses said they saw the perpetrators in the dimly lit room and picked Brooks, who is Black, out of a photographic lineup. Although studies have shown that witnesses <a href=\"https://innocenceproject.org/news/ny-juries-must-be-briefed-on-problems-with-cross-racial-identification/\">often have difficulty</a> correctly identifying suspects of another race, and despite the fact that the three witnesses gave conflicting descriptions, the jury found him guilty of first-degree murder after a one-day trial.</p>\n\n\n\n<p>What the jurors weren\u2019t told is that fingerprints lifted from beer cans held by the robbers did not match Brooks\u2019, or that police suspected the same men had robbed several people less than a block away just before the Welcome Inn robbery, according to prosecutor records discovered by Brooks\u2019 attorneys 40 years later. The victims of the earlier crime were shown a photo of Brooks and ruled him out as a suspect.</p>\n\n\n\n<p>After his conviction, Brooks was sent to the Louisiana State Penitentiary at Angola at a time when the maximum-security prison was considered one of the most violent in the country. Three years after Brooks arrived, his brother Errol, who was serving a 99-year sentence there for armed robbery, was stabbed to death.</p>\n\n\n\n<p>\u201cAngola was a madhouse,\u201d Brooks said. \u201cA hellhole.\u201d</p>\n\n\n\n<figure class=\"wp-block-image size-full bb--size-large p-bb--size-large\"><img alt=\"A dark, cloudy sky hangs over an intersection with silhouetted trees, power lines and one-story houses with some lit windows.\" class=\"wp-image-89301\" height=\"2001\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/20260714_CZB_ElvisBrooks_16_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg\" width=\"3000\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">A man was shot and killed in 1977 at the Welcome Inn bar, which used to sit on this corner in the Lower 9th Ward of New Orleans. Brooks was convicted for the murder in a one-day trial, despite evidence he was elsewhere at the time.</span> <span class=\"attribution__credit\">Christiana Botic/Verite News and Catchlight Local/Report for America</span></figcaption></figure>\n\n\n\n<p>While Brooks served his life sentence, the criminal justice system was being revolutionized through the introduction of DNA evidence and, with it, proof that innocent people had been convicted. This led to a deeper look into other factors contributing to wrongful convictions, including prosecutorial misconduct and mistaken eyewitness identifications, especially those made by witnesses with different racial backgrounds from the suspects.</p>\n\n\n\n<p>As a result, the number of exonerations nationwide increased from 25 in 1989 to 259 in 2022, according to the <a href=\"https://exonerationregistry.org/exonerations-year-dna-and-non-dna\">National Registry of Exonerations</a>, a project operated by universities in Michigan and California. By 2025, Orleans Parish, where Brooks was convicted, had the highest rate of exonerations among U.S. counties with more than 300,000 residents, <a href=\"https://exonerationregistry.org/exonerations-county\">according to the registry</a>.</p>\n\n\n\n<p>Many states reacted to the rise in exonerations by creating funds to compensate those who were wrongly convicted. Louisiana established its fund in 2005 and today <a href=\"https://exonerationregistry.org/sites/exonerationregistry.org/files/documents/Compensation%20Primer.pdf\">is one of 39 states</a>, in addition to the District of Columbia, that compensate the wrongfully incarcerated. But it is far from a rubber-stamp process.</p>\n\n\n\n<figure class=\"wp-block-pullquote bb--size-small-right p-bb--size-small-right\"><blockquote><p>\u201cIt\u2019s miserable and it\u2019s frustrating, the games they play. But if they think I\u2019m going to give up, wave the white flag, they got me wrong.\u201d</p><cite> Elvis Brooks, exoneree</cite></blockquote></figure>\n\n\n\n<p>To be eligible, a person has to have been imprisoned as a result of a conviction that was later vacated by a court. Applicants, like in all states with these funds, must then prove their innocence. Having a conviction thrown out is not enough to do so: A court can vacate someone\u2019s conviction for a number of reasons, including an ineffective attorney or significant errors committed by the judge or prosecution. But that only means there were problems with the original trial. It is up to the person applying for compensation to present evidence that they did not commit the crime.</p>\n\n\n\n<p>In many states, innocence in the compensation process is proven by a \u201cpreponderance of evidence,\u201d which attorneys understand to mean that there is more than a 50% chance that the person is innocent. This is the standard used in civil cases. The threshold is higher in Louisiana and some other states, where applicants are required to prove they are innocent by \u201cclear and convincing\u201d evidence. This is supposed to leave little doubt in the judge\u2019s eyes that they did not commit the crime.</p>\n\n\n\n<p>That\u2019s the hurdle Brooks must clear to receive any money from the state.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Exonerated but Not Paid</h3>\n\n\n\n<p>Brooks filed for compensation in April 2024, just a few months after Murrill and Landry took office. He didn\u2019t know much about the process, he said, except that it was meant to help people like himself get back on their feet after a wrongful conviction. Brooks assumed it wouldn\u2019t take long at all, maybe a few months. But like nearly all the others, his request was met with fierce opposition from the attorney general\u2019s office.</p>\n\n\n\n<p>Murrill, seen by many as a future candidate for governor, has earned the reputation as a fighter unapologetic about the methods she is willing to use to enact a conservative agenda, both in the political world and the courtroom.</p>\n\n\n\n<p>Verite News and ProPublica interviewed the attorneys of 17 of the people whose compensation claims Murrill opposed. The majority expressed shock at her tactics. When Landry was attorney general, his office regularly spoke with defense attorneys and assured them that the attorney general would not stand in the way of compensation in the rare times the office agreed that a former prisoner was innocent, according to two of the attorneys. Landry did not respond to a request for comment.</p>\n\n\n\n<p>Those conversations no longer happen under Murrill, the attorneys said. In nearly every case, Murrill\u2019s office has insisted that the exoneree either is guilty or has failed to sufficiently prove his innocence.</p>\n\n\n\n<p>Of the 23 people who have had active claims under Murrill, four so far have been awarded compensation. The rest are pending. Of the successful claims, two of the men were cleared by DNA evidence, while blood serum evidence was used to prove innocence in the third. Yet Murrill opposed all three, delaying their compensation for nearly two years. (In the fourth case, Murrill dropped her opposition to Patrick Brown\u2019s claim after the <a href=\"https://www.cnn.com/2023/05/09/us/patrick-brown-wrongful-conviction-vacated-new-orleans\">victim testified</a> that the exoneree was innocent).</p>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium bb--size-medium p-bb--size-medium\"><img alt=\"A man wearing an orange polo shirt, silver chain necklace, baseball cap and yellow-tinted glasses looks into the camera. He is standing in front of a red-brick building with red siding.\" class=\"wp-image-89296\" height=\"553\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/20260723_CZB_MalcolmAlexander_04a-1_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">Malcolm Alexander was exonerated through DNA evidence in 2018 after 38 years in prison. Jeff Landry, who was the attorney general then and is now the governor, opposed his compensation claim, but a court later ruled in his favor.</span> <span class=\"attribution__credit\">Christiana Botic/Verite News and Catchlight Local/Report for America</span></figcaption></figure>\n\n\n\n<p>Jarvis Ballard is one of the four. He spent 23 years in prison before his 1999 rape conviction was vacated after his DNA was not detected in any of the blood or semen samples found at the scene. In addition, the victim reported two men committed the crime; however, three men, including Ballard, were prosecuted and convicted. The other two men testified that Ballard was not involved.</p>\n\n\n\n<p>The St. Bernard Parish district attorney\u2019s office admitted in a <a href=\"https://www.nola.com/news/courts/article_1889ab32-f624-11eb-94c2-ef6755e8c9d8.html\">2021 statement</a> that the office had made a mistake in prosecuting him. \u201cDNA evidence, witnesses recanting their prior statements and polygraph testing all supported the \u2018actual innocence\u2019 claims of Jarvis Ballard,\u201d district attorney Perry Nicosia wrote.</p>\n\n\n\n<p>In another case, Darrill Henry was sentenced to life in prison in 2011 for a double homicide. Nine years later, New Orleans Criminal District Court Judge Dennis Waldron threw out his conviction after DNA evidence found under the fingernails of one of the victims cleared him, <a href=\"https://innocenceproject.org/news/darrill-henry-exonerated-in-new-orleans-double-murder-following-decades-long-fight/\">saying there was</a> \u201cclear and convincing evidence that he is indeed factually innocent of the crime.\u201d</p>\n\n\n\n<p>And in a third case, Sullivan Walter was sentenced to 40 years in prison in 1986 for burglary and rape, among other charges. He was only 17 at the time but was tried as an adult. His conviction was overturned in 2022 when blood evidence ruled him out as the perpetrator.</p>\n\n\n\n<p>&#8220;This is horrible,&#8221; Criminal District Judge Darryl Derbigny said to Walter as he ordered his release from prison, according to news reports. \u201cI\u2019m at a loss of words to express the sorrow and the anger I have at the treatment you\u2019ve been dealt by the system.\u201d</p>\n\n\n\n<p>But in all three cases, Murrill told the courts that despite the DNA or blood evidence, the men did not sufficiently prove their innocence.</p>\n\n\n\n<p>\u201cThey\u2019re taking a position that is inconsistent with what many prosecutors argue every day in seeking conviction,\u201d Zac Crawford, staff attorney at Innocence &amp; Justice Louisiana, a nonprofit law firm specializing in wrongful convictions, said about Murrill\u2019s office. \u201cProsecutors frequently use DNA testing to match someone to a crime as a means of getting a guilty verdict, and they are not willing to concede that that same evidence also proves innocence.\u201d</p>\n\n\n\n<p>Murrill hasn\u2019t confined her fight against compensation claims to the courts, having used threats to prevent at least one exoneree, Calvin Duncan, from even pursuing a claim. After serving 28 years of a life sentence for murder, he accepted a plea deal to secure his release in 2011. Ten years later, a district court judge ruled that he was factually innocent and threw out his conviction, citing the suppression of exonerating evidence by police, among other factors.</p>\n\n\n\n<p>When Duncan filed for compensation in 2023, Murrill <a href=\"https://apnews.com/article/new-orleans-election-calvin-duncan-exonerated-murder-73d617069d9d66daffc7576bdb2b6350\">issued a threat</a>, Duncan said during a recent legislative hearing: drop the claim or she would charge him with perjury for falsely saying he was exonerated. At the time, Duncan was pursuing a law license. He said Murrill added a second warning: If he didn\u2019t drop the claim, she would report him to the bar association to prevent him from getting his license.</p>\n\n\n\n<p>Duncan said he reluctantly agreed to withdraw his compensation application, with the understanding that Murrill would then drop the matter. But she didn\u2019t keep her word, Duncan told legislators. During Duncan\u2019s campaign last year for New Orleans criminal court clerk, Murrill <a href=\"https://embed.documentcloud.org/documents/28535112-murrill-letter-to-duncan/?embed=1\">sent him a letter threatening</a> \u201cfurther action from this office\u201d if he didn\u2019t stop referring to himself as being exonerated. \u201cYou have not proven you were actually innocent,\u201d she told him.</p>\n\n\n\n<p>She then used his plea deal against him, saying, \u201cYou knowingly and voluntarily pled guilty to manslaughter and armed robbery.\u201d</p>\n\n\n\n<p>Duncan, who declined to comment, won his election but was stripped of his office after legislators, <a href=\"https://www.fox8live.com/2026/04/19/gov-landry-sign-bill-eliminating-incoming-new-orleans-criminal-court-clerk/\">with Landry\u2019s support</a>, eliminated his position. His campaign manager said Duncan has paused his pursuit of a law license in part because of his race for court clerk and Murrill\u2019s persistent threats.</p>\n\n\n\n<p>Malcolm Alexander spent nearly 38 years in prison before being exonerated through DNA evidence in 2018. Despite the opposition of Landry, then attorney general, Alexander was later awarded compensation, though he said these claims aren\u2019t all about money. Even more important is that when a judge awards an exoneree compensation, it comes with a definitive ruling that the person is, in fact, innocent.</p>\n\n\n\n<p>So while Murrill\u2019s desire to deprive exonerees of money is terrible, Alexander said, her efforts to prevent them from having their names officially cleared are truly reprehensible.</p>\n\n\n\n<h3 class=\"wp-block-heading\">\u201cIt Wasn\u2019t Right From Day One\u201d</h3>\n\n\n\n<p>Brooks was 60 years old and had been in Angola prison for nearly two-thirds of his life when his legal team discovered a wealth of new evidence that appeared to conclusively prove his innocence. Among these items were fingerprints lifted from beer cans held by the shooters during the Welcome Inn bar robbery and fatal shooting. And those fingerprints did not match Brooks\u2019.</p>\n\n\n\n<p>In January 2019, Brooks\u2019 legal team filed a motion to overturn his murder conviction. Leon Cannizzaro, the New Orleans district attorney at the time, objected, telling the court that his office did not purposefully withhold any evidence.</p>\n\n\n\n<p>Brooks said he was ready to wage a lengthy legal battle to prove he was not a murderer. But five months later, Cannizzaro approached Brooks with an unexpected offer: If he agreed to plead guilty to manslaughter, his life sentence would be reduced to 42 years and he would be allowed to walk out of Angola prison. Brooks agonized over the decision. The idea of standing up in court and saying he had killed someone was unimaginable. But he also didn\u2019t want to die an old man on a rusted prison cot. So he took the deal.</p>\n\n\n\n<p>Two years later, as Brooks was struggling to adjust to life outside of prison and still strapped with a felony record, his legal team found a memo in a pile of records they had requested from the district attorney\u2019s office that detailed a 2019 internal meeting with one of the prosecutors at Brooks\u2019 murder trial. He admitted that they didn\u2019t turn over the fingerprint evidence and that it would have been helpful to Brooks\u2019 case, according to the memo.</p>\n\n\n\n<p>The meeting had occurred just two weeks before Cannizzaro offered Brooks the plea deal. If Brooks had known about the prosecutor\u2019s admission, he said, he never would have accepted the plea.</p>\n\n\n\n<p>\u201cIt wasn\u2019t right from day one,\u201d Brooks said.</p>\n\n\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-1 is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex block-visibility-hide-large-screen\">\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A circular mirror shows a man\u2019s reflection. The man wears glasses, a baseball cap and an earring. The background is out of focus: a tree, a green lawn and cars parked outside of a building.\" class=\"wp-image-89298\" height=\"502\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/20260714_CZB_ElvisBrooks_09_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">Christiana Botic/Verite News and Catchlight Local/Report for America</span> <span class=\"attribution__credit\">Brooks on his bike in New Orleans this year</span></figcaption></figure>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium\"><img alt=\"A framed photograph on a beige wall. The photograph has crease lines and a piece of purple tape on the top left corner. The photo shows a small child standing between two adults.\" class=\"wp-image-89295\" height=\"502\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/20260714_CZB_ElvisBrooks_02_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">A photo of Brooks\u2019 parents and his great-niece hangs in the apartment at a senior center he moved into since his release from prison.</span> <span class=\"attribution__credit\">Christiana Botic/Verite News and Catchlight Local/Report for America</span></figcaption></figure>\n</figure>\n\n\n\n<p>In 2022, when presented with this new information, the district court agreed. It ruled that the district attorney withheld crucial evidence when offering the plea deal and threw it out along with Brooks\u2019 conviction. Current New Orleans District Attorney Jason Williams declined to retry the case, clearing the way for Brooks to file his compensation claim two years later.</p>\n\n\n\n<p>Cannizzaro could not be reached for comment. In a statement issued after Brooks\u2019 2019 release from prison, the former district attorney said he offered Brooks the plea deal because his office believed he was \u201crehabilitated and will not go out and reoffend.\u201d Cannizzaro <a href=\"https://www.washingtonpost.com/national/a-42-year-inmates-choice-exoneration-fight-or-deal-with-the-devil-for-freedom/2020/02/19/47564e50-4e84-11ea-bf44-f5043eb3918a_story.html\">rejected the idea that Brooks was wrongfully convicted</a>, saying at the time that if he were innocent, Brooks and his attorneys would have turned down the deal. \u201cNotably, they did not,\u201d he said.</p>\n\n\n\n<p>Murrill is now using that discredited plea deal against Brooks, just as she did in Duncan\u2019s case, in an attempt to quash his compensation claim. In a September 2024 motion, Murrill claimed that by vacating Brooks\u2019 manslaughter conviction while he was a free man and not a prisoner, the court essentially pardoned him. And under the state constitution, only the governor has the power to issue pardons. As a result, she has asked that the court reinstate the manslaughter charge against Brooks.</p>\n\n\n\n<p>Murrill did not, however, address the fact that the court vacated the deal because prosecutors intentionally withheld key information, according to court records.</p>\n\n\n\n<p>In her motion, Murrill said she only learned the plea deal had been thrown out when Brooks filed his claim. And that, said attorney Harry Daniels, who represents Brooks, is when she started the effort to reinstate charges against him. \u201cIt\u2019s only when he started demanding what he\u2019s entitled to for being wrongfully convicted that this even became an issue,\u201d Daniels said.</p>\n\n\n\n<p>Brooks has described applying for compensation as torturous, a barricade that is constantly preventing him from being able to move forward. And life has been difficult: His only source of income is his $994-a-month Social Security payment, enough to rent a one-bedroom apartment in a low-income senior center.</p>\n\n\n\n<p>There are moments, though, he said, when he allows himself to dream about what he would do with the money. The first would be to buy a bigger headstone for his family gravesite, where his parents, four siblings and a nephew are buried in a single plot in the Green Street Cemetery. All but one died while he was wrongfully imprisoned. There is room on the headstone for only three of the seven names.</p>\n\n\n\n<p>\u201cI want to put all our names on there,\u201d he said. \u201cGive them some respect, especially my momma.\u201d</p>\n\n\n\n\n\n<figure class=\"wp-block-image size-full bb--size-large block-visibility-hide-large-screen p-bb--size-large\"><img alt=\"A gravestone with a cross etched on top and the words \u201cErrol Brooks, Feb. 1 1959 \u2014 Dec. 1, 1981.\u201d \u201cLinda Brooks, Apr. 22, 1956 \u2014 Oct. 29, 1995,\u201d and \u201cEarl.\u201d A bouquet of flowers and a cross obscure the last name. Two small angel statues also lean against the grave. Gravel sits in front of the grave, and long green grass grows behind the grave. The sky is blue with some clouds.\" class=\"wp-image-89297\" height=\"3000\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/20260710_CZB_GreenStreetCemetary_02_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg\" width=\"2000\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">Seven of Brooks\u2019 family members are buried in a single plot in the Green Street Cemetery, but there is room on the headstone for only three names. If he receives compensation money, he plans to use some of it to buy a bigger headstone.</span> <span class=\"attribution__credit\">Christiana Botic/Verite News and Catchlight Local/Report for America</span></figcaption></figure>\n<p>The post <a href=\"https://www.propublica.org/article/louisiana-wrongful-conviction-compensation-liz-murrill-elvis-brooks\">He\u2019s Eligible for Up to $480,000 After Being Wrongly Imprisoned for 42 Years. The State Says No.</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
+    "date": "2026-08-06T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=239089",
     "feed_name": "Texas Tribune",
     "title": "James Talarico rolls out economic agenda that takes aim at \u201cfalse Gospel of trickle-down economics\u201d",
@@ -19848,155 +19998,5 @@
     "content": "In a library\u200b when I was young I came across a book published by the Hogarth Press. It was so delicate I hardly wanted to touch it. It had a mottled green cover, it was maybe seventy pages long, and I read it in one amazed hour. The book was Maxim Gorky\u2019sReminiscences of Leo Nicolayevitch Tolstoi, from 1920, which the Woolfs would later republish in a fuller volume, with two more of...",
     "date": "2026-06-17T15:37:49",
     "category": "Magazines"
-  },
-  {
-    "id": "14670c3ec1a9f70de8da085a9e98ebaa",
-    "feed_name": "LRB",
-    "title": "In the latest issue",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11",
-    "content": "",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "72e2ba7e75edaf7219196572788ae0f6",
-    "feed_name": "LRB",
-    "title": "Steven  Shapin: Luis Alvarez and the Bomb",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/steven-shapin/barrel-of-greenbacks",
-    "content": "",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "4b628d6224fe1b4734b73311e3e82f5b",
-    "feed_name": "LRB",
-    "title": "Christopher  Kelly: Augustine in Africa",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/christopher-kelly/unpleasant-medicine",
-    "content": "",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "e61f7cbafcb08ae6ee841670115eaddf",
-    "feed_name": "LRB",
-    "title": "Portraits of Marilyn",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/andrew-o-hagan/at-the-npg",
-    "content": "One day in\u200b 1982, when I was fourteen years old, I went to the Mitchell Library in Glasgow to look at old newspapers. The room was empty. I checked the indexes and tried to locate a copy of an American paper from twenty years before, 6 August 1962, two days after Marilyn Monroe died in Los Angeles. My parents\u2019 marriage had ended brutally in 1981, I wanted to get my life together and I...",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "76e895a91e34124317703bd17c043ea3",
-    "feed_name": "LRB",
-    "title": "Beryl Bainbridge makes her point",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/dinah-birch/a-fit-of-trembling",
-    "content": "Beryl Bainbridge\u200b died in 2010 at the age of 77. Her devotion to cigarettes and whisky meant that she had collected a number of diseases, but she was still working on the last of her eighteen novels,The Girl in the Polka-Dot Dress, in her final days. \u2018At least I\u2019m trying,\u2019 she wrote to her editor as she sent off another few pages. She was a worker. One of the things she...",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "93e2e1dddef833aec070130bc114672b",
-    "feed_name": "LRB",
-    "title": "Sid Caesar stands out",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/john-lahr/relatable-as-a-jellyfish",
-    "content": "Those\u200b who were born in the US in the early 1940s, as I was, came of age in the most buoyant period of the 20th century. In the years between 1945 and 1960, personal income almost tripled. Philip Roth called it the greatest moment of \u2018collective inebriation in American history\u2019. After the Great Depression and two world wars, the middle classes were beginning to live...",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "780dde17f4a1daaa4115d58b135f2227",
-    "feed_name": "LRB",
-    "title": "France\u2019s First Fascist",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/david-todd/the-vile-and-the-louche",
-    "content": "For a century\u200b after the 1789 Revolution, France was admired \u2013 or feared \u2013 as a source of liberal and progressive ideas. John Stuart Mill hailed the revolution as evidence that \u2018democracy\u2019 could become \u2018the creed of the nation\u2019. As late as 1914, France was Europe\u2019s most advanced liberal democracy. Unlike in Britain, all men in France could vote, and...",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "ecba72e871a02b99bea1f198603127fe",
-    "feed_name": "LRB",
-    "title": "Masks on!",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/daisy-hay/glitter-and-dazzle",
-    "content": "Early\u200b in the first notebook of Jane Austen\u2019s teenage writings is a work entitled \u2018Jack and Alice: a novel\u2019; it runs to a little over 5500 words and was probably written between 1789 and 1791. The story is a gleeful demolition of adult nonsense, on most prominent display at a masquerade:",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "ef98a37da3734e479055f0f96f307751",
-    "feed_name": "LRB",
-    "title": "Screwball Comedies",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/ruby-hamilton/at-the-movies",
-    "content": "In\u200b an interview with Peter Bogdanovich, Howard Hawks said there was a \u2018great fault\u2019 withBringing Up Baby(1938): \u2018There were no normal people in it. Everyone you met was a screwball.\u2019 At the helm of these crazies, with Cary Grant\u2019s palaeontologist in tow, is Katharine Hepburn\u2019s Susan, except is she really crazy? Her dialogue has the stamp of the Marx...",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "c25875f28adf4699d29c8836702b578b",
-    "feed_name": "LRB",
-    "title": "Sarah Hall's \u2018Helm\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/philippa-conlon/polymers-are-everywhere",
-    "content": "The world\u200b is often just about to end in Sarah Hall\u2019s fiction. InThe Carhullan Army(2007), England is in a state of political and ecological collapse. \u2018You don\u2019t believe the world can really be broken or that anything terrible will happen during your lifetime,\u2019 the narrator reflects. But the unimaginable soon begins to feel inevitable: \u2018You just know when the...",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "3cae6d18ff84be10f3ccf0a3eea2daab",
-    "feed_name": "LRB",
-    "title": "In Cuba",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/j.s.-tennant/short-cuts",
-    "content": "When I\u200blivedin Cuba in 2010, more than 80 per cent of the population was employed by the state. The average monthly salary was 480 Cuban pesos (around $20); the basic-rate pension was less than half that. It wasn\u2019t much, but most Cubans own their home and until recently hardly anyone paid rent. Education and healthcare have been free since the revolution; utilities have always been...",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "c7b7a4d5560d15b94d25ac68c1050dc1",
-    "feed_name": "LRB",
-    "title": "Loose Change",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/june/loose-change",
-    "content": "I arrived to take my exam after half the allotted time had already passed. I hadn\u2019t been delayed by bombing, or even by a power cut, but.\u00a0.\u00a0.",
-    "date": "2026-06-17T15:37:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "17f632369d65c04a70b83916871ab949",
-    "feed_name": "Compact",
-    "title": "Our best deal ever",
-    "author": "",
-    "link": "https://www.compactmag.com/article/our-best-deal-ever/",
-    "content": "",
-    "date": "2026-06-17T15:37:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/17/arts/dance/cory-stearns-american-ballet-theater-retirement.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Cory Stearns, American Ballet Theater Star, on Retirement and the Pains of Aging",
-    "author": "Adam Nagourney and Paola Chapdelaine",
-    "link": "https://www.nytimes.com/2026/06/17/arts/dance/cory-stearns-american-ballet-theater-retirement.html",
-    "content": "\u201cI am not as buoyant as I used to be,\u201d Stearns said. At the same time, he added, \u201cMy understanding of human emotion and how to convey those emotions is much better than it used to be.\u201d",
-    "date": "2026-06-17T15:18:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/17/dining/no-cook-tzatziki-chickpea-salad-yes-please.html",
-    "feed_name": "NYT (Food)",
-    "title": "No-Cook Tzatziki Chickpea Salad? Yes, Please.",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/06/17/dining/no-cook-tzatziki-chickpea-salad-yes-please.html",
-    "content": "Hetty Lui McKinnon\u2019s tzatziki chickpea salad.",
-    "date": "2026-06-17T15:00:15",
-    "category": "NYT"
   }
 ]
