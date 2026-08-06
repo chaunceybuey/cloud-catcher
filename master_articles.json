@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=239089",
+    "feed_name": "Texas Tribune",
+    "title": "James Talarico rolls out economic agenda that takes aim at \u201cfalse Gospel of trickle-down economics\u201d",
+    "author": "By\u00a0Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17404137/texas-senate-james-talarico-economic-agenda-ken-paxton",
+    "content": "State Rep. James Talarico speaks during a town hall campaign stop at the International Center for Trade in Eagle Pass on July 13, 2026.",
+    "date": "2026-08-06T02:50:10",
+    "category": "Texas"
+  },
+  {
     "id": "6a73b0890afdb707f74ecbc6",
     "feed_name": "Wired (Science)",
     "title": "Welp, Nobody Saw SpaceX\u2019s Falcon 9 Rocket Crash Into the Moon",
@@ -19988,15 +19998,5 @@
     "content": "Hetty Lui McKinnon\u2019s tzatziki chickpea salad.",
     "date": "2026-06-17T15:00:15",
     "category": "NYT"
-  },
-  {
-    "id": "688272658df5d5dabd30f732199b73e3",
-    "feed_name": "The Atlantic",
-    "title": "The Unitary Executive Takes Over New Territory",
-    "author": "Mark Histed",
-    "link": "https://www.theatlantic.com/ideas/2026/06/unitary-executive-scientific-research/687565/",
-    "content": "The Trump administration\u2019s theory of how the federal government should work is a threat to American science.",
-    "date": "2026-06-17T14:41:52",
-    "category": "Magazines"
   }
 ]
