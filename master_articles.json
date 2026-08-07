@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "ca6407c300bd6c1bcd9aefa953738207",
+    "feed_name": "LRB",
+    "title": "Insulin Wars",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/insulin-wars",
+    "content": "Diabetes has been recognised as a fatal condition for thousands of years: its symptoms are described in ancient Chinese, Sanskrit and Greek texts. But it wasn\u2019t until the late 19th century that its cause began to be understood, as scientists conducted experiments on dogs. It was a pair of researchers at the University of Toronto in the early 1920s who \u2013 through a gruelling series...",
+    "date": "2026-08-07T11:46:58",
+    "category": "Magazines"
+  },
+  {
     "id": "95c34242a78b5d954de0404693b98b5b",
     "feed_name": "Compact",
     "title": "The Folly of Burrito Populism",
@@ -19700,6 +19710,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
+    "feed_name": "Interesting Times",
+    "title": "JD Vance on the Morality of the Trump Administration",
+    "author": "Ross Douthat and Victoria Chamberlin",
+    "link": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
+    "content": "I asked the vice president what is Christian about this White House.",
+    "date": "2026-06-18T20:17:59",
+    "category": "Uncategorized"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/18/dining/looking-for-a-perfect-world-cup-bar-we-found-three.html",
     "feed_name": "NYT (Food)",
     "title": "Looking for a Perfect World Cup Bar? We Found Three.",
@@ -19978,25 +19998,5 @@
     "content": "Delegates line up to speak on legislative priorities at the 2026 Texas State Republican Convention on June 13, 2026 in Houston.",
     "date": "2026-06-18T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "7938e862-4e8e-4425-a79f-9db7d61abea0",
-    "feed_name": "Economist",
-    "title": "A new golden age for Japanese banks comes with a catch",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch",
-    "content": "Smaller lenders are saddled with low-return bonds they cannot sell",
-    "date": "2026-06-18T09:23:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "0a42b746-d806-475a-a684-903535450fcd",
-    "feed_name": "Economist",
-    "title": "Europe buys the future, America builds it",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/18/europe-buys-the-future-america-builds-it",
-    "content": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures",
-    "date": "2026-06-18T09:21:50",
-    "category": "Magazines"
   }
 ]
