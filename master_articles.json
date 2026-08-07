@@ -360,6 +360,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/new-summer-desserts",
+    "feed_name": "NYT (Food)",
+    "title": "Don\u2019t Let Summer End Without Making These Treats",
+    "author": "Allison Jiang",
+    "link": "https://cooking.nytimes.com/article/new-summer-desserts",
+    "content": "Strawberry fluff, peaches and cream cake, and more desserts that will help you make the most of the season.",
+    "date": "2026-08-07T09:02:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/07/movies/monica-barbaro-callum-turner-one-night-only.html",
     "feed_name": "NYT (Arts)",
     "title": "Monica Barbaro and Callum Turner on Rom-Coms and the Politics of \u2018One Night Only\u2019",
@@ -19988,15 +19998,5 @@
     "content": "Students wait at a bus stop on the Texas A&amp;M University campus in College Station on Nov. 12, 2025.",
     "date": "2026-06-18T18:01:37",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/design/ramon-saturnino-art-basel.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Mexican Artist Ram\u00f2n Saturnino Is Breaking Down Walls",
-    "author": "Ray Mark Rinaldi",
-    "link": "https://www.nytimes.com/2026/06/18/arts/design/ramon-saturnino-art-basel.html",
-    "content": "Ram\u00f2n Saturnino, a Mexican architect and artist, is looking to create art that tells a story beyond his politics.",
-    "date": "2026-06-18T17:56:27",
-    "category": "NYT"
   }
 ]
