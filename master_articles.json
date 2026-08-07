@@ -140,6 +140,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=239110",
+    "feed_name": "Texas Tribune",
+    "title": "Who\u2019s leading in Texas\u2019 U.S. Senate race? We\u2019re tracking poll results between Ken Paxton and James Talarico.",
+    "author": "Hien An Ngo",
+    "link": "https://feeds.texastribune.org/link/16799/17404964/texas-us-senate-james-talarico-ken-paxton-polls",
+    "content": "Hien An Ngo",
+    "date": "2026-08-07T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239179",
+    "feed_name": "Texas Tribune",
+    "title": "Democrats in Congress, able to visit ICE lockups in Texas, describe grim conditions",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17404965/texas-immigration-detention-facilities-ice-congress-oversight-visits",
+    "content": "U.S. Rep. Joaquin Castro, D-San Antonio, speaks to the media in San Antonio, Texas after visiting the U.S. Immigration and Customs Enforcement detention center in Dilley, on Tuesday, July 28, 2026.",
+    "date": "2026-08-07T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/07/movies/new-movies-this-week-critics.html",
     "feed_name": "NYT (Arts)",
     "title": "8 New Movies Our Critics Are Talking About This Week",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/18/arts/design/art-basel-switzerland.html",
     "content": "The auction market is buoyant, but business feels precarious for dealers at the world\u2019s premier contemporary art fair.",
     "date": "2026-06-18T09:03:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/giacometti-dendur-met-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Giacometti\u2019s Goddesses Have Entered the Temple",
-    "author": "Karen Rosenberg and Daniel Terna",
-    "link": "https://www.nytimes.com/2026/06/18/arts/giacometti-dendur-met-review.html",
-    "content": "\u201cGiacometti in the Temple of Dendur\u201d includes more than a dozen sculptures making a rare journey abroad. Here, the 1932 bronze goddess-figure \u201cWalking Woman (I),\u201d a headless, stylized female that preceded his postwar attenuated, existential figures.",
-    "date": "2026-06-18T09:03:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/design/penn-station-renovation-plan-trump.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Can a Federal Plan Fix Dismal Penn Station? There\u2019s Hope.",
-    "author": "Michael Kimmelman and Tom Wilson",
-    "link": "https://www.nytimes.com/2026/06/18/arts/design/penn-station-renovation-plan-trump.html",
-    "content": "Everyone agrees that Penn Station is a disaster, but not on how to fix it. Now a Trump-backed, multibillion-dollar plan to rebuild it offers a promising step forward.",
-    "date": "2026-06-18T09:02:21",
     "category": "NYT"
   }
 ]
