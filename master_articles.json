@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/07/movies/the-last-house-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Last House\u2019 Review: End of the World as They Know It",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/08/07/movies/the-last-house-review.html",
+    "content": "When a mysterious force traps people in their homes, one family tries to ride out the apocalypse.",
+    "date": "2026-08-07T06:59:04",
+    "category": "NYT"
+  },
+  {
     "id": "4c2d3cfb060a70f9fd9f3f218425eb4e",
     "feed_name": "LRB",
     "title": "Maximum Pressure",
@@ -19986,16 +19996,6 @@
     "author": "Lisa Kennedy",
     "link": "https://www.nytimes.com/2026/06/18/movies/girls-like-girls-review.html",
     "content": "The pop star Hayley Kiyoko turns her hit single and best-selling book into a coming-of-age romance.",
-    "date": "2026-06-18T09:00:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/movies/leviticus-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Leviticus\u2019 Review: The Shocking Shapes That Love Can Take",
-    "author": "Beatrice Loayza",
-    "link": "https://www.nytimes.com/2026/06/18/movies/leviticus-review.html",
-    "content": "In this Australian chiller, a conversion therapy ritual unleashes shape-shifting ghouls that take the form of desired ones.",
     "date": "2026-06-18T09:00:48",
     "category": "NYT"
   }
