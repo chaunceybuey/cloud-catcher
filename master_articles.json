@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Charles S. Faddis, Ex-C.I.A. Officer Who Pushed Conspiracy Theories, Dies at 68",
+    "author": "Trip Gabriel",
+    "link": "https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html",
+    "content": "After 20 years in the C.I.A., he emerged as an outspoken critic of the agency and as a leader of the election-denial movement in Pennsylvania.",
+    "date": "2026-08-07T19:34:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/07/style/justin-trudeau-katy-perry-style.html",
     "feed_name": "NYT (Arts)",
     "title": "Justin Trudeau, Katy Perry and the Look of the Celebrity Statesman",
@@ -19988,15 +19998,5 @@
     "content": "In a major show at the Kunstmuseum Basel, Gegenwart, the artist considers technology, humanity and how people can preserve \u201cour human life\u201d in the age of A.I.",
     "date": "2026-06-18T18:06:08",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233764",
-    "feed_name": "Texas Tribune",
-    "title": "Texas college watchdog received nearly 70 complaints, opened one investigation, records show",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17363396/texas-colleges-universities-complaints-ombudsman-investigation",
-    "content": "Students wait at a bus stop on the Texas A&amp;M University campus in College Station on Nov. 12, 2025.",
-    "date": "2026-06-18T18:01:37",
-    "category": "Texas"
   }
 ]
