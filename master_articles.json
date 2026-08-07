@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/07/theater/edinburgh-fringe-what-to-see.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Edinburgh Fringe: 9 Shows That Are Sure to Make Waves",
+    "author": "Alex Marshall, Houman Barekat and Jillian Rayfield",
+    "link": "https://www.nytimes.com/2026/08/07/theater/edinburgh-fringe-what-to-see.html",
+    "content": "As the festival opens Friday, some of the acts already have significant word-of-mouth buzz or planned runs beyond the Fringe.",
+    "date": "2026-08-07T12:34:33",
+    "category": "NYT"
+  },
+  {
     "id": "ca6407c300bd6c1bcd9aefa953738207",
     "feed_name": "LRB",
     "title": "Insulin Wars",
@@ -19986,16 +19996,6 @@
     "author": "By Martha Pskowski,\u00a0Inside Climate News",
     "link": "https://feeds.texastribune.org/link/16799/17363184/texas-oil-fracking-wastewater-old-well-church-grandfalls-blowout",
     "content": "A pit in the parking lot of the First Baptist Church in Grandfalls, where the Railroad Commission plugged a wellbore   that had gushed thousands of gallons of wastewater. Grandfalls is southwest of Odessa, between Monahans and Fort Stockton.",
-    "date": "2026-06-18T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233703",
-    "feed_name": "Texas Tribune",
-    "title": "The Texas GOP wants closed primaries. Here\u2019s what that would mean for voters.",
-    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
-    "link": "https://feeds.texastribune.org/link/16799/17363185/texas-closed-primaries-republican-party-greg-abbott",
-    "content": "Delegates line up to speak on legislative priorities at the 2026 Texas State Republican Convention on June 13, 2026 in Houston.",
     "date": "2026-06-18T10:00:00",
     "category": "Texas"
   }
