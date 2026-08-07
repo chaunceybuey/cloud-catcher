@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "4c2d3cfb060a70f9fd9f3f218425eb4e",
+    "feed_name": "LRB",
+    "title": "Maximum Pressure",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n14/tony-wood/maximum-pressure",
+    "content": "If every accusationis a confession, then the US State Department report released on 20 July, which describes Cuba as \u2018the capital of 21st-century communism\u2019, must rank as one of the most deranged self-denunciations on record. Across its hundred pages, the report paints Cuba as the centre of hemispheric subversion, bent on destroying the United States through a \u2018long war of...",
+    "date": "2026-08-07T00:40:49",
+    "category": "Magazines"
+  },
+  {
+    "id": "59bb501296c5248d7c5385a1730a3850",
+    "feed_name": "LRB",
+    "title": "The Cult of Kim",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n14/ed-pulford/beyond-the-38th-parallel",
+    "content": "North Korea\u200b is an anomaly. Its GDP per capita is at least thirty times smaller than South Korea\u2019s, but it is also an industrialised, predominantly urban society with near total literacy and many more doctors and teachers than the other states below 150th place in global wealth rankings. This seeming contradiction is the product of historical contingencies often at odds with the...",
+    "date": "2026-08-07T00:40:49",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/06/arts/art-gallery-shows-to-see-in-august.html",
     "feed_name": "NYT (Arts)",
     "title": "Art Gallery Shows to See in August",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/18/movies/leviticus-review.html",
     "content": "In this Australian chiller, a conversion therapy ritual unleashes shape-shifting ghouls that take the form of desired ones.",
     "date": "2026-06-18T09:00:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/movies/the-death-of-robin-hood-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Death of Robin Hood\u2019 Review: Not a Merry Band",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/06/18/movies/the-death-of-robin-hood-review.html",
-    "content": "A darkly revisionist take on the medieval outlaw asks who gets to craft the heroic legends.",
-    "date": "2026-06-18T09:00:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/movies/color-book-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Color Book\u2019 Review: Love and Grieving",
-    "author": "Robert Daniels",
-    "link": "https://www.nytimes.com/2026/06/18/movies/color-book-review.html",
-    "content": "In this tender family drama, a widowed father and his disabled son overcome personal tragedy.",
-    "date": "2026-06-18T09:00:43",
     "category": "NYT"
   }
 ]
