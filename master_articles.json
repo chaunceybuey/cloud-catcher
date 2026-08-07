@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Gospel According to Anthony Bourdain",
+    "author": "Aaron Timms",
+    "link": "https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html",
+    "content": "Fans of the late writer and chef are cultlike in their devotion. But have they misunderstood his message?",
+    "date": "2026-08-07T14:40:59",
+    "category": "NYT"
+  },
+  {
+    "id": "6a75dcabddaef387fe994fff",
+    "feed_name": "Wired (Science)",
+    "title": "Scientists Used AI to Create 16 New Viruses",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "content": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+    "date": "2026-08-07T14:13:57",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/07/theater/edinburgh-fringe-what-to-see.html",
     "feed_name": "NYT (Arts)",
     "title": "Edinburgh Fringe: 9 Shows That Are Sure to Make Waves",
@@ -19978,25 +19998,5 @@
     "content": "San Antonio police officers collect firearms and ammunition during a gun buyback event at the Alamodome on Nov. 24, 2024.",
     "date": "2026-06-18T14:59:58",
     "category": "Texas"
-  },
-  {
-    "id": "02fcf169d63e3f5d431e1576c451abc3",
-    "feed_name": "Compact",
-    "title": "The Death and Life of American Exceptionalism",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-death-and-life-of-american-exceptionalism/",
-    "content": "",
-    "date": "2026-06-18T12:55:45",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19334",
-    "feed_name": "Stratechery",
-    "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
-    "content": "<p>An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles. </p>",
-    "date": "2026-06-18T10:00:00",
-    "category": "Tech"
   }
 ]
