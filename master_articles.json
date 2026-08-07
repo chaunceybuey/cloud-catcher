@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "95c34242a78b5d954de0404693b98b5b",
+    "feed_name": "Compact",
+    "title": "The Folly of Burrito Populism",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-folly-of-burrito-populism/",
+    "content": "",
+    "date": "2026-08-07T11:46:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "649d3471e3fcddb1098f3bf8114e9f60",
+    "feed_name": "The Atlantic",
+    "title": "Why I Love Blue Books",
+    "author": "Walt Hunter",
+    "link": "https://www.theatlantic.com/magazine/2026/09/higher-education-in-person-written-exams/687954/",
+    "content": "There\u2019s no better way for students to show their professors what they\u2019re capable of.",
+    "date": "2026-08-07T11:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "dd744248a21114374f61dbbdb6b5de72",
     "feed_name": "LRB",
     "title": "In Springfield",
@@ -19978,25 +19998,5 @@
     "content": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures",
     "date": "2026-06-18T09:21:50",
     "category": "Magazines"
-  },
-  {
-    "id": "ca6407c300bd6c1bcd9aefa953738207",
-    "feed_name": "LRB",
-    "title": "Insulin Wars",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/insulin-wars",
-    "content": "Diabetes has been recognised as a fatal condition for thousands of years: its symptoms are described in ancient Chinese, Sanskrit and Greek texts. But it wasn\u2019t until the late 19th century that its cause began to be understood, as scientists conducted experiments on dogs. It was a pair of researchers at the University of Toronto in the early 1920s who \u2013 through a gruelling series...",
-    "date": "2026-06-18T09:15:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
-    "feed_name": "Interesting Times",
-    "title": "Will the Iran Deal Last? JD Vance Is Betting His Future on It.",
-    "author": "Ross Douthat and Victoria Chamberlin",
-    "link": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
-    "content": "\u201cIf you think this is a bad deal, what is your alternative?\u201d",
-    "date": "2026-06-18T09:04:15",
-    "category": "Uncategorized"
   }
 ]
