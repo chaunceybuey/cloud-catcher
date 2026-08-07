@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/07/movies/action-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Action Movies to Stream Now",
+    "author": "Robert Daniels",
+    "link": "https://www.nytimes.com/2026/08/07/movies/action-movies-streaming.html",
+    "content": "This month\u2019s picks include martial arts masters, veteran snipers and dirty cops.",
+    "date": "2026-08-07T15:00:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/07/dining/this-dumpling-tomato-salad-is-peak-summer-eating.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Dumpling Tomato Salad Is Peak Summer Eating",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/08/07/dining/this-dumpling-tomato-salad-is-peak-summer-eating.html",
+    "content": "Hetty Lui McKinnon\u2019s dumpling tomato salad with chile crisp vinaigrette.",
+    "date": "2026-08-07T15:00:09",
+    "category": "NYT"
+  },
+  {
+    "id": "29874cd9a14c05696815ea31cecb01da",
+    "feed_name": "LRB",
+    "title": "The 2026 LRB Autumn Lecture in NYC: Lydia Davis on Marcus Aurelius",
+    "author": "",
+    "link": "https://www.tickettailor.com/events/londonreviewofbooks/2342281",
+    "content": "Lydia Davis will reflect on some of the concepts of the Stoic philosophers, especially the Roman emperor Marcus Aurelius. She will associate these concepts with the ideas conveyed by other texts, including some of the English sonnets, and will also describe her attempts to try out the ideas of the Stoics on the vagaries of her own daily life.",
+    "date": "2026-08-07T14:54:03",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html",
     "feed_name": "NYT (Arts)",
     "title": "The Gospel According to Anthony Bourdain",
@@ -19967,36 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17363324/texas-ted-cruz-college-sports-nil-regulations-senate",
     "content": "U.S. Sen. Ted Cruz speaks to delegates and attendees at the George R. Brown Convention Center in Houston during the 2026 Texas State Republican Convention on June 13, 2026.",
     "date": "2026-06-18T15:35:38",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/theater/mariska-hargitay-broadway-every-brilliant-thing.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mariska Hargitay on \u2018Every Brilliant Thing\u2019 and Finding Inspiration From Jalen Brunson",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/06/18/theater/mariska-hargitay-broadway-every-brilliant-thing.html",
-    "content": "The \u201cLaw & Order: SVU\u201d actress \u201cwas really scared\u201d about starring in \u201cEvery Brilliant Thing.\u201d Who does she look to for inspiration? The Knicks, of course.",
-    "date": "2026-06-18T15:00:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/dining/why-have-two-rib-ends-when-you-could-have-all-rib-ends.html",
-    "feed_name": "NYT (Food)",
-    "title": "Why Have Two Rib Ends When You Could Have All Rib Ends",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/06/18/dining/why-have-two-rib-ends-when-you-could-have-all-rib-ends.html",
-    "content": "Toni Chapman\u2019s sticky pineapple ribs.",
-    "date": "2026-06-18T15:00:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233742",
-    "feed_name": "Texas Tribune",
-    "title": "U.S. Supreme Court unanimously sides with Texas man, rules it\u2019s not a crime for marijuana users to have guns",
-    "author": "By Lindsay Whitehurst,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17363325/supreme-court-marijuana-guns-texas-ali-danial-hemani",
-    "content": "San Antonio police officers collect firearms and ammunition during a gun buyback event at the Alamodome on Nov. 24, 2024.",
-    "date": "2026-06-18T14:59:58",
     "category": "Texas"
   }
 ]
