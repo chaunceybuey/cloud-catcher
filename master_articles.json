@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "dd744248a21114374f61dbbdb6b5de72",
+    "feed_name": "LRB",
+    "title": "In Springfield",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/in-springfield",
+    "content": "It has never been easy to get asylum in the US, but during the last two years it has become almost impossible. The Trump administration has.\u00a0.\u00a0.",
+    "date": "2026-08-07T10:53:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health",
     "feed_name": "ProPublica",
     "title": "House Democrats Demand Answers From Trump\u2019s VA on Vets Struggling to Access Mental Healthcare",
@@ -19988,15 +19998,5 @@
     "content": "\u201cIf you think this is a bad deal, what is your alternative?\u201d",
     "date": "2026-06-18T09:04:15",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/design/art-basel-switzerland.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At Art Basel, a Nervy, Make-or-Break Mood",
-    "author": "Scott Reyburn",
-    "link": "https://www.nytimes.com/2026/06/18/arts/design/art-basel-switzerland.html",
-    "content": "The auction market is buoyant, but business feels precarious for dealers at the world\u2019s premier contemporary art fair.",
-    "date": "2026-06-18T09:03:36",
-    "category": "NYT"
   }
 ]
