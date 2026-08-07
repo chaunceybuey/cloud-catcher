@@ -170,6 +170,16 @@
     "category": "Magazines"
   },
   {
+    "id": "3ef5de8c4cb5a8603549d3874e61ff51",
+    "feed_name": "The Atlantic",
+    "title": "The Dishonesty of True Crime",
+    "author": "Elizabeth Bruenig",
+    "link": "https://www.theatlantic.com/ideas/2026/08/what-true-crime-gets-wrong-about-crime/688214/",
+    "content": "The hit Netflix documentaryMaternal Instincttidies a far more complicated story.",
+    "date": "2026-08-07T11:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "dd744248a21114374f61dbbdb6b5de72",
     "feed_name": "LRB",
     "title": "In Springfield",
@@ -19988,15 +19998,5 @@
     "content": "<p>An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles. </p>",
     "date": "2026-06-18T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233576",
-    "feed_name": "Texas Tribune",
-    "title": "An old well began gushing oilfield wastewater in a West Texas church parking lot, sparking a costly cleanup",
-    "author": "By Martha Pskowski,\u00a0Inside Climate News",
-    "link": "https://feeds.texastribune.org/link/16799/17363184/texas-oil-fracking-wastewater-old-well-church-grandfalls-blowout",
-    "content": "A pit in the parking lot of the First Baptist Church in Grandfalls, where the Railroad Commission plugged a wellbore   that had gushed thousands of gallons of wastewater. Grandfalls is southwest of Odessa, between Monahans and Fort Stockton.",
-    "date": "2026-06-18T10:00:00",
-    "category": "Texas"
   }
 ]
