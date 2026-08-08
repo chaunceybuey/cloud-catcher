@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/08/arts/music/abbe-lane-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Abbe Lane, Sultry Singer With a Latin Flair, Dies at 94",
+    "author": "Anita Gates",
+    "link": "https://www.nytimes.com/2026/08/08/arts/music/abbe-lane-dead.html",
+    "content": "Abbe Lane in the 1950s. When she joined Xavier Cugat\u2019s orchestra, she was \u201cthe most exotic Jewish girl from Brooklyn ever to become a Latin star,\u201d the singer Eddie Fisher wrote in his memoir.",
+    "date": "2026-08-08T22:40:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/08/arts/music/william-orbit-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "William Orbit, Producer for Madonna\u2019s \u2018Ray of Light,\u2019 Dies at 69",
@@ -19988,15 +19998,5 @@
     "content": "\u201cTrump\u2019s answer to the question, \u2018Who did you go to war with?\u2019 and \u2018How did it end?\u2019 will be the same answer: \u2018Iran,\u2019\u201d Kimmel said.",
     "date": "2026-06-19T06:36:04",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233833",
-    "feed_name": "Texas Tribune",
-    "title": "Records challenge UT-Austin\u2019s allegations against fired KUT leader",
-    "author": "By Andrew Weber and Neena Satijay,\u00a0KUT News",
-    "link": "https://feeds.texastribune.org/link/16799/17363655/ut-austin-kut-records-firing-debbie-hiott",
-    "content": "KUT General Manager Debbie Hiott addresses attendees at the KUT Festival ahead of the keynote address at the Lady Bird Johnson Auditorium in the LBJ Library in Austin on May 1, 2026. Hiott was later fired by the University of Texas.",
-    "date": "2026-06-19T00:52:39",
-    "category": "Texas"
   }
 ]
