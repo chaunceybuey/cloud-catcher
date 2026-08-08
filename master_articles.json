@@ -120,6 +120,76 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/08/arts/music/9-songs-were-talking-about-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Karol G, Flo: Songs to Know This Week",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/08/08/arts/music/9-songs-were-talking-about-this-week.html",
+    "content": "Karol G\u2019s track \u201cMaybe,\u201d from her new album, \u201cNo Me Arrepiento de Sentir Tanto,\u201d is a plaintive goodbye.",
+    "date": "2026-08-08T09:02:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/08/arts/music/where-a-ring-of-steel-once-stood-belfast-unites-in-song.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Where a Ring of Steel Once Stood, Belfast Unites at the Fleadh Cheoil",
+    "author": "Megan Specia",
+    "link": "https://www.nytimes.com/2026/08/08/arts/music/where-a-ring-of-steel-once-stood-belfast-unites-in-song.html",
+    "content": "Buskers performing on the streets of Belfast, Northern Ireland, on Monday as part of the Fleadh Cheoil.",
+    "date": "2026-08-08T09:01:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/08/dining/drinks/wines-for-summer.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Best Wines for Summer",
+    "author": "Eric Asimov",
+    "link": "https://www.nytimes.com/2026/08/08/dining/drinks/wines-for-summer.html",
+    "content": "It\u2019s not the color that\u2019s important in hot weather, but the weight and texture of these wines.",
+    "date": "2026-08-08T09:01:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/08/arts/music/kacey-musgraves-middle-of-nowhere.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kacey Musgraves Just Wants to Find the Perfect Dirty Martini",
+    "author": "Charlotte Dulany",
+    "link": "https://www.nytimes.com/2026/08/08/arts/music/kacey-musgraves-middle-of-nowhere.html",
+    "content": "\u201cI need an ice-cold, perfect balance of dirty, and I think people don\u2019t go dirty enough,\u201d the country singer said.",
+    "date": "2026-08-08T09:00:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/movies/100000011022361/teenage-sex-and-death-at-camp-miasma-makes-a-case-for-embracing-beloved-problematic-films.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Teenage Sex and Death at Camp Miasma\u2019 Makes a Case For Embracing Beloved Problematic Films",
+    "author": "Alissa Wilkinson, Haimy Assefa, Edward Vega, Gabriel Blanco and L\u00e9o Hamelin",
+    "link": "https://www.nytimes.com/video/movies/100000011022361/teenage-sex-and-death-at-camp-miasma-makes-a-case-for-embracing-beloved-problematic-films.html",
+    "content": "Our film critic Alissa Wilkinson reviews \u201cTeenage Sex and Death at Camp Miasma,\u201d dissecting its argument not to discard your favorite films that may not have aged well.",
+    "date": "2026-08-08T09:00:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/08/arts/ventriloquist-dummies-austin-phillips.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How One of the Last Ventriloquists in the Country Brings Dummies to Life",
+    "author": "Cornelia Channing and Sasha Arutyunova",
+    "link": "https://www.nytimes.com/2026/08/08/arts/ventriloquist-dummies-austin-phillips.html",
+    "content": "From his studio in Maine, one of the last full-time ventriloquist puppet makers in the country combines mechanics, painting and performance to create one-of-a-kind characters.",
+    "date": "2026-08-08T09:00:10",
+    "category": "NYT"
+  },
+  {
+    "id": "6a763fd54aedcde7771f17cb",
+    "feed_name": "Wired (Science)",
+    "title": "Spokane Shows What the New Era of Wildfires Looks Like",
+    "author": "Sachi Kitajima Mulkey",
+    "link": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
+    "content": "With rising temperatures and drier conditions, fires are more likely to explode. And with more people living next to forests, the results can be catastrophic.",
+    "date": "2026-08-08T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21733-blanton-museum-of-art-blanton-all-day",
     "feed_name": "KMFA",
     "title": "Blanton Museum of Art: Blanton All Day",
@@ -19927,76 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/18/dining/world-cup-tourists-food-videos.html",
     "content": "Some visiting sports fans are charmed by the United States. The country is even more charmed by them.",
     "date": "2026-06-18T19:27:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/design/knicks-gavin-snider-devon-rodriguez.html",
-    "feed_name": "NYT (Arts)",
-    "title": "While Knicks Fans Celebrate, a New York Artist Fumes",
-    "author": "Zachary Small and Frank Reneau",
-    "link": "https://www.nytimes.com/2026/06/18/arts/design/knicks-gavin-snider-devon-rodriguez.html",
-    "content": "After the Knicks promoted Gavin Snider\u2019s watercolor painting in the wake of their N.B.A. title, one of the most famous artists on social media posted an uncannily similar work.",
-    "date": "2026-06-18T19:25:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/sabrina-carpenter-restraining-order.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Man Who Tried to Enter Sabrina Carpenter\u2019s Home Gets 5-Year Restraining Order",
-    "author": "Aimee Ortiz",
-    "link": "https://www.nytimes.com/2026/06/18/arts/sabrina-carpenter-restraining-order.html",
-    "content": "Sabrina Carpenter said the man involved was \u201ca complete stranger to me,\u201d and said she had \u201cno desire to meet him or communicate with him.\u201d",
-    "date": "2026-06-18T19:23:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/danny-simmons-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Danny Simmons, Painter and Activist From a Creative Family, Dies at 72",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/06/18/arts/danny-simmons-dead.html",
-    "content": "Danny Simmons at his home in Brooklyn in 2004. \u201cDanny\u2019s the fine artist\u201d in the family, his brother Russell Simmons told The New York Times in 2004. \u201cThe real thing, a cultural hero.\u201d",
-    "date": "2026-06-18T19:17:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233785",
-    "feed_name": "Texas Tribune",
-    "title": "State investigators issue final Camp Mystic report detailing cascading failures during July 4 flood",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17363449/texas-july-4-flood-legislative-commitee-report-camp-mystic",
-    "content": "Investigator Casey Garrett speaks at the House General Investigating Committee on the July 2025 Flooding Events meeting at the Capitol in Austin on June 18, 2026. Garrett gave updates from interviewing eye witnesses from the July 2025 flooding.",
-    "date": "2026-06-18T19:04:14",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/television/boroughs-canceled-duffer-brothers-netflix.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Netflix Cancels Duffer Brothers\u2019 \u2018The Boroughs\u2019 After One Season",
-    "author": "Reggie Ugwu",
-    "link": "https://www.nytimes.com/2026/06/18/arts/television/boroughs-canceled-duffer-brothers-netflix.html",
-    "content": "The Duffer brothers, who produced the series and created \u201cStranger Things,\u201d recently left the streamer for Paramount.",
-    "date": "2026-06-18T18:27:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/design/england-outdoor-sculpture-shows.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Outdoor Sculpture Shows Feature Henry Moore, Lynn Chadwick in England This Summer",
-    "author": "Scott Reyburn",
-    "link": "https://www.nytimes.com/2026/06/18/arts/design/england-outdoor-sculpture-shows.html",
-    "content": "As art lovers head to London for the Treasure House Fair, outdoor sculpture shows featuring Henry Moore, Lynn Chadwick and big names beckon.",
-    "date": "2026-06-18T18:13:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/arts/design/treasure-house-fair-london.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Treasure House Fair Arrives at the Right Time in London",
-    "author": "Dale Berning Sawa",
-    "link": "https://www.nytimes.com/2026/06/18/arts/design/treasure-house-fair-london.html",
-    "content": "London, with its well-known locations like the Palace of Westminster\u2019s Elizabeth Tower, which houses Big Ben, has traditionally drawn art dealers and collectors in late June.",
-    "date": "2026-06-18T18:10:18",
     "category": "NYT"
   }
 ]
