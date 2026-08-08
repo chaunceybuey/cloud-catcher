@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "304b28f21145194c80510cf0838df969",
+    "feed_name": "The Atlantic",
+    "title": "The Color Recession May Be Permanent",
+    "author": "Amogh Dimri",
+    "link": "https://www.theatlantic.com/ideas/2026/08/colorless-gray-products-houses/688174/",
+    "content": "Consumers are so afraid of getting colors wrong, they don\u2019t use them at all.",
+    "date": "2026-08-08T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/08/arts/music/9-songs-were-talking-about-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "Karol G, Flo: Songs to Know This Week",
@@ -19988,15 +19998,5 @@
     "content": "Discrimination against Israelis qua Israelis\u2014and the \u201cZionists\u201d who appear as their proxies\u2014is a moral wrong.",
     "date": "2026-06-18T19:49:14",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/dining/world-cup-tourists-food-videos.html",
-    "feed_name": "NYT (Food)",
-    "title": "These World Cup Tourists Loving American Food Aren\u2019t All What They Seem",
-    "author": "Pete Wells",
-    "link": "https://www.nytimes.com/2026/06/18/dining/world-cup-tourists-food-videos.html",
-    "content": "Some visiting sports fans are charmed by the United States. The country is even more charmed by them.",
-    "date": "2026-06-18T19:27:11",
-    "category": "NYT"
   }
 ]
