@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a763d9ec404430b49c6fc21",
+    "feed_name": "Wired (Science)",
+    "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
+    "content": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
+    "date": "2026-08-08T13:15:21",
+    "category": "Magazines"
+  },
+  {
     "id": "6a7651c9ff4b3e6c00b63e7a",
     "feed_name": "Wired (Science)",
     "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX\u2019s Rocket",
@@ -19988,15 +19998,5 @@
     "content": "The movie, starring Zoey Deutch and Nick Robinson, begins as a tear-jerker and morphs into a poignant rom-com.",
     "date": "2026-06-18T23:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233821",
-    "feed_name": "Texas Tribune",
-    "title": "Paxton breaks with Texas GOP\u2019s anti-IVF platform, saying he supports the procedure",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17363612/texas-paxton-republican-ivf-platform",
-    "content": "Texas Attorney General and Republican candidate for U.S. Senate Ken Paxton speaks to delegates and attendees at the 2026 Texas State Republican Convention in Houston on June 12, 2026.",
-    "date": "2026-06-18T22:44:59",
-    "category": "Texas"
   }
 ]
