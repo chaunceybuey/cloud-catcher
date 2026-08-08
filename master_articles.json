@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/08/dining/our-most-popular-desserts-this-summer.html",
+    "feed_name": "NYT (Food)",
+    "title": "Our Most Popular Desserts This Summer",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/08/08/dining/our-most-popular-desserts-this-summer.html",
+    "content": "Chez Panisse\u2019s blueberry cobbler from Lindsey Remolif Shere, adapted by Molly O\u2019Neill.",
+    "date": "2026-08-08T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "6a763d9ec404430b49c6fc21",
     "feed_name": "Wired (Science)",
     "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-zoey-deutch.html",
     "content": "The movie, starring Zoey Deutch and Nick Robinson, begins as a tear-jerker and morphs into a poignant rom-com.",
     "date": "2026-06-18T23:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-an-unexpected-recipient.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Voicemails for Isabelle\u2019 Review: An Unexpected Recipient",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-an-unexpected-recipient.html",
-    "content": "The movie, starring Zoey Deutch and Nick Robinson, begins as a tear-jerker and morphs into a poignant rom-com.",
-    "date": "2026-06-18T23:00:05",
     "category": "NYT"
   }
 ]
