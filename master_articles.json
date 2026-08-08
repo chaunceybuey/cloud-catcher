@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a7651c9ff4b3e6c00b63e7a",
+    "feed_name": "Wired (Science)",
+    "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX\u2019s Rocket",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+    "content": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It\u2019s pretty small.",
+    "date": "2026-08-08T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html",
     "feed_name": "Douthat",
     "title": "Who Is My Enemy? I\u2019m No Longer Sure.",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17363612/texas-paxton-republican-ivf-platform",
     "content": "Texas Attorney General and Republican candidate for U.S. Senate Ken Paxton speaks to delegates and attendees at the 2026 Texas State Republican Convention in Houston on June 12, 2026.",
     "date": "2026-06-18T22:44:59",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233807",
-    "feed_name": "Texas Tribune",
-    "title": "Landmark $211M tax-break deal could trump SpaceX\u2019s deal in South Texas",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17363543/tax-abatement-saronic-brownsville-texas",
-    "content": "Saronic, an Austin-based manufacturer, is seeking tax abatements to build a manufacturing facility in Brownsville to build AI-guided boats.",
-    "date": "2026-06-18T21:02:40",
     "category": "Texas"
   }
 ]
