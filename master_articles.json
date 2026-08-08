@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html",
+    "feed_name": "Douthat",
+    "title": "Who Is My Enemy? I\u2019m No Longer Sure.",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html",
+    "content": "Where does the side of the angels really lie?",
+    "date": "2026-08-08T11:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "304b28f21145194c80510cf0838df969",
     "feed_name": "The Atlantic",
     "title": "The Color Recession May Be Permanent",
@@ -145,6 +155,16 @@
     "title": "Where a Ring of Steel Once Stood, Belfast Unites at the Fleadh Cheoil",
     "author": "Megan Specia",
     "link": "https://www.nytimes.com/2026/08/08/arts/music/where-a-ring-of-steel-once-stood-belfast-unites-in-song.html",
+    "content": "Buskers performing on the streets of Belfast, Northern Ireland, on Monday as part of the Fleadh Cheoil.",
+    "date": "2026-08-08T09:01:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/08/arts/music/irish-festival-belfast-fleadh-cheoil.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Where a Ring of Steel Once Stood, Belfast Unites at the Fleadh Cheoil",
+    "author": "Megan Specia",
+    "link": "https://www.nytimes.com/2026/08/08/arts/music/irish-festival-belfast-fleadh-cheoil.html",
     "content": "Buskers performing on the streets of Belfast, Northern Ireland, on Monday as part of the Fleadh Cheoil.",
     "date": "2026-08-08T09:01:43",
     "category": "NYT"
@@ -19978,25 +19998,5 @@
     "content": "There\u2019s no such thing as too many wings at the Wingbar in Cobble Hill.",
     "date": "2026-06-18T20:00:03",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/20445-ishida-dance-company-waiting-rex",
-    "feed_name": "KMFA",
-    "title": "Ishida Dance Company: waiting / REX",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/20445-ishida-dance-company-waiting-rex",
-    "content": "ISHIDA DANCE COMPANY PRESENTS\n\nWAITING / REX\n\nJUNE 18 - 20 | DELL FINE ARTS CENTER\n\n\n\nNationally renowned\u00a0ISHIDA Dance Company\u00a0is back.\u00a0Pulitzer prize-winning dance critic\u00a0Sarah L. Kaufman\u00a0described Ishida\u2019s work as \u201cdeeply poignant\u201d and \u201cremarkable\u201d. \u201cThe dancers weaved pure magic in the air, and you could almost hear jaws dropping as they moved\u2026\u201d wrote\u00a0Brett Cullum,\u00a0Broadway World.\n\u00a0\n\nwaiting / REX\u00a0is a daring world premiere contemporary dance double bill by\u00a0critically acclaimed\u00a0ISHIDA, bringing into visceral dialogue the works of\u00a0Samuel Beckett\u00a0and\u00a0Sophocles. Reimagining\u00a0Waiting for Godot\u00a0and\u00a0Oedipus Tyrannus\u00a0through a striking physical lens, these classics become charged, embodied experiences.\u00a0waiting\u00a0suspends you in cycles of repetition, humor, and longing, while\u00a0REX\u00a0unfolds a haunting, surreal dreamscape following a young man\u2019s search for identity, power, and truth.\u00a0Together, they form an emotionally charged diptych\u2014a rare and transformative encounter of lessons on blindness shaped through sensuality and meticulous physicality.\n\u00a0\n\nFor ticketing questions contact:\u00a0snorman@ishidadance.org\n\n\u200bMature themes: best for 14+\n\nEvent Details\nDate: Thursday, June 18, 2026 - Saturday, June 20, 2026\nTime: 8:00 P.M.\nVenue: Dell Fine Arts Center St Andew's\n\nTicket Information\nCost: Starting at $30.00\nPhone: \n\nPresenter Details: ISHIDA\u00a0Dance\u00a0presents original ISHIDA poetic narratives as well as works by internationally renowned choreographers working with some of the most sought-after dancers from Texas and abroad (Houston Ballet, Ballet BC, Nederlands Dans Theater, G\u00f6teborgsOperans Danskompani, Ballett Theater Basil, English National Ballet, Staatsoper Wien). Choreographers premiere new works as well as past works that have never been performed for Texas audiences. These unique works aim to invite empathy and introspection to lead to greater kindness towards oneself and the community.",
-    "date": "2026-06-18T20:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "b8e866d3fc51e07fa8c7f2a6b15b92db",
-    "feed_name": "The Atlantic",
-    "title": "The Left-Wing Case Against Anti-Zionism",
-    "author": "Adam Louis-Klein",
-    "link": "https://www.theatlantic.com/ideas/2026/06/left-against-antizionism-israel/687616/",
-    "content": "Discrimination against Israelis qua Israelis\u2014and the \u201cZionists\u201d who appear as their proxies\u2014is a moral wrong.",
-    "date": "2026-06-18T19:49:14",
-    "category": "Magazines"
   }
 ]
