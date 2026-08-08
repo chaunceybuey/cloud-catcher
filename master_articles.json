@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/08/dining/california-knows-how-to-salad.html",
+    "feed_name": "NYT (Food)",
+    "title": "California Knows How to Salad",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/08/dining/california-knows-how-to-salad.html",
+    "content": "Keith Corbin\u2019s pluot-tomato salad with suya pistachio crunch, adapted by Genevieve Ko.",
+    "date": "2026-08-08T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/08/dining/our-most-popular-desserts-this-summer.html",
     "feed_name": "NYT (Food)",
     "title": "Our Most Popular Desserts This Summer",
@@ -19988,15 +19998,5 @@
     "content": "From left: Texas Attorney General Ken Paxton and state Rep. James Talarico, D-Austin. The two are the Republican and Democratic nominees for the U.S. Senate race, to be decided in November.",
     "date": "2026-06-18T23:39:29",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-zoey-deutch.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Voicemails for Isabelle\u2019 Review: An Unexpected Recipient",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/06/18/movies/voicemails-for-isabelle-review-zoey-deutch.html",
-    "content": "The movie, starring Zoey Deutch and Nick Robinson, begins as a tear-jerker and morphs into a poignant rom-com.",
-    "date": "2026-06-18T23:00:06",
-    "category": "NYT"
   }
 ]
