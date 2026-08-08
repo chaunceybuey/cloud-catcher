@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/08/arts/music/william-orbit-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "William Orbit, Producer for Madonna\u2019s \u2018Ray of Light,\u2019 Dies at 69",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/08/08/arts/music/william-orbit-dead.html",
+    "content": "A three-time Grammy winner who was renowned for his mastery of electronic music styles, he also worked with Blur, Pink, Britney Spears and All Saints.",
+    "date": "2026-08-08T21:53:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21765-casa-de-la-cultura-books-y-baile",
     "feed_name": "KMFA",
     "title": "Casa de la Cultura: Books y Baile",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17363655/ut-austin-kut-records-firing-debbie-hiott",
     "content": "KUT General Manager Debbie Hiott addresses attendees at the KUT Festival ahead of the keynote address at the Lady Bird Johnson Auditorium in the LBJ Library in Austin on May 1, 2026. Hiott was later fired by the University of Texas.",
     "date": "2026-06-19T00:52:39",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233826",
-    "feed_name": "Texas Tribune",
-    "title": "Talarico goes all-in with attack on Paxton plea deal in child sex abuse case",
-    "author": "Taylor Goldenstein",
-    "link": "https://feeds.texastribune.org/link/16799/17363636/texas-senate-james-talarico-ken-paxton-sex-abuse-plea-deal",
-    "content": "From left: Texas Attorney General Ken Paxton and state Rep. James Talarico, D-Austin. The two are the Republican and Democratic nominees for the U.S. Senate race, to be decided in November.",
-    "date": "2026-06-18T23:39:29",
     "category": "Texas"
   }
 ]
