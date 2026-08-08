@@ -130,6 +130,26 @@
     "category": "NYT"
   },
   {
+    "id": "c7ab657a0f6382a721df961702b5b5a6",
+    "feed_name": "The Atlantic",
+    "title": "Why MAGA Really Hates Fauci",
+    "author": "Peter Wehner",
+    "link": "https://www.theatlantic.com/ideas/2026/08/fauci-paul-covid-wuhan/688233/",
+    "content": "In the aftermath of pandemics, people either try to forget them or find others to blame for them.",
+    "date": "2026-08-08T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "dcaa27ea3ccb38de8552c450a367b6e7",
+    "feed_name": "The Atlantic",
+    "title": "What Mitch McConnell Did to America",
+    "author": "Idrees Kahloon",
+    "link": "https://www.theatlantic.com/ideas/2026/08/mitch-mcconnell-gop-legacy/688221/",
+    "content": "The former Senate GOP leader\u2019s legacy will make America harder to govern for years to come.",
+    "date": "2026-08-08T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "304b28f21145194c80510cf0838df969",
     "feed_name": "The Atlantic",
     "title": "The Color Recession May Be Permanent",
@@ -19978,25 +19998,5 @@
     "content": "Saronic, an Austin-based manufacturer, is seeking tax abatements to build a manufacturing facility in Brownsville to build AI-guided boats.",
     "date": "2026-06-18T21:02:40",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
-    "feed_name": "Interesting Times",
-    "title": "JD Vance on the Morality of the Trump Administration",
-    "author": "Ross Douthat and Victoria Chamberlin",
-    "link": "https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html",
-    "content": "I asked the vice president what is Christian about this White House.",
-    "date": "2026-06-18T20:17:59",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/18/dining/looking-for-a-perfect-world-cup-bar-we-found-three.html",
-    "feed_name": "NYT (Food)",
-    "title": "Looking for a Perfect World Cup Bar? We Found Three.",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/06/18/dining/looking-for-a-perfect-world-cup-bar-we-found-three.html",
-    "content": "There\u2019s no such thing as too many wings at the Wingbar in Cobble Hill.",
-    "date": "2026-06-18T20:00:03",
-    "category": "NYT"
   }
 ]
