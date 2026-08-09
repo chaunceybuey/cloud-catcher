@@ -130,6 +130,16 @@
     "category": "NYT"
   },
   {
+    "id": "e95c981ffc3d381ba85b370758288c34",
+    "feed_name": "The Atlantic",
+    "title": "France\u2019s Best Argument Against Racism Isn\u2019t Working",
+    "author": "Thomas Chatterton Williams",
+    "link": "https://www.theatlantic.com/ideas/2026/08/france-soccer-far-right-racism/688235/",
+    "content": "The country\u2019s most beloved men are paragons of diversity, but ethnic resentment is still winning.",
+    "date": "2026-08-09T13:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "a02324bcc5a7931dc106c48b23b6c81a",
     "feed_name": "The Atlantic",
     "title": "Are Raccoons Evolving Into Pets?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/19/arts/design/surrealism-art-london-exhibition.html",
     "content": "A century-old artistic revolution that changed the world is on display at a London art exhibition.",
     "date": "2026-06-19T09:00:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/19/arts/zero-parades-spies-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Like Disco Elysium, Zero Parades Is an R.P.G. Masterpiece",
-    "author": "Christopher Byrd",
-    "link": "https://www.nytimes.com/2026/06/19/arts/zero-parades-spies-review.html",
-    "content": "With Zero Parades, the studio behind the celebrated Disco Elysium again sends a fallible professional through a complex world.",
-    "date": "2026-06-19T09:00:16",
     "category": "NYT"
   }
 ]
