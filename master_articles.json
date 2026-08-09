@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/09/dining/its-not-summer-without-ratatouille.html",
+    "feed_name": "NYT (Food)",
+    "title": "It\u2019s Not Summer Without Ratatouille",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/09/dining/its-not-summer-without-ratatouille.html",
+    "content": "Melissa Clark\u2019s ratatouille.",
+    "date": "2026-08-09T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/09/dining/laughing-in-delight-while-you-eat-delicious.html",
     "feed_name": "Weeknight Dishes",
     "title": "Laughing-in-Delight-While-You-Eat Delicious",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/19/arts/design/woody-de-othello-sculptor-exhibition.html",
     "content": "Woody De Othello at his studio in Oakland, Calif. \u201cThe first time I touched clay, I had this epiphany where it felt like I\u2019d done it before,\u201d he said, describing the moment he met his preferred medium.",
     "date": "2026-06-19T09:00:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/19/arts/design/surrealism-art-london-exhibition.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Britain Became Surreal",
-    "author": "Jillian Rayfield",
-    "link": "https://www.nytimes.com/2026/06/19/arts/design/surrealism-art-london-exhibition.html",
-    "content": "A century-old artistic revolution that changed the world is on display at a London art exhibition.",
-    "date": "2026-06-19T09:00:24",
     "category": "NYT"
   }
 ]
