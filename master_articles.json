@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/08/t-magazine/maurizio-cattelan-last-supper-dinner-berlin.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Maurizio Cattelan Threw His Own Version of the Last Supper",
+    "author": "Gisela Williams",
+    "link": "https://www.nytimes.com/2026/08/08/t-magazine/maurizio-cattelan-last-supper-dinner-berlin.html",
+    "content": "In Berlin, the artist Maurizio Cattelan gathered friends and collaborators for a dinner with a dramatic theme.",
+    "date": "2026-08-09T01:53:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/08/arts/music/abbe-lane-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Abbe Lane, Sultry Singer With a Latin Flair, Dies at 94",
@@ -19988,15 +19998,5 @@
     "content": "In the installation, said the architect Morten Schmidt, \u201cyou look directly up into the cosmos. But at the same time, it makes you reflect inward.\u201d",
     "date": "2026-06-19T08:23:51",
     "category": "NYT"
-  },
-  {
-    "id": "6a30384753a70bbdf43dc530",
-    "feed_name": "Wired (Science)",
-    "title": "Pseudoscientific Cancer \u2018Treatment\u2019 Involves Gassing Naked People in Plastic Bags With Bleach",
-    "author": "David Gilbert",
-    "link": "https://www.wired.com/story/pseudoscientific-cancer-treatment-involves-gassing-naked-people-in-plastic-bags-with-bleach/",
-    "content": "A London clinic owner has claimed he is treating people with stage 4 cancer by sealing them into a plastic bag while they're naked from the waist down and gassing them with chlorine dioxide.",
-    "date": "2026-06-19T07:00:00",
-    "category": "Magazines"
   }
 ]
