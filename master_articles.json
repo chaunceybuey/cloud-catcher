@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/09/arts/music/tupac-shakur-murder-trial-duane-davis.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What to Know About the Tupac Murder, Trial and Suspect",
+    "author": "Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/08/09/arts/music/tupac-shakur-murder-trial-duane-davis.html",
+    "content": "Tupac Shakur performing in 1994, two years before he was killed at the age of 25.",
+    "date": "2026-08-09T09:01:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/08/t-magazine/maurizio-cattelan-last-supper-dinner-berlin.html",
     "feed_name": "NYT (Arts)",
     "title": "How Maurizio Cattelan Threw His Own Version of the Last Supper",
@@ -19988,15 +19998,5 @@
     "content": "A new report shows that government agencies failed to communicate and includes recommendations for stronger oversight in a bid to avert future disasters.",
     "date": "2026-06-19T09:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/19/arts/james-turrell-aros-aarhus.html",
-    "feed_name": "NYT (Arts)",
-    "title": "To Take Us to the Heavens, James Turrell Went Underground",
-    "author": "Lisa Abend",
-    "link": "https://www.nytimes.com/2026/06/19/arts/james-turrell-aros-aarhus.html",
-    "content": "In the installation, said the architect Morten Schmidt, \u201cyou look directly up into the cosmos. But at the same time, it makes you reflect inward.\u201d",
-    "date": "2026-06-19T08:23:51",
-    "category": "NYT"
   }
 ]
