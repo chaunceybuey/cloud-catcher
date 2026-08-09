@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "460f267b-2d80-4d15-a493-d294f9b11170",
+    "feed_name": "Economist",
+    "title": "How China became the world\u2019s great oil power",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/09/how-china-became-the-worlds-great-oil-power",
+    "content": "Forget OPEC. The Chinese Communist Party now calls the shots",
+    "date": "2026-08-09T16:22:40",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/09/dining/its-not-summer-without-ratatouille.html",
     "feed_name": "NYT (Food)",
     "title": "It\u2019s Not Summer Without Ratatouille",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/19/arts/design/police-art-basel-chris-burden.html",
     "content": "These imposing works of art offer a powerful statement on authority from an artist who had his own experiences with the police.",
     "date": "2026-06-19T09:00:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/19/arts/design/woody-de-othello-sculptor-exhibition.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Woody De Othello Brings Multielement Works to Art Basel",
-    "author": "Hilarie M. Sheets",
-    "link": "https://www.nytimes.com/2026/06/19/arts/design/woody-de-othello-sculptor-exhibition.html",
-    "content": "Woody De Othello at his studio in Oakland, Calif. \u201cThe first time I touched clay, I had this epiphany where it felt like I\u2019d done it before,\u201d he said, describing the moment he met his preferred medium.",
-    "date": "2026-06-19T09:00:36",
     "category": "NYT"
   }
 ]
