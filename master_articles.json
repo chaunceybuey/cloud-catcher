@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/09/dining/laughing-in-delight-while-you-eat-delicious.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Laughing-in-Delight-While-You-Eat Delicious",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/08/09/dining/laughing-in-delight-while-you-eat-delicious.html",
+    "content": "That\u2019s these \u2014 what else? \u2014 perfectly engineered BLTs, plus more fast tomato dinners.",
+    "date": "2026-08-09T13:00:04",
+    "category": "NYT"
+  },
+  {
+    "id": "a02324bcc5a7931dc106c48b23b6c81a",
+    "feed_name": "The Atlantic",
+    "title": "Are Raccoons Evolving Into Pets?",
+    "author": "Annie Lowrey",
+    "link": "https://www.theatlantic.com/ideas/2026/08/are-raccoons-evolving-pets/688231/",
+    "content": "The myth and science of the country\u2019s favorite floofy, fluffy cuddle-badgers",
+    "date": "2026-08-09T12:11:17",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/09/arts/music/tupac-shakur-murder-trial-duane-davis.html",
     "feed_name": "NYT (Arts)",
     "title": "What to Know About the Tupac Murder, Trial and Suspect",
@@ -19978,25 +19998,5 @@
     "content": "With Zero Parades, the studio behind the celebrated Disco Elysium again sends a fallible professional through a complex world.",
     "date": "2026-06-19T09:00:16",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/19/arts/joan-cusack-jessie-toy-story-5.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Joan Cusack, the Actress Behind Jessie in \u2018Toy Story,\u2019 Takes the Lead",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/2026/06/19/arts/joan-cusack-jessie-toy-story-5.html",
-    "content": "Cusack stepped away from acting to be a parent: \u201cI wanted to be around and raise my kids, and if you\u2019re acting, you always have to go away to work.\u201d",
-    "date": "2026-06-19T09:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "6a32e7a7dbdae60812ea26f6",
-    "feed_name": "Wired (Science)",
-    "title": "Canada Missed Chances to Inspect Titan Before Fatal Implosion",
-    "author": "Mark Harris",
-    "link": "https://www.wired.com/story/canada-missed-chances-titan-fatal-implosion/",
-    "content": "A new report shows that government agencies failed to communicate and includes recommendations for stronger oversight in a bid to avert future disasters.",
-    "date": "2026-06-19T09:00:00",
-    "category": "Magazines"
   }
 ]
