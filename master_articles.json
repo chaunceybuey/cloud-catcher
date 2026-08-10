@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a74b7724e237df51402003f",
+    "feed_name": "Wired (Science)",
+    "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
+    "content": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts\u2019 ocular health.",
+    "date": "2026-08-10T06:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/10/arts/television/my-brilliant-career-and-5-more-shows-to-watch-on-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018My Brilliant Career\u2019 and 5 More Shows to Watch on TV This Week",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/19/arts/design/art-basel-2026-market-trends.html",
     "content": "This week, at Art Basel, galleries are trying to find out, offering paintings by the late Georg Baselitz and Francis Picabia, and a screen-based installation by Pierre Huyghe.",
     "date": "2026-06-19T09:01:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/19/theater/la-cage-aux-folles-review-porter-brady.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Billy Porter and Wayne Brady Make a Tender Pair in \u2018La Cage aux Folles\u2019",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/2026/06/19/theater/la-cage-aux-folles-review-porter-brady.html",
-    "content": "Wayne Brady, left, as Georges and Billy Porter as Albin in the Encores! production of \u201cLa Cage aux Folles\u201d at New York City Center.",
-    "date": "2026-06-19T09:00:56",
     "category": "NYT"
   }
 ]
