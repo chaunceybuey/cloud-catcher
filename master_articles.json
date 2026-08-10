@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a75fc63e85ba359de1ff03e",
+    "feed_name": "Wired (Science)",
+    "title": "A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk",
+    "author": "Chris Baraniuk",
+    "link": "https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/",
+    "content": "The approach is like a Costco for heat pumps, and it\u2019s helping make installations more accessible as heat waves worsen.",
+    "date": "2026-08-10T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "c35cbaa28e4a8965ac50fa6b9106a97e",
     "feed_name": "New Yorker",
     "title": "The Modern R. & B. of Olivia Dean and Baby Rose",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/06/trump-mexico-border-wall-construction-native/687635/",
     "content": "Trump threatens native sovereignty in Arizona.",
     "date": "2026-06-20T11:31:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "c53fe9b09018e015413a5307f3904bb5",
-    "feed_name": "The Atlantic",
-    "title": "Trump\u2019s Second Gamble on Iran",
-    "author": "Karim Sadjadpour",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trumps-second-gamble-on-iran/687650/",
-    "content": "If the regime can\u2019t be dislodged by force, maybe it can be bribed.",
-    "date": "2026-06-20T11:00:00",
     "category": "Magazines"
   }
 ]
