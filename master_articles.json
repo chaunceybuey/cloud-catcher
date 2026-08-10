@@ -120,12 +120,42 @@
     "category": "Texas"
   },
   {
+    "id": "cec22d1b342a4f174940a893730dbf58",
+    "feed_name": "Compact",
+    "title": "The Rise of the Fraud Economy",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-rise-of-the-fraud-economy/",
+    "content": "",
+    "date": "2026-08-10T11:47:45",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/10/arts/edinburgh-fringe-photos.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At Edinburgh Fringe, It\u2019s Time for Comedy, Stunts and Even a Few Owls",
+    "author": "Michael Vince Kim and Jillian Rayfield",
+    "link": "https://www.nytimes.com/2026/08/10/arts/edinburgh-fringe-photos.html",
+    "content": "As the festival brings thousands of shows to the Scottish city, there\u2019s also plenty of merriment out on the streets.",
+    "date": "2026-08-10T11:18:48",
+    "category": "NYT"
+  },
+  {
     "id": "6a75fc63e85ba359de1ff03e",
     "feed_name": "Wired (Science)",
     "title": "A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk",
     "author": "Chris Baraniuk",
     "link": "https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/",
     "content": "The approach is like a Costco for heat pumps, and it\u2019s helping make installations more accessible as heat waves worsen.",
+    "date": "2026-08-10T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "7ce8723afbfa32853075e8e7481c0ff0",
+    "feed_name": "The Atlantic",
+    "title": "Confessions of a Token Black Professor",
+    "author": "Tyler Austin Harper",
+    "link": "https://www.theatlantic.com/magazine/2026/09/elite-academia-leadership-hypocrisy/687969/",
+    "content": "The insufferable hypocrisy of elite academia",
     "date": "2026-08-10T11:00:00",
     "category": "Magazines"
   },
@@ -19968,35 +19998,5 @@
     "content": "Yossy Arefi\u2019s sugar cookie bars with berries.",
     "date": "2026-06-20T14:52:57",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/20/dining/double-strawberry-shortcakes-and-berry-sugar-cookie-bars.html",
-    "feed_name": "NYT (Food)",
-    "title": "Double Strawberry Shortcakes and Berry Sugar Cookie Bars for July 4",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/06/20/dining/double-strawberry-shortcakes-and-berry-sugar-cookie-bars.html",
-    "content": "Yossy Arefi\u2019s sugar cookie bars with berries.",
-    "date": "2026-06-20T14:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "169969d090ed390ea03d8c5509194e9a",
-    "feed_name": "The Atlantic",
-    "title": "This Founding Father Died in Disgrace. But He Can\u2019t Be Forgotten.",
-    "author": "Jesse Wegman",
-    "link": "https://www.theatlantic.com/ideas/2026/06/james-wilson-founding-father-democracy/687594/",
-    "content": "Excluded from America\u2019s origin story, James Wilson may have been the most influential, prescient, and democratic drafter of the Constitution.",
-    "date": "2026-06-20T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "cc650c8e60414c79c447efb4cada80b7",
-    "feed_name": "The Atlantic",
-    "title": "The Wall the Tohono O\u2019odham Don\u2019t Want",
-    "author": "Geraldo L. Cadava",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trump-mexico-border-wall-construction-native/687635/",
-    "content": "Trump threatens native sovereignty in Arizona.",
-    "date": "2026-06-20T11:31:00",
-    "category": "Magazines"
   }
 ]
