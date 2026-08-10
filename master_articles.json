@@ -2140,6 +2140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/article/best-ice-cream-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Where To Find the Best Ice Cream in New York City",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/article/best-ice-cream-nyc.html",
+    "content": "Fro-yo comes and goes, but ice cream is forever.",
+    "date": "2026-08-04T20:39:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-review-bar-chucho-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Bar Chucho in NYC",
@@ -19988,15 +19998,5 @@
     "content": "NEILL-COCHRAN HOUSE MUSEUM PRESENTS\n\nJUNETEENTH CELEBRATION\n\nJUNE 21 | 12 P.M. - 4 P.M. | NEILL-COCHRAN HOUSE MUSEUM\n\n\n\nThe Neill-Cochran House Museum invites you to celebrate Juneteenth at a place that brings Austin history to life. Join us for a day of celebration and reflection as we commemorate emancipation and the struggles and triumphs of those who fought for freedom and the ongoing journey towards equality.\n\nThe Celebration will include free barbecue, live music, tours, and activities. Guests can tour the house and grounds and see the Jack White Retrospective exhibition of African heritage inspired art on display in the NCHM Gallery. We will conclude the day with the dedication of the Toni Morrison Society Bench by the Road at the Neill-Cochran House Museum.\n\nLearn more about the NCHM Toni Morrison Society Bench by the Road here.\n\nLEARN MORE!\n\nEvent Details\nDate: Sunday, June 21, 2026\nTime: 12:00 P.M. \u2013 4:00 P.M.\nVenue: Neill-Cochran House Museum\n\nTicket Information\nCost: Free and open to the public\nPhone: \n\nPresenter Details: The Neill-Cochran House Museum is located in the heart of Austin, TX.\n\nJust a few minutes' walk from the UT Austin campus, we steward one of the city's oldest historic residences (1856), including Austin's only intact slave quarters.\n\nWe share our site, Austin, and Texas history from the city's birth in 1839 up to 1930 through historically furnished spaces as well as numerous rotating art and history exhibitions.\n\nThe Neill-Cochran House Museum is owned by the National Society of the Colonial Dames of America in Texas.",
     "date": "2026-06-21T12:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/21/movies/hayley-kiyoko-interview-girls-like-girls.html",
-    "feed_name": "NYT (Arts)",
-    "title": "With \u2018Girls Like Girls,\u2019 Hayley Kiyoko Turns Her Teenage Pain Into Art",
-    "author": "Ashley Spencer",
-    "link": "https://www.nytimes.com/2026/06/21/movies/hayley-kiyoko-interview-girls-like-girls.html",
-    "content": "Hayley Kiyoko in Los Angeles. Her feature directing debut, \u201cGirls Like Girls,\u201d is in theaters.",
-    "date": "2026-06-21T09:01:52",
-    "category": "NYT"
   }
 ]
