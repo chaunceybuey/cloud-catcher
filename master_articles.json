@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
+    "feed_name": "NYT (Arts)",
+    "title": "National Gallery Accused of \u2018Soft Censorship\u2019 to Avoid Provoking Trump",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
+    "content": "A former executive with the Washington museum says it moved a symposium about race in art to avoid political blowback.",
+    "date": "2026-08-10T19:36:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/10/dining/sean-macpherson-montauk-lighthouse-cafe.html",
+    "feed_name": "NYT (Food)",
+    "title": "Sean MacPherson\u2019s New Restaurant Opens at the \u2018End of the World\u2019",
+    "author": "Alyson Krueger",
+    "link": "https://www.nytimes.com/2026/08/10/dining/sean-macpherson-montauk-lighthouse-cafe.html",
+    "content": "After 25 years, the hotelier Sean MacPherson finally got to open his Lighthouse Caf\u00e9 amid Montauk\u2019s 80 mile per hour winds and a boatload of logistics.",
+    "date": "2026-08-10T19:24:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/10/arts/television/ben-jones-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Ben Jones, \u2018Dukes of Hazzard\u2019 Actor and Congressman, Dies at 84",
@@ -147,6 +167,16 @@
     "link": "https://www.nytimes.com/2026/08/10/arts/television/ben-jones-dead.html",
     "content": "Ben Jones in 1999. He overcame two decades of alcoholism, multiple divorces, numerous arrests and time spent in jail before being cast as Cooter Davenport on \u201cThe Dukes of Hazzard.\u201d",
     "date": "2026-08-10T19:10:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/stuffed-quahogs-stuffies-new-england-clams",
+    "feed_name": "NYT (Food)",
+    "title": "The Stuffed Quahog Is the Antidote to $30 Lobster Rolls",
+    "author": "Sarah Karnasiewicz",
+    "link": "https://cooking.nytimes.com/article/stuffed-quahogs-stuffies-new-england-clams",
+    "content": "Cousins to clams casino and clams oreganata, stuffies reflect a diversity of influences.",
+    "date": "2026-08-10T18:16:24",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/21/arts/design/basel-switzerland-art-development-timeline.html",
     "content": "Basel\u2019s art history predates the world\u2019s most prominent art fair by a few centuries.",
     "date": "2026-06-21T16:06:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/21/dining/my-very-best-buttermilk-pancakes.html",
-    "feed_name": "NYT (Food)",
-    "title": "Melissa Clark's Buttermilk Pancakes and More Father\u2019s Day Recipes",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/06/21/dining/my-very-best-buttermilk-pancakes.html",
-    "content": "Melissa Clark\u2019s best buttermilk pancakes.",
-    "date": "2026-06-21T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "f44710bb-bc26-400f-b010-404c12b7f502",
-    "feed_name": "Economist",
-    "title": "How stretched is the American consumer?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/21/how-stretched-is-the-american-consumer",
-    "content": "The household savings rate has plunged\u2014but don\u2019t panic",
-    "date": "2026-06-21T13:08:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/21/dining/five-fast-dinners-i-will-definitely-make-again.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Five Fast Dinners I Will Definitely Make Again",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/06/21/dining/five-fast-dinners-i-will-definitely-make-again.html",
-    "content": "Starting with this easy but elegant spicy sardine pasta with leeks and lemon.",
-    "date": "2026-06-21T13:00:04",
     "category": "NYT"
   }
 ]
