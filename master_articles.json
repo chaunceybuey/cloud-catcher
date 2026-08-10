@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "ea5d3602c50d37438eec0e4bde8bd744",
+    "feed_name": "LRB",
+    "title": "Don\u2019t Look Up",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/don-t-look-up",
+    "content": "In the last week of July a guest in our house, an hour\u2019s drive from Bordeaux, was called away to a fire emergency in the Gironde, where.\u00a0.\u00a0.",
+    "date": "2026-08-10T19:57:09",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
     "feed_name": "NYT (Arts)",
     "title": "National Gallery Accused of \u2018Soft Censorship\u2019 to Avoid Provoking Trump",
@@ -17620,6 +17630,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/06/21/dining/five-fast-dinners-i-will-definitely-make-again.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Five Fast Dinners I Will Definitely Make Again",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/06/21/dining/five-fast-dinners-i-will-definitely-make-again.html",
+    "content": "Starting with this easy but elegant spicy sardine pasta with leeks and lemon.",
+    "date": "2026-06-26T21:18:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/06/26/world/canada/world-cup-toronto-convenience-store-rescue.html",
     "feed_name": "NYT (Arts)",
     "title": "A floating convenience store appears in Toronto",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/21/business/media/toy-story-5-box-office-hollywood-summer.html",
     "content": "The Disney-Pixar sequel was expected to make $160 million in North America over the weekend, lifting the summer box office to $1.85 billion to date.",
     "date": "2026-06-21T17:17:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/21/arts/tom-dreesen-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tom Dreesen, Comic Who Kept Sinatra\u2019s Crowds Laughing, Dies at 86",
-    "author": "Richard Sandomir",
-    "link": "https://www.nytimes.com/2026/06/21/arts/tom-dreesen-dead.html",
-    "content": "Tom Dreesen performing in 2004. He was Frank Sinatra\u2019s opening act for 13 years and said, \u201cFrom my vantage point, every night, there was no TV series, no radio show, no movie deal that compared to what I was experiencing.\u201d",
-    "date": "2026-06-21T16:45:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/21/arts/design/basel-switzerland-art-development-timeline.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Basel Went From Art to Art Basel",
-    "author": "Nina Siegal",
-    "link": "https://www.nytimes.com/2026/06/21/arts/design/basel-switzerland-art-development-timeline.html",
-    "content": "Basel\u2019s art history predates the world\u2019s most prominent art fair by a few centuries.",
-    "date": "2026-06-21T16:06:57",
     "category": "NYT"
   }
 ]
