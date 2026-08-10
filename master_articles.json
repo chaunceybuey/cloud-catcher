@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/10/arts/obama-books-podcast.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Barack Obama to Host New Podcast, \u2018A Great Book\u2019",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/08/10/arts/obama-books-podcast.html",
+    "content": "Former President Barack Obama\u2019s new podcast, \u201cA Great Book With Barack Obama\u201d will examine six books that he has found influential.",
+    "date": "2026-08-10T22:43:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=239455",
     "feed_name": "Texas Tribune",
     "title": "Texas THC ban continues as federal judge rejects emergency motion",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/21/obituaries/margaret-kerry-dead.html",
     "content": "Margaret Kerry in 2018. Trained as a dancer, she became the model for the animated version of Tinker Bell in the 1953 Disney movie \u201cPeter Pan.\u201d",
     "date": "2026-06-21T22:29:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/21/obituaries/mark-singer-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mark Singer, Longtime Writer for The New Yorker, Dies at 75",
-    "author": "Trip Gabriel",
-    "link": "https://www.nytimes.com/2026/06/21/obituaries/mark-singer-dead.html",
-    "content": "Mark Singer in 2009 speaking at The New Yorker Festival. He began working at the magazine when he was 23 and was best known for his profiles.",
-    "date": "2026-06-21T20:47:07",
     "category": "NYT"
   }
 ]
