@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/09/arts/music/geraldine-de-haas-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Geraldine de Haas, the \u2018First Lady\u2019 of Chicago Jazz, Dies at 91",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/08/09/arts/music/geraldine-de-haas-dead.html",
+    "content": "After a successful singing career, she led the revival of jazz in the Windy City in the 1970s and \u201980s, organizing festivals and concert series.",
+    "date": "2026-08-10T16:21:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/10/dining/go-coconut-fish-curry.html",
     "feed_name": "NYT (Food)",
     "title": "Go Coconut Fish Curry",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/21/arts/for-heirs-of-custer-and-sitting-bull-a-150-year-old-battle-is-personal.html",
     "content": "As the anniversary of the Battle of the Little Bighorn approaches, relatives of the two men still grapple with the legacy of a contentious moment in U.S. history.",
     "date": "2026-06-21T09:01:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/21/movies/dad-movies.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Dad Movie Canon: Films That Define Dad Cinema",
-    "author": "Jason Bailey",
-    "link": "https://www.nytimes.com/2026/06/21/movies/dad-movies.html",
-    "content": "What is it about a certain kind of film that appeals to fathers? Our writer took a stab at defining Dad Cinema and rounding up its greatest hits.",
-    "date": "2026-06-21T04:01:07",
     "category": "NYT"
   }
 ]
