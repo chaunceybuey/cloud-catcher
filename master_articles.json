@@ -360,6 +360,26 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=239162",
+    "feed_name": "Texas Tribune",
+    "title": "While data centers boom in Texas, their plans stay shrouded in secrecy",
+    "author": "Taylor Goldenstein and Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17411208/texas-data-centers-transparency-information",
+    "content": "People across Texas are struggling to find information about proposed data center projects popping up in their neighborhoods, like Mason McCallister, center, who has been on a crusade to get information. Meanwhile, local officials and even state elected leaders say they need more information to regulate the growing industry.",
+    "date": "2026-08-10T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239174",
+    "feed_name": "Texas Tribune",
+    "title": "Black-majority schools in Texas receive more Fs than A ratings, leaving parents with tough choices",
+    "author": "BY\u00a0Jaden Edison,\u00a0data analysis by\u00a0Rob Reid",
+    "link": "https://feeds.texastribune.org/link/16799/17411209/black-children-texas-school-ratings-choices",
+    "content": "Jaleel Montgomery, 11, rests on his mom Mikole\u2019s shoulder after a tutoring session with retired educator Arleen Woodson at the Missouri City Branch Library on Thursday, Aug. 6, 2026, in Missouri City.",
+    "date": "2026-08-10T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/10/theater/amanda-knox-comedy-edinburgh-festival-fringe.html",
     "feed_name": "NYT (Arts)",
     "title": "At Edinburgh Fringe, Amanda Knox Takes the Mic to Reclaim Her Story",
@@ -19978,25 +19998,5 @@
     "content": "If the regime can\u2019t be dislodged by force, maybe it can be bribed.",
     "date": "2026-06-20T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/20/arts/music/tyla-fka-twigs-steve-lacy-songs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tyla, FKA Twigs: Songs to Know This Week",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/06/20/arts/music/tyla-fka-twigs-steve-lacy-songs.html",
-    "content": "Tyla, who performed as part of the World Cup pregame ceremony, is back with new music.",
-    "date": "2026-06-20T09:02:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/20/arts/the-newest-wing-in-the-citys-oldest-museum-celebrates-democracy.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Newest Wing in the City\u2019s Oldest Museum Celebrates Democracy",
-    "author": "Holland Cotter",
-    "link": "https://www.nytimes.com/2026/06/20/arts/the-newest-wing-in-the-citys-oldest-museum-celebrates-democracy.html",
-    "content": "The New York Historical\u2019s expansive Tang Wing highlights the role of protest for America\u2019s 250th anniversary.",
-    "date": "2026-06-20T09:02:26",
-    "category": "NYT"
   }
 ]
