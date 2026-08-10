@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/10/dining/go-coconut-fish-curry.html",
+    "feed_name": "NYT (Food)",
+    "title": "Go Coconut Fish Curry",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/10/dining/go-coconut-fish-curry.html",
+    "content": "Ifrah F. Ahmed\u2019s malaay qumbe.",
+    "date": "2026-08-10T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "0ab89c09bacc73c8a277338e30da8c59",
+    "feed_name": "The Atlantic",
+    "title": "The Pain and Glory of Summer",
+    "author": "Elizabeth Bruenig",
+    "link": "https://www.theatlantic.com/ideas/2026/08/pain-glory-summer/688229/",
+    "content": "It\u2019s the worst season of all, and also the most beautiful.",
+    "date": "2026-08-10T13:50:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "68eaaa1ae356417d2dcc0439416c4365",
+    "feed_name": "The Atlantic",
+    "title": "In Defense of Flock",
+    "author": "Charles Fain Lehman",
+    "link": "https://www.theatlantic.com/ideas/2026/08/flock-safety-cameras-ai-surevillance/688219/",
+    "content": "Police cameras can help make the criminal-justice system both fairer and less punitive\u2014if we let them.",
+    "date": "2026-08-10T13:46:55",
+    "category": "Magazines"
+  },
+  {
     "id": "cec22d1b342a4f174940a893730dbf58",
     "feed_name": "Compact",
     "title": "The Rise of the Fraud Economy",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/20/arts/claude-guillemot-dead-ubisoft-plane-crash.html",
     "content": "Claude Guillemot, 69, founded the video game company, which was also known for the hit Far Cry, with his brothers in 1986. He was killed in western France.",
     "date": "2026-06-20T23:53:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/20742-austin-chamber-music-center-miro-quartet-shai-wosner",
-    "feed_name": "KMFA",
-    "title": "Austin Chamber Music Center: Miro Quartet &amp; Shai Wosner",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/20742-austin-chamber-music-center-miro-quartet-shai-wosner",
-    "content": "AUSTIN CHAMBER MUSIC CENTER PRESENTS\n\nMIRO QUARTET &amp; SHAI WOSNER\n\nJUNE 20 | 7:30 P.M. | BATES RECITAL HALL\n\n\n\nEvent Details\nDate: Saturday, June 20, 2026\nTime: 7:30 P.M.\nVenue: Bates Recital Hall\n\nTicket Information\nCost: $12.00 \u2013 $80.00\nPhone: \n\nPresenter Details: The Austin Chamber Music Center creates chamber music experiences that connect, educate, and inspire our community.",
-    "date": "2026-06-20T19:30:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/20/dining/bowen-yangs-moms-mapo-tofu.html",
-    "feed_name": "NYT (Food)",
-    "title": "Bowen Yang\u2019s Mom\u2019s Mapo Tofu",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/06/20/dining/bowen-yangs-moms-mapo-tofu.html",
-    "content": "Bowen Yang\u2019s mapo tofu, adapted by The New York Times.",
-    "date": "2026-06-20T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/20/dining/fourth-of-july-party-desserts.html",
-    "feed_name": "NYT (Food)",
-    "title": "Double Strawberry Shortcakes and Berry Sugar Cookie Bars for July 4",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/06/20/dining/fourth-of-july-party-desserts.html",
-    "content": "Yossy Arefi\u2019s sugar cookie bars with berries.",
-    "date": "2026-06-20T14:52:57",
     "category": "NYT"
   }
 ]
