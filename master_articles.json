@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/11/dining/fashion-designer-rachel-antonoff.html",
+    "feed_name": "NYT (Food)",
+    "title": "These Are Rachel Antonoff\u2019s Favorite Restaurants",
+    "author": "Nikita Richardson",
+    "link": "https://www.nytimes.com/2026/08/11/dining/fashion-designer-rachel-antonoff.html",
+    "content": "The food-loving fashion designer tackles the Where to Eat restaurant questionnaire.",
+    "date": "2026-08-11T19:30:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239539",
+    "feed_name": "Texas Tribune",
+    "title": "Texas cuts child care subsidy program. Here\u2019s what that means.",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17415040/texas-cuts-child-care-subsidies",
+    "content": "Children work on letter puzzles at Kid&#039;s Castle Family Daycare and Preschool in Pflugerville on Monday, Feb. 28, 2022.",
+    "date": "2026-08-11T19:20:47",
+    "category": "Texas"
+  },
+  {
     "id": "6a7b3a3b804385e97136db73",
     "feed_name": "Wired (Science)",
     "title": "How and When to View the Perseid Meteor Shower (August 2026)",
@@ -140,6 +160,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=239536",
+    "feed_name": "Texas Tribune",
+    "title": "Surrogate asks Texas court to let her seek medical care on the baby she\u2019s carrying, AG Paxton says",
+    "author": "Katlyn Ma and Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17415041/texas-surrogate-ken-paxton-abortion-baby-gabriel",
+    "content": "The UT Southwestern Medical Campus in Dallas on June 22, 2022.",
+    "date": "2026-08-11T19:11:49",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
     "feed_name": "NYT (Arts)",
     "title": "Spotify Will Label A.I. Artists and Avoid Recommending Them",
@@ -148,6 +178,16 @@
     "content": "The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app.",
     "date": "2026-08-11T19:00:55",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239522",
+    "feed_name": "Texas Tribune",
+    "title": "Feds plan to sell three warehouses near El Paso it bought for migrant detention centers, Congress member says",
+    "author": "Alejandro Santos Cid and Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17415042/texas-ice-immigrant-detention-warehouse-socorro-el-paso",
+    "content": "Warehouses that the Department of Homeland Security purchased with plans to build a new immigration detention center near El Paso will be sold instead, according to U.S. Rep. Veronica Escobar, D-El Paso.",
+    "date": "2026-08-11T18:59:26",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/08/11/arts/music/arlene-smith-dead.html",
@@ -19956,46 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/culture/goings-on/the-dance-legend-lucinda-childss-momentary-reprise",
     "content": "Also: the images of Yves Saint Laurent, \u201cGirl, Interrupted\u201d reviewed, the fusionist wonderland of Tortoise, and more.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "0964b8c5cb0ec0fc3abc82f75376d76f",
-    "feed_name": "New Yorker",
-    "title": "What Marcel Is Selling",
-    "author": "ByHelen Rosner",
-    "link": "https://www.newyorker.com/culture/the-food-scene/what-marcel-is-selling",
-    "content": "At the new restaurant in the Sotheby\u2019s-owned Breuer building, money, in its most indiscreet sense, is everywhere.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "4fec18ee40e14755fa5032c27dd132b9",
-    "feed_name": "New Yorker",
-    "title": "The Difference Between the Knicks and the White House Cage Fight",
-    "author": "ByAdam Gopnik",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/the-difference-between-the-knicks-and-the-white-house-cage-fight",
-    "content": "Sports, spectacle, and what Juvenal would have made of this moment.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "afd2d62ff489d223bdf88986410df41f",
-    "feed_name": "New Yorker",
-    "title": "Pencils Up! The Knicks on Broadway",
-    "author": "ByDan Greene",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/pencils-up-the-knicks-on-broadway",
-    "content": "The N.B.A. championship was a win for Mayor Mamdani, but the city\u2019s public-school kids, stuck taking their Regents exams as the ticker-tape parade thundered past their windows, weren\u2019t so sure.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "5ebc0a70b0fadae253c1ac53f05bbce0",
-    "feed_name": "New Yorker",
-    "title": "Alexandra Grant Brings Spirit Back",
-    "author": "BySarah Larson",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/alexandra-grant-brings-spirit-back",
-    "content": "Walking through her new exhibition, \u201cAntigone 3000,\u201d the artist known to online hordes as Keanu Reeves\u2019s mysterious silver-haired girlfriend reflects on Sophocles and the color pink.",
     "date": "2026-06-22T10:40:37",
     "category": "Magazines"
   }
