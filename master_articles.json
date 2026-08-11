@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/11/arts/television/late-night-trump-hair.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Wonders if Trump Got a Wig",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/08/11/arts/television/late-night-trump-hair.html",
+    "content": "Anthony Anderson, a guest host on \u201cJimmy Kimmel Live,\u201d said he\u2019d \u201cseen better weaves on \u2018Real Housewives of Atlanta.\u2019\u201d",
+    "date": "2026-08-11T05:19:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/10/arts/obama-books-podcast.html",
     "feed_name": "NYT (Arts)",
     "title": "Barack Obama to Host New Podcast, \u2018A Great Book\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/22/arts/television/the-bear-tv-this-week.html",
     "content": "Jeremy Allen White, left, and Ayo Edebiri in Season 4 of \u201cThe Bear.\u201d",
     "date": "2026-06-22T05:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/21/arts/television/house-of-the-dragon-recap-season-3-episode-1.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018House of the Dragon\u2019 Season 3 Premiere Recap: A Song of Water and Fire",
-    "author": "Sean T. Collins",
-    "link": "https://www.nytimes.com/2026/06/21/arts/television/house-of-the-dragon-recap-season-3-episode-1.html",
-    "content": "The Sea Snake (Steve Toussaint) wasn\u2019t expecting an attack from the Triarchy, or to come under friendly fire.",
-    "date": "2026-06-22T02:00:04",
     "category": "NYT"
   }
 ]
