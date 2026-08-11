@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/11/dining/restaurant-review-bar-susanne-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Bar Susanne in New York",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/2026/08/11/dining/restaurant-review-bar-susanne-nyc.html",
+    "content": "At Bar Susanne in Williamsburg, the chef Jackie Carnesi is bucking expectations with her seafood and raw bar menu \u2014 but the French fries are still outstanding.",
+    "date": "2026-08-11T20:52:03",
+    "category": "NYT"
+  },
+  {
     "id": "5c30d9c42d70edfc85b572e84716b992",
     "feed_name": "LRB",
     "title": "Lavinia Greenlaw & Mark Wallinger: On Difficulty (and Poetry)",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/22/business/media/youtube-hollywood-creative-artists-agency.html",
     "content": "Trisha Paytas, a digital star, is part of C.A.A.\u2019s growing roster of creators.",
     "date": "2026-06-22T15:33:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/22/dining/a-healthy-speedy-satisfying-salmon-dinner.html",
-    "feed_name": "NYT (Food)",
-    "title": "Healthy Salmon With Olive-Oil-Braised Zucchini and Chickpeas Recipe",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/06/22/dining/a-healthy-speedy-satisfying-salmon-dinner.html",
-    "content": "Sheela Prakash\u2019s salmon with olive oil-braised zucchini and chickpeas.",
-    "date": "2026-06-22T15:00:06",
     "category": "NYT"
   }
 ]
