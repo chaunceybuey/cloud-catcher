@@ -130,6 +130,46 @@
     "category": "Texas"
   },
   {
+    "id": "9397f820551d7b223d77289e4b80bcc4",
+    "feed_name": "LRB",
+    "title": "Send him off",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/send-him-off",
+    "content": "It has been a bad few weeks for Fifa and its president, Gianni Infantino, and therefore a good few weeks for football. \u2018Having been re-elected.\u00a0.\u00a0.",
+    "date": "2026-08-11T11:44:07",
+    "category": "Magazines"
+  },
+  {
+    "id": "697fcf7b5af92dc46c53293cafea3ed5",
+    "feed_name": "Compact",
+    "title": "The Secret Kingdom of Stefan George",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-secret-kingdom-of-stefan-george/",
+    "content": "",
+    "date": "2026-08-11T11:44:03",
+    "category": "Magazines"
+  },
+  {
+    "id": "cca85d8cc49d0af5bd983de853b0f3a2",
+    "feed_name": "The Atlantic",
+    "title": "A Popular Explanation for Low Birth Rates Has a Big Problem",
+    "author": "Marc Novicoff",
+    "link": "https://www.theatlantic.com/ideas/2026/08/fertility-men-housework-goldin/688238/",
+    "content": "Whether dads do their fair share of the housework appears to have no effect on fertility.",
+    "date": "2026-08-11T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "63b40e74cbe77e75ae6676f06cf8a082",
+    "feed_name": "The Atlantic",
+    "title": "Kevin Dowdell\u2019s Last Fire",
+    "author": "Sally Jenkins",
+    "link": "https://www.theatlantic.com/magazine/2026/09/fallen-september-11-firefighter-family/687964/",
+    "content": "When a veteran firefighter vanished on 9/11, his teenage sons went looking for him.",
+    "date": "2026-08-11T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a5a54e5103c3bf8e37e5b2d",
     "feed_name": "Wired",
     "title": "Elon Musk, Sam Altman, and the Misreading of Science Fiction",
@@ -188,6 +228,16 @@
     "content": "El Paso constituents gather to protest a local tax agreement with Meta\u2019s controversial new data center development at a contentious El Paso City Council Meeting on June 9, 2026.",
     "date": "2026-08-11T10:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "39de60f2f9051d3c876b92054b6c1c41",
+    "feed_name": "The Atlantic",
+    "title": "The Democrats Can\u2019t Just Laugh Off \u2018Woke 1\u2019",
+    "author": "Idrees Kahloon",
+    "link": "https://www.theatlantic.com/ideas/2026/08/aoc-democrats-wokeness-republicans/688241/",
+    "content": "Republicans have no incentive to let them forget past excesses.",
+    "date": "2026-08-11T10:00:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/08/11/theater/john-cariani-darker-the-night-brighter-the-stars.html",
@@ -19946,56 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/magazine/2026/06/29/a-terrible-intimacy-this-is-not-about-running-the-summer-boy-the-children",
     "content": "\u201cA Terrible Intimacy,\u201d \u201cThis Is Not About Running,\u201d \u201cThe Summer Boy,\u201d and \u201cThe Children.\u201d",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "2adadad27ca255eef0787f698cd01317",
-    "feed_name": "New Yorker",
-    "title": "What\u2019s the Point of Sex, Anyway?",
-    "author": "ByElizabeth Kolbert",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/on-the-origin-of-sex-book-review-lixing-sun",
-    "content": "The world\u2019s life-forms reproduce sexually in a bewildering variety of ways, even though scientists still aren\u2019t sure why they bother.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "d89fd97163047c01a0d8109af87d4a8f",
-    "feed_name": "New Yorker",
-    "title": "The Curious Career of \u201cthe American Dream\u201d",
-    "author": "ByHua Hsu",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/the-curious-career-of-the-american-dream",
-    "content": "How a phrase coined during the Depression became a national creed, a global brand, and a vessel for disillusionment.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "cdfbc4591afb372669f5edc771bc68ae",
-    "feed_name": "New Yorker",
-    "title": "Olivia Rodrigo\u2019s Early-Twenties Lament",
-    "author": "ByAmanda Petrusich",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/olivia-rodrigo-music-review",
-    "content": "On her new album, \u201cYou Seem Pretty Sad for a Girl So in Love,\u201d the singer inches away from frisky pop-punk and toward the velvety yearning of New Wave.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "74dbe2002f6ad53ec48dc59afe4ace0a",
-    "feed_name": "New Yorker",
-    "title": "\u201cThe Invite\u201d Is a Witty Relationship Comedy That Could Be Wilder",
-    "author": "ByJustin Chang",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/the-invite-movie-review",
-    "content": "In Olivia Wilde\u2019s bickersome couples comedy, an evening of refreshments and recriminations leads to an intriguing proposition.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "23ecadc534adaf19faacfef54b665cd6",
-    "feed_name": "New Yorker",
-    "title": "\u201cOn Form\u201d",
-    "author": "ByLinda Gregerson",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/on-form-linda-gregerson-poem",
-    "content": "\u201cI am trying to write an essay, I said, about form.\u201d",
     "date": "2026-06-22T10:40:37",
     "category": "Magazines"
   }
