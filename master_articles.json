@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/11/arts/music/arlene-smith-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Arlene Smith, Whose Song \u2018Maybe\u2019 Helped Define Doo-Wop, Dies at 84",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/08/11/arts/music/arlene-smith-dead.html",
+    "content": "Arlene Smith, left, with the other members of the Chantels in 1958: from left, Sonia Goring, Ren\u00e9e Minus, Jackie Landry and Lois Harris.",
+    "date": "2026-08-11T18:09:53",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/11/arts/music/amplifier-newsletter-bob-dylan.html",
+    "feed_name": "NYT (Arts)",
+    "title": "My Summer of Bob Dylan",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/08/11/arts/music/amplifier-newsletter-bob-dylan.html",
+    "content": "Bob Dylan performing in 2025.",
+    "date": "2026-08-11T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/11/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "Elder Brings Its British Indian Chophouse Chops to Manhattan",
@@ -19976,26 +19996,6 @@
     "author": "ByLuis A. G\u00f3mez",
     "link": "https://www.newyorker.com/magazine/2026/06/29/isabel-j-kim-makes-her-own-world",
     "content": "At a board-game caf\u00e9 on the Upper West Side, the lawyer and author discusses her new book, \u201cSublimation,\u201d about borders, parallel selves, and an eerily Trump-like government.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "ec83e86a1a0fd8c4412c5867b8780f0c",
-    "feed_name": "New Yorker",
-    "title": "The Teen Believers in a Christian America",
-    "author": "ByEliza Griswold",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/the-teen-believers-in-a-christian-america",
-    "content": "For Charlie Kirk\u2019s followers, faith and patriotism are intertwined.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "20717fc33331bfc96e611b4d0cfec68f",
-    "feed_name": "New Yorker",
-    "title": "What Science Knows About Grief",
-    "author": "ByAmanda Petrusich",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/what-science-knows-about-grief",
-    "content": "After my husband\u2019s death, I had never been more pliable, tender, open, or raw. It was then that I tried E.M.D.R. therapy.",
     "date": "2026-06-22T10:40:37",
     "category": "Magazines"
   }
