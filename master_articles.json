@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/11/arts/music/festival-orchestra-of-lincoln-center-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lincoln Center\u2019s Orchestra Makes Creative Programming Look Easy",
+    "author": "Gabrielle Ferrari",
+    "link": "https://www.nytimes.com/2026/08/11/arts/music/festival-orchestra-of-lincoln-center-review.html",
+    "content": "Jonathon Heyward, who leads the Festival Orchestra of Lincoln Center, conducted two concerts that put new music in conversation with classics.",
+    "date": "2026-08-11T14:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "6a79e3c4d51ad8c7732fa408",
+    "feed_name": "Wired (Science)",
+    "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+    "content": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent\u2014vastly outpacing the impact of data centers.",
+    "date": "2026-08-11T13:45:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
     "feed_name": "NYT (Arts)",
     "title": "Ari Emanuel\u2019s Company to Acquire 7 Broadway Theaters and 10 in the West End",
@@ -257,6 +277,16 @@
     "link": "https://www.nytimes.com/2026/08/11/theater/john-cariani-darker-the-night-brighter-the-stars.html",
     "content": "John Cariani at Opera House Arts in Stonington, Maine, where a production of his \u201cDarker the Night, Brighter the Stars\u201d is staged. \u201cI loved where I grew up,\u201d he said.",
     "date": "2026-08-11T09:02:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/no-cook-high-protein-dinners-summer",
+    "feed_name": "NYT (Food)",
+    "title": "15 No-Cook, High-Protein Dinners for Summer",
+    "author": "Samantha Cassetty",
+    "link": "https://cooking.nytimes.com/article/no-cook-high-protein-dinners-summer",
+    "content": "They\u2019ll keep you cool, and they\u2019ll keep you going.",
+    "date": "2026-08-11T09:02:00",
     "category": "NYT"
   },
   {
@@ -19966,36 +19996,6 @@
     "author": "ByJulian Lucas",
     "link": "https://www.newyorker.com/magazine/2026/06/29/colson-whitehead-profile",
     "content": "As he closes out his Harlem crime trilogy with \u201cCool Machine,\u201d the two-time Pulitzer winner turns again to the city that made him, and to the private ghosts behind his restless reinventions.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "3af12d86d1d6bf641deef63f97bbb091",
-    "feed_name": "New Yorker",
-    "title": "The Pied Piper",
-    "author": "BySimon Rich",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/the-pied-piper",
-    "content": "The man with the fife was good at getting rid of Hamelin\u2019s rats. What, the townspeople wondered, could he do with the children?",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "d210def091f45e246b526c992f9c5af8",
-    "feed_name": "New Yorker",
-    "title": "\u201cThe Readers\u201d",
-    "author": "ByBen Lerner",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/the-readers-fiction-ben-lerner",
-    "content": "It would be one thing if I wrote fiction about Cromwell or aliens, but, given that my protagonists resemble me, how could I know you weren\u2019t mixing us up?",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a0ba89d2dbfc85067ee6e53c5307299",
-    "feed_name": "New Yorker",
-    "title": "Why the Odyssey Keeps Defeating Filmmakers",
-    "author": "ByDavid Denby",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/why-the-odyssey-keeps-defeating-filmmakers",
-    "content": "Full of violence, desire, monsters, and magic, Homer\u2019s epic has tempted directors for decades. Can Christopher Nolan\u2019s new adaptation survive the voyage?",
     "date": "2026-06-22T10:40:37",
     "category": "Magazines"
   }
