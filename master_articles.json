@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ari Emanuel\u2019s Company to Acquire 7 Broadway Theaters and 10 in the West End",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
+    "content": "ATG Entertainment operates seven Broadway theaters, including the Lyric Theater, which has housed \u201cHarry Potter and the Cursed Child\u201d for eight years.",
+    "date": "2026-08-11T13:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "9397f820551d7b223d77289e4b80bcc4",
     "feed_name": "LRB",
     "title": "Send him off",
@@ -19986,16 +19996,6 @@
     "author": "ByDavid Denby",
     "link": "https://www.newyorker.com/magazine/2026/06/29/why-the-odyssey-keeps-defeating-filmmakers",
     "content": "Full of violence, desire, monsters, and magic, Homer\u2019s epic has tempted directors for decades. Can Christopher Nolan\u2019s new adaptation survive the voyage?",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "daea01e4d338fc7278e18eac43e9ebc9",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/a-terrible-intimacy-this-is-not-about-running-the-summer-boy-the-children",
-    "content": "\u201cA Terrible Intimacy,\u201d \u201cThis Is Not About Running,\u201d \u201cThe Summer Boy,\u201d and \u201cThe Children.\u201d",
     "date": "2026-06-22T10:40:37",
     "category": "Magazines"
   }
