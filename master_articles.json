@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Judge Awards $250,000 to Musician Who Fled Trump-Led Kennedy Center Gig",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html",
+    "content": "Chuck Redd was scheduled to perform at a free Christmas Eve concert. It was canceled after he and other performers backed out.",
+    "date": "2026-08-11T22:26:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/11/dining/restaurant-review-bar-susanne-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Bar Susanne in New York",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html",
     "content": "One of the few executives in music to become a household name, Clive Davis maintained a visible role as a starmaker for more than five decades.",
     "date": "2026-06-22T15:43:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/22/business/media/youtube-hollywood-creative-artists-agency.html",
-    "feed_name": "NYT (Arts)",
-    "title": "YouTube Stars Take Center Stage at Creative Artists Agency",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/06/22/business/media/youtube-hollywood-creative-artists-agency.html",
-    "content": "Trisha Paytas, a digital star, is part of C.A.A.\u2019s growing roster of creators.",
-    "date": "2026-06-22T15:33:18",
     "category": "NYT"
   }
 ]
