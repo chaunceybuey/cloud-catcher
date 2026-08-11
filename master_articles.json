@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/11/dining/tom-clark-dead.html",
+    "feed_name": "NYT (Food)",
+    "title": "Tom Clark, Private Equity Investor Turned Sheep Farmer, Dies at 85",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/08/11/dining/tom-clark-dead.html",
+    "content": "On more than 500 acres in upstate New York, he kept a small herd of East Friesian ewes, producing award-winning cheeses and running a high-end restaurant and hotel.",
+    "date": "2026-08-11T15:35:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/11/arts/music/festival-orchestra-of-lincoln-center-review.html",
     "feed_name": "NYT (Arts)",
     "title": "Lincoln Center\u2019s Orchestra Makes Creative Programming Look Easy",
@@ -19986,16 +19996,6 @@
     "author": "ByPaige Williams",
     "link": "https://www.newyorker.com/magazine/2026/06/29/the-repo-man-coming-for-your-ride",
     "content": "As America\u2019s auto debt nears $1.7 trillion, repossessions are reaching levels not seen since the Great Recession. Inside an industry at the front line of the country\u2019s affordability crisis.",
-    "date": "2026-06-22T10:40:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "fca89b8509be54b0c387de899ee372b3",
-    "feed_name": "New Yorker",
-    "title": "Colson Whitehead\u2019s Big Score",
-    "author": "ByJulian Lucas",
-    "link": "https://www.newyorker.com/magazine/2026/06/29/colson-whitehead-profile",
-    "content": "As he closes out his Harlem crime trilogy with \u201cCool Machine,\u201d the two-time Pulitzer winner turns again to the city that made him, and to the private ghosts behind his restless reinventions.",
     "date": "2026-06-22T10:40:37",
     "category": "Magazines"
   }
