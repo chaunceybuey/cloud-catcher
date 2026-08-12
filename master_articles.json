@@ -130,6 +130,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/12/arts/television/ted-lasso-season-4-episode-2-recap.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Ted Lasso\u2019 Season 4, Episode 2 Recap: Back to Richmond",
+    "author": "Christopher Orr",
+    "link": "https://www.nytimes.com/2026/08/12/arts/television/ted-lasso-season-4-episode-2-recap.html",
+    "content": "Jason Sudeikis and Tanya Reynolds in \u201cTed Lasso.\u201d",
+    "date": "2026-08-12T09:02:53",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/12/theater/international-puppet-festival-female-puppeteers.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What if Judy Punched Back? A Puppet Fest for All, With a Female Focus.",
+    "author": "Laurel Graeber and Yuvraj Khanna",
+    "link": "https://www.nytimes.com/2026/08/12/theater/international-puppet-festival-female-puppeteers.html",
+    "content": "Theodora Skipitares with a creation featured at the International Puppet Fringe Festival. The giant head is one of several she created for the 2020 production of \u201cThe Transfiguration of Benjamin Banneker.\u201d",
+    "date": "2026-08-12T09:02:44",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/12/movies/mysterious-skin-ifc-center.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Mysterious Skin\u2019: One of the Great Movies of the Early 2000s",
+    "author": "J. Hoberman",
+    "link": "https://www.nytimes.com/2026/08/12/movies/mysterious-skin-ifc-center.html",
+    "content": "Neil (Joseph Gordon-Levitt), left, and Brian (Brady Corbet) in \u201cMysterious Skin.\u201d",
+    "date": "2026-08-12T09:02:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/12/theater/winters-tale-review-shakespeare-in-the-park.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Winter\u2019s Tale\u2019 Review: A Fable That\u2019s Fit for Summer",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/08/12/theater/winters-tale-review-shakespeare-in-the-park.html",
+    "content": "Ra\u00fal Esparza, left, as Leontes and Lily Rabe as Hermione in \u201cThe Winter\u2019s Tale\u201d at the Delacorte Theater in Manhattan.",
+    "date": "2026-08-12T09:01:40",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/12/arts/music/joseph-havlat-sinner-dont-let-this-harvest-pass-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Joseph Havlat Stacks Up Variations on \u2018Sinner, Don\u2019t Let This Harvest Pass\u2019",
+    "author": "Hugh Morris",
+    "link": "https://www.nytimes.com/2026/08/12/arts/music/joseph-havlat-sinner-dont-let-this-harvest-pass-review.html",
+    "content": "Joseph Havlat\u2019s thoughtfully programmed \u201cSinner, Don\u2019t Let This Harvest Pass\u201d spirals out from Schumann\u2019s enigmatic \u201cGhost Variations.\u201d",
+    "date": "2026-08-12T09:00:37",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/12/theater/heated-rivalry-musicals-edinburgh-fringe.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Heated Rivalry\u2019 Cried Out for Satire. Edinburgh Fringe Heard the Call.",
+    "author": "Houman Barekat",
+    "link": "https://www.nytimes.com/2026/08/12/theater/heated-rivalry-musicals-edinburgh-fringe.html",
+    "content": "With drag kings and blue tinsel, three unauthorized musical tributes at the festival embrace the absurdities of the hit TV show.",
+    "date": "2026-08-12T09:00:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/12/arts/television/lanterns-hbo-dc-comics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Even With Space Cops and Magic Rings, \u2018Lanterns\u2019 Keeps It Real",
+    "author": "Matt Stevens and Photographs by Philip Cheung",
+    "link": "https://www.nytimes.com/2026/08/12/arts/television/lanterns-hbo-dc-comics.html",
+    "content": "Aaron Pierre, left, and Kyle Chandler play two superheroes in \u201cLanterns\u201d who are supposed to be working together but keep getting in each other\u2019s way.",
+    "date": "2026-08-12T09:00:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/12/books/rich-people-fiction-books.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In These Novels, Rich People Behave Badly. Very Badly.",
+    "author": "Hannah Whitten",
+    "link": "https://www.nytimes.com/2026/08/12/books/rich-people-fiction-books.html",
+    "content": "The best-selling author Hannah Whitten recommends thrillers, horror, fantasy novels and more about the misdeeds of the ultrawealthy (and their comeuppance).",
+    "date": "2026-08-12T09:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/12/arts/television/late-night-trump-catering-container-air-force-one.html",
     "feed_name": "NYT (Arts)",
     "title": "Jimmy Fallon Recreates Trump\u2019s Catering Container Escape",
@@ -19918,85 +19998,5 @@
     "content": "The Allan B. Polunsky Unit in West Livingston on Jan. 31, 2024. Men on death row in Texas are housed in the Polunsky Unit.",
     "date": "2026-06-22T23:20:17",
     "category": "Texas"
-  },
-  {
-    "id": "6a395168f3efe9ab9aad14cb",
-    "feed_name": "Wired (Science)",
-    "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
-    "author": "Ritsuko Kawai",
-    "link": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
-    "content": "Researchers say the discovery could be a \u201cRosetta stone\u201d for cosmic signals.",
-    "date": "2026-06-22T22:15:10",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Clive Davis Knew to Let Patti Smith Have Free Rein",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html",
-    "content": "Patti Smith and Clive Davis in 1993.",
-    "date": "2026-06-22T22:12:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233928",
-    "feed_name": "Texas Tribune",
-    "title": "SCOTUS orders Texas court to reconsider man\u2019s 1997 murder conviction",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17365538/scotus-texas-court-of-criminal-appeals-michael-newberry",
-    "content": "The U.S. Supreme Court building  in Washington, D.C. on Nov. 1, 2021.",
-    "date": "2026-06-22T21:25:40",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233889",
-    "feed_name": "Texas Tribune",
-    "title": "Austin-area hospitals denied miscarriage care despite clarification to Texas\u2019 abortion ban, federal complaint alleges",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17365481/texas-miscarriage-abortion-ban-hospital-complaint",
-    "content": "Lynn Callaway poses for a portrait in Austin on June 16, 2026. Callaway has lodged a federal complaint against two area hospitals, accusing them of mishandling her miscarriage.",
-    "date": "2026-06-22T20:01:50",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-death-celebrity-reactions.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Barry Manilow, Bruce Springsteen and Others Mourn Clive Davis",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-death-celebrity-reactions.html",
-    "content": "Clive Davis and Gladys Knight at a pre-Grammy Awards gala in 2024. \u201cThere will never be another Clive,\u201d Knight said after Davis\u2019s death.",
-    "date": "2026-06-22T19:36:29",
-    "category": "NYT"
-  },
-  {
-    "id": "1f47a86e-6337-4592-b6e3-ea7383f9a029",
-    "feed_name": "Economist",
-    "title": "Russia\u2019s war economy has problems\u2014but is not about to crash",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash",
-    "content": "Vladimir Putin is still able to fund his aggression",
-    "date": "2026-06-22T19:07:09",
-    "category": "Magazines"
-  },
-  {
-    "id": "520104b9-6966-4b39-9f32-c280ec556719",
-    "feed_name": "Economist",
-    "title": "How to turn compute into a financial asset",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset",
-    "content": "Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power",
-    "date": "2026-06-22T18:09:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-songs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "11 Essential Songs Shepherded by Clive Davis",
-    "author": "Rob Tannenbaum",
-    "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-songs.html",
-    "content": "After Clive Davis, right, assured Carlos Santana that \u201cSmooth\u201d would be the most important song on the album \u201cSupernatural,\u201d it spent three months at No. 1.",
-    "date": "2026-06-22T16:21:49",
-    "category": "NYT"
   }
 ]
