@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "2594e132e33cea24201e943ea4380a05",
+    "feed_name": "The Atlantic",
+    "title": "AOC Knows a Lemon When She Sees One",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/08/wisconsin-primary-francesca-hong-david-crowley/688263/",
+    "content": "Francesca Hong\u2019s surprise loss in Wisconsin is a blessing to the Democratic Party.",
+    "date": "2026-08-12T18:36:08",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/12/arts/music/eurovision-war-zones-israel.html",
     "feed_name": "NYT (Arts)",
     "title": "Eurovision Bans Countries in War Zones From Hosting",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/23/movies/michael-jackson-mourning-michosis.html",
     "content": "Jaafar Jackson as Michael Jackson in the recent biopic \u201cMichael,\u201d which has set off a wave of renewed mourning over the pop star\u2019s death.",
     "date": "2026-06-23T15:02:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/picnic-planning-mistakes",
-    "feed_name": "NYT (Food)",
-    "title": "5 Picnic Planning Mistakes You Might Be Making",
-    "author": "Vaughn Vreeland",
-    "link": "https://cooking.nytimes.com/article/picnic-planning-mistakes",
-    "content": "The spread of your dreams starts here.",
-    "date": "2026-06-23T15:00:07",
     "category": "NYT"
   }
 ]
