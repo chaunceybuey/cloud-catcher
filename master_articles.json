@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/12/briefing/12-the-good-list-meteor-shower-cat-glyph.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Joy to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/08/12/briefing/12-the-good-list-meteor-shower-cat-glyph.html",
+    "content": "Cosmic reset, chatting outside and a very old cat.",
+    "date": "2026-08-12T19:26:33",
+    "category": "NYT"
+  },
+  {
     "id": "2594e132e33cea24201e943ea4380a05",
     "feed_name": "The Atlantic",
     "title": "AOC Knows a Lemon When She Sees One",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/23/theater/jimmy-awards-bowen-yang-musical-theater.html",
     "content": "The audience cheering at the rehearsal for the Jimmy Awards, which were held Monday night.",
     "date": "2026-06-23T15:03:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/23/movies/michael-jackson-mourning-michosis.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mourning After the Michael Jackson Movie? It Might Be \u2018Michosis.\u2019",
-    "author": "Farah Fleurima",
-    "link": "https://www.nytimes.com/2026/06/23/movies/michael-jackson-mourning-michosis.html",
-    "content": "Jaafar Jackson as Michael Jackson in the recent biopic \u201cMichael,\u201d which has set off a wave of renewed mourning over the pop star\u2019s death.",
-    "date": "2026-06-23T15:02:52",
     "category": "NYT"
   }
 ]
