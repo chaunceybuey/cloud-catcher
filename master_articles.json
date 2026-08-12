@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/12/movies/the-wrong-girls-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Wrong Girls\u2019 Review: Dazed, Confused and Psychic",
+    "author": "Natalia Winkelman",
+    "link": "https://www.nytimes.com/2026/08/12/movies/the-wrong-girls-review.html",
+    "content": "Kristen Stewart and Alia Shawkat play telepathic best friends in this stoner comedy where a laboratory-engineered hallucinogen is on the loose.",
+    "date": "2026-08-12T16:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239666",
+    "feed_name": "Texas Tribune",
+    "title": "Broadband grants paused as critics allege favoritism toward Elon Musk\u2019s Starlink",
+    "author": "Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17416444/texas-broadband-office-pauses-funds-disbursement",
+    "content": "Texas lawmakers have focused on developing the state\u2019s broadband availability in recent years, as an estimated seven million residents don\u2019t have internet access.",
+    "date": "2026-08-12T15:17:01",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/12/dining/hello-elotes.html",
     "feed_name": "NYT (Food)",
     "title": "Hello, Elotes",
@@ -137,6 +157,16 @@
     "link": "https://www.nytimes.com/2026/08/12/dining/hello-elotes.html",
     "content": "Melissa Clark\u2019s elotes (grilled corn with cheese, lime and chile).",
     "date": "2026-08-12T15:00:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/ottolenghi-chaat-masala-corn",
+    "feed_name": "NYT (Food)",
+    "title": "Ottolenghi\u2019s Chaat Masala Corn Can Transport You Around the World",
+    "author": "Yotam Ottolenghi",
+    "link": "https://cooking.nytimes.com/article/ottolenghi-chaat-masala-corn",
+    "content": "Chaat masala brings together salty, sour and funky in a way that does something very good to sweet, peak-season corn.",
+    "date": "2026-08-12T14:26:50",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "An aid adjusts a sign before Gov. Greg Abbott signs the Make Texas Healthy Again bill at the Texas Capitol on Aug. 27, 2025.",
     "date": "2026-06-23T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=233665",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Democrats look to rally behind their ticket, draw national attention at state convention",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17365872/texas-democrats-convention-corpus-christi-bernie-sanders-talarico",
-    "content": "Delegates and attendees during the first general session of the Texas Democratic Convention in El Paso on June 7, 2024.",
-    "date": "2026-06-23T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=19375",
-    "feed_name": "Stratechery",
-    "title": "Memory Chips and China, Microsoft and Chinese Models",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
-    "content": "<p>The big three memory makers may come to regret opening up the door to Chinese memory makers; Microsoft, meanwhile, is very incentivized to use Chinese models.</p>",
-    "date": "2026-06-23T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/23/arts/rare-books-on-sex-have-spiced-things-up-at-a-library-franklin-founded.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Rare Books on Sex Have Spiced Things Up at a Library Franklin Founded",
-    "author": "Ralph Blumenthal and Caroline Gutman",
-    "link": "https://www.nytimes.com/2026/06/23/arts/rare-books-on-sex-have-spiced-things-up-at-a-library-franklin-founded.html",
-    "content": "Charles E. Rosenberg has been giving rare books to the Library Company of Philadelphia since the 1960s. His most recent gift was a collection of some 1,500 texts about sexuality.",
-    "date": "2026-06-23T09:02:07",
-    "category": "NYT"
   }
 ]
