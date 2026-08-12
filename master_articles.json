@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a7cea9bc12158645e80d4ce",
+    "feed_name": "Wired (Science)",
+    "title": "The Best Photos of the Big August Solar Eclipse",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/best-photos-august-solar-eclipse-spain/",
+    "content": "It\u2019s been a century since the Iberian Peninsula has been in the full shadow of the moon. Here\u2019s what it looked like in the path of totality.",
+    "date": "2026-08-12T22:47:30",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=239709",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi voters to decide if industry should pay sharply higher water fees during droughts",
@@ -19988,15 +19998,5 @@
     "content": "A new game featuring the voices of Zo\u00eb Kravitz and Sadie Sink turns a user\u2019s phone into a controller in an attempt to combine the first and second screen experience.",
     "date": "2026-06-23T16:00:06",
     "category": "NYT"
-  },
-  {
-    "id": "676bc5a0b6cd579c788a8b6fedf1dc46",
-    "feed_name": "LRB",
-    "title": "Big Ag",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n11/hester-van-hensbergen/big-ag",
-    "content": "In\u200b 2018, the German company Bayer bought the US agrochemical giant Monsanto, inheriting not just its vast portfolio of seeds and pesticides, but also thousands of lawsuits alleging that glyphosate, the active ingredient in Roundup herbicide, causes cancer. Since it was patented in the 1970s, eight billion tonnes of Roundup have been sprayed on fields around the world. It\u2019s the main...",
-    "date": "2026-06-23T15:50:21",
-    "category": "Magazines"
   }
 ]
