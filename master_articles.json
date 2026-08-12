@@ -170,6 +170,16 @@
     "category": "NYT"
   },
   {
+    "id": "16f6a683-9436-4d3f-ae40-5e72a5e3a26b",
+    "feed_name": "Economist",
+    "title": "Kevin Warsh is struggling to escape his predecessor\u2019s problems",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems",
+    "content": "High inflation, weak jobs numbers and presidential interference trouble the Federal Reserve",
+    "date": "2026-08-12T17:33:32",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/12/arts/television/lucy-davis-uk-office-cancer.html",
     "feed_name": "NYT (Arts)",
     "title": "Lucy Davis, Star of \u2018The Office\u2019 U.K., Shares Terminal Cancer Diagnosis",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/23/theater/sound-of-music-a-few-good-men-broadway.html",
     "content": "Jasmine Amy Rogers, left, will star in \u201cThe Sound of Music,\u201d while Bradley Whitford, center, and Tom Blyth, right, will be featured in \u201cA Few Good Men.\u201d",
     "date": "2026-06-23T14:45:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Photos Behind Kennedy Center Tarps Show No Sign of Trump\u2019s Name",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html",
-    "content": "In a sworn declaration this month, the Kennedy Center said it had removed the words \u201cThe Donald J. Trump and\u201d from its facade.",
-    "date": "2026-06-23T14:30:51",
     "category": "NYT"
   }
 ]
