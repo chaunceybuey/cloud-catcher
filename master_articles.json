@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/12/dining/hello-elotes.html",
+    "feed_name": "NYT (Food)",
+    "title": "Hello, Elotes",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/12/dining/hello-elotes.html",
+    "content": "Melissa Clark\u2019s elotes (grilled corn with cheese, lime and chile).",
+    "date": "2026-08-12T15:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "487dee3790272aa94113e9afb7f34ca8",
     "feed_name": "LRB",
     "title": "Meanings of Ceasefire",
@@ -19985,16 +19995,6 @@
     "title": "Rare Books on Sex Have Spiced Things Up at a Library Franklin Founded",
     "author": "Ralph Blumenthal and Caroline Gutman",
     "link": "https://www.nytimes.com/2026/06/23/arts/rare-books-on-sex-have-spiced-things-up-at-a-library-franklin-founded.html",
-    "content": "Charles E. Rosenberg has been giving rare books to the Library Company of Philadelphia since the 1960s. His most recent gift was a collection of some 1,500 texts about sexuality.",
-    "date": "2026-06-23T09:02:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/23/arts/rare-books-sex-library-benjamin-franklin.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Rare Books on Sex Have Spiced Things Up at a Library Franklin Founded",
-    "author": "Ralph Blumenthal and Caroline Gutman",
-    "link": "https://www.nytimes.com/2026/06/23/arts/rare-books-sex-library-benjamin-franklin.html",
     "content": "Charles E. Rosenberg has been giving rare books to the Library Company of Philadelphia since the 1960s. His most recent gift was a collection of some 1,500 texts about sexuality.",
     "date": "2026-06-23T09:02:07",
     "category": "NYT"
