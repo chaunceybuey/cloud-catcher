@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "a9b4cb753c6aa04e6d0f084fa121fd24",
+    "feed_name": "Compact",
+    "title": "Republicans Embrace the Vice Economy",
+    "author": "",
+    "link": "https://www.compactmag.com/article/republicans-embrace-the-vice-economy/",
+    "content": "",
+    "date": "2026-08-12T11:46:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/12/arts/design/south-africas-zietz-mocaa-names-director-to-replace-koyo-kouoh.html",
     "feed_name": "NYT (Arts)",
     "title": "South Africa\u2019s Zietz MOCAA Names Director to Replace Koyo Kouoh",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/23/arts/design/charles-hinman-dead.html",
     "content": "Mr. Hinman in front of his works in 1967. Unlike the standard flat rectangular painting, some of his featured undulating curves; others, contours like cut gems.",
     "date": "2026-06-23T09:01:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/23/theater/theater-musicals-festivals-summer.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Plays, Musicals and Theater Festivals Across the U.S. Worth Traveling For",
-    "author": "Laura Collins-Hughes and Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/06/23/theater/theater-musicals-festivals-summer.html",
-    "content": "The opening moment of the play \u201cAs You Like It\u201d at Hudson Valley Shakespeare in Garrison, N.Y.",
-    "date": "2026-06-23T09:00:48",
     "category": "NYT"
   }
 ]
