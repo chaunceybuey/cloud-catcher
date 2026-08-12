@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/12/arts/music/eurovision-war-zones-israel.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Eurovision Bans Countries in War Zones From Hosting",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/08/12/arts/music/eurovision-war-zones-israel.html",
+    "content": "The singer Noam Bettan representing Israel at this year\u2019s Eurovision Song Contest in Vienna in May.",
+    "date": "2026-08-12T17:42:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/12/arts/television/lucy-davis-uk-office-cancer.html",
     "feed_name": "NYT (Arts)",
     "title": "Lucy Davis, Star of \u2018The Office\u2019 U.K., Shares Terminal Cancer Diagnosis",
@@ -19988,15 +19998,5 @@
     "content": "In a sworn declaration this month, the Kennedy Center said it had removed the words \u201cThe Donald J. Trump and\u201d from its facade.",
     "date": "2026-06-23T14:30:51",
     "category": "NYT"
-  },
-  {
-    "id": "3d67ebf1675971547a018af807af33fd",
-    "feed_name": "Compact",
-    "title": "How Brexit Brought Back Ethnic Politics",
-    "author": "",
-    "link": "https://www.compactmag.com/article/how-brexit-brought-back-ethnic-politics/",
-    "content": "",
-    "date": "2026-06-23T12:34:37",
-    "category": "Magazines"
   }
 ]
