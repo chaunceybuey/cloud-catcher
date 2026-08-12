@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/12/arts/television/late-night-trump-catering-container-air-force-one.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Fallon Recreates Trump\u2019s Catering Container Escape",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/08/12/arts/television/late-night-trump-catering-container-air-force-one.html",
+    "content": "\u201cEveryone was, like, \u2018Well, at least he has one exit plan,\u2019\u201d the \u201cTonight Show\u201d host said.",
+    "date": "2026-08-12T06:26:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=239608",
     "feed_name": "Texas Tribune",
     "title": "TribCast: Could rural rage really swing a statewide election?",
@@ -19988,15 +19998,5 @@
     "content": "After Clive Davis, right, assured Carlos Santana that \u201cSmooth\u201d would be the most important song on the album \u201cSupernatural,\u201d it spent three months at No. 1.",
     "date": "2026-06-22T16:21:49",
     "category": "NYT"
-  },
-  {
-    "id": "2e8a5d7cccb61f5294a52b4aa77ba140",
-    "feed_name": "LRB",
-    "title": "Lemonade and Flowers",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/june/lemonade-and-flowers",
-    "content": "Bill Clinton called the White House the \u2018crown jewel of the federal penitentiary system\u2019 but that\u2019s not the way Jill Biden.\u00a0.\u00a0.",
-    "date": "2026-06-22T15:53:44",
-    "category": "Magazines"
   }
 ]
