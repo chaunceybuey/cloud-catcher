@@ -410,6 +410,16 @@
     "category": "NYT"
   },
   {
+    "id": "ced5b9df-36de-4fea-a5da-e72a6d02f800",
+    "feed_name": "Economist",
+    "title": "When Japan buys yen, it unwinds a dangerous trade",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+    "content": "The world\u2019s biggest carry trader begins to exit its position",
+    "date": "2026-08-13T08:49:36",
+    "category": "Magazines"
+  },
+  {
     "id": "8fd2ee52-3e5e-471d-a95e-9e7f67bac150",
     "feed_name": "Economist",
     "title": "Is China\u2019s debt-bomb squad about to blow up?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/24/arts/design/sonia-boyce-queens-museum-art.html",
     "content": "From the Queens Museum to Times Square, the British artist Sonia Boyce shows art intimately connected to community.",
     "date": "2026-06-24T09:01:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/24/movies/in-the-hand-of-dante-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018In the Hand of Dante\u2019 Review: A Not So Divine Folly",
-    "author": "Jeannette Catsoulis",
-    "link": "https://www.nytimes.com/2026/06/24/movies/in-the-hand-of-dante-review.html",
-    "content": "Not even a double dose of Oscar Isaac can rescue this fanciful, oversauced tale of stolen art and spiritual questioning.",
-    "date": "2026-06-24T09:01:31",
     "category": "NYT"
   }
 ]
