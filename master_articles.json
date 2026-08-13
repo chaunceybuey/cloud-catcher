@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/13/dining/my-big-fat-greek-chicken-with-cucumber-feta-salad.html",
+    "feed_name": "NYT (Food)",
+    "title": "My Big Fat Greek Chicken With Cucumber-Feta Salad",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/13/dining/my-big-fat-greek-chicken-with-cucumber-feta-salad.html",
+    "content": "Ali Slagle\u2019s Greek chicken with cucumber-feta salad.",
+    "date": "2026-08-13T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/13/arts/music/best-classical-music-albums-august-2026.html",
     "feed_name": "NYT (Arts)",
     "title": "5 Classical Music Albums You Can Listen to Right Now",
@@ -19988,15 +19998,5 @@
     "content": "People cast their ballots at the Metropolitan Multi-Service Center in Houston on Nov. 8, 2022. Texas lawmakers have agreed to make the illegal voting a felony once again. Credit: Michael Stravato for The Texas Tribune",
     "date": "2026-06-24T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://stratechery.com/?p=19383",
-    "feed_name": "Stratechery",
-    "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
-    "content": "<p>My experience and reflections on vibe coding an app that I plan on actually using regularly.</p>",
-    "date": "2026-06-24T10:00:00",
-    "category": "Tech"
   }
 ]
