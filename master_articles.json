@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/13/arts/music/best-classical-music-albums-august-2026.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Classical Music Albums You Can Listen to Right Now",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/08/13/arts/music/best-classical-music-albums-august-2026.html",
+    "content": "Wild Up\u2019s latest volume of music by Julius Eastman, Mitsuko Uchida\u2019s Beethoven and works by Joe Hisaishi are among our selections.",
+    "date": "2026-08-13T13:22:06",
+    "category": "NYT"
+  },
+  {
     "id": "8cb84a44a8b941060a4da294bdd8bda9",
     "feed_name": "Compact",
     "title": "The Truth About Corey Ruiz",
@@ -19988,15 +19998,5 @@
     "content": "<p>My experience and reflections on vibe coding an app that I plan on actually using regularly.</p>",
     "date": "2026-06-24T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "d4887c0af207f8b7b200c91882804669",
-    "feed_name": "The Atlantic",
-    "title": "Andy Burnham Has Three Years to Fix Britain",
-    "author": "Idrees Kahloon",
-    "link": "https://www.theatlantic.com/ideas/2026/06/burnham-uk-reform-manchesterism/687674/",
-    "content": "Can a former mayor show that the establishment can still govern?",
-    "date": "2026-06-24T10:00:00",
-    "category": "Magazines"
   }
 ]
