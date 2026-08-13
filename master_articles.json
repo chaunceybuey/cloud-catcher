@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=239912",
+    "feed_name": "Texas Tribune",
+    "title": "Federal judge extends pause on border wall construction at South Texas wildlife refuge",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17417588/border-wall-construction-paused-santa-ana-refuge",
+    "content": "The levee is seen at Santa Ana National Wildlife Refuge in Alamo, Texas on July 8, 2026. The current proposed border wall would replace the levee with a concrete wall as high as it is now to then erect the bollard metal wall on top of it. Activists argue that this will have a negative impact on wildlife.",
+    "date": "2026-08-13T21:45:24",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8832082#p8832082",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -208,6 +218,26 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br /><br />Do you have any investments in your CMA or just cash/cash equivalent/fidelity money market?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I have VBIL and a Fidelity MMF. I think they total about $50k.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>So you have an ETF. That is why there we no hold. You have collateral. This was already discussed here a few times.<br /><br />If your CMA had only cash/MM, there would be a hold. That is why I only deposit checks and do pulls using my brokerage account these days.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Thu Aug 13, 2026 4:19 pm</p><hr />",
     "date": "2026-08-13T21:19:07",
     "category": "Finance"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239903",
+    "feed_name": "Texas Tribune",
+    "title": "Houston law firm with Trump ties declines $150 million contract to represent migrant children",
+    "author": "By VALERIE GONZALEZ and RYAN J. FOLEY, \u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17417589/texas-burke-law-group-declines-immigrant-children-contract",
+    "content": "Children of migrants and asylum seekers rest at a church in San Antonio on June 30, 2026.",
+    "date": "2026-08-13T21:14:04",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239897",
+    "feed_name": "Texas Tribune",
+    "title": "Gov. Greg Abbott proposes further limiting screen time in K-12 classrooms",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17417590/texas-greg-abbott-screen-limits-classrooms-public-education",
+    "content": "Kimani Mitchell, left, stands next to Danielle Minnis as they give a lesson to their eighth grade students at Legacy Middle School in San Antonio on April 29, 2026.",
+    "date": "2026-08-13T21:01:56",
+    "category": "Texas"
   },
   {
     "id": "7b7a535727b0563754cb15f6f29043fc",
@@ -19967,36 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/",
     "content": "The State Fair rally was an empty celebration of a man instead of a country.",
     "date": "2026-06-25T03:58:25",
-    "category": "Magazines"
-  },
-  {
-    "id": "a2868155f2d57829f62666c703ebd32e",
-    "feed_name": "The Atlantic",
-    "title": "The Whiplash of Trump\u2019s Iran Capitulation",
-    "author": "Tom Nichols",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trump-iran-foreign-policy/687683/",
-    "content": "America\u2019s foreign policy is about one man and little else.",
-    "date": "2026-06-24T22:16:44",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/24/arts/design/sothebys-auction-london-joe-lewis.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Record Sotheby\u2019s Auction Thrills London After a Brexit Hangover",
-    "author": "Scott Reyburn",
-    "link": "https://www.nytimes.com/2026/06/24/arts/design/sothebys-auction-london-joe-lewis.html",
-    "content": "British auction sales have declined by nearly half since 2015, but Wednesday\u2019s results hint at a return to form for London as an international auction center.",
-    "date": "2026-06-24T22:02:50",
-    "category": "NYT"
-  },
-  {
-    "id": "5a81e6f2d3e1f92c448109edd45a8aa9",
-    "feed_name": "The Atlantic",
-    "title": "Democratic Socialists Aren\u2019t Taking Over America",
-    "author": "Adam Serwer",
-    "link": "https://www.theatlantic.com/ideas/2026/06/leftist-socialist-new-york-democratic-primary-results/687681/",
-    "content": "They\u2019re winning where they should win.",
-    "date": "2026-06-24T20:55:55",
     "category": "Magazines"
   }
 ]
