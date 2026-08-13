@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Salvage Company Hoping to Sell Titanic Artifacts Challenges Court\u2019s Role",
+    "author": "Marc Davis",
+    "link": "https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html",
+    "content": "A company that has the rights to salvage items from the shipwreck of the Titanic is looking to sell 100 of the artifacts it has recovered at auction.",
+    "date": "2026-08-13T22:59:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8832125#p8832125",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.outsideonline.com/outdoor-adventure/everest/tyler-andrews-everest-speed-record-2/",
     "content": "",
     "date": "2026-06-25T05:19:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "de686fac6242e0dc7135960e2b81d6a0",
-    "feed_name": "The Atlantic",
-    "title": "Trump Is Making the 250th Small",
-    "author": "Tom Nichols",
-    "link": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/",
-    "content": "The State Fair rally was an empty celebration of a man instead of a country.",
-    "date": "2026-06-25T03:58:25",
     "category": "Magazines"
   }
 ]
