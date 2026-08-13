@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "3de09ddd15573911a40dd43885d18a62",
+    "feed_name": "LRB",
+    "title": "JOH returns to Honduras",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/joh-returns-to-honduras",
+    "content": "Trump\u2019s most shocking move to influence the Honduran electorate was to pardon the former president Juan Orlando Hern\u00e1ndez, serving.\u00a0.\u00a0.",
+    "date": "2026-08-13T19:13:08",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/13/books/john-crowley-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "John Crowley, Whose Fantasy Novels Blurred Reality and Dream, Dies at 83",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/08/13/books/john-crowley-dead.html",
+    "content": "The eminent critic Harold Bloom called his 1981 book \u2018Little, Big\u2019 a \u2018neglected masterpiece\u2019 and one of the best novels of the 20th century.",
+    "date": "2026-08-13T19:02:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/13/books/raoul-vaneigem-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Raoul Vaneigem, Whose Manifesto Inspired 1968 Revolt in France, Dies at 92",
@@ -19978,25 +19998,5 @@
     "content": "It\u2019s easy being green.\nDelivered by PolitePaul service",
     "date": "2026-06-24T13:18:46",
     "category": "Uncategorized"
-  },
-  {
-    "id": "49d1126372c0ae2531ef6009c8e18f1c",
-    "feed_name": "The Atlantic",
-    "title": "Why I Joined Team Algae",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/06/reflecting-pool-green-algae-trump/687672/",
-    "content": "The greening of the Reflecting Pool is meaningless to everybody, except the president.",
-    "date": "2026-06-24T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a3ba58be6c7ac5cabfbc608",
-    "feed_name": "Wired (Science)",
-    "title": "London Climate Action Week Foiled By Climate Change",
-    "author": "Isabella Ward",
-    "link": "https://www.wired.com/story/london-climate-action-week-foiled-by-climate-change/",
-    "content": "As record-breaking heat crushes Europe, organizers are moving events online to avoid exposing people to dangerously high temperatures.",
-    "date": "2026-06-24T10:11:14",
-    "category": "Magazines"
   }
 ]
