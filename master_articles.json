@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "aa817647fe87bb08224b8514c1d93109",
+    "feed_name": "The Atlantic",
+    "title": "The Jonestown Style of Politics",
+    "author": "James Kirchick",
+    "link": "https://www.theatlantic.com/ideas/2026/08/jonestown-cult-radical-politics/688257/",
+    "content": "Revulsion over an infamous 1978 massacre obscures the event\u2019s continuing relevance.",
+    "date": "2026-08-13T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/13/opinion/interesting-times-bryan-johnson.html",
     "feed_name": "Interesting Times",
     "title": "An 8 P.M. Bedtime, Oxygen Chambers, Blood Tests Galore. What Would You Do for a Longer Life?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/24/dining/drinks/george-washington-rye-whiskey.html",
     "content": "A lesser-known legacy of the first president is his Mount Vernon distillery, whose return has helped revive an interest in American whiskey.",
     "date": "2026-06-24T09:02:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/24/arts/design/sonia-boyce-queens-museum-art.html",
-    "feed_name": "NYT (Arts)",
-    "title": "An Artist Creates Moments for Play, and Solidarity",
-    "author": "Aruna D\u2019Souza",
-    "link": "https://www.nytimes.com/2026/06/24/arts/design/sonia-boyce-queens-museum-art.html",
-    "content": "From the Queens Museum to Times Square, the British artist Sonia Boyce shows art intimately connected to community.",
-    "date": "2026-06-24T09:01:43",
     "category": "NYT"
   }
 ]
