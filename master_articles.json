@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8831993#p8831993",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "mhc",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8831993#p8831993",
+    "content": "Topic: CMA cash pull settlement time<br /><br />My 529s are still at Vanguard. I withdrew $60k to my regional bank. I went to push from bank to Fidelity CMA. My bank upgraded and now no longer allows me to push to CMA. I pulled the $60k from the CMA. I didn't care about a potential long settlement time because I don't have to pay the college bills until middle of September. To my surprise, the money settled in 3 days. When I would do the push, it settled in 1 day if I remember correctly. 3 days is no big deal to me. There was a warning when I did the pull that it could take 7-12 days, if I remember correctly. I'm probably off on the 7-12 days.<br /><br />I know I could have Vanguard deposit the money directly in my CMA. I just have not set that up. Maybe I should.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=25725\">mhc</a> \u2014 Thu Aug 13, 2026 2:42 pm</p><hr />",
+    "date": "2026-08-13T19:42:15",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/13/theater/american-daughter-review-wendy-wasserstein.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018An American Daughter\u2019 Review: Wendy Wasserstein\u2019s Cautionary Tale",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/08/13/theater/american-daughter-review-wendy-wasserstein.html",
+    "content": "From left: Dakin Matthews, Jean Lichty and Robert Sean Leonard in \u201cAn American Daughter\u201d at the Pershing Square Signature Center in Manhattan.",
+    "date": "2026-08-13T19:29:31",
+    "category": "NYT"
+  },
+  {
     "id": "3de09ddd15573911a40dd43885d18a62",
     "feed_name": "LRB",
     "title": "JOH returns to Honduras",
@@ -198,6 +218,16 @@
     "content": "The eminent critic Harold Bloom called his 1981 book \u2018Little, Big\u2019 a \u2018neglected masterpiece\u2019 and one of the best novels of the 20th century.",
     "date": "2026-08-13T19:02:21",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239860",
+    "feed_name": "Texas Tribune",
+    "title": "Austin ISD moves closer to state takeover after 2 schools receive fifth failing ratings",
+    "author": "By Acacia Coronado,\u00a0Austin Current",
+    "link": "https://feeds.texastribune.org/link/16799/17417446/texas-school-takeover-austin-schools-f-rating-burnet-webb",
+    "content": "Organizer Laya Diamond Waldman Austin drums at the rally against the state takeover of public schools at Brentwood Neighborhood Park on Aug. 8, 2026.",
+    "date": "2026-08-13T18:47:14",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/08/13/books/raoul-vaneigem-dead.html",
@@ -19968,35 +19998,5 @@
     "content": "New York in June is a bonanza of Off and Off Off Broadway productions. Here\u2019s our guide to shows we recommend, many in the city\u2019s coziest spaces (and closing soon).",
     "date": "2026-06-24T15:00:08",
     "category": "NYT"
-  },
-  {
-    "id": "8383dc0af96622c758fc9d214c3ab509",
-    "feed_name": "LRB",
-    "title": "Paper Tiger",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/june/paper-tiger",
-    "content": "Wearing a football jersey and waving the national flag, Abelardo de la Espriella trotted out the quasi-fascist trinity from the days of Operation.\u00a0.\u00a0.",
-    "date": "2026-06-24T14:35:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234112",
-    "feed_name": "Texas Tribune",
-    "title": "Camp Mystic files for bankruptcy almost one year after deadly flood",
-    "author": "By Kathy McCormack\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17366575/texas-camp-mystic-bankruptcy-flood",
-    "content": "Camp Mystic along the banks of the Guadalupe River in Hunt on July 5, 2025.",
-    "date": "2026-06-24T14:28:59",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/06/reflecting-pool-green-algae-trump/687672/",
-    "feed_name": "Chait",
-    "title": "The Reflecting Pool Water\u2019s Fine",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/06/reflecting-pool-green-algae-trump/687672/",
-    "content": "It\u2019s easy being green.\nDelivered by PolitePaul service",
-    "date": "2026-06-24T13:18:46",
-    "category": "Uncategorized"
   }
 ]
