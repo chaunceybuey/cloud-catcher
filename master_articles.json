@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/13/books/raoul-vaneigem-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Raoul Vaneigem, Whose Manifesto Inspired 1968 Revolt in France, Dies at 92",
+    "author": "Adam Nossiter",
+    "link": "https://www.nytimes.com/2026/08/13/books/raoul-vaneigem-dead.html",
+    "content": "\u201cThe Revolution of Everyday Life,\u201d published in 1967, was his cri de coeur against mindless work, materialism and authority.",
+    "date": "2026-08-13T17:25:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
     "feed_name": "NYT (Arts)",
     "title": "Trump-Led Board Votes Again to Close Kennedy Center for Renovations",
@@ -19988,15 +19998,5 @@
     "content": "As record-breaking heat crushes Europe, organizers are moving events online to avoid exposing people to dangerously high temperatures.",
     "date": "2026-06-24T10:11:14",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234056",
-    "feed_name": "Texas Tribune",
-    "title": "Cornyn and Crockett remain top skeptics of their party\u2019s U.S. Senate nominees after primary losses",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17366466/john-cornyn-jasmine-crockett-talarico-paxton-texas-senate",
-    "content": "U.S. Rep. Jasmine Crockett, D-Dallas, and U.S. Sen. John Cornyn.",
-    "date": "2026-06-24T10:00:00",
-    "category": "Texas"
   }
 ]
