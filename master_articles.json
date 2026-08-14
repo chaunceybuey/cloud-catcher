@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/14/arts/television/lanterns-review-hbo.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Lanterns\u2019 Review: It\u2019s Not Easy Being Green",
+    "author": "Mike Hale",
+    "link": "https://www.nytimes.com/2026/08/14/arts/television/lanterns-review-hbo.html",
+    "content": "Aaron Pierre, left, and Kyle Chandler play a duo of intergalactic cops with daddy issues in \u201cLanterns.\u201d",
+    "date": "2026-08-14T16:12:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=239978",
+    "feed_name": "Texas Tribune",
+    "title": "Look up your Texas school\u2019s A-F accountability grade, STAAR performance",
+    "author": "By Jaden Edison, graphic by\u00a0Hien An Ngo, data analysis by Rob Reid",
+    "link": "https://feeds.texastribune.org/link/16799/17418225/look-up-texas-school-accountability-grades-2026-ratings-search",
+    "content": "Students backpacks hang off the back of their chairs in an empty classroom at Blanco Vista Elementary School in San Marcos on Aug. 23, 2021.",
+    "date": "2026-08-14T15:27:56",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/14/dining/this-cheesy-corn-salad-speaks-for-itself.html",
     "feed_name": "NYT (Food)",
     "title": "This Cheesy Corn Salad Speaks for Itself",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/25/dining/got-zucchini-make-this-pasta.html",
     "content": "Melissa Clark\u2019s zucchini pasta with tuna and chile paste.",
     "date": "2026-06-25T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/arts/music/david-clayton-thomas-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "David Clayton-Thomas, Lead Singer of Blood, Sweat & Tears, Dies at 84",
-    "author": "Stefano Montali",
-    "link": "https://www.nytimes.com/2026/06/25/arts/music/david-clayton-thomas-dead.html",
-    "content": "David Clayton-Thomas in 1973. With his burly physique and snarling, bluesy tenor, he stood out in Blood, Sweat & Tears, an ensemble that was filled with jazz- and conservatory-trained musicians.",
-    "date": "2026-06-25T14:56:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Is Canada About to Enter the Eurovision Song Contest?",
-    "author": "Alex Marshall and Ian Austen",
-    "link": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
-    "content": "The Eurovision Song Contest final in Vienna in May.",
-    "date": "2026-06-25T13:36:12",
     "category": "NYT"
   }
 ]
