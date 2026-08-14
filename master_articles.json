@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Fallon Reacts to Karoline Leavitt\u2019s White House Exit",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html",
+    "content": "The \u201cTonight Show\u201d host said President Trump had been surprised by the press secretary\u2019s decision to step down. \u201cShe was like, \u2018I wanted to wait for a good time but there hasn\u2019t been one, so.\u2019\u201d",
+    "date": "2026-08-14T05:34:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=239939",
     "feed_name": "Texas Tribune",
     "title": "Longstanding limits on certain firearms, silencers lifted in Texas after judge\u2019s order takes effect",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/25/arts/television/microdrama-short-tv-series-bravo-lifetime-bet.html",
     "content": "Major networks like Fox, Bravo and BET are translating shows to the short-form video format that last year made $11 billion in global revenue.",
     "date": "2026-06-25T09:00:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/arts/national-geographic-museum-dc-photography.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 Photographs That Shine in National Geographic\u2019s New Museum",
-    "author": "Sopan Deb",
-    "link": "https://www.nytimes.com/2026/06/25/arts/national-geographic-museum-dc-photography.html",
-    "content": "The new complex has 100,000 square feet of immersive exhibits and attractions.",
-    "date": "2026-06-25T09:00:11",
     "category": "NYT"
   }
 ]
