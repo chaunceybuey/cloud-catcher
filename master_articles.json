@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/14/dining/this-cheesy-corn-salad-speaks-for-itself.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Cheesy Corn Salad Speaks for Itself",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/08/14/dining/this-cheesy-corn-salad-speaks-for-itself.html",
+    "content": "Elijah G. Deleon\u2019s charred corn and Cheddar salad, adapted by Genevieve Ko.",
+    "date": "2026-08-14T15:00:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/14/movies/horror-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Horror Movies to Stream Now",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/08/14/movies/horror-movies-streaming.html",
+    "content": "Nina Kiri in a scene from \u201cUndertone.\u201d",
+    "date": "2026-08-14T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=239950",
     "feed_name": "Texas Tribune",
     "title": "Lawsuit seeks to stop Big Bend border wall construction",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
     "content": "The Eurovision Song Contest final in Vienna in May.",
     "date": "2026-06-25T13:36:12",
-    "category": "NYT"
-  },
-  {
-    "id": "e3e5f461f3579fb1910245e4e383418e",
-    "feed_name": "Compact",
-    "title": "Mamdani Is Trumpifying the Democrats",
-    "author": "",
-    "link": "https://www.compactmag.com/article/mamdani-is-trumpifying-the-democrats/",
-    "content": "",
-    "date": "2026-06-25T13:20:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Jackass: Best and Last\u2019 Review: Johnny Knoxville and Friends Reunite",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html",
-    "content": "In what purports to be the final installment of the MTV franchise, Johnny Knoxville and friends reunite to reminisce.",
-    "date": "2026-06-25T13:00:04",
     "category": "NYT"
   }
 ]
