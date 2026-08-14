@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/14/arts/music/daniel-barenboim-conductor.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Parkinson\u2019s Made Daniel Barenboim Step Back. But He\u2019s on the Conductor\u2019s Podium Again.",
+    "author": "Daniel Lewis",
+    "link": "https://www.nytimes.com/2026/08/14/arts/music/daniel-barenboim-conductor.html",
+    "content": "Daniel Barenboim is leading his orchestra of Arab and Israeli musicians on a European tour. His movements onstage were few, but often effective.",
+    "date": "2026-08-14T18:24:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=19695",
     "feed_name": "Stratechery",
     "title": "2026.33: The CapEx Train Keeps Rolling",
@@ -19988,15 +19998,5 @@
     "content": "The filmmaker has lately turned to television, acting in FX\u2019s \u201cThe Bear,\u201d directing episodes of \u201cThe Chi\u201d and mentoring Black actors and showrunners reared on his work.",
     "date": "2026-06-25T15:07:36",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234256",
-    "feed_name": "Texas Tribune",
-    "title": "Supreme Court clears way for Trump administration to revive restrictive immigration policy",
-    "author": "By\u00a0LINDSAY WHITEHURST,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17367875/supreme-court-trump-immigration-asylum-ruling-texas-us-mexico-border",
-    "content": "Migrants walk around after dawn on the border as they wait to cross to El Paso, Texas, which is blocked by concertina wire guarded by Texas National Guard soldiers in Ciudad Juarez, Chihuahua state, Mexico, on May 28, 2024.",
-    "date": "2026-06-25T15:01:54",
-    "category": "Texas"
   }
 ]
