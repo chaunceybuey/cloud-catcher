@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=239950",
+    "feed_name": "Texas Tribune",
+    "title": "Lawsuit seeks to stop Big Bend border wall construction",
+    "author": "Ayden Runnels and Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17418172/texas-big-bend-border-wall-lawsuit-lipan-apache",
+    "content": "Excavation and bulldozing equipment as seen through vegetation near the Santa Elena Canyon trailhead parking lot and next to Ross Maxwell Scenic Drive in Big Bend National Park on Aug. 13, 2026.",
+    "date": "2026-08-14T14:20:18",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8832528#p8832528",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "In what purports to be the final installment of the MTV franchise, Johnny Knoxville and friends reunite to reminisce.",
     "date": "2026-06-25T13:00:04",
     "category": "NYT"
-  },
-  {
-    "id": "6a3c2d14096b0c8d95e50f29",
-    "feed_name": "Wired (Science)",
-    "title": "Colossal and the US Government Are Creating an Endangered Species \u2018BioVault\u2019",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/",
-    "content": "The move comes as the Trump administration is trying to weaken the act that\u2019s meant to protect endangered species from going extinct in the first place.",
-    "date": "2026-06-25T13:00:00",
-    "category": "Magazines"
   }
 ]
