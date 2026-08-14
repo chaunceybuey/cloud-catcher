@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/14/arts/television/christy-knowings-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Christy Knowings, Who Starred on \u201990s TV Show \u2018All That,\u2019 Dies at 46",
+    "author": "Ishani Desai",
+    "link": "https://www.nytimes.com/2026/08/14/arts/television/christy-knowings-dead.html",
+    "content": "Christy Knowings in Los Angeles in 2017.",
+    "date": "2026-08-14T08:40:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html",
     "feed_name": "NYT (Arts)",
     "title": "Jimmy Fallon Reacts to Karoline Leavitt\u2019s White House Exit",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/25/books/sapphic-romance-books.html",
     "content": "The author Ashley Herring Blake recommends swoony Sapphic novels that celebrate love between women across eras and genres.",
     "date": "2026-06-25T09:01:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/arts/television/microdrama-short-tv-series-bravo-lifetime-bet.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Fox, Bravo and BET Look to Take Microdramas Mainstream",
-    "author": "Jonathan Abrams",
-    "link": "https://www.nytimes.com/2026/06/25/arts/television/microdrama-short-tv-series-bravo-lifetime-bet.html",
-    "content": "Major networks like Fox, Bravo and BET are translating shows to the short-form video format that last year made $11 billion in global revenue.",
-    "date": "2026-06-25T09:00:48",
     "category": "NYT"
   }
 ]
