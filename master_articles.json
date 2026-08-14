@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/14/arts/music/ellis-ludwig-leone-quiet-hours-nocturnes-home-pianos.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ellis Ludwig-Leone\u2019s \u2018Quiet Hours\u2019 Highlights the Home Piano",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/08/14/arts/music/ellis-ludwig-leone-quiet-hours-nocturnes-home-pianos.html",
+    "content": "Ellis Ludwig-Leone at home. He saved a nocturne for himself and recorded it on his parents\u2019 piano, a 1999 Steinway L.",
+    "date": "2026-08-14T13:38:28",
+    "category": "NYT"
+  },
+  {
     "id": "428a8406eb628a45cb173d5029de8f72",
     "feed_name": "LRB",
     "title": "Save the CCA",
@@ -367,6 +377,16 @@
     "link": "https://www.nytimes.com/2026/08/14/movies/teenage-sex-and-death-at-camp-miasma-clip.html",
     "content": "The director discusses a key scene from \u201cTeenage Sex and Death at Camp Miasma,\u201d featuring Hannah Einbinder and Gillian Anderson.",
     "date": "2026-08-14T09:02:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/chislic-south-dakota-recipe",
+    "feed_name": "NYT (Food)",
+    "title": "South Dakota\u2019s \u2018State Nosh\u2019 Is Meaty and Magnificent",
+    "author": "Jed Portman",
+    "link": "https://cooking.nytimes.com/article/chislic-south-dakota-recipe",
+    "content": "Chislic isn\u2019t a hard sell. \u201cIt\u2019s meat nuggets with garlic salt, on a saltine, with a cold Busch Light,\u201d said Jon Lauck, a Midwest-focused historian who lives in Sioux Falls, S.D.",
+    "date": "2026-08-14T09:02:01",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Outside the Louvre Museum, which reduced its opening hours because of the heat, in Paris on Wednesday. Other institutions with cool spaces are offering free admission.",
     "date": "2026-06-25T12:36:27",
     "category": "NYT"
-  },
-  {
-    "id": "39bc09609e74a96dcd44bdb4590257ae",
-    "feed_name": "The Atlantic",
-    "title": "The AI-Tutor Revolution That Wasn\u2019t",
-    "author": "Jenny Anderson",
-    "link": "https://www.theatlantic.com/ideas/2026/06/ai-tutor-education-human-investment/687678/",
-    "content": "It turns out bots aren\u2019t great teachers.",
-    "date": "2026-06-25T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a3d077b2eb3049ca413f1f5",
-    "feed_name": "Wired (Science)",
-    "title": "Thousands Feared Dead After Venezuela Struck by Strongest Earthquake in Over 125 Years",
-    "author": "Isabella Ward",
-    "link": "https://www.wired.com/story/thousands-feared-dead-after-venezuela-struck-by-strongest-earthquakes-in-over-125-years/",
-    "content": "The country's interim leader declared a state of emergency on Wednesday following shocks measuring 7.5 magnitude after two quakes hit in less than a minute.",
-    "date": "2026-06-25T11:56:58",
-    "category": "Magazines"
   }
 ]
