@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/14/movies/mark-rydell-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mark Rydell, \u2018Actor\u2019s Director\u2019 Known for \u2018On Golden Pond,\u2019 Dies at 97",
+    "author": "Anita Gates",
+    "link": "https://www.nytimes.com/2026/08/14/movies/mark-rydell-dead.html",
+    "content": "Having started out as an actor, he was able to coax sensitive work out of performers like Bette Midler, Katharine Hepburn, Henry Fonda and John Wayne.",
+    "date": "2026-08-14T21:13:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/corn-salmon-chowder-recipe-summer-soup",
+    "feed_name": "NYT (Food)",
+    "title": "This Corn-Salmon Chowder May Be the Best Summer Soup",
+    "author": "Melissa Clark",
+    "link": "https://cooking.nytimes.com/article/corn-salmon-chowder-recipe-summer-soup",
+    "content": "This summery chowder borrows a little something from all the popular styles.",
+    "date": "2026-08-14T21:00:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21996-inspired-minds-art-center-musical-comedy-murders-of-1940",
     "feed_name": "KMFA",
     "title": "Inspired Minds Art Center: Musical Comedy Murders of 1940",
@@ -628,6 +648,16 @@
     "content": "The levee is seen at Santa Ana National Wildlife Refuge in Alamo, Texas on July 8, 2026. The current proposed border wall would replace the levee with a concrete wall as high as it is now to then erect the bollard metal wall on top of it. Activists argue that this will have a negative impact on wildlife.",
     "date": "2026-08-13T21:45:24",
     "category": "Texas"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/how-our-veggie-writer-plans-meals-for-a-week",
+    "feed_name": "NYT (Food)",
+    "title": "How Our Veggie Writer Plans Meals for a Week",
+    "author": "Tanya Sichynsky",
+    "link": "https://cooking.nytimes.com/article/how-our-veggie-writer-plans-meals-for-a-week",
+    "content": "Tanya Sichynsky\u2019s chickpea salad with grated tomato dressing.",
+    "date": "2026-08-13T21:43:33",
+    "category": "NYT"
   },
   {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8832082#p8832082",
@@ -19968,35 +19998,5 @@
     "content": "The Milly Rock, haunting flamenco and falling bodies: The Lincoln Center Contemporary Dance Festival delivers quality with nary a pointe shoe in sight.",
     "date": "2026-06-25T16:42:55",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/arts/television/netflix-expiring.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Stream These 5 Movies and TV Shows Before They Leave Netflix in July",
-    "author": "Jason Bailey",
-    "link": "https://www.nytimes.com/2026/06/25/arts/television/netflix-expiring.html",
-    "content": "Kyra Schon in \u201cNight of the Living Dead.\u201d",
-    "date": "2026-06-25T16:39:18",
-    "category": "NYT"
-  },
-  {
-    "id": "7c114ab48cbd452402832bb293310be8",
-    "feed_name": "Compact",
-    "title": "Stop Talking About Mental Health",
-    "author": "",
-    "link": "https://www.compactmag.com/article/stop-talking-about-mental-health/",
-    "content": "",
-    "date": "2026-06-25T16:27:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234017",
-    "feed_name": "Texas Tribune",
-    "title": "Tensions with landowners rise as a raft of gas pipelines push through Texas properties",
-    "author": "Brandon Mulder",
-    "link": "https://feeds.texastribune.org/link/16799/17367911/texas-natural-gas-pipelines-eminent-domain-land-fights",
-    "content": "A corridor for four pipelines transporting crude oil, petroleum and natural gas liquids stretches across land that includes Babette Taylor\u2019s ranch in Doole on June 21, 2026.",
-    "date": "2026-06-25T16:00:00",
-    "category": "Texas"
   }
 ]
