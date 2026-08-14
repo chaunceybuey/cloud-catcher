@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8832528#p8832528",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8832528#p8832528",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br /><br />So you have an ETF. That is why there we no hold. You have collateral. This was already discussed here a few times.<br /><br />If your CMA had only cash/MM, there would be a hold. That is why I only deposit checks and do pulls using my brokerage account these days.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I just looked at the details of the deposit vs the size of VBIL. I have $49k in VBIL. $49k of the $60k is available to withdraw. The other $11k is listed as deposited on Aug 12 and available to withdraw on Aug 14. I initiated the transfer on Aug 11 late in the afternoon. There is a 2 day hold on the uncollateralized portion of the pull. In this instance, the hold is quite reasonable.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>You just demonstrated the effect of collateral.<br /><br />My issue is that this is not documented anywhere by Fido. I discovered from other forum members.<br /><br />I suppose Fidelity could be more transparent.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Fri Aug 14, 2026 9:16 am</p><hr />",
+    "date": "2026-08-14T14:16:17",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/14/arts/music/ellis-ludwig-leone-quiet-hours-nocturnes-home-pianos.html",
     "feed_name": "NYT (Arts)",
     "title": "Ellis Ludwig-Leone\u2019s \u2018Quiet Hours\u2019 Highlights the Home Piano",
@@ -19988,15 +19998,5 @@
     "content": "The move comes as the Trump administration is trying to weaken the act that\u2019s meant to protect endangered species from going extinct in the first place.",
     "date": "2026-06-25T13:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/arts/europe-museums-heat.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Some European Museums Are Free Havens to Cool Off. Others Can\u2019t Take the Heat.",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/06/25/arts/europe-museums-heat.html",
-    "content": "Outside the Louvre Museum, which reduced its opening hours because of the heat, in Paris on Wednesday. Other institutions with cool spaces are offering free admission.",
-    "date": "2026-06-25T12:36:27",
-    "category": "NYT"
   }
 ]
