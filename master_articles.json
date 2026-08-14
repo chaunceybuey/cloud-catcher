@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=240034",
+    "feed_name": "Texas Tribune",
+    "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
+    "content": "Commissioners of the Public Utility Commission of Texas listen to public comment during a special open meeting  in Austin on Friday, August 14, 2026.",
+    "date": "2026-08-14T22:03:09",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/14/movies/mark-rydell-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Mark Rydell, \u2018Actor\u2019s Director\u2019 Known for \u2018On Golden Pond,\u2019 Dies at 97",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/25/dining/solidarity-with-ranch-obsessed-tourists.html",
     "content": "Eleanore Park\u2019s classic ranch dressing, adapted by Julia Moskin.",
     "date": "2026-06-25T17:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/arts/dance/lincoln-center-contemporary-dance-festival-jeremy-nedd-yinka-esi-graves-her-project.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A New Dance Festival Moves Beyond the Same Old, Same Old",
-    "author": "Gia Kourlas",
-    "link": "https://www.nytimes.com/2026/06/25/arts/dance/lincoln-center-contemporary-dance-festival-jeremy-nedd-yinka-esi-graves-her-project.html",
-    "content": "The Milly Rock, haunting flamenco and falling bodies: The Lincoln Center Contemporary Dance Festival delivers quality with nary a pointe shoe in sight.",
-    "date": "2026-06-25T16:42:55",
     "category": "NYT"
   }
 ]
