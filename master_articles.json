@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "2294c4bf59318dd4ebc24af3ac17b6af",
+    "feed_name": "LRB",
+    "title": "World Cup Cupidity",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/world-cup-cupidity",
+    "content": "\u2018The beautiful game has never looked more beautiful on the pitch, or more ugly off it,\u2019 Simon Skinner writes in the latestLRB. Each World Cup seems more tainted by corruption than the last, but is that a nostalgic illusion? The second competition, held in Italy in 1934, was a podium for Mussolini and, as Skinner puts it, \u2018an early advertisement of the tournament\u2019s...",
+    "date": "2026-08-15T05:26:16",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/15/arts/design/mary-heilmann-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Mary Heilmann, Painter of Vividly Wobbly Abstractions, Dies at 86",
@@ -19988,15 +19998,5 @@
     "content": "A classroom at Alfonso Borrego Sr. Elementary School. The school received Elementary and Secondary School Emergency Relief (ESSER) funds for new flexible seating, desks, and spaces for students to relax during class in San Elizario, Texas on July 23, 2024",
     "date": "2026-06-25T21:28:40",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/dining/new-yorks-indian-dining-scene-has-never-been-more-exciting.html",
-    "feed_name": "NYT (Food)",
-    "title": "New York\u2019s Indian Dining Scene Has Never Been More Exciting",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/06/25/dining/new-yorks-indian-dining-scene-has-never-been-more-exciting.html",
-    "content": "Every Sunday Pangat in Park Slope, Brooklyn, serves a proper Maharashtrian thali.",
-    "date": "2026-06-25T20:00:03",
-    "category": "NYT"
   }
 ]
