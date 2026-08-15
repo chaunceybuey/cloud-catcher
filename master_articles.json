@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/15/movies/leo-woodall-tony-lotr.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Leo Woodall, if He Must, Chooses Oasis Over the Beatles",
+    "author": "Kathryn Shattuck",
+    "link": "https://www.nytimes.com/2026/08/15/movies/leo-woodall-tony-lotr.html",
+    "content": "\u201cLiam Gallagher is the coolest frontman who\u2019s ever lived,\u201d said the actor, one of the stars of \u201cTony.\u201d",
+    "date": "2026-08-15T09:02:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/15/arts/music/salzburg-festival-markus-hinterhauser.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The 2026 Salzburg Festival Navigates Uncertain Times Without an Artistic Director",
+    "author": "Adam Nagourney and Roderick Aichinger for The New York Times",
+    "link": "https://www.nytimes.com/2026/08/15/arts/music/salzburg-festival-markus-hinterhauser.html",
+    "content": "The renowned classical music festival is at a turning point after ousting its artistic director as it prepares for a disruptive $600 million renovation project.",
+    "date": "2026-08-15T09:00:44",
+    "category": "NYT"
+  },
+  {
     "id": "2294c4bf59318dd4ebc24af3ac17b6af",
     "feed_name": "LRB",
     "title": "World Cup Cupidity",
@@ -19978,25 +19998,5 @@
     "content": "John Cena and Eric Andr\u00e9 star in this crude, but funny, movie about a real estate agent who encounters a blast from the past.",
     "date": "2026-06-25T23:00:06",
     "category": "NYT"
-  },
-  {
-    "id": "6a3d9aa302972b9a962357fc",
-    "feed_name": "Wired (Science)",
-    "title": "Venezuela\u2019s Powerful Earthquakes Were a Rare \u2018Seismic Doublet\u2019",
-    "author": "Fernanda Gonz\u00e1lez",
-    "link": "https://www.wired.com/story/venezuelas-powerful-earthquakes-rare-seismic-doublet/",
-    "content": "The country was hit hard by a pair of quakes that happened in quick succession and were likely driven by stress being transferred from one part of the fault that runs through the country to another.",
-    "date": "2026-06-25T22:31:21",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234289",
-    "feed_name": "Texas Tribune",
-    "title": "Texas must pay millions to fix errors in Bluebonnet school materials, contract shows",
-    "author": "Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17368065/bluebonnet-learning-corrections-cost-texas-millions",
-    "content": "A classroom at Alfonso Borrego Sr. Elementary School. The school received Elementary and Secondary School Emergency Relief (ESSER) funds for new flexible seating, desks, and spaces for students to relax during class in San Elizario, Texas on July 23, 2024",
-    "date": "2026-06-25T21:28:40",
-    "category": "Texas"
   }
 ]
