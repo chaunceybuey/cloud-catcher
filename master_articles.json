@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/15/arts/design/mary-heilmann-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mary Heilmann, Painter of Vividly Wobbly Abstractions, Dies at 86",
+    "author": "Deborah Solomon",
+    "link": "https://www.nytimes.com/2026/08/15/arts/design/mary-heilmann-dead.html",
+    "content": "An emblem of the obstacles faced by women artists of her generation, she was 67 when her first museum retrospective opened to rave reviews in 2007.",
+    "date": "2026-08-15T04:48:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240077",
     "feed_name": "Texas Tribune",
     "title": "Fifth Circuit reaffirms death row inmate Brittany Holberg\u2019s conviction",
@@ -19988,15 +19998,5 @@
     "content": "Every Sunday Pangat in Park Slope, Brooklyn, serves a proper Maharashtrian thali.",
     "date": "2026-06-25T20:00:03",
     "category": "NYT"
-  },
-  {
-    "id": "2294c4bf59318dd4ebc24af3ac17b6af",
-    "feed_name": "LRB",
-    "title": "World Cup Cupidity",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/world-cup-cupidity",
-    "content": "\u2018The beautiful game has never looked more beautiful on the pitch, or more ugly off it,\u2019 Simon Skinner writes in the latestLRB. Each World Cup seems more tainted by corruption than the last, but is that a nostalgic illusion? The second competition, held in Italy in 1934, was a podium for Mussolini and, as Skinner puts it, \u2018an early advertisement of the tournament\u2019s...",
-    "date": "2026-06-25T19:06:11",
-    "category": "Magazines"
   }
 ]
