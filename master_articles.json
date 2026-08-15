@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/15/arts/music/violet-hensley-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Violet Hensley Dies at 109; Ozarks Fiddler Made Opry Debut at 99",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/08/15/arts/music/violet-hensley-dead.html",
+    "content": "She performed old-time mountain music at the Silver Dollar City theme park in Branson, Mo., for more than 50 years and appeared on \u201cThe Beverly Hillbillies.\u201d",
+    "date": "2026-08-15T15:25:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8833385#p8833385",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/26/arts/music/gracie-abrams-interview-popcast.html",
     "content": "On her new album, \u201cDaughter From Hell,\u201d the 26-year-old star confronts growing up in a famous family and lessons from songwriting.",
     "date": "2026-06-26T09:00:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/arts/mewgenics-review-tr-49-better-than-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mewgenics Is a Mischievous Game About Breeding Cats",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/06/26/arts/mewgenics-review-tr-49-better-than-dead.html",
-    "content": "The year\u2019s most interesting games also include a bodycam shooter in a Hong Kong underworld and a cryptographic puzzle drama.",
-    "date": "2026-06-26T09:00:29",
     "category": "NYT"
   }
 ]
