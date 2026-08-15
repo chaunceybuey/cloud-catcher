@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a7a6cbc327f770305480e7e",
+    "feed_name": "Wired (Science)",
+    "title": "Puerto Rico Is Rationing Water. It Could\u2019ve Avoided It by Harvesting Rainwater",
+    "author": "Yessenia Funes",
+    "link": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
+    "content": "The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the sky.",
+    "date": "2026-08-15T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/15/movies/leo-woodall-tony-lotr.html",
     "feed_name": "NYT (Arts)",
     "title": "Leo Woodall, if He Must, Chooses Oasis Over the Beatles",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/25/arts/television/love-island-alannah-keyser-racial-slur.html",
     "content": "Alannah Keyser joined \u201cLove Island USA\u201d on Sunday.",
     "date": "2026-06-26T01:30:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/movies/little-brother-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Little Brother\u2019 Review: Just the Two of Us",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/06/25/movies/little-brother-review.html",
-    "content": "John Cena and Eric Andr\u00e9 star in this crude, but funny, movie about a real estate agent who encounters a blast from the past.",
-    "date": "2026-06-25T23:00:06",
     "category": "NYT"
   }
 ]
