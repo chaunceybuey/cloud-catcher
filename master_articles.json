@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/14/movies/nick-reiner-slayer-statute-trust-fund-murder-parents.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Slayer Statute\u2019 Blocks Nick Reiner From Trust Fund, Its Steward Says",
+    "author": "Julia Jacobs and Matt Stevens",
+    "link": "https://www.nytimes.com/2026/08/14/movies/nick-reiner-slayer-statute-trust-fund-murder-parents.html",
+    "content": "Nick Reiner, the younger son of the Hollywood director Rob Reiner and Michele Singer Reiner, is represented by a public defender and wants to hire a private lawyer.",
+    "date": "2026-08-15T00:38:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240034",
     "feed_name": "Texas Tribune",
     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/25/theater/three-days-of-rain-broadway-david-corenswet-francois-arnaud.html",
     "content": "The revival will star David Corenswet, left, Yvonne Strahovski, center, and Fran\u00e7ois Arnaud, right.",
     "date": "2026-06-25T18:12:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/dining/solidarity-with-ranch-obsessed-tourists.html",
-    "feed_name": "NYT (Food)",
-    "title": "Solidarity With Ranch-Obsessed Tourists",
-    "author": "Tanya Sichynsky",
-    "link": "https://www.nytimes.com/2026/06/25/dining/solidarity-with-ranch-obsessed-tourists.html",
-    "content": "Eleanore Park\u2019s classic ranch dressing, adapted by Julia Moskin.",
-    "date": "2026-06-25T17:00:05",
     "category": "NYT"
   }
 ]
