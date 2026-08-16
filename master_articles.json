@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/16/dining/easy-dinners-for-a-not-easy-time-of-year.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Easy Dinners for a Not-Easy Time of Year",
+    "author": "Margaux Laskey",
+    "link": "https://www.nytimes.com/2026/08/16/dining/easy-dinners-for-a-not-easy-time-of-year.html",
+    "content": "Back-to-school season can be stressful. These five dinners are not.",
+    "date": "2026-08-16T13:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "6a7f4c7217c50f32a0cf27a3",
     "feed_name": "Wired (Science)",
     "title": "Astronomers Discover the Existence of a Black Hole Star",
@@ -19985,16 +19995,6 @@
     "title": "How to Make Easy Zucchini Pasta for Summer",
     "author": "Eric Kim",
     "link": "https://cooking.nytimes.com/article/how-to-make-easy-zucchini-pasta-for-summer",
-    "content": "Eric Kim\u2019s riff on aglio e olio is simple, summery and the best use of summer squash.",
-    "date": "2026-06-26T13:56:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/easy-zucchini-pasta",
-    "feed_name": "NYT (Food)",
-    "title": "How to Make Easy Zucchini Pasta for Summer",
-    "author": "Eric Kim",
-    "link": "https://cooking.nytimes.com/article/easy-zucchini-pasta",
     "content": "Eric Kim\u2019s riff on aglio e olio is simple, summery and the best use of summer squash.",
     "date": "2026-06-26T13:56:40",
     "category": "NYT"
