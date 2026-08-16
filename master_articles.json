@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/16/arts/dance/madonna-dance-music.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Madonna Put Motion Into Music With Her Dance Performances",
+    "author": "Gia Kourlas",
+    "link": "https://www.nytimes.com/2026/08/16/arts/dance/madonna-dance-music.html",
+    "content": "Dance is neither a tool nor an accessory for Madonna. It is an unwavering force in her performing life.",
+    "date": "2026-08-16T04:01:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8833868#p8833868",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/26/arts/television/the-vampire-lestat-sam-reid.html",
     "content": "Sam Reid has gone glam in the latest season of this horror series, originally titled \u201cAnne Rice\u2019s Interview With the Vampire.\u201d",
     "date": "2026-06-26T09:00:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/arts/nyc-summer-things-to-do-events-kids-family.html",
-    "feed_name": "NYT (Arts)",
-    "title": "39 Fun Things to Do With Your Kids in N.Y.C. This Summer",
-    "author": "Oliver Strand",
-    "link": "https://www.nytimes.com/2026/06/26/arts/nyc-summer-things-to-do-events-kids-family.html",
-    "content": "Harvest the fruits of the local ice cream scene, celebrate the World Cup and the nation\u2019s birthday, and enjoy a variety of diversions outdoors.",
-    "date": "2026-06-26T09:00:51",
     "category": "NYT"
   }
 ]
