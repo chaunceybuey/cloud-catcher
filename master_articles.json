@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a7f3c20f053c389839cb809",
+    "feed_name": "Wired (Science)",
+    "title": "Inside the Experimental Traps Scientists Set for Ghostly Neutrinos",
+    "author": "Simon Frantz",
+    "link": "https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/",
+    "content": "Observatories have been built in mines, deep under the Antarctic ice sheet, and elsewhere in an effort to detect the fleeting particles.",
+    "date": "2026-08-16T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html",
     "feed_name": "NYT (Arts)",
     "title": "In \u2018The Brink of War,\u2019 a Return to an Era of Razor-Edge Diplomacy",
@@ -19988,15 +19998,5 @@
     "content": "Residents at the Sasarindo care home in Kamakura, Japan watch TV at the dining hall on March 2, 2026.",
     "date": "2026-06-26T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/arts/television/larry-david-hbo-life-larry-pursuit-of-unhappiness-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Larry David\u2019s Comedy on HBO and America\u2019s Unhappy 250th Birthday",
-    "author": "James Poniewozik",
-    "link": "https://www.nytimes.com/2026/06/26/arts/television/larry-david-hbo-life-larry-pursuit-of-unhappiness-review.html",
-    "content": "In \u201cLife, Larry and the Pursuit of Unhappiness,\u201d Larry David inserts himself awkwardly into watershed moments from American history.",
-    "date": "2026-06-26T09:01:36",
-    "category": "NYT"
   }
 ]
