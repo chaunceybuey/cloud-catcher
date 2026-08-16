@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a7f4c7217c50f32a0cf27a3",
+    "feed_name": "Wired (Science)",
+    "title": "Astronomers Discover the Existence of a Black Hole Star",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
+    "content": "An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spots in the early universe.",
+    "date": "2026-08-16T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a7f86426a3123db993a9383",
     "feed_name": "Wired (Science)",
     "title": "It\u2019s Never Too Early to Start Planning for the Next Two Solar Eclipses",
@@ -19988,15 +19998,5 @@
     "content": "Eric Kim\u2019s riff on aglio e olio is simple, summery and the best use of summer squash.",
     "date": "2026-06-26T13:56:40",
     "category": "NYT"
-  },
-  {
-    "id": "95380d5043661f69352dc12cfd713d2b",
-    "feed_name": "Compact",
-    "title": "Mexico\u2019s Oil Strategy Is Paying Off",
-    "author": "",
-    "link": "https://www.compactmag.com/article/mexicos-oil-strategy-is-paying-off/",
-    "content": "",
-    "date": "2026-06-26T11:10:22",
-    "category": "Magazines"
   }
 ]
