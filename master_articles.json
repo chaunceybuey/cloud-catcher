@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/16/dining/anthony-bourdains-portuguese-kale-soup.html",
+    "feed_name": "NYT (Food)",
+    "title": "Anthony Bourdain\u2019s Portuguese Kale Soup",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/16/dining/anthony-bourdains-portuguese-kale-soup.html",
+    "content": "Portuguese kale soup from \u201cAppetites\u201d by Anthony Bourdain with Laurie Woolever (Ecco 2016), adapted by Pete Wells.",
+    "date": "2026-08-16T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/16/dining/easy-dinners-for-a-not-easy-time-of-year.html",
     "feed_name": "Weeknight Dishes",
     "title": "Easy Dinners for a Not-Easy Time of Year",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/26/dining/drinks/food-wine-connection.html",
     "content": "Wine has long been considered an essential part of eating well, but its place no longer seems to be with a meal.",
     "date": "2026-06-26T14:47:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/how-to-make-easy-zucchini-pasta-for-summer",
-    "feed_name": "NYT (Food)",
-    "title": "How to Make Easy Zucchini Pasta for Summer",
-    "author": "Eric Kim",
-    "link": "https://cooking.nytimes.com/article/how-to-make-easy-zucchini-pasta-for-summer",
-    "content": "Eric Kim\u2019s riff on aglio e olio is simple, summery and the best use of summer squash.",
-    "date": "2026-06-26T13:56:40",
     "category": "NYT"
   }
 ]
