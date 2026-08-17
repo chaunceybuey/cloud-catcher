@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/17/arts/television/its-always-sunny-in-philadelphia-what-to-watch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018It\u2019s Always Sunny in Philadelphia\u2019 and 6 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/08/17/arts/television/its-always-sunny-in-philadelphia-what-to-watch.html",
+    "content": "From left, Danny De Vito, Glenn Howerton, Rob Mac and Charlie Day in \u201cIt\u2019s Always Sunny in Philadelphia.\u201d",
+    "date": "2026-08-17T05:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Hayden Panettiere, Star of \u2018Nashville\u2019 and \u2018Heroes,\u2019 Dies at 36",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/26/arts/dance/american-ballet-theater-don-quixote-susan-jaffe-susan-jones.html",
     "content": "Jaffe, right, with dancers. \u201cThings are stale when they are being performed by rote,\u201d she said.",
     "date": "2026-06-26T16:00:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/movies/international-movies-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five International Movies to Stream Now",
-    "author": "Devika Girish",
-    "link": "https://www.nytimes.com/2026/06/26/movies/international-movies-streaming.html",
-    "content": "This month\u2019s titles include Pride Month picks from Brazil, Sweden and Croatia; a soccer drama from Ireland; and a comedy from Italy.",
-    "date": "2026-06-26T15:25:46",
     "category": "NYT"
   }
 ]
