@@ -150,6 +150,66 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/17/t-magazine/pakistan-diaspora-artists.html",
+    "feed_name": "NYT (Arts)",
+    "title": "These Artists May Have Left Pakistan, but It\u2019s Still Present in Their Work",
+    "author": "Aatish Taseer and Tami Aftab",
+    "link": "https://www.nytimes.com/2026/08/17/t-magazine/pakistan-diaspora-artists.html",
+    "content": "Is it possible to make art that reflects a country and culture while living outside of it? For members of this diaspora, there\u2019s no other choice.",
+    "date": "2026-08-17T09:04:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
+    "feed_name": "NYT (Arts)",
+    "title": "There Are Few Witnesses to Tupac Shakur\u2019s Drive-by Shooting",
+    "author": "Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
+    "content": "Prosecutors say Duane Davis and three other men who are now deceased were involved in the fatal confrontation in 1996.",
+    "date": "2026-08-17T09:03:01",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/17/arts/elizabeth-smart-kidnapping-podcast-true-crime.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Elizabeth Smart Is Rethinking the True-Crime Podcast",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/08/17/arts/elizabeth-smart-kidnapping-podcast-true-crime.html",
+    "content": "Elizabeth Smart has dedicated her adult life to supporting survivors of violent crimes and sexual trauma. Her new project is a podcast.",
+    "date": "2026-08-17T09:02:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/17/t-magazine/exile-artists-pakistan.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What Exile Means for an Artist",
+    "author": "The Editors of T Magazine",
+    "link": "https://www.nytimes.com/2026/08/17/t-magazine/exile-artists-pakistan.html",
+    "content": "For many, the state of \u2018in-betweenness\u2019 can be a source of inspiration.",
+    "date": "2026-08-17T09:02:01",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/17/arts/design/korean-papermaker-hanji.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Preserving Hanji, the Ancient Korean Craft of Papermaking, in Ohio",
+    "author": "Elie Levine and Sasha Arutyunova",
+    "link": "https://www.nytimes.com/2026/08/17/arts/design/korean-papermaker-hanji.html",
+    "content": "Aimee Lee learned to make hanji with Korean masters. Now she practices their traditional technique in the United States.",
+    "date": "2026-08-17T09:00:29",
+    "category": "NYT"
+  },
+  {
+    "id": "6a7f9a3b1701660408cc5c0a",
+    "feed_name": "Wired (Science)",
+    "title": "There\u2019s a New Link Between Gut Health and Alzheimer\u2019s Disease",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/",
+    "content": "Researchers found that a metabolite produced by gut bacteria can weaken the barrier that protects the brain and promote changes associated with the cognitive disease.",
+    "date": "2026-08-17T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/17/arts/television/its-always-sunny-in-philadelphia-what-to-watch.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018It\u2019s Always Sunny in Philadelphia\u2019 and 6 More Shows to Watch on TV This Week",
@@ -19938,65 +19998,5 @@
     "content": "The memorial of the Uvalde school shooting is displayed at Robb Elementary School on June 10, 2026. The crosses honor the 19 students and two teachers who were killed.",
     "date": "2026-06-26T18:28:54",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/movies/ann-blyth-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ann Blyth, Oscar-Nominated \u2018Mildred Pierce\u2019 Actress, Dies at 98",
-    "author": "Anita Gates and Zachary Woolfe",
-    "link": "https://www.nytimes.com/2026/06/26/movies/ann-blyth-dead.html",
-    "content": "She was just 17 when she played Joan Crawford\u2019s ungrateful daughter in the classic 1945 melodrama. It was the high point of a robust but short film career.",
-    "date": "2026-06-26T18:09:11",
-    "category": "NYT"
-  },
-  {
-    "id": "896de0af75d4cd973fe0a6be4baf7e87",
-    "feed_name": "The Atlantic",
-    "title": "The Supreme Court\u2019s Era of Meaningless Rights",
-    "author": "Leah Litman",
-    "link": "https://www.theatlantic.com/ideas/2026/06/supreme-court-decisions-unenforceable-rights/687713/",
-    "content": "The Supreme Court is not saying people don\u2019thavecertain rights, just that no courts can help them when those rights are violated.",
-    "date": "2026-06-26T17:52:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "b8498991c4c8a2444ad22e338dab5316",
-    "feed_name": "LRB",
-    "title": "Cortisol v. Dopamine",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/june/cortisol-v.-dopamine",
-    "content": "Emma Hayes has described the difference between men\u2019s and women\u2019s football as cortisol v. dopamine. Under her management between.\u00a0.\u00a0.",
-    "date": "2026-06-26T17:01:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "da07244d50975bee0b463ab6a51b377e",
-    "feed_name": "LRB",
-    "title": "Narrative Poems: \u2018Tam o\u2019 Shanter\u2019 by Robert Burns and \u2018Peter Grimes\u2019 by George Crabbe",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/narrative-poems-tam-o-shanter-by-robert-burns-and-peter-grimes-by-george-crabbe",
-    "content": "\u2018Tam o\u2019 Shanter\u2019 first appeared as a lengthy footnote in Francis Grose's Antiquities of Scotland (1791) after Robert Burns convinced Grose to include the ruined Alloway Kirk in his volume, and its supernatural associations (invented by Burns). Its story of the drunken Tam's encounter with witches in the stormy Ayrshire landscape has served as both a celebration and...",
-    "date": "2026-06-26T17:01:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19396",
-    "feed_name": "Stratechery",
-    "title": "2026.26: Summer Vibes",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/summer-vibes/",
-    "content": "<figure class=\"wp-block-image size-full\"><img alt=\"\" class=\"wp-image-19417\" height=\"1024\" src=\"https://i0.wp.com/stratechery.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-13.06.10.jpeg?resize=1536%2C1024&#038;ssl=1\" width=\"1536\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Welcome back to This Week in Stratechery!</p>\n\n\n\n<p class=\"wp-block-paragraph\">As a reminder, each week, every Friday, we&#8217;re sending out this overview of content in the Stratechery bundle; <span class=\"passport-tokenized-link\">highlighted links are free for everyone</span>. Additionally, you have complete control over what we send to you. If you don&#8217;t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in <a href=\"https://stratechery.passport.online/member/account/delivery\">your delivery settings</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">On that note, here were a few of our favorites this week.</p>\n\n\n\n<ol class=\"wp-block-list is-style-default\">\n<li><strong>A Vibe Coding Adventure.</strong> It is thrilling to be an analyst in the age of AI, particularly because the questions seem so weighty. Are software companies doomed? Will white collars work exist in a decade? Might chip policy lead to war in the Taiwan Strait? All valid! And, at the same time, fretting about the future can foreclose an appreciation at how incredibly awesome this technology is, and that the possibilities really are endless. You can do anything \u2014 even organize your garage. That might sound silly, but technology, for all of its importance, is also fun, and <a href=\"https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/\">I&#8217;m having a blast</a>. <em>\u2014</em> <em>Ben Thompson</em><br /></li>\n</ol>\n\n\n\n<span id=\"more-19396\"></span>\n\n\n\n<ol class=\"wp-block-list is-style-default\" start=\"2\">\n<li><strong>Apple in Europe (but not Siri AI).\u00a0</strong>It was a footnote to Apple&#8217;s announcements at WWDC two weeks ago, but as expected, the now-fully-function Apple Intelligence products <em>\u2014</em> aka Siri AI <em>\u2014</em> will not be released in Europe because of the company&#8217;s ongoing battle with European regulators over the Digital Markets Act. On Dithering Tuesday, Ben and Gruber had <a href=\"https://dithering.passport.online/member/episode/no-siri-for-eu?guid=https%3A%2F%2Fdithering.passport.online%2Fmember%2Fepisode%2Fno-siri-for-eu\">a great 15-minute discussion</a> about how maddening the situation continues to be, but I also appreciated <a href=\"https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/\">the end of Ben&#8217;s Daily Update on Tuesday</a>, which covered the same topic and explained why Apple&#8217;s own policies may well be what creates the long-term competitive changes the EU hopes to see.\u00a0<em>\u2014</em> <em>Andrew Sharp</em><br /><br /></li>\n\n\n\n<li><strong>A Midsummer Mailbag on Sharp Tech. </strong>Every time a major holiday approaches, we try to celebrate on Sharp Tech with an extended mailbag that, thanks to the listeners, tends to be a lot of fun. Ben and I did that again for <a href=\"https://sharptech.fm/member/episode/a-summer-break-mailbag-memory-mania-vibe-coding-mafia-pr-caffeine-intake-garages-and-how-to-fix-soccer\">this week&#8217;s episode</a>, and in addition to thoughts on the future of the memory chip market and more of Ben&#8217;s experience with vibe coding, we hit questions on our daily caffeine intake, Sam Altman&#8217;s PR strategy, data centers in the ocean, and how to improve international soccer. Come for both substance and pre-vacation goofiness, and whether you&#8217;re traveling next week or not, happy 4th of July!&nbsp;<em>\u2014</em> <em>AS</em><br /></li>\n</ol>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<h3 class=\"wp-block-heading\">Stratechery Articles and Updates</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/\">Apple Price Increases, Apple Intelligence and the E.U.</a> <em>\u2014 Apple is (finally) raising prices, but they\u2019re not shipping Siri AI to the E.U.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/\">Memory Chips and China, Microsoft and Chinese Models</a> <em>\u2014 The big three memory makers may come to regret opening up the door to Chinese memory makers; Microsoft, meanwhile, is very incentivized to use Chinese models.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/\">My Vibe Coding Adventure, The App and the Experience, Ten Takeaways</a> <em>\u2014 My experience and reflections on vibe coding an app that I plan on actually using regularly.</em></li>\n\n\n\n<li><a href=\"https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/\"><span class=\"passport-tokenized-link\">An Interview with Figma CEO Dylan Field About Design and AI</span></a> <em>\u2014 An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Text by Andrew Sharp</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptext.net/2026/hopes-fears-and-the-wizards/\"><span class=\"passport-tokenized-link\">Hopes, Fears, and the Wizards</span></a> \u2014 <em>A window into Washington Wizards fandom during a very big week, after a very long decade.</em></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Dithering with Ben Thompson and Daring Fireball&#8217;s John Gruber</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://dithering.passport.online/member/episode/no-siri-for-eu\">No Siri for EU</a></li>\n\n\n\n<li><a href=\"https://dithering.passport.online/member/episode/price-hikes\">Price Hikes</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Asianometry with Jon Yu</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://asianometry.passport.online/member/episode/embedded-memories-the-next-generation\">Embedded Memories: The Next Generation</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp China with Andrew Sharp and Sinocism&#8217;s Bill Bishop</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharpchina.fm/member/episode/party-building-and-xis-dominance-memory-chips-and-asml-accusations-germanys-puzzling-push-for-plaza-accords\">Party Building and Xi\u2019s Dominance; Memory Chips and ASML Accusations; Germany\u2019s Puzzling Push for Plaza Accords</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Greatest of All Talk</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://goat.passport.online/member/episode/draft-week-winners-and-losers-miami-gets-giannis-and-boston-gets-awkward-micah-nori-and-a-blazers-experiment\">Draft Week Winners and Losers, Miami Gets Giannis and Boston Gets Awkward, Micah Nori and a Blazers Experiment</a></li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Sharp Tech with Andrew Sharp and Ben Thompson</h3>\n\n\n\n<ul class=\"wp-block-list\">\n<li><a href=\"https://sharptech.fm/member/episode/a-summer-break-mailbag-memory-mania-vibe-coding-mafia-pr-caffeine-intake-garages-and-how-to-fix-soccer\">A Summer Break Mailbag: Memory Mania, Vibe Coding, Mafia PR, Caffeine Intake, Garages, and How to Fix Soccer</a></li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">This week&#8217;s Stratechery video is on <a href=\"https://stratechery.com/2026/anthropics-safety-superpower/\"><span class=\"passport-tokenized-link\">Anthropic\u2019s Safety Superpower</span></a>.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\"></p>",
-    "date": "2026-06-26T17:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/arts/dance/american-ballet-theater-don-quixote-susan-jaffe-susan-jones.html",
-    "feed_name": "NYT (Arts)",
-    "title": "American Ballet Theater\u2019s \u2018Don Quixote\u2019: You May Laugh. And Nobody Dies.",
-    "author": "Gia Kourlas and Vincent Tullo",
-    "link": "https://www.nytimes.com/2026/06/26/arts/dance/american-ballet-theater-don-quixote-susan-jaffe-susan-jones.html",
-    "content": "Jaffe, right, with dancers. \u201cThings are stale when they are being performed by rote,\u201d she said.",
-    "date": "2026-06-26T16:00:10",
-    "category": "NYT"
   }
 ]
