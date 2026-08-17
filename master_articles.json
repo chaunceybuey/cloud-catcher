@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "9dd121bf0702b5b56b57b1304597c1d1",
+    "feed_name": "The Atlantic",
+    "title": "Trump Will Make South Korea Pay For His Iran Humiliation",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/08/trump-iran-korea/688306/",
+    "content": "His rage is driving him to make irrational policy choices.",
+    "date": "2026-08-17T02:23:33",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/16/arts/television/lanterns-recap-season-1-episode-1.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Lanterns\u2019 Season 1 Premiere Recap: No Evil Shall Escape",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/26/arts/television/andres-cantor-telemundo-world-cup-goal.html",
     "content": "The Telemundo announcer Andr\u00e9s Cantor must train to deliver his famed scoring celebration for the World Cup, where he could call 20 games in about a month.",
     "date": "2026-06-26T15:10:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/theater/pride-musical-national-theater.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Pride\u2019: A Tale Retold, Zhuzhed Up With Extra Camp",
-    "author": "Houman Barekat",
-    "link": "https://www.nytimes.com/2026/06/26/theater/pride-musical-national-theater.html",
-    "content": "\u201cPride\u201d at the National Theater in London. The story\u2019s bittersweet melodrama and tender evocation of solidarity lend themselves well to a musical theater treatment.",
-    "date": "2026-06-26T15:06:34",
     "category": "NYT"
   }
 ]
