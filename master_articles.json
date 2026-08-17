@@ -160,6 +160,16 @@
     "category": "Magazines"
   },
   {
+    "id": "836223bbf77d635b067438ab93d1d3a5",
+    "feed_name": "The Atlantic",
+    "title": "What Trump Officials Mean by \u201cNever\u201d",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/08/todd-blanche-trump-power-abuse/688310/",
+    "content": "The claim that the president could not possibly do something unethical marks a new frontier of impunity by the administration.",
+    "date": "2026-08-17T21:16:11",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html",
     "feed_name": "NYT (Arts)",
     "title": "Tupac Shakur Murder Trial: Takeaways From Day 1",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/29/arts/television/the-bear-finale-review.html",
     "content": "Ayo Edebiri and Jeremy Allen White in the final season of \u201cThe Bear,\u201d now on Hulu.",
     "date": "2026-06-29T09:02:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/29/movies/best-movies-2026.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Best Movies of 2026 So Far, and Where to Watch Them",
-    "author": "Stephanie Goodman",
-    "link": "https://www.nytimes.com/2026/06/29/movies/best-movies-2026.html",
-    "content": "Josh O\u2019Connor in a scene from \u201cDisclosure Day.\u201d",
-    "date": "2026-06-29T09:02:14",
     "category": "NYT"
   }
 ]
