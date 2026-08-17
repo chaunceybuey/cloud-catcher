@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-nashville-heroes-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hayden Panettiere\u2019s Best Performances: Where to Stream",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-nashville-heroes-streaming.html",
+    "content": "The actress was a staple of two popular network TV dramas and had memorable early-career roles in film.",
+    "date": "2026-08-17T19:02:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/17/arts/dance/pauline-clayden-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Pauline Clayden, Dancer in a Seminal 1949 \u2018Sleeping Beauty,\u2019 Dies at 103",
@@ -19988,15 +19998,5 @@
     "content": "Novels by Colson Whitehead and Daniel Mason, the final \u201cHeartstopper\u201d graphic novel, gripping thrillers, lush romantasy, true crime and more.",
     "date": "2026-06-29T09:00:45",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234446",
-    "feed_name": "Texas Tribune",
-    "title": "Ruling that blocks Trump use of system to hunt noncitizen voters won\u2019t stop ongoing investigations",
-    "author": "By Dion Nissenbaum,\u00a0Votebeat",
-    "link": "https://feeds.texastribune.org/link/16799/17369596/trump-save-system-blocked-legal-ruling-noncitizen-voters",
-    "content": "The U.S. Citizenship and Immigration Services, seen at 26 Federal Plaza in Manhattan, is the agency that administers the Systematic Alien Verification for Entitlements program.",
-    "date": "2026-06-29T09:00:00",
-    "category": "Texas"
   }
 ]
