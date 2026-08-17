@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hayden Panettiere, Star of \u2018Nashville\u2019 and \u2018Heroes,\u2019 Dies at 36",
+    "author": "Matt Stevens",
+    "link": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+    "content": "Hayden Panettiere in West Hollywood, Calif., in April.",
+    "date": "2026-08-17T04:14:40",
+    "category": "NYT"
+  },
+  {
     "id": "9dd121bf0702b5b56b57b1304597c1d1",
     "feed_name": "The Atlantic",
     "title": "Trump Will Make South Korea Pay For His Iran Humiliation",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/26/movies/international-movies-streaming.html",
     "content": "This month\u2019s titles include Pride Month picks from Brazil, Sweden and Croatia; a soccer drama from Ireland; and a comedy from Italy.",
     "date": "2026-06-26T15:25:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/arts/television/andres-cantor-telemundo-world-cup-goal.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Man Who Cried Goooooooooooal",
-    "author": "Emmanuel Morgan and Steven Molina Contreras",
-    "link": "https://www.nytimes.com/2026/06/26/arts/television/andres-cantor-telemundo-world-cup-goal.html",
-    "content": "The Telemundo announcer Andr\u00e9s Cantor must train to deliver his famed scoring celebration for the World Cup, where he could call 20 games in about a month.",
-    "date": "2026-06-26T15:10:20",
     "category": "NYT"
   }
 ]
