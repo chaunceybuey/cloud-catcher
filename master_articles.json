@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/17/dining/shrimp-and-avocado-salad-with-peanut-dressing-one-pot-orzo-with-zucchini.html",
+    "feed_name": "NYT (Food)",
+    "title": "Shrimp and Avocado Salad With Peanut Dressing; One-Pot Orzo With Zucchini",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/17/dining/shrimp-and-avocado-salad-with-peanut-dressing-one-pot-orzo-with-zucchini.html",
+    "content": "Ashley Lonsdale\u2019s shrimp and avocado salad with peanut dressing.",
+    "date": "2026-08-17T15:00:12",
+    "category": "NYT"
+  },
+  {
     "id": "ed1128741f7edd14a17b2cfb88d7a741",
     "feed_name": "Compact",
     "title": "The Many Critics of JD Vance",
@@ -19988,15 +19998,5 @@
     "content": "Ahead of a survey exhibition, Uman discusses skipping art-world functions, living on a farm and making work on the floor.",
     "date": "2026-06-27T22:05:12",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234505",
-    "feed_name": "Texas Tribune",
-    "title": "Kendall Scudder wins race to lead Texas Democratic Party into critical midterms",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17369178/texas-democratic-party-chair-kendall-scudder",
-    "content": "Texas Democratic Party Chair Kendall Scudder opens a general session of the Texas Democratic Convention in Corpus Christi on Friday, June 26, 2026.",
-    "date": "2026-06-27T21:25:27",
-    "category": "Texas"
   }
 ]
