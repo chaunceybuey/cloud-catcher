@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a7df0ed8993abe62bdcd11b",
+    "feed_name": "Wired (Science)",
+    "title": "El Ni\u00f1o and Saharan Dust Silence Atlantic Hurricane Season",
+    "author": "Dennis Mersereau",
+    "link": "https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/",
+    "content": "El Ni\u00f1o coupled with Saharan dust is making this year\u2019s hurricane season a dud. But there\u2019s still potential for dangerous storms.",
+    "date": "2026-08-17T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19725",
+    "feed_name": "Stratechery",
+    "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+    "content": "<p>Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.</p>",
+    "date": "2026-08-17T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "da07244d50975bee0b463ab6a51b377e",
     "feed_name": "LRB",
     "title": "Narrative Poems: \u2018Tam o\u2019 Shanter\u2019 by Robert Burns and \u2018Peter Grimes\u2019 by George Crabbe",
@@ -167,6 +187,16 @@
     "link": "https://www.nytimes.com/2026/08/17/t-magazine/pakistan-diaspora-artists.html",
     "content": "Is it possible to make art that reflects a country and culture while living outside of it? For members of this diaspora, there\u2019s no other choice.",
     "date": "2026-08-17T09:04:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/budget-cooking",
+    "feed_name": "NYT (Food)",
+    "title": "I Create Recipes for a Living. Here\u2019s How I Fed My Family Really Well for $28 a Day.",
+    "author": "Kevin Pang",
+    "link": "https://cooking.nytimes.com/article/budget-cooking",
+    "content": "It\u2019s not for everyone, but meal planning, sticking to the grocery list and not letting any leftovers go to waste made it possible, but not easy.",
+    "date": "2026-08-17T09:03:10",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "Trump\u2019s former attorney general proposes a Senate blessing of Trump\u2019s threats to the rule of law.",
     "date": "2026-06-26T20:36:33",
     "category": "Magazines"
-  },
-  {
-    "id": "d72e1ea53dbd06daf46c6a927eb1465f",
-    "feed_name": "LRB",
-    "title": "Burnham\u2019s Political Economy",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n12/william-davies/burnham-s-political-economy",
-    "content": "B\u200britain\u2019s present\u200b economic bind began in the winter of 2021-22. The success of the vaccine roll-out over the previous months had made it possible to \u2018reopen\u2019 the economy, even in areas such as hospitality whose entire future had once looked uncertain. But bottlenecks in supply chains and labour markets then exerted an upward pressure on prices, including wages....",
-    "date": "2026-06-26T19:50:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/26/arts/design/ping-pong-rockaway-beach.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ping-Pong\u2019s Endless Summer at Rockaway Beach",
-    "author": "Hilarie M. Sheets and Jonah Rosenberg",
-    "link": "https://www.nytimes.com/2026/06/26/arts/design/ping-pong-rockaway-beach.html",
-    "content": "Six artist-designed tables commissioned by Public Art Fund serve up serious fun in \u201cBetween Tides\u201d at Beach 67. (Just take the A train.)",
-    "date": "2026-06-26T19:34:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234386",
-    "feed_name": "Texas Tribune",
-    "title": "Cornyn says closed primaries could backfire on Texas GOP, breaking with Abbott, Paxton",
-    "author": "Samanta Habashy",
-    "link": "https://feeds.texastribune.org/link/16799/17368753/texas-john-cornyn-closed-primaries-republican-party-greg-abbott-ken-paxton",
-    "content": "U.S. Sen. John Cornyn visits Corpus Christi on May 22, 2026, to talk about his reelection campaign.",
-    "date": "2026-06-26T19:15:08",
-    "category": "Texas"
   }
 ]
