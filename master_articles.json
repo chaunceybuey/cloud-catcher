@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/17/arts/music/ye-kanye-west-russia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ye Announces Russia Concerts, Months After Western Europe Cancellations",
+    "author": "Ivan Nechepurenko and Alex Marshall",
+    "link": "https://www.nytimes.com/2026/08/17/arts/music/ye-kanye-west-russia.html",
+    "content": "Ye performing in Arnhem, the Netherlands, in June. Several of his other European concerts were canceled in recent months.",
+    "date": "2026-08-17T16:07:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/why-is-a-trial-happening-30-years-after-the-shooting",
+    "feed_name": "NYT (Arts)",
+    "title": "Why is a trial happening 30 years after the shooting?",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/why-is-a-trial-happening-30-years-after-the-shooting",
+    "content": "Duane Keith Davis on the first day of jury selection in his murder trial related to the 1996 killing of Tupac Shakur, in Las Vegas last week.",
+    "date": "2026-08-17T16:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
     "feed_name": "NYT (Arts)",
     "title": "No Evidence of Foul Play in Hayden Panettiere\u2019s Death, Police Say",
@@ -19978,25 +19998,5 @@
     "content": "Sydney (Ayo Edebiri) and Carmy (Jeremy Allen White) had a suddenly different dynamic in Season 5 of \u201cThe Bear.\u201d",
     "date": "2026-06-28T12:03:43",
     "category": "NYT"
-  },
-  {
-    "id": "3ea8e060b6f77ecd9d121e090e27c3ed",
-    "feed_name": "The Atlantic",
-    "title": "The Comfort Democracies Confront the Control States",
-    "author": "Simon Sebag Montefiore",
-    "link": "https://www.theatlantic.com/ideas/2026/06/democracy-history-autocracies-dictatorships/687720/",
-    "content": "Liberal societies need to show they can win\u2014without destroying their own values from within.",
-    "date": "2026-06-28T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "07611d8c7465abe9d9694c877cdc5c34",
-    "feed_name": "The Atlantic",
-    "title": "Instagram Is Monetizing Humanity\u2019s Worst Impulses",
-    "author": "Annie Joy Williams",
-    "link": "https://www.theatlantic.com/ideas/2026/06/instagram-story-meta-dating-social-media/687721/",
-    "content": "Drive yourself crazy for the low price of $3.99 a month!",
-    "date": "2026-06-28T11:31:00",
-    "category": "Magazines"
   }
 ]
