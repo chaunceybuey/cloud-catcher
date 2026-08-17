@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-life-in-pictures.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hayden Panettiere: A Life in Pictures",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-life-in-pictures.html",
+    "content": "The actress was a child star who went on to become a fixture of network TV dramas in the 2000s.",
+    "date": "2026-08-17T19:22:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-nashville-heroes-streaming.html",
     "feed_name": "NYT (Arts)",
     "title": "Hayden Panettiere\u2019s Best Performances: Where to Stream",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/29/arts/music/little-island-schedule-performances-concerts.html",
     "content": "A rehearsal of \u201cThe Counterfeit Opera\u201d on Little Island last year.",
     "date": "2026-06-29T09:01:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/29/books/new-books-july.html",
-    "feed_name": "NYT (Arts)",
-    "title": "22 New Books to Read in July: Colson Whitehead, Alice Oseman, Daniel Mason and More",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/06/29/books/new-books-july.html",
-    "content": "Novels by Colson Whitehead and Daniel Mason, the final \u201cHeartstopper\u201d graphic novel, gripping thrillers, lush romantasy, true crime and more.",
-    "date": "2026-06-29T09:00:45",
     "category": "NYT"
   }
 ]
