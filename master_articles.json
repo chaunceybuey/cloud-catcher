@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=240239",
+    "feed_name": "Texas Tribune",
+    "title": "Minnesota sues Abbott to force extradition of ICE agent accused of shooting Venezuelan man",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17422433/minnesota-sues-abbott-texas-ice-agent-extradition-lawsuit",
+    "content": "Gov. Greg Abbott speaks during a news conference at the Governor\u2019s Mansion in Austin on Aug. 10, 2026.",
+    "date": "2026-08-18T18:58:02",
+    "category": "Texas"
+  },
+  {
     "id": "fe04e0535ceff00b88e45e08b531130e",
     "feed_name": "LRB",
     "title": "The Publishers\u2019 Plot",
@@ -19988,15 +19998,5 @@
     "content": "Fidelity just removed the Analysis section of their website.  These are the screens where you see your Asset Allocation and which give a a M* nine box breakdown.  They are gone and have been replaced by inferior sections in the Performance pages.<br /><br />The new Performance 'equivalents' are worse and they do not incorporate my externally linked (or manually entered) bank accounts.  The linked accounts from the degraded Full View screens are not supported in the new Performance section, and of course the external accounts added to the Performance section don't show up on the main page or the remaining Full View screens. <br /><br />Numbers are rounded off improperly in places, and not included in others.  Data downloads don't include sums.<br /> <br />If this is also true for externally linked brokerage accounts, then there is no more way to get a full multi vendor portfolio analysis without manually adding them and all of their holdings to the new Performance View.  I can't tell because I have all my brokerage accounts at Fidelity for now.<br /><br />The good news is that with my 3-fund centric simplified portfolio, I don't need to do much analysis anymore.  Thanks Bogleheads!<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=198635\">FatefulTanker</a> \u2014 Mon Jun 29, 2026 1:44 pm</p><hr />",
     "date": "2026-06-29T18:44:14",
     "category": "Finance"
-  },
-  {
-    "id": "2f9c0932c8287776192f3ebcf22cbddd",
-    "feed_name": "LRB",
-    "title": "Celia Paul\u2019s Ghosts",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n12/marina-warner/adored-image",
-    "content": "Celia Paul\u2019s\u200bMy Mother and God, from 1990, shows Paul\u2019s mother, the obsessive subject of her art, against a louring cloud of thickly layered black and brown paint; at the top of the canvas, a glow of gold gives a promise of sunrise. The head seems to float in the lower half of the painting, an apparition in a welter of night; the eyes are lowered and the face turned to...",
-    "date": "2026-06-29T17:39:07",
-    "category": "Magazines"
   }
 ]
