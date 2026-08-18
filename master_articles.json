@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/18/dining/spaghett-baltimore.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Spaghett Is Baltimore\u2019s Gift to the World",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/08/18/dining/spaghett-baltimore.html",
+    "content": "A decade after its invention, the Spaghett has traveled far beyond Baltimore. Mr. Cahill said he once encountered one on a menu in Iceland.",
+    "date": "2026-08-18T15:38:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/18/theater/broadway-musicals-festival-kingston.html",
     "feed_name": "NYT (Arts)",
     "title": "The Festival draws musical theater performers and fans to an outdoor celebration.",
@@ -19986,16 +19996,6 @@
     "author": "ByDan Greene",
     "link": "https://www.newyorker.com/magazine/2026/07/06/the-natural-memory-of-kabir-sehgal",
     "content": "For his new album, \u201cStars and Static 2026,\u201d the fourteen-time Grammy winner recorded sounds from across the country. Did it change how he thinks about America?",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "41e737654d2c59d966c8d5a49c5c16a2",
-    "feed_name": "New Yorker",
-    "title": "Bruce Nauman Isn\u2019t Bound by the Rules",
-    "author": "ByThessaly La Force",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/bruce-nauman-isnt-bound-by-the-rules",
-    "content": "At a gallery in Tribeca, the artist talked bald spots with Eric Fischl and walked through his quickie exhibition \u201cNo Mistakes,\u201d 3-D videos of him drawing with his eyes closed.",
     "date": "2026-06-29T14:05:51",
     "category": "Magazines"
   }
