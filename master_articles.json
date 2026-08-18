@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "fe04e0535ceff00b88e45e08b531130e",
+    "feed_name": "LRB",
+    "title": "The Publishers\u2019 Plot",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/the-publishers-plot",
+    "content": "In May 2025, ten people affiliated with Eksmo, Russia\u2019s publishing behemoth, were detained in Moscow. Three of them, Pavel Ivanov, Dmitry.\u00a0.\u00a0.",
+    "date": "2026-08-18T18:39:51",
+    "category": "Magazines"
+  },
+  {
+    "id": "ebf4aa62711c5460463a0b176f0f378e",
+    "feed_name": "LRB",
+    "title": "Jeremy Lee & Bee Wilson: Kitchening",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/jeremy-lee-bee-wilson-kitchening-tickets-1995474957314",
+    "content": "",
+    "date": "2026-08-18T18:39:51",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/18/arts/music/amplifier-newsletter-phoebe-bridgers-lrain.html",
     "feed_name": "NYT (Arts)",
     "title": "5 New Songs I\u2019m Excited About",
@@ -158,6 +178,16 @@
     "content": "L\u2019Rain",
     "date": "2026-08-18T18:00:03",
     "category": "NYT"
+  },
+  {
+    "id": "2ec6766e-ced9-4547-80f1-2f468610d16a",
+    "feed_name": "Economist",
+    "title": "Stock indices no longer reflect equity reality",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
+    "content": "Lies, damned lies and stock markets",
+    "date": "2026-08-18T17:50:12",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/08/18/dining/nyc-restaurant-news.html",
@@ -19968,35 +19998,5 @@
     "content": "Celia Paul\u2019s\u200bMy Mother and God, from 1990, shows Paul\u2019s mother, the obsessive subject of her art, against a louring cloud of thickly layered black and brown paint; at the top of the canvas, a glow of gold gives a promise of sunrise. The head seems to float in the lower half of the painting, an apparition in a welter of night; the eyes are lowered and the face turned to...",
     "date": "2026-06-29T17:39:07",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/29/arts/dance/review-lucinda-childs-bard-summerscape-momentary-reprise.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Review: The Choreographer Lucinda Childs\u2019s Persistence of Vision",
-    "author": "Brian Seibert",
-    "link": "https://www.nytimes.com/2026/06/29/arts/dance/review-lucinda-childs-bard-summerscape-momentary-reprise.html",
-    "content": "\u201cMomentary Reprise,\u201d a program at Bard SummerScape, spanned Childs\u2019s career, showing how she settled on a style in the 1970s and stuck with it.",
-    "date": "2026-06-29T17:12:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/29/arts/television/bill-maher-trump-mark-twain-prize-kennedy-center.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Even Absent, Trump Takes the Spotlight at a Night Celebrating Bill Maher",
-    "author": "Jason Zinoman",
-    "link": "https://www.nytimes.com/2026/06/29/arts/television/bill-maher-trump-mark-twain-prize-kennedy-center.html",
-    "content": "Bill Maher arriving at the ceremony honoring him on Sunday.",
-    "date": "2026-06-29T15:33:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/29/dining/getting-my-greens-with-this-satisfying-broccoli-salad.html",
-    "feed_name": "NYT (Food)",
-    "title": "Getting My Greens With This Satisfying Broccoli Salad",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/06/29/dining/getting-my-greens-with-this-satisfying-broccoli-salad.html",
-    "content": "Kay Chun\u2019s ginger scallion broccoli salad.",
-    "date": "2026-06-29T15:00:06",
-    "category": "NYT"
   }
 ]
