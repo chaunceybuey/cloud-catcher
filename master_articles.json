@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a70e408f4ac0ca4079ecc9d",
+    "feed_name": "Wired",
+    "title": "The Cop Who Took On Flock",
+    "author": "Dhruv Mehrotra",
+    "link": "https://www.wired.com/story/the-cop-who-took-on-flock/",
+    "content": "After Noel Pichardo called out his city's embrace of Flock surveillance cameras, he was subjected to five internal affairs investigations in less than two years.",
+    "date": "2026-08-18T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19734",
+    "feed_name": "Stratechery",
+    "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+    "content": "<p>Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.</p>",
+    "date": "2026-08-18T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-grew-up-in-front-of-the-camera-it-took-a-toll.html",
     "feed_name": "NYT (Arts)",
     "title": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
@@ -19976,26 +19996,6 @@
     "author": "ByJan Wagner",
     "link": "https://www.newyorker.com/magazine/2026/07/06/requiem-for-a-barber-jan-wagner-poem",
     "content": "\u201con monday all must rest, so monday it will stay.\u201d",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "0a68756b73543d44c330643743aa7d8e",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-july-6-and-13-2026-issue",
-    "content": "Drawings from the July 6 & 13, 2026, magazine.",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "714e6ab4a78ba3e020c3687a7334c136",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Wednesday, June 24, 2026",
-    "author": "ByRebecca Goldstein",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/06/24",
-    "content": "Today\u2019s theme: Body positivity.",
     "date": "2026-06-29T14:05:51",
     "category": "Magazines"
   }
