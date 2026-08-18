@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/18/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Saolea Offers a Wine Bar\u2019s Expansive Take on Thai Cooking",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/08/18/dining/nyc-restaurant-news.html",
+    "content": "Burmese Bites gets a brick-and-mortar location, 20 Blocks goes all in on sandwiches and more restaurant news.",
+    "date": "2026-08-18T16:56:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8836038#p8836038",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/culture/goings-on/the-artistry-of-tarot",
     "content": "Also: the modern reggae of Original Koffee, Tina Fey\u2019s modern take on \u201cThe Four Seasons,\u201d Hugh Jackman\u2019s gory Robin Hood, and more.",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "7a68f388cf67bf2ede08aca603342205",
-    "feed_name": "New Yorker",
-    "title": "Chronicle of a Disaster Foretold",
-    "author": "ByDavid Remnick",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/chronicle-of-a-disaster-foretold",
-    "content": "Maggie Haberman and Jonathan Swan\u2019s \u201cRegime Change\u201d is packed with news about the Trump White House that will stay news.",
     "date": "2026-06-29T14:05:51",
     "category": "Magazines"
   }
