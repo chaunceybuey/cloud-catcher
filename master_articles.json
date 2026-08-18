@@ -150,6 +150,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life",
+    "author": "Matt Stevens, Derrick Bryson Taylor and Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
+    "content": "Brian Hickerson has not been accused of being involved in Hayden Panettiere\u2019s death.",
+    "date": "2026-08-18T23:10:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240275",
+    "feed_name": "Texas Tribune",
+    "title": "Gov. Abbott proposes ban on H-1B visa use for Texas public schools during campaign stop",
+    "author": "Megan Menchaca",
+    "link": "https://feeds.texastribune.org/link/16799/17422554/texas-public-schools-h1b-visa-ban-proposal",
+    "content": "Students at Nimitz Middle School in Odessa line up to enter their next class on Sept. 13, 2023.",
+    "date": "2026-08-18T22:31:36",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240265",
+    "feed_name": "Texas Tribune",
+    "title": "What to know about possible border barriers in Big Bend",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17422555/texas-big-bend-national-park-border-wall-plans-explainer",
+    "content": "Southwest Valley employees clear an area near the Santa Elena Canyon trailhead parking lot in Big Bend National Park on Aug. 13, 2026.",
+    "date": "2026-08-18T22:04:29",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240253",
     "feed_name": "Texas Tribune",
     "title": "TribCast: Should we believe the polls about Paxton and Talarico?",
@@ -19967,36 +19997,6 @@
     "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8798520#p8798520",
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Fidelity just removed the Analysis section of their website.  These are the screens where you see your Asset Allocation and which give a a M* nine box breakdown.  They are gone and have been replaced by inferior sections in the Performance pages.<br /><br />The new Performance 'equivalents' are worse and they do not incorporate my externally linked (or manually entered) bank accounts.  The linked accounts from the degraded Full View screens are not supported in the new Performance section, and of course the external accounts added to the Performance section don't show up on the main page or the remaining Full View screens. <br /><br />Numbers are rounded off improperly in places, and not included in others.  Data downloads don't include sums.<br /> <br />If this is also true for externally linked brokerage accounts, then there is no more way to get a full multi vendor portfolio analysis without manually adding them and all of their holdings to the new Performance View.  I can't tell because I have all my brokerage accounts at Fidelity for now.<br /><br />The good news is that with my 3-fund centric simplified portfolio, I don't need to do much analysis anymore.  Thanks Bogleheads!</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I just checked mine and at least in my case the external accounts are incorporated in the totals and percentages.<br />Let me know please if there is anything I can share that will help you figure out what is happening in your case.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Thanks for the response.  I see the same ? as mhc does.  I will just accept this and move on, just like I moved on from the Full View features that they removed.  Reddit responses from Fidelity reps confirm that the Analysis screens are being removed for good.  I just get tired of their upgrades that make things worse.  <br /><br />I'm even more happy that my father and I both have simplified portfolios that don't really need analysis anymore.  No more Morningstar Stock Intersection reports in this man's future.  I'm just going to make a spreadsheet or my liking and just cut and paste the portfolio values into it when I need to do any checking.  Even I can calculate the AA of a 3-fund centric portfolio.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=198635\">FatefulTanker</a> \u2014 Mon Jun 29, 2026 3:56 pm</p><hr />",
     "date": "2026-06-29T20:56:39",
-    "category": "Finance"
-  },
-  {
-    "id": "845c40da-656c-4778-bede-01c8b570bf87",
-    "feed_name": "Economist",
-    "title": "Turkey\u2019s economic plan to win from the Iran war",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
-    "content": "The country is a case study in the spillovers of conflict\u2014both positive and negative\nIstanbul",
-    "date": "2026-06-29T20:52:26",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8798503#p8798503",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "AskPatient1281",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8798503#p8798503",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I have an external bank linked, which has 3 accounts. Fidelity has a note that those 3 accounts are not currently eligible for analysis. The use of the word \"currently\" makes it seem like they may be included in the future. Fortunately, they are very small and do not impact the analysis. <br /><br />The note is accessed through clicking the ? in the Analysis pane.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Only account not eligible when I click ? is the Fidelity Visa Signature Rewards Card. External brokerage accounts are fully eligible.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Mon Jun 29, 2026 3:34 pm</p><hr />",
-    "date": "2026-06-29T20:34:07",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8798482#p8798482",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "mhc",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8798482#p8798482",
-    "content": "I have an external bank linked, which has 3 accounts. Fidelity has a note that those 3 accounts are not currently eligible for analysis. The use of the word \"currently\" makes it seem like they may be included in the future. Fortunately, they are very small and do not impact the analysis. <br /><br />The note is accessed through clicking the ? in the Analysis pane.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=25725\">mhc</a> \u2014 Mon Jun 29, 2026 3:16 pm</p><hr />",
-    "date": "2026-06-29T20:16:06",
     "category": "Finance"
   }
 ]
