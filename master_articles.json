@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8835905#p8835905",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "lereh",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8835905#p8835905",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I'm going to enable check writing on my CMA, I see they off Name only or Name and mailing address, has anyone experience problems having a name only check accepted?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>What's a \"check\"?<br /><br />I'm down to four a year. I just use a separate bank account. It's easier.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=95103\">lereh</a> \u2014 Tue Aug 18, 2026 8:08 am</p><hr />",
+    "date": "2026-08-18T13:08:43",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8835887#p8835887",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -178,6 +188,26 @@
     "content": "what's the most I can EFT pull into my fidelity brokerage account with a account balance of $200k and invest the money same day?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=197342\">runr</a> \u2014 Tue Aug 18, 2026 7:32 am</p><hr />",
     "date": "2026-08-18T12:32:34",
     "category": "Finance"
+  },
+  {
+    "id": "0b05721f3b8cc28758d82174e7b0929e",
+    "feed_name": "The Atlantic",
+    "title": "Alan Dershowitz Won\u2019t Forget What Larry David Did to Him",
+    "author": "Mark Leibovich",
+    "link": "https://www.theatlantic.com/ideas/2026/08/alan-dershowitz-larry-david-vineyard/688293/",
+    "content": "He has new friends on Martha\u2019s Vineyard. But his tales of cancellation have not subsided.",
+    "date": "2026-08-18T12:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "8bb0d9af4add681cfef05dcd33044f29",
+    "feed_name": "The Atlantic",
+    "title": "Islamophobia Has Corroded American Values",
+    "author": "Asma Khalid",
+    "link": "https://www.theatlantic.com/ideas/2026/08/muslim-experience-islamaphobia-united-states/688277/",
+    "content": "Even in the immediate aftermath of 9/11, Muslims weren\u2019t treated like this.",
+    "date": "2026-08-18T11:31:00",
+    "category": "Magazines"
   },
   {
     "id": "41e1f5f8e1d0c4107493c9b4116d14f4",
@@ -19966,36 +19996,6 @@
     "author": "ByWilliam Finnegan",
     "link": "https://www.newyorker.com/magazine/2026/07/06/did-a-climber-leave-his-girlfriend-to-die-at-the-top-of-a-mountain",
     "content": "An Austrian court pieces together the mysterious circumstances of a couple\u2019s disastrous hike.",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "d546db9b4c179cfdc55d2af93ae76b30",
-    "feed_name": "New Yorker",
-    "title": "The Tick That Hunts Down Its Hosts\u2014Including Us",
-    "author": "ByBurkhard Bilger",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/the-tick-that-hunts-down-its-hosts-including-us",
-    "content": "Lone-star ticks don\u2019t just pursue and bite people. The affliction they\u2019re spreading, an allergy to red meat known as alpha-gal syndrome, attacks a way of life.",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "90ea2370a4f2a25669fc17cc3150d12f",
-    "feed_name": "New Yorker",
-    "title": "OnlyFans Creators Bare All",
-    "author": "ByJennifer WilsonPhotography byKaty Grannan",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/onlyfans-creators-sex-worker-photo-portfolio",
-    "content": "Up close with sex workers of the streaming era.",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "cba893ce56173b28ba7834e1e2abbd85",
-    "feed_name": "New Yorker",
-    "title": "My Great Meeting with God",
-    "author": "ByPatricia Marx",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/my-great-meeting-with-god",
-    "content": "He was very complimentary. People tell me, \u201cMr. President, you put the fear of God in God.\u201d",
     "date": "2026-06-29T14:05:51",
     "category": "Magazines"
   }
