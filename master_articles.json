@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=240253",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Should we believe the polls about Paxton and Talarico?",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17422496/tribcast-talarico-paxton-polls",
+    "content": "Illustration showing U.S. Senate candidates James Talarico and Ken Paxton.",
+    "date": "2026-08-18T20:46:35",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
@@ -19988,15 +19998,5 @@
     "content": "I have an external bank linked, which has 3 accounts. Fidelity has a note that those 3 accounts are not currently eligible for analysis. The use of the word \"currently\" makes it seem like they may be included in the future. Fortunately, they are very small and do not impact the analysis. <br /><br />The note is accessed through clicking the ? in the Analysis pane.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=25725\">mhc</a> \u2014 Mon Jun 29, 2026 3:16 pm</p><hr />",
     "date": "2026-06-29T20:16:06",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/29/movies/daveigh-chase-cause-death-aids.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Daveigh Chase, \u2018Lilo & Stitch\u2019 Voice Actor, Died of AIDS, Officials Say",
-    "author": "Matt Stevens",
-    "link": "https://www.nytimes.com/2026/06/29/movies/daveigh-chase-cause-death-aids.html",
-    "content": "The actress Daveigh Chase in 2011. Her father said she was homeless before she died this month in Los Angeles.",
-    "date": "2026-06-29T20:06:43",
-    "category": "NYT"
   }
 ]
