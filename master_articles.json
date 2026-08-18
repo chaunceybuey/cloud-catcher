@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Rosie O\u2019Donnell Just Knows Trump Is Watching Her Host \u2018Jimmy Kimmel Live\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html",
+    "content": "\u201cAnd if you thought the president hated \u2018Jimmy Kimmel Live\u2019 when it was hosted by Jimmy Kimmel, buckle up, people. Buckle up!\u201d O\u2019Donnell said.",
+    "date": "2026-08-18T05:37:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240161",
     "feed_name": "Texas Tribune",
     "title": "Texas counties sue feds for trying to tie election security policies to anti-terrorism funding",
@@ -19988,15 +19998,5 @@
     "content": "Sarah Gipson sits for a photo with her 1-year-old daughter Whitlee, who was born in 2024 in Nacogdoches after complications during pregnancy forced an early delivery.",
     "date": "2026-06-29T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/29/arts/dance/rosalia-lux-tour-ballet-charm-ladonna.html",
-    "feed_name": "NYT (Arts)",
-    "title": "On the \u2018Lux Tour\u2019, Rosal\u00eda Shape Shifts Through Dance",
-    "author": "Margaret Fuhrer",
-    "link": "https://www.nytimes.com/2026/06/29/arts/dance/rosalia-lux-tour-ballet-charm-ladonna.html",
-    "content": "On the \u201cLux\u201d tour, the pop star mingles dance genres, starting the show on pointe. As with her dip into opera, her technique might not be perfect, but the intention is good.",
-    "date": "2026-06-29T09:02:27",
-    "category": "NYT"
   }
 ]
