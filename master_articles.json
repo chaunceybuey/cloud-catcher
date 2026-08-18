@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/18/theater/broadway-musicals-festival-kingston.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Festival draws musical theater performers and fans to an outdoor celebration.",
+    "author": "Jesse Green, Elisabeth Vincentelli and Marissa Alper",
+    "link": "https://www.nytimes.com/2026/08/18/theater/broadway-musicals-festival-kingston.html",
+    "content": "Among the stars and stans at a Hudson River retreat, two reporters beheld the big belters and niche merchandise at a new musical theater festival.",
+    "date": "2026-08-18T15:00:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/18/arts/music/national-symphony-orchestra-season-announcement-kennedy-center.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The National Symphony Orchestra\u2019s Next Season Will Be Miles From the Kennedy Center",
+    "author": "Adam Nagourney",
+    "link": "https://www.nytimes.com/2026/08/18/arts/music/national-symphony-orchestra-season-announcement-kennedy-center.html",
+    "content": "\u201cWe will be a touring orchestra in the area,\u201d said Gianandrea Noseda, the orchestra\u2019s music director. \u201cBeing at home, sleeping on our own beds. But a touring orchestra.\u201d",
+    "date": "2026-08-18T15:00:23",
+    "category": "NYT"
+  },
+  {
     "id": "8d34462a86461669cf261ce1aa78c380",
     "feed_name": "Compact",
     "title": "The Young Women Quietly Converting to Catholicism",
@@ -19976,26 +19996,6 @@
     "author": "ByThessaly La Force",
     "link": "https://www.newyorker.com/magazine/2026/07/06/bruce-nauman-isnt-bound-by-the-rules",
     "content": "At a gallery in Tribeca, the artist talked bald spots with Eric Fischl and walked through his quickie exhibition \u201cNo Mistakes,\u201d 3-D videos of him drawing with his eyes closed.",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "c97ed97a3dd8935bddc2e88067fa680a",
-    "feed_name": "New Yorker",
-    "title": "Postscript: Mark Singer",
-    "author": "ByIan Frazier",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/postscript-mark-singer",
-    "content": "In a 1997 Profile for the magazine, he looked for Donald Trump\u2019s soul. Where it should have been he found\u2014nothing.",
-    "date": "2026-06-29T14:05:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "e1d7545485619c53f291e2ab19923966",
-    "feed_name": "New Yorker",
-    "title": "The Billionaires\u2019 Vagina Club",
-    "author": "ByMelanie Thernstrom",
-    "link": "https://www.newyorker.com/magazine/2026/07/06/the-billionaires-vagina-club",
-    "content": "With her motto, \u201cSexual health is health,\u201d Dr. Sally Greenwald aims to optimize orgasms for the women of Silicon Valley.",
     "date": "2026-06-29T14:05:51",
     "category": "Magazines"
   }
