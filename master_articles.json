@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/19/nyregion/derrick-parker-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Derrick Parker, Known as New York\u2019s \u2018Hip-Hop Cop,\u2019 Dies at 65",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/08/19/nyregion/derrick-parker-dead.html",
+    "content": "A veteran detective with deep connections in the city\u2019s rap scene, he served as a one-man intelligence unit and liaison to the music world.",
+    "date": "2026-08-19T19:27:24",
+    "category": "NYT"
+  },
+  {
     "id": "a5a1bb06bfead06c6ddad0fccd3d689b",
     "feed_name": "LRB",
     "title": "Not Fair Enough",
@@ -19988,15 +19998,5 @@
     "content": "A half century ago, a new and radical legal theory emerged. Now it is American law.",
     "date": "2026-06-30T17:16:42",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/30/arts/dance/discofoot-soccer-dance-world-cup.html",
-    "feed_name": "NYT (Arts)",
-    "title": "It\u2019s Soccer, but Set to Disco. And May the Best Dancers Win.",
-    "author": "Rachel Sherman and Gabriela Bhaskar",
-    "link": "https://www.nytimes.com/2026/06/30/arts/dance/discofoot-soccer-dance-world-cup.html",
-    "content": "\u201cDiscofoot,\u201d a dance showdown and soccer game played to disco hits, originated in France. Last weekend, in honor of the World Cup, it had its U.S. premiere.",
-    "date": "2026-06-30T16:08:54",
-    "category": "NYT"
   }
 ]
