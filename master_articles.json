@@ -190,6 +190,16 @@
     "category": "NYT"
   },
   {
+    "id": "31da1793957ad9a21db93d6cf87ca4cb",
+    "feed_name": "The Atlantic",
+    "title": "The \u2018Resistance\u2019 Is Over",
+    "author": "David Frum",
+    "link": "https://www.theatlantic.com/ideas/2026/08/democratic-primaries-left-dsa-trump/688327/",
+    "content": "The insurgent left cares more about its own factional agenda than the president\u2019s threats to democracy.",
+    "date": "2026-08-19T19:22:00",
+    "category": "Magazines"
+  },
+  {
     "id": "a5a1bb06bfead06c6ddad0fccd3d689b",
     "feed_name": "LRB",
     "title": "Not Fair Enough",
@@ -19988,15 +19998,5 @@
     "content": "June Carter Cash, left, and Johnny Cash at Madison Square Garden.",
     "date": "2026-06-30T18:00:03",
     "category": "NYT"
-  },
-  {
-    "id": "611e0c23d48558f4dbb6c5db3158ad93",
-    "feed_name": "The Atlantic",
-    "title": "The Ultimate Triumph of the Unitary Executive",
-    "author": "Peter M. Shane",
-    "link": "https://www.theatlantic.com/ideas/2026/06/ultimate-triumph-unitary-executive/687741/",
-    "content": "A half century ago, a new and radical legal theory emerged. Now it is American law.",
-    "date": "2026-06-30T17:16:42",
-    "category": "Magazines"
   }
 ]
