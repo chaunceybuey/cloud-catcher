@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Some Stand-Up Comics Are Pivoting Away From Video on Social Media",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
+    "content": "Comedians used to post footage of their performances to build a following. Now, some are finding that comic strip-style panels with captions pack a bigger punch.",
+    "date": "2026-08-19T15:32:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html",
     "feed_name": "NYT (Arts)",
     "title": "Judge Is Asked to Block Inscription of Trump\u2019s Name on Kennedy Center",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/june/release-the-tapes",
     "content": "The Met Police chief, Mark Rowley, recently announced that his force would be releasing more bodycam footage as standard. It used to be published.\u00a0.\u00a0.",
     "date": "2026-06-30T12:10:49",
-    "category": "Magazines"
-  },
-  {
-    "id": "cc4bcc8bfd71a637ab97d30d2cf3774c",
-    "feed_name": "Compact",
-    "title": "What the American Right Can Learn From France",
-    "author": "",
-    "link": "https://www.compactmag.com/article/what-the-american-right-can-learn-from-france/",
-    "content": "",
-    "date": "2026-06-30T12:10:45",
     "category": "Magazines"
   }
 ]
