@@ -150,6 +150,36 @@
     "category": "Texas"
   },
   {
+    "id": "6686f377ab33888960b9d107bb7f84d8",
+    "feed_name": "Compact",
+    "title": "When Britain Ended Birthright Citizenship",
+    "author": "",
+    "link": "https://www.compactmag.com/article/when-britain-ended-birthright-citizenship/",
+    "content": "",
+    "date": "2026-08-19T11:25:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "e1cdadb17eba9b084b8745c711e5867d",
+    "feed_name": "The Atlantic",
+    "title": "Democrats Are Failing the Waymo Test",
+    "author": "Rog\u00e9 Karma",
+    "link": "https://www.theatlantic.com/ideas/2026/08/democrats-waymo-safety-jobs/688324/",
+    "content": "Cities that say no to driverless cars are blocking a technology that would change their residents\u2019 lives for the better.",
+    "date": "2026-08-19T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "f294549c03be2a1e00b04795e545f5a0",
+    "feed_name": "The Atlantic",
+    "title": "The Case for Chilling Out About Birth Rates",
+    "author": "Idrees Kahloon",
+    "link": "https://www.theatlantic.com/ideas/2026/08/birth-rate-panic-overblown/688320/",
+    "content": "Even if the fertility decline doesn\u2019t reverse itself anytime soon, the consequences are unlikely to be apocalyptic.",
+    "date": "2026-08-19T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8836559#p8836559",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19967,36 +19997,6 @@
     "link": "https://www.wired.com/story/how-hunter-biden-won-the-internet/",
     "content": "WIRED spent months talking to America\u2019s favorite failson as he plotted his return to public life. Now he\u2019s feeding the trolls\u2014and everyone else.",
     "date": "2026-06-30T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234583",
-    "feed_name": "Texas Tribune",
-    "title": "San Marcos becomes the first Texas city to ban data centers, testing its local control",
-    "author": "Katlyn Ma",
-    "link": "https://feeds.texastribune.org/link/16799/17370222/texas-san-marcos-data-center-ban-zoning-laws",
-    "content": "San Marcos residents protest a proposed AI data center during a City Council meeting on Feb. 17, 2026.",
-    "date": "2026-06-30T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234606",
-    "feed_name": "Texas Tribune",
-    "title": "Screwworm: Fact vs. fiction",
-    "author": "Jayme Lozano Carver",
-    "link": "https://feeds.texastribune.org/link/16799/17370223/screwworm-myths-fact-vs-fiction",
-    "content": "An attendee holds a handout during a community meeting on the New World Screwworm incursion into Texas at the Uvalde County Fairplex on June 10, 2026.",
-    "date": "2026-06-30T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "6a42ffe4339b059dfc679188",
-    "feed_name": "Wired (Science)",
-    "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
-    "author": "Fernanda Gonz\u00e1lez",
-    "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
-    "content": "The maps and images show the extent of destruction and give rescue operations a tool to find any remaining survivors.",
-    "date": "2026-06-30T09:30:00",
     "category": "Magazines"
   }
 ]
