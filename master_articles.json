@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "a5a1bb06bfead06c6ddad0fccd3d689b",
+    "feed_name": "LRB",
+    "title": "Not Fair Enough",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/not-fair-enough",
+    "content": "I will leave it to those who knew him to speak about Jason Arday\u2019s contributions to academia and university life, and the circumstances.\u00a0.\u00a0.",
+    "date": "2026-08-19T18:37:27",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/19/briefing/19-the-good-list-walk-up-songs-third-thing.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Some Joy to Your Day",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/30/movies/great-documentaries-streaming.html",
     "content": "David Hockney in the documentary \u201cA Bigger Splash.\u201d",
     "date": "2026-06-30T15:17:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/30/theater/birthright-review-israel-spector.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Birthright\u2019 Stages a Thrillingly Complex Conversation on Conversation Itself",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/06/30/theater/birthright-review-israel-spector.html",
-    "content": "In \u201cBirthright,\u201d six American Jews, played by, from left, Zo\u00eb Winters, Molly Bernard, Molly Ranson, Nate Mann, Hale Appleman and Eli Gelb, connect while on an organized trip to Israel.",
-    "date": "2026-06-30T15:00:08",
     "category": "NYT"
   }
 ]
