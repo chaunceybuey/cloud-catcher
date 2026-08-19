@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What to Know About Hayden Panettiere\u2019s Death",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html",
+    "content": "Hayden Panettiere was twice nominated for Golden Globes for her role in \u201cNashville.\u201d",
+    "date": "2026-08-19T23:14:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21931-zach-theater-presents-come-away-from",
     "feed_name": "KMFA",
     "title": "Zach Theater Presents: Come Away From",
@@ -19987,16 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/salsa-easy-summer-cooking",
     "content": "A spicy, peanutty, sour, sometimes-sweet sauce, salsa macha enhances anything it tops with its signature crunch.",
     "date": "2026-06-30T18:07:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/30/arts/music/amplifier-newsletter-madison-square-garden-live.html",
-    "feed_name": "NYT (Arts)",
-    "title": "7 Songs Recorded Live at Madison Square Garden",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/06/30/arts/music/amplifier-newsletter-madison-square-garden-live.html",
-    "content": "June Carter Cash, left, and Johnny Cash at Madison Square Garden.",
-    "date": "2026-06-30T18:00:03",
     "category": "NYT"
   }
 ]
