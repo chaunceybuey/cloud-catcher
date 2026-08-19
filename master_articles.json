@@ -190,6 +190,36 @@
     "category": "Magazines"
   },
   {
+    "id": "7a5e07ba-29c4-40f2-9aef-a780f72ed9bf",
+    "feed_name": "Economist",
+    "title": "Why bond markets are unnerving rich-world politicians",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
+    "content": "As stocks rise ever higher, yields have been rising across the rich world",
+    "date": "2026-08-19T18:02:58",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240340",
+    "feed_name": "Texas Tribune",
+    "title": "How Corpus Christi\u2019s water emergency exposed flaws in Texas\u2019 water planning",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17423219/texas-water-planning-drought-corpus-christi",
+    "content": "Lake Corpus Christi&#039;s water level had risen to nearly 92% of capacity on Aug. 15, 2026, after dropping to 10.6% six months earlier amid a lingering drought.",
+    "date": "2026-08-19T18:01:30",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240335",
+    "feed_name": "Texas Tribune",
+    "title": "Lt. Gov. Dan Patrick proposes penalties for schools that keep \u201cvulgar\u201d books on library shelves",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17423220/texas-dan-patrick-obscene-books-school-libraries-penalties",
+    "content": "Lt. Gov. Dan Patrick speaks at the Red River Roll Call, a Republican rally hosted by state Rep. Shelley Luther in Sherman on July 27, 2026.",
+    "date": "2026-08-19T17:48:15",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/19/briefing/19-the-good-list-walk-up-songs-third-thing.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Some Joy to Your Day",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/30/arts/dance/discofoot-soccer-dance-world-cup.html",
     "content": "\u201cDiscofoot,\u201d a dance showdown and soccer game played to disco hits, originated in France. Last weekend, in honor of the World Cup, it had its U.S. premiere.",
     "date": "2026-06-30T16:08:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/30/dining/nyc-restaurant-news.html",
-    "feed_name": "NYT (Food)",
-    "title": "Oberon Brings Artful Dining to the New Museum",
-    "author": "Florence Fabricant",
-    "link": "https://www.nytimes.com/2026/06/30/dining/nyc-restaurant-news.html",
-    "content": "Bark Barbecue serves a Caribbean take on the genre in Bushwick, Brooklyn, Tit\u00e1n brings a Mexican collaboration to Dumbo and more restaurant news.",
-    "date": "2026-06-30T15:30:22",
-    "category": "NYT"
-  },
-  {
-    "id": "6a42e0440a2d48b162fabddc",
-    "feed_name": "Wired (Science)",
-    "title": "New York Is About to Feel Hotter Than Phoenix",
-    "author": "Isabella Ward",
-    "link": "https://www.wired.com/story/new-york-about-feel-hotter-than-phoenix/",
-    "content": "Extreme heat coupled with humidity will make it feel like 109 degrees Fahrenheit as the holiday weekend approaches.",
-    "date": "2026-06-30T15:18:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/30/movies/great-documentaries-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Three Great Documentaries to Stream",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/06/30/movies/great-documentaries-streaming.html",
-    "content": "David Hockney in the documentary \u201cA Bigger Splash.\u201d",
-    "date": "2026-06-30T15:17:42",
     "category": "NYT"
   }
 ]
