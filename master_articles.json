@@ -180,6 +180,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=240362",
+    "feed_name": "Texas Tribune",
+    "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17423785/texas-us-senate-race-donors-ken-paxton-james-talarico",
+    "content": "Texas Attorney General Ken Paxton speaks at the Red River Roll Call, a Republican rally hosted by state Rep. Shelley Luther in Sherman on July 27, 2026.",
+    "date": "2026-08-20T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "1c8984ce-4ef1-4f65-8d43-de88a2b67210",
     "feed_name": "Economist",
     "title": "The high cost of phantom tollbooths",
@@ -19988,15 +19998,5 @@
     "content": "A refinery flaring during rains from Hurricane Harvey in Houston on Aug. 26, 2017.",
     "date": "2026-07-01T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/obituaries/victor-willis-village-people-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Victor Willis, Village People Frontman, Dies at 74",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/07/01/obituaries/victor-willis-village-people-dead.html",
-    "content": "Victor Willis, dressed performing with the Village People in Chicago in 1979.",
-    "date": "2026-07-01T09:10:09",
-    "category": "NYT"
   }
 ]
