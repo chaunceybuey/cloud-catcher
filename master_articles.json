@@ -180,6 +180,26 @@
     "category": "NYT"
   },
   {
+    "id": "3deb50ac4e5cc333e241345c4c2c5656",
+    "feed_name": "The Atlantic",
+    "title": "Resistance 1.0 Was Not Crazy",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/08/resistance-10-was-not-crazy/688340/",
+    "content": "The much-derided movement was right about Trump\u2019s nature, and how to defeat him.",
+    "date": "2026-08-20T17:01:12",
+    "category": "Magazines"
+  },
+  {
+    "id": "b2cdfc4d86865139f711427c2d705f02",
+    "feed_name": "The Atlantic",
+    "title": "Donald Trump Effectively Just Told Iran to Get a Nuclear Weapon",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/08/trump-north-korean-iran-nuclear-weapons/688339/",
+    "content": "He may also have blurted out classified information about North Korea.",
+    "date": "2026-08-20T16:54:43",
+    "category": "Magazines"
+  },
+  {
     "id": "0111a8ec0d3e4a1503b8610d01641e75",
     "feed_name": "LRB",
     "title": "Deported for Leaving the Country",
@@ -19977,26 +19997,6 @@
     "link": "https://www.lrb.co.uk/the-paper/v48/n12/blake-morrison/swimmy-head",
     "content": "The epigraph\u200b to Elizabeth Strout\u2019s latest novel is taken from Jung: \u2018Loneliness does not come from having no people about one, but from being unable to communicate the things that seem important to oneself, or from holding certain views which others find inadmissible.\u2019 This might serve for any of Strout\u2019s books, which repeatedly touch on loneliness and its causes....",
     "date": "2026-07-01T12:34:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "81797049785f2716de0f9968b3b7e9c9",
-    "feed_name": "LRB",
-    "title": "In Venezuela",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n12/armando-ledezma/diary",
-    "content": "As I waited\u200b for Jos\u00e9 in the only bodega within hours of the desert, a boy arrived on a pink bicycle. The cashier asked whether he was Venezuelan or Colombian. After more questioning, and a long silence, he realised that the boy, who looked about seven and was covered in powder from the salt plains, didn\u2019t understand Spanish but rather spoke one of the area\u2019s several...",
-    "date": "2026-07-01T12:34:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "2098dc956064404d88532bac513b8fc9",
-    "feed_name": "Compact",
-    "title": "Why the Public Soured on Pride",
-    "author": "",
-    "link": "https://www.compactmag.com/article/why-the-public-soured-on-pride/",
-    "content": "",
-    "date": "2026-07-01T12:34:49",
     "category": "Magazines"
   }
 ]
