@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/20/dining/going-big-on-shrimp-sliders.html",
+    "feed_name": "NYT (Food)",
+    "title": "Going Big on Shrimp Sliders",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/20/dining/going-big-on-shrimp-sliders.html",
+    "content": "Kay Chun\u2019s shrimp and tofu sliders.",
+    "date": "2026-08-20T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/20/movies/hot-spot-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Hot Spot\u2019 Review: A Baffling Dystopia",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/07/america-250-july-4-idea/687749/",
     "content": "Celebrating the ideals of the Declaration of Independence is hard if you don\u2019t believe in them.",
     "date": "2026-07-01T11:20:14",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a3158a8449eb5347818503c",
-    "feed_name": "Wired (Science)",
-    "title": "Drive Slower, Save Money on Gas. Thanks, Physics!",
-    "author": "Rhett Allain",
-    "link": "https://www.wired.com/story/drive-slower-save-money-on-gas-because-physics/",
-    "content": "Planning a Fourth of July getaway? Use less gas\u2014and cut your emissions\u2014by easing up on the pedal.",
-    "date": "2026-07-01T11:00:00",
     "category": "Magazines"
   }
 ]
