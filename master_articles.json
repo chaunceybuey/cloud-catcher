@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "D.E.A. Joins Investigation Into Hayden Panettiere\u2019s Death",
+    "author": "Alan Feuer, Derrick Bryson Taylor and Matt Stevens",
+    "link": "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html",
+    "content": "Hayden Panettiere was staying at an apartment complex in Greenville, S.C., when she went into cardiac arrest on Sunday. Emergency medical workers could not revive her.",
+    "date": "2026-08-20T01:27:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240366",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Parks and Wildlife commissioners inundated with border wall concerns during annual meeting",
+    "author": "By Sam Karas,\u00a0Big Bend Sentinel",
+    "link": "https://feeds.texastribune.org/link/16799/17423505/texas-state-parks-wildlife-department-meeting-border-wall-testimony-big-bend",
+    "content": "Dozens gather in opposition of border infrastructure projects in the Big Bend region before the Texas Parks and Wildlife Commission&#039;s public meeting in Austin on Aug. 18, 2026.",
+    "date": "2026-08-19T23:35:40",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html",
     "feed_name": "NYT (Arts)",
     "title": "What to Know About Hayden Panettiere\u2019s Death",
@@ -19978,25 +19998,5 @@
     "content": "Recent drone attacks in the Moscow area reveal a multifaceted strategy.",
     "date": "2026-06-30T18:39:02",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234712",
-    "feed_name": "Texas Tribune",
-    "title": "Catholic bishop seeks information on \u201cwildly disturbing\u201d ICE arrest of nun walking to South Texas church",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17370508/texas-mcallen-nun-ice-detention-sister-letty",
-    "content": "Sister Leticia \u201cLetty\u201d Ugboaja was detained by U.S. Immigration and Customs Enforcement officials in McAllen.",
-    "date": "2026-06-30T18:27:21",
-    "category": "Texas"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/salsa-easy-summer-cooking",
-    "feed_name": "NYT (Food)",
-    "title": "This Salsa Makes Summer Cooking Easy",
-    "author": "Kristina Felix",
-    "link": "https://cooking.nytimes.com/article/salsa-easy-summer-cooking",
-    "content": "A spicy, peanutty, sour, sometimes-sweet sauce, salsa macha enhances anything it tops with its signature crunch.",
-    "date": "2026-06-30T18:07:36",
-    "category": "NYT"
   }
 ]
