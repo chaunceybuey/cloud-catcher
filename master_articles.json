@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/20/arts/dance/ted-striggles-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ted Striggles, Who Helped His Fellow Dancers as a Lawyer, Dies at 84",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/08/20/arts/dance/ted-striggles-dead.html",
+    "content": "He was best known for the influential 1976 guide \u201cPoor Dancer\u2019s Almanac,\u201d which aimed to help starving artists survive in New York.",
+    "date": "2026-08-20T15:54:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/20/arts/music/ileana-cotrubas-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ileana Cotrubas, Sensitive Soprano Known for \u2018Traviata,\u2019 Dies at 87",
+    "author": "Vivien Schweitzer",
+    "link": "https://www.nytimes.com/2026/08/20/arts/music/ileana-cotrubas-dead.html",
+    "content": "Ileana Cotrubas in the mid-1960s. A critic wrote that she had the ability \u201cto make the audience\u2019s heart beat just that much faster as soon as she appears onstage.\u201d",
+    "date": "2026-08-20T15:50:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/20/dining/going-big-on-shrimp-sliders.html",
     "feed_name": "NYT (Food)",
     "title": "Going Big on Shrimp Sliders",
@@ -19978,25 +19998,5 @@
     "content": "Victor Willis performing with the Village People in Chicago in 1979.",
     "date": "2026-07-01T11:44:51",
     "category": "NYT"
-  },
-  {
-    "id": "e581f7ec5a907b9e8d4ee576a8da80bf",
-    "feed_name": "The Atlantic",
-    "title": "The Young Republicans Who Think Trump Hasn\u2019t Gone Far Enough",
-    "author": "Charlie Sabgir",
-    "link": "https://www.theatlantic.com/ideas/2026/07/young-republicans-trump-iran/687746/",
-    "content": "Activists at colleges across the country are turning against the president and pushing for a far more radical GOP.",
-    "date": "2026-07-01T11:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "79d5f2dfa733e2f25f99d4db6723efa6",
-    "feed_name": "The Atlantic",
-    "title": "Trump and Vance Ruined the Fourth of July",
-    "author": "Anne Applebaum",
-    "link": "https://www.theatlantic.com/ideas/2026/07/america-250-july-4-idea/687749/",
-    "content": "Celebrating the ideals of the Declaration of Independence is hard if you don\u2019t believe in them.",
-    "date": "2026-07-01T11:20:14",
-    "category": "Magazines"
   }
 ]
