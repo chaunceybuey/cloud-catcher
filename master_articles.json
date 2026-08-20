@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/20/movies/hot-spot-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Hot Spot\u2019 Review: A Baffling Dystopia",
+    "author": "Natalia Winkelman",
+    "link": "https://www.nytimes.com/2026/08/20/movies/hot-spot-review.html",
+    "content": "In this Polish feature, an artificial intelligence system rules over a downtrodden population. Trouble arrives, in the form of Rana (Noomi Rapace).",
+    "date": "2026-08-20T14:23:28",
+    "category": "NYT"
+  },
+  {
     "id": "eb288465f73c79af62a4487582edb7ec",
     "feed_name": "Compact",
     "title": "This New Deal Masterpiece Must Be Saved",
@@ -19988,15 +19998,5 @@
     "content": "Planning a Fourth of July getaway? Use less gas\u2014and cut your emissions\u2014by easing up on the pedal.",
     "date": "2026-07-01T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234829",
-    "feed_name": "Texas Tribune",
-    "title": "Supreme Court decision loosening campaign finance rules could be boon for Paxton in Senate race",
-    "author": "Kayla Guo and Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17370833/texas-senate-ken-paxton-us-supreme-court-campaign-finance-ruling-coordinate-spending",
-    "content": "Ken Paxton, the Texas attorney general and GOP nominee for U.S. Senate, speaks to delegates and attendees at the 2026 Texas Republican Convention in Houston on June 12, 2026.",
-    "date": "2026-07-01T10:00:00",
-    "category": "Texas"
   }
 ]
