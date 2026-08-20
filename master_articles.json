@@ -170,6 +170,36 @@
     "category": "Texas"
   },
   {
+    "id": "6a4be3a7b0c984e61e0cd0fc",
+    "feed_name": "Wired",
+    "title": "How Teen \u2018After-Prom\u2019 Kings in LA Monetized the High School Rager",
+    "author": "Manisha Krishnan",
+    "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+    "content": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
+    "date": "2026-08-20T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "1c8984ce-4ef1-4f65-8d43-de88a2b67210",
+    "feed_name": "Economist",
+    "title": "The high cost of phantom tollbooths",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths",
+    "content": "Freedom of navigation is worth preserving",
+    "date": "2026-08-20T09:21:32",
+    "category": "Magazines"
+  },
+  {
+    "id": "2d2d892d-331f-4db1-933e-3ae07d585f00",
+    "feed_name": "Economist",
+    "title": "However you measure it, China\u2019s job market is weak",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+    "content": "Some workers are going back to the farm",
+    "date": "2026-08-20T09:21:25",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/20/theater/music-city-jt-harding-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "J.T. Harding on Crafting the Hits of Broadway\u2019s \u2018Music City\u2019",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/01/obituaries/victor-willis-village-people-dead.html",
     "content": "Victor Willis, dressed performing with the Village People in Chicago in 1979.",
     "date": "2026-07-01T09:10:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/arts/slate-culture-gabfest-podcast.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Slate\u2019s \u2018Culture Gabfest\u2019 Signs Off After 18 Years",
-    "author": "Reggie Ugwu",
-    "link": "https://www.nytimes.com/2026/07/01/arts/slate-culture-gabfest-podcast.html",
-    "content": "From left, Julia Turner, Dana Stevens and Stephen Metcalf, hosts of \u201cCulture Gabfest,\u201d the Slate podcast that ends its 18-year run on Wednesday.",
-    "date": "2026-07-01T09:03:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/arts/television/lexi-minetree-elle-legally-blonde.html",
-    "feed_name": "NYT (Arts)",
-    "title": "She Grew Up Loving \u2018Legally Blonde.\u2019 Now She\u2019s Elle Woods.",
-    "author": "Melena Ryzik",
-    "link": "https://www.nytimes.com/2026/07/01/arts/television/lexi-minetree-elle-legally-blonde.html",
-    "content": "Lexi Minetree beat out 5,000 other actors to play the teenage heroine of \u201cElle,\u201d a prequel series. She shares many qualities with her can-do character.",
-    "date": "2026-07-01T09:02:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/theater/best-theater-moments-2026-so-far.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The 10 Most Mind-Altering Theater Moments of 2026 (So Far)",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/07/01/theater/best-theater-moments-2026-so-far.html",
-    "content": "Christopher Abbott, center, with Nathan Lane and Laurie Metcalf, in \u201cDeath of a Salesman\u201d at the Winter Garden Theater in Manhattan.",
-    "date": "2026-07-01T09:02:13",
     "category": "NYT"
   }
 ]
