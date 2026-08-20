@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=240393",
+    "feed_name": "Texas Tribune",
+    "title": "Residents and industry leaders at odds over transmission lines at legislative hearing",
+    "author": "By Paul Cobler\u00a0and\u00a0Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17423549/texas-house-meeting-data-centers-transmission-lines-backlash",
+    "content": "People gather on the steps of the Texas Capitol to demand a special session to regulate data center growth and to protest 765 kV transmission line construction before a House Committee on State Affairs hearing on Aug. 19, 2026.",
+    "date": "2026-08-20T01:24:09",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240366",
     "feed_name": "Texas Tribune",
     "title": "Texas Parks and Wildlife commissioners inundated with border wall concerns during annual meeting",
@@ -19988,15 +19998,5 @@
     "content": "Bo French, Republican nominee for Texas Railroad Commissioner, speaks at the second general assembly of the 2026 Texas State Republican Convention in Houston while standing for the Pledge of Allegiance and the Texas state pledge on June 12, 2026.",
     "date": "2026-06-30T19:00:58",
     "category": "Texas"
-  },
-  {
-    "id": "a3cff3bdc04ce04922132a4f1f461cab",
-    "feed_name": "The Atlantic",
-    "title": "Ukraine\u2019s Plan to Unnerve Putin",
-    "author": "Phillips Payson O\u2019Brien",
-    "link": "https://www.theatlantic.com/ideas/2026/06/moscow-ukraine-drone-attacks/687745/",
-    "content": "Recent drone attacks in the Moscow area reveal a multifaceted strategy.",
-    "date": "2026-06-30T18:39:02",
-    "category": "Magazines"
   }
 ]
