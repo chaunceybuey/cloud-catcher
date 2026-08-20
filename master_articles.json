@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/20/dining/recipe-matchmaker-grab-bag-edition.html",
+    "feed_name": "NYT (Food)",
+    "title": "Recipe Matchmaker: Grab-Bag Edition",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/08/20/dining/recipe-matchmaker-grab-bag-edition.html",
+    "content": "Melissa Clark\u2019s cabbage Caesar salad.",
+    "date": "2026-08-20T17:15:04",
+    "category": "NYT"
+  },
+  {
     "id": "0111a8ec0d3e4a1503b8610d01641e75",
     "feed_name": "LRB",
     "title": "Deported for Leaving the Country",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-07-01T12:34:49",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/arts/music/eurovision-song-contest-canada.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Canada Will Compete in Eurovision Song Contest",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/07/01/arts/music/eurovision-song-contest-canada.html",
-    "content": "The Eurovision Song Contest final in Vienna this May.",
-    "date": "2026-07-01T12:10:10",
-    "category": "NYT"
   }
 ]
