@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/20/dining/filipino-bakeries-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "For Filipino Pastries That Go Beyond Ube, Head to Queens",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/08/20/dining/filipino-bakeries-nyc.html",
+    "content": "Arellano Pandesal turns Filipino breads into maximalist pastries with pandan cream, coconut jelly and cheese.",
+    "date": "2026-08-20T19:50:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8837657#p8837657",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n12/owen-hatherley/raised-on-spam",
     "content": "Taking\u200b British Communist art seriously means, to a degree at least, taking British Communism seriously. This is difficult to do when looking at Viscount Hastings\u2019s mural from 1935,The Worker of the Future Clearing Away the Chaos of Capitalism, in what is now the Marx Memorial Library in Clerkenwell. The library is a 1960s reconstruction of an 18th-century school, which by the early...",
-    "date": "2026-07-01T12:34:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "905d1b2098d57bc89df82c76f9fb10d5",
-    "feed_name": "LRB",
-    "title": "Jacobite Plotting",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n12/colin-kidd/realm-of-coyness",
-    "content": "The\u200b defining characteristics of our political system \u2013 a parliamentary monarchy in a union-state \u2013 emerged in the course of two fraught decades at the turn of the 18th century, between the so-called Glorious Revolution of 1688 and the Treaty of Union between England and Scotland in 1707. The revolution of 1688 was glorious largely because \u2013 unlike the earlier revolution in...",
     "date": "2026-07-01T12:34:53",
     "category": "Magazines"
   }
