@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/20/arts/television/jimmy-fallon-trump-kim-jong-un.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Fallon Teases Trump\u2019s Efforts to Rekindle North Korea Bromance",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/08/20/arts/television/jimmy-fallon-trump-kim-jong-un.html",
+    "content": "\u201cMan, you know you\u2019re depressed when you\u2019re texting an old hookup from seven years ago,\u201d Fallon said of the president and North Korea\u2019s leader, Kim Jong-un.",
+    "date": "2026-08-20T06:05:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html",
     "feed_name": "NYT (Arts)",
     "title": "D.E.A. Joins Investigation Into Hayden Panettiere\u2019s Death",
@@ -19988,15 +19998,5 @@
     "content": "Humphrey\u2019s Executordeserved better.",
     "date": "2026-06-30T19:03:51",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234723",
-    "feed_name": "Texas Tribune",
-    "title": "Bo French said Texas shouldn\u2019t recognize babies born to undocumented parents as American citizens",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17370507/bo-french-decries-birthright-citizenship-ruling",
-    "content": "Bo French, Republican nominee for Texas Railroad Commissioner, speaks at the second general assembly of the 2026 Texas State Republican Convention in Houston while standing for the Pledge of Allegiance and the Texas state pledge on June 12, 2026.",
-    "date": "2026-06-30T19:00:58",
-    "category": "Texas"
   }
 ]
