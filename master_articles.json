@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/21/arts/television/rosie-odonnell-jimmy-kimmel-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Rosie O\u2019Donnell Ends Late Night Stint With a Ditty to \u2018Donny Boy\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/08/21/arts/television/rosie-odonnell-jimmy-kimmel-trump.html",
+    "content": "\u201cIt\u2019s kind of weird to think he spent more nights with me this week than Melania,\u201d O\u2019Donnell said of President Trump on her last night guest-hosting \u201cJimmy Kimmel Live.\u201d",
+    "date": "2026-08-21T05:44:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8838004#p8838004",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "nalor511",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8838004#p8838004",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>what's the most I can EFT pull into my fidelity brokerage account with a account balance of $200k and invest the money same day?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I believe the general rule is, regardless of how much you pull in and your assets on hand, they will allow you to invest a maximum of $25,000 until the remaining funds settle.  Anything above $25,000 will remain in your core (SPAXX or whatever) and earn interest at whatever the current rate is, even if they are not settled.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>You can call to trade 100% of uncollected funds. Or turn on margin<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=100917\">nalor511</a> \u2014 Fri Aug 21, 2026 12:25 am</p><hr />",
+    "date": "2026-08-21T05:25:00",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8837943#p8837943",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n12",
     "content": "",
-    "date": "2026-07-01T12:34:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "b04fc55aa55c6260d60ae5532af33735",
-    "feed_name": "LRB",
-    "title": "Sarkozy\u2019s Prison Diary",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n12/jeremy-harding/does-he-still-jog",
-    "content": "Last September\u200b Nicolas Sarkozy was found guilty of criminal conspiracy. He went through the gates of La Sant\u00e9 prison in Paris a few weeks later. The judge found that in 2005 he had approved an agreement between his political aides and the Gaddafi regime for massive cash transfers from Libya into his campaign coffers for his crack at the presidency in 2007. Seven other people were...",
-    "date": "2026-07-01T12:34:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "e5bf3c39211881f33cc61cd290c099df",
-    "feed_name": "LRB",
-    "title": "Stealing from the SNP",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n12/dani-garavelli/short-cuts",
-    "content": "In early\u200b 2021, when the SNP\u2019s chief executive Peter Murrell was being questioned via Zoom by a Holyrood inquiry into the Scottish government\u2019s handling of harassment allegations against Alex Salmond, others on the call noticed that he kept looking off to the left. When asked why, he claimed he was being distracted by magpies. It was an odd and brazen thing to say, because he...",
     "date": "2026-07-01T12:34:53",
     "category": "Magazines"
   }
