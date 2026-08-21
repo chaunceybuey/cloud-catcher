@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/21/arts/music/machel-montano-soca-brooklyn-public-library.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Machel Montano, Soca Sovereign, Takes Over Brooklyn Public Library",
+    "author": "Patricia Meschino",
+    "link": "https://www.nytimes.com/2026/08/21/arts/music/machel-montano-soca-brooklyn-public-library.html",
+    "content": "\u201cJourney of a Soca King\u201d opens Saturday and runs to Sept. 12.",
+    "date": "2026-08-21T16:10:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/make-ahead-serve-cold-summer-dinner-ideas",
     "feed_name": "NYT (Food)",
     "title": "Make Ahead, Serve Cold: The Ultimate Dinner Menu for a Sweltering Summer",
@@ -19988,15 +19998,5 @@
     "content": "President-elect Donald J. Trump danced to \u201cY.M.C.A.\u201d along with the Village People during a pre-inauguration event in January last year.",
     "date": "2026-07-02T00:30:34",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234934",
-    "feed_name": "Texas Tribune",
-    "title": "Acting Texas Comptroller Kelly Hancock to resign at end of month",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17371328/texas-comptroller-kelly-hancock-resigns-greg-abbott-don-huffines",
-    "content": "Acting Texas Comptroller Kelly Hancock answers a question during a Republican candidate forum at the Civic Center in Canton on Jan. 17, 2026.",
-    "date": "2026-07-01T21:44:45",
-    "category": "Texas"
   }
 ]
