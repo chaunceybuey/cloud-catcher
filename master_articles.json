@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/21/movies/spa-weekend-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Spa Weekend\u2019 Review: Girls Gone Wellness",
+    "author": "Glenn Kenny",
+    "link": "https://www.nytimes.com/2026/08/21/movies/spa-weekend-review.html",
+    "content": "Leslie Mann leads a quartet of gal pals looking for rest, relaxation and sensual massages in this raucous comedy.",
+    "date": "2026-08-21T14:35:10",
+    "category": "NYT"
+  },
+  {
     "id": "1e82ac4af336fca11517be5acfe0e88c",
     "feed_name": "Compact",
     "title": "Why Women Thrill to True Crime",
@@ -19988,15 +19998,5 @@
     "content": "A grass-roots campaign urged readers to buy copies of the Black feminist writer\u2019s 2002 book \u201cCommunion\u201d before Vice President JD Vance\u2019s book of the same name hit shelves.",
     "date": "2026-07-01T19:03:00",
     "category": "NYT"
-  },
-  {
-    "id": "f99605c420deca34309e01d1e7abbe6f",
-    "feed_name": "The Atlantic",
-    "title": "The Supreme Court\u2019s Utterly Mainstream Ruling on Women\u2019s Sports",
-    "author": "Helen Lewis",
-    "link": "https://www.theatlantic.com/ideas/2026/07/supreme-court-trans-student-athletes-womens-sports/687767/",
-    "content": "The justices position themselves at the center of American public opinion.",
-    "date": "2026-07-01T18:18:04",
-    "category": "Magazines"
   }
 ]
