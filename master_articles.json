@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "f07608a57e55473b0ff28da2ef460fa7",
+    "feed_name": "The Atlantic",
+    "title": "Liberal Families Are Looking Pretty Traditional",
+    "author": "Joshua Sohn",
+    "link": "https://www.theatlantic.com/ideas/2026/08/democrat-liberal-conservative-traditional-family/688369/",
+    "content": "What I see in my deep-blue D.C. neighborhood undermines the simplistic culture-war narrative.",
+    "date": "2026-08-21T14:37:11",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/21/movies/spa-weekend-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Spa Weekend\u2019 Review: Girls Gone Wellness",
@@ -19988,15 +19998,5 @@
     "content": "Acting Texas Comptroller Kelly Hancock answers a question during a Republican candidate forum at the Civic Center in Canton on Jan. 17, 2026.",
     "date": "2026-07-01T21:44:45",
     "category": "Texas"
-  },
-  {
-    "id": "6a4578b4ce1dea785172aaba",
-    "feed_name": "Wired (Science)",
-    "title": "Mexico\u2019s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
-    "author": "Fernanda Gonz\u00e1lez",
-    "link": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
-    "content": "Fans\u2019 euphoric reactions to the Mexican national team\u2019s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
-    "date": "2026-07-01T21:34:03",
-    "category": "Magazines"
   }
 ]
