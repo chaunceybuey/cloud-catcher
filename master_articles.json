@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/21/obituaries/patricia-douglas-overlooked.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Overlooked No More: Patricia Douglas, Who Challenged Hollywood\u2019s Culture of Abuse",
+    "author": "Nina Siegal",
+    "link": "https://www.nytimes.com/2026/08/21/obituaries/patricia-douglas-overlooked.html",
+    "content": "Eight decades before the #MeToo groundswell, she took MGM to court after alleging she was attacked at a studio party in 1937.",
+    "date": "2026-08-21T21:18:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22062-the-paramount-theatre-whiplash",
     "feed_name": "KMFA",
     "title": "The Paramount Theatre: Whiplash",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/02/arts/trump-castle-plans-philip-johnson.html",
     "content": "And 40 years ago, a little discussed harbinger of that taste \u2013 \u201cTrump Castle.\u201d",
     "date": "2026-07-02T09:00:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/arts/music/taylor-swift-wedding-fans-swifties.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Swifties Delight in Taylor\u2019s Wedding Day",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/07/02/arts/music/taylor-swift-wedding-fans-swifties.html",
-    "content": "Fan reactions like this one in Buenos Aires were common throughout Taylor Swift\u2019s Eras Tour.",
-    "date": "2026-07-02T09:00:27",
     "category": "NYT"
   }
 ]
