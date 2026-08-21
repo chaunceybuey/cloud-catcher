@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a833389effc1720d3a37a66",
+    "feed_name": "Wired (Science)",
+    "title": "The Super El Ni\u00f1o Won\u2019t Fix the West\u2019s Water Crisis",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/",
+    "content": "\u201cPeople have talked about the Colorado River crisis for decades\u2014we\u2019re now in it,\u201d says one expert. \u201cEveryone you talk to is like, \u2018Shit, man.\u2019\u201d",
+    "date": "2026-08-21T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "ce8beb461a56ea13e29d909850561e98",
+    "feed_name": "LRB",
+    "title": "On Politics: The Andy Burnham Show",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-andy-burnham-show",
+    "content": "Andy Burnham will soon become the UK\u2019s seventh prime minister since 2010 and will face many of the same problems that defeated his predecessors, not least the UK\u2019s stubbornly weak economy. To dissect the collapse of the Starmer project and the prospects for a Burnham administration, James is joined by Patrick Maguire, chief political commentator for theTimes, and William Davies, a...",
+    "date": "2026-08-21T09:37:48",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/21/movies/new-movies-this-week-critics.html",
     "feed_name": "NYT (Arts)",
     "title": "8 New Movies Our Critics Are Talking About This Week",
@@ -19978,25 +19998,5 @@
     "content": "Penalty kicks are already proving critical to big wins at this year\u2019s World Cup. But the advantage in penalty kicks has more to do with psychological effects than who kicks first.",
     "date": "2026-07-01T16:28:25",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/25/opinion/gender-sexual-revolution-men-women.html",
-    "feed_name": "Interesting Times",
-    "title": "Is It Time for a New Sexual Revolution?",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/06/25/opinion/gender-sexual-revolution-men-women.html",
-    "content": "One that actually brings men and women together.",
-    "date": "2026-07-01T15:48:08",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/arts/music/tay-keith-songs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "8 Essential Songs Produced by Tay Keith",
-    "author": "Brian Josephs",
-    "link": "https://www.nytimes.com/2026/07/01/arts/music/tay-keith-songs.html",
-    "content": "Tay Keith produced four No. 1 hits before his death.",
-    "date": "2026-07-01T15:45:58",
-    "category": "NYT"
   }
 ]
