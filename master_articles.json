@@ -170,6 +170,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/make-ahead-serve-cold-summer-dinner-ideas",
+    "feed_name": "NYT (Food)",
+    "title": "Make Ahead, Serve Cold: The Ultimate Dinner Menu for a Sweltering Summer",
+    "author": "David Tanis",
+    "link": "https://cooking.nytimes.com/article/make-ahead-serve-cold-summer-dinner-ideas",
+    "content": "Shrimp cocktail, tomato-potato salad and deviled eggs, all served with a chill, are a cooling antidote to sweltering evenings.",
+    "date": "2026-08-21T15:01:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/21/dining/our-classic-marinara-sauce-with-five-stars-and-over-12000-reviews.html",
+    "feed_name": "NYT (Food)",
+    "title": "Our Classic Marinara Sauce With Five Stars and Over 12,000 Reviews",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/08/21/dining/our-classic-marinara-sauce-with-five-stars-and-over-12000-reviews.html",
+    "content": "Lidia Bastianich\u2019s classic marinara sauce, adapted by Julia Moskin.",
+    "date": "2026-08-21T15:00:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/21/movies/international-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five International Movies to Stream Now",
+    "author": "Devika Girish",
+    "link": "https://www.nytimes.com/2026/08/21/movies/international-movies-streaming.html",
+    "content": "Shirley Cruz as Gal, pulling a hand-truck with her kids, in \u201cThe Best Mother in the World.\u201d",
+    "date": "2026-08-21T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/21/arts/design/smithsonian-museum-american-latino-building.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Smithsonian\u2019s New Latino Museum May Receive an Existing Building",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/08/21/arts/design/smithsonian-museum-american-latino-building.html",
+    "content": "The Smithsonian board will vote this month whether to give its Arts and Industries Building to the National Museum of the American Latino.",
+    "date": "2026-08-21T14:46:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/21/movies/spa-weekend-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Spa Weekend\u2019 Review: Girls Gone Wellness",
@@ -19958,45 +19998,5 @@
     "content": "Fans\u2019 euphoric reactions to the Mexican national team\u2019s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
     "date": "2026-07-01T21:34:03",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/briefing/the-good-list-ram-dass-handwriting.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Good List: 7 Things to Add Joy to Your Day",
-    "author": "Melissa Kirsch",
-    "link": "https://www.nytimes.com/2026/07/01/briefing/the-good-list-ram-dass-handwriting.html",
-    "content": "Old menus, vivid lightning and Richard Grant sniffing things.",
-    "date": "2026-07-01T19:45:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234878",
-    "feed_name": "Texas Tribune",
-    "title": "Texas leads nation in proposed power plants for data centers, which would emit large amounts of greenhouse gases",
-    "author": "By Alejandra Martinez, graphics by Hien An Ngo",
-    "link": "https://feeds.texastribune.org/link/16799/17371237/texas-data-center-power-plans-emissions",
-    "content": "Construction at a  data center site in Milam County on May 4, 2026.",
-    "date": "2026-07-01T19:14:31",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/arts/music/chris-brown-dog-mauling-verdict.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Chris Brown\u2019s Former Housekeeper Awarded $13 Million in Dog Mauling",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/07/01/arts/music/chris-brown-dog-mauling-verdict.html",
-    "content": "The singer Chris Brown at the Grammy Awards in Los Angeles in February.",
-    "date": "2026-07-01T19:03:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/01/books/communion-bell-hooks-jd-vance.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How JD Vance Helped bell hooks Back Onto the Best-Seller List",
-    "author": "Alexandra Alter",
-    "link": "https://www.nytimes.com/2026/07/01/books/communion-bell-hooks-jd-vance.html",
-    "content": "A grass-roots campaign urged readers to buy copies of the Black feminist writer\u2019s 2002 book \u201cCommunion\u201d before Vice President JD Vance\u2019s book of the same name hit shelves.",
-    "date": "2026-07-01T19:03:00",
-    "category": "NYT"
   }
 ]
