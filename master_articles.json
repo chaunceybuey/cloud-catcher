@@ -240,6 +240,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/21/arts/design/us-open-poster-eugenia-mello.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Can She Translate a Big New York Sports Moment Into a Poster?",
+    "author": "Leila Sheridan",
+    "link": "https://www.nytimes.com/2026/08/21/arts/design/us-open-poster-eugenia-mello.html",
+    "content": "Eugenia Mello, the artist behind the poster for this year\u2019s U.S. Open.",
+    "date": "2026-08-21T09:01:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/21/arts/design/can-she-translate-a-big-new-york-sports-moment-into-a-poster.html",
     "feed_name": "NYT (Arts)",
     "title": "Can She Translate a Big New York Sports Moment Into a Poster?",
@@ -19988,15 +19998,5 @@
     "content": "Tay Keith produced four No. 1 hits before his death.",
     "date": "2026-07-01T15:45:58",
     "category": "NYT"
-  },
-  {
-    "id": "ce8beb461a56ea13e29d909850561e98",
-    "feed_name": "LRB",
-    "title": "On Politics: The Andy Burnham Show",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-andy-burnham-show",
-    "content": "Andy Burnham will soon become the UK\u2019s seventh prime minister since 2010 and will face many of the same problems that defeated his predecessors, not least the UK\u2019s stubbornly weak economy. To dissect the collapse of the Starmer project and the prospects for a Burnham administration, James is joined by Patrick Maguire, chief political commentator for theTimes, and William Davies, a...",
-    "date": "2026-07-01T15:43:31",
-    "category": "Magazines"
   }
 ]
