@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/22/dining/grand-slam-desserts-the-main-draw.html",
+    "feed_name": "NYT (Food)",
+    "title": "Grand Slam Desserts: The Main Draw",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/08/22/dining/grand-slam-desserts-the-main-draw.html",
+    "content": "Eric Kim\u2019s no-bake melon cheesecake bars.",
+    "date": "2026-08-22T14:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22029-the-story-emporium-bookshop-regency-day-at-the-bookshop",
     "feed_name": "KMFA",
     "title": "The Story Emporium &amp; Bookshop: Regency Day at the Bookshop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/02/arts/design/new-york-public-library-250.html",
     "content": "Robert Longo\u2019s \u201cUntitled (Falling Flag),\u201d sits behind a contemporary rewriting of the Declaration of Independence by Mindy Beloff.",
     "date": "2026-07-02T09:02:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/movies/lockbox-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Lockbox\u2019 Review: A Demonic Combination",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/07/02/movies/lockbox-review.html",
-    "content": "This silly supernatural thriller about a fiendish shape shifter leaves coherence and clarity behind.",
-    "date": "2026-07-02T09:01:45",
     "category": "NYT"
   }
 ]
