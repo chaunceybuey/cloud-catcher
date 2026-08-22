@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "66ef04fb0347a87e6bc2eb722c0da9d4",
+    "feed_name": "The Atlantic",
+    "title": "How to Lose a Trade War",
+    "author": "David Frum",
+    "link": "https://www.theatlantic.com/ideas/2026/08/why-us-canada-trade-talks-fell-apart/688386/",
+    "content": "Trump\u2019s bullying of Canada is failing.",
+    "date": "2026-08-22T15:25:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/22/dining/a-skillet-dinner-that-hits-all-the-right-summer-notes.html",
     "feed_name": "NYT (Food)",
     "title": "A Skillet Dinner That Hits All the Right Summer Notes",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/02/arts/design/jewish-museums-europe.html",
     "content": "Museum directors say they are facing a frustrating misconception: that cultural institutions funded by local taxpayers are somehow associated with Israel.",
     "date": "2026-07-02T09:02:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/insider/taylor-swift-wedding.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How, and Why, We\u2019re Covering Taylor Swift\u2019s (Maybe) Wedding",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/2026/07/02/insider/taylor-swift-wedding.html",
-    "content": "\u201cAmerica doesn\u2019t have royal weddings,\u201d said Emma Fitzsimmons, a New York Times reporter who is covering the expected nuptials of Travis Kelce and Taylor Swift. \u201cBut this is probably the closest thing.\u201d",
-    "date": "2026-07-02T09:02:07",
     "category": "NYT"
   }
 ]
