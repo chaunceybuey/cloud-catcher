@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "b3b6080e7c20f985321bea7e057388ad",
+    "feed_name": "The Atlantic",
+    "title": "Donald Trump Is a \u2018Theater Kid\u2019",
+    "author": "Erik Forrest Jackson",
+    "link": "https://www.theatlantic.com/ideas/2026/08/broadway-theater-kid-insult-trump/688361/",
+    "content": "The problem with a popular new insult on the right is that it also describes the president.",
+    "date": "2026-08-22T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/22/arts/music/tupac-shakur-murder-trial-takeaways.html",
     "feed_name": "NYT (Arts)",
     "title": "Tupac Shakur Murder Trial: 5 Takeaways From Week 1",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/02/movies/lockbox-review.html",
     "content": "This silly supernatural thriller about a fiendish shape shifter leaves coherence and clarity behind.",
     "date": "2026-07-02T09:01:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/movies/young-washington-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Young Washington\u2019 Review: Not the Campaigns You Had in Mind",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/07/02/movies/young-washington-review.html",
-    "content": "Before the presidency. Before Yorktown. There was \u2026 George, the land surveyor.",
-    "date": "2026-07-02T09:01:36",
     "category": "NYT"
   }
 ]
