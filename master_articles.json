@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/22/dining/a-skillet-dinner-that-hits-all-the-right-summer-notes.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Skillet Dinner That Hits All the Right Summer Notes",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/22/dining/a-skillet-dinner-that-hits-all-the-right-summer-notes.html",
+    "content": "Yewande Komolafe\u2019s skillet chicken with peppers and tomatoes.",
+    "date": "2026-08-22T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/22/dining/grand-slam-desserts-the-main-draw.html",
     "feed_name": "NYT (Food)",
     "title": "Grand Slam Desserts: The Main Draw",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/02/insider/taylor-swift-wedding.html",
     "content": "\u201cAmerica doesn\u2019t have royal weddings,\u201d said Emma Fitzsimmons, a New York Times reporter who is covering the expected nuptials of Travis Kelce and Taylor Swift. \u201cBut this is probably the closest thing.\u201d",
     "date": "2026-07-02T09:02:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/arts/design/new-york-public-library-250.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Potent Art Lets \u2018We, the People\u2019 Reflect on America\u2019s Past and Present",
-    "author": "Blake Gopnik",
-    "link": "https://www.nytimes.com/2026/07/02/arts/design/new-york-public-library-250.html",
-    "content": "Robert Longo\u2019s \u201cUntitled (Falling Flag),\u201d sits behind a contemporary rewriting of the Declaration of Independence by Mindy Beloff.",
-    "date": "2026-07-02T09:02:06",
     "category": "NYT"
   }
 ]
