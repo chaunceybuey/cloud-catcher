@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "9a784d6f96f9c571fe14578d1bb7416c",
+    "feed_name": "The Atlantic",
+    "title": "An American City, With Troops on Its Streets",
+    "author": "Quinta Jurecic",
+    "link": "https://www.theatlantic.com/ideas/2026/08/a-year-of-troops-in-washington/688317/",
+    "content": "Since the country\u2019s founding, deployments of soldiers to U.S. soil have been exceedingly rare. But residents of Washington, D.C., are living in a new normal.",
+    "date": "2026-08-23T11:52:11",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8839511#p8839511",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "When Hannah Arendt suggested that democracy consists, in part, in how we talk with one another, I\u2019m guessing she was thinking of her friendship with Randall Jarrell.\n\nDelivered by PolitePaul service",
     "date": "2026-07-02T10:18:55",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234896",
-    "feed_name": "Texas Tribune",
-    "title": "River authority\u2019s budget woes are another blow to water-needy Corpus Christi",
-    "author": "By\u00a0Rachel Denny Clow, KRIS 6 News",
-    "link": "https://feeds.texastribune.org/link/16799/17371545/texas-corpus-christi-water-crisis-nueces-river-authority",
-    "content": "The Nueces River at sunset on Oct. 20, 2025.",
-    "date": "2026-07-02T10:00:00",
-    "category": "Texas"
   }
 ]
