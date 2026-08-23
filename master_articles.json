@@ -140,6 +140,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/23/arts/television/sean-duffy-great-american-road-trip.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sean Duffy\u2019s Reality Show: From \u2018The Real World\u2019 to the Deal World",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/08/23/arts/television/sean-duffy-great-american-road-trip.html",
+    "content": "\u201cThe Great American Road Trip\u201d sends the transportation secretary and his family on a wholesome, dull tour, with a lot of help from their sponsors.",
+    "date": "2026-08-23T09:02:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/23/arts/music/jeff-conolly-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jeff Conolly, Manic Garage-Rock Frontman, Dies at 69",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/08/23/arts/music/jeff-conolly-dead.html",
+    "content": "Known as Monoman for his love of vintage LPs, he kept the punkish torch burning by leading Lyres, a Boston group that became an institution.",
+    "date": "2026-08-23T09:00:51",
+    "category": "NYT"
+  },
+  {
+    "id": "6a8871205460fa5f837c51a7",
+    "feed_name": "Wired (Science)",
+    "title": "Is Expensive Bottled Water Actually Better for You?",
+    "author": "Megan Tomos",
+    "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+    "content": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+    "date": "2026-08-23T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240644",
     "feed_name": "Texas Tribune",
     "title": "In Laredo, Jon Rosenthal makes his first public pitch for a seat on Texas Railroad Commission",
@@ -19968,35 +19998,5 @@
     "content": "We calculate the rising price of Americans\u2019 summer staples",
     "date": "2026-07-02T09:41:44",
     "category": "Magazines"
-  },
-  {
-    "id": "ff9031ac-d1bb-4c9f-9011-1dc7675e2f18",
-    "feed_name": "Economist",
-    "title": "Are stablecoins money?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money",
-    "content": "Policymakers\u2019 job is to make them safe as well as useful",
-    "date": "2026-07-02T09:37:02",
-    "category": "Magazines"
-  },
-  {
-    "id": "1baeabd4-7041-4f62-913c-ddaa68e43d2d",
-    "feed_name": "Economist",
-    "title": "Unpacking Venezuela\u2019s peculiar debt restructuring",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/02/unpacking-venezuelas-peculiar-debt-restructuring",
-    "content": "Hazy numbers and the absence of the IMF make for an unusual negotiation",
-    "date": "2026-07-02T09:36:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/arts/is-there-life-out-here.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Is There Life Out Here?",
-    "author": "Max Lakin",
-    "link": "https://www.nytimes.com/2026/07/02/arts/is-there-life-out-here.html",
-    "content": "Doug Aitken\u2019s sprawling, elusive video installation asks a lot of questions about contemporary L.A. and its environs, and it\u2019s smart enough not to answer them.",
-    "date": "2026-07-02T09:03:27",
-    "category": "NYT"
   }
 ]
