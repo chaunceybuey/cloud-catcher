@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/23/dining/a-light-salmon-chowder-that-goes-heavy-on-summer.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Light Salmon Chowder That Goes Heavy on Summer",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/23/dining/a-light-salmon-chowder-that-goes-heavy-on-summer.html",
+    "content": "Melissa Clark\u2019s brothy corn and salmon chowder.",
+    "date": "2026-08-23T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "0224fd6d-646a-40af-9c6c-2d5356232e38",
     "feed_name": "Economist",
     "title": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/how-trump-helped-china-make-slate-americas-cheapest-ev/",
     "content": "Slate is the latest automaker to transition to lower-cost batteries perfected in China, driven in part by the repeal of EV tax credits that required materials to be sourced domestically.",
     "date": "2026-07-02T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/online/2026/06/24/safety-is-when-theres-no-one-dying-lebanon-children/",
-    "feed_name": "NYRB",
-    "title": "Safety Is When There\u2019s No One Dying",
-    "author": "",
-    "link": "https://www.nybooks.com/online/2026/06/24/safety-is-when-theres-no-one-dying-lebanon-children/",
-    "content": "Israel\u2019s assault on Palestine and Lebanon has reconfigured how children understand the world.\n\nDelivered by PolitePaul service",
-    "date": "2026-07-02T10:48:55",
     "category": "Magazines"
   }
 ]
