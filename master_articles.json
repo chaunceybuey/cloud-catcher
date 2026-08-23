@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/23/dining/five-new-recipes-im-very-excited-to-make.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Five New Recipes I\u2019m Very Excited to Make",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/23/dining/five-new-recipes-im-very-excited-to-make.html",
+    "content": "Golden tofu noodle bowl, tangy chicken couscous salad and chermoula beans are bound to be go-tos.",
+    "date": "2026-08-23T13:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "9a784d6f96f9c571fe14578d1bb7416c",
     "feed_name": "The Atlantic",
     "title": "An American City, With Troops on Its Streets",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/online/2026/06/23/an-eternal-indoors-backrooms/",
     "content": "The power of Kane Parsons\u2019s \u201cBackrooms\u201d series\u2014over twenty YouTube videos and now a feature film\u2014comes from the mix of longing and fear with which it views the pre-digital past.\n\nDelivered by PolitePaul service",
     "date": "2026-07-02T10:33:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/online/2026/06/20/variations-on-broken-eggs-arendt-jarrell/",
-    "feed_name": "NYRB",
-    "title": "Variations on Broken Eggs",
-    "author": "",
-    "link": "https://www.nybooks.com/online/2026/06/20/variations-on-broken-eggs-arendt-jarrell/",
-    "content": "When Hannah Arendt suggested that democracy consists, in part, in how we talk with one another, I\u2019m guessing she was thinking of her friendship with Randall Jarrell.\n\nDelivered by PolitePaul service",
-    "date": "2026-07-02T10:18:55",
     "category": "Magazines"
   }
 ]
