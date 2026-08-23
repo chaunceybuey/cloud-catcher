@@ -160,6 +160,16 @@
     "category": "Magazines"
   },
   {
+    "id": "ed5c3ddd9b87b25e5d84810f17757e91",
+    "feed_name": "The Atlantic",
+    "title": "The Hatred That Broke American Politics",
+    "author": "James Loeffler",
+    "link": "https://www.theatlantic.com/ideas/2026/08/charlottesville-antisemitism-race-legacy/688325/",
+    "content": "Race is the wound America sees. Anti-Semitism is the one it doesn\u2019t.",
+    "date": "2026-08-23T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/23/arts/television/sean-duffy-great-american-road-trip.html",
     "feed_name": "NYT (Arts)",
     "title": "Sean Duffy\u2019s Reality Show: From \u2018The Real World\u2019 to the Deal World",
@@ -19986,16 +19996,6 @@
     "author": "By\u00a0Rachel Denny Clow, KRIS 6 News",
     "link": "https://feeds.texastribune.org/link/16799/17371545/texas-corpus-christi-water-crisis-nueces-river-authority",
     "content": "The Nueces River at sunset on Oct. 20, 2025.",
-    "date": "2026-07-02T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234909",
-    "feed_name": "Texas Tribune",
-    "title": "Measles vaccination rate for Texas kindergarteners increased slightly after 2025 outbreak",
-    "author": "By Terri Langford, DATA ANALYSIS AND GRAPHICS BY\u00a0Dan Keemahill",
-    "link": "https://feeds.texastribune.org/link/16799/17371546/texas-child-school-vaccination-rates-dshs-exemptions",
-    "content": "Signs let people know that measles vaccines are available at the old City Hall in Andrews on March 6, 2025. Andrews is about halfway between Seminole in Gaines County, where the outbreak originated, and Odessa.",
     "date": "2026-07-02T10:00:00",
     "category": "Texas"
   }
