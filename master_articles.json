@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/24/dining/a-very-chill-chili-bean-salad.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Very Chill Chili Bean Salad",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/24/dining/a-very-chill-chili-bean-salad.html",
+    "content": "Hetty Lui McKinnon\u2019s no-cook chili bean salad.",
+    "date": "2026-08-24T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "38aa82667968625b00b4cd5d0c968185",
     "feed_name": "LRB",
     "title": "Unnatural Disasters",
@@ -19988,15 +19998,5 @@
     "content": "Robert Kimball in 1998 at the Cole Porter Foundation in Manhattan. He was an expert on Porter and other giants of American popular song.",
     "date": "2026-07-02T17:49:17",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=234998",
-    "feed_name": "Texas Tribune",
-    "title": "Gov. Abbott appoints Don Huffines to be Texas comptroller",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17371827/texas-comptroller-greg-abbott-appoints-don-huffines",
-    "content": "Don Huffines, Republican candidate for Texas comptroller and former state senator, at The Texas Tribune\u2019s Studio 919 in Austin on April 14, 2026. Huffines has been appointed by Gov. Greg Abbott to take over from departing acting Comptroller Kelly Hancock.",
-    "date": "2026-07-02T17:15:06",
-    "category": "Texas"
   }
 ]
