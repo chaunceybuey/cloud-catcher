@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/24/arts/television/shelley-fabares-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Shelley Fabares, \u2018Donna Reed Show\u2019 Actress, Dies at 82",
+    "author": "Victor Mather",
+    "link": "https://www.nytimes.com/2026/08/24/arts/television/shelley-fabares-dead.html",
+    "content": "Shelley Fabares in 2004.",
+    "date": "2026-08-24T16:28:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/24/dining/a-very-chill-chili-bean-salad.html",
     "feed_name": "NYT (Food)",
     "title": "A Very Chill Chili Bean Salad",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-07-02T18:26:12",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/theater/robert-kimball-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Robert Kimball, Who Helped Uncover a Trove of Broadway History, Dies at 86",
-    "author": "Barry Singer",
-    "link": "https://www.nytimes.com/2026/07/02/theater/robert-kimball-dead.html",
-    "content": "Robert Kimball in 1998 at the Cole Porter Foundation in Manhattan. He was an expert on Porter and other giants of American popular song.",
-    "date": "2026-07-02T17:49:17",
-    "category": "NYT"
   }
 ]
