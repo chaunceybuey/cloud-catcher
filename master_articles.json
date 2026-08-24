@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "38aa82667968625b00b4cd5d0c968185",
+    "feed_name": "LRB",
+    "title": "Unnatural Disasters",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/unnatural-disasters",
+    "content": "On 10 August, three days after the inauguration of President Abelardo de la Espriella, Colombia experienced a magnitude 7.4 earthquake, the.\u00a0.\u00a0.",
+    "date": "2026-08-24T12:53:12",
+    "category": "Magazines"
+  },
+  {
     "id": "a632027a2abdc1ffc8228ed3c9867195",
     "feed_name": "Compact",
     "title": "The Arday Case Is a Test for Academia",
@@ -19988,15 +19998,5 @@
     "content": "Don Huffines, Republican candidate for Texas comptroller and former state senator, at The Texas Tribune\u2019s Studio 919 in Austin on April 14, 2026. Huffines has been appointed by Gov. Greg Abbott to take over from departing acting Comptroller Kelly Hancock.",
     "date": "2026-07-02T17:15:06",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/dining/pick-your-cookout-persona-grill-master-or-bartender.html",
-    "feed_name": "NYT (Food)",
-    "title": "Pick Your Cookout Persona: Grill Master or Bartender",
-    "author": "Tanya Sichynsky",
-    "link": "https://www.nytimes.com/2026/07/02/dining/pick-your-cookout-persona-grill-master-or-bartender.html",
-    "content": "Alexa Weibel\u2019s grilled mushrooms with chive butter.",
-    "date": "2026-07-02T17:00:05",
-    "category": "NYT"
   }
 ]
