@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Trump Officials Propose Sale of \u2018Woke\u2019 Painting by Kehinde Wiley",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html",
+    "content": "The State Department recently removed the painting of Dominicans from a U.S. embassy, noting it was by the artist who made Barack Obama\u2019s presidential portrait.",
+    "date": "2026-08-24T21:51:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240686",
     "feed_name": "Texas Tribune",
     "title": "Abbott asks court to reject Minnesota bid to force extradition of ICE officer",
@@ -19988,15 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Consider this a PSA:  don't balance your checkbook before 8 AM for a Fido CMA account.<br />We use the CMA as a checking account w lots of credits and debits over the month.  I keep a google spreadsheet to track balances and see what's coming later in the month.<br /><br />Apparently the Activity &amp; Orders don't always sync with the CMA balance as shown in the left column on the Fido site.<br />I spent an hour?? trying to find the discrepancy between the left column total and my spreadsheet. The I refreshed the page at 8:10 and all's fine.  Nothing changed in the Activity &amp; Orders, only in the CMA total.  It also wasn't a difference that jumped  out at me to be able to say that was the 25 pizzas I prepaid for the 4th.<br /><br />Could it be having a Cash holding and a SPRXX holding in the CMA that update at different times?  I know that weekend transaction don't clear to the CMA till sometime on Monday?  Is there some overnight mystery for Cash v. SPRXX that isn't sync'd until after 8 AM for the combined CMA holdings?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Even simpler heartwood, keep minimum of 6 mo living expenses in your CMA and choose FRSXX as your MM fund. Quit wasting time checking and updating a manual register or Google spreadsheet. If you must check, just look at the activities page periodically. And be done and move on. When your balance is dropping low, transfer in XX amount of funds.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=15995\">bbrock</a> \u2014 Thu Jul 02, 2026 3:37 pm</p><hr />",
     "date": "2026-07-02T20:37:55",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235015",
-    "feed_name": "Texas Tribune",
-    "title": "Rep. Nate Schatzline resigns from Texas House to lead \u201celection integrity\u201d policy in Gov. Abbott\u2019s office",
-    "author": "Kayla Guo and Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17371910/texas-nate-schatzline-appointed-greg-abbott-governors-office-election-adviser",
-    "content": "Then-state Rep. Nate Schatzline, R-Fort Worth, addresses the crowd during a rally at the Tarrant County Republican Party headquarters in Fort Worth on Jan. 6, 2025.",
-    "date": "2026-07-02T20:29:42",
-    "category": "Texas"
   }
 ]
