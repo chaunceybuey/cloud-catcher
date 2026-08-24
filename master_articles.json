@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/23/arts/television/lanterns-recap-season-1-episode-2.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Lanterns\u2019 Season 1, Episode 2 Recap: Keep Superheroes Weird",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/08/23/arts/television/lanterns-recap-season-1-episode-2.html",
+    "content": "The dynamic between John and Hal (Aaron Pierre and Kyle Chandler) continues to illustrate how burned out Hal has become.",
+    "date": "2026-08-24T02:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8839817#p8839817",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/a-supreme-mistake-on-birthright-citizenship/",
     "content": "",
     "date": "2026-07-02T11:35:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/07/23/on-the-precipice-nadja-andre-breton/",
-    "feed_name": "NYRB",
-    "title": "On the Precipice",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/07/23/on-the-precipice-nadja-andre-breton/",
-    "content": "Critics who call Andr\u00e9 Breton\u2019s <em>Nadja</em> a novel miss its most innovative aspects.\n\nDelivered by PolitePaul service",
-    "date": "2026-07-02T11:33:55",
     "category": "Magazines"
   }
 ]
