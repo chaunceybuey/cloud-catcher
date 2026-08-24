@@ -160,6 +160,36 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=240556",
+    "feed_name": "Texas Tribune",
+    "title": "We investigated development rules after the deadly 2025 Hill Country flood. Then it flooded again.",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17427291/texas-floods-kerr-county",
+    "content": "People look at the flood damage at Louise Hays Park in Kerrville on July 5, 2025.",
+    "date": "2026-08-24T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240600",
+    "feed_name": "Texas Tribune",
+    "title": "Industry warns of blackouts, economic woes if Texas overreacts to data center, transmission line anger",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17427292/texas-765-transmissions-lines-data-centers-pauses-delays",
+    "content": "Power lines connect to the Stargate data center in Abilene on May 2, 2026.",
+    "date": "2026-08-24T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240612",
+    "feed_name": "Texas Tribune",
+    "title": "Flock cameras face growing backlash across Texas counties, but getting rid of them is complicated",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17427293/flock-cameras-face-growing-backlash-across-texas-counties-but-getting-rid-of-them-is-complicated",
+    "content": "Drivers pass Flock cameras mounted next to the Southwest Freeway in Houston on Aug. 17, 2026.",
+    "date": "2026-08-24T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/24/arts/television/dale-dickey-widows-bay-emmy.html",
     "feed_name": "NYT (Arts)",
     "title": "Dale Dickey Is Way Past Crying in Barney Suits",
@@ -19968,35 +19998,5 @@
     "content": "Gary Glitter, whose real name is Paul Gadd, was one of the biggest stars of the glam rock boom of the 1970s, especially thanks to \u201cRock and Roll (Part 2).\u201d",
     "date": "2026-07-02T15:41:06",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/arts/design/herbert-c-lust-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Herbert Lust, Collector Who Befriended Giacometti, Dies at 99",
-    "author": "Trip Gabriel",
-    "link": "https://www.nytimes.com/2026/07/02/arts/design/herbert-c-lust-dead.html",
-    "content": "Herbert Lust at his home in Connecticut in 2020, wearing a gold medallion made by the artist Alberto Giacometti, a close friend of his.",
-    "date": "2026-07-02T14:40:38",
-    "category": "NYT"
-  },
-  {
-    "id": "721106fd-2771-43d0-a0d4-7c193bd8abae",
-    "feed_name": "Economist",
-    "title": "Is The Economist always wrong?",
-    "author": "",
-    "link": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-    "content": "We used artificial intelligence to test the accuracy of our forecasts",
-    "date": "2026-07-02T14:22:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "7361691b4acbee679badffb6db27ac27",
-    "feed_name": "The Atlantic",
-    "title": "Pete Buttigieg\u2019s Ordeal Is a Frightening New Form of Political Harassment",
-    "author": "Quinta Jurecic",
-    "link": "https://www.theatlantic.com/ideas/2026/07/buttigieg-cps-michigan-harassment/687776/",
-    "content": "Even in these unimaginative days, Americans are still capable of innovations in cruelty.",
-    "date": "2026-07-02T14:11:36",
-    "category": "Magazines"
   }
 ]
