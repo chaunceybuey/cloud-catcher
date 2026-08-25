@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "2c175fd18ba1cb6608b1fc62133e5879",
+    "feed_name": "LRB",
+    "title": "No Magic, No Metaphor",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v39/n12/fredric-jameson/no-magic-no-metaphor",
+    "content": "Everything changes in Macondo, the state arrives, and then religion, and finally capitalism itself; the civil war pursues its course like a serpent biting its own tail; the town grows old and desolate, the rain of history begins and ends, the original protagonists begin to die off; and yet the narrative itself, in its rhizomatic strings, never grows extinct, its force remaining equal to itself until the fateful turn of its final pages.",
+    "date": "2026-08-25T13:51:14",
+    "category": "Magazines"
+  },
+  {
+    "id": "8df9498790513aff8712d50829dddf58",
+    "feed_name": "LRB",
+    "title": "How to make a Greek god smile",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v21/n12/lorraine-daston/how-to-make-a-greek-god-smile",
+    "content": "\u2018Wonder,\u2019 Descartes wrote, \u2018is a sudden surprise of the soul,\u2019 reserved for what is rare and extraordinary. In his classification, it is the first of the passions, the only one unaccompanied by fluttering pulse or pounding heart. Disinterested but not indifferent, wonder is a cool passion that fixes on objects for what they are, instead of what they are for us. The wonder of wonder consists in the paradox of a cognitive passion: it has all the force of other passions like love or hate, but it helps rather than hinders reason. It is the passion aroused by anomalies, and the anomaly among the passions.\u2018",
+    "date": "2026-08-25T13:51:14",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21831-kmfa-s-midday-music-series-senior-airman-mark-allen-jr-the-usaf-band-of-the-west-clarinet-ensemble",
     "feed_name": "KMFA",
     "title": "KMFA's Midday Music Series: Senior Airman Mark Allen Jr. &amp; the USAF Band of the West Clarinet Ensemble",
@@ -19978,25 +19998,5 @@
     "content": "Love and shame can be sides of a coin.",
     "date": "2026-07-03T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "c675dbe348f3b5b75bd232d9f4371f75",
-    "feed_name": "The Atlantic",
-    "title": "What I Learned from ROTC",
-    "author": "Eliot A. Cohen",
-    "link": "https://www.theatlantic.com/ideas/2026/07/army-military-service-training-lessons/687589/",
-    "content": "Military experience is, sooner or later, humbling.",
-    "date": "2026-07-03T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/03/arts/television/comedy-specials-4th-of-july-holiday-weekend.html",
-    "feed_name": "NYT (Arts)",
-    "title": "4 Funny Specials for a Long Hot Holiday Weekend",
-    "author": "Jason Zinoman",
-    "link": "https://www.nytimes.com/2026/07/03/arts/television/comedy-specials-4th-of-july-holiday-weekend.html",
-    "content": "The comedian Nikki Glaser remains ruthless about getting laughs quickly and often.",
-    "date": "2026-07-03T09:04:23",
-    "category": "NYT"
   }
 ]
