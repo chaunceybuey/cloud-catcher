@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/dining/restaurant-review-gigis-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Gigi\u2019s in New York",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/2026/08/25/dining/restaurant-review-gigis-nyc.html",
+    "content": "The rotisserie chickens at Gigi\u2019s are herb-stuffed, methodically roasted and divided into pieces.",
+    "date": "2026-08-25T20:09:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240810",
     "feed_name": "Texas Tribune",
     "title": "Shawn Thierry, who broke with Democrats over trans issues, appointed Harris County district judge",
@@ -19986,16 +19996,6 @@
     "author": "T. H. Breen",
     "link": "https://www.theatlantic.com/ideas/2026/07/american-revolution-history-founders/687800/",
     "content": "The conventional telling of America\u2019s origin story leaves out perhaps its greatest heroes.",
-    "date": "2026-07-03T15:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "d11ac4bc2cfc7f458065bbd5f2f593f6",
-    "feed_name": "The Atlantic",
-    "title": "The Strange History of the WordEqual",
-    "author": "Teresa M. Bejan",
-    "link": "https://www.theatlantic.com/ideas/2026/07/history-word-equal-rights-declaration/687777/",
-    "content": "The expansiveness of the concept helps explain its endurance.",
     "date": "2026-07-03T15:00:00",
     "category": "Magazines"
   }
