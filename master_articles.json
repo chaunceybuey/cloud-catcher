@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jelly Roll Celebrates His 300-Pound Weight Loss on \u2018Jimmy Kimmel Live\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html",
+    "content": "\u201cThat means I\u2019ve lost an entire Donald Trump,\u201d the country singer said while guest hosting Monday\u2019s late night show.",
+    "date": "2026-08-25T05:13:15",
+    "category": "NYT"
+  },
+  {
     "id": "6a8c4b08828378c23fc90694",
     "feed_name": "Wired (Science)",
     "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17371981/texas-immigrants-detention-fifth-circuit-court-ruling-bond-hearings",
     "content": "The El Valle Detention Facility in Raymondville on March 9, 2026.",
     "date": "2026-07-02T22:41:25",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235048",
-    "feed_name": "Texas Tribune",
-    "title": "Buyouts offered to nearly a quarter of UT Tyler employees amid budget shortfall",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17371953/ut-tyler-texas-university-buyouts",
-    "content": "The University of Texas at Tyler campus.",
-    "date": "2026-07-02T22:14:14",
     "category": "Texas"
   }
 ]
