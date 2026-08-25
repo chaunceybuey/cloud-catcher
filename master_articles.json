@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a8c4b08828378c23fc90694",
+    "feed_name": "Wired (Science)",
+    "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+    "content": "There\u2019s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
+    "date": "2026-08-25T04:01:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/24/arts/music/ye-concerts-canceled-russia-gazprom-arena.html",
     "feed_name": "NYT (Arts)",
     "title": "Russian Stadium Says It Won\u2019t Host Ye Concerts",
@@ -19988,15 +19998,5 @@
     "content": "The University of Texas at Tyler campus.",
     "date": "2026-07-02T22:14:14",
     "category": "Texas"
-  },
-  {
-    "id": "36997a31ad261681ff3be5a91338fa8c",
-    "feed_name": "The Atlantic",
-    "title": "TheOtherCase for Birthright Citizenship",
-    "author": "Amanda Frost",
-    "link": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-policy-defense/687791/",
-    "content": "The legal arguments are clear. Now proponents need to start defending the practice on policy grounds.",
-    "date": "2026-07-02T22:12:53",
-    "category": "Magazines"
   }
 ]
