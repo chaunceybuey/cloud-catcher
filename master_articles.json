@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/kennedy-center-taken-down-amphitheater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/kennedy-center-taken-down-amphitheater.html",
+    "content": "Lawyers for the Trump administration said in a court filing that if the Kennedy Center does not undergo planned renovations, it could be replaced by a large amphitheater overlooking the Potomac River.",
+    "date": "2026-08-25T15:41:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/hegseth-civilian-harm-mitigation-response-trump-defense-department",
     "feed_name": "ProPublica",
     "title": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway.",
@@ -208,6 +218,16 @@
     "content": "",
     "date": "2026-08-25T11:28:53",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/dining/restaurant-review-zoli-brooklyn.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Zoli in New York",
+    "author": "Ligaya Mishan",
+    "link": "https://www.nytimes.com/2026/08/25/dining/restaurant-review-zoli-brooklyn.html",
+    "content": "Zoli, part of an art complex in Williamsburg, springs a number of intriguing surprises, starting with those strange fish tanks.",
+    "date": "2026-08-25T11:08:16",
+    "category": "NYT"
   },
   {
     "id": "e226b3f357c4688c560fcd5fa539caed",
@@ -19977,26 +19997,6 @@
     "link": "https://www.compactmag.com/article/why-marxists-loved-the-american-revolution/",
     "content": "",
     "date": "2026-07-03T11:33:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "2f488f1b0c13fad64a0bbd19ef9951f5",
-    "feed_name": "The Atlantic",
-    "title": "The Fourth of July That Saved My Family",
-    "author": "Anne Neuberger",
-    "link": "https://www.theatlantic.com/ideas/2026/07/independence-day-hostage-crisis-1976/687755/",
-    "content": "My parents\u2019 rescue at Entebbe taught me that freedom survives only because people choose to defend it.",
-    "date": "2026-07-03T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a456016c28e761b85a7e732",
-    "feed_name": "Wired (Science)",
-    "title": "The FDA Ruled That ZYN Pouches Are Safer Than Cigarettes. That Doesn\u2019t Mean They\u2019re Safe",
-    "author": "Megan Tomos",
-    "link": "https://www.wired.com/story/the-fda-ruled-that-zyn-pouches-are-safer-than-cigarettes-that-doesnt-mean-theyre-safe/",
-    "content": "ZYN nicotine pouches, the FDA found, can be advertised as a less-harmful option for adult smokers. But quitting all tobacco and nicotine products remains the best idea.",
-    "date": "2026-07-03T10:30:00",
     "category": "Magazines"
   }
 ]
