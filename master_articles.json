@@ -140,6 +140,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/arts/national-treasure-hunt-philadelphia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "For \u2018National Treasure\u2019 Superfans, the Secret Lies in Philadelphia",
+    "author": "Jennifer Schuessler",
+    "link": "https://www.nytimes.com/2026/08/25/arts/national-treasure-hunt-philadelphia.html",
+    "content": "The creators of the \u201cNational Treasure Hunt\u201d podcast bring their passion for the Nicolas Cage heist movie to the birthplace of the Declaration of Independence.",
+    "date": "2026-08-25T09:02:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/dining/restaurant-review-zoil-brooklyn.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Zoli in New York",
+    "author": "Ligaya Mishan",
+    "link": "https://www.nytimes.com/2026/08/25/dining/restaurant-review-zoil-brooklyn.html",
+    "content": "Zoli, part of an art complex in Williamsburg, springs a number of intriguing surprises, starting with those strange fish tanks.",
+    "date": "2026-08-25T09:02:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/interpol-this-mirror-weighs-a-ton-album.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Interpol Comes Full Circle on \u2018This Mirror Weighs a Ton\u2019",
+    "author": "Mike Isaac and Arsenii Vaselenko",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/interpol-this-mirror-weighs-a-ton-album.html",
+    "content": "The band that emerged in post-9/11 New York grapples with the surveillance state on its anxious but hopeful new LP, \u201cThis Mirror Weighs a Ton.\u201d",
+    "date": "2026-08-25T09:01:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Is It Time for This 95-Year-Old Pianist to Retire?",
+    "author": "Sarah Kramer and Shuran Huang",
+    "link": "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html",
+    "content": "Her vision and hearing are deteriorating, but she still wants to feel like she\u2019s on top.",
+    "date": "2026-08-25T09:00:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html",
     "feed_name": "NYT (Arts)",
     "title": "Jelly Roll Celebrates His 300-Pound Weight Loss on \u2018Jimmy Kimmel Live\u2019",
@@ -19958,45 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Does anyone use Fidelity CMA to pay for mortgage? Do you directly pay the mortgage or maybe transfer to your bank and then pay from there?<br /><br />Does anyone use Fidelity CMA for direct deposit?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Direct deposit yes.   Paying rent yes.   Fidelity CMA can be used to pay any recipient as long as ACF/EFT or bank wire are accepted.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=159081\">chassis</a> \u2014 Fri Jul 03, 2026 12:21 am</p><hr />",
     "date": "2026-07-03T05:21:27",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8801045#p8801045",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "babystep",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8801045#p8801045",
-    "content": "Does anyone use Fidelity CMA to pay for mortgage? Do you directly pay the mortgage or maybe transfer to your bank and then pay from there?<br /><br />Does anyone use Fidelity CMA for direct deposit?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=147421\">babystep</a> \u2014 Thu Jul 02, 2026 11:58 pm</p><hr />",
-    "date": "2026-07-03T04:58:30",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235076",
-    "feed_name": "Texas Tribune",
-    "title": "Border wall through Big Bend state park in \u201cplanning stages\u201d as updated map includes 2-mile barrier",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17372010/texas-big-bend-ranch-state-park-border-wall-plans",
-    "content": "The Rio Grande flows between the U.S.-Mexico border alongside FM 170 in Big Bend Ranch State Park on May 24, 2026.",
-    "date": "2026-07-03T00:35:02",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8800947#p8800947",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "AskPatient1281",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8800947#p8800947",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Consider this a PSA:  don't balance your checkbook before 8 AM for a Fido CMA account.<br />We use the CMA as a checking account w lots of credits and debits over the month.  I keep a google spreadsheet to track balances and see what's coming later in the month.<br /><br />Apparently the Activity &amp; Orders don't always sync with the CMA balance as shown in the left column on the Fido site.<br />I spent an hour?? trying to find the discrepancy between the left column total and my spreadsheet. The I refreshed the page at 8:10 and all's fine.  Nothing changed in the Activity &amp; Orders, only in the CMA total.  It also wasn't a difference that jumped  out at me to be able to say that was the 25 pizzas I prepaid for the 4th.<br /><br />Could it be having a Cash holding and a SPRXX holding in the CMA that update at different times?  I know that weekend transaction don't clear to the CMA till sometime on Monday?  Is there some overnight mystery for Cash v. SPRXX that isn't sync'd until after 8 AM for the combined CMA holdings?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Even simpler heartwood, keep minimum of 6 mo living expenses in your CMA and choose FRSXX as your MM fund. Quit wasting time checking and updating a manual register or Google spreadsheet. If you must check, just look at the activities page periodically. And be done and move on. When your balance is dropping low, transfer in XX amount of funds.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>First you need to seed FRSXX.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Thu Jul 02, 2026 5:52 pm</p><hr />",
-    "date": "2026-07-02T22:52:33",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235057",
-    "feed_name": "Texas Tribune",
-    "title": "Federal appeals court rules undocumented immigrants deserve hearing before deportation",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17371981/texas-immigrants-detention-fifth-circuit-court-ruling-bond-hearings",
-    "content": "The El Valle Detention Facility in Raymondville on March 9, 2026.",
-    "date": "2026-07-02T22:41:25",
-    "category": "Texas"
   }
 ]
