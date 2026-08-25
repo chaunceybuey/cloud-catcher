@@ -130,6 +130,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/us/dolly-parton-polls-bipartisan.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton Was Someone We Could All Agree On. Even in Polls.",
+    "author": "Ruth Igielnik",
+    "link": "https://www.nytimes.com/2026/08/25/us/dolly-parton-polls-bipartisan.html",
+    "content": "Dolly Parton was viewed favorably by 70 percent of respondents in a recent poll.",
+    "date": "2026-08-25T21:49:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/arts/len-brown-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Len Brown, the Kidlike Creator of \u2018Mars Attacks,\u2019 Dies at 84",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/08/25/arts/len-brown-dead.html",
+    "content": "He brought a juvenile creative sensibility to the Topps Chewing Gum company, where he was able to unerringly predict what would appeal to adolescents.",
+    "date": "2026-08-25T21:47:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240826",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: The Big Bend border barrier backlash",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17428510/tribcast-big-bend-border-barrier-trump",
+    "content": "A sign outside Far Flung Outdoor Center Terlingua opposing the border wall on Aug. 12, 2026.",
+    "date": "2026-08-25T21:42:38",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240835",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 limits on certain drag shows ruled unconstitutional again",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17428511/texas-drag-show-ban-law-unconstitutional-second-ruling",
+    "content": "Over 300 activists and supporters marched from the Bexar County Courthouse to Crockett Park in \u201cMarch for Us,\u201d San Antonio&#039;s third annual celebration of Transgender Day of Visibility, on March 29, 2025, in San Antonio.",
+    "date": "2026-08-25T21:18:26",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/theater/dolly-parton-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton Wanted to Share Her Story on Broadway. She Still Will.",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/04/movies/good-bad-movies-nytimes.html",
     "content": "A pop culture reporter explains why she revels in debating movies that cross the line from bad to sublime.",
     "date": "2026-07-04T07:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-photos-msg.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Photos: See Outside Taylor Swift and Travis Kelce\u2019s Wedding at MSG",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-photos-msg.html",
-    "content": "The couple\u2019s private celebration created a public spectacle outside Madison Square Garden.",
-    "date": "2026-07-04T02:02:26",
-    "category": "NYT"
-  },
-  {
-    "id": "6a43ef8128866f8a2239ec32",
-    "feed_name": "Wired (Science)",
-    "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters\u2014and Why It Doesn\u2019t",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
-    "content": "The companies\u2019 Fourth of July plans include celebrating new reactor designs coming online. But there\u2019s still a long way to go before they deliver energy at a meaningful scale.",
-    "date": "2026-07-03T18:13:15",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235111",
-    "feed_name": "Texas Tribune",
-    "title": "Trump administration asks Texas for help providing legal services to immigrant kids facing deportation",
-    "author": "Lomi Kriel",
-    "link": "https://feeds.texastribune.org/link/16799/17372351/trump-texas-doj-indigent-defense-unaccompanied-immigrant-children",
-    "content": "The shadows of asylum seekers are cast on a wall in Roma on Aug. 3, 2021. Roma is on the Texas/Mexico border in Starr County, about 50 miles west of McAllen.",
-    "date": "2026-07-03T17:30:32",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/03/arts/dance/lincoln-center-contemporary-dance-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Return to the Familiar at Lincoln Center\u2019s New Dance Festival",
-    "author": "Brian Seibert",
-    "link": "https://www.nytimes.com/2026/07/03/arts/dance/lincoln-center-contemporary-dance-festival.html",
-    "content": "While it was good to see again Rachid Ouramdane\u2019s moving duet from a decade ago, Akram Khan\u2019s new piece was unconvincing.",
-    "date": "2026-07-03T17:15:20",
     "category": "NYT"
   }
 ]
