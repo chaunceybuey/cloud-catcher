@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-voice-appraisal.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton Had the Voice, and Concerns, of an Earth Angel",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-voice-appraisal.html",
+    "content": "Dolly Parton performing on the steps of New York\u2019s City Hall in 1978.",
+    "date": "2026-08-25T23:10:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240861",
+    "feed_name": "Texas Tribune",
+    "title": "Judge in Minnesota extradition case \u201cnot inclined\u201d to keep ICE officer jailed in Texas",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17428555/texas-minnesota-ice-officer-extradition-judge",
+    "content": "Minnesota Gov. Tim Walz speaks at The Texas Tribune Festival in Austin on Nov. 13, 2025. Walz in June asked Texas Gov. Greg Abbott to approve the extradition of an ICE officer held in Texas. Abbott has not reached a decision on the request.",
+    "date": "2026-08-25T22:52:27",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-photos-life-career.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton: A Life in Pictures",
+    "author": "Melena Ryzik",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-photos-life-career.html",
+    "content": "Parton made her mark in the country arenas of Nashville, and then crossed over into the pop world, Hollywood and beyond.",
+    "date": "2026-08-25T22:49:15",
+    "category": "NYT"
+  },
+  {
     "id": "28b1f71117047135d039d043f048f0e4",
     "feed_name": "Compact",
     "title": "I Will Always Love Dolly",
@@ -19968,35 +19998,5 @@
     "content": "This staple of summer gatherings tells a story about who we are.",
     "date": "2026-07-04T09:00:40",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/04/movies/cliffhanger-sylvester-stallone.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Perilous and Preposterous, \u2018Cliffhanger\u2019 Brought Stallone Back From the Brink",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/07/04/movies/cliffhanger-sylvester-stallone.html",
-    "content": "Renny Harlin\u2019s high-altitude thriller starring Sylvester Stallone and John Lithgow was peak early 1990s action extravagance.",
-    "date": "2026-07-04T09:00:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/movies/100000010926526/most-american-movie-there-will-be-blood.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Why \u2018There Will Be Blood\u2019 Is the Most American Movie",
-    "author": "Alissa Wilkinson, Edward Vega and Gabriel Blanco",
-    "link": "https://www.nytimes.com/video/movies/100000010926526/most-american-movie-there-will-be-blood.html",
-    "content": "The New York Times Film Critic, Alissa Wilkinson, breaks down how Paul Thomas Anderson\u2019s 2007 epic deconstructs and exemplifies American ideals.",
-    "date": "2026-07-04T09:00:09",
-    "category": "NYT"
-  },
-  {
-    "id": "6a456825dae48c15b88ce7ae",
-    "feed_name": "Wired (Science)",
-    "title": "Scientists Have Identified a New Fossil Species of Axolotl in Mexico",
-    "author": "Fernanda Gonz\u00e1lez",
-    "link": "https://www.wired.com/story/scientists-have-identified-a-new-fossil-species-of-axolotl-in-mexico/",
-    "content": "Ambystoma quetzalcoatli is the first fossil salamander to be formally identified in Mexico, revealing that axolotls have inhabited the country for millions of years.",
-    "date": "2026-07-04T09:00:00",
-    "category": "Magazines"
   }
 ]
