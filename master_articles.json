@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
+    "author": "Bill Friskics-Warren",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
+    "content": "Dolly Parton in 1975. She was likened to the Big Rock Candy Mountain, the Depression-era symbol of abundance. Her music confronted privation and loss even as it radiated possibility and hope.",
+    "date": "2026-08-25T18:06:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/amplifier-newsletter-paul-simons-graceland.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Origins of Paul Simon\u2019s \u2018Graceland\u2019",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/amplifier-newsletter-paul-simons-graceland.html",
+    "content": "Paul Simon performing on the Graceland tour in 1987.",
+    "date": "2026-08-25T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/books/robert-skidelsky-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Robert Skidelsky, Definitive Biographer of Keynes, Dies at 86",
@@ -19978,25 +19998,5 @@
     "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
     "date": "2026-07-03T13:36:07",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8801161#p8801161",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "AskPatient1281",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8801161#p8801161",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Does anyone use Fidelity CMA to pay for mortgage? Do you directly pay the mortgage or maybe transfer to your bank and then pay from there?<br /><br />Does anyone use Fidelity CMA for direct deposit?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Yes. Direct deposit, ach auto payment, credit card, insurance, car loan, all deposited or pulled from CMA.<br /><br />No issues.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Fri Jul 03, 2026 8:04 am</p><hr />",
-    "date": "2026-07-03T13:04:59",
-    "category": "Finance"
-  },
-  {
-    "id": "80160d4654716f1acb04179d6cda9b4c",
-    "feed_name": "The Atlantic",
-    "title": "American Brands Seem Lukewarm on America\u2019s Birthday",
-    "author": "Annie Joy Williams",
-    "link": "https://www.theatlantic.com/ideas/2026/07/america-250-brands/687805/",
-    "content": "Does patriotism still sell in 2026?",
-    "date": "2026-07-03T13:00:00",
-    "category": "Magazines"
   }
 ]
