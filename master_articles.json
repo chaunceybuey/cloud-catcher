@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/24/arts/music/ye-concerts-canceled-russia-gazprom-arena.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Russian Stadium Says It Won\u2019t Host Ye Concerts",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/08/24/arts/music/ye-concerts-canceled-russia-gazprom-arena.html",
+    "content": "A Ye concert in Istanbul drew large crowds in May, but many countries have prevented him from performing.",
+    "date": "2026-08-25T02:33:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240766",
     "feed_name": "Texas Tribune",
     "title": "Faculty in uproar after Texas A&M-Victoria implements mandatory in-person policy",
@@ -19988,15 +19998,5 @@
     "content": "The legal arguments are clear. Now proponents need to start defending the practice on policy grounds.",
     "date": "2026-07-02T22:12:53",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/02/arts/new-york-gallery-surrenders-20-artifacts-thought-looted-from-cambodia.html",
-    "feed_name": "NYT (Arts)",
-    "title": "New York Gallery Surrenders 20 Artifacts Thought Looted From Cambodia",
-    "author": "Tom Mashberg and Graham Bowley",
-    "link": "https://www.nytimes.com/2026/07/02/arts/new-york-gallery-surrenders-20-artifacts-thought-looted-from-cambodia.html",
-    "content": "The Madison Avenue business turned over stone statues and other items that it had purchased from an art dealer accused of trafficking in illicit objects.",
-    "date": "2026-07-02T22:08:27",
-    "category": "NYT"
   }
 ]
