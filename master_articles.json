@@ -140,6 +140,36 @@
     "category": "Texas"
   },
   {
+    "id": "8a5a5ec6761c53e4719a377b9f7b712a",
+    "feed_name": "LRB",
+    "title": "\u2018We suffer together\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/we-suffer-together",
+    "content": "Taybeh, on a hilltop near Ramallah, is the site of the Middle East\u2019s oldest microbrewery, which produces Palestine\u2019s most exported.\u00a0.\u00a0.",
+    "date": "2026-08-25T11:28:58",
+    "category": "Magazines"
+  },
+  {
+    "id": "51fbd0a200545fe7c95e322f7fd3e658",
+    "feed_name": "Compact",
+    "title": "Is \u2018Aggressive Suicide\u2019 the Next Social Contagion?",
+    "author": "",
+    "link": "https://www.compactmag.com/article/is-aggressive-suicide-the-next-social-contagion/",
+    "content": "",
+    "date": "2026-08-25T11:28:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "e226b3f357c4688c560fcd5fa539caed",
+    "feed_name": "The Atlantic",
+    "title": "The Jews Who Voted for Hitler",
+    "author": "Timothy W. Ryback",
+    "link": "https://www.theatlantic.com/magazine/2026/10/nationalist-german-jews-max-naumann-hitler/688343/",
+    "content": "What happened when members of a minority community cast its lot with a political leader who despised them",
+    "date": "2026-08-25T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a8387264a5b27478a331b47",
     "feed_name": "Wired (Science)",
     "title": "Border Wall Construction Threatens 6,000 Years of History on Private Lands",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/03/arts/television/comedy-specials-4th-of-july-holiday-weekend.html",
     "content": "The comedian Nikki Glaser remains ruthless about getting laughs quickly and often.",
     "date": "2026-07-03T09:04:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/03/style/lavish-celebrity-weddings-taylor-swift-travis-kelce.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Most Lavish Celebrity Weddings, From the Royals to Taylor Swift",
-    "author": "Victor Mather",
-    "link": "https://www.nytimes.com/2026/07/03/style/lavish-celebrity-weddings-taylor-swift-travis-kelce.html",
-    "content": "Posh and Becks, engaged.",
-    "date": "2026-07-03T09:03:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8801074#p8801074",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "dogagility",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8801074#p8801074",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Does anyone use Fidelity CMA to pay for mortgage? Do you directly pay the mortgage or maybe transfer to your bank and then pay from there?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Our mortgage provider (Third Federal) requires us to pull our mortgage payment from a Third Federal account. So, we auto-transfer this amount from our Fidelity CMA to our Third Federal savings account each month.<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Does anyone use Fidelity CMA for direct deposit?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Yes.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=117934\">dogagility</a> \u2014 Fri Jul 03, 2026 4:00 am</p><hr />",
-    "date": "2026-07-03T09:00:45",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/03/movies/minions-and-monsters-director-pierre-coffin.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Pierre Coffin Breathed New Life Into the Minions Franchise With \u2018Minions & Monsters\u2019",
-    "author": "Nicole Sperling",
-    "link": "https://www.nytimes.com/2026/07/03/movies/minions-and-monsters-director-pierre-coffin.html",
-    "content": "The director Pierre Coffin, who also voices the yellow chaos agents, wasn\u2019t interested in returning. Then a producer suggested an idea he couldn\u2019t resist.",
-    "date": "2026-07-03T09:00:38",
     "category": "NYT"
   }
 ]
