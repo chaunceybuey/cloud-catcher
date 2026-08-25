@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "28b1f71117047135d039d043f048f0e4",
+    "feed_name": "Compact",
+    "title": "I Will Always Love Dolly",
+    "author": "",
+    "link": "https://www.compactmag.com/article/i-will-always-love-dolly/",
+    "content": "",
+    "date": "2026-08-25T22:28:46",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/us/dolly-parton-polls-bipartisan.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton Was Someone We Could All Agree On. Even in Polls.",
@@ -19988,15 +19998,5 @@
     "content": "Ambystoma quetzalcoatli is the first fossil salamander to be formally identified in Mexico, revealing that axolotls have inhabited the country for millions of years.",
     "date": "2026-07-04T09:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/04/movies/good-bad-movies-nytimes.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Why Loving Good-Bad Movies Feels All Good",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/07/04/movies/good-bad-movies-nytimes.html",
-    "content": "A pop culture reporter explains why she revels in debating movies that cross the line from bad to sublime.",
-    "date": "2026-07-04T07:00:07",
-    "category": "NYT"
   }
 ]
