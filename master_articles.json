@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/theater/dolly-parton-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton Wanted to Share Her Story on Broadway. She Still Will.",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/08/25/theater/dolly-parton-broadway.html",
+    "content": "The score of \u201cDolly: An Original Musical\u201d is a mix of her hit songs and new numbers she wrote for the production.",
+    "date": "2026-08-25T20:34:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-celebrity-reaction.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton Is Mourned by Reba McEntire, Lily Tomlin and More",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-celebrity-reaction.html",
+    "content": "Dolly Parton and Lily Tomlin on the set of the hit comedy \u201c9 to 5.\u201d",
+    "date": "2026-08-25T20:30:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/arts/design/titanic-artifacts-sale-halted-judge.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Judge Says Sale of Titanic Artifacts Cannot Go Forward for Now",
+    "author": "Marc Davis",
+    "link": "https://www.nytimes.com/2026/08/25/arts/design/titanic-artifacts-sale-halted-judge.html",
+    "content": "A company looking to sell some items it has recovered from the shipwreck of the Titanic has been blocked from proceeding to auction by a federal court.",
+    "date": "2026-08-25T20:16:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/dining/restaurant-review-gigis-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Gigi\u2019s in New York",
@@ -19968,35 +19998,5 @@
     "content": "While it was good to see again Rachid Ouramdane\u2019s moving duet from a decade ago, Akram Khan\u2019s new piece was unconvincing.",
     "date": "2026-07-03T17:15:20",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/03/dining/via-carotas-house-dressing-can-be-your-house-dressing.html",
-    "feed_name": "NYT (Food)",
-    "title": "Via Carota\u2019s House Dressing Can Be Your House Dressing",
-    "author": "The New York Times Cooking",
-    "link": "https://www.nytimes.com/2026/07/03/dining/via-carotas-house-dressing-can-be-your-house-dressing.html",
-    "content": "Samin Nosrat\u2019s house dressing.",
-    "date": "2026-07-03T15:00:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/03/movies/five-science-fiction-movies-to-stream-now.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five Science Fiction Movies to Stream Now",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/07/03/movies/five-science-fiction-movies-to-stream-now.html",
-    "content": "This month\u2019s recommendations include a dreamscape space opera, a dark time-travel diner comedy and an existential alien thriller.",
-    "date": "2026-07-03T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "1d495c4d4349974959a86c4d226c0de2",
-    "feed_name": "The Atlantic",
-    "title": "It Wasn\u2019t Just the Founders",
-    "author": "T. H. Breen",
-    "link": "https://www.theatlantic.com/ideas/2026/07/american-revolution-history-founders/687800/",
-    "content": "The conventional telling of America\u2019s origin story leaves out perhaps its greatest heroes.",
-    "date": "2026-07-03T15:00:00",
-    "category": "Magazines"
   }
 ]
