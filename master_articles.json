@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/books/robert-skidelsky-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Robert Skidelsky, Definitive Biographer of Keynes, Dies at 86",
+    "author": "Jonathan Kandell",
+    "link": "https://www.nytimes.com/2026/08/25/books/robert-skidelsky-dead.html",
+    "content": "An economic historian and political maverick, he was a sometimes polarizing public intellectual and a member of the House of Lords.",
+    "date": "2026-08-25T17:46:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/25/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Brasserie Boulud Lands Just in Time for Lincoln Center\u2019s Fall Season",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/08/25/dining/nyc-restaurant-news.html",
+    "content": "El Califa de Le\u00f3n and Bread Ahead open their first U.S. locations, and more restaurant news.",
+    "date": "2026-08-25T17:25:02",
+    "category": "NYT"
+  },
+  {
+    "id": "4a8b1961-9a5f-42ec-bb96-989c571c9eda",
+    "feed_name": "Economist",
+    "title": "What makes a great investor?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
+    "content": "A big dose of luck, and a distinctly odd character",
+    "date": "2026-08-25T17:15:09",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/arts/music/trump-kennedy-center-demolition-lawyers.html",
     "feed_name": "NYT (Arts)",
     "title": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
@@ -19967,36 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/07/america-250-brands/687805/",
     "content": "Does patriotism still sell in 2026?",
     "date": "2026-07-03T13:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "a17a45048d1a3b0083d088b992657090",
-    "feed_name": "The Atlantic",
-    "title": "These Justices Are Not Impartial",
-    "author": "Adam Serwer",
-    "link": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-dissents/687799/",
-    "content": "Why such a slim Supreme Court majority upheld birthright citizenship",
-    "date": "2026-07-03T12:25:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "85f84167abe6be9a97c92baf41493710",
-    "feed_name": "The Atlantic",
-    "title": "The Hispanic Founder",
-    "author": "Geraldo L. Cadava",
-    "link": "https://www.theatlantic.com/ideas/2026/07/hispanic-founder-galvez-spain/687787/",
-    "content": "Bernardo de G\u00e1lvez helped win the Revolution. Can he win over 21st-century America?",
-    "date": "2026-07-03T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "beaf179a1c0dbf04653baf17f06275e2",
-    "feed_name": "Compact",
-    "title": "The New World\u2019s Declaration of Independence from the Old",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-new-worlds-declaration-of-independence-from-the-old/",
-    "content": "",
-    "date": "2026-07-03T11:33:48",
     "category": "Magazines"
   }
 ]
