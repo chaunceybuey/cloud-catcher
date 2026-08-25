@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton: Hear 15 Essential Songs",
+    "author": "Jim Farber",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-songs.html",
+    "content": "Dolly Parton, in 1977.",
+    "date": "2026-08-25T18:44:14",
+    "category": "NYT"
+  },
+  {
+    "id": "6a8d9dd84e596bc9d68bf600",
+    "feed_name": "Wired (Science)",
+    "title": "The US Just Recorded Its First 2 Measles Deaths This Year",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/us-recorded-first-measles-deaths-2026/",
+    "content": "The fatalities come amid declining vaccination rates and calls from President Donald Trump to split up the MMR vaccine.",
+    "date": "2026-08-25T18:17:07",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80",
@@ -19978,25 +19998,5 @@
     "content": "Also: Rachel Syme on the return of Day-Glo.",
     "date": "2026-07-03T14:09:59",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8801197#p8801197",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "heartwood",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8801197#p8801197",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Does anyone use Fidelity CMA to pay for mortgage? Do you directly pay the mortgage or maybe transfer to your bank and then pay from there?<br /><br />Does anyone use Fidelity CMA for direct deposit?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Yes. Direct deposit, ach auto payment, credit card, insurance, car loan, all deposited or pulled from CMA.<br /><br />No issues.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>It all worked flawlessly for me until COVID. For years Fido  had always sent a paper check to my bank with no problems. This time it arrived late and messed up my WF 1099 for the year.  It was a USPS issue.  Fido sent it in plenty of time.  WF would not reissue claiming it was not received at the time they did the 1099 just a few days into the year.<br />After that we switched to a pull from the bank from our CMA.<br />Fido also switched to EFT transfer for WF sometime that year.  It's not your choice how they pay the payee.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=49095\">heartwood</a> \u2014 Fri Jul 03, 2026 8:53 am</p><hr />",
-    "date": "2026-07-03T13:53:05",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/03/movies/new-movies-this-week-critics.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 New Movies Our Critics Are Talking About This Week",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/07/03/movies/new-movies-this-week-critics.html",
-    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
-    "date": "2026-07-03T13:36:07",
-    "category": "NYT"
   }
 ]
