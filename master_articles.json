@@ -150,6 +150,26 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=240790",
+    "feed_name": "Texas Tribune",
+    "title": "Austin races to regulate AI data centers before they strain city\u2019s water and power",
+    "author": "By Sam Stark,\u00a0Austin Current",
+    "link": "https://feeds.texastribune.org/link/16799/17430599/austin-data-center-rules",
+    "content": "The Austin City Council is racing to get ahead of data centers before a facility is proposed inside the city limits.",
+    "date": "2026-08-26T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240804",
+    "feed_name": "Texas Tribune",
+    "title": "A new Texas law declaws neighborhood groups that oppose housing projects",
+    "author": "Joshua Fechter",
+    "link": "https://feeds.texastribune.org/link/16799/17430600/texas-petition-new-housing-city-council-nimby",
+    "content": "The South Austin Christian Church  near South Congress Avenue in Austin on Monday, Aug. 24, 2026.",
+    "date": "2026-08-26T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/arts/television/ted-lasso-season-4-episode-4-recap.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Ted Lasso\u2019 Season 4, Episode 4 Recap: Locked Out",
@@ -207,6 +227,16 @@
     "link": "https://www.nytimes.com/2026/08/26/movies/the-story-behind-coyote-vs-acme.html",
     "content": "The live action-animation hybrid comedy fought a real-life studio battle to win its theatrical release.",
     "date": "2026-08-26T09:00:20",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/26/books/peter-grainger-crime-writer-dc-smith.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Literary Detective You\u2019ve Never Heard Of, and the Man Who Made Him",
+    "author": "Sarah Lyall",
+    "link": "https://www.nytimes.com/2026/08/26/books/peter-grainger-crime-writer-dc-smith.html",
+    "content": "Peter Grainger at home in Cambridgeshire.",
+    "date": "2026-08-26T09:00:17",
     "category": "NYT"
   },
   {
@@ -19968,35 +19998,5 @@
     "content": "In these nonfiction accounts, the sport is a force for hope in sometimes dire situations.",
     "date": "2026-07-05T09:01:24",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/05/style/martin-margiela-auction-paris.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Martin Margiela, One of Fashion\u2019s Most Influential Designers, Auctions Off His Personal Archive",
-    "author": "Vanessa Friedman",
-    "link": "https://www.nytimes.com/2026/07/05/style/martin-margiela-auction-paris.html",
-    "content": "How Martin Margiela, one of the most influential living designers, came to auction off his personal archive, and what it means.",
-    "date": "2026-07-05T09:00:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/05/arts/design/v-and-a-east-storehouse.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ordering Objects at V&E East Storehouse: From David Bowie Guitar to Beatrix Potter Originals",
-    "author": "Alex Marshall and Max Miechowski",
-    "link": "https://www.nytimes.com/2026/07/05/arts/design/v-and-a-east-storehouse.html",
-    "content": "Visitors at the V&amp;A East Storehouse can book appointments with artifacts that usually aren\u2019t on show \u2014 and can even touch many of them.",
-    "date": "2026-07-05T04:01:20",
-    "category": "NYT"
-  },
-  {
-    "id": "9a9b73b98ff90f5c63b8785a60a7707b",
-    "feed_name": "The Atlantic",
-    "title": "Pope Leo\u2019s July 4 Message to America Was Unmistakable",
-    "author": "Francis X. Rocca",
-    "link": "https://www.theatlantic.com/ideas/2026/07/pope-leo-lampedusa-july-4/687810/",
-    "content": "By spending the semiquincentennial mourning the plight of migrants, Leo sent a clear challenge to his native country.",
-    "date": "2026-07-04T20:03:00",
-    "category": "Magazines"
   }
 ]
