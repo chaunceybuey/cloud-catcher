@@ -330,6 +330,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton\u2019s Death Hits Home for Tennesseans: \u2018She Was One of Us\u2019",
+    "author": "Emily Cochrane",
+    "link": "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html",
+    "content": "As the nation mourned Dolly Parton\u2019s death on Tuesday, the grief was perhaps the most profound in Tennessee.",
+    "date": "2026-08-26T02:09:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/theater/paranormal-activity-review-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Paranormal Activity\u2019 Review: The Thing That Goes Bump in the Night",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/07/slaughter-executive-power-administration/687796/",
     "content": "Slaughteris a necessary corrective to our age of unaccountable bureaucracy.",
     "date": "2026-07-05T11:22:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a45af211d03129e638e43d2",
-    "feed_name": "Wired (Science)",
-    "title": "Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town",
-    "author": "Kylie Mohr",
-    "link": "https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/",
-    "content": "Wildfire survivors call fire-prediction markets \u201cmorally reprehensible\u201d and worry they could increase the risk of arson.",
-    "date": "2026-07-05T11:00:00",
     "category": "Magazines"
   }
 ]
