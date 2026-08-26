@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a8f1422fb2894bbff0c4b07",
+    "feed_name": "Wired (Science)",
+    "title": "How Rising Temperatures Likely Contributed to Nepal\u2019s Deadly Flood",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
+    "content": "Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.",
+    "date": "2026-08-26T22:19:44",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/movies/dolly-parton-movies-9-to-5.html",
     "feed_name": "NYT (Arts)",
     "title": "Even in Her Movies, Dolly Parton Kept Control",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/06/arts/smithsonian-trump-activism-american-history.html",
     "content": "In a lengthy report released on Saturday, the Trump administration accused the Smithsonian Institution\u2019s National Museum of American History of \u201cextreme political activism.\u201d",
     "date": "2026-07-06T21:02:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
-    "feed_name": "Douthat",
-    "title": "For America\u2019s 250th, Let\u2019s Get Something Clear About Our National Identity",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
-    "content": "It depends on both ideas and cultural inheritance.",
-    "date": "2026-07-06T20:19:10",
     "category": "NYT"
   }
 ]
