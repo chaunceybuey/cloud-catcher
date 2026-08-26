@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/movies/dolly-parton-movies-9-to-5.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Even in Her Movies, Dolly Parton Kept Control",
+    "author": "Wesley Morris",
+    "link": "https://www.nytimes.com/2026/08/26/movies/dolly-parton-movies-9-to-5.html",
+    "content": "During her Hollywood peak, Parton played women who knew their value, whether they were a secretary, brothel madam, hairdresser or radio show host.",
+    "date": "2026-08-26T21:56:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/arts/music/janie-bradford-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Janie Bradford, Co-Writer of Motown\u2019s First Hit, Dies at 87",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/06/09/opinion/america-250-national-identity.html",
     "content": "It depends on both ideas and cultural inheritance.",
     "date": "2026-07-06T20:19:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/06/arts/music/madonna-confessions-ii-album-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Confessions II\u2019 Review: Madonna Returns to the Dance Floor",
-    "author": "Evelyn McDonnell",
-    "link": "https://www.nytimes.com/2026/07/06/arts/music/madonna-confessions-ii-album-review.html",
-    "content": "Madonna performing in Times Square in June.",
-    "date": "2026-07-06T20:07:00",
     "category": "NYT"
   }
 ]
