@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/movies/it-ends-behind-the-scenes.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Beginnings of \u2018It Ends\u2019",
+    "author": "Nicolas Rapold",
+    "link": "https://www.nytimes.com/2026/08/26/movies/it-ends-behind-the-scenes.html",
+    "content": "How the writer-director Alexander Ullom turned post-grad existential anxiety and a tiny budget into his breakout debut horror film.",
+    "date": "2026-08-26T16:07:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton\u2019s Bedazzled, Bewigged and Bodacious Style",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/06/arts/television/the-five-star-weekend-what-to-watch-on-tv.html",
     "content": "From left: Regina Hall, Jennifer Garner, D\u2019Arcy Carden and Chlo\u00eb Sevigny in \u201cThe Five Star Weekend.\u201d",
     "date": "2026-07-06T05:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/05/arts/television/house-of-the-dragon-season-3-episode-3-recap.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018House of the Dragon\u2019 Season 3 Episode 3 Recap: The Rat Banquet",
-    "author": "Sean T. Collins",
-    "link": "https://www.nytimes.com/2026/07/05/arts/television/house-of-the-dragon-season-3-episode-3-recap.html",
-    "content": "It\u2019s not easy being queen: Emma D\u2019Arcy in \u201cHouse of the Dragon.\u201d",
-    "date": "2026-07-06T02:01:02",
     "category": "NYT"
   }
 ]
