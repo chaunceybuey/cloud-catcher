@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "0cd10a4b1f042bc27ac974076ee8a481",
+    "feed_name": "LRB",
+    "title": "At Tate Modern: On Hurvin Anderson",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n14/christine-okoth/at-tate-modern",
+    "content": "'Audition' by Hurvin Anderson (1998)",
+    "date": "2026-08-26T08:45:43",
+    "category": "Magazines"
+  },
+  {
     "id": "49164570160eb412f35d6167efd81fbc",
     "feed_name": "LRB",
     "title": "A Small Part of Paradise",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/04/arts/television/human-vapor-review-netflix.html",
     "content": "The model Uta Uchida, billed as UTA, stars in \u201cHuman Vapor,\u201d based on a 1960s Japanese film. The remake updates the story with anti-authoritarian and anticapitalist themes.",
     "date": "2026-07-04T09:01:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/04/movies/readers-choose-films-that-capture-america.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Readers Pick the Definitive Films That Capture America",
-    "author": "Stephanie Goodman",
-    "link": "https://www.nytimes.com/2026/07/04/movies/readers-choose-films-that-capture-america.html",
-    "content": "Though \u201cIdiocracy\u201d and \u201cThe Godfather\u201d topped their list, the sheer range of suggestions shows how there are many ways to understand the country.",
-    "date": "2026-07-04T09:01:04",
     "category": "NYT"
   }
 ]
