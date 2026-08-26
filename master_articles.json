@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "49164570160eb412f35d6167efd81fbc",
+    "feed_name": "LRB",
+    "title": "A Small Part of Paradise",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/a-small-part-of-paradise",
+    "content": "When Casablanca went into production in the spring of 1942, most of Morocco was a French protectorate, administered by the Vichy regime. The.\u00a0.\u00a0.",
+    "date": "2026-08-26T07:48:14",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/theater/paranormal-activity-review-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Paranormal Activity\u2019 Review: The Thing That Goes Bump in the Night",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/04/movies/readers-choose-films-that-capture-america.html",
     "content": "Though \u201cIdiocracy\u201d and \u201cThe Godfather\u201d topped their list, the sheer range of suggestions shows how there are many ways to understand the country.",
     "date": "2026-07-04T09:01:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/04/us/politics/joyce-beatty-kennedy-center.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Representative Joyce Beatty Still Celebrating Victory in Kennedy Center Legal Battle",
-    "author": "Olivia Diaz",
-    "link": "https://www.nytimes.com/2026/07/04/us/politics/joyce-beatty-kennedy-center.html",
-    "content": "Representative Joyce Beatty said she had been inspired to wage the legal battle out of a desire to protect the civil rights legacy of President John F. Kennedy.",
-    "date": "2026-07-04T09:00:59",
     "category": "NYT"
   }
 ]
