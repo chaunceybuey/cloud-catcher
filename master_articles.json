@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "c68998ef932b43b3224c0c22b2d27b6b",
+    "feed_name": "The Atlantic",
+    "title": "Why Jason Arday\u2019s Defenders Fight On",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/08/jason-arday-innocence-racism/688408/",
+    "content": "The concerted effort to airbrush the late fabulist\u2019s life",
+    "date": "2026-08-26T12:26:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/arts/music/dolly-parton-jolene-i-will-always-love-you.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton\u2019s One-Day Songwriting Feat",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/07/trump-july-4/687811/",
     "content": "The president demanded credit for a history that he regards as a sucker\u2019s mistake.",
     "date": "2026-07-05T12:50:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "e9df750c0b410cb00c8db5dad1976919",
-    "feed_name": "The Atlantic",
-    "title": "A President With More Control, but Less Power",
-    "author": "Philip Hamburger",
-    "link": "https://www.theatlantic.com/ideas/2026/07/slaughter-executive-power-administration/687796/",
-    "content": "Slaughteris a necessary corrective to our age of unaccountable bureaucracy.",
-    "date": "2026-07-05T11:22:11",
     "category": "Magazines"
   }
 ]
