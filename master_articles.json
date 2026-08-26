@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/theater/rupert-grint-harry-potter-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Rupert Grint Will Join \u2018Harry Potter\u2019 Again, This Time on Broadway",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/08/26/theater/rupert-grint-harry-potter-broadway.html",
+    "content": "Rupert Grint\u2019s \u201cCursed Child\u201d stint will follow on the heels of Tom Felton\u2019s run in the show as Draco Malfoy.",
+    "date": "2026-08-26T13:30:06",
+    "category": "NYT"
+  },
+  {
     "id": "c68998ef932b43b3224c0c22b2d27b6b",
     "feed_name": "The Atlantic",
     "title": "Why Jason Arday\u2019s Defenders Fight On",
@@ -19988,15 +19998,5 @@
     "content": "And, since it swaps cashew butter for the mayo, it can also stand the summer heat.",
     "date": "2026-07-05T13:00:09",
     "category": "NYT"
-  },
-  {
-    "id": "47006ea7c3601d05a2c339cc2af9ac3c",
-    "feed_name": "The Atlantic",
-    "title": "What Trump\u2019s July 4 Speech Revealed",
-    "author": "David Frum",
-    "link": "https://www.theatlantic.com/ideas/2026/07/trump-july-4/687811/",
-    "content": "The president demanded credit for a history that he regards as a sucker\u2019s mistake.",
-    "date": "2026-07-05T12:50:51",
-    "category": "Magazines"
   }
 ]
