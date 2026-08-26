@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/arts/music/janie-bradford-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Janie Bradford, Co-Writer of Motown\u2019s First Hit, Dies at 87",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/08/26/arts/music/janie-bradford-dead.html",
+    "content": "Janie Bradford, center, with members of the Oak Ridge Boys in 1974. During the early years of Motown, she worked the front desk and handled contracts along with writing songs.",
+    "date": "2026-08-26T21:26:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/26/movies/tim-curry-a-life-in-pictures.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tim Curry: A Life in Pictures",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/08/26/movies/tim-curry-a-life-in-pictures.html",
+    "content": "Curry thrived onstage and onscreen in meaty roles that brought him widespread recognition and generations of dedicated fans.",
+    "date": "2026-08-26T21:16:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton\u2019s Other Legacy: A Fortune Given Away, Dollar by Dollar",
@@ -188,6 +208,16 @@
     "content": "Dolly Parton spoke at the Library of Congress during a 2018 celebration of her organization, the Imagination Library, and its 100 millionth book donation.",
     "date": "2026-08-26T21:06:31",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240976",
+    "feed_name": "Texas Tribune",
+    "title": "Texas should establish three-year bachelor\u2019s degree options, Gov. Greg Abbott says",
+    "author": "Megan Menchaca",
+    "link": "https://feeds.texastribune.org/link/16799/17432453/texas-three-year-bachelors-college-degree-abbott",
+    "content": "Gov. Greg Abbott speaks to the Texas Classrooms Commission inside the Governor\u2019s mansion in Austin on Aug. 10, 2026.",
+    "date": "2026-08-26T21:06:10",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/08/26/books/dolly-parton-imagination-library.html",
@@ -19968,35 +19998,5 @@
     "content": "Madonna performing in Times Square in June.",
     "date": "2026-07-06T20:07:00",
     "category": "NYT"
-  },
-  {
-    "id": "1a97f4d4-45a0-4450-a6f2-506c5c353951",
-    "feed_name": "Economist",
-    "title": "The World Bank has ditched its climate targets",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets",
-    "content": "The rise and fall of the institution\u2019s love for green growth",
-    "date": "2026-07-06T19:40:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Richard H. Glanton, Combative Head of Barnes Foundation, Dies at 79",
-    "author": "Richard Sandomir",
-    "link": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
-    "content": "Richard H. Glanton in 1992. He served as president of the Barnes Foundation from 1990 to 1998.",
-    "date": "2026-07-06T19:32:41",
-    "category": "NYT"
-  },
-  {
-    "id": "117d8dd423d8f056030eb708d7a0f81d",
-    "feed_name": "LRB",
-    "title": "Trump\u2019s Golden Dome",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/july/trump-s-golden-dome",
-    "content": "A week into his second presidential term, Donald Trump issued Executive Order 14186: The Iron Dome for America, calling for \u2018a next-generation.\u00a0.\u00a0.",
-    "date": "2026-07-06T18:55:46",
-    "category": "Magazines"
   }
 ]
