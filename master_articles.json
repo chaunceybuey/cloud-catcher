@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/theater/paranormal-activity-review-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Paranormal Activity\u2019 Review: The Thing That Goes Bump in the Night",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/08/25/theater/paranormal-activity-review-broadway.html",
+    "content": "Travis A. Knight, left, and Cher \u00c1lvarez as a couple in crisis in \u201cParanormal Activity\u201d at the August Wilson Theater in Manhattan.",
+    "date": "2026-08-26T01:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton Died After Brief Battle With Cancer",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/04/us/politics/joyce-beatty-kennedy-center.html",
     "content": "Representative Joyce Beatty said she had been inspired to wage the legal battle out of a desire to protect the civil rights legacy of President John F. Kennedy.",
     "date": "2026-07-04T09:00:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/04/movies/catherine-lagaaia-moana-live-action.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Catherine Laga\u2019aia, \u2018Moana\u2019 Star, on the Funniest Podcast Episode Ever",
-    "author": "Kathryn Shattuck",
-    "link": "https://www.nytimes.com/2026/07/04/movies/catherine-lagaaia-moana-live-action.html",
-    "content": "\u201cI would just watch it, replay it, watch it, replay it,\u201d the \u201cMoana\u201d star said.",
-    "date": "2026-07-04T09:00:51",
     "category": "NYT"
   }
 ]
