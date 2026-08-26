@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/books/dolly-parton-imagination-library.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Will Dolly Parton\u2019s Imagination Library Survive Without Her?",
+    "author": "Ash Wu",
+    "link": "https://www.nytimes.com/2026/08/26/books/dolly-parton-imagination-library.html",
+    "content": "A cardboard cutout of Dolly Parton greets attendees at the 2025 National Book Festival in Washington, D.C.",
+    "date": "2026-08-26T20:35:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/arts/television/bill-cosby-assets-sexual-assault.html",
     "feed_name": "NYT (Arts)",
     "title": "Hearing to Review Bill Cosby\u2019s Assets as He Faces $59 Million Judgment",
@@ -188,6 +198,16 @@
     "content": "The status and whereabouts of Bill Cosby\u2019s assets have become an issue as a woman who successfully sued him on grounds he sexually assaulted her is looking to collect the $59 million judgment she was awarded.",
     "date": "2026-08-26T20:06:59",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=240955",
+    "feed_name": "Texas Tribune",
+    "title": "GOP nominee for San Antonio House seat apologizes for \u201ccrude and immature\u201d social media posts",
+    "author": "Renzo Downey",
+    "link": "https://feeds.texastribune.org/link/16799/17432420/texas-state-house-gop-candidate-old-social-media-posts-jorge-borrego",
+    "content": "Jorge Borrego, Republican candidate for Texas House District 118. The Bexar County district wraps around and includes a small part of San Antonio.",
+    "date": "2026-08-26T19:54:14",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/08/26/briefing/the-good-list-dolly-kermit-pelagic.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/05/dining/andy-baraghanis-chicken-salad-is-full-of-crunch.html",
     "content": "And, since it swaps cashew butter for the mayo, it can also stand the summer heat.",
     "date": "2026-07-06T17:44:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/06/dining/food-drink-banana-flavor.html",
-    "feed_name": "NYT (Food)",
-    "title": "Food and Beverages Have Gone Bananas",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/07/06/dining/food-drink-banana-flavor.html",
-    "content": "The familiarity of banana has made it ripe for beverage and snack experimentation.",
-    "date": "2026-07-06T17:39:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/books/100000010953525/understanding-the-world-cup-in-3-books.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Understanding the World Cup in 3 Books",
-    "author": "Miguel Salazar and Haimy Assefa",
-    "link": "https://www.nytimes.com/video/books/100000010953525/understanding-the-world-cup-in-3-books.html",
-    "content": "Miguel Salazar of the New York Times Books Review recommends three titles that can help you understand the history of the World Cup.",
-    "date": "2026-07-06T17:11:36",
     "category": "NYT"
   }
 ]
