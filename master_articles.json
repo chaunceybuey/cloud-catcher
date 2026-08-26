@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton\u2019s Other Legacy: A Fortune Given Away, Dollar by Dollar",
+    "author": "David Gelles",
+    "link": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
+    "content": "Dolly Parton spoke at the Library of Congress during a 2018 celebration of her organization, the Imagination Library, and its 100 millionth book donation.",
+    "date": "2026-08-26T21:06:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/books/dolly-parton-imagination-library.html",
     "feed_name": "NYT (Arts)",
     "title": "Will Dolly Parton\u2019s Imagination Library Survive Without Her?",
@@ -19988,15 +19998,5 @@
     "content": "A week into his second presidential term, Donald Trump issued Executive Order 14186: The Iron Dome for America, calling for \u2018a next-generation.\u00a0.\u00a0.",
     "date": "2026-07-06T18:55:46",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/05/dining/andy-baraghanis-chicken-salad-is-full-of-crunch.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Andy Baraghani\u2019s Chicken Salad Is Full of Crunch",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/07/05/dining/andy-baraghanis-chicken-salad-is-full-of-crunch.html",
-    "content": "And, since it swaps cashew butter for the mayo, it can also stand the summer heat.",
-    "date": "2026-07-06T17:44:50",
-    "category": "NYT"
   }
 ]
