@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/arts/music/dolly-parton-viral-moments.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Dolly Parton Moments That Are Going Viral After Her Death",
+    "author": "Claire Moses",
+    "link": "https://www.nytimes.com/2026/08/26/arts/music/dolly-parton-viral-moments.html",
+    "content": "Dolly Parton performing with Kenny Rogers in Los Angeles in 1983. The artists continued to work together for the next three decades.",
+    "date": "2026-08-26T13:54:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/theater/rupert-grint-harry-potter-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "Rupert Grint Will Join \u2018Harry Potter\u2019 Again, This Time on Broadway",
@@ -347,6 +357,16 @@
     "link": "https://www.lrb.co.uk/blog/2026/august/a-small-part-of-paradise",
     "content": "When Casablanca went into production in the spring of 1942, most of Morocco was a French protectorate, administered by the Vichy regime. The.\u00a0.\u00a0.",
     "date": "2026-08-26T07:48:14",
+    "category": "Magazines"
+  },
+  {
+    "id": "c21f7df6c192f3fa214886e04900155e",
+    "feed_name": "Outside",
+    "title": "Rachel Entrekin Outran the Entire Men's Field Across 253 Miles. She's Only Getting Started.",
+    "author": "Rebecca Byerly",
+    "link": "https://www.outsideonline.com/health/training-performance/rachel-entrekin-ultrarunner/",
+    "content": "",
+    "date": "2026-08-26T07:11:38",
     "category": "Magazines"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "America\u2019s centennial in 1876 was celebrated with a grand exhibition that projected an image of national unity and inventiveness in the anxious aftermath of civil war and recession.\n\nDelivered by PolitePaul service",
     "date": "2026-07-05T15:18:53",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/05/dining/this-olive-oil-zucchini-bread-is-just-sweet-enough.html",
-    "feed_name": "NYT (Food)",
-    "title": "This Olive Oil Zucchini Bread Is Just Sweet Enough",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/07/05/dining/this-olive-oil-zucchini-bread-is-just-sweet-enough.html",
-    "content": "Melissa Clark\u2019s olive oil zucchini bread.",
-    "date": "2026-07-05T15:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/05/dining/andy-baraghanis-chicken-salad-is-full-of-crunch.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Andy Baraghani\u2019s Chicken Salad Is Full of Crunch",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/07/05/dining/andy-baraghanis-chicken-salad-is-full-of-crunch.html",
-    "content": "And, since it swaps cashew butter for the mayo, it can also stand the summer heat.",
-    "date": "2026-07-05T13:00:09",
-    "category": "NYT"
   }
 ]
