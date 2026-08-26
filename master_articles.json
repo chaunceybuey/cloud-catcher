@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton Died After Brief Battle With Cancer",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html",
+    "content": "In the past, Dolly Parton said she had dealt with challenges involving her immune and digestive systems.",
+    "date": "2026-08-26T00:39:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-voice-appraisal.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton Had the Voice, and Concerns, of an Earth Angel",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/04/movies/catherine-lagaaia-moana-live-action.html",
     "content": "\u201cI would just watch it, replay it, watch it, replay it,\u201d the \u201cMoana\u201d star said.",
     "date": "2026-07-04T09:00:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/potato-salad-american",
-    "feed_name": "NYT (Food)",
-    "title": "Potato Salad Is the Best, Most American Dish We Have. Here\u2019s Why.",
-    "author": "Wesley Morris",
-    "link": "https://cooking.nytimes.com/article/potato-salad-american",
-    "content": "This staple of summer gatherings tells a story about who we are.",
-    "date": "2026-07-04T09:00:40",
     "category": "NYT"
   }
 ]
