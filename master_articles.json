@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a8c7de0dd042d49c2d1d203",
+    "feed_name": "Wired (Science)",
+    "title": "Submit Your Questions: The Great Data Center Backlash",
+    "author": "Tim Marchman, Maxwell Zeff, Molly Taft, Hugo Lowell",
+    "link": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
+    "content": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
+    "date": "2026-08-27T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=240991",
     "feed_name": "Texas Tribune",
     "title": "Here\u2019s what Greg Abbott, Gina Hinojosa say about education priorities in Texas governor\u2019s race",
@@ -19988,15 +19998,5 @@
     "content": "Something on Pluto and one of Saturn\u2019s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
     "date": "2026-07-07T18:03:40",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/07/arts/music/amplifier-newsletter-madonna-ciara-billy-strings.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Madonna\u2019s Retro Reverie and 5 More New Songs You Should Hear",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/07/07/arts/music/amplifier-newsletter-madonna-ciara-billy-strings.html",
-    "content": "Madonna in 1990. On her new single \u201cDanceteria,\u201d she takes a fresh approach to looking at her past.",
-    "date": "2026-07-07T18:00:05",
-    "category": "NYT"
   }
 ]
