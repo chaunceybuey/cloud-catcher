@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/27/arts/design/warhol-dolly-parton-portrait.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why Andy Warhol Couldn\u2019t Capture Dolly Parton",
+    "author": "Blake Gopnik",
+    "link": "https://www.nytimes.com/2026/08/27/arts/design/warhol-dolly-parton-portrait.html",
+    "content": "Andy Warhol\u2019s images of Parton don\u2019t strike me as up to the level of his best society portraits; they aren\u2019t quite worthy of the singer\u2019s complex excellence.",
+    "date": "2026-08-27T17:06:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/27/dining/on-spoons.html",
+    "feed_name": "NYT (Food)",
+    "title": "On Spoons",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/08/27/dining/on-spoons.html",
+    "content": "Ali Slagle\u2019s halloumi, peach and cucumber spoon salad.",
+    "date": "2026-08-27T17:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "bda5321b8d1b420510f12f3c3710a50f",
     "feed_name": "LRB",
     "title": "At Tate Britain: On Hurvin Anderson",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/08/movies/the-invite-esther-perel-olivia-wilde.html",
     "content": "The psychotherapist helped Olivia Wilde and her cast ground the antics of their relationship comedy in the reality of clinical practice.",
     "date": "2026-07-08T09:01:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/4-ways-to-grill-chicken-breasts-juicy",
-    "feed_name": "NYT (Food)",
-    "title": "4 Ways to Make Your Grilled Chicken Breasts Truly Juicy",
-    "author": "Genevieve Ko",
-    "link": "https://cooking.nytimes.com/article/4-ways-to-grill-chicken-breasts-juicy",
-    "content": "Make those dry, stringy breasts a thing of the past.",
-    "date": "2026-07-08T09:01:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/arts/design/bangladesh-photography-dhaka.html",
-    "feed_name": "NYT (Arts)",
-    "title": "America250? Try Bangladesh 2.",
-    "author": "Walker Mimms",
-    "link": "https://www.nytimes.com/2026/07/08/arts/design/bangladesh-photography-dhaka.html",
-    "content": "As America celebrates its anniversary of self-rule, a critic finds in Bangladesh a nimble photography scene that has flourished during a seismic regime change.",
-    "date": "2026-07-08T09:01:33",
     "category": "NYT"
   }
 ]
