@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Yayoi Kusama: A Life in Pictures",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+    "content": "Yayoi Kusama in New York in 2013.",
+    "date": "2026-08-27T13:55:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/27/theater/here-there-are-blueberries-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Here There Are Blueberries,\u2019 About a Trove of Nazi Photos, Heads to Broadway",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
     "content": "Judging credit risk of the AI boom is difficult",
     "date": "2026-07-07T20:08:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "9365a8de-f8b5-4252-afcc-693430fe074a",
-    "feed_name": "Economist",
-    "title": "Europe\u2019s economy is a mess. Its stock markets are a steal",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/07/europes-economy-is-a-mess-its-stock-markets-are-a-steal",
-    "content": "International investors still aren\u2019t interested",
-    "date": "2026-07-07T19:20:24",
     "category": "Magazines"
   }
 ]
