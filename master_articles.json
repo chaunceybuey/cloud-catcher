@@ -210,6 +210,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/27/arts/peter-cullen-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Peter Cullen, Who Voiced Optimus Prime in \u2018Transformers,\u2019 Dies at 85",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/08/27/arts/peter-cullen-dead.html",
+    "content": "Peter Cullen at the premiere of \u201cTransformers: Rise of the Beasts\u201d in 2023. He said his brother Larry coached him on how to approach the character of Optimus Prime: \u201cBe strong enough to be gentle.\u201d",
+    "date": "2026-08-27T22:03:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/27/arts/music/trump-kennedy-center-name.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Judge Says Trump\u2019s Name Should Stay Off Kennedy Center for Now",
+    "author": "Zach Montague and Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/08/27/arts/music/trump-kennedy-center-name.html",
+    "content": "Though President Trump\u2019s name was taken down weeks ago, the scaffolding and tarps used in the process remain up outside the Kennedy Center.",
+    "date": "2026-08-27T21:46:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/27/world/asia/filipinana-film-golf-course-philippines.html",
     "feed_name": "NYT (Arts)",
     "title": "Rafael Manuel\u2019s Film \u2018Filipi\u00f1ana\u2019 Makes a Golf Course a Villain",
@@ -19976,26 +19996,6 @@
     "author": "Ayden Runnels",
     "link": "https://feeds.texastribune.org/link/16799/17374849/texas-crypto-scam-how-to-spot-bitcoin-fraud",
     "content": "A cryptocurrency kiosk inside a convenience store on Airport Boulevard in Austin on July 7, 2026.",
-    "date": "2026-07-08T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235363",
-    "feed_name": "Texas Tribune",
-    "title": "Crypto kiosks were used to scam $56 million from Texans last year. Lawmakers are calling for regulation.",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17374850/texas-cryptocurrency-kiosk-bitcoin-atm-scam-fraud",
-    "content": "A Bitcoin ATM stands next to another ATM inside an Austin convenience store on July 7, 2026.",
-    "date": "2026-07-08T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235393",
-    "feed_name": "Texas Tribune",
-    "title": "Texas A&M president\u2019s five-year contract includes $1.25 million in base pay",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17374851/texas-tamu-susan-ballabina-president-contract",
-    "content": "Susan Ballabina, now president of Texas A&amp;M University, during a board of regents meeting at the Texas A&amp;M Hotel and Conference Center in College Station on Nov. 13, 2025.",
     "date": "2026-07-08T10:00:00",
     "category": "Texas"
   }
