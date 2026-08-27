@@ -220,6 +220,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=241050",
+    "feed_name": "Texas Tribune",
+    "title": "Ross Fire grows to one of the largest wildfires on record in North Texas",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17433096/texas-ross-fire-wildfires-north-texas",
+    "content": "The Ross fire started in Palo Pinto County on Aug. 24, 2026 and has since grown to more than 80,000 acres across Palo Pinto and Jack counties.",
+    "date": "2026-08-27T16:42:45",
+    "category": "Texas"
+  },
+  {
     "id": "bda5321b8d1b420510f12f3c3710a50f",
     "feed_name": "LRB",
     "title": "At Tate Britain: On Hurvin Anderson",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/08/arts/television/how-little-house-welcomes-native-neighbors.html",
     "content": "From left, Xander Cole and Corvin Mack on horseback filming a new adaptation of \u201cLittle House on the Prairie\u201d reshaped to include Native characters and perspectives.",
     "date": "2026-07-08T09:02:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/movies/the-invite-esther-perel-olivia-wilde.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Therapist Esther Perel Helped Olivia Wilde Perfect the Sexual Dynamics in \u2018The Invite\u2019",
-    "author": "Clarissa Cruz and Rosie Marks",
-    "link": "https://www.nytimes.com/2026/07/08/movies/the-invite-esther-perel-olivia-wilde.html",
-    "content": "The psychotherapist helped Olivia Wilde and her cast ground the antics of their relationship comedy in the reality of clinical practice.",
-    "date": "2026-07-08T09:01:56",
     "category": "NYT"
   }
 ]
