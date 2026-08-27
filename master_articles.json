@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97",
+    "author": "Holland Cotter",
+    "link": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+    "content": "The Japanese artist\u2019s polka-dot covered paintings, phallic sculptures and public performances caused a stir in New York City and Europe in the 1960s.",
+    "date": "2026-08-27T02:26:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/26/theater/tim-curry-rocky-horror-spamalot.html",
     "feed_name": "NYT (Arts)",
     "title": "As a Storyteller, Tim Curry Had the Gift",
@@ -19988,15 +19998,5 @@
     "content": "He said there wouldn\u2019t be any more scandals, but a new <em>Politico</em> report threatens to end his Senate campaign in Maine.\nDelivered by PolitePaul service",
     "date": "2026-07-06T23:18:51",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/06/arts/music/indio-solari-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Indio Solari, Argentine Rocker Who Packed Stadiums, Dies at 77",
-    "author": "Adam Nossiter",
-    "link": "https://www.nytimes.com/2026/07/06/arts/music/indio-solari-dead.html",
-    "content": "Indio Solari at his last public concert, in 2017. Phrases from his cryptic songs, filled with fictional characters and esoteric metaphors, found their way onto tattoos and T-shirts across Argentina.",
-    "date": "2026-07-06T21:59:11",
-    "category": "NYT"
   }
 ]
