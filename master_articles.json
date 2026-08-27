@@ -220,6 +220,16 @@
     "category": "Magazines"
   },
   {
+    "id": "6fa0d31496170edd1729e431bde29fdf",
+    "feed_name": "The Atlantic",
+    "title": "The Absolute Pleasure of Tim Curry",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/08/tim-curry-tribute/688422/",
+    "content": "His magic lay in his ability to be outrageous without being self-conscious.",
+    "date": "2026-08-26T23:57:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a8f1422fb2894bbff0c4b07",
     "feed_name": "Wired (Science)",
     "title": "How Rising Temperatures Likely Contributed to Nepal\u2019s Deadly Flood",
@@ -19988,15 +19998,5 @@
     "content": "The comedian and actress joked that \u201cthere was more people at my bat mitzvah\u201d than at America\u2019s 250th birthday party.",
     "date": "2026-07-07T05:42:18",
     "category": "NYT"
-  },
-  {
-    "id": "3f303c1a05acda54f51ee2619e9d07cb",
-    "feed_name": "Outside",
-    "title": "This State Will Pay You $12,000 to Move There\u2014and the Mountain Biking Is World-Class",
-    "author": "Eric J. Wallace",
-    "link": "https://www.outsideonline.com/adventure-travel/destinations/north-america/west-virginia-outdoor-tourism-infrastructure-growth/",
-    "content": "",
-    "date": "2026-07-07T03:42:17",
-    "category": "Magazines"
   }
 ]
