@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/27/arts/grand-theft-auto-vi-trailer-extended-look-rockstar.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Grand Theft Auto VI Has a New Trailer and Grand Ambitions",
+    "author": "Christopher Byrd",
+    "link": "https://www.nytimes.com/2026/08/27/arts/grand-theft-auto-vi-trailer-extended-look-rockstar.html",
+    "content": "Of course you can steal cars in this Bonnie and Clyde story. In the series\u2019s first game in 13 years, you can do almost anything else, too.",
+    "date": "2026-08-27T19:02:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/27/arts/design/warhol-dolly-parton-portrait.html",
     "feed_name": "NYT (Arts)",
     "title": "Why Andy Warhol Couldn\u2019t Capture Dolly Parton",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/08/movies/the-hole-lincoln-center.html",
     "content": "Tsai Ming-liang\u2019s 1990s doomsday film gets its first theatrical run with a new 35 mm print at both Film Society at Lincoln Center and Metrograph.",
     "date": "2026-07-08T09:02:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Some U.K. Hospitals, the T.L.C. Includes a Movie Theater",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html",
-    "content": "\u201cWhen they come here they can be themselves,\u201d Nikki Mulhall, a nurse at Chelsea and Westminster Hospital in London, said of patients who attend the screenings.",
-    "date": "2026-07-08T09:02:06",
     "category": "NYT"
   }
 ]
