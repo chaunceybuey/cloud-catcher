@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/26/theater/tim-curry-rocky-horror-spamalot.html",
+    "feed_name": "NYT (Arts)",
+    "title": "As a Storyteller, Tim Curry Had the Gift",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/08/26/theater/tim-curry-rocky-horror-spamalot.html",
+    "content": "He was a blast to watch, whether playing a mad scientist in \u201cThe Rocky Horror Picture Show,\u201d a butler in \u201cClue\u201d or a singing King Arthur in \u201cSpamalot.\u201d",
+    "date": "2026-08-27T01:26:06",
+    "category": "NYT"
+  },
+  {
     "id": "6a8f4ac8df20f73c7f27346a",
     "feed_name": "Wired (Science)",
     "title": "How to See the Partial Lunar Eclipse and Blood Moon on August 27",
@@ -19988,15 +19998,5 @@
     "content": "Indio Solari at his last public concert, in 2017. Phrases from his cryptic songs, filled with fictional characters and esoteric metaphors, found their way onto tattoos and T-shirts across Argentina.",
     "date": "2026-07-06T21:59:11",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235203",
-    "feed_name": "Texas Tribune",
-    "title": "Death of former Afghan ally while in ICE custody ruled an accident",
-    "author": "By Ryan J. Foley Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17374081/afghanistan-ally-ice-detainee-death-cause-dallas",
-    "content": "Mohammad Nazeer Paktiawal with two of his children.",
-    "date": "2026-07-06T21:46:09",
-    "category": "Texas"
   }
 ]
