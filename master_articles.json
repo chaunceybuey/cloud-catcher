@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=241214",
+    "feed_name": "Texas Tribune",
+    "title": "With costs up, healthcare a defining issue in South Texas\u2019 battleground House races",
+    "author": "Samanta Habashy",
+    "link": "https://feeds.texastribune.org/link/16799/17433874/south-texas-congress-healthcare-costs-medicaid-rio-grande-valley-midterms",
+    "content": "A patient is removed from an ambulance and dropped off at DHR Health hospital in McAllen on July 1, 2020.",
+    "date": "2026-08-28T17:35:30",
+    "category": "Texas"
+  },
+  {
     "id": "4a8b287f-3315-40f9-80f9-f8aefe3fb989",
     "feed_name": "Economist",
     "title": "Kevin Warsh tries being a normal central banker",
@@ -19988,15 +19998,5 @@
     "content": "Nominations for unscripted programs recognized a certain newlywed and the scandalous reality hit of the spring.",
     "date": "2026-07-08T19:06:33",
     "category": "NYT"
-  },
-  {
-    "id": "ca175dcc55ab5123cf80370cf11e92bf",
-    "feed_name": "LRB",
-    "title": "Transitions: Sita Balani & Jay Bernard chaired by Sana Goyal",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/transitions-sita-balani-jay-bernard-chaired-by-sana-goyal-tickets-1990414783197",
-    "content": "",
-    "date": "2026-07-08T18:19:13",
-    "category": "Magazines"
   }
 ]
