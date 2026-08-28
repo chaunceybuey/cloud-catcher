@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/28/arts/design/robert-indiana-home-museum-sale.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Home Robert Indiana Left Behind as Possible Museum Site to Be Sold",
+    "author": "Murray Carpenter",
+    "link": "https://www.nytimes.com/2026/08/28/arts/design/robert-indiana-home-museum-sale.html",
+    "content": "Robert Indiana\u2019s former home on the island of Vinalhaven in Maine. The artist\u2019s will designated it as a site for an arts center. But the foundation he created has decided to sell it.",
+    "date": "2026-08-28T16:05:51",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/28/movies/finding-emily-movie-gen-z-rom-com.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Finding Emily,\u2019 a Gen Z Rom-Com, Isn\u2019t Timeless. That\u2019s the Point.",
@@ -228,6 +238,16 @@
     "content": "The British movie aims to speak to young viewers by exploring love and romance in the digital age. The actors themselves served as consultants.",
     "date": "2026-08-28T15:43:57",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241083",
+    "feed_name": "Texas Tribune",
+    "title": "FEMA still hasn\u2019t approved most disaster aid for Texans hit by this year\u2019s July floods",
+    "author": "Emily Foxhall and Dan Keemahill",
+    "link": "https://feeds.texastribune.org/link/16799/17433810/texas-floods-july-2026-fema-disaster-aid",
+    "content": "People clean up a flooded home in Kerrville on July 16, 2026.",
+    "date": "2026-08-28T15:23:51",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/08/28/dining/a-tomato-and-white-bean-stew-for-summer.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-snubs-surprises.html",
     "content": "\u201cYour Friends & Neighbors,\u201d the Apple TV suburban satire, was a surprise nominee for best drama, but the star, Jon Hamm, was snubbed.",
     "date": "2026-07-08T17:01:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/arts/television/love-story-jfk-jr-emmy-nominations.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Love Story,\u2019 FX\u2019s JFK Jr. Series, Picks Up Fewer Emmy Nods Than Expected",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/2026/07/08/arts/television/love-story-jfk-jr-emmy-nominations.html",
-    "content": "The FX docudrama about the tragic romance between John F. Kennedy Jr. and Carolyn Bessette received fewer nominations than its competitors.",
-    "date": "2026-07-08T16:56:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/arts/music/trump-kennedy-center-name-appeal.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Trump\u2019s Name Must Remain Off Kennedy Center For Now, Appeals Court Rules",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/07/08/arts/music/trump-kennedy-center-name-appeal.html",
-    "content": "Before the Kennedy Center removed President Trump\u2019s name from the building\u2019s facade, workers erected scaffolding covered in tarps, obscuring the work.",
-    "date": "2026-07-08T16:55:10",
     "category": "NYT"
   }
 ]
