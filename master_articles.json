@@ -220,6 +220,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=241081",
+    "feed_name": "Texas Tribune",
+    "title": "John Cornyn is raising money for competitive Senate races \u2014\u00a0just not in Texas",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17433527/john-cornyn-ken-paxton-texas-fundraising-talarico-senate-race",
+    "content": "U.S. Sen. John Cornyn leaves a press conference after conceding to Republican candidate for U.S. Senate Ken Paxton after polls closed for the Texas primary runoff election in Austin, on May 26, 2026.",
+    "date": "2026-08-28T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241123",
+    "feed_name": "Texas Tribune",
+    "title": "Moms who had children via surrogacy urge Texas to preserve the only way they could have families",
+    "author": "Katlyn Ma",
+    "link": "https://feeds.texastribune.org/link/16799/17433528/texas-surrogacy-agencies-contracts-best-practices-ban-restrictions",
+    "content": "Parents Kevin Stone and Angie Koriakos sit with daughter Eliana Stone in their home  in Dallas on Aug. 26, 2026. Eliana was born via a surrogate.",
+    "date": "2026-08-28T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6a90673a7c6f6af27c8826af",
     "feed_name": "Wired (Science)",
     "title": "There Are So Many Conspiracy Theories About Dolly Parton and Vaccines",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html",
     "content": "The prime time Emmys ceremony will be held on Sept. 14.",
     "date": "2026-07-08T15:42:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235478",
-    "feed_name": "Texas Tribune",
-    "title": "Faculty groups sue to block Texas Tech rules limiting instruction on race, gender, sexual orientation",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17375004/texas-tech-lawsuit-creighton-race-gender-instruction",
-    "content": "Texas Tech University System Chancellor Brandon Creighton walks back to his seat during a board of regents meeting at the Texas Tech University Health Sciences Center in Dallas on Feb. 26, 2026.",
-    "date": "2026-07-08T15:18:23",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/dining/you-oughta-piccata.html",
-    "feed_name": "NYT (Food)",
-    "title": "You Oughta Piccata",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/08/dining/you-oughta-piccata.html",
-    "content": "Ali Slagle\u2019s chicken piccata.",
-    "date": "2026-07-08T15:00:07",
     "category": "NYT"
   }
 ]
