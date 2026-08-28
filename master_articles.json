@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "4a8b287f-3315-40f9-80f9-f8aefe3fb989",
+    "feed_name": "Economist",
+    "title": "Kevin Warsh tries being a normal central banker",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+    "content": "And markets like it",
+    "date": "2026-08-28T17:02:18",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=19819",
     "feed_name": "Stratechery",
     "title": "2026.35: Internet Hype and Real World Change",
@@ -19987,16 +19997,6 @@
     "link": "https://www.eventbrite.co.uk/e/transitions-sita-balani-jay-bernard-chaired-by-sana-goyal-tickets-1990414783197",
     "content": "",
     "date": "2026-07-08T18:19:13",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a4c324a1a7d3d7d0bef1040",
-    "feed_name": "Wired (Science)",
-    "title": "Dimming the Sun Would Help Lower the Risks of El Ni\u00f1o",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/",
-    "content": "As worries about a growing super El Ni\u00f1o mount, new findings suggest a radical solution to mitigating its impacts.",
-    "date": "2026-07-08T18:00:00",
     "category": "Magazines"
   }
 ]
