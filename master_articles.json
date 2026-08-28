@@ -210,6 +210,76 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/28/movies/new-movies-this-week-critics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "9 New Movies Our Critics Are Talking About This Week",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/08/28/movies/new-movies-this-week-critics.html",
+    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+    "date": "2026-08-28T09:02:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/28/arts/arion-press-san-francisco-declaration-independence.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A New Declaration of Independence for America\u2019s 250th Birthday From Arion Press",
+    "author": "Jennifer Schuessler and Gabriela Bhaskar",
+    "link": "https://www.nytimes.com/2026/08/28/arts/arion-press-san-francisco-declaration-independence.html",
+    "content": "Components of \u201cDeclare\u201d on view in Arion\u2019s press room, with a photograph of the historic wood from Monticello used in the project.",
+    "date": "2026-08-28T09:01:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/28/theater/les-miserables-review-hudson-valley-shakespeare.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Les Mis\u00e9rables\u2019 Review: The Barricades Rise Above the Hudson",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/08/28/theater/les-miserables-review-hudson-valley-shakespeare.html",
+    "content": "\u201cLes Mis\u00e9rables,\u201d performed by Hudson Valley Shakespeare\u2019s 21-person company in Garrison, N.Y.",
+    "date": "2026-08-28T09:01:50",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/28/arts/music/foo-fighters-live-setlist.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How the Foo Fighters Fill a Three-Hour Set List, Night After Night",
+    "author": "Leah Greenblatt",
+    "link": "https://www.nytimes.com/2026/08/28/arts/music/foo-fighters-live-setlist.html",
+    "content": "Dave Grohl, the frontman of the Foo Fighters, tells us how he packs 31 years into 3 hours with something for fans of every generation.",
+    "date": "2026-08-28T09:00:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/28/arts/music/floating-points-dance-and-ballet-music.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Floating Points Makes Music for the Dance Floor, and Ballet",
+    "author": "Hugh Morris and Michael Vince Kim",
+    "link": "https://www.nytimes.com/2026/08/28/arts/music/floating-points-dance-and-ballet-music.html",
+    "content": "Floating Points, the D.J. and composer whose real name is Sam Shepherd.",
+    "date": "2026-08-28T09:00:33",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/28/movies/butthole-surfers-documentary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A New Documentary Gives Butthole Surfers Their Due",
+    "author": "Mark Yarm",
+    "link": "https://www.nytimes.com/2026/08/28/movies/butthole-surfers-documentary.html",
+    "content": "A new movie explores Butthole Surfers\u2019 musical legacy, with layers of loss and regret. \u201cIt\u2019s kind of vindicating,\u201d the singer Gibby Haynes said.",
+    "date": "2026-08-28T09:00:20",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/28/books/mystery-detective-books-adults.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Adult Mystery Books for Fans of Detectives and Spies",
+    "author": "Tess Gerritsen",
+    "link": "https://www.nytimes.com/2026/08/28/books/mystery-detective-books-adults.html",
+    "content": "The best-selling thriller writer Tess Gerritsen likes older detectives who bring a lifetime of experience to their cases.",
+    "date": "2026-08-28T09:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=241166",
     "feed_name": "Texas Tribune",
     "title": "Trump visits Texas to fundraise for Ken Paxton\u2019s Senate bid",
@@ -19927,76 +19997,6 @@
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/among-the-private-spies",
     "content": "The Trump-Russia dossier, leaked to the press in 2017, contained multiple allegations of collusion between the US president and Putin, including reports of meetings between Kremlin officials and members of Trump\u2019s campaign team, and the existence of kompromat in the form of the infamous \u2018pee tape\u2019. Shortly after the dossier was leaked, Christopher Steele, the head of a...",
     "date": "2026-07-08T14:15:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "014f5baf5aab677522fc1a5502a9fd6d",
-    "feed_name": "LRB",
-    "title": "The War in Lebanon",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/the-war-in-lebanon",
-    "content": "Lebanese and Israeli delegations met in Washington this week for their first direct talks in 33 years. On 15 April, with talks underway, the IDF\u2019s chief of staff, Eyal Zamir, designated all of southern Lebanon up to the Litani River a \u2018Hizbullah kill zone\u2019.",
-    "date": "2026-07-08T14:15:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "a03ec4d4-990f-4fe3-bf17-11c6d166f5e0",
-    "feed_name": "Economist",
-    "title": "Three ways the LNG market could crack before winter",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter",
-    "content": "War, weather and outages may still send gas prices soaring",
-    "date": "2026-07-08T14:08:15",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/arts/design/native-american-remains-hair-museum.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Decades Late, Museum Scrambles to Return 2,700 Native Remains",
-    "author": "Zachary Small",
-    "link": "https://www.nytimes.com/2026/07/08/arts/design/native-american-remains-hair-museum.html",
-    "content": "Data sheets from an anthropologist who collected hair samples from Native Americans in the 1890s are stored in boxes at the American Museum of Natural History in New York.",
-    "date": "2026-07-08T13:59:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Emmy Nominees 2026: Updating List",
-    "author": "Shivani Gonzalez",
-    "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
-    "content": "Television shows that aired between June 1, 2025, and May 31, 2026, are eligible to be nominated for this year\u2019s Emmys.",
-    "date": "2026-07-08T13:14:08",
-    "category": "NYT"
-  },
-  {
-    "id": "9e5647d2255ba630ade6ac8b2cd7f480",
-    "feed_name": "LRB",
-    "title": "Foul Means",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/july/foul-means",
-    "content": "The dodgy financing, the undeclared cash and the association with a flagrant crook could permanently tarnish Farage\u2019s vaunted anti-establishment credentials. We all reach for the familiar when we\u2019re desperate, and for Farage that means engineering a \u2018people v. the establishment\u2019 by-election.",
-    "date": "2026-07-08T11:06:36",
-    "category": "Magazines"
-  },
-  {
-    "id": "dd4f2227d64347317bc06ad45c03d9d8",
-    "feed_name": "Compact",
-    "title": "Julius Evola\u2019s Many Lives",
-    "author": "",
-    "link": "https://www.compactmag.com/article/julius-evolas-many-lives/",
-    "content": "",
-    "date": "2026-07-08T11:06:32",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a3ad251415911d85938515d",
-    "feed_name": "Wired",
-    "title": "What Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out",
-    "author": "Andy Greenberg",
-    "link": "https://www.wired.com/story/what-happens-if-china-hacks-the-us-water-supply-war-game-volt-typhoon/",
-    "content": "Burst water mains. Evacuated hospitals. In a closed-door simulation, insurers played out their response to a mass disruption by China\u2019s Volt Typhoon hackers\u2014and found a nightmare scenario.",
-    "date": "2026-07-08T10:00:00",
     "category": "Magazines"
   }
 ]
