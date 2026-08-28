@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=241230",
+    "feed_name": "Texas Tribune",
+    "title": "Texas regulators approve two massive West Texas transmission lines amid outcry from landowners",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17433923/transmission-lines-texas-energy",
+    "content": "Power lines go through a property in Bells, seen on March 10, 2026.",
+    "date": "2026-08-28T19:07:50",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22459-sur-swagar-sitarji",
     "feed_name": "KMFA",
     "title": "Sur Swagar &amp; Sitarji",
@@ -19988,15 +19998,5 @@
     "content": "The cease-fire was always just a Trump fantasy.",
     "date": "2026-07-08T19:10:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/arts/television/taylor-swift-reality-tv-emmys.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Taylor Swift and Reality TV Shows Like \u2018Summer House\u2019 Earn Emmy Nods",
-    "author": "Shivani Gonzalez",
-    "link": "https://www.nytimes.com/2026/07/08/arts/television/taylor-swift-reality-tv-emmys.html",
-    "content": "Nominations for unscripted programs recognized a certain newlywed and the scandalous reality hit of the spring.",
-    "date": "2026-07-08T19:06:33",
-    "category": "NYT"
   }
 ]
