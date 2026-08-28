@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "4255bca0aa2202e0c3d03297e40f721b",
+    "feed_name": "LRB",
+    "title": "At the Wittockiana",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/august/at-the-wittockiana",
+    "content": "The Wittockiana museum has a slight air of mystery. Deep in suburban Brussels, crouching discreetly behind ramparts of greenery, it\u2019s.\u00a0.\u00a0.",
+    "date": "2026-08-28T01:20:04",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/27/arts/peter-cullen-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Peter Cullen, Who Voiced Optimus Prime in \u2018Transformers,\u2019 Dies at 85",
@@ -19988,15 +19998,5 @@
     "content": "<p>Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.</p>",
     "date": "2026-07-08T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235351",
-    "feed_name": "Texas Tribune",
-    "title": "What to know as cryptocurrency scams rise in Texas",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17374849/texas-crypto-scam-how-to-spot-bitcoin-fraud",
-    "content": "A cryptocurrency kiosk inside a convenience store on Airport Boulevard in Austin on July 7, 2026.",
-    "date": "2026-07-08T10:00:00",
-    "category": "Texas"
   }
 ]
