@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=241166",
+    "feed_name": "Texas Tribune",
+    "title": "Trump visits Texas to fundraise for Ken Paxton\u2019s Senate bid",
+    "author": "By Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17433343/texas-trump-paxton-talarico-senate-campaign",
+    "content": "U.S. President Donald Trump waves to supporters after disembarking Air Force One at Ellington Field Joint Reserve Base in Houston on Aug. 27, 2026.",
+    "date": "2026-08-28T01:52:54",
+    "category": "Texas"
+  },
+  {
     "id": "4255bca0aa2202e0c3d03297e40f721b",
     "feed_name": "LRB",
     "title": "At the Wittockiana",
@@ -19988,15 +19998,5 @@
     "content": "Burst water mains. Evacuated hospitals. In a closed-door simulation, insurers played out their response to a mass disruption by China\u2019s Volt Typhoon hackers\u2014and found a nightmare scenario.",
     "date": "2026-07-08T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19455",
-    "feed_name": "Stratechery",
-    "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
-    "content": "<p>Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.</p>",
-    "date": "2026-07-08T10:00:00",
-    "category": "Tech"
   }
 ]
