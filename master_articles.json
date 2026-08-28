@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/28/arts/design/roy-slaper-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Roy Slaper, Unlikely \u2018Legend\u2019 of Denim, Dies at 54",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/08/28/arts/design/roy-slaper-dead.html",
+    "content": "After filling his apartment with industrial sewing machines, he began producing high-end jeans that made him famous with denim-heads in the days of lumberjack chic.",
+    "date": "2026-08-28T21:34:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22328-ctx-live-theater-avenue-q",
     "feed_name": "KMFA",
     "title": "CTX Live Theater: Avenue Q",
@@ -19988,15 +19998,5 @@
     "content": "Justin Bieber, a two-time Grammy Award winner known for hits like \u201cBaby\u201d and \u201cNever Say Never,\u201d performing at the Coachella music festival in April.",
     "date": "2026-07-08T19:13:12",
     "category": "NYT"
-  },
-  {
-    "id": "290104355d96fd670227d2aa4011560b",
-    "feed_name": "The Atlantic",
-    "title": "Iran, Not Trump, Is in Control of This War",
-    "author": "Tom Nichols",
-    "link": "https://www.theatlantic.com/ideas/2026/07/iran-controls-war-trump/687848/",
-    "content": "The cease-fire was always just a Trump fantasy.",
-    "date": "2026-07-08T19:10:00",
-    "category": "Magazines"
   }
 ]
