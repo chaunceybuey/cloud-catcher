@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/28/arts/design/spain-museum-heist-treasure-of-villena.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Thieves Steal Bronze Age Treasures in Brazen Spanish Museum Heist",
+    "author": "Nina Siegal",
+    "link": "https://www.nytimes.com/2026/08/28/arts/design/spain-museum-heist-treasure-of-villena.html",
+    "content": "The Treasure of Villena, most of which was taken from a Spanish museum in an early-morning robbery on Thursday.",
+    "date": "2026-08-28T16:45:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/28/arts/design/robert-indiana-home-museum-sale.html",
     "feed_name": "NYT (Arts)",
     "title": "The Home Robert Indiana Left Behind as Possible Museum Site to Be Sold",
@@ -19988,15 +19998,5 @@
     "content": "Ronaldo Salgado, center, fights back tears as he speaks about the shooting death of his father, Lorenzo Salgado Araujo, during a press conference Wednesday, July. 8, 2026, in Houston. At left, holding pictures, is Lorenzo Salgado Jr.",
     "date": "2026-07-08T17:24:49",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/08/arts/television/emmy-snubs-surprises.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Emmys Snubs and Surprises 2026: Jon Hamm, \u2018Half Man\u2019 and More",
-    "author": "Mike Hale",
-    "link": "https://www.nytimes.com/2026/07/08/arts/television/emmy-snubs-surprises.html",
-    "content": "\u201cYour Friends & Neighbors,\u201d the Apple TV suburban satire, was a surprise nominee for best drama, but the star, Jon Hamm, was snubbed.",
-    "date": "2026-07-08T17:01:13",
-    "category": "NYT"
   }
 ]
