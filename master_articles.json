@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a8f2d32377f7d54e320aa59",
+    "feed_name": "Wired (Science)",
+    "title": "NASA\u2019s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
+    "author": "Meghan Bartels",
+    "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
+    "content": "Astronomers will test equipment that, if it\u2019s successful, will one day be crucial for discovering Earthlike planets.",
+    "date": "2026-08-29T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/29/arts/music/tupac-shakur-trial-murder-week-2.html",
     "feed_name": "NYT (Arts)",
     "title": "Tupac Shakur Murder Trial: Takeaways From Week 2",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/09/arts/television/little-house-on-the-prairie-review-netflix.html",
     "content": "The classic story (and recent culture-war object) remains wholesome but makes room for people who called the prairie home before the Ingalls family.",
     "date": "2026-07-09T09:00:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/books/100000010971102/which-version-of-the-odyssey-should-you-read.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Which Version of the \u2018Odyssey\u2019 Should You Read?",
-    "author": "A.O. Scott, L\u00e9o Hamelin, Gabriel Blanco and Laura Salaberry",
-    "link": "https://www.nytimes.com/video/books/100000010971102/which-version-of-the-odyssey-should-you-read.html",
-    "content": "Homer\u2019s \u201cOdyssey\u201d has been translated into English countless times, with versions ranging from contemporary and accessible to highly poetic. A.O. Scott, critic at large for The New York Times Book Review, breaks down three translations and explains which one might be right for you.",
-    "date": "2026-07-09T09:00:32",
     "category": "NYT"
   }
 ]
