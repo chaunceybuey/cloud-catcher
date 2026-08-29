@@ -240,6 +240,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=241303",
+    "feed_name": "Texas Tribune",
+    "title": "Prosecutor will take Houston ICE shooting case to grand jury",
+    "author": "Lomi Kriel",
+    "link": "https://feeds.texastribune.org/link/16799/17434084/texas-houston-ice-shooting-district-attorney-teare-grand-jury",
+    "content": "A memorial for Lorenzo Salgado Araujo, who was fatally shot by an immigration officer in Houston.",
+    "date": "2026-08-28T23:07:52",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=241289",
     "feed_name": "Texas Tribune",
     "title": "Texas lawmaker wants oil regulators to explain why they ended public comment at meetings",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/is-an-air-conditioning-revolution-coming-to-europe/",
     "content": "As extreme heat becomes the norm on the continent, the AC culture wars may be solved by advances in environmentally friendly technology.",
     "date": "2026-07-09T08:44:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "d7b40c5a-955b-442b-8705-eaea67f74c2e",
-    "feed_name": "Economist",
-    "title": "China\u2019s capital markets take on Xi Jinping\u2019s tech ambitions",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/09/chinas-capital-markets-take-on-xi-jinpings-tech-ambitions",
-    "content": "The comeback they are staging may not be enough",
-    "date": "2026-07-09T08:27:02",
     "category": "Magazines"
   }
 ]
