@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "b9f0a23bc84b6ab706cc4542d5a30d60",
+    "feed_name": "LRB",
+    "title": "September Late Night Shopping",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/september-late-night-shopping-tickets-1999154263217",
+    "content": "",
+    "date": "2026-08-29T17:32:29",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/29/dining/a-clever-vegetarian-take-on-a-beloved-hawaiian-snack.html",
     "feed_name": "NYT (Food)",
     "title": "A Clever Vegetarian Take on a Beloved Hawaiian Snack",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/09/movies/do-you-love-me-review.html",
     "content": "The director Lana Daher creates a complex emotional portrait of Lebanon with found footage assembled into a 75-minute film of memory, trauma and life.",
     "date": "2026-07-09T09:00:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/movies/evil-dead-burn-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Evil Dead Burn\u2019 Review: Stop, Drop and Kill",
-    "author": "Beatrice Loayza",
-    "link": "https://www.nytimes.com/2026/07/09/movies/evil-dead-burn-review.html",
-    "content": "A dark spirit boils and sears its way through an unhappy family in the latest \u201cEvil Dead\u201d installment.",
-    "date": "2026-07-09T09:00:56",
     "category": "NYT"
   }
 ]
