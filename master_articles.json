@@ -210,6 +210,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/29/arts/music/tupac-shakur-trial-murder-week-2.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tupac Shakur Murder Trial: Takeaways From Week 2",
+    "author": "Anusha Bayya",
+    "link": "https://www.nytimes.com/2026/08/29/arts/music/tupac-shakur-trial-murder-week-2.html",
+    "content": "Duane Keith Davis, in court on Wednesday, in Las Vegas. Closing arguments are coming next week.",
+    "date": "2026-08-29T09:02:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/29/arts/music/olivia-rodrigo-prince-new-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Olivia Rodrigo, Prince: Songs to Know This Week",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/08/29/arts/music/olivia-rodrigo-prince-new-songs.html",
+    "content": "The Prince vault continues to be fruitful.",
+    "date": "2026-08-29T09:02:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/29/arts/television/love-island-usa-brinity-trinity-tatum-bryce-alakai.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Brinity\u2019 Won \u2018Love Island USA.\u2019 These Are Their Favorite Things.",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/08/29/arts/television/love-island-usa-brinity-trinity-tatum-bryce-alakai.html",
+    "content": "Trinity Tatum and Bryce Alakai captured viewers\u2019 hearts this summer. We spoke with them about what they\u2019re loving and looking forward to.",
+    "date": "2026-08-29T09:01:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/29/movies/venice-film-festival-moritz-de-hadeln.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Remembering Moritz de Hadeln at the Venice Film Festival",
+    "author": "David Belcher",
+    "link": "https://www.nytimes.com/2026/08/29/movies/venice-film-festival-moritz-de-hadeln.html",
+    "content": "Moritz de Hadeln ran several film festivals during his career including Venice in 2002 and 2003 and Berlin for more than 20 years.",
+    "date": "2026-08-29T09:00:51",
+    "category": "NYT"
+  },
+  {
+    "id": "6a919be1803370e4d9cbd800",
+    "feed_name": "Wired (Science)",
+    "title": "Psilocybin Might Make Your Brain Live in the Moment",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
+    "content": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
+    "date": "2026-08-29T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html",
     "feed_name": "NYT (Arts)",
     "title": "Critics Blast Metropolitan Museum\u2019s Plan to Honor John Galliano",
@@ -19948,55 +19998,5 @@
     "content": "Homer\u2019s \u201cOdyssey\u201d has been translated into English countless times, with versions ranging from contemporary and accessible to highly poetic. A.O. Scott, critic at large for The New York Times Book Review, breaks down three translations and explains which one might be right for you.",
     "date": "2026-07-09T09:00:32",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/books/historical-fiction-1960s.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Historical Fiction Books That Will Transport You to the 1960s",
-    "author": "Kerri Maher",
-    "link": "https://www.nytimes.com/2026/07/09/books/historical-fiction-1960s.html",
-    "content": "The best-selling author Kerri Maher recommends books that transport readers to the decade of space travel, counterculture and tumultuous societal change.",
-    "date": "2026-07-09T09:00:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.propublica.org/article/puerto-rico-crim-data-breach",
-    "feed_name": "ProPublica",
-    "title": "A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers",
-    "author": "Nick McMillan",
-    "link": "https://www.propublica.org/article/puerto-rico-crim-data-breach",
-    "content": "<figure><img alt=\"Hand-shaped cursors surround a Social Security card.\" src=\"https://www.propublica.org/wp-content/uploads/2026/06/20260626-Gordon-PR-SSN-breach-3x2_maxHeight_3000_maxWidth_3000.jpg?w=1149\" /><figcaption><small> Illustration by Shoshana Gordon/ProPublica</small></figcaption></figure>\n<p>The government agency that collects property taxes in Puerto Rico inadvertently exposed the Social Security numbers of approximately 1 million people, Centro de Periodismo Investigativo and ProPublica learned.</p>\n\n\n\n<p>It was the latest cybersecurity lapse for the Puerto Rico government, which in the past three years has seen technology breaches interrupt government services, take websites offline and lead to citizens\u2019 personal information being published on the dark web.</p>\n\n\n\n<p>CPI and ProPublica became aware of the vulnerability related to the Municipal Revenue Collection Center\u2019s interactive property map, known as the Catastro Digital, and notified the agency in mid-June.</p>\n\n\n\n<p>The online tool provides information, such as size, boundaries, tax assessment, sale price and owner\u2019s name, for every registered property on the island.</p>\n\n\n\n<p>While a simple search of the map wouldn\u2019t reveal sensitive information, anyone who understands how websites request data could download unprotected personal information such as Social Security numbers without a username or password.</p>\n\n\n\n<p>The news organizations were able to verify the security hole and provided the agency, known by its Spanish initials, CRIM, with a detailed description of the issue that included the specific server and folders that contained the compromised data.</p>\n\n\n\n<p>Despite the notification, CRIM has repeatedly denied there were any problems with its system.</p>\n\n\n\n<p>\u201cFollowing a review of the Catastro Digital platform, it was determined that there was NO breach of confidential personal taxpayer information, as the Catastro Digital does NOT contain or display the type of information alluded to,\u201d CRIM Executive Director Javier Garc\u00eda Cintr\u00f3n said.</p>\n\n\n\n<p>But a few days after CPI and ProPublica contacted CRIM, the news organizations were able to see that the security holes had been patched.</p>\n\n\n\n<p>Garc\u00eda denied that, saying there was no need to fix any problem. A Puerto Rico law requires any entity, including government agencies, to promptly notify users if their personal information has been breached. But Garc\u00eda said the agency would not reach out to users to tell them that their Social Security numbers were potentially exposed, as \u201cno protected information was at risk.\u201d</p>\n\n\n\n<p>CRIM also did not notify the Puerto Rico Innovation &amp; Technology Service, known as PRITS, which oversees all government information technology systems. The government\u2019s cybersecurity protocol requires informing PRITS of \u201cany suspected security incident.\u201d</p>\n\n\n\n<p>A PRITS spokesperson declined to answer questions and said they had to be submitted under Puerto Rico\u2019s public information law, which is meant to allow citizens to get government records and not to answer press questions.</p>\n\n\n\n<p>So far this year, more than 2 million attempted cyberattacks have been recorded within the Puerto Rico government, PRITS data shows. Half of these were deemed critical incidents, which involve \u201csevere impact on critical operations, the compromise of sensitive data, or an imminent threat to agency security or government data,\u201d according to the agency.</p>\n\n\n\n<p>In March, citizens saw their driver\u2019s license and registration appointments postponed after an attempted cyberattack on Transportation Department systems. Last year, Puerto Rico residents could not verify their criminal record status, which they need for employment, for almost a week because of an \u201cunauthorized access\u201d to the local Justice Department\u2019s criminal records database. In 2023, Puerto Rico water utility clients and employees saw their personal information published on the dark web after a ransomware attack.</p>\n\n\n\n<p>An increase in attacks prompted Puerto Rico lawmakers in 2024 to approve a comprehensive cybersecurity law, Act 40, which mandated all government agencies implement minimum cybersecurity standards and principles. It also established penalties for noncompliance and required all government agencies to conduct a risk assessment at least once annually.</p>\n\n\n\n<p>But three cybersecurity experts said agencies have failed to fully implement the security standards set out under the law, even as attacks become more frequent and sophisticated. Instead of periodically assessing and tackling vulnerabilities that prevent these attacks, agencies are reactive, they said.</p>\n\n\n\n<p>A Puerto Rico Inspector General Office report released late last year found deficiencies across 90 local government agencies, with 60% of them failing to conduct vulnerability assessments of their IT systems.</p>\n\n\n\n<p>The government would be in \u201cmuch better shape\u201d if it focused on employee training and implemented tools like multifactor authentication on the front end, said Carlos P\u00e9rez, a cybersecurity expert in Puerto Rico who is director of security intelligence at TrustedSec, a company that consults with governments and private companies.</p>\n\n\n\n<p>\u201cWe are addressing the symptom but not the disease,\u201d he said.</p>\n\n\n\n<p>In most cases, the cybersecurity law falls short of requiring unified standards across the government, said a former government IT employee, who asked not be named because he feared professional repercussions. That lack of a single set of standards has allowed agencies to decide on their own how they protect personal data.</p>\n\n\n\n<p>Garc\u00eda explained that, as part of CRIM\u2019s security measures, the agency uses passwords, usernames and text messages to validate identity. He denied that anyone could access the Catastro Digital database without a password except to conduct individual searches through the public website.</p>\n\n\n\n<p>The ability to access Social Security numbers through CRIM\u2019s property map raises concerns given the proliferation of private companies that sell Puerto Rico real estate information, obtained from public databases such as Catastro Digital. Any of those companies could have accessed the data, including personal information.</p>\n\n\n\n<p>At least three property listings companies contacted by CPI and ProPublica said they were not aware of any vulnerability and did not access the sensitive data.</p>\n<p>The post <a href=\"https://www.propublica.org/article/puerto-rico-crim-data-breach\">A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-07-09T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a4ea3a7f4f66a71cf040cd8",
-    "feed_name": "Wired (Science)",
-    "title": "Why Do Some Soccer Players Cut the Heels Off Their Cleats?",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/why-do-some-soccer-players-cut-the-heels-off-their-cleats/",
-    "content": "An image of Portugal forward Pedro Neto\u2019s cleats at the World Cup has reignited a practice among some soccer players: modifying their cleats to relieve heel discomfort.",
-    "date": "2026-07-09T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a4d386f4cf7b85a60294aad",
-    "feed_name": "Wired (Science)",
-    "title": "The 4 Best Home Air Conditioners to Buy Right Now",
-    "author": "Jeremy White",
-    "link": "https://www.wired.com/story/the-best-at-home-air-con-units-to-buy-right-now/",
-    "content": "It's too hot. There, we said it. Protect your health and keep your home cool with one of these top-rated air conditioners.",
-    "date": "2026-07-09T08:49:47",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a47b4effe545d600cde4e56",
-    "feed_name": "Wired (Science)",
-    "title": "Is an Air-Conditioning Revolution Coming to Europe?",
-    "author": "Sabrina Weiss",
-    "link": "https://www.wired.com/story/is-an-air-conditioning-revolution-coming-to-europe/",
-    "content": "As extreme heat becomes the norm on the continent, the AC culture wars may be solved by advances in environmentally friendly technology.",
-    "date": "2026-07-09T08:44:57",
-    "category": "Magazines"
   }
 ]
