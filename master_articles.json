@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/29/dining/a-clever-vegetarian-take-on-a-beloved-hawaiian-snack.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Clever Vegetarian Take on a Beloved Hawaiian Snack",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/08/29/dining/a-clever-vegetarian-take-on-a-beloved-hawaiian-snack.html",
+    "content": "Kristina Felix\u2019s tofu musubi.",
+    "date": "2026-08-29T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=241315",
     "feed_name": "Texas Tribune",
     "title": "James Talarico to air first TV ad attacking Ken Paxton in Senate race",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/09/movies/evil-dead-burn-review.html",
     "content": "A dark spirit boils and sears its way through an unhappy family in the latest \u201cEvil Dead\u201d installment.",
     "date": "2026-07-09T09:00:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/movies/barrio-triste-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Barrio Triste\u2019 Review: Bad Boys With a Movie Camera",
-    "author": "Natalia Winkelman",
-    "link": "https://www.nytimes.com/2026/07/09/movies/barrio-triste-review.html",
-    "content": "This experimental and earnest film from the Colombian American photographer Stillz follows a group of wayward boys in 1980s Medell\u00edn.",
-    "date": "2026-07-09T09:00:51",
     "category": "NYT"
   }
 ]
