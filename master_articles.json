@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=241315",
+    "feed_name": "Texas Tribune",
+    "title": "James Talarico to air first TV ad attacking Ken Paxton in Senate race",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17434373/james-talarico-ken-paxton-negative-television-ad-senate",
+    "content": "State Rep. James Talarico, seen in Sanderson on July 13, 2026, during his \u201cFrontera Tour,\u201d is calling Attorney General Ken Paxton, his U.S. Senate opponent, &quot;the most corrupt politician in Texas&quot; in his new TV ad.",
+    "date": "2026-08-29T14:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6a8f2d32377f7d54e320aa59",
     "feed_name": "Wired (Science)",
     "title": "NASA\u2019s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/09/movies/barrio-triste-review.html",
     "content": "This experimental and earnest film from the Colombian American photographer Stillz follows a group of wayward boys in 1980s Medell\u00edn.",
     "date": "2026-07-09T09:00:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/arts/television/review-little-house-adds-on-an-expansion.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Review: \u2018Little House\u2019 Adds On an Expansion",
-    "author": "James Poniewozik",
-    "link": "https://www.nytimes.com/2026/07/09/arts/television/review-little-house-adds-on-an-expansion.html",
-    "content": "The classic story (and recent culture-war object) remains wholesome but makes room for people who called the prairie home before the Ingalls family.",
-    "date": "2026-07-09T09:00:40",
     "category": "NYT"
   }
 ]
