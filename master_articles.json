@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/30/dining/a-very-melissa-watermelon-salad.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Very Melissa Watermelon Salad",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/30/dining/a-very-melissa-watermelon-salad.html",
+    "content": "Melissa Clark\u2019s tomato-watermelon salad with anchovy bread crumbs.",
+    "date": "2026-08-30T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/30/dining/this-corn-jalapeno-pasta-is-a-favorite-in-my-house.html",
     "feed_name": "Weeknight Dishes",
     "title": "This Corn-Jalape\u00f1o Pasta Is a Favorite in My House",
@@ -198,6 +208,16 @@
     "content": "And four more speedy dinners that hold on to summer.",
     "date": "2026-08-30T13:00:06",
     "category": "NYT"
+  },
+  {
+    "id": "2a9594b14d4356cd797d2018106c1494",
+    "feed_name": "The Atlantic",
+    "title": "A Society of Cheats",
+    "author": "John Paul Rollert",
+    "link": "https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/",
+    "content": "Students\u2019 use of AI is teaching them a knack for cutting corners, a disdain for community rules, and an assumption that a spirit of integrity is the reserve of suckers and wimps.",
+    "date": "2026-08-30T12:02:52",
+    "category": "Magazines"
   },
   {
     "id": "https://www.kmfa.org/pages/22326-austin-classical-guitar-brunch-with-anton-nel",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/09/arts/paul-thek-review.html",
     "content": "A pioneering painter, sculptor and installation artist, he  achieved posthumous glory as a rule breaker, as two riveting exhibitions show.",
     "date": "2026-07-09T09:02:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/arts/television/burning-man-documentary-hbo.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Man Will Burn\u2019: On Filming the Sacred and Propane at Burning Man",
-    "author": "Alexis Soloski",
-    "link": "https://www.nytimes.com/2026/07/09/arts/television/burning-man-documentary-hbo.html",
-    "content": "The directors of a new four-part docuseries talked about why the long-running desert festival is important \u2014 and like being on \u201canother planet.\u201d",
-    "date": "2026-07-09T09:02:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/theater/questioning-play-new-theater-hollywood.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Julia Weist Was Investigated for Making Art. \u2018Questioning,\u2019 a New Play, Tells the Story.",
-    "author": "Carolina A. Miranda",
-    "link": "https://www.nytimes.com/2026/07/09/theater/questioning-play-new-theater-hollywood.html",
-    "content": "The artist Julia Weist at her studio in Durham, N.Y.",
-    "date": "2026-07-09T09:01:43",
     "category": "NYT"
   }
 ]
