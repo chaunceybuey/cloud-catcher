@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/30/dining/this-corn-jalapeno-pasta-is-a-favorite-in-my-house.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "This Corn-Jalape\u00f1o Pasta Is a Favorite in My House",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/08/30/dining/this-corn-jalapeno-pasta-is-a-favorite-in-my-house.html",
+    "content": "And four more speedy dinners that hold on to summer.",
+    "date": "2026-08-30T13:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22326-austin-classical-guitar-brunch-with-anton-nel",
     "feed_name": "KMFA",
     "title": "Austin Classical Guitar: Brunch with Anton Nel",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/09/theater/questioning-play-new-theater-hollywood.html",
     "content": "The artist Julia Weist at her studio in Durham, N.Y.",
     "date": "2026-07-09T09:01:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/movies/remake-documentary-ross-mcelwee.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018Remake,\u2019 a Life Documented on Film Prompts Painful Questions",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/07/09/movies/remake-documentary-ross-mcelwee.html",
-    "content": "Ross McElwee (\u201cSherman\u2019s March\u201d) reconsiders footage of himself and his family, including a son who died of an overdose.",
-    "date": "2026-07-09T09:01:30",
     "category": "NYT"
   }
 ]
