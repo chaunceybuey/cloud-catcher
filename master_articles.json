@@ -210,6 +210,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/30/movies/venice-film-festival-lido.html",
+    "feed_name": "NYT (Arts)",
+    "title": "For the Venice Film Festival, an Island Setting for Almost a Century",
+    "author": "Matteo de Mayda",
+    "link": "https://www.nytimes.com/2026/08/30/movies/venice-film-festival-lido.html",
+    "content": "Once a year, the tiny island of Lido is transformed into a rich field of artistic expression for the festival.",
+    "date": "2026-08-30T09:00:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/30/movies/wim-wenders-peter-zumthor-venice-film.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Venice Film Festival: Wim Wenders Talks About Architecture and More",
+    "author": "Farah Nayeri",
+    "link": "https://www.nytimes.com/2026/08/30/movies/wim-wenders-peter-zumthor-venice-film.html",
+    "content": "The director talks about his documentary on Peter Zumthor, the Pritzker Prize-winning Swiss architect, which is premiering at the Venice Film Festival.",
+    "date": "2026-08-30T09:00:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/30/arts/music/sarah-davachi-the-will-of-tongues.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sarah Davachi\u2019s Music: A Manifesto for Listening Closely",
+    "author": "Hugh Morris",
+    "link": "https://www.nytimes.com/2026/08/30/arts/music/sarah-davachi-the-will-of-tongues.html",
+    "content": "Sarah Davachi\u2019s \u201cThe Will of Tongues\u201d is a collection of music that refuses extremes and requires undivided attention.",
+    "date": "2026-08-30T09:00:33",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/30/movies/ellen-burstyn-venice-film-festival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Venice Film Festival: Ellen Burstyn to Recieve a Lifetime Achievement Award",
+    "author": "Alix Strauss",
+    "link": "https://www.nytimes.com/2026/08/30/movies/ellen-burstyn-venice-film-festival.html",
+    "content": "The actress will receive a Golden Lion for her decades on stages and screens large and small at the Venice Film Festival.",
+    "date": "2026-08-30T09:00:25",
+    "category": "NYT"
+  },
+  {
+    "id": "6a91cdac3a017c65cc370966",
+    "feed_name": "Wired (Science)",
+    "title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
+    "content": "The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.",
+    "date": "2026-08-30T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22359-golden-hour-music-hot-jazz-summer",
     "feed_name": "KMFA",
     "title": "Golden Hour Music: Hot Jazz Summer",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/09/movies/remake-documentary-ross-mcelwee.html",
     "content": "Ross McElwee (\u201cSherman\u2019s March\u201d) reconsiders footage of himself and his family, including a son who died of an overdose.",
     "date": "2026-07-09T09:01:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/movies/westhampton-review-a-humiliating-return.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Westhampton\u2019 Review: A Humiliating Return",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/07/09/movies/westhampton-review-a-humiliating-return.html",
-    "content": "They say that you can\u2019t go home again; in this movie, a young filmmaker learns that the hard way.",
-    "date": "2026-07-09T09:01:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/movies/night-nurse-review-an-after-hours-erotic-con.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Night Nurse\u2019 Review: An After-Hours, Erotic Con",
-    "author": "Lisa Kennedy",
-    "link": "https://www.nytimes.com/2026/07/09/movies/night-nurse-review-an-after-hours-erotic-con.html",
-    "content": "In this thriller, a phone scam is being run out of an elder care facility. Eleni, a skittish but observant nurse, quickly becomes enmeshed with two others in the grift.",
-    "date": "2026-07-09T09:01:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/movies/reading-lolita-in-tehran-review-seeing-the-words-clearly.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Reading Lolita in Tehran\u2019 Review: Seeing the Words Clearly",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/07/09/movies/reading-lolita-in-tehran-review-seeing-the-words-clearly.html",
-    "content": "A film adaptation of Azar Nafisi\u2019s celebrated memoir of teaching literature in a repressive Iran suggests that the story might be more suited to the page.",
-    "date": "2026-07-09T09:01:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/movies/moana-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Moana\u2019 Review: It Doesn\u2019t Go Far",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/07/09/movies/moana-review.html",
-    "content": "This live-action remake of the 2016 animated film has nothing to add to the original, and winds up subtracting instead.",
-    "date": "2026-07-09T09:01:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/movies/gail-daughtry-and-the-celebrity-sex-pass-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Gail Daughtry and the Celebrity Sex Pass\u2019 Review: Hamming It Up",
-    "author": "Jeannette Catsoulis",
-    "link": "https://www.nytimes.com/2026/07/09/movies/gail-daughtry-and-the-celebrity-sex-pass-review.html",
-    "content": "A small-town na\u00eff heads to Los Angeles to bed her celebrity crush (Jon Hamm) in this bonkers sex comedy.",
-    "date": "2026-07-09T09:00:59",
     "category": "NYT"
   }
 ]
