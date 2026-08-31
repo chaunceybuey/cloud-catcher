@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/video/theater/100000011066016/the-hypebeasts-of-the-fringe-festival-edinburgh-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Hypebeasts of the Fringe Festival",
+    "author": "Helen Shaw, L\u00e9o Hamelin and Fraser Rice",
+    "link": "https://www.nytimes.com/video/theater/100000011066016/the-hypebeasts-of-the-fringe-festival-edinburgh-theater.html",
+    "content": "From Hannah Reilly to Amanda Knox to clowns, who are the hype beasts of this year\u2019s Fringe Festival? Our chief theater critic, Helen Shaw, went to Edinburgh to find out.",
+    "date": "2026-08-31T19:04:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/how-to-make-the-best-coconut-cake",
+    "feed_name": "NYT (Food)",
+    "title": "This Coconut Cake Is for Unabashed Coconut Lovers",
+    "author": "Yewande Komolafe",
+    "link": "https://cooking.nytimes.com/article/how-to-make-the-best-coconut-cake",
+    "content": "This layered coconut cake embraces mango in two different forms: as a jam and a curd.",
+    "date": "2026-08-31T19:02:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/31/arts/music/ella-langley-choosin-texas-record.html",
     "feed_name": "NYT (Arts)",
     "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 Breaks Record With 20th Week at No. 1",
@@ -19978,25 +19998,5 @@
     "content": "The author of an exhaustive two-volume biography, he was \u201cfanatical about his approach to scholarship and infatuated with Melville,\u201d a colleague said.",
     "date": "2026-07-10T14:00:10",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/10/arts/pen-america-dinaw-mengestu-resigns.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Dinaw Mengestu Resigns as PEN America President After 7 Months in Role",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/07/10/arts/pen-america-dinaw-mengestu-resigns.html",
-    "content": "Dinaw Mengestu had been on PEN America\u2019s board for about a decade before he was elected its president in December.",
-    "date": "2026-07-10T13:50:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806332#p8806332",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "Chiaroscuro",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8806332#p8806332",
-    "content": "I just got a letter from my credit card company that a payment was returned for insufficient funds. Has anyone had similar problems with their CMA?<br /><br />This happened a few months ago and Fidelity said it was because I didn't have enough \"settled\" cash, as EFT deposits can take over a week to clear. I couldn't obtain history of the settled cash balance, but I managed to get the credit card company to try again and drop the returned-payment-fee.<br /><br />I added an extra month of cash to my CMA so this wouldn't happen again. But it just happened again. I have sufficient settled funds to pay. This has really turned me off of this CMA product, and Fido in general.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=224104\">Chiaroscuro</a> \u2014 Fri Jul 10, 2026 8:32 am</p><hr />",
-    "date": "2026-07-10T13:32:37",
-    "category": "Finance"
   }
 ]
