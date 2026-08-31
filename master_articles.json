@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/31/arts/television/earle-meets-world-what-to-watch-on-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Earle Meets World\u2019 and 8 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/08/31/arts/television/earle-meets-world-what-to-watch-on-tv-this-week.html",
+    "content": "Alix Earle, center, in \u201cEarle Meets World.\u201d",
+    "date": "2026-08-31T05:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/30/arts/television/lanterns-recap-season-1-episode-3.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Lanterns\u2019 Season 1, Episode 3 Recap: Parents and Guardians",
@@ -19988,15 +19998,5 @@
     "content": "<p>The batter for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.</p>",
     "date": "2026-07-09T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235554",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 ACA enrollment shrinks by 4% after tax credit expiration, new federal data shows",
-    "author": "By Gabby Birenbaum, DATA ANALYSIS BY\u00a0Dan Keemahill",
-    "link": "https://feeds.texastribune.org/link/16799/17375446/texas-aca-obamacare-health-insurance-effectuation",
-    "content": "Compared to February 2025, the number of Affordable Care Act enrollees in Texas dropped 4% in February 2026.",
-    "date": "2026-07-09T10:00:00",
-    "category": "Texas"
   }
 ]
