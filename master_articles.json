@@ -190,6 +190,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=241493",
+    "feed_name": "Texas Tribune",
+    "title": "Texas hospitals expect to lose $27 million a day in Medicaid funding starting Tuesday",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17435960/texas-hospitals-medicaid-funding-chirp",
+    "content": "University Medical Center in Lubbock on April 6, 2025.",
+    "date": "2026-08-31T23:34:13",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241479",
+    "feed_name": "Texas Tribune",
+    "title": "Two UT System institutions experience leadership changes as new semester begins",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17435961/ut-arlington-md-anderson-texas-presidents-leave",
+    "content": "University of Texas at Arlington President Jennifer Cowley.",
+    "date": "2026-08-31T23:13:15",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241483",
+    "feed_name": "Texas Tribune",
+    "title": "Texas mobilizes flood response ahead of expected tropical storm",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17435962/texas-tropical-storm-edouard-flooding-forecast",
+    "content": "Gov. Greg Abbott speaks at a press conference Monday afternoon at the Texas Department of Emergency Management headquarters in Austin about a tropical depression in the Gulf of Mexico that is expected to strengthen into a tropical storm and move into southeast Texas on Tuesday.",
+    "date": "2026-08-31T23:10:43",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241474",
+    "feed_name": "Texas Tribune",
+    "title": "SpaceX to fund up to $220M in Brownsville water projects in exchange for land",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17435963/spacex-brownsville-deannex-land-water-projects",
+    "content": "An overhead view of SpaceX in Starbase on May 12, 2026.",
+    "date": "2026-08-31T22:45:51",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/31/arts/design/smithsonian-latino-museum-arts-industries.html",
     "feed_name": "NYT (Arts)",
     "title": "Smithsonian to Put Latino Museum in Existing Building It Controls",
@@ -19958,45 +19998,5 @@
     "content": "When I want to move money from my bank to Fidelity, I prefer to let Fidelity pull (ACH) the money from my bank (rather than use my bank to push money into Fidelity).<br /><br />This results in a longer hold time before I can <strong class=\"text-strong\">withdraw</strong> the money.  The reason I do it is because I can <strong class=\"text-strong\">invest</strong> the money sooner.  Fidelity lets me invest the money as soon as I order Fidelity to make the transfer.  If I push money from the bank to Fidelity, Fidelity doesn't know about the money (or let me invest it) until it gets there.<br /><br />Its also quicker and simpler.  Log into Fidelity, order transfer, invest, leave.  No need to log into the bank.<br /><br />--vtMaps<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=10594\">vtMaps</a> \u2014 Fri Jul 10, 2026 11:16 am</p><hr />",
     "date": "2026-07-10T16:16:24",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/10/podcasts/best-jay-z-album-popcast.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jay-Z\u2019s Definitive Album? Debating \u2018Reasonable Doubt\u2019 vs. \u2018The Blueprint\u2019",
-    "author": "Jon Caramanica and Joe Coscarelli",
-    "link": "https://www.nytimes.com/2026/07/10/podcasts/best-jay-z-album-popcast.html",
-    "content": "Ahead of the rapper\u2019s three celebratory nights at Yankee Stadium, our \u201cPopcast\u201d hosts debate two major Jay-Z albums.",
-    "date": "2026-07-10T16:15:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/10/arts/music/suddenly-last-summer-opera-bard-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Review: \u2018Suddenly Last Summer\u2019 Opera Premieres at Bard",
-    "author": "Joshua Barone",
-    "link": "https://www.nytimes.com/2026/07/10/arts/music/suddenly-last-summer-opera-bard-review.html",
-    "content": "Tennessee Williams\u2019s darkly operatic one-act play becomes a proper opera in a new adaptation by the composer Courtney Bryan.",
-    "date": "2026-07-10T16:03:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235870",
-    "feed_name": "Texas Tribune",
-    "title": "Houston ICE shooting witnesses claim driver didn\u2019t try to ram agents, report says",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17376184/texas-ice-shooting-van-passengers-account-houston",
-    "content": "A person sits near a memorial for Lorenzo Salgado Araujo on July 9, 2026, in Houston. Salgado Araujo was fatally shot by an immigration officer Tuesday.",
-    "date": "2026-07-10T16:01:40",
-    "category": "Texas"
-  },
-  {
-    "id": "6a4ea932039765edd3930ccf",
-    "feed_name": "Wired (Science)",
-    "title": "What Watching a Soccer Final Does to Your Body, According to Science",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/what-watching-soccer-final-does-to-your-body/",
-    "content": "A recent study tracked hundreds of soccer fans until their favorite team reached the final of a tournament. Their stress levels skyrocketed, and their heart rates jumped too.",
-    "date": "2026-07-10T15:41:31",
-    "category": "Magazines"
   }
 ]
