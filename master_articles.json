@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/31/dining/this-roasted-salmon-and-broccoli-bowl-will-ease-you-into-fall.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Roasted Salmon and Broccoli Bowl Will Ease You Into Fall",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/08/31/dining/this-roasted-salmon-and-broccoli-bowl-will-ease-you-into-fall.html",
+    "content": "Ashley Lonsdale\u2019s roasted salmon and broccoli bowl.",
+    "date": "2026-08-31T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "6a8385724b5ce895652e6f4f",
     "feed_name": "Wired (Science)",
     "title": "Why Food Keeps Making Everybody Sick This Summer",
@@ -19988,15 +19998,5 @@
     "content": "Businesses and consumers are struggling with a bizarre conflict that is simultaneously happening and not happening.",
     "date": "2026-07-09T17:54:03",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/dining/tomatoes-cucumbers-basil-zucchini.html",
-    "feed_name": "NYT (Food)",
-    "title": "Tomatoes, Cucumbers, Basil, Zucchini",
-    "author": "Tanya Sichynsky",
-    "link": "https://www.nytimes.com/2026/07/09/dining/tomatoes-cucumbers-basil-zucchini.html",
-    "content": "Noor Murad\u2019s tomato and bulgur salad with herbs.",
-    "date": "2026-07-09T17:00:07",
-    "category": "NYT"
   }
 ]
