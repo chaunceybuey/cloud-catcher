@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/basted-sunny-side-eggs",
+    "feed_name": "NYT (Food)",
+    "title": "How to Baste an Egg",
+    "author": "Eric Kim",
+    "link": "https://cooking.nytimes.com/article/basted-sunny-side-eggs",
+    "content": "Mirin and a touch of soy sauce flavor these lush eggs.",
+    "date": "2026-08-31T16:43:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/31/dining/this-roasted-salmon-and-broccoli-bowl-will-ease-you-into-fall.html",
     "feed_name": "NYT (Food)",
     "title": "This Roasted Salmon and Broccoli Bowl Will Ease You Into Fall",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/07/23/broken-promises-in-cuban-miami-ferrer-pensack/",
     "content": "Donald Trump has reversed the government\u2019s longstanding benevolence toward Cuban asylum seekers, even as his administration exacerbates the crisis they fled.\n\nDelivered by PolitePaul service",
     "date": "2026-07-09T18:18:58",
-    "category": "Magazines"
-  },
-  {
-    "id": "a6f228218569f115e759da136c48ffb6",
-    "feed_name": "The Atlantic",
-    "title": "Trump\u2019s War-Not-War Is Doing Something Odd to the Economy",
-    "author": "Idrees Kahloon",
-    "link": "https://www.theatlantic.com/ideas/2026/07/imf-report-consumers-iran-war/687858/",
-    "content": "Businesses and consumers are struggling with a bizarre conflict that is simultaneously happening and not happening.",
-    "date": "2026-07-09T17:54:03",
     "category": "Magazines"
   }
 ]
