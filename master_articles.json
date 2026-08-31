@@ -200,6 +200,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-trial-sean-combs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At the Tupac Trial, Old Rumors Still Trail Sean Combs",
+    "author": "Julia Jacobs and Anusha Bayya",
+    "link": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-trial-sean-combs.html",
+    "content": "Duane Davis, who is charged in the murder of the rapper Tupac Shakur, repeatedly accused Mr. Combs of being behind it. He now says he was lying.",
+    "date": "2026-08-31T09:03:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/31/movies/three-great-documentaries-to-stream.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Three Great Documentaries to Stream",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/08/31/movies/three-great-documentaries-to-stream.html",
+    "content": "This month\u2019s picks explore an anarchic New Jersey school, an apartment hidden in a mall and the very nature of true-crime documentaries.",
+    "date": "2026-08-31T09:02:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/31/travel/labor-day-america-250.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Too Late to Celebrate America\u2019s 250th? Nah, There\u2019s Still Time.",
+    "author": "Anna Diamond",
+    "link": "https://www.nytimes.com/2026/08/31/travel/labor-day-america-250.html",
+    "content": "George Washington\u2019s Distillery and Gristmill in Alexandria, Va., offers whiskey tastings with samples of spirits distilled using 18th-century methods.",
+    "date": "2026-08-31T09:02:37",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/31/travel/wagner-moura-brazil-salvador.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Wagner Moura\u2019s 5 Favorite Places in Salvador, Brazil",
+    "author": "Danielle Pergament and Gabriela Portilho",
+    "link": "https://www.nytimes.com/2026/08/31/travel/wagner-moura-brazil-salvador.html",
+    "content": "The Oscar-nominated star of \u201cThe Secret Agent,\u201d \u201cNarcos\u201d and the new Netflix thriller \u201cThe Last House\u201d shares the places he loves in his vibrant hometown.",
+    "date": "2026-08-31T09:01:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/31/arts/dance/pageant-experimental-dance-moma.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Pageant Brings Its D.I.Y. Dance Spirit to MoMA",
+    "author": "Gia Kourlas",
+    "link": "https://www.nytimes.com/2026/08/31/arts/dance/pageant-experimental-dance-moma.html",
+    "content": "Pageant\u2019s founders, from left: Alexa West, Jade Manns, Owen Prum, Sharleen Chidiac and Lili Dekker.",
+    "date": "2026-08-31T09:00:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/08/31/arts/television/earle-meets-world-what-to-watch-on-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Earle Meets World\u2019 and 8 More Shows to Watch on TV This Week",
@@ -19948,55 +19998,5 @@
     "content": "",
     "date": "2026-07-09T12:05:27",
     "category": "Magazines"
-  },
-  {
-    "id": "6a42b6dfc2bd453ddc7d198f",
-    "feed_name": "Wired",
-    "title": "Data Centers Are Quietly Taking Over Texas. The Pollution Could Be Catastrophic",
-    "author": "Evan Simon",
-    "link": "https://www.wired.com/story/data-centers-taking-over-texas-pollution-could-be-catastrophic/",
-    "content": "Thousands of new fossil-fuel power sources are quietly firing up across the state to power the AI boom, thanks to a regulatory loophole, leaving residents feeling blindsided.",
-    "date": "2026-07-09T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235529",
-    "feed_name": "Texas Tribune",
-    "title": "Planned Texas data centers could emit more greenhouse gases than many countries",
-    "author": "By Evan Simon,\u00a0Floodlight",
-    "link": "https://feeds.texastribune.org/link/16799/17375445/texas-data-centers-ai-power-plants-pollution-state-permits",
-    "content": "Omaira Garcia stands at her property line bordering OpenAI\u2019s flagship \u201cStargate\u201d data center in Abilene. The data center\u2019s gas-fueled power plant is located roughly 500 yards from her home.",
-    "date": "2026-07-09T11:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/opinion/america-politics-weimar-rod-dreher.html",
-    "feed_name": "Interesting Times",
-    "title": "\u2018\u200aI\u2019m Worried About Weimar America\u2019",
-    "author": "Ross Douthat, Rochelle Widdowson and Raina Raskin",
-    "link": "https://www.nytimes.com/2026/07/09/opinion/america-politics-weimar-rod-dreher.html",
-    "content": "\u201cIt may not be Hitler 2.0. It may not be Stalin 2.0. It might be something all American, but it\u2019s not going to be what we\u2019re used to,\u201d the author Rod Dreher argues.",
-    "date": "2026-07-09T10:09:50",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "6a4be36bccd2aa2af80dc393",
-    "feed_name": "Wired",
-    "title": "Madison Square Garden Kept a List of Gay Celebrities",
-    "author": "Noah Shachtman, Maddy Varner",
-    "link": "https://www.wired.com/story/madison-square-garden-celebrity-database-surveillance/",
-    "content": "An MSG database tracked and categorized hundreds of celebs, famous Knicks superfans, and even some of Taylor Swift\u2019s wedding guests. Labels included \u201cLGBTQIA,\u201d \u201cDO NOT HOST,\u201d and low to high \u201crisk.\u201d",
-    "date": "2026-07-09T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19463",
-    "feed_name": "Stratechery",
-    "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
-    "content": "<p>The batter for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.</p>",
-    "date": "2026-07-09T10:00:00",
-    "category": "Tech"
   }
 ]
