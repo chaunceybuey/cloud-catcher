@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a8385724b5ce895652e6f4f",
+    "feed_name": "Wired (Science)",
+    "title": "Why Food Keeps Making Everybody Sick This Summer",
+    "author": "Kate Taylor, Emily Mullin",
+    "link": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/",
+    "content": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain susceptible to parasites and bacteria outbreaks.",
+    "date": "2026-08-31T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/bilt-cfpb-russell-vought-trump-consumer-protection-fintech",
     "feed_name": "ProPublica",
     "title": "The Trump Administration\u2019s Plan for Protecting Consumers? Politely Ask Companies to Behave.",
@@ -218,6 +228,36 @@
     "content": "<p>Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.</p>",
     "date": "2026-08-31T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241189",
+    "feed_name": "Texas Tribune",
+    "title": "Former GOP Texas Supreme Court justices back Democrat for attorney general",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17435480/texas-attorney-general-gop-supreme-court-justices-endorse-democrat-nathan-johnson",
+    "content": "Nathan Johnson, Democratic candidate for Texas attorney general, meets an attendee at the Texas Cannabis Policy Conference at the University of Texas at Austin on Jan. 30, 2026.",
+    "date": "2026-08-31T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241299",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 divisive overhaul of high school social studies lessons set to conclude this week",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17435481/texas-rewrite-social-studies-high-school",
+    "content": "Texas State Board of Education Chair Aaron Kinsey\u2019s gavel lays on his table during a board meeting where votes are expected on various proposals, among them a new social studies curriculum and required reading lists to include Christian stories across the state\u2019s public K-12 schools, in Austin, on June 26, 2026.",
+    "date": "2026-08-31T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241326",
+    "feed_name": "Texas Tribune",
+    "title": "Brownsville faces rising home values after the arrival of large employers like SpaceX, Saronic",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17435482/south-texas-home-values-rise-spacex",
+    "content": "The neighborhood which used to be known as Boca Chica Village, now owned almost in its entirely by SpaceX, is seen in Starbase, Texas on Feb. 3, 2026.",
+    "date": "2026-08-31T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-trial-sean-combs.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/09/dining/tomatoes-cucumbers-basil-zucchini.html",
     "content": "Noor Murad\u2019s tomato and bulgur salad with herbs.",
     "date": "2026-07-09T17:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235734",
-    "feed_name": "Texas Tribune",
-    "title": "Ted Cruz warns Talarico has \u201creal chance\u201d to flip Texas\u2019 U.S. Senate seat",
-    "author": "Renzo Downey",
-    "link": "https://feeds.texastribune.org/link/16799/17375638/texas-ted-cruz-james-talarico-senate-race-2026-midterms",
-    "content": "U.S. Sen. Ted Cruz speaks at the George R. Brown Convention Center in Houston during the 2026 Texas Republican Convention on June 13, 2026.",
-    "date": "2026-07-09T16:59:58",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235575",
-    "feed_name": "Texas Tribune",
-    "title": "A data center proposed at a quiet corner of East Texas leaves a community bracing for a boom",
-    "author": "Jess Huff",
-    "link": "https://feeds.texastribune.org/link/16799/17375591/data-center-backlash-east-texas",
-    "content": "Kaesha Avishai stands beneath the power lines that cut through her property near Lufkin on June 12, 2026. She has concerns about AI data centers potentially being constructed close to her home.",
-    "date": "2026-07-09T16:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/arts/design/smithsonian-letter-lonnie-bunch.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Lonnie Bunch Defends Smithsonian Museum After Negative White House Report",
-    "author": "Robin Pogrebin",
-    "link": "https://www.nytimes.com/2026/07/09/arts/design/smithsonian-letter-lonnie-bunch.html",
-    "content": "Secretary Lonnie G. Bunch III has tried not to antagonize President Trump while holding fast to what he says is the Smithsonian\u2019s mission to present a full account of American history.",
-    "date": "2026-07-09T15:23:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/09/arts/design/museum-and-galleries-seating.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Best Seat in the House Is No Seat at All",
-    "author": "Alexis Soloski and Lexi Parra",
-    "link": "https://www.nytimes.com/2026/07/09/arts/design/museum-and-galleries-seating.html",
-    "content": "Multimedia art is often challenging, provoking. Now it is also potentially bruising. Check your joints before you check out these summer shows.",
-    "date": "2026-07-09T14:35:19",
     "category": "NYT"
   }
 ]
