@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/30/arts/television/lanterns-recap-season-1-episode-3.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Lanterns\u2019 Season 1, Episode 3 Recap: Parents and Guardians",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/08/30/arts/television/lanterns-recap-season-1-episode-3.html",
+    "content": "John Stewart (Aaron Pierre) doesn\u2019t seem like the type to have been dishonorably discharged. And yet.",
+    "date": "2026-08-31T02:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=241382",
     "feed_name": "Texas Tribune",
     "title": "Federal government allows return of U.S. citizen deported after traffic stop in Central Texas",
@@ -19988,15 +19998,5 @@
     "content": "Antonio is comforted by a passerby after becoming emotional at a memorial for Lorenzo Salgado Araujo at North Wayside Drive and Canal Street in Houston on Wednesday afternoon, July 8, 2026. Salgado Araujo was the second person in Texas shot by federal immigration agents since 2025.",
     "date": "2026-07-09T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "307aac10abee68eca573826441a7f0f1",
-    "feed_name": "The Atlantic",
-    "title": "Our Oldest Ally",
-    "author": "Eliot A. Cohen",
-    "link": "https://www.theatlantic.com/ideas/2026/07/america-france-enduring-relationship/687844/",
-    "content": "America still needs France.",
-    "date": "2026-07-09T10:00:00",
-    "category": "Magazines"
   }
 ]
