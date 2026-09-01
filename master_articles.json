@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "185ec6e6-00cf-4611-b3b1-c0672339e9ab",
+    "feed_name": "Economist",
+    "title": "IPO booms can spell trouble for the markets",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/01/ipo-booms-can-spell-trouble-for-the-markets",
+    "content": "Companies go public in good times that may not last",
+    "date": "2026-09-01T19:03:06",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/01/arts/music/a-daisy-chain-fields-soundtrack.html",
     "feed_name": "NYT (Arts)",
     "title": "A Daisy Chain Fields Soundtrack",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
     "content": "Lynda Benglis redefined sculpture in the 1960s. No longer overlooked, her audacious talent moves from museums to runways, transformed by Dior\u2019s Jonathan Anderson.",
     "date": "2026-07-12T17:54:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Moana\u2019 Falters at the Box Office, Casting Doubt on Disney\u2019s Formula",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
-    "content": "Dwayne Johnson as Maui in \u201cMoana,\u201d which cost an estimated $250 million to make and at least $100 million to market worldwide.",
-    "date": "2026-07-12T17:39:04",
     "category": "NYT"
   }
 ]
