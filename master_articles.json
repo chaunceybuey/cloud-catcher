@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/01/arts/music/jason-isbell-suno-ai-lawsuit.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jason Isbell and Others Say Suno\u2019s A.I. Imitates Their Voices",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/09/01/arts/music/jason-isbell-suno-ai-lawsuit.html",
+    "content": "Jason Isbell, a Grammy-winning singer-songwriter, is a plaintiff in the lawsuit.",
+    "date": "2026-09-01T21:21:36",
+    "category": "NYT"
+  },
+  {
     "id": "389fcf0eb7ba5984550182970082ed63",
     "feed_name": "LRB",
     "title": "Malcolm Gaskill & Lamorna Ash: Worlds of Fear and Wonder",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/13/theater/murder-mystery-audrey-gelman-wing.html",
     "content": "Guests are encouraged to \u201cdress to impress\u201d for the dinner and murder mystery evening.",
     "date": "2026-07-13T09:02:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/13/books/age-gap-romance-books.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sizzling, Sexy Age-Gap Romance Novels",
-    "author": "Rachel Lynn Solomon",
-    "link": "https://www.nytimes.com/2026/07/13/books/age-gap-romance-books.html",
-    "content": "The best-selling author Rachel Lynn Solomon recommends forbidden love stories full of fiery desire, shifting power dynamics and so-wrong-it\u2019s-right drama.",
-    "date": "2026-07-13T09:01:02",
     "category": "NYT"
   }
 ]
