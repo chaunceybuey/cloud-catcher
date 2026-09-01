@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a970ab98af37847285a81ed",
+    "feed_name": "Wired (Science)",
+    "title": "The Diamond Moon and Other Astronomical Events To See in September 2026",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/",
+    "content": "September is full of opportunities to expand your knowledge of the night sky. Mark your calendars.",
+    "date": "2026-09-01T20:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "185ec6e6-00cf-4611-b3b1-c0672339e9ab",
     "feed_name": "Economist",
     "title": "IPO booms can spell trouble for the markets",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/12/arts/television/house-of-the-dragon-recap-season-3-episode-4.html",
     "content": "Corlys (Steve Toussaint) left King\u2019s Landing to battle pirates on the sea. It isn\u2019t the most obvious mission for a hand of the queen to undertake.",
     "date": "2026-07-13T02:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Why Dior\u2019s Jonathan Anderson Is Inspired by Lynda Benglis",
-    "author": "Julia Halperin",
-    "link": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
-    "content": "Lynda Benglis redefined sculpture in the 1960s. No longer overlooked, her audacious talent moves from museums to runways, transformed by Dior\u2019s Jonathan Anderson.",
-    "date": "2026-07-12T17:54:39",
     "category": "NYT"
   }
 ]
