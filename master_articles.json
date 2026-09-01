@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=241446",
+    "feed_name": "Texas Tribune",
+    "title": "Listen to 911 calls from inside an immigration detention center: \u201cWe just need to take him to the hospital\u201d",
+    "author": "By Perla Trevizo, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17436375/911-calls-camp-east-montana-texas-detention",
+    "content": "Camp East Montana, an immigration detention facility inside the Fort Bliss Army base in El Paso, Texas",
+    "date": "2026-09-01T14:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "695969b011bd4bc8f2d1ce1a87abaa97",
     "feed_name": "LRB",
     "title": "Where will we build?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/12/business/media/michael-movie-lionsgate.html",
     "content": "Shunned by bigger studios as too risky, \u201cMichael\u201d and other hits have revived Hollywood\u2019s last major independent studio. But is it enough?",
     "date": "2026-07-12T09:00:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Don\u2019t Try This at Home: How Performers Turn Stunts Into Movie Magic",
-    "author": "Chris Maggio and Erynn Lamont",
-    "link": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
-    "content": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire.",
-    "date": "2026-07-12T09:00:26",
     "category": "NYT"
   }
 ]
