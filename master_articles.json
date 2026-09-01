@@ -210,6 +210,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Despite Duane Davis\u2019s Conviction in Tupac Murder Trial, Some Still Seek Closure",
+    "author": "Julia Jacobs and Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html",
+    "content": "Tupac Shakur\u2019s death after a drive-by shooting 30 years ago turned him into a pop cultural martyr and changed the trajectory of hip-hop.",
+    "date": "2026-09-01T23:40:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8847341#p8847341",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "bople",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8847341#p8847341",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Has anybody had any success using a CMA debit card as a funding source with privacy.com?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Has been working fine for me for 2.5 years now.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=166077\">bople</a> \u2014 Tue Sep 01, 2026 6:32 pm</p><hr />",
+    "date": "2026-09-01T23:32:55",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/01/us/science-museum-drexel-philadelphia-closing.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Nearly 200-Year-Old Museum Known for Its T. Rex Faces Extinction",
+    "author": "Neil Vigdor",
+    "link": "https://www.nytimes.com/2026/09/01/us/science-museum-drexel-philadelphia-closing.html",
+    "content": "The Academy of Natural Sciences in Philadelphia opened in 1828 and is known for its Dinosaur Hall.",
+    "date": "2026-09-01T23:18:05",
+    "category": "NYT"
+  },
+  {
     "id": "4808bfad-8219-47c5-acef-6a1e8a17f356",
     "feed_name": "Economist",
     "title": "Europe\u2019s bond markets are suffering a post-holiday shock",
@@ -19968,35 +19998,5 @@
     "content": "A challenging puzzle.",
     "date": "2026-07-13T10:28:59",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19499",
-    "feed_name": "Stratechery",
-    "title": "Apple Sues OpenAI, Apple\u2019s Real Problem",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
-    "content": "<p>Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.</p>",
-    "date": "2026-07-13T10:00:00",
-    "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235811",
-    "feed_name": "Texas Tribune",
-    "title": "\u201cWho do I vote for?\u201d: Cornyn voters weigh Paxton, Talarico or sitting out in November",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17379402/texas-gop-voters-john-cornyn-ken-paxton-james-talarico-us-senate",
-    "content": "The Tribune spoke with voters who backed Cornyn in the primary to see how they&#039;re weighing Talarico vs. Paxton this November.",
-    "date": "2026-07-13T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235959",
-    "feed_name": "Texas Tribune",
-    "title": "Corpus Christi in legal fight with industries after rejecting demand for $80 million water refund",
-    "author": "By\u00a0Neena Satija, Texas Newsroom, and Dylan Baddour, Inside Climate News",
-    "link": "https://feeds.texastribune.org/link/16799/17379403/texas-corpus-christi-water-rate-protest-industry-refineries",
-    "content": "The Port of Corpus Christi on June 3, 2026.",
-    "date": "2026-07-13T10:00:00",
-    "category": "Texas"
   }
 ]
