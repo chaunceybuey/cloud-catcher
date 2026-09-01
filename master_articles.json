@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/01/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Kirbee\u2019s Brings Texas BBQ Smoke and Green Spaghetti to Brooklyn",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/09/01/dining/nyc-restaurant-news.html",
+    "content": "Faux opens with George McNally at the helm, Evelyn Bar & Kitchen debuts from the longtime manager of the Full Shilling and more restaurant news.",
+    "date": "2026-09-01T17:03:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/01/arts/television/movies-tv-shows-september-2026-streaming.html",
     "feed_name": "NYT (Arts)",
     "title": "The Best Movies and TV Shows Coming to Disney+, MGM+, Apple TV, Peacock and More in September",
@@ -19988,15 +19998,5 @@
     "content": "And the fettuccine Alfredo my teenager makes over and over.",
     "date": "2026-07-12T13:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/21204-family-day-weaving-with-allison-lash",
-    "feed_name": "KMFA",
-    "title": "Family Day: Weaving With Allison Lash",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/21204-family-day-weaving-with-allison-lash",
-    "content": "MATO PRESENTS:\n\nFAMILY DAY:\n\nWEAVING WITH ALLSION LASH\n\nJuly 10 | 1:00 - 4:00 P.M. | Mexic-Arte Museum\n\n\u00a0\n\nAllison Lash is a multi-media artist, educator, photographer, and mother. She earned her BFA from The University at Buffalo, NY; MFA from Mason Gross School of the Arts at Rutgers University, NJ; and her visual arts teaching certification through an accelerated program at Studio in a School with the Pratt Institute, NYC. Studio in a School\u2019s philosophy includes modeling the artist\u2019s way of thinking and working inspired by the pedagogy of Reggio Emilia.\n\nBUY TICKETS!\n\nEvent Details\nDate: Sunday, July 12, 2026\nTime: 1:00 P.M. \nVenue: Mexic-Arte Museum\n\nTicket Information\nCost: FREE\nPhone: \n\nPresenter Details: Awesome Art! began as an arts enrichment program for elementary aged students after school at Brentwood Elementary School and during the summer at The Corner School at The Texas Association of School Boards.\u00a0 Allison is an expert in art concepts, techniques and materials, and she provides an engaging space where students express themselves while building self-confidence, exploring art materials and techniques.",
-    "date": "2026-07-12T13:00:00",
-    "category": "Texas"
   }
 ]
