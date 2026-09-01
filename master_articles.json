@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "21389bbeb44eb0f6b09aa3c7469fbf66",
+    "feed_name": "The Atlantic",
+    "title": "Hegseth\u2019s Pentagon Lurches off the Rails",
+    "author": "Tom Nichols",
+    "link": "https://www.theatlantic.com/ideas/2026/08/hegseth-driscoll/688480/",
+    "content": "The resignation of Army Secretary Dan Driscoll is the latest sign of severe dysfunction in the Defense Department.",
+    "date": "2026-09-01T01:47:58",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/08/31/arts/tupac-murder-trial-verdict-duane-davis",
     "feed_name": "NYT (Arts)",
     "title": "Tupac Shakur Murder Trial Updates: Man Found Guilty of Orchestrating Rap Star\u2019s Killing",
@@ -19988,15 +19998,5 @@
     "content": "Historians are questioning the validity of multiple works by the historian Kerri K. Greenidge, who is no longer employed by Tufts University.",
     "date": "2026-07-10T23:22:26",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=235950",
-    "feed_name": "Texas Tribune",
-    "title": "ICE activity in Texas continues to climb as agency increases focus on street arrests",
-    "author": "By Alex Nguyen, Colleen DeGuzman, Data analysis and graphics by\u00a0Alex Ford",
-    "link": "https://feeds.texastribune.org/link/16799/17376415/ice-arrest-data-texas-houston-shooting",
-    "content": "Immigration agents are arresting more migrants on the streets of cities like Houston, an analysis of federal data shows.",
-    "date": "2026-07-10T23:18:46",
-    "category": "Texas"
   }
 ]
