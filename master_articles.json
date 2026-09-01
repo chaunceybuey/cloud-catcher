@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/01/arts/television/movies-tv-shows-september-2026-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Movies and TV Shows Coming to Disney+, MGM+, Apple TV, Peacock and More in September",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/09/01/arts/television/movies-tv-shows-september-2026-streaming.html",
+    "content": "A Ryan Reynolds and Kenneth Branagh movie, a \u201cReacher\u201d spinoff and a \u201cLEGO Star Wars\u201d are among this month\u2019s highlights.",
+    "date": "2026-09-01T16:11:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/01/arts/ethiopian-artifacts-toledo-museum-provenance.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Can a Museum Accept Artifacts With Slim Records? Toledo Has a Plan.",
+    "author": "Graham Bowley",
+    "link": "https://www.nytimes.com/2026/09/01/arts/ethiopian-artifacts-toledo-museum-provenance.html",
+    "content": "Curators from Ethiopia and the Toledo Museum will study a prized, but thinly documented, trove of antiquities to decide which must be returned because of questionable provenance.",
+    "date": "2026-09-01T15:54:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/kratom-legalization-christopher-mccurdy-research-conflict-of-interest-aka",
     "feed_name": "ProPublica",
     "title": "The Scientist Trying to Keep Kratom Legal Has Not Disclosed Longstanding Ties to Kratom Lobbyists",
@@ -19978,25 +19998,5 @@
     "content": "MATO PRESENTS:\n\nFAMILY DAY:\n\nWEAVING WITH ALLSION LASH\n\nJuly 10 | 1:00 - 4:00 P.M. | Mexic-Arte Museum\n\n\u00a0\n\nAllison Lash is a multi-media artist, educator, photographer, and mother. She earned her BFA from The University at Buffalo, NY; MFA from Mason Gross School of the Arts at Rutgers University, NJ; and her visual arts teaching certification through an accelerated program at Studio in a School with the Pratt Institute, NYC. Studio in a School\u2019s philosophy includes modeling the artist\u2019s way of thinking and working inspired by the pedagogy of Reggio Emilia.\n\nBUY TICKETS!\n\nEvent Details\nDate: Sunday, July 12, 2026\nTime: 1:00 P.M. \nVenue: Mexic-Arte Museum\n\nTicket Information\nCost: FREE\nPhone: \n\nPresenter Details: Awesome Art! began as an arts enrichment program for elementary aged students after school at Brentwood Elementary School and during the summer at The Corner School at The Texas Association of School Boards.\u00a0 Allison is an expert in art concepts, techniques and materials, and she provides an engaging space where students express themselves while building self-confidence, exploring art materials and techniques.",
     "date": "2026-07-12T13:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "6a50b6a1801742f6885445d1",
-    "feed_name": "Wired (Science)",
-    "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-    "author": "Isabella Ward",
-    "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-    "content": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
-    "date": "2026-07-12T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "5aba237655fccf7563ddc9093aefa1ea",
-    "feed_name": "The Atlantic",
-    "title": "The Surprising Source of America\u2019s Success",
-    "author": "Yair Lapid",
-    "link": "https://www.theatlantic.com/ideas/2026/07/america-birthday-250-roadtrip/687877/",
-    "content": "Loneliness created the first nation in history in which almost everyone has already changed the course of their life at least once.",
-    "date": "2026-07-12T10:00:00",
-    "category": "Magazines"
   }
 ]
