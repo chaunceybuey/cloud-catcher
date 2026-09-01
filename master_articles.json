@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/01/arts/music/a-daisy-chain-fields-soundtrack.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Daisy Chain Fields Soundtrack",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/09/01/arts/music/a-daisy-chain-fields-soundtrack.html",
+    "content": "Bikini Kill",
+    "date": "2026-09-01T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/01/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "Kirbee\u2019s Brings Texas BBQ Smoke and Green Spaghetti to Brooklyn",
@@ -17520,6 +17530,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/12/dining/the-summeriest-skillet-pork-chops-courtesy-of-ali-slagle.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "The Summeriest Skillet Pork Chops, Courtesy of Ali Slagle",
+    "author": "Margaux Laskey",
+    "link": "https://www.nytimes.com/2026/07/12/dining/the-summeriest-skillet-pork-chops-courtesy-of-ali-slagle.html",
+    "content": "And the fettuccine Alfredo my teenager makes over and over.",
+    "date": "2026-07-17T21:14:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=236973",
     "feed_name": "Texas Tribune",
     "title": "Houston police worked with ICE on at least 103 occasions since April, report shows",
@@ -19978,25 +19998,5 @@
     "content": "Its payments firms may be the first casualties",
     "date": "2026-07-12T17:05:30",
     "category": "Magazines"
-  },
-  {
-    "id": "919b44ae998510166f3e37789f693941",
-    "feed_name": "The Atlantic",
-    "title": "The Quintessential Politician of This Era",
-    "author": "Anne Applebaum",
-    "link": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham/687893/",
-    "content": "The late South Carolina senator made a mid-career turn to MAGA.",
-    "date": "2026-07-12T16:57:36",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/12/dining/this-healthy-roasted-fish-al-pastor-is-already-earning-raves.html",
-    "feed_name": "NYT (Food)",
-    "title": "This Healthy Roasted Fish Al Pastor Is Already Earning Raves",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/12/dining/this-healthy-roasted-fish-al-pastor-is-already-earning-raves.html",
-    "content": "Paola Brise\u00f1o-Gonz\u00e1lez\u2019s roasted fish al pastor.",
-    "date": "2026-07-12T15:00:37",
-    "category": "NYT"
   }
 ]
