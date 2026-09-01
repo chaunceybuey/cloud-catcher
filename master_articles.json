@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Duane Davis Is Convicted of Orchestrating Tupac Shakur\u2019s Murder",
+    "author": "Julia Jacobs and Anusha Bayya",
+    "link": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-murder-duane-davis-guilty-convicted.html",
+    "content": "Duane Keith Davis, right, and his lawyer, Michael Sanft, after a jury found Mr. Davis guilty. He faces up to life in prison.",
+    "date": "2026-09-01T02:30:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/08/31/arts/tupac-murder-trial-verdict-duane-davis",
     "feed_name": "NYT (Arts)",
     "title": "Tupac Shakur Murder Trial Updates: Man Found Guilty of Orchestrating Rap Star\u2019s Killing",
@@ -197,6 +207,16 @@
     "link": "https://www.nytimes.com/live/2026/08/31/arts/tupac-murder-trial-verdict-duane-davis",
     "content": "A jury convicted Duane Keith Davis, 63, in the 1996 drive-by shooting that killed Mr. Shakur, a rapper at the height of his popularity. Prosecutors cited portions of Mr. Davis\u2019s disavowed memoir.",
     "date": "2026-09-01T01:12:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/08/31/arts/music/heres-the-latest.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Here\u2019s the latest.",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/08/31/arts/music/heres-the-latest.html",
+    "content": "",
+    "date": "2026-09-01T01:12:30",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Immigration agents are arresting more migrants on the streets of cities like Houston, an analysis of federal data shows.",
     "date": "2026-07-10T23:18:46",
     "category": "Texas"
-  },
-  {
-    "id": "6a501400ba309b253cb3cc8c",
-    "feed_name": "Wired (Science)",
-    "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
-    "content": "Data centers are driving up the company\u2019s use of electricity\u2014and carbon pollution.",
-    "date": "2026-07-10T23:16:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8806684#p8806684",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "GreatOZ",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8806684#p8806684",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>When I deposit similar checks into an account that has only cash and cash equivalent, there is a hold. </div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>only if your \"cash and cash equivalent\" are their own money market funds for example  ... non Fidelity money market funds are good to use to avoid a hold<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=222890\">GreatOZ</a> \u2014 Fri Jul 10, 2026 5:11 pm</p><hr />",
-    "date": "2026-07-10T22:11:06",
-    "category": "Finance"
   }
 ]
