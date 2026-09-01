@@ -190,6 +190,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=241442",
+    "feed_name": "Texas Tribune",
+    "title": "Here\u2019s your 2026 Texas ballot for the November election",
+    "author": "Apurva Mahajan",
+    "link": "https://feeds.texastribune.org/link/16799/17436230/texas-general-election-ballot-november-2026",
+    "content": "See the full list of candidates and who will be on your personal ballot on Nov. 3.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17436230.gif\" width=\"1\" />",
+    "date": "2026-09-01T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241463",
+    "feed_name": "Texas Tribune",
+    "title": "More than a dozen Texas school districts close to triggering state takeover law in 2027",
+    "author": "Megan Menchaca",
+    "link": "https://feeds.texastribune.org/link/16799/17436231/more-districts-at-risk-school-takeovers-ratings-2027",
+    "content": "Brentwood Elementary School in Austin on Aug. 8, 2026.",
+    "date": "2026-09-01T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "6a553d7860977c8c392bf881",
+    "feed_name": "Wired",
+    "title": "Inside the Perimenopause Industrial Complex",
+    "author": "Kate Knibbs",
+    "link": "https://www.wired.com/story/inside-the-perimenopause-industrial-complex/",
+    "content": "How an alliance of tech startups, MAHA operatives, and actual medical experts made millennial women the new face of hormone therapy.",
+    "date": "2026-09-01T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=19853",
+    "feed_name": "Stratechery",
+    "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
+    "content": "<p>Nvidia's earnings were remarking and boring \u2014 two sides of the same coin. Everything the company does is about avoiding a consolidated world.</p>",
+    "date": "2026-09-01T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.propublica.org/getinvolved/help-us-investigate-abusive-coaches-youth-sports-aau",
     "feed_name": "ProPublica",
     "title": "Help Us Investigate Abusive Coaches in Youth Sports",
@@ -19958,45 +19998,5 @@
     "content": "Vivek Venkatraman leads marchers during a protest on July 11, 2026 in Houston. Lorenzo Salgado Araujo was fatally shot by an immigration officer Tuesday.",
     "date": "2026-07-12T02:57:59",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/11/dining/have-you-made-this-cake-yet.html",
-    "feed_name": "NYT (Food)",
-    "title": "Have You Made This Cake Yet?",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/11/dining/have-you-made-this-cake-yet.html",
-    "content": "Jerrelle Guy\u2019s strawberry spoon cake.",
-    "date": "2026-07-11T15:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/11/dining/we-have-7-eleven-snacks-at-home.html",
-    "feed_name": "NYT (Food)",
-    "title": "We Have 7-Eleven Snacks at Home",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/07/11/dining/we-have-7-eleven-snacks-at-home.html",
-    "content": "Margaux Laskey\u2019s homemade Pop-Tarts.",
-    "date": "2026-07-11T14:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "23b46a47580e7c2dcf0e7e192db0aec7",
-    "feed_name": "The Atlantic",
-    "title": "The Social Ritual That Made Me a Better Man",
-    "author": "Thomas Chatterton Williams",
-    "link": "https://www.theatlantic.com/ideas/2026/07/guys-night-friendship-loneliness/687878/",
-    "content": "Long live guys\u2019 night.",
-    "date": "2026-07-11T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a515ddfeff249f8382acb90",
-    "feed_name": "Wired (Science)",
-    "title": "China\u2019s Tianwen-2 Space Probe Has Rendezvoused With Earth\u2019s Quasi-Moon",
-    "author": "Ritsuko Kawai",
-    "link": "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/",
-    "content": "The probe sent back the first pictures of the asteroid Kamo\u2019oalewa. Next step: landing on the surface and collecting samples to send back to Earth.",
-    "date": "2026-07-11T09:30:00",
-    "category": "Magazines"
   }
 ]
