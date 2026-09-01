@@ -230,6 +230,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=241627",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: A data center proponent makes his case",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17436719/tribcast-data-centers-supporter",
+    "content": "The Meta Temple Data Center includes multiple halls of servers optimized for AI to support technologies like Facebook, Instagram, WhatsApp and Meta AI, in Temple on July 22, 2026.",
+    "date": "2026-09-01T20:40:15",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/01/dining/restaurant-review-cleo-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Cleo in New York",
@@ -19985,16 +19995,6 @@
     "title": "A Murder Mystery Evening at Audrey Gelman\u2019s Guesthouse",
     "author": "Alexis Soloski",
     "link": "https://www.nytimes.com/2026/07/13/arts/murder-mystery-audrey-gelman-wing.html",
-    "content": "Guests are encouraged to \u201cdress to impress\u201d for the dinner and murder mystery evening.",
-    "date": "2026-07-13T09:02:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/13/theater/murder-mystery-audrey-gelman-wing.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Murder Mystery Evening at Audrey Gelman\u2019s Guesthouse",
-    "author": "Alexis Soloski",
-    "link": "https://www.nytimes.com/2026/07/13/theater/murder-mystery-audrey-gelman-wing.html",
     "content": "Guests are encouraged to \u201cdress to impress\u201d for the dinner and murder mystery evening.",
     "date": "2026-07-13T09:02:14",
     "category": "NYT"
