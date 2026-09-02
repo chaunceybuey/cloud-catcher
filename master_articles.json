@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/02/briefing/2-the-good-list-katydid-pianos.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Joy to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/09/02/briefing/2-the-good-list-katydid-pianos.html",
+    "content": "Your birthday crossword, nearby pianos and the lone katydid.",
+    "date": "2026-09-02T19:12:54",
+    "category": "NYT"
+  },
+  {
     "id": "4097c83edb6fe30895ce1ac266268e77",
     "feed_name": "Compact",
     "title": "Why Iceland Said No to Europe",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/14/arts/smithsonian-trump-board-lonnie-bunch.html",
     "content": "For more than a year, President Trump has attacked the Smithsonian Institution. Typically, Congress would have confirmed new board nominees by now.",
     "date": "2026-07-14T09:02:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/14/arts/music/mike-d-new-album-beastie-boys.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Beastie Boy Returns to the Mic, With Some Help",
-    "author": "Ben Sisario and Ryan Lowry",
-    "link": "https://www.nytimes.com/2026/07/14/arts/music/mike-d-new-album-beastie-boys.html",
-    "content": "Thanks to an assist from his sons, Mike D is set to release \u201cThank You,\u201d the first new music from a member of the pioneering rap trio in 15 years.",
-    "date": "2026-07-14T09:02:18",
     "category": "NYT"
   }
 ]
