@@ -240,6 +240,36 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=241581",
+    "feed_name": "Texas Tribune",
+    "title": "Find data centers near you in Texas with our search tools",
+    "author": "By Chris Essig and Apurva Mahajan",
+    "link": "https://feeds.texastribune.org/link/16799/17437106/texas-data-center-information-lookups",
+    "content": "The EdgeConneX Cedar Creek Campus located at 8001 Wolf Ln / 6682 FM535 includes three data centers under construction in Cedar Creek on Thursday, June 18, 2026.",
+    "date": "2026-09-02T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241648",
+    "feed_name": "Texas Tribune",
+    "title": "Austin man\u2019s wrongful deportation casts scrutiny on Texas\u2019 embrace of ICE partnerships",
+    "author": "Alejandro Serrano and Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17437107/texas-deported-citizen-brian-morales-ice-partnerships-local-police-sheriffs-287g",
+    "content": "DPS troopers return to their patrol route after making a traffic stop in southeast Austin on Aug. 7, 2023.",
+    "date": "2026-09-02T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241404",
+    "feed_name": "Texas Tribune",
+    "title": "Texas rejected an AI-driven school\u2019s bid to open a charter. Then the state approved it for the voucher program.",
+    "author": "By Lexi Churchill, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17437108/alpha-school-texas-vouchers-ai",
+    "content": "Alpha School quadrupled its Texas private school campuses. Most are eligible for state dollars through the new voucher program.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17437108.gif\" width=\"1\" />",
+    "date": "2026-09-02T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/02/arts/music/gary-glitter-court.html",
     "feed_name": "NYT (Arts)",
     "title": "Gary Glitter Pleads Not Guilty to Child Sexual Abuse Charges",
@@ -19966,36 +19996,6 @@
     "author": "ByLauren Collins",
     "link": "https://www.newyorker.com/magazine/2026/07/20/meet-the-minion-maker",
     "content": "Off the release of \u201cMinions & Monsters,\u201d the director Pierre Coffin reflects on creating the language of Minionese, partly inspired by Indian food.",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "ed6273bc958ff91665555ddaa720ec9b",
-    "feed_name": "New Yorker",
-    "title": "New York Is a Pickle Kind of Town",
-    "author": "ByEmma Allen",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/new-york-is-a-pickle-kind-of-town",
-    "content": "The Dutch authors of a new book, \u201cThe Pickled City: The Story of New York Pickles,\u201d stop by the brined-delicacy staple Russ & Daughters.",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "58f7a5f41e216096d741b7cd9feb8421",
-    "feed_name": "New Yorker",
-    "title": "When A.I. Is a Member of the Family",
-    "author": "ByJessica Contrera",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
-    "content": "A single mom, her two daughters, and the chatbots that fill in the gaps.",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "00aff206d5d79d26248e8083c539969b",
-    "feed_name": "New Yorker",
-    "title": "Ana Mendieta, the Body Artist",
-    "author": "ByRebecca Mead",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/ana-mendieta-the-body-artist",
-    "content": "Four decades after her death, her bold innovations are finally coming into focus.",
     "date": "2026-07-13T10:28:59",
     "category": "Magazines"
   }
