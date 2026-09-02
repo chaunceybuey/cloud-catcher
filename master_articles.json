@@ -210,6 +210,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/02/arts/design/yayoi-kusama-final-years.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Mysterious and Lonely Final Decade of Yayoi Kusama\u2019s Life",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/09/02/arts/design/yayoi-kusama-final-years.html",
+    "content": "The Japanese artist spent the last seven years in isolation and declining health. Still, it was the most prolific chapter of her career.",
+    "date": "2026-09-02T15:14:24",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/02/dining/a-technique-for-always-crispy-fish.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Technique for Always-Crispy Fish",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/02/dining/a-technique-for-always-crispy-fish.html",
+    "content": "Ali Slagle\u2019s crispy salmon with lentil salsa verde.",
+    "date": "2026-09-02T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241749",
+    "feed_name": "Texas Tribune",
+    "title": "As Hill Country waits for FEMA money after July flood, Trump announces $50 million for storm recovery",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17437275/trump-texas-flood-recovery-50-million",
+    "content": "President Donald Trump speaks at the Port of Corpus Christi on Feb. 27, 2026.",
+    "date": "2026-09-02T14:42:59",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
     "feed_name": "NYT (Arts)",
     "title": "Haruomi Hosono, Architect of Japanese Pop, Pushes West",
@@ -19968,35 +19998,5 @@
     "content": "Mexican President Claudia Sheinbaum speaks during a morning news conference at the National Palace in Mexico City, Mexico, on July 8, 2026.",
     "date": "2026-07-14T03:06:20",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236089",
-    "feed_name": "Texas Tribune",
-    "title": "Harris County DA\u2019s office to treat ICE shooting as criminal investigation, says it may take months or years to complete",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17379816/texas-ice-shooting-houston-harris-county-investigation",
-    "content": "Investigators with the Harris County District Attorney\u2019s Office work near the location where Lorenzo Salgado Araujo was fatally shot on Wednesday, July 8, 2026, in Houston. Salgado Araujo was kiiled early in the morning the day before, on Tuesday, July 7.",
-    "date": "2026-07-13T23:19:10",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236088",
-    "feed_name": "Texas Tribune",
-    "title": "What we still don\u2019t know about the ICE shooting in Houston",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17379774/texas-houston-ice-shooting-lorenzo-salgado-araujo-questions-remain",
-    "content": "Traffic drives through the intersection of Wayside Drive and Canal Street in Houston, near the location where Lorenzo Salgado Araujo was fatally shot, on Friday, July 10, 2026. Salgado Araujo was shot by an ICE officer on Tuesday, July 7.",
-    "date": "2026-07-13T22:29:19",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/13/movies/sam-neill-movies-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sam Neill\u2019s Best Movie Performances: Where to Stream",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/07/13/movies/sam-neill-movies-streaming.html",
-    "content": "From his global breakthrough in \u201cJurassic Park\u201d to the more recent \u201cPeaky Blinders,\u201d the actor\u2019s range was always on display.",
-    "date": "2026-07-13T20:59:38",
-    "category": "NYT"
   }
 ]
