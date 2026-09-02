@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Haruomi Hosono, Architect of Japanese Pop, Pushes West",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
+    "content": "After recent endorsements from Vampire Weekend and Harry Styles, Haruomi Hosono, 79, returns to the U.S. with a new album and tour.",
+    "date": "2026-09-02T14:04:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/02/arts/design/bayeux-tapestry-king-charles.html",
     "feed_name": "NYT (Arts)",
     "title": "King Charles III to View Bayeux Tapestry at the British Museum",
@@ -380,6 +390,16 @@
     "category": "Magazines"
   },
   {
+    "id": "81eaccf5e3fd295418459e85c163762d",
+    "feed_name": "LRB",
+    "title": "Gaza after the Ceasefire",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/gaza-after-the-ceasefire",
+    "content": "Since the announcement of a ceasefire in Gaza six months ago, 904 Palestinians have been killed and more than 2700 wounded by the Israeli army. Last week, Trump\u2019s Board of Peace released a report complaining of a \u2018funding gap\u2019 after reports emerged that it had received only a \u2018tiny fraction\u2019 of the $17 billion its members had pledged to rebuild the region.",
+    "date": "2026-09-02T13:21:39",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
     "feed_name": "ProPublica",
     "title": "New Mail Voting Rules Moved Forward Despite USPS Officials\u2019 Concerns About Mass Disenfranchisement",
@@ -477,6 +497,16 @@
     "link": "https://www.nytimes.com/2026/09/02/arts/television/ted-lasso-season-4-episode-5-recap.html",
     "content": "From left, Brendan Hunt, Jason Sudeikis and Tanya Reynolds in \u201cTed Lasso.\u201d",
     "date": "2026-09-02T09:04:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/pistachio-lemon-snacking-tea-cake-rosh-hashana",
+    "feed_name": "NYT (Food)",
+    "title": "A Pistachio-Lemon Snacking Cake That\u2019s Perfect for Rosh Hashana",
+    "author": "Melissa Clark",
+    "link": "https://cooking.nytimes.com/article/pistachio-lemon-snacking-tea-cake-rosh-hashana",
+    "content": "Benjamina Ebuehi doubles down on lemon in this cake by stirring in a hefty dose of minced preserved lemon.",
+    "date": "2026-09-02T09:03:59",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/13/movies/sam-neill-movies-streaming.html",
     "content": "From his global breakthrough in \u201cJurassic Park\u201d to the more recent \u201cPeaky Blinders,\u201d the actor\u2019s range was always on display.",
     "date": "2026-07-13T20:59:38",
-    "category": "NYT"
-  },
-  {
-    "id": "41439e36-07b8-42c6-91b7-1f1339da6da4",
-    "feed_name": "Economist",
-    "title": "The stubborn scarcity of female breadwinners",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
-    "content": "Wives who outearn their husbands remain rare in America",
-    "date": "2026-07-13T19:12:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/13/movies/tony-rayns-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tony Rayns, Who Helped Bring Asian Film to the World, Dies at 77",
-    "author": "Trip Gabriel",
-    "link": "https://www.nytimes.com/2026/07/13/movies/tony-rayns-dead.html",
-    "content": "In reviews and at festivals, he played a key role in introducing English-speaking audiences to directors like Wong Kar-wai, Jia Zhangke and Bong Joon Ho.",
-    "date": "2026-07-13T18:43:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings",
-    "author": "Ben Sisario",
-    "link": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
-    "content": "The French streaming service Deezer says as many as 75,000 A.I.-generated tracks are uploaded to its system daily.",
-    "date": "2026-07-13T17:32:29",
     "category": "NYT"
   }
 ]
