@@ -210,6 +210,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kennedy Center Will Remove Outdoor \u2018Blue\u2019 Sculpture",
+    "author": "Elizabeth Williamson and Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html",
+    "content": "The artist Joel Shapiro completed the sculpture \u201cBlue\u201d in 2019, the same year the Kennedy Center opened its $250 million addition known as the Reach.",
+    "date": "2026-09-02T01:10:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241690",
+    "feed_name": "Texas Tribune",
+    "title": "Tarrant County removes 92 polling sites ahead of November election",
+    "author": "By Cecilia Lenzen\u00a0Fort Worth Report",
+    "link": "https://feeds.texastribune.org/link/16799/17436857/tarrant-county-removes-polling-sites",
+    "content": "A voter walks to an early voting site at Tarrant County College South Campus in Fort Worth on Oct. 21, 2024.",
+    "date": "2026-09-02T00:52:58",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html",
     "feed_name": "NYT (Arts)",
     "title": "Despite Duane Davis\u2019s Conviction in Tupac Murder Trial, Some Still Seek Closure",
@@ -19976,26 +19996,6 @@
     "author": "ByTerrance Hayes",
     "link": "https://www.newyorker.com/magazine/2026/07/20/review-to-remember-terrance-hayes-poem",
     "content": "\u201cYou argued whether one had to lie to dream, / the tensions between charm & narcissism, / & the existence of Time with everyone younger than you.\u201d",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "84cc444aeafff26e7253bfd38507bcf0",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-july-20-2026-issue",
-    "content": "Drawings from the July 20, 2026, magazine.",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "415205ab065712f4a72db84c32415a5d",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Monday, July 13, 2026",
-    "author": "ByPaolo Pasco",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/07/13",
-    "content": "A challenging puzzle.",
     "date": "2026-07-13T10:28:59",
     "category": "Magazines"
   }
