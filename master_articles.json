@@ -210,6 +210,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/02/arts/television/ted-lasso-season-4-episode-5-recap.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Ted Lasso\u2019 Season 4, Episode 5 Recap: Romantic Reversals",
+    "author": "Christopher Orr",
+    "link": "https://www.nytimes.com/2026/09/02/arts/television/ted-lasso-season-4-episode-5-recap.html",
+    "content": "From left, Brendan Hunt, Jason Sudeikis and Tanya Reynolds in \u201cTed Lasso.\u201d",
+    "date": "2026-09-02T09:04:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/02/movies/katy-perry-the-lifetimes-tour-live-from-paris-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Katy Perry: The Lifetimes Tour\u2019 Review: Back to Space She Goes",
+    "author": "Chris Azzopardi",
+    "link": "https://www.nytimes.com/2026/09/02/movies/katy-perry-the-lifetimes-tour-live-from-paris-review.html",
+    "content": "Katy Perry\u2019s sci-fi concert film from Paris shines brightest during simple, back-to-basics pop moments.",
+    "date": "2026-09-02T09:02:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/02/movies/runner-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Runner\u2019 Review: Neither Fast Nor Furious Enough",
+    "author": "Robert Daniels",
+    "link": "https://www.nytimes.com/2026/09/02/movies/runner-review.html",
+    "content": "Gal Gadot limps ahead as a desperate single mother in a thin race-against-time thriller.",
+    "date": "2026-09-02T09:02:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/02/movies/summer-box-office-the-odyssey-obsession.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Summer Box Office Lessons From \u2018The Odyssey,\u2019 \u2018Obsession\u2019 and More Hits",
+    "author": "Alissa Wilkinson",
+    "link": "https://www.nytimes.com/2026/09/02/movies/summer-box-office-the-odyssey-obsession.html",
+    "content": "Studios may think that stories drew moviegoers, but it was the people behind hits like \u201cThe Odyssey\u201d and \u201cObsession\u201d that drew patrons again and again.",
+    "date": "2026-09-02T09:02:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/02/arts/music/an-architect-of-japanese-pop-pushes-west.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Haruomi Hosono, Architect of Japanese Pop, Pushes West",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/09/02/arts/music/an-architect-of-japanese-pop-pushes-west.html",
+    "content": "After recent endorsements from Vampire Weekend and Harry Styles, Haruomi Hosono, 79, returns to the U.S. with a new album and tour.",
+    "date": "2026-09-02T09:00:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=241709",
     "feed_name": "Texas Tribune",
     "title": "Corpus Christi, still in need of long-term water sources, again rejects desalination plant",
@@ -19946,56 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/magazine/2026/07/20/death-of-the-soccer-god-nebraska-muskism-spawning-season",
     "content": "\u201cDeath of the Soccer God,\u201d \u201cNebraska,\u201d \u201cMuskism,\u201d and \u201cSpawning Season.\u201d",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "753474b7115d453aa7cf298b9e39a93b",
-    "feed_name": "New Yorker",
-    "title": "The Lost Art of the Bromance",
-    "author": "ByKaty Waldman",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/who-needs-friends-andrew-mccarthy-book-review",
-    "content": "New books, articles, and shows lament a crisis of connection among American men. But the picture of friendship that emerges can feel romanticized and brittle.",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "2892865276d8a1a3322da643a91cba2a",
-    "feed_name": "New Yorker",
-    "title": "A Dying Poet\u2019s Farewell to the World",
-    "author": "ByDan Chiasson",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/axe-in-blossom-franz-wright-book-review",
-    "content": "In his final days, Franz Wright tapped into a rich vein of material, recording dark, beautiful, and self-deprecating poems on tape and in scribbles all over his apartment.",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "896b89fb8d88c5df0e0bf44ada5102c8",
-    "feed_name": "New Yorker",
-    "title": "The Met Turns Orientalism Inside Out",
-    "author": "ByZachary Fine",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/the-met-turns-orientalism-inside-out",
-    "content": "In a new show, exotic colonial fantasies are set beside paintings that depict the so-called East from within.",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "d66bb040fee2535223b6398493ab162e",
-    "feed_name": "New Yorker",
-    "title": "\u201cBirthright\u201d and \u201cGiant\u201d Tackle Jewish Identity",
-    "author": "ByEmily Nussbaum",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/birthright-theatre-review-giant-broadway",
-    "content": "The plays explore interpersonal rifts over Israel, but only one lets the ugliness linger.",
-    "date": "2026-07-13T10:28:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "8faac37fa7b002caacb74c90331a594e",
-    "feed_name": "New Yorker",
-    "title": "\u201cElegy for the Penny\u201d",
-    "author": "ByCatherine Bowman",
-    "link": "https://www.newyorker.com/magazine/2026/07/20/elegy-for-the-penny-catherine-bowman-poem",
-    "content": "\u201cWhat will I give you now / for your thoughts.\u201d",
     "date": "2026-07-13T10:28:59",
     "category": "Magazines"
   }
