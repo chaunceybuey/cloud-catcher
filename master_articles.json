@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Cassandra Wilson, Star Jazz Singer, Dies at 70",
+    "author": "Will Friedwald and Adam Bernstein",
+    "link": "https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html",
+    "content": "Cassandra Wilson in 2014.",
+    "date": "2026-09-02T20:59:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/02/arts/music/reggaeton-lawsuit-bad-bunny.html",
     "feed_name": "NYT (Arts)",
     "title": "Who Owns Reggaeton\u2019s Beat? A Judge Throws Out One Claim.",
@@ -19988,15 +19998,5 @@
     "content": "President Donald Trump speaks at the Port of Corpus Christi on Feb. 27, 2026.",
     "date": "2026-07-14T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "0ddd537ab352deeed0e56011b301063e",
-    "feed_name": "The Atlantic",
-    "title": "Trump\u2019s Anti-Growth Agenda",
-    "author": "Idrees Kahloon",
-    "link": "https://www.theatlantic.com/ideas/2026/07/trumps-growth-hegemony-decline-britain/687904/",
-    "content": "When a superpower\u2019s economy lags, hegemony becomes unsustainable.",
-    "date": "2026-07-14T10:00:00",
-    "category": "Magazines"
   }
 ]
