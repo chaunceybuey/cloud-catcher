@@ -240,6 +240,66 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=241803",
+    "feed_name": "Texas Tribune",
+    "title": "Texas A&M System considers removing courses on LGBTQ, ethnic studies and climate change from core offerings",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17438361/texas-am-remove-core-courses-lgbtq-race-climate-change",
+    "content": "Students walk through a tunnel under Wellborn Road on the Texas A&amp;M University campus in College Station on Nov. 13, 2025.",
+    "date": "2026-09-03T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=241640",
+    "feed_name": "Texas Tribune",
+    "title": "With voters squeezed by high costs, Texas candidates race to claim affordability mantle",
+    "author": "By Joshua Fechter\u00a0and\u00a0Paul Cobler, GRAPHICS BY\u00a0Dan Keemahill",
+    "link": "https://feeds.texastribune.org/link/16799/17438362/texas-affordability-costs-inflation-2026-elections",
+    "content": "Prices are displayed at a CITGO gas station in Austin on Aug. 26, 2026.",
+    "date": "2026-09-03T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "6a7b3a00c14d5535df85cd4e",
+    "feed_name": "Wired (Science)",
+    "title": "Is It Even Possible to Understand Quantum Mechanics?",
+    "author": "Rhett Allain",
+    "link": "https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/",
+    "content": "Common sense is of no help in studying reality at the atomic scale.",
+    "date": "2026-09-03T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "a90daec8-fb06-4a25-a5ca-6140cbb1f74c",
+    "feed_name": "Economist",
+    "title": "Mexico is struggling to win over bond markets",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
+    "content": "Investors are unconvinced by Claudia Sheinbaum\u2019s policies",
+    "date": "2026-09-03T09:35:43",
+    "category": "Magazines"
+  },
+  {
+    "id": "048d2cf7-a264-41d5-8770-981e09262cf7",
+    "feed_name": "Economist",
+    "title": "China tries to look past the property slump",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
+    "content": "But its new policies could hurt construction and employment",
+    "date": "2026-09-03T09:35:32",
+    "category": "Magazines"
+  },
+  {
+    "id": "1788fc9e-69e1-47f8-a775-f6bc0f239fc1",
+    "feed_name": "Economist",
+    "title": "Indian regulators\u2019 attempts to protect retail traders are backfiring",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/03/indian-regulators-attempts-to-protect-retail-traders-are-backfiring",
+    "content": "The unintended consequences of curbs on options trading",
+    "date": "2026-09-03T09:34:25",
+    "category": "Magazines"
+  },
+  {
     "id": "6a96046f1405e01cc1d5419c",
     "feed_name": "Wired (Science)",
     "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
@@ -19938,65 +19998,5 @@
     "content": "A community vigil for Lorenzo Salgado Araujo is held at Wildflower Church in Austin on July 11, 2026. Salgado Araujo, who was fatally shot by an ICE officer in Houston on Tuesday morning, July 7.",
     "date": "2026-07-14T21:52:16",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
-    "feed_name": "Douthat",
-    "title": "Lindsey Graham Made Trumpism in His Own Image",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
-    "content": "He bent the knee and made the most of it.",
-    "date": "2026-07-14T21:00:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/14/dining/restaurant-review-demo-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Demo in New York",
-    "author": "Mahira Rivers",
-    "link": "https://www.nytimes.com/2026/07/14/dining/restaurant-review-demo-nyc.html",
-    "content": "Demo in the West Village earns its place among the sophisticated, youthful restaurants New York is so good at.",
-    "date": "2026-07-14T20:01:31",
-    "category": "NYT"
-  },
-  {
-    "id": "94388254-7d2c-4da0-917e-4789669d15bf",
-    "feed_name": "Economist",
-    "title": "Trump\u2019s Hormuz brinkmanship is worsening a global fuel crunch",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/14/trumps-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch",
-    "content": "Rising oil prices are only part of the problem",
-    "date": "2026-07-14T18:22:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/14/dining/nyc-restaurant-news.html",
-    "feed_name": "NYT (Food)",
-    "title": "Graciela Has Fired Up the Parrilla for Argentine Cooking",
-    "author": "Florence Fabricant",
-    "link": "https://www.nytimes.com/2026/07/14/dining/nyc-restaurant-news.html",
-    "content": "Casa Felix serves up esquites risotto, Granola Bar expands and more restaurant news.",
-    "date": "2026-07-14T18:16:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236157",
-    "feed_name": "Texas Tribune",
-    "title": "Canada suspends animal exports from Texas due to New World screwworm concerns",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17380260/texas-animals-exports-canada-suspended",
-    "content": "Cattle in the holding pen before being moved through the auction ring at the West Auction barn in West on June 11, 2026.",
-    "date": "2026-07-14T18:03:48",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/14/arts/music/amplifier-newsletter-world-cup-rosalia.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Soundtrack to the 2026 World Cup Semifinals",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/07/14/arts/music/amplifier-newsletter-world-cup-rosalia.html",
-    "content": "Fans of the Argentina team celebrating after a win over Switzerland in the World Cup quarterfinals.",
-    "date": "2026-07-14T18:00:05",
-    "category": "NYT"
   }
 ]
