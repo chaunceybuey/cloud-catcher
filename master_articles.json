@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/03/movies/brailled-it-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Brailled It\u2019 Review: A Matter of Perspective",
+    "author": "Beatrice Loayza",
+    "link": "https://www.nytimes.com/2026/09/03/movies/brailled-it-review.html",
+    "content": "This experimental documentary follows three students as they compete in an annual Braille tournament in Los Angeles.",
+    "date": "2026-09-03T12:20:22",
+    "category": "NYT"
+  },
+  {
     "id": "6a98924bf00ece367647c2de",
     "feed_name": "Wired (Science)",
     "title": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
@@ -19988,15 +19998,5 @@
     "content": "\u201cA Senate seat? Most people just get a garage full of damp boxes,\u201d Michael Kosta said of Graham\u2019s sister filling the late senator\u2019s seat on \u201cThe Daily Show.\u201d",
     "date": "2026-07-15T05:41:10",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236216",
-    "feed_name": "Texas Tribune",
-    "title": "Considerable to catastrophic flooding likely through Thursday in Texas, forecasters say",
-    "author": "Emily Foxhall",
-    "link": "https://feeds.texastribune.org/link/16799/17380448/texas-weather-castastrophic-flooding-forecast",
-    "content": "A flood gauge with debris near a creek bridge on July 9, 2025, near Hunt.",
-    "date": "2026-07-14T22:48:52",
-    "category": "Texas"
   }
 ]
