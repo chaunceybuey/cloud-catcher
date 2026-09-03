@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/03/arts/design/iranian-artists-los-angeles-the-brick.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Through the Hands of Strangers, Missing Iranian Artists Put on a Show in L.A.",
+    "author": "Jason Farago",
+    "link": "https://www.nytimes.com/2026/09/03/arts/design/iranian-artists-los-angeles-the-brick.html",
+    "content": "Isolated by war, they nevertheless are taking part in an exhibition at The Brick, paired with local artists who interpreted and realized their work.",
+    "date": "2026-09-03T15:41:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/03/theater/public-record-musical-new-york.html",
     "feed_name": "NYT (Arts)",
     "title": "The Show That Makes New Yorkers the Stars of Their Own City",
@@ -19986,16 +19996,6 @@
     "author": "Alejandro Santos Cid",
     "link": "https://feeds.texastribune.org/link/16799/17380638/texas-houston-ice-shooting-fear",
     "content": "Jose and his mother embrace near the site where Lorenzo Salgado Araujo was fatally shot by an ICE agent in Houston&#039;s Magnolia Park neighborhood, plunging the neighborhood into fear.",
-    "date": "2026-07-15T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236266",
-    "feed_name": "Texas Tribune",
-    "title": "Texas officials are cracking down on \u201cillegal birth tourism.\u201d Here\u2019s what that means.",
-    "author": "Katlyn Ma",
-    "link": "https://feeds.texastribune.org/link/16799/17380639/texas-birth-tourism-illegal-immigration-explainer",
-    "content": "Gov. Greg Abbott speaks with U.S. Supreme Court Justice Samuel Alito during a ceremonial swearing in of Texas Supreme Court Justices James Sullivan and Kyle Hawkins at the Capitol in Austin on May 7, 2026.",
     "date": "2026-07-15T10:00:00",
     "category": "Texas"
   }
