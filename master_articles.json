@@ -240,6 +240,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a98924bf00ece367647c2de",
+    "feed_name": "Wired (Science)",
+    "title": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/",
+    "content": "An underground detector recorded a strange interaction pointing to a particle with some properties that signify dark matter. The detection is small but promising.",
+    "date": "2026-09-03T11:30:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/arts/electra-persona-national-theatre-cate-blanchett-nina-hoss-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u201cElectra/Persona\u201d: Cate Blanchett and Nina Hoss Fuse Bergman and Greek Tragedy Into One",
+    "author": "Houman Barekat",
+    "link": "https://www.nytimes.com/2026/09/03/arts/electra-persona-national-theatre-cate-blanchett-nina-hoss-review.html",
+    "content": "In \u201cElectra/Persona\u201d at the National Theater in London, the actresses turn a spotlight on performance and the slipperiness of identity.",
+    "date": "2026-09-03T11:24:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=241803",
     "feed_name": "Texas Tribune",
     "title": "Texas A&M System considers removing courses on LGBTQ, ethnic studies and climate change from core offerings",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17380448/texas-weather-castastrophic-flooding-forecast",
     "content": "A flood gauge with debris near a creek bridge on July 9, 2025, near Hunt.",
     "date": "2026-07-14T22:48:52",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236199",
-    "feed_name": "Texas Tribune",
-    "title": "Crowd packs Houston City Hall to demand action, express anger after ICE shooting",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17380405/texas-ice-shooting-houston-city-council-protest",
-    "content": "Houston Mayor John Whitmire, second from right, speaks during a City Council meeting on Tuesday, July 14, 2026, in Houston. People demanded action from city leaders after the fatal shooting of Lorenzo Salgado Araujo by an immigration agent on July 7.",
-    "date": "2026-07-14T22:08:02",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236195",
-    "feed_name": "Texas Tribune",
-    "title": "TribCast: An ICE shooting roils Houston",
-    "author": "Matthew Watkins",
-    "link": "https://feeds.texastribune.org/link/16799/17380406/tribcast-houston-ice-shooting",
-    "content": "A community vigil for Lorenzo Salgado Araujo is held at Wildflower Church in Austin on July 11, 2026. Salgado Araujo, who was fatally shot by an ICE officer in Houston on Tuesday morning, July 7.",
-    "date": "2026-07-14T21:52:16",
     "category": "Texas"
   }
 ]
