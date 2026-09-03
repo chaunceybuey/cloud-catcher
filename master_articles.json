@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8848259#p8848259",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "EarlyRetirement1",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8848259#p8848259",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Has anybody had any success using a CMA debit card as a funding source with privacy.com?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I've never been able to get my debit card linked with the CMA, it always errors out with \"We're sorry. We currently don't support this specific debit card. Please connect a bank account or try a different debit card.\"<br /><br />It does work if you link the CMA account using Plaid when you click on add Bank Account and choose Fidelity Investments.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=149381\">EarlyRetirement1</a> \u2014 Wed Sep 02, 2026 9:58 pm</p><hr />",
+    "date": "2026-09-03T02:58:38",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/02/arts/television/carla-jeffery-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Carla Jeffery, Actress in Disney\u2019s \u2018Zombies\u2019 Films, Dies at 33",
@@ -19988,15 +19998,5 @@
     "content": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
     "date": "2026-07-14T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19506",
-    "feed_name": "Stratechery",
-    "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
-    "content": "<p>OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?</p>",
-    "date": "2026-07-14T10:00:00",
-    "category": "Tech"
   }
 ]
