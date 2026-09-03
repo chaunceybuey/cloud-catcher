@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/02/arts/television/carla-jeffery-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Carla Jeffery, Actress in Disney\u2019s \u2018Zombies\u2019 Films, Dies at 33",
+    "author": "Ishani Desai and Mark Walker",
+    "link": "https://www.nytimes.com/2026/09/02/arts/television/carla-jeffery-dead.html",
+    "content": "The actress Carla Jeffery has died.",
+    "date": "2026-09-03T02:02:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
     "feed_name": "ProPublica",
     "title": "Trump\u2019s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor\u2019s \u201cStrongest Possible\u201d Objections",
@@ -19988,15 +19998,5 @@
     "content": "<p>OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?</p>",
     "date": "2026-07-14T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236084",
-    "feed_name": "Texas Tribune",
-    "title": "How suing Biden more than 100 times fueled Ken Paxton\u2019s rise and reshaped Texans\u2019 lives",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17379988/texas-ken-paxton-lawsuits-biden-administration-win-rate-senate-2026",
-    "content": "Flanked by his staff, Texas Attorney General Ken Paxton makes a statement to the media on May 26, 2023, a day before the Texas House was scheduled to vote on his impeachment.",
-    "date": "2026-07-14T10:00:00",
-    "category": "Texas"
   }
 ]
