@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/03/dining/how-to-cook-for-your-friends-at-an-airbnb.html",
+    "feed_name": "NYT (Food)",
+    "title": "How to Cook for Your Friends at an Airbnb",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/09/03/dining/how-to-cook-for-your-friends-at-an-airbnb.html",
+    "content": "Zainab Shah\u2019s borani banjan (Afghan-style eggplant in yogurt).",
+    "date": "2026-09-03T17:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/09/24/data-and-dames-cloudthief-nathaniel-rich/",
     "feed_name": "NYRB",
     "title": "Data & Dames",
@@ -19988,15 +19998,5 @@
     "content": "Critics on the left and the right are, for different reasons, obscuring the Democratic Party\u2019s long commitment to this cause.",
     "date": "2026-07-15T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19511",
-    "feed_name": "Stratechery",
-    "title": "IBM Misses, IBM\u2019s Mainframe Moat, IBM\u2019s Many AI Problems",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
-    "content": "<p>IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.</p>",
-    "date": "2026-07-15T10:00:19",
-    "category": "Tech"
   }
 ]
