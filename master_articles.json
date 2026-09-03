@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a9890692f048bd98be061da",
+    "feed_name": "Wired (Science)",
+    "title": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
+    "content": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
+    "date": "2026-09-03T22:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/03/us/slava-veder-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Slava Veder, Whose Camera Captured a Defining Vietnam Homecoming, Dies at 99",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n13/michael-ledger-lomas/pattern-in-the-carpet",
     "content": "",
-    "date": "2026-07-15T12:16:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "f1c40255b1c17cd3ebce93e899f3736e",
-    "feed_name": "LRB",
-    "title": "Helthe and Welthe",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n13/barbara-newman/beasts-with-ravening-whelps",
-    "content": "Some books\u200b can be judged by their covers, others by their titles. The American edition of Peter Jones\u2019sSelf-Help from the Middle Agesis subtitled \u2018What the Seven Deadly Sins Can Teach Us about Living\u2019. At some point, the British publisher changed it to the anodyne \u2018A Journey into the Medieval Mind\u2019. Did they think the seven deadly sins sounded too depressing...",
     "date": "2026-07-15T12:16:30",
     "category": "Magazines"
   }
