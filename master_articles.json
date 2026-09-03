@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/03/movies/by-any-means-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018By Any Means\u2019 Review: Bending the Law to Enforce It",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/09/03/movies/by-any-means-review.html",
+    "content": "Yahya Abdul-Mateen II and Mark Wahlberg do the F.B.I.\u2019s dirty work in a civil rights picture caught between earnestness and exploitation.",
+    "date": "2026-09-03T16:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/03/arts/design/iranian-artists-los-angeles-the-brick.html",
     "feed_name": "NYT (Arts)",
     "title": "Through the Hands of Strangers, Missing Iranian Artists Put on a Show in L.A.",
@@ -19986,16 +19996,6 @@
     "author": "By Ellie Ashby, Texas Tribune, and Chloe Landen, Religion News Service",
     "link": "https://feeds.texastribune.org/link/16799/17380637/texas-united-methodist-church-latina-ministry",
     "content": "The Rev. Martha Valencia baptizes an individual outside of Elmwood-El Buen Samaritano United Methodist Church in Dallas.",
-    "date": "2026-07-15T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236210",
-    "feed_name": "Texas Tribune",
-    "title": "\u201cICE is everywhere\u201d: In Houston, fear and grief permeate Latino neighborhoods after fatal shooting",
-    "author": "Alejandro Santos Cid",
-    "link": "https://feeds.texastribune.org/link/16799/17380638/texas-houston-ice-shooting-fear",
-    "content": "Jose and his mother embrace near the site where Lorenzo Salgado Araujo was fatally shot by an ICE agent in Houston&#039;s Magnolia Park neighborhood, plunging the neighborhood into fear.",
     "date": "2026-07-15T10:00:00",
     "category": "Texas"
   }
