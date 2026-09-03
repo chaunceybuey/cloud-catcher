@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/03/dining/reader-questions.html",
+    "feed_name": "NYT (Food)",
+    "title": "Where To Find Fast-Disappearing Prune Danishes and More Reader Questions",
+    "author": "Becky Hughes",
+    "link": "https://www.nytimes.com/2026/09/03/dining/reader-questions.html",
+    "content": "Plus train-appropriate sushi near Penn Station and a restaurant actually dedicated to Italian-style aperitivo hour.",
+    "date": "2026-09-03T19:46:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/03/arts/music/gene-bertoncini-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Gene Bertoncini, Jazz Guitarist Who Dazzled With Subtlety, Dies at 89",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n13/oliver-cussen/doctor-of-the-incurable",
     "content": "Jean-\u200bPaul Maratdid not have many friends in politics. Most of the members of the revolutionary assemblies were lawyers, and Marat had a habit of writing the kind of thing that makes a lawyer nervous. Throughout the summer of 1790 the readers of his daily pamphlet,L\u2019Ami du peuple,were urged \u2018to lop off six hundred heads\u2019 to save \u2018five or six million...",
-    "date": "2026-07-15T12:16:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "668d781d55f01809e50f9515472f85d8",
-    "feed_name": "LRB",
-    "title": "Joyce\u2019s Politics",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n13/terry-eagleton/starveling-rabblement",
-    "content": "That\u200b James Joyce had a political life might seem surprising. The standard critical account is that he took an interest in socialism and Irish nationalism as a young man, but abandoned them after his self-exile to continental Europe in 1904. From then on it was art that preoccupied him. He made no public comment on the Easter Rising in 1916, and for the most part held himself aloof from...",
     "date": "2026-07-15T12:16:30",
     "category": "Magazines"
   }
