@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/03/us/slava-veder-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Slava Veder, Whose Camera Captured a Defining Vietnam Homecoming, Dies at 99",
+    "author": "Jer\u00e9 Longman",
+    "link": "https://www.nytimes.com/2026/09/03/us/slava-veder-dead.html",
+    "content": "Slava Veder in 2008 holding his Pulitzer Prize-winning photograph, \u201cBurst of Joy.\u201d",
+    "date": "2026-09-03T22:14:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/03/arts/art-gallery-shows-to-see-in-september.html",
     "feed_name": "NYT (Arts)",
     "title": "Art Gallery Shows to See in September",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n13/barbara-newman/beasts-with-ravening-whelps",
     "content": "Some books\u200b can be judged by their covers, others by their titles. The American edition of Peter Jones\u2019sSelf-Help from the Middle Agesis subtitled \u2018What the Seven Deadly Sins Can Teach Us about Living\u2019. At some point, the British publisher changed it to the anodyne \u2018A Journey into the Medieval Mind\u2019. Did they think the seven deadly sins sounded too depressing...",
-    "date": "2026-07-15T12:16:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "23ca7dc0d2e1838d05e9b32c60fa3751",
-    "feed_name": "LRB",
-    "title": "On Lewis Grassic Gibbon",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n13/jenny-turner/hated-and-loved-in-a-breath",
-    "content": "Teaching\u200bLewis Grassic Gibbon at the University of Aberdeen, Isobel Murray used to ask her women students \u2018whether they have a recurrent need to retreat upstairs to a cold, wintry bedroom, there to undress and inspect themselves slowly in front of the mirror\u2019. Chris Guthrie, the heroine of Gibbon\u2019s trilogyA Scots Quair, does this five times, by Murray\u2019s reckoning,...",
     "date": "2026-07-15T12:16:30",
     "category": "Magazines"
   }
