@@ -240,6 +240,26 @@
     "category": "Texas"
   },
   {
+    "id": "a068e28b9e1794f3fe86f858468b374e",
+    "feed_name": "LRB",
+    "title": "Roman Scandinavia",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/roman-scandinavia",
+    "content": "In the late 160s AD, the Roman armies of Marcus Aurelius recruited large numbers of troops from the islands east of Jutland, in what is now Denmark. After Marcus\u2019 death in 180, his German campaigns were abandoned and the Romans withdrew to the Danube. Some of the demobilised troops returned north and \u2018revolutionised their cultural world\u2019, as Michael Kulikowski wrote recently...",
+    "date": "2026-09-03T17:36:40",
+    "category": "Magazines"
+  },
+  {
+    "id": "c7ec05368c6fe023e751856dd2baaba2",
+    "feed_name": "Compact",
+    "title": "Lindsay Clancy\u2019s Madness, and Ours",
+    "author": "",
+    "link": "https://www.compactmag.com/article/lindsay-clancys-madness-and-ours/",
+    "content": "",
+    "date": "2026-09-03T17:36:38",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/03/dining/how-to-cook-for-your-friends-at-an-airbnb.html",
     "feed_name": "NYT (Food)",
     "title": "How to Cook for Your Friends at an Airbnb",
@@ -19977,26 +19997,6 @@
     "link": "https://www.compactmag.com/article/how-everyone-became-obsessed-with-running/",
     "content": "",
     "date": "2026-07-15T12:16:27",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a5759c79bd6913e3ca7ed5f",
-    "feed_name": "Wired (Science)",
-    "title": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain",
-    "author": "Isabella Ward",
-    "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-    "content": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson\u2019s. He wants the technology to be as cheap and easy as a blood test.",
-    "date": "2026-07-15T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "72adaf055cd5d72a5152a0413d394daa",
-    "feed_name": "The Atlantic",
-    "title": "You Don\u2019t Need to Vote for Socialists to Get Universal Health Care",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/07/obamacare-universal-health-care-democrats/687917/",
-    "content": "Critics on the left and the right are, for different reasons, obscuring the Democratic Party\u2019s long commitment to this cause.",
-    "date": "2026-07-15T11:00:00",
     "category": "Magazines"
   }
 ]
