@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/03/arts/art-gallery-shows-to-see-in-september.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Art Gallery Shows to See in September",
+    "author": "Will Heinrich",
+    "link": "https://www.nytimes.com/2026/09/03/arts/art-gallery-shows-to-see-in-september.html",
+    "content": "This week in Newly Reviewed, Will Heinrich covers a show that displays the power of community, Morgan O\u2019Hara\u2019s obsessive documentation and Noah Jemisin\u2019s phantasms.",
+    "date": "2026-09-03T21:00:28",
+    "category": "NYT"
+  },
+  {
     "id": "beebf300d7e00a2d34711e0e611a9771",
     "feed_name": "LRB",
     "title": "No Address",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n13/jenny-turner/hated-and-loved-in-a-breath",
     "content": "Teaching\u200bLewis Grassic Gibbon at the University of Aberdeen, Isobel Murray used to ask her women students \u2018whether they have a recurrent need to retreat upstairs to a cold, wintry bedroom, there to undress and inspect themselves slowly in front of the mirror\u2019. Chris Guthrie, the heroine of Gibbon\u2019s trilogyA Scots Quair, does this five times, by Murray\u2019s reckoning,...",
-    "date": "2026-07-15T12:16:30",
-    "category": "Magazines"
-  },
-  {
-    "id": "bde4d863d74d8bd764fc38cf95eef423",
-    "feed_name": "LRB",
-    "title": "Wartime Berliners",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n13/neal-ascherson/dancing-on-a-volcano",
-    "content": "The\u200btitleof this book misses a trick. \u2018Stay alive\u2019 doesn\u2019t quite get the Berlinisch black humour of the original: \u2018Bleiben Sie \u00fcbrig.\u2019 That last word also hints at something left over, an unlikely survival. A scrap left on the edge of a dog\u2019s dish goes much too far, but a blackened somebody crawling out of his ruined house after a thousand-bomber...",
     "date": "2026-07-15T12:16:30",
     "category": "Magazines"
   }
