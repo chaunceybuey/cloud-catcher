@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "bfccb886-c290-45fb-bba5-314a25b591f6",
+    "feed_name": "Economist",
+    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "content": "Initial effects of the technology on employment look positive",
+    "date": "2026-09-04T18:05:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=19878",
     "feed_name": "Stratechery",
     "title": "2026.36: Friction and Feedback",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/16/theater/hudson-valley-shakespeare-king-lear-as-you-like-it.html",
     "content": "A beautifully observed version of a man\u2019s final act, along with a lively staging of \u201cAs You Like It,\u201d engage the surrounding mountains in conversation.",
     "date": "2026-07-16T09:01:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/movies/they-fight-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018They Fight\u2019 Review: It Might Have Been a Contender",
-    "author": "Lisa Kennedy",
-    "link": "https://www.nytimes.com/2026/07/16/movies/they-fight-review.html",
-    "content": "This real-life inspired boxing drama has muscular ambitions, but too little finesse.",
-    "date": "2026-07-16T09:01:32",
     "category": "NYT"
   }
 ]
