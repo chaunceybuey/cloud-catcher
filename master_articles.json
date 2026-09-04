@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "8e4989bcdf0c814411939b0f5ef28774",
+    "feed_name": "The Atlantic",
+    "title": "The Meaning of the Lindsay Clancy Mistrial",
+    "author": "Elizabeth Bruenig",
+    "link": "https://www.theatlantic.com/ideas/2026/09/clancy-mistrial-debate-conspiracy/688483/",
+    "content": "Everyone has a theory. But what if this case means nothing at all?",
+    "date": "2026-09-04T18:32:00",
+    "category": "Magazines"
+  },
+  {
     "id": "bfccb886-c290-45fb-bba5-314a25b591f6",
     "feed_name": "Economist",
     "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/16/arts/design/last-chance-art-shows-new-york.html",
     "content": "A \u201cBo\u00eete-en-Valise\u201d by Marcel Duchamp.",
     "date": "2026-07-16T09:01:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/theater/hudson-valley-shakespeare-king-lear-as-you-like-it.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At Hudson Valley Shakespeare, a \u2018King Lear\u2019 Worth Traveling For",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/07/16/theater/hudson-valley-shakespeare-king-lear-as-you-like-it.html",
-    "content": "A beautifully observed version of a man\u2019s final act, along with a lively staging of \u201cAs You Like It,\u201d engage the surrounding mountains in conversation.",
-    "date": "2026-07-16T09:01:40",
     "category": "NYT"
   }
 ]
