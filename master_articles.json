@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/04/arts/design/trump-administration-kehinde-wiley-embassy-lesbian-picnic.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ambassador Who Removed Kehinde Wiley Work Described It as a Lesbian Picnic",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/09/04/arts/design/trump-administration-kehinde-wiley-embassy-lesbian-picnic.html",
+    "content": "The artist Kehinde Wiley.",
+    "date": "2026-09-04T21:40:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/04/t-magazine/emma-prempeh-painting.html",
     "feed_name": "NYT (Arts)",
     "title": "On Emma Prempeh\u2019s Canvases, Countries Collide",
@@ -19988,15 +19998,5 @@
     "content": "The new chairman enlists heavy-hitters to fight a handful of gnarly problems",
     "date": "2026-07-16T09:02:38",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/arts/music/ted-huffman-aix-en-provence-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ted Huffman Takes Over the Aix-en-Provence Festival",
-    "author": "Joshua Barone",
-    "link": "https://www.nytimes.com/2026/07/16/arts/music/ted-huffman-aix-en-provence-festival.html",
-    "content": "Ted Huffman, an American director with a collaborative and exploratory spirit, has taken over the Aix-en-Provence Festival in France.",
-    "date": "2026-07-16T09:02:23",
-    "category": "NYT"
   }
 ]
