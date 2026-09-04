@@ -240,6 +240,26 @@
     "category": "Texas"
   },
   {
+    "id": "b4c4664aca84fcc4fbbc93973d65bf54",
+    "feed_name": "Compact",
+    "title": "The Origins of Antisemitism",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-origins-of-antisemitism/",
+    "content": "",
+    "date": "2026-09-04T13:14:07",
+    "category": "Magazines"
+  },
+  {
+    "id": "c18c983d96c7eed43a458bc14d6c8100",
+    "feed_name": "The Atlantic",
+    "title": "When Meditation Makes You Feel Worse",
+    "author": "Olga Khazan",
+    "link": "https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/",
+    "content": "A prominent psychologist and meditation teacher set out to research the benefits of the practice. What she found alarmed her.",
+    "date": "2026-09-04T13:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/03/arts/design/art-gallery-shows-to-see-in-september.html",
     "feed_name": "NYT (Arts)",
     "title": "Art Gallery Shows to See in September",
@@ -266,6 +286,16 @@
     "author": "Caroline Reilly",
     "link": "https://www.wired.com/story/secret-orangutan-breeding-program-creating-baby-boom/",
     "content": "The success of a program linking zoos across the US has created social media stars and generated a wave of interest in how to protect the endangered great apes in the wild.",
+    "date": "2026-09-04T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "c729b907036e33e0c0801ff4da3f09a4",
+    "feed_name": "The Atlantic",
+    "title": "\u2018Everything We Do Matters\u2019",
+    "author": "Gloria Steinem",
+    "link": "https://www.theatlantic.com/ideas/2026/09/everything-we-do-matters/688514/",
+    "content": "Gloria Steinem on what older people can teach America",
     "date": "2026-09-04T11:00:00",
     "category": "Magazines"
   },
@@ -19968,35 +19998,5 @@
     "content": "From left: Texas Tech University Board of Regents Chair Cody Campbell, former Texas Tech quarterback Brendan Sorsby and Texas Attorney General Ken Paxton.",
     "date": "2026-07-16T01:01:57",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236506",
-    "feed_name": "Texas Tribune",
-    "title": "After week of silence, Gov. Greg Abbott calls fatal ICE shooting \u201ctragic\u201d",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17380999/texas-ice-shooting-greg-abbott-republicans-break-silence",
-    "content": "Gov. Greg Abbott said federal immigration laws should be enforced. And, &quot;in Texas and across America, we don&#039;t want to see people shot.&quot;",
-    "date": "2026-07-15T23:17:02",
-    "category": "Texas"
-  },
-  {
-    "id": "6a57c31a11ccda473241f290",
-    "feed_name": "Wired (Science)",
-    "title": "The Northeast Is Being Blanketed in Canadian Wildfire Smoke",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
-    "content": "Roughly 100 wildfires are raging out of control in Ontario, sending smoke streaming more than 1,000 miles from their origin.",
-    "date": "2026-07-15T23:05:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/15/arts/pen-america-israel-gaza-report.html",
-    "feed_name": "NYT (Arts)",
-    "title": "PEN America Defends Israel Article That Led to President\u2019s Resignation",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/07/15/arts/pen-america-israel-gaza-report.html",
-    "content": "Clarisse Rosaz Shariyf, left, and Summer Lopez were named co-chief executives of PEN America in February.",
-    "date": "2026-07-15T21:26:49",
-    "category": "NYT"
   }
 ]
