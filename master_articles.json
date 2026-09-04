@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/03/arts/design/art-gallery-shows-to-see-in-september.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Art Gallery Shows to See in September",
+    "author": "Will Heinrich",
+    "link": "https://www.nytimes.com/2026/09/03/arts/design/art-gallery-shows-to-see-in-september.html",
+    "content": "This week in Newly Reviewed, Will Heinrich covers a show that displays the power of community, Morgan O\u2019Hara\u2019s obsessive documentation and Noah Jemisin\u2019s phantasms.",
+    "date": "2026-09-04T12:31:35",
+    "category": "NYT"
+  },
+  {
     "id": "6a970a6fa4730003b51cb5e4",
     "feed_name": "Wired (Science)",
     "title": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
@@ -19988,15 +19998,5 @@
     "content": "Clarisse Rosaz Shariyf, left, and Summer Lopez were named co-chief executives of PEN America in February.",
     "date": "2026-07-15T21:26:49",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236468",
-    "feed_name": "Texas Tribune",
-    "title": "Detainees at El Paso ICE detention say they\u2019re frequently beaten, report says",
-    "author": "By Michael Biesecker,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17380938/texas-camp-east-montana-el-paso-migrants-conditions-report",
-    "content": "Tents at the East Montana Detention Facility, an ICE detention center at Fort Bliss in El Paso.",
-    "date": "2026-07-15T21:04:40",
-    "category": "Texas"
   }
 ]
