@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/04/dining/gloria-steinem-dinners-food.html",
+    "feed_name": "NYT (Food)",
+    "title": "Gloria Steinem Found Community and Clout Over the Dinner Table",
+    "author": "Kim Severson",
+    "link": "https://www.nytimes.com/2026/09/04/dining/gloria-steinem-dinners-food.html",
+    "content": "Neither a home cook nor an enthusiastic eater, she used the dinner table as a place to forge relationships and foster change.",
+    "date": "2026-09-04T14:14:01",
+    "category": "NYT"
+  },
+  {
     "id": "b4c4664aca84fcc4fbbc93973d65bf54",
     "feed_name": "Compact",
     "title": "The Origins of Antisemitism",
@@ -397,6 +407,16 @@
     "link": "https://www.nytimes.com/2026/09/04/movies/coyote-vs-acme-scene.html",
     "content": "The director Dave Green narrates a scene from the film in which a perturbed Wile E. Coyote lawyers up.",
     "date": "2026-09-04T09:03:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/how-to-reverse-sear-steak",
+    "feed_name": "NYT (Food)",
+    "title": "The Best Way to Sear a Rib-Eye Steak for Labor Day",
+    "author": "Sam Sifton",
+    "link": "https://cooking.nytimes.com/article/how-to-reverse-sear-steak",
+    "content": "Starting off in a low-temperature oven and finishing on the grill yields a steak that\u2019s not just good \u2014 it\u2019s perfect.",
+    "date": "2026-09-04T09:03:01",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "\u201cIt\u2019s the second book Biden has written,\u201d Fallon said of the former president. \u201cThe first was \u2018The Odyssey.\u2019\u201d",
     "date": "2026-07-16T06:09:54",
     "category": "NYT"
-  },
-  {
-    "id": "a8853e4672a2a19636bfa3ebd60cf067",
-    "feed_name": "Outside",
-    "title": "This Veteran\u2019s Cure for Soldiers with PTSD: Go Build an Earthship in the Desert",
-    "author": "Nick Aspinwall",
-    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/veterans-off-grid/",
-    "content": "",
-    "date": "2026-07-16T03:28:46",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236533",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Tech chair donated $275K to Ken Paxton day before AG intervened in Brendan Sorsby saga",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17381031/cody-campbell-ken-paxton-donation-brendan-sorsby-texas-tech",
-    "content": "From left: Texas Tech University Board of Regents Chair Cody Campbell, former Texas Tech quarterback Brendan Sorsby and Texas Attorney General Ken Paxton.",
-    "date": "2026-07-16T01:01:57",
-    "category": "Texas"
   }
 ]
