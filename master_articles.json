@@ -250,6 +250,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=241855",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton omits rental income and mortgages from financial disclosures, obscuring his wealth",
+    "author": "By Zach Despart, The Texas Tribune and ProPublica,\u00a0Kayla Guo, The Texas Tribune, and Alexandra Glorioso, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17439929/texas-ken-paxton-personal-financial-disclosures-ethics-law-us-senate-race",
+    "content": "The Republican U.S. Senate nominee appears to have violated federal ethics law, which requires candidates to report their income and disclose mortgages on properties other than personal residences, experts said.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17439929.gif\" width=\"1\" />",
+    "date": "2026-09-04T15:35:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/04/dining/creamy-tuscan-chicken-begs-for-crusty-bread.html",
     "feed_name": "NYT (Food)",
     "title": "Creamy Tuscan Chicken Begs for Crusty Bread",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/16/movies/the-kidnapping-of-arabella-review-stolen-childhoods.html",
     "content": "A disturbed young woman tries to heal her past by abducting a rebellious child in this strange and intermittently touching road movie.",
     "date": "2026-07-16T09:01:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/arts/design/washington-smithsonian-museums-last-chance-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Finding The Great America, 250 Years On. The Real One.",
-    "author": "Holland Cotter",
-    "link": "https://www.nytimes.com/2026/07/16/arts/design/washington-smithsonian-museums-last-chance-review.html",
-    "content": "These history-rich shows at the Smithsonian museums are a culturally-representative accounting of this nation\u2019s history, our critic says. See them before they close.",
-    "date": "2026-07-16T09:01:12",
     "category": "NYT"
   }
 ]
