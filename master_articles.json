@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a970a6fa4730003b51cb5e4",
+    "feed_name": "Wired (Science)",
+    "title": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
+    "author": "Ritsuko Kawai",
+    "link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
+    "content": "The mission to Phobos, Japan\u2019s first Mars probe launch in 28 years, may reveal new information about our closest planetary neighbor.",
+    "date": "2026-09-04T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a960ca0647dbf9631296bd6",
     "feed_name": "Wired (Science)",
     "title": "How a Secret Orangutan Breeding Program Is Creating a Baby Boom",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17380938/texas-camp-east-montana-el-paso-migrants-conditions-report",
     "content": "Tents at the East Montana Detention Facility, an ICE detention center at Fort Bliss in El Paso.",
     "date": "2026-07-15T21:04:40",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236452",
-    "feed_name": "Texas Tribune",
-    "title": "Abortion not a focus in Texas race for U.S. Senate as neither candidates emphasize the issue",
-    "author": "By Shefali Luthra,\u00a0The 19th",
-    "link": "https://feeds.texastribune.org/link/16799/17380912/texas-ken-paxton-james-talarico-abortion",
-    "content": "Texas Attorney General Ken Paxton shakes hands with cheering supporters at his election night watch party in Plano on May 26, 2026.",
-    "date": "2026-07-15T20:39:31",
     "category": "Texas"
   }
 ]
