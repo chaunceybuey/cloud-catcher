@@ -220,6 +220,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/04/t-magazine/emma-prempeh-painting.html",
+    "feed_name": "NYT (Arts)",
+    "title": "On Emma Prempeh\u2019s Canvases, Countries Collide",
+    "author": "Anakwa Dwamena",
+    "link": "https://www.nytimes.com/2026/09/04/t-magazine/emma-prempeh-painting.html",
+    "content": "The artist Emma Prempeh discusses her multifaceted sense of home and the freedom she\u2019s found with a brush.",
+    "date": "2026-09-04T21:07:52",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242054",
+    "feed_name": "Texas Tribune",
+    "title": "Elon Musk\u2019s super PAC starts spending to boost Ken Paxton in Texas",
+    "author": "Will Hammann",
+    "link": "https://feeds.texastribune.org/link/16799/17440063/elon-musk-ken-paxton-super-pac-spending-texas-senate-race",
+    "content": "Elon Musk attends a meeting at the White House in April 2025.",
+    "date": "2026-09-04T20:35:06",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22623-the-archive-theatre-company-the-yellow-wallpaper",
     "feed_name": "KMFA",
     "title": "The Archive Theatre Company: The Yellow Wallpaper",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/16/arts/music/ted-huffman-aix-en-provence-festival.html",
     "content": "Ted Huffman, an American director with a collaborative and exploratory spirit, has taken over the Aix-en-Provence Festival in France.",
     "date": "2026-07-16T09:02:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/arts/design/duchamp-chess-moma.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Duchamp Gave Up Art for Chess. At MoMA, He Inspires a New Gambit.",
-    "author": "Deborah Solomon",
-    "link": "https://www.nytimes.com/2026/07/16/arts/design/duchamp-chess-moma.html",
-    "content": "Susan Polgar, a chess grandmaster, will be playing 50 artists, critics and fans of Marcel Duchamp at the same time, in honor of his birthday, July 28.",
-    "date": "2026-07-16T09:01:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/arts/design/last-chance-art-shows-new-york.html",
-    "feed_name": "NYT (Arts)",
-    "title": "9 Art Shows to Catch Before They Close This Summer",
-    "author": "Rachel Sherman",
-    "link": "https://www.nytimes.com/2026/07/16/arts/design/last-chance-art-shows-new-york.html",
-    "content": "A \u201cBo\u00eete-en-Valise\u201d by Marcel Duchamp.",
-    "date": "2026-07-16T09:01:41",
     "category": "NYT"
   }
 ]
