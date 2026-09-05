@@ -230,6 +230,26 @@
     "category": "Finance"
   },
   {
+    "id": "af2a783c47dd15385b324744596729c4",
+    "feed_name": "The Atlantic",
+    "title": "J. D. Vance\u2019s Disingenuous Defense of Tucker Carlson",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/09/vance-carlson-political-friendship/688533/",
+    "content": "The vice president\u2019s relationship with a conspiracy theorist is, at bottom, a political partnership, not a personal friendship.",
+    "date": "2026-09-05T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "7e65d7fd48a934cc35303764e85c77a1",
+    "feed_name": "The Atlantic",
+    "title": "Don\u2019t Ban AI on Campus",
+    "author": "Sian Leah Beilock",
+    "link": "https://www.theatlantic.com/ideas/2026/09/universities-prohibiting-ai-classroom/688509/",
+    "content": "Universities that hide from the technology will merely secure their irrelevance.",
+    "date": "2026-09-05T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a984d37dc2c3ba010e39993",
     "feed_name": "Wired (Science)",
     "title": "Scientists Put Caterpillars in an Ultraquiet Chamber to Learn How They Hear Without Ears",
@@ -19978,25 +19998,5 @@
     "content": "Nico de Leon\u2019s summer vegetable pancit canton, adapted by Christian Reynoso.",
     "date": "2026-07-16T17:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236600",
-    "feed_name": "Texas Tribune",
-    "title": "Ken Paxton\u2019s campaign says he will debate James Talarico in Texas\u2019 U.S. Senate race",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17381431/texas-ken-paxton-james-talarico-debate-senate-race-2026",
-    "content": "From left: Democratic and Republican nominees for U.S. Senate James Talarico and Ken Paxton.",
-    "date": "2026-07-16T16:58:54",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236591",
-    "feed_name": "Texas Tribune",
-    "title": "Brownsville lands $3.2B AI drone tech company. Community members question the impact it could bring.",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17381393/brownsville-texas-business-economic-development",
-    "content": "Instructor and co-owner Jason Medina demonstrates to his students during a pipe fitting class at the STX Metal Trades training center in Brownsville on July 8, 2026.",
-    "date": "2026-07-16T16:17:04",
-    "category": "Texas"
   }
 ]
