@@ -220,6 +220,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/05/arts/music/miley-cyrus-underscores-dahi-new-music.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Miley Returns Without the Cyrus, and 8 Other Songs to Hear Now",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/09/05/arts/music/miley-cyrus-underscores-dahi-new-music.html",
+    "content": "Miley returns with the new single \u201cBass Persuades.\u201d",
+    "date": "2026-09-05T09:04:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/05/arts/television/silo-season-3-finale.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How \u2018Silo\u2019 Keeps Getting Bigger",
+    "author": "Ashley Spencer",
+    "link": "https://www.nytimes.com/2026/09/05/arts/television/silo-season-3-finale.html",
+    "content": "In the Season 3 finale, \u201cSilo,\u201d with Rebecca Ferguson, added yet another dimension.",
+    "date": "2026-09-05T09:03:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+    "author": "Neil Vigdor",
+    "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+    "content": "An Anthropic logo at an event in San Francisco in May. The tech giant will have to pay more than $1.5 billion in a settlement over using books to train its chatbots.",
+    "date": "2026-09-05T09:03:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/05/arts/europe-empty-churches.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What to Do With Europe\u2019s \u2018Zombie Churches\u2019? These Artists Have Some Ideas.",
+    "author": "Nina Siegal",
+    "link": "https://www.nytimes.com/2026/09/05/arts/europe-empty-churches.html",
+    "content": "As the continent\u2019s ties to Christianity fade, churches are being abandoned. But some see a chance to transform them into communal spaces like care centers or venues for the arts.",
+    "date": "2026-09-05T09:02:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/05/arts/music/new-albums-and-tours-fall-preview.html",
+    "feed_name": "NYT (Arts)",
+    "title": "33 Albums and Shows We\u2019re Looking Forward to This Fall",
+    "author": "Elena Bergeron, Marcus J. Moore, Jon Pareles, Hank Shteamer, Ben Sisario, Harry Tafoya and Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/09/05/arts/music/new-albums-and-tours-fall-preview.html",
+    "content": "Charli XCX will tour in support of her LP \u201cMusic, Fashion, Film,\u201d released in July.",
+    "date": "2026-09-05T09:00:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/05/arts/music/marian-anderson-classical-singer.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Marian Anderson\u2019s Ambition Was Always Clear: To Be a \u2018Fine Artist\u2019",
+    "author": "Anthony Tommasini",
+    "link": "https://www.nytimes.com/2026/09/05/arts/music/marian-anderson-classical-singer.html",
+    "content": "Marian Anderson, around 1935.",
+    "date": "2026-09-05T09:00:39",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/05/arts/television/denee-benton-the-gilded-age.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Den\u00e9e Benton Wants to Come Back as \u2018a Detached, Chaotic Gemini\u2019",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/09/05/arts/television/denee-benton-the-gilded-age.html",
+    "content": "\u201cI feel like that\u2019s what Steve Lacy gives,\u201d the \u201cGilded Age\u201d actor says. She\u2019s a fan of his new album, as well as Zora Neale Hurston and nude beaches.",
+    "date": "2026-09-05T09:00:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/05/arts/design/lost-province-center-lansing-north-carolina.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Can Art Revitalize a Small Mountain Town in North Carolina?",
+    "author": "Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/09/05/arts/design/lost-province-center-lansing-north-carolina.html",
+    "content": "The Lansing School, tucked away in tiny Ashe County, N.C., fell into disarray. Now, some in the area are transforming it into a hub for the region\u2019s lost arts.",
+    "date": "2026-09-05T09:00:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8849680#p8849680",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19918,85 +19998,5 @@
     "content": "Eric Kim\u2019s gochujang-glazed eggplant with fried scallions.",
     "date": "2026-07-16T15:00:07",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/world/africa/netflix-the-polygamist-south-africa.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Why Netflix\u2019s \u2018The Polygamist\u2019 Has Viewers Outside South Africa Talking",
-    "author": "Zimasa Matiwane",
-    "link": "https://www.nytimes.com/2026/07/16/world/africa/netflix-the-polygamist-south-africa.html",
-    "content": "The hit Netflix show follows the life of a wealthy married couple in South Africa as they deal with the pressures of infidelity and appearances.",
-    "date": "2026-07-16T14:55:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/movies/akihiro-miwa-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Akihiro Miwa, Actor and Singer With Gender-Fluid Glamour, Dies at 91",
-    "author": "Ash Wu",
-    "link": "https://www.nytimes.com/2026/07/16/movies/akihiro-miwa-dead.html",
-    "content": "In Japan, he was one of the first androgynous pop-culture stars and an inspirational figure. Abroad, he was known for his work in animated films by Hayao Miyazaki.",
-    "date": "2026-07-16T14:19:07",
-    "category": "NYT"
-  },
-  {
-    "id": "5dd0d3c611b6b641b9fa051aeef8dab0",
-    "feed_name": "Compact",
-    "title": "America Isn\u2019t Ready for Blue City Defaults",
-    "author": "",
-    "link": "https://www.compactmag.com/article/america-isnt-ready-for-blue-city-defaults/",
-    "content": "",
-    "date": "2026-07-16T13:56:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/opinion/democratic-socialist-capitalism-bhaskar-sunkara.html",
-    "feed_name": "Interesting Times",
-    "title": "A Vision of a \u2018Society Without Capitalism\u2019",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/07/16/opinion/democratic-socialist-capitalism-bhaskar-sunkara.html",
-    "content": "Can democratic socialism redeem the left without destroying capitalism?",
-    "date": "2026-07-16T12:29:16",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "037b133caeaf321bb27b212044eb86ee",
-    "feed_name": "LRB",
-    "title": "Edna Bonhomme & Lola Olufemi: Tending to Our Wounds",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/edna-bonhomme-lola-olufemi-tending-to-our-wounds-tickets-1988101787966",
-    "content": "",
-    "date": "2026-07-16T11:41:20",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.propublica.org/article/trump-dhs-immigration-scams-fraud-homeland-security",
-    "feed_name": "ProPublica",
-    "title": "DHS Plans \u201cAll-Out War\u201d on Immigration Scammers as Fraud Complaints Double",
-    "author": "J. David McSwane",
-    "link": "https://www.propublica.org/article/trump-dhs-immigration-scams-fraud-homeland-security",
-    "content": "<figure><img alt=\"The Department of Homeland Security logo attached to a fence. The edges of the image are blurred.\" src=\"https://www.propublica.org/wp-content/uploads/2026/07/GettyImages-460319434_maxHeight_3000_maxWidth_3000.jpg?w=1149\" /><figcaption><small> Bloomberg/Getty Images</small></figcaption></figure>\n<p>The Department of Homeland Security is investigating a sophisticated network of scammers who target people caught in immigration proceedings, bilking them of their savings and causing some to be deported, following a <a href=\"https://www.propublica.org/article/trump-immigration-scams-complaints-doubled-ice\">ProPublica report</a> that complaints of such fraud doubled under the second administration of President Donald Trump.</p>\n\n\n\n<p>Homeland Security Investigations, the subagency known for tracking international crimes such as human trafficking, has asked about specific cases detailed in the story, including the tale of a woman who, fearful of Trump\u2019s nationwide immigration sweeps, enlisted someone she thought would help her keep her legal status. After the scammers got her money and caused her to miss a court date, she was deported to Nicaragua.</p>\n\n\n\n<div class=\"wp-block-propublica-lead-in bb--size-xsmall-right p-bb--size-xsmall-right\">\n<h3 class=\"wp-block-heading\" id=\"h-read-more\">Read More</h3>\n\n\n\n<p></p>\n\n\n<div class=\"wp-block-propublica-story-promo\">\n\t<a class=\"story-promo\" href=\"https://www.propublica.org/article/trump-immigration-scams-complaints-doubled-ice\">\n\t\t\t\t<div class=\"story-promo__art\">\n\t\t\t<img alt=\"\" class=\"attachment-propublica-story-promo size-propublica-story-promo wp-post-image\" height=\"306\" src=\"https://www.propublica.org/wp-content/uploads/2026/04/ICE-Scammers-Promo_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=459&amp;h=306&amp;crop=1\" width=\"459\" />\t\t</div>\n\t\t\t\t<div class=\"story-promo__info\">\n\t\t\t<strong class=\"story-promo__hed\">Fear and Opportunity: Immigration Scams Surged as Trump\u2019s Sweeps Lured Desperate People to Eager Defrauders</strong>\n\t\t</div>\n\t</a>\n</div>\n</div>\n\n\n\n<p>That was one of thousands of cases in which scammers lured their marks through social media posts and sent them through fake court hearings and other official-looking steps, charging large sums along the way. Now, the federal government is ramping up its efforts to track the scams, according to sources involved in the investigation.</p>\n\n\n\n<p>A DHS statement said the agency was \u201cdeclaring an all-out war\u201d on the scammers.</p>\n\n\n\n<p>\u201cImmigration scammers contribute to a lawless environment, undermining our immigration system and posing risks to national security and public safety,\u201d the statement said.</p>\n\n\n\n<p>DHS is looking for URLs, WhatsApp numbers and identifying information on the payment app Zelle that might trace back to scammers, said sources knowledgeable about the inquiry. The department\u2019s investigation is ramping up as such scams skyrocket.</p>\n\n\n\n<p>ProPublica analyzed Federal Trade Commission data and found that victims and advocates reported at least $94.4 million was stolen over five years. The more than 6,200 complaints included everything from fake Immigration and Customs Enforcement agents demanding personal details and threatening deportation to fraudsters asking international students for money by exploiting their visa status.</p>\n\n\n\n<p>Scammers often pretend to be lawyers offering ways to avoid in-person court hearings, taking advantage of anxieties among even lawful residents after ICE officers began rounding up people during immigration proceedings.</p>\n\n\n\n<p>Experts say the scammers often advertise on places such as Facebook and TikTok before shifting the conversation to the encrypted messaging platform WhatsApp, asking for money in exchange for real-looking immigration filings. Sometimes known as \u201cnotario fraud,\u201d these scams often rely on a mistranslation of the word \u201cnotary,\u201d which implies legal credentials in many Latin American countries.</p>\n\n\n\n<p>In recent weeks, agencies including the <a href=\"http://dos.ny.gov/news/new-york-department-state-issues-warning-against-immigration-scams\">New York Department of State</a>, <a href=\"https://www.floridabar.org/the-florida-bar-news/fraudsters-are-impersonating-attorneys-in-immigration-scheme/\">Florida Bar</a> and <a href=\"https://www.facebook.com/SantaRosaPoliceDepartment/posts/joint-statement-from-chief-john-cregan-and-jennielynn-holmes-ceo-of-catholic-cha/1293971329578174/\">local police departments</a> issued warnings about these scams. The American Bar Association, which has also <a href=\"https://www.americanbar.org/news/abanews/aba-news-archives/2025/11/new-fraud-reports-impacting-immigration-clients/\">warned about impersonators</a>, has recently been in contact with DHS investigators.</p>\n\n\n\n<p>In South Florida, immigration attorney Angel Leal encountered <a href=\"https://www.instagram.com/reels/DZTOpuiAa7l/\">hundreds of AI-generated videos</a> of his likeness offering aid on WhatsApp. His office had to hire an anti-piracy agency to remove the content and over 6,000 fake profiles, according to local news reports.</p>\n\n\n\n<p>The videos, hundreds across Instagram, are strikingly realistic. \u201cLeal\u201d sits on an office chair, his facial hair and expressions matching that of the real attorney. The AI-generated figure speaks fluent Spanish with enthusiastic hand gestures, a potted plant or mug in the foreground and a law degree behind him. Slight details betray the ruse: some mouth movements don\u2019t match the words, gibberish text appears on documents and objects meld together.</p>\n\n\n\n<p>Advocates and law enforcement say people targeted should document all ads, text conversations and payment information. And DHS warns consumers to be wary of lawyers advertising directly on social media, operating on WhatsApp and taking payments over Zelle.</p>\n\n\n\n<p>In April, ProPublica spoke to several victims who attended fake court hearings via WhatsApp, recounting their stories to \u201cagents\u201d wearing phony government uniforms. Spanish speakers are the primary targets, experts say, and the scammers often pretend to be affiliated with prominent advocacy groups such as Catholic Charities USA, which has been inundated with reports of fraudsters using their brand to find potential marks.</p>\n\n\n\n<p>\u201cDirectly reaching out to people via an ad or via WhatsApp and asking for money over Zelle, that is not something Catholic Charities agencies would ever do,\u201d said Kevin Brennan, vice president for media relations at Catholic Charities USA.</p>\n\n\n\n<p>Such groups have found it difficult to get imposter ads and accounts removed. Even when they do, it\u2019s cheap and easy for scammers to create new websites and accounts.</p>\n\n\n\n<p>\u201cIt\u2019s Whac-a-Mole,\u201d said Charity Anastasio of the American Immigration Lawyers Association, another group whose staff and image have been impersonated.</p>\n<p>The post <a href=\"https://www.propublica.org/article/trump-dhs-immigration-scams-fraud-homeland-security\">DHS Plans \u201cAll-Out War\u201d on Immigration Scammers as Fraud Complaints Double</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-07-16T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236440",
-    "feed_name": "Texas Tribune",
-    "title": "Proposed EPA rule could weaken Texans\u2019 voice on certain air permits used by data centers",
-    "author": "Alejandra Martinez",
-    "link": "https://feeds.texastribune.org/link/16799/17381196/texas-epa-rule-minor-pollution-permits-public-input-tceq-data-centers",
-    "content": "The Stargate data center in Abilene on May 2, 2026.",
-    "date": "2026-07-16T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236521",
-    "feed_name": "Texas Tribune",
-    "title": "East Texas counties move to protect groundwater with new conservation district",
-    "author": "Jess Huff",
-    "link": "https://feeds.texastribune.org/link/16799/17381197/east-texas-groundwater-district",
-    "content": "Longview is the county seat of Gregg County, which has agreed to be part of the Northeast Texas Groundwater Conservation District, a water conservation district that has yet to be formed.",
-    "date": "2026-07-16T10:00:00",
-    "category": "Texas"
   }
 ]
