@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8849920#p8849920",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "canderson",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8849920#p8849920",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Dumb question! <br /><br />I\u2019m leaning toward moving half of my emergency fund to Fidelity\u2019s CMA (prob $15k or so). I don\u2019t have a Fidelity account but am keen on their CMA since I can get a debit card for it and throw in a drawer in case of an emergency/ or travel needs. <br /><br />I live in Pennsylvania so would opt for FDLXX or SPAXX to avoid most state taxes. But does this account trigger capital gains / dividends too? If so with rates going down that to me is not great since it takes away the interest rate \u2026 and using a HYSA would actually save some cash. <br /><br />Am I wrong on this line of thinking?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>CMA with SPAXX holdings will absolutely spin off dividends that will be taxed as ordinary income at the federal level.  No capital gains because SPAXX is a money market fund whose NAV is always $1 -- it just spins off dividends that are very much akin to the interest spun off of a HYSA.<br /><br />I have a Fidelity CMA with SPAXX as the holding as roughly 1/3rd of my EF -- the other 2/3 being iBonds at Treasury Direct.  The CMA funds used to be in Barclays HYSA, but I was looking to consolidate in Fidelity (where I also have 401k, IRA, and Taxable accts) and there wasn't sufficient difference between interest rates of SPAXX and Barclays for me to justify the additional complexity of another financial institution.   Very happy with the CMA - it's doing what I need it to do.<br /><br />-rw</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Capital gains are the result of selling an asset for more than you paid for it. What company the account is with makes no difference. If all you hold in it is money market funds (which under almost all circumstances maintain a constant price), you will have no capital gains. Money market funds pay dividends rather than interest but that\u2019s just terminology. The tax impact is the same.<br /><br />From the way you phrased your question, it sounds like you think just having a particular account can create capital gains or dividends. That is not correct. Both capital gains and dividends result only from the assets held in the account. Holding just money market funds will only result in dividends that are the functional equivalent of interest on a savings account.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Thank you both, and especially you lstone19 pointing out that MM dividends are identical to HYSA interest and interchange. In my head I was thinking this MM would have both, incorrectly.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=41700\">canderson</a> \u2014 Sat Sep 05, 2026 10:25 am</p><hr />",
+    "date": "2026-09-05T15:25:59",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/05/dining/superfast-noodles-and-fancy-feeling-beans.html",
     "feed_name": "NYT (Food)",
     "title": "Superfast Noodles and Fancy-Feeling Beans",
@@ -19988,15 +19998,5 @@
     "content": "Reid Hoffman, co-founder of LinkedIn, attends the annual Allen and Co. Sun Valley Media and Technology Conference at the Sun Valley Resort in Sun Valley, Idaho, on July 7, 2026.",
     "date": "2026-07-16T18:57:14",
     "category": "Texas"
-  },
-  {
-    "id": "6a58ec8b589ef12506ae2ca0",
-    "feed_name": "Wired (Science)",
-    "title": "Everyone Thinks They Have the Diarrhea Parasite",
-    "author": "Emily Mullin, Kate Taylor, Leah Feiger",
-    "link": "https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/",
-    "content": "Cyclosporiasis isn\u2019t the only thing spreading across the US. So is anxiety about getting hit with it.",
-    "date": "2026-07-16T18:36:19",
-    "category": "Magazines"
   }
 ]
