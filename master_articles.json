@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a984d37dc2c3ba010e39993",
+    "feed_name": "Wired (Science)",
+    "title": "Scientists Put Caterpillars in an Ultraquiet Chamber to Learn How They Hear Without Ears",
+    "author": "Aishwarya Sriram , Carol Miles, Ronald Miles, Sara Aghazadeh",
+    "link": "https://www.wired.com/story/how-do-caterpillars-hear-without-ears/",
+    "content": "The research could do more than help unlock the mystery of caterpillar hearing. It could also help make microphones better.",
+    "date": "2026-09-05T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/05/arts/music/miley-cyrus-underscores-dahi-new-music.html",
     "feed_name": "NYT (Arts)",
     "title": "Miley Returns Without the Cyrus, and 8 Other Songs to Hear Now",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/16/theater/avignon-festival-han-kang-isabelle-huppert-lee-hye-young.html",
     "content": "A stripped-back, cross-cultural reading with the Korean star Lee Hye-young at the Avignon Festival brought out a rare softness in the French actress.",
     "date": "2026-07-16T15:40:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/dining/gochujang-glazed-eggplant-always.html",
-    "feed_name": "NYT (Food)",
-    "title": "Gochujang-Glazed Eggplant, Always",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/16/dining/gochujang-glazed-eggplant-always.html",
-    "content": "Eric Kim\u2019s gochujang-glazed eggplant with fried scallions.",
-    "date": "2026-07-16T15:00:07",
     "category": "NYT"
   }
 ]
