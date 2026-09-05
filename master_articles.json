@@ -260,6 +260,16 @@
     "category": "Finance"
   },
   {
+    "id": "c18a5b8b3d1d5ef9846d967b758ed72f",
+    "feed_name": "LRB",
+    "title": "Jane Austen\u2019s \u2018Emma\u2019 and the art of misreading",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/jane-austen-s-emma-and-the-art-of-misreading",
+    "content": "What kind of satirist was Jane Austen? Her earliest writings follow firmly in the footsteps ofTristram Shandyin their deployment of heightened sentiment as a tool for satirising romantic novelistic conventions. But her mature fiction goes far beyond this, taking the fashion for passionate sensibility and confronting it with moneyed realism to depict a complex social satire in which...",
+    "date": "2026-09-05T00:41:06",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242078",
     "feed_name": "Texas Tribune",
     "title": "After rescoring STAAR exams, 11 Texas districts seeing A-F grades improve",
@@ -19988,15 +19998,5 @@
     "content": "Longview is the county seat of Gregg County, which has agreed to be part of the Northeast Texas Groundwater Conservation District, a water conservation district that has yet to be formed.",
     "date": "2026-07-16T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "6a57c0148c18b872362b58b7",
-    "feed_name": "Wired (Science)",
-    "title": "Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/astronomers-found-sugar-molecule-in-deep-space/",
-    "content": "Researchers identified traces of erythrulose, a monosaccharide, thousands of light-years away.",
-    "date": "2026-07-16T09:30:00",
-    "category": "Magazines"
   }
 ]
