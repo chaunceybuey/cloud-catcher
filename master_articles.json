@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/05/dining/superfast-noodles-and-fancy-feeling-beans.html",
+    "feed_name": "NYT (Food)",
+    "title": "Superfast Noodles and Fancy-Feeling Beans",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/09/05/dining/superfast-noodles-and-fancy-feeling-beans.html",
+    "content": "Kevin Pang\u2019s cream cheese ramen.",
+    "date": "2026-09-05T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/09/24/chills-of-the-unsaid-the-palm-house-gwendoline-riley/",
     "feed_name": "NYRB",
     "title": "Chills of the Unsaid",
@@ -19988,15 +19998,5 @@
     "content": "Cyclosporiasis isn\u2019t the only thing spreading across the US. So is anxiety about getting hit with it.",
     "date": "2026-07-16T18:36:19",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236624",
-    "feed_name": "Texas Tribune",
-    "title": "FBI suggests migrants\u2019 van in fatal Houston shooting had meth. A lawyer says it was salt.",
-    "author": "Alex Nguyen and Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17381430/texas-houston-ice-shooting-fbi-search-warrant-lorenzo-salgado-araujo",
-    "content": "A memorial for Lorenzo Salgado Araujo, who was fatally shot by an immigration officer in Houston.",
-    "date": "2026-07-16T17:22:41",
-    "category": "Texas"
   }
 ]
