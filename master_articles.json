@@ -220,6 +220,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/09/24/chills-of-the-unsaid-the-palm-house-gwendoline-riley/",
+    "feed_name": "NYRB",
+    "title": "Chills of the Unsaid",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/09/24/chills-of-the-unsaid-the-palm-house-gwendoline-riley/",
+    "content": "In its skewering of London\u2019s literary egos, Gwendoline Riley\u2019s <em>The Palm House</em> takes a step away from her previous parent-dominated novels, but it too is told by a middle-aged woman struggling to come to terms with her childhood and adolescence.\n\nDelivered by PolitePaul service",
+    "date": "2026-09-05T14:18:51",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/05/dining/bakes-for-your-late-summer-harvest.html",
+    "feed_name": "NYT (Food)",
+    "title": "Bakes for Your Late-Summer Harvest",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/09/05/dining/bakes-for-your-late-summer-harvest.html",
+    "content": "Jesse Szewczyk\u2019s chocolate zucchini loaf cake.",
+    "date": "2026-09-05T14:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8849783#p8849783",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19978,25 +19998,5 @@
     "content": "A memorial for Lorenzo Salgado Araujo, who was fatally shot by an immigration officer in Houston.",
     "date": "2026-07-16T17:22:41",
     "category": "Texas"
-  },
-  {
-    "id": "d83c872b0724db7c050639adc70c31c1",
-    "feed_name": "The Atlantic",
-    "title": "Nobody Even Expects DOJ to Be Independent Anymore",
-    "author": "Quinta Jurecic",
-    "link": "https://www.theatlantic.com/ideas/2026/07/todd-blanche-attorney-general-confirmation-hearing/687933/",
-    "content": "At Todd Blanche\u2019s confirmation hearing, there was scant support for the once-cherished ideal of dispensing impartial justice.",
-    "date": "2026-07-16T17:10:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/dining/these-recipes-fit-just-right.html",
-    "feed_name": "NYT (Food)",
-    "title": "These Recipes Fit Just Right",
-    "author": "Tanya Sichynsky",
-    "link": "https://www.nytimes.com/2026/07/16/dining/these-recipes-fit-just-right.html",
-    "content": "Nico de Leon\u2019s summer vegetable pancit canton, adapted by Christian Reynoso.",
-    "date": "2026-07-16T17:00:05",
-    "category": "NYT"
   }
 ]
