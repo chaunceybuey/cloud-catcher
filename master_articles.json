@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/06/dining/a-mini-rosh-hashana-menu.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Mini Rosh Hashana Menu",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/06/dining/a-mini-rosh-hashana-menu.html",
+    "content": "Benjamina Ebuehi\u2019s pistachio polenta cake, adapted by Melissa Clark.",
+    "date": "2026-09-06T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/06/movies/it-ends-trapped-horror-films.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u201cIt Ends,\u201d \u201cExit 8\u201d and the New Horror of Monotony",
+    "author": "Maya Phillips",
+    "link": "https://www.nytimes.com/2026/09/06/movies/it-ends-trapped-horror-films.html",
+    "content": "Akira Jackson as one of the friends stuck inside a car on an endless drive in \u201cIt Ends.\u201d",
+    "date": "2026-09-06T14:56:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/09/24/the-dartmouth-exception-sian-beilock/",
     "feed_name": "NYRB",
     "title": "The Dartmouth Exception",
@@ -19978,25 +19998,5 @@
     "content": "People opposing Attorney General Ken Paxton, who is running for U.S. Senate, show up with signs supporting Democratic candidates during his rally in McAllen on July 14, 2026.",
     "date": "2026-07-16T23:27:24",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236753",
-    "feed_name": "Texas Tribune",
-    "title": "Trump administration revives rule that could deny green cards to immigrants who use public benefits",
-    "author": "By Gisela Salomon,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17381611/texas-trump-public-charge-rule-revived",
-    "content": "A shopper looks at frozen food items inside an H-E-B in Corpus Christi on Jan. 17, 2026.",
-    "date": "2026-07-16T22:31:30",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/arts/television/chloe-fineman-leaves-snl.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Chloe Fineman Is Leaving \u2018S.N.L.\u2019 After 7 Seasons",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/07/16/arts/television/chloe-fineman-leaves-snl.html",
-    "content": "Britney Spears was one of many celebrities portrayed by Chloe Fineman during her time on \u201cSaturday Night Live.\u201d",
-    "date": "2026-07-16T22:06:55",
-    "category": "NYT"
   }
 ]
