@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "5abf3cff-05db-42dc-97d1-0da8fc41ea18",
+    "feed_name": "Economist",
+    "title": "Inflation is back around the world\u2014as is the fight against it",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
+    "content": "Central banks are raising interest rates again",
+    "date": "2026-09-06T15:39:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/06/arts/dance/jacobs-pillow-kat-sirico-accident.html",
     "feed_name": "NYT (Arts)",
     "title": "In the Shadow of a Tragic Death, Jacob\u2019s Pillow Looks to Move Forward",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17381647/texas-hill-country-flood-residents-anxiety-one-year-later",
     "content": "Sherri Steadham stands on her front lawn after floodwaters from the Guadalupe River receded from near her home in Center Point on July 16, 2026.",
     "date": "2026-07-17T02:06:25",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236830",
-    "feed_name": "Texas Tribune",
-    "title": "At a Houston funeral home, a community comes together to pay respects to Lorenzo Salgado Araujo",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17381648/texas-ice-shooting-lorenzo-salgado-public-viewing-houston",
-    "content": "Ronaldo Salgado, center, gets a hug from an attendee during a public visitation for his father Lorenzo Salgado Araujo on July 16, 2026, in Houston. Salgado Araujo was fatally shot by an immigration agent on July 7 in Houston.",
-    "date": "2026-07-17T02:05:51",
     "category": "Texas"
   }
 ]
