@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/06/obituaries/niels-refsgaard-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Niels Refsgaard, Who Transformed the American Table, Dies at 91",
+    "author": "Penelope Green",
+    "link": "https://www.nytimes.com/2026/09/06/obituaries/niels-refsgaard-dead.html",
+    "content": "As a designer for Dansk, he created dishware that reflected the casual dining style of the late 1960s and 70s, when fine china became an anachronism.",
+    "date": "2026-09-06T20:59:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22524-central-texas-philharmonic-anton-nel-and-beethoven-7",
     "feed_name": "KMFA",
     "title": "Central Texas Philharmonic: Anton Nel and Beethoven 7",
@@ -19988,15 +19998,5 @@
     "content": "The president's self-serving message will not serve the Republicans on the ballot.",
     "date": "2026-07-17T03:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236823",
-    "feed_name": "Texas Tribune",
-    "title": "New flooding haunts Hill Country residents a year after historic disaster",
-    "author": "Ayden Runnels and Ellie Ashby",
-    "link": "https://feeds.texastribune.org/link/16799/17381647/texas-hill-country-flood-residents-anxiety-one-year-later",
-    "content": "Sherri Steadham stands on her front lawn after floodwaters from the Guadalupe River receded from near her home in Center Point on July 16, 2026.",
-    "date": "2026-07-17T02:06:25",
-    "category": "Texas"
   }
 ]
