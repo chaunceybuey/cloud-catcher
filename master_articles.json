@@ -230,6 +230,16 @@
     "category": "NYT"
   },
   {
+    "id": "bcb60af83416ee41145a979f17c6d070",
+    "feed_name": "The Atlantic",
+    "title": "What\u2019s the Matter With Moderation?",
+    "author": "David Von Drehle",
+    "link": "https://www.theatlantic.com/ideas/2026/09/adam-hamilton-kansas-senate-race/688531/",
+    "content": "Hoping to break a 94-year losing streak, Kansas Democrats have turned to Adam Hamilton, a Methodist pastor whose mood may not match his party\u2019s.",
+    "date": "2026-09-06T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21732-meanwhile-brewing-co-lagers-literature",
     "feed_name": "KMFA",
     "title": "Meanwhile Brewing Co: Lagers &amp; Literature",
@@ -19988,15 +19998,5 @@
     "content": "Britney Spears was one of many celebrities portrayed by Chloe Fineman during her time on \u201cSaturday Night Live.\u201d",
     "date": "2026-07-16T22:06:55",
     "category": "NYT"
-  },
-  {
-    "id": "e65d347a4f5c4924fd1e1ea4e48bdef6",
-    "feed_name": "The Atlantic",
-    "title": "Explaining Sex to an Anthropologist",
-    "author": "Conor Friedersdorf",
-    "link": "https://www.theatlantic.com/ideas/2026/07/explaining-sex-anthropologist/687948/",
-    "content": "The president of the field\u2019s leading professional association was asked about a polarizing topic\u2014and showed that she doesn\u2019t understand the position she is dismissing.",
-    "date": "2026-07-16T22:03:00",
-    "category": "Magazines"
   }
 ]
