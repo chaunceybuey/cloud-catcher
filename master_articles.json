@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/06/arts/dance/jacobs-pillow-kat-sirico-accident.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In the Shadow of a Tragic Death, Jacob\u2019s Pillow Looks to Move Forward",
+    "author": "Michaela Towfighi",
+    "link": "https://www.nytimes.com/2026/09/06/arts/dance/jacobs-pillow-kat-sirico-accident.html",
+    "content": "A year after a longtime staff member was killed at the celebrated dance center in Western Massachusetts, the recovery continues.",
+    "date": "2026-09-06T15:37:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/06/dining/a-mini-rosh-hashana-menu.html",
     "feed_name": "NYT (Food)",
     "title": "A Mini Rosh Hashana Menu",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17381648/texas-ice-shooting-lorenzo-salgado-public-viewing-houston",
     "content": "Ronaldo Salgado, center, gets a hug from an attendee during a public visitation for his father Lorenzo Salgado Araujo on July 16, 2026, in Houston. Salgado Araujo was fatally shot by an immigration agent on July 7 in Houston.",
     "date": "2026-07-17T02:05:51",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236620",
-    "feed_name": "Texas Tribune",
-    "title": "Paxton and Talarico open battle for South Texas with dueling rallies, diverging pitches",
-    "author": "Alejandro Serrano",
-    "link": "https://feeds.texastribune.org/link/16799/17381621/texas-senate-race-james-talarico-ken-paxton-south-texas",
-    "content": "People opposing Attorney General Ken Paxton, who is running for U.S. Senate, show up with signs supporting Democratic candidates during his rally in McAllen on July 14, 2026.",
-    "date": "2026-07-16T23:27:24",
     "category": "Texas"
   }
 ]
