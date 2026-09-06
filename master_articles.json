@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a9841fc882152f5a8e0044d",
+    "feed_name": "Wired (Science)",
+    "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+    "content": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies\u2014the only problem is a lack of evidence.",
+    "date": "2026-09-06T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/06/arts/television/netflix-new-shows-movies.html",
     "feed_name": "NYT (Arts)",
     "title": "The Best Movies and TV Shows Coming to Netflix in September",
@@ -19988,15 +19998,5 @@
     "content": "As wildfire smoke threatens air quality and safety for millions, here\u2019s your playbook to keep your family safe from the damaging effects of smoke.",
     "date": "2026-07-16T20:41:10",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/16/dining/best-mango-dishes.html",
-    "feed_name": "NYT (Food)",
-    "title": "Summer Tastes Like Mango (and Vice Versa)",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/07/16/dining/best-mango-dishes.html",
-    "content": "At Pata Market in Elmhurst, mango sticky rice is a summertime best seller.",
-    "date": "2026-07-16T19:46:45",
-    "category": "NYT"
   }
 ]
