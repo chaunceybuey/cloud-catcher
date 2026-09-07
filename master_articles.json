@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
+    "author": "Claire Moses",
+    "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
+    "content": "Ariel Bassano, a visual arts teacher, left, standing next to the painting \u201cPortrait of a Lady\u201d at the public prosecutor\u2019s office in Mar del Plata, Argentina. The 18th-century work had been missing for eight decades.",
+    "date": "2026-09-07T17:31:53",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/07/movies/elizabeth-holmes-documentary-nathan-fielder-a24.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Elizabeth Holmes Documentary \u2018You Can See Everything\u2019 Upends Telluride",
+    "author": "Nicole Sperling",
+    "link": "https://www.nytimes.com/2026/09/07/movies/elizabeth-holmes-documentary-nathan-fielder-a24.html",
+    "content": "The comic Nathan Fielder and the filmmaker Lance Oppenheim teamed up to interview the convicted executive for \u201cYou Can See Everything.\u201d",
+    "date": "2026-09-07T17:24:48",
+    "category": "NYT"
+  },
+  {
     "id": "ee068537515ce7219508ee772c1809a5",
     "feed_name": "LRB",
     "title": "Beyond the Blitz",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17382251/texas-vouchers-islamic-private-schools-sam-westrop",
     "content": "Brighter Horizons Academy is one of nearly 50 Texas-based Islamic and Chinese schools that were investigated by the state comptroller\u2019s office.",
     "date": "2026-07-18T03:10:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237016",
-    "feed_name": "Texas Tribune",
-    "title": "Key differences spared Texas lives in second straight July flood",
-    "author": "Alejandra Martinez, Emily Foxhall, and Ellie Ashby",
-    "link": "https://feeds.texastribune.org/link/16799/17382196/texas-south-central-july-floods-lives-saved",
-    "content": "First responders on a bridge covered by water after the flood in Kerrville on July 16, 2026.",
-    "date": "2026-07-18T01:02:45",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237006",
-    "feed_name": "Texas Tribune",
-    "title": "Uvalde residents shocked by rare flooding that ripped through homes",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17382197/texas-flooding-uvalde-shock-residents",
-    "content": "Aracely Balderas, right, and her family take a break from cleaning her Uvalde home, which was damaged by flooding, on July 17, 2026.",
-    "date": "2026-07-18T00:55:55",
     "category": "Texas"
   }
 ]
