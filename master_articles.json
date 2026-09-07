@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a98bd43193d67a38478e927",
+    "feed_name": "Wired (Science)",
+    "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
+    "author": "Ritsuko Kawai",
+    "link": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
+    "content": "The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects.",
+    "date": "2026-09-07T11:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/07/arts/television/fauda-netflix-oct-7.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Fauda\u2019 Braves Oct. 7, and Audiences\u2019 Attitudes Toward Israel",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/17/movies/five-free-movies-to-stream-now.html",
     "content": "This month\u2019s picks include epics from Werner Herzog and Akira Kurosawa, along with one of the most quintessential New York movies.",
     "date": "2026-07-17T09:02:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/arts/music/internet-syd-steve-lacy-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Internet\u2019s Steve Lacy, Syd and Matt Martians Discuss New Music",
-    "author": "Jon Caramanica, Joe Coscarelli and Caroline Tompkins",
-    "link": "https://www.nytimes.com/2026/07/17/arts/music/internet-syd-steve-lacy-interview.html",
-    "content": "The band members Steve Lacy and Syd, both of whom have new solo albums out now, reunite with the producer Matt Martians to discuss achieving TikTok fame, writing a Beyonc\u00e9 song and staying a family.",
-    "date": "2026-07-17T09:02:26",
     "category": "NYT"
   }
 ]
