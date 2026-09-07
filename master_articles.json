@@ -220,6 +220,16 @@
     "category": "NYT"
   },
   {
+    "id": "e1267c99bff64c3ba2d4b4709c2c2a97",
+    "feed_name": "LRB",
+    "title": "On Politics: The Pope and the President",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-pope-and-the-president",
+    "content": "When commenting on the power and influence of the Catholic Church, Stalin is supposed to have asked: \u2018how many divisions has the pope?\u2019 Donald Trump has yet to question how many F35s Leo XIV has, but he may as well have done in his angry response to the American pope\u2019s criticism of the US and Israel\u2019s attack on Iran. With the US president\u2019s supporters invoking the...",
+    "date": "2026-09-07T09:03:33",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/07/arts/television/sterling-point-off-campus.html",
     "feed_name": "NYT (Arts)",
     "title": "The Summer When TV Started to Portray Female Friendship Accurately",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/17/arts/music/internet-syd-steve-lacy-interview.html",
     "content": "The band members Steve Lacy and Syd, both of whom have new solo albums out now, reunite with the producer Matt Martians to discuss achieving TikTok fame, writing a Beyonc\u00e9 song and staying a family.",
     "date": "2026-07-17T09:02:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/movies/new-movies-this-week-critics.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 New Movies Our Critics Are Talking About This Week",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/07/17/movies/new-movies-this-week-critics.html",
-    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
-    "date": "2026-07-17T09:02:09",
     "category": "NYT"
   }
 ]
