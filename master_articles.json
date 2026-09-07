@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a909e631949b5f84a671194",
+    "feed_name": "Wired (Science)",
+    "title": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
+    "author": "Steve Nadis",
+    "link": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
+    "content": "Dark energy might be getting weaker. Scientists are wondering if interactions with dark matter in a \u201cdark dimension\u201d may be responsible.",
+    "date": "2026-09-07T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a98bd43193d67a38478e927",
     "feed_name": "Wired (Science)",
     "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
@@ -19988,15 +19998,5 @@
     "content": "\u201cBased on simple math, these outbreak responses\u2014which require rapid, timely responses\u2014are going to be greatly diminished,\u201d the former CDC lab director tells WIRED.",
     "date": "2026-07-17T09:15:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/movies/five-free-movies-to-stream-now.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five Free Movies to Stream Now",
-    "author": "Brandon Yu",
-    "link": "https://www.nytimes.com/2026/07/17/movies/five-free-movies-to-stream-now.html",
-    "content": "This month\u2019s picks include epics from Werner Herzog and Akira Kurosawa, along with one of the most quintessential New York movies.",
-    "date": "2026-07-17T09:02:34",
-    "category": "NYT"
   }
 ]
