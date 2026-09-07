@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/06/arts/television/lanterns-recap-season-1-episode-4.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Lanterns\u2019 Season 1, Episode 4 Recap: Best Frenemies",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/09/06/arts/television/lanterns-recap-season-1-episode-4.html",
+    "content": "John and Hal (Aaron Pierre and Kyle Chandler) might be a good team once they stop defaulting to lies and mistrust.",
+    "date": "2026-09-07T02:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/06/obituaries/edward-field-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Edward Field, Bohemian New York Poet, Dies at 102",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-review.html",
     "content": "The glossy Netflix series graduates into adulthood with this movie starring Kit Connor and Joe Locke as a couple with thoughts of college ahead.",
     "date": "2026-07-17T07:01:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Late Night Is Amused by Alleged White House Teleprompter Grift",
-    "author": "Trish Bendix",
-    "link": "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html",
-    "content": "Hosts responded on Thursday to a teleprompter operator reportedly winning around $100,000 betting on what President Trump would say in his speeches.",
-    "date": "2026-07-17T07:00:13",
     "category": "NYT"
   }
 ]
