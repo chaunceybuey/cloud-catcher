@@ -200,6 +200,86 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/07/arts/television/fauda-netflix-oct-7.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Fauda\u2019 Braves Oct. 7, and Audiences\u2019 Attitudes Toward Israel",
+    "author": "David M. Halbfinger",
+    "link": "https://www.nytimes.com/2026/09/07/arts/television/fauda-netflix-oct-7.html",
+    "content": "The new season of the Israeli hit depicts the Hamas attacks and aftermath. It arrives as Israel\u2019s artists face resistance overseas precisely because of how the country responded to Oct. 7.",
+    "date": "2026-09-07T09:04:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
+    "feed_name": "NYT (Arts)",
+    "title": "There Is Still a Void at Ground Zero. Here\u2019s How We Fill It.",
+    "author": "Michael Kimmelman and George Etheredge",
+    "link": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
+    "content": "At 25 years, the World Trade Center is an undeniable feat of urban redevelopment. Now we can make it a real neighborhood.",
+    "date": "2026-09-07T09:03:49",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/07/arts/television/sterling-point-off-campus.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Summer When TV Started to Portray Female Friendship Accurately",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/09/07/arts/television/sterling-point-off-campus.html",
+    "content": "The creators of \u201cSterling Point\u201d and \u201cOff Campus\u201d sought to depict relationships that were far different from the soapy rivalries of earlier young adult shows.",
+    "date": "2026-09-07T09:03:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/07/arts/design/new-art-exhibitions-holland-cotter.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Art\u2019s New Season: Retrospectives and Resistance",
+    "author": "Holland Cotter",
+    "link": "https://www.nytimes.com/2026/09/07/arts/design/new-art-exhibitions-holland-cotter.html",
+    "content": "Holland Cotter\u2019s highlights include a panoptic view of Roy Lichtenstein, storytelling surprises of the Lucas Museum of Narrative Art, and activism from Colombia to South Asia to New York.",
+    "date": "2026-09-07T09:01:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/07/arts/design/new-art-exhibitions-jason-farago.html",
+    "feed_name": "NYT (Arts)",
+    "title": "25 Global Art Openings Worth Making an Excursion For",
+    "author": "Jason Farago",
+    "link": "https://www.nytimes.com/2026/09/07/arts/design/new-art-exhibitions-jason-farago.html",
+    "content": "Our critic Jason Farago awaits Brancusi at MoMA, a K-pop icon\u2019s collection in San Francisco, Sofia Coppola at the Ch\u00e2teau de Versailles \u2014 and new art centers in New York.",
+    "date": "2026-09-07T09:00:54",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/07/arts/big-walk-house-house.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Joyous Big Walk Emerged From Pandemic Lockdowns",
+    "author": "Jackson Ryan",
+    "link": "https://www.nytimes.com/2026/09/07/arts/big-walk-house-house.html",
+    "content": "The puzzle game Big Walk, by the Australian studio behind Untitled Goose Game, explores the ways we connect with one another.",
+    "date": "2026-09-07T09:00:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/07/arts/design/this-san-francisco-artists-walls-have-boundary-issues.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In San Francisco, the Artist Joset Medina\u2019s Walls Have Boundary Issues",
+    "author": "Stephen Treffinger and Matthew Millman",
+    "link": "https://www.nytimes.com/2026/09/07/arts/design/this-san-francisco-artists-walls-have-boundary-issues.html",
+    "content": "Joset Medina\u2019s apartment walls are slathered in vines, branches and cacti representing his mother and grandmother\u2019s gardens in Venezuela, his circuitous emigration to California and his travels with his husband.",
+    "date": "2026-09-07T09:00:42",
+    "category": "NYT"
+  },
+  {
+    "id": "6a985928eb5c97c0b1700dec",
+    "feed_name": "Wired (Science)",
+    "title": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?",
+    "author": "Joseph Winters",
+    "link": "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/",
+    "content": "The science curriculum the industry is offering to schools casts plastics as safe, recyclable, and a source of good jobs. Critics say it\u2019s propaganda.",
+    "date": "2026-09-07T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/07/arts/television/the-real-housewives-of-new-york-city-and-10-more-shows-to-watch-on-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Real Housewives of New York City\u2019 and 10 More Shows to Watch on TV This Week",
@@ -19918,85 +19998,5 @@
     "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
     "date": "2026-07-17T09:02:09",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Has the World Cup Turned Me Into \u2026 a Sports Guy?",
-    "author": "James Poniewozik",
-    "link": "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html",
-    "content": "The spectacle of the World Cup, which wraps up on Sunday, stretches far beyond the pitch.",
-    "date": "2026-07-17T09:01:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/theater/shifters-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Shifters\u2019 Review: Fast-Forwarding Through a Predictable Romance",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/07/17/theater/shifters-review.html",
-    "content": "Des (Heather Agyepong) and Dre (Daniel Ezra), navigate a mutual magnetic pull in this British love story by Benedict Lombe at Cherry Lane Theater.",
-    "date": "2026-07-17T09:01:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/arts/music/gary-stewart-country-music.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Rediscovery of Country Original Gary Stewart",
-    "author": "Bob Mehr",
-    "link": "https://www.nytimes.com/2026/07/17/arts/music/gary-stewart-country-music.html",
-    "content": "Gary Stewart spent a few years on top, but was largely forgotten after his tragic death in 2003. Now a new generation is rediscovering the onetime \u201cking of honky-tonk.\u201d",
-    "date": "2026-07-17T09:00:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Heartstopper Forever\u2019: What to Know Before Seeing the Movie",
-    "author": "Shivani Gonzalez",
-    "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
-    "content": "The Netflix series and its feature-length finale are based on the graphic novels by Alice Oseman. Here\u2019s a reminder of the events of the characters and where their stories left of.",
-    "date": "2026-07-17T09:00:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Christopher Nolan on \u2018The Odyssey\u2019 and IMAX Technical Challenges",
-    "author": "Melena Ryzik",
-    "link": "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html",
-    "content": "\u201cI called up my friends at IMAX,\u201d Christopher Nolan said. \u201cI couldn\u2019t tell them what the movie was yet, but I said if ever we were going to do a film all in IMAX, this is the one.\u201d",
-    "date": "2026-07-17T09:00:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/arts/design/my-5-favorite-places-for-art-in-venice.html",
-    "feed_name": "NYT (Arts)",
-    "title": "My 5 Favorite Places for Art in Venice",
-    "author": "Jason Farago",
-    "link": "https://www.nytimes.com/2026/07/17/arts/design/my-5-favorite-places-for-art-in-venice.html",
-    "content": "Our critic Jason Farago shares what you shouldn\u2019t miss in a city full of secrets and surprises.",
-    "date": "2026-07-17T09:00:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/17/books/the-odyssey-books.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Want More of the \u2018Odyssey\u2019? Read These Books Next",
-    "author": "Calum Marsh",
-    "link": "https://www.nytimes.com/2026/07/17/books/the-odyssey-books.html",
-    "content": "Informative histories, modern retellings and genre-bending homages will take you back to the long road to Ithaca.",
-    "date": "2026-07-17T09:00:25",
-    "category": "NYT"
-  },
-  {
-    "id": "e1267c99bff64c3ba2d4b4709c2c2a97",
-    "feed_name": "LRB",
-    "title": "On Politics: The Pope and the President",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-pope-and-the-president",
-    "content": "When commenting on the power and influence of the Catholic Church, Stalin is supposed to have asked: \u2018how many divisions has the pope?\u2019 Donald Trump has yet to question how many F35s Leo XIV has, but he may as well have done in his angry response to the American pope\u2019s criticism of the US and Israel\u2019s attack on Iran. With the US president\u2019s supporters invoking the...",
-    "date": "2026-07-17T07:18:06",
-    "category": "Magazines"
   }
 ]
