@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/09/24/wishing-it-so-meghan-ogieblyn/",
+    "feed_name": "NYRB",
+    "title": "Wishing It So",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/09/24/wishing-it-so-meghan-ogieblyn/",
+    "content": "As AI erodes our attention spans and expressiveness, philosophers like Simone Weil and Arthur Schopenhauer offer profound insights on what it means to be an individual.\n\nDelivered by PolitePaul service",
+    "date": "2026-09-08T17:48:52",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/08/movies/elon-musk-film-alex-gibney-venice-film-festival.html",
     "feed_name": "NYT (Arts)",
     "title": "Four-Hour Elon Musk Documentary by Alex Gibney Has Venice Premiere",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/20/movies/national-treasure-nicolas-cage.html",
     "content": "Nicolas Cage, Diane Kruger and Justin Bartha raced from conspiracy theory to conspiracy theory in this 2004 blockbuster about stealing the Declaration of Independence.",
     "date": "2026-07-20T09:00:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html",
-    "feed_name": "NYT (Arts)",
-    "title": "To Sell the \u2018Odyssey,\u2019 Publishers, Like Its Hero, Get Wily",
-    "author": "MJ Franklin",
-    "link": "https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html",
-    "content": "The market for Homer\u2019s epic poem is as crowded as a certain Ithacan palace, and publishers have had to get crafty to attract readers to their editions.",
-    "date": "2026-07-20T09:00:48",
     "category": "NYT"
   }
 ]
