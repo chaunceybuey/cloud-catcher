@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "6aa056934b6c51ea238c0d8b",
+    "feed_name": "Wired (Science)",
+    "title": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
+    "content": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
+    "date": "2026-09-08T21:15:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-lonnie-bunch-departure-reaction.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lonnie G. Bunch III, Departing Smithsonian Secretary, Faced \u2018Mounting Pressure Campaign\u2019",
+    "author": "Zachary Small, Graham Bowley and Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-lonnie-bunch-departure-reaction.html",
+    "content": "Lonnie G. Bunch III announced on Tuesday that he would step down as the secretary of the Smithsonian Institution.",
+    "date": "2026-09-08T21:04:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/08/dining/restaurant-review-lonnies-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Lonnies in NYC",
@@ -19976,26 +19996,6 @@
     "author": "ByPaul Muldoon",
     "link": "https://www.newyorker.com/magazine/2026/07/27/mice-paul-muldoon-poem",
     "content": "\u201cYou may take my word / for their being very nearly as hard to herd / as people.\u201d",
-    "date": "2026-07-20T13:07:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "3b22cd9403e8577d12201dae17edad54",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-july-27-2026-issue",
-    "content": "Drawings from the July 27, 2026, magazine.",
-    "date": "2026-07-20T13:07:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "ce1a85b500734cd4a15aa93de2f06930",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Tuesday, July 14, 2026",
-    "author": "ByWyna Liu",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/07/14",
-    "content": "A moderately challenging puzzle.",
     "date": "2026-07-20T13:07:57",
     "category": "Magazines"
   }
