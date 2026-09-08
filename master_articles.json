@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=242226",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: How Texas schools will teach about Islam",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17443092/tribcast-muslim-social-studies-no-spaces-short",
+    "content": "Students sing during their Arabic class at Iman Academy on Wednesday, March 4, 2026, in southwest Houston",
+    "date": "2026-09-08T22:10:26",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242168",
     "feed_name": "Texas Tribune",
     "title": "Are you a Texan dealing with rising costs? We want to hear from you.",
@@ -19986,16 +19996,6 @@
     "author": "ByNikhil Krishnan",
     "link": "https://www.newyorker.com/magazine/2026/07/27/how-to-kill-a-language-sophia-smith-galer-book-review",
     "content": "When cultural preservationists cast every extinction as murder, they can ignore speakers\u2019 decisions\u2014and the costs of keeping a fading tongue alive.",
-    "date": "2026-07-20T13:07:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "c590d6ef8fb93bfd8d2d70d00e348c27",
-    "feed_name": "New Yorker",
-    "title": "Christopher Nolan\u2019s \u201cThe Odyssey\u201d Leaves the Gods in the Outtakes",
-    "author": "ByRichard Brody",
-    "link": "https://www.newyorker.com/magazine/2026/07/27/the-odyssey-christopher-nolan-movie-review",
-    "content": "The director\u2019s Homer adaptation presents a modern, relatable Odysseus, rather than trying to understand the ancient world on its own terms.",
     "date": "2026-07-20T13:07:57",
     "category": "Magazines"
   }
