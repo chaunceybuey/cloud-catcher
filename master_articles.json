@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Smithsonian Secretary Lonnie Bunch Is Resigning",
+    "author": "Robin Pogrebin and Graham Bowley",
+    "link": "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html",
+    "content": "Lonnie G. Bunch III, the secretary of the Smithsonian, has tried to navigate increasing pressure from the White House while defending the institution\u2019s autonomy.",
+    "date": "2026-09-08T16:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "a67b65cfb1965e93cd17ad57d40e7fc1",
     "feed_name": "Compact",
     "title": "On AI, Bernie Is the Last Conservative",
@@ -19988,15 +19998,5 @@
     "content": "Mary Shelley signed off her introduction to the 1831 edition ofFrankensteinby bidding her \u2018hideous progeny go forth and prosper\u2019. In this episode of The Man Behind the Curtain, Tom McCarthy and Thomas Jones look at the machinery that Shelley used to assemble her immortal creature and bring it to life. As well as its origins and afterlives, they consider the many systems that the...",
     "date": "2026-07-19T23:59:36",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "First World Cup Halftime Show: Lots of Stars, Little Purpose",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html",
-    "content": "The first World Cup halftime show had a simple message of love and unity.",
-    "date": "2026-07-19T21:56:27",
-    "category": "NYT"
   }
 ]
