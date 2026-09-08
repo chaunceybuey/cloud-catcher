@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/08/theater/small-mouth-sounds-downstate-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Julia Roberts Will Return to Broadway in \u2018Small Mouth Sounds\u2019",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/09/08/theater/small-mouth-sounds-downstate-broadway.html",
+    "content": "Julia Roberts will be returning to Broadway after making her debut in 2006.",
+    "date": "2026-09-08T14:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/08/arts/dance/sinead-oconnor-sonya-tayeh-the-surge-joyce-theater.html",
     "feed_name": "NYT (Arts)",
     "title": "Nothing Compares to Her: A Dance Love Letter to Sinead O\u2019Connor",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/shakiras-dai-dai-is-the-official-anthem-of-the-tournament",
     "content": "Shakira performing in Mexico City before the first game of the World Cup in June.",
     "date": "2026-07-19T19:30:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/bts-brings-k-pop-to-a-global-stage",
-    "feed_name": "NYT (Arts)",
-    "title": "BTS brings K-pop to a global stage.",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/bts-brings-k-pop-to-a-global-stage",
-    "content": "BTS performs at the group\u2019s comeback concert this year.",
-    "date": "2026-07-19T19:30:27",
     "category": "NYT"
   }
 ]
