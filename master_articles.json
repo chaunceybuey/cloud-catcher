@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/08/arts/dance/sinead-oconnor-sonya-tayeh-the-surge-joyce-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Nothing Compares to Her: A Dance Love Letter to Sinead O\u2019Connor",
+    "author": "Roslyn Sulcas",
+    "link": "https://www.nytimes.com/2026/09/08/arts/dance/sinead-oconnor-sonya-tayeh-the-surge-joyce-theater.html",
+    "content": "The choreographer Sonya Tayeh.",
+    "date": "2026-09-08T11:41:54",
+    "category": "NYT"
+  },
+  {
     "id": "6a74b1d7a5647b487fd9294a",
     "feed_name": "Wired",
     "title": "How NASA Testing Changed US Food Inspection Forever",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/madonna-a-veteran-of-big-stages-just-released-a-new-album",
     "content": "Madonna performs on a platform overlooking Times Square in June.",
     "date": "2026-07-19T19:30:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Nolan\u2019s \u2018The Odyssey\u2019 Brings in $124.5 Million at the Box Office on Opening Weekend",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html",
-    "content": "Christopher Nolan\u2019s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada.",
-    "date": "2026-07-19T16:54:07",
     "category": "NYT"
   }
 ]
