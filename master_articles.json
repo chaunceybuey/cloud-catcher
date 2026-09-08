@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/08/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Eat Your Rival: Carnegie Deli Will Reopen Where Stage Deli Once Was",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/09/08/dining/nyc-restaurant-news.html",
+    "content": "Amphora takes a wine-forward approach, Ferg\u2019s represents Alabama and more restaurant news.",
+    "date": "2026-09-08T18:02:25",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/arts/music/amplifier-playlist-haruomi-hosono-robyn.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Between-Seasons Playlist",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/09/08/arts/music/amplifier-playlist-haruomi-hosono-robyn.html",
+    "content": "Robyn performing during her Sexistential tour.",
+    "date": "2026-09-08T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/09/24/wishing-it-so-meghan-ogieblyn/",
     "feed_name": "NYRB",
     "title": "Wishing It So",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/20/arts/dance/swan-lake-american-ballet-theater-extra-supernumerary.html",
     "content": "Our reporter, a lapsed dancer, got an intimate glimpse of the action in the American Ballet Theater\u2019s production.",
     "date": "2026-07-20T09:01:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/theater/cat-cohen-broad-strokes-comedy.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Cat Cohen Turned Her Stroke Into a Punchline and Off Broadway Show",
-    "author": "Lindsay Gellman and Tess Mayer",
-    "link": "https://www.nytimes.com/2026/07/20/theater/cat-cohen-broad-strokes-comedy.html",
-    "content": "For Cohen, there is pathos in playing silly moments off the sincere.",
-    "date": "2026-07-20T09:01:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/movies/national-treasure-nicolas-cage.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018National Treasure,\u2019 the Over-Engineered, Delightfully Dumb U.S. History Lesson",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/07/20/movies/national-treasure-nicolas-cage.html",
-    "content": "Nicolas Cage, Diane Kruger and Justin Bartha raced from conspiracy theory to conspiracy theory in this 2004 blockbuster about stealing the Declaration of Independence.",
-    "date": "2026-07-20T09:00:57",
     "category": "NYT"
   }
 ]
