@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/08/arts/music/jon-small-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jon Small, Director and Early Billy Joel Collaborator, Dies at 79",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/09/08/arts/music/jon-small-dead.html",
+    "content": "Jon Small, right, with Billy Joel in 1970, the year they released a self-titled heavy metal album as Attila.",
+    "date": "2026-09-08T22:35:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242168",
     "feed_name": "Texas Tribune",
     "title": "Are you a Texan dealing with rising costs? We want to hear from you.",
@@ -19986,16 +19996,6 @@
     "author": "ByRichard Brody",
     "link": "https://www.newyorker.com/magazine/2026/07/27/the-odyssey-christopher-nolan-movie-review",
     "content": "The director\u2019s Homer adaptation presents a modern, relatable Odysseus, rather than trying to understand the ancient world on its own terms.",
-    "date": "2026-07-20T13:07:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "a046bc342a93c29eb8c93991ef62a624",
-    "feed_name": "New Yorker",
-    "title": "\u201cCul-de-Sac\u201d",
-    "author": "ByAndrea Cohen",
-    "link": "https://www.newyorker.com/magazine/2026/07/27/cul-de-sac-andrea-cohen-poem",
-    "content": "\u201cLike all tyrants, / my mother made / decrees.\u201d",
     "date": "2026-07-20T13:07:57",
     "category": "Magazines"
   }
