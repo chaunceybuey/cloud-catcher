@@ -19890,6 +19890,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
+    "feed_name": "Douthat",
+    "title": "China\u2019s A.I. Play Is Different From America\u2019s",
+    "author": "Ross Douthat",
+    "link": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
+    "content": "When great powers disagree about the nature of A.I.",
+    "date": "2026-07-19T19:35:46",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/justin-biebers-year-has-been-filled-with-high-profile-performances",
     "feed_name": "NYT (Arts)",
     "title": "Justin Bieber\u2019s year has been filled with high-profile performances.",
@@ -19988,15 +19998,5 @@
     "content": "Astronomers have discovered a rocky exoplanet that has an atmosphere and sits within the habitable zone of a solar system.",
     "date": "2026-07-19T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/19/theater/whoopi-goldberg-kerry-washington-whoopi-monologues.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Kerry Washington and Whitney White Are Honoring Whoopi Goldberg Through Theater",
-    "author": "Salamishah Tillet",
-    "link": "https://www.nytimes.com/2026/07/19/theater/whoopi-goldberg-kerry-washington-whoopi-monologues.html",
-    "content": "The director Whitney White and the actress Kerry Washington collaborated on \u201cThe Whoopi Monologues,\u201d at Lincoln Center Theater.",
-    "date": "2026-07-19T09:00:52",
-    "category": "NYT"
   }
 ]
