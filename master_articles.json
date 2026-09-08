@@ -200,6 +200,106 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/08/arts/music/josephine-baker-paris-opera.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Reimagining Josephine Baker, on the Most Opulent Stage in Paris",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/09/08/arts/music/josephine-baker-paris-opera.html",
+    "content": "The American soprano Julia Bullock at the Palais Opera Garnier in Paris, where \u201cPerle Noire: Meditations for Jos\u00e9phine\u201d opens the Paris Opera\u2019s season on Wednesday.",
+    "date": "2026-09-08T09:09:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/arts/music/lil-durks-murder-for-hire-trial-what-to-know.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lil Durk\u2019s Murder-for-Hire Trial: What to Know",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/09/08/arts/music/lil-durks-murder-for-hire-trial-what-to-know.html",
+    "content": "Lil Durk, the rapper born Durk Banks, performing in 2023.",
+    "date": "2026-09-08T09:04:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/dining/restaurant-review-somssi-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Somssi in New York",
+    "author": "Ligaya Mishan",
+    "link": "https://www.nytimes.com/2026/09/08/dining/restaurant-review-somssi-nyc.html",
+    "content": "Somssi in Greenwich Village, from the owners of Atomix, offers a freewheeling global menu with minimum polish or pretense.",
+    "date": "2026-09-08T09:04:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/theater/fantasticks-broadway-longest-running-musical.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How the World\u2019s Longest-Running Musical Finally Made It to Broadway",
+    "author": "Jesse Green",
+    "link": "https://www.nytimes.com/2026/09/08/theater/fantasticks-broadway-longest-running-musical.html",
+    "content": "\u201cThe Fantasticks\u201d ran for decades in Greenwich Village. Now, in time for its Broadway debut, it gets a gender makeover.",
+    "date": "2026-09-08T09:03:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/t-magazine/top-fashion-photographs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The 25 Most Influential Fashion Photographs",
+    "author": "Nick Haramis, Elly Fishman, Kate Guadagnino, Eviana Hartman, Jameson Montgomery and Kin Woo",
+    "link": "https://www.nytimes.com/2026/09/08/t-magazine/top-fashion-photographs.html",
+    "content": "Two photographers, a fashion designer, a stylist, a creative director, an editor and a supermodel debate the images that have had an indelible impact on how we dress.",
+    "date": "2026-09-08T09:02:55",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/arts/dance/fall-dance-performances-festivals.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sinead O\u2019Connor and Oscar Wilde Ballets and More Dance This Fall",
+    "author": "Margaret Fuhrer",
+    "link": "https://www.nytimes.com/2026/09/08/arts/dance/fall-dance-performances-festivals.html",
+    "content": "Kyle Abraham\u2019s \u201cMercurial Son\u201d for American Ballet Theater, with, from left, Joseph Markey, Sierra Armstrong and Carlos Gonzalez.",
+    "date": "2026-09-08T09:01:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/arts/music/fall-classical-performances-dudamel-macbeth.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dudamel in Command, a \u2018Macbeth\u2019 Opera and Steve Reich Coming This Fall",
+    "author": "David Allen",
+    "link": "https://www.nytimes.com/2026/09/08/arts/music/fall-classical-performances-dudamel-macbeth.html",
+    "content": "It\u2019s official: Gustavo Dudamel begins his tenure with the New York Philharmonic this fall.",
+    "date": "2026-09-08T09:00:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/books/review/new-nonfiction-books-this-fall.html",
+    "feed_name": "NYT (Arts)",
+    "title": "29 Nonfiction Books Coming This Fall",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/09/08/books/review/new-nonfiction-books-this-fall.html",
+    "content": "Memoirs, biographies, true crime, history and more.",
+    "date": "2026-09-08T09:00:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/08/books/review/new-novels-coming-this-fall.html",
+    "feed_name": "NYT (Arts)",
+    "title": "35 Novels Coming This Fall",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/09/08/books/review/new-novels-coming-this-fall.html",
+    "content": "New fiction from Marlon James, Barbara Kingsolver, John Green, John Grisham and much more.",
+    "date": "2026-09-08T09:00:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.propublica.org/article/georgia-lethal-injections-costs-secrecy",
+    "feed_name": "ProPublica",
+    "title": "This State Is Spending More on Lethal Injections. A Law Tries to Keep the Details Secret.",
+    "author": "Max Blau",
+    "link": "https://www.propublica.org/article/georgia-lethal-injections-costs-secrecy",
+    "content": "<figure><img alt=\"Green dollar symbols with the vertical line formed by a syringe with a red tip.\" src=\"https://www.propublica.org/wp-content/uploads/2026/09/20260901-Gordon-ga-lethal-injection-3x2_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=1149\" /><figcaption><small> Illustration by Shoshana Gordon/ProPublica</small></figcaption></figure>\n<p>Before I joined ProPublica in 2021, <a href=\"http://atlantamagazine.com/great-reads/for-sheriffs-healthcare-for-inmates-can-be-a-burden-for-one-doctor-it-has-been-the-opportunity-of-a-lifetime/\">I had spent a year writing about a Georgia prison physician named Carlo Musso</a>, one of the rare doctors who\u2019d openly talked about his role in lethal injections. After he stepped away from that work, I wanted to know who replaced him, so I filed open records requests for documents that would shed light on that.&nbsp;</p>\n\n\n\n<p>The role Musso held is so controversial that more than a dozen states have made it illegal to disclose the names of those involved with lethal injections. Georgia is among them. The state has gone to great lengths to hide the details around how it carries out lethal injections. &nbsp;</p>\n\n\n\n<p>Georgia wouldn\u2019t release records I had requested, claiming that its secrecy law is needed to prevent those helping with its executions from getting harassed by opponents of the death penalty.&nbsp;</p>\n\n\n\n<p>I ended up suing the state. A few years later, a panel of three judges <a href=\"https://law.justia.com/cases/georgia/court-of-appeals/2022/a22a0326.html\">sided with me</a>, and the state released some of the documents.</p>\n\n\n\n<p>What I received reveals new details \u2014 and revives old questions \u2014 about Georgia\u2019s lethal injection process. Among the discoveries: Georgia has made payments of more than $1.1 million since the COVID-19 pandemic for at least one contractor to work with the Corrections Department on its lethal injection process. During that period, the state carried out just a single execution.</p>\n\n\n\n<p>The records also show that Georgia is paying far more for lethal injection-related costs than it did in the past. The state\u2019s Corrections Department has spent an average of over $150,000 a year on those costs over the past decade. That\u2019s substantially more than what it agreed to pay in the years before 2017, the records show.</p>\n\n\n\n<p>Secrecy laws like Georgia\u2019s shield the public from awareness of the growing costs of pharmacists concocting drugs and the doctors administering the injections. Legal experts say those costs reflect the challenges that corrections officials face in finding help with carrying out lethal injections, which can subject prisoners to torturous levels of pain.</p>\n\n\n\n<p>\u201cYou wouldn\u2019t have to pay this much money if the lethal injection process was an acceptable one,\u201d said Deborah Denno, a Fordham University law professor who is an expert on the death penalty. \u201cThe process itself is so problematic that a lot of money has to be paid.\u201d</p>\n\n\n\n<figure class=\"wp-block-image size-full bb--size-medium p-bb--size-medium\"><img alt=\"A check from the Georgia Department of Corrections dated Aug. 19, 2026, for $170,000. The recipient, account number and signature are redacted with black boxes.\" class=\"wp-image-95755\" height=\"1000\" src=\"https://www.propublica.org/wp-content/uploads/2026/09/FY27_Medical_Contract_and_Payment_Redacted.jpg\" width=\"2689\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">Georgia has made payments of more than $1.1 million since the COVID-19 pandemic for at least one contractor to work with the Corrections Department on its lethal injection process. This handwritten, redacted check was part of my records request.</span> <span class=\"attribution__credit\">Obtained by ProPublica. Redacted by the Georgia Department of Corrections.</span></figcaption></figure>\n\n\n\n<p>Even after releasing the records, the Georgia Department of Corrections declined to answer my questions about the rising costs and the secrecy around lethal injections. The state attorney general\u2019s office, which has represented the department in the lawsuit I filed for the records, also declined to comment for this story. State officials previously said that the Lethal Injection Secrecy Act allows the Corrections Department to protect contractors who would otherwise \u201c<a href=\"https://www.ajc.com/news/state--regional-govt--politics/georgia-high-court-take-look-lethal-injection-secrecy-law/6yI1mdPh9s3uXQ9g99PzQJ/\">find themselves at the center of a firestorm of hate mail and midnight callers</a>.\u201d They have repeatedly argued that, without the secrecy law in place, Georgia wouldn\u2019t be able to carry out lethal injections.&nbsp;</p>\n\n\n\n<p>The secrets of Georgia\u2019s death penalty process could face scrutiny in the coming days. After a recent Georgia Supreme Court ruling, which removed a barrier that had paused executions, state officials <a href=\"https://www.ajc.com/news/2026/08/new-execution-date-scheduled-for-georgia-death-row-inmate/\">recently scheduled an execution for Sept. 16</a>, which would be its first in two years.&nbsp;</p>\n\n\n\n<p>For every new scheduled execution, a new set of questions about the people behind the injections is likely to emerge.</p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p>It wasn\u2019t long after Georgia traded the electric chair for lethal injections in the early 2000s that the state ratcheted up its secrecy.</p>\n\n\n\n<p>That\u2019s when opponents of the death penalty increased pressure on pharmaceutical companies to stop selling lethal injection drugs to states that could be used for executions.</p>\n\n\n\n<p>By the end of that decade, the advocates\u2019 campaign started to work. The last U.S. factory to make a key ingredient for lethal injections stopped doing so. States across the country scrambled to find new sources of the drugs.</p>\n\n\n\n<p>Georgia, for its part, purchased drugs from a wholesaler whose business <a href=\"https://www.bbc.com/news/uk-12263460\">operated out of the back room of a London driving school</a>.&nbsp;</p>\n\n\n\n<p>But that backfired. The Drug Enforcement Administration <a href=\"https://www.cbsnews.com/news/dea-seizes-gas-supply-of-critical-lethal-injection-drug-all-executions-called-off/\">seized the state\u2019s supply</a> of lethal injection drugs in 2011. Soon after, the European Union \u2014 made up of countries that oppose the death penalty \u2014 <a href=\"https://www.theguardian.com/world/2011/dec/20/death-penalty-drugs-european-commission\">effectively banned</a> companies from selling drugs to states if they were going to use them for executions.&nbsp;</p>\n\n\n\n<p>Faced with dire lethal injection drug shortages, states turned to a more secret and at times sketchier source of drugs.</p>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium bb--size-medium p-bb--size-medium\"><img alt=\"A gurney with black straps, a white cot and white pillow sits in an empty, yellow, dimly lit room.\" class=\"wp-image-95710\" height=\"424\" src=\"https://www.propublica.org/wp-content/uploads/2026/09/dpmain.0923BG1_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">The gurney used for lethal injections sits behind glass windows in a small cinderblock building at the Georgia Diagnostic and Classification Prison in Jackson, Georgia, pictured in 2007.</span> <span class=\"attribution__credit\">Ben Gray/Atlanta Journal-Constitution</span></figcaption></figure>\n\n\n\n<p>As Georgia\u2019s supply was set to expire in 2013, it became one of the first states to <a href=\"https://www.augustachronicle.com/story/news/2013/07/11/georgia-use-compounding-pharmacy-execution-drug/14448334007/\">place an order</a> with compounding pharmacists, who mix raw ingredients to make custom drugs for patients. Although compounding pharmacies have legitimate uses, they are minimally regulated and their costs can be exorbitant.</p>\n\n\n\n<p>That avenue was ideal for states that couldn\u2019t buy execution drugs from more scrutinized pharmaceutical companies. But medical experts say that scant oversight of the compounding pharmacies increased the odds of a drug not working as intended.&nbsp;</p>\n\n\n\n<p>In a 2013 affidavit filed on behalf of a Georgia prisoner, <a href=\"http://embed.documentcloud.org/documents/728945-2013-07-15-dr-larry-sasich-declaration-for-media/\">one pharmacy expert wrote</a> that \u201chighly unpredictable, rapidly evolving and potentially painful and agonizing, not to mention life-threatening, reactions may ensue\u201d as the result of a lethal injection drug made by a compounding pharmacist.</p>\n\n\n\n<p>Right around that time, Georgia lawmakers passed the Lethal Injection Secrecy Act. State prosecutors soon defended it in court. \u201cOnce that compounding pharmacy\u2019s identity is revealed, how will the Department of Corrections ever get another compounding pharmacy to sell to us?\u201d an assistant state attorney general <a href=\"https://www.npr.org/2013/07/30/207026540/where-do-drugs-for-lethal-injections-come-from-nobody-knows\">said in a 2013 court hearing</a>. \u201cHow will we get a doctor knowing that he is going to be, or she is going to be, dragged into court?\u201d</p>\n\n\n\n<p>At that time, I was <a href=\"https://creativeloafing.com/content-185682-cover-story-warren-hill-and-the-future-of-georgia-s-death\">reporting</a> on how Georgia\u2019s new secrecy law could affect Warren Lee Hill, who had been scheduled to be killed with drugs obtained from a compounding pharmacy. Hill\u2019s attorneys said that their inability to get information about the drugs could cause \u201c<a href=\"https://creativeloafing.com/content-185682-cover-story-warren-hill-and-the-future-of-georgia-s-death\">irreparable harm</a>\u201d to their client \u2014 and that argument won Hill a lengthy reprieve. He died by lethal injection in 2015.</p>\n\n\n\n<p>In recent years, <a href=\"https://www.nbcnews.com/news/us-news/texas-new-details-execution-drug-underscore-closely-guarded-secret-rcna236168\">Texas</a>, <a href=\"https://www.theindianalawyer.com/articles/new-records-show-additional-indiana-dollars-paid-for-last-round-of-execution-drugs#:~:text=New%20records%20from%20the%20Governor's%20Office%20show,state%20custody%20before%20being%20used%20or%20destroyed.\">Indiana</a>, and <a href=\"https://www.kawc.org/news/2021-04-13/1-5-million-spent-on-execution-drugs-this-past-fall-in-arizona\">Arizona</a> have all spent six-figure sums to renew their drug supplies from confidential sources. Defense attorneys have also tried to learn more information about those involved with the lethal injection process. They had hoped extra records might help them protect their clients\u2019 rights.&nbsp;</p>\n\n\n\n<p>But in Georgia, none have been successful.</p>\n\n\n\n<figure class=\"wp-block-image size-propublica-position-medium bb--size-medium p-bb--size-medium\"><img alt=\"A crowd of people stand in front of shadowy woods and a yellow street light, casting elongated shadows onto the lawn in front of them.\" class=\"wp-image-95709\" height=\"528\" src=\"https://www.propublica.org/wp-content/uploads/2026/09/093015-gissendaner-BG8_maxHeight_3000_maxWidth_3000.jpg?w=752\" width=\"752\" /><figcaption class=\"attribution\"><span class=\"attribution__caption\">Protesters sing outside of the Georgia Diagnostic and Classification Prison in 2015, before a scheduled execution using lethal injection. Two years earlier, Georgia lawmakers passed the Lethal Injection Secrecy Act.</span> <span class=\"attribution__credit\">Ben Gray/Atlanta Journal-Constitution</span></figcaption></figure>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity\" />\n\n\n\n<p>Other states likewise spend large amounts of taxpayer dollars on secret contractors involved in the lethal injection process. Oklahoma went from paying a doctor $300 per execution <a href=\"https://www.oklahoman.com/story/news/2022/01/12/oklahoma-death-row-execution-doctor-paid-15000-each-carried-out/9155903002/?gnt-cfr=1&amp;gca-cat=p&amp;gca-uir=false&amp;gca-epti=z1136xxe1136xxv000022&amp;gca-ft=147&amp;gca-ds=sophi\">to $15,000</a>. And the American Civil Liberties Union <a href=\"https://deathpenaltyinfo.org/records-disclose-taxpayers-picked-up-a-nearly-million-dollar-price-tag-for-each-federal-execution\">discovered</a> that the Federal Bureau of Prisons had spent millions on staffing needed to carry out executions.</p>\n\n\n\n<p>When I first requested records about Georgia\u2019s lethal injections, the Corrections Department withheld entire documents that had \u201cidentifying information\u201d about those involved with the process.&nbsp;</p>\n\n\n\n<p>I asked the department to comply with the Georgia Open Records Act by releasing the documents with redactions. It refused. With the help of an attorney, I sued the department.&nbsp;</p>\n\n\n\n<p>Georgia Attorney General Chris Carr, who defended the Corrections Department, wrote in a court filing that releasing the records \u201cwould not serve the interest of the public.\u201d&nbsp;</p>\n\n\n\n<p>The names of the people involved with the lethal injection process were redacted from the records that Georgia ultimately released to me. But the records show more than just the spending. They show the lengths the state took to protect its contractors.</p>\n\n\n\n<div class=\"wp-block-propublica-lead-in bb--size-small-right p-bb--size-small-right\">\n<h3 class=\"wp-block-heading\" id=\"h-read-more\">Read More</h3>\n\n\n\n<p></p>\n\n\n<div class=\"wp-block-propublica-story-promo\">\n\t<a class=\"story-promo\" href=\"https://www.propublica.org/article/louisiana-angola-death-row-wrongful-conviction-jimmie-duncan\">\n\t\t\t\t<div class=\"story-promo__art\">\n\t\t\t<img alt=\"\" class=\"attachment-propublica-story-promo size-propublica-story-promo wp-post-image\" height=\"306\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/HT7A6897_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=459&amp;h=306&amp;crop=1\" width=\"459\" />\t\t</div>\n\t\t\t\t<div class=\"story-promo__info\">\n\t\t\t<strong class=\"story-promo__hed\">He Spent 27 Years on Death Row as a Wrongfully Convicted Man. What Comes Next?</strong>\n\t\t</div>\n\t</a>\n</div>\n</div>\n\n\n\n<p>Georgia is on the hook for attorney\u2019s fees for its contractors should they face certain kinds of legal challenges, the records show. That means that taxpayers could shoulder the costs of legal representation in \u201cany non-judicial proceeding.\u201d One such example could be if a licensing board threatened to punish medical providers for participating in the lethal injection process \u2014&nbsp;<a href=\"https://www.nbcnews.com/id/wbna17244327\">a threat that\u2019s happened in North Carolina</a>.</p>\n\n\n\n<p>The records also show that Georgia officials may have disregarded their own financial policies. The Corrections Department requires detailed purchase orders to be kept and logged in the state\u2019s financial system. But all that the department\u2019s lawyers could provide me were handwritten checks, plus a series of one-page documents containing scant information about what the state was paying for \u2014 documents that hardly resembled the invoice of an official agency.</p>\n\n\n\n<p>I\u2019ve asked the department to provide purchasing records that had more details to comply with its policy.&nbsp;</p>\n\n\n\n<p>It couldn\u2019t.</p>\n\n\n\n<p>\u201cThere are no other records,\u201d wrote a lawyer for the Corrections Department.</p>\n<p>The post <a href=\"https://www.propublica.org/article/georgia-lethal-injections-costs-secrecy\">This State Is Spending More on Lethal Injections. A Law Tries to Keep the Details Secret.</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
+    "date": "2026-09-08T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/08/arts/renoir-museum-artworks-theft-france.html",
     "feed_name": "NYT (Arts)",
     "title": "Thieves Steal Three Artworks From Renoir Museum in France",
@@ -19897,106 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/19/theater/whoopi-goldberg-kerry-washington-whoopi-monologues.html",
     "content": "The director Whitney White and the actress Kerry Washington collaborated on \u201cThe Whoopi Monologues,\u201d at Lincoln Center Theater.",
     "date": "2026-07-19T09:00:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/21072-austin-chamber-music-center-invoke-quartet",
-    "feed_name": "KMFA",
-    "title": "Austin Chamber Music Center: Invoke Quartet",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/21072-austin-chamber-music-center-invoke-quartet",
-    "content": "AUSTIN CHAMBER MUSIC CENTER PRESENTS:\n\nINVOKE QUARTET\n\nJuly 18 | 7:30 PM | Bates Recital Hall\n\n\n\nHold on to your seats for \u201cAmerican Voices,\u201d a musical road trip with the genre-bending Invoke Quartet. This trailblazing ensemble smashes boundaries between classical, bluegrass, and folk traditions. Their performance is a vibrant tapestry of American sounds, journeying from the concert hall to the Appalachian trail, from swinging jazz clubs to cinematic vistas, all connected by the quartet\u2019s infectious energy and original compositions.\n\nBUY TICKETS\n\nEvent Details\nDate: Saturday, July 18 \nTime: 7:30 PM\nVenue: Bates Recital Hall\n\nTicket Information\nCost: $12 - $80\nPhone: \n\nPresenter Details: The Austin Chamber Music Center creates chamber music experiences that connect, educate, and inspire our community.",
-    "date": "2026-07-18T19:30:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/18/arts/music/joe-melson-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Joe Melson, 91, Dies; Wrote \u2018Only the Lonely\u2019 and Other Hits With Roy Orbison",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/07/18/arts/music/joe-melson-dead.html",
-    "content": "Working together closely, the pair turned out more than 200 songs, including \u201cCrying,\u201d \u201cRunning Scared\u201d and \u201cBlue Bayou.\u201d",
-    "date": "2026-07-18T19:18:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/18/dining/garlic-bread-grilled-cheese-of-course.html",
-    "feed_name": "NYT (Food)",
-    "title": "Garlic Bread Grilled Cheese, of Course",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/18/dining/garlic-bread-grilled-cheese-of-course.html",
-    "content": "Kayla Hoang\u2019s garlic bread grilled cheese.",
-    "date": "2026-07-18T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/18/dining/peak-mango-season-is-upon-us-thank-goodness.html",
-    "feed_name": "NYT (Food)",
-    "title": "Peak Mango Season Is Upon Us, Thank Goodness",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/07/18/dining/peak-mango-season-is-upon-us-thank-goodness.html",
-    "content": "Jocelyn Delk Adams\u2019s mango lime loaf cake.",
-    "date": "2026-07-18T14:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "fe0e9cb89eef5a06785d1988a857636f",
-    "feed_name": "The Atlantic",
-    "title": "The U.S. is Blowing Billions on the Wrong Weapons",
-    "author": "Phillips Payson O\u2019Brien",
-    "link": "https://www.theatlantic.com/ideas/2026/07/us-military-tech-drones/687945/",
-    "content": "The future of warfare is drones, clearly.",
-    "date": "2026-07-18T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-    "feed_name": "Douthat",
-    "title": "China\u2019s A.I. Play Is Different From America\u2019s",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-    "content": "When great powers disagree about the nature of A.I.",
-    "date": "2026-07-18T11:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "6a5a831fdc8c76f664e1e52d",
-    "feed_name": "Wired (Science)",
-    "title": "FIFA Doesn\u2019t Have a Plan to Deal With Climate Change",
-    "author": "Tik Root",
-    "link": "https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/",
-    "content": "This year\u2019s World Cup has faced sweltering heat and humidity. Now it may need to deal with wildfire smoke.",
-    "date": "2026-07-18T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/18/arts/hottest-summer-blockbuster-movies-sketch.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Blockbuster Summer Movies for the Hottest Summer Ever",
-    "author": "Michael Lukk Litwak",
-    "link": "https://www.nytimes.com/2026/07/18/arts/hottest-summer-blockbuster-movies-sketch.html",
-    "content": "\u201cIron Man 4: Age of Air Con\u201d coming to theaters? With record-setting heat projected for 2026, our cartoonist imagines a cool slate of films.",
-    "date": "2026-07-18T09:01:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/18/arts/music/world-cup-halftime-show.html",
-    "feed_name": "NYT (Arts)",
-    "title": "It\u2019s a Crowded and Contested World Cup Halftime Show",
-    "author": "Emmanuel Morgan",
-    "link": "https://www.nytimes.com/2026/07/18/arts/music/world-cup-halftime-show.html",
-    "content": "The inaugural World Cup halftime show will include, clockwise from top left, Madonna, Burna Boy, Shakira and Justin Bieber.",
-    "date": "2026-07-18T09:01:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
-    "feed_name": "NYT (Arts)",
-    "title": "What to Know Before Seeing \u2018The Odyssey\u2019: Plot, Characters and More",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
-    "content": "Matt Damon as Odysseus in the new movie.",
-    "date": "2026-07-18T09:00:45",
     "category": "NYT"
   }
 ]
