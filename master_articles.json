@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "a67b65cfb1965e93cd17ad57d40e7fc1",
+    "feed_name": "Compact",
+    "title": "On AI, Bernie Is the Last Conservative",
+    "author": "",
+    "link": "https://www.compactmag.com/article/on-ai-bernie-is-the-last-conservative/",
+    "content": "",
+    "date": "2026-09-08T14:57:37",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/08/dining/drinks/cabernet-sauvignon-red-wine.html",
     "feed_name": "NYT (Food)",
     "title": "Standing Up for Cabernet Sauvignon",
@@ -220,6 +230,16 @@
     "category": "NYT"
   },
   {
+    "id": "50aacb3e57ee4d5e93c7c0f9563f7d94",
+    "feed_name": "The Atlantic",
+    "title": "The Myth of Perfect Knowledge",
+    "author": "Carlo Rovelli",
+    "link": "https://www.theatlantic.com/ideas/2026/09/science-objectivity-myth-physics/688532/",
+    "content": "Science will never be able to give a completely objective description of the world. That should make us humbler\u2014and wiser.",
+    "date": "2026-09-08T12:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/08/arts/dance/sinead-oconnor-sonya-tayeh-the-surge-joyce-theater.html",
     "feed_name": "NYT (Arts)",
     "title": "Nothing Compares to Her: A Dance Love Letter to Sinead O\u2019Connor",
@@ -230,12 +250,42 @@
     "category": "NYT"
   },
   {
+    "id": "49a7b0aaa37703adb40e5305cf6c7da6",
+    "feed_name": "The Atlantic",
+    "title": "Voters Have a Message for Democrats",
+    "author": "Sarah Longwell",
+    "link": "https://www.theatlantic.com/ideas/2026/09/democrats-voters-focus-groups/688519/",
+    "content": "",
+    "date": "2026-09-08T11:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6a74b1d7a5647b487fd9294a",
     "feed_name": "Wired",
     "title": "How NASA Testing Changed US Food Inspection Forever",
     "author": "Alex Davies",
     "link": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
     "content": "In the early 20th century, public outcry following Upton Sinclair\u2019s The Jungle led to stricter food safety protocols. NASA took them a step further.",
+    "date": "2026-09-08T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "39e7befb13447501f18fa0c9534f8974",
+    "feed_name": "The Atlantic",
+    "title": "The Prodigy Problem",
+    "author": "Theo Baker",
+    "link": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/",
+    "content": "Leopold Aschenbrenner claimed to know the future of AI. His investors lost billions.",
+    "date": "2026-09-08T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "f78d54081778ad11a3fc5d0dbbf9ea26",
+    "feed_name": "The Atlantic",
+    "title": "Will Taiwan Just Give Up?",
+    "author": "Simon Shuster",
+    "link": "https://www.theatlantic.com/magazine/2026/10/trump-taiwan-sovereignty-china/688356/",
+    "content": "The Taiwanese don\u2019t trust Trump, and they don\u2019t believe America will come to their defense. A deal with China is starting to look inevitable.",
     "date": "2026-09-08T11:00:00",
     "category": "Magazines"
   },
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html",
     "content": "The first World Cup halftime show had a simple message of love and unity.",
     "date": "2026-07-19T21:56:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/burna-boy-is-one-of-the-biggest-stars-to-emerge-from-africa",
-    "feed_name": "NYT (Arts)",
-    "title": "Burna Boy is one of the biggest stars to emerge from Africa.",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/burna-boy-is-one-of-the-biggest-stars-to-emerge-from-africa",
-    "content": "Burna Boy performing with Shakira at the World Cup opening ceremony in June.",
-    "date": "2026-07-19T19:45:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/gustavo-dudamel-will-lead-a-tribute-to-victims-in-venezuela",
-    "feed_name": "NYT (Arts)",
-    "title": "Gustavo Dudamel will lead a tribute to victims in Venezuela.",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/gustavo-dudamel-will-lead-a-tribute-to-victims-in-venezuela",
-    "content": "Gustavo Dudamel will unite the New York Philharmonic and the Sim\u00f3n Bol\u00edvar Symphony Orchestra of Venezuela during his performance.",
-    "date": "2026-07-19T19:40:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/heres-the-latest",
-    "feed_name": "NYT (Arts)",
-    "title": "Here\u2019s the latest.",
-    "author": "Emmanuel Morgan",
-    "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/heres-the-latest",
-    "content": "",
-    "date": "2026-07-19T19:37:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-    "feed_name": "Douthat",
-    "title": "China\u2019s A.I. Play Is Different From America\u2019s",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html",
-    "content": "When great powers disagree about the nature of A.I.",
-    "date": "2026-07-19T19:35:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/justin-biebers-year-has-been-filled-with-high-profile-performances",
-    "feed_name": "NYT (Arts)",
-    "title": "Justin Bieber\u2019s year has been filled with high-profile performances.",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/justin-biebers-year-has-been-filled-with-high-profile-performances",
-    "content": "Justin Bieber at the Grammys in February.",
-    "date": "2026-07-19T19:35:04",
     "category": "NYT"
   }
 ]
