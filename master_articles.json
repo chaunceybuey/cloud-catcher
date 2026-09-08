@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/08/dining/restaurant-review-lonnies-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Lonnies in NYC",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/2026/09/08/dining/restaurant-review-lonnies-nyc.html",
+    "content": "A neighborhood restaurant needs an outstanding burger and a adept martini. Lonnies delivers on both.",
+    "date": "2026-09-08T20:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/09/24/looking-class-the-connoisseur-the-goldsmiths-debt/",
     "feed_name": "NYRB",
     "title": "Looking Class",
@@ -408,6 +418,16 @@
     "content": "Science will never be able to give a completely objective description of the world. That should make us humbler\u2014and wiser.",
     "date": "2026-09-08T12:30:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/how-to-adapt-plum-torte-recipe",
+    "feed_name": "NYT (Food)",
+    "title": "The Famous 1983 Plum Torte Gets a Remix",
+    "author": "Margaux Laskey",
+    "link": "https://cooking.nytimes.com/article/how-to-adapt-plum-torte-recipe",
+    "content": "Fold in  raspberries instead of plums, sprinkle in a little cardamom or try a different pan shape. It\u2019s almost impossible to mess up Marian Burros\u2019s beloved cake.",
+    "date": "2026-09-08T11:55:28",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/09/08/arts/dance/sinead-oconnor-sonya-tayeh-the-surge-joyce-theater.html",
@@ -19978,25 +19998,5 @@
     "content": "A moderately challenging puzzle.",
     "date": "2026-07-20T13:07:57",
     "category": "Magazines"
-  },
-  {
-    "id": "6a79f81eeb1cea1d933b4b894f7eb363",
-    "feed_name": "Compact",
-    "title": "The End of the Non-Proliferation Paradigm",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-end-of-the-non-proliferation-paradigm/",
-    "content": "",
-    "date": "2026-07-20T13:07:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/movies/the-odyssey-movie-greece.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Here\u2019s What Greeks Think of Nolan\u2019s \u2018The Odyssey.\u2019 (It\u2019s Their Story, After All.)",
-    "author": "Niki Kitsantonis",
-    "link": "https://www.nytimes.com/2026/07/20/movies/the-odyssey-movie-greece.html",
-    "content": "Before its release, some in the country were highly skeptical about the new depiction of a beloved tale. But many who saw it over opening weekend came back with positive reviews.",
-    "date": "2026-07-20T12:51:37",
-    "category": "NYT"
   }
 ]
