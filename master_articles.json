@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/09/dining/quick-fresh-tomato-sauce.html",
+    "feed_name": "NYT (Food)",
+    "title": "Quick! Fresh Tomato Sauce!",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/09/dining/quick-fresh-tomato-sauce.html",
+    "content": "David Tanis\u2019s quick fresh tomato sauce.",
+    "date": "2026-09-09T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "06bdb77ee8a4cce3310c027fdb6ca80c",
     "feed_name": "Compact",
     "title": "Why Fusionism Failed",
@@ -19988,15 +19998,5 @@
     "content": "Tesla\u2019s lithium refining plant, located between Robstown and Driscoll in Nueces County, on April 21, 2026.",
     "date": "2026-07-20T19:05:58",
     "category": "Texas"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/how-to-cook-tomatoes",
-    "feed_name": "NYT (Food)",
-    "title": "7 Ways to Cook Better With Tomatoes",
-    "author": "Ali Slagle",
-    "link": "https://cooking.nytimes.com/article/how-to-cook-tomatoes",
-    "content": "Ali Slagle\u2019s tomato salad.",
-    "date": "2026-07-20T15:59:38",
-    "category": "NYT"
   }
 ]
