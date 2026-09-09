@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/09/arts/television/jimmy-kimmel-trump-new-hair.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Weighs in on Trump\u2019s New Look",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/09/arts/television/jimmy-kimmel-trump-new-hair.html",
+    "content": "Back from his summer vacation, the late night host wondered, \u201cIs it possible to have a midlife crisis at 80 years old?\u201d",
+    "date": "2026-09-09T05:56:37",
+    "category": "NYT"
+  },
+  {
     "id": "471f8397887e0a1efdceb1eb6da02da0",
     "feed_name": "LRB",
     "title": "Dying, or Doing Something Else: Lydia Davis on Marcus Aurelius and Other Stoics",
@@ -19986,16 +19996,6 @@
     "author": "ByHilton Als",
     "link": "https://www.newyorker.com/magazine/2026/07/27/peter-hujars-search-for-secrets",
     "content": "The photographer\u2019s portraits bring certain truths to the surface.",
-    "date": "2026-07-20T13:07:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "bd849d060f29aca156a25e34b921f3de",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/07/27/talking-classics-the-cruelty-of-nice-folks-glyph-a-real-animal",
-    "content": "\u201cTalking Classics,\u201d \u201cThe Cruelty of Nice Folks,\u201d \u201cGlyph,\u201d and \u201cA Real Animal.\u201d",
     "date": "2026-07-20T13:07:57",
     "category": "Magazines"
   }
