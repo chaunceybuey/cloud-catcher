@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "06bdb77ee8a4cce3310c027fdb6ca80c",
+    "feed_name": "Compact",
+    "title": "Why Fusionism Failed",
+    "author": "",
+    "link": "https://www.compactmag.com/article/why-fusionism-failed/",
+    "content": "",
+    "date": "2026-09-09T13:31:31",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242235",
     "feed_name": "Texas Tribune",
     "title": "John Fetterman, Marjorie Taylor Greene to close and open TribFest",
@@ -208,6 +218,26 @@
     "content": "Two of American politics\u2019 most unique and least predictable voices bookend our three days of live journalism.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17443427.gif\" width=\"1\" />",
     "date": "2026-09-09T11:30:00",
     "category": "Texas"
+  },
+  {
+    "id": "e2fd0655fac572974a49c313bef732d3",
+    "feed_name": "The Atlantic",
+    "title": "What September 11 Took From Me",
+    "author": "Ellen S. Bakalian",
+    "link": "https://www.theatlantic.com/ideas/2026/09/september-11-widow-museum/688502/",
+    "content": "There are some things time doesn\u2019t heal.",
+    "date": "2026-09-09T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "feeb040aa7fba4e5cd21e70c964e7e7d",
+    "feed_name": "The Atlantic",
+    "title": "Mothers for Sale",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/magazine/2026/10/usa-commercial-surrogacy-industry/688357/",
+    "content": "Most of Europe bans commercial surrogacy. The United Nations likens it to slavery. But in the United States, business is booming.",
+    "date": "2026-09-09T11:00:00",
+    "category": "Magazines"
   },
   {
     "id": "6aa031b215609fd4043e4734",
@@ -19967,36 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/how-to-cook-tomatoes",
     "content": "Ali Slagle\u2019s tomato salad.",
     "date": "2026-07-20T15:59:38",
-    "category": "NYT"
-  },
-  {
-    "id": "d7885dfe9b7ac0ba556b716008a1f5bb",
-    "feed_name": "LRB",
-    "title": "On Susan Stewart",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n13/ange-mlinko/on-susan-stewart",
-    "content": "In her Clarendon Lectures\u200b, given at Oxford in 2023 and recently published asPoetry\u2019s Nature(Oxford, \u00a325.99),Susan Stewart recapitulates themes that have preoccupied her for half a century. \u2018The Bird in Glee: On the Non-semantic\u2019 returns to ideas she explored in her first study on poetics,Nonsense(1979). \u2018The Seasons: Paradigm of Lyric Time\u2019...",
-    "date": "2026-07-20T15:51:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "e017e287df5a89aa0c23535247fccac7",
-    "feed_name": "LRB",
-    "title": "Take the ball",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/july/take-the-ball",
-    "content": "Before the final yesterday I was puzzled as to why Jennifer Hudson was singing the US national anthem: did they think we might have forgotten.\u00a0.\u00a0.",
-    "date": "2026-07-20T15:51:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/dining/good-grain-bowl.html",
-    "feed_name": "NYT (Food)",
-    "title": "Good Grain Bowl",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/07/20/dining/good-grain-bowl.html",
-    "content": "Ali Slagle\u2019s roasted mushroom and halloumi grain bowl.",
-    "date": "2026-07-20T15:00:06",
     "category": "NYT"
   }
 ]
