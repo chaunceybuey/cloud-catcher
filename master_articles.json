@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aa031b215609fd4043e4734",
+    "feed_name": "Wired",
+    "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
+    "content": "The cable news network\u2019s president, Rebecca Kutler, wants to leverage its massive online and TV audience to create a fan community. First up: letting you chat with Rachel Maddow.",
+    "date": "2026-09-09T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/ectopic-pregnancy-deaths-doubled-analysis",
     "feed_name": "ProPublica",
     "title": "Ectopic Pregnancy Deaths Have Nearly Doubled. It\u2019s Worse in States With Abortion Bans.",
@@ -228,6 +238,26 @@
     "content": "<p>OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.</p>",
     "date": "2026-09-09T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242222",
+    "feed_name": "Texas Tribune",
+    "title": "Texas prisons seek $298 million for air conditioning. That\u2019s a fraction of what\u2019s needed.",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17443350/texas-prison-air-conditioning-lawsuit-legislature-budget",
+    "content": "Prison staff and inmates move through the Darrington Unit&#039;s main hallway on July 12, 2017.",
+    "date": "2026-09-09T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242242",
+    "feed_name": "Texas Tribune",
+    "title": "Cuellar and Tijerina spar over who delivers for a South Texas district redrawn to favor the GOP",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17443351/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo",
+    "content": "Webb County Judge Tano Tijerina, a Republican who is challenging Rep. Henry Cuellar in Texas&#039; 28th Congressional District, speaks during a Ken Paxton rally in McAllen on July 14, 2026.",
+    "date": "2026-09-09T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/09/09/arts/television/ted-lasso-season-4-episode-6-recap.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/20/arts/design/dave-dawson-dead.html",
     "content": "He and his wife knew nothing about the business when they decided to produce lighting in Charleston, S.C. Their company became a beacon of American manufacturing.",
     "date": "2026-07-20T14:58:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/theater/france-theater-cuts-politics-avignon-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "As Budget Cuts Loom, French Theater Turns Up the Political Heat",
-    "author": "Laura Cappelle",
-    "link": "https://www.nytimes.com/2026/07/20/theater/france-theater-cuts-politics-avignon-festival.html",
-    "content": "Julia Bernat, Danilo Grangheia and Wagner Moura in \u201cA Trial \u2014 after An Enemy of the People\u201d at the Avignon Festival.",
-    "date": "2026-07-20T14:57:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/arts/greece-andy-burnham-parthenon-sculptures.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Greece Hopes Andy Burnham Will Return the Parthenon Sculptures",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/07/20/arts/greece-andy-burnham-parthenon-sculptures.html",
-    "content": "The Parthenon Sculptures on display at the British Museum in London, Britain, in 2023.",
-    "date": "2026-07-20T13:41:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/style/world-cup-halftime-show-fashion.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The World Cup Halftime Show Had Star Power. But the Style Missed the Point.",
-    "author": "Vanessa Friedman",
-    "link": "https://www.nytimes.com/2026/07/20/style/world-cup-halftime-show-fashion.html",
-    "content": "Madonna, in her Saint Laurent warm-up look, performing with the Brazilian soccer player Ronaldinho, left, and the Brazilian former soccer player Ronaldo during the halftime show on Sunday.",
-    "date": "2026-07-20T13:15:51",
     "category": "NYT"
   }
 ]
