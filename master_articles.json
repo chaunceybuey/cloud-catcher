@@ -220,6 +220,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/09/briefing/09-the-good-list-perfect-september.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Bring Joy to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/09/09/briefing/09-the-good-list-perfect-september.html",
+    "content": "Astronomical dawn, dahlia season and cute names for serious things.",
+    "date": "2026-09-09T20:00:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242292",
+    "feed_name": "Texas Tribune",
+    "title": "Austin mayor releases plan to prevent Texas from taking over the school district",
+    "author": "By Acacia Coronado,\u00a0Austin Current",
+    "link": "https://feeds.texastribune.org/link/16799/17443724/austin-isd-school-takeover-texas-education-agency",
+    "content": "Webb Middle School in Austin on Jan. 5, 2026.",
+    "date": "2026-09-09T18:57:59",
+    "category": "Texas"
+  },
+  {
     "id": "6f809618405e7f41d01f70d3088e6640",
     "feed_name": "Outside",
     "title": "At a Doomed Self-Help Retreat, a Sweat Lodge Ritual Turned Deadly",
@@ -19978,25 +19998,5 @@
     "content": "The late-night host joked that the president\u2019s sports curse had struck again after he backed Lionel Messi of Argentina, which then lost the World Cup final to Spain.",
     "date": "2026-07-21T07:44:58",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237183",
-    "feed_name": "Texas Tribune",
-    "title": "Texas flood destroyed or heavily damaged 135 Kerr County homes, Abbott said",
-    "author": "Katlyn Ma",
-    "link": "https://feeds.texastribune.org/link/16799/17383637/texas-flood-kerr-county-homes-destroyed-greg-abbott",
-    "content": "Damaged cars that washed away during the flooding in Kerrville, on July 16, 2026.",
-    "date": "2026-07-20T21:00:18",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=236623",
-    "feed_name": "Texas Tribune",
-    "title": "Tracking the money raised and spent in the U.S. Senate race between James Talarico and Ken Paxton",
-    "author": "Hien An Ngo",
-    "link": "https://feeds.texastribune.org/link/16799/17383612/texas-senate-talarico-paxton-fundraising-spending-money-donors",
-    "content": "See the latest fundraising totals, where the money is coming from and how super PACs are spending in what\u2019s poised to be Texas\u2019 most expensive Senate race.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17383612.gif\" width=\"1\" />",
-    "date": "2026-07-20T20:00:00",
-    "category": "Texas"
   }
 ]
