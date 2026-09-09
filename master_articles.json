@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=242235",
+    "feed_name": "Texas Tribune",
+    "title": "John Fetterman, Marjorie Taylor Greene to close and open TribFest",
+    "author": "Matt Ewalt",
+    "link": "https://feeds.texastribune.org/link/16799/17443427/tribfest-fetterman-greene-keynotes",
+    "content": "Two of American politics\u2019 most unique and least predictable voices bookend our three days of live journalism.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17443427.gif\" width=\"1\" />",
+    "date": "2026-09-09T11:30:00",
+    "category": "Texas"
+  },
+  {
     "id": "6aa031b215609fd4043e4734",
     "feed_name": "Wired",
     "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/20/dining/good-grain-bowl.html",
     "content": "Ali Slagle\u2019s roasted mushroom and halloumi grain bowl.",
     "date": "2026-07-20T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/20/arts/design/dave-dawson-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Dave Dawson, Co-founder of Bespoke Lighting Company Urban Electric, Dies at 53",
-    "author": "Penelope Green",
-    "link": "https://www.nytimes.com/2026/07/20/arts/design/dave-dawson-dead.html",
-    "content": "He and his wife knew nothing about the business when they decided to produce lighting in Charleston, S.C. Their company became a beacon of American manufacturing.",
-    "date": "2026-07-20T14:58:41",
     "category": "NYT"
   }
 ]
