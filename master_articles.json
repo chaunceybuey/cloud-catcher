@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-british-museum-opening.html",
+    "feed_name": "NYT (Arts)",
+    "title": "British Museum Opens Bayeux Tapestry Exhibition",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-british-museum-opening.html",
+    "content": "The Bayeux Tapestry during a press preview at the British Museum in London on Monday.",
+    "date": "2026-09-10T06:00:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242399",
     "feed_name": "Texas Tribune",
     "title": "At midterm convention, Trump vows to campaign hard for Paxton after mocking his speech and looks",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/21/arts/music/bayreuth-wagner-150.html",
     "content": "The Bayreuth Festival, where Wagner\u2019s operas have been performed for 150 years, is inconvenient and unpleasant. Why does it have such a hold on fans?",
     "date": "2026-07-21T09:01:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/21/movies/the-odyssey-movie-adaptations.html",
-    "feed_name": "NYT (Arts)",
-    "title": "7 Other \u2018Odyssey\u2019 Movie Adaptations to Stream Now",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/07/21/movies/the-odyssey-movie-adaptations.html",
-    "content": "For decades, filmmakers have been borrowing plot lines and metaphors from Homer\u2019s epic for adventures set in different eras and realities.",
-    "date": "2026-07-21T09:01:36",
     "category": "NYT"
   }
 ]
