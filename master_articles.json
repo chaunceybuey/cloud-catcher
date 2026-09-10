@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/easy-sauce-for-fish",
+    "feed_name": "NYT (Food)",
+    "title": "The Quick Sauce That Changed How I Cook Fish",
+    "author": "Genevieve Ko",
+    "link": "https://cooking.nytimes.com/article/easy-sauce-for-fish",
+    "content": "This home-style Vietnamese classic can be used on fish, chicken, pork and all kinds of seafood, Genevieve Ko writes.",
+    "date": "2026-09-10T19:19:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242436",
     "feed_name": "Texas Tribune",
     "title": "Jimmy Kimmel won\u2019t air interview with James Talarico after threat from FCC",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/07/senate-representation-undemocratic-imbalance/688012/",
     "content": "",
     "date": "2026-07-22T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "99d2a2b48589bb30dd27fc06bd3f6d88",
-    "feed_name": "LRB",
-    "title": "Palantir and the NHS",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/palantir-and-the-nhs",
-    "content": "The US tech giant Palantir \u2018holds public contracts worth hundreds of millions of pounds in everything from financial regulation to local government\u2019, Peter Geoghegan and Lucas Amin wrote recently in theLRB. The newsletter where they work, Democracy for Sale, \u2018has been looking into Palantir\u2019s business in the UK, and particularly its contracts with the NHS\u2019. On...",
-    "date": "2026-07-22T10:26:30",
     "category": "Magazines"
   }
 ]
