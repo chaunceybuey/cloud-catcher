@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/10/dining/delicious-but-do-not-put-these-in-your-jacket-pocket.html",
+    "feed_name": "NYT (Food)",
+    "title": "\u201cDelicious, but Do Not Put These in Your Jacket Pocket\u201d",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/09/10/dining/delicious-but-do-not-put-these-in-your-jacket-pocket.html",
+    "content": "Ali Slagle\u2019s corn and jalape\u00f1o egg bites.",
+    "date": "2026-09-10T17:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/10/theater/garry-starr-classic-penguins-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Garry Starr\u2019 Review: Half-Man, Half-Penguin, Full-Frontal",
@@ -19988,15 +19998,5 @@
     "content": "<p>OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.</p>",
     "date": "2026-07-22T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237318",
-    "feed_name": "Texas Tribune",
-    "title": "Last year\u2019s Hill Country floods traumatized Texas first responders. Then the skies opened again.",
-    "author": "Ellie Ashby",
-    "link": "https://feeds.texastribune.org/link/16799/17384720/texas-july-floods-trauma-first-responders-center-point",
-    "content": "Razor Dobbs, a Center Point Volunteer Fire Department volunteer and public information officer, poses for a portrait inside the damaged fire station in Center Point on Friday, July 17, 2026, as cleanup operations continue. Floodwaters from the Guadalupe River inundated the station the previous Thursday.",
-    "date": "2026-07-22T10:00:00",
-    "category": "Texas"
   }
 ]
