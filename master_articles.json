@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/10/arts/music/d4vd-lawsuit-celeste-rivas-hernandez-murder.html",
+    "feed_name": "NYT (Arts)",
+    "title": "D4vd Is Sued by Teenage Victim\u2019s Family After Murder Charge",
+    "author": "Emmanuel Morgan and Matt Stevens",
+    "link": "https://www.nytimes.com/2026/09/10/arts/music/d4vd-lawsuit-celeste-rivas-hernandez-murder.html",
+    "content": "Celeste Rivas Hernandez\u2019s parents are seeking unspecified damages for offenses including emotional distress, false imprisonment and childhood sexual assault.",
+    "date": "2026-09-10T23:08:03",
+    "category": "NYT"
+  },
+  {
+    "id": "b94fd1477ea8b3ea49169d876b097ee3",
+    "feed_name": "The Atlantic",
+    "title": "What Bush Understood That Trump Doesn\u2019t",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/09/bush-trump-mamdani-giuliani-islam/688582/",
+    "content": "The leaders of the American right have embraced the false idea that the United States is at war with Islam.",
+    "date": "2026-09-10T20:48:08",
+    "category": "Magazines"
+  },
+  {
     "id": "eb592f5de25f997d50e2d36dcc8ccf57",
     "feed_name": "LRB",
     "title": "Why is Trump bombing Somalia?",
@@ -19978,25 +19998,5 @@
     "content": "Hetty Lui McKinnon\u2019s stir-fried lettuce with crispy garlic and fried eggs.",
     "date": "2026-07-22T15:00:16",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/22/theater/oskar-eustis-public-theater.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Oskar Eustis Is Stepping Down From the Public Theater",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/07/22/theater/oskar-eustis-public-theater.html",
-    "content": "\u201cI did not think remaking the business model in the midst of the greatest crisis in the history of the American theater was going to be my lot,\u201d Oskar Eustis said.",
-    "date": "2026-07-22T15:00:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237448",
-    "feed_name": "Texas Tribune",
-    "title": "Community colleges beat student outcome predictions. Now Texas can\u2019t afford related incentives.",
-    "author": "Sneha Dey",
-    "link": "https://feeds.texastribune.org/link/16799/17384780/texas-community-colleges-student-outcome-funding",
-    "content": "Vernon College, a two-year community college in Vernon, on Dec. 3, 2023. Vernon is about 50 miles northwest of Wichita Falls.",
-    "date": "2026-07-22T13:03:00",
-    "category": "Texas"
   }
 ]
