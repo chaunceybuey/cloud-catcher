@@ -510,6 +510,16 @@
     "category": "Texas"
   },
   {
+    "id": "d170d8411ea76996ac66741a9b118898",
+    "feed_name": "LRB",
+    "title": "On Politics: The US at 250",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-us-at-250",
+    "content": "Would the Founding Fathers recognise the modern United States as the republic they declared in 1776? The nation formed from Britain\u2019s North American colonies has become the most powerful and prosperous in the world, but the muted celebrations on 4 July reflected a divided country in which, for many of its citizens, the principles of the Declaration of Independence are hard to square with...",
+    "date": "2026-09-10T03:38:07",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/postal-service-audit-primary-election-ballots",
     "feed_name": "ProPublica",
     "title": "U.S. Postal Service Failed to Properly Handle Some Ballots During This Year\u2019s Primary Elections, Audit Finds",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
     "content": "A new critique of Trumpism is too easy on elites.",
     "date": "2026-07-21T21:16:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/21/dining/restaurant-review-stars-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Stars in New York",
-    "author": "Ryan Sutton",
-    "link": "https://www.nytimes.com/2026/07/21/dining/restaurant-review-stars-nyc.html",
-    "content": "The wine bar Stars, from the Claud and Penny team, nods to breezy Parisian after-work spots with its zinc counter, quirky snacks and thoughtful glasses.",
-    "date": "2026-07-21T20:00:06",
     "category": "NYT"
   }
 ]
