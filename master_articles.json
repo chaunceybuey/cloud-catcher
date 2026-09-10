@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/10/theater/garry-starr-classic-penguins-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Garry Starr\u2019 Review: Half-Man, Half-Penguin, Full-Frontal",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/09/10/theater/garry-starr-classic-penguins-review.html",
+    "content": "Damien Warren-Smith takes (nearly) everything off to play a flightless bird whose natural habitat might be in your very own lap.",
+    "date": "2026-09-10T16:02:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/10/movies/the-fix-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Fix\u2019 Review: A Head-Spinning Mission to Iran",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/09/10/movies/the-fix-review.html",
+    "content": "In an action film that won\u2019t win any plaudits for sensitivity, Zachary Levi plays the leader of a Special Operations group that tries to recover hidden cash in Tehran.",
+    "date": "2026-09-10T16:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/10/arts/music/gustavo-dudamel-starts-job-at-new-york-philharmonic.html",
     "feed_name": "NYT (Arts)",
     "title": "Dudamel Lands in New York, With Big Ambitions and a Packed Schedule",
@@ -19976,26 +19996,6 @@
     "author": "Ellie Ashby",
     "link": "https://feeds.texastribune.org/link/16799/17384720/texas-july-floods-trauma-first-responders-center-point",
     "content": "Razor Dobbs, a Center Point Volunteer Fire Department volunteer and public information officer, poses for a portrait inside the damaged fire station in Center Point on Friday, July 17, 2026, as cleanup operations continue. Floodwaters from the Guadalupe River inundated the station the previous Thursday.",
-    "date": "2026-07-22T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237336",
-    "feed_name": "Texas Tribune",
-    "title": "Texas invested billions to fight cancer. Abbott\u2019s H-1B visas restrictions may stall research, some warn",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17384721/texas-cancer-research-greg-abbott-h1b-visas-md-anderson",
-    "content": "A MD Anderson Cancer Center building in the Texas Medical Center in Houston on June 26, 2020.",
-    "date": "2026-07-22T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237163",
-    "feed_name": "Texas Tribune",
-    "title": "Federal cuts threaten a Houston soccer club for at-risk youth. One state leader hopes to save it.",
-    "author": "Stephen Simpson and Antranik Tavitian",
-    "link": "https://feeds.texastribune.org/link/16799/17384722/texas-soccer-world-cup-youth",
-    "content": "Moises Badera, right, shows his mother Agathe Tetabwage the soccer gear he received after his participation as a World Cup flag bearer during the Portugal vs. Uzbekistan match, on June 23, 2026, in Houston.",
     "date": "2026-07-22T10:00:00",
     "category": "Texas"
   }
