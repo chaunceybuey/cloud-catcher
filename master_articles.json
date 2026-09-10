@@ -440,6 +440,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/09/style/justin-vivian-bond-paris-new-york-cabaret.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Justin Vivian Bond, Cabaret Chanteuse, Left New York for Paris. New York Called Her Back.",
+    "author": "Jada Yuan",
+    "link": "https://www.nytimes.com/2026/09/09/style/justin-vivian-bond-paris-new-york-cabaret.html",
+    "content": "\u201cI don\u2019t know any other singer or cabaret performer that does five individual, distinct shows a year,\u201d said Sammy Jo, Bond\u2019s best friend. \u201cI think that\u2019s how she keeps her brain from atrophying.\u201d",
+    "date": "2026-09-10T13:11:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22393-kmfa-s-midday-music-series-stefan-jackiw-ensemble-atx",
     "feed_name": "KMFA",
     "title": "KMFA's Midday Music Series: Stefan Jackiw &amp; Ensemble ATX",
@@ -19988,15 +19998,5 @@
     "content": "Occasionally when the phone rang at the London Review offices in the late 1990s it would be the operator asking if we\u2019d accept a reverse.\u00a0.\u00a0.",
     "date": "2026-07-22T15:04:48",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/22/dining/stir-fry-your-lettuce-ragu-your-green-beans-and-cake-your-coconut.html",
-    "feed_name": "NYT (Food)",
-    "title": "Stir-Fry Your Lettuce, Rag\u00f9 Your Green Beans and Cake Your Coconut",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/07/22/dining/stir-fry-your-lettuce-ragu-your-green-beans-and-cake-your-coconut.html",
-    "content": "Hetty Lui McKinnon\u2019s stir-fried lettuce with crispy garlic and fried eggs.",
-    "date": "2026-07-22T15:00:16",
-    "category": "NYT"
   }
 ]
