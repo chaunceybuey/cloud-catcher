@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "ff1ac95cf113fb31324260bfb0e8f1fb",
+    "feed_name": "LRB",
+    "title": "At the British Museum: \u2018Early Netherlandish Drawings\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n16/meredith-hale/at-the-british-museum",
+    "content": "E\u200barly Netherlandish Drawings\u200b (until 20 September) is a stunning exhibition but it needs a bit of space and time to unfold. This is provided in the British Museum\u2019s dimly lit Prints and Drawings galleries, which one can access without navigating the museum\u2019s main entrance and Great Court. From the Montague Place entrance, go straight up the north stairs to level four where,...",
+    "date": "2026-09-10T17:31:59",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/10/dining/delicious-but-do-not-put-these-in-your-jacket-pocket.html",
     "feed_name": "NYT (Food)",
     "title": "\u201cDelicious, but Do Not Put These in Your Jacket Pocket\u201d",
@@ -19988,15 +19998,5 @@
     "content": "An Instagram post turned one California student newspaper into a free-speech flash point. The students say they were just doing their homework.",
     "date": "2026-07-22T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19564",
-    "feed_name": "Stratechery",
-    "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
-    "content": "<p>OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.</p>",
-    "date": "2026-07-22T10:00:00",
-    "category": "Tech"
   }
 ]
