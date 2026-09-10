@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/10/dining/tomatoes-and-corn-with-coconut-chicken-curry.html",
+    "feed_name": "NYT (Food)",
+    "title": "Tomatoes and Corn (With Coconut Chicken Curry)",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/09/10/dining/tomatoes-and-corn-with-coconut-chicken-curry.html",
+    "content": "Ali Slagle\u2019s coconut chicken curry with tomatoes and corn.",
+    "date": "2026-09-10T15:00:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/10/arts/marvels-wolverine-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Moody Wolverine Lets His Claws Do the Talking",
+    "author": "Yussef Cole",
+    "link": "https://www.nytimes.com/2026/09/10/arts/marvels-wolverine-review.html",
+    "content": "Battles are blindingly fast-paced in Marvel\u2019s Wolverine, in which the superhero teams up with Jean Grey and Sabretooth.",
+    "date": "2026-09-10T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "b4664c442b70dfe9961e5bba6c4e173e",
     "feed_name": "LRB",
     "title": "On Politics: Germany's Far-Right Future?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/22/arts/design/hes-the-last-great-land-artist-youve-never-heard-of.html",
     "content": "The Milky Way ribbons through the sky above \u201cStar Axis.\u201d",
     "date": "2026-07-22T09:01:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/22/arts/criterion-collection-black-film.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Six Years After a Reckoning, Criterion Puts \u2018Cinematic Blackness\u2019 in Focus",
-    "author": "Beandrea July",
-    "link": "https://www.nytimes.com/2026/07/22/arts/criterion-collection-black-film.html",
-    "content": "Adding a curator, the Criterion Collection expanded its offerings and its vision of Black film. But auteurs continue to push the company on what inclusion means.",
-    "date": "2026-07-22T09:01:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/22/movies/criterion-collection-black-film.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Six Years After a Reckoning, Criterion Puts \u2018Cinematic Blackness\u2019 in Focus",
-    "author": "Beandrea July",
-    "link": "https://www.nytimes.com/2026/07/22/movies/criterion-collection-black-film.html",
-    "content": "Adding a curator, the Criterion Collection expanded its offerings and its vision of Black film. But auteurs continue to push the company on what inclusion means.",
-    "date": "2026-07-22T09:01:01",
     "category": "NYT"
   }
 ]
