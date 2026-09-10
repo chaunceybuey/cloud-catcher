@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/10/arts/television/jimmy-kimmel-james-talarico-interview.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel to Interview James Talarico \u2018Under Unusual Circumstances\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/10/arts/television/jimmy-kimmel-james-talarico-interview.html",
+    "content": "A conversation with the Democratic Senate hopeful from Texas will move off air because of what the late night host called F.C.C. \u201cthreats\u201d against his show and network.",
+    "date": "2026-09-10T07:26:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-british-museum-opening.html",
     "feed_name": "NYT (Arts)",
     "title": "British Museum Opens Bayeux Tapestry Exhibition",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/21/magazine/bill-maher-trump-mark-twain-prize.html",
     "content": "How the late-night host won comedy\u2019s biggest prize \u2014 despite the White House\u2019s objections.",
     "date": "2026-07-21T09:02:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/21/arts/music/bayreuth-wagner-150.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Hot, Uncomfortable, Matchless: Opera Pilgrims Can\u2019t Quit Bayreuth",
-    "author": "Joshua Barone",
-    "link": "https://www.nytimes.com/2026/07/21/arts/music/bayreuth-wagner-150.html",
-    "content": "The Bayreuth Festival, where Wagner\u2019s operas have been performed for 150 years, is inconvenient and unpleasant. Why does it have such a hold on fans?",
-    "date": "2026-07-21T09:01:59",
     "category": "NYT"
   }
 ]
