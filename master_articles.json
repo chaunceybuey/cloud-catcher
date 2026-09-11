@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Trump\u2019s \u2018Midterm Convention\u2019 Tried to Reach Die-Hard Republican Voters, but Lacked Oomph",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html",
+    "content": "President Trump spoke on both nights of a Republican convention that wasn\u2019t technically a convention.",
+    "date": "2026-09-11T14:25:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/11/arts/design/yayoi-kusama-retrospective-stedelijk-museum.html",
     "feed_name": "NYT (Arts)",
     "title": "Lose Yourself in Yayoi Kusama\u2019s Last Show",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/23/movies/the-dink-review.html",
     "content": "Jake Johnson and Mary Steenburgen star in a tennis versus pickleball comedy that never quite makes it over the net.",
     "date": "2026-07-23T09:01:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/arts/design/jewish-museum-women-wiener-werkstatte-design.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Women of a Certain Swagger, and Their Art Visions",
-    "author": "Blake Gopnik",
-    "link": "https://www.nytimes.com/2026/07/23/arts/design/jewish-museum-women-wiener-werkstatte-design.html",
-    "content": "The Jewish Museum highlights unsung textile, ceramic and fashion designers at the renowned Wiener Werkst\u00e4tte \u2014 the Vienna Workshops \u2014 of the early 20th century.",
-    "date": "2026-07-23T09:01:00",
     "category": "NYT"
   }
 ]
