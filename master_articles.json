@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/10/arts/television/dan-schneider-nickelodeon-defamation-lawsuit.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dan Schneider\u2019s Defamation Suit Against \u2018Quiet on Set\u2019 Creators Is Thrown Out",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/09/10/arts/television/dan-schneider-nickelodeon-defamation-lawsuit.html",
+    "content": "Dan Schneider\u2019s lawsuit accused the documentary series \u201cQuiet on Set\u201d of falsely implying he had sexually abused children.",
+    "date": "2026-09-11T00:14:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-uses-ai-for-lip-synced-translations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Amazon Prime Video Uses A.I. for Lip-Synced Translations",
+    "author": "Reggie Ugwu",
+    "link": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-uses-ai-for-lip-synced-translations.html",
+    "content": "The streamer released a version of a popular German series in which the actors\u2019 lip movements have been digitally altered.",
+    "date": "2026-09-10T23:56:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/10/arts/music/d4vd-lawsuit-celeste-rivas-hernandez-murder.html",
     "feed_name": "NYT (Arts)",
     "title": "D4vd Is Sued by Teenage Victim\u2019s Family After Murder Charge",
@@ -19978,25 +19998,5 @@
     "content": "The fire that destroyed the Glasgow School of Art building in 2018, four years after another huge fire there.",
     "date": "2026-07-22T16:38:11",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/22/arts/television/the-vampire-lestat-season-finale.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Vampire Lestat\u2019 Was a Dissonant Viewing Experience",
-    "author": "Maya Phillips",
-    "link": "https://www.nytimes.com/2026/07/22/arts/television/the-vampire-lestat-season-finale.html",
-    "content": "This season of \u201cThe Vampire Lestat\u201d featured an outstanding lead performance but an unrecognizable title character.",
-    "date": "2026-07-22T16:30:31",
-    "category": "NYT"
-  },
-  {
-    "id": "0fc7047e1c2a7919a530b3accf113183",
-    "feed_name": "LRB",
-    "title": "Remembering Big Bill",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/july/remembering-big-bill",
-    "content": "Occasionally when the phone rang at the London Review offices in the late 1990s it would be the operator asking if we\u2019d accept a reverse.\u00a0.\u00a0.",
-    "date": "2026-07-22T15:04:48",
-    "category": "Magazines"
   }
 ]
