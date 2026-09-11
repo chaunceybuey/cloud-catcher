@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/video/movies/100000011141856/hollywood-film-odyssey-eastman-kodak-company.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Only Factory Making Real Film for Hollywood",
+    "author": "Gus Aronson, Marc Tracy, Amanda Webster and David Cheung",
+    "link": "https://www.nytimes.com/video/movies/100000011141856/hollywood-film-odyssey-eastman-kodak-company.html",
+    "content": "The Eastman Kodak Company is the only factory still manufacturing film used in major Hollywood productions like \u2018The Odyssey\u2019 as part of a broader effort to revive the medium. This is how it is made.",
+    "date": "2026-09-11T19:46:46",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22560-philharmonie-austin-bach-and-beer",
     "feed_name": "KMFA",
     "title": "Philharmonie Austin: Bach and Beer",
@@ -19988,15 +19998,5 @@
     "content": "Betty Parsons, who showed the \u201cgreat big shots\u201d in her gallery starting in the 1940s, is the focus of a survey at Bard College, designed by the artist Amy Sillman.",
     "date": "2026-07-23T09:03:49",
     "category": "NYT"
-  },
-  {
-    "id": "6809e10c-bd35-47a7-8bbe-a2c57dec98a9",
-    "feed_name": "Economist",
-    "title": "Can China dominate AI exports, too?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too",
-    "content": "Robotaxis offer an early test case",
-    "date": "2026-07-23T09:03:47",
-    "category": "Magazines"
   }
 ]
