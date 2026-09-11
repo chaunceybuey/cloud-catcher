@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=242580",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Supreme Court blocks Galveston County from using districts redrawn after the primaries",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17445609/texas-galveston-county-redistricting-supreme-court-maps",
+    "content": "The Galveston County Courthouse on May 16, 2024.",
+    "date": "2026-09-11T18:49:24",
+    "category": "Texas"
+  },
+  {
     "id": "https://stratechery.com/?p=19938",
     "feed_name": "Stratechery",
     "title": "2026.37: Duo Threats",
@@ -19988,15 +19998,5 @@
     "content": "Robotaxis offer an early test case",
     "date": "2026-07-23T09:03:47",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/movies/summer-horror-movies-theater-nyc.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Your Scary Summer of Movies, Graveyards and Horror Clubs",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/07/23/movies/summer-horror-movies-theater-nyc.html",
-    "content": "Summertime is a ripe time for terror. Our horror expert picks a night at the drive-in for a slasher double feature, an amble through a cemetery and more.",
-    "date": "2026-07-23T09:03:40",
-    "category": "NYT"
   }
 ]
