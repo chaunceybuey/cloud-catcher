@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=242507",
+    "feed_name": "Texas Tribune",
+    "title": "At Dallas convention, Texas Republicans claim credit for tax cuts, blame Democrats for high prices",
+    "author": "Gabby Birenbaum and Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17444980/gop-midterm-convention-dallas-texas-economy-high-costs-tax-cuts",
+    "content": "GOP activist Ally Raskin speaks during Republicans&#039; midterm convention in Dallas on Wednesday, Sept. 9, 2026",
+    "date": "2026-09-11T03:10:02",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/10/arts/television/dan-schneider-nickelodeon-defamation-lawsuit.html",
     "feed_name": "NYT (Arts)",
     "title": "Dan Schneider\u2019s Defamation Suit Against \u2018Quiet on Set\u2019 Creators Is Thrown Out",
@@ -19988,15 +19998,5 @@
     "content": "State Rep. James Talarico, the Democratic U.S. Senate nominee, holds a press conference to address data centers in Texas in downtown Austin on July 22, 2026.",
     "date": "2026-07-22T19:17:04",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/22/business/media/cinerama-dome-sony-pictures-hollywood.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sony Revives Cinerama Dome in Los Angeles as Box Office Sales Rebound",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/07/22/business/media/cinerama-dome-sony-pictures-hollywood.html",
-    "content": "The 956-seat Cinerama Dome in Hollywood first opened in 1963.",
-    "date": "2026-07-22T18:58:19",
-    "category": "NYT"
   }
 ]
