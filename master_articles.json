@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/11/arts/design/yayoi-kusama-retrospective-stedelijk-museum.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lose Yourself in Yayoi Kusama\u2019s Last Show",
+    "author": "Emily LaBarge",
+    "link": "https://www.nytimes.com/2026/09/11/arts/design/yayoi-kusama-retrospective-stedelijk-museum.html",
+    "content": "\u201cInfinity Mirrored Room \u2014 \u2018The Hope of the Polka Dots Buried in Infinity Will Eternally Cover The Universe\u2019\u201d (2025) at the Stedelijk Museum in Amsterdam.",
+    "date": "2026-09-11T10:50:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/11/arts/yayoi-kusama-retrospective-stedelijk-museum.html",
     "feed_name": "NYT (Arts)",
     "title": "Lose Yourself in Yayoi Kusama\u2019s Last Show",
@@ -455,6 +465,16 @@
     "title": "Amazon Prime Video Uses A.I. for Lip-Synced Translations",
     "author": "Reggie Ugwu",
     "link": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-ai-translation-dub.html",
+    "content": "The streamer released a version of a popular German series in which the actors\u2019 lip movements have been digitally altered.",
+    "date": "2026-09-10T23:56:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/10/arts/television/amazon-prime-video-ai-translation-dub.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Amazon Prime Video Uses A.I. for Lip-Synced Translations",
+    "author": "Reggie Ugwu",
+    "link": "https://www.nytimes.com/2026/09/10/arts/television/amazon-prime-video-ai-translation-dub.html",
     "content": "The streamer released a version of a popular German series in which the actors\u2019 lip movements have been digitally altered.",
     "date": "2026-09-10T23:56:34",
     "category": "NYT"
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/23/arts/design/jewish-museum-women-wiener-werkstatte-design.html",
     "content": "The Jewish Museum highlights unsung textile, ceramic and fashion designers at the renowned Wiener Werkst\u00e4tte \u2014 the Vienna Workshops \u2014 of the early 20th century.",
     "date": "2026-07-23T09:01:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/arts/television/keith-david-president-curtis.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Keith David Doesn\u2019t Know What You Saw Him in",
-    "author": "Leigh-Ann Jackson and Sela Shiloni",
-    "link": "https://www.nytimes.com/2026/07/23/arts/television/keith-david-president-curtis.html",
-    "content": "Keith David has appeared in hundreds of feature films and TV series, many times in voice-over. Now his character in \u201cRick and Morty\u201d is getting its own spinoff, \u201cPresident Curtis.\u201d",
-    "date": "2026-07-23T09:00:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/best-crunchy-recipes",
-    "feed_name": "NYT (Food)",
-    "title": "Let\u2019s Get Loud: These 19 Extra-Crunchy Recipes Hit The Spot Every Time",
-    "author": "Emily Fleischaker",
-    "link": "https://cooking.nytimes.com/article/best-crunchy-recipes",
-    "content": "From chickpea fatteh to Frito pie, here are our best noisy, crackly dishes to satisfy cravings.",
-    "date": "2026-07-23T09:00:30",
     "category": "NYT"
   }
 ]
