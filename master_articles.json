@@ -200,6 +200,26 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=242483",
+    "feed_name": "Texas Tribune",
+    "title": "Texas judge: Alaskan surrogate does not have custody over child she birthed in Dallas",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17444915/texas-california-surrogacy-mckenna-west-custody-rumi-gabriel-abortion",
+    "content": "McKenna West, an Alaskan surrogate who fled to Dallas to obtain custody for the sickly baby that she was carrying. A Texas court has denied West custody.",
+    "date": "2026-09-11T00:12:08",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-ai-translation-dub.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Amazon Prime Video Uses A.I. for Lip-Synced Translations",
+    "author": "Reggie Ugwu",
+    "link": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-ai-translation-dub.html",
+    "content": "The streamer released a version of a popular German series in which the actors\u2019 lip movements have been digitally altered.",
+    "date": "2026-09-10T23:56:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-uses-ai-for-lip-synced-translations.html",
     "feed_name": "NYT (Arts)",
     "title": "Amazon Prime Video Uses A.I. for Lip-Synced Translations",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/22/business/media/cinerama-dome-sony-pictures-hollywood.html",
     "content": "The 956-seat Cinerama Dome in Hollywood first opened in 1963.",
     "date": "2026-07-22T18:58:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-    "feed_name": "Douthat",
-    "title": "A New Critique of Trumpism Goes Too Easy on Elites",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/07/21/opinion/populism-elites-richard-hanania.html",
-    "content": "Even under populism, elite failure is still a problem.",
-    "date": "2026-07-22T16:51:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/22/arts/design/glasgow-school-of-art-fire.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Fire Ravaged the Glasgow School of Art. It May Cost Too Much to Restore It.",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/07/22/arts/design/glasgow-school-of-art-fire.html",
-    "content": "The fire that destroyed the Glasgow School of Art building in 2018, four years after another huge fire there.",
-    "date": "2026-07-22T16:38:11",
     "category": "NYT"
   }
 ]
