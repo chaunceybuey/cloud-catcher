@@ -190,6 +190,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/11/dining/this-yogurt-cake-is-like-a-lighter-lemon-cheesecake.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Yogurt Cake Is Like a Lighter Lemon Cheesecake",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/09/11/dining/this-yogurt-cake-is-like-a-lighter-lemon-cheesecake.html",
+    "content": "Claudia Roden\u2019s yogurt cake, adapted by Melissa Clark.",
+    "date": "2026-09-11T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/11/movies/horror-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Horror Movies to Stream Now",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/09/11/movies/horror-movies-streaming.html",
+    "content": "Alice Wordsworth, left, with Zola Grimmer in \u201cCAMP.\u201d",
+    "date": "2026-09-11T15:00:03",
+    "category": "NYT"
+  },
+  {
+    "id": "2f7c85366fe5872fd5713102e6653d83",
+    "feed_name": "Compact",
+    "title": "9/11 in the Age of Unreality",
+    "author": "",
+    "link": "https://www.compactmag.com/article/9-11-in-the-age-of-unreality/",
+    "content": "",
+    "date": "2026-09-11T14:52:28",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html",
     "feed_name": "NYT (Arts)",
     "title": "Trump\u2019s \u2018Midterm Convention\u2019 Tried to Reach Die-Hard Republican Voters, but Lacked Oomph",
@@ -198,6 +228,26 @@
     "content": "President Trump spoke on both nights of a Republican convention that wasn\u2019t technically a convention.",
     "date": "2026-09-11T14:25:25",
     "category": "NYT"
+  },
+  {
+    "id": "a7e9bd33ae1e3f17c1b2691efb1e5464",
+    "feed_name": "The Atlantic",
+    "title": "Rules Designed to Create Chaos",
+    "author": "Quinta Jurecic",
+    "link": "https://www.theatlantic.com/ideas/2026/09/mail-voting-usps-trump/688585/",
+    "content": "The Trump administration is hoping to put so many restrictions on mail-in balloting that people simply won\u2019t be able to vote that way at all.",
+    "date": "2026-09-11T13:12:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "8257a712c758b2f05e861ed71c60a3ce",
+    "feed_name": "The Atlantic",
+    "title": "America Has Forfeited Its Greatest Strength",
+    "author": "Ali Soufan",
+    "link": "https://www.theatlantic.com/ideas/2026/09/september-11-trust-america/688580/",
+    "content": "Osama bin Laden wanted to eradicate faith in American power. Twenty-five years later, his dream is on the verge of coming true.",
+    "date": "2026-09-11T12:20:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/09/11/arts/design/yayoi-kusama-retrospective-stedelijk-museum.html",
@@ -19947,56 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/23/movies/rosebush-pruning-review.html",
     "content": "Karim A\u00efnouz\u2019s feeble satire thrusts the incest taboo upon a comely cast but fails to stir any interest.",
     "date": "2026-07-23T09:01:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/movies/sheep-in-the-box-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Sheep in the Box\u2019 Review: Haunted by His Absence",
-    "author": "Brandon Yu",
-    "link": "https://www.nytimes.com/2026/07/23/movies/sheep-in-the-box-review.html",
-    "content": "The latest from the Japanese director Hirokazu Kore-eda follows a couple who bring home an artificial replacement of their son.",
-    "date": "2026-07-23T09:01:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/movies/her-private-hell-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Her Private Hell\u2019 Review: Lock Up Your Daughters",
-    "author": "Jeannette Catsoulis",
-    "link": "https://www.nytimes.com/2026/07/23/movies/her-private-hell-review.html",
-    "content": "Nicolas Winding Refn returns with a ponderous, neon-soaked fairy tale about disturbed fathers and their endangered offspring.",
-    "date": "2026-07-23T09:01:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/movies/motor-city-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Motor City\u2019 Review: Some Rage and Quiet",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/07/23/movies/motor-city-review.html",
-    "content": "Set in Detroit in the 1970s, this revenge movie tells its story with almost no dialogue.",
-    "date": "2026-07-23T09:01:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/arts/music/willow-smith-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Devotion of Willow Smith",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/07/23/arts/music/willow-smith-interview.html",
-    "content": "The daughter of a Hollywood power couple, she has gone above and beyond to prove herself. Virtuosity and spiritual aspirations fill her latest, \u201cThe Thread.\u201d",
-    "date": "2026-07-23T09:01:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/movies/the-dink-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Dink\u2019 Review: A Volley and a Flub",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/07/23/movies/the-dink-review.html",
-    "content": "Jake Johnson and Mary Steenburgen star in a tennis versus pickleball comedy that never quite makes it over the net.",
-    "date": "2026-07-23T09:01:34",
     "category": "NYT"
   }
 ]
