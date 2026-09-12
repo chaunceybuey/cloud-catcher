@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/11/arts/music/lil-durk-acquitted-murder-for-hire.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lil Durk Is Found Not Guilty in Murder-for-Hire Case",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/09/11/arts/music/lil-durk-acquitted-murder-for-hire.html",
+    "content": "Lil Durk and associates from his Only the Family rap label are expected to stand trial in Chicago on federal racketeering charges.",
+    "date": "2026-09-12T01:15:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21534-austin-symphony-orchestra-brahms-and-nordic-masterpiece",
     "feed_name": "KMFA",
     "title": "Austin Symphony Orchestra: Brahms and Nordic Masterpiece",
@@ -19988,15 +19998,5 @@
     "content": "States ultimately decide how fast technology is adopted",
     "date": "2026-07-23T09:09:03",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/opinion/us-defense-geopolitics-elbridge-colby.html",
-    "feed_name": "Interesting Times",
-    "title": "Iran, China, Canada? A Defense of Trump\u2019s Grand Strategy",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/07/23/opinion/us-defense-geopolitics-elbridge-colby.html",
-    "content": "A Pentagon official argues that \u201cpeople can no longer take the United States for granted.\u201d",
-    "date": "2026-07-23T09:04:27",
-    "category": "Uncategorized"
   }
 ]
