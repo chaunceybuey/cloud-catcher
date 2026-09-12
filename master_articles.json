@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "9a7cf1f0-ac1c-4716-bda1-b50c7b7ccd18",
+    "feed_name": "Economist",
+    "title": "Wanted: new business, finance and economics interns",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
+    "content": "The Economist invites applications for the Marjorie Deane internship",
+    "date": "2026-09-12T08:04:14",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/11/arts/music/lil-durk-acquitted-murder-for-hire.html",
     "feed_name": "NYT (Arts)",
     "title": "Lil Durk Is Found Not Guilty in Murder-for-Hire Case",
@@ -19988,15 +19998,5 @@
     "content": "An aerial view of a water tower along West Nolana Avenue in McAllen on May 12, 2025.",
     "date": "2026-07-23T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "8e2f568d-5bd1-4243-8719-464bb318d278",
-    "feed_name": "Economist",
-    "title": "The world\u2019s balance-sheet is out of kilter with its economy",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
-    "content": "Restoring balance could be painful",
-    "date": "2026-07-23T09:42:17",
-    "category": "Magazines"
   }
 ]
