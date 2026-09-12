@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/12/dining/its-not-too-early-for-pumpkin-cake-actually.html",
+    "feed_name": "NYT (Food)",
+    "title": "It\u2019s Not Too Early for Pumpkin Cake, Actually",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/09/12/dining/its-not-too-early-for-pumpkin-cake-actually.html",
+    "content": "Yossy Arefi\u2019s pumpkin crumb cake.",
+    "date": "2026-09-12T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22425-frohlich-featuring-works-by-juon-muczynski-henryson-and-rota",
     "feed_name": "KMFA",
     "title": "Frohlich: Featuring Works by Juon, Muczynski, Henryson, and Rota",
@@ -19988,15 +19998,5 @@
     "content": "Clinica Waller Latinoamericana, one of Maria Margarita Rojas&#039; network of clinics in the Houston area.",
     "date": "2026-07-23T17:33:58",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/dining/cooking-with-heat-in-this-heat-not-on-my-watch.html",
-    "feed_name": "NYT (Food)",
-    "title": "Cooking With Heat? In This Heat? Not on My Watch",
-    "author": "Tanya Sichynsky",
-    "link": "https://www.nytimes.com/2026/07/23/dining/cooking-with-heat-in-this-heat-not-on-my-watch.html",
-    "content": "Hana Asbrink\u2019s cold tofu salad with tomatoes and peaches.",
-    "date": "2026-07-23T17:00:05",
-    "category": "NYT"
   }
 ]
