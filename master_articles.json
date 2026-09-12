@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "f72c8e43c92e95a2abd7dc8f2c39d884",
+    "feed_name": "The Atlantic",
+    "title": "Trump Will Never Mail the $5,000 Checks",
+    "author": "Jonathan Chait",
+    "link": "https://www.theatlantic.com/ideas/2026/09/trump-5000-rebate-checks/688599/",
+    "content": "Deconstructing a policy proposal that makes no sense on any level",
+    "date": "2026-09-12T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6aa1ba6ba54f67325a26c7b9",
     "feed_name": "Wired (Science)",
     "title": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
@@ -19988,15 +19998,5 @@
     "content": "Hana Asbrink\u2019s cold tofu salad with tomatoes and peaches.",
     "date": "2026-07-23T17:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "38b7c86d7082a5c8b01926072b6463c0",
-    "feed_name": "LRB",
-    "title": "Don\u2019t extradite him",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/july/don-t-extradite-him",
-    "content": "James \u2018Fergie\u2019 Chambers, a US citizen, was detained by Spanish police on Ibiza earlier this month. He was visiting the Balearic.\u00a0.\u00a0.",
-    "date": "2026-07-23T16:36:57",
-    "category": "Magazines"
   }
 ]
