@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/12/movies/venice-film-festival-golden-lion-woman-unknown.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Woman Unknown\u2019 Takes Top Prize at Venice Film Festival",
+    "author": "Nicolas Rapold",
+    "link": "https://www.nytimes.com/2026/09/12/movies/venice-film-festival-golden-lion-woman-unknown.html",
+    "content": "The director May el-Toukhy receiving the Golden Lion Award for her film \u201cWoman Unknown\u201d at the 83rd Venice International Film Festival on Saturday.",
+    "date": "2026-09-12T22:26:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html",
     "feed_name": "NYT (Arts)",
     "title": "Trump Demands Smithsonian Install \u2018Colossus\u2019 George Washington Statue",
@@ -19988,15 +19998,5 @@
     "content": "MSG\u2019s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star\u2019s rehearsal dinner.",
     "date": "2026-07-23T18:18:46",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237772",
-    "feed_name": "Texas Tribune",
-    "title": "South Texas nun detained by ICE faces uncertain future in U.S.",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17385588/ice-detained-south-texas-nun",
-    "content": "Sister Leticia &quot;Letty&quot; Ugboaja, a South Texas nun from Nigeria, spoke publicly for the first time on Thursday, July 23 after she was detained by U.S. Immigration and Customs Enforcement in June. She was accompanied by her lawyer, Carlos M. Garcia, (left) and Sister Norma Pimentel (right).",
-    "date": "2026-07-23T18:16:13",
-    "category": "Texas"
   }
 ]
