@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aa1ba6ba54f67325a26c7b9",
+    "feed_name": "Wired (Science)",
+    "title": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+    "content": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life\u2019s work.",
+    "date": "2026-09-12T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6aa43382df908fcb665152ee",
     "feed_name": "Wired (Science)",
     "title": "You Don\u2019t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules",
@@ -19988,15 +19998,5 @@
     "content": "James \u2018Fergie\u2019 Chambers, a US citizen, was detained by Spanish police on Ibiza earlier this month. He was visiting the Balearic.\u00a0.\u00a0.",
     "date": "2026-07-23T16:36:57",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/dining/charred-shrimp-with-shimi-sauce-to-share.html",
-    "feed_name": "NYT (Food)",
-    "title": "Charred Shrimp With Shimi Sauce to Share",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/23/dining/charred-shrimp-with-shimi-sauce-to-share.html",
-    "content": "Lay Alston\u2019s charred shrimp with shimi sauce, adapted by Yewande Komolafe.",
-    "date": "2026-07-23T15:00:06",
-    "category": "NYT"
   }
 ]
