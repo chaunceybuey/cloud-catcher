@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Trump Demands Smithsonian Install \u2018Colossus\u2019 George Washington Statue",
+    "author": "Jennifer Schuessler",
+    "link": "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html",
+    "content": "In a post on social media, President Trump also called for the Smithsonian\u2019s National Museum of American History to host a five-year exhibition about Washington\u2019s legacy \u201cbeginning now.\u201d",
+    "date": "2026-09-12T19:32:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22128-atx-chamber-music-and-jazz-stefan-jackiw-and-ensemble-atx",
     "feed_name": "KMFA",
     "title": "ATX Chamber Music and Jazz: Stefan Jackiw and Ensemble ATX",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17385588/ice-detained-south-texas-nun",
     "content": "Sister Leticia &quot;Letty&quot; Ugboaja, a South Texas nun from Nigeria, spoke publicly for the first time on Thursday, July 23 after she was detained by U.S. Immigration and Customs Enforcement in June. She was accompanied by her lawyer, Carlos M. Garcia, (left) and Sister Norma Pimentel (right).",
     "date": "2026-07-23T18:16:13",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237719",
-    "feed_name": "Texas Tribune",
-    "title": "\u201cWe didn\u2019t know it would end up this way\u201d: South Texas community grapples with flood\u2019s aftermath",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17385589/chula-vista-texas-floods",
-    "content": "Gabby Perez in her childhood home in the Chula Vista neighborhood just outside Crystal City after the July 17 Zavala County flood, on July 20, 2026.",
-    "date": "2026-07-23T18:04:23",
     "category": "Texas"
   }
 ]
