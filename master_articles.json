@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/13/arts/music/san-francisco-opera-strike.html",
+    "feed_name": "NYT (Arts)",
+    "title": "San Francisco Opera Cancels Opening Night After Musicians Strike",
+    "author": "Adam Nagourney",
+    "link": "https://www.nytimes.com/2026/09/13/arts/music/san-francisco-opera-strike.html",
+    "content": "The San Francisco Opera says it is struggling with a $15 million shortfall driven by rising costs. The musicians say they need salaries that keep pace with the city\u2019s high cost of living.",
+    "date": "2026-09-13T20:41:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242629",
     "feed_name": "Texas Tribune",
     "title": "Several Texas Republicans condemn Bo French\u2019s racist posts calling Asian students at UT a \u201cproblem\u201d",
@@ -19988,15 +19998,5 @@
     "content": "A Texas Department of Family and Protective Services badge on April 6, 2022.",
     "date": "2026-07-24T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "6a0f8dc53cc9755a1bff848d",
-    "feed_name": "Wired",
-    "title": "Some Kids Will Never Think AI Is Cool",
-    "author": "Elana Klein",
-    "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-    "content": "\u201cI think it should stand for artificial idiot,\u201d one 9-year-old says. Here\u2019s why kids of all ages are calling AI \u201cdisgusting\u201d and \u201ccreepy.\u201d",
-    "date": "2026-07-24T10:00:00",
-    "category": "Magazines"
   }
 ]
