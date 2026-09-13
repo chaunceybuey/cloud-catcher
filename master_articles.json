@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "8d270ee8c358042399bc352cd445fe5a",
+    "feed_name": "The Atlantic",
+    "title": "The Property-Tax Revolution",
+    "author": "Annie Lowrey",
+    "link": "https://www.theatlantic.com/ideas/2026/09/florida-taxes-amendment/688594/",
+    "content": "States can\u2019t afford these cuts.",
+    "date": "2026-09-13T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "83a2e0f6564e03b37db35b71328e1827",
+    "feed_name": "The Atlantic",
+    "title": "The Birth of the New Legal Right",
+    "author": "Alex Wagner",
+    "link": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/",
+    "content": "Forty-four years ago, a conservative legal convention offered disaffected students an identity\u2014and hope.",
+    "date": "2026-09-13T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6aa2ae4185a64f1534d84791",
     "feed_name": "Wired (Science)",
     "title": "AI Agents Are Thirsty for Power",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/24/theater/debra-winger-arliss-howard-gin-game.html",
     "content": "Debra Winger and Arliss Howard were apprehensive taking on \u201cThe Gin Game.\u201d",
     "date": "2026-07-24T09:03:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/arts/design/trent-park-spy-museum.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Upstairs, Downstairs at Trent Park, a House Full of Spies",
-    "author": "Roslyn Sulcas",
-    "link": "https://www.nytimes.com/2026/07/24/arts/design/trent-park-spy-museum.html",
-    "content": "Trent Park, a country home in North London, became part of an audacious strategy for extracting information from German officers during World War II.",
-    "date": "2026-07-24T09:02:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/movies/the-odyssey-oppenheimer-christopher-nolan.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018The Odyssey\u2019 and \u2018Oppenheimer,\u2019 Nolan Knows Civilization Is at Stake",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/07/24/movies/the-odyssey-oppenheimer-christopher-nolan.html",
-    "content": "In very different films, the director\u2019s penchant for playing with time is in service to a larger concern about human bonds across eras.",
-    "date": "2026-07-24T09:01:48",
     "category": "NYT"
   }
 ]
