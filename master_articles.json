@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/13/dining/the-recipe-that-launched-my-nyt-column.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Recipe That Launched My NYT Column",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/13/dining/the-recipe-that-launched-my-nyt-column.html",
+    "content": "Melissa Clark\u2019s polenta with Parmesan and olive oil-fried eggs.",
+    "date": "2026-09-13T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html",
     "feed_name": "NYT (Arts)",
     "title": "Celine Dion Begins Her Paris Comeback Concert Run",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html",
     "content": "The singer-songwriter opens up about life as a niche icon for more than 30 years, the personal struggles that nearly killed him and trying to write political music under President Trump.",
     "date": "2026-07-24T09:04:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/theater/debra-winger-arliss-howard-gin-game.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Debra Winger and Arliss Howard Feel Old Enough to Play \u2018The Gin Game\u2019",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/2026/07/24/theater/debra-winger-arliss-howard-gin-game.html",
-    "content": "Debra Winger and Arliss Howard were apprehensive taking on \u201cThe Gin Game.\u201d",
-    "date": "2026-07-24T09:03:27",
     "category": "NYT"
   }
 ]
