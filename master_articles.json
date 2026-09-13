@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Celine Dion Begins Her Paris Comeback Concert Run",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html",
+    "content": "Celine Dion on Saturday at Plenitude Arena in France for her first full concert in six years.",
+    "date": "2026-09-13T13:45:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/13/arts/television/judge-judy-retires.html",
+    "feed_name": "NYT (Arts)",
+    "title": "After 30 Years, Judge Judy Is Stepping Down From Her TV Bench",
+    "author": "Ishani Desai",
+    "link": "https://www.nytimes.com/2026/09/13/arts/television/judge-judy-retires.html",
+    "content": "Judith B. Sheindlin, the star of \u201cJudge Judy\u201d and spinoff shows, will wrap up a television career filled with acerbic takedowns of litigants.",
+    "date": "2026-09-13T13:20:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/13/dining/shrimp-peperonata-chicken-with-spicy-corn-and-kbbq-meatballs.html",
     "feed_name": "Weeknight Dishes",
     "title": "Shrimp Peperonata, Chicken With Spicy Corn and KBBQ Meatballs",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/24/movies/the-odyssey-oppenheimer-christopher-nolan.html",
     "content": "In very different films, the director\u2019s penchant for playing with time is in service to a larger concern about human bonds across eras.",
     "date": "2026-07-24T09:01:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/arts/100000011028177/the-artist-behind-trumps-legacy-projects.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Artist Behind Trump\u2019s Legacy Projects",
-    "author": "Zachary Small",
-    "link": "https://www.nytimes.com/video/arts/100000011028177/the-artist-behind-trumps-legacy-projects.html",
-    "content": "Matthew Taylor, a conceptual artist and filmmaker, has quietly become a key player behind many of President Trump\u2019s plans to transform Washington and its cultural legacy, as our reporter Zachary Small explains. Mr. Taylor consulted on the White House\u2019s scathing report on the Smithsonian, though the White House said he \u201cdidn\u2019t write a word.\u201d",
-    "date": "2026-07-24T09:00:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
-    "feed_name": "NYT (Arts)",
-    "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
-    "author": "Ben Sisario",
-    "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
-    "content": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.",
-    "date": "2026-07-24T09:00:35",
     "category": "NYT"
   }
 ]
