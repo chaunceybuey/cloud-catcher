@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=242629",
+    "feed_name": "Texas Tribune",
+    "title": "Several Texas Republicans condemn Bo French\u2019s racist posts calling Asian students at UT a \u201cproblem\u201d",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17460787/bo-french-john-cornyn-republican-texas-railroad-commissioner-ut",
+    "content": "From left: U.S. Sen. John Cornyn and Republican nominee for Railroad Commissioner Bo French.",
+    "date": "2026-09-13T16:36:08",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/13/dining/the-recipe-that-launched-my-nyt-column.html",
     "feed_name": "NYT (Food)",
     "title": "The Recipe That Launched My NYT Column",
@@ -19988,15 +19998,5 @@
     "content": "\u201cI think it should stand for artificial idiot,\u201d one 9-year-old says. Here\u2019s why kids of all ages are calling AI \u201cdisgusting\u201d and \u201ccreepy.\u201d",
     "date": "2026-07-24T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Conor Oberst Survived Teenage Rock Stardom",
-    "author": "Joe Coscarelli, Jon Caramanica and Jason Nocito",
-    "link": "https://www.nytimes.com/2026/07/24/arts/music/conor-oberst-bright-eyes-interview-popcast.html",
-    "content": "The singer-songwriter opens up about life as a niche icon for more than 30 years, the personal struggles that nearly killed him and trying to write political music under President Trump.",
-    "date": "2026-07-24T09:04:42",
-    "category": "NYT"
   }
 ]
