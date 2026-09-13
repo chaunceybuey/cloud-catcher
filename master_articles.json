@@ -170,6 +170,56 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Did Trump Win the Battle Over the Smithsonian?",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html",
+    "content": "Mr. Bunch was named the secretary of the Smithsonian in 2019, during Mr. Trump\u2019s first term.",
+    "date": "2026-09-13T09:03:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/13/arts/design/smithsonian-lonnie-bunch-next-secretary-selection.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How the Smithsonian Might Choose Its Next Leader",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/smithsonian-lonnie-bunch-next-secretary-selection.html",
+    "content": "The Smithsonian Institution, the world\u2019s largest museum, education and research complex, was created by Congress in 1846 and operates independently of the executive branch.",
+    "date": "2026-09-13T09:03:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/13/realestate/martha-graham-dance-performance-space.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Martha Graham Dance Company Finds Home in Times Square Landmark",
+    "author": "Anna Kod\u00e9 and Ashok Sinha",
+    "link": "https://www.nytimes.com/2026/09/13/realestate/martha-graham-dance-performance-space.html",
+    "content": "The Graham company, which turned 100 this year, moves into a dazzling new space, taking over 21,000 square feet of a Times Square landmark.",
+    "date": "2026-09-13T09:02:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/13/arts/design/architecture-hirshhorn-museum-desert-storm-memorial.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Can Design Heal Battles on the Mall and the American College Campus?",
+    "author": "Christopher Hawthorne",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/architecture-hirshhorn-museum-desert-storm-memorial.html",
+    "content": "Among this fall\u2019s highlights: Memorials and a sculpture garden in Washington, a focus on pioneering Black architects, and design worth traveling for in Brussels and Mexico City.",
+    "date": "2026-09-13T09:02:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/13/arts/design/roy-lichtenstein-pop-art-whitney-museum-alex-da-corte.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Don\u2019t Call Him Pop: A New, Improved Roy Lichtenstein Is at the Whitney",
+    "author": "Aruna D\u2019Souza",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/roy-lichtenstein-pop-art-whitney-museum-alex-da-corte.html",
+    "content": "The artist Alex Da Corte and the curator Meg Onli bring fresh eyes to a survey bridging high art and mass culture. Will Lichtenstein resonate with a young audience?",
+    "date": "2026-09-13T09:02:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/11/arts/design/bayeux-tapestry-british-museum.html",
     "feed_name": "NYT (Arts)",
     "title": "Unstitching the 1,000-Year-Old Story of the Bayeux Tapestry",
@@ -19948,55 +19998,5 @@
     "content": "Outside experts\u2014some with a vested interest in peptides\u2014recommended adding a number of the amino acids to the FDA's bulk list, including the \u201cWolverine stack\u201d touted by Joe Rogan and other influencers.",
     "date": "2026-07-23T23:45:12",
     "category": "Magazines"
-  },
-  {
-    "id": "18fb79b8fe93363eae398aeb8f2ca820",
-    "feed_name": "New Yorker",
-    "title": "Cartoon Caption Contest",
-    "author": "",
-    "link": "https://www.newyorker.com/cartoons/contest",
-    "content": "Submit a caption, plus vote on other entries and finalists.",
-    "date": "2026-07-23T20:13:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "ff9920824ba4c687282095e35f4e8cd4",
-    "feed_name": "Compact",
-    "title": "Podcast",
-    "author": "",
-    "link": "https://www.compactmag.com/podcast/",
-    "content": "",
-    "date": "2026-07-23T20:13:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "be9831d94055de1abb1cb322fcab715a",
-    "feed_name": "Compact",
-    "title": "Compact",
-    "author": "",
-    "link": "https://www.compactmag.com/",
-    "content": "",
-    "date": "2026-07-23T20:13:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/dining/fine-casual.html",
-    "feed_name": "NYT (Food)",
-    "title": "Three Excellent Restaurants from Fine-Dining Dropouts",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/07/23/dining/fine-casual.html",
-    "content": "At these restaurants the chefs have hung up their tweezers to focus on the kind of casual food you can enjoy any day of the week.",
-    "date": "2026-07-23T19:45:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237791",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Panhandle shaken by strongest earthquake in five years",
-    "author": "Jayme Lozano Carver",
-    "link": "https://feeds.texastribune.org/link/16799/17385634/texas-panhandle-earthquake",
-    "content": "A view of Lake Palo Duro in Hansford County. The U.S. Geological Survey recorded a 5.0 magnitude earthquake near Spearman, the county seat.",
-    "date": "2026-07-23T19:21:33",
-    "category": "Texas"
   }
 ]
