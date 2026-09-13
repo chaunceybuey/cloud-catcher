@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/11/arts/design/bayeux-tapestry-british-museum.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Unstitching the 1,000-Year-Old Story of the Bayeux Tapestry",
+    "author": "Jason Farago",
+    "link": "https://www.nytimes.com/2026/09/11/arts/design/bayeux-tapestry-british-museum.html",
+    "content": "The medieval masterpiece has traveled from France to England for a once-in-a-lifetime show. It is not what our critic Jason Farago expected.",
+    "date": "2026-09-13T05:42:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/13/arts/design/louvre-france-museum-robberies.html",
     "feed_name": "NYT (Arts)",
     "title": "After Louvre Jewel Heist, Robberies Continue at French Museums",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17385634/texas-panhandle-earthquake",
     "content": "A view of Lake Palo Duro in Hansford County. The U.S. Geological Survey recorded a 5.0 magnitude earthquake near Spearman, the county seat.",
     "date": "2026-07-23T19:21:33",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237786",
-    "feed_name": "Texas Tribune",
-    "title": "East Texas data center project pulled after facing community backlash",
-    "author": "Jess Huff",
-    "link": "https://feeds.texastribune.org/link/16799/17385635/east-texas-data-center-withdrawn",
-    "content": "A heavily wooded property off of a country road near Athens in Henderson Co. on April 1, 2019. Diode Ventures has withdrawn plans for a datacenter in the East Texas county.",
-    "date": "2026-07-23T19:06:26",
     "category": "Texas"
   }
 ]
