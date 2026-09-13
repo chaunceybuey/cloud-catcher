@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/13/dining/shrimp-peperonata-chicken-with-spicy-corn-and-kbbq-meatballs.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Shrimp Peperonata, Chicken With Spicy Corn and KBBQ Meatballs",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/09/13/dining/shrimp-peperonata-chicken-with-spicy-corn-and-kbbq-meatballs.html",
+    "content": "With Sam Sifton\u2019s perfect steak recipe thrown in for good, delicious measure.",
+    "date": "2026-09-13T13:00:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22690-zach-theater-campfire",
     "feed_name": "KMFA",
     "title": "Zach Theater: Campfire",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
     "content": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.",
     "date": "2026-07-24T09:00:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Artist Matthew Taylor Is Helping Trump Reshape Washington",
-    "author": "Zachary Small",
-    "link": "https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html",
-    "content": "Matthew Taylor, a senior adviser at the National Endowment for the Humanities, has an artistic background that makes him a distinct champion of the president\u2019s vision.",
-    "date": "2026-07-24T09:00:16",
     "category": "NYT"
   }
 ]
