@@ -170,6 +170,56 @@
     "category": "Texas"
   },
   {
+    "id": "6aa2ae4185a64f1534d84791",
+    "feed_name": "Wired (Science)",
+    "title": "AI Agents Are Thirsty for Power",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "content": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
+    "date": "2026-09-13T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a90b3d8180d3f9513510c88",
+    "feed_name": "Wired (Science)",
+    "title": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions",
+    "author": "Robin George Andrews",
+    "link": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
+    "content": "\u201cThere\u2019s no reason we can\u2019t think that, at some point in the future, we can have volcano forecasts that are like weather forecasts.\u201d",
+    "date": "2026-09-13T09:30:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "18fb79b8fe93363eae398aeb8f2ca820",
+    "feed_name": "New Yorker",
+    "title": "Cartoon Caption Contest",
+    "author": "",
+    "link": "https://www.newyorker.com/cartoons/contest",
+    "content": "Submit a caption, plus vote on other entries and finalists.",
+    "date": "2026-09-13T09:13:52",
+    "category": "Magazines"
+  },
+  {
+    "id": "ff9920824ba4c687282095e35f4e8cd4",
+    "feed_name": "Compact",
+    "title": "Podcast",
+    "author": "",
+    "link": "https://www.compactmag.com/podcast/",
+    "content": "",
+    "date": "2026-09-13T09:13:51",
+    "category": "Magazines"
+  },
+  {
+    "id": "be9831d94055de1abb1cb322fcab715a",
+    "feed_name": "Compact",
+    "title": "Compact",
+    "author": "",
+    "link": "https://www.compactmag.com/",
+    "content": "",
+    "date": "2026-09-13T09:13:51",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html",
     "feed_name": "NYT (Arts)",
     "title": "Did Trump Win the Battle Over the Smithsonian?",
@@ -19948,55 +19998,5 @@
     "content": "Matthew Taylor, a senior adviser at the National Endowment for the Humanities, has an artistic background that makes him a distinct champion of the president\u2019s vision.",
     "date": "2026-07-24T09:00:16",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/theater/romare-bearden-august-wilson-joe-turners-come-gone.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How a Romare Bearden Masterpiece Inspired August Wilson",
-    "author": "Maya Phillips",
-    "link": "https://www.nytimes.com/2026/07/24/theater/romare-bearden-august-wilson-joe-turners-come-gone.html",
-    "content": "An August Wilson classic wouldn\u2019t exist without a Romare Bearden masterpiece. Here\u2019s how the two are intertwined.",
-    "date": "2026-07-24T09:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.propublica.org/article/arkansas-private-school-abuse-video",
-    "feed_name": "ProPublica",
-    "title": "How Videos Helped Me Uncover Abuse at an Arkansas Private School",
-    "author": "Jennifer Smith Richards",
-    "link": "https://www.propublica.org/article/arkansas-private-school-abuse-video",
-    "content": "<figure><img alt=\"A circle of children sit on the floor in a classroom. One child sits cross-legged in the center of the circle, facing a kneeling woman wearing a ponytail and holding a cylinder in her hands. The children have blurred squares over their heads.\" src=\"https://www.propublica.org/wp-content/uploads/2026/07/Vouchers_Growth_CircleAbuse_3x2.jpg?w=1149\" /><figcaption><small>Mary \u201cTracy\u201d Morrison, moments before she hits a student with a plastic object similar to a pipe. The still is from a video that reporter Jennifer Smith Richards obtained as part of a ProPublica investigation into child mistreatment at Morrison\u2019s school.  Obtained by ProPublica. Faces blurred in original video. Vignette added by ProPublica to spotlight Morrison.</small></figcaption></figure>\n<p>The Delta Institute for the Developing Brain was set back off a country road in a white colonial house \u2014 such an atypical location that I first drove right by it, unsure that it was a school. I turned around, went to the door, introduced myself as a reporter and asked for a tour.</p>\n\n\n\n<p>I knew a student had been assaulted in this Arkansas school a year earlier because of some news reports based on a detective\u2019s description. Once inside, I noted the preteens tucked into hammock chairs or sitting on the floor. I noted the cameras mounted in the foyer and classrooms, a reminder that, in order to fully understand what had happened, I\u2019d need to see the video that had captured the assault.&nbsp;</p>\n\n\n\n<p>But since this happened at the Delta Institute, a private school, I didn\u2019t have access to the types of public records \u2014 incident reports, emails and video \u2014 that might have existed at a public school. The only reason we knew that something awful had happened here was that law enforcement got involved. I would have to keep reporting for weeks until the criminal case was closed. Then I could start pursuing the video evidence.</p>\n\n\n\n<p>I had come to Northeast Arkansas, just outside of Jonesboro, to report on private schools that have been opening in response to state legislatures increasingly setting aside public money for parents to spend on private education. Our reporting shows that more public money doesn\u2019t necessarily translate to more transparency. In most of the <a href=\"https://www.propublica.org/article/private-schools-vouchers-growth-florida-arizona-west-virginia\">states that ProPublica studied</a>, private schools operate with little oversight. Unlike public schools, where everything from test scores to school lunches and staff credentials is regulated, most of what happens in private schools is not open to public scrutiny.</p>\n\n\n\n<p>In Arkansas, <a href=\"https://www.propublica.org/article/arksansas-private-schools-vouchers-delta-institute-developing-brain-autism-harm\">the focus of my recent story</a> with Jodi S. Cohen, there are no rules about who can open a private school, and they can operate just about anywhere. The state only requires that private schools conduct regular fire drills, keep immunization records and have an American flag and a flagpole. It doesn\u2019t review schools\u2019 curriculum or the backgrounds and capabilities of their operators.</p>\n\n\n\n<p>There are no records showing that the Arkansas Department of Education investigated the Delta Institute or visited the school, even after police arrested its founder. When asked if the department had gone to the school, officials did not answer, but said when the department is made aware of issues, that \u201coften results in a site visit.\u201d</p>\n\n\n\n<p>Eventually, I was able to obtain video evidence recorded from inside the school. With the help of Arkansas Times reporter Milo Strain, I submitted a Freedom of Information Act request for video footage to the Craighead County Sheriff&#8217;s Office and to the prosecutor who brought the charges on behalf of the state.&nbsp;</p>\n\n\n\n<p>Now I want to share some of that footage with you. It\u2019s sourced mostly from my open records requests, plus one video that was shared with me by a parent who consented to its publication. While the videos are difficult to watch, they are important in that they show not only the mistreatment of students at one particular private school but also the systemic lack of oversight that allows private schools to operate with few regulations and little monitoring.</p>\n\n\n\n<div class=\"wp-block-propublica-lead-in\">\n<h3 class=\"wp-block-heading\" id=\"h-private-school-owner-mary-tracy-morrison-orders-students-to-scrub-floors\">Private School Owner Mary \u201cTracy\u201d Morrison Orders Students to Scrub Floors</h3>\n\n\n\n<p></p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div><figcaption class=\"attribution\"><span class=\"attribution__caption\">The owner of an Arkansas private school sent a video to a student\u2019s mother last year to explain why the boy, a 10-year-old with autism, was being kept after school.</span> <span class=\"attribution__credit\">Obtained and redacted by ProPublica. Two of the children\u2019s names and faces are redacted to protect their identities.</span></figcaption></figure>\n</div>\n\n\n\n<p>Early in my reporting about the Delta Institute, a parent showed me a video of her son\u2019s experience at the school. It was taken by the school\u2019s owner, Mary \u201cTracy\u201d Morrison. She had texted the video to Renee Johns, whose 10-year-old son with autism was a student, as an explanation for why he was being kept after school that day.</p>\n\n\n\n<p>That video shows three boys scrubbing the floor and walls of a room in the school with rags as Morrison shouts commands and admonishments. You can see the boys startle and react as she raises her voice to them. It\u2019s clear they\u2019re being punished.</p>\n\n\n\n<p>Morrison was an occupational therapist and had never run a school before. But she sold herself to parents as an expert on autism and neurodivergence.</p>\n\n\n\n<p>Johns filed a report about the floor-scrubbing video with the Craighead County Sheriff\u2019s Office. She saw it as child abuse. About three weeks later, in April 2025, a second parent came to the sheriff\u2019s office to report another incident at the Delta Institute \u2014 this one also captured on video.</p>\n\n\n\n<div class=\"wp-block-propublica-lead-in\">\n<h3 class=\"wp-block-heading\" id=\"h-morrison-encourages-students-to-assault-classmate\">Morrison Encourages Students to Assault Classmate</h3>\n\n\n\n<p></p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div><figcaption class=\"attribution\"><span class=\"attribution__caption\">Mary \u201cTracy\u201d Morrison, an occupational therapist who founded an Arkansas private school in 2024, conducted a \u201cgroup discussion\u201d in which she encouraged other students to assault a 13-year-old boy. The incident led to criminal charges and jail time for Morrison.</span> <span class=\"attribution__credit\">Excerpts of video from The Delta Institute for the Developing Brain obtained by ProPublica. Faces blurred in original video.</span></figcaption></figure>\n</div>\n\n\n\n<p>A detective went to the school in April 2025 with a warrant and retrieved a roughly 40-minute clip of footage recorded by a camera in the classroom. I obtained that through a Freedom of Information Act request, and it\u2019s really the only unfiltered view we have into the methods Morrison was using at her school.</p>\n\n\n\n<p>The video shows Morrison directing a boy to sit in the middle of a circle of 12- and 13-year-old students on the floor. Morrison then told the students to put their hands on the boy in the center however they wanted.</p>\n\n\n\n<p>One boy loops his arm around the student\u2019s neck and chokes him. Afterward, Morrison gives the boy a high-five.</p>\n\n\n\n<p>Other students join in by hitting, punching and pinching the boy. Morrison encourages one, who strikes the boy hard enough that you can hear another student say, \u201cThat had to hurt!\u201d</p>\n\n\n\n<div class=\"wp-block-propublica-lead-in\">\n<h3 class=\"wp-block-heading\" id=\"h-morrison-strikes-the-student-too\">Morrison Strikes the Student, Too</h3>\n\n\n\n<p></p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div><figcaption class=\"attribution\"><span class=\"attribution__caption\">Mary \u201cTracy\u201d Morrison instructs a student to hit a peer while she watches. She hits the same 13-year-old student with a plastic cylinder, then berates him.</span> <span class=\"attribution__credit\">Excerpts of video from The Delta Institute for the Developing Brain obtained by ProPublica. Faces blurred in original video.</span></figcaption></figure>\n</div>\n\n\n\n<p>A few moments later, Morrison thwacks the boy in the center with a footlong plastic cylinder. She\u2019s trying to get him to admit to being unkind to another student.</p>\n\n\n\n<p>Morrison was charged with 11 felony counts of permitting child abuse and other related crimes. She took a deal pleading guilty to one count of permitting child abuse and four counts of contributing to the delinquency of a juvenile. The deal allowed her to avoid a trial, which means the video was never played in open court. She was sentenced to 30 days in jail.</p>\n\n\n\n<p>I\u2019ve been writing about schools for the better part of 25 years, often extensively about <a href=\"https://features.propublica.org/illinois-seclusion-rooms/school-students-put-in-isolated-timeouts/?_gl=1*111cutw*_ga*MTY4ODExNDIxMi4xNzUzMTE2OTU4*_ga_K9RW8M6GL5*czE3ODQxMjUzNTEkbzU0MiRnMSR0MTc4NDEyNTU5NSRqNTgkbDAkaDA.\">discipline and how schools react to student behavior</a>.</p>\n\n\n\n<p>But what I saw in the video looked nothing like anything I\u2019d seen before. I\u2019d never seen a school administrator \u2014 the owner of the school, no less \u2014 shout at a child that he\u2019s a liar or invite other students to put their hands on him.</p>\n\n\n\n<p>Morrison declined to speak to the detective who investigated the case or to the prosecutor. She didn\u2019t respond to our requests for interviews and comments. Our only real insight into her perspective came in other videos we obtained: recordings of calls with her family, friends and school employees made while she was in jail.</p>\n\n\n\n<div class=\"wp-block-propublica-lead-in\">\n<h3 class=\"wp-block-heading\" id=\"h-from-jail-morrison-tells-a-different-story\">From Jail, Morrison Tells a Different Story</h3>\n\n\n\n<p></p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n\n</div><figcaption class=\"attribution\"><span class=\"attribution__caption\">In a video call from jail with documentary filmmaker Alysia Sofios, Morrison explained her goal in conducting the \u201crestorative\u201d group discussion with students.</span> <span class=\"attribution__credit\">Obtained by ProPublica</span></figcaption></figure>\n</div>\n\n\n\n<p>We got recordings of more than 500 phone and video calls that Morrison made or received while she was incarcerated in May. In a call with a filmmaker who has produced true crime documentaries and who spoke with Morrison about telling her story, we hear her explanation of what happened.</p>\n\n\n\n<p>Morrison describes leading a \u201csophisticated\u201d intervention method in which she guides students at risk of becoming criminals in a \u201crestorative\u201d group discussion. \u201cIt was never about, like, \u2018Go hit him,\u2019 right?\u201d she said to the filmmaker, referring to the 13-year-old boy she\u2019d had sit in the center of the circle.&nbsp;</p>\n\n\n\n<p>Morrison was released from jail June 1. The school\u2019s new administrator said Morrison has \u201czero involvement\u201d with the school right now.</p>\n\n\n\n<p>\u201cI think she should be prevented from teaching anywhere in the United States of America and having children around if she\u2019s going to try to influence them the way she did,\u201d David Bailey, the detective on the case, said. \u201cIf we can\u2019t protect our kids, who can we protect?\u201d</p>\n\n\n\n<p>The incidents at the Delta Institute show how one publicly funded private school has operated with little scrutiny, even after a criminal investigation into student abuse. But our reporting has uncovered several other such schools, and I encourage you to <a href=\"https://www.propublica.org/newsletters/the-big-story?source=vouchers-promo\">sign up for updates</a> as we publish more about what we\u2019ve discovered across the country.&nbsp;</p>\n\n\n\n<p>The school is still operating and is still eligible to get public funding from the state. This spring, though, it changed its name. It\u2019s now called North Star Academy.</p>\n\n\n<div class=\"wp-block-propublica-callout bb--size-medium p-bb--size-medium\">\n\t\n<div class=\"wp-block-group story-card is-layout-flow wp-block-group-is-layout-flow\">\n\n\n<div class=\"wp-block-group story-card__description is-layout-flow wp-block-group-is-layout-flow\"><h2 class=\"story-card__hed wp-block-post-title\"><a href=\"https://www.propublica.org/getinvolved/help-propublica-report-on-education\" target=\"_self\">Help ProPublica Report on Education</a></h2>\n\n\n<p class=\"story-card__dek wp-block-propublica-dek\">\n\tHave you had trouble finding a school or using a voucher-style program? Do you have concerns about schools \u2014 public or private \u2014 in your area? Help us understand how families across the country are navigating their school options.</p>\n\n\n\n<div class=\"wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button callout-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://airtable.com/appZB1CwhEVz9XzEq/pagLr7CSAR8lvPhQz/form\">Share Your Experience</a></div>\n</div>\n\n</div>\n</div>\n</div>\n\n<p>The post <a href=\"https://www.propublica.org/article/arkansas-private-school-abuse-video\">How Videos Helped Me Uncover Abuse at an Arkansas Private School</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-07-24T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/arts/television/jimmy-fallon-trump-pinky-herman.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jimmy Fallon Pokes Fun at Trump\u2019s \u2018Pinky Herman\u2019",
-    "author": "Trish Bendix",
-    "link": "https://www.nytimes.com/2026/07/24/arts/television/jimmy-fallon-trump-pinky-herman.html",
-    "content": "\u201cYou got to give Trump credit: He misspeaks in ways nobody ever thought possible,\u201d Fallon said of the president\u2019s calling the famous man-child character \u201cPinky,\u201d instead of \u201cPee-wee,\u201d Herman.",
-    "date": "2026-07-24T05:34:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/23/movies/72-hours-review-kevin-hart-netflix.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u201872 Hours\u2019 Review: Kevin Hart Is Joining Your Bachelor Party",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/07/23/movies/72-hours-review-kevin-hart-netflix.html",
-    "content": "Hart plays an ad executive who tries to learn about the younger generation by tagging along to a bachelor party weekend. It proves a less than healthy move.",
-    "date": "2026-07-24T01:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "6a5fbbc0f1768585876832b0",
-    "feed_name": "Wired (Science)",
-    "title": "An FDA Panel Just Endorsed These Unproven Peptides",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
-    "content": "Outside experts\u2014some with a vested interest in peptides\u2014recommended adding a number of the amino acids to the FDA's bulk list, including the \u201cWolverine stack\u201d touted by Joe Rogan and other influencers.",
-    "date": "2026-07-23T23:45:12",
-    "category": "Magazines"
   }
 ]
