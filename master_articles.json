@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/13/arts/design/trump-kennedy-center-bankruptcy-closure.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kennedy Center Warns of Bankruptcy Unless Trump\u2019s Name Is Added",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/trump-kennedy-center-bankruptcy-closure.html",
+    "content": "As a judge weighs whether President Trump\u2019s name should be reinstalled on the Kennedy Center, its leaders say that, without such a move, it could soon be bankrupt.",
+    "date": "2026-09-14T00:36:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/13/arts/music/san-francisco-opera-strike.html",
     "feed_name": "NYT (Arts)",
     "title": "San Francisco Opera Cancels Opening Night After Musicians Strike",
@@ -19986,16 +19996,6 @@
     "author": "Jaden Edison",
     "link": "https://feeds.texastribune.org/link/16799/17386499/what-to-know-texas-school-finance-robin-hood-funding",
     "content": "School busses are parked at the Austin Independent School District bus center on Friday, July 10, 2020 in Sunset Valley.",
-    "date": "2026-07-24T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237778",
-    "feed_name": "Texas Tribune",
-    "title": "A small West Texas town is fighting Trump\u2019s border wall plan",
-    "author": "By Rebecca Santana,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17386500/texas-border-wall-presidio-big-bend-fight",
-    "content": "Aerial view of Presidio on the U.S.-Mexico border. U.S. Customs and Border Protection has plans to a build border wall in this remote region of border, despite opposition from locals.",
     "date": "2026-07-24T10:00:00",
     "category": "Texas"
   }
