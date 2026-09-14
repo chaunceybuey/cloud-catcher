@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/13/arts/television/lanterns-recap-season-1-episode-5.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Lanterns\u2019 Season 1, Episode 5 Recap: The Heart Wants What It Wants",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/09/13/arts/television/lanterns-recap-season-1-episode-5.html",
+    "content": "Kerry Kane (Kelly Macdonald) has a much more interesting past than her buttoned-up sheriff\u2019s demeanor indicated.",
+    "date": "2026-09-14T02:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/13/arts/design/trump-kennedy-center-bankruptcy-closure.html",
     "feed_name": "NYT (Arts)",
     "title": "Kennedy Center Warns of Bankruptcy Unless Trump\u2019s Name Is Added",
@@ -19988,15 +19998,5 @@
     "content": "The current Ebola outbreak was first reported in Ituri on 5 May. Ten days later laboratory analysis confirmed the presence of Bundibugyo virus.\u00a0.\u00a0.",
     "date": "2026-07-24T10:20:16",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237841",
-    "feed_name": "Texas Tribune",
-    "title": "The legal fight over \u201cRobin Hood\u201d renews Texas\u2019 public school funding debate. Here\u2019s what to know.",
-    "author": "Jaden Edison",
-    "link": "https://feeds.texastribune.org/link/16799/17386499/what-to-know-texas-school-finance-robin-hood-funding",
-    "content": "School busses are parked at the Austin Independent School District bus center on Friday, July 10, 2020 in Sunset Valley.",
-    "date": "2026-07-24T10:00:00",
-    "category": "Texas"
   }
 ]
