@@ -390,6 +390,16 @@
     "category": "Magazines"
   },
   {
+    "id": "927d641935e1fe2984bdab128d5a00e6",
+    "feed_name": "LRB",
+    "title": "Close Readings 2026",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings",
+    "content": "On the Close Readings podcast,\u00a0longstandingLRBcontributors explore a literary period or theme through a selection of key works.",
+    "date": "2026-09-14T05:54:35",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/television/monster-the-lizzie-borden-story-what-to-watch.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Monster: The Lizzie Borden Story\u2019 and 8 More Shows to Watch on TV This Week",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/24/movies/international-movies-streaming.html",
     "content": "Naian Gonza\u0301lez Norvind in \u201cCorina.\u201d",
     "date": "2026-07-24T16:13:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Stream These 5 Movies Before They Leave Netflix in August",
-    "author": "Jason T. Bailey",
-    "link": "https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html",
-    "content": "James McAvoy and Keira Knightley in a scene from \u201cAtonement,\u201d adapted from the novel by Ian McEwan.",
-    "date": "2026-07-24T15:48:31",
     "category": "NYT"
   }
 ]
