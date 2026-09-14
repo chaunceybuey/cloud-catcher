@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=242603",
+    "feed_name": "Texas Tribune",
+    "title": "Lawmakers to again consider Texas-wide emergency disaster response system after summer floods, wildfires",
+    "author": "Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17461566/texas-disaster-response-interoperability-council",
+    "content": "State Rep. Ken King, R-Canadian, chair of the House State Affairs Committee, speaks at a hearing in Pampa on the Panhandle wildfires on April 2, 2024.",
+    "date": "2026-09-14T13:17:52",
+    "category": "Texas"
+  },
+  {
     "id": "ff9b4556b70598e9d5f76541d3460f14",
     "feed_name": "LRB",
     "title": "On Politics: Keir Starmer\u2019s Mess",
@@ -226,6 +236,26 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/pluralism-and-the-modern-poet",
     "content": "Many thinkers have characterised modernity by its investment in the idea of pluralism, \u2018of things being various\u2019, in Louis MacNeice\u2019s phrase. How do the virtues of plurality and difference fit with the more traditional virtues of poetic unity and imaginative order? Seamus Perry\u00a0considers the ways in which modern poets have responded to the demands of pluralism, and...",
+    "date": "2026-09-14T12:08:04",
+    "category": "Magazines"
+  },
+  {
+    "id": "1bc6fa97a177bb143886e54a0a1f8594",
+    "feed_name": "LRB",
+    "title": "Early Modern News",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/early-modern-news",
+    "content": "\u2018Information in the early modern world could move no faster than the bodies that carried it,\u2019 John Gallagher wrote recently in theLRB. For a horse and rider, that was just under fifteen kilometres per hour. Yet postal systems, as pioneered by the enterprising Tassis family, were becoming ever more reliable and efficient, at first in northern Italy and then across much of...",
+    "date": "2026-09-14T12:08:04",
+    "category": "Magazines"
+  },
+  {
+    "id": "491d09a02092bd27afe5b3f1cf140251",
+    "feed_name": "LRB",
+    "title": "From the Archive: \u2018The War on Terrorism: Is There an Alternative?\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/aftershock-the-war-on-terror/from-the-archive-the-war-on-terrorism-is-there-an-alternative",
+    "content": "In May 2002, six months after the invasion of Afghanistan but before the Iraq war, theLondon Review of Booksheld a debate: \u2018The War on Terrorism: Is There an Alternative?\u2019 The panel comprised Tariq Ali, Christopher Hitchens, Jacqueline Rose, Anatol Lieven and Onora O\u2019Neill.President Bush\u2019s ultimatum set the tone: either you\u2019re with us or you\u2019re with the...",
     "date": "2026-09-14T12:08:04",
     "category": "Magazines"
   },
@@ -1228,6 +1258,16 @@
     "content": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds",
     "date": "2026-09-11T16:02:32",
     "category": "Magazines"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/how-to-make-a-grain-bowl",
+    "feed_name": "NYT (Food)",
+    "title": "How to Make Every Grain Bowl Delicious",
+    "author": "Ali Slagle",
+    "link": "https://cooking.nytimes.com/article/how-to-make-a-grain-bowl",
+    "content": "Adding a browned, toasted element, like the roasted fennel in this fennel-farro salad, adds nuance to a grain bowl.",
+    "date": "2026-09-11T15:53:15",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/09/11/dining/this-yogurt-cake-is-like-a-lighter-lemon-cheesecake.html",
@@ -19958,45 +19998,5 @@
     "content": "These shows explore stories of corruption and institutional wrongdoing, forging an emotional connection between the listener and the people affected.",
     "date": "2026-07-25T09:00:48",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/25/movies/will-poulter-union-county.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Will Poulter on the TV Series That Reaffirmed His Faith in Humanity",
-    "author": "Kathryn Shattuck",
-    "link": "https://www.nytimes.com/2026/07/25/movies/will-poulter-union-county.html",
-    "content": "\u201cThe show really has highlighted just so much kindness and brought so much understanding to the subject of autism,\u201d the actor said.",
-    "date": "2026-07-25T09:00:46",
-    "category": "NYT"
-  },
-  {
-    "id": "6a63805aa913a700c283cfb2",
-    "feed_name": "Wired (Science)",
-    "title": "Contagious Cancer Found in North American Catfish",
-    "author": "Javier Carbajal",
-    "link": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
-    "content": "Scientists identified the first known cancer transmissible among freshwater fish in a lake that spans the US and Canada.",
-    "date": "2026-07-25T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a63772c40c80b7682864004",
-    "feed_name": "Wired (Science)",
-    "title": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many?",
-    "author": "Megan Tomos",
-    "link": "https://www.wired.com/story/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many/",
-    "content": "Electrolyte powders promise better hydration, energy, and recovery. But unless you\u2019re losing serious fluid, water and food probably have you covered.",
-    "date": "2026-07-25T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "3bcd876d62f4f4b3b3c8693ed723e08e",
-    "feed_name": "LRB",
-    "title": "James Lasdun\u2019s road trip to America\u2019s courts",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/james-lasdun-s-road-trip-to-america-s-courts",
-    "content": "\u2018Courtroom encounters present you with only a fragment of a person\u2019s story, from which you may or may not be inclined to infer the rest,\u2019 James Lasdun wrote recently in theLRB. Last October, he set out on a road trip across America, with the aim of attending as many different kinds of criminal and civil trials as possible in one month. His journey took him from immigration...",
-    "date": "2026-07-25T07:19:01",
-    "category": "Magazines"
   }
 ]
