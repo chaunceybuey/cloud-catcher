@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "0634eeb3b5a1255fd97f71ba2e5e26ad",
+    "feed_name": "LRB",
+    "title": "Anita Brookner\u2019s Edge",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n17/andrew-o-hagan/omelettes-and-whisky",
+    "content": "The notion\u200b that novelists don\u2019t invent might be recent, yet George Eliot got tired of people pointing to the \u2018original\u2019 of Mr Casaubon, who was sometimes said to be Robert William Mackay, a rather pedantic associate of hers at theWestminster Review, or Dr Brabant, a pretentious family man of 62 who had wooed her decades earlier. Others said he was Mark Pattison, the...",
+    "date": "2026-09-14T18:24:22",
+    "category": "Magazines"
+  },
+  {
+    "id": "801f63b623d027f3038b9e2b5f5a5423",
+    "feed_name": "LRB",
+    "title": "Ordinary Abuse",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/ordinary-abuse",
+    "content": "\u2018I hadn\u2019t wanted to have sex with the prince,\u2019 Virginia Giuffre said, \u2018but I felt I had to.\u2019 Reviewing Giuffre\u2019s memoir,Nobody\u2019s Girl, in theLRB, Andrew O\u2019Hagan writes: \u2018All the pomp, tradition, ceremony and \u201cloyalty\u201d in the world can\u2019t wash away the simple facts. Ghislaine Maxwell took this young girl to...",
+    "date": "2026-09-14T18:24:22",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018NAZA,\u2019 Israeli Film About Killings in Gaza, Faces Backlash",
@@ -217,6 +237,16 @@
     "link": "https://www.nybooks.com/articles/2026/09/24/and-yet-it-warms-federal-judges-and-climate-change/",
     "content": "A new edition of a manual that helps federal judges understand scientific subjects included a chapter on climate change that was withdrawn after attacks by denialists.\n\nDelivered by PolitePaul service",
     "date": "2026-09-14T15:48:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "e827f91aee23d0725aac5197f07e06c9",
+    "feed_name": "The Atlantic",
+    "title": "Americans Don\u2019t Understand Who\u2019s Rich",
+    "author": "Owen Zidar",
+    "link": "https://www.theatlantic.com/ideas/2026/09/everywhere-millionaires-tax-code/688584/",
+    "content": "The small-business owners with curiously large fortunes",
+    "date": "2026-09-14T15:15:00",
     "category": "Magazines"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/25/science/guy-tudor-dead.html",
     "content": "A self-taught ornithologist, he won a MacArthur fellowship for his precise, resplendent illustrations that appeared in definitive field guides to tropical songbirds.",
     "date": "2026-07-25T16:32:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/25/dining/i-will-never-not-roast-a-chicken.html",
-    "feed_name": "NYT (Food)",
-    "title": "I Will Never Not Roast a Chicken",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/25/dining/i-will-never-not-roast-a-chicken.html",
-    "content": "Ali Slagle\u2019s roast chicken with caramelized zucchini and leeks.",
-    "date": "2026-07-25T15:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/25/dining/our-very-best-celebration-worthy-cakes.html",
-    "feed_name": "NYT (Food)",
-    "title": "Our Very Best Celebration-Worthy Cakes",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/07/25/dining/our-very-best-celebration-worthy-cakes.html",
-    "content": "Claire Saffitz\u2019s chocolate layer cake.",
-    "date": "2026-07-25T14:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
-    "feed_name": "Douthat",
-    "title": "Why Vance Still Trumps Rubio",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html",
-    "content": "There\u2019s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.",
-    "date": "2026-07-25T11:00:06",
     "category": "NYT"
   }
 ]
