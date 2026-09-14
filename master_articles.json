@@ -220,6 +220,16 @@
     "category": "Magazines"
   },
   {
+    "id": "1f6869de940045181157add150f0a34b",
+    "feed_name": "LRB",
+    "title": "Pluralism and the Modern Poet",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/pluralism-and-the-modern-poet",
+    "content": "Many thinkers have characterised modernity by its investment in the idea of pluralism, \u2018of things being various\u2019, in Louis MacNeice\u2019s phrase. How do the virtues of plurality and difference fit with the more traditional virtues of poetic unity and imaginative order? Seamus Perry\u00a0considers the ways in which modern poets have responded to the demands of pluralism, and...",
+    "date": "2026-09-14T12:08:04",
+    "category": "Magazines"
+  },
+  {
     "id": "65d29ca7ae9a2125619f55a0c2276537",
     "feed_name": "New Yorker",
     "title": "The Sartorial Riches of the Silent-Film Era",
@@ -515,6 +525,16 @@
     "title": "How to Watch the 2026 Emmy Awards",
     "author": "John Koblin",
     "link": "https://www.nytimes.com/2026/09/14/arts/television/how-to-watch-the-2026-emmy-awards.html",
+    "content": "The 78th Emmy Awards will honor shows that aired between June 2025 and May 2026.",
+    "date": "2026-09-14T09:02:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/emmy-awards-how-to-watch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How to Watch the 2026 Emmy Awards",
+    "author": "John Koblin",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/emmy-awards-how-to-watch.html",
     "content": "The 78th Emmy Awards will honor shows that aired between June 2025 and May 2026.",
     "date": "2026-09-14T09:02:31",
     "category": "NYT"
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/james-lasdun-s-road-trip-to-america-s-courts",
     "content": "\u2018Courtroom encounters present you with only a fragment of a person\u2019s story, from which you may or may not be inclined to infer the rest,\u2019 James Lasdun wrote recently in theLRB. Last October, he set out on a road trip across America, with the aim of attending as many different kinds of criminal and civil trials as possible in one month. His journey took him from immigration...",
-    "date": "2026-07-25T07:19:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "1bc6fa97a177bb143886e54a0a1f8594",
-    "feed_name": "LRB",
-    "title": "Early Modern News",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/early-modern-news",
-    "content": "\u2018Information in the early modern world could move no faster than the bodies that carried it,\u2019 John Gallagher wrote recently in theLRB. For a horse and rider, that was just under fifteen kilometres per hour. Yet postal systems, as pioneered by the enterprising Tassis family, were becoming ever more reliable and efficient, at first in northern Italy and then across much of...",
-    "date": "2026-07-25T07:19:01",
-    "category": "Magazines"
-  },
-  {
-    "id": "491d09a02092bd27afe5b3f1cf140251",
-    "feed_name": "LRB",
-    "title": "From the Archive: \u2018The War on Terrorism: Is There an Alternative?\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/aftershock-the-war-on-terror/from-the-archive-the-war-on-terrorism-is-there-an-alternative",
-    "content": "In May 2002, six months after the invasion of Afghanistan but before the Iraq war, theLondon Review of Booksheld a debate: \u2018The War on Terrorism: Is There an Alternative?\u2019 The panel comprised Tariq Ali, Christopher Hitchens, Jacqueline Rose, Anatol Lieven and Onora O\u2019Neill.President Bush\u2019s ultimatum set the tone: either you\u2019re with us or you\u2019re with the...",
     "date": "2026-07-25T07:19:01",
     "category": "Magazines"
   }
