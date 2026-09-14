@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/14/dining/a-bright-shrimp-dinner-that-keeps-things-interesting.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Bright Shrimp Dinner That Keeps Things Interesting",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/14/dining/a-bright-shrimp-dinner-that-keeps-things-interesting.html",
+    "content": "Kay Chun\u2019s citrus shrimp with capers and celery.",
+    "date": "2026-09-14T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242603",
     "feed_name": "Texas Tribune",
     "title": "Lawmakers to again consider Texas-wide emergency disaster response system after summer floods, wildfires",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/25/arts/music/dread-beat-an-blood-linton-kwesi-johnson.html",
     "content": "Linton Kwesi Johnson in \u201cDread Beat an Blood.\u201d",
     "date": "2026-07-25T09:01:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/25/arts/television/pompeii-tom-hiddleston-national-geographic-documentary.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Pompeii, Tom Hiddleston, \u2018Amateur Classicist,\u2019 Sees Lessons for Today",
-    "author": "Graham Bowley",
-    "link": "https://www.nytimes.com/2026/07/25/arts/television/pompeii-tom-hiddleston-national-geographic-documentary.html",
-    "content": "A new docuseries sent the star of \u201cLoki,\u201d who holds a classics degree, back to the site of an ancient tragedy, in search of relatable human stories.",
-    "date": "2026-07-25T09:00:58",
     "category": "NYT"
   }
 ]
