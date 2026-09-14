@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/egg-dinner-salsa-de-chorizo-recipe",
+    "feed_name": "NYT (Food)",
+    "title": "Turn Eggs Into Dinner With This Salsa de Chorizo Recipe",
+    "author": "Pati Jinich",
+    "link": "https://cooking.nytimes.com/article/egg-dinner-salsa-de-chorizo-recipe",
+    "content": "Salsa de chorizo, on the other hand, has been nourishing Coahuila for generations.",
+    "date": "2026-09-14T20:35:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/music/macklemore-ed-sheeran-tour-palestine-gaza.html",
     "feed_name": "NYT (Arts)",
     "title": "Macklemore Dropped From Ed Sheeran Tour After \u2018Free Palestine\u2019 Remarks",
@@ -19988,15 +19998,5 @@
     "content": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
     "date": "2026-07-26T10:45:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/20709-austin-chamber-music-center-galvin-cello-quartet",
-    "feed_name": "KMFA",
-    "title": "Austin Chamber Music Center: Galvin Cello Quartet",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/20709-austin-chamber-music-center-galvin-cello-quartet",
-    "content": "AUSTIN CHAMVER MUSIC CENTER PRESENTS\n\nGALVIN CELLO QUARTET\n\nJULY 25 | 7:30 P.M. | BATES RECITAL HALL\n\n\n\nExperience \u201cA Night at the Opera\u201d with the award-winning Galvin Cello Quartet, where four cellos transform into an entire opera company. You\u2019ll hear the drama, passion, and unforgettable melodies of the world\u2019s greatest operas\u2014from the bubbly overtures of Mozart to the fiery passion of Carmen. This program reimagines these grand theatrical works in an intimate setting, showcasing the cello\u2019s unique ability to sing and tell stories.\n\nArtists:\n\n\n\tSydney Lee\n\tJames Baik\n\tHaddon Kay\n\tLuiz Fernando Venturelli\n\n\nProgram\n\n\n\tMozart: Marriage of Figaro: Overture\n\tMassenet: Meditation from \u201cThais\u201d\n\tBeethoven: 12 Variations on a Theme from Handel\u2019s Judas Maccabaeus\n\tPaganini: Variations on a Theme by Rossini (\u201cMoses\u201d)\n\tClara Schumann: 6 Lieder, Op. 13\n\tJohann Strauss Sr.: Jelacic March, Op. 244\n\tBizet: Suite from Carmen\n\tBellini: Casta Diva\n\tBritten: The Salley Gardens\n\tJohann Strauss Jr.: Overture to \u201cDie Fledermaus\u201d\n\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, July 25, 2026\nTime: 7:30 P.M.\nVenue: Bates Recital Hall\n\nTicket Information\nCost: $12.00 \u2013 $80.00\nPhone: \n\nPresenter Details: The Austin Chamber Music Center creates chamber music experiences that connect, educate, and inspire our community.",
-    "date": "2026-07-25T19:30:00",
-    "category": "Texas"
   }
 ]
