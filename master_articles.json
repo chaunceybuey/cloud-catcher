@@ -260,6 +260,16 @@
     "category": "Magazines"
   },
   {
+    "id": "3bcd876d62f4f4b3b3c8693ed723e08e",
+    "feed_name": "LRB",
+    "title": "James Lasdun\u2019s road trip to America\u2019s courts",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/james-lasdun-s-road-trip-to-america-s-courts",
+    "content": "\u2018Courtroom encounters present you with only a fragment of a person\u2019s story, from which you may or may not be inclined to infer the rest,\u2019 James Lasdun wrote recently in theLRB. Last October, he set out on a road trip across America, with the aim of attending as many different kinds of criminal and civil trials as possible in one month. His journey took him from immigration...",
+    "date": "2026-09-14T12:08:04",
+    "category": "Magazines"
+  },
+  {
     "id": "65d29ca7ae9a2125619f55a0c2276537",
     "feed_name": "New Yorker",
     "title": "The Sartorial Riches of the Silent-Film Era",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/25/arts/television/pompeii-tom-hiddleston-national-geographic-documentary.html",
     "content": "A new docuseries sent the star of \u201cLoki,\u201d who holds a classics degree, back to the site of an ancient tragedy, in search of relatable human stories.",
     "date": "2026-07-25T09:00:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/25/arts/podcasts-coverups-larry-nasser.html",
-    "feed_name": "NYT (Arts)",
-    "title": "6 Podcasts About Scandals and Cover-Ups",
-    "author": "Emma Dibdin",
-    "link": "https://www.nytimes.com/2026/07/25/arts/podcasts-coverups-larry-nasser.html",
-    "content": "These shows explore stories of corruption and institutional wrongdoing, forging an emotional connection between the listener and the people affected.",
-    "date": "2026-07-25T09:00:48",
     "category": "NYT"
   }
 ]
