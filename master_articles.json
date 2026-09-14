@@ -180,6 +180,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026",
+    "feed_name": "NYT (Arts)",
+    "title": "Emmy Awards Live Updates: Stars of the Small Screen Gather Ahead of TV\u2019s Biggest Night",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026",
+    "content": "Mariska Hargitay, host of the 78th Emmy Awards, on the blue carpet in Los Angeles, Calif., last week.",
+    "date": "2026-09-14T21:42:24",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/heres-the-latest",
+    "feed_name": "NYT (Arts)",
+    "title": "Here\u2019s the latest.",
+    "author": "John Koblin",
+    "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/heres-the-latest",
+    "content": "",
+    "date": "2026-09-14T21:41:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242715",
+    "feed_name": "Texas Tribune",
+    "title": "Trump nominates U.S. Rep. Wesley Hunt of Houston to be ambassador to Saudi Arabia",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17461897/texas-wesley-hunt-saudi-arabia-ambassador",
+    "content": "U.S. Rep. Wesley Hunt, R-Houston, speaks during a Texas Republican candidate debate at the Civic Center in Canton on Jan. 17, 2026.",
+    "date": "2026-09-14T21:18:33",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242717",
+    "feed_name": "Texas Tribune",
+    "title": "Gov. Greg Abbott orders Texas water agency to penalize data centers that don\u2019t report their water usage",
+    "author": "By Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17461898/texas-data-centers-abbott-water-survey-enforcement",
+    "content": "Gov. Greg Abbott speaks at a press conference at the Texas Department of Emergency Management headquarters in Austin on Aug. 31, 2026.",
+    "date": "2026-09-14T21:03:02",
+    "category": "Texas"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/egg-dinner-salsa-de-chorizo-recipe",
     "feed_name": "NYT (Food)",
     "title": "Turn Eggs Into Dinner With This Salsa de Chorizo Recipe",
@@ -19958,45 +19998,5 @@
     "content": "AUSTIN CHAMBER MUSIC CENTER PRESENTS\n\nARIEL QUARTET\n\nJULY 26 | 3:00 P.M. | BATES RECITAL HALL\n\n\n\nEmbark on a journey into the soul of the string quartet with the internationally renowned Ariel Quartet, known for their fiery and passionate performances. This concert explores the depths of musical expression, from the turbulent and grief-stricken final quartet of a romantic genius to the revolutionary, introspective, and ultimately transcendent world of one of Beethoven\u2019s last great works. It\u2019s an evening of profound emotion and sublime beauty.\n\nArtists\n\n\n\tAlexandra Kazovsky, violin\n\tGershon Gerchikov, violin\n\tJan Gruning, viola\n\tAmit Even\u2013Tov, cello\n\n\nProgram\n\n\n\tMendelssohn: Quartet in F Minor, Opus 80\n\tAlban Berg: String Quartet, Op. 3\n\tLudwig van Beethoven: String Quartet Op 132\n\n\nBUY TICKETS!\n\nEvent Details\nDate: Sunday, July 26, 2026\nTime: 3:00 P.M.\nVenue: Bates Recital Hall\n\nTicket Information\nCost: $12.00 - $80.00\nPhone: \n\nPresenter Details: The Austin Chamber Music Center creates chamber music experiences that connect, educate, and inspire our community.",
     "date": "2026-07-26T15:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "f06a47c9-9b58-4af7-b27c-42806b9b0ad7",
-    "feed_name": "Economist",
-    "title": "How high will oil prices go this time?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/26/how-high-will-oil-prices-go-this-time",
-    "content": "As trouble mounts in the Gulf and the Red Sea, fears are rising once again",
-    "date": "2026-07-26T14:06:48",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/26/dining/some-like-it-hot-and-then-cold.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Some Like It Hot, and Then Cold",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/26/dining/some-like-it-hot-and-then-cold.html",
-    "content": "Five of my favorite quick, easy dinners that turn into no-reheating-needed lunches.",
-    "date": "2026-07-26T13:00:08",
-    "category": "NYT"
-  },
-  {
-    "id": "2d9ddd7fae4c6edcb841cee8e750f8d7",
-    "feed_name": "The Atlantic",
-    "title": "Joe Rogan\u2019s New British Crush",
-    "author": "Helen Lewis",
-    "link": "https://www.theatlantic.com/ideas/2026/07/rupert-lowe-restore-britain-rogan/688033/",
-    "content": "Rupert Lowe understands what the American right wants to hear.",
-    "date": "2026-07-26T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a63f6bb2dfb4c1c0727105c",
-    "feed_name": "Wired (Science)",
-    "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
-    "author": "Matt Simon",
-    "link": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
-    "content": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
-    "date": "2026-07-26T10:45:00",
-    "category": "Magazines"
   }
 ]
