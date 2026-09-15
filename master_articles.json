@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "45ea54e1-af05-4277-b956-1d8582a19a05",
+    "feed_name": "Economist",
+    "title": "Scott Bessent should stop blaming the bond market",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market",
+    "content": "It is working just fine; his interventions, less so",
+    "date": "2026-09-15T19:43:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/arts/music/oliver-jones-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Oliver Jones, \u2018Greatest Living Jazz Musician in Canada,\u2019 Dies at 91",
@@ -19988,15 +19998,5 @@
     "content": "From left, Ivan Howe, Julius Rinzel and Stanley Simons in the play \u201cThe Saviors\u201d at the Atlantic Theater Company\u2019s Linda Gross Theater in Manhattan.",
     "date": "2026-07-28T01:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238099",
-    "feed_name": "Texas Tribune",
-    "title": "Witness to Houston ICE shooting must be released from immigration detention, judge orders",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17389265/texas-houston-ice-shooting-witness-release",
-    "content": "People shine lights on FDC Houston \u2014 the Federal Detention Center in Houston \u2014 during a protest on July 11, 2026 over the killing of Lorenzo Salgado Araujo.",
-    "date": "2026-07-27T23:46:49",
-    "category": "Texas"
   }
 ]
