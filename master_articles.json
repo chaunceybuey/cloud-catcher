@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/arts/television/jimmy-fallon-trump-ai.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Fallon Doesn\u2019t Trust Trump to Handle A.I. Concerns",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/15/arts/television/jimmy-fallon-trump-ai.html",
+    "content": "\u201cWe\u2019re relying on Trump to beat A.I.; I don\u2019t even think Trump can beat Wordle,\u201d Fallon said.",
+    "date": "2026-09-15T05:32:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Widow\u2019s Bay\u2019 Dominates, and 7 Other Takeaways From the 2026 Emmys",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/gallery/cartoons-from-the-august-3-2026-issue",
     "content": "Drawings from the August 3, 2026, magazine.",
-    "date": "2026-07-27T12:24:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "939b1be71ff7d1364009a647375cb25f",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Wednesday, July 22, 2026",
-    "author": "ByCaitlin Reid",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/07/22",
-    "content": "A beginner-friendly puzzle.",
     "date": "2026-07-27T12:24:56",
     "category": "Magazines"
   }
