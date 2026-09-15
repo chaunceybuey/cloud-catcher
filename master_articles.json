@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/arts/music/jeff-zeigler-we-were-fridays-gullah-geechee-music.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Cellist Jeffrey Zeigler Explores His Family\u2019s Gullah Geechee Roots",
+    "author": "Anastasia Tsioulcas",
+    "link": "https://www.nytimes.com/2026/09/15/arts/music/jeff-zeigler-we-were-fridays-gullah-geechee-music.html",
+    "content": "Jeffrey Zeigler grew up knowing almost nothing about his father\u2019s family. As an undergraduate he visited an older relative who provided him with stories and family lore.",
+    "date": "2026-09-15T13:28:44",
+    "category": "NYT"
+  },
+  {
     "id": "8aa1c5ca801795ee5cea225138bd9b89",
     "feed_name": "Compact",
     "title": "Germany\u2019s China Shock Will Push Voters Right",
@@ -198,6 +208,16 @@
     "content": "Protesters last week outside the Vienna Actionism Museum, which is known by its German initials, W.A.M. The banner says the institution is \u201ca perpetrator\u2019s museum.\u201d",
     "date": "2026-09-15T13:01:31",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242748",
+    "feed_name": "Texas Tribune",
+    "title": "Paxton campaign makes first major ad buy in Senate race",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17462509/texas-ken-paxton-first-ads-james-talarico",
+    "content": "Texas Attorney General and Republican candidate for U.S. Senate speaks at the 2026 Republican Convention in Dallas on Sept. 9, 2026.",
+    "date": "2026-09-15T13:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/09/15/theater/annie-broadway-revival.html",
@@ -19978,25 +19998,5 @@
     "content": "A still from \u201cPurple Rain,\u201d Prince\u2019s film from 1984, which a new musical adapts.",
     "date": "2026-07-27T16:00:07",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238044",
-    "feed_name": "Texas Tribune",
-    "title": "Floodwater delays Corpus Christi\u2019s water emergency until fall 2028",
-    "author": "Alejandra Martinez",
-    "link": "https://feeds.texastribune.org/link/16799/17388229/corpus-christi-water-texas-floodwater-emergency",
-    "content": "A portable boat ramp, the only one operational out of six at Lake Corpus Christi State Park, on Oct. 20, 2025. Water levels in the reservoirs serving Corpus Christi have been rising.",
-    "date": "2026-07-27T15:49:31",
-    "category": "Texas"
-  },
-  {
-    "id": "6a677137fe9f8bb0782adbc8",
-    "feed_name": "Wired (Science)",
-    "title": "Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago",
-    "author": "Kate Knibbs",
-    "link": "https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/",
-    "content": "Beluga whales were in danger of getting euthanized after a Canadian theme park went bust. WIRED spoke with some of the scientists behind the groundbreaking rescue mission.",
-    "date": "2026-07-27T15:33:56",
-    "category": "Magazines"
   }
 ]
