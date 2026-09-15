@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "The New Restaurant at the Public Theater Revives the Astor Family Name",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/09/15/dining/nyc-restaurant-news.html",
+    "content": "The NoHo Hospitality Group reimagines the dining room at the Public Theater, Lana Lagomarsini serves up tasting menus at Creola and more food news.",
+    "date": "2026-09-15T17:12:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/arts/television/canada-emmys-catherine-ohara-michael-j-fox.html",
     "feed_name": "NYT (Arts)",
     "title": "No \u2018Heated Rivalry\u2019? Canada Still Has a Big Night at the Emmys.",
@@ -19988,15 +19998,5 @@
     "content": "D4vd, whose real name is David Burke, is perhaps best known for creating the anthem to the video game Fortnite. In April, he was charged with first-degree murder.",
     "date": "2026-07-27T20:58:49",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238078",
-    "feed_name": "Texas Tribune",
-    "title": "U.S. House Ethics Committee is investigating GOP Rep. Lance Gooden",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17389176/texas-lance-gooden-house-ethics-committee-probe-office-congressional-conduct",
-    "content": "U.S. Rep. Lance Gooden, R-Terrell, attends a House Armed Services Committee hearing in the Rayburn building in Washington on April 29, 2026.",
-    "date": "2026-07-27T20:55:41",
-    "category": "Texas"
   }
 ]
