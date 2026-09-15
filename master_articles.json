@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/dining/101-vegetarian-recipes-for-your-bookshelf.html",
+    "feed_name": "NYT (Food)",
+    "title": "101 Vegetarian Recipes for Your Bookshelf",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/09/15/dining/101-vegetarian-recipes-for-your-bookshelf.html",
+    "content": "My cookbook, \u201cVeg Everything,\u201d has arrived. It can be yours today, and forever.",
+    "date": "2026-09-15T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/arts/music/jeff-zeigler-we-were-fridays-gullah-geechee-music.html",
     "feed_name": "NYT (Arts)",
     "title": "The Cellist Jeffrey Zeigler Explores His Family\u2019s Gullah Geechee Roots",
@@ -19988,15 +19998,5 @@
     "content": "Texas Lt. Gov. Dan Patrick speaks during the Texas Public Policy Foundation\u2019s Texas Policy Summit  in Austin on April 8, 2026.",
     "date": "2026-07-27T16:37:48",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/theater/prince-purple-rain-broadway.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Purple Rain,\u2019 Packed With Prince Songs, Plans Broadway Opening",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/07/27/theater/prince-purple-rain-broadway.html",
-    "content": "A still from \u201cPurple Rain,\u201d Prince\u2019s film from 1984, which a new musical adapts.",
-    "date": "2026-07-27T16:00:07",
-    "category": "NYT"
   }
 ]
