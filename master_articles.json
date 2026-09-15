@@ -180,6 +180,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/emmys-in-memoriam-dolly-parton-rob-reiner.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Academy Honors Rob Reiner, Catherine O\u2019Hara and Others in the \u2018In Memoriam\u2019 Segment",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/emmys-in-memoriam-dolly-parton-rob-reiner.html",
+    "content": "Rob Reiner, center, with Billy Crystal and Meg Ryan during production of \u201cWhen Harry Met Sally.\u201d",
+    "date": "2026-09-15T02:47:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/dolly-parton-reba-mcentire-appalachian-memories.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Reba McEntire Honors Dolly Parton With Rendition of \u2018Appalachian Memories\u2019",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/dolly-parton-reba-mcentire-appalachian-memories.html",
+    "content": "Reba McEntire singing a tribute to Dolly Parton during the Emmy Awards.",
+    "date": "2026-09-15T02:19:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242769",
+    "feed_name": "Texas Tribune",
+    "title": "UT students attacked by Bo French call his comments \u201cdisgusting\u201d and too familiar",
+    "author": "Megan Menchaca",
+    "link": "https://feeds.texastribune.org/link/16799/17462113/bo-french-university-texas-austin-students",
+    "content": "Texas Longhorns fans and players celebrate following the NCAA football game against the Ohio State Buckeyes at Darrell K Royal-Texas Memorial Stadium in Austin on Saturday. Students said they were not surprised a Republican candidate lobbed racist attacks about South Asian students seen celebrating the win.",
+    "date": "2026-09-15T02:03:13",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-emmy-best-comedy.html",
     "feed_name": "NYT (Arts)",
     "title": "Widow\u2019s Bay\u2019 Dominates the Emmy Comedy Category",
@@ -19968,35 +19998,5 @@
     "content": "The singer-songwriter, 83, has also had surgery to treat basal cell carcinoma on her face, making her \u201cself-conscious about being seen in public,\u201d she said.",
     "date": "2026-07-27T11:50:09",
     "category": "NYT"
-  },
-  {
-    "id": "9cbee4bf7aa794c230d373fdc3ea186b",
-    "feed_name": "The Atlantic",
-    "title": "Reading the Bible in School Is Good",
-    "author": "Adam Kirsch",
-    "link": "https://www.theatlantic.com/ideas/2026/07/texas-public-schools-bible/688054/",
-    "content": "Everywhere you look in American history, you will find the language, stories, and concepts from the Bible.",
-    "date": "2026-07-27T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "18766536f5df39ced5c51b68d16c2697",
-    "feed_name": "The Atlantic",
-    "title": "How Netanyahu Lost America",
-    "author": "Franklin Foer",
-    "link": "https://www.theatlantic.com/ideas/2026/07/bibi-netanyahu-israel-failures-antisemitism/688050/",
-    "content": "The prime minister, a self-styled expert on the U.S., has shattered his country\u2019s standing.",
-    "date": "2026-07-27T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19574",
-    "feed_name": "Stratechery",
-    "title": "Vacation: Week of July 27",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/vacation-week-of-july-27/",
-    "content": "<p class=\"wp-block-paragraph\">Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"http://sharptech.fm/\">Sharp Tech</a>, and <a href=\"https://goat.passport.online/member\">Greatest of All Talk</a>&nbsp;&nbsp;will also return the week of August 3.&nbsp;<a href=\"https://goat.passport.online/member\"></a><a href=\"http://sharpchina.fm/\">Sharp China</a>&nbsp;and&nbsp;<a href=\"https://asianometry.passport.online/member\">Asianometry&nbsp;</a>will continue to publish, and there will be one episode of <a href=\"http://dithering.fm/\">Dithering</a> next week.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The full Stratechery posting schedule is&nbsp;<a href=\"https://stratechery.com/daily-update/daily-update-schedule/\">here</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>",
-    "date": "2026-07-27T10:00:00",
-    "category": "Tech"
   }
 ]
