@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/the-late-show-stephen-colbert-emmy-.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Late Show With Stephen Colbert\u2019 Goes Out With an Emmy Win",
+    "author": "John Koblin and Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/the-late-show-stephen-colbert-emmy-.html",
+    "content": "\u201cThe Late Show With Stephen Colbert\u201d was named best variety show for its final season.",
+    "date": "2026-09-15T01:39:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/television/matthew-rhys-emmys-widows-bay-the-beast-in-me.html",
     "feed_name": "NYT (Arts)",
     "title": "Matthew Rhys Achieves a Historic Emmys Trifecta",
@@ -19988,15 +19998,5 @@
     "content": "The Texas Tech University Administration Building towers above surrounding trees in Lubbock on Sept. 30, 2025.",
     "date": "2026-07-27T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "4c5fd48fbcb188a990ab9834176dd65d",
-    "feed_name": "The Atlantic",
-    "title": "The Preacher",
-    "author": "Jenisha Watts",
-    "link": "https://www.theatlantic.com/ideas/2026/07/feature-governor-wes-moore/687804/",
-    "content": "Wes Moore isn\u2019t here to save the Democratic Party.",
-    "date": "2026-07-27T09:55:00",
-    "category": "Magazines"
   }
 ]
