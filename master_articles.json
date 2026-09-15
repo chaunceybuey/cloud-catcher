@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a8f4b9f0f949eaf20fb3777",
+    "feed_name": "Wired (Science)",
+    "title": "Those Viral Bodega Peptides Aren\u2019t Actually Peptides",
+    "author": "Sophie Kleeman, Kate Knibbs",
+    "link": "https://www.wired.com/story/viral-bodega-peptides-tests-show-they-arent-peptides-oops/",
+    "content": "WIRED tested samples of four types of peptides. The results show how lightly regulated the industry is, even as popularity surges.",
+    "date": "2026-09-15T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
     "feed_name": "ProPublica",
     "title": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump\u2019s Arctic Adviser",
@@ -208,6 +218,26 @@
     "content": "<p>ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.</p>",
     "date": "2026-09-15T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242740",
+    "feed_name": "Texas Tribune",
+    "title": "Meet the Gen-Z GOP political consultant helping lead the Texas comptroller\u2019s office",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17462392/texas-comptroller-shakeup-don-huffines-noah-betz",
+    "content": "Noah Betz is the chief operating officer at the Texas comptroller&#039;s under Don Huffines, interim agency head and Republican nominee for the office in the November election.",
+    "date": "2026-09-15T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242762",
+    "feed_name": "Texas Tribune",
+    "title": "Inactive oil and gas wells to go under review at hearing",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17462393/texas-railroad-commission-orphan-wells-hearing",
+    "content": "The waste water pits at The Richards Recycling Facility in Lenorah on Feb. 24, 2024.",
+    "date": "2026-09-15T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "6aa860430e2b39fcc16e6f65",
@@ -19966,36 +19996,6 @@
     "author": "ByMichael Schulman",
     "link": "https://www.newyorker.com/magazine/2026/08/03/john-leguizamo-is-a-noble-fellow",
     "content": "The \u201cIce Age\u201d actor steals Christopher Nolan\u2019s \u201cThe Odyssey,\u201d as a loyal swineherd to Matt Damon\u2019s Odysseus. Back in New York, he bought the director a two-thousand-year-old thank-you gift.",
-    "date": "2026-07-27T12:24:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "6671df40743c122825ef090983ac46f5",
-    "feed_name": "New Yorker",
-    "title": "Get Yer Statue of Liberty Here!",
-    "author": "ByEmma Allen",
-    "link": "https://www.newyorker.com/magazine/2026/08/03/get-yer-statue-of-liberty-here",
-    "content": "The Hamptons Fine Art Fair recently exhibited a ten-foot Lady Liberty. Noble, solemn, and\u2014wait, how much?",
-    "date": "2026-07-27T12:24:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "7c3ac5b97830511cee01c22fc3dc7ab4",
-    "feed_name": "New Yorker",
-    "title": "Take Me Out to the Brainball Game",
-    "author": "ByBen McGrath",
-    "link": "https://www.newyorker.com/magazine/2026/08/03/take-me-out-to-the-brainball-game",
-    "content": "Hundreds of neurosurgeons gathered in Central Park for inter-hospital softball. Who took home the skull-shaped trophy?",
-    "date": "2026-07-27T12:24:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "02f893521bf31b6eab8b7f041ad26b8c",
-    "feed_name": "New Yorker",
-    "title": "Fab Morvan Takes Back His Voice",
-    "author": "ByJohn Seabrook",
-    "link": "https://www.newyorker.com/magazine/2026/08/03/fab-morvan-takes-back-his-voice",
-    "content": "Decades after Milli Vanilli\u2019s lip-synching scandal, the singer is still reclaiming his legacy\u2014with a documentary, an EP, and an almost-performance at Trump\u2019s state fair.",
     "date": "2026-07-27T12:24:56",
     "category": "Magazines"
   }
