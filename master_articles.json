@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/arts/music/ed-sheeran-tour-macklemore-palestine-gaza-finneas.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Pro-Palestinian Remarks Roil Sheeran Tour, Leading Finneas to Drop Out",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/09/15/arts/music/ed-sheeran-tour-macklemore-palestine-gaza-finneas.html",
+    "content": "In a social media statement on Tuesday announcing he was dropping out of the Sheeran tour, Finneas said, \u201cI stand with Palestine and its people.\u201d",
+    "date": "2026-09-15T21:13:34",
+    "category": "NYT"
+  },
+  {
+    "id": "fe87d33d-c5a2-4292-98db-14e46f78b59d",
+    "feed_name": "Economist",
+    "title": "What Africa\u2019s biggest IPO can do for its stock markets",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
+    "content": "A new generation of investors is buying up African stocks",
+    "date": "2026-09-15T20:44:13",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/books/mrbeast-james-patterson-most-dangerous-games-novel.html",
     "feed_name": "NYT (Arts)",
     "title": "Can MrBeast Get Gen Z to Read James Patterson?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html",
     "content": "\u201cAnd let\u2019s just say Iran\u2019s not the only thing he bombed,\u201d Seth Meyers said of the president\u2019s performance at the White House Correspondents\u2019 Dinner.",
     "date": "2026-07-28T06:27:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/theater/cat-cohen-broad-strokes.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018Cat Cohen: Broad Strokes,\u2019 a Comic Faces Death (and Being Basic)",
-    "author": "Jason Zinoman",
-    "link": "https://www.nytimes.com/2026/07/27/theater/cat-cohen-broad-strokes.html",
-    "content": "In \u201cCat Cohen: Broad Strokes,\u201d Cohen is shifting from a stripped-down cabaret aesthetic to a flashier theater of the macabre.",
-    "date": "2026-07-28T01:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/theater/the-saviors-review-childlike-faith-adult-betrayal.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Saviors\u2019 Review: Childlike Faith, Adult Betrayal",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/07/27/theater/the-saviors-review-childlike-faith-adult-betrayal.html",
-    "content": "From left, Ivan Howe, Julius Rinzel and Stanley Simons in the play \u201cThe Saviors\u201d at the Atlantic Theater Company\u2019s Linda Gross Theater in Manhattan.",
-    "date": "2026-07-28T01:00:05",
     "category": "NYT"
   }
 ]
