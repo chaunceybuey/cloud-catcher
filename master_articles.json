@@ -190,6 +190,16 @@
     "category": "NYT"
   },
   {
+    "id": "77f9aa0da07126566a6b8cca11339802",
+    "feed_name": "The Atlantic",
+    "title": "The Supreme Court Recognizes the Danger of Trump\u2019s Election Plan",
+    "author": "Quinta Jurecic",
+    "link": "https://www.theatlantic.com/ideas/2026/09/supreme-court-trump-election-plan/688626/",
+    "content": "A majority of justices decided not to make the coming elections needlessly more chaotic than they already are.",
+    "date": "2026-09-15T03:33:13",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Widow\u2019s Bay\u2019 Dominates, and 7 Other Takeaways From the 2026 Emmys",
@@ -19986,16 +19996,6 @@
     "author": "ByMichael Dickman",
     "link": "https://www.newyorker.com/magazine/2026/08/03/tick-check-michael-dickman-poem",
     "content": "\u201cA living freckle / That knows your name and knows / That it is spring and feels a kind of imaginary privacy.\u201d",
-    "date": "2026-07-27T12:24:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "00781b84b2348b2c02a9efd39906ae09",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-august-3-2026-issue",
-    "content": "Drawings from the August 3, 2026, magazine.",
     "date": "2026-07-27T12:24:56",
     "category": "Magazines"
   }
