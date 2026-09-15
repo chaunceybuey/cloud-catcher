@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/arts/music/amplifier-newsletter-remi-wolf-tinashe-cameron-winter.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Our Critic\u2019s Picks of Albums Coming This Fall",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/09/15/arts/music/amplifier-newsletter-remi-wolf-tinashe-cameron-winter.html",
+    "content": "Remi Wolf",
+    "date": "2026-09-15T18:00:03",
+    "category": "NYT"
+  },
+  {
+    "id": "2217d1731803f111747998c93b6de65c",
+    "feed_name": "LRB",
+    "title": "9/15",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/september/9-15",
+    "content": "On Saturday, 15 September 2001, a friend and I went to help the members of an Anglia TV documentary team collect their belongings from a building.\u00a0.\u00a0.",
+    "date": "2026-09-15T17:59:59",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "The New Restaurant at the Public Theater Revives the Astor Family Name",
@@ -238,6 +258,16 @@
     "content": "Thousands of people selected their television favorites of the season. Here\u2019s how they voted.",
     "date": "2026-09-15T16:01:11",
     "category": "NYT"
+  },
+  {
+    "id": "a69985202651148a969dfdc6b90c31f3",
+    "feed_name": "The Atlantic",
+    "title": "Trump\u2019s Position on AI Makes No Sense",
+    "author": "Rog\u00e9 Karma",
+    "link": "https://www.theatlantic.com/ideas/2026/09/trump-ai-china/688629/",
+    "content": "If the president is so concerned about staying ahead in the AI race, why is he letting Chinese companies buy American chips?",
+    "date": "2026-09-15T15:47:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/27/arts/design/betye-saar-dead.html",
     "content": "Bettye Saar in 2019.",
     "date": "2026-07-27T21:40:51",
-    "category": "NYT"
-  },
-  {
-    "id": "6a67bbcf6f953c2323321b85",
-    "feed_name": "Wired (Science)",
-    "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
-    "author": "Fernanda Gonz\u00e1lez",
-    "link": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
-    "content": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them.",
-    "date": "2026-07-27T21:06:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/theater/game-of-thrones-mad-king-royal-shakespeare-cancellations.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Despite Cancellations, Company Says \u2018Game of Thrones\u2019 Play Is On Track",
-    "author": "Precious Adesina",
-    "link": "https://www.nytimes.com/2026/07/27/theater/game-of-thrones-mad-king-royal-shakespeare-cancellations.html",
-    "content": "\u201cGame of Thrones: The Mad King\u201d is scheduled to open officially on Aug. 8 and run through Sept. 5 at the Royal Shakespeare Theater in Stratford-upon-Avon, England.",
-    "date": "2026-07-27T21:04:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/arts/music/d4vd-celesete-rivas-hernandez-murder.html",
-    "feed_name": "NYT (Arts)",
-    "title": "D4vd Murder Case May Go to Trial, Judge Rules",
-    "author": "Matt Stevens",
-    "link": "https://www.nytimes.com/2026/07/27/arts/music/d4vd-celesete-rivas-hernandez-murder.html",
-    "content": "D4vd, whose real name is David Burke, is perhaps best known for creating the anthem to the video game Fortnite. In April, he was charged with first-degree murder.",
-    "date": "2026-07-27T20:58:49",
     "category": "NYT"
   }
 ]
