@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Prosecutors Will Not Seek Death Penalty for Nick Reiner",
+    "author": "Matt Stevens and Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
+    "content": "Nick Reiner is charged with murder under special circumstances because there were multiple killings. He has pleaded not guilty.",
+    "date": "2026-09-15T15:35:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/dining/dumpling-tomato-salad-season-wont-last-forever.html",
     "feed_name": "NYT (Food)",
     "title": "Dumpling Tomato Salad Season Won\u2019t Last Forever",
@@ -19988,15 +19998,5 @@
     "content": "The euro gets a makeover",
     "date": "2026-07-27T17:16:17",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/arts/music/handel-tolomeo-caramoor.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Review: Handel\u2019s \u2018Tolomeo\u2019 Comes to Caramoor",
-    "author": "Gabrielle Ferrari",
-    "link": "https://www.nytimes.com/2026/07/27/arts/music/handel-tolomeo-caramoor.html",
-    "content": "Philharmonia Baroque Orchestra came to Caramoor with Handel\u2019s \u201cTolomeo,\u201d a far-fetched opera seria with a lively score.",
-    "date": "2026-07-27T16:51:12",
-    "category": "NYT"
   }
 ]
