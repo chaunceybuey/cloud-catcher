@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/books/mrbeast-james-patterson-most-dangerous-games-novel.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Can MrBeast Get Gen Z to Read James Patterson?",
+    "author": "Ash Wu",
+    "link": "https://www.nytimes.com/2026/09/15/books/mrbeast-james-patterson-most-dangerous-games-novel.html",
+    "content": "MrBeast and James Patterson on \u201cFox & Friends\u201d earlier this month to promote their new book, \u201cThe Most Dangerous Games.\u201d",
+    "date": "2026-09-15T20:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/15/dining/restaurant-review-cheburechnaya-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Cheburechnaya in NYC",
+    "author": "Ryan Sutton",
+    "link": "https://www.nytimes.com/2026/09/15/dining/restaurant-review-cheburechnaya-nyc.html",
+    "content": "At Cheburechnaya, specialties of Kosher Uzbek cooking, like lamb ribs and veal liver, are chargrilled and stuffed into beautiful, doughy buns.",
+    "date": "2026-09-15T20:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/arts/music/oliver-jones-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Oliver Jones, \u2018Greatest Living Jazz Musician in Canada,\u2019 Dies at 91",
@@ -19978,25 +19998,5 @@
     "content": "People shine lights on FDC Houston \u2014 the Federal Detention Center in Houston \u2014 during a protest on July 11, 2026 over the killing of Lorenzo Salgado Araujo.",
     "date": "2026-07-27T23:46:49",
     "category": "Texas"
-  },
-  {
-    "id": "6a67d6c4fc15b8f5aefc045a",
-    "feed_name": "Wired (Science)",
-    "title": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
-    "author": "Brian Kahn",
-    "link": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/",
-    "content": "Extreme fire conditions on the ground have created unprecedented conditions in the atmosphere.",
-    "date": "2026-07-27T22:57:20",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/arts/music/bill-mcglaughlin-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Bill McGlaughlin, Who Unlocked Classical Music for Many, Dies at 82",
-    "author": "Tim Page",
-    "link": "https://www.nytimes.com/2026/07/27/arts/music/bill-mcglaughlin-dead.html",
-    "content": "His public-radio programs \u201cSaint Paul Sunday\u201d and \u201cExploring Music\u201d were, at their height, listened to by hundreds of thousands of people a week.",
-    "date": "2026-07-27T22:30:38",
-    "category": "NYT"
   }
 ]
