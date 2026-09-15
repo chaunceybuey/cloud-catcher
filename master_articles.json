@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/arts/music/trumps-name-must-stay-off-kennedy-center-judge-rules.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Trump\u2019s Name Must Stay Off Kennedy Center, Judge Rules",
+    "author": "Julia Jacobs and Zach Montague",
+    "link": "https://www.nytimes.com/2026/09/15/arts/music/trumps-name-must-stay-off-kennedy-center-judge-rules.html",
+    "content": "A federal judge ruled that the Kennedy Center did not have the authority to place President Trump\u2019s name on the exterior of the building.",
+    "date": "2026-09-15T16:12:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/15/arts/television/the-3-emmy-awards-our-readers-would-have-changed.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The 3 Emmy Awards Our Readers Would Have Changed",
+    "author": "Robin Kawakami",
+    "link": "https://www.nytimes.com/2026/09/15/arts/television/the-3-emmy-awards-our-readers-would-have-changed.html",
+    "content": "Thousands of people selected their television favorites of the season. Here\u2019s how they voted.",
+    "date": "2026-09-15T16:01:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
     "feed_name": "NYT (Arts)",
     "title": "Prosecutors Will Not Seek Death Penalty for Nick Reiner",
@@ -19977,26 +19997,6 @@
     "link": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
     "content": "Christopher Nolan\u2019s $250 million action movie version of Homer\u2019s ancient Greek poem is an entertaining way to hide from the high temperatures for a few hours. Nolan\u2019s trademark jumps and twists in the narrative structure are relatively easy to follow, and appropriate forThe Odyssey, a narrative of tales nested in tales. My teenagers had a good time. Unlike some of...",
     "date": "2026-07-27T17:43:38",
-    "category": "Magazines"
-  },
-  {
-    "id": "6c8af32da9494b996421c2a631aa3770",
-    "feed_name": "LRB",
-    "title": "Nolan v. Homer",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/nolan-v.-homer",
-    "content": "It could be argued that Christopher Nolan has been remaking theOdysseyfor his whole career, and his latest film revisits many of the themes of his earlier movies, as once again a male protagonist embarks on a desperate quest to recover a female love object. But, as Emily Wilson argues, while Homer\u2019sOdysseymight seem the perfect source material for Nolan, the ancient Greek poem also...",
-    "date": "2026-07-27T17:43:38",
-    "category": "Magazines"
-  },
-  {
-    "id": "13b1994b-ce8f-4030-ac4d-449f28c4802b",
-    "feed_name": "Economist",
-    "title": "How to design paper money that represents Europe",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/27/how-to-design-paper-money-that-represents-europe",
-    "content": "The euro gets a makeover",
-    "date": "2026-07-27T17:16:17",
     "category": "Magazines"
   }
 ]
