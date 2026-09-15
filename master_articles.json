@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/rhea-seehorn-first-emmy-pluribus.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Rhea Seehorn Wins Her First Emmy for \u2018Pluribus\u2019",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/rhea-seehorn-first-emmy-pluribus.html",
+    "content": "After coming up short twice for \u201cBetter Call Saul,\u201d her commanding role in Vince Gilligan\u2019s Apple sci-fi drama put her over the top.",
+    "date": "2026-09-15T00:36:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/television/mariska-hargitay-emmys-monologue.html",
     "feed_name": "NYT (Arts)",
     "title": "Mariska Hargitay Gets the Night Started With a Musical Tribute to TV",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/27/theater/chorus-line-barrington-stage.html",
     "content": "A new production at Barrington Stage Company reminds us of how the \u201csingular sensation\u201d changed our relationship to performance.",
     "date": "2026-07-27T09:06:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/arts/mina-hollower-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mina the Hollower Pays Homage to the Game Boy",
-    "author": "Christopher Byrd",
-    "link": "https://www.nytimes.com/2026/07/27/arts/mina-hollower-review.html",
-    "content": "Mina the Hollower draws inspiration from \u201cThe Secret of NIMH,\u201d Victorian literature and 1990s role-playing games.",
-    "date": "2026-07-27T09:05:04",
     "category": "NYT"
   }
 ]
