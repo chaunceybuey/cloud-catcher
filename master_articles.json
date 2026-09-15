@@ -180,6 +180,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-emmy-best-comedy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Widow\u2019s Bay\u2019 Dominates the Emmy Comedy Category",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-emmy-best-comedy.html",
+    "content": "Matthew Rhys was among the Emmy winners on Monday night for \u201cWidow\u2019s Bay.\u201d",
+    "date": "2026-09-15T02:02:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/coming-soon-the-100-best-tv-shows-of-the-21st-century",
+    "feed_name": "NYT (Arts)",
+    "title": "Coming soon: The 100 Best TV Shows of the 21st Century.",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/coming-soon-the-100-best-tv-shows-of-the-21st-century",
+    "content": "",
+    "date": "2026-09-15T01:56:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/emmys-candid-photos.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Candid Photos From the 2026 Emmys",
+    "author": "Sinna Nasseri",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/emmys-candid-photos.html",
+    "content": "Candid moments with Jean Smart, Meg Stalter, Rachel Sennott, Matthew Rhys and more.",
+    "date": "2026-09-15T01:52:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/television/the-late-show-stephen-colbert-emmy-.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Late Show With Stephen Colbert\u2019 Goes Out With an Emmy Win",
@@ -19968,35 +19998,5 @@
     "content": "<p class=\"wp-block-paragraph\">Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"http://sharptech.fm/\">Sharp Tech</a>, and <a href=\"https://goat.passport.online/member\">Greatest of All Talk</a>&nbsp;&nbsp;will also return the week of August 3.&nbsp;<a href=\"https://goat.passport.online/member\"></a><a href=\"http://sharpchina.fm/\">Sharp China</a>&nbsp;and&nbsp;<a href=\"https://asianometry.passport.online/member\">Asianometry&nbsp;</a>will continue to publish, and there will be one episode of <a href=\"http://dithering.fm/\">Dithering</a> next week.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The full Stratechery posting schedule is&nbsp;<a href=\"https://stratechery.com/daily-update/daily-update-schedule/\">here</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>",
     "date": "2026-07-27T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237922",
-    "feed_name": "Texas Tribune",
-    "title": "Use our database to see what state employees in Texas are paid, as of July 2026",
-    "author": "Rob Reid",
-    "link": "https://feeds.texastribune.org/link/16799/7382318/",
-    "content": "The Texas Tribune\u2019s database of state employees\u2019 compensation has been updated to include salaries as of July 1.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/7382318.gif\" width=\"1\" />",
-    "date": "2026-07-27T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237951",
-    "feed_name": "Texas Tribune",
-    "title": "Thousands of apartments going up thanks to new Texas housing laws. But resistance lingers in the suburbs.",
-    "author": "Joshua Fechter",
-    "link": "https://feeds.texastribune.org/link/16799/17387929/texas-housing-laws-new-homes-apartments-pushback",
-    "content": "Oak Cliff neighborhood apartments in Dallas on July 11, 2024.",
-    "date": "2026-07-27T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=237990",
-    "feed_name": "Texas Tribune",
-    "title": "Universities can use conservative-favored entrance exam as Texas eyes wider use, agency chief says",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17387930/conservative-college-entrance-exam-texas-universty-admissions",
-    "content": "The Texas Tech University Administration Building towers above surrounding trees in Lubbock on Sept. 30, 2025.",
-    "date": "2026-07-27T10:00:00",
-    "category": "Texas"
   }
 ]
