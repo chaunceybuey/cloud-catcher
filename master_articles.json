@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/matthew-rhys-emmys-widows-bay-the-beast-in-me.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Matthew Rhys Achieves a Historic Emmys Trifecta",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/matthew-rhys-emmys-widows-bay-the-beast-in-me.html",
+    "content": "\u201cThis is a real shock,\u201d Matthew Rhys said while accepting the Emmy for his lead role in the miniseries \u201cThe Beast in Me.\u201d",
+    "date": "2026-09-15T01:17:16",
+    "category": "NYT"
+  },
+  {
+    "id": "ba9c8053c41db438fb4133d2a4d6c5a5",
+    "feed_name": "LRB",
+    "title": "LRB Screen: \u2018I Hired a Contract Killer\u2019 with Owen Hatherley",
+    "author": "",
+    "link": "https://www.thegardencinema.co.uk/film/lrb-london-reviewed-i-hired-a-contract-killer-1990-with-owen-hatherley/",
+    "content": "",
+    "date": "2026-09-15T01:14:56",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/14/arts/television/rhea-seehorn-first-emmy-pluribus.html",
     "feed_name": "NYT (Arts)",
     "title": "Rhea Seehorn Wins Her First Emmy for \u2018Pluribus\u2019",
@@ -19978,25 +19998,5 @@
     "content": "Wes Moore isn\u2019t here to save the Democratic Party.",
     "date": "2026-07-27T09:55:00",
     "category": "Magazines"
-  },
-  {
-    "id": "6a4fcd5654154930d8b69c76",
-    "feed_name": "Wired (Science)",
-    "title": "Measles Is Becoming So Common That Treatments May Soon Be Needed",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/measles-treatments-soon-needed/",
-    "content": "As the US sees its highest number of measles cases in decades and vaccination rates fall, researchers are developing drugs to help those who contract the virus or who are particularly vulnerable.",
-    "date": "2026-07-27T09:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/theater/chorus-line-barrington-stage.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018A Chorus Line\u2019 at 50-ish: Seeing Through Perfection to the Pain",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/07/27/theater/chorus-line-barrington-stage.html",
-    "content": "A new production at Barrington Stage Company reminds us of how the \u201csingular sensation\u201d changed our relationship to performance.",
-    "date": "2026-07-27T09:06:37",
-    "category": "NYT"
   }
 ]
