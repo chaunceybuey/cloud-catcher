@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/theater/annie-broadway-revival.html",
+    "feed_name": "NYT (Arts)",
+    "title": "As \u2018Annie\u2019 Turns 50, a Revival Will Open on Broadway",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/09/15/theater/annie-broadway-revival.html",
+    "content": "The iconic \u201cAnnie\u201d dress, from 1977, at the Museum of Broadway. The dress was designed by Theoni V. Aldredge, who won a Tony Award for the show\u2019s costumes.",
+    "date": "2026-09-15T12:45:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/theater/leslie-odom-jr-purlie-victorious-theater-to-stream.html",
     "feed_name": "NYT (Arts)",
     "title": "A Nancy Pelosi-A.O.C. Drama, \u2018Little Shop of Horrors\u2019 and More Theater to Stream",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/07/nolan-odysseus-morality-guilt/688076/",
     "content": "Christopher Nolanpresents a very human hero to a culture that desperately needs one.",
     "date": "2026-07-27T13:43:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "4a959c1f2f1479bc9f84cbe11a432e81",
-    "feed_name": "New Yorker",
-    "title": "Julio Torres\u2019s Sea Wench,\u00a0Qween Jean at Little Island",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/julio-torress-sea-wench-qween-jean-at-little-island",
-    "content": "Also: Flaco the Owl gets a documentary, Debra Winger and Arliss Howard play \u201cThe Gin Game,\u201d Broken Social Scene and friends drop in on Brooklyn, and more.",
-    "date": "2026-07-27T12:24:56",
     "category": "Magazines"
   }
 ]
