@@ -180,6 +180,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/mariska-hargitay-emmys-monologue.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mariska Hargitay Gets the Night Started With a Musical Tribute to TV",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/mariska-hargitay-emmys-monologue.html",
+    "content": "The hosting gig comes as a part of a big year for the actress that has included two Emmys for her documentary about her mother, Jayne Mansfield.",
+    "date": "2026-09-15T00:18:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/14/arts/television/jean-smart-hacks-emmys-history.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jean Smart Makes Emmy History",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/jean-smart-hacks-emmys-history.html",
+    "content": "An award for the final season of \u201cHacks\u201d makes Smart one of the most prolific Emmy-winning actresses in history.",
+    "date": "2026-09-15T00:12:40",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/late-night-outstanding-variety-show-emmys",
+    "feed_name": "NYT (Arts)",
+    "title": "There could be multiple winners from late-night TV.",
+    "author": "John Koblin",
+    "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/late-night-outstanding-variety-show-emmys",
+    "content": "",
+    "date": "2026-09-14T23:56:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/widows-bay-emmys-casting-production",
     "feed_name": "NYT (Arts)",
     "title": "The telecast hasn\u2019t started, but \u2018Widow\u2019s Bay\u2019 already has 8 Emmys.",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/27/arts/mina-hollower-review.html",
     "content": "Mina the Hollower draws inspiration from \u201cThe Secret of NIMH,\u201d Victorian literature and 1990s role-playing games.",
     "date": "2026-07-27T09:05:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/arts/dance/nyc-ballet-tim-foster-pointe-shoes.html",
-    "feed_name": "NYT (Arts)",
-    "title": "As New York City Ballet\u2019s Shoe Colorist, Tim Foster Brings a Niche and Needed Craft",
-    "author": "Margaret Fuhrer",
-    "link": "https://www.nytimes.com/2026/07/27/arts/dance/nyc-ballet-tim-foster-pointe-shoes.html",
-    "content": "Tim Foster is a shoe colorist for New York City Ballet, an unexpected but, thanks to a new documentary, no longer unsung hero who practices a delicate, painstaking art.",
-    "date": "2026-07-27T09:04:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/movies/the-odyssey-circe.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Christopher Nolan\u2019s \u2018Odyssey\u2019 Has a Circe Problem",
-    "author": "Maya Phillips",
-    "link": "https://www.nytimes.com/2026/07/27/movies/the-odyssey-circe.html",
-    "content": "One of the fascinating women of early literature, Circe becomes a simple witch in Christopher Nolan\u2019s blockbuster.",
-    "date": "2026-07-27T09:03:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Paramount is Betting Johnny Depp Can Make a Comeback With \u2018Ebenezer: A Christmas Carol\u2019",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html",
-    "content": "Johnny Depp, dressed as the title character of \u201cEbenezer,\u201d interacting with fans at Comic-Con International.",
-    "date": "2026-07-27T09:00:41",
     "category": "NYT"
   }
 ]
