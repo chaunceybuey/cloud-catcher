@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/15/arts/music/oliver-jones-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Oliver Jones, \u2018Greatest Living Jazz Musician in Canada,\u2019 Dies at 91",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/09/15/arts/music/oliver-jones-dead.html",
+    "content": "Oliver Jones in 1994. Andy Williams, a Montreal jazz educator and radio host, said that there was \u201ca softness, a subtlety to his playing, like a watercolor.\u201d",
+    "date": "2026-09-15T18:44:11",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242820",
+    "feed_name": "Texas Tribune",
+    "title": "Rep. Drew Darby tears into oil and gas commissioner for defying order to appear at Capitol",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17462752/texas-drew-darby-wayne-christian-railroad-commission",
+    "content": "Committee Chair and state Rep. Drew Darby R-San Angelo, at a House Energy Resources Committee meeting at the Capitol in Austin on Sept. 14, 2026.",
+    "date": "2026-09-15T18:10:22",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/15/arts/music/amplifier-newsletter-remi-wolf-tinashe-cameron-winter.html",
     "feed_name": "NYT (Arts)",
     "title": "Our Critic\u2019s Picks of Albums Coming This Fall",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/27/arts/music/bill-mcglaughlin-dead.html",
     "content": "His public-radio programs \u201cSaint Paul Sunday\u201d and \u201cExploring Music\u201d were, at their height, listened to by hundreds of thousands of people a week.",
     "date": "2026-07-27T22:30:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238086",
-    "feed_name": "Texas Tribune",
-    "title": "Texas\u2019 multibillion-dollar sales tax exemption for data centers is growing, while audits lag",
-    "author": "Paul Cobler",
-    "link": "https://feeds.texastribune.org/link/16799/17389245/texas-data-centers-sales-tax-break-audits",
-    "content": "From left, at front and standing: Don\u2019t Drain Texas organizer Maggie Hill, Agriculture Commissioner Sid Miller and Clayton Tucker, Democratic nominee for agriculture commissioner, join protesters on the Capitol steps in demand of a special session to regulate data center growth before a Senate Committee Hearing on Monday, July 27, 2026.",
-    "date": "2026-07-27T22:30:24",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/27/arts/design/betye-saar-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Betye Saar, Artist Who Upended Black Stereotypes, Dies at 99",
-    "author": "Jori Finkel",
-    "link": "https://www.nytimes.com/2026/07/27/arts/design/betye-saar-dead.html",
-    "content": "Bettye Saar in 2019.",
-    "date": "2026-07-27T21:40:51",
     "category": "NYT"
   }
 ]
