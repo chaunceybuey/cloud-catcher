@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/arts/music/gregor-benko-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Gregor Benko, Who Resurrected a Vanished Musical World, Dies at 82",
+    "author": "Zachary Woolfe",
+    "link": "https://www.nytimes.com/2026/09/16/arts/music/gregor-benko-dead.html",
+    "content": "For over 60 years, he unearthed rare early piano recordings, illuminating an expressive, highly individual style that had fallen from favor.",
+    "date": "2026-09-16T20:06:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/briefing/16-the-good-list-september-migration.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Delight to Your Day",
@@ -19988,15 +19998,5 @@
     "content": "BTS performing at the halftime show of the soccer World Cup final this month in East Rutherford, N.J.",
     "date": "2026-07-29T11:58:32",
     "category": "NYT"
-  },
-  {
-    "id": "79bb86c6652c11c3be1f2a109c541f34",
-    "feed_name": "The Atlantic",
-    "title": "Rural America\u2019s Maternal-Health Crisis Is About to Get Much Worse",
-    "author": "Keith Humphreys",
-    "link": "https://www.theatlantic.com/ideas/2026/07/giving-birth-rural-hospitals-danger-mortality/688091/",
-    "content": "Care will be in shorter supply, travel distances will stretch farther, and high-risk situations will more likely result in tragedy.",
-    "date": "2026-07-29T11:34:57",
-    "category": "Magazines"
   }
 ]
