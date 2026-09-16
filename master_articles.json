@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/books/annie-dillard-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Annie Dillard, Meditative Author of \u2018Pilgrim at Tinker Creek,\u2019 Dies at 81",
+    "author": "Daniel Lewis",
+    "link": "https://www.nytimes.com/2026/09/16/books/annie-dillard-dead.html",
+    "content": "Her Thoreau-like account of journeys in the woods, published when she was 28, was the first of many ruminations on life and nature, good and evil.",
+    "date": "2026-09-16T13:57:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/arts/music/latin-grammy-nominees-karol-g-rosalia-ca7riel-paco-amoroso.html",
     "feed_name": "NYT (Arts)",
     "title": "Karol G, Rosal\u00eda Are Among the Most-Nominated Artists at the 2026 Latin Grammys",
@@ -19988,15 +19998,5 @@
     "content": "Ariana Grande is suing anonymous hackers.",
     "date": "2026-07-28T17:32:01",
     "category": "NYT"
-  },
-  {
-    "id": "dbd0f7543a81ff2322b209c60b044435",
-    "feed_name": "LRB",
-    "title": "Whose \u2018Iliad\u2019?",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v45/n21/ange-mlinko/good-jar-bad-jar",
-    "content": "The inspiration\u200b for theIliadwas a ruin. The nine pancaked layers of an Asian city referred to as Wilusa on Hittite clay tablets \u2013 and known as Ilios or Troia to the ancient Greeks \u2013 lie under a mound called Hissarlik in north-western Turkey. The events of theIliadsupposedly take place around the time of the collapse of the Bronze Age in the 12th centuryBC. By the time the...",
-    "date": "2026-07-28T16:41:17",
-    "category": "Magazines"
   }
 ]
