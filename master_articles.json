@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aa98fe4f9256822bca846d7",
+    "feed_name": "Wired (Science)",
+    "title": "\u2018Smart\u2019 Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
+    "author": "Javier Carbajal",
+    "link": "https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
+    "content": "The treatment can reprogram immune cells that have been corrupted by the cancer, strengthening the body\u2019s ability to attack.",
+    "date": "2026-09-16T08:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/arts/television/jimmy-kimmel-stephen-colbert-return.html",
     "feed_name": "NYT (Arts)",
     "title": "Stephen Colbert Returns to Late Night on \u2018Jimmy Kimmel Live\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/28/arts/television/lena-waithe-the-chi-end.html",
     "content": "\u201cIt is important to me that every ending is a new beginning,\u201d Waithe said.",
     "date": "2026-07-28T09:02:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/28/dining/restaurant-review-marcel-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Marcel in New York",
-    "author": "Ligaya Mishan",
-    "link": "https://www.nytimes.com/2026/07/28/dining/restaurant-review-marcel-nyc.html",
-    "content": "As you enter this meticulously designed restaurant inside Sotheby\u2019s headquarters on the Upper East Side, all appears ready to dazzle. Then the food arrives.",
-    "date": "2026-07-28T09:02:01",
     "category": "NYT"
   }
 ]
