@@ -180,6 +180,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=242909",
+    "feed_name": "Texas Tribune",
+    "title": "ERCOT CEO Pablo Vegas to make $6.4 million in 2027, nearly doubling his salary",
+    "author": "Paul Cobler",
+    "link": "https://feeds.texastribune.org/link/16799/17463038/texas-ercot-energy-grid-ceo-salary-prices",
+    "content": "Pablo Vegas, president of ERCOT, speaks as Gov. Greg Abbott holds at a press conference Monday afternoon at the Texas Department of Emergency Management headquarters in Austin on Aug. 31, 2026.",
+    "date": "2026-09-15T23:57:10",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242900",
+    "feed_name": "Texas Tribune",
+    "title": "Texas and feds announce noncitizen voting charges against seven people",
+    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17463039/texas-paxton-noncitizen-voter-charges-investigations",
+    "content": "Texas Attorney General Ken Paxton, seen on June 12, 2026, in Houston, announced Tuesday that charges have been filed against seven people accused of voting in federal elections while not eligible citizens.",
+    "date": "2026-09-15T23:36:16",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242884",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Weighing the impact of Paxton\u2019s political baggage",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17463040/tribcast-paxton-senate-baggage",
+    "content": "Texas Attorney General and Republican nominee for the U.S. Senate Ken Paxton speaks at a campaign stop in Corpus Christi on September 2, 2026.",
+    "date": "2026-09-15T23:21:16",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/donald-trump-jr-wedding-umar-kremlev-payments-investigation",
     "feed_name": "ProPublica",
     "title": "Top Oversight Dem Opens Investigation of Donald Trump Jr.\u2019s Russian Oligarch-Funded Wedding",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/28/movies/wham-10-days-in-china-review.html",
     "content": "The British pop duo Wham! was the first Western act of its kind to play mainland China. This documentary reveals the hidden agenda of the shows.",
     "date": "2026-07-28T09:01:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/28/arts/music/sam-smith-hazel-eyes-new-album.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sam Smith Shows a New Side on \u201cHazel Eyes\u201d",
-    "author": "Melena Ryzik",
-    "link": "https://www.nytimes.com/2026/07/28/arts/music/sam-smith-hazel-eyes-new-album.html",
-    "content": "After rising to global pop star status with songs about heartbreak, Smith returns with an album about pointedly queer \u201crequited love,\u201d made exactly how and where made them happiest.",
-    "date": "2026-07-28T09:01:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/28/arts/design/civil-war-atlanta-history-center.html",
-    "feed_name": "NYT (Arts)",
-    "title": "An Atlanta Museum\u2019s New Look at the Civil War Goes Beyond Relics",
-    "author": "Rick Rojas",
-    "link": "https://www.nytimes.com/2026/07/28/arts/design/civil-war-atlanta-history-center.html",
-    "content": "After curators spent decades collecting a trove of artifacts, the Atlanta History Center replaced its Civil War exhibition with one titled \u201cMore Perfect Union.\u201d",
-    "date": "2026-07-28T09:00:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Beyond Amsterdam and Venice: 6 Delightful European Canal Cities",
-    "author": "No\u00eblle de Leeuw",
-    "link": "https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html",
-    "content": "The \u201cPetite France\u201d neighborhood in Strasbourg.",
-    "date": "2026-07-28T09:00:19",
     "category": "NYT"
   }
 ]
