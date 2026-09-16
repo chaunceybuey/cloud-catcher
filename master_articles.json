@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/theater/patti-lupone-diana-vreeland-full-gallop.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Patti LuPone to Star as Diana Vreeland in \u2018Full Gallop\u2019",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/09/16/theater/patti-lupone-diana-vreeland-full-gallop.html",
+    "content": "Patti LuPone will star in \u201cFull Gallop,\u201d which comes to Off Broadway early next year.",
+    "date": "2026-09-16T13:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/arts/design/trump-signs-smithsonian-history-museum.html",
     "feed_name": "NYT (Arts)",
     "title": "Trump Administration Outlines Plan for Signs Outside Smithsonian Museum",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/28/dining/nyc-restaurant-news.html",
     "content": "Tin\u2019s sticks to cold food while waiting for utilities, Keepers offers more tavern fare for downtown and more restaurant news.",
     "date": "2026-07-28T16:11:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/28/arts/music/tobias-picker-lili-elbe-transgender-santa-fe-opera.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Lili Elbe,\u2019 Opera About Trans Heroine of \u2018The Danish Girl,\u2019 Is Timely",
-    "author": "Max Keller",
-    "link": "https://www.nytimes.com/2026/07/28/arts/music/tobias-picker-lili-elbe-transgender-santa-fe-opera.html",
-    "content": "The composer Tobias Picker at the Santa Fe Opera. Picker\u2019s opera \u201cLili Elbe\u201d will have its American debut there.",
-    "date": "2026-07-28T16:02:47",
     "category": "NYT"
   }
 ]
