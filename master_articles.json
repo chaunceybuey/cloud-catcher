@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/arts/television/snl-new-cast-members.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018S.N.L.\u2019 Adds Grace Reiter and Saidah Belo-Osagie to Cast",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/09/16/arts/television/snl-new-cast-members.html",
+    "content": "The upcoming season of \u201cSaturday Night Live\u201d will feature Saidah Belo-Osagie and Grace Reiter as new faces.",
+    "date": "2026-09-16T21:29:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/arts/design/nypl-donation-performing-arts-library.html",
     "feed_name": "NYT (Arts)",
     "title": "New York Performing Arts Library Gets $60 Million Gift for Preservation",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/29/dining/ground-chicken-grounds-this-savory-stir-fry-with-green-beans.html",
     "content": "Melissa Clark\u2019s stir-fried cumin green beans and chicken.",
     "date": "2026-07-29T15:00:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/29/obituaries/glen-hansard-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Glen Hansard, Frontman of Irish Band the Frames, Dies at 56",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/07/29/obituaries/glen-hansard-dead.html",
-    "content": "Glen Hansard in New York City in 2012. The Irish singer-songwriter was best known as the frontman of the Frames.",
-    "date": "2026-07-29T12:11:43",
     "category": "NYT"
   }
 ]
