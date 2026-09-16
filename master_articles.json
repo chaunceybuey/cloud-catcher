@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/arts/design/nypl-donation-performing-arts-library.html",
+    "feed_name": "NYT (Arts)",
+    "title": "New York Performing Arts Library Gets $60 Million Gift for Preservation",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/09/16/arts/design/nypl-donation-performing-arts-library.html",
+    "content": "The anonymous donation, the library\u2019s largest ever, will support digitization of archival items related to theater, dance and music.",
+    "date": "2026-09-16T21:00:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Merriam-Webster Dictionary Is Wordsmaxxing With 1,400 New Definitions",
+    "author": "Michael Levenson",
+    "link": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
+    "content": "A copy of Merriam-Webster\u2019s 12th edition of the \u201cCollegiate Dictionary.\u201d The company is adding 1,400 words to its online catalog, some of which will go in print.",
+    "date": "2026-09-16T20:54:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/arts/music/gregor-benko-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Gregor Benko, Who Resurrected a Vanished Musical World, Dies at 82",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/29/obituaries/glen-hansard-dead.html",
     "content": "Glen Hansard in New York City in 2012. The Irish singer-songwriter was best known as the frontman of the Frames.",
     "date": "2026-07-29T12:11:43",
-    "category": "NYT"
-  },
-  {
-    "id": "b1277fd4e140cd280be850385bf742ac",
-    "feed_name": "Compact",
-    "title": "The Interventionist Future of the DSA",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-interventionist-future-of-the-dsa/",
-    "content": "",
-    "date": "2026-07-29T12:01:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
-    "feed_name": "NYT (Arts)",
-    "title": "BTS Won\u2019t Enter Music From Comeback Album for Grammy Awards",
-    "author": "Max Kim",
-    "link": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
-    "content": "BTS performing at the halftime show of the soccer World Cup final this month in East Rutherford, N.J.",
-    "date": "2026-07-29T11:58:32",
     "category": "NYT"
   }
 ]
