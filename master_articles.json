@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/arts/peter-max-trippy-artist-of-counterculture-era-and-beyond-dies-at-88.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88",
+    "author": "William Grimes",
+    "link": "https://www.nytimes.com/2026/09/16/arts/peter-max-trippy-artist-of-counterculture-era-and-beyond-dies-at-88.html",
+    "content": "Peter Max, one of the most visible and successful artists of his generation, in 1967.",
+    "date": "2026-09-16T21:59:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/arts/television/snl-new-cast-members.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018S.N.L.\u2019 Adds Grace Reiter and Saidah Belo-Osagie to Cast",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html",
     "content": "Glen Hansard in New York City in 2012. The Irish singer-songwriter was best known as the frontman of the Frames.",
     "date": "2026-07-29T15:13:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/29/dining/ground-chicken-grounds-this-savory-stir-fry-with-green-beans.html",
-    "feed_name": "NYT (Food)",
-    "title": "Ground Chicken Grounds This Savory Stir-Fry With Green Beans",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/29/dining/ground-chicken-grounds-this-savory-stir-fry-with-green-beans.html",
-    "content": "Melissa Clark\u2019s stir-fried cumin green beans and chicken.",
-    "date": "2026-07-29T15:00:14",
     "category": "NYT"
   }
 ]
