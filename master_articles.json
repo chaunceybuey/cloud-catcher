@@ -320,6 +320,16 @@
     "category": "NYT"
   },
   {
+    "id": "849dfadd87574f7d6207fcac3b32f20d",
+    "feed_name": "LRB",
+    "title": "Who\u2019s afraid of realism? \u2018The Death of Ivan Ilyich\u2019 by Leo Tolstoy",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/who-s-afraid-of-realism-the-death-of-ivan-ilyich-by-leo-tolstoy",
+    "content": "In the late 1870s, shortly after the publication ofAnna Karenina, Tolstoy experienced what might be described today as a midlife crisis. In his short autobiographical bookA Confession, finished in 1880, he questioned what meaning there is in life that is not annihilated by the inevitability of death. His answer was to live according to God\u2019s law, a realisation that shaped...",
+    "date": "2026-09-16T05:42:55",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242909",
     "feed_name": "Texas Tribune",
     "title": "ERCOT CEO Pablo Vegas to make $6.4 million in 2027, nearly doubling his salary",
@@ -19988,15 +19998,5 @@
     "content": "Also among the 13 works up for the British literary award are the latest books from Douglas Stuart, Gwendoline Riley and Emma Cline.",
     "date": "2026-07-28T13:04:16",
     "category": "NYT"
-  },
-  {
-    "id": "dc33a36009faf7604dc349887e3dfec3",
-    "feed_name": "The Atlantic",
-    "title": "Automation Led to Economic Misery. AI Doesn\u2019t Have To.",
-    "author": "Daron Acemoglu",
-    "link": "https://www.theatlantic.com/ideas/2026/07/ai-automation-productivity-workers/688083/",
-    "content": "How to make AI work for workers",
-    "date": "2026-07-28T11:30:00",
-    "category": "Magazines"
   }
 ]
