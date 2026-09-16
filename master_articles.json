@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/arts/television/jimmy-kimmel-stephen-colbert-return.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Stephen Colbert Returns to Late Night on \u2018Jimmy Kimmel Live\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/16/arts/television/jimmy-kimmel-stephen-colbert-return.html",
+    "content": "\u201cPeople still do these shows?\u201d Colbert said as he sat down for his first late night interview since his show ended.",
+    "date": "2026-09-16T07:37:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242909",
     "feed_name": "Texas Tribune",
     "title": "ERCOT CEO Pablo Vegas to make $6.4 million in 2027, nearly doubling his salary",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/28/dining/restaurant-review-marcel-nyc.html",
     "content": "As you enter this meticulously designed restaurant inside Sotheby\u2019s headquarters on the Upper East Side, all appears ready to dazzle. Then the food arrives.",
     "date": "2026-07-28T09:02:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/28/movies/wham-10-days-in-china-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Wham! 10 Days in China\u2019 Review: Pop Music History With a Secret Goal",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/07/28/movies/wham-10-days-in-china-review.html",
-    "content": "The British pop duo Wham! was the first Western act of its kind to play mainland China. This documentary reveals the hidden agenda of the shows.",
-    "date": "2026-07-28T09:01:51",
     "category": "NYT"
   }
 ]
