@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/briefing/16-the-good-list-september-migration.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Delight to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/09/16/briefing/16-the-good-list-september-migration.html",
+    "content": "Born to party, air theremin and \u2018ba-dee-ya.\u2019",
+    "date": "2026-09-16T19:17:11",
+    "category": "NYT"
+  },
+  {
+    "id": "a375a944-3126-48bf-8983-b89635582a7f",
+    "feed_name": "Economist",
+    "title": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
+    "content": "The rich world is flirting with fiscal disaster",
+    "date": "2026-09-16T18:22:11",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/theater/john-proctor-is-the-villain-american-theater-magazine-survey.html",
     "feed_name": "NYT (Arts)",
     "title": "Survey Says: \u2018John Proctor\u2019 Is the Most-Staged Play in the U.S.",
@@ -19978,25 +19998,5 @@
     "content": "Care will be in shorter supply, travel distances will stretch farther, and high-risk situations will more likely result in tragedy.",
     "date": "2026-07-29T11:34:57",
     "category": "Magazines"
-  },
-  {
-    "id": "6a6783aad2f2ead29e215b92",
-    "feed_name": "Wired (Science)",
-    "title": "How to Bring a Geothermal Well Back from the Dead",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/zanskar-geothermal-well-back-from-dead/",
-    "content": "Startup Zanskar has created one of the most productive geothermal wells in the US at a power plant that had been in decline for years.",
-    "date": "2026-07-29T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238167",
-    "feed_name": "Texas Tribune",
-    "title": "\u201cA deal with the devil\u201d: Religion motivates data center opponents in Texas",
-    "author": "By Ellie Ashby, The Texas Tribune, and Chloe Landen, Religion News Service",
-    "link": "https://feeds.texastribune.org/link/16799/17391662/texas-data-centers-religion-opposition",
-    "content": "Matt Long in his backyard, which sits along the Brazos River, in the Pecan Plantation neighborhood of Hood County on May 28, 2026. His home is near a planned data center.",
-    "date": "2026-07-29T10:00:00",
-    "category": "Texas"
   }
 ]
