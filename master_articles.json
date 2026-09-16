@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Face of London in the 1960s Is Living Her Best Life",
+    "author": "Rhonda Garelick",
+    "link": "https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html",
+    "content": "\u201cTwiggy: The Woman Behind the Icon,\u201d arrives in America this month.",
+    "date": "2026-09-16T16:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/books/annie-dillard-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Annie Dillard, Meditative Author of \u2018Pilgrim at Tinker Creek,\u2019 Dies at 81",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/28/arts/music/amplifier-newsletter-charli-xcx-david-cronenberg.html",
     "content": "David Cronenberg",
     "date": "2026-07-28T18:00:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/28/arts/music/ariana-grande-hacking-lawsuit.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ariana Grande Sues Over Hacking Campaign That Leaked Dozens of Songs",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/07/28/arts/music/ariana-grande-hacking-lawsuit.html",
-    "content": "Ariana Grande is suing anonymous hackers.",
-    "date": "2026-07-28T17:32:01",
     "category": "NYT"
   }
 ]
