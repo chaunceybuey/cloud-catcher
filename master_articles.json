@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/theater/john-proctor-is-the-villain-american-theater-magazine-survey.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Survey Says: \u2018John Proctor\u2019 Is the Most-Staged Play in the U.S.",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/09/16/theater/john-proctor-is-the-villain-american-theater-magazine-survey.html",
+    "content": "Sadie Sink, left, and Amalia Yoo in the Broadway production of \u201cJohn Proctor Is the Villain.\u201d",
+    "date": "2026-09-16T17:30:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
     "feed_name": "ProPublica",
     "title": "What to Know About Mail-In Voting for the 2026 Midterms",
@@ -188,6 +198,16 @@
     "content": "The Kennedy Center closed its main building to visitors on Tuesday, citing safety concerns after plaster fell from the ceiling. A federal judge had barred the center from closing for a two-year renovation project.",
     "date": "2026-09-16T16:58:59",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243006",
+    "feed_name": "Texas Tribune",
+    "title": "Lawsuit blames Texas abortion ban for San Antonio woman\u2019s death",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17463756/texas-abortion-ban-lawsuit-san-antonio-tierra-walker",
+    "content": "Tierra Walker died, killed by preeclampsia when she couldn\u2019t access an abortion in Texas in 2024. Now, her family is suing.",
+    "date": "2026-09-16T16:43:31",
+    "category": "Texas"
   },
   {
     "id": "3a514e73c4a487258da84a8c3316e92a",
@@ -19978,25 +19998,5 @@
     "content": "Flood damage in Louise Hays Park on July 27, 2026 in Kerrville.",
     "date": "2026-07-29T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "6a68e474d9309db335a307c2",
-    "feed_name": "Wired (Science)",
-    "title": "NASA\u2019s New 3D Model Shows the Earth Is a Lumpy Mess",
-    "author": "Javier Carbajal",
-    "link": "https://www.wired.com/story/nasas-new-3d-model-shows-lumpy-earth/",
-    "content": "We like to think of our home as a nice, smooth sphere. But mapping the Earth\u2019s gravitational field provides a different view of the planet.",
-    "date": "2026-07-29T09:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/29/arts/music/ma-rainey-boxed-set.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ma Rainey, Mother of More Than Just Blues, Comes Alive on New Release",
-    "author": "Emma Madden",
-    "link": "https://www.nytimes.com/2026/07/29/arts/music/ma-rainey-boxed-set.html",
-    "content": "Ma Rainey\u2019s voice was powerful enough that when she hit her loudest notes, the grooves distorted on the cheaply made recordings of her.",
-    "date": "2026-07-29T09:00:54",
-    "category": "NYT"
   }
 ]
