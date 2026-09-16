@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/16/arts/design/trump-signs-smithsonian-history-museum.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Trump Administration Outlines Plan for Signs Outside Smithsonian Museum",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/09/16/arts/design/trump-signs-smithsonian-history-museum.html",
+    "content": "The Trump administration is pushing forward with a plan to install signs outside the National Museum of American History to warn visitors of the content inside.",
+    "date": "2026-09-16T12:38:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22458-kmfa-s-midday-music-series-butler-opera-center",
     "feed_name": "KMFA",
     "title": "KMFA's Midday Music Series: Butler Opera Center",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/28/arts/music/tobias-picker-lili-elbe-transgender-santa-fe-opera.html",
     "content": "The composer Tobias Picker at the Santa Fe Opera. Picker\u2019s opera \u201cLili Elbe\u201d will have its American debut there.",
     "date": "2026-07-28T16:02:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/steakhouse-tomato-salad-doenjang-vinaigrette",
-    "feed_name": "NYT (Food)",
-    "title": "The Tomato Salad You\u2019ve Been Waiting For",
-    "author": "Eric Kim",
-    "link": "https://cooking.nytimes.com/article/steakhouse-tomato-salad-doenjang-vinaigrette",
-    "content": "A flavorful doenjang vinaigrette replaces a classic Worcestershire-laden steak sauce in this riff on a restaurant recipe.",
-    "date": "2026-07-28T15:43:25",
     "category": "NYT"
   }
 ]
