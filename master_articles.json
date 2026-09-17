@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/dining/drinks/retail-wine-shop.html",
+    "feed_name": "NYT (Food)",
+    "title": "So, How Are Wine Shops Doing These Days? It Depends.",
+    "author": "Eric Asimov",
+    "link": "https://www.nytimes.com/2026/09/17/dining/drinks/retail-wine-shop.html",
+    "content": "Chris Leon, owner of Leon & Son Wine and Spirits in Brooklyn, N.Y., says that wine shops have to work harder and more creatively to get by. Earlier this year, Leon & Son started an auction business.",
+    "date": "2026-09-17T17:42:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/17/arts/television/new-snl-cast-members.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Meet the New \u2018S.N.L.\u2019 Cast Members",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/09/17/arts/television/new-snl-cast-members.html",
+    "content": "Grace Reiter and Saidah Belo-Osagie will begin their \u201cSaturday Night Live\u201d run next week. Here\u2019s what to know before their debuts.",
+    "date": "2026-09-17T17:38:28",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/dining/vegetarian-dinner-menu.html",
     "feed_name": "NYT (Food)",
     "title": "The Vegetarian Dinner Menu You Have to Make Before Summer Ends",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/30/dining/dupes-of-my-favorite-restaurant-dishes.html",
     "content": "Alexa Weibel\u2019s zucchini salad with pecorino, basil and almonds.",
     "date": "2026-07-30T17:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238397",
-    "feed_name": "Texas Tribune",
-    "title": "Texas is banning several THC products. Find out what will still be legal on July 31.",
-    "author": "Katlyn Ma",
-    "link": "https://feeds.texastribune.org/link/16799/17396514/texas-thc-cannabis-ban-delta-9-8-marijuana",
-    "content": "Individual packages of THC-A flower are seen in a display case at a smoke shop in Austin on May 13, 2026.",
-    "date": "2026-07-30T16:31:54",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/theater/ronald-g-davis-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ronald G. Davis, a Mime Who Spoke Out, Dies at 92",
-    "author": "Alex Williams",
-    "link": "https://www.nytimes.com/2026/07/30/theater/ronald-g-davis-dead.html",
-    "content": "At the height of the psychedelic era, he guided the very vocal San Francisco Mime Troupe\u2019s pointed satire of American militarism, racism and bourgeois values.",
-    "date": "2026-07-30T16:29:11",
     "category": "NYT"
   }
 ]
