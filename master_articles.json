@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/arts/music/john-coltrane-a-love-supreme-jazz.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Minutes to Make You Love John Coltrane\u2019s \u2018A Love Supreme\u2019",
+    "author": "Marcus J. Moore and Giovanni Russonello",
+    "link": "https://www.nytimes.com/2026/09/17/arts/music/john-coltrane-a-love-supreme-jazz.html",
+    "content": "Ahead of John Coltrane\u2019s centennial, listen deeply to his 1965 spiritual jazz masterpiece as Ravi Coltrane, Lalah Hathaway and other musicians and writers reflect on its legacy.",
+    "date": "2026-09-17T20:09:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/17/dining/forever-homes.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Restaurants That Came in From the Cold",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/09/17/dining/forever-homes.html",
+    "content": "After years as a street cart, Mongolian Momo King found its permanent home in the East Village of Manhattan, where you can tuck into buuz.",
+    "date": "2026-09-17T19:50:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/arts/pen-america-president-phil-klay.html",
     "feed_name": "NYT (Arts)",
     "title": "Phil Klay Is Appointed President of PEN America",
@@ -19978,25 +19998,5 @@
     "content": "The investigation of James Comey is vindictive and meritless\u2014and unashamedly so.\nDelivered by PolitePaul service",
     "date": "2026-07-30T19:18:58",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238422",
-    "feed_name": "Texas Tribune",
-    "title": "State finds some registered Texas voters were wrongly flagged as potential noncitizens",
-    "author": "Natalia Contreras",
-    "link": "https://feeds.texastribune.org/link/16799/17396601/texas-flagged-noncitizen-voters-reinstated-secretary-state",
-    "content": "Polling volunteers wheel a voting machine at the Brook Hollow Branch Library polling location on primary election day in San Antonio, on March 3, 2026.",
-    "date": "2026-07-30T19:16:44",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/arts/music/linda-perhacs-found-folk-singer.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Folk Singer Linda Perhacs Is Found and Is Safe, Authorities Confirm",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/07/30/arts/music/linda-perhacs-found-folk-singer.html",
-    "content": "Linda Perhacs\u2019s former manager Laurel Stearns said in a statement, \u201cWe extend our sincere thanks to everyone who helped amplify this effort by sharing information.\u201d",
-    "date": "2026-07-30T18:12:05",
-    "category": "NYT"
   }
 ]
