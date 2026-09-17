@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "dc617d38-4e77-43d9-a4c5-4a6ebea55daf",
+    "feed_name": "Economist",
+    "title": "GDP per person no longer grows like it used to",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/17/gdp-per-person-no-longer-grows-like-it-used-to",
+    "content": "In many countries, it is shrinking",
+    "date": "2026-09-17T10:30:49",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
     "feed_name": "NYT (Arts)",
     "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
@@ -208,6 +218,26 @@
     "content": "<p>An Interview with Joanna Stern About the iPhone Duo and AI for Normal People</p>",
     "date": "2026-09-17T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243001",
+    "feed_name": "Texas Tribune",
+    "title": "\u201cUncharted territory\u201d: Two months from Election Day, Democrats in Texas are truly competitive",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17464407/democrats-texas-james-talarico-november-midterms",
+    "content": "Democrats at the top of Texas&#039; statewide ticket this November. From left: James Talarico, running for the U.S. Senate, gubernatorial candidate Gina Hinojosa and   Vikki Goodwin, vying for lieutenant governor.",
+    "date": "2026-09-17T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=242610",
+    "feed_name": "Texas Tribune",
+    "title": "Harris County to spend $3M on community safety programs leaders say have driven down crime",
+    "author": "By Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17464408/texas-harris-county-community-safety-investment",
+    "content": "Harris County Commissioner Rodney Ellis led the effort to pay for three community safety programs that ran out of federal funding.",
+    "date": "2026-09-17T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "6aa87b594ea2a5a4d9e48d51",
@@ -19968,35 +19998,5 @@
     "content": "How the elderly hoard the future.",
     "date": "2026-07-30T09:03:59",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/arts/betye-saar-artwork.html",
-    "feed_name": "NYT (Arts)",
-    "title": "7 of Betye Saar\u2019s Most Important Works",
-    "author": "Carolina A. Miranda",
-    "link": "https://www.nytimes.com/2026/07/30/arts/betye-saar-artwork.html",
-    "content": "The artist, who died just short of her 100th birthday, subverted racist tropes by turning mammy dolls into warriors and presenting the breadth of the Black experience.",
-    "date": "2026-07-30T09:03:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/arts/music/domi-jd-beck-who-asked-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Domi and JD Beck Return With \u2018Who Asked?\u2019",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/07/30/arts/music/domi-jd-beck-who-asked-interview.html",
-    "content": "Domi and JD Beck\u2019s debut album featured guest appearances from the likes of Herbie Hancock and Snoop Dogg.",
-    "date": "2026-07-30T09:02:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/dining/anthony-bourdain-provincetown-tony-movie.html",
-    "feed_name": "NYT (Food)",
-    "title": "Anthony Bourdain\u2019s Wild Summers Still Echo in Provincetown",
-    "author": "Pete Wells",
-    "link": "https://www.nytimes.com/2026/07/30/dining/anthony-bourdain-provincetown-tony-movie.html",
-    "content": "As a new film evokes his coming-of-age in this bohemian Cape Cod town, Pete Wells goes looking for the people and restaurants that shaped him.",
-    "date": "2026-07-30T09:02:31",
-    "category": "NYT"
   }
 ]
