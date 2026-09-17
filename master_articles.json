@@ -200,6 +200,36 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=243285",
+    "feed_name": "Texas Tribune",
+    "title": "One group has stayed mostly mum on Bo French\u2019s racist post \u2014 Texas\u2019 oil and gas industry",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17464965/bo-french-oil-gas-industry-texas",
+    "content": "Bo French,Republican nominee for the Texas Railroad Commission, answers a question during a Texas Republican candidate forum at the Civic Center in Canton on Jan. 17, 2026.",
+    "date": "2026-09-17T22:59:26",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243270",
+    "feed_name": "Texas Tribune",
+    "title": "John Cornyn says he won\u2019t vote for Bo French as backlash to racist post rises",
+    "author": "Will Hammann",
+    "link": "https://feeds.texastribune.org/link/16799/17464966/john-cornyn-bo-french-texas-railroad-commission-racist-post",
+    "content": "From left: U.S. Sen. John Cornyn and Republican nominee for Railroad Commissioner Bo French.",
+    "date": "2026-09-17T22:34:14",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243262",
+    "feed_name": "Texas Tribune",
+    "title": "Texas freezes installation of Flock cameras along state roads",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17464967/texas-flock-camera-pause-highways-txdot",
+    "content": "A Flock camera records drivers on the Texas 288 feeder road in Pearland on Aug. 23, 2026.",
+    "date": "2026-09-17T22:10:58",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
     "feed_name": "NYT (Arts)",
     "title": "Searing Elon Musk Film Nears U.S. Release Amid Overseas Concerns",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/30/t-magazine/precious-okoyomon-moma-ps1.html",
     "content": "Ahead of their installation at MoMA PS1, the artist Precious Okoyomon discusses finding inspiration in an empty room and embracing absurdity.",
     "date": "2026-07-30T23:08:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238457",
-    "feed_name": "Texas Tribune",
-    "title": "ACLU launches legal claims in 17 states against immigration detention conditions, including Texas",
-    "author": "Uriel J. Garc\u00eda and Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17396634/texas-immigrant-detention-legal-claim-medical-neglect-aclu",
-    "content": "South Texas ICE Processing Center, an ICE detention center in Pearsall, on Sept. 30, 2020.",
-    "date": "2026-07-30T21:37:16",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
-    "feed_name": "NYT (Arts)",
-    "title": "After Claiming \u2018Bias\u2019 at Smithsonian, Trump Officials Stage Patriotic Exhibition",
-    "author": "Zachary Small",
-    "link": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
-    "content": "The fashion designer Kate Wasserbach Moore produced a silk dress, \u201cAmerica250 Gown,\u201d for the exhibition \u201cPassport to Patriotism\u201d at the Art Museum of the Americas. Erin Scavino, one of the organizers, met the designer while shopping for her own wedding dress.",
-    "date": "2026-07-30T20:13:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/how-a-new-york-chef-makes-pasta-salad",
-    "feed_name": "NYT (Food)",
-    "title": "How a Top New York Chef Makes Her Pasta Salad So Much Better",
-    "author": "Clare de Boer",
-    "link": "https://cooking.nytimes.com/article/how-a-new-york-chef-makes-pasta-salad",
-    "content": "It really is all about the pasta.",
-    "date": "2026-07-30T20:03:37",
     "category": "NYT"
   }
 ]
