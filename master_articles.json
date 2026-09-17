@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "8d51c3fae2969b33d7e73d28720b9c2f",
+    "feed_name": "LRB",
+    "title": "Human Melting",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/september/human-melting",
+    "content": "Planning regulations were modified last year, with AI data centres redefined as \u2018nationally significant infrastructure projects\u2019.\u00a0.\u00a0.",
+    "date": "2026-09-17T17:59:27",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/dining/drinks/retail-wine-shop.html",
     "feed_name": "NYT (Food)",
     "title": "So, How Are Wine Shops Doing These Days? It Depends.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/30/arts/music/tanglewood-tension-boston-orchestra.html",
     "content": "The bassoonist Jackson Bernal, left in the balcony, performs inside Seiji Ozawa Hall at Tanglewood as part of the Festival of Contemporary Music.",
     "date": "2026-07-30T17:02:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/dining/dupes-of-my-favorite-restaurant-dishes.html",
-    "feed_name": "NYT (Food)",
-    "title": "Dupes of My Favorite Restaurant Dishes",
-    "author": "Tanya Sichynsky",
-    "link": "https://www.nytimes.com/2026/07/30/dining/dupes-of-my-favorite-restaurant-dishes.html",
-    "content": "Alexa Weibel\u2019s zucchini salad with pecorino, basil and almonds.",
-    "date": "2026-07-30T17:00:04",
     "category": "NYT"
   }
 ]
