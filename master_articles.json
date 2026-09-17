@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Searing Elon Musk Film Nears U.S. Release Amid Overseas Concerns",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
+    "content": "Alex Gibney\u2019s documentary about Elon Musk has received strong early reviews.",
+    "date": "2026-09-17T21:40:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/arts/music/john-coltrane-a-love-supreme-jazz.html",
     "feed_name": "NYT (Arts)",
     "title": "5 Minutes to Make You Love John Coltrane\u2019s \u2018A Love Supreme\u2019",
@@ -19988,15 +19998,5 @@
     "content": "U.S. Sen. John Cornyn, R-Texas, speaks with reporters as he departs following a vote at the U.S. Capitol in Washington, D.C., on July 27, 2026.",
     "date": "2026-07-30T19:27:39",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/07/comey-trump-aides-secret-service/688116/",
-    "feed_name": "Chait",
-    "title": "America Isn\u2019t Supposed to Have Political Prosecutions",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/07/comey-trump-aides-secret-service/688116/",
-    "content": "The investigation of James Comey is vindictive and meritless\u2014and unashamedly so.\nDelivered by PolitePaul service",
-    "date": "2026-07-30T19:18:58",
-    "category": "Uncategorized"
   }
 ]
