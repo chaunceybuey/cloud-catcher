@@ -190,6 +190,56 @@
     "category": "Texas"
   },
   {
+    "id": "9d8e324fb91bca52700b47c7abb6884e",
+    "feed_name": "Outside",
+    "title": "My Dad and I Fought About Politics for Decades. Then He Taught Me to Hunt.",
+    "author": "Kassondra CloosSeptember 17, 2026",
+    "link": "https://www.outsideonline.com/culture/active-families/father-daughter-hunting-political-divide/",
+    "content": "I thought my dad and I didn\u2019t agree on anything anymore. Then, I asked him to take me hunting.",
+    "date": "2026-09-17T13:08:20",
+    "category": "Magazines"
+  },
+  {
+    "id": "8de33e5d5cbee0e38dd9acd1a5c3dde2",
+    "feed_name": "Compact",
+    "title": "How Britain Defeated \u2018Assisted Dying\u2019",
+    "author": "",
+    "link": "https://www.compactmag.com/article/how-britain-defeated-assisted-dying/",
+    "content": "",
+    "date": "2026-09-17T13:08:19",
+    "category": "Magazines"
+  },
+  {
+    "id": "f8abcbc45e22a2057e652f3df3755b78",
+    "feed_name": "The Atlantic",
+    "title": "College Is Coming Apart",
+    "author": "Ian Bogost",
+    "link": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
+    "content": "Successive, overlapping crises reveal that American higher education makes no sense.",
+    "date": "2026-09-17T12:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "7961f9872448533ed9045032bbe9c1bb",
+    "feed_name": "The Atlantic",
+    "title": "Who Made America Poorer and Dirtier?",
+    "author": "Adam Serwer",
+    "link": "https://www.theatlantic.com/ideas/2026/09/vance-speech-immigrants-democrats/688656/",
+    "content": "The people in charge are really hoping you\u2019ll blame someone else.",
+    "date": "2026-09-17T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "e6a0511fe026daabd97b03868e6ccb2e",
+    "feed_name": "The Atlantic",
+    "title": "A Plan to Pay Married Mothers Not to Work",
+    "author": "Annie Lowrey",
+    "link": "https://www.theatlantic.com/ideas/2026/09/vance-married-mothers-child-care/688645/",
+    "content": "And make single moms pay for it.",
+    "date": "2026-09-17T10:45:24",
+    "category": "Magazines"
+  },
+  {
     "id": "dc617d38-4e77-43d9-a4c5-4a6ebea55daf",
     "feed_name": "Economist",
     "title": "GDP per person no longer grows like it used to",
@@ -19948,55 +19998,5 @@
     "content": "From left: Republican congressional nominees Alex Mealer and Jessica Steinmann. With Mealer and Steinmann both favored to win in their neighboring Houston-area congressional districts, Texas could see a record four Republican women in its congressional delegation in January.",
     "date": "2026-07-30T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238193",
-    "feed_name": "Texas Tribune",
-    "title": "Dream Con brought Black nerd culture to Texas, but to keep it, founders say support is needed",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17396269/dream-con-brings-black-nerd-culture-texas",
-    "content": "An inflatable version of the Dream Con logo welcomes attendees into Houston\u2019s George R. Brown Convention  Center in Houston for the 2026 Dream Con, a three day pop culture, tech, film and gaming event on Saturday, July 11, 2026.",
-    "date": "2026-07-30T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "cd879aca-2181-4739-b9dc-62017d56ed5e",
-    "feed_name": "Economist",
-    "title": "How many people are dying as a result of USAID\u2019s demise?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise",
-    "content": "Fewer than academics imagine, but more than Elon Musk will admit",
-    "date": "2026-07-30T09:38:15",
-    "category": "Magazines"
-  },
-  {
-    "id": "8e6b30a8-db1b-481e-8b84-d3f7431812c9",
-    "feed_name": "Economist",
-    "title": "High government debt makes a common European safe asset unlikely",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/30/high-government-debt-makes-a-common-european-safe-asset-unlikely",
-    "content": "",
-    "date": "2026-07-30T09:13:36",
-    "category": "Magazines"
-  },
-  {
-    "id": "006572e9-3fa1-4753-a54a-53abf826b9f4",
-    "feed_name": "Economist",
-    "title": "Japan pursues an ill-timed fiscal stimulus",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/30/japan-pursues-an-ill-timed-fiscal-stimulus",
-    "content": "Takaichi Sanae\u2019s economic agenda bears little resemblance to her mentor\u2019s",
-    "date": "2026-07-30T09:12:57",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html",
-    "feed_name": "Interesting Times",
-    "title": "Why Won\u2019t America\u2019s Aging Elite Retire?",
-    "author": "Ross Douthat and Rochelle Widdowson",
-    "link": "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html",
-    "content": "How the elderly hoard the future.",
-    "date": "2026-07-30T09:03:59",
-    "category": "Uncategorized"
   }
 ]
