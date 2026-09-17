@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://stratechery.com/?p=20030",
+    "feed_name": "Stratechery",
+    "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+    "content": "<p>An Interview with Joanna Stern About the iPhone Duo and AI for Normal People</p>",
+    "date": "2026-09-17T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "6aa87b594ea2a5a4d9e48d51",
     "feed_name": "Wired (Science)",
     "title": "The Trump Administration Sends a New Signal to Alien Disclosure Whistleblowers",
@@ -197,6 +207,26 @@
     "link": "https://www.wired.com/story/trump-defense-department-sends-alien-disclosure-signal/",
     "content": "The Defense Department issued a legal waiver authorizing current and former personnel to share unidentified anomalous phenomena\u2013related classified information, but it doesn\u2019t extend to other agencies.",
     "date": "2026-09-17T09:30:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "2919f110-b6c7-4947-b37a-8ddd58eb3901",
+    "feed_name": "Economist",
+    "title": "The trickle-down economics of the AI boom",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+    "content": "How fast are AI investments translating into broader gains? Taiwan and South Korea offer hints",
+    "date": "2026-09-17T09:27:11",
+    "category": "Magazines"
+  },
+  {
+    "id": "394d4a34-eb7e-432c-ad17-38f2be42cd2c",
+    "feed_name": "Economist",
+    "title": "Ricardo Reis was too frank for the IMF",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/17/ricardo-reis-was-too-frank-for-the-imf",
+    "content": "It can still benefit from the economist\u2019s ideas",
+    "date": "2026-09-17T09:24:30",
     "category": "Magazines"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/30/arts/design/iris-van-herpen-fashion-sculpting-the-senses-brooklyn.html",
     "content": "\u201cI always do this alone, never with people around me, so it\u2019s a little scary,\u201d she said.",
     "date": "2026-07-30T09:01:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/movies/i-want-your-sex-review-olivia-wilde.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018I Want Your Sex\u2019 Review: Working Out the Kinks With Your Boss",
-    "author": "Jeannette Catsoulis",
-    "link": "https://www.nytimes.com/2026/07/30/movies/i-want-your-sex-review-olivia-wilde.html",
-    "content": "Cooper Hoffman and Olivia Wilde explore a tie-me-up, turn-me-on relationship in Gregg Araki\u2019s jolly sex comedy.",
-    "date": "2026-07-30T09:01:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/movies/i-want-your-sex-review-working-out-the-kinks-with-your-boss.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018I Want Your Sex\u2019 Review: Working Out the Kinks With Your Boss",
-    "author": "Jeannette Catsoulis",
-    "link": "https://www.nytimes.com/2026/07/30/movies/i-want-your-sex-review-working-out-the-kinks-with-your-boss.html",
-    "content": "Cooper Hoffman and Olivia Wilde explore a tie-me-up, turn-me-on relationship in Gregg Araki\u2019s jolly sex comedy.",
-    "date": "2026-07-30T09:01:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/movies/the-samurai-and-the-prisoner-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Samurai and the Prisoner\u2019 Review: Kiyoshi Kurosawa\u2019s Satisfying Whodunit",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/07/30/movies/the-samurai-and-the-prisoner-review.html",
-    "content": "Kiyoshi Kurosawa directs a satisfying period piece about the tense collaboration between a lord and a cunning envoy.",
-    "date": "2026-07-30T09:00:57",
     "category": "NYT"
   }
 ]
