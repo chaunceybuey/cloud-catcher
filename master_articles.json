@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/arts/television/late-night-donald-trump-jr-wedding.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Slams Donald Trump Jr.\u2019s Russian-Funded Wedding Party",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/17/arts/television/late-night-donald-trump-jr-wedding.html",
+    "content": "\u201cHere comes the bribe, from a Russian guy,\u201d Josh Johnson sang in response to news that a Russian businessman helped pay for the event.",
+    "date": "2026-09-17T06:16:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=243113",
     "feed_name": "Texas Tribune",
     "title": "Fire crews fully contains North Texas wildfire, which continues to burn three weeks later",
@@ -19988,15 +19998,5 @@
     "content": "Shoreline Boulevard along the Corpus Christi Bay near downtown Corpus Christi on March 19, 2026. A proposed desalination plant could be built along the bay near the city&#039;s Hillcrest neighborhood.",
     "date": "2026-07-29T16:17:03",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/29/arts/music/kavinsky-dj-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Kavinsky, French D.J. and Electronic Musician, Dies at 50",
-    "author": "Jonathan Wolfe",
-    "link": "https://www.nytimes.com/2026/07/29/arts/music/kavinsky-dj-dead.html",
-    "content": "Kavinsky performing at the Eurock\u00e9ennes music festival in France in 2012.",
-    "date": "2026-07-29T16:13:52",
-    "category": "NYT"
   }
 ]
