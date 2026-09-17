@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/arts/pen-america-president-phil-klay.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Phil Klay Is Appointed President of PEN America",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/09/17/arts/pen-america-president-phil-klay.html",
+    "content": "A National Book Award-winning author, Phil Klay has defended the PEN America article that prompted the organization\u2019s previous president to resign.",
+    "date": "2026-09-17T18:43:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243217",
+    "feed_name": "Texas Tribune",
+    "title": "UT-Austin cutting majors centering Latino, Black, women and gender studies, email shows",
+    "author": "Jaden Edison",
+    "link": "https://feeds.texastribune.org/link/16799/17464761/university-texas-austin-cuts-race-gender-majors",
+    "content": "A view of the UT Tower from the business building on the UT-Austin campus during finals week on April 28, 2025.",
+    "date": "2026-09-17T18:23:04",
+    "category": "Texas"
+  },
+  {
     "id": "8d51c3fae2969b33d7e73d28720b9c2f",
     "feed_name": "LRB",
     "title": "Human Melting",
@@ -225,6 +245,16 @@
     "title": "The Vegetarian Dinner Menu You Have to Make Before Summer Ends",
     "author": "David Tanis",
     "link": "https://www.nytimes.com/2026/09/17/dining/vegetarian-dinner-menu.html",
+    "content": "David Tanis\u2019s recipes are just that good.",
+    "date": "2026-09-17T17:06:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/vegetarian-dinner-menu",
+    "feed_name": "NYT (Food)",
+    "title": "The Vegetarian Dinner Menu You Have to Make Before Summer Ends",
+    "author": "David Tanis",
+    "link": "https://cooking.nytimes.com/article/vegetarian-dinner-menu",
     "content": "David Tanis\u2019s recipes are just that good.",
     "date": "2026-09-17T17:06:38",
     "category": "NYT"
@@ -19968,35 +19998,5 @@
     "content": "Ten days ago, Andy Burnham stood outside Number 10 and announced a \u2018circuit breaker for Britain, bringing forward the biggest changes.\u00a0.\u00a0.",
     "date": "2026-07-30T17:36:18",
     "category": "Magazines"
-  },
-  {
-    "id": "47d957cacf8e82ed70e8d922d590782c",
-    "feed_name": "LRB",
-    "title": "On Politics: Burnham\u2019s First Week",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-burnham-s-first-week",
-    "content": "Andy Burnham\u2019s early promises to end rough sleeping and sort out social care won\u2019t surprise anyone who\u2019s followed his political career, but his apparent interest in the structures of Whitehall was less expected. To discuss what we know so far about the direction of Britain\u2019s new government, James is joined by Stephen Bush of theFinancial Timesand Sienna Rodgers of the...",
-    "date": "2026-07-30T17:36:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "7a1a419dd4737cc357e5b69f6519ae47",
-    "feed_name": "LRB",
-    "title": "The Man Behind the Curtain: \u2018Middlemarch\u2019 by George Eliot",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/the-man-behind-the-curtain-middlemarch-by-george-eliot",
-    "content": "InMiddlemarch, Tom McCarthy argues, George Eliot uses her \u2018study of provincial life\u2019 as a Trojan Horse to smuggle the continental philosophy of Spinoza and Hegel into the vicarages of middle England. In this episode, McCarthy joins Thomas Jones to discuss Eliot\u2019s radical masterpiece, which marks a revolution in English fiction as significant in its way as the political,...",
-    "date": "2026-07-30T17:36:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/arts/music/tanglewood-tension-boston-orchestra.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At Tanglewood, the Fresh Air Is Tainted by Tension",
-    "author": "David Allen",
-    "link": "https://www.nytimes.com/2026/07/30/arts/music/tanglewood-tension-boston-orchestra.html",
-    "content": "The bassoonist Jackson Bernal, left in the balcony, performs inside Seiji Ozawa Hall at Tanglewood as part of the Festival of Contemporary Music.",
-    "date": "2026-07-30T17:02:45",
-    "category": "NYT"
   }
 ]
