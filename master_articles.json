@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A New Play in Budapest Signals a Cultural Reawakening for Hungary",
+    "author": "Andrew Higgins",
+    "link": "https://www.nytimes.com/2026/09/17/world/europe/play-budapest-culture-hungary.html",
+    "content": "The August premiere in Budapest of the one-woman play \u201cEnemies of the People,\u201d starring the Hungarian film and stage actress Erika Marozsan.",
+    "date": "2026-09-17T10:23:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=20030",
     "feed_name": "Stratechery",
     "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/30/dining/anthony-bourdain-provincetown-tony-movie.html",
     "content": "As a new film evokes his coming-of-age in this bohemian Cape Cod town, Pete Wells goes looking for the people and restaurants that shaped him.",
     "date": "2026-07-30T09:02:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/arts/design/iris-van-herpen-fashion-sculpting-the-senses-brooklyn.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Iris van Herpen: Please Pleat With Me",
-    "author": "Roslyn Sulcas",
-    "link": "https://www.nytimes.com/2026/07/30/arts/design/iris-van-herpen-fashion-sculpting-the-senses-brooklyn.html",
-    "content": "\u201cI always do this alone, never with people around me, so it\u2019s a little scary,\u201d she said.",
-    "date": "2026-07-30T09:01:49",
     "category": "NYT"
   }
 ]
