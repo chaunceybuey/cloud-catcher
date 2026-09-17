@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/arts/design/peter-max-appraisal.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Peter Max Franchised the Cosmic \u201960s Into Astronomical Success",
+    "author": "Jason Farago",
+    "link": "https://www.nytimes.com/2026/09/17/arts/design/peter-max-appraisal.html",
+    "content": "For decades, his bold colors and benign peace-and-love message captivated those who saw America shining.",
+    "date": "2026-09-17T14:30:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/10/08/can-resistance-be-copied-if-we-burn-vincent-bevins/",
     "feed_name": "NYRB",
     "title": "Can Resistance Be Copied?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/08/20/trumps-constitutional-dictatorship-regime-change-haberman-swan/",
     "content": "Maggie Haberman and Jonathan Swan\u2019s inside account of the Trump administration portrays a president with a vast appetite for power but who repeatedly backs down when the costs of his actions become too high.\n\nDelivered by PolitePaul service",
     "date": "2026-07-30T13:03:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "95911b8f-78f9-4333-8225-461e3b05bb6b",
-    "feed_name": "Economist",
-    "title": "Oil prices remain highly flammable",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
-    "content": "As tensions flare in the Gulf, triple digits could return in a flash",
-    "date": "2026-07-30T13:02:21",
     "category": "Magazines"
   }
 ]
