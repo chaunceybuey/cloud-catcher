@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=243113",
+    "feed_name": "Texas Tribune",
+    "title": "Fire crews fully contains North Texas wildfire, which continues to burn three weeks later",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17464067/north-texas-ross-fire-containment",
+    "content": "Scorched trees show the devastation from the Ross Fire in North Texas on Aug. 27, 2026. The fire has been declared 100% contained.",
+    "date": "2026-09-17T00:07:45",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/16/arts/peter-max-trippy-artist-of-counterculture-era-and-beyond-dies-at-88.html",
     "feed_name": "NYT (Arts)",
     "title": "Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/29/arts/music/kavinsky-dj-dead.html",
     "content": "Kavinsky performing at the Eurock\u00e9ennes music festival in France in 2012.",
     "date": "2026-07-29T16:13:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Glen Hansard, Oscar-Winning Frontman of Irish Band the Frames, Dies at 56",
-    "author": "Alex Marshall and Isabella Kwai",
-    "link": "https://www.nytimes.com/2026/07/29/arts/glen-hansard-dead.html",
-    "content": "Glen Hansard in New York City in 2012. The Irish singer-songwriter was best known as the frontman of the Frames.",
-    "date": "2026-07-29T15:13:57",
     "category": "NYT"
   }
 ]
