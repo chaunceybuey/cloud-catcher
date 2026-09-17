@@ -190,6 +190,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Gustavo Dudamel\u2019s New York Era Has Begun. Try to Keep Up.",
+    "author": "Joshua Barone and George Etheredge",
+    "link": "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html",
+    "content": "The New York Philharmonic\u2019s season started with a barnstorming tour of Manhattan to celebrate Dudamel\u2019s arrival as music and artistic director.",
+    "date": "2026-09-17T15:10:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/17/dining/now-bring-us-some-figgy-chicken.html",
+    "feed_name": "NYT (Food)",
+    "title": "Now Bring Us Some Figgy Chicken",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/17/dining/now-bring-us-some-figgy-chicken.html",
+    "content": "Cybelle Tondu\u2019s seared chicken and figs with olives.",
+    "date": "2026-09-17T15:00:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/17/arts/design/auschwitz-museum-watercolor-paintings-dina-gottliebova-babbitt.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Heirs Sue Auschwitz Museum Over Art Their Mother Made Under the Nazis",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/09/17/arts/design/auschwitz-museum-watercolor-paintings-dina-gottliebova-babbitt.html",
+    "content": "Josef Mengele, the \u201cAngel of Death\u201d doctor, ordered Dina Gottliebova Babbitt, an Auschwitz prisoner, to create watercolor paintings. Her daughters want them back.",
+    "date": "2026-09-17T15:00:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/arts/design/peter-max-appraisal.html",
     "feed_name": "NYT (Arts)",
     "title": "Peter Max Franchised the Cosmic \u201960s Into Astronomical Success",
@@ -19968,35 +19998,5 @@
     "content": "Mitch Winehouse in 2024. He manages the estate of his daughter, who died in 2011.",
     "date": "2026-07-30T13:47:24",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html",
-    "feed_name": "Interesting Times",
-    "title": "How Older Americans Hoard the Future",
-    "author": "Ross Douthat and Rochelle Widdowson",
-    "link": "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html",
-    "content": "Aging politicians are just the \u201ctip of the iceberg.\u201d",
-    "date": "2026-07-30T13:45:21",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/08/20/explosions-in-the-mind-francisco-de-zurbaran/",
-    "feed_name": "NYRB",
-    "title": "Explosions in the Mind",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/08/20/explosions-in-the-mind-francisco-de-zurbaran/",
-    "content": "Fusing religious subjects with unerring technique, the Spanish artist Francisco de Zurbar\u00e1n discovered a zone in oil paint that might well be called \u201csacred.\u201d\n\nDelivered by PolitePaul service",
-    "date": "2026-07-30T13:18:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/08/20/trumps-constitutional-dictatorship-regime-change-haberman-swan/",
-    "feed_name": "NYRB",
-    "title": "Trump\u2019s Constitutional Dictatorship",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/08/20/trumps-constitutional-dictatorship-regime-change-haberman-swan/",
-    "content": "Maggie Haberman and Jonathan Swan\u2019s inside account of the Trump administration portrays a president with a vast appetite for power but who repeatedly backs down when the costs of his actions become too high.\n\nDelivered by PolitePaul service",
-    "date": "2026-07-30T13:03:55",
-    "category": "Magazines"
   }
 ]
