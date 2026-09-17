@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review-they-think-they-can-dance.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Best of the Best\u2019 Review: They Think They Can Dance",
+    "author": "Chris Azzopardi",
+    "link": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review-they-think-they-can-dance.html",
+    "content": "In Lena Khan\u2019s dramedy, competitive Bollywood dance becomes a way for two friends to reckon with who they were before college, and who they\u2019ve become.",
+    "date": "2026-09-17T23:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
     "feed_name": "NYT (Arts)",
     "title": "Searing Elon Musk Film Nears U.S. Release Amid Overseas Concerns",
@@ -19987,16 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/how-a-new-york-chef-makes-pasta-salad",
     "content": "It really is all about the pasta.",
     "date": "2026-07-30T20:03:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/dining/latin-america-hot-dogs.html",
-    "feed_name": "NYT (Food)",
-    "title": "Five Hot Dogs, One Man, Infinite Toppings",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/07/30/dining/latin-america-hot-dogs.html",
-    "content": "Forget ketchup and mustard. At these five New York City spots, hot dogs are taken to the extreme.",
-    "date": "2026-07-30T19:50:03",
     "category": "NYT"
   }
 ]
