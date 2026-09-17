@@ -190,6 +190,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kennedy Center Defends Closure as Necessary for Public Safety",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
+    "content": "Matt Floca, the executive director of the Kennedy Center, has said the building has serious maintenance needs, including structural steel corroded by water infiltration.",
+    "date": "2026-09-17T15:56:24",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243194",
+    "feed_name": "Texas Tribune",
+    "title": "$12 billion in Medicaid funds restored to Texas hospitals, ending impasse with the feds",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17464662/texas-medicaid-hospitals-greg-abbott-federal-impasse",
+    "content": "A demonstrator stands among battery powered candles in paper bags during a vigil in protest against potential cuts to Medicaid in Washington, D.C. on July 23, 2025.",
+    "date": "2026-09-17T15:34:53",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243186",
+    "feed_name": "Texas Tribune",
+    "title": "ICE officer in Minnesota-Texas extradition fight arrested in Minneapolis",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17464663/texas-minnesota-extradition-ice-christian-castro-arrest",
+    "content": "File photo: An Immigration and Customs Enforcement officer raises a finger moments after detaining a man during an immigration raid in Minneapolis, Minnesota on Jan. 18, 2026.",
+    "date": "2026-09-17T15:18:08",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html",
     "feed_name": "NYT (Arts)",
     "title": "Gustavo Dudamel\u2019s New York Era Has Begun. Try to Keep Up.",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/30/arts/music/jennifer-finch-dead.html",
     "content": "Jennifer Finch in 2016. Armed with her bass, which was known as the Ghost, she was celebrated for her \u201cslob girl\u201d image, shock of dyed hair and avoidance of footwear during gigs.",
     "date": "2026-07-30T15:55:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/movies/documentaries-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Three Great Documentaries to Stream",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/07/30/movies/documentaries-streaming.html",
-    "content": "In this month\u2019s picks, a portrait of a jazz musician, a French archival family film and an Alabama prison expos\u00e9 using footage from inmates.",
-    "date": "2026-07-30T15:18:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/dining/zucchini-chickpea-and-tomato-salad-super-and-simple.html",
-    "feed_name": "NYT (Food)",
-    "title": "Zucchini, Chickpea and Tomato Salad, Super and Simple",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/30/dining/zucchini-chickpea-and-tomato-salad-super-and-simple.html",
-    "content": "Yossy Arefi\u2019s zucchini, chickpea and tomato salad.",
-    "date": "2026-07-30T15:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/arts/music/amy-winehouse-father-mitch-friends-lawsuit.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Amy Winehouse\u2019s Father Ordered to Pay $1.3 Million in Suit Over Her Belongings",
-    "author": "Jonathan Wolfe",
-    "link": "https://www.nytimes.com/2026/07/30/arts/music/amy-winehouse-father-mitch-friends-lawsuit.html",
-    "content": "Mitch Winehouse in 2024. He manages the estate of his daughter, who died in 2011.",
-    "date": "2026-07-30T13:47:24",
     "category": "NYT"
   }
 ]
