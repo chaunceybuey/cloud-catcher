@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/18/movies/international-movies-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five International Movies to Stream Now",
+    "author": "Devika Girish",
+    "link": "https://www.nytimes.com/2026/09/18/movies/international-movies-streaming.html",
+    "content": "David Jonsson, left, with Tom Blyth in \u201cWasteman.\u201d",
+    "date": "2026-09-18T16:00:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/18/movies/jesse-eisenberg-toronto-international-film-festival.html",
     "feed_name": "NYT (Arts)",
     "title": "At the Toronto International Film Festival, an Abundant but Mixed Bag",
@@ -517,6 +527,16 @@
     "link": "https://www.nytimes.com/2026/09/18/arts/television/late-night-trump-ai.html",
     "content": "\u201cIf you want him to take the threat of A.I. seriously, it\u2019s real simple: Tell him ChatGPT is about to release the Trump-Epstein files,\u201d Kimmel said.",
     "date": "2026-09-18T05:22:33",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Best of the Best\u2019 Review: They Think They Can Dance",
+    "author": "Chris Azzopardi",
+    "link": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review.html",
+    "content": "In Lena Khan\u2019s dramedy, competitive Bollywood dance becomes a way for two friends to reckon with who they were before college, and who they\u2019ve become.",
+    "date": "2026-09-17T23:00:06",
     "category": "NYT"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "Starting out in the 1970s as a rare American expert on political Islam, he became a prolific scholar and a prominent public intellectual.",
     "date": "2026-07-31T18:13:03",
     "category": "NYT"
-  },
-  {
-    "id": "3ef0b20556879be2fbab08cf83d8f582",
-    "feed_name": "LRB",
-    "title": "Emily Wilson and Thomas Jones discuss Homer\u2019s \u2018Odyssey\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/among-the-ancients-the-odyssey",
-    "content": "Emily Wilson and Thomas Jones look at Homer\u2019sOdysseyin this free Close Readings episode. They discuss the twisting, turning nature of both the narrative and its hero, the poem\u2019s complex interrogation of the idea of \u2018home\u2019 and the violence Odysseus brings with him on his return from the Trojan War. With readings by Hazel Holder.",
-    "date": "2026-07-31T15:20:14",
-    "category": "Magazines"
-  },
-  {
-    "id": "6f582613fe2df22a5b06ddcb154b6eb3",
-    "feed_name": "LRB",
-    "title": "Sharky Waters",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v40/n19/amia-srinivasan/sharky-waters",
-    "content": "On 15 September\u200b, 26-year-old Arthur Medici was killed by a great white shark off Newcomb Hollow Beach in Cape Cod, Massachusetts. He was thirty yards from the shore, boogie boarding, when the shark attacked. A witness says that everything was calm until he saw \u2018a giant eruption of water\u2019 and then \u2018a tail and a lot of thrashing\u2019. Medici was pulled from the water...",
-    "date": "2026-07-31T15:20:14",
-    "category": "Magazines"
   }
 ]
