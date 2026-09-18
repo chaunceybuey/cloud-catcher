@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aa98f50b69918de8da373b4",
+    "feed_name": "Wired (Science)",
+    "title": "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/",
+    "content": "David Baker spoke with WIRED en Espa\u00f1ol about where biological design is headed next and the great potential and risks of taking biology outside the bounds of the natural world.",
+    "date": "2026-09-18T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/clear-labels-act-drug-safety-senate-vote",
     "feed_name": "ProPublica",
     "title": "\u201cA Clear Watering Down\u201d: Drug Transparency Bill Stripped of Critical Provisions Ahead of Senate Vote",
@@ -208,6 +218,26 @@
     "content": "Heat records are being shattered thanks to a boost from the natural climate pattern\u2014and burning fossil fuels, of course.",
     "date": "2026-09-18T10:00:00",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243211",
+    "feed_name": "Texas Tribune",
+    "title": "Texas land commissioner 2026: Who is running and what you need to know",
+    "author": "Alejandra Martinez and Mar\u00eda M\u00e9ndez",
+    "link": "https://feeds.texastribune.org/link/16799/17465865/texas-land-commissioner-glo-2026-buckingham",
+    "content": "The General Land Office oversees investments that earn billions of dollars for public education, manages state lands, operates the Alamo and administers disaster recovery funds and benefits to Texas veterans. Here\u2019s a look at who\u2019s running in the 2026 race and where they stand.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17465865.gif\" width=\"1\" />",
+    "date": "2026-09-18T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243282",
+    "feed_name": "Texas Tribune",
+    "title": "Top Texas Republicans knew Bo French\u2019s history of racist comments. They supported him anyway.",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17465866/bo-french-texas-republicans-silence",
+    "content": "Texas Railroad Commission candidate Bo French, seen on May 21, 2026,  has been ducking a battery of criticism \u2014 even from within his own party \u2014 over his racist comments on social media.",
+    "date": "2026-09-18T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/09/18/world/europe/campaign-for-north-africa-game.html",
@@ -19968,35 +19998,5 @@
     "content": "Itzayana Mondrag\u00f3n, 26, at her farm on July 8, 2026, in Cedar Creek. A federal court\u2019s upcoming ruling in a lawsuit could ban DACA recipients from working in Texas, forcing them to move to other states to work legally.",
     "date": "2026-07-31T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238462",
-    "feed_name": "Texas Tribune",
-    "title": "Texas businesses bracing for a financial hit from U.S.-Mexico-Canada trade limbo",
-    "author": "By  Andrew Schneider,\u00a0Houston Public Media",
-    "link": "https://feeds.texastribune.org/link/16799/17397055/texas-us-mexico-canada-trade-agreement",
-    "content": "The World Trade International Bridge between Texas and Mexico on April 9, 2026.",
-    "date": "2026-07-31T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/movies/new-movies-this-week-critics.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 New Movies Our Critics Are Talking About This Week",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/07/31/movies/new-movies-this-week-critics.html",
-    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
-    "date": "2026-07-31T09:04:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/movies/5-new-movies-our-critics-are-talking-about-this-week.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 New Movies Our Critics Are Talking About This Week",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/07/31/movies/5-new-movies-our-critics-are-talking-about-this-week.html",
-    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
-    "date": "2026-07-31T09:04:32",
-    "category": "NYT"
   }
 ]
