@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/18/theater/duncan-sheik-american-psycho-spring-awakening.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018American Psycho\u2019 Was Duncan Sheik\u2019s Darkest Work. Was It Also His Best?",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/09/18/theater/duncan-sheik-american-psycho-spring-awakening.html",
+    "content": "The musical \u201cAmerican Psycho\u201d had a short Broadway run in 2016 at the Gerald Schoenfeld Theater.",
+    "date": "2026-09-18T19:31:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21798-acmc-viano-quartet",
     "feed_name": "KMFA",
     "title": "ACMC: Viano Quartet",
@@ -19988,15 +19998,5 @@
     "content": "If bombing has limited, reversible effects, then it will have to continue indefinitely.\nDelivered by PolitePaul service",
     "date": "2026-07-31T22:18:59",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238572",
-    "feed_name": "Texas Tribune",
-    "title": "Texas lawmakers want to halt plan to build high-voltage transmission lines across the state",
-    "author": "By Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17398311/texas-transmission-lines-dan-patrick",
-    "content": "Texas lawmakers said they need to rewrite a plan to get more energy to West Texas after residents aross the state raised concerns over proposed high-voltage lines.",
-    "date": "2026-07-31T22:06:37",
-    "category": "Texas"
   }
 ]
