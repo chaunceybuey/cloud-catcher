@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Two Centuries On, Smithsonian Connects Jefferson\u2019s Hair to Hemings\u2019s Children",
+    "author": "Jennifer Schuessler",
+    "link": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
+    "content": "A new book describes how cutting-edge genomics techniques yielded \u201cextraordinary proof\u201d that Thomas Jefferson fathered children with Sally Hemings.",
+    "date": "2026-09-18T23:45:27",
+    "category": "NYT"
+  },
+  {
     "id": "250a0edb15d37a04c061f9b041763ca3",
     "feed_name": "The Atlantic",
     "title": "Researchers Say They\u2019ve Found the Truth About Thomas Jefferson",
@@ -19988,15 +19998,5 @@
     "content": "A discovery in a solar system 73 light-years from Earth is challenging definitions and \u201cblurring the lines between stars, planets, and moons.\u201d",
     "date": "2026-08-01T09:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/01/arts/television/hannah-waddington-ted-lasso.html",
-    "feed_name": "NYT (Arts)",
-    "title": "On \u2018Ted Lasso,\u2019 Hannah Waddingham Is Ruthless. Off Camera, She\u2019s \u2018Quite a Goofy Nugget.\u2019",
-    "author": "Eleanor Stanford",
-    "link": "https://www.nytimes.com/2026/08/01/arts/television/hannah-waddington-ted-lasso.html",
-    "content": "Waddingham is nothing like Rebecca, the character she plays on \u201cTed Lasso,\u201d she said, adding, \u201cI\u2019m the wayward sister of Rebecca.\u201d",
-    "date": "2026-08-01T04:01:08",
-    "category": "NYT"
   }
 ]
