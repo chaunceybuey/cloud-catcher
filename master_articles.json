@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "250a0edb15d37a04c061f9b041763ca3",
+    "feed_name": "The Atlantic",
+    "title": "Researchers Say They\u2019ve Found the Truth About Thomas Jefferson",
+    "author": "Andrew Lawler",
+    "link": "https://www.theatlantic.com/ideas/2026/09/thomas-jefferson-genome-children/688635/",
+    "content": "A secret 15-year effort has produced genetic evidence that one of the nation\u2019s Founders fathered children with a woman he enslaved.",
+    "date": "2026-09-18T21:05:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=243467",
+    "feed_name": "Texas Tribune",
+    "title": "Feds reimburse Texas for $7.5 billion in border spending, ending delay",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17466347/texas-border-money-reimburse-billions",
+    "content": "Texas National Guard soldiers check concertina wire fence where migrants must cross through to turn themselves into Border Patrol in El Paso as seen from Ciudad Juarez, Chihuahua state, Mexico on June 1, 2024.",
+    "date": "2026-09-18T19:48:19",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/18/theater/duncan-sheik-american-psycho-spring-awakening.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018American Psycho\u2019 Was Duncan Sheik\u2019s Darkest Work. Was It Also His Best?",
@@ -198,6 +218,16 @@
     "content": "THE SYMPHONY ORCHESTRA PRESENTS:\n\nTHE DECLARATION PROJECT\n\nSeptember 18 | 7:30 P.M. | Bates Recital Hall\n\n\n\nKMFA invites you to the culmination of The\u00a0Declaration\u00a0Project\u2014celebrating the 250th anniversary of the United States! Join us for a concert at the Butler School of Music featuring pianist Lara Downes, the UT Symphony Orchestra conducted by Farkhad Khudyev, and a program reflecting on Life, Liberty, and the Pursuit of Happiness, with Texas premieres of new music by Valerie Coleman, Arturo O\u2019Farrill, and Christopher Tin.\n\n\u00a0\n\nFriday, September 18th\u00a0at 7:30, at UT Austin's Bates Recital Hall. More information and tickets - https://music.utexas.edu/events/6137-symphony-orchestra\n\nBUY TICKETS!\n\nEvent Details\nDate: Friday, September 18\nTime: 7:30 P.M.\nVenue: Bates Recital Hall\n\nTicket Information\nCost: $7 - $17\nPhone: \n\nPresenter Details: Founded in 1911, the Austin Symphony Orchestra is the city\u2019s oldest performing arts organization. The Symphony presents a full season of musical and educational programming, including the Masterworks Series and the Butler Pops Series, which run from September through May at the state-of-the-art Joe R. &amp; Teresa Lozano Long Center for the Performing Arts. Special events include the Halloween Children\u2019s Concert, Handel\u2019s\u00a0Messiah, and free community concerts during the summer.\u00a0 The James C. Armstrong Youth Educations Programs include\u00a0ASO Tuneful Tales,\u00a0Young People\u2019s Concerts, and a variety of other\u00a0school programs.",
     "date": "2026-09-18T19:30:00",
     "category": "Texas"
+  },
+  {
+    "id": "ee9e6ed61bbaeb796f497b263dcda7e6",
+    "feed_name": "The Atlantic",
+    "title": "The Goal of Contemporary Journalism",
+    "author": "Amogh Dimri",
+    "link": "https://www.theatlantic.com/ideas/2026/09/atlantic-festival-journalism-press-freedom/688702/",
+    "content": "Jeffrey Goldberg, Amna Nawaz, and Joe Kahn discussed how to sustain a free press in an era of public distrust, social-media punditry, and a hostile federal government.",
+    "date": "2026-09-18T19:08:00",
+    "category": "Magazines"
   },
   {
     "id": "https://cooking.nytimes.com/article/theo-james-restaurant-recipe-burro-e-parmigiano",
@@ -19968,35 +19998,5 @@
     "content": "Waddingham is nothing like Rebecca, the character she plays on \u201cTed Lasso,\u201d she said, adding, \u201cI\u2019m the wayward sister of Rebecca.\u201d",
     "date": "2026-08-01T04:01:08",
     "category": "NYT"
-  },
-  {
-    "id": "6a6cce158eeea7417536620b",
-    "feed_name": "Wired (Science)",
-    "title": "SpaceX\u2019s Falcon 9 Rocket Is About to Crash Into the Moon\u2014and It Could Be Visible From Earth",
-    "author": "Nathaniel Janowitz",
-    "link": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
-    "content": "The impact will kick up a plume of debris so high, it\u2019ll likely be visible through some telescopes. Astronomers will be watching.",
-    "date": "2026-07-31T23:38:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8821712#p8821712",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "lstone19",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8821712#p8821712",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Strange. Perhaps one message bounced back. Vanguard <a class=\"postlink\" href=\"https://www.bogleheads.org/forum/viewtopic.php?t=213849\">sends letters</a> when they believe they can\u2019t reach someone by email.<br /><br />I have been removed (or been threatened with removal) from some mailing lists if I don\u2019t occasionally allow tracking images to load. <br /><br />Many mailers  put \u201ctracking pixels\u201d into emails to know when messages are opened/read, but I turn it off by default. Some mailers remove recipients that don\u2019t appear to read messages to try to increase their \u201creputation\u201d. Mailers with worse reputation may have more messages filtered as spam or rejected.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>My experience is for some reason, many financial institutions treat transient errors as permanent which is wrong. Transient errors are things like the destination mail server is down for maintenance, is overloaded so didn't respond in time, or out of disk space / disk quota. A transient error means retry at some point in the future (how often being under the control of the sending server - when I ran my own mail server, the retry interval was 5 min, 10 min, 20 min, 40 min, and then hourly); Internet best practice is to retry for five days before giving up although many servers will send a delay warning message after some time (four hours is common). Permanent errors are things like no such user.<br /><br />Treating transient errors as permanent results in many false assumptions of being undeliverable. Nothing in the Internet standard for email guarantees immediate delivery or 100% uptime.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=126664\">lstone19</a> \u2014 Fri Jul 31, 2026 6:37 pm</p><hr />",
-    "date": "2026-07-31T23:37:08",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144/",
-    "feed_name": "Chait",
-    "title": "The Incoherence of the Iran Hawks",
-    "author": "",
-    "link": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144/",
-    "content": "If bombing has limited, reversible effects, then it will have to continue indefinitely.\nDelivered by PolitePaul service",
-    "date": "2026-07-31T22:18:59",
-    "category": "Uncategorized"
   }
 ]
