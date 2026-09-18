@@ -190,6 +190,36 @@
     "category": "Texas"
   },
   {
+    "id": "720257a4ddacd4c11b880ba34173184c",
+    "feed_name": "LRB",
+    "title": "On the Mic",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n17/david-trotter/a-fly-s-footfall",
+    "content": "One\u200b of the more recondite claims made by Kanye West during a notorious December 2022 interview with the far-right radio show host and conspiracy theorist Alex Jones was that Hitler \u2018invented the very microphone I use as a musician\u2019. Well, no, obviously. But it is true both that Hitler\u2019s reliance on the distinctively tubular Neumann CMV3 when speaking at rallies and other...",
+    "date": "2026-09-18T14:10:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "c67bd087a4199745646c6fedbe78f5a7",
+    "feed_name": "LRB",
+    "title": "Women of the Resistance",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n17/daniel-lee/night-and-fog",
+    "content": "In August\u200b 1942 a French farmer called Maurice Courtin was released from the POW camp Stalag I-A in East Prussia, where he had been imprisoned for two years in dire conditions. German guards put him on a train back to France along with 1300 other prisoners from Stalag I-A and Stalag I-B. Courtin was delighted at the prospect of being reunited with his wife, his children and his farm. When...",
+    "date": "2026-09-18T14:10:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "621122e20a61149d5c9f08df750c691e",
+    "feed_name": "Compact",
+    "title": "The Death of the Professional-Managerial Class",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-death-of-the-professional-managerial-class/",
+    "content": "",
+    "date": "2026-09-18T14:10:52",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/18/arts/control-resonant-review.html",
     "feed_name": "NYT (Arts)",
     "title": "There\u2019s Freedom at Every Mind-Bending Corner",
@@ -19968,35 +19998,5 @@
     "content": "His musings seem to confirm everyone\u2019s worst suspicions about the capital.",
     "date": "2026-07-31T13:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/arts/historic-sites-trump-regulation-changes.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Critics Say Historic Sites Are Endangered by Trump-Aligned Panel\u2019s Plan",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/07/31/arts/historic-sites-trump-regulation-changes.html",
-    "content": "Whitney Plantation in Louisiana is among the historic sites that preservationists say have been protected by federal regulations that are currently under scrutiny.",
-    "date": "2026-07-31T12:47:20",
-    "category": "NYT"
-  },
-  {
-    "id": "ecbfe47c37304b3b92f36fe237c2eb14",
-    "feed_name": "Compact",
-    "title": "The Rise of the V\u00f6lkisch Left",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-rise-of-the-volkisch-left/",
-    "content": "",
-    "date": "2026-07-31T12:00:56",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238495",
-    "feed_name": "Texas Tribune",
-    "title": "Ken Paxton unveils economic plan centered on tax breaks in U.S. Senate race",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17397322/texas-ken-paxton-us-senate-race-economic-agenda-tax-deductions",
-    "content": "Attorney General Ken Paxton, the Republican nominee for U.S. Senate, speaks at his \u201cRally in the Valley\u201d at University Draft House in McAllen on July 14, 2026.",
-    "date": "2026-07-31T12:00:00",
-    "category": "Texas"
   }
 ]
