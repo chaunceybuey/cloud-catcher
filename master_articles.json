@@ -190,6 +190,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/18/dining/this-sam-sifton-steak-is-simply-superb.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Sam Sifton Steak Is Simply Superb",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/09/18/dining/this-sam-sifton-steak-is-simply-superb.html",
+    "content": "Sam Sifton\u2019s reverse-seared rib-eye steak.",
+    "date": "2026-09-18T15:00:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/theater/cherry-orchard-simon-stone-jeon-do-yeon.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: \u2018The Cherry Orchard,\u2019 in Korean, at the Park Avenue Armory",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/09/18/theater/cherry-orchard-simon-stone-jeon-do-yeon.html",
+    "content": "\u201cThe Cherry Orchard\u201d at the Park Avenue Armory stars, from left, Jeon Do-yeon, Son Sang-kyu and Park Hae-soo.",
+    "date": "2026-09-18T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/obituaries/hilda-terry-overlooked.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Overlooked No More: Hilda Terry, Who Cracked the Code of Teen Culture",
+    "author": "Joanne Kaufman",
+    "link": "https://www.nytimes.com/2026/09/18/obituaries/hilda-terry-overlooked.html",
+    "content": "She understood teenagers before pop culture knew what to do with them, depicting them in cartoons as romantics, snobs, dreamers and social climbers.",
+    "date": "2026-09-18T14:53:35",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/31/movies/science-fiction-movies-streaming.html",
     "content": "Ryan Gosling in \u201cProject Hail Mary.\u201d",
     "date": "2026-07-31T15:00:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/dining/the-best-cucumber-salad-ive-ever-made.html",
-    "feed_name": "NYT (Food)",
-    "title": "\u201cThe Best Cucumber Salad I\u2019ve Ever Made\u201d",
-    "author": "The New York Times Cooking",
-    "link": "https://www.nytimes.com/2026/07/31/dining/the-best-cucumber-salad-ive-ever-made.html",
-    "content": "And more of the week\u2019s most popular recipes.",
-    "date": "2026-07-31T15:00:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/arts/music/ariana-grande-petal-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ariana Grande \u2018Petal\u2019 Album Review: The Pitfalls of Fame",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/07/31/arts/music/ariana-grande-petal-review.html",
-    "content": "Ariana Grande has said she was planning to focus more on acting and theater than pop stardom, but so far that has not come to pass.",
-    "date": "2026-07-31T14:04:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/theater/boy-george-israel.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Boy George Pulled From \u2018Jesus Christ Superstar\u2019 Days After Posting Pro-Israel Reggae Song",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/07/31/theater/boy-george-israel.html",
-    "content": "Boy George in June, during an interview at the New York Stock Exchange.",
-    "date": "2026-07-31T13:09:52",
     "category": "NYT"
   }
 ]
