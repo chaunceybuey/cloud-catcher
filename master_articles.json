@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/theo-james-restaurant-recipe-burro-e-parmigiano",
+    "feed_name": "NYT (Food)",
+    "title": "Theo James Shares His Restaurant\u2019s Burro e Parmigiano Recipe",
+    "author": "Victoria Chen",
+    "link": "https://cooking.nytimes.com/article/theo-james-restaurant-recipe-burro-e-parmigiano",
+    "content": "Watch the actor and his co-star, Kaya Scodelario, cook up a Northern Italian staple.",
+    "date": "2026-09-18T19:03:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8859268#p8859268",
+    "feed_name": "Vanguard",
+    "title": "Re: Vanguard Cash Plus Account",
+    "author": "retiringwhen",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8859268#p8859268",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Given their history with the Vanguard advantage account, good luck to those who want to hold onto cash plus for the long haul.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I was told by our Relationship Manager recently that they are planning several improvements in the near term.<br />1.) one-time provisioned wires by the end user for non-bank accounts (eg. loan closing).<br />2.) an online bill pay feature (I think this just means scheduling outgoing ACH/EFT transactions.)<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=122804\">retiringwhen</a> \u2014 Fri Sep 18, 2026 1:58 pm</p><hr />",
+    "date": "2026-09-18T18:58:45",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/18/arts/egon-schiele-chicago-museum-appellate-court-ruling.html",
     "feed_name": "NYT (Arts)",
     "title": "Investigators Overstepped in Seizing Work From Museum, Court Rules",
@@ -787,6 +807,16 @@
     "link": "https://cooking.nytimes.com/article/vegetarian-dinner-menu",
     "content": "David Tanis\u2019s recipes are just that good.",
     "date": "2026-09-17T17:06:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/what-makes-a-great-vegetarian-sandwich",
+    "feed_name": "NYT (Food)",
+    "title": "What Makes a Great Vegetarian Sandwich?",
+    "author": "Tanya Sichynsky",
+    "link": "https://cooking.nytimes.com/article/what-makes-a-great-vegetarian-sandwich",
+    "content": "We took eight recipes to a bracket to find out.",
+    "date": "2026-09-17T17:02:22",
     "category": "NYT"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17398311/texas-transmission-lines-dan-patrick",
     "content": "Texas lawmakers said they need to rewrite a plan to get more energy to West Texas after residents aross the state raised concerns over proposed high-voltage lines.",
     "date": "2026-07-31T22:06:37",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8821646#p8821646",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "Lyrrad",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8821646#p8821646",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Strangely, on my wife's FIDO account, she received a letter in the mail a week ago saying there's no email on file, so she went back in and re-added her email. I have no idea what happened and I never seen that happen from any FI company. My FIDO account didn't have that issue.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Strange. Perhaps one message bounced back. Vanguard <a class=\"postlink\" href=\"https://www.bogleheads.org/forum/viewtopic.php?t=213849\">sends letters</a> when they believe they can\u2019t reach someone by email.<br /><br />I have been removed (or been threatened with removal) from some mailing lists if I don\u2019t occasionally allow tracking images to load. <br /><br />Many mailers  put \u201ctracking pixels\u201d into emails to know when messages are opened/read, but I turn it off by default. Some mailers remove recipients that don\u2019t appear to read messages to try to increase their \u201creputation\u201d. Mailers with worse reputation may have more messages filtered as spam or rejected.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=9124\">Lyrrad</a> \u2014 Fri Jul 31, 2026 4:47 pm</p><hr />",
-    "date": "2026-07-31T21:47:30",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/books/mildred-pitts-walter-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mildred Pitts Walter, Author of Books for Black Children, Dies at 103",
-    "author": "Richard Sandomir",
-    "link": "https://www.nytimes.com/2026/07/31/books/mildred-pitts-walter-dead.html",
-    "content": "Mildred Pitts Walter in 1971. Over three decades, she wrote more than 20 books that \u201cchanged the course of children\u2019s literature,\u201d said Lin Oliver, a founder of the Society of Children\u2019s Book Writers and Illustrators.",
-    "date": "2026-07-31T21:27:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238557",
-    "feed_name": "Texas Tribune",
-    "title": "North Texas suburbs resisting new housing laws garner Abbott\u2019s rebuke",
-    "author": "Joshua Fechter",
-    "link": "https://feeds.texastribune.org/link/16799/17398258/texas-greg-abbott-suburbs-housing-campaign",
-    "content": "Gov. Greg Abbott speaks at the George R. Brown Convention Center in Houston during the 2026 Texas State Republican Convention on June 12, 2026.",
-    "date": "2026-07-31T21:06:35",
     "category": "Texas"
   }
 ]
