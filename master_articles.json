@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/18/arts/egon-schiele-chicago-museum-appellate-court-ruling.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Investigators Overstepped in Seizing Work From Museum, Court Rules",
+    "author": "Graham Bowley and Tom Mashberg",
+    "link": "https://www.nytimes.com/2026/09/18/arts/egon-schiele-chicago-museum-appellate-court-ruling.html",
+    "content": "The court, in a case involving the Art Institute of Chicago, said New York investigators should not have used a penal law that they have cited in more than 100 seizure cases.",
+    "date": "2026-09-18T18:35:52",
+    "category": "NYT"
+  },
+  {
     "id": "8030646ad6845986ff1a6e0250f8dc64",
     "feed_name": "LRB",
     "title": "In Bishkek",
@@ -19988,15 +19998,5 @@
     "content": "Gov. Greg Abbott speaks at the George R. Brown Convention Center in Houston during the 2026 Texas State Republican Convention on June 12, 2026.",
     "date": "2026-07-31T21:06:35",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/26/dining/some-like-it-hot-and-then-cold.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Some Like It Hot, and Then Cold",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/07/26/dining/some-like-it-hot-and-then-cold.html",
-    "content": "Five of my favorite quick, easy dinners that turn into no-reheating-needed lunches.",
-    "date": "2026-07-31T21:03:53",
-    "category": "NYT"
   }
 ]
