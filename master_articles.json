@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/18/arts/music/san-francisco-orchestra-strike-ends.html",
+    "feed_name": "NYT (Arts)",
+    "title": "San Francisco Opera Reaches Deal With Orchestra, Ending Strike",
+    "author": "Adam Nagourney",
+    "link": "https://www.nytimes.com/2026/09/18/arts/music/san-francisco-orchestra-strike-ends.html",
+    "content": "Further details of the agreement between the San Francisco Opera and its orchestra were not immediately released.",
+    "date": "2026-09-18T05:32:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/arts/television/late-night-trump-ai.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Knows How to Get Trump to Stop A.I.",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/18/arts/television/late-night-trump-ai.html",
+    "content": "\u201cIf you want him to take the threat of A.I. seriously, it\u2019s real simple: Tell him ChatGPT is about to release the Trump-Epstein files,\u201d Kimmel said.",
+    "date": "2026-09-18T05:22:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review-they-think-they-can-dance.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Best of the Best\u2019 Review: They Think They Can Dance",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/31/arts/television/jordan-klepper-anthony-fauci-covid.html",
     "content": "\u201cThe Daily Show\u201d host defended the doctor\u2019s diary entries about his Covid-era fame: \u201cI literally saw Fauci more than I saw my parents.\u201d",
     "date": "2026-07-31T06:30:21",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238499",
-    "feed_name": "Texas Tribune",
-    "title": "DACA mother of three suing the federal government over deportation to Mexico",
-    "author": "By Valerie Gonzalez,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17396856/texas-mother-daca-recepient-deportation-lawsuit",
-    "content": "Jessica Trevi\u00f1o, seen in this undated photo, was deported to Mexico in March 2026 despite having a valid DACA status and clean criminal record.",
-    "date": "2026-07-31T03:23:22",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/30/t-magazine/precious-okoyomon-moma-ps1.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Queens, a Fantastical Garden Featuring a 25-Foot-Long Teddy Bear",
-    "author": "Yaniya Lee",
-    "link": "https://www.nytimes.com/2026/07/30/t-magazine/precious-okoyomon-moma-ps1.html",
-    "content": "Ahead of their installation at MoMA PS1, the artist Precious Okoyomon discusses finding inspiration in an empty room and embracing absurdity.",
-    "date": "2026-07-30T23:08:30",
     "category": "NYT"
   }
 ]
