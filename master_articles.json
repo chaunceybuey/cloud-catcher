@@ -200,6 +200,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=242587",
+    "feed_name": "Texas Tribune",
+    "title": "T-Squared: Erin Thornton establishes the John Thornton Founding Fund",
+    "author": "Texas Tribune Staff",
+    "link": "https://feeds.texastribune.org/link/16799/17466020/texas-tribune-john-thornton-fund-donation-legacy",
+    "content": "John and Erin Thornton.",
+    "date": "2026-09-18T13:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6aa98f50b69918de8da373b4",
     "feed_name": "Wired (Science)",
     "title": "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature",
@@ -19988,15 +19998,5 @@
     "content": "Attorney General Ken Paxton, the Republican nominee for U.S. Senate, speaks at his \u201cRally in the Valley\u201d at University Draft House in McAllen on July 14, 2026.",
     "date": "2026-07-31T12:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/arts/dance/review-philadanco-rennie-harris.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Dance Review: \u2018To Philly, Love, Rennie\u2019 Is the Sound of Soul, but Muted",
-    "author": "Brian Seibert",
-    "link": "https://www.nytimes.com/2026/07/31/arts/dance/review-philadanco-rennie-harris.html",
-    "content": "At the Joyce Theater, Philadanco! premiered a new dance of civic pride by Rennie Harris that\u2019s oddly muffled.",
-    "date": "2026-07-31T11:58:37",
-    "category": "NYT"
   }
 ]
