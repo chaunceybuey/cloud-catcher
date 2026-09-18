@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
+    "content": "Weary of the heartthrob label after his 1996 hit \u201cBarely Breathing,\u201d he pivoted to musical theater and won two Tonys for composing \u201cSpring Awakening.\u201d",
+    "date": "2026-09-18T14:42:15",
+    "category": "NYT"
+  },
+  {
     "id": "720257a4ddacd4c11b880ba34173184c",
     "feed_name": "LRB",
     "title": "On the Mic",
@@ -19988,15 +19998,5 @@
     "content": "Boy George in June, during an interview at the New York Stock Exchange.",
     "date": "2026-07-31T13:09:52",
     "category": "NYT"
-  },
-  {
-    "id": "6a12d67858dcbd145e94b7d5d1d67f56",
-    "feed_name": "The Atlantic",
-    "title": "What the Fauci Diary Reveals About Washington",
-    "author": "Mark Leibovich",
-    "link": "https://www.theatlantic.com/ideas/2026/07/anthony-fauci-washington-diary/688127/",
-    "content": "His musings seem to confirm everyone\u2019s worst suspicions about the capital.",
-    "date": "2026-07-31T13:00:00",
-    "category": "Magazines"
   }
 ]
