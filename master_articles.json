@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "8030646ad6845986ff1a6e0250f8dc64",
+    "feed_name": "LRB",
+    "title": "In Bishkek",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
+    "content": "Kok-boru is a horseback sport related to polo, played with a headless goat carcass rather than a ball and mallets. The equestrian scrums are.\u00a0.\u00a0.",
+    "date": "2026-09-18T18:07:21",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8859183#p8859183",
     "feed_name": "Vanguard",
     "title": "Re: Vanguard Cash Plus Account",
@@ -258,6 +268,16 @@
     "content": "Films by Jesse Eisenberg, Lee Chang-dong and Hirokazu Kore-eda make up for an uneven program.",
     "date": "2026-09-18T15:23:55",
     "category": "NYT"
+  },
+  {
+    "id": "571607b7824ebc847750dca7100eebf6",
+    "feed_name": "The Atlantic",
+    "title": "The Other Way AI Impairs Our Thinking",
+    "author": "Thomas Chatterton Williams",
+    "link": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/",
+    "content": "Suddenly the technology is sapping people\u2019s concentration in a new way, one that abstaining from AI won\u2019t fix.",
+    "date": "2026-09-18T15:16:00",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/09/18/dining/this-sam-sifton-steak-is-simply-superb.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/07/26/dining/some-like-it-hot-and-then-cold.html",
     "content": "Five of my favorite quick, easy dinners that turn into no-reheating-needed lunches.",
     "date": "2026-07-31T21:03:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8821597#p8821597",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "runr",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8821597#p8821597",
-    "content": "Strangely, on my wife's FIDO account, she received a letter in the mail a week ago saying there's no email on file, so she went back in and re-added her email. I have no idea what happened and I never seen that happen from any FI company. My FIDO account didn't have that issue.<br /><br />Also for both of our FIDO accounts we secured messaged them with (and instant messaged for the 401(k)),<br /><br />I don't want unsolicited portfolio review calls and emails. Please add me to your do not call list for investment consultation and marketing outreach for all of my accounts.<br /><br />Please confirm that the request applies across all Fidelity business units, not just marketing.<br /><br />FIDO responded promptly with,<br /><br />\"I have added you to the do not call list. In my role I have limited access to other business units.\"<br /><br />So hopefully this fixes all that cold calling/emailing nonsense, and we already had all the marketing options turned off beforehand.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=197342\">runr</a> \u2014 Fri Jul 31, 2026 3:47 pm</p><hr />",
-    "date": "2026-07-31T20:47:59",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/07/31/style/met-gala-costume-institute-john-galliano.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Next Met Fashion Blockbuster and Gala Will Honor Controversial Designer John Galliano",
-    "author": "Vanessa Friedman",
-    "link": "https://www.nytimes.com/2026/07/31/style/met-gala-costume-institute-john-galliano.html",
-    "content": "John Galliano is considered by many in the fashion world to be one of the most influential living designers. But he became a household name after a video of him making antisemitic comments at a Paris bar became international news in 2011.",
-    "date": "2026-07-31T20:32:44",
     "category": "NYT"
   }
 ]
