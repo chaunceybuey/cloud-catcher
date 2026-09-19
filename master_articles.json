@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aab158f069f5b268621a0f9",
+    "feed_name": "Wired (Science)",
+    "title": "Mathematicians Hate AI. They Can\u2019t Quit It",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+    "content": "Powerful AI models have created an existential risk to the field, but researchers can\u2019t stop relying on them because they\u2019re too useful.",
+    "date": "2026-09-19T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6aac65beaf13ab2d8d3624c7",
     "feed_name": "Wired (Science)",
     "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
     "content": "The movie, the 11th big-budget Spider-Man movie since 2002, was on pace to have one of the biggest domestic first weekends ever.",
     "date": "2026-08-01T17:20:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/01/dining/peanut-peanut-noodles-and-cabbage.html",
-    "feed_name": "NYT (Food)",
-    "title": "Peanut, Peanut Noodles (and Cabbage)",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/08/01/dining/peanut-peanut-noodles-and-cabbage.html",
-    "content": "Hetty Lui McKinnon\u2019s crunchy peanut noodle slaw.",
-    "date": "2026-08-01T15:00:05",
     "category": "NYT"
   }
 ]
