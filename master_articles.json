@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "6cea1bac03ac50f5648bcf49712a3126",
+    "feed_name": "The Atlantic",
+    "title": "College Sports Are Great",
+    "author": "Geraldo L. Cadava",
+    "link": "https://www.theatlantic.com/ideas/2026/09/college-sports-defense-football/688708/",
+    "content": "The accomplishments of athletes are every bit as impressive and legitimate as those of dancers, debaters, and oboists.",
+    "date": "2026-09-19T12:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "ed962481afefee3502d2d973a3320c56",
+    "feed_name": "The Atlantic",
+    "title": "The Data-Center Debate Is Divorced From the Facts",
+    "author": "Andy Masley",
+    "link": "https://www.theatlantic.com/ideas/2026/09/data-center-facts-effects/688670/",
+    "content": "All those scary numbers aren\u2019t what they seem.",
+    "date": "2026-09-19T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6aab158f069f5b268621a0f9",
     "feed_name": "Wired (Science)",
     "title": "Mathematicians Hate AI. They Can\u2019t Quit It",
@@ -19978,25 +19998,5 @@
     "content": "Don Huffines, Republican candidate for Texas Comptroller, speaks during the 2026 Texas State Republican Convention stand for the Pledge of Allegiance and the Texas state pledge on Friday, June 12, 2026 in Houston.",
     "date": "2026-08-01T21:45:47",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Vincent Pastore, Actor on \u2018The Sopranos,\u2019 Dies at 80",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
-    "content": "Vincent Pastore in 2002. A character actor who specialized in playing Italian American tough guys, he had his biggest role on \u201cThe Sopranos.\u201d",
-    "date": "2026-08-01T21:10:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8822343#p8822343",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "jeam3131",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8822343#p8822343",
-    "content": "Vanguard sells orders with funds transferred to Fidelity used to show up next day as long as the order was placed before 4PM. I've noticed this isn't always the case anymore. Sometimes it takes two days for the funds to hit Fidelity.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=138392\">jeam3131</a> \u2014 Sat Aug 01, 2026 3:31 pm</p><hr />",
-    "date": "2026-08-01T20:31:09",
-    "category": "Finance"
   }
 ]
