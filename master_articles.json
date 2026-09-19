@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/19/arts/design/jacques-goudstikker-art-collection-museum-dispute.html",
+    "feed_name": "NYT (Arts)",
+    "title": "New Bid to Claim Cranach Paintings Held by Norton Simon Museum",
+    "author": "Nina Siegal",
+    "link": "https://www.nytimes.com/2026/09/19/arts/design/jacques-goudstikker-art-collection-museum-dispute.html",
+    "content": "Courts have upheld the museum\u2019s title to the paintings once looted by the Nazis, but a lawsuit seeks to press forward with the claim under a new California law.",
+    "date": "2026-09-19T13:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22491-the-long-center-teresa-lozano-long-community-day",
     "feed_name": "KMFA",
     "title": "The Long Center: Teresa Lozano Long Community Day",
@@ -19988,15 +19998,5 @@
     "content": "Vanguard sells orders with funds transferred to Fidelity used to show up next day as long as the order was placed before 4PM. I've noticed this isn't always the case anymore. Sometimes it takes two days for the funds to hit Fidelity.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=138392\">jeam3131</a> \u2014 Sat Aug 01, 2026 3:31 pm</p><hr />",
     "date": "2026-08-01T20:31:09",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Spider-Man\u2019 Heads for $875 Million Global Opening, Defying Superhero Slump",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
-    "content": "The movie, the 11th big-budget Spider-Man movie since 2002, was on pace to have one of the biggest domestic first weekends ever.",
-    "date": "2026-08-01T17:20:41",
-    "category": "NYT"
   }
 ]
