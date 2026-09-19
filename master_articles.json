@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/19/arts/colin-jost-pete-davidson-staten-island-ferry.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Pete Davidson and Colin Jost\u2019s Comedy Ferry Has \u2018Hot and Nauseous\u2019 Debut",
+    "author": "Reggie Ugwu",
+    "link": "https://www.nytimes.com/2026/09/19/arts/colin-jost-pete-davidson-staten-island-ferry.html",
+    "content": "The comedians Colin Jost, right, and Pete Davidson were part of a group that bought an old Staten Island Ferry for around $280,000 in 2022.",
+    "date": "2026-09-19T16:32:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22887-austin-classical-guitar-ana-vidoc",
     "feed_name": "KMFA",
     "title": "Austin Classical Guitar: Ana Vidoc",
@@ -19988,15 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>We tried one stop shop but it didn't work for us. There were a few reasons... <br /><ul><li>I had a claim submitted to Elan Bank and I was not happy how they handled it. In the end my claim was rejected but without providing any explanation. I didn't call and followup with them but I was expecting a written detailed reasoning, which was not delivered to me.</li></ul></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Can you please provide more info on this? What was the claim?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=151239\">EarningBack</a> \u2014 Sat Aug 01, 2026 9:28 pm</p><hr />",
     "date": "2026-08-02T02:28:39",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/01/arts/music/vicki-wickham-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Vicki Wickham, Behind-the-Scenes Force in Pop Music, Dies at 87",
-    "author": "Allyson McCabe",
-    "link": "https://www.nytimes.com/2026/08/01/arts/music/vicki-wickham-dead.html",
-    "content": "She managed artists like Labelle and Dusty Springfield, and helped run the influential 1960s British TV showcase \u201cReady Steady Go!\u201d",
-    "date": "2026-08-02T00:41:42",
-    "category": "NYT"
   }
 ]
