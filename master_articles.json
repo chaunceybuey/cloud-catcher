@@ -190,6 +190,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=243525",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Supreme Court rules baby delivered by surrogate can leave Texas",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17466473/texas-surrogacy-california-alaska-mckenna-west-rumi-gabriel",
+    "content": "McKenna West, an Alaskan surrogate who fled to Dallas to obtain custody for the sickly baby that she was carrying. A Texas court has denied West custody.",
+    "date": "2026-09-18T23:23:57",
+    "category": "Texas"
+  },
+  {
     "id": "250a0edb15d37a04c061f9b041763ca3",
     "feed_name": "The Atlantic",
     "title": "Researchers Say They\u2019ve Found the Truth About Thomas Jefferson",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/01/movies/greta-lee-late-fame.html",
     "content": "\u201cI mean, here she is, tending her garden in such a physical and athletic way in her short shorts,\u201d the actress said. \u201cThat\u2019s how I do it.\u201d",
     "date": "2026-08-01T09:00:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/movies/100000011022345/can-spider-man-evolve-again-in-brand-new-day.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Can Spider-Man Evolve Again in \u2018Brand New Day\u2019?",
-    "author": "Alissa Wilkinson, Edward Vega and Gabriel Blanco",
-    "link": "https://www.nytimes.com/video/movies/100000011022345/can-spider-man-evolve-again-in-brand-new-day.html",
-    "content": "Our movie critic Alissa Wilkinson reviews \u201cSpider-Man: Brand New Day,\u201d in which the titular hero must grapple with his new, unwanted powers, along with the weight of the Marvel Cinematic Universe.",
-    "date": "2026-08-01T09:00:25",
     "category": "NYT"
   }
 ]
