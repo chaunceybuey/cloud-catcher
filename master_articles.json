@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "84ef05c18277013070fa6fdeb8ca3690",
+    "feed_name": "The Atlantic",
+    "title": "Speak at Your Own Risk",
+    "author": "Adam Serwer",
+    "link": "https://www.theatlantic.com/ideas/2026/09/trump-free-speech-media-banned/688713/",
+    "content": "Donald Trump\u2019s attacks on the First Amendment",
+    "date": "2026-09-18T23:59:57",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
     "feed_name": "NYT (Arts)",
     "title": "Two Centuries On, Smithsonian Connects Jefferson\u2019s Hair to Hemings\u2019s Children",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/01/arts/television/movies-tv-shows-august-2026-streaming.html",
     "content": "\u201cTed Lasso\u201d returns, and \u201cThe Shards\u201d and a documentary about Novak Djokovic also arrive.",
     "date": "2026-08-01T09:01:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/01/arts/33-things-to-do-in-nyc-in-august.html",
-    "feed_name": "NYT (Arts)",
-    "title": "33 Things to Do in N.Y.C. in August",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/08/01/arts/33-things-to-do-in-nyc-in-august.html",
-    "content": "The swimming pool at Dry Dock Park on the Lower East Side of Manhattan in June. The city\u2019s outdoor pools are open to the public through Sept. 13.",
-    "date": "2026-08-01T09:00:47",
     "category": "NYT"
   }
 ]
