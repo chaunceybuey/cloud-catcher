@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/20/dining/spaghetti-with-garlicky-bread-crumbs-and-of-course-anchovies.html",
+    "feed_name": "NYT (Food)",
+    "title": "Spaghetti With Garlicky Bread Crumbs and, of Course, Anchovies",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/20/dining/spaghetti-with-garlicky-bread-crumbs-and-of-course-anchovies.html",
+    "content": "Melissa Clark\u2019s spaghetti with garlicky bread crumbs and anchovies.",
+    "date": "2026-09-20T15:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/20/business/media/ari-emanuel-memoir-hollywood.html",
     "feed_name": "NYT (Arts)",
     "title": "5 Takeaways From Ari Emanuel\u2019s Memoir",
@@ -19988,15 +19998,5 @@
     "content": "From left, Larys, Aegon and Tyland (Matthew Needham, Tom Glynn-Carney and Jefferson Hall) thought their gooses were cooked. They didn\u2019t reckon on the return of Sunfyre.",
     "date": "2026-08-03T02:08:53",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238695",
-    "feed_name": "Texas Tribune",
-    "title": "Former U.S. Rep. Kay Granger dies at 83",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17400319/kay-granger-texas-congresswoman-obituary",
-    "content": "U.S. Rep. Kay Granger, R-Fort Worth, speaks to supporters at a Blue Mesa restaurant in Fort Worth as the 2020 primary election results trickled in on March 3, 2020.",
-    "date": "2026-08-03T02:02:22",
-    "category": "Texas"
   }
 ]
