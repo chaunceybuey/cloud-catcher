@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/20/books/review/ari-emanuel-roll-the-calls.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Book Review: \u2018Roll the Calls,\u2019 by Ari Emanuel",
+    "author": "Alexandra Jacobs",
+    "link": "https://www.nytimes.com/2026/09/20/books/review/ari-emanuel-roll-the-calls.html",
+    "content": "Ari Emanuel and his wife, the fashion designer Sarah Staudinger, in Venice for Jeff Bezos\u2019 wedding to Lauren Sanchez.",
+    "date": "2026-09-20T11:43:04",
+    "category": "NYT"
+  },
+  {
     "id": "1b99ae31-063a-423b-b3d8-41b8ee8be578",
     "feed_name": "Economist",
     "title": "House prices survived the last interest-rate rise. Will they this time?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
     "content": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring",
     "date": "2026-08-02T16:12:02",
-    "category": "Magazines"
-  },
-  {
-    "id": "b62b48e73126333e66699c9068dfc858",
-    "feed_name": "The Atlantic",
-    "title": "I Can\u2019t Be the Only One Who Loves Dulles",
-    "author": "Adrienne LaFrance",
-    "link": "https://www.theatlantic.com/ideas/2026/08/sorry-haters-dulles-rules/688139/",
-    "content": "A plan to renovate one of America\u2019s most hated airports will surely be popular\u2014but the airport is actually fine the way it is.",
-    "date": "2026-08-02T15:44:39",
     "category": "Magazines"
   }
 ]
