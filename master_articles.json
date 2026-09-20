@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/20/movies/la-bola-negra-toronto-international-film-festival-peoples-choice-award.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018La Bola Negra\u2019 Wins People\u2019s Choice Award at Toronto International Film Festival",
+    "author": "Stephanie Goodman",
+    "link": "https://www.nytimes.com/2026/09/20/movies/la-bola-negra-toronto-international-film-festival-peoples-choice-award.html",
+    "content": "\u201cI Play Rocky\u201d and \u201cBeing Heumann\u201d were the runners-up for the People\u2019s Choice Award, which can be predictive of best picture at the Oscars.",
+    "date": "2026-09-20T17:46:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/20/dining/spaghetti-with-garlicky-bread-crumbs-and-of-course-anchovies.html",
     "feed_name": "NYT (Food)",
     "title": "Spaghetti With Garlicky Bread Crumbs and, of Course, Anchovies",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/03/arts/television/the-shards-tv-to-watch-this-week.html",
     "content": "Igby Rigney and Kaia Gerber in \u201cThe Shards.\u201d",
     "date": "2026-08-03T05:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/02/arts/television/house-of-the-dragon-recap-season-3-episode-7.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018House of the Dragon\u2019 Season 3, Episode 7 Recap: Wild Animals",
-    "author": "Sean T. Collins",
-    "link": "https://www.nytimes.com/2026/08/02/arts/television/house-of-the-dragon-recap-season-3-episode-7.html",
-    "content": "From left, Larys, Aegon and Tyland (Matthew Needham, Tom Glynn-Carney and Jefferson Hall) thought their gooses were cooked. They didn\u2019t reckon on the return of Sunfyre.",
-    "date": "2026-08-03T02:08:53",
     "category": "NYT"
   }
 ]
