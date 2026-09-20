@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ed Sheeran Addresses War in Gaza After Macklemore is Dropped From Tour",
+    "author": "Elena Bergeron",
+    "link": "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html",
+    "content": "Ed Sheeran performing in Boston in December. On Saturday, he addressed the Israel-Gaza conflict as he resumed his tour in Philadelphia.",
+    "date": "2026-09-20T03:17:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/19/arts/music/duncan-sheik-barely-breathing.html",
     "feed_name": "NYT (Arts)",
     "title": "For Duncan Sheik, an Accidental Pop Star, One Hit Was Exactly Enough",
@@ -19988,15 +19998,5 @@
     "content": "Everything you need to know about the solar eclipse and lunar eclipse that will occur in August 2026.",
     "date": "2026-08-02T10:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/02/arts/television/morgan-freeman-interview-lioness.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Morgan Freeman Interview: On \u201cLioness\u201d and His Iconic Voice",
-    "author": "Jonathan Abrams",
-    "link": "https://www.nytimes.com/2026/08/02/arts/television/morgan-freeman-interview-lioness.html",
-    "content": "The 89-year-old actor returns for the third season of \u201cLioness,\u201d and he still can\u2019t understand the fuss over his voice.",
-    "date": "2026-08-02T09:01:00",
-    "category": "NYT"
   }
 ]
