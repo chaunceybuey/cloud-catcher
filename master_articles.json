@@ -180,6 +180,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/20/arts/who-owns-this-chunk-of-mars-jeanine-pirro-says-america-does-now.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Who Owns This Chunk of Mars? Jeanine Pirro Says America Does Now.",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/09/20/arts/who-owns-this-chunk-of-mars-jeanine-pirro-says-america-does-now.html",
+    "content": "Sotheby\u2019s sold the rock at auction last year for $5.3 million. The government has now seized the 54-pound hunk of space debris \u2014 the largest meteorite from Mars ever auctioned.",
+    "date": "2026-09-20T09:02:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/20/theater/a-theater-finds-a-home-in-lin-manuel-mirandas-backyard.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Theater Finds a Home in Lin-Manuel Miranda\u2019s Backyard",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/09/20/theater/a-theater-finds-a-home-in-lin-manuel-mirandas-backyard.html",
+    "content": "From left: Mino Lora, the executive artistic director of the People\u2019s Theater; the artist Lin-Manuel Miranda; his father, Luis A. Miranda Jr; and the actor Ernesto Concepci\u00f3n Jr.",
+    "date": "2026-09-20T09:00:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/20/arts/music/met-opera-macbeth-louisa-proske.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Louisa Proske Switches on the \u2018Epic Brain\u2019 to Direct \u2018Macbeth\u2019 at the Met",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/09/20/arts/music/met-opera-macbeth-louisa-proske.html",
+    "content": "\u201cYou dream of this as a young director, that opportunity to jump in and make something great kind of on the fly \u2014 on the fly in a large-scale, opera-time frame,\u201d Louisa Proske said.",
+    "date": "2026-09-20T09:00:10",
+    "category": "NYT"
+  },
+  {
+    "id": "6aa9a6431ceb4c89dfc32b4f",
+    "feed_name": "Wired (Science)",
+    "title": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
+    "author": "Marlowe Starling",
+    "link": "https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/",
+    "content": "Several new studies have uncovered this long overlooked aspect of coral physiology that could be the key to the animals\u2019 fate in a changing climate.",
+    "date": "2026-09-20T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html",
     "feed_name": "NYT (Arts)",
     "title": "Ed Sheeran Addresses War in Gaza After Macklemore is Dropped From Tour",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nybooks.com/articles/2026/08/20/refusing-to-look-away-killing-spree-jorie-graham/",
     "content": "In <em>Killing Spree</em>, the poet Jorie Graham pursues an essentially ethical impulse to find a true language for the evil in the world.\n\nDelivered by PolitePaul service",
     "date": "2026-08-02T14:48:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/02/dining/five-fast-recipes-that-sing-of-summer.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Five Fast Recipes that Sing of Summer",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/08/02/dining/five-fast-recipes-that-sing-of-summer.html",
-    "content": "Starting with Ali Slagle\u2019s pork tenderloin with corn, peaches and lime.",
-    "date": "2026-08-02T13:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "6a6a7cd140acee2ccd995428",
-    "feed_name": "Wired (Science)",
-    "title": "The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos",
-    "author": "Jay Bennett",
-    "link": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
-    "content": "From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists new data to explore\u2014and theories to build out.",
-    "date": "2026-08-02T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "0ea09da4bfa20c19155ba03257f75696",
-    "feed_name": "The Atlantic",
-    "title": "Taking Care of the Father Who Broke My Heart",
-    "author": "Jenisha Watts",
-    "link": "https://www.theatlantic.com/ideas/2026/08/father-family-old-age/688113/",
-    "content": "I barely knew him. But in the last years of his life, he needed me.",
-    "date": "2026-08-02T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a6cc80346e03cf1beb7ee30",
-    "feed_name": "Wired (Science)",
-    "title": "There Are 2 Eclipses This August. Here\u2019s How to See Them",
-    "author": "Javier Carbajal",
-    "link": "https://www.wired.com/story/two-eclipses-august-how-to-see-them/",
-    "content": "Everything you need to know about the solar eclipse and lunar eclipse that will occur in August 2026.",
-    "date": "2026-08-02T10:30:00",
     "category": "Magazines"
   }
 ]
