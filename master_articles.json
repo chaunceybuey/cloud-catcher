@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/20/business/media/ari-emanuel-memoir-hollywood.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Takeaways From Ari Emanuel\u2019s Memoir",
+    "author": "Nicole Sperling",
+    "link": "https://www.nytimes.com/2026/09/20/business/media/ari-emanuel-memoir-hollywood.html",
+    "content": "Despite becoming an entertainment and sports mogul, Ari Emanuel writes in his new memoir that \u201cthe highs never last.\u201d",
+    "date": "2026-09-20T14:30:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/20/dining/clever-coconut-saag-garlicky-zaatar-chicken.html",
     "feed_name": "Weeknight Dishes",
     "title": "Clever Coconut Saag, Garlicky Za\u2019atar Chicken",
@@ -198,6 +208,36 @@
     "content": "Ari Emanuel and his wife, the fashion designer Sarah Staudinger, in Venice for Jeff Bezos\u2019 wedding to Lauren Sanchez.",
     "date": "2026-09-20T11:43:04",
     "category": "NYT"
+  },
+  {
+    "id": "39ff5b68e75a88f3af452707654df37b",
+    "feed_name": "The Atlantic",
+    "title": "The Pinball President",
+    "author": "John Dickerson",
+    "link": "https://www.theatlantic.com/ideas/2026/09/trump-attention-presidents/688712/",
+    "content": "No commander in chief has been better at seizing public attention than Donald Trump. But there is a difference between getting attention and doing something with it.",
+    "date": "2026-09-20T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "e9be4d1ae6d07a411f3d2909d4cf440f",
+    "feed_name": "The Atlantic",
+    "title": "190 Days Without a Homicide",
+    "author": "Jenisha Watts",
+    "link": "https://www.theatlantic.com/ideas/2026/09/shooting-lexington-kentucky/688630/",
+    "content": "How a record stretch of peace ended in my hometown.",
+    "date": "2026-09-20T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "2f2848034a1528a6a8029e65627090b4",
+    "feed_name": "The Atlantic",
+    "title": "The Firebrand",
+    "author": "Helen Lewis",
+    "link": "https://www.theatlantic.com/ideas/2026/09/abdul-el-sayed-michigan-senate-profile/688576/",
+    "content": "Abdul El-Sayed wants to win the Michigan Senate race his way\u2014as an unabashed progressive populist and a fierce critic of Israel.",
+    "date": "2026-09-20T11:00:00",
+    "category": "Magazines"
   },
   {
     "id": "1b99ae31-063a-423b-b3d8-41b8ee8be578",
@@ -19958,45 +19998,5 @@
     "content": "U.S. Rep. Kay Granger, R-Fort Worth, speaks to supporters at a Blue Mesa restaurant in Fort Worth as the 2020 primary election results trickled in on March 3, 2020.",
     "date": "2026-08-03T02:02:22",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-    "feed_name": "Douthat",
-    "title": "Why We Can\u2019t Stop Talking About \u2018The Odyssey\u2019",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html",
-    "content": "Christopher Nolan\u2019s film is perfectly calibrated for the culture war.",
-    "date": "2026-08-03T01:10:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/02/arts/music/ariana-grande-break-world-tour.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ariana Grande to Step Away From Public Life After Tour Concludes",
-    "author": "Alexandra E. Petri",
-    "link": "https://www.nytimes.com/2026/08/02/arts/music/ariana-grande-break-world-tour.html",
-    "content": "Ariana Grande at the American Film Institute Awards Luncheon in Los Angeles in January. The singer announced on Sunday that she would be taking \u201ca much-deserved break from public-facing work and appearances,\u201d when her tour ends next month.",
-    "date": "2026-08-02T23:34:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/02/arts/hadestown-geno-segers-transgender-departs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Hadestown\u2019 Parts Ways With Geno Segers After Transgender Comments Surface",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/08/02/arts/hadestown-geno-segers-transgender-departs.html",
-    "content": "On Sunday, the show issued a statement that said, \u201cthe producers of Hadestown and Geno Segers have mutually agreed that Mr. Segers will no longer join the Broadway production.\u201d",
-    "date": "2026-08-02T21:12:18",
-    "category": "NYT"
-  },
-  {
-    "id": "3f7869558683d519b1c880e6ba7c99a4",
-    "feed_name": "The Atlantic",
-    "title": "The Far Right Is Distorting Ceuta",
-    "author": "Anne Applebaum",
-    "link": "https://www.theatlantic.com/ideas/2026/08/ceuta-spain-far-right/688154/",
-    "content": "We\u2019ve seen this before.",
-    "date": "2026-08-02T20:43:05",
-    "category": "Magazines"
   }
 ]
