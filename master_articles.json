@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/21/movies/patricio-guzman-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Patricio Guzm\u00e1n, Filmmaker Who Documented Chile\u2019s Struggles, Dies at 85",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/09/21/movies/patricio-guzman-dead.html",
+    "content": "He won renown for his trilogy about the 1973 Pinochet coup, and later for another trilogy, about the legacy of the authoritarian regime that followed.",
+    "date": "2026-09-21T21:25:16",
+    "category": "NYT"
+  },
+  {
     "id": "8523ed3e1cbd823f30784474cc68db7f",
     "feed_name": "LRB",
     "title": "Johnny Marr\u2019s Guitars",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html",
     "content": "Ariana Grande will soon take a \u201cbreak from public-facing work and appearances,\u201d a representative said, citing \u201cendless, ongoing public scrutiny.\u201d",
     "date": "2026-08-04T09:04:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/04/dining/drinks/emidio-pepe-dead.html",
-    "feed_name": "NYT (Food)",
-    "title": "Emidio Pepe, Maker of Prized Abruzzo Wines, Dies at 94",
-    "author": "Eric Asimov",
-    "link": "https://www.nytimes.com/2026/08/04/dining/drinks/emidio-pepe-dead.html",
-    "content": "He was one of the first to make a case for the local grapes and traditional methods, even as others abandoned them, inspiring a younger generation.",
-    "date": "2026-08-04T09:04:05",
     "category": "NYT"
   }
 ]
