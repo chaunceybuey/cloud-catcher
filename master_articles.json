@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/21/dining/restaurant-theft.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Case of the Stolen Phallus, and Other Tales of Restaurant Theft",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/09/21/dining/restaurant-theft.html",
+    "content": "Restaurateurs are finding diners stealing more and more objects. At Dolores in Brooklyn, the owners had to replace a whimsical pig sculpture after the previous one disappeared.",
+    "date": "2026-09-21T19:21:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/21/arts/design/bayeux-tapestry-photo-ban-british-museum.html",
     "feed_name": "NYT (Arts)",
     "title": "British Museum Bans Photography of Bayeux Tapestry to Keep Lines Moving",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/04/dining/restaurant-review-dakar-new-orleans.html",
     "content": "The team recently moved into a new space and custom built a new kitchen.",
     "date": "2026-08-04T09:03:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/04/arts/design/new-york-historical-show-reproductions.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Yes, the Show Has Drawn Raves. But Some of the Objects Are Not Real.",
-    "author": "Robin Pogrebin",
-    "link": "https://www.nytimes.com/2026/08/04/arts/design/new-york-historical-show-reproductions.html",
-    "content": "The large windows in the new wing at the New York Historical make a bold architectural statement, but they also introduced sunshine to a gallery with some light-sensitive objects.",
-    "date": "2026-08-04T09:03:06",
     "category": "NYT"
   }
 ]
