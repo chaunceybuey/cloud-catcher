@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "f8deaccb9ad0f243404e0b33f32112e6",
+    "feed_name": "LRB",
+    "title": "The long history of Black voter suppression in the US",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/the-long-history-of-black-voter-suppression-in-the-us",
+    "content": "In April this year, the US Supreme Court struck down Louisiana's voting map on the grounds that state lawmakers had violated the constitution by creating a second district with a majority of Black voters. \u200aThis was followed by a similar decision by the court in June, giving Alabama the green light to eliminate a Black majority district. At the same time, President Trump has called for...",
+    "date": "2026-09-21T10:26:57",
+    "category": "Magazines"
+  },
+  {
     "id": "b46ed02b71e0363467588852b9450368",
     "feed_name": "New Yorker",
     "title": "New York Film Festival\u2019s World of Cinema",
@@ -19988,15 +19998,5 @@
     "content": "The president would rather condemn Minnesota than Iran.",
     "date": "2026-08-04T00:08:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/03/movies/zendaya-tom-holland-spiderman.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Tom Holland and Zendaya Helped Draw Gen Z Crowds to \u2018Spider-Man: Brand New Day\u2019",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/08/03/movies/zendaya-tom-holland-spiderman.html",
-    "content": "The couple helped draw young audiences to \u201cSpider-Man: Brand New Day\u201d and \u201cThe Odyssey\u201d on a historic Hollywood weekend.",
-    "date": "2026-08-03T21:41:30",
-    "category": "NYT"
   }
 ]
