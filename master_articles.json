@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/21/arts/design/bayeux-tapestry-photo-ban-british-museum.html",
+    "feed_name": "NYT (Arts)",
+    "title": "British Museum Bans Photography of Bayeux Tapestry to Keep Lines Moving",
+    "author": "Amelia Nierenberg and Alex Marshall",
+    "link": "https://www.nytimes.com/2026/09/21/arts/design/bayeux-tapestry-photo-ban-british-museum.html",
+    "content": "Visitors at the Bayeux Tapestry exhibition at the British Museum.",
+    "date": "2026-09-21T19:04:28",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/21/theater/america-who-hurt-you-review-sarah-jones.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018America, Who Hurt You?\u2019 Review: Sarah Jones Plays the Melting Pot",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/04/arts/design/new-york-historical-show-reproductions.html",
     "content": "The large windows in the new wing at the New York Historical make a bold architectural statement, but they also introduced sunshine to a gallery with some light-sensitive objects.",
     "date": "2026-08-04T09:03:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/04/arts/music/the-cramps-henry-rollins-ian-mackaye.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Two Punk Legends Help Revive a Cult Band\u2019s Archive",
-    "author": "Mark Yarm",
-    "link": "https://www.nytimes.com/2026/08/04/arts/music/the-cramps-henry-rollins-ian-mackaye.html",
-    "content": "The Cramps introduced the world to \u201cpsychobilly\u201d and turned Henry Rollins and Ian MacKaye into fans. Now the duo is part of an effort to bring the music back.",
-    "date": "2026-08-04T09:02:44",
     "category": "NYT"
   }
 ]
