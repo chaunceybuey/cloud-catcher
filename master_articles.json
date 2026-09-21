@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/chicken-thighs-yogurt-aragosta-maine-devin-finigan",
+    "feed_name": "NYT (Food)",
+    "title": "The Chicken Dinner Maine Chef Devin Finigan Makes on Nights Off",
+    "author": "Melissa Clark",
+    "link": "https://cooking.nytimes.com/article/chicken-thighs-yogurt-aragosta-maine-devin-finigan",
+    "content": "Devin Finigan of Aragosta even gets her young daughters involved in the cooking, Melissa Clark writes.",
+    "date": "2026-09-21T14:10:49",
+    "category": "NYT"
+  },
+  {
     "id": "f8deaccb9ad0f243404e0b33f32112e6",
     "feed_name": "LRB",
     "title": "The long history of Black voter suppression in the US",
@@ -19988,15 +19998,5 @@
     "content": "Jason Arday",
     "date": "2026-08-04T00:08:24",
     "category": "NYT"
-  },
-  {
-    "id": "bcfd41b60e7afdff14911b5db5340c4f",
-    "feed_name": "The Atlantic",
-    "title": "Trump Blames America First",
-    "author": "Juliette Kayyem",
-    "link": "https://www.theatlantic.com/ideas/2026/08/iran-war-hack-minnesota/688162/",
-    "content": "The president would rather condemn Minnesota than Iran.",
-    "date": "2026-08-04T00:08:00",
-    "category": "Magazines"
   }
 ]
