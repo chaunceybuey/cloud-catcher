@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/books/review/takeaways-charles-spencer-memoir-diana.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Takeaways From Charles Spencer\u2019s Memoir, \u201cSwan Song,\u201d About Princess Diana",
+    "author": "The Book Review",
+    "link": "https://www.nytimes.com/2026/09/22/books/review/takeaways-charles-spencer-memoir-diana.html",
+    "content": "Nearly 30 years after Princess Diana died, her brother has written a book about her life, her marriage to Prince Charles and the suffering she endured at the hands of the tabloid press.",
+    "date": "2026-09-22T04:01:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/21/movies/paramount-agreement-reaction.html",
     "feed_name": "NYT (Arts)",
     "title": "After Crucial Paramount Agreement Come Relief, Anger and Concern",
@@ -19988,15 +19998,5 @@
     "content": "Texas Gov. Greg Abbott appointed a 21-person board to oversee water in a broad area surrounding the Nueces River, which runs through Corpus Christi, Texas.",
     "date": "2026-08-04T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "6a5a7047ef566878c27c2700",
-    "feed_name": "Wired",
-    "title": "The Real Story Behind the 2018 Google Walkout",
-    "author": "Claire Stapleton",
-    "link": "https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/",
-    "content": "In 2018, more than 20,000 employees walked out to protest how Google handled allegations of sexual harassment. Here\u2019s how they organized it from inside the company.",
-    "date": "2026-08-04T09:30:00",
-    "category": "Magazines"
   }
 ]
