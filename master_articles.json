@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/dining/patrick-oconnell.html",
+    "feed_name": "NYT (Food)",
+    "title": "Patrick O\u2019Connell Built an Opulent Culinary Kingdom. Who Will Inherit the Keys?",
+    "author": "Brett Anderson",
+    "link": "https://www.nytimes.com/2026/09/22/dining/patrick-oconnell.html",
+    "content": "Patrick O\u2019Connell, who published a memoir this month, and his Dalmatian, Luray. The chef\u2019s house, in the background, is nicknamed Eagle\u2019s Nest because he can keep watch over his restaurant from the turret.",
+    "date": "2026-09-22T17:36:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/22/arts/music/ella-langley-choosin-texas-chart-record.html",
     "feed_name": "NYT (Arts)",
     "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 Topples Mariah Carey\u2019s Chart Record",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/video/arts/100000011044524/listening-to-new-york-city.html",
     "content": "Our culture reporter Patricia Leigh Brown went on a sound walk through New York City with Jacek Smolicki, artist and sound walker.",
     "date": "2026-08-05T09:01:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-richmond-locations.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Bucolic London Suburb Feels the \u2018Ted Lasso\u2019 Effect",
-    "author": "Eleanor Stanford",
-    "link": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-richmond-locations.html",
-    "content": "Matt Allard leading a tour of popular \u201cTed Lasso\u201d locations in the Richmond-upon-Thames suburb of London.",
-    "date": "2026-08-05T09:01:47",
     "category": "NYT"
   }
 ]
