@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a96d9ca5199dd2e4e787aa0",
+    "feed_name": "Wired",
+    "title": "Everything You Know About Political Violence Is Probably Wrong",
+    "author": "Robert A. Pape",
+    "link": "https://www.wired.com/story/book-excerpt-political-violence-robert-pape-our-own-worst-enemies/",
+    "content": "Public disagreement about whether political violence is rising and who is responsible for it stems not from ideology alone but from competing definitions about what should be counted.",
+    "date": "2026-09-22T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6aa2d039a722d0b475134265",
     "feed_name": "Wired",
     "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
@@ -19988,15 +19998,5 @@
     "content": "John David Washington, far right, with the cast of \u201cDisruption\u201d at the Pershing Square Signature Center in Manhattan.",
     "date": "2026-08-04T17:35:36",
     "category": "NYT"
-  },
-  {
-    "id": "65f9e976-b236-4df4-9585-0354e92a4070",
-    "feed_name": "Economist",
-    "title": "Investors in Situational Awareness deserved to lose their shirts",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
-    "content": "The plight of the hedge fund says more about them than about its 24-year-old founder",
-    "date": "2026-08-04T17:11:44",
-    "category": "Magazines"
   }
 ]
