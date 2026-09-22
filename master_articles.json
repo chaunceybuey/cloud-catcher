@@ -180,6 +180,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/arts/design/victoria-albert-museum-schiaparelli-rani-molly.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At the V&A\u2019s Schiaparelli Show, More Than Just Showstopping Gowns",
+    "author": "Divya Venkataraman",
+    "link": "https://www.nytimes.com/2026/09/22/arts/design/victoria-albert-museum-schiaparelli-rani-molly.html",
+    "content": "One of the designer\u2019s earliest patrons was an Australian woman who defied convention to marry into Indian royalty.",
+    "date": "2026-09-22T14:32:37",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hayden Panettiere Died From Toxic Effects of Fentanyl and Other Drugs",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html",
+    "content": "Hayden Panettiere was part of an Emmys tribute this month. The authorities said on Tuesday that alprazolam, methocarbamol and quetiapine were also found in her system.",
+    "date": "2026-09-22T14:31:34",
+    "category": "NYT"
+  },
+  {
+    "id": "ce2df76bb426adb81caa056bfa7197ea",
+    "feed_name": "Compact",
+    "title": "The Truth About Indian Americans",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-truth-about-indian-americans/",
+    "content": "",
+    "date": "2026-09-22T14:26:30",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/22/arts/design/mary-magdalene-stadel-museum-germany.html",
     "feed_name": "NYT (Arts)",
     "title": "Was Mary Magdalene a Sinner or a Saint? Artists Weigh In",
@@ -236,6 +266,16 @@
     "author": "Robert A. Pape",
     "link": "https://www.wired.com/story/book-excerpt-political-violence-robert-pape-our-own-worst-enemies/",
     "content": "Public disagreement about whether political violence is rising and who is responsible for it stems not from ideology alone but from competing definitions about what should be counted.",
+    "date": "2026-09-22T11:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "ad9fbdbf1db6437e487118ef1ebe4bc6",
+    "feed_name": "The Atlantic",
+    "title": "Israel Can\u2019t Postpone Its Reckoning Forever",
+    "author": "Graeme Wood",
+    "link": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/",
+    "content": "Intractable divides between the secular and the religious pose a bigger problem for the country than any external threat.",
     "date": "2026-09-22T11:00:00",
     "category": "Magazines"
   },
@@ -19958,45 +19998,5 @@
     "content": "The president\u2019s recent rant is a sign of serious dysfunction in the Oval Office.",
     "date": "2026-08-04T22:03:51",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
-    "feed_name": "Douthat",
-    "title": "Can Trump Wriggle Out One Last Time?",
-    "author": "Ross Douthat",
-    "link": "https://www.nytimes.com/2026/08/04/opinion/trump-midterms-iran.html",
-    "content": "Iran. The midterms. Can Trump wriggle out one last time?",
-    "date": "2026-08-04T21:46:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/04/theater/bowen-yang-broadway-oh-mary.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Bowen Yang to Make Broadway Debut as Mary Todd Lincoln in \u2018Oh, Mary!\u2019",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/08/04/theater/bowen-yang-broadway-oh-mary.html",
-    "content": "Bowen Yang, right, with Cole Escola, the creator of \u201cOh, Mary!\u201d \u2014 and the show\u2019s original Mary Todd Lincoln \u2014 at the Tony Awards in June.",
-    "date": "2026-08-04T21:16:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238887",
-    "feed_name": "Texas Tribune",
-    "title": "TribCast: The Flock camera freakout",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17403556/tribcast-flock-cameras-police-surveillance",
-    "content": "A Flock automatic license plate reader (ALPR), operated by Hewitt city government, records vehicles that drive into Hewitt Park in Hewitt on July 28, 2026.",
-    "date": "2026-08-04T20:58:55",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/article/best-ice-cream-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Where To Find the Best Ice Cream in New York City",
-    "author": "Mahira Rivers",
-    "link": "https://www.nytimes.com/article/best-ice-cream-nyc.html",
-    "content": "Fro-yo comes and goes, but ice cream is forever.",
-    "date": "2026-08-04T20:39:49",
-    "category": "NYT"
   }
 ]
