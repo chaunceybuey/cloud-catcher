@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/arts/music/ella-langley-choosin-texas-chart-record.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 Topples Mariah Carey\u2019s Chart Record",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/09/22/arts/music/ella-langley-choosin-texas-chart-record.html",
+    "content": "Ella Langley",
+    "date": "2026-09-22T17:00:20",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/black-sesame-cake-songpyeon-chuseok",
+    "feed_name": "NYT (Food)",
+    "title": "A Simple Black Sesame Cake For Chuseok",
+    "author": "Eric Kim",
+    "link": "https://cooking.nytimes.com/article/black-sesame-cake-songpyeon-chuseok",
+    "content": "Eric Kim\u2019s recipe isn\u2019t songpyeon, the beloved rice cakes eaten during Chuseok, a mid-autumn festival, but it quietly channels their essence.",
+    "date": "2026-09-22T16:28:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/online/2026/09/15/doing-business-with-the-devil/",
     "feed_name": "NYRB",
     "title": "Doing Business with the Devil",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-richmond-locations.html",
     "content": "Matt Allard leading a tour of popular \u201cTed Lasso\u201d locations in the Richmond-upon-Thames suburb of London.",
     "date": "2026-08-05T09:01:47",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/05/arts/music/lee-morgan-jazz-music.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 Minutes That Will Make You Love Lee Morgan",
-    "author": "Marcus J. Moore",
-    "link": "https://www.nytimes.com/2026/08/05/arts/music/lee-morgan-jazz-music.html",
-    "content": "This trumpeter earned the admiration of Dizzy Gillespie and Art Blakey when he was still a teenager, and balanced virtuosity with accessibility. Hear 11 of his best tracks.",
-    "date": "2026-08-05T09:00:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/05/arts/design/soundwalk-jacek-smolicki-central-park.html",
-    "feed_name": "NYT (Arts)",
-    "title": "It\u2019s the Summer of Soundwalking. He Is Your Sherpa.",
-    "author": "Patricia Leigh Brown and Vincent Tullo",
-    "link": "https://www.nytimes.com/2026/08/05/arts/design/soundwalk-jacek-smolicki-central-park.html",
-    "content": "\u201cWe may be hearing but not listening,\u201d Jacek Smolicki said, showing a reporter how sound travels through tree roots in Central Park and amplifying the scraping of aquatic snails.",
-    "date": "2026-08-05T09:00:40",
     "category": "NYT"
   }
 ]
