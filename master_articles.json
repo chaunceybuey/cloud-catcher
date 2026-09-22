@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/dining/restaurant-review-cafe-bar-jf-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Cafe Bar J.F. in New York",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/2026/09/22/dining/restaurant-review-cafe-bar-jf-nyc.html",
+    "content": "The restaurant, in the former Llama Inn space, has slyly modern tendencies and is loosely rooted in cities like Santiago and Lima.",
+    "date": "2026-09-22T20:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "145a3826-1423-4403-bcd1-7d89beb3b467",
+    "feed_name": "Economist",
+    "title": "You can\u2019t trade your way through the AI apocalypse",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
+    "content": "It\u2019s hard to price the threats posed by a misaligned superintelligence",
+    "date": "2026-09-22T19:51:26",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22590-austin-broadway-mrs-doubtfire",
     "feed_name": "KMFA",
     "title": "Austin Broadway: Mrs. Doubtfire",
@@ -19978,25 +19998,5 @@
     "content": "State Rep. James Talarico accused his U.S. Senate opponent, Texas Attorney General Ken Paxton, of voter fraud after a ProPublica-Texas Tribune report. Last week, Paxton hit back with similar accusations.",
     "date": "2026-08-05T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-recap-season-4-premiere.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Ted Lasso\u2019 Season 4 Premiere Recap: Begin Again",
-    "author": "Christopher Orr",
-    "link": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-recap-season-4-premiere.html",
-    "content": "Ted is back in Kansas City. But how long will he stay there?",
-    "date": "2026-08-05T09:02:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/05/podcasts/where-did-all-my-male-friendships-go-encore.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Where Did All My Male Friendships Go? (Encore)",
-    "author": "Anna Martin, Reva Goldberg, Emily Lang, Davis Land, Christina Djossa, Amy Pearl, Sara Curtis, Jen Poyant, Daniel Ramirez, Dan Powell, Elisheba Ittoop, Diane Wong, Marion Lozano and Rowan Niemisto",
-    "link": "https://www.nytimes.com/2026/08/05/podcasts/where-did-all-my-male-friendships-go-encore.html",
-    "content": "One man\u2019s quest to cure his loneliness and get his friends back.",
-    "date": "2026-08-05T09:02:29",
-    "category": "NYT"
   }
 ]
