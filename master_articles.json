@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/arts/music/amplifier-newsletter-white-stripes-beyonce-madonna.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Back-to-School Playlist",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/09/22/arts/music/amplifier-newsletter-white-stripes-beyonce-madonna.html",
+    "content": "Meg and Jack White of the White Stripes.",
+    "date": "2026-09-22T18:00:03",
+    "category": "NYT"
+  },
+  {
+    "id": "49138091-079e-43cd-a3ce-706ab409c46f",
+    "feed_name": "Economist",
+    "title": "Data centres are straining the insurance market",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/22/data-centres-are-straining-the-insurance-market",
+    "content": "The premiums are juicy, but the financial stakes are hard to digest",
+    "date": "2026-09-22T17:36:59",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/22/dining/patrick-oconnell.html",
     "feed_name": "NYT (Food)",
     "title": "Patrick O\u2019Connell Built an Opulent Culinary Kingdom. Who Will Inherit the Keys?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/05/movies/center-stage-a-star-of-shanghais-1930s-heyday-is-re-born.html",
     "content": "Maggie Cheung and Tony Leung in \u201cCenter Stage.\u201d",
     "date": "2026-08-05T09:02:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/05/arts/television/the-shards-sterling-point-teen-dramas.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u201cThe Shards\u201d and \u201cSterling Point\u201d Offer Class Struggle as Teen Drama",
-    "author": "James Poniewozik",
-    "link": "https://www.nytimes.com/2026/08/05/arts/television/the-shards-sterling-point-teen-dramas.html",
-    "content": "\u201cThe Shards\u201d and \u201cSterling Point\u201d offer different angles on that most status-conscious of genres, the teen drama.",
-    "date": "2026-08-05T09:01:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/arts/100000011044524/listening-to-new-york-city.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Listening to New York City",
-    "author": "Patricia Leigh Brown, Haimy Assefa and Vincent Tullo",
-    "link": "https://www.nytimes.com/video/arts/100000011044524/listening-to-new-york-city.html",
-    "content": "Our culture reporter Patricia Leigh Brown went on a sound walk through New York City with Jacek Smolicki, artist and sound walker.",
-    "date": "2026-08-05T09:01:53",
     "category": "NYT"
   }
 ]
