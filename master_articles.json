@@ -180,6 +180,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/arts/design/mary-magdalene-stadel-museum-germany.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Was Mary Magdalene a Sinner or a Saint? Artists Weigh In",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/09/22/arts/design/mary-magdalene-stadel-museum-germany.html",
+    "content": "\u201cMary Magdalene: Sin. Pray. Love,\u201d includes over 100 paintings, sculptures and works on paper from around 60 institutions across Europe and North America, including \u201cPenitent Magdalen in Meditation,\u201d by Georges de La Tour (1635-40).",
+    "date": "2026-09-22T14:14:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/22/arts/design/florian-krewer-mam-paris.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Florian Krewer, a German-Born New York Painter, Explores the Spaces Between",
+    "author": "Ted Loos",
+    "link": "https://www.nytimes.com/2026/09/22/arts/design/florian-krewer-mam-paris.html",
+    "content": "Florian Krewer at his studio in the Bronx, N.Y., in August",
+    "date": "2026-09-22T14:11:28",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/22/arts/design/brazil-museum-renovation-overlooked-artists.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In Brazil, a Museum Renovation Celebrates Overlooked Artists",
+    "author": "Ray Mark Rinaldi",
+    "link": "https://www.nytimes.com/2026/09/22/arts/design/brazil-museum-renovation-overlooked-artists.html",
+    "content": "The entrance to the Museum of Modern Art in S\u00e3o Paulo, Brazil.",
+    "date": "2026-09-22T13:57:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/22/arts/design/zorach-marguerite-william-goldberg-independent-artists.html",
     "feed_name": "NYT (Arts)",
     "title": "He Asked \u2018Why Such a Nice Girl Would Paint Such Wild Pictures.\u2019 The Rest Is Art History.",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/article/best-ice-cream-nyc.html",
     "content": "Fro-yo comes and goes, but ice cream is forever.",
     "date": "2026-08-04T20:39:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-review-bar-chucho-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Bar Chucho in NYC",
-    "author": "Ryan Sutton",
-    "link": "https://www.nytimes.com/2026/08/04/dining/restaurant-review-bar-chucho-nyc.html",
-    "content": "Bar Chucho \u2014 from the team behind the Michelin-starred Mexican standout Corima \u2014 overachieves but stays true to its purpose. And there\u2019s a great burger at a fair price.",
-    "date": "2026-08-04T20:00:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238870",
-    "feed_name": "Texas Tribune",
-    "title": "Arrests made, room cleared during chaotic Tarrant County meeting on voting site cuts",
-    "author": "By\u00a0Cecilia Lenzen,\u00a0Fort Worth Report",
-    "link": "https://feeds.texastribune.org/link/16799/17403426/texas-tarrant-county-voting-polling-sites-closed-meeting",
-    "content": "Lon Burnam, former Texas House representative, is arrested during a Tarrant County Commissioners Court meeting Aug. 4, 2026, in Fort Worth.",
-    "date": "2026-08-04T19:46:28",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/04/arts/music/amplifier-newsletter-summer-way-machine-lolitah.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Songs for the Return of Lizard Season \ud83e\udd8e\u2600\ufe0f",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/08/04/arts/music/amplifier-newsletter-summer-way-machine-lolitah.html",
-    "content": "Sunbathers in 1935.",
-    "date": "2026-08-04T18:00:03",
     "category": "NYT"
   }
 ]
