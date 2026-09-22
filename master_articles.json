@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/books/booker-prize-shortlist.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Booker Prize 2026: Six Novels Make Shortlist",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/09/22/books/booker-prize-shortlist.html",
+    "content": "If James wins for \u201cThe Disappearers\u201d or Stuart for \u201cJohn of John,\u201d it would be a rare second win for an author in the history of the prestigious literary award.",
+    "date": "2026-09-22T19:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/22/arts/music/amplifier-newsletter-white-stripes-beyonce-madonna.html",
     "feed_name": "NYT (Arts)",
     "title": "A Back-to-School Playlist",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/05/podcasts/where-did-all-my-male-friendships-go-encore.html",
     "content": "One man\u2019s quest to cure his loneliness and get his friends back.",
     "date": "2026-08-05T09:02:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/05/movies/center-stage-a-star-of-shanghais-1930s-heyday-is-re-born.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Center Stage\u2019: A Star of Shanghai\u2019s 1930s Heyday Is (Re)Born",
-    "author": "J. Hoberman",
-    "link": "https://www.nytimes.com/2026/08/05/movies/center-stage-a-star-of-shanghais-1930s-heyday-is-re-born.html",
-    "content": "Maggie Cheung and Tony Leung in \u201cCenter Stage.\u201d",
-    "date": "2026-08-05T09:02:16",
     "category": "NYT"
   }
 ]
