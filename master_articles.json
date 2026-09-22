@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "6aa2d039a722d0b475134265",
+    "feed_name": "Wired",
+    "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/big-interview-patti-harrison/",
+    "content": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics\u2019 robot dogs.",
+    "date": "2026-09-22T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=20078",
+    "feed_name": "Stratechery",
+    "title": "Amazon Blocks Muse, Amazon\u2019s Moat, Aggregator v Aggregator",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+    "content": "<p>Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.</p>",
+    "date": "2026-09-22T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/22/movies/one-of-them-days-megadoc-streaming-movies.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018One of Them Days,\u2019 \u2018Megadoc\u2019 and More Streaming Gems",
@@ -19977,26 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
     "content": "The plight of the hedge fund says more about them than about its 24-year-old founder",
     "date": "2026-08-04T17:11:44",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/04/dining/restaurant-news-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Derby Club Gives the Former Neary\u2019s Space a Touch of Elegance",
-    "author": "Florence Fabricant",
-    "link": "https://www.nytimes.com/2026/08/04/dining/restaurant-news-nyc.html",
-    "content": "Camp 5 Acres channels Boy Scout vibes, sourdough bread from Mark Bittman and more restaurant news.",
-    "date": "2026-08-04T17:08:15",
-    "category": "NYT"
-  },
-  {
-    "id": "9bb24360c0927c13ebc760fa8bdb1c3a",
-    "feed_name": "The Atlantic",
-    "title": "A Trojan Horse Is Supposed to Have Humans Inside It",
-    "author": "Emily Wilson",
-    "link": "https://www.theatlantic.com/ideas/2026/08/odyssey-movie-trojan-horse/688168/",
-    "content": "Christopher Nolan\u2019sOdysseyis full of contradictions about deceit and violence.",
-    "date": "2026-08-04T16:00:00",
     "category": "Magazines"
   }
 ]
