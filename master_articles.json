@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/arts/television/late-night-trump-white-house-press-ban.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Responds to Trump\u2019s White House Press Ban",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/22/arts/television/late-night-trump-white-house-press-ban.html",
+    "content": "\u201cHave you tried presidenting better?\u201d Jon Stewart said after Trump barred CNN, MS NOW and Politico, saying he was tired of their \u201cnegative stories.\u201d",
+    "date": "2026-09-22T07:11:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/22/books/review/takeaways-charles-spencer-memoir-diana.html",
     "feed_name": "NYT (Arts)",
     "title": "Takeaways From Charles Spencer\u2019s Memoir, \u201cSwan Song,\u201d About Princess Diana",
@@ -19988,15 +19998,5 @@
     "content": "<p>Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.</p>",
     "date": "2026-08-04T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238718",
-    "feed_name": "Texas Tribune",
-    "title": "Abbott threatened Corpus Christi over its water crisis but hasn\u2019t intervened with a troubled river authority",
-    "author": "By Rachel Denny Clow, KRIS 6 News",
-    "link": "https://feeds.texastribune.org/link/16799/17403139/texas-greg-abbott-corpus-christi-nueces-river-authority",
-    "content": "Texas Gov. Greg Abbott appointed a 21-person board to oversee water in a broad area surrounding the Nueces River, which runs through Corpus Christi, Texas.",
-    "date": "2026-08-04T10:00:00",
-    "category": "Texas"
   }
 ]
