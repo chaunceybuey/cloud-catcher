@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/23/arts/music/cheetah-chrome-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Cheetah Chrome, Guitarist for Pioneering Punk Bands, Dies at 71",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/09/23/arts/music/cheetah-chrome-dead.html",
+    "content": "Cheetah Chrome of the Dead Boys performing in 1978.",
+    "date": "2026-09-23T23:19:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/debunking-susan-collins-fbi-navatek-investigation-claims",
     "feed_name": "ProPublica",
     "title": "Susan Collins Dismissed Our Reporting as Old News. Some of Her Claims Aren\u2019t True.",
@@ -19988,15 +19998,5 @@
     "content": "State Rep. James Talarico speaks during a town hall campaign stop at the International Center for Trade in Eagle Pass on July 13, 2026.",
     "date": "2026-08-06T02:50:10",
     "category": "Texas"
-  },
-  {
-    "id": "6a73b0890afdb707f74ecbc6",
-    "feed_name": "Wired (Science)",
-    "title": "Welp, Nobody Saw SpaceX\u2019s Falcon 9 Rocket Crash Into the Moon",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/",
-    "content": "Although no one captured a direct image of the impact, scientists have detected signals confirming the rocket hit the lunar surface. Orbiters could provide the first images of the crash site in the coming days.",
-    "date": "2026-08-05T22:40:53",
-    "category": "Magazines"
   }
 ]
