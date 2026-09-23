@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/23/arts/television/hayden-panettiere-death-cause-fentanyl-overdose.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hayden Panettiere Was Found Surrounded by Drugs, Report Details",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/09/23/arts/television/hayden-panettiere-death-cause-fentanyl-overdose.html",
+    "content": "Hayden Panettiere at an appearance in 2023.",
+    "date": "2026-09-23T20:23:38",
+    "category": "NYT"
+  },
+  {
     "id": "986d059675e5ba6954bc138c9dde7076",
     "feed_name": "Outside",
     "title": "\u201cI\u2019m Always Scared.\u201d The World\u2019s Top Kayakers Chase Joy and Risk at Whitewater\u2019s Gnarliest Race.",
@@ -19988,15 +19998,5 @@
     "content": "Lou Koller in 2018. He was the frontman of Sick of It All, a band that was the closest thing \u201cthe hard-core scene has to a household name,\u201d Vice observed.",
     "date": "2026-08-05T21:48:26",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238980",
-    "feed_name": "Texas Tribune",
-    "title": "Former state Rep. Lon Burnam eyes lawsuit after arrest during meeting on voting site cuts",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17404029/texas-lon-burnam-arrest-jail-tarrant-county-voting",
-    "content": "Former state Rep. Lon Burnam is arrested and carried out of the chamber after his public comment in the Tarrant County Commissioners Court meeting on Tuesday, Aug. 4, 2026, in Fort Worth.",
-    "date": "2026-08-05T20:07:30",
-    "category": "Texas"
   }
 ]
