@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/23/arts/design/museum-regrets-hosting-9-11-event-airing-conspiracy-theories.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Museum Regrets Hosting 9/11 Event Airing Conspiracy Theories",
+    "author": "Colin Moynihan",
+    "link": "https://www.nytimes.com/2026/09/23/arts/design/museum-regrets-hosting-9-11-event-airing-conspiracy-theories.html",
+    "content": "El Museo del Barrio, a Manhattan museum of Latin Art that operates out of a city-owned building, rented space for a conference on 9/11 where speakers said they felt the real story of the attacks has been covered up.",
+    "date": "2026-09-23T15:00:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/movies/lili-reinhart-interview-the-love-hypothesis.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lili Reinhart, of \u2018The Love Hypothesis,\u2019 Is Still Figuring It Out",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/09/23/movies/lili-reinhart-interview-the-love-hypothesis.html",
+    "content": "Lili Reinhart in New York.",
+    "date": "2026-09-23T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/23/arts/music/taylor-swift-life-of-a-showgirl-encore.html",
     "feed_name": "NYT (Arts)",
     "title": "Taylor Swift Announces Extended Version of \u2018The Life of a Showgirl\u2019",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n14/florence-sutcliffe-braithwaite/an-ell-of-an-eadache",
     "content": "The general strike\u200b of1926poses three conundrums. Neither of the opposing parties \u2013 Britain\u2019s mine-owners and Stanley Baldwin\u2019s Tory government on one side, the miners and the Trades Union Congress (TUC) on the other \u2013 wanted a strike at the start of the year, and only the mine-owners had changed their minds three months later. So why did the strike happen at all?...",
-    "date": "2026-08-05T12:53:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "589267378f536d3bac6b8d7c2a21de6a",
-    "feed_name": "LRB",
-    "title": "In the latest issue",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14",
-    "content": "",
-    "date": "2026-08-05T12:53:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "9a616d38f334ab923f41bfebd46304ad",
-    "feed_name": "LRB",
-    "title": "Maureen N.  McLane: \u2018Fire\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/maureen-n.-mclane/fire",
-    "content": "",
     "date": "2026-08-05T12:53:55",
     "category": "Magazines"
   }
