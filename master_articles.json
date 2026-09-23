@@ -180,6 +180,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/23/arts/design/el-museo-del-barrio-9-11-conspiracy-theories.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Museum Regrets Hosting 9/11 Event Airing Conspiracy Theories",
+    "author": "Colin Moynihan",
+    "link": "https://www.nytimes.com/2026/09/23/arts/design/el-museo-del-barrio-9-11-conspiracy-theories.html",
+    "content": "El Museo del Barrio, a Manhattan museum of Latin Art that operates out of a city-owned building, rented space for a conference on 9/11 where speakers said they felt the real story of the attacks has been covered up.",
+    "date": "2026-09-23T15:29:29",
+    "category": "NYT"
+  },
+  {
+    "id": "e223435220db66c0a0cb6d32b1fc870d",
+    "feed_name": "LRB",
+    "title": "Public Positions",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/september/public-positions",
+    "content": "In much of the coverage of the Ed Sheeran-Macklemore debacle, the reality of the incident is turned on its head, as people ask whether Sheeran.\u00a0.\u00a0.",
+    "date": "2026-09-23T15:25:27",
+    "category": "Magazines"
+  },
+  {
+    "id": "d615539c9a190078ba35e416afd94c30",
+    "feed_name": "LRB",
+    "title": "Layers of Denial",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/september/layers-of-denial",
+    "content": "The frenzy in Israel surrounding the documentary NAZA is fundamentally undemocratic. That is what happens after years of extreme right-wing.\u00a0.\u00a0.",
+    "date": "2026-09-23T15:25:27",
+    "category": "Magazines"
+  },
+  {
+    "id": "3a2b6b073f44d9dfb784f7783567c8aa",
+    "feed_name": "Compact",
+    "title": "How \u2018Boys Love\u2019 Conquered Asia",
+    "author": "",
+    "link": "https://www.compactmag.com/article/how-boys-love-conquered-asia/",
+    "content": "",
+    "date": "2026-09-23T15:24:45",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/23/arts/design/museum-regrets-hosting-9-11-event-airing-conspiracy-theories.html",
     "feed_name": "NYT (Arts)",
     "title": "Museum Regrets Hosting 9/11 Event Airing Conspiracy Theories",
@@ -19957,46 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/08/michigan-abdul-el-sayed-election/688181/",
     "content": "Leftists like Abdul El-Sayed will take over the Democratic Party unless the center-left adapts to their rise.",
     "date": "2026-08-05T14:14:06",
-    "category": "Magazines"
-  },
-  {
-    "id": "0a4eb7913bfdb4a0ede1ba972a388318",
-    "feed_name": "LRB",
-    "title": "What do Neets need?",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/william-davies/young-people-are-different",
-    "content": "The\u200bteenagerwas born, it\u2019s sometimes said, in America in the mid-1950s, when Little Richard released \u2018Tutti Frutti\u2019 and Elvis appeared on theEd Sullivan Show. Thirty years later, the Thatcher government made a less exuberant contribution to the way the transition to adulthood is imagined. A new type of policy problem had come to light in the form of the working-age youth...",
-    "date": "2026-08-05T12:53:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "1e009ca8bc9fa8e50d6b8f406050ecf8",
-    "feed_name": "LRB",
-    "title": "Ronald Firbank\u2019s Century",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/alan-hollinghurst/it-s-queer-how-i-m-lonely",
-    "content": "Ronald Firbank\u200b died on 21 May 1926, of pneumonia, in the Hotel Quirinale in Rome. He had lived alone for much of his adult life, and it seems likely that he died alone too \u2013 he had sent away the nurse who had been engaged to look after him. This detail comes from the only published account of the circumstances, by Lord Berners, who considered himself Firbank\u2019s \u2018only friend...",
-    "date": "2026-08-05T12:53:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "af3d114e3ee17cdceba7523fc07e8105",
-    "feed_name": "LRB",
-    "title": "Show Us the Father",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/james-wood/show-us-the-father",
-    "content": "Durham,\u200b 1973. I was eight years old. There was a strange atmosphere in our house. Someone was visiting our father at the weekend, but no one would tell me, or Angus or Anna, my elder brother and younger sister, who it was. A certain heaviness in the air suggested perhaps a doctor or priest. More likely, in those days, an aggrieved bank manager. The information, finally delivered on the...",
-    "date": "2026-08-05T12:53:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "4ff0e7e1466d0ce6111c15b81f860385",
-    "feed_name": "LRB",
-    "title": "The General Strike",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/florence-sutcliffe-braithwaite/an-ell-of-an-eadache",
-    "content": "The general strike\u200b of1926poses three conundrums. Neither of the opposing parties \u2013 Britain\u2019s mine-owners and Stanley Baldwin\u2019s Tory government on one side, the miners and the Trades Union Congress (TUC) on the other \u2013 wanted a strike at the start of the year, and only the mine-owners had changed their minds three months later. So why did the strike happen at all?...",
-    "date": "2026-08-05T12:53:55",
     "category": "Magazines"
   }
 ]
