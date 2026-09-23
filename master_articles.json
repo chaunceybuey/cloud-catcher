@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/22/arts/music/dolly-parton-restraining-order-bryan-seaver.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dolly Parton\u2019s Estate in Turmoil After Extortion Accusations",
+    "author": "Emily Cochrane and Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/09/22/arts/music/dolly-parton-restraining-order-bryan-seaver.html",
+    "content": "Dolly Parton\u2019s death last month was announced by her nephew Bryan Seaver in a social media post.",
+    "date": "2026-09-23T01:44:28",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/22/dining/restaurant-review-cafe-bar-jf-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Cafe Bar J.F. in New York",
@@ -19988,15 +19998,5 @@
     "content": "Twenty-five years after 9/11, analysts can\u2019t decide whether the terrorist organization got what it wanted.",
     "date": "2026-08-05T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=238864",
-    "feed_name": "Texas Tribune",
-    "title": "Families brace for change as Third Future takes over more struggling Texas schools",
-    "author": "By Raquel Villatoro,\u00a0The Waco Bridge",
-    "link": "https://feeds.texastribune.org/link/16799/17403756/third-future-charter-network-takeover-texas",
-    "content": "Families wait outside of South Waco Elementary school ahead of a Meet the Teacher event on Friday. The new school year begins on Tuesday, Aug. 4, under the Third Future Schools partnership.",
-    "date": "2026-08-05T10:00:00",
-    "category": "Texas"
   }
 ]
