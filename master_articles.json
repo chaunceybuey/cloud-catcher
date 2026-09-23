@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/23/movies/screamplay-anthology-film-archives.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Screamplay\u2019: A Hollywood Horror Comedy",
+    "author": "J. Hoberman",
+    "link": "https://www.nytimes.com/2026/09/23/movies/screamplay-anthology-film-archives.html",
+    "content": "Rufus Butler Seder plays the lead, a crazed would-be Hollywood screenwriter.",
+    "date": "2026-09-23T12:17:50",
+    "category": "NYT"
+  },
+  {
     "id": "6ab1517e8f43ad86c75ae906",
     "feed_name": "Wired (Science)",
     "title": "A Startup Wants to Power Data Centers With \u2018Supercritical\u2019 Carbon Dioxide",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n14/james-butler/short-cuts",
     "content": "Almost no politician\u200b writes his own books, and few people actually read them. J.D. Vance is different. Trump\u2019s vice president was a writer before he was a politician, and brought a writer\u2019s vices with him: a titanic but fragile ego, limitless self-interest and thirst for adulation, an unsleeping vigilance for any slight.Hillbilly Elegy, Vance\u2019s first book, published in...",
-    "date": "2026-08-05T12:53:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "043a6e12f6d914235575bd9c71cd6d8d",
-    "feed_name": "LRB",
-    "title": "Roman Scandinavia",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/michael-kulikowski/polar-bears-in-rome",
-    "content": "In the late\u200b 160sad, Roman recruiters fanned out across the islands east of Jutland, which had long sent its young men to serve on the empire\u2019s Rhine frontier. The armies of Marcus Aurelius needed soldiers, lots of them. Among the several hundred new recruits was a tribesman called Harigast. Like the others, he spoke a form of what scholars now call Proto-Germanic, but the young men...",
     "date": "2026-08-05T12:53:55",
     "category": "Magazines"
   }
