@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a59668cf3c9c064dcafdf42",
+    "feed_name": "Wired",
+    "title": "She\u2019s 28, Loves God and Her Family, and Might Be the Reason You Can\u2019t Have Kids",
+    "author": "Emi Nietfeld",
+    "link": "https://www.wired.com/story/emma-waters-fertility-tech/",
+    "content": "No IVF. No surrogacy. No polygenic tests. Emma Waters is leading a national fight against fertility tech\u2014with her hot husband\u2019s permission, of course.",
+    "date": "2026-09-23T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=20085",
+    "feed_name": "Stratechery",
+    "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+    "content": "<p>Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?</p>",
+    "date": "2026-09-23T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "6ab191316596909b88d213d0",
     "feed_name": "Wired (Science)",
     "title": "The Organization Fighting Ebola Has Never Been More Worried",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n14/anahid-nersessian/little-ayatollahs",
     "content": "In the final minutes\u200b of Catherine Breillat\u2019s filmFat Girl(2001), a man breaks the windshield of a car with an axe. Inside are a woman and her two young daughters, Elena and Ana\u00efs; they have pulled over to sleep. Elena is killed by a single blow to the head and her mother is strangled. Ana\u00efs, who watches the murders with unsettling detachment, her fear betrayed only by the...",
-    "date": "2026-08-05T12:53:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "232e1e191515fd42c37699b6e78a4e1c",
-    "feed_name": "LRB",
-    "title": "Francis Spufford\u2019s \u2018Nonesuch\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/chris-power/egg-in-an-eggcup",
-    "content": "Iris Hawkins\u200b, the resourceful heroine of Francis Spufford\u2019s fourth novel,Nonesuch, wants \u2018to be in the room where the decisions are taken\u2019. No small ask in 1930s Britain. She has followed her father into the City, leaving Watford, if not its vowels, behind. She works as a secretary at the brokerage Cornellis & Blome, typing letters, opening the post, operating the...",
-    "date": "2026-08-05T12:53:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "2c45b1ca4f911ee8800a635a47260c9b",
-    "feed_name": "LRB",
-    "title": "Hogarth Press",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/dennis-duncan/at-charleston",
-    "content": "On or about\u200b December 2015, along with my friends Adam and Gill, I bought a cast-iron table-top printing press from the early 20th century. It was only really large enough to print pamphlets, but it was still the heaviest thing I had ever lifted, in size and shape not unlike the anvils that used to fall on Wile E. Coyote. It was also almost identical to the table-top press that Leonard and...",
     "date": "2026-08-05T12:53:55",
     "category": "Magazines"
   }
