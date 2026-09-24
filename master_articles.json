@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/dining/san-gennaro.html",
+    "feed_name": "NYT (Food)",
+    "title": "And to Think That I Ate It on Mulberry Street",
+    "author": "Becky Hughes",
+    "link": "https://www.nytimes.com/2026/09/24/dining/san-gennaro.html",
+    "content": "The annual Feast of San Gennaro gave me heartburn, a tummy ache and a great time",
+    "date": "2026-09-24T19:45:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/24/nyregion/ernie-sisto-photography.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Hold My Legs\u2019: How Ernie Sisto Shot a Sky-High Disaster",
+    "author": "Anika Burgess",
+    "link": "https://www.nytimes.com/2026/09/24/nyregion/ernie-sisto-photography.html",
+    "content": "To get the shot, Sisto asked his colleagues to hold his legs, climbed onto a ledge and leaned out as far as he dared.",
+    "date": "2026-09-24T19:33:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/arts/design/moca-new-director-jonathan-abbott.html",
     "feed_name": "NYT (Arts)",
     "title": "MOCA Appoints Former Public Media Leader as Its New Director",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/07/arts/television/megan-park-sterling-point.html",
     "content": "Megan Park, a film and television director who has made a young adult series called Sterling Point, outside her home in London, Ontario, July 16, 2026. Brett Gundlock for the New York Times",
     "date": "2026-08-07T09:00:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/07/movies/cookie-queens-girl-scouts-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018Cookie Queens,\u2019 the Girl Scouts Are the Stars",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/08/07/movies/cookie-queens-girl-scouts-review.html",
-    "content": "The film, directed by Alysa Nahmias, follows the youngsters and their families during weeks of sales, strategy and stress.",
-    "date": "2026-08-07T09:00:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/07/arts/dance/esperanza-spalding-kayla-farrish-jazz-dance.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Esperanza Spalding, Kayla Farrish and the Riffy Potential of Jazz and Dance",
-    "author": "Brian Seibert",
-    "link": "https://www.nytimes.com/2026/08/07/arts/dance/esperanza-spalding-kayla-farrish-jazz-dance.html",
-    "content": "Esperanza Spalding, left, and the dancer-choreographer Kayla Farrish.",
-    "date": "2026-08-07T09:00:11",
     "category": "NYT"
   }
 ]
