@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/arts/music/mamdani-met-opera-free-tickets.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A New Advocate for Opera Takes the Met Stage: Mayor Mamdani",
+    "author": "Adam Nagourney",
+    "link": "https://www.nytimes.com/2026/09/24/arts/music/mamdani-met-opera-free-tickets.html",
+    "content": "The mayor, with a video filmed at the Metropolitan Opera House, joins the Met in announcing a program to give away 70,000 tickets a year.",
+    "date": "2026-09-24T14:42:35",
+    "category": "NYT"
+  },
+  {
     "id": "094e3b3c5a020ba16c0648a9c1f35be9",
     "feed_name": "Compact",
     "title": "Don\u2019t Miss the Grand New Films About Charles de Gaulle",
@@ -365,6 +375,16 @@
     "title": "Review: An Unhinged Robert Pattinson Is Ready for \u2018Primetime\u2019",
     "author": "Manohla Dargis",
     "link": "https://www.nytimes.com/2026/09/24/movies/primetime-review-review-robert-pattinson.html",
+    "content": "The actor delivers an unnerving performance as Chris Hansen, the host of \u201cTo Catch a Predator,\u201d in a movie that doesn\u2019t bother to delve too deep.",
+    "date": "2026-09-24T09:01:41",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/24/movies/primetime-review-robert-pattinson.html",
+    "feed_name": "NYT (Arts)",
+    "title": "An Unhinged Robert Pattinson Is Ready for \u2018Primetime\u2019: Review",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/09/24/movies/primetime-review-robert-pattinson.html",
     "content": "The actor delivers an unnerving performance as Chris Hansen, the host of \u201cTo Catch a Predator,\u201d in a movie that doesn\u2019t bother to delve too deep.",
     "date": "2026-09-24T09:01:41",
     "category": "NYT"
@@ -19978,25 +19998,5 @@
     "content": "People take selfies with Big Tex at the State Fair of Texas in Dallas on Oct. 14, 2024.",
     "date": "2026-08-06T17:21:53",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/06/dining/the-sauces-to-put-on-and-under-every-vegetable.html",
-    "feed_name": "NYT (Food)",
-    "title": "The Sauces to Put on (and Under) Every Vegetable",
-    "author": "Becky Hughes",
-    "link": "https://www.nytimes.com/2026/08/06/dining/the-sauces-to-put-on-and-under-every-vegetable.html",
-    "content": "Alexa Weibel\u2019s roasted broccoli and whipped tofu with chile crisp crunch.",
-    "date": "2026-08-06T17:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "6a735b5da8ff2d120f8988e2",
-    "feed_name": "Wired (Science)",
-    "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-    "author": "Victoria Turk",
-    "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-    "content": "Its WeatherNext model, which will be open-sourced, can accurately predict both a storm\u2019s track and intensity using lower-resolution weather data. Researchers don't yet fully understand how it does this.",
-    "date": "2026-08-06T16:23:04",
-    "category": "Magazines"
   }
 ]
