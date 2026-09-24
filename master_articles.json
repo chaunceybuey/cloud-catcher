@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Desi Lydic Doesn\u2019t Think We Need Any More \u2018Melania\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html",
+    "content": "\u201cAnother Melania documentary?\u201d Lydic said. \u201cMelania, I love you, but unless you\u2019re living with Nathan Fielder in this thing, no one is asking for this.\u201d",
+    "date": "2026-09-24T06:35:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/23/arts/music/cheetah-chrome-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Cheetah Chrome, Guitarist for Pioneering Punk Bands, Dies at 71",
@@ -19988,15 +19998,5 @@
     "content": "The art is to say enough, and no more",
     "date": "2026-08-06T08:55:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239089",
-    "feed_name": "Texas Tribune",
-    "title": "James Talarico rolls out economic agenda that takes aim at \u201cfalse Gospel of trickle-down economics\u201d",
-    "author": "By\u00a0Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17404137/texas-senate-james-talarico-economic-agenda-ken-paxton",
-    "content": "State Rep. James Talarico speaks during a town hall campaign stop at the International Center for Trade in Eagle Pass on July 13, 2026.",
-    "date": "2026-08-06T02:50:10",
-    "category": "Texas"
   }
 ]
