@@ -200,6 +200,36 @@
     "category": "Texas"
   },
   {
+    "id": "6ab432612f4fc19ebd23c42e",
+    "feed_name": "Wired (Science)",
+    "title": "Why This Weekend\u2019s Nor\u2019easter Is Like a Hurricane",
+    "author": "Dennis Mersereau",
+    "link": "https://www.wired.com/story/this-weeks-noreaster-forecast/",
+    "content": "Nor\u2019easters are usually a winter phenomenon. But this week\u2019s storm is arriving earlier than usual, and it could take on some characteristics more typical of tropical systems.",
+    "date": "2026-09-24T10:15:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "6a711b8da0e49dc311c08795",
+    "feed_name": "Wired",
+    "title": "Why No One Wants to Date Tech Bros",
+    "author": "Elana Klein",
+    "link": "https://www.wired.com/story/tech-bros-dating-palantir-tesla/",
+    "content": "Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It\u2019s made getting laid a whole lot harder.",
+    "date": "2026-09-24T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=20097",
+    "feed_name": "Stratechery",
+    "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+    "content": "<p>An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.</p>",
+    "date": "2026-09-24T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "6ab4096802f03f58967c9960",
     "feed_name": "Wired (Science)",
     "title": "Venus May Have Devoured Its Moon",
@@ -19968,35 +19998,5 @@
     "content": "Here\u2019s when some of this year\u2019s most anticipated astronomical events will happen and the best way to observe them.",
     "date": "2026-08-06T12:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "6a70c5cf7eaea70665a1d5af",
-    "feed_name": "Wired (Science)",
-    "title": "Microsoft\u2019s Quantum Chief Doesn\u2019t Care That Scientists Don\u2019t Believe His Results",
-    "author": "Isabella Ward",
-    "link": "https://www.wired.com/story/microsoft-quantum-chief-majorana-results/",
-    "content": "Zulfi Alam thinks his team doesn\u2019t need to \u201cprove\u201d they engineered a new state of matter in their bid to reinvent computing. Science would disagree.",
-    "date": "2026-08-06T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a70bede4b483e5d7ba0aa75",
-    "feed_name": "Wired (Science)",
-    "title": "Two Fossil Fuel Companies Are Betting Big on Data Centers",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/chevron-williams-driving-data-center-boom/",
-    "content": "Chevron and Williams are big winners in the race to power artificial intelligence as they build out gas-fired power plants and pipelines.",
-    "date": "2026-08-06T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/06/arts/music/bayreuth-festival-wagner-rienzi-germany.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Our Drug Is Wagner\u2019: Bayreuth Festival Draws the Composer\u2019s Fiercest Fans",
-    "author": "Ben Miller and Emile Ducke",
-    "link": "https://www.nytimes.com/2026/08/06/arts/music/bayreuth-festival-wagner-rienzi-germany.html",
-    "content": "a;sldkjfasd;lfk",
-    "date": "2026-08-06T10:17:07",
-    "category": "NYT"
   }
 ]
