@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/arts/television/netflix-expiring-october.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Stream These 5 Movies and Shows Before They Leave Netflix in October",
+    "author": "Jason T. Bailey",
+    "link": "https://www.nytimes.com/2026/09/24/arts/television/netflix-expiring-october.html",
+    "content": "Ethan Hawke in a scene from Paul Schrader\u2019s \u201cFirst Reformed.\u201d",
+    "date": "2026-09-24T20:08:46",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/dining/san-gennaro.html",
     "feed_name": "NYT (Food)",
     "title": "And to Think That I Ate It on Mulberry Street",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/07/arts/music/travis-barker-hulu-documentary-popcast-interview.html",
     "content": "\u201cTravis Barker: Louder Than Fear,\u201d a decade-in-the-making biography, premieres on Hulu on Aug. 13.",
     "date": "2026-08-07T09:01:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/07/arts/television/megan-park-sterling-point.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Megan Park Knows That Teenage Girls Deserve More",
-    "author": "Alexis Soloski and Brett Gundlock",
-    "link": "https://www.nytimes.com/2026/08/07/arts/television/megan-park-sterling-point.html",
-    "content": "Megan Park, a film and television director who has made a young adult series called Sterling Point, outside her home in London, Ontario, July 16, 2026. Brett Gundlock for the New York Times",
-    "date": "2026-08-07T09:00:42",
     "category": "NYT"
   }
 ]
