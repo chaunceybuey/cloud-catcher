@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/arts/music/derek-safo-sway-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sway Dasafo, Rapper Who Opened New Doors for Global Artists, Dies at 44",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/09/24/arts/music/derek-safo-sway-dead.html",
+    "content": "Sway Dasafo in 2006. A year earlier, the cultural organization Mobo \u2014 an acronym for Music of Black Origin \u2014 named him best hip-hop artist, besting 50 Cent and other established acts.",
+    "date": "2026-09-24T17:38:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/dining/a-veggie-dining-dispatch-from-book-tour.html",
     "feed_name": "NYT (Food)",
     "title": "A Veggie Dining Dispatch From Book Tour",
@@ -19988,15 +19998,5 @@
     "content": "When a mysterious force traps people in their homes, one family tries to ride out the apocalypse.",
     "date": "2026-08-07T06:59:04",
     "category": "NYT"
-  },
-  {
-    "id": "4c2d3cfb060a70f9fd9f3f218425eb4e",
-    "feed_name": "LRB",
-    "title": "Maximum Pressure",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/tony-wood/maximum-pressure",
-    "content": "If every accusationis a confession, then the US State Department report released on 20 July, which describes Cuba as \u2018the capital of 21st-century communism\u2019, must rank as one of the most deranged self-denunciations on record. Across its hundred pages, the report paints Cuba as the centre of hemispheric subversion, bent on destroying the United States through a \u2018long war of...",
-    "date": "2026-08-07T00:40:49",
-    "category": "Magazines"
   }
 ]
