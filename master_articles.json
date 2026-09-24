@@ -200,6 +200,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/dining/oh-something-smells-good-its-this-dinner.html",
+    "feed_name": "NYT (Food)",
+    "title": "Oh, Something Smells Good (It\u2019s This Dinner)",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/24/dining/oh-something-smells-good-its-this-dinner.html",
+    "content": "Devin Finigan\u2019s crispy chicken thighs with cucumber yogurt, adapted by Melissa Clark.",
+    "date": "2026-09-24T15:00:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/24/movies/film-tax-credits.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What to Know About a Federal Film Tax Credit",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/09/24/movies/film-tax-credits.html",
+    "content": "The Warner Bros. studio lot in Burbank, Calif. More than 60 countries have lucrative tax credit programs drawing productions away from the United States.",
+    "date": "2026-09-24T14:52:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/24/movies/film-tax-credit-congress-bill.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Weary Hollywood Celebrates the Prospect of Federal Funding",
+    "author": "Matt Stevens and Shawn Hubler",
+    "link": "https://www.nytimes.com/2026/09/24/movies/film-tax-credit-congress-bill.html",
+    "content": "The proposed federal tax incentive would stack atop subsidies already offered by more than three dozen states, including California.",
+    "date": "2026-09-24T14:52:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/arts/music/mamdani-met-opera-free-tickets.html",
     "feed_name": "NYT (Arts)",
     "title": "A New Advocate for Opera Takes the Met Stage: Mayor Mamdani",
@@ -19967,36 +19997,6 @@
     "link": "https://www.kmfa.org/pages/21766-round-rock-texas-summer-arts-fest",
     "content": "ROUND ROCK TEXAS PRESENTS:\n\nSUMMER ARTS FEST\n\nAugust 6 - 9 | Various Times | City Arts Center\u00a0\n\n\n\nFREE ADMISSION\n\nEvent Details\nDate: Thursday, August 6 - Sunday, August 9\nTime: Various Times (see website)\nVenue: City Arts Center\n\nTicket Information\nCost: FREE\nPhone: \n\nPresenter Details: \u00a0\n\nRound Rock, Texas, with a population of more than 130,000, is located 15 miles north of Austin in the Central Texas Hill Country. Round Rock is the 29th largest City in Texas, according to\u00a0Texas Demographic Center.",
     "date": "2026-08-06T19:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239121",
-    "feed_name": "Texas Tribune",
-    "title": "Sid Miller says Republicans will lose statewide elections due to rapid data center development, backlash",
-    "author": "Jayme Lozano Carver",
-    "link": "https://feeds.texastribune.org/link/16799/17404610/sid-miller-republicans-elections-data-centers-abbott",
-    "content": "Texas Agriculture Commissioner Sid Miller speaks at a rally against data center development on the Capitol grounds in Austin on July 27, 2026.",
-    "date": "2026-08-06T18:03:37",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/06/dining/la-technique-cookbook-jacques-pepin.html",
-    "feed_name": "NYT (Food)",
-    "title": "\u2018La Technique\u2019 by Jacques P\u00e9pin Turns 50 Years Old",
-    "author": "Pete Wells",
-    "link": "https://www.nytimes.com/2026/08/06/dining/la-technique-cookbook-jacques-pepin.html",
-    "content": "In his groundbreaking \u201cLa Technique,\u201d Jacques P\u00e9pin showed Americans how to do everything from carving swans out of apples to breaking down lamb.",
-    "date": "2026-08-06T17:30:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239115",
-    "feed_name": "Texas Tribune",
-    "title": "Appeals court rejects Attorney General Ken Paxton\u2019s effort to overturn Texas State Fair gun ban",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17404566/texas-state-fair-dallas-gun-ban-paxton-appeals-court-ruling",
-    "content": "People take selfies with Big Tex at the State Fair of Texas in Dallas on Oct. 14, 2024.",
-    "date": "2026-08-06T17:21:53",
     "category": "Texas"
   }
 ]
