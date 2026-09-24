@@ -200,6 +200,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/business/media/letterboxd-sale-sony-a24-nyt.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sony, A24 and the New York Times Company Circle Letterboxd",
+    "author": "Benjamin Mullin and Lauren Hirsch",
+    "link": "https://www.nytimes.com/2026/09/24/business/media/letterboxd-sale-sony-a24-nyt.html",
+    "content": "Letterboxd, a social network for movie lovers, has seen its popularity skyrocket in recent years.",
+    "date": "2026-09-24T16:41:01",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/24/arts/music/macklemore-free-palestine-tour.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Macklemore Announces \u2018Free Palestine\u2019 Concerts After Exiting Ed Sheeran Tour",
+    "author": "Ben Sisario",
+    "link": "https://www.nytimes.com/2026/09/24/arts/music/macklemore-free-palestine-tour.html",
+    "content": "Macklemore said that he had reached out to artists who have \u201cused their stages to stand in solidarity with the Palestinian people, regardless of the consequences,\u201d but did not announce acts who would join the tour.",
+    "date": "2026-09-24T16:26:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/arts/design/armory-show-artists-to-watch.html",
     "feed_name": "NYT (Arts)",
     "title": "12 Artists On the Rise at The Armory Show",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/06/arts/art-gallery-shows-to-see-in-august.html",
     "content": "This week in Newly Reviewed Carolina Miranda covers three shows in Los Angeles: a group exhibit with Tom of Finland at the center, Betye Saar\u2019s \u201cwearable art\u201d and Esther Pearl Watson\u2019s spaceships.",
     "date": "2026-08-06T22:02:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239164",
-    "feed_name": "Texas Tribune",
-    "title": "Harris County DA says independent investigation into fatal ICE shooting will cost $2.5 million",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17404691/texas-ice-shooting-investigation-budget-harris-county-district-attorney",
-    "content": "Vans with messages in support of Lorenzo Salgado Araujo and against ICE pass by his memorial during a caravan protest in Houston on July 17, 2026.",
-    "date": "2026-08-06T21:48:18",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/06/dining/reader-questions.html",
-    "feed_name": "NYT (Food)",
-    "title": "Cheese on a Conveyor Belt? (Actually) Groundbreaking.",
-    "author": "Becky Hughes",
-    "link": "https://www.nytimes.com/2026/08/06/dining/reader-questions.html",
-    "content": "Becky Hughes takes on burning questions from \u201cWhere to Eat\u201d readers.",
-    "date": "2026-08-06T20:16:08",
     "category": "NYT"
   }
 ]
