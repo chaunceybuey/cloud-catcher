@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/arts/design/armory-show-artists-to-watch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "12 Artists On the Rise at The Armory Show",
+    "author": "Will Heinrich and Aruna D\u2019Souza",
+    "link": "https://www.nytimes.com/2026/09/24/arts/design/armory-show-artists-to-watch.html",
+    "content": "Nikoleta Sekulovic, \u201cDaphne du Maurier,\u201d 2024, acrylic and oil stick on linen at Rebecca Hossack Gallery.",
+    "date": "2026-09-24T15:35:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/dining/oh-something-smells-good-its-this-dinner.html",
     "feed_name": "NYT (Food)",
     "title": "Oh, Something Smells Good (It\u2019s This Dinner)",
@@ -19988,15 +19998,5 @@
     "content": "Becky Hughes takes on burning questions from \u201cWhere to Eat\u201d readers.",
     "date": "2026-08-06T20:16:08",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/21766-round-rock-texas-summer-arts-fest",
-    "feed_name": "KMFA",
-    "title": "Round Rock Texas: Summer Arts Fest",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/21766-round-rock-texas-summer-arts-fest",
-    "content": "ROUND ROCK TEXAS PRESENTS:\n\nSUMMER ARTS FEST\n\nAugust 6 - 9 | Various Times | City Arts Center\u00a0\n\n\n\nFREE ADMISSION\n\nEvent Details\nDate: Thursday, August 6 - Sunday, August 9\nTime: Various Times (see website)\nVenue: City Arts Center\n\nTicket Information\nCost: FREE\nPhone: \n\nPresenter Details: \u00a0\n\nRound Rock, Texas, with a population of more than 130,000, is located 15 miles north of Austin in the Central Texas Hill Country. Round Rock is the 29th largest City in Texas, according to\u00a0Texas Demographic Center.",
-    "date": "2026-08-06T19:00:00",
-    "category": "Texas"
   }
 ]
