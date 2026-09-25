@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/25/dining/donohues-steakhouse-manhattan-reopening.html",
+    "feed_name": "NYT (Food)",
+    "title": "Donohue\u2019s, an Old New York Saloon, Gets a New Operator",
+    "author": "Pete Wells",
+    "link": "https://www.nytimes.com/2026/09/25/dining/donohues-steakhouse-manhattan-reopening.html",
+    "content": "The beloved Upper East Side institution is gone. But the downtown restaurateur Jon Neidich says some retro details, and maybe the broiler, will survive.",
+    "date": "2026-09-25T21:06:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html",
     "feed_name": "NYT (Arts)",
     "title": "Kennedy Center Shelved Repairs Now Cited for Closure, Whistle-Blowers Say",
@@ -19988,15 +19998,5 @@
     "content": "From his studio in Maine, one of the last full-time ventriloquist puppet makers in the country combines mechanics, painting and performance to create one-of-a-kind characters.",
     "date": "2026-08-08T09:00:10",
     "category": "NYT"
-  },
-  {
-    "id": "6a763fd54aedcde7771f17cb",
-    "feed_name": "Wired (Science)",
-    "title": "Spokane Shows What the New Era of Wildfires Looks Like",
-    "author": "Sachi Kitajima Mulkey",
-    "link": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
-    "content": "With rising temperatures and drier conditions, fires are more likely to explode. And with more people living next to forests, the results can be catastrophic.",
-    "date": "2026-08-08T09:00:00",
-    "category": "Magazines"
   }
 ]
