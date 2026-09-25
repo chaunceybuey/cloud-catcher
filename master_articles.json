@@ -240,6 +240,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/25/arts/design/es-devlin-homo-faber-biennial-venice.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Es Devlin, Master of the Extravaganza, Highlights the Art of Craft",
+    "author": "Guy Trebay",
+    "link": "https://www.nytimes.com/2026/09/25/arts/design/es-devlin-homo-faber-biennial-venice.html",
+    "content": "For the Homo Faber Biennial in the Venetian lagoon, the designer unites works by 500 artisans, each one an island of talent.",
+    "date": "2026-09-25T09:02:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/25/arts/halloween-nyc-2026.html",
     "feed_name": "NYT (Arts)",
     "title": "33 Fun Halloween Events in NYC 2026: Parades, Haunted Houses and More",
@@ -19988,15 +19998,5 @@
     "content": "Lydia Davis will reflect on some of the concepts of the Stoic philosophers, especially the Roman emperor Marcus Aurelius. She will associate these concepts with the ideas conveyed by other texts, including some of the English sonnets, and will also describe her attempts to try out the ideas of the Stoics on the vagaries of her own daily life.",
     "date": "2026-08-07T14:54:03",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Gospel According to Anthony Bourdain",
-    "author": "Aaron Timms",
-    "link": "https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html",
-    "content": "Fans of the late writer and chef are cultlike in their devotion. But have they misunderstood his message?",
-    "date": "2026-08-07T14:40:59",
-    "category": "NYT"
   }
 ]
