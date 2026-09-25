@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kennedy Center Shelved Repairs Now Cited for Closure, Whistle-Blowers Say",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html",
+    "content": "Leaks in the roof overhangs of the John F. Kennedy Center for the Performing Arts have long been a concern for center officials. But former employees say repairs were deferred as recently as this year.",
+    "date": "2026-09-25T20:05:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22565-ballet-austin-a-midsummer-night-s-dream",
     "feed_name": "KMFA",
     "title": "Ballet Austin: A Midsummer Night's Dream",
@@ -19987,16 +19997,6 @@
     "link": "https://www.kmfa.org/pages/21733-blanton-museum-of-art-blanton-all-day",
     "content": "BLANTON MUSEUM PRESENTS:\n\nBLANTON ALL DAY: SUMME DANCE SERIES\n\nTHE TWO-STEP (+TANGO!) EDITION\n\nAugust 8 | 10:00 A.M. - 8:00 P.M. | Blanton Museum of Art\n\n\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, August 8\nTime: 10:00 AM - 8:00 PM\nVenue: Blanton Museum of Art\n\nTicket Information\nCost: Admission: $20, (Ages 6-17: $10; 5 & Under: Free)\nPhone: \n\nPresenter Details: Founded in 1963, the Blanton has emerged as the principal art museum for both the city of Austin and The University of Texas at Austin, with a national reputation for innovative programming and bold leadership. Our collection includes more than 22,000 artworks, with depth in modern and contemporary American and Latin American art, Italian Renaissance and Baroque paintings, and prints and drawings. We present regularly changing installations from the collection, special projects with contemporary artists, dynamic site-specific installations throughout our grounds, and major thematic exhibitions built from our pioneering scholarship and partnerships with museums worldwide.\u00a0It is a reflection of the Blanton\u2019s pride to be part of The University of Texas at Austin, our deep connection to Austin, and why we are seen as a leader nationally.",
     "date": "2026-08-08T00:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239321",
-    "feed_name": "Texas Tribune",
-    "title": "Ted Cruz\u2019s college sports bill hangs in the balance as U.S. Senate scrambles ahead of August recess",
-    "author": "Samanta Habashy",
-    "link": "https://feeds.texastribune.org/link/16799/17405357/texas-ted-cruz-college-sports-bill-nil-ncaa-student-athletes-revenue-sharing",
-    "content": "U.S. Sen. Ted Cruz speaks to delegates and attendees at the 2026 Texas Republican Convention in Houston on June 13, 2026.",
-    "date": "2026-08-07T22:04:52",
     "category": "Texas"
   }
 ]
