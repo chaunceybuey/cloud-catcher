@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/25/arts/music/cleveland-orchestra-strike.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Cleveland Orchestra Players Walk Out, Forcing Cancellation of Performances",
+    "author": "Adam Nagourney",
+    "link": "https://www.nytimes.com/2026/09/25/arts/music/cleveland-orchestra-strike.html",
+    "content": "The Cleveland Orchestra rehearsing at its home, Severance Hall. A high-profile European tour that was to begin next month is now in doubt.",
+    "date": "2026-09-25T04:38:10",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/t-magazine/alex-eagle-180-the-thames.html",
     "feed_name": "NYT (Arts)",
     "title": "In London, a New Flagship for Alex Eagle",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/07/movies/new-movies-this-week-critics.html",
     "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
     "date": "2026-08-07T09:03:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/07/books/thomas-hines-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Thomas S. Hines, Who Helped Put L.A. Architecture on the Map, Dies at 89",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/08/07/books/thomas-hines-dead.html",
-    "content": "A historian at U.C.L.A., he showed how Los Angeles\u2019s architects and planners made the city a global center for modernist design in the 20th century.",
-    "date": "2026-08-07T09:02:39",
     "category": "NYT"
   }
 ]
