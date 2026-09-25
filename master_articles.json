@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/arts/television/the-sopranos-tv-21st-century.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Sopranos\u2019 Is Nowhere on This List. Also, It\u2019s Everywhere.",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/09/24/arts/television/the-sopranos-tv-21st-century.html",
+    "content": "Our poll of the best shows of the 21st century explores how TV built on, and moved on from, one of the last great shows of the 20th.",
+    "date": "2026-09-25T02:00:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/movies/unabomber-review-a-not-so-beautiful-mind.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Unabomber\u2019 Review: A Not-So-Beautiful Mind",
@@ -19987,16 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/new-summer-desserts",
     "content": "Strawberry fluff, peaches and cream cake, and more desserts that will help you make the most of the season.",
     "date": "2026-08-07T09:02:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/07/movies/monica-barbaro-callum-turner-one-night-only.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Monica Barbaro and Callum Turner on Rom-Coms and the Politics of \u2018One Night Only\u2019",
-    "author": "Ashley Spencer and Maddy Rotman",
-    "link": "https://www.nytimes.com/2026/08/07/movies/monica-barbaro-callum-turner-one-night-only.html",
-    "content": "Turner believes in soul mates, but said, \u201csoul mates doesn\u2019t have to be a partnership, it could be anything. Some of my soul mates are my best friends.\u201d",
-    "date": "2026-08-07T09:01:46",
     "category": "NYT"
   }
 ]
