@@ -200,6 +200,76 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/25/movies/action-film-endings-sad.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What Happened to Hollywood\u2019s Most Reliable Happy Ending?",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/09/25/movies/action-film-endings-sad.html",
+    "content": "A new study by an independent analyst shows that action films are more likely to end on a sadder note nowadays.",
+    "date": "2026-09-25T09:02:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/25/movies/new-movies-this-week-critics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "12 New Movies Our Critics Are Talking About This Week",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/09/25/movies/new-movies-this-week-critics.html",
+    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+    "date": "2026-09-25T09:02:18",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/25/arts/design/es-devlin-master-of-the-extravaganza-highlights-the-art-of-craft.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Es Devlin, Master of the Extravaganza, Highlights the Art of Craft",
+    "author": "Guy Trebay",
+    "link": "https://www.nytimes.com/2026/09/25/arts/design/es-devlin-master-of-the-extravaganza-highlights-the-art-of-craft.html",
+    "content": "For the Homo Faber Biennial in the Venetian lagoon, the designer unites works by 500 artisans, each one an island of talent.",
+    "date": "2026-09-25T09:02:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/25/arts/halloween-nyc-2026.html",
+    "feed_name": "NYT (Arts)",
+    "title": "33 Fun Halloween Events in NYC 2026: Parades, Haunted Houses and More",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/09/25/arts/halloween-nyc-2026.html",
+    "content": "Participants in last year\u2019s Village Halloween Parade, which returns this year with the theme \u201cBody and Soul.\u201d",
+    "date": "2026-09-25T09:01:43",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/25/movies/new-york-film-festival-pedro-pascal-elizabeth-holmes-nathan-fielder.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At the New York Film Festival, Movies With Oomph",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/09/25/movies/new-york-film-festival-pedro-pascal-elizabeth-holmes-nathan-fielder.html",
+    "content": "Films by Ava DuVernay, Tony Gilroy and Luca Guadagnino set a high bar at the latest edition of this Lincoln Center event.",
+    "date": "2026-09-25T09:01:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/25/books/basic-pistol-harel-shapira-gun-training.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In \u2018Basic Pistol,\u2019 a Sociologist Finds Hidden Lessons in Gun Training",
+    "author": "Sasha von Oldershausen",
+    "link": "https://www.nytimes.com/2026/09/25/books/basic-pistol-harel-shapira-gun-training.html",
+    "content": "Harel Shapira, a sociologist at the University of Texas at Austin, takes aim at a gun range.",
+    "date": "2026-09-25T09:00:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/25/books/filippo-bernardini-manuscript-thief-publishing-scam.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Filippo Bernardini Scammed the Book Business for Years. Is He Back?",
+    "author": "Miguel Salazar",
+    "link": "https://www.nytimes.com/2026/09/25/books/filippo-bernardini-manuscript-thief-publishing-scam.html",
+    "content": "The man who admitted to stealing hundreds of manuscripts swore he\u2019d never do it again. New online skulduggery resembles his old tricks, and then some.",
+    "date": "2026-09-25T09:00:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/25/arts/television/desi-lydic-roasts-trump-xi.html",
     "feed_name": "NYT (Arts)",
     "title": "Desi Lydic Roasts Trump for Pulling Out All the Stops for Xi",
@@ -19928,75 +19998,5 @@
     "content": "",
     "date": "2026-08-07T11:46:53",
     "category": "Magazines"
-  },
-  {
-    "id": "649d3471e3fcddb1098f3bf8114e9f60",
-    "feed_name": "The Atlantic",
-    "title": "Why I Love Blue Books",
-    "author": "Walt Hunter",
-    "link": "https://www.theatlantic.com/magazine/2026/09/higher-education-in-person-written-exams/687954/",
-    "content": "There\u2019s no better way for students to show their professors what they\u2019re capable of.",
-    "date": "2026-08-07T11:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "3ef5de8c4cb5a8603549d3874e61ff51",
-    "feed_name": "The Atlantic",
-    "title": "The Dishonesty of True Crime",
-    "author": "Elizabeth Bruenig",
-    "link": "https://www.theatlantic.com/ideas/2026/08/what-true-crime-gets-wrong-about-crime/688214/",
-    "content": "The hit Netflix documentaryMaternal Instincttidies a far more complicated story.",
-    "date": "2026-08-07T11:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "3f7e53822770dd038f75c13d7865098a",
-    "feed_name": "Outside",
-    "title": "10 Climbers Died on Broad Peak. The Rescue Was Just as Dangerous.",
-    "author": "Ben Ayers",
-    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/broad-peak-avalanche-rescue-tragedy/",
-    "content": "",
-    "date": "2026-08-07T11:27:37",
-    "category": "Magazines"
-  },
-  {
-    "id": "dd744248a21114374f61dbbdb6b5de72",
-    "feed_name": "LRB",
-    "title": "In Springfield",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/in-springfield",
-    "content": "It has never been easy to get asylum in the US, but during the last two years it has become almost impossible. The Trump administration has.\u00a0.\u00a0.",
-    "date": "2026-08-07T10:53:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health",
-    "feed_name": "ProPublica",
-    "title": "House Democrats Demand Answers From Trump\u2019s VA on Vets Struggling to Access Mental Healthcare",
-    "author": "Eric Umansky",
-    "link": "https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health",
-    "content": "<figure><img alt=\"A man wearing glasses and a red and blue tie.\" src=\"https://www.propublica.org/wp-content/uploads/2026/08/GettyImages-2194532748_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=1149\" /><figcaption><small>Department of Veterans Affairs Secretary Doug Collins received a letter signed by more than 60 lawmakers citing a recent ProPublica investigation that detailed how the agency has failed to provide veterans with adequate mental healthcare. Samuel Corum/Getty Images</small></figcaption></figure>\n<p><strong>What Happened:</strong> More than 60 House Democrats are <a href=\"https://chu.house.gov/media-center/press-releases/rep-chu-leads-colleagues-requesting-information-trump-administration\">pressing Department of Veterans Affairs Secretary Doug Collins for answers</a> about how the agency&#8217;s mental healthcare has been increasingly strained under President Donald Trump\u2019s second administration. The lawmakers sent the secretary a letter last week asking questions about the state of VA care, citing a ProPublica investigation from this spring that revealed the <a href=\"https://www.propublica.org/article/veterans-affairs-mental-health-therapists-quit-trump\">agency\u2019s mental health workforce has been plummeting and veterans have been left in the lurch</a>.</p>\n\n\n\n<p><strong>What They Said:</strong> The letter was spearheaded by Rep. Judy Chu, who is a psychologist and represents a district in Southern California. \u201cCaring for our nation&#8217;s Veterans is a fundamental responsibility,\u201d the letter says. \u201cThat includes ensuring access to high-quality mental health care.\u201d</p>\n\n\n\n<p>The lawmakers demanded that the VA disclose details about its shortage of mental health providers and the impact on veterans. It also pushed the agency to lay out how long veterans have to wait for care.</p>\n\n\n\n<p>As ProPublica has detailed, while the VA has long had a shortfall of mental health providers, the situation has gotten far worse under the current Trump administration. Hundreds of mental health staffers have left the VA and not been replaced.</p>\n\n\n\n<p><strong>Background:</strong> ProPublica\u2019s investigation recounted the troubling experiences of both mental health providers and of veterans seeking care.</p>\n\n\n\n<p>With so many staffers leaving and not being replaced, the remaining providers have often been stretched remarkably thin.</p>\n\n\n\n<p>A psychologist who worked for a VA in Arizona recounted how some of her one-on-one sessions were replaced with online group sessions that included as many as 35 veterans. The therapist said their remaining individual sessions were sometimes limited to as little as 16 minutes.</p>\n\n\n\n<p>\u201cIt was always bad,\u201d said the psychologist. \u201cAnd now it\u2019s at a breaking point.\u201d</p>\n\n\n\n<p>In VA exit surveys that ProPublica obtained, mental health staffers who quit often wrote that they were no longer able to provide high-quality care.</p>\n\n\n\n<p>\u201cMental Health is understaffed, burned out,\u201d wrote one New York-based staffer who was leaving. \u201cThere is not enough mental health care for the Veterans who need the services.\u201d</p>\n\n\n\n<p>Veterans, meanwhile, have started to fall through the cracks.</p>\n\n\n\n<p>Jason Beaman, a Navy and Army vet, was shuffled among therapists who later left until he finally had enough. \u201cI just quit. I don\u2019t want to mess with the therapist anymore,\u201d Beaman told us this spring.</p>\n\n\n\n<p><strong>Why It Matters:</strong> After Trump returned to office last year, his administration promised to deliver veterans \u201c<a href=\"https://www.scrippsnews.com/us-news/military/secretary-doug-collins-outlines-a-plan-for-streamlining-care-at-veterans-affairs#:~:text=Collins%20says%20his%20long%20term,broadcast%2C%20rewritten%2C%20or%20redistributed.\">the highest quality care</a>.\u201d</p>\n\n\n\n<p>The VA is the country\u2019s largest healthcare system, serving 9 million veterans. Those men and women face many mental health issues at a higher rate than the general population. They die by suicide at <a href=\"https://www.rand.org/pubs/perspectives/PEA1363-1-v2.html\">roughly twice the rate</a>.</p>\n\n\n\n<p>VA mental health staff have developed deep expertise in addressing the particular needs of vets. Indeed, studies have shown that vets <a href=\"https://psychiatryonline.org/doi/10.1176/appi.ps.201400537\">get better care</a> at the VA than through private providers.</p>\n\n\n\n<p>\u201cVA psychologists are best in class,\u201d said Russell Lemle, former chief psychologist for the San Francisco VA Health Care System and now a senior policy analyst at the Veterans Healthcare Policy Institute. \u201cWhen you lose them, the veterans are the ones who pay the price.\u201d</p>\n\n\n\n<p>ProPublica reported that in January, the department had around 500 fewer psychologists and psychiatrists than it had at the same time last year. Recent VA data shows those head counts continue to decline.</p>\n\n\n\n<p><strong>Response:</strong> In response to questions from ProPublica, VA spokesperson Quinn Slaven defended the agency. \u201cThe Trump Administration is solely focused on measuring VA\u2019s success by how well it serves Veterans,\u201d Slaven wrote in an email. \u201cThis commonsense approach has led to dramatic improvements for Veterans, families, caregivers, and survivors across the country.\u201d</p>\n\n\n\n<p>Slaven said that the VA completed a record number of mental healthcare appointments in the past fiscal year while also lowering veterans\u2019 wait times.</p>\n\n\n\n<p>The VA previously declined our request for an interview. Instead, spokesperson Peter Kasperowicz accused ProPublica of attempting to mislead the public by \u201ccherry picking issues that are limited to a handful of sites and in many cases were worse under the Biden Administration.\u201d</p>\n\n\n\n<p>After ProPublica shared the findings of its investigation and the names of veterans who would appear in it, the agency reached out to several to inquire about their care and offer help.</p>\n\n\n\n<p>The congressional letter gives the VA until Aug. 14 to respond.</p>\n\n\n\n<div class=\"wp-block-propublica-lead-in\">\n<h3 class=\"wp-block-heading\" id=\"h-read-the-investigation\">Read the Investigation</h3>\n\n\n\n<p></p>\n\n\n<div class=\"wp-block-propublica-story-promo\">\n\t<a class=\"story-promo\" href=\"https://www.propublica.org/article/veterans-affairs-mental-health-therapists-quit-trump\">\n\t\t\t\t<div class=\"story-promo__art\">\n\t\t\t<img alt=\"\" class=\"attachment-propublica-story-promo size-propublica-story-promo wp-post-image\" height=\"306\" src=\"https://www.propublica.org/wp-content/uploads/2026/02/F20260204-Rasmussen-VACuts-023_maxHeight_3000_maxWidth_3000-copy_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=459&amp;h=306&amp;crop=1\" width=\"459\" />\t\t</div>\n\t\t\t\t<div class=\"story-promo__info\">\n\t\t\t<strong class=\"story-promo__hed\">Veterans Who Depend on Mental Health Care Keep Losing Their Therapists Under Trump</strong>\n\t\t</div>\n\t</a>\n</div>\n</div>\n<p>The post <a href=\"https://www.propublica.org/article/democrats-veterans-affairs-doug-collins-letter-mental-health\">House Democrats Demand Answers From Trump\u2019s VA on Vets Struggling to Access Mental Healthcare</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "date": "2026-08-07T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239110",
-    "feed_name": "Texas Tribune",
-    "title": "Who\u2019s leading in Texas\u2019 U.S. Senate race? We\u2019re tracking poll results between Ken Paxton and James Talarico.",
-    "author": "Hien An Ngo",
-    "link": "https://feeds.texastribune.org/link/16799/17404964/texas-us-senate-james-talarico-ken-paxton-polls",
-    "content": "Hien An Ngo",
-    "date": "2026-08-07T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239179",
-    "feed_name": "Texas Tribune",
-    "title": "Democrats in Congress, able to visit ICE lockups in Texas, describe grim conditions",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17404965/texas-immigration-detention-facilities-ice-congress-oversight-visits",
-    "content": "U.S. Rep. Joaquin Castro, D-San Antonio, speaks to the media in San Antonio, Texas after visiting the U.S. Immigration and Customs Enforcement detention center in Dilley, on Tuesday, July 28, 2026.",
-    "date": "2026-08-07T10:00:00",
-    "category": "Texas"
   }
 ]
