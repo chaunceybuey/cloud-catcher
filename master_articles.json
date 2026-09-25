@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/t-magazine/alex-eagle-180-the-thames.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In London, a New Flagship for Alex Eagle",
+    "author": "Kin Woo",
+    "link": "https://www.nytimes.com/2026/09/24/t-magazine/alex-eagle-180-the-thames.html",
+    "content": "The designer signed on to creative direct the whole of 180 the Thames, a new lifestyle hub on the north bank of the Thames. Then she moved her own business there.",
+    "date": "2026-09-25T02:36:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/arts/television/the-sopranos-tv-21st-century.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Sopranos\u2019 Is Nowhere on This List. Also, It\u2019s Everywhere.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/07/books/thomas-hines-dead.html",
     "content": "A historian at U.C.L.A., he showed how Los Angeles\u2019s architects and planners made the city a global center for modernist design in the 20th century.",
     "date": "2026-08-07T09:02:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/new-summer-desserts",
-    "feed_name": "NYT (Food)",
-    "title": "Don\u2019t Let Summer End Without Making These Treats",
-    "author": "Allison Jiang",
-    "link": "https://cooking.nytimes.com/article/new-summer-desserts",
-    "content": "Strawberry fluff, peaches and cream cake, and more desserts that will help you make the most of the season.",
-    "date": "2026-08-07T09:02:17",
     "category": "NYT"
   }
 ]
