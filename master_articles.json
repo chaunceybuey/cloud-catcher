@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/24/movies/unabomber-review-a-not-so-beautiful-mind.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Unabomber\u2019 Review: A Not-So-Beautiful Mind",
+    "author": "Jeannette Catsoulis",
+    "link": "https://www.nytimes.com/2026/09/24/movies/unabomber-review-a-not-so-beautiful-mind.html",
+    "content": "Russell Crowe and Jacob Tremblay add welcome intrigue to this bifurcated true-crime drama.",
+    "date": "2026-09-25T01:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/24/arts/television/netflix-expiring-october.html",
     "feed_name": "NYT (Arts)",
     "title": "Stream These 5 Movies and Shows Before They Leave Netflix in October",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/07/movies/monica-barbaro-callum-turner-one-night-only.html",
     "content": "Turner believes in soul mates, but said, \u201csoul mates doesn\u2019t have to be a partnership, it could be anything. Some of my soul mates are my best friends.\u201d",
     "date": "2026-08-07T09:01:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/07/arts/music/travis-barker-hulu-documentary-popcast-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Travis Barker on Surviving a Plane Crash, Miscarriage and Parenting Famous Kids",
-    "author": "Jon Caramanica, Joe Coscarelli and Ryan Lowry",
-    "link": "https://www.nytimes.com/2026/08/07/arts/music/travis-barker-hulu-documentary-popcast-interview.html",
-    "content": "\u201cTravis Barker: Louder Than Fear,\u201d a decade-in-the-making biography, premieres on Hulu on Aug. 13.",
-    "date": "2026-08-07T09:01:07",
     "category": "NYT"
   }
 ]
