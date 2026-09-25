@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/25/arts/television/desi-lydic-roasts-trump-xi.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Desi Lydic Roasts Trump for Pulling Out All the Stops for Xi",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/09/25/arts/television/desi-lydic-roasts-trump-xi.html",
+    "content": "\u201cTrump picked him up at the airport? OK, that is friendship,\u201d Lydic said on Thursday\u2019s \u201cDaily Show.\u201d",
+    "date": "2026-09-25T06:39:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/25/arts/music/cleveland-orchestra-strike.html",
     "feed_name": "NYT (Arts)",
     "title": "Cleveland Orchestra Players Walk Out, Forcing Cancellation of Performances",
@@ -19988,15 +19998,5 @@
     "content": "U.S. Rep. Joaquin Castro, D-San Antonio, speaks to the media in San Antonio, Texas after visiting the U.S. Immigration and Customs Enforcement detention center in Dilley, on Tuesday, July 28, 2026.",
     "date": "2026-08-07T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/07/movies/new-movies-this-week-critics.html",
-    "feed_name": "NYT (Arts)",
-    "title": "8 New Movies Our Critics Are Talking About This Week",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/08/07/movies/new-movies-this-week-critics.html",
-    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
-    "date": "2026-08-07T09:03:20",
-    "category": "NYT"
   }
 ]
