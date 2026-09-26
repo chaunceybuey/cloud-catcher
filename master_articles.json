@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ab57aed82a6ee4de5e59537",
+    "feed_name": "Wired (Science)",
+    "title": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
+    "content": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth's rotation.",
+    "date": "2026-09-26T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/26/arts/design/milwaukee-museum-returns-pots-by-enslaved-artist-david-drake-to-family.html",
     "feed_name": "NYT (Arts)",
     "title": "Milwaukee Museum Returns Pots by Enslaved Artist David Drake to Family",
@@ -19988,15 +19998,5 @@
     "content": "Where does the side of the angels really lie?",
     "date": "2026-08-08T11:00:04",
     "category": "NYT"
-  },
-  {
-    "id": "c7ab657a0f6382a721df961702b5b5a6",
-    "feed_name": "The Atlantic",
-    "title": "Why MAGA Really Hates Fauci",
-    "author": "Peter Wehner",
-    "link": "https://www.theatlantic.com/ideas/2026/08/fauci-paul-covid-wuhan/688233/",
-    "content": "In the aftermath of pandemics, people either try to forget them or find others to blame for them.",
-    "date": "2026-08-08T11:00:00",
-    "category": "Magazines"
   }
 ]
