@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/26/dining/how-do-i-make-a-really-good-meatless-blt.html",
+    "feed_name": "NYT (Food)",
+    "title": "How Do I Make a Really Good Meatless BLT?",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/26/dining/how-do-i-make-a-really-good-meatless-blt.html",
+    "content": "Yewande Komolafe\u2019s crispy mushroom sandwiches.",
+    "date": "2026-09-26T15:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/26/dining/fall-baking-begins-now.html",
     "feed_name": "NYT (Food)",
     "title": "Fall Baking Begins Now",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
     "content": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
     "date": "2026-08-08T13:15:21",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a7651c9ff4b3e6c00b63e7a",
-    "feed_name": "Wired (Science)",
-    "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX\u2019s Rocket",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
-    "content": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It\u2019s pretty small.",
-    "date": "2026-08-08T12:00:00",
     "category": "Magazines"
   }
 ]
