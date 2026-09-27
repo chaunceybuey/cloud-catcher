@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/27/dining/yotam-ottolenghis-spiced-pea-stew-with-yogurt.html",
+    "feed_name": "NYT (Food)",
+    "title": "Yotam Ottolenghi\u2019s Spiced Pea Stew With Yogurt",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/27/dining/yotam-ottolenghis-spiced-pea-stew-with-yogurt.html",
+    "content": "Yotam Ottolenghi\u2019s spiced pea stew with yogurt.",
+    "date": "2026-09-27T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/27/arts/television/snl-season-premiere-buckets-of-rain-with-jalen-brunson-reigning.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018S.N.L.\u2019 Season Premiere: Buckets of Rain, With Jalen Brunson Reigning",
@@ -19988,15 +19998,5 @@
     "content": "The myth and science of the country\u2019s favorite floofy, fluffy cuddle-badgers",
     "date": "2026-08-09T12:11:17",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/09/arts/music/tupac-shakur-murder-trial-duane-davis.html",
-    "feed_name": "NYT (Arts)",
-    "title": "What to Know About the Tupac Murder, Trial and Suspect",
-    "author": "Jonathan Abrams",
-    "link": "https://www.nytimes.com/2026/08/09/arts/music/tupac-shakur-murder-trial-duane-davis.html",
-    "content": "Tupac Shakur performing in 1994, two years before he was killed at the age of 25.",
-    "date": "2026-08-09T09:01:38",
-    "category": "NYT"
   }
 ]
