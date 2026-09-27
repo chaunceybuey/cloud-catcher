@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/27/movies/kyle-maclachlan-memoir-david-lynch-twin-peaks-sex-and-the-city.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kyle MacLachlan: David Lynch\u2019s Singular Weirdo Is Secretly a Normie",
+    "author": "Melena Ryzik and Sinna Nasseri",
+    "link": "https://www.nytimes.com/2026/09/27/movies/kyle-maclachlan-memoir-david-lynch-twin-peaks-sex-and-the-city.html",
+    "content": "The actor still hasn\u2019t come to grips with the loss of David Lynch. He talks about that, his hesitation about taking a role in \u201cSex and the City\u201d and his new memoir.",
+    "date": "2026-09-27T09:00:58",
+    "category": "NYT"
+  },
+  {
+    "id": "6aa07f15595a9758dc597fc9",
+    "feed_name": "Wired (Science)",
+    "title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/",
+    "content": "By deactivating a gene, researchers were able to cause cells in the pancreatic ducts to produce insulin to regulate blood sugar.",
+    "date": "2026-09-27T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22920-texas-early-music-project-eurotour-a-medieval-odyssey-c-1100-1450",
     "feed_name": "KMFA",
     "title": "Texas Early Music Project: Eurotour: A Medieval Odyssey, C. 1100 - 1450",
@@ -19978,25 +19998,5 @@
     "content": "CASA DE LA CULTURA PRESENTS:\n\nBOOKS Y BAILE\n\nAN EVENING OF LITERACY AND DANCE\n\nAugust 8 | 4:00 P.M. - 9:00 P.M. | Emma S. Barrientos Mexican American Cultural Center\n\n\n\nBUY TICKETS!\n\nEvent Details\nDate: Saturday, August 8\nTime: 4:00 PM - 9:00 PM\nVenue: Emma S. Barrientos Mexican American Cultural Center\n\nTicket Information\nCost: FREE\nPhone: \n\nPresenter Details: Casa de la Cultura offers accessible and inclusive family-friendly classes and workshops rooted in preserving Mexican American, Indigenous, and Latino cultura and traditions.\n\nEach Pillar within Casa de la Cultura program aims to promote a lifelong curiosity for creating art and the expression of identity.",
     "date": "2026-08-08T16:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/08/dining/california-knows-how-to-salad.html",
-    "feed_name": "NYT (Food)",
-    "title": "California Knows How to Salad",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/08/08/dining/california-knows-how-to-salad.html",
-    "content": "Keith Corbin\u2019s pluot-tomato salad with suya pistachio crunch, adapted by Genevieve Ko.",
-    "date": "2026-08-08T15:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/08/dining/our-most-popular-desserts-this-summer.html",
-    "feed_name": "NYT (Food)",
-    "title": "Our Most Popular Desserts This Summer",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/08/08/dining/our-most-popular-desserts-this-summer.html",
-    "content": "Chez Panisse\u2019s blueberry cobbler from Lindsey Remolif Shere, adapted by Molly O\u2019Neill.",
-    "date": "2026-08-08T14:00:05",
-    "category": "NYT"
   }
 ]
