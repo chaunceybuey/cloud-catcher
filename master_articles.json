@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/27/arts/music/the-mighty-sparrow-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Mighty Sparrow, Trinidadian Titan of Calypso, Is Dead at 91",
+    "author": "Margalit Fox",
+    "link": "https://www.nytimes.com/2026/09/27/arts/music/the-mighty-sparrow-dead.html",
+    "content": "The Mighty Sparrow in 2013. Known as the king of calypso, he was renowned for his sonorous voice, unremitting energy and the sly double-entendre that are among the hallmarks of calypso lyrics.",
+    "date": "2026-09-27T21:59:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/27/theater/damn-yankees-broadway-neil-patrick-harris.html",
     "feed_name": "NYT (Arts)",
     "title": "Neil Patrick Harris to Star in \u2018Damn Yankees\u2019 Revival on Broadway",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/09/dining/its-not-summer-without-ratatouille.html",
     "content": "Melissa Clark\u2019s ratatouille.",
     "date": "2026-08-09T15:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/09/dining/laughing-in-delight-while-you-eat-delicious.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Laughing-in-Delight-While-You-Eat Delicious",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/08/09/dining/laughing-in-delight-while-you-eat-delicious.html",
-    "content": "That\u2019s these \u2014 what else? \u2014 perfectly engineered BLTs, plus more fast tomato dinners.",
-    "date": "2026-08-09T13:00:04",
     "category": "NYT"
   }
 ]
