@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/27/arts/television/snl-season-52-premiere-jalen-brunson-mamdani.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018S.N.L.\u2019 Season Premiere: Buckets of Rain, With Jalen Brunson Reigning",
+    "author": "Dave Itzkoff",
+    "link": "https://www.nytimes.com/2026/09/27/arts/television/snl-season-52-premiere-jalen-brunson-mamdani.html",
+    "content": "Brunson, captain of the N.B.A. champion New York Knicks, hosted a \u201cSaturday Night Live\u201d show that satirized President Trump\u2019s recent visit to Mayor Zohran Mamdani.",
+    "date": "2026-09-27T13:06:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/27/arts/television/snl-season-premiere-buckets-of-rain-with-jalen-brunson-reigning.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018S.N.L.\u2019 Season Premiere: Buckets of Rain, With Jalen Brunson Reigning",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/08/france-soccer-far-right-racism/688235/",
     "content": "The country\u2019s most beloved men are paragons of diversity, but ethnic resentment is still winning.",
     "date": "2026-08-09T13:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "a02324bcc5a7931dc106c48b23b6c81a",
-    "feed_name": "The Atlantic",
-    "title": "Are Raccoons Evolving Into Pets?",
-    "author": "Annie Lowrey",
-    "link": "https://www.theatlantic.com/ideas/2026/08/are-raccoons-evolving-pets/688231/",
-    "content": "The myth and science of the country\u2019s favorite floofy, fluffy cuddle-badgers",
-    "date": "2026-08-09T12:11:17",
     "category": "Magazines"
   }
 ]
