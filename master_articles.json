@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ab1bf8dc967476bab903a43",
+    "feed_name": "Wired (Science)",
+    "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
+    "content": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
+    "date": "2026-09-28T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=20131",
     "feed_name": "Stratechery",
     "title": "Apps, Agents, and Aggregation",
@@ -19987,16 +19997,6 @@
     "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/08/04",
     "content": "A moderately challenging puzzle.",
     "date": "2026-08-10T10:17:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a6b31d32c9a676081b4b1a5",
-    "feed_name": "Wired",
-    "title": "Why Each Octopus Arm Has a Mind of Its Own",
-    "author": "Cara Giaimo",
-    "link": "https://www.wired.com/story/octopus-arms-distributed-intelligence-nine-brains/",
-    "content": "Two-thirds of an octopus\u2019s neurons are in its arms\u2014each operating independently\u2014including the one it uses to have sex.",
-    "date": "2026-08-10T10:00:00",
     "category": "Magazines"
   }
 ]
