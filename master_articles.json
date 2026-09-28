@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/27/arts/music/best-and-worst-moments-mtv-video-music-awards.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Best and Worst Moments of the 2026 MTV Video Music Awards",
+    "author": "Jon Pareles, Lindsay Zoladz, Leila Sheridan and Elena Bergeron",
+    "link": "https://www.nytimes.com/2026/09/27/arts/music/best-and-worst-moments-mtv-video-music-awards.html",
+    "content": "Madonna performed \u201cDanceteria Afterhours\u201d alongside Charli XCX on Sunday night.",
+    "date": "2026-09-28T04:00:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/27/arts/television/lanterns-recap-season-1-episode-7.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Lanterns\u2019 Season 1, Episode 7 Recap: Unboxing",
@@ -19988,15 +19998,5 @@
     "content": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts\u2019 ocular health.",
     "date": "2026-08-10T06:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/10/arts/television/my-brilliant-career-and-5-more-shows-to-watch-on-tv-this-week.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018My Brilliant Career\u2019 and 5 More Shows to Watch on TV This Week",
-    "author": "Shivani Gonzalez",
-    "link": "https://www.nytimes.com/2026/08/10/arts/television/my-brilliant-career-and-5-more-shows-to-watch-on-tv-this-week.html",
-    "content": "Philippa Northeast and Jake Dunn in \u201cMy Brilliant Career.\u201d",
-    "date": "2026-08-10T05:00:04",
-    "category": "NYT"
   }
 ]
