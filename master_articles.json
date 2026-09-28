@@ -300,6 +300,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/27/arts/music/vmas-best-worst-moments.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Best and Worst Moments of the 2026 MTV Video Music Awards",
+    "author": "Jon Pareles, Lindsay Zoladz, Leila Sheridan and Elena Bergeron",
+    "link": "https://www.nytimes.com/2026/09/27/arts/music/vmas-best-worst-moments.html",
+    "content": "Madonna performed \u201cDanceteria Afterhours\u201d alongside Charli XCX on Sunday night.",
+    "date": "2026-09-28T04:00:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/27/arts/music/best-and-worst-moments-mtv-video-music-awards.html",
     "feed_name": "NYT (Arts)",
     "title": "Best and Worst Moments of the 2026 MTV Video Music Awards",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/gallery/cartoons-from-the-august-17-2026-issue",
     "content": "Drawings from the August 17, 2026, magazine.",
-    "date": "2026-08-10T10:17:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "13753a3286db6cedc5af1258f549b323",
-    "feed_name": "New Yorker",
-    "title": "The Crossword: Tuesday, August 4, 2026",
-    "author": "ByErik Agard",
-    "link": "https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/08/04",
-    "content": "A moderately challenging puzzle.",
     "date": "2026-08-10T10:17:16",
     "category": "Magazines"
   }
