@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/28/arts/music/national-symphony-carlos-simon-bethesda.html",
+    "feed_name": "NYT (Arts)",
+    "title": "With Kennedy Center Closed, National Symphony Starts Life on the Road",
+    "author": "Oussama Zahr",
+    "link": "https://www.nytimes.com/2026/09/28/arts/music/national-symphony-carlos-simon-bethesda.html",
+    "content": "The orchestra, which was to have celebrated its 40th anniversary at the Kennedy Center, started its nomadic season in Bethesda, Md.",
+    "date": "2026-09-28T17:05:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/trumps-plan-to-restrict-mail-voting",
     "feed_name": "ProPublica",
     "title": "The Untold Origins of Trump\u2019s Plan to Sharply Restrict Mail-In Voting",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/10/dining/sean-macpherson-montauk-lighthouse-cafe.html",
     "content": "After 25 years, the hotelier Sean MacPherson finally got to open his Lighthouse Caf\u00e9 amid Montauk\u2019s 80 mile per hour winds and a boatload of logistics.",
     "date": "2026-08-10T19:24:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/10/arts/television/ben-jones-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ben Jones, \u2018Dukes of Hazzard\u2019 Actor and Congressman, Dies at 84",
-    "author": "Glenn Rifkin",
-    "link": "https://www.nytimes.com/2026/08/10/arts/television/ben-jones-dead.html",
-    "content": "Ben Jones in 1999. He overcame two decades of alcoholism, multiple divorces, numerous arrests and time spent in jail before being cast as Cooter Davenport on \u201cThe Dukes of Hazzard.\u201d",
-    "date": "2026-08-10T19:10:00",
     "category": "NYT"
   }
 ]
