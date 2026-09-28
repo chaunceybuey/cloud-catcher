@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/28/arts/design/moma-ann-tempkin-curator-duchamp-jasper-johns-retire.html",
+    "feed_name": "NYT (Arts)",
+    "title": "After a Career Reshaping the Museum of Modern Art, Its Influential Curator Steps Down",
+    "author": "Jason Farago",
+    "link": "https://www.nytimes.com/2026/09/28/arts/design/moma-ann-tempkin-curator-duchamp-jasper-johns-retire.html",
+    "content": "Ann Temkin, head of MoMA\u2019s  painting and sculpture department, will transition to a new role for the museum\u2019s 100th anniversary.",
+    "date": "2026-09-28T14:00:08",
+    "category": "NYT"
+  },
+  {
     "id": "6ab1bf8dc967476bab903a43",
     "feed_name": "Wired (Science)",
     "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
@@ -19986,16 +19996,6 @@
     "author": "ByGarous Abdolmalekian",
     "link": "https://www.newyorker.com/magazine/2026/08/17/horses-garous-abdolmalekian-poem",
     "content": "\u201cWhatever part of Tehran / I place a hand on, it is aching.\u201d",
-    "date": "2026-08-10T10:17:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "40cdaf9647fbd56760df3e4f8352ab68",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-august-17-2026-issue",
-    "content": "Drawings from the August 17, 2026, magazine.",
     "date": "2026-08-10T10:17:16",
     "category": "Magazines"
   }
