@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/28/arts/design/kehinde-wiley-painting-trump-embassy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Kehinde Wiley Wants to Buy His Embassy Painting Back From Trump",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/09/28/arts/design/kehinde-wiley-painting-trump-embassy.html",
+    "content": "The artist Kehinde Wiley.",
+    "date": "2026-09-28T22:27:52",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/28/arts/music/phoebe-bridgers-phone-ban-lost-weekend-tour.html",
     "feed_name": "NYT (Arts)",
     "title": "What We Gain, and Lose, at a Phone-Free Concert",
@@ -19988,15 +19998,5 @@
     "content": "In the last week of July a guest in our house, an hour\u2019s drive from Bordeaux, was called away to a fire emergency in the Gironde, where.\u00a0.\u00a0.",
     "date": "2026-08-10T19:57:09",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
-    "feed_name": "NYT (Arts)",
-    "title": "National Gallery Accused of \u2018Soft Censorship\u2019 to Avoid Provoking Trump",
-    "author": "Zachary Small",
-    "link": "https://www.nytimes.com/2026/08/10/arts/design/national-gallery-art-doge-trump-censorship.html",
-    "content": "A former executive with the Washington museum says it moved a symposium about race in art to avoid political blowback.",
-    "date": "2026-08-10T19:36:30",
-    "category": "NYT"
   }
 ]
