@@ -170,6 +170,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/29/dining/restaurant-review-pizza-studio-tamaki-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Pizza Studio Tamaki in New York",
+    "author": "Ryan Sutton",
+    "link": "https://www.nytimes.com/2026/09/29/dining/restaurant-review-pizza-studio-tamaki-nyc.html",
+    "content": "The highly anticipated Pizza Studio Tamaki offers pricey pies with mixed results.",
+    "date": "2026-09-29T20:29:45",
+    "category": "NYT"
+  },
+  {
+    "id": "81a04d44c142e2260a2f14b52bff3c29",
+    "feed_name": "LRB",
+    "title": "Ozempic in Iran",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/september/ozempic-in-iran",
+    "content": "In Iran, as elsewhere, GLP-1 agonists such as semaglutide and tirzepatide offer a chance to address obesity, improve organ functioning and treat.\u00a0.\u00a0.",
+    "date": "2026-09-29T20:29:40",
+    "category": "Magazines"
+  },
+  {
+    "id": "97469351333313cff8c96e8e604625fa",
+    "feed_name": "LRB",
+    "title": "LRB Screen presents \u2018The Flowers of St Francis\u2019 at Great St Barts",
+    "author": "",
+    "link": "https://www.tickettailor.com/events/londonreviewofbooks/2422592",
+    "content": "",
+    "date": "2026-09-29T20:29:40",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/29/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "Bar CC, the Sister Space to Crane Club, Takes a Plus Approach",
@@ -19968,35 +19998,5 @@
     "content": "ATG Entertainment operates seven Broadway theaters, including the Lyric Theater, which has housed \u201cHarry Potter and the Cursed Child\u201d for eight years.",
     "date": "2026-08-11T13:00:07",
     "category": "NYT"
-  },
-  {
-    "id": "9397f820551d7b223d77289e4b80bcc4",
-    "feed_name": "LRB",
-    "title": "Send him off",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/send-him-off",
-    "content": "It has been a bad few weeks for Fifa and its president, Gianni Infantino, and therefore a good few weeks for football. \u2018Having been re-elected.\u00a0.\u00a0.",
-    "date": "2026-08-11T11:44:07",
-    "category": "Magazines"
-  },
-  {
-    "id": "697fcf7b5af92dc46c53293cafea3ed5",
-    "feed_name": "Compact",
-    "title": "The Secret Kingdom of Stefan George",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-secret-kingdom-of-stefan-george/",
-    "content": "",
-    "date": "2026-08-11T11:44:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "cca85d8cc49d0af5bd983de853b0f3a2",
-    "feed_name": "The Atlantic",
-    "title": "A Popular Explanation for Low Birth Rates Has a Big Problem",
-    "author": "Marc Novicoff",
-    "link": "https://www.theatlantic.com/ideas/2026/08/fertility-men-housework-goldin/688238/",
-    "content": "Whether dads do their fair share of the housework appears to have no effect on fertility.",
-    "date": "2026-08-11T11:00:00",
-    "category": "Magazines"
   }
 ]
