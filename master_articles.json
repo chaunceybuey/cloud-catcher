@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/29/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Bar CC, the Sister Space to Crane Club, Takes a Plus Approach",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/09/29/dining/nyc-restaurant-news.html",
+    "content": "Baekjeong Black offers cocktails and Korean fare, Kythira NP reinterprets Greek classics and more restaurant news.",
+    "date": "2026-09-29T18:33:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/29/arts/television/mr-belding-dennis-haskins-saved-by-the-bell.html",
     "feed_name": "NYT (Arts)",
     "title": "As Mr. Belding on \u201cSaved by the Bell,\u201d Dennis Haskins Made Principals Your Pal",
@@ -19986,16 +19996,6 @@
     "author": "Marc Novicoff",
     "link": "https://www.theatlantic.com/ideas/2026/08/fertility-men-housework-goldin/688238/",
     "content": "Whether dads do their fair share of the housework appears to have no effect on fertility.",
-    "date": "2026-08-11T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "63b40e74cbe77e75ae6676f06cf8a082",
-    "feed_name": "The Atlantic",
-    "title": "Kevin Dowdell\u2019s Last Fire",
-    "author": "Sally Jenkins",
-    "link": "https://www.theatlantic.com/magazine/2026/09/fallen-september-11-firefighter-family/687964/",
-    "content": "When a veteran firefighter vanished on 9/11, his teenage sons went looking for him.",
     "date": "2026-08-11T11:00:00",
     "category": "Magazines"
   }
