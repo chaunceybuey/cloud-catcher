@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/29/arts/design/krasner-pollock-review-metropolitan-museum-art.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Knockout Show Resets the Record With \u2018Krasner and Pollock\u2019",
+    "author": "Holland Cotter",
+    "link": "https://www.nytimes.com/2026/09/29/arts/design/krasner-pollock-review-metropolitan-museum-art.html",
+    "content": "Lee Krasner, \u201cThe Seasons,\u201d 1957. Oil and house paint on canvas",
+    "date": "2026-09-29T13:00:20",
+    "category": "NYT"
+  },
+  {
     "id": "6ab58f0f3ed5f7e510d97cc6",
     "feed_name": "Wired",
     "title": "Timnit Gebru Believes There Is No \u2018Existential Threat\u2019 From AI",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/11/dining/restaurant-review-bistrot-ha-nyc.html",
     "content": "The chef-owners, Sadie Mae Burns, left, and Anthony Ha, used to cook from a retrofitted Mexican paleta cart as a side gig to their official restaurant jobs.",
     "date": "2026-08-11T09:01:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/11/arts/saturday-night-live-edinburgh-fringe.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Saturday Night Live\u2019 U.K. Stars Get a Hero\u2019s Welcome at the Edinburgh Fringe",
-    "author": "Jillian Rayfield",
-    "link": "https://www.nytimes.com/2026/08/11/arts/saturday-night-live-edinburgh-fringe.html",
-    "content": "Ania Magliano, a breakout star of Britain\u2019s \u201cSaturday Night Live,\u201d at the Edinburgh Festival Fringe on Sunday.",
-    "date": "2026-08-11T09:00:51",
     "category": "NYT"
   }
 ]
