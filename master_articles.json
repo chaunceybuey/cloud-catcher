@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dennis Haskins, Principal Belding on \u2018Saved by the Bell,\u2019 Dies at 75",
+    "author": "Francesca Regalado",
+    "link": "https://www.nytimes.com/2026/09/29/arts/television/dennis-haskins-dead.html",
+    "content": "Dennis Haskins, second from left, with the cast of \u201cSaved by the Bell.\u201d",
+    "date": "2026-09-29T07:30:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/29/arts/television/late-night-xi-jinping-white-house-visit.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Doesn\u2019t Buy That Xi Was Impressed by Trump\u2019s Helipad",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17411786/texas-hemp-thc-ban-federal-court-emergency",
     "content": "Individual packages of THC A flower are seen in a display case at a smoke shop in Austin on May 13, 2026.",
     "date": "2026-08-10T21:45:46",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239438",
-    "feed_name": "Texas Tribune",
-    "title": "New secretary of state will continue to defend Texas\u2019 open primaries against GOP lawsuit",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17411787/texas-closed-primaries-secretary-of-state-robert-howden-gop-lawsuit",
-    "content": "Voters make their way to stand in line at the Brook Hollow Branch Library polling location on primary election day in San Antonio on March 3, 2026.",
-    "date": "2026-08-10T20:49:41",
     "category": "Texas"
   }
 ]
