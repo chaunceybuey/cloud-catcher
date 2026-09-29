@@ -170,6 +170,36 @@
     "category": "Texas"
   },
   {
+    "id": "2cf9a1f9-8d52-478a-8aef-d261a1e4314b",
+    "feed_name": "Economist",
+    "title": "The AI boom meets a new kind of crypto scam",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
+    "content": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models",
+    "date": "2026-09-29T16:05:58",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/29/arts/design/macarthur-foundation-announces-2026-genius-grant-winners.html",
+    "feed_name": "NYT (Arts)",
+    "title": "MacArthur Foundation Announces 2026 \u2018Genius Grant\u2019 Winners",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/09/29/arts/design/macarthur-foundation-announces-2026-genius-grant-winners.html",
+    "content": "The 20 fellowship recipients across the arts, humanities and sciences will each receive an $800,000, no-strings-attached stipend for their work.",
+    "date": "2026-09-29T16:01:05",
+    "category": "NYT"
+  },
+  {
+    "id": "6fc772ab-6c3f-4a41-a3b7-bc4757fa6274",
+    "feed_name": "Economist",
+    "title": "How the AI boom could worsen the rich world\u2019s fiscal crunch",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/09/29/how-the-ai-boom-could-worsen-the-rich-worlds-fiscal-crunch",
+    "content": "Even with higher growth, taxes may be harder to find",
+    "date": "2026-09-29T15:55:44",
+    "category": "Magazines"
+  },
+  {
     "id": "ebc943512b2ae9c183e0210ceb49bbd1",
     "feed_name": "Compact",
     "title": "What Democratic Socialists Want",
@@ -19968,35 +19998,5 @@
     "content": "Tracy McClain holds a photograph of her son, John Robert Holmes III, after his graduation from Morehouse College in Atlanta, at her home in Converse on March 12, 2026.",
     "date": "2026-08-11T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239413",
-    "feed_name": "Texas Tribune",
-    "title": "Here\u2019s how to find information about data centers in Texas",
-    "author": "By Mar\u00eda M\u00e9ndez, Taylor Goldenstein, Emily Foxhall and Alejandra Martinez, graphic by Chris Essig",
-    "link": "https://feeds.texastribune.org/link/16799/17414653/texas-data-centers-how-to-find-information",
-    "content": "El Paso constituents gather to protest a local tax agreement with Meta\u2019s controversial new data center development at a contentious El Paso City Council Meeting on June 9, 2026.",
-    "date": "2026-08-11T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "39de60f2f9051d3c876b92054b6c1c41",
-    "feed_name": "The Atlantic",
-    "title": "The Democrats Can\u2019t Just Laugh Off \u2018Woke 1\u2019",
-    "author": "Idrees Kahloon",
-    "link": "https://www.theatlantic.com/ideas/2026/08/aoc-democrats-wokeness-republicans/688241/",
-    "content": "Republicans have no incentive to let them forget past excesses.",
-    "date": "2026-08-11T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/11/theater/john-cariani-darker-the-night-brighter-the-stars.html",
-    "feed_name": "NYT (Arts)",
-    "title": "This Playwright Says He\u2019s Done With Maine. Let\u2019s Hope Not.",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/08/11/theater/john-cariani-darker-the-night-brighter-the-stars.html",
-    "content": "John Cariani at Opera House Arts in Stonington, Maine, where a production of his \u201cDarker the Night, Brighter the Stars\u201d is staged. \u201cI loved where I grew up,\u201d he said.",
-    "date": "2026-08-11T09:02:26",
-    "category": "NYT"
   }
 ]
