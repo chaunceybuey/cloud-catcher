@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "ebc943512b2ae9c183e0210ceb49bbd1",
+    "feed_name": "Compact",
+    "title": "What Democratic Socialists Want",
+    "author": "",
+    "link": "https://www.compactmag.com/article/what-democratic-socialists-want/",
+    "content": "",
+    "date": "2026-09-29T15:27:04",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/29/dining/smart-versatile-noodles-for-cozy-season.html",
     "feed_name": "NYT (Food)",
     "title": "Smart, Versatile Noodles for Cozy Season",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/11/theater/john-cariani-darker-the-night-brighter-the-stars.html",
     "content": "John Cariani at Opera House Arts in Stonington, Maine, where a production of his \u201cDarker the Night, Brighter the Stars\u201d is staged. \u201cI loved where I grew up,\u201d he said.",
     "date": "2026-08-11T09:02:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/no-cook-high-protein-dinners-summer",
-    "feed_name": "NYT (Food)",
-    "title": "15 No-Cook, High-Protein Dinners for Summer",
-    "author": "Samantha Cassetty",
-    "link": "https://cooking.nytimes.com/article/no-cook-high-protein-dinners-summer",
-    "content": "They\u2019ll keep you cool, and they\u2019ll keep you going.",
-    "date": "2026-08-11T09:02:00",
     "category": "NYT"
   }
 ]
