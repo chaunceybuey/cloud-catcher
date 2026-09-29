@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ab58f0f3ed5f7e510d97cc6",
+    "feed_name": "Wired",
+    "title": "Timnit Gebru Believes There Is No \u2018Existential Threat\u2019 From AI",
+    "author": "Lauren Goode",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+    "content": "One of AI\u2019s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+    "date": "2026-09-29T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=20152",
     "feed_name": "Stratechery",
     "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/11/arts/music/mahler-manuscript-cleveland.html",
     "content": "Welser-M\u00f6st said that when Mahler writes \u201cpianississimo\u201d (styled as \u201cppp\u201d) in the score, he is asking more for the idea of extreme quiet than demanding a realistic volume level.",
     "date": "2026-08-11T09:00:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/11/arts/design/bayeux-tapestry-british-museum.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How the Bayeux Tapestry Got to the British Museum",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/08/11/arts/design/bayeux-tapestry-british-museum.html",
-    "content": "French art experts insisted the fragile 900-year-old masterpiece could never travel. Political will, cutting-edge engineering and unorthodox diplomacy proved them wrong.",
-    "date": "2026-08-11T09:00:27",
     "category": "NYT"
   }
 ]
