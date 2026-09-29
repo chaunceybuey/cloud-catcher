@@ -290,6 +290,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/kebab-meat-veggie-grilling-tips",
+    "feed_name": "NYT (Food)",
+    "title": "Stop Skewering Meat and Veggies Together",
+    "author": "Naz Deravian",
+    "link": "https://cooking.nytimes.com/article/kebab-meat-veggie-grilling-tips",
+    "content": "Naz Deravian\u2019s shish tawook.",
+    "date": "2026-09-28T21:20:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/28/arts/music/phoebe-bridgers-phone-ban-lost-weekend-tour.html",
     "feed_name": "NYT (Arts)",
     "title": "What We Gain, and Lose, at a Phone-Free Concert",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/11/arts/saturday-night-live-edinburgh-fringe.html",
     "content": "Ania Magliano, a breakout star of Britain\u2019s \u201cSaturday Night Live,\u201d at the Edinburgh Festival Fringe on Sunday.",
     "date": "2026-08-11T09:00:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/11/arts/music/mahler-manuscript-cleveland.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Musical Manuscripts Are Intimate and Transporting. See Why.",
-    "author": "Joshua Barone and Dustin Franz",
-    "link": "https://www.nytimes.com/2026/08/11/arts/music/mahler-manuscript-cleveland.html",
-    "content": "Welser-M\u00f6st said that when Mahler writes \u201cpianississimo\u201d (styled as \u201cppp\u201d) in the score, he is asking more for the idea of extreme quiet than demanding a realistic volume level.",
-    "date": "2026-08-11T09:00:37",
     "category": "NYT"
   }
 ]
