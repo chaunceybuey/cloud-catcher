@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/29/dining/smart-versatile-noodles-for-cozy-season.html",
+    "feed_name": "NYT (Food)",
+    "title": "Smart, Versatile Noodles for Cozy Season",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/09/29/dining/smart-versatile-noodles-for-cozy-season.html",
+    "content": "Hetty Lui McKinnon\u2019s red curry noodles.",
+    "date": "2026-09-29T15:00:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/29/books/hachette-book-group-ben-sevier.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hachette Book Group Names New C.E.O.",
+    "author": "Ash Wu",
+    "link": "https://www.nytimes.com/2026/09/29/books/hachette-book-group-ben-sevier.html",
+    "content": "Ben Sevier, who has led the publishing house\u2019s Grand Central division since 2017, will succeed chief executive David Shelley in January.",
+    "date": "2026-09-29T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/29/arts/design/krasner-pollock-review-metropolitan-museum-art.html",
     "feed_name": "NYT (Arts)",
     "title": "A Knockout Show Resets the Record With \u2018Krasner and Pollock\u2019",
@@ -19977,26 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/no-cook-high-protein-dinners-summer",
     "content": "They\u2019ll keep you cool, and they\u2019ll keep you going.",
     "date": "2026-08-11T09:02:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/arts/100000011063782/instagram-vhs-dates-fake-dating-1980s.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Unexpected Secret of One of Instagram\u2019s Most Nostalgic Accounts",
-    "author": "Sopan Deb, L\u00e9o Hamelin, Paul Abowd, Pierre Kattar and James Surdam",
-    "link": "https://www.nytimes.com/video/arts/100000011063782/instagram-vhs-dates-fake-dating-1980s.html",
-    "content": "The Instagram account VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account\u2019s creators came clean to our reporter, Sopan Deb.",
-    "date": "2026-08-11T09:01:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/11/dining/restaurant-review-bistrot-ha-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Bistrot Ha in New York",
-    "author": "Ligaya Mishan",
-    "link": "https://www.nytimes.com/2026/08/11/dining/restaurant-review-bistrot-ha-nyc.html",
-    "content": "The chef-owners, Sadie Mae Burns, left, and Anthony Ha, used to cook from a retrofitted Mexican paleta cart as a side gig to their official restaurant jobs.",
-    "date": "2026-08-11T09:01:54",
     "category": "NYT"
   }
 ]
