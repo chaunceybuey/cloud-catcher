@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "6aa815e68fc669b965aa4350",
+    "feed_name": "Wired",
+    "title": "How Israeli Checkpoints Choke Palestinian Life in the Occupied West Bank",
+    "author": "Lama Rabah, Sabrina Slipchenko, Charles Boutaud, Firas Taweel, Elena DeBre",
+    "link": "https://www.wired.com/story/how-israeli-checkpoints-choke-palestinian-life-occupied-west-bank/",
+    "content": "Lost time. Lost jobs. Lost friends. Lost family. Lost lives. Our joint investigation reveals the system that has divided the West Bank and measures what it cost people to move through it.",
+    "date": "2026-09-30T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=20166",
+    "feed_name": "Stratechery",
+    "title": "OpenAI Dev Day, Dot and OpenAI\u2019s Product Transition, Sign In With ChatGPT",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+    "content": "<p>OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.</p>",
+    "date": "2026-09-30T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/video/arts/100000011167965/can-trump-demolish-the-kennedy-center.html",
     "feed_name": "NYT (Arts)",
     "title": "Can Trump Demolish the Kennedy Center?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/08/sex-gender-identity-definition-history/688252/",
     "content": "The history of a semantic mess\u2013\u2013and a way out of it",
     "date": "2026-08-11T19:41:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/11/dining/fashion-designer-rachel-antonoff.html",
-    "feed_name": "NYT (Food)",
-    "title": "These Are Rachel Antonoff\u2019s Favorite Restaurants",
-    "author": "Nikita Richardson",
-    "link": "https://www.nytimes.com/2026/08/11/dining/fashion-designer-rachel-antonoff.html",
-    "content": "The food-loving fashion designer tackles the Where to Eat restaurant questionnaire.",
-    "date": "2026-08-11T19:30:07",
-    "category": "NYT"
-  },
-  {
-    "id": "2d0d12e1-ebe0-41ce-bac7-fdd150bbf9b1",
-    "feed_name": "Economist",
-    "title": "Hooray for index funds\u2014just don\u2019t call them passive",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/11/hooray-for-index-funds-just-dont-call-them-passive",
-    "content": "Jack Bogle\u2019s creation has transformed markets, and involves plenty of choices",
-    "date": "2026-08-11T19:25:38",
     "category": "Magazines"
   }
 ]
