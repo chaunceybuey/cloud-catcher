@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/30/movies/naza-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018NAZA\u2019 Review: Intimate Interviews About War\u2019s Human Costs",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/09/30/movies/naza-review.html",
+    "content": "The haunting documentary, by Yuval Abraham and Rachel Szor, interviews anonymous Israeli intelligence officers and soldiers as they recount their military actions in Gaza.",
+    "date": "2026-09-30T18:13:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/09/30/briefing/30-the-good-list-keanu-stowaway.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Delight to Your Day",
@@ -19986,16 +19996,6 @@
     "author": "Eleanor Klibanoff",
     "link": "https://feeds.texastribune.org/link/16799/17415948/texas-trial-lawyers-gop-texans-for-lawsuit-reform-tort-civil-justice",
     "content": "Delegates and attendees at the 2026 Texas State Republican Convention visit the convention exhibition hall at the George R. Brown Convention Center in Houston on June 11, 2026.",
-    "date": "2026-08-12T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239614",
-    "feed_name": "Texas Tribune",
-    "title": "Migrant kids are being held in a South Texas detention center longer than a court order allows",
-    "author": "Uriel J. Garc\u00eda, Alex Nguyen, and Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17415949/texas-immigration-ice-detention-children-dilley",
-    "content": "The South Texas Family Residential Center in Dilley on Jan. 28, 2026.",
     "date": "2026-08-12T10:00:00",
     "category": "Texas"
   }
