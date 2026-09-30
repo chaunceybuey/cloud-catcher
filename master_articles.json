@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/30/arts/music/bruno-kramm-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bruno Kramm, German Goth Musician Who Moonlighted in Politics, Dies at 58",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/09/30/arts/music/bruno-kramm-dead.html",
+    "content": "Bruno Kramm in 2023. His band, Das Ich, was one of the founding groups in a movement known as the Neue Deutsche Todeskunst, or the New German Art of Death.",
+    "date": "2026-09-30T19:43:37",
+    "category": "NYT"
+  },
+  {
     "id": "6abaa4adb463f7c4bd0df099",
     "feed_name": "Wired (Science)",
     "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development\u2014Even Without AI",
@@ -19988,15 +19998,5 @@
     "content": "Elvira Dyangani Ose, a former museum director in Barcelona and curator for the Tate Modern, was named artistic director of the Zeitz Museum of Contemporary Art Africa in Cape Town, South Africa. She will start on Oct. 1.",
     "date": "2026-08-12T11:06:00",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239561",
-    "feed_name": "Texas Tribune",
-    "title": "The Texas Tribune is investing in coverage of education and Houston",
-    "author": "Matthew Watkins",
-    "link": "https://feeds.texastribune.org/link/16799/17415947/t-squared-houston-coverage",
-    "content": "Reporters Megan Menchaca and Stephen Simpson increase our reporting presence in Houston from three to five.",
-    "date": "2026-08-12T10:00:00",
-    "category": "Texas"
   }
 ]
