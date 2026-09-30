@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ab1a7c14cbdd47d804b0678",
+    "feed_name": "Wired (Science)",
+    "title": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
+    "author": "Kristen V. Brown",
+    "link": "https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
+    "content": "The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a \u201cmoral imperative\u201d to address hereditary diseases.",
+    "date": "2026-09-30T14:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "58fe317f94a688e8ff4bc2a1bca4ba0b",
     "feed_name": "LRB",
     "title": "The Russians are coming",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/12/arts/television/ted-lasso-season-4-episode-2-recap.html",
     "content": "Jason Sudeikis and Tanya Reynolds in \u201cTed Lasso.\u201d",
     "date": "2026-08-12T09:02:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/12/theater/international-puppet-festival-female-puppeteers.html",
-    "feed_name": "NYT (Arts)",
-    "title": "What if Judy Punched Back? A Puppet Fest for All, With a Female Focus.",
-    "author": "Laurel Graeber and Yuvraj Khanna",
-    "link": "https://www.nytimes.com/2026/08/12/theater/international-puppet-festival-female-puppeteers.html",
-    "content": "Theodora Skipitares with a creation featured at the International Puppet Fringe Festival. The giant head is one of several she created for the 2020 production of \u201cThe Transfiguration of Benjamin Banneker.\u201d",
-    "date": "2026-08-12T09:02:44",
     "category": "NYT"
   }
 ]
