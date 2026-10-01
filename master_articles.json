@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/01/dining/restaurant-reopenings.html",
+    "feed_name": "NYT (Food)",
+    "title": "Three Restaurants That Came Back From the Dead",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/10/01/dining/restaurant-reopenings.html",
+    "content": "The Broadway Danny Rose, formerly known as the Woody Allen, is back on the menu at the new Carnegie Deli.",
+    "date": "2026-10-01T20:12:21",
+    "category": "NYT"
+  },
+  {
     "id": "6aabe4d84b08c0385f0a0f20",
     "feed_name": "Wired",
     "title": "Experience What It\u2019s Like to Travel in the Occupied West Bank",
@@ -19988,15 +19998,5 @@
     "content": "Wild Up\u2019s latest volume of music by Julius Eastman, Mitsuko Uchida\u2019s Beethoven and works by Joe Hisaishi are among our selections.",
     "date": "2026-08-13T13:22:06",
     "category": "NYT"
-  },
-  {
-    "id": "8cb84a44a8b941060a4da294bdd8bda9",
-    "feed_name": "Compact",
-    "title": "The Truth About Corey Ruiz",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-truth-about-corey-ruiz/",
-    "content": "",
-    "date": "2026-08-13T11:48:59",
-    "category": "Magazines"
   }
 ]
