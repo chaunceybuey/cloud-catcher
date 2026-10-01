@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/01/arts/music/rick-ross-arrested-domestic-violence.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Rick Ross Is Arrested on Battery Charges After Ex-Girlfriend Reports Abuse",
+    "author": "Remy Tumin",
+    "link": "https://www.nytimes.com/2026/10/01/arts/music/rick-ross-arrested-domestic-violence.html",
+    "content": "Rick Ross performing in Los Angeles this year.",
+    "date": "2026-10-01T17:04:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/01/arts/dance/northern-ballet-tiler-peck-grandes-etudes-review.html",
     "feed_name": "NYT (Arts)",
     "title": "Review: Tiler Peck the Choreographer Channels Tiler Peck the Dancer",
@@ -19988,15 +19998,5 @@
     "content": "The tech mogul Bryan Johnson is trying to design the blueprint for defying death.",
     "date": "2026-08-13T09:05:38",
     "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/movies/dead-souls-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Dead Souls\u2019 Review: A Mean Satire About American Exploitation",
-    "author": "Beatrice Loayza",
-    "link": "https://www.nytimes.com/2026/08/13/movies/dead-souls-review.html",
-    "content": "The \u201cRepo Man\u201d director Alex Cox returns with an unabashedly weird western, where he plays a mysterious stranger in an Arizona border town, circa 1890.",
-    "date": "2026-08-13T09:03:19",
-    "category": "NYT"
   }
 ]
