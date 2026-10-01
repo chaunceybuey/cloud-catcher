@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/01/movies/verity-review-colleen-hoover-anne-hathaway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Verity\u2019 Review: Magnificent Confession",
+    "author": "Jeannette Catsoulis",
+    "link": "https://www.nytimes.com/2026/10/01/movies/verity-review-colleen-hoover-anne-hathaway.html",
+    "content": "Anne Hathaway and Dakota Johnson vie for Josh Hartnett and the moral high ground in this batty melodrama.",
+    "date": "2026-10-01T13:23:30",
+    "category": "NYT"
+  },
+  {
     "id": "6ab19024ade3d66cae78d67a",
     "feed_name": "Wired (Science)",
     "title": "Measles Is Forcing Hospitals to Adapt to a New Normal",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html",
     "content": "Designers at a new crop of creative studios create fake personas they hope real people will love. Are they distorting culture or mirroring it?",
     "date": "2026-08-13T09:00:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/arts/madden-27-nfl-concussions.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Madden Is Designed to Feel Real. So Where Are the Concussions?",
-    "author": "Matt Stevens and Ken Belson",
-    "link": "https://www.nytimes.com/2026/08/13/arts/madden-27-nfl-concussions.html",
-    "content": "After head injuries were removed from the popular N.F.L. games, a nonprofit group found a visceral way to incorporate them.",
-    "date": "2026-08-13T09:00:10",
     "category": "NYT"
   }
 ]
