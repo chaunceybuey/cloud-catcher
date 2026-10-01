@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/01/theater/its-a-wonderful-life-broadway-andrew-rannells.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018It\u2019s a Wonderful Life\u2019 Plans a Broadway Debut With Andrew Rannells",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/10/01/theater/its-a-wonderful-life-broadway-andrew-rannells.html",
+    "content": "The show, \u201ca live radio play,\u201d will run during this year\u2019s holiday season. The cast includes Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin and Lisa Rinna.",
+    "date": "2026-10-01T15:00:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/01/dining/its-not-too-late-to-make-your-best-kebabs-of-the-summer.html",
+    "feed_name": "NYT (Food)",
+    "title": "It\u2019s Not Too Late to Make Your Best Kebabs of the Summer",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/01/dining/its-not-too-late-to-make-your-best-kebabs-of-the-summer.html",
+    "content": "Naz Deravian\u2019s shish tawook (yogurt-marinated chicken kebabs).",
+    "date": "2026-10-01T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/01/style/gustavo-dudamel-new-york-philharmonic.html",
     "feed_name": "NYT (Arts)",
     "title": "Steven Spielberg, Alec Baldwin and Gov. Kathy Hochul Turn Out for Dudamel",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/13/travel/heated-rivalry-cottage-muskoka.html",
     "content": "One of the many attractions in the Muskoka region of Ontario: the free Tuesday-evening water-skiing show on Lake Muskoka in Bala.",
     "date": "2026-08-13T09:00:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/movies/the-end-of-oak-street-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The End of Oak Street\u2019 Review: Cul-de-Sac Dino Attack",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/08/13/movies/the-end-of-oak-street-review.html",
-    "content": "Dinosaurs wreak satisfying havoc in 1980s suburbia while the movie slyly undermines its formula.",
-    "date": "2026-08-13T09:00:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/dining/hot-soup-summer.html",
-    "feed_name": "NYT (Food)",
-    "title": "For Many, Eating Hot Soup in the Summer Is a Classic Way to Cool Down",
-    "author": "Rachel Gurjar",
-    "link": "https://www.nytimes.com/2026/08/13/dining/hot-soup-summer.html",
-    "content": "Every weekend this summer, Ms. Ton has had to make three batches of her b\u00fan b\u00f2 hu\u1ebf, a Vietnamese noodle soup, at Banh Anh Em, her restaurant, to keep up with demand.",
-    "date": "2026-08-13T09:00:29",
     "category": "NYT"
   }
 ]
