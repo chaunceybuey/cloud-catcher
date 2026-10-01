@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/01/arts/dance/northern-ballet-tiler-peck-grandes-etudes-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: Tiler Peck the Choreographer Channels Tiler Peck the Dancer",
+    "author": "Roslyn Sulcas",
+    "link": "https://www.nytimes.com/2026/10/01/arts/dance/northern-ballet-tiler-peck-grandes-etudes-review.html",
+    "content": "Peck\u2019s choreography in \u201cGrandes \u00c9tudes\u201d for the Northern Ballet shows off qualities she is known for as a ballerina: speed, virtuosity, musicality.",
+    "date": "2026-10-01T16:40:32",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+    "author": "Isabella Kwai",
+    "link": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+    "content": "Greta Garbo in 1925.",
+    "date": "2026-10-01T16:14:50",
+    "category": "NYT"
+  },
+  {
     "id": "8ddd1eeeca96ef0b3fcbb76bf76af729",
     "feed_name": "Compact",
     "title": "We Must Become Gods",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/13/movies/dead-souls-review.html",
     "content": "The \u201cRepo Man\u201d director Alex Cox returns with an unabashedly weird western, where he plays a mysterious stranger in an Arizona border town, circa 1890.",
     "date": "2026-08-13T09:03:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/arts/television/rory-scovel-comedy-show-must-go-on-review-netflix.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Rory Scovel\u2019s New Netflix Special Reviewed: Winging It Never Sounded So Funny",
-    "author": "Jason Zinoman",
-    "link": "https://www.nytimes.com/2026/08/13/arts/television/rory-scovel-comedy-show-must-go-on-review-netflix.html",
-    "content": "In \u201cShow Must Go On,\u201d the appearance of unpredictability combined with the possibility of catastrophe is riveting.",
-    "date": "2026-08-13T09:03:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/dining/mexican-food-scene-united-states-immigration.html",
-    "feed_name": "NYT (Food)",
-    "title": "The Golden Age of Mexican Food Is Here. And It\u2019s Complicated.",
-    "author": "Bill Esparza and Brett Anderson",
-    "link": "https://www.nytimes.com/2026/08/13/dining/mexican-food-scene-united-states-immigration.html",
-    "content": "Even at a time of anti-immigration politics, there has never been a richer variety of Mexican restaurants in the United States.",
-    "date": "2026-08-13T09:03:08",
     "category": "NYT"
   }
 ]
