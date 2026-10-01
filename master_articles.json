@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/01/style/gustavo-dudamel-new-york-philharmonic.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Steven Spielberg, Alec Baldwin and Gov. Kathy Hochul Turn Out for Dudamel",
+    "author": "Sarah Bahr and Rebecca Smeyne For The New York Times",
+    "link": "https://www.nytimes.com/2026/10/01/style/gustavo-dudamel-new-york-philharmonic.html",
+    "content": "\u201cI\u2019m so happy here. Honestly,\u201d Gustavo Dudamel, the superstar conductor, said at the New York Philharmonic\u2019s season-opening gala on Wednesday.",
+    "date": "2026-10-01T14:40:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/01/movies/verity-review-colleen-hoover-anne-hathaway.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Verity\u2019 Review: Magnificent Confession",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/13/dining/hot-soup-summer.html",
     "content": "Every weekend this summer, Ms. Ton has had to make three batches of her b\u00fan b\u00f2 hu\u1ebf, a Vietnamese noodle soup, at Banh Anh Em, her restaurant, to keep up with demand.",
     "date": "2026-08-13T09:00:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html",
-    "feed_name": "NYT (Arts)",
-    "title": "So You Want to Build an A.I. Star?",
-    "author": "Reggie Ugwu",
-    "link": "https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html",
-    "content": "Designers at a new crop of creative studios create fake personas they hope real people will love. Are they distorting culture or mirroring it?",
-    "date": "2026-08-13T09:00:20",
     "category": "NYT"
   }
 ]
