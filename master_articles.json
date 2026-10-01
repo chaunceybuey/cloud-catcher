@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/01/arts/television/late-night-trump-ai-leaders-regulation.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night is Skeptical of A.I. Leaders Self-Regulating",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/01/arts/television/late-night-trump-ai-leaders-regulation.html",
+    "content": "\u201cSure, we don\u2019t need laws! I\u2019m sure we could trust these guys,\u201d Jordan Klepper said of technology executives on \u201cThe Daily Show,\u201d after Trump asked them to police themselves.",
+    "date": "2026-10-01T06:12:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/07/04/opinion/250-america-independence-day.html",
     "feed_name": "Interesting Times",
     "title": "The Unifying Speech We Won\u2019t Get This Independence Day",
@@ -19988,15 +19998,5 @@
     "content": "Chaat masala brings together salty, sour and funky in a way that does something very good to sweet, peak-season corn.",
     "date": "2026-08-12T14:26:50",
     "category": "NYT"
-  },
-  {
-    "id": "487dee3790272aa94113e9afb7f34ca8",
-    "feed_name": "LRB",
-    "title": "Meanings of Ceasefire",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/meanings-of-ceasefire",
-    "content": "At best, ceasefires are interim arrangements that gesture towards peace by temporarily suspending formal hostilities, either with a view to.\u00a0.\u00a0.",
-    "date": "2026-08-12T13:12:43",
-    "category": "Magazines"
   }
 ]
