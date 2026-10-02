@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/02/us/michael-mcdonald-doobie-brothers-biological-son.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Missouri Man Discovers Michael McDonald of the Doobie Brothers Is His Biological Father",
+    "author": "Jennifer Sinco Kelleher",
+    "link": "https://www.nytimes.com/2026/10/02/us/michael-mcdonald-doobie-brothers-biological-son.html",
+    "content": "A man who was adopted as an infant found out his biological father is Grammy Award-winning singer Michael McDonald.",
+    "date": "2026-10-02T16:05:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/arts/kennedy-center-honors-capital-one-arena.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Kennedy Center Honors Will Be Held at Capital One Arena",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/10/02/arts/kennedy-center-honors-capital-one-arena.html",
+    "content": "President Trump and the first lady, Melania Trump, at the Kennedy Center Honors on Dec. 7, 2025.",
+    "date": "2026-10-02T16:00:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/02/arts/dance/review-fashion-gala-new-york-city-ballet-stevie-nicks.html",
     "feed_name": "NYT (Arts)",
     "title": "New York City Ballet\u2019s Gala: Stevie Nicks, Fashion and Dance. What Could Go Wrong?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/14/theater/schmigadoon-cast-album-theater-streaming.html",
     "content": "Isabelle McCalla, center, in the musical \u201cSchmigadoon!\u201d",
     "date": "2026-08-14T09:02:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/movies/the-bend-in-the-river-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u201cThe Bend in the River,\u201d Robb Moss\u2019s Old Friends Reflect on Aging",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/08/14/movies/the-bend-in-the-river-review.html",
-    "content": "In \u201cThe Bend in the River,\u201d Robb Moss catches up with the subjects of two of his previous films as they reflect on their lives and what\u2019s left.",
-    "date": "2026-08-14T09:02:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/movies/teenage-sex-and-death-at-camp-miasma-clip.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Jane Schoenbrun Has Fun With Horror (and Chicken) at Camp Miasma",
-    "author": "Mekado Murphy",
-    "link": "https://www.nytimes.com/2026/08/14/movies/teenage-sex-and-death-at-camp-miasma-clip.html",
-    "content": "The director discusses a key scene from \u201cTeenage Sex and Death at Camp Miasma,\u201d featuring Hannah Einbinder and Gillian Anderson.",
-    "date": "2026-08-14T09:02:02",
     "category": "NYT"
   }
 ]
