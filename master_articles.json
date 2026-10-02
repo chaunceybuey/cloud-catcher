@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/02/arts/television/netflix-new-october.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Best Movies and TV Shows Coming to Netflix in October",
+    "author": "Noel Murray",
+    "link": "https://www.nytimes.com/2026/10/02/arts/television/netflix-new-october.html",
+    "content": "Florence Pugh in a scene from the Zoe Kazan adaptation of \u201cEast of Eden.\u201d",
+    "date": "2026-10-02T14:40:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/10/22/eradicating-the-fourth-branch-noah-feldman/",
     "feed_name": "NYRB",
     "title": "Eradicating the \u2018Fourth Branch\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/14/arts/television/christy-knowings-dead.html",
     "content": "Christy Knowings in Los Angeles in 2017.",
     "date": "2026-08-14T08:40:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jimmy Fallon Reacts to Karoline Leavitt\u2019s White House Exit",
-    "author": "Trish Bendix",
-    "link": "https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html",
-    "content": "The \u201cTonight Show\u201d host said President Trump had been surprised by the press secretary\u2019s decision to step down. \u201cShe was like, \u2018I wanted to wait for a good time but there hasn\u2019t been one, so.\u2019\u201d",
-    "date": "2026-08-14T05:34:38",
     "category": "NYT"
   }
 ]
