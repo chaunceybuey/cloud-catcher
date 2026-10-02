@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/02/movies/tyler-perrys-doing-life-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Tyler Perry\u2019s Doing Life\u2019 Review: A Mysterious Hero",
+    "author": "Brandon Yu",
+    "link": "https://www.nytimes.com/2026/10/02/movies/tyler-perrys-doing-life-review.html",
+    "content": "Perry\u2019s latest melodrama follows a romance between a prison inmate and the woman he saved during a riot.",
+    "date": "2026-10-02T07:01:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/arts/television/mike-hale-new-york-times.html",
+    "feed_name": "NYT (Arts)",
+    "title": "After 17 Years, a TV Critic Lets the Credits Roll",
+    "author": "Sarah Bahr",
+    "link": "https://www.nytimes.com/2026/10/02/arts/television/mike-hale-new-york-times.html",
+    "content": "\u201cThe job has changed greatly since I started,\u201d Mike Hale said, \u201cbecause the amount of televised content has exploded.\u201d",
+    "date": "2026-10-02T07:00:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/02/arts/television/late-night-trump-hispanic-stereotype.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Is Stunned by Trump\u2019s New Stereotype",
@@ -19978,25 +19998,5 @@
     "content": "Organizer Laya Diamond Waldman Austin drums at the rally against the state takeover of public schools at Brentwood Neighborhood Park on Aug. 8, 2026.",
     "date": "2026-08-13T18:47:14",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/books/raoul-vaneigem-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Raoul Vaneigem, Whose Manifesto Inspired 1968 Revolt in France, Dies at 92",
-    "author": "Adam Nossiter",
-    "link": "https://www.nytimes.com/2026/08/13/books/raoul-vaneigem-dead.html",
-    "content": "\u201cThe Revolution of Everyday Life,\u201d published in 1967, was his cri de coeur against mindless work, materialism and authority.",
-    "date": "2026-08-13T17:25:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Trump-Led Board Votes Again to Close Kennedy Center for Renovations",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
-    "content": "A federal judge ruled in May that the Kennedy Center had an \u201cobligation to both maintain and operate a premiere arts venue\u201d and a \u201csolemn duty to memorialize a fallen president.\u201d",
-    "date": "2026-08-13T16:29:36",
-    "category": "NYT"
   }
 ]
