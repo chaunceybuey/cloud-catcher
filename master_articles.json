@@ -180,6 +180,156 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/02/dining/drinks/english-whisky-uk.html",
+    "feed_name": "NYT (Food)",
+    "title": "English Whisky Gets a Boost from the U.K., and Scots Are Not Amused",
+    "author": "Susannah Skiver Barton",
+    "link": "https://www.nytimes.com/2026/10/02/dining/drinks/english-whisky-uk.html",
+    "content": "A growing cadre of English distillers have won protected status for their liquor. But Scotch producers fear that will confuse consumers.",
+    "date": "2026-10-02T09:03:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/movies/new-movies-this-week-critics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "7 New Movies Our Critics Are Talking About This Week",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/02/movies/new-movies-this-week-critics.html",
+    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
+    "date": "2026-10-02T09:03:18",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/arts/television/friday-night-lights-20th-anniversary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Friday Night Lights\u2019 at 20: Can We Ever Get Back to Dillon?",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/10/02/arts/television/friday-night-lights-20th-anniversary.html",
+    "content": "The football drama\u2019s themes of community and hope are just as moving today, but ever more distant.",
+    "date": "2026-10-02T09:03:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/arts/music/miranda-lambert-popcast-interview.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Miranda Lambert Helped Ella Langley Make History with \u2018Choosin\u2019 Texas\u2019",
+    "author": "Jon Caramanica, Joe Coscarelli and Katie McCurdy",
+    "link": "https://www.nytimes.com/2026/10/02/arts/music/miranda-lambert-popcast-interview.html",
+    "content": "As her co-written song \u201cChoosin\u2019 Texas\u201d continues to dominate, the country star returns with her most joyous album to date.",
+    "date": "2026-10-02T09:02:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/theater/creation-stories-and-all-the-important-importants-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In \u2018Creation Stories and All the Important Importants,\u2019 a Dream Evaporates",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/10/02/theater/creation-stories-and-all-the-important-importants-review.html",
+    "content": "An overachiever who had her life mapped out hits a roadblock in Mfoniso Udofia\u2019s haunted, surreally comic new play at LCT3.",
+    "date": "2026-10-02T09:02:34",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/arts/ancient-rome-fashion-glyptotek-museum-copenhagen.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Forget Quiet Luxury. In Ancient Rome, the Fashion Was Loud.",
+    "author": "Nicolas Liney",
+    "link": "https://www.nytimes.com/2026/10/02/arts/ancient-rome-fashion-glyptotek-museum-copenhagen.html",
+    "content": "An exhibition in Copenhagen reveals how imperial expansion delivered the vivid dyes, exotic fabrics and real-hair wigs that Romans used to broadcast their status.",
+    "date": "2026-10-02T09:02:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/movies/the-last-first-winter-k2-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Last First: Winter K2\u2019: Review",
+    "author": "Alissa Wilkinson",
+    "link": "https://www.nytimes.com/2026/10/02/movies/the-last-first-winter-k2-review.html",
+    "content": "Directed by Amir Bar-Lev, the film forgoes the optimistic gloss typical of the genre and gets at the complex reasons that people scale peaks.",
+    "date": "2026-10-02T09:02:26",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/arts/television/friday-night-lights-20th-anniversary-oral-history.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Friday Night Lights\u2019 Oral History: \u2018I Remember Watching and Bawling\u2019",
+    "author": "Saul Austerlitz",
+    "link": "https://www.nytimes.com/2026/10/02/arts/television/friday-night-lights-20th-anniversary-oral-history.html",
+    "content": "Twenty years after the beloved football and family drama premiered, Peter Berg, Kyle Chandler, Connie Britton, Taylor Kitsch and others look back on its legacy.",
+    "date": "2026-10-02T09:02:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/movies/mahershala-ali-bassam-tariq-your-mother.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Mahershala Ali and Bassam Tariq on Faith and Love in \u2018Your Mother Your Mother Your Mother\u2019",
+    "author": "Sadiba Hasan and Thea Traff",
+    "link": "https://www.nytimes.com/2026/10/02/movies/mahershala-ali-bassam-tariq-your-mother.html",
+    "content": "\u201cYour Mother Your Mother Your Mother\u201d was conceived well before the star and the director met for \u201cBlade.\u201d But it was fatherhood that informed the new movie.",
+    "date": "2026-10-02T09:01:55",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/arts/music/yendrys-como-agua-album.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Her Singles Made Her a Star. A First Album Took More Work.",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/10/02/arts/music/yendrys-como-agua-album.html",
+    "content": "Yendry\u2019s one-off songs made fans of Cat Power and Barack Obama. Her debut LP, \u201cComo Agua,\u201d is a statement of her complex identity.",
+    "date": "2026-10-02T09:01:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/books/john-sedgwick-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A \u2018Family Disease\u2019 Stalked the Sedgwicks. He Hoped to Escape It.",
+    "author": "Penelope Green",
+    "link": "https://www.nytimes.com/2026/10/02/books/john-sedgwick-dead.html",
+    "content": "The writer John Sedgwick was born into an illustrious family, but privilege was only part of the story.",
+    "date": "2026-10-02T09:00:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/arts/future-no-thanks-paolo-pedercini.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In This Utopian Video Game, It\u2019s Always Sunny in Pittsburgh",
+    "author": "Lewis Gordon",
+    "link": "https://www.nytimes.com/2026/10/02/arts/future-no-thanks-paolo-pedercini.html",
+    "content": "An academic\u2019s miniature Grand Theft Auto goes beyond critiquing capitalism to show what might come after.",
+    "date": "2026-10-02T09:00:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/books/review/weird-girl-literature.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Weird is \u2018Weird Girl Lit\u2019?",
+    "author": "Abby McCarter",
+    "link": "https://www.nytimes.com/2026/10/02/books/review/weird-girl-literature.html",
+    "content": "Romantic delusion. Social alienation. Body horror. Just a few of the elements celebrated online \u2014 if not always by the writers who earn the label.",
+    "date": "2026-10-02T09:00:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/02/books/werewolf-romance-books.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Best Werewolf Romance Books, According to Laurie Gilmore",
+    "author": "Laurie Gilmore",
+    "link": "https://www.nytimes.com/2026/10/02/books/werewolf-romance-books.html",
+    "content": "The best-selling author Laurie Gilmore recommends books that take all the best bits of a literary love story and take them from fun to feral.",
+    "date": "2026-10-02T09:00:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.propublica.org/article/oregon-housing-director-husband-conflict",
+    "feed_name": "ProPublica",
+    "title": "Her Agency Distributes Billions for Housing Projects. Her Husband\u2019s Company Helped Develop Some of Them.",
+    "author": "Rob Davis",
+    "link": "https://www.propublica.org/article/oregon-housing-director-husband-conflict",
+    "content": "<figure><img alt=\"A woman speaks to a crowd at a lectern in front of an excavator.\" src=\"https://www.propublica.org/wp-content/uploads/2026/10/CROP_A-Bell_IMG_8724.jpg?w=1149\" /><figcaption><small>Andrea Bell, director of Oregon Housing and Community Services, at a groundbreaking ceremony in 2025 Oregon Housing and Community Services</small></figcaption></figure>\n<p class=\"wp-block-paragraph\">As head of Oregon\u2019s housing finance agency, Andrea Bell oversees a lot of taxpayer money.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Oregon Housing and Community Services has handed developers more than $1.4 billion in state funding to build rent-restricted apartments over the last five years \u2014 and even more counting federal tax credits the agency allocates.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bell\u2019s husband, Joshua Crites, works as a director for the consulting firm <a href=\"https://jhbrawner.com/\">JH Brawner</a>, which helps local housing authorities develop subsidized apartment projects that receive a lot of money from Bell\u2019s agency.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The company lists offices in Oregon, Washington and Arizona and says it has played a role in creating 20,000 low-income housing units that cost $3 billion to develop. JH Brawner\u2019s Oregon work includes consulting on two housing authority projects that applied for or were awarded tens of millions of dollars collectively from Bell\u2019s agency since her husband started working for the company. (JH Brawner gets paid by the housing authority rather than the state.)</p>\n\n\n\n<p class=\"wp-block-paragraph\">Oregon law requires leaders like Bell to <a href=\"https://oregon.public.law/statutes/ors_244.060\">report their sources of household income</a> on annual ethics disclosures, including naming their spouses\u2019 income sources, especially when they could present a conflict of interest. The law also says any government official with a conflict should <a href=\"https://oregon.public.law/statutes/ors_244.120\">notify the person who appointed them in writing</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But Bell didn\u2019t do either until ProPublica asked her about it.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">A spokesperson for Gov. Tina Kotek, a Democrat whose predecessor appointed Bell in 2022, told ProPublica that the governor\u2019s office had \u201cnot been notified of any potential or actual conflict of interest.\u201d</p>\n\n\n\n<p class=\"wp-block-paragraph\">The closest Bell came to a disclosure was in 2025 with this vague note with a misspelling: \u201cSpouse serves in an advisory role for a developmen.\u201d It did not name a company but instead showed a misspelled street address, with no suite number, for JH Brawner\u2019s office in Issaquah, Washington, a commercial building with multiple tenants.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bell filed amended economic disclosures for the last three years on Sept. 23, the day that ProPublica asked her why she did not disclose her husband\u2019s employer. The new forms explicitly name the consulting firm.</p>\n\n\n\n<p class=\"wp-block-paragraph\">\u201cI take concerns about my statement of economic interests (SEI) seriously and am committed to transparency, accountability, and compliance with state law,\u201d Bell said in a statement.</p>\n\n\n\n<p class=\"wp-block-paragraph\">She did not respond when asked whether she had played any role in her agency\u2019s decisions regarding projects the company worked on. A spokesperson said housing subsidies are approved first by an internal committee that does not include Bell and then are reviewed by another group, the Housing Stability Council, which Bell does not serve on.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">The spokesperson, LeiLani Barney, told ProPublica to file a formal records request to learn who\u2019s on the internal committee. <a href=\"https://www.oregon.gov/ohcs/hsc/pages/index.aspx\">Bell advises the housing council as it sets policy</a> and makes funding decisions, according to the agency\u2019s website.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Neither JH Brawner nor Crites, the firm\u2019s director of strategic initiatives, responded to messages seeking comment.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Three former officials familiar with state ethics laws told ProPublica that Bell\u2019s lack of disclosure was a problem that merited review to see whether she influenced any government decisions that benefited her husband\u2019s company.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Russell Lehman, a retired administrative law judge who served on Washington\u2019s Public Disclosure Commission from 2019 to 2021, said Bell appeared to have violated the law, even if she later corrected her mistake.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Lehman said he would want to know: \u201cWhy did it take a reporter asking you about it to have you file your reports?\u201d</p>\n\n\n\n<p class=\"wp-block-paragraph\">\u201cIn a perfect world, we wouldn\u2019t need ProPublica for this kind of thing,\u201d Lehman said.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Kotek\u2019s spokesperson called for an evaluation by the state\u2019s ethics commission.</p>\n\n\n\n<p class=\"wp-block-paragraph\">\u201cThe Governor holds all agency leadership to consistent and high ethical standards and any question on conflict of interest should be referred to the Oregon Government Ethics Commission for thorough review,\u201d Kotek\u2019s spokesperson said in a statement.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bell told ProPublica in a statement that she had sought an advisory opinion from the commission at the governor\u2019s urging and that she had updated her ethics disclosures \u201cto provide clarity.\u201d</p>\n\n\n\n<p class=\"wp-block-paragraph\">Money from Bell\u2019s department plays an essential role in helping to build apartment projects intended to be affordable, channeling state funding and federal tax credits in order to reduce developers\u2019 costs so they can charge lower rents.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">JH Brawner, where Bell\u2019s husband works, advises public housing authorities that are putting together subsidized housing deals.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The company\u2019s responsibilities have included negotiating acquisitions, structuring deals, ensuring project appraisals are completed and collaborating with the state agency that Bell leads.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Crites joined JH Brawner in 2023 after jobs with local housing authorities in Oregon, Washington and Ohio. He and Bell own a home together in the Portland suburbs, records show.</p>\n\n\n\n<p class=\"wp-block-paragraph\">JH Brawner says on its website that it worked in Oregon as a development and financial consultant on Park Place, a 200-unit project being built by the housing authority in Clackamas County with $36 million in state funding. Another project in Washington County, Aloha 209th, is awaiting a $17.5 million subsidy from the state.</p>\n\n\n\n<p class=\"wp-block-paragraph\">A spokesperson for Clackamas County said the housing authority there \u201cdid not advocate or discuss the Park Place project or application with Andrea Bell\u201d and that the county hired JH Brawner as a consultant before Crites joined the firm.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The company was involved in two other state-backed projects for Washington County that were well into the financing process before Crites started working for JH Brawner. Work continued on both as recently as last year, according to JH Brawner\u2019s website.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bell\u2019s agency adopted a new policy in 2024 that effectively reduces its discretion over which projects get funded, moving from a competitive bidding model to one that gives money to eligible projects in the order that applications were received.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But at least one developer has asked Bell\u2019s agency to exercise its discretion. The housing authority in Washington County in suburban Portland, which is using JH Brawner as a consultant on the Aloha 209th project, is not due to get its $17.5 million from the state until at least 2028.&nbsp;</p>\n\n\n\n<p class=\"wp-block-paragraph\">Molly Rogers, executive director of the county\u2019s housing authority, said in a June public meeting that she had contacted Bell about the project and the county\u2019s desire to get state money sooner.</p>\n\n\n\n<p class=\"wp-block-paragraph\">\u201cShe\u2019s open to having a discussion, which is great,\u201d Rogers said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Rogers did not respond when asked, via a spokesperson, to comment about her public remarks, and Bell did not respond when asked to comment on Rogers\u2019 account.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Pat Hearn, who served as the ethics commission\u2019s director for nearly two decades, said he advised state leaders \u201cto stay as far away from the line as possible, not to get as close as they can without crossing it.\u201d</p>\n\n\n\n<p class=\"wp-block-paragraph\">In Bell\u2019s case, he said, \u201cIt\u2019s just too close, especially since we know that the agency has approved funding for these projects that the husband\u2019s company has advised on.\u201d</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bell\u2019s situation is the second conflict-of-interest issue Oregon housing officials have faced in the last year.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In December, a state investigation revealed that an appointee to Oregon\u2019s Housing Stability Council, the body that approves housing subsidies, had <a href=\"https://www.oregonlive.com/politics/2025/12/oregon-housing-adviser-who-violated-conflict-of-interest-law-should-get-warning-letter-ethics-investigators-say.html\">violated a state conflict-of-interest law </a>by voting to award money to projects designed by the architecture firm where she worked.</p>\n\n\n\n<p class=\"wp-block-paragraph\">(The appointee, who later resigned, told an investigator she believed she had followed high ethical standards and had recused herself from voting on projects she worked on. The commission gave her a warning letter.)</p>\n\n\n\n<p class=\"wp-block-paragraph\">A spokesperson for Oregon\u2019s state housing agency told The Oregonian/OregonLive at the time that housing council members had received feedback about how to be <a href=\"https://www.oregonlive.com/politics/2025/12/oregon-housing-adviser-who-violated-conflict-of-interest-law-should-get-warning-letter-ethics-investigators-say.html\">\u201cclearer and more consistent\u201d when declaring conflicts</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Four months later, Bell filed her annual ethics statement. The only income it listed at that time for her household was her own.</p>\n<p>The post <a href=\"https://www.propublica.org/article/oregon-housing-director-husband-conflict\">Her Agency Distributes Billions for Housing Projects. Her Husband\u2019s Company Helped Develop Some of Them.</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
+    "date": "2026-10-02T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "877c5958ee886e8804756ab92c192395",
     "feed_name": "LRB",
     "title": "At \u2018The Pelicot Trial\u2019",
@@ -19847,156 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/how-our-veggie-writer-plans-meals-for-a-week",
     "content": "Tanya Sichynsky\u2019s chickpea salad with grated tomato dressing.",
     "date": "2026-08-13T21:43:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8832082#p8832082",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "AskPatient1281",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8832082#p8832082",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br /><br />Do you have any investments in your CMA or just cash/cash equivalent/fidelity money market?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I have VBIL and a Fidelity MMF. I think they total about $50k.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>So you have an ETF. That is why there we no hold. You have collateral. This was already discussed here a few times.<br /><br />If your CMA had only cash/MM, there would be a hold. That is why I only deposit checks and do pulls using my brokerage account these days.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Thu Aug 13, 2026 4:19 pm</p><hr />",
-    "date": "2026-08-13T21:19:07",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239903",
-    "feed_name": "Texas Tribune",
-    "title": "Houston law firm with Trump ties declines $150 million contract to represent migrant children",
-    "author": "By VALERIE GONZALEZ and RYAN J. FOLEY, \u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17417589/texas-burke-law-group-declines-immigrant-children-contract",
-    "content": "Children of migrants and asylum seekers rest at a church in San Antonio on June 30, 2026.",
-    "date": "2026-08-13T21:14:04",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239897",
-    "feed_name": "Texas Tribune",
-    "title": "Gov. Greg Abbott proposes further limiting screen time in K-12 classrooms",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17417590/texas-greg-abbott-screen-limits-classrooms-public-education",
-    "content": "Kimani Mitchell, left, stands next to Danielle Minnis as they give a lesson to their eighth grade students at Legacy Middle School in San Antonio on April 29, 2026.",
-    "date": "2026-08-13T21:01:56",
-    "category": "Texas"
-  },
-  {
-    "id": "7b7a535727b0563754cb15f6f29043fc",
-    "feed_name": "LRB",
-    "title": "On Politics: A New Era for UK Politics",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-a-new-era-for-uk-politics",
-    "content": "In the wake of last week\u2019s devolved and local elections, Keir Starmer is once again fighting for his political future. Labour has almost completely vanished in Wales, came a distant second in Scotland (tied with Reform UK)\u00a0and lost nearly 1500 councillors in England. But while Plaid Cymru and the SNP were victorious in Wales and Scotland, in many ways the results in England were a...",
-    "date": "2026-08-13T20:45:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8832046#p8832046",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "mhc",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8832046#p8832046",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Topic: CMA cash pull settlement time<br /><br />My 529s are still at Vanguard. I withdrew $60k to my regional bank. I went to push from bank to Fidelity CMA. My bank upgraded and now no longer allows me to push to CMA. I pulled the $60k from the CMA. I didn't care about a potential long settlement time because I don't have to pay the college bills until middle of September. To my surprise, the money settled in 3 days. When I would do the push, it settled in 1 day if I remember correctly. 3 days is no big deal to me. There was a warning when I did the pull that it could take 7-12 days, if I remember correctly. I'm probably off on the 7-12 days.<br /><br />I know I could have Vanguard deposit the money directly in my CMA. I just have not set that up. Maybe I should.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Do you have any investments in your CMA or just cash/cash equivalent/fidelity money market?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I have VBIL and a Fidelity MMF. I think they total about $50k.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=25725\">mhc</a> \u2014 Thu Aug 13, 2026 3:40 pm</p><hr />",
-    "date": "2026-08-13T20:40:17",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/books/readers-list-100-best-thrillers-century.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Readers Choose the Best Thrillers and Mysteries of the Century",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/08/13/books/readers-list-100-best-thrillers-century.html",
-    "content": "The backbone of the list: nine novels by Tana French, and five novels each from John le Carr\u00e9, Kate Atkinson and Mick Herron.",
-    "date": "2026-08-13T20:30:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/books/best-21st-century-thrillers-movie-tv-adaptations.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Great Movie and TV Adaptations From 21st- Century Thrillers",
-    "author": "Calum Marsh",
-    "link": "https://www.nytimes.com/2026/08/13/books/best-21st-century-thrillers-movie-tv-adaptations.html",
-    "content": "From \u201cSlow Horses\u201d to \u201cBig Little Lies,\u201d our list of great psychological thrillers, spy novels and crime fiction have inspired a heap of great adaptations.",
-    "date": "2026-08-13T20:30:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/opinion/interesting-times-bryan-johnson.html",
-    "feed_name": "Interesting Times",
-    "title": "Bryan Johnson\u2019s Blueprint for a 150-Year Life: Is It Worth It?",
-    "author": "Ross Douthat and Sophia Alvarez Boyd",
-    "link": "https://www.nytimes.com/2026/08/13/opinion/interesting-times-bryan-johnson.html",
-    "content": "The tech mogul is trying to design the blueprint for defying death.",
-    "date": "2026-08-13T20:21:24",
-    "category": "Uncategorized"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/dining/street-carts.html",
-    "feed_name": "NYT (Food)",
-    "title": "Three Street Carts Where You Can Dine Curbside",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/08/13/dining/street-carts.html",
-    "content": "For every brick-and-mortar restaurant, New York City has just as many street carts. These three carts are dining room worthy.",
-    "date": "2026-08-13T20:19:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8832019#p8832019",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "AskPatient1281",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8832019#p8832019",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Topic: CMA cash pull settlement time<br /><br />My 529s are still at Vanguard. I withdrew $60k to my regional bank. I went to push from bank to Fidelity CMA. My bank upgraded and now no longer allows me to push to CMA. I pulled the $60k from the CMA. I didn't care about a potential long settlement time because I don't have to pay the college bills until middle of September. To my surprise, the money settled in 3 days. When I would do the push, it settled in 1 day if I remember correctly. 3 days is no big deal to me. There was a warning when I did the pull that it could take 7-12 days, if I remember correctly. I'm probably off on the 7-12 days.<br /><br />I know I could have Vanguard deposit the money directly in my CMA. I just have not set that up. Maybe I should.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Do you have any investments in your CMA or just cash/cash equivalent/fidelity money market?<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Thu Aug 13, 2026 3:12 pm</p><hr />",
-    "date": "2026-08-13T20:12:40",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8831993#p8831993",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "mhc",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8831993#p8831993",
-    "content": "Topic: CMA cash pull settlement time<br /><br />My 529s are still at Vanguard. I withdrew $60k to my regional bank. I went to push from bank to Fidelity CMA. My bank upgraded and now no longer allows me to push to CMA. I pulled the $60k from the CMA. I didn't care about a potential long settlement time because I don't have to pay the college bills until middle of September. To my surprise, the money settled in 3 days. When I would do the push, it settled in 1 day if I remember correctly. 3 days is no big deal to me. There was a warning when I did the pull that it could take 7-12 days, if I remember correctly. I'm probably off on the 7-12 days.<br /><br />I know I could have Vanguard deposit the money directly in my CMA. I just have not set that up. Maybe I should.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=25725\">mhc</a> \u2014 Thu Aug 13, 2026 2:42 pm</p><hr />",
-    "date": "2026-08-13T19:42:15",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239879",
-    "feed_name": "Texas Tribune",
-    "title": "U.S. attorney confirms that FBI tests didn\u2019t find meth in van driven by man fatally shot by ICE in Houston",
-    "author": "Alejandro Santos Cid",
-    "link": "https://feeds.texastribune.org/link/16799/17417502/texas-houston-ice-shooting-fbi-testing-meth-search-warrant-salgado",
-    "content": "Vigil attendees hold up signs at a memorial for Lorenzo Salgado Araujo on the one month anniversary of his death, in Houston on Aug. 7, 2026.",
-    "date": "2026-08-13T19:40:52",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/theater/american-daughter-review-wendy-wasserstein.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018An American Daughter\u2019 Review: Wendy Wasserstein\u2019s Cautionary Tale",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/2026/08/13/theater/american-daughter-review-wendy-wasserstein.html",
-    "content": "From left: Dakin Matthews, Jean Lichty and Robert Sean Leonard in \u201cAn American Daughter\u201d at the Pershing Square Signature Center in Manhattan.",
-    "date": "2026-08-13T19:29:31",
-    "category": "NYT"
-  },
-  {
-    "id": "3de09ddd15573911a40dd43885d18a62",
-    "feed_name": "LRB",
-    "title": "JOH returns to Honduras",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/joh-returns-to-honduras",
-    "content": "Trump\u2019s most shocking move to influence the Honduran electorate was to pardon the former president Juan Orlando Hern\u00e1ndez, serving.\u00a0.\u00a0.",
-    "date": "2026-08-13T19:13:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/13/books/john-crowley-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "John Crowley, Whose Fantasy Novels Blurred Reality and Dream, Dies at 83",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/08/13/books/john-crowley-dead.html",
-    "content": "The eminent critic Harold Bloom called his 1981 book \u2018Little, Big\u2019 a \u2018neglected masterpiece\u2019 and one of the best novels of the 20th century.",
-    "date": "2026-08-13T19:02:21",
     "category": "NYT"
   }
 ]
