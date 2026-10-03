@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/03/obituaries/eugenia-errazuriz-overlooked.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Overlooked No More: Eugenia Err\u00e1zuriz, Who Opened Doors for Picasso",
+    "author": "Penelope Rowlands",
+    "link": "https://www.nytimes.com/2026/10/03/obituaries/eugenia-errazuriz-overlooked.html",
+    "content": "She moved from Chile to Paris, where she used her wealth to support Picasso, Stravinsky and other artists. World War II forced her to go home, where she ended her life.",
+    "date": "2026-10-03T15:13:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/03/dining/happy-as-a-clam-pasta.html",
+    "feed_name": "NYT (Food)",
+    "title": "Happy as a Clam Pasta",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/03/dining/happy-as-a-clam-pasta.html",
+    "content": "My clam pasta with white wine and garlic, that is.",
+    "date": "2026-10-03T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22564-cnspirare-fresh-off-the-page",
     "feed_name": "KMFA",
     "title": "Cnspirare: Fresh off the Page",
@@ -19978,25 +19998,5 @@
     "content": "Whether on a constant treadmill, turning trauma into laughs or venturing into children\u2019s entertainment, these acts are winning over viewers and critics.",
     "date": "2026-08-14T11:06:53",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/world/americas/matisse-stolen-art-found-sao-paulo-brazil-heist.html",
-    "feed_name": "NYT (Arts)",
-    "title": "8 Matisse Works, Looted from Library in Brazil, Are Recovered",
-    "author": "John Yoon",
-    "link": "https://www.nytimes.com/2026/08/14/world/americas/matisse-stolen-art-found-sao-paulo-brazil-heist.html",
-    "content": "A handout photo released by the S\u00e3o Paulo police press office showing the recovered Matisse works.",
-    "date": "2026-08-14T10:56:22",
-    "category": "NYT"
-  },
-  {
-    "id": "6a705a1f863a7a312f9d9abd",
-    "feed_name": "Wired",
-    "title": "5 Weird Tricks for Having a Brain",
-    "author": "",
-    "link": "https://www.wired.com/galaxy-brain/",
-    "content": "From the multibrained octopus to the bitty brain organoid, we\u2019re all just inference engines making flawed bets on the future. Here are the five insights your brain will need to survive.",
-    "date": "2026-08-14T10:00:00",
-    "category": "Magazines"
   }
 ]
