@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "6a70f452962e0b0b57c87d4a526e3138",
+    "feed_name": "LRB",
+    "title": "Election Time?",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/october/election-time",
+    "content": "If the radical agenda is real, it points to an early general election. Burnham said that the National Care Service will be introduced \u2018in.\u00a0.\u00a0.",
+    "date": "2026-10-03T00:13:20",
+    "category": "Magazines"
+  },
+  {
+    "id": "b3950f3708e5719a830f288cdfd189cb",
+    "feed_name": "LRB",
+    "title": "At \u2018The Pelicot Trial\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/october/at-the-pelicot-trial",
+    "content": "For a little over a year, the theatre directors Milo Rau and Servane D\u00e8cle have been touring a play based on the Pelicot mass rape trial.\u00a0.\u00a0.",
+    "date": "2026-10-03T00:13:20",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22723-georgetown-palace-theatre-oklahoma",
     "feed_name": "KMFA",
     "title": "Georgetown Palace Theatre: Oklahoma",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/14/arts/stavros-halkias-popcast-interview-tony.html",
     "content": "The podcast host and emerging Hollywood presence spoke about his new stand-up special, giving advice to incels and comedy\u2019s rightward creep.",
     "date": "2026-08-14T09:02:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/movies/kids-movies-streaming-now.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 Children\u2019s Movies to Stream Now",
-    "author": "Dina Gachman",
-    "link": "https://www.nytimes.com/2026/08/14/movies/kids-movies-streaming-now.html",
-    "content": "From left, Kevin, Joe and Nick Jonas in \u201cCamp Rock 3.\u201d",
-    "date": "2026-08-14T09:02:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/arts/music/phoebe-bridgers-lost-weekend-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Phoebe Bridgers Reaches New Heights With \u201cLost Weekend\u201d",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/08/14/arts/music/phoebe-bridgers-lost-weekend-review.html",
-    "content": "On her new LP, Phoebe Bridgers processes some major personal changes that have taken place in the six years since she released her breakout album \u201cPunisher.\u201d",
-    "date": "2026-08-14T09:02:28",
     "category": "NYT"
   }
 ]
