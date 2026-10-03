@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/03/arts/television/peppino-mazzullo-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Peppino Mazzullo, Voice of Topo Gigio For Decades, Dies at 100",
+    "author": "Kaja Andric",
+    "link": "https://www.nytimes.com/2026/10/03/arts/television/peppino-mazzullo-dead.html",
+    "content": "Mr. Mazzullo in the 1970s with Topo Gigio and the puppet\u2019s designer, Maria Perego.",
+    "date": "2026-10-03T17:08:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/03/obituaries/eugenia-errazuriz-overlooked.html",
     "feed_name": "NYT (Arts)",
     "title": "Overlooked No More: Eugenia Err\u00e1zuriz, Who Opened Doors for Picasso",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-08-14T11:44:36",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/arts/edinburgh-festival-fringe-buzziest-shows.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Edinburgh Fringe: 8 Buzzy Shows to See",
-    "author": "Jillian Rayfield, Alex Marshall and Houman Barekat",
-    "link": "https://www.nytimes.com/2026/08/14/arts/edinburgh-festival-fringe-buzziest-shows.html",
-    "content": "Whether on a constant treadmill, turning trauma into laughs or venturing into children\u2019s entertainment, these acts are winning over viewers and critics.",
-    "date": "2026-08-14T11:06:53",
-    "category": "NYT"
   }
 ]
