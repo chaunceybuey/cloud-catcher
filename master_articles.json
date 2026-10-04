@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/04/dining/nows-the-perfect-time-for-ratatouille-actually.html",
+    "feed_name": "NYT (Food)",
+    "title": "Now\u2019s the Perfect Time for Ratatouille, Actually",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/04/dining/nows-the-perfect-time-for-ratatouille-actually.html",
+    "content": "Melissa Clark\u2019s sheet-pan ratatouille with crispy chickpeas.",
+    "date": "2026-10-04T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/04/arts/television/snl-offers-midterm-promo-help-to-trump-and-hegseth.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018S.N.L.\u2019 Offers Last-Minute Promo Help to Trump and Hegseth",
@@ -19988,15 +19998,5 @@
     "content": "Nina Kiri in a scene from \u201cUndertone.\u201d",
     "date": "2026-08-14T15:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239950",
-    "feed_name": "Texas Tribune",
-    "title": "Lawsuit seeks to stop Big Bend border wall construction",
-    "author": "Ayden Runnels and Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17418172/texas-big-bend-border-wall-lawsuit-lipan-apache",
-    "content": "Excavation and bulldozing equipment as seen through vegetation near the Santa Elena Canyon trailhead parking lot and next to Ross Maxwell Scenic Drive in Big Bend National Park on Aug. 13, 2026.",
-    "date": "2026-08-14T14:20:18",
-    "category": "Texas"
   }
 ]
