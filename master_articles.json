@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "6abd518980d31124709821b1",
+    "feed_name": "Wired (Science)",
+    "title": "Elusive \u2018Geoneutrinos\u2019 Are Building a New Map of Earth\u2019s Volatile Interior",
+    "author": "James Dinneen",
+    "link": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+    "content": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet\u2019s tectonic activity.",
+    "date": "2026-10-04T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/03/arts/television/peppino-mazzullo-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Peppino Mazzullo, Voice of Topo Gigio For Decades, Dies at 100",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/08/brink-of-war-reykjavik-summit/688279/",
     "content": "The Brink of War, a new film about the Reykjavik summit, is too kind to the Gipper.",
     "date": "2026-08-14T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "8a1aaeb4ed93c30bc049bd0dbb14e2bd",
-    "feed_name": "Outside",
-    "title": "New, Solar-Powered Safari EVs Are Getting Us Closer Than Ever to Wildlife",
-    "author": "Greg Presto",
-    "link": "https://www.outsideonline.com/adventure-travel/destinations/africa/electric-safaris-africa/",
-    "content": "",
-    "date": "2026-08-14T11:59:41",
     "category": "Magazines"
   }
 ]
