@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "cb1c6fd5-0be1-4619-8950-5925433465a8",
+    "feed_name": "Economist",
+    "title": "Flow and disorder",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/04/flow-and-disorder",
+    "content": "The Iran war will change LNG markets for ever",
+    "date": "2026-10-04T17:11:12",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23151-austin-classical-guitar-jorge-callabero",
     "feed_name": "KMFA",
     "title": "Austin Classical Guitar: Jorge Callabero",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/14/dining/this-cheesy-corn-salad-speaks-for-itself.html",
     "content": "Elijah G. Deleon\u2019s charred corn and Cheddar salad, adapted by Genevieve Ko.",
     "date": "2026-08-14T15:00:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/movies/horror-movies-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five Horror Movies to Stream Now",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/08/14/movies/horror-movies-streaming.html",
-    "content": "Nina Kiri in a scene from \u201cUndertone.\u201d",
-    "date": "2026-08-14T15:00:05",
     "category": "NYT"
   }
 ]
