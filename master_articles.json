@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/04/movies/anne-hathaway-verity-odyssey-devil-wears-prada.html",
+    "feed_name": "NYT (Arts)",
+    "title": "With \u2018Verity,\u2019 Anne Hathaway Has Her Third No. 1 Movie This Year",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/10/04/movies/anne-hathaway-verity-odyssey-devil-wears-prada.html",
+    "content": "This year, after an extended absence from major studio films, Anne Hathaway has starred in \u201cThe Devil Wears Prada 2,\u201d \u201cVerity\u201d and \u201cThe Odyssey,\u201d among other movies.",
+    "date": "2026-10-04T20:42:15",
+    "category": "NYT"
+  },
+  {
     "id": "cb1c6fd5-0be1-4619-8950-5925433465a8",
     "feed_name": "Economist",
     "title": "Flow and disorder",
@@ -19988,15 +19998,5 @@
     "content": "Students backpacks hang off the back of their chairs in an empty classroom at Blanco Vista Elementary School in San Marcos on Aug. 23, 2021.",
     "date": "2026-08-14T15:27:56",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/dining/this-cheesy-corn-salad-speaks-for-itself.html",
-    "feed_name": "NYT (Food)",
-    "title": "This Cheesy Corn Salad Speaks for Itself",
-    "author": "The New York Times Cooking",
-    "link": "https://www.nytimes.com/2026/08/14/dining/this-cheesy-corn-salad-speaks-for-itself.html",
-    "content": "Elijah G. Deleon\u2019s charred corn and Cheddar salad, adapted by Genevieve Ko.",
-    "date": "2026-08-14T15:00:09",
-    "category": "NYT"
   }
 ]
