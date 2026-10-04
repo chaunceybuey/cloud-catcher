@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/04/arts/dance/fall-for-dance-city-center-pony-cam.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Fall for Dance Returns, With an A-for-Effort Stunt",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/10/04/arts/dance/fall-for-dance-city-center-pony-cam.html",
+    "content": "Miami City Ballet dancers in \u201cRoses from the South (Three Waltzes for Toby),\" choreographed by Alexei Ratmansky, on Oct. 2 at New York City Center.",
+    "date": "2026-10-04T21:44:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/04/movies/anne-hathaway-verity-odyssey-devil-wears-prada.html",
     "feed_name": "NYT (Arts)",
     "title": "With \u2018Verity,\u2019 Anne Hathaway Has Her Third No. 1 Movie This Year",
@@ -19988,15 +19998,5 @@
     "content": "Aaron Pierre, left, and Kyle Chandler play a duo of intergalactic cops with daddy issues in \u201cLanterns.\u201d",
     "date": "2026-08-14T16:12:11",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=239978",
-    "feed_name": "Texas Tribune",
-    "title": "Look up your Texas school\u2019s A-F accountability grade, STAAR performance",
-    "author": "By Jaden Edison, graphic by\u00a0Hien An Ngo, data analysis by Rob Reid",
-    "link": "https://feeds.texastribune.org/link/16799/17418225/look-up-texas-school-accountability-grades-2026-ratings-search",
-    "content": "Students backpacks hang off the back of their chairs in an empty classroom at Blanco Vista Elementary School in San Marcos on Aug. 23, 2021.",
-    "date": "2026-08-14T15:27:56",
-    "category": "Texas"
   }
 ]
