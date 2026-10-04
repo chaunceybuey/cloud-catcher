@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "6abe5cae9828a5714cf83d72",
+    "feed_name": "Wired (Science)",
+    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+    "content": "Under the One Big Beautiful Bill Act,\u00a0 data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+    "date": "2026-10-04T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6abd518980d31124709821b1",
     "feed_name": "Wired (Science)",
     "title": "Elusive \u2018Geoneutrinos\u2019 Are Building a New Map of Earth\u2019s Volatile Interior",
@@ -19988,15 +19998,5 @@
     "content": "Ellis Ludwig-Leone at home. He saved a nocturne for himself and recorded it on his parents\u2019 piano, a 1999 Steinway L.",
     "date": "2026-08-14T13:38:28",
     "category": "NYT"
-  },
-  {
-    "id": "428a8406eb628a45cb173d5029de8f72",
-    "feed_name": "LRB",
-    "title": "Save the CCA",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/save-the-cca",
-    "content": "The entire contents of the Centre for Contemporary Arts in Glasgow were auctioned off by a commercial asset sales company on 30 July. In the.\u00a0.\u00a0.",
-    "date": "2026-08-14T13:09:38",
-    "category": "Magazines"
   }
 ]
