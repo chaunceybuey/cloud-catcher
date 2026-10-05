@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/05/dining/drinks/ben-watson-dead.html",
+    "feed_name": "NYT (Food)",
+    "title": "Ben Watson, a Cider Expert Known as Brother Apple, Has Died at 64.",
+    "author": "Michael S. Rosenwald",
+    "link": "https://www.nytimes.com/2026/10/05/dining/drinks/ben-watson-dead.html",
+    "content": "Ben Watson, also known as Brother Apple, played a pivotal role in turning cider into a thriving slice of America\u2019s craft-beverage movement. He has died at 64.",
+    "date": "2026-10-05T16:34:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/05/theater/kramer-fauci-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Kramer/Fauci\u2019 Review: A Thrilling Episode From the AIDS Battlefield",
@@ -19988,15 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>5) Considering two 529s (AZ) vs the nonsense of our Virginia plans</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Please note that, if you live in Virginia, tax deduction only works if you invest in Virginia 529 plans.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=6553\">ilisira</a> \u2014 Sat Aug 15, 2026 10:11 am</p><hr />",
     "date": "2026-08-15T15:11:37",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/15/dining/i-will-be-making-this-on-repeat-until-i-cant-look-at-eggs-or-tomatoes-anymore.html",
-    "feed_name": "NYT (Food)",
-    "title": "\u2018I Will be Making This on Repeat Until I Can\u2019t Look at Eggs or Tomatoes Anymore\u2019",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/08/15/dining/i-will-be-making-this-on-repeat-until-i-cant-look-at-eggs-or-tomatoes-anymore.html",
-    "content": "Ashley Lonsdale\u2019s cumin tomato salad with jammy eggs.",
-    "date": "2026-08-15T15:00:07",
-    "category": "NYT"
   }
 ]
