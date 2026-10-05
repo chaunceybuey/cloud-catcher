@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/05/arts/television/carrie-what-to-watch-on-tv.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Carrie\u2019 and 10 More Things to Watch on TV This Week",
+    "author": "Geordon Wollner",
+    "link": "https://www.nytimes.com/2026/10/05/arts/television/carrie-what-to-watch-on-tv.html",
+    "content": "The Stephen King novel is reimagined for a contemporary audience. And a documentary goes backstage with the reunited Oasis.",
+    "date": "2026-10-05T05:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/04/arts/television/lanterns-recap-season-1-episode-8.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Lanterns\u2019 Season 1 Finale Recap: The Scene of the Crime",
@@ -19988,15 +19998,5 @@
     "content": "Austin residents rally against the state takeover of public schools at Brentwood Neighborhood Park on Aug. 8, 2026.",
     "date": "2026-08-14T19:18:59",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/14/arts/music/daniel-barenboim-conductor.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Parkinson\u2019s Made Daniel Barenboim Step Back. But He\u2019s on the Conductor\u2019s Podium Again.",
-    "author": "Daniel Lewis",
-    "link": "https://www.nytimes.com/2026/08/14/arts/music/daniel-barenboim-conductor.html",
-    "content": "Daniel Barenboim is leading his orchestra of Arab and Israeli musicians on a European tour. His movements onstage were few, but often effective.",
-    "date": "2026-08-14T18:24:49",
-    "category": "NYT"
   }
 ]
