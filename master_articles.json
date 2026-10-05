@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "6abff13470314d77218ec3f6",
+    "feed_name": "Wired (Science)",
+    "title": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever",
+    "author": "Teruyuki Hayakawa",
+    "link": "https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/",
+    "content": "Under 1 million years old, \u201cElias 2-24b\u201d is now the youngest exoplanet ever observed, and it may force researchers to reevaluate theories about how planets are formed.",
+    "date": "2026-10-05T18:15:16",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/05/arts/music/nashville-symphony-oracle-gift.html",
     "feed_name": "NYT (Arts)",
     "title": "Nashville Symphony Receives $10 Million Lifeline From Oracle",
@@ -167,6 +177,16 @@
     "link": "https://www.lrb.co.uk/blog/2026/october/collective-harm",
     "content": "The Israeli military claims that each individual strike in Gaza is justified but ignores their collective consequences. A reason is given for.\u00a0.\u00a0.",
     "date": "2026-10-05T18:03:46",
+    "category": "Magazines"
+  },
+  {
+    "id": "b4a32f0cdb30989991cd27400c2e6623",
+    "feed_name": "Outside",
+    "title": "This Jersey Shore Beach Town Had a Seagull Problem. The Solution Involves Hungry Killer Birds.",
+    "author": "Andrew ZaleskiAugust 17, 2026",
+    "link": "https://www.outsideonline.com/outdoor-adventure/environment/jersey-shore-beach-falcons/",
+    "content": "Until recently, you couldn't eat a slice of pizza along the Jersey Shore without fighting off a cloud of aggressive seagulls. Enter a collection of trained predatory birds that scares off\u2014and yeah, sometimes kills and eats\u2014the winged pirates.",
+    "date": "2026-10-05T18:03:43",
     "category": "Magazines"
   },
   {
@@ -19978,25 +19998,5 @@
     "content": "\u2018Tam o\u2019 Shanter\u2019 first appeared as a lengthy footnote in Francis Grose's Antiquities of Scotland (1791) after Robert Burns convinced Grose to include the ruined Alloway Kirk in his volume, and its supernatural associations (invented by Burns). Its story of the drunken Tam's encounter with witches in the stormy Ayrshire landscape has served as both a celebration and...",
     "date": "2026-08-17T09:42:37",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/17/t-magazine/pakistan-diaspora-artists.html",
-    "feed_name": "NYT (Arts)",
-    "title": "These Artists May Have Left Pakistan, but It\u2019s Still Present in Their Work",
-    "author": "Aatish Taseer and Tami Aftab",
-    "link": "https://www.nytimes.com/2026/08/17/t-magazine/pakistan-diaspora-artists.html",
-    "content": "Is it possible to make art that reflects a country and culture while living outside of it? For members of this diaspora, there\u2019s no other choice.",
-    "date": "2026-08-17T09:04:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/budget-cooking",
-    "feed_name": "NYT (Food)",
-    "title": "I Create Recipes for a Living. Here\u2019s How I Fed My Family Really Well for $28 a Day.",
-    "author": "Kevin Pang",
-    "link": "https://cooking.nytimes.com/article/budget-cooking",
-    "content": "It\u2019s not for everyone, but meal planning, sticking to the grocery list and not letting any leftovers go to waste made it possible, but not easy.",
-    "date": "2026-08-17T09:03:10",
-    "category": "NYT"
   }
 ]
