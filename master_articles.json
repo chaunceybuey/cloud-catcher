@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/05/books/jeffrey-archer-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jeffrey Archer, Novelist Whose Real Life Rivaled His Thrillers, Dies at 86",
+    "author": "Alan Cowell",
+    "link": "https://www.nytimes.com/2026/10/05/books/jeffrey-archer-dead.html",
+    "content": "Jeffrey Archer\u2019s latest book was scheduled for publication on Tuesday.",
+    "date": "2026-10-05T22:59:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://cooking.nytimes.com/article/red-palm-oil-west-african-food-culture",
     "feed_name": "NYT (Food)",
     "title": "Red Palm Oil Makes These Dishes West African Dishes Even More Special",
@@ -19986,16 +19996,6 @@
     "author": "ByRobert Sullivan",
     "link": "https://www.newyorker.com/magazine/2026/08/24/where-theres-smoke-theres-fire-towers",
     "content": "After seventy-eight years, New Jersey finally has a new lookout spot for blazes. With more frequent wildfires and record temperatures, it\u2019s not a moment too soon.",
-    "date": "2026-08-17T10:33:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "ac3abe0ab4e03a7c66bc4f5bcdcfcc1b",
-    "feed_name": "New Yorker",
-    "title": "The Big, Dumb, Gluttonous Fun of America\u2019s Semiquincentennial",
-    "author": "ByRachel Monroe",
-    "link": "https://www.newyorker.com/magazine/2026/08/24/the-big-dumb-gluttonous-fun-of-americas-semiquincentennial",
-    "content": "In D.C. and the Dakotas, at rodeos and powwows, celebrating the country means taking in pride and disappointment and fellow-feeling.",
     "date": "2026-08-17T10:33:18",
     "category": "Magazines"
   }
