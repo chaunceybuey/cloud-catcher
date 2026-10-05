@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/red-palm-oil-west-african-food-culture",
+    "feed_name": "NYT (Food)",
+    "title": "Red Palm Oil Makes These Dishes West African Dishes Even More Special",
+    "author": "Yewande Komolafe",
+    "link": "https://cooking.nytimes.com/article/red-palm-oil-west-african-food-culture",
+    "content": "It\u2019s also a conduit to West African food culture.",
+    "date": "2026-10-05T20:22:24",
+    "category": "NYT"
+  },
+  {
+    "id": "5459299c-7a88-4185-9e78-04ed9589b33d",
+    "feed_name": "Economist",
+    "title": "The bond market sell-off is helping the dollar",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
+    "content": "But the strength of the greenback is not as reliable as in the past",
+    "date": "2026-10-05T19:31:48",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=245320",
     "feed_name": "Texas Tribune",
     "title": "Ken Paxton raises personal-best $18 million in third quarter for Texas\u2019 U.S. Senate race",
@@ -206,6 +226,16 @@
     "author": "",
     "link": "https://www.lrb.co.uk/blog/2026/october/collective-harm",
     "content": "The Israeli military claims that each individual strike in Gaza is justified but ignores their collective consequences. A reason is given for.\u00a0.\u00a0.",
+    "date": "2026-10-05T18:03:46",
+    "category": "Magazines"
+  },
+  {
+    "id": "da07244d50975bee0b463ab6a51b377e",
+    "feed_name": "LRB",
+    "title": "Narrative Poems: \u2018Tam o\u2019 Shanter\u2019 by Robert Burns and \u2018Peter Grimes\u2019 by George Crabbe",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/narrative-poems-tam-o-shanter-by-robert-burns-and-peter-grimes-by-george-crabbe",
+    "content": "\u2018Tam o\u2019 Shanter\u2019 first appeared as a lengthy footnote in Francis Grose's Antiquities of Scotland (1791) after Robert Burns convinced Grose to include the ruined Alloway Kirk in his volume, and its supernatural associations (invented by Burns). Its story of the drunken Tam's encounter with witches in the stormy Ayrshire landscape has served as both a celebration and...",
     "date": "2026-10-05T18:03:46",
     "category": "Magazines"
   },
@@ -19966,36 +19996,6 @@
     "author": "ByRachel Monroe",
     "link": "https://www.newyorker.com/magazine/2026/08/24/the-big-dumb-gluttonous-fun-of-americas-semiquincentennial",
     "content": "In D.C. and the Dakotas, at rodeos and powwows, celebrating the country means taking in pride and disappointment and fellow-feeling.",
-    "date": "2026-08-17T10:33:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "e25a651036271737a734667b41357dc4",
-    "feed_name": "New Yorker",
-    "title": "The End of the European Summer",
-    "author": "ByEric Klinenberg",
-    "link": "https://www.newyorker.com/magazine/2026/08/24/the-end-of-the-european-summer",
-    "content": "As extreme heat overwhelms the Continent\u2019s great cities, they are racing to transform themselves for a climate that they were never built to withstand.",
-    "date": "2026-08-17T10:33:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "b7c8adf2fadbc41b11cae00b96f0317e",
-    "feed_name": "New Yorker",
-    "title": "The Scientist Who Lived with Dozens of Children from the Pacific Islands",
-    "author": "ByRachel Aviv",
-    "link": "https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific",
-    "content": "Carleton Gajdusek won the Nobel for his work on a disease in Papua New Guinea. But his biggest experiment was on the children he took back to the U.S.",
-    "date": "2026-08-17T10:33:18",
-    "category": "Magazines"
-  },
-  {
-    "id": "6aa52c24d18b83b642aa3910ecdb8016",
-    "feed_name": "New Yorker",
-    "title": "How Far Will the Trump Administration Go to Deport Mahmoud Khalil?",
-    "author": "ByAndrew Marantz",
-    "link": "https://www.newyorker.com/magazine/2026/08/24/how-far-will-the-trump-administration-go-to-deport-mahmoud-khalil",
-    "content": "Khalil protested Israel as a student at Columbia. Now he\u2019s on the verge of being kicked out of the country.",
     "date": "2026-08-17T10:33:18",
     "category": "Magazines"
   }
