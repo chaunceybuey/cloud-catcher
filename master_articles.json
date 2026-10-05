@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/05/theater/kramer-fauci-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Kramer/Fauci\u2019 Review: A Thrilling Episode From the AIDS Battlefield",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/10/05/theater/kramer-fauci-review.html",
+    "content": "Daniel Fish\u2019s staging of a C-SPAN segment reveals the complex yet tender relationship between the fiery Larry Kramer and the diplomatic Anthony Fauci.",
+    "date": "2026-10-05T15:57:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/05/dining/such-a-super-easy-meal-and-so-rewarding.html",
     "feed_name": "NYT (Food)",
     "title": "\u2018Such a Super Easy Meal and So Rewarding\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/15/dining/i-will-be-making-this-on-repeat-until-i-cant-look-at-eggs-or-tomatoes-anymore.html",
     "content": "Ashley Lonsdale\u2019s cumin tomato salad with jammy eggs.",
     "date": "2026-08-15T15:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/15/dining/the-original-viral-recipe.html",
-    "feed_name": "NYT (Food)",
-    "title": "The Original Viral Recipe",
-    "author": "Vaughn Vreeland",
-    "link": "https://www.nytimes.com/2026/08/15/dining/the-original-viral-recipe.html",
-    "content": "Marian Burros\u2019s original plum torte.",
-    "date": "2026-08-15T14:00:05",
     "category": "NYT"
   }
 ]
