@@ -180,6 +180,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/05/arts/design/jeff-koons-art-collection-christies.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jeff Koons Is Selling $100 Million of His Personal Art Collection",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/10/05/arts/design/jeff-koons-art-collection-christies.html",
+    "content": "Jeff Koons, shown at an exhibition of his work, \u201cLost in America,\u201d in 2021 in Doha, Qatar, will sell nine historic paintings he collected in November at Christie\u2019s, including a Picasso and a Manet.",
+    "date": "2026-10-05T09:03:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/05/arts/television/double-dare-40-year-anniversary-marc-summers-nickelodeon.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Double Dare\u2019 Debuted 40 Years Ago. Children\u2019s TV Was Never the Same.",
@@ -19988,15 +19998,5 @@
     "content": "\u2018The beautiful game has never looked more beautiful on the pitch, or more ugly off it,\u2019 Simon Skinner writes in the latestLRB. Each World Cup seems more tainted by corruption than the last, but is that a nostalgic illusion? The second competition, held in Italy in 1934, was a podium for Mussolini and, as Skinner puts it, \u2018an early advertisement of the tournament\u2019s...",
     "date": "2026-08-15T05:26:16",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/15/arts/design/mary-heilmann-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mary Heilmann, Painter of Vividly Wobbly Abstractions, Dies at 86",
-    "author": "Deborah Solomon",
-    "link": "https://www.nytimes.com/2026/08/15/arts/design/mary-heilmann-dead.html",
-    "content": "An emblem of the obstacles faced by women artists of her generation, she was 67 when her first museum retrospective opened to rave reviews in 2007.",
-    "date": "2026-08-15T04:48:16",
-    "category": "NYT"
   }
 ]
