@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/05/theater/perfection-volksbuehne-vincenzo-latronico.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Unlikely Theatrical Journey of Vincenzo Latronico\u2019s \u2018Perfection\u2019",
+    "author": "Thomas Rogers",
+    "link": "https://www.nytimes.com/2026/10/05/theater/perfection-volksbuehne-vincenzo-latronico.html",
+    "content": "A theatrical adaptation of \u201cPerfection\u201d by Vincenzo Latronico leans into political critique for an audience that looks a lot like the book\u2019s characters.",
+    "date": "2026-10-05T13:48:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=20208",
     "feed_name": "Stratechery",
     "title": "Apple and a Hacker\u2019s Future",
@@ -19988,15 +19998,5 @@
     "content": "The renowned classical music festival is at a turning point after ousting its artistic director as it prepares for a disruptive $600 million renovation project.",
     "date": "2026-08-15T09:00:44",
     "category": "NYT"
-  },
-  {
-    "id": "2294c4bf59318dd4ebc24af3ac17b6af",
-    "feed_name": "LRB",
-    "title": "World Cup Cupidity",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/world-cup-cupidity",
-    "content": "\u2018The beautiful game has never looked more beautiful on the pitch, or more ugly off it,\u2019 Simon Skinner writes in the latestLRB. Each World Cup seems more tainted by corruption than the last, but is that a nostalgic illusion? The second competition, held in Italy in 1934, was a podium for Mussolini and, as Skinner puts it, \u2018an early advertisement of the tournament\u2019s...",
-    "date": "2026-08-15T05:26:16",
-    "category": "Magazines"
   }
 ]
