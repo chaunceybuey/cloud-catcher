@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ac3ef9feed40d3a2cedf84d",
+    "feed_name": "Wired (Science)",
+    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians\u2014Again",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "content": "\u201cThere's a perception of mobster behavior\u201d from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+    "date": "2026-10-06T17:28:33",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/dining/restaurant-review-burmese-bites-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Burmese Bites in New York",
@@ -19988,15 +19998,5 @@
     "content": "Voters wait in line to cast their ballots in the 2024 presidential election at the Esperanza Acosta Memorial Library in El Paso on Nov. 5, 2024.",
     "date": "2026-08-17T22:14:13",
     "category": "Texas"
-  },
-  {
-    "id": "6a8369c133de3b388535fb5a",
-    "feed_name": "Wired (Science)",
-    "title": "What Is El Ni\u00f1o? Here\u2019s What It Means for Weather, Water, and Global Economy",
-    "author": "Ritsuko Kawai",
-    "link": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/",
-    "content": "This year\u2019s El Ni\u00f1o is shaping up to be the strongest on record. This is what impacts to expect and how bad it could get.",
-    "date": "2026-08-17T21:28:42",
-    "category": "Magazines"
   }
 ]
