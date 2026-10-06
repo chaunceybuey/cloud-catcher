@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/06/arts/design/robert-rauschenberg-art-studio.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Should Robert Rauschenberg\u2019s Art Studio Be Saved?",
+    "author": "Deborah Solomon",
+    "link": "https://www.nytimes.com/2026/10/06/arts/design/robert-rauschenberg-art-studio.html",
+    "content": "The potential sale of the groundbreaking painter\u2019s home in New York by his foundation, on the heels of the sale of his Florida studio, has alarmed many in the art community.",
+    "date": "2026-10-06T14:30:52",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/theater/dirty-dancing-broadway.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Dirty Dancing\u2019 Musical Heads to Broadway This Season",
@@ -19988,15 +19998,5 @@
     "content": "A mock border wall stands in front of Venga Coffee in Terlingua Wednesday, Aug. 12, 2026.",
     "date": "2026-08-17T18:13:16",
     "category": "Texas"
-  },
-  {
-    "id": "3d459519-93ba-4cc2-9586-162a293dd43f",
-    "feed_name": "Economist",
-    "title": "The world\u2019s most influential economist is oddly unconvincing",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/17/the-worlds-most-influential-economist-is-oddly-unconvincing",
-    "content": "Daron Acemoglu is revered. Why?",
-    "date": "2026-08-17T17:34:22",
-    "category": "Magazines"
   }
 ]
