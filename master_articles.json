@@ -200,6 +200,36 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=245302",
+    "feed_name": "Texas Tribune",
+    "title": "These are the most competitive November races and where they are up and down Texas\u2019 midterm ballot",
+    "author": "By Apurva Mahajan and Renzo Downey",
+    "link": "https://feeds.texastribune.org/link/16799/17490297/texas-2026-elections-competitive-races-us-congress-state-legislature",
+    "content": "Texas has an unusually large slate of competitive races for the state Legislature and U.S. House this year. Here\u2019s our list of contests to watch.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17490297.gif\" width=\"1\" />",
+    "date": "2026-10-06T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=245351",
+    "feed_name": "Texas Tribune",
+    "title": "Texas college campus protest law faces First Amendment challenge",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17490298/texas-college-campus-protest-first-amendment-lawsuit",
+    "content": "Student protesters link arms during a demonstration on the South Mall lawn at the UT-Austin campus on April 24, 2024.",
+    "date": "2026-10-06T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=245373",
+    "feed_name": "Texas Tribune",
+    "title": "In new San Antonio district, law enforcement Democrat and GOP Air Force vet upend partisan script",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17490299/texas-35th-congressional-district-san-antonio-redistricting-elections",
+    "content": "Democrat Johnny Garcia, left, and Republican Carlos De La Cruz will face off in November for Texas&#039; 35th Congressional District.",
+    "date": "2026-10-06T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/arts/design/artists-studios-wesselmann-matsuyama.html",
     "feed_name": "NYT (Arts)",
     "title": "Artists\u2019 Studios Where Creativity Is on Display",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/17/theater/benevolent-review-sophie-mcintosh.html",
     "content": "With her usual irreverent humor, the playwright Sophie McIntosh mines the experiences of four young, cooped-up women at a Manhattan reformatory in 1917.",
     "date": "2026-08-17T16:31:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/duane-daviss-memoir-is-key-evidence-in-his-trial-he-now-claims-its-fiction",
-    "feed_name": "NYT (Arts)",
-    "title": "Duane Davis\u2019s memoir is key evidence in his trial. He now claims it\u2019s fiction.",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/duane-daviss-memoir-is-key-evidence-in-his-trial-he-now-claims-its-fiction",
-    "content": "At trial, Duane Keith Davis\u2019s lawyers are likely to point out that self-aggrandizement is part of the culture of hip-hop.",
-    "date": "2026-08-17T16:30:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/17/arts/music/ye-kanye-west-russia.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ye Announces Russia Concerts, Months After Western Europe Cancellations",
-    "author": "Ivan Nechepurenko and Alex Marshall",
-    "link": "https://www.nytimes.com/2026/08/17/arts/music/ye-kanye-west-russia.html",
-    "content": "Ye performing in Arnhem, the Netherlands, in June. Several of his other European concerts were canceled in recent months.",
-    "date": "2026-08-17T16:07:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/why-is-a-trial-happening-30-years-after-the-shooting",
-    "feed_name": "NYT (Arts)",
-    "title": "Why is a trial happening 30 years after the shooting?",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/why-is-a-trial-happening-30-years-after-the-shooting",
-    "content": "Duane Keith Davis on the first day of jury selection in his murder trial related to the 1996 killing of Tupac Shakur, in Las Vegas last week.",
-    "date": "2026-08-17T16:00:05",
     "category": "NYT"
   }
 ]
