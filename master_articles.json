@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/06/theater/dirty-dancing-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Dirty Dancing\u2019 Musical Heads to Broadway This Season",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/10/06/theater/dirty-dancing-broadway.html",
+    "content": "Annalese Starzec as Baby and Blake Zelesnikar as Johnny in the \u201cDirty Dancing: The Musical\u201d national tour.",
+    "date": "2026-10-06T14:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/06/books/national-book-award-finalists.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Here Are the Finalists for the 2026 National Book Awards",
+    "author": "Ash Wu",
+    "link": "https://www.nytimes.com/2026/10/06/books/national-book-award-finalists.html",
+    "content": "Clockwise from top left: Edwidge Danticat, Valeria Luiselli, Karl Ove Knausgaard and Camonghne Felix.",
+    "date": "2026-10-06T14:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/business/media/emmy-awards-amazon.html",
     "feed_name": "NYT (Arts)",
     "title": "Emmys Leave Their Broadcast Home for Amazon",
@@ -19978,25 +19998,5 @@
     "content": "Daron Acemoglu is revered. Why?",
     "date": "2026-08-17T17:34:22",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/suge-knight-hip-hop-mogul-now-in-prison-is-among-the-witnesses-to-the-1996-shooting",
-    "feed_name": "NYT (Arts)",
-    "title": "Suge Knight, a hip-hop mogul now in prison, is among the witnesses to the 1996 shooting.",
-    "author": "Jonathan Abrams",
-    "link": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/suge-knight-hip-hop-mogul-now-in-prison-is-among-the-witnesses-to-the-1996-shooting",
-    "content": "Tupac Shakur, left, and Suge Knight were in a black BMW together the night Mr. Shakur was shot to death.",
-    "date": "2026-08-17T17:04:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis",
-    "feed_name": "NYT (Arts)",
-    "title": "Live Updates: 30 Years After Tupac Shakur\u2019s Murder, Trial Jurors Will Hear Outlines of Case",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis",
-    "content": "The drive-by shooting of Tupac Shakur in 1996 was a pivotal moment in music history. Duane Keith Davis is now on trial, accused of supplying the murder weapon.",
-    "date": "2026-08-17T16:44:22",
-    "category": "NYT"
   }
 ]
