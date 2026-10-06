@@ -240,6 +240,16 @@
     "category": "Magazines"
   },
   {
+    "id": "0799c33896981a4bc3bf5b5d4f4aca03",
+    "feed_name": "LRB",
+    "title": "The Philosophy of \u2018To the Lighthouse\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/the-philosophy-of-to-the-lighthouse",
+    "content": "In 1908, Virginia Woolf wrote that she hoped to revolutionise the novel and \u2018capture multitudes of things at present fugitive\u2019.To the Lighthouse(1927) marks perhaps her fullest realisation of the novel as philosophical enterprise, and not simply because one of its central characters is engaged with the problem of \u2018subject and object and the nature of reality\u2019.",
+    "date": "2026-10-06T07:17:46",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/arts/television/late-night-jimmy-fallon-vivek-ramaswamy.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Roasts Vivek Ramaswamy for His Loose Grip",
@@ -19988,15 +19998,5 @@
     "content": "Philippe Sly felt he needed an immersion course to portray St. Francis in the new Salzburg Festival production of \u201cSt. Fran\u00e7ois d\u2019Assise.\u201d",
     "date": "2026-08-17T15:22:09",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8835130#p8835130",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "johnmyster",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8835130#p8835130",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br />5) Considering two 529s (AZ) vs the nonsense of our Virginia plans<br /></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>They're not great (mostly because they're complex to manage) but the Total Stock Market Index is VTI and the International Index is VTX. Fees are a bit higher but still under 0.1%.  The Target Risk portfolios are good for what they do.   <br /><br />What issues have you had?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Getting the accounts setup and funded.  We already have VA-529 for our oldest at American Funds (broker managed, before I went DIY) and the intention is to roll that into Invest-529, or whereever I land.<br /><br />It just seems that sticking with a custodian that I already use (Fidelity of Vanguard) is worth the streamlining and perhaps also homeschool expense eligibility.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=215146\">johnmyster</a> \u2014 Mon Aug 17, 2026 10:21 am</p><hr />",
-    "date": "2026-08-17T15:21:57",
-    "category": "Finance"
   }
 ]
