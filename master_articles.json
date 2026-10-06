@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Eva Marie Saint, Oscar Winner for \u2018On the Waterfront,\u2019 Is Dead at 102",
+    "author": "Aljean Harmetz",
+    "link": "https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-dead.html",
+    "content": "Eva Marie Saint and Cary Grant in Alfred Hitchcock\u2019s \u201cNorth by Northwest\u201d in 1959. She said some of the easiest work in her entire professional life involved the many retakes required to film their kissing scenes.",
+    "date": "2026-10-06T21:11:38",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=245558",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Are Texas\u2019 voter systems ready for a contentious election?",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17490703/tribcast-elections-voting-votebeat",
+    "content": "Election workers move ballots and equipment gathered at one of the nine rally sites to the Tarrant County Election Administration building in Fort Worth on Nov. 8, 2022.",
+    "date": "2026-10-06T20:17:10",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/dining/restaurant-review-hungry-spicy-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Hungry Spicy in New York",
@@ -19978,25 +19998,5 @@
     "content": "Some are now suggesting that Arday was the victim, and the people who drew attention to his lies, the villains.",
     "date": "2026-08-18T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "6a70e408f4ac0ca4079ecc9d",
-    "feed_name": "Wired",
-    "title": "The Cop Who Took On Flock",
-    "author": "Dhruv Mehrotra",
-    "link": "https://www.wired.com/story/the-cop-who-took-on-flock/",
-    "content": "After Noel Pichardo called out his city's embrace of Flock surveillance cameras, he was subjected to five internal affairs investigations in less than two years.",
-    "date": "2026-08-18T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19734",
-    "feed_name": "Stratechery",
-    "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-    "content": "<p>Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.</p>",
-    "date": "2026-08-18T10:00:00",
-    "category": "Tech"
   }
 ]
