@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/06/dining/restaurant-review-burmese-bites-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Burmese Bites in New York",
+    "author": "Ligaya Mishan",
+    "link": "https://www.nytimes.com/2026/10/06/dining/restaurant-review-burmese-bites-nyc.html",
+    "content": "Burmese Bites has traveled a three-decade road, from street fairs to a market stall to this Astoria spot where the fine-tuned cooking enthralls.",
+    "date": "2026-10-06T15:59:01",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/easy-one-bowl-muffin-recipes",
+    "feed_name": "NYT (Food)",
+    "title": "8 Easy, One-Bowl Muffins You Can Make in Under and Hour",
+    "author": "Sharon Attia",
+    "link": "https://cooking.nytimes.com/article/easy-one-bowl-muffin-recipes",
+    "content": "And all of them can be ready in under an hour.",
+    "date": "2026-10-06T15:46:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/dining/a-soup-to-make-you-feel-youre-in-the-french-countryside.html",
     "feed_name": "NYT (Food)",
     "title": "A Soup to Make You Feel You\u2019re in the French Countryside",
@@ -19978,25 +19998,5 @@
     "content": "This year\u2019s El Ni\u00f1o is shaping up to be the strongest on record. This is what impacts to expect and how bad it could get.",
     "date": "2026-08-17T21:28:42",
     "category": "Magazines"
-  },
-  {
-    "id": "836223bbf77d635b067438ab93d1d3a5",
-    "feed_name": "The Atlantic",
-    "title": "What Trump Officials Mean by \u201cNever\u201d",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/08/todd-blanche-trump-power-abuse/688310/",
-    "content": "The claim that the president could not possibly do something unethical marks a new frontier of impunity by the administration.",
-    "date": "2026-08-17T21:16:11",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tupac Shakur Murder Trial: Takeaways From Day 1",
-    "author": "Julia Jacobs, Mack Liederman and Anusha Bayya",
-    "link": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html",
-    "content": "Duane Keith Davis, left, and his lawyer, Michael Sanft, at court on Monday.",
-    "date": "2026-08-17T19:53:21",
-    "category": "NYT"
   }
 ]
