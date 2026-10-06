@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://stratechery.com/?p=20236",
+    "feed_name": "Stratechery",
+    "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+    "content": "<p>Games are being decompiled, but the real risk to gaming is new games and increased personalization.</p>",
+    "date": "2026-10-06T10:07:36",
+    "category": "Tech"
+  },
+  {
+    "id": "6a91d2ecc2c63e18a777a902",
+    "feed_name": "Wired",
+    "title": "The Internet Runs on Cats and Porn. It\u2019s About to Get Cattier and Pornier",
+    "author": "Pete Millspaugh",
+    "link": "https://www.wired.com/story/icann-top-level-domains-meow/",
+    "content": "Soon, hundreds of new top-level domains, including .meow and .fart, could be added to the internet. WIRED goes inside the backroom shenanigans of ICANN, the organization at the helm.",
+    "date": "2026-10-06T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/arts/design/artists-studios-wesselmann-matsuyama.html",
     "feed_name": "NYT (Arts)",
     "title": "Artists\u2019 Studios Where Creativity Is on Display",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis/heres-the-latest",
     "content": "",
     "date": "2026-08-17T15:31:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/17/arts/music/tara-erraught-salzburg-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tara Erraught Makes Role Debut in \u201cIl viaggio a Reims\u201d at the Salzburg Festival",
-    "author": "Rebecca Schmid",
-    "link": "https://www.nytimes.com/2026/08/17/arts/music/tara-erraught-salzburg-festival.html",
-    "content": "A portrait of Tara Erraught, who debuts at the Salzburg Festival as Madama Cortese in Gioachino Rossini\u2019s rarely performed comic drama \u201cIl viaggio a Reims.\u201d",
-    "date": "2026-08-17T15:25:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/17/arts/music/philippe-sly-francis-salzburg-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Philippe Sly Is Living With Monks Ahead of Playing St. Francis at the Salzburg Festival",
-    "author": "David Belcher",
-    "link": "https://www.nytimes.com/2026/08/17/arts/music/philippe-sly-francis-salzburg-festival.html",
-    "content": "Philippe Sly felt he needed an immersion course to portray St. Francis in the new Salzburg Festival production of \u201cSt. Fran\u00e7ois d\u2019Assise.\u201d",
-    "date": "2026-08-17T15:22:09",
     "category": "NYT"
   }
 ]
