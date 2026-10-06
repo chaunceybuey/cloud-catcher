@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/best-mac-and-cheese-tips",
+    "feed_name": "NYT (Food)",
+    "title": "5 Tips on the Best Mac and Cheese",
+    "author": "Genevieve Ko",
+    "link": "https://cooking.nytimes.com/article/best-mac-and-cheese-tips",
+    "content": "Genevieve Ko\u2019s creamy mac and cheese with buttered crumbs.",
+    "date": "2026-10-06T18:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/arts/music/amplifier-playlist-greg-freeman-jim-croce.html",
     "feed_name": "NYT (Arts)",
     "title": "What Our Critic\u2019s Been Listening to Lately (and More Phone Songs)",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/18/arts/television/colman-domingo-euphoria-four-seasons-emmys.html",
     "content": "The actor went from oracle to angel of vengeance in the HBO drama. In an interview, he discusses his two Emmy nods for two very different characters.",
     "date": "2026-08-18T09:02:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/18/arts/television/ted-lasso-womens-soccer.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Everyone Watches Women\u2019s Sports, Including \u2018Ted Lasso\u2019 Fans",
-    "author": "Alexis Soloski",
-    "link": "https://www.nytimes.com/2026/08/18/arts/television/ted-lasso-womens-soccer.html",
-    "content": "The show\u2019s focus on a women\u2019s squad mirrors a broader increase in the popularity of women\u2019s team sports. Now the series faces a challenge: pleasing old fans while welcoming new ones.",
-    "date": "2026-08-18T09:02:21",
     "category": "NYT"
   }
 ]
