@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/06/business/media/emmy-awards-amazon.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Emmys Leave Their Broadcast Home for Amazon",
+    "author": "John Koblin",
+    "link": "https://www.nytimes.com/2026/10/06/business/media/emmy-awards-amazon.html",
+    "content": "Meg Stalter, dressed as an Emmys statuette, and Paul W. Downs, both from \u201cHacks,\u201d at the Emmy Awards last month.",
+    "date": "2026-10-06T13:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/arts/salman-toor-courtauld-gallery-london.html",
     "feed_name": "NYT (Arts)",
     "title": "In This Painter\u2019s Seductive World, the Past and Present Meet",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis",
     "content": "The drive-by shooting of Tupac Shakur in 1996 was a pivotal moment in music history. Duane Keith Davis is now on trial, accused of supplying the murder weapon.",
     "date": "2026-08-17T16:44:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/17/theater/benevolent-review-sophie-mcintosh.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Benevolent\u2019 Review: Trapped Women Dreaming of Escape",
-    "author": "Juan A. Ram\u00edrez",
-    "link": "https://www.nytimes.com/2026/08/17/theater/benevolent-review-sophie-mcintosh.html",
-    "content": "With her usual irreverent humor, the playwright Sophie McIntosh mines the experiences of four young, cooped-up women at a Manhattan reformatory in 1917.",
-    "date": "2026-08-17T16:31:09",
     "category": "NYT"
   }
 ]
