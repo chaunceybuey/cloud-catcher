@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/06/arts/music/kennedy-center-records-trump-lawyers.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Trump Lawyers Cite Executive Privilege to Deny Kennedy Center Records",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/10/06/arts/music/kennedy-center-records-trump-lawyers.html",
+    "content": "The main building of the John F. Kennedy Center for the Performing Arts remains closed. An ongoing lawsuit is focused on whether its board, now led by President Trump, can close it for two years.",
+    "date": "2026-10-06T21:36:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Eva Marie Saint, Oscar Winner for \u2018On the Waterfront,\u2019 Is Dead at 102",
@@ -19988,15 +19998,5 @@
     "content": "Raphael Warnock, Kevin Stitt, Dolores Huerta, Maggie Haberman and other prominent voices in American political and civic life join us in Austin next month<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17422153.gif\" width=\"1\" />",
     "date": "2026-08-18T11:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "3d9b479065ff81bf6470ab2f6ef0e0f0",
-    "feed_name": "The Atlantic",
-    "title": "Henrik Ibsen\u2019s Jason Arday",
-    "author": "Graeme Wood",
-    "link": "https://www.theatlantic.com/ideas/2026/08/jason-arday-death-lies-delusion/688311/",
-    "content": "Some are now suggesting that Arday was the victim, and the people who drew attention to his lies, the villains.",
-    "date": "2026-08-18T11:00:00",
-    "category": "Magazines"
   }
 ]
