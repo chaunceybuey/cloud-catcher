@@ -140,6 +140,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/06/dining/restaurant-review-hungry-spicy-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Hungry Spicy in New York",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/2026/10/06/dining/restaurant-review-hungry-spicy-nyc.html",
+    "content": "The crab fried rice does not skimp on meat.",
+    "date": "2026-10-06T20:07:28",
+    "category": "NYT"
+  },
+  {
+    "id": "30397f977c702b42b8fbacd00db459de",
+    "feed_name": "LRB",
+    "title": "Wok Diplomacy",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/october/wok-diplomacy",
+    "content": "The biggest movie at the Chinese box office this August \u2013 grossing nearly three times as much as The Odyssey, released the same week \u2013.\u00a0.\u00a0.",
+    "date": "2026-10-06T20:01:59",
+    "category": "Magazines"
+  },
+  {
+    "id": "68309ba7d7a4ea6ddadb28e74122d4c5",
+    "feed_name": "LRB",
+    "title": "Ben Eastham & Jennifer Higgie: The Floating World",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/ben-eastham-jennifer-higgie-the-floating-world-tickets-1997557083008",
+    "content": "",
+    "date": "2026-10-06T20:01:59",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23118-texas-performing-arts-brandford-marsalis-and-dianne-reeves",
     "feed_name": "KMFA",
     "title": "Texas Performing Arts: Brandford Marsalis and Dianne Reeves",
@@ -19968,35 +19998,5 @@
     "content": "<p>Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.</p>",
     "date": "2026-08-18T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240154",
-    "feed_name": "Texas Tribune",
-    "title": "Colorado school district rejects controversial reading curriculum because of errors, Texas focus",
-    "author": "By \u00a0Ann Schimke, Chalkbeat Colorado",
-    "link": "https://feeds.texastribune.org/link/16799/17422154/colorado-school-district-houston-texas-bluebonnet-errors",
-    "content": "A ranger guides a tour group through Cliff Palace, the largest of the cliff dwellings, in Mesa Verde National Park near Cortez, Colorado, on Saturday, May 25, 2003.",
-    "date": "2026-08-18T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240169",
-    "feed_name": "Texas Tribune",
-    "title": "Protecting Texas research focus of hearing as Abbott eyes limiting foreign influence in education",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17422155/texas-universities-education-foreign-influence",
-    "content": "Students walk past the Memorial Student Center on the Texas A&amp;M University campus in College Station on Nov. 12, 2025.",
-    "date": "2026-08-18T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-grew-up-in-front-of-the-camera-it-took-a-toll.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-grew-up-in-front-of-the-camera-it-took-a-toll.html",
-    "content": "Hayden Panettiere with Jay Leno in 1996, when she was a 7-year-old actress.",
-    "date": "2026-08-18T09:03:07",
-    "category": "NYT"
   }
 ]
