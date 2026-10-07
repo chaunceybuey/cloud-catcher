@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/07/arts/dance/benjamin-akio-kimitch-allegra-kent-bugaku.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In \u2018Allegra\u2019, the Choreography Dives Deep Into Japan\u2019s Ancient Court Dance",
+    "author": "Gia Kourlas and Gabe Long",
+    "link": "https://www.nytimes.com/2026/10/07/arts/dance/benjamin-akio-kimitch-allegra-kent-bugaku.html",
+    "content": "And the spirit of the ballerina Allegra Kent doesn\u2019t hurt. The choreographer Benjamin Akio Kimitch dives into the art of Bugaku to create his fantasy of a Japanese American court dance.",
+    "date": "2026-10-07T15:00:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/07/movies/moonlight-anniversary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Moonlight\u2019 at 10: How the Movie Made an Impact",
+    "author": "Brian Josephs",
+    "link": "https://www.nytimes.com/2026/10/07/movies/moonlight-anniversary.html",
+    "content": "Alex Hibbert, left, with Mahershala Ali in \u201cMoonlight.\u201d",
+    "date": "2026-10-07T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "1dd6895bc5cd7d906119bbc8b0f594db",
     "feed_name": "LRB",
     "title": "Elizabeth David and ... Postwar Taste",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
     "content": "Frank Beard performing with ZZ Top in Salina, Kan., in August 2025.",
     "date": "2026-08-18T20:41:11",
-    "category": "NYT"
-  },
-  {
-    "id": "6a566af403633be86b3dc0b7",
-    "feed_name": "Wired (Science)",
-    "title": "Squeeze More Juice Out of a Dead Battery!",
-    "author": "Rhett Allain",
-    "link": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
-    "content": "How the joule thief circuit \u201csteals\u201d energy from seemingly depleted power cells.",
-    "date": "2026-08-18T20:11:03",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/18/dining/restaurant-review-bar-chimera-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Bar Chimera in New York",
-    "author": "Ryan Sutton",
-    "link": "https://www.nytimes.com/2026/08/18/dining/restaurant-review-bar-chimera-nyc.html",
-    "content": "The steak frites tastes of beef to the power of 1,000.",
-    "date": "2026-08-18T20:02:40",
     "category": "NYT"
   }
 ]
