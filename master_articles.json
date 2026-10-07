@@ -160,6 +160,36 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=245588",
+    "feed_name": "Texas Tribune",
+    "title": "STAAR rescoring requests triple after more Texas schools question computer grading",
+    "author": "Megan Menchaca",
+    "link": "https://feeds.texastribune.org/link/16799/17491158/staar-scores-computer-grading-texas-schools",
+    "content": "A Nimitz Middle School student raises their hand during class on Sept. 13, 2023 in Odessa.",
+    "date": "2026-10-07T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=245590",
+    "feed_name": "Texas Tribune",
+    "title": "Most Texas Republicans ignore Democratic calls to debate in statewide races",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17491159/texas-debate-republicans-talarico-paxton-abbott-hinojosa-election",
+    "content": "With Election Day fast approaching, just one debate between candidates in a statewide race is on the calendar.",
+    "date": "2026-10-07T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=245603",
+    "feed_name": "Texas Tribune",
+    "title": "Texas execution would be first in U.S. since Tennessee failure",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17491160/texas-execution-jamaal-howard-lethal-injection-christa-pike-tennessee",
+    "content": "Texas&#039; execution chamber as seen from the witness viewing room at the Texas State Penitentiary in Huntsville.",
+    "date": "2026-10-07T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/07/theater/little-shop-just-in-time-maybe-happy-ending.html",
     "feed_name": "NYT (Arts)",
     "title": "Catch New Faces in These Long-Running Shows (On and Off Broadway)",
@@ -19967,36 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/august/the-publishers-plot",
     "content": "In May 2025, ten people affiliated with Eksmo, Russia\u2019s publishing behemoth, were detained in Moscow. Three of them, Pavel Ivanov, Dmitry.\u00a0.\u00a0.",
     "date": "2026-08-18T18:39:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "ebf4aa62711c5460463a0b176f0f378e",
-    "feed_name": "LRB",
-    "title": "Jeremy Lee & Bee Wilson: Kitchening",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/jeremy-lee-bee-wilson-kitchening-tickets-1995474957314",
-    "content": "",
-    "date": "2026-08-18T18:39:51",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/18/arts/music/amplifier-newsletter-phoebe-bridgers-lrain.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 New Songs I\u2019m Excited About",
-    "author": "Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/08/18/arts/music/amplifier-newsletter-phoebe-bridgers-lrain.html",
-    "content": "L\u2019Rain",
-    "date": "2026-08-18T18:00:03",
-    "category": "NYT"
-  },
-  {
-    "id": "2ec6766e-ced9-4547-80f1-2f468610d16a",
-    "feed_name": "Economist",
-    "title": "Stock indices no longer reflect equity reality",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
-    "content": "Lies, damned lies and stock markets",
-    "date": "2026-08-18T17:50:12",
     "category": "Magazines"
   }
 ]
