@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "de102342-687d-430b-b076-7c81af28bcac",
+    "feed_name": "Economist",
+    "title": "Why shares are the new bricks and mortar",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/07/why-shares-are-the-new-bricks-and-mortar",
+    "content": "Household wealth is flowing from property to stocks",
+    "date": "2026-10-07T18:47:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html",
     "feed_name": "NYT (Arts)",
     "title": "A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/19/arts/design/priams-treasure-odyssey.html",
     "content": "An undated photo of workers at the site that Schliemann excavated.",
     "date": "2026-08-19T09:02:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/19/movies/sex-in-the-movies-camp-miasma-the-invite.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018The Invite\u2019 and \u2018Camp Miasma,\u2019 Sex Comes With a Mentor",
-    "author": "Natalia Winkelman",
-    "link": "https://www.nytimes.com/2026/08/19/movies/sex-in-the-movies-camp-miasma-the-invite.html",
-    "content": "In films like \u201cTeenage Sex and Death at Camp Miasma\u201d and \u201cThe Invite,\u201d middle-aged sexual gurus are helping younger characters \u2014 and audiences \u2014 relearn desire.",
-    "date": "2026-08-19T09:00:59",
     "category": "NYT"
   }
 ]
