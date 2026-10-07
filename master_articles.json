@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ac695cc0439ce956019bc3d",
+    "feed_name": "Wired (Science)",
+    "title": "The Science Behind the Nobel-Winning Technology That Controls Neurons With Light",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/",
+    "content": "Optogenetics revolutionized neuroscience, but its origins come from an entirely brainless organism\u2014an alga.",
+    "date": "2026-10-07T20:40:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/07/briefing/the-good-list-nice-rocks-stallone.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Joy to Your Day",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/19/arts/television/jessica-williams-shrinking-emmy.html",
     "content": "The actress has received an Emmy nomination for each season of the Apple TV comedy. She can\u2019t think about winning.",
     "date": "2026-08-19T09:02:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/19/arts/television/monsters-of-god-eric-goode.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Director of \u2018Tiger King\u2019 Takes On the Creepy, Crawly Reptile Trade",
-    "author": "Alexis Soloski and Brian Karlsson",
-    "link": "https://www.nytimes.com/2026/08/19/arts/television/monsters-of-god-eric-goode.html",
-    "content": "Eric Goode\u2019s latest docuseries about the lurid business of exotic animals is also his most personal, not least for examining his own complicity.",
-    "date": "2026-08-19T09:02:27",
     "category": "NYT"
   }
 ]
