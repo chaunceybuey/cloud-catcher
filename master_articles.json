@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ac6ae6f047eb741597f22da",
+    "feed_name": "Wired (Science)",
+    "title": "Tropical Storm Isaias Set to Be First Atlantic Hurricane of 2026 Season",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/tropical-storm-isaias-first-atlantic-hurricane-2026/",
+    "content": "Tropical Storm Isaias is set to become the basin\u2019s first hurricane of the season, bringing life-threatening rain and storm surge to the Gulf Coast.",
+    "date": "2026-10-07T22:00:24",
+    "category": "Magazines"
+  },
+  {
     "id": "6ac695cc0439ce956019bc3d",
     "feed_name": "Wired (Science)",
     "title": "The Science Behind the Nobel-Winning Technology That Controls Neurons With Light",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/19/arts/television/ted-lasso-season-4-episode-3-recap-tryouts.html",
     "content": "Abbie Hern in \u201cTed Lasso.\u201d",
     "date": "2026-08-19T09:02:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/19/arts/television/jessica-williams-shrinking-emmy.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jessica Williams Discusses Her Emmy-Nominated Role in \u2018Shrinking\u2019",
-    "author": "Alexis Soloski and Adali Schell",
-    "link": "https://www.nytimes.com/2026/08/19/arts/television/jessica-williams-shrinking-emmy.html",
-    "content": "The actress has received an Emmy nomination for each season of the Apple TV comedy. She can\u2019t think about winning.",
-    "date": "2026-08-19T09:02:38",
     "category": "NYT"
   }
 ]
