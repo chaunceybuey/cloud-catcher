@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/07/theater/as-you-like-it-review-jonathan-groff.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jonathan Groff Dazzles in a Beautifully Broken \u2018As You Like It\u2019",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/10/07/theater/as-you-like-it-review-jonathan-groff.html",
+    "content": "Technical trouble stalled the opening night of the Royal Shakespeare Company\u2019s all-male take on the comedy. But it was worth the wait.",
+    "date": "2026-10-07T15:43:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/07/arts/dance/benjamin-akio-kimitch-allegra-kent-bugaku.html",
     "feed_name": "NYT (Arts)",
     "title": "In \u2018Allegra\u2019, the Choreography Dives Deep Into Japan\u2019s Ancient Court Dance",
@@ -19988,15 +19998,5 @@
     "content": "Illustration showing U.S. Senate candidates James Talarico and Ken Paxton.",
     "date": "2026-08-18T20:46:35",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-    "author": "Ishani Desai",
-    "link": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
-    "content": "Frank Beard performing with ZZ Top in Salina, Kan., in August 2025.",
-    "date": "2026-08-18T20:41:11",
-    "category": "NYT"
   }
 ]
