@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/07/briefing/the-good-list-nice-rocks-stallone.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Joy to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/10/07/briefing/the-good-list-nice-rocks-stallone.html",
+    "content": "Nice rocks, Sly\u2019s wisdom and peace in the kitchen.",
+    "date": "2026-10-07T20:01:04",
+    "category": "NYT"
+  },
+  {
     "id": "de102342-687d-430b-b076-7c81af28bcac",
     "feed_name": "Economist",
     "title": "Why shares are the new bricks and mortar",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/19/arts/television/monsters-of-god-eric-goode.html",
     "content": "Eric Goode\u2019s latest docuseries about the lurid business of exotic animals is also his most personal, not least for examining his own complicity.",
     "date": "2026-08-19T09:02:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/19/arts/design/priams-treasure-odyssey.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Odyssey of Priam\u2019s Treasure, an Ancient Trove of Artifacts",
-    "author": "Graham Bowley",
-    "link": "https://www.nytimes.com/2026/08/19/arts/design/priams-treasure-odyssey.html",
-    "content": "An undated photo of workers at the site that Schliemann excavated.",
-    "date": "2026-08-19T09:02:14",
     "category": "NYT"
   }
 ]
