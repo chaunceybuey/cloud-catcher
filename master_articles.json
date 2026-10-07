@@ -140,6 +140,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/07/arts/television/ted-lasso-season-finale-recap.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Ted Lasso\u2019 Season 4, Episode 10 Recap: Wrapping Up",
+    "author": "Christopher Orr",
+    "link": "https://www.nytimes.com/2026/10/07/arts/television/ted-lasso-season-finale-recap.html",
+    "content": "\u201cTed Lasso\u201d concluded its fourth season with many big changes.",
+    "date": "2026-10-07T16:16:42",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/07/dining/halloween-candy-prices-callout.html",
+    "feed_name": "NYT (Food)",
+    "title": "We Want to Know: How Have Your Halloween Candy Habits Changed?",
+    "author": "Kim Severson",
+    "link": "https://www.nytimes.com/2026/10/07/dining/halloween-candy-prices-callout.html",
+    "content": "Share your story and it might be included in an upcoming feature.",
+    "date": "2026-10-07T16:13:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/07/arts/television/cupertino-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Cupertino\u2019 Review: The People v. A.I.",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/10/07/arts/television/cupertino-review.html",
+    "content": "Robert and Michelle King have taken on law, politics and religion. Their delightful new legal drama suggests that tech might be the final boss.",
+    "date": "2026-10-07T15:58:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/07/theater/as-you-like-it-review-jonathan-groff.html",
     "feed_name": "NYT (Arts)",
     "title": "Jonathan Groff Dazzles in a Beautifully Broken \u2018As You Like It\u2019",
@@ -19968,35 +19998,5 @@
     "content": "Brian Hickerson has not been accused of being involved in Hayden Panettiere\u2019s death.",
     "date": "2026-08-18T23:10:31",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240275",
-    "feed_name": "Texas Tribune",
-    "title": "Gov. Abbott proposes ban on H-1B visa use for Texas public schools during campaign stop",
-    "author": "Megan Menchaca",
-    "link": "https://feeds.texastribune.org/link/16799/17422554/texas-public-schools-h1b-visa-ban-proposal",
-    "content": "Students at Nimitz Middle School in Odessa line up to enter their next class on Sept. 13, 2023.",
-    "date": "2026-08-18T22:31:36",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240265",
-    "feed_name": "Texas Tribune",
-    "title": "What to know about possible border barriers in Big Bend",
-    "author": "Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17422555/texas-big-bend-national-park-border-wall-plans-explainer",
-    "content": "Southwest Valley employees clear an area near the Santa Elena Canyon trailhead parking lot in Big Bend National Park on Aug. 13, 2026.",
-    "date": "2026-08-18T22:04:29",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240253",
-    "feed_name": "Texas Tribune",
-    "title": "TribCast: Should we believe the polls about Paxton and Talarico?",
-    "author": "Matthew Watkins",
-    "link": "https://feeds.texastribune.org/link/16799/17422496/tribcast-talarico-paxton-polls",
-    "content": "Illustration showing U.S. Senate candidates James Talarico and Ken Paxton.",
-    "date": "2026-08-18T20:46:35",
-    "category": "Texas"
   }
 ]
