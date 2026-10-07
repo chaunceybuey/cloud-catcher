@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "1dd6895bc5cd7d906119bbc8b0f594db",
+    "feed_name": "LRB",
+    "title": "Elizabeth David and ... Postwar Taste",
+    "author": "",
+    "link": "https://warburg.sas.ac.uk/news-events/events/elizabeth-david-and-postwar-taste-2026",
+    "content": "",
+    "date": "2026-10-07T14:20:59",
+    "category": "Magazines"
+  },
+  {
+    "id": "079125599a585c7c96a90df9513e0e63",
+    "feed_name": "Compact",
+    "title": "There Is No \u2018Nordic Model\u2019",
+    "author": "",
+    "link": "https://www.compactmag.com/article/there-is-no-nordic-model/",
+    "content": "",
+    "date": "2026-10-07T14:20:54",
+    "category": "Magazines"
+  },
+  {
     "id": "https://stratechery.com/?p=20245",
     "feed_name": "Stratechery",
     "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
@@ -19978,25 +19998,5 @@
     "content": "The steak frites tastes of beef to the power of 1,000.",
     "date": "2026-08-18T20:02:40",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240239",
-    "feed_name": "Texas Tribune",
-    "title": "Minnesota sues Abbott to force extradition of ICE agent accused of shooting Venezuelan man",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17422433/minnesota-sues-abbott-texas-ice-agent-extradition-lawsuit",
-    "content": "Gov. Greg Abbott speaks during a news conference at the Governor\u2019s Mansion in Austin on Aug. 10, 2026.",
-    "date": "2026-08-18T18:58:02",
-    "category": "Texas"
-  },
-  {
-    "id": "fe04e0535ceff00b88e45e08b531130e",
-    "feed_name": "LRB",
-    "title": "The Publishers\u2019 Plot",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/the-publishers-plot",
-    "content": "In May 2025, ten people affiliated with Eksmo, Russia\u2019s publishing behemoth, were detained in Moscow. Three of them, Pavel Ivanov, Dmitry.\u00a0.\u00a0.",
-    "date": "2026-08-18T18:39:51",
-    "category": "Magazines"
   }
 ]
