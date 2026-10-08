@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/online/2026/10/02/the-private-life-of-power/",
+    "feed_name": "NYRB",
+    "title": "The Private Life of Power",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/10/02/the-private-life-of-power/",
+    "content": "Can novels reveal the inner lives of far-right leaders and the ordinary people who vote for them?\n\nDelivered by PolitePaul service",
+    "date": "2026-10-08T04:18:57",
+    "category": "Magazines"
+  },
+  {
     "id": "6ac6ae6f047eb741597f22da",
     "feed_name": "Wired (Science)",
     "title": "Tropical Storm Isaias Set to Be First Atlantic Hurricane of 2026 Season",
@@ -19988,15 +19998,5 @@
     "content": "McKenna West is fighting for custody of the child she carried as a surrogate.",
     "date": "2026-08-19T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/19/arts/television/ted-lasso-season-4-episode-3-recap-tryouts.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Ted Lasso\u2019 Season 4, Episode 3 Recap: Tryouts",
-    "author": "Christopher Orr",
-    "link": "https://www.nytimes.com/2026/08/19/arts/television/ted-lasso-season-4-episode-3-recap-tryouts.html",
-    "content": "Abbie Hern in \u201cTed Lasso.\u201d",
-    "date": "2026-08-19T09:02:58",
-    "category": "NYT"
   }
 ]
