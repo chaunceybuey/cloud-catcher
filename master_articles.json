@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/movies/fjord-review-cristian-mungiu-sebastian-stan.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Fjord\u2019 Review: A Moral Rorschach Test",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/10/08/movies/fjord-review-cristian-mungiu-sebastian-stan.html",
+    "content": "Cristian Mungiu\u2019s latest psychological thriller stars Sebastian Stan as the Romanian patriarch of a devout family in Norway, with Renate Reinsve as his wife.",
+    "date": "2026-10-08T16:39:20",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/08/theater/ryan-j-haddad-good-time-charlie.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How a Theater-Loving Uncle Led Him to His Dream",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/10/08/theater/ryan-j-haddad-good-time-charlie.html",
+    "content": "Ryan J. Haddad outside the Public Theater.",
+    "date": "2026-10-08T16:35:24",
+    "category": "NYT"
+  },
+  {
     "id": "ba1c6b996f2f0c250ff9a9afc62403f8",
     "feed_name": "LRB",
     "title": "Beware the man whose handwriting sways like a reed in the wind",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/20/arts/music/sullivan-fortner-leave-it-in-there.html",
     "content": "This standards-leaning pianist has made fans of jazz\u2019s heavyweights. On \u201cLeave That in There,\u201d out Aug. 28, his playful originals reveal another level of virtuosity.",
     "date": "2026-08-20T09:02:46",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/movies/the-snare-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Snare\u2019 Review: Stuck, With No Good Way Out",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/08/20/movies/the-snare-review.html",
-    "content": "Written and directed by Merlin Camozzi, the film is a potent critique of the tactics used to fight the war on drugs.",
-    "date": "2026-08-20T09:02:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/movies/the-marching-band-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Marching Band\u2019 Review: A Different Kind of Music",
-    "author": "Lisa Kennedy",
-    "link": "https://www.nytimes.com/2026/08/20/movies/the-marching-band-review.html",
-    "content": "An orchestra director returns to France and bonds with his working-class brother in this feel-good movie.",
-    "date": "2026-08-20T09:02:33",
     "category": "NYT"
   }
 ]
