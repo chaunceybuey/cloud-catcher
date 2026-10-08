@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/arts/television/kimmel-trump-presidential-retreat.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Pans Trump\u2019s Plan for a New Presidential Retreat",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/08/arts/television/kimmel-trump-presidential-retreat.html",
+    "content": "\u201cWhat is with all these projects? Not one of them is finished,\u201d Kimmel said in response to the possibility of a Camp David-style retreat in Florida.",
+    "date": "2026-10-08T06:39:58",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/online/2026/10/02/the-private-life-of-power/",
     "feed_name": "NYRB",
     "title": "The Private Life of Power",
@@ -19988,15 +19998,5 @@
     "content": "<p>Apple's App Store is finally facing the reality of lower fees, and the EU should be satisfied with its work; it's ok it's late.</p>",
     "date": "2026-08-19T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240299",
-    "feed_name": "Texas Tribune",
-    "title": "A surrogate\u2019s fight for parental rights in Dallas could discourage surrogacy use in Texas, lawyers say",
-    "author": "Katlyn Ma",
-    "link": "https://feeds.texastribune.org/link/16799/17422830/texas-surrogacy-agreement-laws-parental-rights-abortion",
-    "content": "McKenna West is fighting for custody of the child she carried as a surrogate.",
-    "date": "2026-08-19T10:00:00",
-    "category": "Texas"
   }
 ]
