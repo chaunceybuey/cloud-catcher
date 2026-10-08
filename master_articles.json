@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/dining/my-least-favorite-vegetable.html",
+    "feed_name": "NYT (Food)",
+    "title": "My Least Favorite Vegetable",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/10/08/dining/my-least-favorite-vegetable.html",
+    "content": "Samin Nosrat\u2019s butternut squash and green curry soup.",
+    "date": "2026-10-08T17:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/movies/fjord-review-cristian-mungiu-sebastian-stan.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Fjord\u2019 Review: A Moral Rorschach Test",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/20/theater/music-city-jt-harding-broadway.html",
     "content": "J.T. Harding, whose music drives \u201cMusic City\u201d on Broadway, has credits on hits like \u201cSmile\u201d and \u201cAlone With You.\u201d",
     "date": "2026-08-20T09:02:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/arts/music/sullivan-fortner-leave-it-in-there.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sullivan Fortner Can\u2019t Dodge the Spotlight Much Longer",
-    "author": "Hank Shteamer and Lexi Parra",
-    "link": "https://www.nytimes.com/2026/08/20/arts/music/sullivan-fortner-leave-it-in-there.html",
-    "content": "This standards-leaning pianist has made fans of jazz\u2019s heavyweights. On \u201cLeave That in There,\u201d out Aug. 28, his playful originals reveal another level of virtuosity.",
-    "date": "2026-08-20T09:02:46",
     "category": "NYT"
   }
 ]
