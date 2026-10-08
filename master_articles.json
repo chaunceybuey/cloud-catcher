@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/dining/big-plates.html",
+    "feed_name": "NYT (Food)",
+    "title": "Down With the Small Plate",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/10/08/dining/big-plates.html",
+    "content": "In Rego Park, Queens, it\u2019s all you can plov, the Uzbek staple teaming with rice, meat and veggies.",
+    "date": "2026-10-08T19:50:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/arts/the-blood-dawnwalker-review.html",
     "feed_name": "NYT (Arts)",
     "title": "The Blood of the Dawnwalker Is a Gripping Vampire R.P.G.",
@@ -19988,15 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>For buying a car, I did more research and it looks like most dealers want the address on the check, but I'm gonna take a pause on that then just try to wire if I ended up not doing the financing.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>It's been a while, but last two cars I bought (DW's in 2017 and mine in 2018), two different dealers, I did with a personal check, our names, no address (after paying as much as I could with my cash back credit card).  Neither dealer batted an eye at the personal check with just a name on it, but again, they already had copies of drivers license from the test drives, so they knew where we lived.  DW's car had been totaled in an accident caused by another driver, so we didn't even have a tradein as collateral.  So, yeah, I'm sure its 100% YMMV by dealer, but in general, I expect you'd be fine.<br /><br />I think the only time you'd really have a problem is if you went in with a starter check, those generic blank ones B&amp;M banks use to give out with a new checking account.  There was a time stores/companies wouldn't take a starter check or if the number on the printed check was less then 100 or 1000 or something, but that was years and years ago, before Debit and Credit cards became so ubiquitous.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=182916\">volstagg</a> \u2014 Thu Aug 20, 2026 6:16 am</p><hr />",
     "date": "2026-08-20T11:16:12",
     "category": "Finance"
-  },
-  {
-    "id": "6a4be3a7b0c984e61e0cd0fc",
-    "feed_name": "Wired",
-    "title": "How Teen \u2018After-Prom\u2019 Kings in LA Monetized the High School Rager",
-    "author": "Manisha Krishnan",
-    "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
-    "content": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
-    "date": "2026-08-20T10:00:00",
-    "category": "Magazines"
   }
 ]
