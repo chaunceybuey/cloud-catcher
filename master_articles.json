@@ -200,6 +200,26 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=245809",
+    "feed_name": "Texas Tribune",
+    "title": "In attacking Talarico for campaign absence, Trump calls for debate that Paxton has avoided",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17492227/texas-senate-james-talarico-flu-ken-paxton-debate-trump",
+    "content": "President Donald Trump campaigns with  Senate GOP nominee Ken Paxton at a rally at the Freeman Coliseum in San Antonio on Oct. 7, 2026.",
+    "date": "2026-10-08T16:12:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=245663",
+    "feed_name": "Texas Tribune",
+    "title": "When a rural Texas school district struggled with growth, charter schools filled the void",
+    "author": "Stephen Simpson and Rob Reid",
+    "link": "https://feeds.texastribune.org/link/16799/17492228/texas-rural-public-schools-charter-growth-struggle",
+    "content": "Students gather on the front steps of the high school building on the International Leadership of Texas public charter school campus in the Colony Ridge neighborhood on Monday, Oct. 5, 2026, northeast of Houston.",
+    "date": "2026-10-08T16:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "ba1c6b996f2f0c250ff9a9afc62403f8",
     "feed_name": "LRB",
     "title": "Beware the man whose handwriting sways like a reed in the wind",
@@ -19978,25 +19998,5 @@
     "content": "Freedom of navigation is worth preserving",
     "date": "2026-08-20T09:21:32",
     "category": "Magazines"
-  },
-  {
-    "id": "2d2d892d-331f-4db1-933e-3ae07d585f00",
-    "feed_name": "Economist",
-    "title": "However you measure it, China\u2019s job market is weak",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
-    "content": "Some workers are going back to the farm",
-    "date": "2026-08-20T09:21:25",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/theater/music-city-jt-harding-broadway.html",
-    "feed_name": "NYT (Arts)",
-    "title": "J.T. Harding on Crafting the Hits of Broadway\u2019s \u2018Music City\u2019",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/08/20/theater/music-city-jt-harding-broadway.html",
-    "content": "J.T. Harding, whose music drives \u201cMusic City\u201d on Broadway, has credits on hits like \u201cSmile\u201d and \u201cAlone With You.\u201d",
-    "date": "2026-08-20T09:02:59",
-    "category": "NYT"
   }
 ]
