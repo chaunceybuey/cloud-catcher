@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/movies/christian-mungiu-fjord.html",
+    "feed_name": "NYT (Arts)",
+    "title": "He Won\u2019t Tell You What to Think. Some Viewers Can\u2019t Forgive Him for That.",
+    "author": "Thomas Rogers",
+    "link": "https://www.nytimes.com/2026/10/08/movies/christian-mungiu-fjord.html",
+    "content": "Cristian Mungiu said his latest movie, \u201cFjord,\u201d \u201cwas a \u201cnonjudgmental\u201d invitation for viewers to consider how open-minded they really are.",
+    "date": "2026-10-08T09:17:55",
+    "category": "NYT"
+  },
+  {
+    "id": "6ac6811205d11e0e9a2c9822",
+    "feed_name": "Wired (Science)",
+    "title": "A Scientist Working on the \u2018IceCube\u2019 Neutrino Detector Explains the Nobel Prize\u2013Winning Technology",
+    "author": "Javier Carbajal",
+    "link": "https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/",
+    "content": "\u201cDetecting a neutrino is like looking for a needle in a haystack,\u201d says Juan Carlos D\u00edaz V\u00e9lez, who breaks down why researchers are looking for the cosmic particles under the Antarctic ice.",
+    "date": "2026-10-08T09:15:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/dining/broadway-diners-singing-ellens-stardust.html",
     "feed_name": "NYT (Food)",
     "title": "Broadway\u2019s New Heated Rivalry: Two Diners With Singing Waiters",
@@ -19978,25 +19998,5 @@
     "content": "ZACH THEATER PRESENTS:\n\nCOME AWAY FROM\n\nAugust 19 - September 27 | 2:30 P.M. or 7:30 P.M. | The Topfer\n\n\n\nWhen 7,000 airline passengers were diverted on 9/11, a tiny town in Newfoundland welcomed them with open arms. Locals didn\u2019t hesitate to invite the \u201ccome from awayers\u201d into their homes and their lives in the days that followed. This Tony Award-winning musical phenomenon sweeps audiences into a communal experience that\u2019s as warm, lively, and spirited as the people of Gander. Driven by an infectious Celtic folk and bluegrass-inspired score,\u00a0Come From Away\u00a0shines a light on the very best of humanity in a story that\u2019s impossible to forget.\n\nBUY TICKETS!\n\nEvent Details\nDate: Thursday, August 27th - Sunday, September 27th\nTime: 2:30 P.M. or 7:30 P.M. Showtimes\nVenue: Zach Theater\n\nTicket Information\nCost: \nPhone: $58 - $115\n\nPresenter Details: We believe in the power of light\u2014to illuminate new ideas, spark imagination, and bring people together. As Austin\u2019s leading professional producing theater, we create vibrant, intimate theater experiences that engage, inspire, and connect our community.\n\nA non-profit organization, Zach produces a dazzling lineup of nationally recognized plays and musicals, each one crafted to shine a light on stories that are bold, timely, and relevant to Central Texas audiences. Under the leadership of Producing Artistic Director Dave Steakley and Managing Director Jamie Herlich, Zach employs more than 250 actors, musicians, and designers each year, ensuring that every production glows with artistic excellence.\n\nBeyond the stage, Zach\u2019s impact radiates throughout the community, reaching more than 125,000 Central Texans annually, including 35,000 young people who discover their own creative spark through our education programs, outreach initiatives, and inspiring camps and classes.",
     "date": "2026-08-19T19:30:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/19/nyregion/derrick-parker-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Derrick Parker, Known as New York\u2019s \u2018Hip-Hop Cop,\u2019 Dies at 65",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/08/19/nyregion/derrick-parker-dead.html",
-    "content": "A veteran detective with deep connections in the city\u2019s rap scene, he served as a one-man intelligence unit and liaison to the music world.",
-    "date": "2026-08-19T19:27:24",
-    "category": "NYT"
-  },
-  {
-    "id": "31da1793957ad9a21db93d6cf87ca4cb",
-    "feed_name": "The Atlantic",
-    "title": "The \u2018Resistance\u2019 Is Over",
-    "author": "David Frum",
-    "link": "https://www.theatlantic.com/ideas/2026/08/democratic-primaries-left-dsa-trump/688327/",
-    "content": "The insurgent left cares more about its own factional agenda than the president\u2019s threats to democracy.",
-    "date": "2026-08-19T19:22:00",
-    "category": "Magazines"
   }
 ]
