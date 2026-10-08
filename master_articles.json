@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/arts/dance/metropolitan-opera-macbeth-georgian-dancers.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At the Met Opera, Gravity-Defying Feats From an Unlikely Source: Georgian Dancers",
+    "author": "Rachel Sherman",
+    "link": "https://www.nytimes.com/2026/10/08/arts/dance/metropolitan-opera-macbeth-georgian-dancers.html",
+    "content": "Why include traditional Georgian dance in a production of \u201cMacbeth\u201d? For the opera, the action director wanted something visceral: \u201cI wanted to actually smell the sweat.\u201d",
+    "date": "2026-10-08T14:42:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/08/t-magazine/esphyr-slobodkina-art-exhibition.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Esphyr Slobodkina Found Fame With \u201cCaps for Sale.\u201d A New Exhibition Shows Her Range.",
+    "author": "",
+    "link": "https://www.nytimes.com/2026/10/08/t-magazine/esphyr-slobodkina-art-exhibition.html",
+    "content": "Plus: sunset-colored sweaters, a minimalist restaurant in Tokyo and more recommendations from T Magazine.",
+    "date": "2026-10-08T14:42:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/arts/michelle-obama-trump-jackie-kennedy-presidential-essays.html",
     "feed_name": "NYT (Arts)",
     "title": "Michelle Obama, Praising Past White House Remodels, Takes Veiled Aim at Trump",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/20/arts/design/rietveld-houses-exhibition-center-for-architecture.html",
     "content": "A riveting exhibition of photographs of homes by Gerrit Rietveld unearths a mastery, beyond furniture design, of \u201ca new way of living.\u201d",
     "date": "2026-08-20T09:02:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/theater/edinburgh-festival-fringe.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How to Make Sense of 4,000 Edinburgh Shows: Just Soak It All Up",
-    "author": "Helen Shaw",
-    "link": "https://www.nytimes.com/2026/08/20/theater/edinburgh-festival-fringe.html",
-    "content": "A line outside a pub that served as a Fringe venue in Edinburgh this month.",
-    "date": "2026-08-20T09:01:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/movies/it-ends-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018It Ends\u2019 Review: On the Road to Nowhere",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/08/20/movies/it-ends-review.html",
-    "content": "A taut, efficient thriller about four recent graduates on a road trip delivers existential dread.",
-    "date": "2026-08-20T09:01:50",
     "category": "NYT"
   }
 ]
