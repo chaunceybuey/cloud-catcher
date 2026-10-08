@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/dining/nigella-lawsons-buttermilk-roast-chicken.html",
+    "feed_name": "NYT (Food)",
+    "title": "Nigella Lawson\u2019s Buttermilk Roast Chicken",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/08/dining/nigella-lawsons-buttermilk-roast-chicken.html",
+    "content": "Nigella Lawson\u2019s buttermilk roast chicken.",
+    "date": "2026-10-08T15:00:12",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/sicilian-inspired-dinner-menu",
+    "feed_name": "NYT (Food)",
+    "title": "Let This Dinner Menu Take You to Sicily, No Passport Needed",
+    "author": "David Tanis",
+    "link": "https://cooking.nytimes.com/article/sicilian-inspired-dinner-menu",
+    "content": "A Sicilian-style pasta anchors this beautiful, produce-packed dinner party spread.",
+    "date": "2026-10-08T14:51:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/arts/dance/metropolitan-opera-macbeth-georgian-dancers.html",
     "feed_name": "NYT (Arts)",
     "title": "At the Met Opera, Gravity-Defying Feats From an Unlikely Source: Georgian Dancers",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/20/movies/freefall-a-reckoning-for-boeing-review.html",
     "content": "In a follow-up to the 2022 documentary \u201cDownfall,\u201d the documentarian Rory Kennedy provides updates, few reassuring, on the aircraft manufacturer.",
     "date": "2026-08-20T09:02:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/arts/music/alabama-shakes-i-must-be-dreaming-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Alabama Shakes Return With New Album \u2018I Must Be Dreaming\u2019",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/08/20/arts/music/alabama-shakes-i-must-be-dreaming-interview.html",
-    "content": "From left, Brittany Howard, Zac Cockrell and Heath Fogg of Alabama Shakes. The band\u2019s new album, \u201cI Must Be Dreaming,\u201d follows an extended hiatus.",
-    "date": "2026-08-20T09:02:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/arts/design/rietveld-houses-exhibition-center-for-architecture.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Show of Houses by Dutch Modernist Architect Shines a Light on Gem in U.S.",
-    "author": "Wendy Moonan",
-    "link": "https://www.nytimes.com/2026/08/20/arts/design/rietveld-houses-exhibition-center-for-architecture.html",
-    "content": "A riveting exhibition of photographs of homes by Gerrit Rietveld unearths a mastery, beyond furniture design, of \u201ca new way of living.\u201d",
-    "date": "2026-08-20T09:02:05",
     "category": "NYT"
   }
 ]
