@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Anne Carson Is Awarded Nobel Prize in Literature",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html",
+    "content": "Anne Carson at a reading in New York in 2008.",
+    "date": "2026-10-08T11:13:17",
+    "category": "NYT"
+  },
+  {
     "id": "6ac6c834e787bef36ea21130",
     "feed_name": "Wired (Science)",
     "title": "Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry",
@@ -19988,15 +19998,5 @@
     "content": "A vivid show of 19th and 20th century Hindu devotional prints showcases the country\u2019s genius for aesthetic abundance.",
     "date": "2026-08-20T09:00:08",
     "category": "NYT"
-  },
-  {
-    "id": "6a836b39749a8e03cd8d0b35",
-    "feed_name": "Wired (Science)",
-    "title": "Salmonella Is Everywhere",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/salmonella-is-everywhere/",
-    "content": "From granola to guacamole, a wide variety of foods have been recalled lately over salmonella risks. Experts say common-sense precautions go a long way.",
-    "date": "2026-08-20T09:00:00",
-    "category": "Magazines"
   }
 ]
