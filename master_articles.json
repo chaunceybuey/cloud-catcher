@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/arts/the-blood-dawnwalker-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Blood of the Dawnwalker Is a Gripping Vampire R.P.G.",
+    "author": "Christopher Byrd",
+    "link": "https://www.nytimes.com/2026/10/08/arts/the-blood-dawnwalker-review.html",
+    "content": "The Blood of the Dawnwalker is a gripping R.P.G. exploration of power and violence.",
+    "date": "2026-10-08T18:50:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/aau-child-sex-abuse-house-energy-commerce-committee-probe-amateur-athletic-union",
     "feed_name": "ProPublica",
     "title": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
@@ -19988,15 +19998,5 @@
     "content": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
     "date": "2026-08-20T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240362",
-    "feed_name": "Texas Tribune",
-    "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17423785/texas-us-senate-race-donors-ken-paxton-james-talarico",
-    "content": "Texas Attorney General Ken Paxton speaks at the Red River Roll Call, a Republican rally hosted by state Rep. Shelley Luther in Sherman on July 27, 2026.",
-    "date": "2026-08-20T10:00:00",
-    "category": "Texas"
   }
 ]
