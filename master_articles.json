@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/arts/michelle-obama-trump-jackie-kennedy-presidential-essays.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Michelle Obama, Praising Past White House Remodels, Takes Veiled Aim at Trump",
+    "author": "Jennifer Schuessler",
+    "link": "https://www.nytimes.com/2026/10/08/arts/michelle-obama-trump-jackie-kennedy-presidential-essays.html",
+    "content": "Laura Bush and Michelle Obama in the White House in 2009. Mrs. Obama published an essay on Thursday hailing the contributions to the White House from several former first ladies.",
+    "date": "2026-10-08T12:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html",
     "feed_name": "NYT (Arts)",
     "title": "Anne Carson Is Awarded Nobel Prize in Literature",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/20/movies/it-ends-review.html",
     "content": "A taut, efficient thriller about four recent graduates on a road trip delivers existential dread.",
     "date": "2026-08-20T09:01:50",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/arts/design/from-india-a-god-of-your-choice-to-display-at-home.html",
-    "feed_name": "NYT (Arts)",
-    "title": "From India, a God of Your Choice, to Display at Home",
-    "author": "Will Heinrich",
-    "link": "https://www.nytimes.com/2026/08/20/arts/design/from-india-a-god-of-your-choice-to-display-at-home.html",
-    "content": "A vivid show of 19th and 20th century Hindu devotional prints showcases the country\u2019s genius for aesthetic abundance.",
-    "date": "2026-08-20T09:00:08",
     "category": "NYT"
   }
 ]
