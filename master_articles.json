@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/movies/animals-review-the-politicians-dilemma.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Animals\u2019 Review: The Politician\u2019s Dilemma",
+    "author": "Jeannette Catsoulis",
+    "link": "https://www.nytimes.com/2026/10/08/movies/animals-review-the-politicians-dilemma.html",
+    "content": "Ben Affleck plays a mayoral candidate who\u2019s having a very bad day in this fizz-free political thriller.",
+    "date": "2026-10-08T23:00:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=245946",
+    "feed_name": "Texas Tribune",
+    "title": "Firing squad execution of Fort Hood shooter will be livestreamed, Pentagon says",
+    "author": "By Konstantin Toropin,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17492434/fort-hood-texas-shooter-execution-firing-squad",
+    "content": "The U.S. Disciplinary Barracks, where Nidal Malik Hasan is being held on death row, is seen at Fort Leavenworth. Hasan was convicted of killing 13 people and wounding 32 others during a mass shooting at Fort Hood in 2009.",
+    "date": "2026-10-08T22:08:36",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/books/anne-carson-nobel-prize-princeton-university-tenure-denied.html",
     "feed_name": "NYT (Arts)",
     "title": "Princeton Celebrates Anne Carson, a Nobel Winner Whom It Denied Tenure",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/20/arts/dance/ted-striggles-dead.html",
     "content": "He was best known for the influential 1976 guide \u201cPoor Dancer\u2019s Almanac,\u201d which aimed to help starving artists survive in New York.",
     "date": "2026-08-20T15:54:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/arts/music/ileana-cotrubas-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ileana Cotrubas, Sensitive Soprano Known for \u2018Traviata,\u2019 Dies at 87",
-    "author": "Vivien Schweitzer",
-    "link": "https://www.nytimes.com/2026/08/20/arts/music/ileana-cotrubas-dead.html",
-    "content": "Ileana Cotrubas in the mid-1960s. A critic wrote that she had the ability \u201cto make the audience\u2019s heart beat just that much faster as soon as she appears onstage.\u201d",
-    "date": "2026-08-20T15:50:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/dining/going-big-on-shrimp-sliders.html",
-    "feed_name": "NYT (Food)",
-    "title": "Going Big on Shrimp Sliders",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/08/20/dining/going-big-on-shrimp-sliders.html",
-    "content": "Kay Chun\u2019s shrimp and tofu sliders.",
-    "date": "2026-08-20T15:00:06",
     "category": "NYT"
   }
 ]
