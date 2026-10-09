@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/09/arts/television/latenight-michael-kosta-kimberly-guilfoyle.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Michael Kosta Slams Kimberly Guilfoyle Over Reports She Asked Donor to Pay $100,000 Bill",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/09/arts/television/latenight-michael-kosta-kimberly-guilfoyle.html",
+    "content": "\u201cMan, if the Justice Department still existed, you\u2019d be in so much trouble,\u201d Michael Kosta said on \u201cThe Daily Show.\u201d",
+    "date": "2026-10-09T07:12:55",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=245965",
     "feed_name": "Texas Tribune",
     "title": "Houston Democrats push for guardrails on school takeovers",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/08/trump-north-korean-iran-nuclear-weapons/688339/",
     "content": "He may also have blurted out classified information about North Korea.",
     "date": "2026-08-20T16:54:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "0111a8ec0d3e4a1503b8610d01641e75",
-    "feed_name": "LRB",
-    "title": "Deported for Leaving the Country",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/deported-for-leaving-the-country",
-    "content": "Faridoon Tofan wanted to see Rome. The 46-year-old Afghan national had been living in Germany since 2022 without leaving the country. His asylum.\u00a0.\u00a0.",
-    "date": "2026-08-20T16:36:31",
     "category": "Magazines"
   }
 ]
