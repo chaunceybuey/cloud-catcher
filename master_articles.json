@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/09/world/europe/renoir-museum-artworks-theft-france-arrests.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Paintings Stolen From Renoir Museum Are Recovered, Authorities Say",
+    "author": "S\u00e9gol\u00e8ne Le Stradic",
+    "link": "https://www.nytimes.com/2026/10/09/world/europe/renoir-museum-artworks-theft-france-arrests.html",
+    "content": "A police officer at the entrance to the Renoir Museum in Cagnes-sur-Mer, France after the robbery in September.",
+    "date": "2026-10-09T13:55:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/ken-paxton-travel-security-costs",
     "feed_name": "ProPublica",
     "title": "Ken Paxton\u2019s Security for Travel Cost Taxpayers Millions. Just 1 in 6 of His Trips Had a Stated Business Purpose.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/21/movies/five-free-movies-to-stream-now.html",
     "content": "Sprinting to the edge because they have nothing left to lose: This month\u2019s picks include \u201cThief,\u201d \u201cDog Day Afternoon\u201d and \u201cGloria.\u201d",
     "date": "2026-08-21T09:03:52",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/21/arts/television/diarra-from-detroit-diarra-kilpatrick.html",
-    "feed_name": "NYT (Arts)",
-    "title": "This Diarra From Detroit Digs Into Her Hometown\u2019s Mysteries",
-    "author": "Salamishah Tillet",
-    "link": "https://www.nytimes.com/2026/08/21/arts/television/diarra-from-detroit-diarra-kilpatrick.html",
-    "content": "The comic noir \u201cDiarra From Detroit\u201d gives Diarra Kilpatrick, the creator and star, a chance to explore the \u201clittle treasures\u201d of her city.",
-    "date": "2026-08-21T09:03:04",
     "category": "NYT"
   }
 ]
