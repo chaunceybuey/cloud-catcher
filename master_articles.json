@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/09/arts/kennedy-center-trump-rick-canny.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Kennedy Center Appoints an Artistic Director Amid Turmoil",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/10/09/arts/kennedy-center-trump-rick-canny.html",
+    "content": "The Kennedy Center\u2019s main building has been closed temporarily for weeks, and it may be closed for years for renovations. But it has signed up a new artistic director.",
+    "date": "2026-10-09T17:46:45",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=20267",
     "feed_name": "Stratechery",
     "title": "2026.41: It\u2019s Not You, It\u2019s Me",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/21/dining/our-classic-marinara-sauce-with-five-stars-and-over-12000-reviews.html",
     "content": "Lidia Bastianich\u2019s classic marinara sauce, adapted by Julia Moskin.",
     "date": "2026-08-21T15:00:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/21/movies/international-movies-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five International Movies to Stream Now",
-    "author": "Devika Girish",
-    "link": "https://www.nytimes.com/2026/08/21/movies/international-movies-streaming.html",
-    "content": "Shirley Cruz as Gal, pulling a hand-truck with her kids, in \u201cThe Best Mother in the World.\u201d",
-    "date": "2026-08-21T15:00:05",
     "category": "NYT"
   }
 ]
