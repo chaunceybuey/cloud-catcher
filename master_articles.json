@@ -180,6 +180,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=245655",
+    "feed_name": "Texas Tribune",
+    "title": "Mayes Middleton, running for Texas attorney general, wants to \u201cput God back in government\u201d",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17492714/mayes-middleton-texas-attorney-general-church-state-christianity",
+    "content": "State Sen. Mayes Middleton, Republican candidate for Texas attorney general, walks on stage at the 2026 Texas State Republican Convention in Houston onJune 12, 2026.",
+    "date": "2026-10-09T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=245691",
+    "feed_name": "Texas Tribune",
+    "title": "Ken Paxton took nearly 1,000 trips with state-funded security detail costing millions of dollars",
+    "author": "By Zach Despart, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17492715/ken-paxton-travel-costs",
+    "content": "The Texas attorney general\u2019s use of a taxpayer-funded travel security detail stands out when compared with his predecessor and other state officials, our analysis found.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17492715.gif\" width=\"1\" />",
+    "date": "2026-10-09T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/maricopa-county-homeless-hub-hotline-shelters",
     "feed_name": "ProPublica",
     "title": "An Arizona County\u2019s \u201cHousing Hub\u201d Is a Dead End for Many Homeless Families",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/21/arts/television/diarra-from-detroit-diarra-kilpatrick.html",
     "content": "The comic noir \u201cDiarra From Detroit\u201d gives Diarra Kilpatrick, the creator and star, a chance to explore the \u201clittle treasures\u201d of her city.",
     "date": "2026-08-21T09:03:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/21/arts/television/richard-gadd-emmys-half-man.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Richard Gadd Had Never Heard of the Manosphere",
-    "author": "Leah Greenblatt and Lucia Bell-Epstein",
-    "link": "https://www.nytimes.com/2026/08/21/arts/television/richard-gadd-emmys-half-man.html",
-    "content": "The creator and star of \u201cHalf Man\u201d didn\u2019t have a particular agenda for this dark tale of male repression. But \u201cpeople think that it\u2019s a political piece of work,\u201d he said.",
-    "date": "2026-08-21T09:02:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/21/sports/sailing/carlo-borlenghi-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Carlo Borlenghi, Who Turned Sailing Photography Into an Art, Dies at 70",
-    "author": "Trip Gabriel",
-    "link": "https://www.nytimes.com/2026/08/21/sports/sailing/carlo-borlenghi-dead.html",
-    "content": "Carlo Borlenghi\u2019s undated image of yachts racing on Lake Como, in Italy. Mr. Borlenghi began his career by photographing friends in sailboats on the lake near Bellano, where he grew up.",
-    "date": "2026-08-21T09:02:32",
     "category": "NYT"
   }
 ]
