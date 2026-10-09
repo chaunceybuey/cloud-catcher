@@ -170,6 +170,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=245965",
+    "feed_name": "Texas Tribune",
+    "title": "Houston Democrats push for guardrails on school takeovers",
+    "author": "Sneha Dey and Megan Menchaca",
+    "link": "https://feeds.texastribune.org/link/16799/17492481/texas-school-takeover-power-limits-houston",
+    "content": "State-appointed Houston ISD Superintendent Mike Miles observes a timed Demonstration of Learning, or DOL, where students are immediately tested and graded for a concept they just learned, at Fonville Middle School on Aug. 26, 2026, in north Houston.",
+    "date": "2026-10-09T00:42:40",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/movies/animals-review-the-politicians-dilemma.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Animals\u2019 Review: The Politician\u2019s Dilemma",
@@ -19988,15 +19998,5 @@
     "content": "Faridoon Tofan wanted to see Rome. The 46-year-old Afghan national had been living in Germany since 2022 without leaving the country. His asylum.\u00a0.\u00a0.",
     "date": "2026-08-20T16:36:31",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/20/arts/dance/ted-striggles-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ted Striggles, Who Helped His Fellow Dancers as a Lawyer, Dies at 84",
-    "author": "Brian Seibert",
-    "link": "https://www.nytimes.com/2026/08/20/arts/dance/ted-striggles-dead.html",
-    "content": "He was best known for the influential 1976 guide \u201cPoor Dancer\u2019s Almanac,\u201d which aimed to help starving artists survive in New York.",
-    "date": "2026-08-20T15:54:12",
-    "category": "NYT"
   }
 ]
