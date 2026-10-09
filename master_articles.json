@@ -170,6 +170,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/09/books/new-directions-nobel-anne-carson.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Anne Carson\u2019s Publisher Has Won the Nobel Prize Twice in Two Years",
+    "author": "Ronda Kaysen",
+    "link": "https://www.nytimes.com/2026/10/09/books/new-directions-nobel-anne-carson.html",
+    "content": "Declan Spring, Mieke Chew and Barbara Epler of New Directions Publishing.",
+    "date": "2026-10-09T14:39:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/filipino-style-eggplant-omelets",
+    "feed_name": "NYT (Food)",
+    "title": "Why I Can\u2019t Stop Making Eggplant Omelets, Filipino-Style",
+    "author": "Eric Kim",
+    "link": "https://cooking.nytimes.com/article/filipino-style-eggplant-omelets",
+    "content": "Easy and delicious tortang talong is a staple of Filipino home cooking. It\u2019s also a canvas, ready to be topped to your liking.",
+    "date": "2026-10-09T14:33:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/09/world/europe/renoir-museum-artworks-theft-france-arrests.html",
     "feed_name": "NYT (Arts)",
     "title": "Paintings Stolen From Renoir Museum Are Recovered, Authorities Say",
@@ -19978,25 +19998,5 @@
     "content": "Andy Burnham will soon become the UK\u2019s seventh prime minister since 2010 and will face many of the same problems that defeated his predecessors, not least the UK\u2019s stubbornly weak economy. To dissect the collapse of the Starmer project and the prospects for a Burnham administration, James is joined by Patrick Maguire, chief political commentator for theTimes, and William Davies, a...",
     "date": "2026-08-21T09:37:48",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/21/movies/new-movies-this-week-critics.html",
-    "feed_name": "NYT (Arts)",
-    "title": "8 New Movies Our Critics Are Talking About This Week",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/2026/08/21/movies/new-movies-this-week-critics.html",
-    "content": "Whether you\u2019re a casual moviegoer or an avid buff, our reviewers think these films are worth knowing about.",
-    "date": "2026-08-21T09:03:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/21/movies/five-free-movies-to-stream-now.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five Free Movies to Stream Now",
-    "author": "Brandon Yu",
-    "link": "https://www.nytimes.com/2026/08/21/movies/five-free-movies-to-stream-now.html",
-    "content": "Sprinting to the edge because they have nothing left to lose: This month\u2019s picks include \u201cThief,\u201d \u201cDog Day Afternoon\u201d and \u201cGloria.\u201d",
-    "date": "2026-08-21T09:03:52",
-    "category": "NYT"
   }
 ]
