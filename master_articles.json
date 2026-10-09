@@ -480,6 +480,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/08/movies/animals-review-netflix-ben-affleck.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Animals\u2019 Review: Ben Affleck\u2019s Political Dilemma",
+    "author": "Jeannette Catsoulis",
+    "link": "https://www.nytimes.com/2026/10/08/movies/animals-review-netflix-ben-affleck.html",
+    "content": "Ben Affleck plays a mayoral candidate who\u2019s having a very bad day in this fizz-free political thriller.",
+    "date": "2026-10-08T23:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/08/movies/animals-review-the-politicians-dilemma.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Animals\u2019 Review: The Politician\u2019s Dilemma",
@@ -19988,15 +19998,5 @@
     "content": "What I see in my deep-blue D.C. neighborhood undermines the simplistic culture-war narrative.",
     "date": "2026-08-21T14:37:11",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/21/movies/spa-weekend-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Spa Weekend\u2019 Review: Girls Gone Wellness",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/08/21/movies/spa-weekend-review.html",
-    "content": "Leslie Mann leads a quartet of gal pals looking for rest, relaxation and sensual massages in this raucous comedy.",
-    "date": "2026-08-21T14:35:10",
-    "category": "NYT"
   }
 ]
