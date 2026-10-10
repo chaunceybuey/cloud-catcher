@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8874580#p8874580",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Lastrun",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8874580#p8874580",
+    "content": "Before this change, there were 4 differences between the CMA and the Fidelity Brokerage account<br /><br />1.  No margin in the CMA<br />2.  No options in the CMA<br />3.  Cash Manager Is only available in the CMA<br />4.  ATM reimbursement in brokerage is asset level dependent, it is not in the CMA.<br /><br />You need to have a brokerage account, or IRA, etc.   You cannot have just a CMA alone.  So I do not see this as an issue.  <br /><br />From the Fidelity FAQs<br /><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><strong class=\"text-strong\">Who can open a Fidelity Cash Management Account?</strong><br /><br />It\u2019s available exclusively to Fidelity customers. <em class=\"text-italics\"><span style=\"text-decoration: underline;\">If you have any Fidelity account</span></em>, you\u2019re eligible to open a cash management account. </div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=120680\">Lastrun</a> \u2014 Sat Oct 10, 2026 4:53 pm</p><hr />",
+    "date": "2026-10-10T21:53:11",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/10/dining/our-best-lasagna-recipe.html",
     "feed_name": "NYT (Food)",
     "title": "Our Best Lasagna Recipe",
@@ -19988,15 +19998,5 @@
     "content": "The dynamic between John and Hal (Aaron Pierre and Kyle Chandler) continues to illustrate how burned out Hal has become.",
     "date": "2026-08-24T02:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8839817#p8839817",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "bbrock",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8839817#p8839817",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>So you have an ETF. That is why there was no hold. You have collateral. This was already discussed here a few times.<br /><br />If your CMA had only cash/MM, there would be a hold. That is why I only deposit checks and do pulls using my brokerage account these days.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>There's definitely more nuance at work.  My entire CMA is one MM fund holding and pulls are available in 1-2 days.  (I believe it would be next-day except I'm usually doing them after hours.)  There is plenty of collateral in other accounts, though.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Completely agree. Yes there\u2019s a lot more to it than we think. I too only have FRSXX in our CMA. Plenty of assets in a couple brokerage accounts. Everything\u2019s available in one or two days as glitchy stated.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=15995\">bbrock</a> \u2014 Sun Aug 23, 2026 1:17 pm</p><hr />",
-    "date": "2026-08-23T18:17:23",
-    "category": "Finance"
   }
 ]
