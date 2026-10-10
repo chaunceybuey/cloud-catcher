@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/10/dining/our-best-lasagna-recipe.html",
+    "feed_name": "NYT (Food)",
+    "title": "Our Best Lasagna Recipe",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/10/dining/our-best-lasagna-recipe.html",
+    "content": "And more marvelous mains for any special dinner (including a certain special November dinner).",
+    "date": "2026-10-10T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8874272#p8874272",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>So you have an ETF. That is why there was no hold. You have collateral. This was already discussed here a few times.<br /><br />If your CMA had only cash/MM, there would be a hold. That is why I only deposit checks and do pulls using my brokerage account these days.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>There's definitely more nuance at work.  My entire CMA is one MM fund holding and pulls are available in 1-2 days.  (I believe it would be next-day except I'm usually doing them after hours.)  There is plenty of collateral in other accounts, though.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Completely agree. Yes there\u2019s a lot more to it than we think. I too only have FRSXX in our CMA. Plenty of assets in a couple brokerage accounts. Everything\u2019s available in one or two days as glitchy stated.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=15995\">bbrock</a> \u2014 Sun Aug 23, 2026 1:17 pm</p><hr />",
     "date": "2026-08-23T18:17:23",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Hayden Panettiere\u2019s Final Battles: Mysterious Pain and Trouble With an Ex",
-    "author": "Julia Jacobs and Matt Stevens",
-    "link": "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html",
-    "content": "At the end of Hayden Panettiere\u2019s memoir, \u201cThis Is Me: A Reckoning,\u201d she says she had been trying to embrace \u201cradical acceptance,\u201d a term she learned in mental health and addiction treatment.",
-    "date": "2026-08-23T16:44:27",
-    "category": "NYT"
   }
 ]
