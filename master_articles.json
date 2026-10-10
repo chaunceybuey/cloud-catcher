@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8874164#p8874164",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "chassis",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8874164#p8874164",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>A couple of recent updates for Fidelity:<br /><br />Passkeys now supported for web login as of this week. (<a class=\"postlink\" href=\"https://www.bogleheads.org/forum/viewtopic.php?t=475912\">Discussion thread</a>)<br /><br />Investment restrictions on new <a class=\"postlink\" href=\"https://www.fidelity.com/investing/cash-management\">Cash Management Accounts</a>: \"If your account was opened on or after September 28, 2026, available investments are limited to fixed income products, such as bonds and CDs, and Fidelity money market mutual funds.\" (<a class=\"postlink\" href=\"https://www.bogleheads.org/forum/viewtopic.php?t=475896\">Discussion thread</a>).<br /><br />The CMA change probably only affects those that wanted to maintain a single account both for investments and cash, and have free ATM withdrawals.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Terrible news about investment restrictions in the CMA.<br /><br />This is the first ding I have against Fidelity, after 6 years of highly satisfied clienthood.<br /><br />I have a CMA with cash sweep and individual stock positions.   I have not received any notices that things will change for my account. <br /><br />Yesterday before reading the CMA change news, I recommended a CMA to a family member because of the SPAXX core sweep position.   <br /><br />What a pain that stocks need to be held in a separate brokerage account.  Selling shares and moving cash proceeds is now a two-step process.  It was formerly a single-step process.  <br /><br />Bad move, Fidelity.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=159081\">chassis</a> \u2014 Sat Oct 10, 2026 6:43 am</p><hr />",
+    "date": "2026-10-10T11:43:52",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall",
     "feed_name": "ProPublica",
     "title": "As Trump\u2019s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones",
@@ -19986,16 +19996,6 @@
     "author": "Rhett Allain",
     "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
     "content": "How a tiny little electronic switch sparked the computer revolution.",
-    "date": "2026-08-23T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "ed5c3ddd9b87b25e5d84810f17757e91",
-    "feed_name": "The Atlantic",
-    "title": "The Hatred That Broke American Politics",
-    "author": "James Loeffler",
-    "link": "https://www.theatlantic.com/ideas/2026/08/charlottesville-antisemitism-race-legacy/688325/",
-    "content": "Race is the wound America sees. Anti-Semitism is the one it doesn\u2019t.",
     "date": "2026-08-23T11:00:00",
     "category": "Magazines"
   }
