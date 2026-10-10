@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Conor Kennedy and Giulia Be Married in Rio",
+    "author": "Jesse McKinley and Julia Dias Carneiro",
+    "link": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html",
+    "content": "Giulia Be and Conor Kennedy enjoyed Popsicles after a beach volleyball match in Ipanema on Friday, Oct. 9, part of their three-day wedding celebration in Rio de Janeiro.",
+    "date": "2026-10-10T22:40:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8874580#p8874580",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/24/arts/television/adults-and-6-more-shows-to-watch-on-tv-this-week.html",
     "content": "From left: Amita Rao, Lucy Freyer, Owen Thiele, Malik Elassal and Jack Innanen in \u201cAdults.\u201d",
     "date": "2026-08-24T05:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/23/arts/television/lanterns-recap-season-1-episode-2.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Lanterns\u2019 Season 1, Episode 2 Recap: Keep Superheroes Weird",
-    "author": "Noel Murray",
-    "link": "https://www.nytimes.com/2026/08/23/arts/television/lanterns-recap-season-1-episode-2.html",
-    "content": "The dynamic between John and Hal (Aaron Pierre and Kyle Chandler) continues to illustrate how burned out Hal has become.",
-    "date": "2026-08-24T02:00:05",
     "category": "NYT"
   }
 ]
