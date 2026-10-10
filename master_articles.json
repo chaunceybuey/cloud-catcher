@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ac6c81b1789d4151c41d3d3",
+    "feed_name": "Wired (Science)",
+    "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
+    "content": "The new image isn\u2019t just stunning\u2014it may also provide clues about how this star survived its own explosion.",
+    "date": "2026-10-10T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/10/arts/music/david-byrne-victoria-monet-slayyyter-new-music.html",
     "feed_name": "NYT (Arts)",
     "title": "Elon Musk\u2019s Words Set to Music and 9 More Songs We\u2019re Talking About",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/23/arts/television/sean-duffy-great-american-road-trip.html",
     "content": "\u201cThe Great American Road Trip\u201d sends the transportation secretary and his family on a wholesome, dull tour, with a lot of help from their sponsors.",
     "date": "2026-08-23T09:02:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/23/arts/music/jeff-conolly-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jeff Conolly, Manic Garage-Rock Frontman, Dies at 69",
-    "author": "Alex Williams",
-    "link": "https://www.nytimes.com/2026/08/23/arts/music/jeff-conolly-dead.html",
-    "content": "Known as Monoman for his love of vintage LPs, he kept the punkish torch burning by leading Lyres, a Boston group that became an institution.",
-    "date": "2026-08-23T09:00:51",
     "category": "NYT"
   }
 ]
