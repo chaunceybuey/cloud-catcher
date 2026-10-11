@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ac8231c0032f6bb7ef3fffa",
+    "feed_name": "Wired (Science)",
+    "title": "How the 2026 Super El Ni\u00f1o and Climate Change Are Related",
+    "author": "Fernanda Gonz\u00e1lez",
+    "link": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+    "content": "Here\u2019s what we know about the record-setting El Ni\u00f1o on a record-hot planet, and the most important questions scientists are trying to answer.",
+    "date": "2026-10-11T09:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/11/movies/alex-gibney-musk-documentary.html",
     "feed_name": "NYT (Arts)",
     "title": "Alex Gibney on \u2018Musk\u2019 and Why a 4-Hour Film Was Necessary",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/video/arts/100000011086535/why-are-there-street-markings-all-over-new-york-city.html",
     "content": "For the last year, Tom Wilson, a photographer, has been taking pictures of municipal street markings around New York City. On a recent walking tour, Michael Kimmelman, the architecture critic for The New York Times, helped Wilson decode the color-coded language that keeps the city running.",
     "date": "2026-08-24T09:01:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/24/dining/drinks/spritz-bartenders.html",
-    "feed_name": "NYT (Food)",
-    "title": "What the Bartender Really Thinks About Your Spritz",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/08/24/dining/drinks/spritz-bartenders.html",
-    "content": "Customers appreciate the color and low potency. For bartenders, the spritz has other advantages.",
-    "date": "2026-08-24T09:01:04",
     "category": "NYT"
   }
 ]
