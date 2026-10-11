@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/11/dining/come-for-the-big-croutons-stay-for-the-oregano-garlic-chicken.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Come for the Big Croutons, Stay for the Oregano-Garlic Chicken",
+    "author": "Mia Leimkuhler",
+    "link": "https://www.nytimes.com/2026/10/11/dining/come-for-the-big-croutons-stay-for-the-oregano-garlic-chicken.html",
+    "content": "This Christian Reynoso recipe is very Zuni Caf\u00e9-chicken-coded (complimentary).",
+    "date": "2026-10-11T13:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/11/arts/television/bad-boys-mean-bad-words-when-shane-gillis-hosts-snl.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bad Boys Mean Bad Words When Shane Gillis Hosts \u2018S.N.L.\u2019",
+    "author": "Dave Itzkoff",
+    "link": "https://www.nytimes.com/2026/10/11/arts/television/bad-boys-mean-bad-words-when-shane-gillis-hosts-snl.html",
+    "content": "Colin Jost returned as Pete Hegseth in a \u201cSaturday Night Live\u201d broadcast that was overshadowed by Gillis\u2019s use of an obscene word in a Dr. Seuss sketch.",
+    "date": "2026-10-11T12:59:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8874797#p8874797",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/24/arts/television/dale-dickey-widows-bay-emmy.html",
     "content": "Years ago, she donned a dinosaur costume to help make ends meet. Now she is a first-time Emmy nominee for her role in \u201cWidow\u2019s Bay.\u201d",
     "date": "2026-08-24T09:03:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Iceland\u2019s Murder Rate Is Off the Charts \u2014 in Its Books, at Least",
-    "author": "Amelia Nierenberg",
-    "link": "https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html",
-    "content": "Crime novels on display in a bookstore in Reykjavik, Iceland.",
-    "date": "2026-08-24T09:02:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/24/arts/design/street-symbols-michael-kimmelman.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Behind the Mysterious Symbols Spray-Painted on Our Streets",
-    "author": "Michael Kimmelman and Tom Wilson",
-    "link": "https://www.nytimes.com/2026/08/24/arts/design/street-symbols-michael-kimmelman.html",
-    "content": "All over New York\u2019s sidewalks and sewers, colored markings hide in plain sight, telling construction crews where to dig and creating accidental art.",
-    "date": "2026-08-24T09:02:01",
     "category": "NYT"
   }
 ]
