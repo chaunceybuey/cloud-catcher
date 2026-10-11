@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875370#p8875370",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "LadyGeek",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875370#p8875370",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>A couple of recent updates for Fidelity:<br /><br />Passkeys now supported for web login as of this week. (<a class=\"postlink\" href=\"https://www.bogleheads.org/forum/viewtopic.php?t=475912\">Discussion thread</a>)<br /><br />Investment restrictions on new <a class=\"postlink\" href=\"https://www.fidelity.com/investing/cash-management\">Cash Management Accounts</a>: \"If your account was opened on or after September 28, 2026, available investments are limited to fixed income products, such as bonds and CDs, and Fidelity money market mutual funds.\" (<a class=\"postlink\" href=\"https://www.bogleheads.org/forum/viewtopic.php?t=475896\">Discussion thread</a>).<br /><br />The CMA change probably only affects those that wanted to maintain a single account both for investments and cash, and have free ATM withdrawals.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Does anything in the wiki need to be updated? <a class=\"postlink\" href=\"https://www.bogleheads.org/wiki/Fidelity:_one_stop_shop\">Fidelity: one stop shop</a><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=11675\">LadyGeek</a> \u2014 Sun Oct 11, 2026 6:46 pm</p><hr />",
+    "date": "2026-10-11T23:46:05",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875348#p8875348",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "bbrock",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875348#p8875348",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br /><br />In general, the change will have very little impact on people. For me, when I get extra cash in my CMA, I put it in VBIL in my CMA. New customers would not be able to do that. They would buy VBIL in their brokerage account instead. When more cash is needed in the CMA, the person would have to sell VBIL and then transfer the money instead of just selling. If account lockdown is on, then you have to unlock, transfer, lock. I wish Fidelity would streamline the unlock/lock process. I find it annoying, so I keep VBIL in my CMA. If I couldn't keep ETFs in my CMA, I would probably look more into the Cash Manager. I currently do not use it.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>May I offer a suggestion for such cases? <br />You can have a brokerage account holding your VBIL, cash reserves.<br />Make this account overdraft protection of your CMA.<br />When you need more money, just sell VBIL on brokerage. Fidelity will transfer it to CMA automatically \"as needed\", since this brokerage is overdraft protection. You can keep your CMA at zero. Everything will continue to work, ATM, billpay, ach etc, as long as the brokerage has funds to cover.<br />This is not affected by account lock. Overdraft protection continues to work.<br />And you might want to open a dedicated brokerage just to this function. Just for VBIL cash reserves. That is up to the customer.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Good suggestion, and I was going to do this at one time, but I found that the separation was worth it's price in gold for account security purposes. Let's say the catasphoric happens, and someone gets access to my CMA account temporarily (despite keeping debit card locked, and MTL on) but lets just say they did, I'd want the separation so that they could only access my CMA and not have my CMA linked to my brokerage account that would be on overdraft protection. Separation is safer for extreme safety precautions.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=15995\">bbrock</a> \u2014 Sun Oct 11, 2026 6:23 pm</p><hr />",
+    "date": "2026-10-11T23:23:48",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/11/theater/quentin-tarantino-sacha-baron-cohen-popinjay-cavalier.html",
     "feed_name": "NYT (Arts)",
     "title": "Quentin Tarantino Play \u2018The Popinjay Cavalier\u2019 to Open in London in February",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17427881/south-texas-speaker-mike-johnson-campaign-visit-congress-hispanic-voters",
     "content": "U.S. House Speaker Mike Johnson, R-Louisiana, offers remarks during a press conference at the U.S. Capitol in Washington, D.C., on April 10, 2024.",
     "date": "2026-08-24T23:03:14",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Trump Officials Propose Sale of \u2018Woke\u2019 Painting by Kehinde Wiley",
-    "author": "Zachary Small",
-    "link": "https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html",
-    "content": "The State Department recently removed the painting of Dominicans from a U.S. embassy, noting it was by the artist who made Barack Obama\u2019s presidential portrait.",
-    "date": "2026-08-24T21:51:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240736",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Railroad Commission eliminates public comment period from its public meetings",
-    "author": "By Martha Pskowski,\u00a0Inside Climate News",
-    "link": "https://feeds.texastribune.org/link/16799/17427822/texas-railroad-commission-cancels-public-comment-meetings-policy",
-    "content": "From left to right: Texas Railroad commissioners Christi Craddick, Wayne Christian and Jim Wright during an agency hearing in Austin on Nov. 30, 2021.",
-    "date": "2026-08-24T21:31:45",
     "category": "Texas"
   }
 ]
