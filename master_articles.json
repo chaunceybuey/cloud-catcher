@@ -140,6 +140,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875212#p8875212",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Lastrun",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875212#p8875212",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>.....<br />May I offer a suggestion for such cases? <br />You can have a brokerage account holding your VBIL, cash reserves.<br />Make this account overdraft protection of your CMA.<br />When you need more money, just sell VBIL on brokerage. Fidelity will transfer it to CMA automatically \"as needed\", since this brokerage is overdraft protection. You can keep your CMA at zero. Everything will continue to work, ATM, billpay, ach etc, as long as the brokerage has funds to cover.<br />This is not affected by account lock. Overdraft protection continues to works.<br />And you might want to open a dedicated brokerage just to this function. Just for VBIL cash reserves. That is up to the customer.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>This is a good approach, but I did not choose it for three reasons:<br /><br />I read posts where sometimes the ATM on the CMA would fail with a CMA zero balance. <br /><br />I read posts (on Fidelity Reddit) where a CMA check would fail due to zero balance in the CMA.<br /><br />I was concerned with overdraft authority for the CMA from the brokerage.  <br /><br />What I chose to do, and I am not saying it is the best or better, is I use Cash Manager to maintain a target balance in the CMA.  It will pull overnight from brokerage to maintain the target balance.  So, as compared to overdraft, it is slower and also limits the amount of damage in the event the CMA is compromised**<br /><br />**Of course, you can limit overdraft potential by limiting what you have in money markets in the brokerage.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=120680\">Lastrun</a> \u2014 Sun Oct 11, 2026 3:12 pm</p><hr />",
+    "date": "2026-10-11T20:12:37",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875206#p8875206",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Lastrun",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875206#p8875206",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>...<br />I guess I am lazy. I would like to initiate a transaction, and if MTL is on, it would pop up and say, would you like to turn off MTL and then turn it back on after this transaction. I would say yes and go about my business.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I agree, it would be easy to add this to the current banner, and not make you go through the Security Center.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=120680\">Lastrun</a> \u2014 Sun Oct 11, 2026 3:03 pm</p><hr />",
+    "date": "2026-10-11T20:03:20",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875204#p8875204",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "mhc",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875204#p8875204",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br /><br />In general, the change will have very little impact on people. For me, when I get extra cash in my CMA, I put it in VBIL in my CMA. New customers would not be able to do that. They would buy VBIL in their brokerage account instead. When more cash is needed in the CMA, the person would have to sell VBIL and then transfer the money instead of just selling. If account lockdown is on, then you have to unlock, transfer, lock. I wish Fidelity would streamline the unlock/lock process. I find it annoying, so I keep VBIL in my CMA. If I couldn't keep ETFs in my CMA, I would probably look more into the Cash Manager. I currently do not use it.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>May I offer a suggestion for such cases? <br />You can have a brokerage account holding your VBIL, cash reserves.<br />Make this account overdraft protection of your CMA.<br />When you need more money, just sell VBIL on brokerage. Fidelity will transfer it to CMA automatically \"as needed\", since this brokerage is overdraft protection. You can keep your CMA at zero. Everything will continue to work, ATM, billpay, ach etc, as long as the brokerage has funds to cover.<br />This is not affected by account lock. Overdraft protection continues to works.<br />And you might want to open a dedicated brokerage just to this function. Just for VBIL cash reserves.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Interesting. Thank you.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=25725\">mhc</a> \u2014 Sun Oct 11, 2026 3:02 pm</p><hr />",
+    "date": "2026-10-11T20:02:40",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875202#p8875202",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875202#p8875202",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Could someone explain the issues people are having with this change?<br /><br />I am trying to see the impact.<br /><br />1.  <strong class=\"text-strong\">New customer has no IRA/401K, etc. at Fidelity.</strong>  This new customer will need a brokerage and a CMA and there is no effective change here, except you can no longer buy ETFs and stocks in the CMA.  But the customer in this situation, before the change, already needed a brokerage account.  Indeed, if you read this thread, most folks had multiple brokerages and CMAs for intentional segregation.  <br /><br />2.  <strong class=\"text-strong\">New customer has IRA/401K, etc. at Fidelity.</strong>  Before this change, this person could have had just a CMA, but now they need to also have a brokerage account to buy ETFs and stocks in a taxable account.  But they still have free atms, and the other benefits of the CMA.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>In general, the change will have very little impact on people. For me, when I get extra cash in my CMA, I put it in VBIL in my CMA. New customers would not be able to do that. They would buy VBIL in their brokerage account instead. When more cash is needed in the CMA, the person would have to sell VBIL and then transfer the money instead of just selling. If account lockdown is on, then you have to unlock, transfer, lock. I wish Fidelity would streamline the unlock/lock process. I find it annoying, so I keep VBIL in my CMA. If I couldn't keep ETFs in my CMA, I would probably look more into the Cash Manager. I currently do not use it.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>May I offer a suggestion for such cases? <br />You can have a brokerage account holding your VBIL, cash reserves.<br />Make this account overdraft protection of your CMA.<br />When you need more money, just sell VBIL on brokerage. Fidelity will transfer it to CMA automatically \"as needed\", since this brokerage is overdraft protection. You can keep your CMA at zero. Everything will continue to work, ATM, billpay, ach etc, as long as the brokerage has funds to cover.<br />This is not affected by account lock. Overdraft protection continues to works.<br />And you might want to open a dedicated brokerage just to this function. Just for VBIL cash reserves. That is up to the customer.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Sun Oct 11, 2026 2:53 pm</p><hr />",
+    "date": "2026-10-11T19:53:42",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875188#p8875188",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19958,45 +19998,5 @@
     "content": "Texas Attorney General Ken Paxton speaks at a Lone Star Liberty PAC rally at The Angry Elephant in San Antonio on Thursday, May 21, 2025.",
     "date": "2026-08-24T16:54:08",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240672",
-    "feed_name": "Texas Tribune",
-    "title": "Texas to receive at least $7.5 billion from stalled border reimbursement fund, Cornyn says",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17427579/texas-border-reimbursement-cornyn-abbott-operation-lone-star",
-    "content": "U.S. Sen. John Cornyn returns to the U.S. Capitol as negotiations for the Senate&#039;s final votes of the legislative session continue, in Washington, D.C., on Aug. 7, 2026.",
-    "date": "2026-08-24T16:37:57",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/24/arts/television/shelley-fabares-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Shelley Fabares, \u2018Donna Reed Show\u2019 Actress, Dies at 82",
-    "author": "Victor Mather",
-    "link": "https://www.nytimes.com/2026/08/24/arts/television/shelley-fabares-dead.html",
-    "content": "Shelley Fabares in 2004.",
-    "date": "2026-08-24T16:28:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/24/dining/a-very-chill-chili-bean-salad.html",
-    "feed_name": "NYT (Food)",
-    "title": "A Very Chill Chili Bean Salad",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/08/24/dining/a-very-chill-chili-bean-salad.html",
-    "content": "Hetty Lui McKinnon\u2019s no-cook chili bean salad.",
-    "date": "2026-08-24T15:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "38aa82667968625b00b4cd5d0c968185",
-    "feed_name": "LRB",
-    "title": "Unnatural Disasters",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/unnatural-disasters",
-    "content": "On 10 August, three days after the inauguration of President Abelardo de la Espriella, Colombia experienced a magnitude 7.4 earthquake, the.\u00a0.\u00a0.",
-    "date": "2026-08-24T12:53:12",
-    "category": "Magazines"
   }
 ]
