@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875188#p8875188",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "mhc",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875188#p8875188",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>....... I wish Fidelity would streamline the unlock/lock process. I find it annoying, so I keep VBIL in my CMA. If I couldn't keep ETFs in my CMA, I would probably look more into the Cash Manager. I currently do not use it.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Two things.<br /><br />I find the Cash Manager Target Minimum Balance function helpful.  It keeps my CMA topped off from my brokerage.  It works with MTL on.<br /><br />I don't really find turning MTL on and off that bad.  I just had to do this yesterday.<br />At the top of the positions page it has a yellow box that MTL is on.  And a link to the security center.<br />Go to the security center under MTL and toggle off<br />Make your transfer and rinse and repeat<br /><br />But yes, it is about 8 extra clicks.<br /><br />And yes, if someone is not holding enough in auto-liquidating money market funds in the brokerage, this would be something that would, have to be done more frequently.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I guess I am lazy. I would like to initiate a transaction, and if MTL is on, it would pop up and say, would you like to turn off MTL and then turn it back on after this transaction. I would say yes and go about my business.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=25725\">mhc</a> \u2014 Sun Oct 11, 2026 2:32 pm</p><hr />",
+    "date": "2026-10-11T19:32:41",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/11/arts/television/mike-ditka-snl-da-bears.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Da Bears\u2019 and the \u2018S.N.L.\u2019 Sketch That Immortalized Mike Ditka",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/august/unnatural-disasters",
     "content": "On 10 August, three days after the inauguration of President Abelardo de la Espriella, Colombia experienced a magnitude 7.4 earthquake, the.\u00a0.\u00a0.",
     "date": "2026-08-24T12:53:12",
-    "category": "Magazines"
-  },
-  {
-    "id": "a632027a2abdc1ffc8228ed3c9867195",
-    "feed_name": "Compact",
-    "title": "The Arday Case Is a Test for Academia",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-arday-case-is-a-test-for-academia/",
-    "content": "",
-    "date": "2026-08-24T11:30:05",
     "category": "Magazines"
   }
 ]
