@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/11/theater/quentin-tarantino-sacha-baron-cohen-popinjay-cavalier.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Quentin Tarantino Play \u2018The Popinjay Cavalier\u2019 to Open in London in February",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/10/11/theater/quentin-tarantino-sacha-baron-cohen-popinjay-cavalier.html",
+    "content": "\u201cThe Popinjay Cavalier,\u201d directed by Tarantino, is scheduled to open for previews in London\u2019s West End in February.",
+    "date": "2026-10-11T23:16:44",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875338#p8875338",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "bbrock",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875338#p8875338",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Could someone explain the issues people are having with this change?<br /><br />I am trying to see the impact.<br /><br />1.  <strong class=\"text-strong\">New customer has no IRA/401K, etc. at Fidelity.</strong>  This new customer will need a brokerage and a CMA and there is no effective change here, except you can no longer buy ETFs and stocks in the CMA.  But the customer in this situation, before the change, already needed a brokerage account.  Indeed, if you read this thread, most folks had multiple brokerages and CMAs for intentional segregation.  <br /><br />2.  <strong class=\"text-strong\">New customer has IRA/401K, etc. at Fidelity.</strong>  Before this change, this person could have had just a CMA, but now they need to also have a brokerage account to buy ETFs and stocks in a taxable account.  But they still have free atms, and the other benefits of the CMA.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>In general, the change will have very little impact on people. For me, when I get extra cash in my CMA, I put it in VBIL in my CMA. New customers would not be able to do that. They would buy VBIL in their brokerage account instead. When more cash is needed in the CMA, the person would have to sell VBIL and then transfer the money instead of just selling. If account lockdown is on, then you have to unlock, transfer, lock. I wish Fidelity would streamline the unlock/lock process. I find it annoying, so I keep VBIL in my CMA. If I couldn't keep ETFs in my CMA, I would probably look more into the Cash Manager. I currently do not use it.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Just got ask mhc, why not put the extra $ in a Fido MMF and make it easier on yourself, and still get a very competitive rate? Plus, the Fido MMF auto-liquidates for bill pay. I use FRSXX for absolutely everything in our CMAs. Bill pay used heavily in our main CMA. Seamless auto-liquidating from FRSXX.<br /><br />Not to mention, using retiringwhen's awesome, useful spreadsheet MMF optimizer spreadsheet, VBIL and SGOV are not at the top (not that you need the top or have to optimize every single cent). I settle on FRSXX as it is very competitive, near the top, and more than good-enough. I use VBIL or SGOV to hold cash so I can play the brokerage bonus game.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=15995\">bbrock</a> \u2014 Sun Oct 11, 2026 6:16 pm</p><hr />",
+    "date": "2026-10-11T23:16:02",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875212#p8875212",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17427822/texas-railroad-commission-cancels-public-comment-meetings-policy",
     "content": "From left to right: Texas Railroad commissioners Christi Craddick, Wayne Christian and Jim Wright during an agency hearing in Austin on Nov. 30, 2021.",
     "date": "2026-08-24T21:31:45",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240686",
-    "feed_name": "Texas Tribune",
-    "title": "Abbott asks court to reject Minnesota bid to force extradition of ICE officer",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17427625/texas-minnesota-ice-officer-extradition-lawsuit-greg-abbott",
-    "content": "Gov. Greg Abbott speaks to delegates and attendees at the 2026 Texas State Republican Convention on Friday, June 12, 2026 in Houston.",
-    "date": "2026-08-24T18:02:25",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240677",
-    "feed_name": "Texas Tribune",
-    "title": "Paxton promises to ban Chinese technology and chatbots that endanger children in data center platform",
-    "author": "Samanta Habashy",
-    "link": "https://feeds.texastribune.org/link/16799/17427578/ken-paxton-james-talarico-data-centers-senate-texas",
-    "content": "Texas Attorney General Ken Paxton speaks at a Lone Star Liberty PAC rally at The Angry Elephant in San Antonio on Thursday, May 21, 2025.",
-    "date": "2026-08-24T16:54:08",
     "category": "Texas"
   }
 ]
