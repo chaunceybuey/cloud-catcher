@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/11/arts/television/mike-ditka-snl-da-bears.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Da Bears\u2019 and the \u2018S.N.L.\u2019 Sketch That Immortalized Mike Ditka",
+    "author": "Mike Peed",
+    "link": "https://www.nytimes.com/2026/10/11/arts/television/mike-ditka-snl-da-bears.html",
+    "content": "From left, Robert Smigel, Chris Farley, Mike Myers and Joe Mantegna in the \u201cSaturday Night Live\u201d sketch \u201cBill Swerski\u2019s Super Fans\u201d on Jan. 12, 1991.",
+    "date": "2026-10-11T19:08:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23218-butler-school-of-music-biontsang",
     "feed_name": "KMFA",
     "title": "Butler School of Music: BionTsang",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/the-arday-case-is-a-test-for-academia/",
     "content": "",
     "date": "2026-08-24T11:30:05",
-    "category": "Magazines"
-  },
-  {
-    "id": "738004dabb971c0c32ee7a0ec3da325b",
-    "feed_name": "The Atlantic",
-    "title": "The Gun Lobby\u2019s Most Cynical Move Yet",
-    "author": "Sari Horwitz",
-    "link": "https://www.theatlantic.com/ideas/2026/08/school-shootings-campaign-spending-study/688377/",
-    "content": "New data show how pro-gun groups target their political spending after fatal school shootings.",
-    "date": "2026-08-24T11:00:00",
     "category": "Magazines"
   }
 ]
