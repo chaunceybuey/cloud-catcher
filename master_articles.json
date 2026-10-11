@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8874797#p8874797",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Lastrun",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8874797#p8874797",
+    "content": "Could someone explain the issues people are having with this change?<br /><br />I am trying to see the impact.<br /><br />1.  <strong class=\"text-strong\">New customer has no IRA/401K, etc. at Fidelity.</strong>  This new customer will need a brokerage and a CMA and there is no effective change here, except you can no longer buy ETFs and stocks in the CMA.  But the customer in this situation, before the change, already needed a brokerage account.  Indeed, if you read this thread, most folks had multiple brokerages and CMAs for intentional segregation.  <br /><br />2.  <strong class=\"text-strong\">New customer has IRA/401K, etc. at Fidelity.</strong>  Before this change, this person could have had just a CMA, but now they need to also have a brokerage account to buy ETFs and stocks in a taxable account.  But they still have free atms, and the other benefits of the CMA.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=120680\">Lastrun</a> \u2014 Sun Oct 11, 2026 7:26 am</p><hr />",
+    "date": "2026-10-11T12:26:25",
+    "category": "Finance"
+  },
+  {
     "id": "6ac8231c0032f6bb7ef3fffa",
     "feed_name": "Wired (Science)",
     "title": "How the 2026 Super El Ni\u00f1o and Climate Change Are Related",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/24/arts/design/street-symbols-michael-kimmelman.html",
     "content": "All over New York\u2019s sidewalks and sewers, colored markings hide in plain sight, telling construction crews where to dig and creating accidental art.",
     "date": "2026-08-24T09:02:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/video/arts/100000011086535/why-are-there-street-markings-all-over-new-york-city.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Why Are There Street Markings All Over New York City?",
-    "author": "Michael Kimmelman, Tom Wilson, Sutton Raphael, Nour Idriss and Laura Salaberry",
-    "link": "https://www.nytimes.com/video/arts/100000011086535/why-are-there-street-markings-all-over-new-york-city.html",
-    "content": "For the last year, Tom Wilson, a photographer, has been taking pictures of municipal street markings around New York City. On a recent walking tour, Michael Kimmelman, the architecture critic for The New York Times, helped Wilson decode the color-coded language that keeps the city running.",
-    "date": "2026-08-24T09:01:43",
     "category": "NYT"
   }
 ]
