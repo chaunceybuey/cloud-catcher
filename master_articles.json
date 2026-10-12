@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/12/arts/van-gogh-museum-amsterdam-funding.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Amsterdam\u2019s Van Gogh Museum Says It Reached Funding Deal and Won\u2019t Have to Close",
+    "author": "Karla Adam",
+    "link": "https://www.nytimes.com/2026/10/12/arts/van-gogh-museum-amsterdam-funding.html",
+    "content": "In a yearslong dispute, the Amsterdam institution pressed the Dutch government for an increased annual subsidy to pay for what the museum said were vital renovations.",
+    "date": "2026-10-12T13:36:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23217-inspired-minds-arts-center-2026-buda-arts-festival",
     "feed_name": "KMFA",
     "title": "Inspired Minds Arts Center: 2026 Buda Arts Festival",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-08-26T07:11:38",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Dolly Parton\u2019s Death Hits Home for Tennesseans: \u2018She Was One of Us\u2019",
-    "author": "Emily Cochrane",
-    "link": "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html",
-    "content": "As the nation mourned Dolly Parton\u2019s death on Tuesday, the grief was perhaps the most profound in Tennessee.",
-    "date": "2026-08-26T02:09:21",
-    "category": "NYT"
   }
 ]
