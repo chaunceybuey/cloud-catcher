@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8876046#p8876046",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "need403bhelp",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8876046#p8876046",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Money transfer lock does NOT need to be disabled on day of scheduled transfer. Once it is scheduled it will go through just fine even if MTL is on.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Within the last three weeks, I have on two occasions had transfers (one EFT, one wire transfer) that were scheduled in advance -- with MTL temporarily disabled -- fail. I received a notification in each case telling me that the transfer was not permitted by my current settings. Sorry, I did not record the exact wording of that notification, but it was clear enough. On both occasions I went back in, disabled MTL, successfully redid the transfer with no waiting, and re-enabled MTL. <br /><br />Oh wait, here's the subject line of one of the email notifications I received early in the morning of a scheduled transfer:<br />Subject: Fidelity Alerts: your bank wire disbursement has been canceled<br /><br />I don't know what I could have done differently, if you say the original transfers should have gone through. But the simple fact is that they did not.<br /><br />To be clear, when I say an \"immediate transfer\", I'm not saying that I have to wait until the transfer has completed before re-enabling MTL. I don't. I just can't schedule for a day in the future.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Interesting thanks for sharing. I haven\u2019t had this experience yet but I do only very occasionally transfer OUT of my Fidelity accounts so will pay more attention. Also I\u2019ve never schedule a wire only ACH.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=98576\">need403bhelp</a> \u2014 Mon Oct 12, 2026 4:16 pm</p><hr />",
+    "date": "2026-10-12T21:16:29",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8876041#p8876041",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "BetaTracker",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8876041#p8876041",
+    "content": "Has anyone heard of (or used) EY TaxChat? Our financial consultant tells us Fidelity has partnered with them and is offering a discount to Fidelity investors on their tax prep and filing service. It's all on-line and supposedly provides one-on-one tax preparation and guidance:<br /><a class=\"postlink\" href=\"https://www.fidelity.com/tax-information/tax-preparation/ey-taxchat\">https://www.fidelity.com/tax-informatio ... ey-taxchat</a><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=40057\">BetaTracker</a> \u2014 Mon Oct 12, 2026 4:11 pm</p><hr />",
+    "date": "2026-10-12T21:11:17",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/12/movies/marina-vlady-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Marina Vlady, French Cinema Star of \u2018Princesse de Cl\u00e8ves,\u2019 Dies at 88",
+    "author": "Adam Nossiter",
+    "link": "https://www.nytimes.com/2026/10/12/movies/marina-vlady-dead.html",
+    "content": "Marina Vlady, a French film star, played women who resisted easy categorization, including in films by Orson Welles and Jean-Luc Godard.",
+    "date": "2026-10-12T21:07:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/12/us/selma-blair-arrested.html",
     "feed_name": "NYT (Arts)",
     "title": "Actress Selma Blair Is Arrested in Assault on Flight Attendants",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/arts/design/paul-williams-architect.html",
     "content": "A pioneering architect\u2019s archive, long thought lost, was preserved by his family. Now, three museums are featuring the work of a man who broke California\u2019s color barrier.",
     "date": "2026-08-26T09:02:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/world/middleeast/lebanon-byblos-israel.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Ancient Lebanese Treasures Take a Journey From Modern-Day Conflict",
-    "author": "Alissa J. Rubin",
-    "link": "https://www.nytimes.com/2026/08/26/world/middleeast/lebanon-byblos-israel.html",
-    "content": "Artifacts from Byblos have been on display in Paris in a show that highlights how modern-day conflict in the Middle East imperils the cultural heritage of the region.",
-    "date": "2026-08-26T09:02:23",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/books/new-books-september.html",
-    "feed_name": "NYT (Arts)",
-    "title": "22 New Books to Read in September: John Green, R.F. Kuang, Marlon James and More",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/08/26/books/new-books-september.html",
-    "content": "Novels by Marlon James, Emma Cline, Hernan Diaz and John Green; nonfiction by Emily Wilson and Robert Kolker; and more.",
-    "date": "2026-08-26T09:02:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/movies/the-story-behind-coyote-vs-acme.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How the Anvil Was Nearly Dropped on \u2018Coyote vs. Acme\u2019",
-    "author": "Jason T. Bailey",
-    "link": "https://www.nytimes.com/2026/08/26/movies/the-story-behind-coyote-vs-acme.html",
-    "content": "The live action-animation hybrid comedy fought a real-life studio battle to win its theatrical release.",
-    "date": "2026-08-26T09:00:20",
     "category": "NYT"
   }
 ]
