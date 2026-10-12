@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/12/arts/television/below-deck-what-to-watch-on-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Below Deck\u2019 and 6 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/10/12/arts/television/below-deck-what-to-watch-on-tv-this-week.html",
+    "content": "Fraser Olender on \u201cBelow Deck.\u201d",
+    "date": "2026-10-12T05:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875491#p8875491",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19986,16 +19996,6 @@
     "author": "Sneha Dey",
     "link": "https://feeds.texastribune.org/link/16799/17428064/texas-school-takeovers-intervention-explained",
     "content": "An Austin Independent School District sign is seen on the outside of the AISD building in Austin on June 11, 2026.",
-    "date": "2026-08-25T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240757",
-    "feed_name": "Texas Tribune",
-    "title": "How the unprecedented midterm redistricting cycle is impacting Galveston County",
-    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
-    "link": "https://feeds.texastribune.org/link/16799/17428065/galveston-county-redistricting-after-the-primary-black-and-latino-voters",
-    "content": "The Galveston County Courthouse on May 16, 2024.",
     "date": "2026-08-25T10:00:00",
     "category": "Texas"
   }
