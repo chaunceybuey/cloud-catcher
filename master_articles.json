@@ -260,6 +260,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/12/travel/horror-movie-locations-visit-halloween.html",
+    "feed_name": "NYT (Arts)",
+    "title": "5 Horror Movie Locations to Get You in the Halloween Spirit",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/10/12/travel/horror-movie-locations-visit-halloween.html",
+    "content": "The Stanley Hotel in Estes Park, Colo., which inspired Stephen King\u2019s \u201cThe Shining,\u201d is a classic destination for horror buffs.",
+    "date": "2026-10-12T09:01:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/12/arts/dance/adrian-danchig-waring-nyc-ballet.html",
     "feed_name": "NYT (Arts)",
     "title": "Adrian Danchig-Waring Bids Farewell to City Ballet After Remarkable Recovery",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/25/arts/music/trump-kennedy-center-demolition-lawyers.html",
     "content": "Lawyers for the Trump administration said in a court filing that if the Kennedy Center does not undergo planned renovations, it could be replaced by a large amphitheater overlooking the Potomac River.",
     "date": "2026-08-25T16:07:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/25/arts/music/kennedy-center-taken-down-amphitheater.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/08/25/arts/music/kennedy-center-taken-down-amphitheater.html",
-    "content": "Lawyers for the Trump administration said in a court filing that if the Kennedy Center does not undergo planned renovations, it could be replaced by a large amphitheater overlooking the Potomac River.",
-    "date": "2026-08-25T15:41:27",
     "category": "NYT"
   }
 ]
