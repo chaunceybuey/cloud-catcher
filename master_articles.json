@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875491#p8875491",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875491#p8875491",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br /><br />CMA not linked to your brokerage account, but to A brokerage account that you will open only for your cash reserves (whatever you wanted to have in \"checking\").</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I don't understand your comment AskPt. Please clarify.<br /><br />CMA doesn't need to be linked to anything. If you have extra cash, put it in your unlinked brokerage account in a high yield MMF (i.e. FRSXX), then if you eventually need more cash in your CMA, then transfer shares of FRSXX b/w your brokerage &amp; CMA. Done, easy, and maintains extra layer of security b/c it's \"unlinked\"/no overdraft protection on your CMA. Just keep enough cash in your CMA. MTL on. Debit card locked, &amp; use passkeys.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>You're correct. I'm just saying (as suggested before) this would be a good solution if you wanted to keep your money in VBIL. Just sell it, no need to transfer. Fidelity will transfer for you as needed.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Sun Oct 11, 2026 11:31 pm</p><hr />",
+    "date": "2026-10-12T04:31:48",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875484#p8875484",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "The Galveston County Courthouse on May 16, 2024.",
     "date": "2026-08-25T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/25/arts/national-treasure-hunt-philadelphia.html",
-    "feed_name": "NYT (Arts)",
-    "title": "For \u2018National Treasure\u2019 Superfans, the Secret Lies in Philadelphia",
-    "author": "Jennifer Schuessler",
-    "link": "https://www.nytimes.com/2026/08/25/arts/national-treasure-hunt-philadelphia.html",
-    "content": "The creators of the \u201cNational Treasure Hunt\u201d podcast bring their passion for the Nicolas Cage heist movie to the birthplace of the Declaration of Independence.",
-    "date": "2026-08-25T09:02:54",
-    "category": "NYT"
   }
 ]
