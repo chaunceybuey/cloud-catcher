@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/12/dining/a-skillet-dinner-that-checks-all-the-boxes.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Skillet Dinner That Checks All the Boxes",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/12/dining/a-skillet-dinner-that-checks-all-the-boxes.html",
+    "content": "Kay Chun\u2019s fragrant coconut chicken and sweet potato.",
+    "date": "2026-10-12T15:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/12/arts/van-gogh-museum-amsterdam-funding.html",
     "feed_name": "NYT (Arts)",
     "title": "Amsterdam\u2019s Van Gogh Museum Says It Reached Funding Deal and Won\u2019t Have to Close",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/blog/2026/august/a-small-part-of-paradise",
     "content": "When Casablanca went into production in the spring of 1942, most of Morocco was a French protectorate, administered by the Vichy regime. The.\u00a0.\u00a0.",
     "date": "2026-08-26T07:48:14",
-    "category": "Magazines"
-  },
-  {
-    "id": "c21f7df6c192f3fa214886e04900155e",
-    "feed_name": "Outside",
-    "title": "Rachel Entrekin Outran the Entire Men's Field Across 253 Miles. She's Only Getting Started.",
-    "author": "Rebecca Byerly",
-    "link": "https://www.outsideonline.com/health/training-performance/rachel-entrekin-ultrarunner/",
-    "content": "",
-    "date": "2026-08-26T07:11:38",
     "category": "Magazines"
   }
 ]
