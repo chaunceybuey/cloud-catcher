@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/12/us/selma-blair-arrested.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Actress Selma Blair Is Arrested in Assault on Flight Attendants",
+    "author": "Remy Tumin",
+    "link": "https://www.nytimes.com/2026/10/12/us/selma-blair-arrested.html",
+    "content": "Selma Blair in Beverly Hills, Calif., last month. She was taken into custody just after 11 p.m. on Sunday after a flight landed at Kennedy Airport and taken to a hospital, the police said.",
+    "date": "2026-10-12T20:09:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/12/arts/television/dan-levy-shane-gillis-snl-monologue.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Dan Levy Condemns Shane Gillis\u2019s \u2018S.N.L.\u2019 Monologue",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/10/12/arts/television/dan-levy-shane-gillis-snl-monologue.html",
+    "content": "\u201cI\u2019m speechless that something like that can exist on live national television,\u201d the actor Dan Levy said on Instagram in a reaction to the comic\u2019s jokes about women.",
+    "date": "2026-10-12T19:49:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875878#p8875878",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/movies/the-story-behind-coyote-vs-acme.html",
     "content": "The live action-animation hybrid comedy fought a real-life studio battle to win its theatrical release.",
     "date": "2026-08-26T09:00:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/books/peter-grainger-crime-writer-dc-smith.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Best Literary Detective You\u2019ve Never Heard Of, and the Man Who Made Him",
-    "author": "Sarah Lyall",
-    "link": "https://www.nytimes.com/2026/08/26/books/peter-grainger-crime-writer-dc-smith.html",
-    "content": "Peter Grainger at home in Cambridgeshire.",
-    "date": "2026-08-26T09:00:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/books/the-best-literary-detective-youve-never-heard-of-and-the-man-who-made-him.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Best Literary Detective You\u2019ve Never Heard Of, and the Man Who Made Him",
-    "author": "Sarah Lyall",
-    "link": "https://www.nytimes.com/2026/08/26/books/the-best-literary-detective-youve-never-heard-of-and-the-man-who-made-him.html",
-    "content": "Peter Grainger at home in Cambridgeshire.",
-    "date": "2026-08-26T09:00:16",
     "category": "NYT"
   }
 ]
