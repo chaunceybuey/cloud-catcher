@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875508#p8875508",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Lyrrad",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875508#p8875508",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Instead of making the CMA less like an ordinary brokerage account, causing all this angst, what they should really do is just merge the two. <br />[...]<br />It makes things so much simpler.  Think how many BH posts would have been avoided if they had done this from the start!  I think CMA is just a \"me too\" marketing play, and they didn't think \"the public\" would be smart enough to understand that the simpler version gives them all the same choices and then some.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>It looks like they've been (very slowly) trying to distinguish the accounts over time and they never intended for CMA's to be used for general investing.<br /><br />For many years, a \"mySmart Cash Account\" (renamed to \"Fidelity Cash Management Account\" in 2011) was my only Fidelity brokerage account.<br /><br />In a 2009 email, they said: \"Thank you for opening a mySmart Cash Account\u00ae -- the brokerage account that helps you easily manage your cash and spending.\" A footnote in the same email stated \"The mySmart Cash Account is a brokerage account designed to meet your cash management needs. It is not intended to serve as your main account for securities trading.\"<br /><br />mySmart Cash Account was <a class=\"postlink\" href=\"https://www.reuters.com/article/markets/us/fidelity-launches-checking-account-ft-idUSN14414271/\">launched in 2007</a> (<a class=\"postlink\" href=\"https://www.bogleheads.org/forum/viewtopic.php?t=10475\">Forum thread</a>).<br /><br />Over the past several months, they added the existing account requirement along with the security restrictins<br /><br />To speculate, perhaps they are running into issues with new customers having CMA cash/debit transactions denied due to insufficient funds.  Being required to hold ETFs in another account may help those customers better understand transaction settlement and available cash timelines.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=9124\">Lyrrad</a> \u2014 Mon Oct 12, 2026 1:00 am</p><hr />",
+    "date": "2026-10-12T06:00:52",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/12/arts/russell-brand-trial-what-to-know.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Russell Brand\u2019s Rape and Sexual Assault Trial: What to Know",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/10/12/arts/russell-brand-trial-what-to-know.html",
+    "content": "Russell Brand in London last week.",
+    "date": "2026-10-12T06:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/12/arts/television/below-deck-what-to-watch-on-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Below Deck\u2019 and 6 More Shows to Watch on TV This Week",
@@ -19978,25 +19998,5 @@
     "content": "<p>Netflix is considering selling other streaming services, and I think it's a good idea; it's also a let-down for Netflix's original goals and potential pivots.</p>",
     "date": "2026-08-25T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240708",
-    "feed_name": "Texas Tribune",
-    "title": "Here\u2019s how to cast a ballot in Texas\u2019 midterm election on Nov. 3",
-    "author": "By Mar\u00eda M\u00e9ndez, graphics by Apurva Mahajan",
-    "link": "https://feeds.texastribune.org/link/16799/17428063/texas-general-election-november-2026-voter-guide",
-    "content": "Voters will weigh in on dozens of races, including U.S. senator, governor and many other offices.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17428063.gif\" width=\"1\" />",
-    "date": "2026-08-25T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240754",
-    "feed_name": "Texas Tribune",
-    "title": "What to know about state takeovers as Texas wrestles with the future of Austin public schools",
-    "author": "Sneha Dey",
-    "link": "https://feeds.texastribune.org/link/16799/17428064/texas-school-takeovers-intervention-explained",
-    "content": "An Austin Independent School District sign is seen on the outside of the AISD building in Austin on June 11, 2026.",
-    "date": "2026-08-25T10:00:00",
-    "category": "Texas"
   }
 ]
