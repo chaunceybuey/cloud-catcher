@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875419#p8875419",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Lyrrad",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8875419#p8875419",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Does anything in the wiki need to be updated? <a class=\"postlink\" href=\"https://www.bogleheads.org/wiki/Fidelity:_one_stop_shop\">Fidelity: one stop shop</a></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>I added details about the passkeys to the MFA section when I made my post. The CMA section wasn\u2019t made incorrect by the change, though I suppose details about allowed holdings could be added.  I was unsure if the listed CMA sweep options were out of date, so I didn\u2019t change it.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=9124\">Lyrrad</a> \u2014 Sun Oct 11, 2026 8:06 pm</p><hr />",
+    "date": "2026-10-12T01:06:07",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875378#p8875378",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "\u201cThat means I\u2019ve lost an entire Donald Trump,\u201d the country singer said while guest hosting Monday\u2019s late night show.",
     "date": "2026-08-25T05:13:15",
     "category": "NYT"
-  },
-  {
-    "id": "6a8c4b08828378c23fc90694",
-    "feed_name": "Wired (Science)",
-    "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
-    "content": "There\u2019s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
-    "date": "2026-08-25T04:01:00",
-    "category": "Magazines"
   }
 ]
