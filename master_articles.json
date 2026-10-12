@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "RJ Mitte, Who Played Walter White\u2019s Son on \u2018Breaking Bad,\u2019 Dies at 34",
+    "author": "Remy Tumin",
+    "link": "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html",
+    "content": "Mr. Mitte was born with cerebral palsy and brought his own experience of living with the disability to the role of Walter White Jr. on the Emmy-winning show.",
+    "date": "2026-10-12T21:59:33",
+    "category": "NYT"
+  },
+  {
     "id": "72ead1441203933f418435a4105a059e",
     "feed_name": "LRB",
     "title": "Fredric the Great",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/arts/television/ted-lasso-season-4-episode-4-recap.html",
     "content": "Juno Temple and Brett Goldstein in \u201cTed Lasso.\u201d",
     "date": "2026-08-26T09:03:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/arts/music/harry-styles-residencies-pop-music.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Harry Styles and the Residencies Taking Over the Music Industry",
-    "author": "Ben Sisario",
-    "link": "https://www.nytimes.com/2026/08/26/arts/music/harry-styles-residencies-pop-music.html",
-    "content": "Harry Styles performing during his 2022 Madison Square Garden residency.",
-    "date": "2026-08-26T09:02:50",
     "category": "NYT"
   }
 ]
