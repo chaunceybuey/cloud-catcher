@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/12/arts/music/berlin-philharmonic-carnegie-hall.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Berlin Philharmonic Opens Carnegie Hall Season",
+    "author": "David Allen",
+    "link": "https://www.nytimes.com/2026/10/12/arts/music/berlin-philharmonic-carnegie-hall.html",
+    "content": "At Carnegie Hall, this orchestra gave gobsmacking performances of the classics. If only it could show some of the creativity it has at home.",
+    "date": "2026-10-12T15:41:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/12/dining/a-skillet-dinner-that-checks-all-the-boxes.html",
     "feed_name": "NYT (Food)",
     "title": "A Skillet Dinner That Checks All the Boxes",
@@ -568,6 +578,16 @@
     "content": "Fraser Olender on \u201cBelow Deck.\u201d",
     "date": "2026-10-12T05:00:04",
     "category": "NYT"
+  },
+  {
+    "id": "c21f7df6c192f3fa214886e04900155e",
+    "feed_name": "Outside",
+    "title": "Rachel Entrekin Just Placed Second in the Women's Race at UTMB. She's Only Getting Started.",
+    "author": "Rebecca ByerlyAugust 29, 2026Comment Icon1",
+    "link": "https://www.outsideonline.com/health/training-performance/rachel-entrekin-ultrarunner/",
+    "content": "After making history at an iconic, grueling, 200-plus-mile footrace, Rachel Entrekin brought her relentless drive and realistic positivity to the Alps for one of ultrarunning's biggest tests.",
+    "date": "2026-10-12T04:55:32",
+    "category": "Magazines"
   },
   {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8875491#p8875491",
@@ -19977,26 +19997,6 @@
     "link": "https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/",
     "content": "New findings shed light on what\u2019s making the parasite less treatable using the drug that\u2019s considered a first line of defense.",
     "date": "2026-08-26T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "0cd10a4b1f042bc27ac974076ee8a481",
-    "feed_name": "LRB",
-    "title": "At Tate Modern: On Hurvin Anderson",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n14/christine-okoth/at-tate-modern",
-    "content": "'Audition' by Hurvin Anderson (1998)",
-    "date": "2026-08-26T08:45:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "49164570160eb412f35d6167efd81fbc",
-    "feed_name": "LRB",
-    "title": "A Small Part of Paradise",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/august/a-small-part-of-paradise",
-    "content": "When Casablanca went into production in the spring of 1942, most of Morocco was a French protectorate, administered by the Vichy regime. The.\u00a0.\u00a0.",
-    "date": "2026-08-26T07:48:14",
     "category": "Magazines"
   }
 ]
