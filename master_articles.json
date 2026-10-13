@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/13/dining/a-miso-fish-chowder-that-really-satisfies.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Miso Fish Chowder That Really Satisfies",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/13/dining/a-miso-fish-chowder-that-really-satisfies.html",
+    "content": "Kay Chun\u2019s miso fish chowder.",
+    "date": "2026-10-13T15:00:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/13/arts/television/new-york-comic-con-20th-anniversary.html",
     "feed_name": "NYT (Arts)",
     "title": "New York Comic Con Celebrates 20 Years",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
     "content": "Dolly Parton, circa 1992.",
     "date": "2026-08-26T16:05:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/movies/tim-curry-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tim Curry, Star of \u2018Rocky Horror Picture Show,\u2019 Dies at 80",
-    "author": "Bruce Weber",
-    "link": "https://www.nytimes.com/2026/08/26/movies/tim-curry-dead.html",
-    "content": "Tim Curry in 1974, the year he starred in the premiere American production of \u201cThe Rocky Horror Show\u201d in Los Angeles.",
-    "date": "2026-08-26T16:00:38",
     "category": "NYT"
   }
 ]
