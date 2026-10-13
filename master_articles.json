@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/13/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Daniel Humm Finally Puts His Name on a Restaurant",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/10/13/dining/nyc-restaurant-news.html",
+    "content": "Softville makes its American gelato debut, Diner24 provides dinner-theater on the hour and more restaurant news.",
+    "date": "2026-10-13T17:24:01",
+    "category": "NYT"
+  },
+  {
+    "id": "961ed3c8-8af3-4e06-a127-94da8bb233e9",
+    "feed_name": "Economist",
+    "title": "How to lose money betting against Europe",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/13/how-to-lose-money-betting-against-europe",
+    "content": "In a sovereign-debt crisis, even understanding politics may not be enough",
+    "date": "2026-10-13T17:01:13",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/13/dining/so-fox-restaurant-review.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: So Fox in Atlanta",
@@ -19978,25 +19998,5 @@
     "content": "From left: U.S. Sen. Ted Cruz and Gov. Greg Abbott speaking the the Republican Party of Texas convention in Houston in June.",
     "date": "2026-08-26T16:54:56",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/arts/music/dolly-parton-publishing-i-will-always-love-you.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Dolly Parton Stood on Business With \u2018I Will Always Love You\u2019",
-    "author": "Ben Sisario",
-    "link": "https://www.nytimes.com/2026/08/26/arts/music/dolly-parton-publishing-i-will-always-love-you.html",
-    "content": "Dolly Parton at a country music and D.J. convention in Nashville in 1972.",
-    "date": "2026-08-26T16:48:36",
-    "category": "NYT"
-  },
-  {
-    "id": "e74119dd615a43537268e3f8bb870570",
-    "feed_name": "The Atlantic",
-    "title": "The Most Beautiful Woman",
-    "author": "Annie Joy Williams",
-    "link": "https://www.theatlantic.com/ideas/2026/08/dolly-parton-southern-influence/688414/",
-    "content": "What Dolly Parton meant to the South",
-    "date": "2026-08-26T16:30:00",
-    "category": "Magazines"
   }
 ]
