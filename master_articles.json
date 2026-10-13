@@ -140,6 +140,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/online/2026/10/07/ming-smiths-ming-smiths/",
+    "feed_name": "NYRB",
+    "title": "Ming Smith\u2019s Ming Smiths",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/10/07/ming-smiths-ming-smiths/",
+    "content": "The artist\u2019s self-portraits seem to say: I am because of us.\n\nDelivered by PolitePaul service",
+    "date": "2026-10-13T19:48:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/arts/music/tupac-shakur-murder-duane-keith-davis-sentenced.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tupac Shakur Murder Conviction Lands Man 40 Years to Life in Prison",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/10/13/arts/music/tupac-shakur-murder-duane-keith-davis-sentenced.html",
+    "content": "Duane Keith Davis is escorted by police from his sentencing hearing.",
+    "date": "2026-10-13T19:39:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/dining/cabagges-world.html",
+    "feed_name": "NYT (Food)",
+    "title": "Cabagges World\u2019s Favorite New York City Restaurants",
+    "author": "Nikita Richardson",
+    "link": "https://www.nytimes.com/2026/10/13/dining/cabagges-world.html",
+    "content": "Anna Archibald and Kevin Serai, the couple behind the popular home cooking and lifestyle account, tackle our restaurant questionnaire.",
+    "date": "2026-10-13T19:30:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22756-central-texas-philharmonic-phantom-of-the-opera",
     "feed_name": "KMFA",
     "title": "Central Texas Philharmonic: Phantom of the Opera",
@@ -19966,36 +19996,6 @@
     "author": "",
     "link": "https://www.outsideonline.com/adventure-travel/essays/jose-andres-camino-de-santiago-walk-spain/",
     "content": "One of the world\u2019s most famous humanitarians has spent decades feeding millions in the wake of disaster via World Central Kitchen. Now, on an ancient pilgrimage across Spain\u2019s Camino de Santiago, he is learning how to carry the weight of the universe one step at a time.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "3a7108f9328908adafe2f69cad7bc379",
-    "feed_name": "Outside",
-    "title": "She\u2019s Funding Her 2,600-Mile PCT Hike with OnlyFans. Traditionalists Are Skeptical. She Couldn\u2019t Care Less.",
-    "author": "",
-    "link": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/kamryn-renae-pct-hiker-onlyfans/",
-    "content": "Kamryn Renae's Instagram account exploded after she began posting flirty videos from the PCT, clad in pink booty shorts and matching nail polish. She knows what she is doing.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "973c37faa71db2221815ba51f057594b",
-    "feed_name": "Outside",
-    "title": "Two Texas Flood Victims Still Haven\u2019t Been Found. These People Won\u2019t Stop Looking.",
-    "author": "",
-    "link": "https://www.outsideonline.com/outdoor-adventure/environment/guadalupe-river-flood-volunteer-search-recovery/",
-    "content": "Recovery teams descended on Texas' Guadalupe River in the wake of the 2025 floods. Their task was to locate the remains of the dead, to provide solace for the living. Almost a year later, some are still missing.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "dabbcadc571bd53852af85b28e7be487",
-    "feed_name": "Outside",
-    "title": "I Spent a Week in the Jungle to Find Out Why Women Are Paying Thousands to Talk About Hormones",
-    "author": "",
-    "link": "https://www.outsideonline.com/health/wellness/menopause-retreats/",
-    "content": "Could a week in the jungle rewrite the rules of menopause?",
     "date": "2026-08-26T19:03:50",
     "category": "Magazines"
   }
