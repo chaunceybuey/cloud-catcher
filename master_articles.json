@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/13/arts/television/jimmy-kimmel-trump-nobel-peace-prize.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Teases Trump Over Not Getting the Nobel Prize",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/13/arts/television/jimmy-kimmel-trump-nobel-peace-prize.html",
+    "content": "\u201cThanks a lot, Norway. I hope you\u2019re happy \u2014 you made our baby cry,\u201d Kimmel said after the president blamed Norway.",
+    "date": "2026-10-13T06:02:35",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "RJ Mitte, Who Played Walter White\u2019s Son on \u2018Breaking Bad,\u2019 Dies at 34",
@@ -19986,16 +19996,6 @@
     "author": "By Sam Stark,\u00a0Austin Current",
     "link": "https://feeds.texastribune.org/link/16799/17430599/austin-data-center-rules",
     "content": "The Austin City Council is racing to get ahead of data centers before a facility is proposed inside the city limits.",
-    "date": "2026-08-26T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240804",
-    "feed_name": "Texas Tribune",
-    "title": "A new Texas law declaws neighborhood groups that oppose housing projects",
-    "author": "Joshua Fechter",
-    "link": "https://feeds.texastribune.org/link/16799/17430600/texas-petition-new-housing-city-council-nimby",
-    "content": "The South Austin Christian Church  near South Congress Avenue in Austin on Monday, Aug. 24, 2026.",
     "date": "2026-08-26T10:00:00",
     "category": "Texas"
   }
