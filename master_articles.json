@@ -140,6 +140,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Girls\u2019 to Return for a Limited Run",
+    "author": "John Koblin",
+    "link": "https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html",
+    "content": "HBO announced that the show created by Lena Dunham will begin production on five new episodes next year, 10 years after the finale.",
+    "date": "2026-10-13T20:39:10",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/obituaries/cartoons-new-yorker-pc-vey.html",
+    "feed_name": "NYT (Arts)",
+    "title": "We Want Your Original Cartoon",
+    "author": "Michael S. Rosenwald",
+    "link": "https://www.nytimes.com/2026/10/13/obituaries/cartoons-new-yorker-pc-vey.html",
+    "content": "The cartoonist P.C. Vey died recently. We\u2019re inviting readers to share original cartoons of their own that, like Mr. Vey\u2019s, find humor in the absurdities of everyday life.",
+    "date": "2026-10-13T20:30:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/arts/television/rj-mitte-death-reactions-bryan-cranston.html",
+    "feed_name": "NYT (Arts)",
+    "title": "RJ Mitte Is Remembered by Bryan Cranston, Vince Gilligan and Others From \u2018Breaking Bad\u2019",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/10/13/arts/television/rj-mitte-death-reactions-bryan-cranston.html",
+    "content": "From left, RJ Mitte, Bryan Cranston, Anna Gunn and Aaron Paul, all stars of \u201cBreaking Bad,\u201d in 2013.",
+    "date": "2026-10-13T20:19:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/13/dining/restaurant-review-socceria-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Soccer\u00eda in New York",
@@ -187,6 +217,16 @@
     "link": "https://www.kmfa.org/pages/22756-central-texas-philharmonic-phantom-of-the-opera",
     "content": "CENTRAL TEXAS PHILHARMONIC PRESENTS:\n\nTHE PHANTOM OF THE OPERA\n\nOctober 13 | 7:30 - 9:00 P.M. | Alma Thomas Theater\n\n\n\nExperience one of cinema\u2019s most iconic masterpieces as the Central Texas Philharmonic brings the 1925 silent film\u00a0The Phantom of the Opera\u00a0to life with a live orchestral performance. Starring the legendary Lon Chaney in his unforgettable portrayal of the mysterious Phantom, this landmark film combines romance, suspense, and gothic spectacle against the backdrop of the Paris Opera House.\n\nAs the film unfolds on the big screen, the orchestra will perform the score live, creating an immersive experience that captures the magic of the silent-film era while showcasing the power of live symphonic music. From the Phantom\u2019s shadowy lair beneath the opera house to the film\u2019s dramatic and haunting climax, audiences will experience every moment with a depth and immediacy that only a live orchestra can provide. Whether you are discovering this classic for the first time or revisiting a beloved favorite, this special event offers a rare opportunity to experience a cinematic treasure as audiences might have enjoyed it a century ago.\n\nThis concert is at the Alma Thomas Theater,\u00a01001 E University Ave, Georgetown, TX 78626.\n\nBUY TICKETS!\n\nEvent Details\nDate: Tuesday, October 13\nTime: 7:30 P.M. - 9:00 P.M.\nVenue: Alma Thomas Fine Arts Center\n\nTicket Information\nCost: $40 - $65\nPhone: \n\nPresenter Details: The Central Texas Philharmonic is a professional regional orchestra founded in 2018 by merging the Round Rock Symphony and the Georgetown Symphony Society. Led by Music Director Stefan Sanders, the ensemble inspires the region through high-quality symphonic concerts, youth programs, and community outreach.",
     "date": "2026-10-13T19:30:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246194",
+    "feed_name": "Texas Tribune",
+    "title": "San Antonio sues to block plans to convert warehouse into an ICE detention center",
+    "author": "Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17496732/dhs-ice-warehouse-san-antonio-lawsuit-environmental-impact",
+    "content": "A sign reading \u201cICE Out of SATX\u201d is seen at a field hearing with elected officials hearing testimony about a proposed ICE facility and immigration enforcement efforts by the federal government, in San Antonio on Oct. 2, 2026.",
+    "date": "2026-10-13T19:18:33",
     "category": "Texas"
   },
   {
@@ -19956,46 +19996,6 @@
     "author": "",
     "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/owyhee-river-packrafting/",
     "content": "The Lower Owyhee River in eastern Oregon is remote, tough to access, and impossibly beautiful. Writer Owen Clarke recently tagged along on an packrafting trip down the river during its dry season.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "24231df51eb78767849e4b9891903707",
-    "feed_name": "Outside",
-    "title": "The Enhanced Games Promised a Drug-Fueled Athletic Revolution. Then Things Got Messy.",
-    "author": "",
-    "link": "https://www.outsideonline.com/culture/essays-culture/inside-enhanced-games-doping-olympics-las-vegas/",
-    "content": "Backed by tech billionaires, flooded with performance-enhancing drugs, and designed to smash records, the \"Doping Olympics\" finally arrived in Las Vegas. But the reality of sports without hypocrisy was a lot messier than advertised.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "fd580c3845d9dc1faada04f5f5ef39e8",
-    "feed_name": "Outside",
-    "title": "Colorado\u2019s Wolf Reintroduction Hasn\u2019t Gone to Plan. Are the New Midnight Cowboys Its Last Hope?",
-    "author": "",
-    "link": "https://www.outsideonline.com/outdoor-adventure/environment/colorado-wolf-reintroduction-range-riders/",
-    "content": "In the name of wolf conservation, Colorado is reviving the cowboy way of life\u2014starting with a team of 15 range riders. Not everyone\u2019s happy to see them.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "c80f553de971634548e2b19a3f302159",
-    "feed_name": "Outside",
-    "title": "A Century Before Lewis and Clark, an Indigenous Explorer Traversed the Continent. I Spent a Year Studying His Adventure.",
-    "author": "",
-    "link": "https://www.outsideonline.com/culture/essays-culture/moncacht-ape-indigenous-explorer/",
-    "content": "After a devastating personal loss, I spent a year tracking the clues of a 300-year-old mystery to show how a nearly forgotten Indigenous explorer reached the Pacific a century before Lewis and Clark.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "0dd85eaac233d14e5e5a347275e184a1",
-    "feed_name": "Outside",
-    "title": "The Fierce Battle Over the True Height of Mount Rainier",
-    "author": "",
-    "link": "https://www.outsideonline.com/outdoor-adventure/environment/mount-rainier-height-shrinking/",
-    "content": "Eric Gilbertson has a very particular set of skills. He climbs mountains all over the world, attempting to measure them more accurately than anyone ever has. But when he discovered that Mount Rainier was shorter than advertised, no one wanted to hear it.",
     "date": "2026-08-26T19:03:50",
     "category": "Magazines"
   }
