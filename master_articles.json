@@ -150,6 +150,46 @@
     "category": "Texas"
   },
   {
+    "id": "7839199dbaaa1e99a92985b655040db1",
+    "feed_name": "LRB",
+    "title": "Bolsonaro Redux?",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/october/bolsonaro-redux",
+    "content": "Lula raised the budget for school lunches, improved access to higher education and free medication, and increased the hiring of public health.\u00a0.\u00a0.",
+    "date": "2026-10-13T18:01:04",
+    "category": "Magazines"
+  },
+  {
+    "id": "2153eb68987533afa14a1cf2b6cfd46e",
+    "feed_name": "Compact",
+    "title": "How the Movies Learned to Love Christians",
+    "author": "",
+    "link": "https://www.compactmag.com/article/how-the-movies-learned-to-love-christians/",
+    "content": "",
+    "date": "2026-10-13T18:00:58",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/arts/music/amplifier-newsletter-bob-dylan-judy-garland-carnegie-hall.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Great Live Albums From Carnegie Hall",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/10/13/arts/music/amplifier-newsletter-bob-dylan-judy-garland-carnegie-hall.html",
+    "content": "Judy Garland\u2019s triumphant 1961 performance at Carnegie Hall has sometimes been hailed as \u201cthe greatest night in showbiz history.\u201d",
+    "date": "2026-10-13T18:00:03",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/books/frances-stonor-saunders-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Frances Stonor Saunders, Who Detailed C.I.A. Propaganda, Dies at 60",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/10/13/books/frances-stonor-saunders-dead.html",
+    "content": "Frances Stonor Saunders, an award-winning author and documentarian, in 2015.",
+    "date": "2026-10-13T17:50:30",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/13/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "Daniel Humm Finally Puts His Name on a Restaurant",
@@ -19958,45 +19998,5 @@
     "content": "Could a week in the jungle rewrite the rules of menopause?",
     "date": "2026-08-26T19:03:50",
     "category": "Magazines"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/madelyn-cline-madison-bailey-carlacia-grant-outer-banks-pizza-interview",
-    "feed_name": "NYT (Food)",
-    "title": "Madelyn Cline, Madison Bailey and Carlacia Grant on \u2018Outer Banks,\u2019 Pizza and More",
-    "author": "Victoria Chen",
-    "link": "https://cooking.nytimes.com/article/madelyn-cline-madison-bailey-carlacia-grant-outer-banks-pizza-interview",
-    "content": "Madelyn Cline, Madison Bailey and Carlacia Grant got creative with their pies when they stopped by the New York Times kitchen studio for the Pizza Interview.",
-    "date": "2026-08-26T19:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "78d5a41c-632f-4170-8d3c-0b4ba6cd5340",
-    "feed_name": "Economist",
-    "title": "Why is Russia deliberately weakening its currency?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/08/26/why-is-russia-deliberately-weakening-its-currency",
-    "content": "A strong rouble was hurting the budget",
-    "date": "2026-08-26T18:28:55",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/arts/music/dollywood-dolly-parton.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Dollywood Theme Park Captured the Essence of Its Founder",
-    "author": "Melena Ryzik",
-    "link": "https://www.nytimes.com/2026/08/26/arts/music/dollywood-dolly-parton.html",
-    "content": "Dolly Parton riding the Dollywood Express in 1987. Her namesake theme park grew into one of the most popular tourist attractions in the South.",
-    "date": "2026-08-26T17:18:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=240928",
-    "feed_name": "Texas Tribune",
-    "title": "Ted Cruz says on podcast \u201cIt\u2019s no secret I want to be president\u201d",
-    "author": "Rebekah Allen",
-    "link": "https://feeds.texastribune.org/link/16799/17432315/ted-cruz-greg-abbott-president-texas-dan-patrick-podcast",
-    "content": "From left: U.S. Sen. Ted Cruz and Gov. Greg Abbott speaking the the Republican Party of Texas convention in Houston in June.",
-    "date": "2026-08-26T16:54:56",
-    "category": "Texas"
   }
 ]
