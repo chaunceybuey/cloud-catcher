@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a8ef8a7546bfd8351e62e91",
+    "feed_name": "Wired",
+    "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "author": "Richard Cooke",
+    "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "content": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+    "date": "2026-10-13T11:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6ac64ee6e3dd6e6810776e23",
     "feed_name": "Wired",
     "title": "Alex Gibney\u2019s \u2018Musk\u2019 Has a Unique Perspective on Daddy Issues",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/arts/michael-connelly-black-dahlia-zodiac-podcast.html",
     "content": "Michael Connelly, a reporter turned novelist, has created iconic characters like Harry Bosch and Mickey Haller, otherwise known as the Lincoln Lawyer.",
     "date": "2026-08-26T15:15:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/books/peter-nadas-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Peter Nadas, Author of \u2018the Greatest Novel Written in Our Time,\u2019 Dies at 83",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/08/26/books/peter-nadas-dead.html",
-    "content": "Peter Nadas in 2007.",
-    "date": "2026-08-26T15:13:25",
     "category": "NYT"
   }
 ]
