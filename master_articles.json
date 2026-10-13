@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/13/dining/so-fox-restaurant-review.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: So Fox in Atlanta",
+    "author": "Tejal Rao",
+    "link": "https://www.nytimes.com/2026/10/13/dining/so-fox-restaurant-review.html",
+    "content": "The chef Myles Moody returns home to bring his worldly take on the classics.",
+    "date": "2026-10-13T16:03:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/13/dining/a-miso-fish-chowder-that-really-satisfies.html",
     "feed_name": "NYT (Food)",
     "title": "A Miso Fish Chowder That Really Satisfies",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/movies/it-ends-behind-the-scenes.html",
     "content": "How the writer-director Alexander Ullom turned post-grad existential anxiety and a tiny budget into his breakout debut horror film.",
     "date": "2026-08-26T16:07:45",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Dolly Parton\u2019s Bedazzled, Bewigged and Bodacious Style",
-    "author": "Vanessa Friedman",
-    "link": "https://www.nytimes.com/2026/08/25/style/dolly-parton-sense-of-style.html",
-    "content": "Dolly Parton, circa 1992.",
-    "date": "2026-08-26T16:05:43",
     "category": "NYT"
   }
 ]
