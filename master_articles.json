@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/13/dining/restaurant-review-socceria-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Soccer\u00eda in New York",
+    "author": "Ryan Sutton",
+    "link": "https://www.nytimes.com/2026/10/13/dining/restaurant-review-socceria-nyc.html",
+    "content": "At this soccer bar, fans can snack on some of the city\u2019s most technically complex quesadillas, including one with chicharr\u00f3n prensado.",
+    "date": "2026-10-13T20:16:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/online/2026/10/07/ming-smiths-ming-smiths/",
     "feed_name": "NYRB",
     "title": "Ming Smith\u2019s Ming Smiths",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.outsideonline.com/outdoor-adventure/environment/mount-rainier-height-shrinking/",
     "content": "Eric Gilbertson has a very particular set of skills. He climbs mountains all over the world, attempting to measure them more accurately than anyone ever has. But when he discovered that Mount Rainier was shorter than advertised, no one wanted to hear it.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
-  },
-  {
-    "id": "658242a6022ac173ef6f609d171699da",
-    "feed_name": "Outside",
-    "title": "On the Camino de Santiago, Jos\u00e9 Andr\u00e9s Recovers from the Weight of the World",
-    "author": "",
-    "link": "https://www.outsideonline.com/adventure-travel/essays/jose-andres-camino-de-santiago-walk-spain/",
-    "content": "One of the world\u2019s most famous humanitarians has spent decades feeding millions in the wake of disaster via World Central Kitchen. Now, on an ancient pilgrimage across Spain\u2019s Camino de Santiago, he is learning how to carry the weight of the universe one step at a time.",
     "date": "2026-08-26T19:03:50",
     "category": "Magazines"
   }
