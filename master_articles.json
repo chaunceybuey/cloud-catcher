@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "6ac909991dd8a2ab2e331aca",
+    "feed_name": "Wired (Science)",
+    "title": "Everyone Hates \u2018Digger.\u2019 It\u2019s the Perfect Climate Movie",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/",
+    "content": "The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.",
+    "date": "2026-10-13T22:08:44",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246243",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Houston is a model for school takeovers. Is it sustainable?",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17496772/tribcast-houstonisd-takeovers",
+    "content": "State-appointed Superintendent Mike Miles looks over the shoulders of seventh grade students during a math class at Fonville Middle School on Aug. 26, 2026, in north Houston.",
+    "date": "2026-10-13T20:41:13",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Girls\u2019 to Return for a Limited Run",
@@ -256,6 +276,16 @@
     "author": "Owen ClarkeJune 17, 2026Comment Icon2",
     "link": "https://www.outsideonline.com/outdoor-adventure/water-activities/owyhee-river-packrafting/",
     "content": "The Lower Owyhee River in eastern Oregon is remote, tough to access, and impossibly beautiful. Writer Owen Clarke recently tagged along on an packrafting trip down the river during its dry season.",
+    "date": "2026-10-13T18:00:59",
+    "category": "Magazines"
+  },
+  {
+    "id": "58a486e0b07e8031a6a13c2e7127630a",
+    "feed_name": "Outside",
+    "title": "What Can Athletes Learn From Courtney Dauwalter's Winning Streak? Joy Is More Powerful than Results.",
+    "author": "Brad StulbergJune 23, 2026",
+    "link": "https://www.outsideonline.com/health/training-performance/courtney-dauwalter-joy/",
+    "content": "What do the world\u2019s best endurance athletes have in common? In his latest book, \u2018The Way of Excellence,\u2019 author Brad Stulberg explores the importance of positive emotions on training and racing.",
     "date": "2026-10-13T18:00:59",
     "category": "Magazines"
   },
@@ -19968,35 +19998,5 @@
     "content": "Justin Baldoni and Blake Lively, who co-starred in the movie \u201cIt Ends With Us,\u201d began fighting in court over the film in late 2024.",
     "date": "2026-08-26T19:22:48",
     "category": "NYT"
-  },
-  {
-    "id": "ea3c54d021cbaf376313ac6a95e7dba9",
-    "feed_name": "LRB",
-    "title": "A Rough Guide to Money Laundering",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/a-rough-guide-to-money-laundering",
-    "content": "More than 90 per cent of transactions in the UK are now cashless, yet there is more cash in circulation than ever before. In the UK, there\u2019s about \u00a31300 circulating for every individual; in the US it\u2019s more than $7000, and the majority of this exists in the highest-denomination banknotes, such as the $100 and \u20ac500 bills. So where is it all? Remarkably, nobody really...",
-    "date": "2026-08-26T19:03:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "98c93a45c87a699c281cd5a22dd9673e",
-    "feed_name": "LRB",
-    "title": "When will AI replace us?",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/when-will-ai-replace-us",
-    "content": "Is AI taking us into a world where computer programmers, and perhaps the rest of us too, are obsolete? And if so, how quickly is it taking us there? Paul Taylor has been looking at code since the time when computer games didn't even have screens, and in this episode he talks to Tom about the enormous changes generative AI has brought to programming and the world of work in the past couple of...",
-    "date": "2026-08-26T19:03:54",
-    "category": "Magazines"
-  },
-  {
-    "id": "57ddafb12324201abc5ff85468649f9c",
-    "feed_name": "Outside",
-    "title": "Hot Pools, Waterslides, and Cocktails: Inside Therme\u2019s Plan to Bring Supersized Health Spas to the USA",
-    "author": "",
-    "link": "https://www.outsideonline.com/health/wellness/therme-spa/",
-    "content": "Therme Group, Europe\u2019s wellness behemoth, is planning to open stadium-sized health spas across the USA. Are Americans ready for Roman baths? We traveled to Bucharest to find out.",
-    "date": "2026-08-26T19:03:50",
-    "category": "Magazines"
   }
 ]
