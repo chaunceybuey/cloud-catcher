@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/13/arts/television/new-york-comic-con-20th-anniversary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "New York Comic Con Celebrates 20 Years",
+    "author": "Maya Phillips",
+    "link": "https://www.nytimes.com/2026/10/13/arts/television/new-york-comic-con-20th-anniversary.html",
+    "content": "The fan-driven presence of anime is one way in which New York Comic-Con has evolved over its two decades.",
+    "date": "2026-10-13T14:36:53",
+    "category": "NYT"
+  },
+  {
     "id": "6a8ef8a7546bfd8351e62e91",
     "feed_name": "Wired",
     "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/movies/tim-curry-dead.html",
     "content": "Tim Curry in 1974, the year he starred in the premiere American production of \u201cThe Rocky Horror Show\u201d in Los Angeles.",
     "date": "2026-08-26T16:00:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/arts/michael-connelly-black-dahlia-zodiac-podcast.html",
-    "feed_name": "NYT (Arts)",
-    "title": "With \u2018Killer in the Code,\u2019 Michael Connelly Puts His Reputation on the Line",
-    "author": "Alexander Nazaryan",
-    "link": "https://www.nytimes.com/2026/08/26/arts/michael-connelly-black-dahlia-zodiac-podcast.html",
-    "content": "Michael Connelly, a reporter turned novelist, has created iconic characters like Harry Bosch and Mickey Haller, otherwise known as the Lincoln Lawyer.",
-    "date": "2026-08-26T15:15:13",
     "category": "NYT"
   }
 ]
