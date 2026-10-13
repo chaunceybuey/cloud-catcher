@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ac64ee6e3dd6e6810776e23",
+    "feed_name": "Wired",
+    "title": "Alex Gibney\u2019s \u2018Musk\u2019 Has a Unique Perspective on Daddy Issues",
+    "author": "Zo\u00eb Schiffer",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
+    "content": "Elon Musk\u2019s father, Errol Musk, agreed to be interviewed immediately.",
+    "date": "2026-10-13T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "a61d13d2c058886cb97075454d69a258",
     "feed_name": "Outside",
     "title": "What It Really Feels Like to Survive an Everest Avalanche",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/books/peter-nadas-dead.html",
     "content": "Peter Nadas in 2007.",
     "date": "2026-08-26T15:13:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/arts/television/netflix-expiring-september.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Stream These Movies and Shows Before They Leave Netflix",
-    "author": "Jason T. Bailey",
-    "link": "https://www.nytimes.com/2026/08/26/arts/television/netflix-expiring-september.html",
-    "content": "Like \u201cThe Four Seasons\u201d? The movie that inspired it is leaving soon, as is the Hayden Panettiere showcase \u201cNashville.\u201d",
-    "date": "2026-08-26T15:09:47",
     "category": "NYT"
   }
 ]
