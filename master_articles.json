@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/14/theater/golden-boy-virginia-woolf-london-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Josh O\u2019Connor's a Knockout in \u2018Golden Boy,\u2019 Plus Cate Blanchett and More",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/10/14/theater/golden-boy-virginia-woolf-london-theater.html",
+    "content": "Tilda Swinton (in \u201cMan to Man\u201d) and Billy Crudup and Gillian Anderson (in \u201cWho\u2019s Afraid of Virginia Woolf?\u201d) are among the titans making a meal of London.",
+    "date": "2026-10-14T20:03:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23415-austin-classical-guitar-thatcher-harrison-with-david-manzanares-leonela-alejandro",
     "feed_name": "KMFA",
     "title": "Austin Classical Guitar: Thatcher Harrison with David Manzanares &amp; Leonela Alejandro",
@@ -19988,15 +19998,5 @@
     "content": "In decision after decision, the conservative justices are ignoring the evidentiary record that lower courts have worked hard to establish.",
     "date": "2026-08-27T14:02:16",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Yayoi Kusama: A Life in Pictures",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
-    "content": "Yayoi Kusama in New York in 2013.",
-    "date": "2026-08-27T13:55:24",
-    "category": "NYT"
   }
 ]
