@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "6ace55f4b718d45618194c75",
+    "feed_name": "Wired (Science)",
+    "title": "AI Came for Math. Now It\u2019s Chasing the Rest of Science",
+    "author": "Will Knight",
+    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "content": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+    "date": "2026-10-14T18:15:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/briefing/14-the-good-list-singing-marina-abramovic.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Delight to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/10/14/briefing/14-the-good-list-singing-marina-abramovic.html",
+    "content": "Dance soundtrack, feather atlas and the sound of a sunny day.",
+    "date": "2026-10-14T18:13:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=246400",
     "feed_name": "Texas Tribune",
     "title": "House Republicans pull $3 million reserved for ads against Henry Cuellar",
@@ -19978,25 +19998,5 @@
     "content": "The Republican governor thinks he can drain the bile from partisan combat. It almost broke him.",
     "date": "2026-08-27T13:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/27/arts/yayoi-kusama-photos-artwork.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Yayoi Kusama: A Life in Photos",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/08/27/arts/yayoi-kusama-photos-artwork.html",
-    "content": "Yayoi Kusama in New York in 2013.",
-    "date": "2026-08-27T12:25:56",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/27/arts/music/harry-styles-madison-square-garden.html",
-    "feed_name": "NYT (Arts)",
-    "title": "For 30 Nights, Madison Square Garden Is Harry\u2019s House",
-    "author": "Leah Greenblatt",
-    "link": "https://www.nytimes.com/2026/08/27/arts/music/harry-styles-madison-square-garden.html",
-    "content": "The singer kicked off a monthslong residency at the venue on Wednesday night before a giddy crowd.",
-    "date": "2026-08-27T11:41:23",
-    "category": "NYT"
   }
 ]
