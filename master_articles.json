@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.",
+    "author": "Rebecca Chao",
+    "link": "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html",
+    "content": "Joni Mitchell in Hamilton, Ontario, early this year, where she won a lifetime achievement award at the Juno Awards, Canada\u2019s equivalent to the Grammys.",
+    "date": "2026-10-14T00:42:17",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=246284",
     "feed_name": "Texas Tribune",
     "title": "Harris County prosecutor to investigate ICE striking Houston man with vehicle",
@@ -19988,15 +19998,5 @@
     "content": "Gov. Greg Abbott speaks to the Texas Classrooms Commission inside the Governor\u2019s mansion in Austin on Aug. 10, 2026.",
     "date": "2026-08-26T21:06:10",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/books/dolly-parton-imagination-library.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Will Dolly Parton\u2019s Imagination Library Survive Without Her?",
-    "author": "Ash Wu",
-    "link": "https://www.nytimes.com/2026/08/26/books/dolly-parton-imagination-library.html",
-    "content": "A cardboard cutout of Dolly Parton greets attendees at the 2025 National Book Festival in Washington, D.C.",
-    "date": "2026-08-26T20:35:01",
-    "category": "NYT"
   }
 ]
