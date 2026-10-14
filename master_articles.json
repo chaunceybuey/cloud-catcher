@@ -140,6 +140,66 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/14/arts/hydrocal-plaster-shortage-sculptors.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sculptors Panic as Specialty Plaster Used in Artworks to Be Discontinued",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/10/14/arts/hydrocal-plaster-shortage-sculptors.html",
+    "content": "Artists are scrambling for alternatives to Hydrocal plaster, a crucial component for making sculptures.",
+    "date": "2026-10-14T09:02:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/arts/television/crystal-lake-friday-the-13th.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Crystal Lake,\u2019 a \u2018Friday the 13th\u2019 Prequel, Feels for Its Villain",
+    "author": "Erik Piepenburg",
+    "link": "https://www.nytimes.com/2026/10/14/arts/television/crystal-lake-friday-the-13th.html",
+    "content": "This prequel series, on Peacock, is TV\u2019s latest streaming extension of a beloved horror franchise.",
+    "date": "2026-10-14T09:02:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/arts/music/conrad-lant-cronos-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "He Pushed Heavy Metal to Even Darker Extremes",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/10/14/arts/music/conrad-lant-cronos-dead.html",
+    "content": "Conrad Lant performing in 2019. He took his stage name, Cronos, from the Greek god who castrated his father with a sickle.",
+    "date": "2026-10-14T09:01:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/arts/music/stella-lefty-boston-song-lyrics.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Stella Lefty Crafted a Viral Hit. Some Thought It Sounded Familiar.",
+    "author": "Paula Mej\u00eda",
+    "link": "https://www.nytimes.com/2026/10/14/arts/music/stella-lefty-boston-song-lyrics.html",
+    "content": "After this singer-songwriter\u2019s hit, \u201cBoston,\u201d was likened to a Noah Kahan tune, content creators made a sport of noting similarities her music and other popular tracks.",
+    "date": "2026-10-14T09:01:23",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/t-magazine/andreas-schulze-spritzdekor-collection.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Andreas Schulze\u2019s Collection of Spritzdekor Ceramics",
+    "author": "Kin Woo",
+    "link": "https://www.nytimes.com/2026/10/14/t-magazine/andreas-schulze-spritzdekor-collection.html",
+    "content": "The painter Andreas Schulze shares his collection of hundreds of airbrushed ceramic pieces.",
+    "date": "2026-10-14T09:00:57",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/14/arts/dance/ballet-salon-dancers-gibney-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ballet Salon Is a New Home for Dancers Who Want to Return to the Stage",
+    "author": "Sophie Bress and Steven Molina Contreras",
+    "link": "https://www.nytimes.com/2026/10/14/arts/dance/ballet-salon-dancers-gibney-theater.html",
+    "content": "For many ballet dancers and former students, love of the art form endures even after they stop dancing. Ballet Salon was founded as a place for them to practice and perform at a high level.",
+    "date": "2026-10-14T09:00:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/14/arts/battle-of-hastings-1066-reenactment-bayeux-tapestry.html",
     "feed_name": "NYT (Arts)",
     "title": "Bayeux Tapestry\u2019s Return Has History Buffs Re-Enacting Like It\u2019s 1066",
@@ -19937,66 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/theater/tim-curry-rocky-horror-spamalot.html",
     "content": "He was a blast to watch, whether playing a mad scientist in \u201cThe Rocky Horror Picture Show,\u201d a butler in \u201cClue\u201d or a singing King Arthur in \u201cSpamalot.\u201d",
     "date": "2026-08-27T01:26:06",
-    "category": "NYT"
-  },
-  {
-    "id": "6a8f4ac8df20f73c7f27346a",
-    "feed_name": "Wired (Science)",
-    "title": "How to See the Partial Lunar Eclipse and Blood Moon on August 27",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/how-to-view-august-2026-lunar-eclipse/",
-    "content": "The eclipse will obscure about 93 percent of the moon\u2019s surface. Here are the peak times and tips for the best viewing experience.",
-    "date": "2026-08-27T00:44:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "6fa0d31496170edd1729e431bde29fdf",
-    "feed_name": "The Atlantic",
-    "title": "The Absolute Pleasure of Tim Curry",
-    "author": "Tom Nichols",
-    "link": "https://www.theatlantic.com/ideas/2026/08/tim-curry-tribute/688422/",
-    "content": "His magic lay in his ability to be outrageous without being self-conscious.",
-    "date": "2026-08-26T23:57:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a8f1422fb2894bbff0c4b07",
-    "feed_name": "Wired (Science)",
-    "title": "How Rising Temperatures Likely Contributed to Nepal\u2019s Deadly Flood",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
-    "content": "Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.",
-    "date": "2026-08-26T22:19:44",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/movies/dolly-parton-movies-9-to-5.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Even in Her Movies, Dolly Parton Kept Control",
-    "author": "Wesley Morris",
-    "link": "https://www.nytimes.com/2026/08/26/movies/dolly-parton-movies-9-to-5.html",
-    "content": "During her Hollywood peak, Parton played women who knew their value, whether they were a secretary, brothel madam, hairdresser or radio show host.",
-    "date": "2026-08-26T21:56:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/arts/music/janie-bradford-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Janie Bradford, Co-Writer of Motown\u2019s First Hit, Dies at 87",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/08/26/arts/music/janie-bradford-dead.html",
-    "content": "Janie Bradford, center, with members of the Oak Ridge Boys in 1974. During the early years of Motown, she worked the front desk and handled contracts along with writing songs.",
-    "date": "2026-08-26T21:26:00",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/movies/tim-curry-a-life-in-pictures.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tim Curry: A Life in Pictures",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/08/26/movies/tim-curry-a-life-in-pictures.html",
-    "content": "Curry thrived onstage and onscreen in meaty roles that brought him widespread recognition and generations of dedicated fans.",
-    "date": "2026-08-26T21:16:01",
     "category": "NYT"
   }
 ]
