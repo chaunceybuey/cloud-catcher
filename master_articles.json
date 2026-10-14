@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/14/arts/battle-of-hastings-1066-reenactment-bayeux-tapestry.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Bayeux Tapestry\u2019s Return Has History Buffs Re-Enacting Like It\u2019s 1066",
+    "author": "Alex Marshall and Hannah Reyes Morales",
+    "link": "https://www.nytimes.com/2026/10/14/arts/battle-of-hastings-1066-reenactment-bayeux-tapestry.html",
+    "content": "Almost a millennium ago, the Battle of Hastings was fought on an English field and depicted on the tapestry. This year\u2019s restaging drew spectators spurred on by the artifact\u2019s visit to Britain.",
+    "date": "2026-10-14T06:00:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=246348",
     "feed_name": "Texas Tribune",
     "title": "How Ken Paxton and allies fanned a false conspiracy to convince voters James Talarico was mentally unfit",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/movies/tim-curry-a-life-in-pictures.html",
     "content": "Curry thrived onstage and onscreen in meaty roles that brought him widespread recognition and generations of dedicated fans.",
     "date": "2026-08-26T21:16:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Dolly Parton\u2019s Other Legacy: A Fortune Given Away, Dollar by Dollar",
-    "author": "David Gelles",
-    "link": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
-    "content": "Dolly Parton spoke at the Library of Congress during a 2018 celebration of her organization, the Imagination Library, and its 100 millionth book donation.",
-    "date": "2026-08-26T21:06:31",
     "category": "NYT"
   }
 ]
