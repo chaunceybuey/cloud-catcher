@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=246400",
+    "feed_name": "Texas Tribune",
+    "title": "House Republicans pull $3 million reserved for ads against Henry Cuellar",
+    "author": "Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17497476/house-republicans-henry-cuellar-28th-congressional-district-south-texas",
+    "content": "Webb County Judge Tano Tijerina, the GOP nominee for Texas\u2019 28th Congressional District, speaks at Republicans&#039; midterm convention in Dallas on Sept. 10, 2026.",
+    "date": "2026-10-14T15:28:33",
+    "category": "Texas"
+  },
+  {
     "id": "7449b788e0c7025affb0f2c679fc6562",
     "feed_name": "LRB",
     "title": "Prediction Markets",
@@ -19986,16 +19996,6 @@
     "author": "Tim Marchman, Maxwell Zeff, Molly Taft, Hugo Lowell",
     "link": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
     "content": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
-    "date": "2026-08-27T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "ca45172d8206c43753967bdc884d895f",
-    "feed_name": "The Atlantic",
-    "title": "Americans Are Spending Luxury Dollars for Dive-Bar Service",
-    "author": "Annie Lowrey",
-    "link": "https://www.theatlantic.com/ideas/2026/08/time-tax-administrative-bureaucracy/688322/",
-    "content": "The government\u2019s onerous rules impose a burdensome tax on time.",
     "date": "2026-08-27T11:00:00",
     "category": "Magazines"
   }
