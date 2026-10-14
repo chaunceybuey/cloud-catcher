@@ -180,6 +180,26 @@
     "category": "NYT"
   },
   {
+    "id": "aa123eaf-efac-49cf-9096-55ecc62e7390",
+    "feed_name": "Economist",
+    "title": "Another warning sign for China\u2019s economy: falling consumer credit",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
+    "content": "A crackdown on aggressive debt collectors is good news and bad news",
+    "date": "2026-10-14T17:52:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246431",
+    "feed_name": "Texas Tribune",
+    "title": "It\u2019s not just Talarico. New Texas poll shows Dems statistically tied in key statewide races",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17497618/texas-democrats-leading-republicans-polls-midterms",
+    "content": "Mothers Against Greg Abbott Democrat candidate trading cards at the Democratic state convention in Corpus Christi on June 26, 2026.",
+    "date": "2026-10-14T16:48:56",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=246400",
     "feed_name": "Texas Tribune",
     "title": "House Republicans pull $3 million reserved for ads against Henry Cuellar",
@@ -19978,25 +19998,5 @@
     "content": "Yayoi Kusama in New York in 2013.",
     "date": "2026-08-27T13:55:24",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/27/theater/here-there-are-blueberries-broadway.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Here There Are Blueberries,\u2019 About a Trove of Nazi Photos, Heads to Broadway",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/08/27/theater/here-there-are-blueberries-broadway.html",
-    "content": "New York Theater Workshop in Lower Manhattan presented the play in 2024.",
-    "date": "2026-08-27T13:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "30bb839792133b7f39e7c50669a113d4",
-    "feed_name": "The Atlantic",
-    "title": "Spencer Cox\u2019s Possibly Delusional Crusade",
-    "author": "McKay Coppins",
-    "link": "https://www.theatlantic.com/ideas/2026/08/spencer-cox-book-off-ramp/688419/",
-    "content": "The Republican governor thinks he can drain the bile from partisan combat. It almost broke him.",
-    "date": "2026-08-27T13:00:00",
-    "category": "Magazines"
   }
 ]
