@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ace7f141c88d9ddc386038e",
+    "feed_name": "Wired (Science)",
+    "title": "Cat-Like Whiskers Help Tiny Drones Fly in the Dark",
+    "author": "Ritsuko Kawai",
+    "link": "https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/",
+    "content": "Researchers took lessons from nocturnal animals to help rescue drones overcome a key challenge: flying in the dark.",
+    "date": "2026-10-14T09:15:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/14/arts/hydrocal-plaster-shortage-sculptors.html",
     "feed_name": "NYT (Arts)",
     "title": "Sculptors Panic as Specialty Plaster Used in Artworks to Be Discontinued",
@@ -487,6 +497,16 @@
     "link": "https://www.nytimes.com/2026/10/13/dining/so-fox-restaurant-review.html",
     "content": "The chef Myles Moody returns home to bring his worldly take on the classics.",
     "date": "2026-10-13T16:03:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://cooking.nytimes.com/article/the-next-it-apple-might-be-300-years-old",
+    "feed_name": "NYT (Food)",
+    "title": "The Next \u2018It\u2019 Apple Might Be 300 Years Old",
+    "author": "Sarah Karnasiewicz",
+    "link": "https://cooking.nytimes.com/article/the-next-it-apple-might-be-300-years-old",
+    "content": "Esopus Spitzenburg, Cornish Gilliflower, Hubbardston Nonesuch: Antique varieties, with names recalling Dickensian villains, are packed with fresh flavor and texture.",
+    "date": "2026-10-13T15:38:45",
     "category": "NYT"
   },
   {
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/26/arts/design/yayoi-kusama-appraisal.html",
     "content": "A video projection of \u201cSong of a Manhattan Suicide Addict,\u201d by Yayoi Kusama, in 2024. In her later years, Kusama was one of the most popular living artists in the world.",
     "date": "2026-08-27T03:56:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97",
-    "author": "Holland Cotter",
-    "link": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-    "content": "The Japanese artist\u2019s polka-dot covered paintings, phallic sculptures and public performances caused a stir in New York City and Europe in the 1960s.",
-    "date": "2026-08-27T02:26:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/26/theater/tim-curry-rocky-horror-spamalot.html",
-    "feed_name": "NYT (Arts)",
-    "title": "As a Storyteller, Tim Curry Had the Gift",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/2026/08/26/theater/tim-curry-rocky-horror-spamalot.html",
-    "content": "He was a blast to watch, whether playing a mad scientist in \u201cThe Rocky Horror Picture Show,\u201d a butler in \u201cClue\u201d or a singing King Arthur in \u201cSpamalot.\u201d",
-    "date": "2026-08-27T01:26:06",
     "category": "NYT"
   }
 ]
