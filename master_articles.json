@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/14/arts/music/martina-arroyo-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Martina Arroyo, Luminous Soprano Who Broke Barriers, Dies at 89",
+    "author": "Vivien Schweitzer",
+    "link": "https://www.nytimes.com/2026/10/14/arts/music/martina-arroyo-dead.html",
+    "content": "Martina Arroyo as Verdi\u2019s Aida in 1965, the year she first sang the role at the Metropolitan Opera.",
+    "date": "2026-10-14T12:56:38",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/domestic-violence-immigrant-victims-ice-detention",
     "feed_name": "ProPublica",
     "title": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/27/movies/boorman-and-the-devil-review.html",
     "content": "A documentary looks back at what went wrong \u2014 and right \u2014 during the making of \u201cExorcist II: The Heretic,\u201d the director John Boorman\u2019s maligned 1977 sequel.",
     "date": "2026-08-27T09:02:18",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/27/arts/design/ghana-design-coffins.html",
-    "feed_name": "NYT (Arts)",
-    "title": "6 Feet Under in Coffins That Are Over the Top",
-    "author": "Patricia Leigh Brown",
-    "link": "https://www.nytimes.com/2026/08/27/arts/design/ghana-design-coffins.html",
-    "content": "Fantasy coffins, also called design coffins, play an integral role in many ornate funerals in Ghana.",
-    "date": "2026-08-27T09:02:14",
     "category": "NYT"
   }
 ]
