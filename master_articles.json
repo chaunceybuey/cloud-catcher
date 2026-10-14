@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aceaea7ef991ddbe94c5206",
+    "feed_name": "Wired (Science)",
+    "title": "Earth\u2019s Condition Is \u2018Serious and Getting Worse\u2019 as Climate Change Intensifies",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/",
+    "content": "Seven of 16 planetary vital signs are in their most extreme state ever recorded, and El Ni\u00f1o is here to make matters even worse.",
+    "date": "2026-10-14T14:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/14/arts/music/martina-arroyo-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Martina Arroyo, Luminous Soprano Who Broke Barriers, Dies at 89",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/27/movies/colony-review.html",
     "content": "The director Yeon Sang-ho (\u201cTrain to Busan\u201d) returns with a new spin on zombies, created with a virus by a mad scientist to unite, search and destroy.",
     "date": "2026-08-27T09:02:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/27/movies/boorman-and-the-devil-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Boorman and the Devil\u2019 Review: Behind a Plagued Production",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/08/27/movies/boorman-and-the-devil-review.html",
-    "content": "A documentary looks back at what went wrong \u2014 and right \u2014 during the making of \u201cExorcist II: The Heretic,\u201d the director John Boorman\u2019s maligned 1977 sequel.",
-    "date": "2026-08-27T09:02:18",
     "category": "NYT"
   }
 ]
