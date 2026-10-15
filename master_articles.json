@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/arts/design/chicano-gay-and-still-inspiring-connections.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Chicano, Gay and Still Inspiring Connections",
+    "author": "Holland Cotter",
+    "link": "https://www.nytimes.com/2026/10/15/arts/design/chicano-gay-and-still-inspiring-connections.html",
+    "content": "At El Museo del Barrio, a survey of the art multitasker Teddy Sandoval and his fictional collective, the Butch Gardens School.",
+    "date": "2026-10-15T11:50:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=246397",
     "feed_name": "Texas Tribune",
     "title": "Trump says the border is secure. Texas Gov. Greg Abbott keeps declaring an emergency.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/28/movies/science-fiction-movies-streaming.html",
     "content": "This month\u2019s options include an adaptation of an early Stephen King novel, jungle dinosaur battles and atmospheric thrillers.",
     "date": "2026-08-28T15:00:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/flatiron-steak-versatile-budget-friendly",
-    "feed_name": "NYT (Food)",
-    "title": "The Flatiron Steak Is Affordable and Versatile",
-    "author": "Florence Fabricant",
-    "link": "https://cooking.nytimes.com/article/flatiron-steak-versatile-budget-friendly",
-    "content": "Flatiron steak comes from the shoulder muscle and typically runs between $20 to $30 a pound.",
-    "date": "2026-08-28T14:52:30",
     "category": "NYT"
   }
 ]
