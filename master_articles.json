@@ -160,6 +160,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/theater/jocelyn-bioh-school-girls-african-mean-girls.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jocelyn Bioh Tackles Beauty Standards in \u2018School Girls\u2019",
+    "author": "Salamishah Tillet",
+    "link": "https://www.nytimes.com/2026/10/15/theater/jocelyn-bioh-school-girls-african-mean-girls.html",
+    "content": "Jocelyn Bioh on the set of her play \u201cSchool Girls; or The African Mean Girls Play\u201d at the Samuel J. Friedman Theater in Manhattan.",
+    "date": "2026-10-15T17:08:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/movies/once-upon-a-time-in-harlem-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Once Upon a Time in Harlem\u2019 Review: A Renaissance of Their Own",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/10/15/movies/once-upon-a-time-in-harlem-review.html",
+    "content": "The Black luminaries who turned 1920s Harlem into a hub of artistic expression gathered decades later to reminisce. It was a house party for the ages.",
+    "date": "2026-10-15T17:07:21",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/dining/i-had-always-considered-brussels-sprouts-to-be-evil-little-cabbages.html",
+    "feed_name": "NYT (Food)",
+    "title": "\u2018I Had Always Considered Brussels Sprouts to Be Evil Little Cabbages\u2019",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/10/15/dining/i-had-always-considered-brussels-sprouts-to-be-evil-little-cabbages.html",
+    "content": "Mark Bittman\u2019s roasted brussels sprouts with garlic.",
+    "date": "2026-10-15T17:00:17",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246603",
+    "feed_name": "Texas Tribune",
+    "title": "In race to lead Texas agriculture department, Sheets and Tucker clash on data centers, credentials",
+    "author": "Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17498329/texas-election-2026-agriculture-commissioner-nate-sheets-clayton-tucker",
+    "content": "From left: Nate Sheets and Clayton Tucker, the Republican and Democratic nominees for Texas Agriculture Commissioner.",
+    "date": "2026-10-15T16:54:09",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/15/arts/design/art-basel-paris-photography-bicentennial.html",
     "feed_name": "NYT (Arts)",
     "title": "At Art Basel Paris and Beyond, Celebrating 200 Years of Photography",
@@ -218,6 +258,16 @@
     "content": "Eric Ripert\u2019s salad pancake, adapted by Pete Wells.",
     "date": "2026-10-15T15:00:04",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246594",
+    "feed_name": "Texas Tribune",
+    "title": "Execution of Fort Hood shooter will not be live-streamed, Trump says",
+    "author": "By\u00a0SEUNG MIN KIM,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17498330/texas-fort-hood-execution-trump-live-stream-hasan",
+    "content": "U.S. Army Specialist Robert Orcutt prays near a makeshift memorial for victims of the shootings at Fort Hood Army post in Fort Hood on Nov. 9, 2009.",
+    "date": "2026-10-15T14:44:01",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/10/15/dining/drinks/wine-community.html",
@@ -19948,55 +19998,5 @@
     "content": "Trinity Tatum and Bryce Alakai captured viewers\u2019 hearts this summer. We spoke with them about what they\u2019re loving and looking forward to.",
     "date": "2026-08-29T09:01:58",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/29/movies/venice-film-festival-moritz-de-hadeln.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Remembering Moritz de Hadeln at the Venice Film Festival",
-    "author": "David Belcher",
-    "link": "https://www.nytimes.com/2026/08/29/movies/venice-film-festival-moritz-de-hadeln.html",
-    "content": "Moritz de Hadeln ran several film festivals during his career including Venice in 2002 and 2003 and Berlin for more than 20 years.",
-    "date": "2026-08-29T09:00:51",
-    "category": "NYT"
-  },
-  {
-    "id": "6a919be1803370e4d9cbd800",
-    "feed_name": "Wired (Science)",
-    "title": "Psilocybin Might Make Your Brain Live in the Moment",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
-    "content": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us.",
-    "date": "2026-08-29T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/23/dining/five-new-recipes-im-very-excited-to-make.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "Five New Recipes I\u2019m Very Excited to Make",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/08/23/dining/five-new-recipes-im-very-excited-to-make.html",
-    "content": "Golden tofu noodle bowl, tangy chicken couscous salad and chermoula beans are bound to be go-tos.",
-    "date": "2026-08-29T07:06:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Critics Blast Metropolitan Museum\u2019s Plan to Honor John Galliano",
-    "author": "Vanessa Friedman and Jacob Bernstein",
-    "link": "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html",
-    "content": "The designer John Galliano at a fashion industry event in London in 2021.",
-    "date": "2026-08-28T23:47:25",
-    "category": "NYT"
-  },
-  {
-    "id": "9d1784aee00d7e1a87158560455aee18",
-    "feed_name": "LRB",
-    "title": "Denise Riley & Emily Berry: A Chorus of Ears",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/denise-riley-emily-berry-a-chorus-of-ears-tickets-1987078068995",
-    "content": "",
-    "date": "2026-08-28T23:29:39",
-    "category": "Magazines"
   }
 ]
