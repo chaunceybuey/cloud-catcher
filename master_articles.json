@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=246634",
+    "feed_name": "Texas Tribune",
+    "title": "Trump blasts \u201cpolitical hacks\u201d John Cornyn and Karl Rove for failing to support Paxton",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17498531/texas-trump-cornyn-rove-truth-social-paxton",
+    "content": "President Donald Trump and U.S. Sen. John Cornyn.",
+    "date": "2026-10-15T22:03:21",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
     "feed_name": "NYT (Arts)",
     "title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
@@ -19988,15 +19998,5 @@
     "content": "State Rep. James Talarico, seen in Sanderson on July 13, 2026, during his \u201cFrontera Tour,\u201d is calling Attorney General Ken Paxton, his U.S. Senate opponent, &quot;the most corrupt politician in Texas&quot; in his new TV ad.",
     "date": "2026-08-29T14:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "6a8f2d32377f7d54e320aa59",
-    "feed_name": "Wired (Science)",
-    "title": "NASA\u2019s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
-    "author": "Meghan Bartels",
-    "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
-    "content": "Astronomers will test equipment that, if it\u2019s successful, will one day be crucial for discovering Earthlike planets.",
-    "date": "2026-08-29T10:30:00",
-    "category": "Magazines"
   }
 ]
