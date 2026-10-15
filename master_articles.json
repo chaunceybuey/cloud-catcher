@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/dining/hawaiian-food-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Where to Eat Like You\u2019re in Hawaii (From 5,000 Miles Away)",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/10/15/dining/hawaiian-food-nyc.html",
+    "content": "Hawaiian food is scarce in New York City, but not so scarce that you can\u2019t find some great options.",
+    "date": "2026-10-15T19:45:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23349-gilbert-and-sullivan-ken-ludwig-s-sullivan-gilbert",
     "feed_name": "KMFA",
     "title": "Gilbert and Sullivan: Ken Ludwig's Sullivan &amp; Gilbert",
@@ -19988,15 +19998,5 @@
     "content": "Lessons from fallen autocrats",
     "date": "2026-08-29T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/29/arts/music/tupac-shakur-trial-murder-week-2.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Tupac Shakur Murder Trial: Takeaways From Week 2",
-    "author": "Anusha Bayya",
-    "link": "https://www.nytimes.com/2026/08/29/arts/music/tupac-shakur-trial-murder-week-2.html",
-    "content": "Duane Keith Davis, in court on Wednesday, in Las Vegas. Closing arguments are coming next week.",
-    "date": "2026-08-29T09:02:48",
-    "category": "NYT"
   }
 ]
