@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/arts/design/art-basel-paris-events.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What Else to Check Out During Art Basel Paris",
+    "author": "Farah Nayeri",
+    "link": "https://www.nytimes.com/2026/10/15/arts/design/art-basel-paris-events.html",
+    "content": "Marie Antoinette, C\u00e9zanne and more await you if you step off the beaten path at the Paris art fair.",
+    "date": "2026-10-15T16:09:58",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/movies/street-fighter-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Street Fighter\u2019 Review: Choose Your Fighter",
+    "author": "Brandon Yu",
+    "link": "https://www.nytimes.com/2026/10/15/movies/street-fighter-review.html",
+    "content": "It\u2019s hard to introduce a dozen or so cartoon fighters in a story, but this fun adaptation of the \u201980s arcade game has a sturdy enough script to bear the load.",
+    "date": "2026-10-15T16:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/11/05/the-plot-to-delete-democracy-nerd-reich-duran/",
     "feed_name": "NYRB",
     "title": "The Plot to Delete Democracy",
@@ -168,6 +188,16 @@
     "content": "In <em>The Nerd Reich</em> Gil Dur\u00e1n shows how Silicon Valley billionaires have pushed a fringe ideology\u2014what is popularly called techno-fascism but is closer in aspiration to straight-up totalitarianism\u2014into the affairs of state.\n\nDelivered by PolitePaul service",
     "date": "2026-10-15T15:48:59",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/15/arts/design/paris-ile-seguin-large-art-center.html",
+    "feed_name": "NYT (Arts)",
+    "title": "For Contemporary Art, the Large Center Is a Big Deal",
+    "author": "Tina Isaac-Goiz\u00e9",
+    "link": "https://www.nytimes.com/2026/10/15/arts/design/paris-ile-seguin-large-art-center.html",
+    "content": "Large, a contemporary art center on \u00cele Seguin in the Seine, southwest of Paris. The island was once the site of a Renault factory.",
+    "date": "2026-10-15T15:47:57",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/10/15/dining/dont-make-salad-make-a-salad-pancake.html",
@@ -19968,35 +19998,5 @@
     "content": "",
     "date": "2026-08-28T23:29:34",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241303",
-    "feed_name": "Texas Tribune",
-    "title": "Prosecutor will take Houston ICE shooting case to grand jury",
-    "author": "Lomi Kriel",
-    "link": "https://feeds.texastribune.org/link/16799/17434084/texas-houston-ice-shooting-district-attorney-teare-grand-jury",
-    "content": "A memorial for Lorenzo Salgado Araujo, who was fatally shot by an immigration officer in Houston.",
-    "date": "2026-08-28T23:07:52",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241289",
-    "feed_name": "Texas Tribune",
-    "title": "Texas lawmaker wants oil regulators to explain why they ended public comment at meetings",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17434037/texas-railroad-commission-public-comment",
-    "content": "Texas Railroad Commissioners Christi Craddick, Wayne Christian, and Jim Wright listen during an RRC hearing in the William B. Travis Building in Austin.",
-    "date": "2026-08-28T22:23:35",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/28/books/odyssey-emily-wilson-translation.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The \u2018Odyssey\u2019 Scholar Emily Wilson, a Critic of the Movie, Is Redoing Her Translation",
-    "author": "Neil Vigdor",
-    "link": "https://www.nytimes.com/2026/08/28/books/odyssey-emily-wilson-translation.html",
-    "content": "Emily Wilson, professor of classical studies at the University of Pennsylvania on Wednesday.",
-    "date": "2026-08-28T21:55:38",
-    "category": "NYT"
   }
 ]
