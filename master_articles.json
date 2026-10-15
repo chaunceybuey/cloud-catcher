@@ -160,6 +160,26 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=246502",
+    "feed_name": "Texas Tribune",
+    "title": "Texas transgender rights group says it didn\u2019t send texts that prompted call for an investigation",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17497804/texas-transgender-texts-cease-desist",
+    "content": "Over 300 activists and supporters march from the Bexar County Courthouse to Crockett Park in \u201cMarch for Us,\u201d San Antonio&#039;s third annual celebration of Transgender Day of Visibility, on March 29, 2025 in San Antonio.",
+    "date": "2026-10-14T22:46:32",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246494",
+    "feed_name": "Texas Tribune",
+    "title": "Local Texas election officials clear voter registration backlog caused by state error",
+    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17497805/texas-voter-registration-drivers-license-error",
+    "content": "Voter registration cards are seen at the Nueces County Courthouse in Corpus Christi, Texas on Sept. 11, 2024.",
+    "date": "2026-10-14T22:35:11",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/14/theater/golden-boy-virginia-woolf-london-theater.html",
     "feed_name": "NYT (Arts)",
     "title": "Josh O\u2019Connor's a Knockout in \u2018Golden Boy,\u2019 Plus Cate Blanchett and More",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/27/arts/design/laura-spector-dead.html",
     "content": "Laura Spector in 2008. To gardeners and arborists, the invasive Asian bittersweet vine is a scourge. To Ms. Spector, it was an irresistible medium.",
     "date": "2026-08-27T15:51:26",
-    "category": "NYT"
-  },
-  {
-    "id": "15867b8aebadadb0fd459a0165abd85c",
-    "feed_name": "The Atlantic",
-    "title": "The Wrath of MAGA",
-    "author": "Peter Wehner",
-    "link": "https://www.theatlantic.com/ideas/2026/08/ossoff-harp-trump-maga/688427/",
-    "content": "The ferocity of the response to Jon Ossoff reveals something deeper about the world of Trump supporters.",
-    "date": "2026-08-27T15:17:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/27/dining/sunny-with-a-chance-of-chicken-zucchini-meatballs.html",
-    "feed_name": "NYT (Food)",
-    "title": "Sunny With a Chance of Chicken-Zucchini Meatballs",
-    "author": "Mia Leimkuhler",
-    "link": "https://www.nytimes.com/2026/08/27/dining/sunny-with-a-chance-of-chicken-zucchini-meatballs.html",
-    "content": "Ali Slagle\u2019s chicken-zucchini meatballs fith feta.",
-    "date": "2026-08-27T15:00:06",
     "category": "NYT"
   }
 ]
