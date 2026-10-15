@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
+    "author": "John Koblin and Nicole Sperling",
+    "link": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
+    "content": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria.",
+    "date": "2026-10-15T21:57:11",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/15/dining/hawaiian-food-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Where to Eat Like You\u2019re in Hawaii (From 5,000 Miles Away)",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
     "content": "Astronomers will test equipment that, if it\u2019s successful, will one day be crucial for discovering Earthlike planets.",
     "date": "2026-08-29T10:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6f5471a152cee1c4b0df080744d5d67a",
-    "feed_name": "The Atlantic",
-    "title": "What Might Happen to Trump\u2019s Ill-Gotten Gains",
-    "author": "David Frum",
-    "link": "https://www.theatlantic.com/ideas/2026/08/reclaim-wealth-trump-corruption/688435/",
-    "content": "Lessons from fallen autocrats",
-    "date": "2026-08-29T10:00:00",
     "category": "Magazines"
   }
 ]
