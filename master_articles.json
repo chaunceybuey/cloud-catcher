@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/dining/drinks/wine-community.html",
+    "feed_name": "NYT (Food)",
+    "title": "Wine: It\u2019s the People\u2019s Drink",
+    "author": "Eric Asimov",
+    "link": "https://www.nytimes.com/2026/10/15/dining/drinks/wine-community.html",
+    "content": "Let\u2019s stop thinking about wine as an emblem of snobbery, and start celebrating it for what it is: a way for community to come together.",
+    "date": "2026-10-15T14:12:39",
+    "category": "NYT"
+  },
+  {
+    "id": "eee22f623f11fdf1f2dc6b9aea245aaf",
+    "feed_name": "Compact",
+    "title": "The Foucault Century",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-foucault-century/",
+    "content": "",
+    "date": "2026-10-15T14:05:02",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/11/05/making-light-of-a-dark-past-la-bola-negra/",
     "feed_name": "NYRB",
     "title": "Making Light of a Dark Past",
@@ -19978,25 +19998,5 @@
     "content": "After filling his apartment with industrial sewing machines, he began producing high-end jeans that made him famous with denim-heads in the days of lumberjack chic.",
     "date": "2026-08-28T21:34:07",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/22328-ctx-live-theater-avenue-q",
-    "feed_name": "KMFA",
-    "title": "CTX Live Theater: Avenue Q",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/22328-ctx-live-theater-avenue-q",
-    "content": "CTX LIVE THEATRE PRESENTS:\n\nAVENUE Q\n\nAugust 28 - September 13 | Thursdays - Sundays | 8:00 P.M. | City Theater\n\nBUY TICKETS!\n\nEvent Details\nDate: August 28 - September 13, Thursdays - Sundays\nTime: 8:00 P.M.\nVenue: City Theatre\n\nTicket Information\nCost: $25\nPhone: \n\nPresenter Details: Established in mid-2008, this website is a gift to the artists of live narrative theatre in the greater Austin-San Antonio area.\n\nSoon after retiring to Austin from a career in Washington DC and abroad I discovered the diversity and high quality of stage productions produced here.\n\nIn 2008 Austin's press was devoting relatively little attention to the art. I set up the blog\u00a0Austin Live Theatre\u00a0with the idea of reviewing productions to make them more visible and help increase audiences.\n\nArts journalism in the commercial media has continued to wither. Very few people in Central Texas write about theatre, and fewer still have a background in the art or an informed understanding of it.\n\nExperiments with focus, audience and software have shaped CTX Live Theatre as it stands today",
-    "date": "2026-08-28T20:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "30676e57aad8bbaf5b5fffad57c0e23c",
-    "feed_name": "The Atlantic",
-    "title": "How Karoline Leavitt Debased Her Job",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/08/karoline-leavitt-press-secretary-lies/688460/",
-    "content": "In an administration where everybody\u2019s job is to lie on television, the role of the press secretary is redundant.",
-    "date": "2026-08-28T19:19:52",
-    "category": "Magazines"
   }
 ]
