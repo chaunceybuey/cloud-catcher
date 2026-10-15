@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/arts/design/rembrandt-met-louvre-danh-vo-sandra-mujinga.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Fresh Take on Rembrandt Is Coming to the Met, Then Heading to the Louvre",
+    "author": "Leila Sheridan",
+    "link": "https://www.nytimes.com/2026/10/15/arts/design/rembrandt-met-louvre-danh-vo-sandra-mujinga.html",
+    "content": "The exhibition, with paintings new to the United States, opens in November 2027. The Met\u2019s Facade and Great Hall commissions go to Danh Vo and Sandra Mujinga.",
+    "date": "2026-10-15T13:05:27",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/15/arts/design/chicano-gay-and-still-inspiring-connections.html",
     "feed_name": "NYT (Arts)",
     "title": "Chicano, Gay and Still Inspiring Connections",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/28/dining/a-tomato-and-white-bean-stew-for-summer.html",
     "content": "Colu Henry\u2019s roasted tomato and white bean stew.",
     "date": "2026-08-28T15:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/28/movies/science-fiction-movies-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Five Science Fiction Movies to Stream Now",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/08/28/movies/science-fiction-movies-streaming.html",
-    "content": "This month\u2019s options include an adaptation of an early Stephen King novel, jungle dinosaur battles and atmospheric thrillers.",
-    "date": "2026-08-28T15:00:04",
     "category": "NYT"
   }
 ]
