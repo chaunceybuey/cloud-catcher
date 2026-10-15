@@ -160,6 +160,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/theater/full-monty-postponed-rhinoceros-broadway.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Full Monty\u2019 Is Postponed as \u2018Rhinoceros\u2019 Comes to Broadway",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/10/15/theater/full-monty-postponed-rhinoceros-broadway.html",
+    "content": "John Turturro, Tatiana Maslany and Tony Shalhoub will star in a revival of \u201cRhinoceros\u201d next spring at Broadway\u2019s Todd Haimes Theater.",
+    "date": "2026-10-15T19:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "feb5acb7975f5d644018ccdc51346d5d",
+    "feed_name": "LRB",
+    "title": "D\u00e9diabolisation",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/october/dediabolisation",
+    "content": "Jordan Bardella was supposed to be a different kind of far-right French politician: young, technically savvy, a long way from the poisonous.\u00a0.\u00a0.",
+    "date": "2026-10-15T18:55:20",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/15/theater/jocelyn-bioh-school-girls-african-mean-girls.html",
     "feed_name": "NYT (Arts)",
     "title": "Jocelyn Bioh Tackles Beauty Standards in \u2018School Girls\u2019",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/29/arts/music/tupac-shakur-trial-murder-week-2.html",
     "content": "Duane Keith Davis, in court on Wednesday, in Las Vegas. Closing arguments are coming next week.",
     "date": "2026-08-29T09:02:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/29/arts/music/olivia-rodrigo-prince-new-songs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Olivia Rodrigo, Prince: Songs to Know This Week",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/08/29/arts/music/olivia-rodrigo-prince-new-songs.html",
-    "content": "The Prince vault continues to be fruitful.",
-    "date": "2026-08-29T09:02:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/29/arts/television/love-island-usa-brinity-trinity-tatum-bryce-alakai.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Brinity\u2019 Won \u2018Love Island USA.\u2019 These Are Their Favorite Things.",
-    "author": "Shivani Gonzalez",
-    "link": "https://www.nytimes.com/2026/08/29/arts/television/love-island-usa-brinity-trinity-tatum-bryce-alakai.html",
-    "content": "Trinity Tatum and Bryce Alakai captured viewers\u2019 hearts this summer. We spoke with them about what they\u2019re loving and looking forward to.",
-    "date": "2026-08-29T09:01:58",
     "category": "NYT"
   }
 ]
