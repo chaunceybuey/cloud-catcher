@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/14/theater/anon-review-anne-washburn.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Anon\u2019 Review: Anne Washburn\u2019s Satire Gets Lost in the Storm",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/10/14/theater/anon-review-anne-washburn.html",
+    "content": "Izabel Mar, left, and Crystal Finn in \u201cAnon\u201d at MCC Theater in Manhattan.",
+    "date": "2026-10-15T01:00:04",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/14/t-magazine/eilen-itzel-do-espirito-santo-frieze-london.html",
     "feed_name": "NYT (Arts)",
     "title": "Eilen Itzel do Esp\u00edrito Santo Wants Her Paintings to \u2018Engulf\u2019 You",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-08-27T16:11:27",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/27/arts/design/laura-spector-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Laura Spector, Who Turned a Loathsome Vine Into Art, Dies at 71",
-    "author": "Penelope Green",
-    "link": "https://www.nytimes.com/2026/08/27/arts/design/laura-spector-dead.html",
-    "content": "Laura Spector in 2008. To gardeners and arborists, the invasive Asian bittersweet vine is a scourge. To Ms. Spector, it was an irresistible medium.",
-    "date": "2026-08-27T15:51:26",
-    "category": "NYT"
   }
 ]
