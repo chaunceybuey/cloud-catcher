@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/arts/design/art-basel-paris-photography-bicentennial.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At Art Basel Paris and Beyond, Celebrating 200 Years of Photography",
+    "author": "Keridwen Cornelius",
+    "link": "https://www.nytimes.com/2026/10/15/arts/design/art-basel-paris-photography-bicentennial.html",
+    "content": "Several artists at Art Basel Paris are honoring photography\u2019s origins as France hosts hundreds of events to celebrate the medium\u2019s bicentennial.",
+    "date": "2026-10-15T16:12:53",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/15/arts/design/art-basel-paris-events.html",
     "feed_name": "NYT (Arts)",
     "title": "What Else to Check Out During Art Basel Paris",
@@ -19987,16 +19997,6 @@
     "link": "https://www.eventbrite.co.uk/e/denise-riley-emily-berry-a-chorus-of-ears-tickets-1987078068995",
     "content": "",
     "date": "2026-08-28T23:29:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "c566d4a46c06826709b8c34bbebff362",
-    "feed_name": "Compact",
-    "title": "Why JD Vance Invoked Huey Long",
-    "author": "",
-    "link": "https://www.compactmag.com/article/why-jd-vance-invoked-huey-long/",
-    "content": "",
-    "date": "2026-08-28T23:29:34",
     "category": "Magazines"
   }
 ]
