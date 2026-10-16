@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/16/arts/television/timothy-busfield-indictment-dismissed.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Child Sexual Abuse Charges Against Timothy Busfield Dismissed",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/10/16/arts/television/timothy-busfield-indictment-dismissed.html",
+    "content": "The actor and director Timothy Busfield in 2020.",
+    "date": "2026-10-16T21:11:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21567-austin-symphony-orchestra-batman-in-concert-1989",
     "feed_name": "KMFA",
     "title": "Austin Symphony Orchestra: Batman in Concert (1989)",
@@ -19988,15 +19998,5 @@
     "content": "Ashley Lonsdale\u2019s roasted salmon and broccoli bowl.",
     "date": "2026-08-31T15:00:06",
     "category": "NYT"
-  },
-  {
-    "id": "266e2ad1f03fff42db59d772920ab4b4",
-    "feed_name": "The Atlantic",
-    "title": "The Apocalyptic Style in Woke Thinking",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/08/gaza-left-woke-obsession/688457/",
-    "content": "Much of the climate movement, particularly its most radical elements, has pivoted to Palestine.",
-    "date": "2026-08-31T13:00:00",
-    "category": "Magazines"
   }
 ]
