@@ -17370,6 +17370,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/08/30/dining/this-corn-jalapeno-pasta-is-a-favorite-in-my-house.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "This Corn-Jalape\u00f1o Pasta Is a Favorite in My House",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/08/30/dining/this-corn-jalapeno-pasta-is-a-favorite-in-my-house.html",
+    "content": "And four more speedy dinners that hold on to summer.",
+    "date": "2026-09-04T20:48:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=242054",
     "feed_name": "Texas Tribune",
     "title": "Elon Musk\u2019s super PAC starts spending to boost Ken Paxton in Texas",
@@ -19988,15 +19998,5 @@
     "content": "John Stewart (Aaron Pierre) doesn\u2019t seem like the type to have been dishonorably discharged. And yet.",
     "date": "2026-08-31T02:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241386",
-    "feed_name": "Texas Tribune",
-    "title": "Brother of migrant shot by ICE agent in Houston released from detention",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17435282/victor-salgado-lorenzo-araujo-witness-houston-brother-ice-shooting",
-    "content": "An aerial view of Canal Street in Houston, looking west, on July 12, 2026. Center right, opposite the strip mall, is a memorial to Lorenzo Salgado Araujo, who was was fatally shot by an immigration agent on July 7.",
-    "date": "2026-08-31T01:46:02",
-    "category": "Texas"
   }
 ]
