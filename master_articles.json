@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "b6e3f5d7415e7a3e369e2cf61d4934ad",
+    "feed_name": "LRB",
+    "title": "Skateable Cities",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n19/francis-gooding/diary",
+    "content": "Skateboarders\u200b see the world in their own way. They have a unique appreciation for aspects of architecture that otherwise go unloved or overlooked, and their unorthodox investigations of the postwar built environment constitute the most detailed and intimate engagement with modern urbanism made by any social group. Who else has searched out and realised the potential of the least promising...",
+    "date": "2026-10-16T19:24:56",
+    "category": "Magazines"
+  },
+  {
+    "id": "665d93e23e7194cdfea5230dc29df653",
+    "feed_name": "LRB",
+    "title": "On Paul Mellon",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n19/elizabeth-goldring/at-the-ycba",
+    "content": "\u2018Pumpkin with a Stable Lad\u2019 by George Stubbs (1774).",
+    "date": "2026-10-16T19:24:56",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22722-zach-theater-the-lion-the-witch-and-the-wardrobe",
     "feed_name": "KMFA",
     "title": "Zach Theater: The Lion, The Witch and The Wardrobe",
@@ -147,6 +167,16 @@
     "link": "https://www.kmfa.org/pages/22788-bluebonnet-philharmonic-orchestra-musical-mischief",
     "content": "BLUEBONNET PHILHARMONIC ORCHESTRA PRESENTS:\n\nMUSICAL MISCHIEF\n\nOctober 16 &amp; 17\u00a0| 7:00 P.M. | Centennial Plaza | Milburn Park\n\n\n\nJoin the Bluebonnet Philharmonic for Musical Mischief! A high-energy 6th season kick-off concert featuring orchestral shenanigans and fun!\n\nExpect the unexpected as the Bluebonnet Philharmonic Orchestra kicks off its 6th season with\u00a0Musical Mischief!\u00a0A high-energy evening of orchestral tricks, wizardry, and sonic adventures!\n\nFeaturing a playful mix of cinematic favorites, clockwork gears, and classical comedy, this concert has something for everyone including:\n\n\n\tDukas\u00a0\u2013\u00a0The Sorcerer\u2019s Apprentice\n\tWilliams\u00a0\u2013 March from\u00a0\"1941\"\n\tSvanoe\u00a0\u2013\u00a0Steampunk Suite\n\n\n...and more!\n\nJoin us for a fun-filled night proving classical music knows how to cut loose.\n\n\u00a0\n\nThis FREE concert is at Round Rock's Centennial Plaza. This venue is outdoors so please bring your lawn chairs and blankets. Feel free to bring a snack. There is some street parking as well as a free parking garage about 5 mins walk away\n\nFREE!\n\nEvent Details\nDate: October 16 & October 17\nTime: 7:00 P.M.\nVenue: Centennial Plaza and Milburn Park\n\nTicket Information\nCost: FREE\nPhone: \n\nPresenter Details: The Bluebonnet Philharmonic Orchestra (BPO) which consists of approximately 70 volunteer string, wind, and percussion musicians from around the Central Texas area. The BPO provides free concerts to the residents of Central Texas in order to remove the barrier of entry to classical music .\n\nCentral Texas Musical Arts' (CTMA) premier ensemble is the Bluebonnet Philharmonic Orchestra (BPO). Founded in 2021, CTMA is an organization created by musicians for musicians in order to help inspire others through the power of music. CTMA also hosts several small ensembles including a woodwind quintet, a brass ensemble, and a string quartet. CTMA is exploring and is open to the idea of creating a wind ensemble, a jazz band, and a choir.",
     "date": "2026-10-16T19:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246839",
+    "feed_name": "Texas Tribune",
+    "title": "Texas discovers more backlogged voter registration records days before early voting begins",
+    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
+    "link": "https://feeds.texastribune.org/link/16799/17499073/texas-voter-registration-records-new-backlog",
+    "content": "A voter registration card at a registration drive in Austin on\u00a0Oct 11, 2022.",
+    "date": "2026-10-16T18:45:03",
     "category": "Texas"
   },
   {
@@ -19967,36 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/08/gaza-left-woke-obsession/688457/",
     "content": "Much of the climate movement, particularly its most radical elements, has pivoted to Palestine.",
     "date": "2026-08-31T13:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "ab1ef8ff51b882f8a54e5c65704b2f4a",
-    "feed_name": "The Atlantic",
-    "title": "The Fight Between Texas and Minnesota Should Never Have Gotten This Far",
-    "author": "Quinta Jurecic",
-    "link": "https://www.theatlantic.com/ideas/2026/08/castro-ice-abbott-minnesota/688465/",
-    "content": "A legal battle over one ICE agent\u2019s future is a sign of serious strain between red and blue America.",
-    "date": "2026-08-31T11:51:16",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a8385724b5ce895652e6f4f",
-    "feed_name": "Wired (Science)",
-    "title": "Why Food Keeps Making Everybody Sick This Summer",
-    "author": "Kate Taylor, Emily Mullin",
-    "link": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/",
-    "content": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain susceptible to parasites and bacteria outbreaks.",
-    "date": "2026-08-31T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "a534433799551b86147661386ab88d59",
-    "feed_name": "The Atlantic",
-    "title": "How the Right Could Actually End Birthright Citizenship",
-    "author": "Quinta Jurecic",
-    "link": "https://www.theatlantic.com/magazine/2026/10/birthright-citizenship-trump-barbara-supreme-court/688342/",
-    "content": "The conservative legal movement doesn\u2019t consider the Supreme Court\u2019s recent ruling to be the final word on the Fourteenth Amendment. And it already has a playbook for overturning it.",
-    "date": "2026-08-31T11:00:00",
     "category": "Magazines"
   }
 ]
