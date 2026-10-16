@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=246668",
+    "feed_name": "Texas Tribune",
+    "title": "Elon Musk is the donor behind Senate Republicans\u2019 massive rescue mission for Ken Paxton",
+    "author": "Gabby Birenbaum and Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17498597/elon-musk-ken-paxton-donations-senate-gop-super-pac",
+    "content": "Elon Musk, chief executive officer of SpaceX and Tesla and owner of X, attends the Viva Technology conference in Paris, France, on June 16, 2023.",
+    "date": "2026-10-15T23:27:52",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=246634",
     "feed_name": "Texas Tribune",
     "title": "Trump blasts \u201cpolitical hacks\u201d John Cornyn and Karl Rove for failing to support Paxton",
@@ -19988,15 +19998,5 @@
     "content": "Kristina Felix\u2019s tofu musubi.",
     "date": "2026-08-29T15:00:06",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241315",
-    "feed_name": "Texas Tribune",
-    "title": "James Talarico to air first TV ad attacking Ken Paxton in Senate race",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17434373/james-talarico-ken-paxton-negative-television-ad-senate",
-    "content": "State Rep. James Talarico, seen in Sanderson on July 13, 2026, during his \u201cFrontera Tour,\u201d is calling Attorney General Ken Paxton, his U.S. Senate opponent, &quot;the most corrupt politician in Texas&quot; in his new TV ad.",
-    "date": "2026-08-29T14:00:00",
-    "category": "Texas"
   }
 ]
