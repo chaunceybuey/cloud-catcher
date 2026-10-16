@@ -110,6 +110,26 @@
     "category": "Texas"
   },
   {
+    "id": "6ad25929adf6bed67ea56eb9",
+    "feed_name": "Wired (Science)",
+    "title": "The Leap Second Is No More",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+    "content": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they\u2019re dead.",
+    "date": "2026-10-16T21:31:35",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/16/theater/ghost-in-your-ear-4th-witch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Whispering Phantoms and Shadowy Scares in Two Inventive Plays",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/10/16/theater/ghost-in-your-ear-4th-witch.html",
+    "content": "The Off Broadway shows \u201cA Ghost in Your Ear\u201d and \u201cThe 4th Witch\u201d use aural and visual tricks to give you the seasonal spooks.",
+    "date": "2026-10-16T21:28:33",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/16/arts/television/timothy-busfield-indictment-dismissed.html",
     "feed_name": "NYT (Arts)",
     "title": "Child Sexual Abuse Charges Against Timothy Busfield Dismissed",
@@ -118,6 +138,26 @@
     "content": "The actor and director Timothy Busfield in 2020.",
     "date": "2026-10-16T21:11:44",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246932",
+    "feed_name": "Texas Tribune",
+    "title": "19 million Texans are registered to vote, breaking record",
+    "author": "Sasha Draeger-Mazer",
+    "link": "https://feeds.texastribune.org/link/16799/17499112/texas-voter-registration-2026-election",
+    "content": "Voter registration applications hang in a holder inside of the Elections Office in Fredericksburg on March 5, 2024.",
+    "date": "2026-10-16T20:30:03",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246826",
+    "feed_name": "Texas Tribune",
+    "title": "How Gina Hinojosa went from progressive to populist, emerging as Greg Abbott\u2019s most formidable challenger",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17499113/gina-hinojosa-greg-abbott-texas-governor-race",
+    "content": "Democratic nominee for governor Gina Hinojosa speaks to supporters during a \u201cproposed debate\u201d outside of the Governor\u2019s Mansion in Austin on Oct. 15, 2026.",
+    "date": "2026-10-16T19:49:39",
+    "category": "Texas"
   },
   {
     "id": "https://www.kmfa.org/pages/21567-austin-symphony-orchestra-batman-in-concert-1989",
@@ -19958,45 +19998,5 @@
     "content": "A challenging puzzle.",
     "date": "2026-08-31T16:48:53",
     "category": "Magazines"
-  },
-  {
-    "id": "3c5b41e77b9a3ea68b198e0e3b196e83",
-    "feed_name": "Compact",
-    "title": "Capitalist China, Socialist America?",
-    "author": "",
-    "link": "https://www.compactmag.com/article/capitalist-china-socialist-america/",
-    "content": "",
-    "date": "2026-08-31T16:48:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/basted-sunny-side-eggs",
-    "feed_name": "NYT (Food)",
-    "title": "How to Baste an Egg",
-    "author": "Eric Kim",
-    "link": "https://cooking.nytimes.com/article/basted-sunny-side-eggs",
-    "content": "Mirin and a touch of soy sauce flavor these lush eggs.",
-    "date": "2026-08-31T16:43:30",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241211",
-    "feed_name": "Texas Tribune",
-    "title": "Muslims push back as Texas Republicans sharpen attacks on sharia law",
-    "author": "Ellie Ashby",
-    "link": "https://feeds.texastribune.org/link/16799/17435724/texas-sharia-muslims-islam-republican-party",
-    "content": "Shaimaa Zayan, operations manager of CAIR Texas, poses for a portrait in Austin on Saturday, Aug. 30, 2026.",
-    "date": "2026-08-31T16:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/31/dining/this-roasted-salmon-and-broccoli-bowl-will-ease-you-into-fall.html",
-    "feed_name": "NYT (Food)",
-    "title": "This Roasted Salmon and Broccoli Bowl Will Ease You Into Fall",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/08/31/dining/this-roasted-salmon-and-broccoli-bowl-will-ease-you-into-fall.html",
-    "content": "Ashley Lonsdale\u2019s roasted salmon and broccoli bowl.",
-    "date": "2026-08-31T15:00:06",
-    "category": "NYT"
   }
 ]
