@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/16/arts/music/diddy-sean-combs-prison-transfer-pennsylvania.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Sean \u2018Diddy\u2019 Combs Transferred to Prison in Pennsylvania",
+    "author": "Ben Sisario and Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/10/16/arts/music/diddy-sean-combs-prison-transfer-pennsylvania.html",
+    "content": "Sean Combs, 56, is now being held at FCI Allenwood, in Allenwood, Pa., about 90 miles west of Scranton.",
+    "date": "2026-10-16T16:38:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/16/dining/slow-cooker-chili-for-a-crowd-or-just-you-and-your-freezer.html",
     "feed_name": "NYT (Food)",
     "title": "Slow-Cooker Chili for a Crowd (or Just You and Your Freezer)",
@@ -19988,15 +19998,5 @@
     "content": "The neighborhood which used to be known as Boca Chica Village, now owned almost in its entirely by SpaceX, is seen in Starbase, Texas on Feb. 3, 2026.",
     "date": "2026-08-31T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-trial-sean-combs.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At the Tupac Trial, Old Rumors Still Trail Sean Combs",
-    "author": "Julia Jacobs and Anusha Bayya",
-    "link": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-trial-sean-combs.html",
-    "content": "Duane Davis, who is charged in the murder of the rapper Tupac Shakur, repeatedly accused Mr. Combs of being behind it. He now says he was lying.",
-    "date": "2026-08-31T09:03:02",
-    "category": "NYT"
   }
 ]
