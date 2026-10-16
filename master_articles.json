@@ -150,6 +150,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/16/dining/slow-cooker-chili-for-a-crowd-or-just-you-and-your-freezer.html",
+    "feed_name": "NYT (Food)",
+    "title": "Slow-Cooker Chili for a Crowd (or Just You and Your Freezer)",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/10/16/dining/slow-cooker-chili-for-a-crowd-or-just-you-and-your-freezer.html",
+    "content": "Sarah DiGregorio\u2019s slow cooker chili.",
+    "date": "2026-10-16T15:00:02",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/16/movies/nathan-fielder-elizabeth-holmes-billy-evans.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What Critics Think About Nathan Fielder\u2019s \u2018Bonkers\u2019 Elizabeth Holmes Movie",
+    "author": "Alissa Wilkinson and Jason Zinoman",
+    "link": "https://www.nytimes.com/2026/10/16/movies/nathan-fielder-elizabeth-holmes-billy-evans.html",
+    "content": "\u201cYou Can See Everything\u201d has been described as \u201cbonkers.\u201d Our critics have their own thoughts, and we\u2019d like to hear your reactions, too.",
+    "date": "2026-10-16T14:58:23",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/16/theater/memoirs-of-amorous-gentlemen-review-duncan-sheik.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Memoirs of Amorous Gentlemen\u2019 Review: Duncan Sheik\u2019s Tale of Eros",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/31/arts/music/tupac-shakur-trial-sean-combs.html",
     "content": "Duane Davis, who is charged in the murder of the rapper Tupac Shakur, repeatedly accused Mr. Combs of being behind it. He now says he was lying.",
     "date": "2026-08-31T09:03:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/31/movies/three-great-documentaries-to-stream.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Three Great Documentaries to Stream",
-    "author": "Ben Kenigsberg",
-    "link": "https://www.nytimes.com/2026/08/31/movies/three-great-documentaries-to-stream.html",
-    "content": "This month\u2019s picks explore an anarchic New Jersey school, an apartment hidden in a mall and the very nature of true-crime documentaries.",
-    "date": "2026-08-31T09:02:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/31/travel/labor-day-america-250.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Too Late to Celebrate America\u2019s 250th? Nah, There\u2019s Still Time.",
-    "author": "Anna Diamond",
-    "link": "https://www.nytimes.com/2026/08/31/travel/labor-day-america-250.html",
-    "content": "George Washington\u2019s Distillery and Gristmill in Alexandria, Va., offers whiskey tastings with samples of spirits distilled using 18th-century methods.",
-    "date": "2026-08-31T09:02:37",
     "category": "NYT"
   }
 ]
