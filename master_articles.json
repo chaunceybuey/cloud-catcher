@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/16/theater/memoirs-of-amorous-gentlemen-review-duncan-sheik.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Memoirs of Amorous Gentlemen\u2019 Review: Duncan Sheik\u2019s Tale of Eros",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/10/16/theater/memoirs-of-amorous-gentlemen-review-duncan-sheik.html",
+    "content": "Sophia Anne Caruso plays Colette, who translates her life into autofiction, in \u201cMemoirs of Amorous Gentlemen\u201d at the Night Egg at the Culture Club in Manhattan.",
+    "date": "2026-10-16T14:29:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=246690",
     "feed_name": "Texas Tribune",
     "title": "Pro-Cruz PAC launches seven-figure Spanish-language ad buy attacking Talarico",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/08/31/travel/labor-day-america-250.html",
     "content": "George Washington\u2019s Distillery and Gristmill in Alexandria, Va., offers whiskey tastings with samples of spirits distilled using 18th-century methods.",
     "date": "2026-08-31T09:02:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/31/travel/wagner-moura-brazil-salvador.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Wagner Moura\u2019s 5 Favorite Places in Salvador, Brazil",
-    "author": "Danielle Pergament and Gabriela Portilho",
-    "link": "https://www.nytimes.com/2026/08/31/travel/wagner-moura-brazil-salvador.html",
-    "content": "The Oscar-nominated star of \u201cThe Secret Agent,\u201d \u201cNarcos\u201d and the new Netflix thriller \u201cThe Last House\u201d shares the places he loves in his vibrant hometown.",
-    "date": "2026-08-31T09:01:23",
     "category": "NYT"
   }
 ]
