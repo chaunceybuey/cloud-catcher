@@ -750,6 +750,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkesh-patel-tyler-cowen.html",
+    "feed_name": "Interesting Times",
+    "title": "He\u2019s the Most Influential Podcaster in Silicon Valley. He Thinks We\u2019re Getting This Wrong.",
+    "author": "Tyler Cowen and Sophia Muniz",
+    "link": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkesh-patel-tyler-cowen.html",
+    "content": "Dwarkesh Patel on what the public doesn\u2019t know about A.I.",
+    "date": "2026-10-15T19:33:06",
+    "category": "Uncategorized"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23349-gilbert-and-sullivan-ken-ludwig-s-sullivan-gilbert",
     "feed_name": "KMFA",
     "title": "Gilbert and Sullivan: Ken Ludwig's Sullivan &amp; Gilbert",
@@ -19986,16 +19996,6 @@
     "author": "ByHelen Rosner",
     "link": "https://www.newyorker.com/culture/the-food-scene/a-tasting-menu-that-uses-every-last-scrap",
     "content": "At Cynthia, an emphasis on low-waste cooking yields a menu of thrilling abundance.",
-    "date": "2026-08-31T16:48:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "204d0c36b43af9a6b2ff682db1df07fb",
-    "feed_name": "New Yorker",
-    "title": "Three Books That Will Transport You",
-    "author": "ByKaty Waldman",
-    "link": "https://www.newyorker.com/books/what-were-reading/three-books-that-will-transport-you",
-    "content": "Be moved the old-fashioned way.",
     "date": "2026-08-31T16:48:53",
     "category": "Magazines"
   }
