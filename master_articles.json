@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/17/dining/no-onions-no-problem.html",
+    "feed_name": "NYT (Food)",
+    "title": "No Onions? No Problem.",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/17/dining/no-onions-no-problem.html",
+    "content": "Carolina Gelen\u2019s caramelized fennel pasta.",
+    "date": "2026-10-17T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/17/dining/halloween-candy-meet-kitchen-sink-skillet-cookie.html",
     "feed_name": "NYT (Food)",
     "title": "Halloween Candy, Meet Kitchen Sink Skillet Cookie",
@@ -19986,16 +19996,6 @@
     "author": "ByHenry Alford",
     "link": "https://www.newyorker.com/magazine/2026/09/07/where-to-get-fire-outfits-for-burning-man",
     "content": "Heading to the playa like Paris Hilton and Mark Zuckerberg once did? Need a faux-fur coat or a secret stash pouch? The Burning Man Bazaar has you covered.",
-    "date": "2026-08-31T16:48:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "1cbd3bed57f613326a180454b7b20c35",
-    "feed_name": "New Yorker",
-    "title": "All Rise! Coyote Court Is Now in Session",
-    "author": "ByZach Helfand",
-    "link": "https://www.newyorker.com/magazine/2026/09/07/all-rise-coyote-court-is-now-in-session",
-    "content": "In the new film \u201cCoyote vs. Acme,\u201d starring Will Forte, Wile E. Coyote demands justice from the company that keeps blowing him up. Here to weigh in is the personal-injury attorney Motorcycle Mike.",
     "date": "2026-08-31T16:48:53",
     "category": "Magazines"
   }
