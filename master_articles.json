@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/17/arts/peter-nagy-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Peter Nagy, Visionary Artist Turned Art Dealer, Dies at 66",
+    "author": "Will Heinrich",
+    "link": "https://www.nytimes.com/2026/10/17/arts/peter-nagy-dead.html",
+    "content": "Peter Nagy in 2008. The art dealer Jeffrey Deitch called him \u201cone of the most significant people in the world of art in the past 50 years.\u201d",
+    "date": "2026-10-17T17:04:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/17/movies/five-free-movies-to-stream-now.html",
     "feed_name": "NYT (Arts)",
     "title": "Five Free Movies to Stream Now",
@@ -19986,16 +19996,6 @@
     "author": "ByKaty Waldman",
     "link": "https://www.newyorker.com/books/what-were-reading/three-books-that-will-transport-you",
     "content": "Be moved the old-fashioned way.",
-    "date": "2026-08-31T16:48:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "7179603805b5b0cff1c2e9fdc77f4ce7",
-    "feed_name": "New Yorker",
-    "title": "Mark Zuckerberg\u2019s Social Reckoning",
-    "author": "ByBenjamin Wallace-Wells",
-    "link": "https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning",
-    "content": "The Meta settlement will force meaningful changes on Facebook and Instagram. It also reflects the degree to which public outrage is outmatched by the speed and size of Big Tech.",
     "date": "2026-08-31T16:48:53",
     "category": "Magazines"
   }
