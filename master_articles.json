@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/17/movies/five-free-movies-to-stream-now.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Free Movies to Stream Now",
+    "author": "Brandon Yu",
+    "link": "https://www.nytimes.com/2026/10/17/movies/five-free-movies-to-stream-now.html",
+    "content": "As we approach Halloween, this month\u2019s selections center if not all on pure horror, then on the ethos of dread telling you things are not right.",
+    "date": "2026-10-17T15:56:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/17/dining/no-onions-no-problem.html",
     "feed_name": "NYT (Food)",
     "title": "No Onions? No Problem.",
@@ -19986,16 +19996,6 @@
     "author": "ByBenjamin Wallace-Wells",
     "link": "https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning",
     "content": "The Meta settlement will force meaningful changes on Facebook and Instagram. It also reflects the degree to which public outrage is outmatched by the speed and size of Big Tech.",
-    "date": "2026-08-31T16:48:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "76fadb0f1fab79efe93c81ab4bb3c6f3",
-    "feed_name": "New Yorker",
-    "title": "Where to Get Fire Outfits for Burning Man",
-    "author": "ByHenry Alford",
-    "link": "https://www.newyorker.com/magazine/2026/09/07/where-to-get-fire-outfits-for-burning-man",
-    "content": "Heading to the playa like Paris Hilton and Mark Zuckerberg once did? Need a faux-fur coat or a secret stash pouch? The Burning Man Bazaar has you covered.",
     "date": "2026-08-31T16:48:53",
     "category": "Magazines"
   }
