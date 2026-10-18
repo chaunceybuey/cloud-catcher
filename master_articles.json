@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/18/arts/television/snl-uk-shane-gillis.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Saturday Night Live U.K.\u2019 Lays Into Shane Gillis",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/10/18/arts/television/snl-uk-shane-gillis.html",
+    "content": "Shane Gillis delivering his monologue as host of a recent episode of \u201cSaturday Night Live.\u201d",
+    "date": "2026-10-18T22:14:36",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/18/obituaries/alan-mandell-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Alan Mandell, Star of \u2018Godot\u2019 and Other Beckett Plays, Dies at 98",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17435961/ut-arlington-md-anderson-texas-presidents-leave",
     "content": "University of Texas at Arlington President Jennifer Cowley.",
     "date": "2026-08-31T23:13:15",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241483",
-    "feed_name": "Texas Tribune",
-    "title": "Texas mobilizes flood response ahead of expected tropical storm",
-    "author": "Emily Foxhall",
-    "link": "https://feeds.texastribune.org/link/16799/17435962/texas-tropical-storm-edouard-flooding-forecast",
-    "content": "Gov. Greg Abbott speaks at a press conference Monday afternoon at the Texas Department of Emergency Management headquarters in Austin about a tropical depression in the Gulf of Mexico that is expected to strengthen into a tropical storm and move into southeast Texas on Tuesday.",
-    "date": "2026-08-31T23:10:43",
     "category": "Texas"
   }
 ]
