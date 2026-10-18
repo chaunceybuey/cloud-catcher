@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/18/dining/sausage-orzo-with-sage-bread-crumbs-roasted-tomato-and-white-bean-stew.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "Sausage Orzo With Sage Bread Crumbs; Roasted Tomato and White Bean Stew",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/10/18/dining/sausage-orzo-with-sage-bread-crumbs-roasted-tomato-and-white-bean-stew.html",
+    "content": "And more fast weeknight recipes that are proudly, cozily autumnal.",
+    "date": "2026-10-18T13:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "6abd21cd6366a0250b4ee426",
     "feed_name": "Wired (Science)",
     "title": "Data Centers Have a New PR Plan: Your Kid\u2019s Field Trip",
@@ -19988,15 +19998,5 @@
     "content": "Voter registration applications are seen at the Texas Rising tent during a Pride celebration in Corpus Christi, Texas, on Oct. 5, 2024.",
     "date": "2026-08-31T19:24:49",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/video/theater/100000011066016/the-hypebeasts-of-the-fringe-festival-edinburgh-theater.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Hypebeasts of the Fringe Festival",
-    "author": "Helen Shaw, L\u00e9o Hamelin and Fraser Rice",
-    "link": "https://www.nytimes.com/video/theater/100000011066016/the-hypebeasts-of-the-fringe-festival-edinburgh-theater.html",
-    "content": "From Hannah Reilly to Amanda Knox to clowns, who are the hype beasts of this year\u2019s Fringe Festival? Our chief theater critic, Helen Shaw, went to Edinburgh to find out.",
-    "date": "2026-08-31T19:04:09",
-    "category": "NYT"
   }
 ]
