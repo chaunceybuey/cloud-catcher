@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Man Who Taught Us How to Pay Attention",
+    "author": "A.O. Scott",
+    "link": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
+    "content": "The works of the British art critic John Berger offer the antidote to our age of infinite scrolling.",
+    "date": "2026-10-18T04:01:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23416-austin-cantorum-visionary",
     "feed_name": "KMFA",
     "title": "Austin Cantorum: Visionary",
@@ -19988,15 +19998,5 @@
     "content": "At the first Daisy Chain Fields festival, the 23-year-old pop star presented a cross-generational vision of female empowerment. (With Taco Bell activations, too.)",
     "date": "2026-08-31T16:51:59",
     "category": "NYT"
-  },
-  {
-    "id": "d23c4e5d89357e1e62f2a2b9c9b91037",
-    "feed_name": "New Yorker",
-    "title": "Kacey Musgraves, Crossover Queen",
-    "author": "BySheldon Pearce,Brian Seibert,Jane Bua,Rhoda Feng,andRichard Brody",
-    "link": "https://www.newyorker.com/culture/goings-on/kacey-musgraves-crossover-queen",
-    "content": "Also: John David Washington plays a tech bro in \u201cDisruption,\u201d Samara Joy and Christian McBride perform at Central Park, Jacob Elordi\u2019s stars in Ridley Scott\u2019s latest movie, and more.",
-    "date": "2026-08-31T16:48:53",
-    "category": "Magazines"
   }
 ]
