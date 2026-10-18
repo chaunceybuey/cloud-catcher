@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/18/arts/television/chuck-lorre-book-sitcom.html",
+    "feed_name": "NYT (Arts)",
+    "title": "7 Takeaways From Chuck Lorre\u2019s New Memoir, \u2018Sitcom\u2019",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/10/18/arts/television/chuck-lorre-book-sitcom.html",
+    "content": "Chuck Lorre\u2019s new memoir recounts moments from his career that include dust-ups with Charlie Sheen, Roseanne Barr and Anna Faris.",
+    "date": "2026-10-18T17:30:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8880285#p8880285",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19988,15 +19998,5 @@
     "content": "An overhead view of SpaceX in Starbase on May 12, 2026.",
     "date": "2026-08-31T22:45:51",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/31/arts/design/smithsonian-latino-museum-arts-industries.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Smithsonian to Put Latino Museum in Existing Building It Controls",
-    "author": "Robin Pogrebin",
-    "link": "https://www.nytimes.com/2026/08/31/arts/design/smithsonian-latino-museum-arts-industries.html",
-    "content": "The Arts and Industries Building, which the Smithsonian has used for temporary exhibitions, is slated to become the new home of the National Museum of the American Latino.",
-    "date": "2026-08-31T22:06:18",
-    "category": "NYT"
   }
 ]
