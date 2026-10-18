@@ -90,6 +90,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/18/obituaries/alan-mandell-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Alan Mandell, Star of \u2018Godot\u2019 and Other Beckett Plays, Dies at 98",
+    "author": "Richard Sandomir",
+    "link": "https://www.nytimes.com/2026/10/18/obituaries/alan-mandell-dead.html",
+    "content": "Alan Mandell, left, and Barry McGovern in \u201cWaiting for Godot\u201d at the Mark Taper Forum in 2012. \u201cHis pratfalls are those of someone with too much experience to pretend that bruises don\u2019t hurt and beatings are a laugh riot,\u201d a critic said of Mr. Mandell. \u201cHis comedy echoes down a corridor of years.\u201d",
+    "date": "2026-10-18T21:09:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23448-panoramic-voices-curios",
     "feed_name": "KMFA",
     "title": "Panoramic Voices: CURIOS",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17435962/texas-tropical-storm-edouard-flooding-forecast",
     "content": "Gov. Greg Abbott speaks at a press conference Monday afternoon at the Texas Department of Emergency Management headquarters in Austin about a tropical depression in the Gulf of Mexico that is expected to strengthen into a tropical storm and move into southeast Texas on Tuesday.",
     "date": "2026-08-31T23:10:43",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241474",
-    "feed_name": "Texas Tribune",
-    "title": "SpaceX to fund up to $220M in Brownsville water projects in exchange for land",
-    "author": "Berenice Garcia",
-    "link": "https://feeds.texastribune.org/link/16799/17435963/spacex-brownsville-deannex-land-water-projects",
-    "content": "An overhead view of SpaceX in Starbase on May 12, 2026.",
-    "date": "2026-08-31T22:45:51",
     "category": "Texas"
   }
 ]
