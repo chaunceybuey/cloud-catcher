@@ -170,6 +170,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=246692",
+    "feed_name": "Texas Tribune",
+    "title": "Greg Abbott raked in $9 million from data center-related donors as he called for regulations",
+    "author": "Apurva Mahajan and Taylor Goldenstein",
+    "link": "https://feeds.texastribune.org/link/16799/17500622/greg-abbott-data-center-donors-texas",
+    "content": "Gov. Greg Abbott answers questions from the media during the Texas Classrooms Commission press conference on the teacher-led initiative that is shaping the future of public education at the Governor\u2019s mansion in Downtown Austin on Aug. 10, 2026.",
+    "date": "2026-10-19T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246978",
+    "feed_name": "Texas Tribune",
+    "title": "Texas man seeks to have armed robbery conviction tossed over no-warrant Flock camera search",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17500623/texas-flock-cameras-fifth-circuit-search",
+    "content": "A Flock camera records a driver on the I-610 feeder road in Bellaire on Aug. 23, 2026.",
+    "date": "2026-10-19T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
     "feed_name": "ProPublica",
     "title": "Ken Paxton\u2019s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/01/world/europe/juan-tamariz-dead.html",
     "content": "Juan Tamariz in 2024. His ingenious card tricks baffled audiences and stumped other sleight-of-hand practitioners, earning him a reputation as the pre-eminent master of close-up magic.",
     "date": "2026-09-01T09:01:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/arts/television/adult-swim-anniversary-best-shows.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Adult Swim 25th Anniversary: 6 Defining Animated Shows",
-    "author": "Maya Phillips",
-    "link": "https://www.nytimes.com/2026/09/01/arts/television/adult-swim-anniversary-best-shows.html",
-    "content": "For 25 years, it\u2019s been an outpost for unhinged mayhem. These six signature shows helped turn low-budget TV into a surreal comedy powerhouse.",
-    "date": "2026-09-01T09:00:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/arts/music/yo-yo-ma-profile.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At 70, Yo-Yo Ma Is Modeling a Way to Be in the World Today",
-    "author": "Joshua Barone and Benjamin Rasmussen For The New York Times",
-    "link": "https://www.nytimes.com/2026/09/01/arts/music/yo-yo-ma-profile.html",
-    "content": "\u201cIf we had nine or 10 Yo-Yos, the world would look different,\u201d said the pianist Emanuel Ax, Ma\u2019s longtime friend and collaborator.",
-    "date": "2026-09-01T09:00:21",
     "category": "NYT"
   }
 ]
