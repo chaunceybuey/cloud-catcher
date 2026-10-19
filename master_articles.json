@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "5a8b120e05a646c6c18ee8771fb144c9",
+    "feed_name": "LRB",
+    "title": "Nat Turner\u2019s Revolt",
+    "author": "",
+    "link": "https://www.lrb.co.uk/the-paper/v48/n19/walter-johnson/signs-in-the-heavens",
+    "content": "In\u200b the long history of mass racial killing in the United States, Nat Turner\u2019s revolt stands out as the one instance in which the perpetrators were Black and the victims white. Beginning late on the night of 21 August 1831, the rebels went from house to house in Southampton County, Virginia, murdering all the white people they could. Their numbers grew as they were joined by enslaved...",
+    "date": "2026-10-19T19:06:13",
+    "category": "Magazines"
+  },
+  {
     "id": "6acfe17d190bf95ce52d1276",
     "feed_name": "Wired (Science)",
     "title": "Japan\u2019s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
@@ -148,6 +158,16 @@
     "content": "Debris from the roof of Taliesin West, a popular tourist attraction in Scottsdale, Ariz., struck a visitor.",
     "date": "2026-10-19T18:25:34",
     "category": "NYT"
+  },
+  {
+    "id": "74cf130a-d762-4a31-a207-dc5eac5fe709",
+    "feed_name": "Economist",
+    "title": "Who will buy $120bn-worth of fresh Japanese government bonds?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+    "content": "Japan wants its pension fund and households to buy more government debt",
+    "date": "2026-10-19T18:11:37",
+    "category": "Magazines"
   },
   {
     "id": "https://www.texastribune.org/?p=247163",
@@ -19977,26 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17436934/corpus-christi-water-desalination-plant-city-council-vote-texas",
     "content": "A community member speaks against desalination during a Corpus Christi City Council meeting on June 2, 2026.",
     "date": "2026-09-02T03:53:56",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Kennedy Center Will Remove Outdoor \u2018Blue\u2019 Sculpture",
-    "author": "Elizabeth Williamson and Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html",
-    "content": "The artist Joel Shapiro completed the sculpture \u201cBlue\u201d in 2019, the same year the Kennedy Center opened its $250 million addition known as the Reach.",
-    "date": "2026-09-02T01:10:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241690",
-    "feed_name": "Texas Tribune",
-    "title": "Tarrant County removes 92 polling sites ahead of November election",
-    "author": "By Cecilia Lenzen\u00a0Fort Worth Report",
-    "link": "https://feeds.texastribune.org/link/16799/17436857/tarrant-county-removes-polling-sites",
-    "content": "A voter walks to an early voting site at Tarrant County College South Campus in Fort Worth on Oct. 21, 2024.",
-    "date": "2026-09-02T00:52:58",
     "category": "Texas"
   }
 ]
