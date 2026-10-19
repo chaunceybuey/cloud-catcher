@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=247163",
+    "feed_name": "Texas Tribune",
+    "title": "Gov. Greg Abbott touts endorsements from 12 Democratic sheriffs from border counties in final early voting push",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17500834/greg-abbott-governor-endorsement-democratic-sheriffs",
+    "content": "Gov. Greg Abbott addresses law enforcement officials during a Southwestern Border Sheriff\u2019s Coalition event in Austin on April 29, 2025.",
+    "date": "2026-10-19T16:38:36",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/19/arts/music/mothers-of-kherson-ukraine-opera.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Mothers of Kherson\u2019: An Operatic Show of Support for Ukraine",
@@ -19988,15 +19998,5 @@
     "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Has anybody had any success using a CMA debit card as a funding source with privacy.com?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Has been working fine for me for 2.5 years now.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=166077\">bople</a> \u2014 Tue Sep 01, 2026 6:32 pm</p><hr />",
     "date": "2026-09-01T23:32:55",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/us/science-museum-drexel-philadelphia-closing.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A Nearly 200-Year-Old Museum Known for Its T. Rex Faces Extinction",
-    "author": "Neil Vigdor",
-    "link": "https://www.nytimes.com/2026/09/01/us/science-museum-drexel-philadelphia-closing.html",
-    "content": "The Academy of Natural Sciences in Philadelphia opened in 1828 and is known for its Dinosaur Hall.",
-    "date": "2026-09-01T23:18:05",
-    "category": "NYT"
   }
 ]
