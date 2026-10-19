@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/19/dining/this-fish-with-lentils-and-sauce-rof-is-so-good-healthy-and-easy.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Fish With Lentils and Sauce Rof Is \u2018So Good, Healthy and Easy\u2019",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/19/dining/this-fish-with-lentils-and-sauce-rof-is-so-good-healthy-and-easy.html",
+    "content": "Yewande Komolafe\u2019s fish and lentils with sauce rof.",
+    "date": "2026-10-19T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/19/arts/music/tony-iommi-from-the-dark-album.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tony Iommi Keeps Looking for Joy in the Darkness",
+    "author": "Hank Shteamer",
+    "link": "https://www.nytimes.com/2026/10/19/arts/music/tony-iommi-from-the-dark-album.html",
+    "content": "\u201cIt\u2019s a necessity for me to have to play,\u201d Tony Iommi, 78, said. \u201cIt\u2019s like eating; I have to do it.\u201d",
+    "date": "2026-10-19T14:49:37",
+    "category": "NYT"
+  },
+  {
     "id": "e0527543e821fdacca57f07e54e8724a",
     "feed_name": "New Yorker",
     "title": "The New Yorker Festival",
@@ -19978,25 +19998,5 @@
     "content": "Jason Isbell, a Grammy-winning singer-songwriter, is a plaintiff in the lawsuit.",
     "date": "2026-09-01T21:21:36",
     "category": "NYT"
-  },
-  {
-    "id": "389fcf0eb7ba5984550182970082ed63",
-    "feed_name": "LRB",
-    "title": "Malcolm Gaskill & Lamorna Ash: Worlds of Fear and Wonder",
-    "author": "",
-    "link": "https://www.eventbrite.co.uk/e/malcolm-gaskill-lamorna-ash-worlds-of-fear-and-wonder-tickets-1997556684817",
-    "content": "",
-    "date": "2026-09-01T20:43:13",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241627",
-    "feed_name": "Texas Tribune",
-    "title": "TribCast: A data center proponent makes his case",
-    "author": "Matthew Watkins",
-    "link": "https://feeds.texastribune.org/link/16799/17436719/tribcast-data-centers-supporter",
-    "content": "The Meta Temple Data Center includes multiple halls of servers optimized for AI to support technologies like Facebook, Instagram, WhatsApp and Meta AI, in Temple on July 22, 2026.",
-    "date": "2026-09-01T20:40:15",
-    "category": "Texas"
   }
 ]
