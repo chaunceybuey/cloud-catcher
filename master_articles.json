@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/11/05/unfinished-business-big-kiss-bye-bye-claire-louise-bennett/",
+    "feed_name": "NYRB",
+    "title": "Unfinished Business",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/11/05/unfinished-business-big-kiss-bye-bye-claire-louise-bennett/",
+    "content": "Claire-Louise Bennett\u2019s novels have found a new language to evoke the often circular, abstracted nature of human consciousness.\n\nDelivered by PolitePaul service",
+    "date": "2026-10-19T16:18:55",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/19/t-magazine/jenny-holzer-musee-dorsay-paris-exhibition.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jenny Holzer Resurrects the Past to Lament the Present",
+    "author": "Zoey Poll",
+    "link": "https://www.nytimes.com/2026/10/19/t-magazine/jenny-holzer-musee-dorsay-paris-exhibition.html",
+    "content": "Excerpts from archival letters and diaries were the basis for a number of the works in the American artist\u2019s solo show at Paris\u2019s Mus\u00e9e d\u2019Orsay.",
+    "date": "2026-10-19T16:13:14",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/19/dining/this-fish-with-lentils-and-sauce-rof-is-so-good-healthy-and-easy.html",
     "feed_name": "NYT (Food)",
     "title": "This Fish With Lentils and Sauce Rof Is \u2018So Good, Healthy and Easy\u2019",
@@ -19978,25 +19998,5 @@
     "content": "Reasons for rising yields differ somewhat from those in America, but are no less problematic",
     "date": "2026-09-01T21:58:14",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241644",
-    "feed_name": "Texas Tribune",
-    "title": "Jasmine Crockett\u2019s down-ballot slate starts to take shape as she steers clear of Senate race",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17436798/texas-jasmine-crockett-down-ballot-candidates-endorsements-talarico-senate",
-    "content": "U.S. Rep. Jasmine Crockett, D-Dallas, speaks at her election night watch party in Dallas on March 3, 2026.",
-    "date": "2026-09-01T21:51:26",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/arts/music/jason-isbell-suno-ai-lawsuit.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jason Isbell and Others Say Suno\u2019s A.I. Imitates Their Voices",
-    "author": "Ben Sisario",
-    "link": "https://www.nytimes.com/2026/09/01/arts/music/jason-isbell-suno-ai-lawsuit.html",
-    "content": "Jason Isbell, a Grammy-winning singer-songwriter, is a plaintiff in the lawsuit.",
-    "date": "2026-09-01T21:21:36",
-    "category": "NYT"
   }
 ]
