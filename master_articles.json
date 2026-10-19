@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aba97ddadd005d32caeb09c",
+    "feed_name": "Wired",
+    "title": "Nathan Fielder\u2019s Surprise Call From Elizabeth Holmes: \u2018I Trust You\u2019",
+    "author": "Katie Drummond",
+    "link": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
+    "content": "The codirector of \u201cYou Can See Everything\u201d talks exclusively to WIRED about truth, lies, and Theranos.",
+    "date": "2026-10-19T11:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6ad102bc8f9c379c7b6ca589",
     "feed_name": "Wired",
     "title": "The Story of Billy Evans and \u2018Theranos 2.0\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/01/arts/fun-things-to-do-nyc-september.html",
     "content": "Foreground, from left, Anthony Huxley, Mira Nadon Megan Fairchild in New York City Ballet\u2019s performance of George Balanchine\u2019s \u201cRubies\u201d in 2024. The company will open its fall season with a complete presentation of the choreographer\u2019s \u201cJewels,\u201d starting on Sept. 22.",
     "date": "2026-09-01T09:02:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/world/europe/juan-tamariz-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Juan Tamariz, Master Magician of Misdirection and Joy, Dies at 83",
-    "author": "Michael S. Rosenwald",
-    "link": "https://www.nytimes.com/2026/09/01/world/europe/juan-tamariz-dead.html",
-    "content": "Juan Tamariz in 2024. His ingenious card tricks baffled audiences and stumped other sleight-of-hand practitioners, earning him a reputation as the pre-eminent master of close-up magic.",
-    "date": "2026-09-01T09:01:08",
     "category": "NYT"
   }
 ]
