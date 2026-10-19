@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/19/arts/music/mothers-of-kherson-ukraine-opera.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Mothers of Kherson\u2019: An Operatic Show of Support for Ukraine",
+    "author": "Joshua Barone",
+    "link": "https://www.nytimes.com/2026/10/19/arts/music/mothers-of-kherson-ukraine-opera.html",
+    "content": "Operas don\u2019t usually reflect current events. But \u201cThe Mothers of Kherson,\u201d a product of artistic advocacy by the Met Opera, blends news and myth.",
+    "date": "2026-10-19T16:38:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/11/05/unfinished-business-big-kiss-bye-bye-claire-louise-bennett/",
     "feed_name": "NYRB",
     "title": "Unfinished Business",
@@ -19988,15 +19998,5 @@
     "content": "The Academy of Natural Sciences in Philadelphia opened in 1828 and is known for its Dinosaur Hall.",
     "date": "2026-09-01T23:18:05",
     "category": "NYT"
-  },
-  {
-    "id": "4808bfad-8219-47c5-acef-6a1e8a17f356",
-    "feed_name": "Economist",
-    "title": "Europe\u2019s bond markets are suffering a post-holiday shock",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
-    "content": "Reasons for rising yields differ somewhat from those in America, but are no less problematic",
-    "date": "2026-09-01T21:58:14",
-    "category": "Magazines"
   }
 ]
