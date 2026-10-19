@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/19/arts/television/yaga-what-to-watch-on-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Yaga\u2019 and 8 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/10/19/arts/television/yaga-what-to-watch-on-tv-this-week.html",
+    "content": "Hudson Williams and Carrie-Ann Moss in \u201cYaga.\u201d",
+    "date": "2026-10-19T05:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8880615#p8880615",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/08/31/arts/tupac-murder-trial-verdict-duane-davis/heres-the-latest",
     "content": "",
     "date": "2026-09-01T00:16:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/08/31/arts/design/dansaekhwa-examples-frieze-seoul.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How Dansaekhwa Has Shaped Frieze Seoul",
-    "author": "David Belcher",
-    "link": "https://www.nytimes.com/2026/08/31/arts/design/dansaekhwa-examples-frieze-seoul.html",
-    "content": "The traditional South Korean style will be on full display at the fair, as will be many others that grew alongside it.",
-    "date": "2026-09-01T00:14:59",
     "category": "NYT"
   }
 ]
