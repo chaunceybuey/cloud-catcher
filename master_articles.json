@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "6acfe17d190bf95ce52d1276",
+    "feed_name": "Wired (Science)",
+    "title": "Japan\u2019s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
+    "author": "Jenna Ahart",
+    "link": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
+    "content": "JAXA is leading an international mission to reach Mars\u2019 Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.",
+    "date": "2026-10-19T18:45:06",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/19/us/frank-lloyd-wright-home-death-taliesin-west.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Visitor Killed by Roof Debris at Frank Lloyd Wright\u2019s Taliesin West",
+    "author": "Remy Tumin",
+    "link": "https://www.nytimes.com/2026/10/19/us/frank-lloyd-wright-home-death-taliesin-west.html",
+    "content": "Debris from the roof of Taliesin West, a popular tourist attraction in Scottsdale, Ariz., struck a visitor.",
+    "date": "2026-10-19T18:25:34",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=247163",
     "feed_name": "Texas Tribune",
     "title": "Gov. Greg Abbott touts endorsements from 12 Democratic sheriffs from border counties in final early voting push",
@@ -19978,25 +19998,5 @@
     "content": "A voter walks to an early voting site at Tarrant County College South Campus in Fort Worth on Oct. 21, 2024.",
     "date": "2026-09-02T00:52:58",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Despite Duane Davis\u2019s Conviction in Tupac Murder Trial, Some Still Seek Closure",
-    "author": "Julia Jacobs and Jonathan Abrams",
-    "link": "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html",
-    "content": "Tupac Shakur\u2019s death after a drive-by shooting 30 years ago turned him into a pop cultural martyr and changed the trajectory of hip-hop.",
-    "date": "2026-09-01T23:40:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8847341#p8847341",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "bople",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8847341#p8847341",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Has anybody had any success using a CMA debit card as a funding source with privacy.com?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Has been working fine for me for 2.5 years now.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=166077\">bople</a> \u2014 Tue Sep 01, 2026 6:32 pm</p><hr />",
-    "date": "2026-09-01T23:32:55",
-    "category": "Finance"
   }
 ]
