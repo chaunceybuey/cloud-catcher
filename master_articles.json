@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=247131",
+    "feed_name": "Texas Tribune",
+    "title": "Hakeem Jeffries to campaign in Texas on behalf of Bexar County congressional candidate Johnny Garcia",
+    "author": "Matthew Watkins",
+    "link": "https://feeds.texastribune.org/link/16799/17500661/hakeem-jeffries-campaign-texas-johnny-garcia",
+    "content": "U.S. House Minority Leader Hakeem Jeffries, D-NY, speaks with reporters on Capitol Hill in Washington, D.C. on Sept. 30, 2026.",
+    "date": "2026-10-19T12:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6aba97ddadd005d32caeb09c",
     "feed_name": "Wired",
     "title": "Nathan Fielder\u2019s Surprise Call From Elizabeth Holmes: \u2018I Trust You\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/01/theater/lupita-nyongo-slam-frank-off-broadway-september.html",
     "content": "Lupita Nyong\u2019o will be one in a series of actors to fill the central role in \u201cPre-Existing Condition.\u201d",
     "date": "2026-09-01T09:02:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/arts/fun-things-to-do-nyc-september.html",
-    "feed_name": "NYT (Arts)",
-    "title": "36 Fun Things to Do in N.Y.C. in September",
-    "author": "Erik Piepenburg",
-    "link": "https://www.nytimes.com/2026/09/01/arts/fun-things-to-do-nyc-september.html",
-    "content": "Foreground, from left, Anthony Huxley, Mira Nadon Megan Fairchild in New York City Ballet\u2019s performance of George Balanchine\u2019s \u201cRubies\u201d in 2024. The company will open its fall season with a complete presentation of the choreographer\u2019s \u201cJewels,\u201d starting on Sept. 22.",
-    "date": "2026-09-01T09:02:12",
     "category": "NYT"
   }
 ]
