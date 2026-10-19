@@ -1050,6 +1050,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://cooking.nytimes.com/article/how-to-make-egg-katsu-at-home",
+    "feed_name": "NYT (Food)",
+    "title": "The Internet Loves Egg Katsu. Now, You Can Make It at Home.",
+    "author": "Kevin Pang",
+    "link": "https://cooking.nytimes.com/article/how-to-make-egg-katsu-at-home",
+    "content": "Egg katsu works because of its maximum textural contrast: a crunchy exterior, whites as tender as a poached egg\u2019s, with a rich, molten yolk.",
+    "date": "2026-10-16T18:16:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/16/movies/international-movies-streaming.html",
     "feed_name": "NYT (Arts)",
     "title": "Five International Movies to Stream Now",
@@ -19988,15 +19998,5 @@
     "content": "The Meta Temple Data Center includes multiple halls of servers optimized for AI to support technologies like Facebook, Instagram, WhatsApp and Meta AI, in Temple on July 22, 2026.",
     "date": "2026-09-01T20:40:15",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/01/dining/restaurant-review-cleo-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Cleo in New York",
-    "author": "Ryan Sutton",
-    "link": "https://www.nytimes.com/2026/09/01/dining/restaurant-review-cleo-nyc.html",
-    "content": "The West Village critic\u2019s pick rubs its bird with a warming Lebanese spice blend \u2014 and don\u2019t forget the crinkle-cut fries.",
-    "date": "2026-09-01T20:37:31",
-    "category": "NYT"
   }
 ]
