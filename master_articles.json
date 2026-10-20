@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=247302",
+    "feed_name": "Texas Tribune",
+    "title": "How to read the tea leaves as early voting totals in the Texas election trickle in",
+    "author": "Renzo Downey",
+    "link": "https://feeds.texastribune.org/link/16799/17501517/texas-early-voting-records-election",
+    "content": "Signs direct voters to the polling location inside Houston City College during the last day of early voting on Friday, Feb. 27, 2026, in Houston.",
+    "date": "2026-10-20T16:14:41",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/arts/music/lincoln-in-the-bardo-met-opera-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Lincoln in the Bardo\u2019 Review: From Book to Opera at the Met",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n16/nick-richardson/cradle-scissors",
     "content": "Early in\u200bThe Enchanted Wood(1939), the first of Enid Blyton\u2019s Faraway Tree books, the three main characters \u2013 Jo, Bessie and Fanny \u2013 make friends with a \u2018small elf\u2019 called Silky, who lives on one of the lower branches of the Faraway Tree. In the recent film adaptation,The Magic Faraway Tree, Silky is a big fairy who feels insecure about her size. She wishes...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "64ae9d9f59bac86bce970514f6ea9fc1",
-    "feed_name": "LRB",
-    "title": "Slacker Daydreams",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/chal-ravens/all-kinds-of-not-much",
-    "content": "Acrumpled young man\u200b, fresh off a Greyhound bus, is sitting in the back of a taxi and talking \u2013 to himself as much as to the driver. \u2018Man, I just had the weirdest dream back on the bus there \u2026 D\u2019you ever have those dreams that are just completely real?\u2019 In the opening scene ofSlacker(1990), Richard Linklater, who also directs the film, plays a version of...",
     "date": "2026-09-02T13:21:39",
     "category": "Magazines"
   }
