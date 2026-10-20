@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/arts/music/lincoln-in-the-bardo-met-opera-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Lincoln in the Bardo\u2019 Review: From Book to Opera at the Met",
+    "author": "Joshua Barone",
+    "link": "https://www.nytimes.com/2026/10/20/arts/music/lincoln-in-the-bardo-met-opera-review.html",
+    "content": "Peter Mattei as Lincoln, surrounded by the dead in the bardo.",
+    "date": "2026-10-20T15:53:42",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/dining/an-inspired-broccoli-dish.html",
     "feed_name": "NYT (Food)",
     "title": "An Inspired Broccoli Dish",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n16/emily-witt/proust-is-in-the-room",
     "content": "Acelebrity\u200b entering a room produces a reality distortion field. The energy shifts towards her, accompanied by a general self-consciousness about where to look or avoid looking. To be ordinary and receive a celebrity\u2019s attention can breed self-importance. We have archetypes \u2013 the name-dropper, the starfucker \u2013 for those who seek out proximity to fame. The tasteful thing is...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "875557ea25d3911d74c2c260f14193e6",
-    "feed_name": "LRB",
-    "title": "In the latest issue",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16",
-    "content": "",
     "date": "2026-09-02T13:21:39",
     "category": "Magazines"
   }
