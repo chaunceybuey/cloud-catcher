@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/us/richard-riehle-dead-office-space.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Richard Riehle, Prolific Actor Who Appeared in \u2018Office Space,\u2019 Dies at 78",
+    "author": "Adeel Hassan",
+    "link": "https://www.nytimes.com/2026/10/20/us/richard-riehle-dead-office-space.html",
+    "content": "Richard Riehle, seen at a premiere in Hollywood in 2011. His character\u2019s workplace anxiety and reliance on \u201cpeople skills\u201d made him one of the most memorable characters in the film \u201cOffice Space.\u201d",
+    "date": "2026-10-20T18:11:07",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/20/arts/music/amplifier-newsletter-adela-nicole-kidman-actresses.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Nicole Kidman\u2019 and Other Musical Odes to Actresses",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/10/20/arts/music/amplifier-newsletter-adela-nicole-kidman-actresses.html",
+    "content": "Babygirl in control.",
+    "date": "2026-10-20T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "Straker\u2019s Is the Latest NYC Dining Room With an English Accent",
@@ -19978,25 +19998,5 @@
     "content": "King Charles III and Queen Camilla of Britain last month. The royal couple is due to see the Bayeux Tapestry at the British Museum on Wednesday.",
     "date": "2026-09-02T13:27:07",
     "category": "NYT"
-  },
-  {
-    "id": "3da5e4ff964ff6334bbbd6b2a5769e66",
-    "feed_name": "LRB",
-    "title": "Uses of Criticism",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/colin-burrow/good-weird-or-bad-weird",
-    "content": "What\u2019s\u200bthe pointof literary criticism? In June the University of Exeter announced plans that might make roughly a third of its English department \u2013 one of the best in the country \u2013 redundant. Other institutions, including Canterbury Christ Church University, have stopped offering English degrees altogether. Most mainstream publishers now wouldn\u2019t dream of publishing...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "0c5f56c5de39883fefe36098858a449f",
-    "feed_name": "LRB",
-    "title": "Away with the Fairies",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/nick-richardson/cradle-scissors",
-    "content": "Early in\u200bThe Enchanted Wood(1939), the first of Enid Blyton\u2019s Faraway Tree books, the three main characters \u2013 Jo, Bessie and Fanny \u2013 make friends with a \u2018small elf\u2019 called Silky, who lives on one of the lower branches of the Faraway Tree. In the recent film adaptation,The Magic Faraway Tree, Silky is a big fairy who feels insecure about her size. She wishes...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
   }
 ]
