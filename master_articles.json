@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=247261",
+    "feed_name": "Texas Tribune",
+    "title": "Gov. Greg Abbott says sale of state park to SpaceX won\u2019t happen anytime soon",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17501065/boca-chica-park-texas-sale-spacex",
+    "content": "The SpaceX Starship on its launch pad is visible from the shore of Boca Chica Beach on Aug. 24, 2025.",
+    "date": "2026-10-20T00:07:39",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247225",
+    "feed_name": "Texas Tribune",
+    "title": "Dallas man who died in Laredo ICE facility was lawful permanent resident",
+    "author": "Colleen DeGuzman, Alex Nguyen, and Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17501066/texas-permanent-resident-ice-death-laredo-green-card",
+    "content": "A U.S. Immigration and Customs Enforcement agent\u2019s badge is seen in front of the J.J. Pickle Federal Building in Austin on April 1, 2025.",
+    "date": "2026-10-19T22:57:40",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247211",
+    "feed_name": "Texas Tribune",
+    "title": "Sid Miller stops short of endorsing Democrat Clayton Tucker for ag commissioner over Nate Sheets",
+    "author": "Jayme Lozano Carver",
+    "link": "https://feeds.texastribune.org/link/16799/17501067/sid-miller-nate-sheets-clayton-tucker-election-2026-agriculture-commissioner",
+    "content": "Agriculture Commissioner Sid Miller and Clayton Tucker, Democratic nominee for agriculture commissioner, join protesters on the Capitol steps in demand of a special session to regulate data center growth before a Senate Committee Hearing on July 27, 2026.",
+    "date": "2026-10-19T22:28:02",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=247185",
     "feed_name": "Texas Tribune",
     "title": "Provisional ballots in Texas: What voters should know if they\u2019re not on a poll\u2019s registration list",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/02/arts/television/ted-lasso-season-4-episode-5-recap.html",
     "content": "From left, Brendan Hunt, Jason Sudeikis and Tanya Reynolds in \u201cTed Lasso.\u201d",
     "date": "2026-09-02T09:04:19",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/pistachio-lemon-snacking-tea-cake-rosh-hashana",
-    "feed_name": "NYT (Food)",
-    "title": "A Pistachio-Lemon Snacking Cake That\u2019s Perfect for Rosh Hashana",
-    "author": "Melissa Clark",
-    "link": "https://cooking.nytimes.com/article/pistachio-lemon-snacking-tea-cake-rosh-hashana",
-    "content": "Benjamina Ebuehi doubles down on lemon in this cake by stirring in a hefty dose of minced preserved lemon.",
-    "date": "2026-09-02T09:03:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/movies/katy-perry-the-lifetimes-tour-live-from-paris-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Katy Perry: The Lifetimes Tour\u2019 Review: Back to Space She Goes",
-    "author": "Chris Azzopardi",
-    "link": "https://www.nytimes.com/2026/09/02/movies/katy-perry-the-lifetimes-tour-live-from-paris-review.html",
-    "content": "Katy Perry\u2019s sci-fi concert film from Paris shines brightest during simple, back-to-basics pop moments.",
-    "date": "2026-09-02T09:02:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/movies/runner-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Runner\u2019 Review: Neither Fast Nor Furious Enough",
-    "author": "Robert Daniels",
-    "link": "https://www.nytimes.com/2026/09/02/movies/runner-review.html",
-    "content": "Gal Gadot limps ahead as a desperate single mother in a thin race-against-time thriller.",
-    "date": "2026-09-02T09:02:29",
     "category": "NYT"
   }
 ]
