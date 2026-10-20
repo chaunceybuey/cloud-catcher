@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/arts/television/late-night-trump-press-secretary-katie-zacharia.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Sends Off Trump\u2019s Press Secretary After Just Five Days",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/20/arts/television/late-night-trump-press-secretary-katie-zacharia.html",
+    "content": "\u201cIt\u2019s not good when the edible arrangement you got on your first day is still edible on your last day,\u201d Jimmy Fallon said.",
+    "date": "2026-10-20T06:01:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=247261",
     "feed_name": "Texas Tribune",
     "title": "Gov. Greg Abbott says sale of state park to SpaceX won\u2019t happen anytime soon",
@@ -19988,15 +19998,5 @@
     "content": "If you see a Prop 65 warning, don\u2019t fret. Here\u2019s what you need to know.",
     "date": "2026-09-02T09:32:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/arts/television/ted-lasso-season-4-episode-5-recap.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Ted Lasso\u2019 Season 4, Episode 5 Recap: Romantic Reversals",
-    "author": "Christopher Orr",
-    "link": "https://www.nytimes.com/2026/09/02/arts/television/ted-lasso-season-4-episode-5-recap.html",
-    "content": "From left, Brendan Hunt, Jason Sudeikis and Tanya Reynolds in \u201cTed Lasso.\u201d",
-    "date": "2026-09-02T09:04:19",
-    "category": "NYT"
   }
 ]
