@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/theater/school-pictures-two-girls-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In \u2018School Pictures\u2019 and \u2018Two Girls,\u2019 the Tweens Are Not All Right",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/10/20/theater/school-pictures-two-girls-review.html",
+    "content": "Milo Cramer\u2019s excellent lo-fi song-cycle and Eliya Smith\u2019s verbatim play about a notorious video both reveal how young minds are made.",
+    "date": "2026-10-20T19:42:53",
+    "category": "NYT"
+  },
+  {
     "id": "859473907d40e2961e117337dbdf9ea1",
     "feed_name": "LRB",
     "title": "\u2018Close your eyes and enjoy the music\u2019",
@@ -19988,15 +19998,5 @@
     "content": "President Donald Trump speaks at the Port of Corpus Christi on Feb. 27, 2026.",
     "date": "2026-09-02T14:42:59",
     "category": "Texas"
-  },
-  {
-    "id": "248c9f5a6cd016acc327e58eaec1d502",
-    "feed_name": "The Atlantic",
-    "title": "The Court\u2019s Ballroom Decision Is a Sign of Deeper Problems",
-    "author": "Leah Litman",
-    "link": "https://www.theatlantic.com/ideas/2026/09/scotus-separation-powers-ballroom-trump/688499/",
-    "content": "The conservative justices have separation of powers exactly backwards.",
-    "date": "2026-09-02T14:38:25",
-    "category": "Magazines"
   }
 ]
