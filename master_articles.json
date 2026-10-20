@@ -350,6 +350,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/abc-kitchen-crispy-broccoli-and-beans",
+    "feed_name": "NYT (Food)",
+    "title": "I Loved This Crispy Broccoli So Much, I Got You the (Simplified) Recipe",
+    "author": "Melissa Clark",
+    "link": "https://cooking.nytimes.com/article/abc-kitchen-crispy-broccoli-and-beans",
+    "content": "With a few tweaks, ABC Kitchens\u2019 brilliant broccoli with pistachio bread crumbs doesn\u2019t have to be fussy, Melissa Clark writes.",
+    "date": "2026-10-19T20:21:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
     "feed_name": "ProPublica",
     "title": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n16/liam-shaw/i-just-wanted-to-touch-it",
     "content": "Henry Kissinger\u200b said that Zhou Enlai had an extraordinary capacity to \u2018intuit the intangibles of the psychology of his opposite number\u2019. He may have learned about Pat Nixon\u2019s love of pandas on the first evening of the presidential visit in 1972, as they chatted over shark\u2019s fin soup and the People\u2019s Liberation Army Band played \u2018Home on the Range\u2019....",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "4ada5622f421a951f81f3fbc92d34792",
-    "feed_name": "LRB",
-    "title": "Fire on the Mountain",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/anne-enright/diary",
-    "content": "On\u200b 3August, after a long drive from Dubrovnik Airport, we turned off the Adriatic Highway to rendezvous with a guy on a motorbike, who would show us the way through the darkness to our holiday rental three kilometres further on. The bike\u2019s tail light disappeared around hairpin bends, through patches of construction and unfinished road, before finally plunging down a tiny lane with,...",
     "date": "2026-09-02T13:21:39",
     "category": "Magazines"
   }
