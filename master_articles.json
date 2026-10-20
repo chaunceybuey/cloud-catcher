@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/dining/restaurant-review-andamiro-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Andamiro in New York",
+    "author": "Mahira Rivers",
+    "link": "https://www.nytimes.com/2026/10/20/dining/restaurant-review-andamiro-nyc.html",
+    "content": "There are many worthy dishes at Andamiro, but the rich, comforting gukbap is the real draw.",
+    "date": "2026-10-20T20:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/theater/school-pictures-two-girls-review.html",
     "feed_name": "NYT (Arts)",
     "title": "In \u2018School Pictures\u2019 and \u2018Two Girls,\u2019 the Tweens Are Not All Right",
@@ -19988,15 +19998,5 @@
     "content": "Ali Slagle\u2019s crispy salmon with lentil salsa verde.",
     "date": "2026-09-02T15:00:06",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241749",
-    "feed_name": "Texas Tribune",
-    "title": "As Hill Country waits for FEMA money after July flood, Trump announces $50 million for storm recovery",
-    "author": "Emily Foxhall",
-    "link": "https://feeds.texastribune.org/link/16799/17437275/trump-texas-flood-recovery-50-million",
-    "content": "President Donald Trump speaks at the Port of Corpus Christi on Feb. 27, 2026.",
-    "date": "2026-09-02T14:42:59",
-    "category": "Texas"
   }
 ]
