@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "Straker\u2019s Is the Latest NYC Dining Room With an English Accent",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/10/20/dining/nyc-restaurant-news.html",
+    "content": "Sofra brings Egyptian cuisine to Bay Ridge, Anderson Caf\u00e9 & Restaurant adds more bistro fare and more restaurant news.",
+    "date": "2026-10-20T17:08:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/20/theater/king-of-the-yees-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018King of the Yees\u2019 Review: Buckle Up for a Daughter\u2019s Fantastical Quest",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/10/20/theater/king-of-the-yees-review.html",
+    "content": "Kelly Marie Tran as a playwright revisiting her roots in Signature Theater\u2019s production of \u201cKing of the Yees\u201d at the Pershing Square Signature Center in Manhattan.",
+    "date": "2026-10-20T17:05:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/arts/music/lincoln-in-the-bardo-met-opera-review.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Lincoln in the Bardo\u2019 Review: From Book to Opera at the Met",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n16/chal-ravens/all-kinds-of-not-much",
     "content": "Acrumpled young man\u200b, fresh off a Greyhound bus, is sitting in the back of a taxi and talking \u2013 to himself as much as to the driver. \u2018Man, I just had the weirdest dream back on the bus there \u2026 D\u2019you ever have those dreams that are just completely real?\u2019 In the opening scene ofSlacker(1990), Richard Linklater, who also directs the film, plays a version of...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "5564e125215932702bf718c43cb9c31a",
-    "feed_name": "LRB",
-    "title": "Sciascia\u2019s Sicily",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/thomas-jones/how-to-choose-your-friends",
-    "content": "It\u2019s\u200b 6.30in the morningand a bus full of passengers is idling in a town square. All is quiet in the January dawn except for the rumbling engine and the cry of a street vendor sellingpanelle(chickpea fritters). As the bus pulls away, the conductor spots a man in a dark suit running across the square and calls for the driver to wait. The man is about to jump onto the running board...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "1599dc8321e7aeb256f313ec18c456e9",
-    "feed_name": "LRB",
-    "title": "Rachel Cusk\u2019s Celebrity Crush",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/emily-witt/proust-is-in-the-room",
-    "content": "Acelebrity\u200b entering a room produces a reality distortion field. The energy shifts towards her, accompanied by a general self-consciousness about where to look or avoid looking. To be ordinary and receive a celebrity\u2019s attention can breed self-importance. We have archetypes \u2013 the name-dropper, the starfucker \u2013 for those who seek out proximity to fame. The tasteful thing is...",
     "date": "2026-09-02T13:21:39",
     "category": "Magazines"
   }
