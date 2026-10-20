@@ -130,6 +130,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=247520",
+    "feed_name": "Texas Tribune",
+    "title": "TribCast: Steve Kornacki on Texas\u2019 midterm outlook",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17501712/tribcast-election-preview-kornacki",
+    "content": "A voter casts their ballot at a polling site at the Austin Oaks Church on Oct. 14, 2020.",
+    "date": "2026-10-20T22:27:55",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247482",
+    "feed_name": "Texas Tribune",
+    "title": "Republican Bo French denies he agreed to debate Railroad Commission opponent",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17501713/bo-french-jon-rosenthal-texas-railroad-commission-debate-canceled-election",
+    "content": "From left: Republican and Democratic nominees for Texas Railroad commissioner Bo French and Jon Rosenthal. French is a former Tarrant County GOP chairman; Rosenthal is a Houston-area state representative.",
+    "date": "2026-10-20T22:19:27",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247406",
+    "feed_name": "Texas Tribune",
+    "title": "Greg Abbott ordered a pause on data center permits. Critics say some plans still moved forward.",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17501714/data-center-permits-tceq-abbott-texas-pause",
+    "content": "A chainlink fence separates Loop Road in south Haskell County from part of a Google data center construction site on Aug. 19, 2026.",
+    "date": "2026-10-20T21:42:57",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
     "feed_name": "NYT (Arts)",
     "title": "Art Basel Paris Preview Draws Interest Despite Protests",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
     "content": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock\u2019s jazz band.",
     "date": "2026-09-02T17:29:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/arts/design/george-lucas-museum-narrative-art-opening.html",
-    "feed_name": "NYT (Arts)",
-    "title": "What Is \u2018Narrative Art?\u2019 The Lucas Museum Finally Shows Us Its Vision.",
-    "author": "Matt Stevens, Robin Pogrebin and Adam Amengual",
-    "link": "https://www.nytimes.com/2026/09/02/arts/design/george-lucas-museum-narrative-art-opening.html",
-    "content": "The Lucas Museum of Narrative Art intends to present the images and objects that make stories come alive.",
-    "date": "2026-09-02T17:00:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/arts/danny-boyle-ink-venice-film-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Danny Boyle\u2019s \u2018Ink,\u2019 Tabloid Scandals Sell and the Public Is Buying",
-    "author": "Beatrice Loayza",
-    "link": "https://www.nytimes.com/2026/09/02/arts/danny-boyle-ink-venice-film-festival.html",
-    "content": "Jack O\u2019Connell as Larry Lamb, the editor of The Sun tabloid in Britain, in \u201cInk.\u201d",
-    "date": "2026-09-02T17:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/arts/design/yayoi-kusama-final-years.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Mysterious and Lonely Final Decade of Yayoi Kusama\u2019s Life",
-    "author": "Zachary Small",
-    "link": "https://www.nytimes.com/2026/09/02/arts/design/yayoi-kusama-final-years.html",
-    "content": "The Japanese artist spent the last seven years in isolation and declining health. Still, it was the most prolific chapter of her career.",
-    "date": "2026-09-02T15:14:24",
     "category": "NYT"
   }
 ]
