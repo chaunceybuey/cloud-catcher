@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=247210",
+    "feed_name": "Texas Tribune",
+    "title": "Texas data center boom could erase decades of progress on air quality",
+    "author": "Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17501286/data-centers-texas-air-quality-report-pollution-health-risks",
+    "content": "A house sits in front of a Meta data center in Roanoke, Texas on Sept. 11, 2026.",
+    "date": "2026-10-20T11:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "6ad37a5eff74ef50dd93a39b",
+    "feed_name": "Wired (Science)",
+    "title": "The Physics Behind Tesla\u2019s Flying Roadster",
+    "author": "Rhett Allain",
+    "link": "https://www.wired.com/story/physics-behind-tesla-flying-roadster/",
+    "content": "To understand how Elon\u2019s new car hops, glides, and sticks upside down, we need to talk about friction and force.",
+    "date": "2026-10-20T10:45:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6ad64654a271027f9ff52841",
     "feed_name": "Wired",
     "title": "Sexual Assault Is a Free Speech Issue",
@@ -158,6 +178,36 @@
     "content": "<p>Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.</p>",
     "date": "2026-10-20T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246613",
+    "feed_name": "Texas Tribune",
+    "title": "Hundreds of thousands of potentially eligible Texas homeowners aren\u2019t claiming their property tax savings",
+    "author": "Joshua Fechter",
+    "link": "https://feeds.texastribune.org/link/16799/17501287/texas-homeowners-homestead-exemption-property-tax-cuts",
+    "content": "A recently built home sits next to another home in South Dallas on July 29, 2025.",
+    "date": "2026-10-20T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=246618",
+    "feed_name": "Texas Tribune",
+    "title": "Texas homeowners may be missing out on a major property tax break. Here\u2019s how to claim it.",
+    "author": "Joshua Fechter",
+    "link": "https://feeds.texastribune.org/link/16799/17501288/texas-homestead-exemption-how-to-apply",
+    "content": "A house in Hays County on Sept. 21, 2026.",
+    "date": "2026-10-20T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247203",
+    "feed_name": "Texas Tribune",
+    "title": "Federal judge to weigh Texas bid to dismiss 15-year-old suit seeking foster care system reform",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17501289/texas-foster-care-lawsuit-child-abuse",
+    "content": "The Texas Department of Family and Protective Services logo found in a poster in the Child Protective Services office in Austin on Nov. 14, 2019.",
+    "date": "2026-10-20T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "6ad64259ddf0178335f624fa",
@@ -19946,56 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n16/gaby-wood/at-the-movies",
     "content": "At the height\u200b of Pedro Almod\u00f3var\u2019s new film,Bitter Christmas, Ra\u00fal, a writer-director played by Leonardo Sbaraglia, has a heated argument with his former assistant, M\u00f3nica (Aitana S\u00e1nchez-Gij\u00f3n). M\u00f3nica has worked for Ra\u00fal for twenty years, and is, as Ra\u00fal puts it, his \u2018first and best reader\u2019, but she\u2019s recently left...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "a0d60d236a3c2dedb47e4080ac6b1370",
-    "feed_name": "LRB",
-    "title": "Pan-African Art",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/kevin-okoth/at-the-barbican",
-    "content": "Project a Black Planet, the Barbican\u2019s exhibition of the art and culture of Pan-Africa (until 6 September), doesn\u2019t try to offer a history lesson. It is neither a comprehensive account of Pan-Africanism nor of the art associated with the movement; rather, the curators claim, the Pan-Africa explored here is an \u2018imagined geography\u2019. Early reviews of the exhibition\u2019s...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "24f700297b4d924c15825debe67d9e90",
-    "feed_name": "LRB",
-    "title": "What Gulliver Saw",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/katie-ebner-landy/cursed-race",
-    "content": "Jonathan Swift\u200b was a fan of puns. He found there was no better way to pass a long coach journey than to engage in wordplay in the company of friends. He reported one such exchange in a letter to Thomas Walls in 1708: \u2018A Gentleman was mightily afraid of a cat: I told him it was a Sign he wasPus-ilanimous, and Lady Berkeley talking to her Cat, My Lord said she was very impertinent, but...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "36d9742260db66962783d0ae7f375493",
-    "feed_name": "LRB",
-    "title": "Munir\u2019s Victory",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/owen-bennett-jones/munir-s-victory",
-    "content": "Tweeting\u200bfrom his prison cell, Pakistan\u2019s cricketing hero and former prime minister Imran Khan described the country\u2019s de facto leader, Field Marshal Asim Munir, as a mentally unstable, cruel dictator driven by a lust for power. In response, the field marshal\u2019s spokesman called Khan a mentally ill narcissist who believes he stands above the state. The power struggle...",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "79a2efd42c2ea4bc277881ebe799501b",
-    "feed_name": "LRB",
-    "title": "On AOC and Egg Freezing",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/september/on-aoc-and-egg-freezing",
-    "content": "Last month, Alexandria Ocasio-Cortez published a series of Instagram posts documenting the process of freezing her eggs. In the last video.\u00a0.\u00a0.",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "81eaccf5e3fd295418459e85c163762d",
-    "feed_name": "LRB",
-    "title": "Gaza after the Ceasefire",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/gaza-after-the-ceasefire",
-    "content": "Since the announcement of a ceasefire in Gaza six months ago, 904 Palestinians have been killed and more than 2700 wounded by the Israeli army. Last week, Trump\u2019s Board of Peace released a report complaining of a \u2018funding gap\u2019 after reports emerged that it had received only a \u2018tiny fraction\u2019 of the $17 billion its members had pledged to rebuild the region.",
     "date": "2026-09-02T13:21:39",
     "category": "Magazines"
   }
