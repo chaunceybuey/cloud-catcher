@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "06972e25-e977-475a-a9e8-2b9f6c61c3ef",
+    "feed_name": "Economist",
+    "title": "The late Perry Mehrling explained the hierarchy of money",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+    "content": "The course for par",
+    "date": "2026-10-20T18:32:09",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/us/richard-riehle-dead-office-space.html",
     "feed_name": "NYT (Arts)",
     "title": "Richard Riehle, Prolific Actor Who Appeared in \u2018Office Space,\u2019 Dies at 78",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
     "content": "After recent endorsements from Vampire Weekend and Harry Styles, Haruomi Hosono, 79, returns to the U.S. with a new album and tour.",
     "date": "2026-09-02T14:04:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/arts/design/bayeux-tapestry-king-charles.html",
-    "feed_name": "NYT (Arts)",
-    "title": "King Charles III to View Bayeux Tapestry at the British Museum",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/09/02/arts/design/bayeux-tapestry-king-charles.html",
-    "content": "King Charles III and Queen Camilla of Britain last month. The royal couple is due to see the Bayeux Tapestry at the British Museum on Wednesday.",
-    "date": "2026-09-02T13:27:07",
     "category": "NYT"
   }
 ]
