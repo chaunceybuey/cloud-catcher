@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Art Basel Paris Preview Draws Interest Despite Protests",
+    "author": "Scott Reyburn",
+    "link": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+    "content": "The Grand Palais in Paris, site of the Art Basel Paris preview.",
+    "date": "2026-10-20T21:06:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/dining/restaurant-review-andamiro-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Andamiro in New York",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/02/arts/design/yayoi-kusama-final-years.html",
     "content": "The Japanese artist spent the last seven years in isolation and declining health. Still, it was the most prolific chapter of her career.",
     "date": "2026-09-02T15:14:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/dining/a-technique-for-always-crispy-fish.html",
-    "feed_name": "NYT (Food)",
-    "title": "A Technique for Always-Crispy Fish",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/09/02/dining/a-technique-for-always-crispy-fish.html",
-    "content": "Ali Slagle\u2019s crispy salmon with lentil salsa verde.",
-    "date": "2026-09-02T15:00:06",
     "category": "NYT"
   }
 ]
