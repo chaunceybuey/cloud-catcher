@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "859473907d40e2961e117337dbdf9ea1",
+    "feed_name": "LRB",
+    "title": "\u2018Close your eyes and enjoy the music\u2019",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/october/close-your-eyes-and-enjoy-the-music",
+    "content": "At the first interval in the Berlin Staatsoper\u2019s new production of La Vestale, the man to my right turned to me and said: \u2018Mein.\u00a0.\u00a0.",
+    "date": "2026-10-20T19:00:09",
+    "category": "Magazines"
+  },
+  {
     "id": "06972e25-e977-475a-a9e8-2b9f6c61c3ef",
     "feed_name": "Economist",
     "title": "The late Perry Mehrling explained the hierarchy of money",
@@ -19988,15 +19998,5 @@
     "content": "The conservative justices have separation of powers exactly backwards.",
     "date": "2026-09-02T14:38:25",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Haruomi Hosono, Architect of Japanese Pop, Pushes West",
-    "author": "Ben Sisario",
-    "link": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
-    "content": "After recent endorsements from Vampire Weekend and Harry Styles, Haruomi Hosono, 79, returns to the U.S. with a new album and tour.",
-    "date": "2026-09-02T14:04:08",
-    "category": "NYT"
   }
 ]
