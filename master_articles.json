@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/dining/an-inspired-broccoli-dish.html",
+    "feed_name": "NYT (Food)",
+    "title": "An Inspired Broccoli Dish",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/20/dining/an-inspired-broccoli-dish.html",
+    "content": "ABC Kitchens\u2019 roasted broccoli with beans and crispy bread crumbs, adapted by Melissa Clark.",
+    "date": "2026-10-20T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "3b1015953e6e32152de2889d9d2b73eb",
     "feed_name": "Outside",
     "title": "Drive Rowdy, Raise Hell, and Haul Away Trash. We Crashed Off-Roading's Craziest Rally.",
@@ -19985,16 +19995,6 @@
     "title": "In the latest issue",
     "author": "",
     "link": "https://www.lrb.co.uk/the-paper/v48/n16",
-    "content": "",
-    "date": "2026-09-02T13:21:39",
-    "category": "Magazines"
-  },
-  {
-    "id": "3a32b3a5caead1666ea4ed3464d85755",
-    "feed_name": "LRB",
-    "title": "Tom  Crewe: Unsuccessful Siblings",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n16/tom-crewe/boozing-and-lounging",
     "content": "",
     "date": "2026-09-02T13:21:39",
     "category": "Magazines"
