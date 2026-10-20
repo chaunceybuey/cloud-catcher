@@ -130,6 +130,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/20/arts/music/beach-boys-mike-love-future.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What\u2019s Next for the Beach Boys?",
+    "author": "Timothy Sommer",
+    "link": "https://www.nytimes.com/2026/10/20/arts/music/beach-boys-mike-love-future.html",
+    "content": "The Beach Boys in 1966. Top row, from left: Dennis Wilson, Mike Love. Bottom row: Bruce Johnston, Al Jardine and Carl Wilson.",
+    "date": "2026-10-20T09:01:46",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/20/arts/music/dolly-parton-estate-family-lawsuit.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Dolly Parton\u2019s Death Set Off a Legal Feud Surrounding Her Nephew",
+    "author": "Julia Jacobs and Emily Cochrane",
+    "link": "https://www.nytimes.com/2026/10/20/arts/music/dolly-parton-estate-family-lawsuit.html",
+    "content": "Dolly Parton, shown here in 2025, worked hard during her life to avoid the type of public controversy that erupted in her inner circle soon after her death.",
+    "date": "2026-10-20T09:01:39",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/20/arts/houdini-death-mystery.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Houdini Died on Halloween 100 Years Ago. Some Still Question How.",
+    "author": "Robin Pogrebin",
+    "link": "https://www.nytimes.com/2026/10/20/arts/houdini-death-mystery.html",
+    "content": "Larrian Gillespie, a retired urologist, has done a deep dive into Houdini\u2019s final days and has a new theory on the world-famous magician\u2019s demise.",
+    "date": "2026-10-20T09:01:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/20/dining/private-equity-restaurant-deals.html",
+    "feed_name": "NYT (Food)",
+    "title": "As Private Equity Scales Up Small Restaurants, Customers Push Back",
+    "author": "Priya Krishna",
+    "link": "https://www.nytimes.com/2026/10/20/dining/private-equity-restaurant-deals.html",
+    "content": "Deep-pocketed investment groups are giving mom-and-pop food businesses a shot at big success. But many of their regulars are speaking out against those deals.",
+    "date": "2026-10-20T09:00:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/20/arts/television/late-night-trump-press-secretary-katie-zacharia.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Sends Off Trump\u2019s Press Secretary After Just Five Days",
@@ -19958,45 +19998,5 @@
     "content": "The EdgeConneX Cedar Creek Campus located at 8001 Wolf Ln / 6682 FM535 includes three data centers under construction in Cedar Creek on Thursday, June 18, 2026.",
     "date": "2026-09-02T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241648",
-    "feed_name": "Texas Tribune",
-    "title": "Austin man\u2019s wrongful deportation casts scrutiny on Texas\u2019 embrace of ICE partnerships",
-    "author": "Alejandro Serrano and Uriel J. Garc\u00eda",
-    "link": "https://feeds.texastribune.org/link/16799/17437107/texas-deported-citizen-brian-morales-ice-partnerships-local-police-sheriffs-287g",
-    "content": "DPS troopers return to their patrol route after making a traffic stop in southeast Austin on Aug. 7, 2023.",
-    "date": "2026-09-02T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241404",
-    "feed_name": "Texas Tribune",
-    "title": "Texas rejected an AI-driven school\u2019s bid to open a charter. Then the state approved it for the voucher program.",
-    "author": "By Lexi Churchill, The Texas Tribune and ProPublica",
-    "link": "https://feeds.texastribune.org/link/16799/17437108/alpha-school-texas-vouchers-ai",
-    "content": "Alpha School quadrupled its Texas private school campuses. Most are eligible for state dollars through the new voucher program.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17437108.gif\" width=\"1\" />",
-    "date": "2026-09-02T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/arts/music/gary-glitter-court.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Gary Glitter Pleads Not Guilty to Child Sexual Abuse Charges",
-    "author": "Alex Marshall",
-    "link": "https://www.nytimes.com/2026/09/02/arts/music/gary-glitter-court.html",
-    "content": "Gary Glitter in 2015.",
-    "date": "2026-09-02T09:47:36",
-    "category": "NYT"
-  },
-  {
-    "id": "6a91afd3bd170b83aeb20ba4",
-    "feed_name": "Wired (Science)",
-    "title": "A Prop 65 Crash Course: What You Need to Know (2026)",
-    "author": "Boutayna Chokrane",
-    "link": "https://www.wired.com/story/why-does-everything-have-a-prop-65-warning/",
-    "content": "If you see a Prop 65 warning, don\u2019t fret. Here\u2019s what you need to know.",
-    "date": "2026-09-02T09:32:00",
-    "category": "Magazines"
   }
 ]
