@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/21/arts/dance/new-york-city-ballet-fall-season-highlights.html",
+    "feed_name": "NYT (Arts)",
+    "title": "NYC Ballet Fall Highlights: A Balanchine Revival, Adrian Danchig-Waring\u2019s Farewell and More",
+    "author": "Gia Kourlas",
+    "link": "https://www.nytimes.com/2026/10/21/arts/dance/new-york-city-ballet-fall-season-highlights.html",
+    "content": "New York City Ballet\u2019s fall highlights included the return of \u201cPithoprakta,\u201d the magic of Mira Nadon and the farewell performance of Adrian Danchig-Waring.",
+    "date": "2026-10-21T15:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "6ad666ed2018c3b886fe663e",
     "feed_name": "Wired (Science)",
     "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/03/movies/onslaught-review.html",
     "content": "A gory tribute to B-movies from the 1980s tries and fails to say something about forever wars.",
     "date": "2026-09-03T09:02:20",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/03/movies/mayday-review-frenemies-a-cold-war-story.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Mayday\u2019 Review: Frenemies, a Cold War Story",
-    "author": "Lisa Kennedy",
-    "link": "https://www.nytimes.com/2026/09/03/movies/mayday-review-frenemies-a-cold-war-story.html",
-    "content": "Ryan Reynolds and Kenneth Branagh keep this \u201cTop Gun\u201d-inspired action comedy aloft.",
-    "date": "2026-09-03T09:02:17",
     "category": "NYT"
   }
 ]
