@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/21/arts/television/late-night-michael-kosta-trump-jon-husted.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Michael Kosta Supports Trump\u2019s Midterms Man Crush",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/21/arts/television/late-night-michael-kosta-trump-jon-husted.html",
+    "content": "The \u201cDaily Show\u201d host said President Trump has spent too much time thinking about Senator Jon Husted\u2019s physique.",
+    "date": "2026-10-21T05:51:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=247614",
     "feed_name": "Texas Tribune",
     "title": "More than $350M in foster care reforms, oversight, enough to end court monitoring, state tells court",
@@ -19988,15 +19998,5 @@
     "content": "Gov. Greg Abbott speaks at a press conference in Austin on Aug. 31, 2026.",
     "date": "2026-09-02T19:19:16",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/briefing/2-the-good-list-katydid-pianos.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Good List: 6 Things to Add Joy to Your Day",
-    "author": "Melissa Kirsch",
-    "link": "https://www.nytimes.com/2026/09/02/briefing/2-the-good-list-katydid-pianos.html",
-    "content": "Your birthday crossword, nearby pianos and the lone katydid.",
-    "date": "2026-09-02T19:12:54",
-    "category": "NYT"
   }
 ]
