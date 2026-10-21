@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ad7916c8c60213697a5287a",
+    "feed_name": "Wired (Science)",
+    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+    "content": "It\u2019s the latest in a growing wave of bets that AI companies are making on brain data.",
+    "date": "2026-10-21T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/wildfire-flood-risk-ruidoso-new-mexico",
     "feed_name": "ProPublica",
     "title": "\u201cThe River Can\u2019t Be Trusted\u201d",
@@ -158,6 +168,26 @@
     "content": "<p>Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.</p>",
     "date": "2026-10-21T10:00:00",
     "category": "Tech"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247373",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Comptroller Don Huffines issues series of \u201cexecutive orders,\u201d raising questions about his office\u2019s authority",
+    "author": "Jasper Scherer and Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17501943/texas-comptroller-don-huffines-executive-orders",
+    "content": "Don Huffines, Republican candidate for Texas comptroller, speaks during the Texas Republican Convention in Houston on June 12, 2026.",
+    "date": "2026-10-21T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247288",
+    "feed_name": "Texas Tribune",
+    "title": "Texans didn\u2019t know their neighborhood was built near an abandoned oil well spreading toxic fumes",
+    "author": "By  Martha Pskowski, Inside Climate News",
+    "link": "https://feeds.texastribune.org/link/16799/17501944/abandoned-oil-wells-leaks-homebuyers-texas-real-estate",
+    "content": "An aerial view shows the Preserve at Medina subdivision, a development of brick-and-siding starter homes in southwest San Antonio, on Monday, Oct. 12, 2026. The Thompson Callaway Spears No. 1 well is located on the vacant lots enclosed by black metal fencing near the intersection of Vesper Branch and Jetfire Point.",
+    "date": "2026-10-21T10:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.propublica.org/article/ruidoso-flood-emergency-response-water-rescue",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/03/dining/rosh-hashana-short-ribs-reader-recipe.html",
     "content": "These deliciously flavorful and tender short ribs, from Shaw Fodor, a home cook in Washington, can and should be made up to two days ahead.",
     "date": "2026-09-03T09:01:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/03/movies/los-javis-la-bola-negra.html",
-    "feed_name": "NYT (Arts)",
-    "title": "For Los Javis, Their Breakthrough \u2018La Bola Negra\u2019 Was Almost the End",
-    "author": "Kyle Buchanan and Sela Shiloni",
-    "link": "https://www.nytimes.com/2026/09/03/movies/los-javis-la-bola-negra.html",
-    "content": "Javier Calvo and Javier Ambrossi, a.k.a. Los Javis, are household names in Spain, in part for their relationship. But everything changed after their Cannes triumph \u201cLa Bola Negra.\u201d",
-    "date": "2026-09-03T09:00:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/03/arts/design/leilah-babirye-exhibit-boston.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Chain Saws and Joy: A Sculptor\u2019s Evolution",
-    "author": "Siddhartha Mitter",
-    "link": "https://www.nytimes.com/2026/09/03/arts/design/leilah-babirye-exhibit-boston.html",
-    "content": "Leilah Babirye, who emigrated to the United States from Uganda amid threats against L.G.B.T. people, puts queer life and belonging at the center of her art.",
-    "date": "2026-09-03T09:00:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/03/books/thriller-books-succession-industry.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Best Thriller Books for Fans of \u2018Succession\u2019 and \u2018Industry\u2019",
-    "author": "Linwood Barclay",
-    "link": "https://www.nytimes.com/2026/09/03/books/thriller-books-succession-industry.html",
-    "content": "The best-selling author Linwood Barclay recommends his favorite thrillers set in the corporate world.",
-    "date": "2026-09-03T09:00:39",
     "category": "NYT"
   }
 ]
