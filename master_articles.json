@@ -150,6 +150,16 @@
     "category": "Texas"
   },
   {
+    "id": "9abb3a6757d4bd0fa3796163e5be8515",
+    "feed_name": "LRB",
+    "title": "Write a Novel in Thirty Days",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
+    "content": "My boss at the bookshop has said he would sell AI novels if there were clear demand and clear labelling. We almost certainly already sell books.\u00a0.\u00a0.",
+    "date": "2026-10-21T18:27:44",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/21/briefing/21-the-good-list-nathan-fielder.html",
     "feed_name": "NYT (Arts)",
     "title": "The Good List: 6 Things to Add Delight to Your Day",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
     "content": "Investors are unconvinced by Claudia Sheinbaum\u2019s policies",
     "date": "2026-09-03T09:35:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "048d2cf7-a264-41d5-8770-981e09262cf7",
-    "feed_name": "Economist",
-    "title": "China tries to look past the property slump",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
-    "content": "But its new policies could hurt construction and employment",
-    "date": "2026-09-03T09:35:32",
     "category": "Magazines"
   }
 ]
