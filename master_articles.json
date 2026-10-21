@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=247594",
+    "feed_name": "Texas Tribune",
+    "title": "AG\u2019s office sides with community in the fight over public access to an East Texas waterway",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17501752/east-texas-waterway-attorney-general-briefing",
+    "content": "An iron culvert set in a man-made dike allows water, aquatic life and fishermen to pass on the Cutoff, also known as Creslenn Lake, on May 27, 2024.",
+    "date": "2026-10-21T00:10:28",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247584",
+    "feed_name": "Texas Tribune",
+    "title": "False pamphlets causing backlash and confusion, Texas transgender rights group says",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17501751/texas-transgender-pamphlets-tent-student-union",
+    "content": "A mailer purporting to offer guidance to trans and LBGTQ+ students has been sent from an organization formed in Wyoming. The documents cite a Texas trans rights organization that says it had nothing to do with the pamphlets.",
+    "date": "2026-10-20T23:37:43",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=247520",
     "feed_name": "Texas Tribune",
     "title": "TribCast: Steve Kornacki on Texas\u2019 midterm outlook",
@@ -19978,25 +19998,5 @@
     "content": "",
     "date": "2026-09-02T17:41:05",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/movies/danny-boyle-ink-venice-film-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Danny Boyle\u2019s \u2018Ink,\u2019 Tabloid Scandals Sell and the Public Is Buying",
-    "author": "Beatrice Loayza",
-    "link": "https://www.nytimes.com/2026/09/02/movies/danny-boyle-ink-venice-film-festival.html",
-    "content": "Jack O\u2019Connell as Larry Lamb, the editor of The Sun tabloid in Britain, in \u201cInk.\u201d",
-    "date": "2026-09-02T17:32:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
-    "author": "Alex Williams",
-    "link": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
-    "content": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock\u2019s jazz band.",
-    "date": "2026-09-02T17:29:03",
-    "category": "NYT"
   }
 ]
