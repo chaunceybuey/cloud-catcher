@@ -130,6 +130,26 @@
     "category": "Texas"
   },
   {
+    "id": "6ad666ed2018c3b886fe663e",
+    "feed_name": "Wired (Science)",
+    "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
+    "author": "Kate Knibbs",
+    "link": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
+    "content": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.",
+    "date": "2026-10-21T13:34:37",
+    "category": "Magazines"
+  },
+  {
+    "id": "3944f047c90a2938f849b56dc307310e",
+    "feed_name": "Compact",
+    "title": "Matchmakers Are Beating the Dating Recession",
+    "author": "",
+    "link": "https://www.compactmag.com/article/matchmakers-are-beating-the-dating-recession/",
+    "content": "",
+    "date": "2026-10-21T13:32:58",
+    "category": "Magazines"
+  },
+  {
     "id": "6ad7916c8c60213697a5287a",
     "feed_name": "Wired (Science)",
     "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/03/movies/mayday-review-frenemies-a-cold-war-story.html",
     "content": "Ryan Reynolds and Kenneth Branagh keep this \u201cTop Gun\u201d-inspired action comedy aloft.",
     "date": "2026-09-03T09:02:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/03/movies/give-it-a-shot-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Give It a Shot\u2019 Review: Birth Control for Men",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/09/03/movies/give-it-a-shot-review.html",
-    "content": "There\u2019s a new birth control method \u2014 and this documentary asks men to take the title of the film seriously.",
-    "date": "2026-09-03T09:02:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/03/dining/rosh-hashana-short-ribs-reader-recipe.html",
-    "feed_name": "NYT (Food)",
-    "title": "Gorgeous Make-Ahead Rosh Hashana Short Ribs, Courtesy of a Reader",
-    "author": "Joan Nathan",
-    "link": "https://www.nytimes.com/2026/09/03/dining/rosh-hashana-short-ribs-reader-recipe.html",
-    "content": "These deliciously flavorful and tender short ribs, from Shaw Fodor, a home cook in Washington, can and should be made up to two days ahead.",
-    "date": "2026-09-03T09:01:02",
     "category": "NYT"
   }
 ]
