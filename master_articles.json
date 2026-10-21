@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=247614",
+    "feed_name": "Texas Tribune",
+    "title": "More than $350M in foster care reforms, oversight, enough to end court monitoring, state tells court",
+    "author": "Terri Langford",
+    "link": "https://feeds.texastribune.org/link/16799/17501782/texas-foster-care-lawsuit-empower",
+    "content": "Heart Galleries, portraits of adoptable children, on display at the Child Protective Services office at the Texas Department of Family and Protective Services offices in Austin in 2019.",
+    "date": "2026-10-21T02:14:45",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.propublica.org/article/trump-venezuela-oil-agreement-terms",
     "feed_name": "ProPublica",
     "title": "The Secret Terms of Trump\u2019s Venezuelan Oil Deal",
@@ -19988,15 +19998,5 @@
     "content": "Your birthday crossword, nearby pianos and the lone katydid.",
     "date": "2026-09-02T19:12:54",
     "category": "NYT"
-  },
-  {
-    "id": "3999f0af277d86da20372378ba2f1a49",
-    "feed_name": "The Atlantic",
-    "title": "The MAGA Right Is Only Pretending to Be Censored",
-    "author": "Anne Applebaum",
-    "link": "https://www.theatlantic.com/ideas/2026/09/censorship-industrial-complex-conspiracy/688490/",
-    "content": "The conspiracy theory that persists even though no evidence supports it",
-    "date": "2026-09-02T17:49:05",
-    "category": "Magazines"
   }
 ]
