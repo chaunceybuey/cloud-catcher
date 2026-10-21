@@ -140,6 +140,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/21/arts/bioware-closing-baldurs-gate.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Video Game Studio BioWare Shutting Down",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/10/21/arts/bioware-closing-baldurs-gate.html",
+    "content": "The studio was behind popular games such as Baldur\u2019s Gate, Dragon Age and Mass Effect. Its parent company, Electronic Arts, is expected to lay off some of its staff as part of cost cuts.",
+    "date": "2026-10-21T22:30:19",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247729",
+    "feed_name": "Texas Tribune",
+    "title": "Trump administration asks Supreme Court to let Big Bend border wall project resume",
+    "author": "By Rebecca Santana and Lindsay Whitehurst,\u00a0Associated Press",
+    "link": "https://feeds.texastribune.org/link/16799/17502348/trump-supreme-court-big-bend-border-wall-project",
+    "content": "A sign in opposition to border wall construction is hung on a fence on Adan Madrid\u2019s property, which is under threat of border wall construction, in Redford on June 5, 2026.",
+    "date": "2026-10-21T21:57:03",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=247701",
     "feed_name": "Texas Tribune",
     "title": "Guatemalan man gets 30 years for role in San Antonio smuggling deaths of 53 migrants",
@@ -19978,25 +19998,5 @@
     "content": "America's food-safety system is being methodically dismantled by the Trump administration.",
     "date": "2026-09-03T11:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241803",
-    "feed_name": "Texas Tribune",
-    "title": "Texas A&M System considers removing courses on LGBTQ, ethnic studies and climate change from core offerings",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17438361/texas-am-remove-core-courses-lgbtq-race-climate-change",
-    "content": "Students walk through a tunnel under Wellborn Road on the Texas A&amp;M University campus in College Station on Nov. 13, 2025.",
-    "date": "2026-09-03T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241640",
-    "feed_name": "Texas Tribune",
-    "title": "With voters squeezed by high costs, Texas candidates race to claim affordability mantle",
-    "author": "By Joshua Fechter\u00a0and\u00a0Paul Cobler, GRAPHICS BY\u00a0Dan Keemahill",
-    "link": "https://feeds.texastribune.org/link/16799/17438362/texas-affordability-costs-inflation-2026-elections",
-    "content": "Prices are displayed at a CITGO gas station in Austin on Aug. 26, 2026.",
-    "date": "2026-09-03T10:00:00",
-    "category": "Texas"
   }
 ]
