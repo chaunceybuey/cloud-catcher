@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/22/arts/design/art-basel-paris-france-riots.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Art Basel Paris to End Early Because of France Riots",
+    "author": "Scott Reyburn",
+    "link": "https://www.nytimes.com/2026/10/22/arts/design/art-basel-paris-france-riots.html",
+    "content": "Visitors at Art Basel Paris on Wednesday.",
+    "date": "2026-10-22T15:47:15",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/22/dining/old-fashioned-beef-stew-never-gets-old.html",
     "feed_name": "NYT (Food)",
     "title": "Old-Fashioned Beef Stew Never Gets Old",
@@ -19988,15 +19998,5 @@
     "content": "Frank Strong, an English teacher at a charter school in Austin, poses with books Lt. Gov. Dan Patrick recently urged Texas public schools to remove from libraries. on Aug. 31, 2026.",
     "date": "2026-09-04T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "6a99df528b85ac4b85e7b708",
-    "feed_name": "Wired (Science)",
-    "title": "What the Heck? Another Perfect Geometric Shape Has Been Detected on Saturn",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/another-perfect-geometric-shape-detected-on-saturn/",
-    "content": "The discovery adds to the planet\u2019s history of strange atmospheric phenomena that scientists don\u2019t full understand.",
-    "date": "2026-09-04T09:30:00",
-    "category": "Magazines"
   }
 ]
