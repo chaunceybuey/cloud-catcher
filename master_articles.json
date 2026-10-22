@@ -160,6 +160,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=247974",
+    "feed_name": "Texas Tribune",
+    "title": "Feds charge Fort Bend County official with theft of government money",
+    "author": "Stephen Simpson, Alex Nguyen, and Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17502993/texas-fort-bend-tax-assessor-collector-carmen-turner-federal-indictment",
+    "content": "Aaron Reitz, U.S. attorney for the Southern District of Texas, speaks with media in Dallas on Feb. 17, 2026. Reitz announced an indictment Thursday against Fort Bend County Tax Assessor-Collector Carmen Turner.",
+    "date": "2026-10-22T19:24:00",
+    "category": "Texas"
+  },
+  {
     "id": "6ad913aa6d784ad1c4be31d0",
     "feed_name": "Wired (Science)",
     "title": "Inside the Exclusive Nathan Fielder Interview",
@@ -210,6 +220,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=247925",
+    "feed_name": "Texas Tribune",
+    "title": "How Texas Democrats and Republicans have shifted their campaign ad pitches throughout the midterms",
+    "author": "Renzo Downey",
+    "link": "https://feeds.texastribune.org/link/16799/17502994/texas-political-ad-messaging-analysis-2026-elections",
+    "content": "A film crew tapes for a political ad at a rally for Democratic Senate nominee James Talarico in San Marcos on Oct. 15, 2026.",
+    "date": "2026-10-22T16:37:49",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/22/movies/fatherland-review-thomas-mann.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Fatherland\u2019 Review: Returning to a Divided Germany",
@@ -218,6 +238,16 @@
     "content": "Four years after World War II, the writer Thomas Mann returned to his birthplace with his daughter, played by Sandra H\u00fcller in this luminous fictional account.",
     "date": "2026-10-22T16:05:05",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247657",
+    "feed_name": "Texas Tribune",
+    "title": "Texas\u2019 child care quality control measures played a role in enrollment cuts this fall",
+    "author": "Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17502995/texas-child-care-subsidy-program-cuts",
+    "content": "Shelbi Adams spends her morning watching over children at Katherine Sage Temple Early Learning Center in Diboll on Feb. 25, 2025.",
+    "date": "2026-10-22T16:00:00",
+    "category": "Texas"
   },
   {
     "id": "ddb39558-b501-428a-b2a2-860b1727b410",
@@ -19968,35 +19998,5 @@
     "content": "Neither a home cook nor an enthusiastic eater, she used the dinner table as a place to forge relationships and foster change.",
     "date": "2026-09-04T14:14:01",
     "category": "NYT"
-  },
-  {
-    "id": "a8853e4672a2a19636bfa3ebd60cf067",
-    "feed_name": "Outside",
-    "title": "This Veteran\u2019s Cure for Soldiers with PTSD: Go Build an Earthship in the Desert",
-    "author": "Nick AspinwallJuly 17, 2026",
-    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/veterans-off-grid/",
-    "content": "Ryan Timmermans, an Army veteran who did multiple tours in Afghanistan, invites former soldiers to live away from running water and the power grid in a self-sufficient community in Northern New Mexico. Timmermans believes the simple lifestyle is more therapeutic than anything the government can provide.",
-    "date": "2026-09-04T13:14:08",
-    "category": "Magazines"
-  },
-  {
-    "id": "b4c4664aca84fcc4fbbc93973d65bf54",
-    "feed_name": "Compact",
-    "title": "The Origins of Antisemitism",
-    "author": "",
-    "link": "https://www.compactmag.com/article/the-origins-of-antisemitism/",
-    "content": "",
-    "date": "2026-09-04T13:14:07",
-    "category": "Magazines"
-  },
-  {
-    "id": "c18c983d96c7eed43a458bc14d6c8100",
-    "feed_name": "The Atlantic",
-    "title": "When Meditation Makes You Feel Worse",
-    "author": "Olga Khazan",
-    "link": "https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/",
-    "content": "A prominent psychologist and meditation teacher set out to research the benefits of the practice. What she found alarmed her.",
-    "date": "2026-09-04T13:00:00",
-    "category": "Magazines"
   }
 ]
