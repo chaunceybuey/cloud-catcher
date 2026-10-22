@@ -180,6 +180,16 @@
     "category": "Magazines"
   },
   {
+    "id": "a8853e4672a2a19636bfa3ebd60cf067",
+    "feed_name": "Outside",
+    "title": "This Veteran\u2019s Cure for Soldiers with PTSD: Go Build an Earthship in the Desert",
+    "author": "Nick AspinwallJuly 17, 2026",
+    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/veterans-off-grid/",
+    "content": "Ryan Timmermans, an Army veteran who did multiple tours in Afghanistan, invites former soldiers to live away from running water and the power grid in a self-sufficient community in Northern New Mexico. Timmermans believes the simple lifestyle is more therapeutic than anything the government can provide.",
+    "date": "2026-10-22T18:23:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6ad93060141b637f559fb854",
     "feed_name": "Wired (Science)",
     "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/04/movies/action-movies-streaming.html",
     "content": "Alfonso Herrera, left, with No\u00e9 Hern\u00e1ndez in \u201cFacing El Chapo.\u201d",
     "date": "2026-09-04T15:00:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/04/dining/gloria-steinem-dinners-food.html",
-    "feed_name": "NYT (Food)",
-    "title": "Gloria Steinem Found Community and Clout Over the Dinner Table",
-    "author": "Kim Severson",
-    "link": "https://www.nytimes.com/2026/09/04/dining/gloria-steinem-dinners-food.html",
-    "content": "Neither a home cook nor an enthusiastic eater, she used the dinner table as a place to forge relationships and foster change.",
-    "date": "2026-09-04T14:14:01",
     "category": "NYT"
   }
 ]
