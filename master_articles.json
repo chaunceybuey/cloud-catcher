@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/22/arts/television/late-night-trump-jon-husted.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night: Trump Can\u2019t Stop Talking About Jon Husted\u2019s Rear End",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/22/arts/television/late-night-trump-jon-husted.html",
+    "content": "\u201cHonestly, it\u2019s nice to see that Trump can make men just as uncomfortable as women,\u201d Jimmy Fallon said.",
+    "date": "2026-10-22T06:44:43",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/21/theater/midnight-todrick-hall-benjamin-button-review.html",
     "feed_name": "NYT (Arts)",
     "title": "Review: Todrick Hall\u2019s Audacious \u2018Midnight\u2019 and a Curious \u2018Benjamin Button\u2019 Musical",
@@ -19988,15 +19998,5 @@
     "content": "Another Palestinian village in the West Bank has been attacked by Israeli settlers. The lack of response by the army and police reveals how deeply corrupted they are by the colonialist agenda.\n\nDelivered by PolitePaul service",
     "date": "2026-09-03T12:33:53",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/03/movies/brailled-it-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Brailled It\u2019 Review: A Matter of Perspective",
-    "author": "Beatrice Loayza",
-    "link": "https://www.nytimes.com/2026/09/03/movies/brailled-it-review.html",
-    "content": "This experimental documentary follows three students as they compete in an annual Braille tournament in Los Angeles.",
-    "date": "2026-09-03T12:20:22",
-    "category": "NYT"
   }
 ]
