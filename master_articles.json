@@ -140,6 +140,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/21/theater/midnight-todrick-hall-benjamin-button-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Review: Todrick Hall\u2019s Audacious \u2018Midnight\u2019 and a Curious \u2018Benjamin Button\u2019 Musical",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/10/21/theater/midnight-todrick-hall-benjamin-button-review.html",
+    "content": "Todrick Hall\u2019s overstuffed quasi-opera is beautifully sung but discombobulated, while a cutesy Fitzgerald adaptation has a talented cast but lacks depth.",
+    "date": "2026-10-22T02:12:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/arts/television/the-lowdown-season-2-episode-3-recap.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Lowdown\u2019 Season 2, Episode 3 Recap: Hellhounds on Your Trail",
+    "author": "Sean T. Collins",
+    "link": "https://www.nytimes.com/2026/10/21/arts/television/the-lowdown-season-2-episode-3-recap.html",
+    "content": "Betty Gilpin and Ethan Hawke in \u201cThe Lowdown.\u201d",
+    "date": "2026-10-22T02:00:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/21/theater/860-review-billy-crystal.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018860\u2019 Review: Billy Crystal Is Back on Broadway, After the Palisades Fire",
+    "author": "Laura Collins-Hughes",
+    "link": "https://www.nytimes.com/2026/10/21/theater/860-review-billy-crystal.html",
+    "content": "Billy Crystal in \u201c860\u201d at the Imperial Theater. The production includes projections of Crystal\u2019s own images and video of his beloved home.",
+    "date": "2026-10-22T02:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=247812",
     "feed_name": "Texas Tribune",
     "title": "Texas environmental agency shuts down online permit filing system after data center controversy",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/03/movies/brailled-it-review.html",
     "content": "This experimental documentary follows three students as they compete in an annual Braille tournament in Los Angeles.",
     "date": "2026-09-03T12:20:22",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nybooks.com/articles/2026/09/24/unraveling-medical-mysteries-elusive-body-sifferlin/",
-    "feed_name": "NYRB",
-    "title": "Unraveling Medical Mysteries",
-    "author": "",
-    "link": "https://www.nybooks.com/articles/2026/09/24/unraveling-medical-mysteries-elusive-body-sifferlin/",
-    "content": "Patients with undiagnosed conditions suffer not only from their symptoms but also from the uncertainly of not knowing what afflicts them.\n\nDelivered by PolitePaul service",
-    "date": "2026-09-03T12:18:53",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a98924bf00ece367647c2de",
-    "feed_name": "Wired (Science)",
-    "title": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
-    "author": "Jorge Garay",
-    "link": "https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/",
-    "content": "An underground detector recorded a strange interaction pointing to a particle with some properties that signify dark matter. The detection is small but promising.",
-    "date": "2026-09-03T11:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/03/arts/electra-persona-national-theatre-cate-blanchett-nina-hoss-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u201cElectra/Persona\u201d: Cate Blanchett and Nina Hoss Fuse Bergman and Greek Tragedy Into One",
-    "author": "Houman Barekat",
-    "link": "https://www.nytimes.com/2026/09/03/arts/electra-persona-national-theatre-cate-blanchett-nina-hoss-review.html",
-    "content": "In \u201cElectra/Persona\u201d at the National Theater in London, the actresses turn a spotlight on performance and the slipperiness of identity.",
-    "date": "2026-09-03T11:24:42",
     "category": "NYT"
   }
 ]
