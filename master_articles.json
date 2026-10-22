@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "63a7e80b8579e182a8639e93eebac8bb",
+    "feed_name": "LRB",
+    "title": "Waiting for Water",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/october/waiting-for-water",
+    "content": "My mother rang to say that my father had called a water truck owner and offered to pay him to fill our jerry cans, but the man said his truck.\u00a0.\u00a0.",
+    "date": "2026-10-22T22:10:14",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
     "feed_name": "NYT (Arts)",
     "title": "Monet Painting Sells for $56 Million in France",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/04/dining/creamy-tuscan-chicken-begs-for-crusty-bread.html",
     "content": "Dan Pelosi\u2019s creamy Tuscan chicken.",
     "date": "2026-09-04T15:00:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/04/movies/action-movies-streaming.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Facing El Chapo\u2019 and More Action Movies to Stream Now",
-    "author": "Robert Daniels",
-    "link": "https://www.nytimes.com/2026/09/04/movies/action-movies-streaming.html",
-    "content": "Alfonso Herrera, left, with No\u00e9 Hern\u00e1ndez in \u201cFacing El Chapo.\u201d",
-    "date": "2026-09-04T15:00:03",
     "category": "NYT"
   }
 ]
