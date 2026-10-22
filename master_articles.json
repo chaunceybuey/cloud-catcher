@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=247812",
+    "feed_name": "Texas Tribune",
+    "title": "Texas environmental agency shuts down online permit filing system after data center controversy",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17502387/data-center-permits-tceq-texas",
+    "content": "The EdgeConneX Cedar Creek Campus under construction in Cedar Creek on Thursday, June 18, 2026.",
+    "date": "2026-10-21T23:57:29",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/21/arts/bioware-closing-baldurs-gate.html",
     "feed_name": "NYT (Arts)",
     "title": "Video Game Studio BioWare Shutting Down",
@@ -19988,15 +19998,5 @@
     "content": "In \u201cElectra/Persona\u201d at the National Theater in London, the actresses turn a spotlight on performance and the slipperiness of identity.",
     "date": "2026-09-03T11:24:42",
     "category": "NYT"
-  },
-  {
-    "id": "83ed752717e70dcc043f6d5fe5befe39",
-    "feed_name": "The Atlantic",
-    "title": "Should We Be Afraid of Our Food?",
-    "author": "Eric Schlosser",
-    "link": "https://www.theatlantic.com/ideas/2026/09/food-safety-crisis-trump-cyclospora/688495/",
-    "content": "America's food-safety system is being methodically dismantled by the Trump administration.",
-    "date": "2026-09-03T11:00:00",
-    "category": "Magazines"
   }
 ]
