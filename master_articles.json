@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/22/dining/old-fashioned-beef-stew-never-gets-old.html",
+    "feed_name": "NYT (Food)",
+    "title": "Old-Fashioned Beef Stew Never Gets Old",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/22/dining/old-fashioned-beef-stew-never-gets-old.html",
+    "content": "Molly O\u2019Neill\u2019s old-fashioned beef stew.",
+    "date": "2026-10-22T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/11/05/vermeers-vanishing-act-johannes-vermeer/",
     "feed_name": "NYRB",
     "title": "Vermeer\u2019s Vanishing Act",
@@ -19988,15 +19998,5 @@
     "content": "The discovery adds to the planet\u2019s history of strange atmospheric phenomena that scientists don\u2019t full understand.",
     "date": "2026-09-04T09:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/04/arts/gloria-steinem-ms-new-york-times-abe-rosenthal.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Battle to Use \u2018Ms.,\u2019 Gloria Steinem Had to Fight The New York Times",
-    "author": "Adam Nagourney",
-    "link": "https://www.nytimes.com/2026/09/04/arts/gloria-steinem-ms-new-york-times-abe-rosenthal.html",
-    "content": "Gloria Steinem, the founder of Ms. magazine, told the executive editor of The New York Times, \u201cIt isn\u2019t possible to continue forcing women to disclose marital status when men are not forced to do the same.\u201d",
-    "date": "2026-09-04T09:03:56",
-    "category": "NYT"
   }
 ]
