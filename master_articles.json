@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ad93060141b637f559fb854",
+    "feed_name": "Wired (Science)",
+    "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
+    "content": "Ancient plants reveal that the vestiges of the North American ice sheet started expanding a few thousand years ago, but that climate change caused it to reverse course.",
+    "date": "2026-10-22T18:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23482-austin-classical-guitar-the-adventures-of-prince-achmed",
     "feed_name": "KMFA",
     "title": "Austin Classical Guitar: The Adventures of Prince Achmed",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/09/everything-we-do-matters/688514/",
     "content": "Gloria Steinem on what older people can teach America",
     "date": "2026-09-04T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a95ffab0fdf8d2aaa7d4e9e",
-    "feed_name": "Wired (Science)",
-    "title": "Measles Outbreaks Are Forcing Immunocompromised Kids to Make Impossible Choices",
-    "author": "Emily Mullin",
-    "link": "https://www.wired.com/story/measles-outbreaks-immunocompromised-kids-schools/",
-    "content": "With the risk of infection rising, parents and young adults are facing agonizing choices about being out in public as school starts back up.",
-    "date": "2026-09-04T10:30:00",
     "category": "Magazines"
   }
 ]
