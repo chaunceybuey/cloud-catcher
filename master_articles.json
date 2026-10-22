@@ -140,6 +140,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/22/movies/fatherland-review-thomas-mann.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Fatherland\u2019 Review: Returning to a Divided Germany",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/10/22/movies/fatherland-review-thomas-mann.html",
+    "content": "Four years after World War II, the writer Thomas Mann returned to his birthplace with his daughter, played by Sandra H\u00fcller in this luminous fictional account.",
+    "date": "2026-10-22T16:05:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/22/arts/design/art-basel-paris-france-riots.html",
     "feed_name": "NYT (Arts)",
     "title": "Art Basel Paris to End Early Because of France Riots",
@@ -19986,16 +19996,6 @@
     "author": "Ayden Runnels",
     "link": "https://feeds.texastribune.org/link/16799/17439666/texas-flock-cameras-dps-network-search-abbott",
     "content": "A Flock camera records drivers on the Interstate 610 feeder road in Bellaire on Sunday, Aug. 23, 2026.",
-    "date": "2026-09-04T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241908",
-    "feed_name": "Texas Tribune",
-    "title": "School librarians hesitant to discuss books, order more amid Texas battles to restrict titles, they say",
-    "author": "Colleen DeGuzman",
-    "link": "https://feeds.texastribune.org/link/16799/17439667/texas-school-library-books-student-reading-dan-patrick",
-    "content": "Frank Strong, an English teacher at a charter school in Austin, poses with books Lt. Gov. Dan Patrick recently urged Texas public schools to remove from libraries. on Aug. 31, 2026.",
     "date": "2026-09-04T10:00:00",
     "category": "Texas"
   }
