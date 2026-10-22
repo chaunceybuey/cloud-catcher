@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/22/dining/candy-shops.html",
+    "feed_name": "NYT (Food)",
+    "title": "Where to Buy Candy in New York City",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/10/22/dining/candy-shops.html",
+    "content": "Everything at the Sweet Shop on the Upper East Side has been kid-tested and approved.",
+    "date": "2026-10-22T19:45:04",
+    "category": "NYT"
+  },
+  {
     "id": "6ad913aa6d784ad1c4be31d0",
     "feed_name": "Wired (Science)",
     "title": "Inside the Exclusive Nathan Fielder Interview",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
     "content": "The mission to Phobos, Japan\u2019s first Mars probe launch in 28 years, may reveal new information about our closest planetary neighbor.",
     "date": "2026-09-04T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a960ca0647dbf9631296bd6",
-    "feed_name": "Wired (Science)",
-    "title": "How a Secret Orangutan Breeding Program Is Creating a Baby Boom",
-    "author": "Caroline Reilly",
-    "link": "https://www.wired.com/story/secret-orangutan-breeding-program-creating-baby-boom/",
-    "content": "The success of a program linking zoos across the US has created social media stars and generated a wave of interest in how to protect the endangered great apes in the wild.",
-    "date": "2026-09-04T11:00:00",
     "category": "Magazines"
   }
 ]
