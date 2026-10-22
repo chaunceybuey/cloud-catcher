@@ -150,6 +150,16 @@
     "category": "NYT"
   },
   {
+    "id": "ddb39558-b501-428a-b2a2-860b1727b410",
+    "feed_name": "Economist",
+    "title": "Sam Bankman-Fried says he has paid his debts",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+    "content": "The crypto tycoon speaks with The Economist from prison in California",
+    "date": "2026-10-22T15:51:39",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/22/arts/design/art-basel-paris-france-riots.html",
     "feed_name": "NYT (Arts)",
     "title": "Art Basel Paris to End Early Because of France Riots",
@@ -19986,16 +19996,6 @@
     "author": "Brandon Formby",
     "link": "https://feeds.texastribune.org/link/16799/17439665/fall-2026-fellows",
     "content": "Five college students and a recent graduate join The Texas Tribune for its fall fellowship program.",
-    "date": "2026-09-04T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=241964",
-    "feed_name": "Texas Tribune",
-    "title": "After Abbott\u2019s order limiting Flock cameras, DPS to continue using its vast surveillance network",
-    "author": "Ayden Runnels",
-    "link": "https://feeds.texastribune.org/link/16799/17439666/texas-flock-cameras-dps-network-search-abbott",
-    "content": "A Flock camera records drivers on the Interstate 610 feeder road in Bellaire on Sunday, Aug. 23, 2026.",
     "date": "2026-09-04T10:00:00",
     "category": "Texas"
   }
