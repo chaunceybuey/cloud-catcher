@@ -130,6 +130,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Tom Skerritt, Who Had Key Roles in \u2018Picket Fences\u2019 and \u2018Top Gun,\u2019 Dies at 93",
+    "author": "Anita Gates",
+    "link": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
+    "content": "Tom Skerritt as Sheriff Jimmy Brock on \u201cPicket Fences.\u201d He won an Emmy for the role in 1993.",
+    "date": "2026-10-22T19:58:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/22/dining/candy-shops.html",
     "feed_name": "NYT (Food)",
     "title": "Where to Buy Candy in New York City",
@@ -19988,15 +19998,5 @@
     "content": "This week in Newly Reviewed, Will Heinrich covers a show that displays the power of community, Morgan O\u2019Hara\u2019s obsessive documentation and Noah Jemisin\u2019s phantasms.",
     "date": "2026-09-04T12:31:35",
     "category": "NYT"
-  },
-  {
-    "id": "6a970a6fa4730003b51cb5e4",
-    "feed_name": "Wired (Science)",
-    "title": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
-    "author": "Ritsuko Kawai",
-    "link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
-    "content": "The mission to Phobos, Japan\u2019s first Mars probe launch in 28 years, may reveal new information about our closest planetary neighbor.",
-    "date": "2026-09-04T12:00:00",
-    "category": "Magazines"
   }
 ]
