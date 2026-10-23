@@ -130,6 +130,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=248012",
+    "feed_name": "Texas Tribune",
+    "title": "Ken and Angela Paxton invested $600,000 in a convicted fraudster\u2019s business",
+    "author": "By Alexandra Glorioso, Jeremy Schwartz, Misty Harris and Zach Despart, The Texas Tribune and ProPublica",
+    "link": "https://feeds.texastribune.org/link/16799/17505199/ken-paxton-angela-blind-trust-investment",
+    "content": "The blind trust\u2019s investment in Wildcatter offers a new, unreported look at the attorney general\u2019s financial ties with the very type of business executives whose prosecutions he typically celebrates.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17505199.gif\" width=\"1\" />",
+    "date": "2026-10-23T16:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/23/movies/patricia-highsmith-a-talent-for-murder-helen-mirren.html",
     "feed_name": "NYT (Arts)",
     "title": "How Patricia Highsmith Came to Star in a Ripley-esque Movie",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/05/arts/music/miley-cyrus-underscores-dahi-new-music.html",
     "content": "Miley returns with the new single \u201cBass Persuades.\u201d",
     "date": "2026-09-05T09:04:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/05/arts/television/silo-season-3-finale.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How \u2018Silo\u2019 Keeps Getting Bigger",
-    "author": "Ashley Spencer",
-    "link": "https://www.nytimes.com/2026/09/05/arts/television/silo-season-3-finale.html",
-    "content": "In the Season 3 finale, \u201cSilo,\u201d with Rebecca Ferguson, added yet another dimension.",
-    "date": "2026-09-05T09:03:15",
     "category": "NYT"
   }
 ]
