@@ -140,6 +140,26 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=248119",
+    "feed_name": "Texas Tribune",
+    "title": "Texas SNAP participation drops to a 17-year low as the feds tighten eligibility",
+    "author": "By Jess Huff",
+    "link": "https://feeds.texastribune.org/link/16799/17504030/texas-snap-food-assistance-stamps-record-low",
+    "content": "The fresh produce section at a grocery store in Buffalo, Texas, on June 29, 2023.",
+    "date": "2026-10-23T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=247895",
+    "feed_name": "Texas Tribune",
+    "title": "Fed up with data centers and Big Tech, rural Republican crossover could decide Democrats\u2019 fate in Texas",
+    "author": "By Eleanor Klibanoff, graphics by\u00a0Apurva Mahajan",
+    "link": "https://feeds.texastribune.org/link/16799/17504031/texas-rural-voters-data-centers-backlash-big-tech-2026-election",
+    "content": "Downtown Crockett is shown on Sept. 30, 2026. Crockett is in East Texas, about 45 miles east of Lufkin.",
+    "date": "2026-10-23T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
     "feed_name": "NYT (Food)",
     "title": "Trump\u2019s Tariffs Slow America\u2019s Access to Canada\u2019s Cheese",
@@ -19978,25 +19998,5 @@
     "content": "Capital gains are the result of selling an asset for more than you paid for it. What company the account is with makes no difference. If all you hold in it is money market funds (which under almost all circumstances maintain a constant price), you will have no capital gains. Money market funds pay dividends rather than interest but that\u2019s just terminology. The tax impact is the same.<br /><br />From the way you phrased your question, it sounds like you think just having a particular account can create capital gains or dividends. That is not correct. Both capital gains and dividends result only from the assets held in the account. Holding just money market funds will only result in dividends that are the functional equivalent of interest on a savings account.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=126664\">lstone19</a> \u2014 Fri Sep 04, 2026 10:22 pm</p><hr />",
     "date": "2026-09-05T03:22:01",
     "category": "Finance"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8849676#p8849676",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "rakish_weasel",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8849676#p8849676",
-    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>Dumb question! <br /><br />I\u2019m leaning toward moving half of my emergency fund to Fidelity\u2019s CMA (prob $15k or so). I don\u2019t have a Fidelity account but am keen on their CMA since I can get a debit card for it and throw in a drawer in case of an emergency/ or travel needs. <br /><br />I live in Pennsylvania so would opt for FDLXX or SPAXX to avoid most state taxes. But does this account trigger capital gains / dividends too? If so with rates going down that to me is not great since it takes away the interest rate \u2026 and using a HYSA would actually save some cash. <br /><br />Am I wrong on this line of thinking?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>CMA with SPAXX holdings will absolutely spin off dividends that will be taxed as ordinary income tax at the federal level.  No capital gains because SPAXX is a money market fund whose NAV is always $1 -- it just spins off dividends that are very much akin to the interest spun off of a HYSA.<br /><br />I have a Fidelity CMA with SPAXX as the holding as roughly 1/3rd of my EF -- the other 2/3 being iBonds at Treasury Direct.  The CMA funds used to be in Barclays HYSA, but I was looking to consolidate in Fidelity (where I also have 401k, IRA, and Taxable accts) and there wasn't sufficient difference between interest rates of SPAXX and Barclays for me to justify the additional complexity of another financial institution.   Very happy with the CMA - it's doing what I need it to do.<br /><br />-rw<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=98269\">rakish_weasel</a> \u2014 Fri Sep 04, 2026 10:16 pm</p><hr />",
-    "date": "2026-09-05T03:16:23",
-    "category": "Finance"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242108",
-    "feed_name": "Texas Tribune",
-    "title": "ICE officer charged in Minnesota shooting released on bond",
-    "author": "By Valerie Gonzalez and Alanna Durkin Richer,\u00a0Associated Press",
-    "link": "https://feeds.texastribune.org/link/16799/17440220/texas-ice-agent-charged-minnesota-immigration-shooting",
-    "content": "The badge of a U.S. Immigration and Customs Enforcement agent in El Paso is seen during an operation with migrants being transferred to a plane to be expelled under U.S. Title 42 from the United States on May 10, 2023.",
-    "date": "2026-09-05T02:29:34",
-    "category": "Texas"
   }
 ]
