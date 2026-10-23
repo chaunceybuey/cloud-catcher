@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "226769b4666d02e3dd7ccb2b01c49a7b",
+    "feed_name": "Compact",
+    "title": "How Saudi Arabia Overextended Itself",
+    "author": "",
+    "link": "https://www.compactmag.com/article/how-saudi-arabia-overextended-itself/",
+    "content": "",
+    "date": "2026-10-23T13:10:06",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/theater/jonathan-groff-broadway-amish-project-school-shooting.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jonathan Groff Heads to Broadway in \u2018Amish Project,\u2019 a Play About a School Shooting",
+    "author": "Michael Paulson",
+    "link": "https://www.nytimes.com/2026/10/23/theater/jonathan-groff-broadway-amish-project-school-shooting.html",
+    "content": "\u201cThe Amish Project\u201d will be Jonathan Groff\u2019s first nonmusical show on Broadway.",
+    "date": "2026-10-23T13:00:08",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21767-austin-soundwaves-baby-s-first-symphony",
     "feed_name": "KMFA",
     "title": "Austin Soundwaves: Baby's First Symphony",
@@ -19978,25 +19998,5 @@
     "content": "\u201cI feel like that\u2019s what Steve Lacy gives,\u201d the \u201cGilded Age\u201d actor says. She\u2019s a fan of his new album, as well as Zora Neale Hurston and nude beaches.",
     "date": "2026-09-05T09:00:30",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/05/arts/design/lost-province-center-lansing-north-carolina.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Can Art Revitalize a Small Mountain Town in North Carolina?",
-    "author": "Jonathan Abrams",
-    "link": "https://www.nytimes.com/2026/09/05/arts/design/lost-province-center-lansing-north-carolina.html",
-    "content": "The Lansing School, tucked away in tiny Ashe County, N.C., fell into disarray. Now, some in the area are transforming it into a hub for the region\u2019s lost arts.",
-    "date": "2026-09-05T09:00:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8849680#p8849680",
-    "feed_name": "Fidelity",
-    "title": "Re: Fidelity as a one stop shop",
-    "author": "lstone19",
-    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8849680#p8849680",
-    "content": "Capital gains are the result of selling an asset for more than you paid for it. What company the account is with makes no difference. If all you hold in it is money market funds (which under almost all circumstances maintain a constant price), you will have no capital gains. Money market funds pay dividends rather than interest but that\u2019s just terminology. The tax impact is the same.<br /><br />From the way you phrased your question, it sounds like you think just having a particular account can create capital gains or dividends. That is not correct. Both capital gains and dividends result only from the assets held in the account. Holding just money market funds will only result in dividends that are the functional equivalent of interest on a savings account.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=126664\">lstone19</a> \u2014 Fri Sep 04, 2026 10:22 pm</p><hr />",
-    "date": "2026-09-05T03:22:01",
-    "category": "Finance"
   }
 ]
