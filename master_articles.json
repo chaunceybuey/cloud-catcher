@@ -240,6 +240,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/23/movies/one-in-a-million-documentary-syria-war.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In \u2018One in a Million,\u2019 the Extraordinary Story of a Family in Flux",
+    "author": "Alissa Wilkinson",
+    "link": "https://www.nytimes.com/2026/10/23/movies/one-in-a-million-documentary-syria-war.html",
+    "content": "The film follows a girl and her parents after they flee Syria and settle in Germany, where the new culture is the catalyst for unexpected change.",
+    "date": "2026-10-23T09:01:49",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/23/movies/in-one-in-a-million-the-extraordinary-story-of-a-family-in-flux.html",
     "feed_name": "NYT (Arts)",
     "title": "In \u2018One in a Million,\u2019 the Extraordinary Story of a Family in Flux",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/05/arts/music/marian-anderson-classical-singer.html",
     "content": "Marian Anderson, around 1935.",
     "date": "2026-09-05T09:00:39",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/05/arts/television/denee-benton-the-gilded-age.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Den\u00e9e Benton Wants to Come Back as \u2018a Detached, Chaotic Gemini\u2019",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/2026/09/05/arts/television/denee-benton-the-gilded-age.html",
-    "content": "\u201cI feel like that\u2019s what Steve Lacy gives,\u201d the \u201cGilded Age\u201d actor says. She\u2019s a fan of his new album, as well as Zora Neale Hurston and nude beaches.",
-    "date": "2026-09-05T09:00:30",
     "category": "NYT"
   }
 ]
