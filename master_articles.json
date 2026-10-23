@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/23/movies/patricia-highsmith-a-talent-for-murder-helen-mirren.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Patricia Highsmith Came to Star in a Ripley-esque Movie",
+    "author": "Roslyn Sulcas",
+    "link": "https://www.nytimes.com/2026/10/23/movies/patricia-highsmith-a-talent-for-murder-helen-mirren.html",
+    "content": "\u201cA Talent for Murder\u201d turns the novelist into a suspicious character in a psychological thriller. The author\u2019s caustic personality makes the leap plausible.",
+    "date": "2026-10-23T15:00:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/dining/put-cottage-cheese-in-your-meatballs.html",
+    "feed_name": "NYT (Food)",
+    "title": "Put Cottage Cheese in Your Meatballs",
+    "author": "The New York Times Cooking",
+    "link": "https://www.nytimes.com/2026/10/23/dining/put-cottage-cheese-in-your-meatballs.html",
+    "content": "Ali Slagle\u2019s cottage cheese meatballs.",
+    "date": "2026-10-23T15:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/23/movies/five-science-fiction-movies-to-stream-now.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Five Science Fiction Movies to Stream Now",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/10/23/movies/five-science-fiction-movies-to-stream-now.html",
+    "content": "Emily Blunt in a scene from \"Disclosure Day.\"",
+    "date": "2026-10-23T15:00:02",
+    "category": "NYT"
+  },
+  {
     "id": "226769b4666d02e3dd7ccb2b01c49a7b",
     "feed_name": "Compact",
     "title": "How Saudi Arabia Overextended Itself",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
     "content": "An Anthropic logo at an event in San Francisco in May. The tech giant will have to pay more than $1.5 billion in a settlement over using books to train its chatbots.",
     "date": "2026-09-05T09:03:10",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/05/arts/europe-empty-churches.html",
-    "feed_name": "NYT (Arts)",
-    "title": "What to Do With Europe\u2019s \u2018Zombie Churches\u2019? These Artists Have Some Ideas.",
-    "author": "Nina Siegal",
-    "link": "https://www.nytimes.com/2026/09/05/arts/europe-empty-churches.html",
-    "content": "As the continent\u2019s ties to Christianity fade, churches are being abandoned. But some see a chance to transform them into communal spaces like care centers or venues for the arts.",
-    "date": "2026-09-05T09:02:26",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/05/arts/music/new-albums-and-tours-fall-preview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "33 Albums and Shows We\u2019re Looking Forward to This Fall",
-    "author": "Elena Bergeron, Marcus J. Moore, Jon Pareles, Hank Shteamer, Ben Sisario, Harry Tafoya and Lindsay Zoladz",
-    "link": "https://www.nytimes.com/2026/09/05/arts/music/new-albums-and-tours-fall-preview.html",
-    "content": "Charli XCX will tour in support of her LP \u201cMusic, Fashion, Film,\u201d released in July.",
-    "date": "2026-09-05T09:00:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/05/arts/music/marian-anderson-classical-singer.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Marian Anderson\u2019s Ambition Was Always Clear: To Be a \u2018Fine Artist\u2019",
-    "author": "Anthony Tommasini",
-    "link": "https://www.nytimes.com/2026/09/05/arts/music/marian-anderson-classical-singer.html",
-    "content": "Marian Anderson, around 1935.",
-    "date": "2026-09-05T09:00:39",
     "category": "NYT"
   }
 ]
