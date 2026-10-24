@@ -17500,6 +17500,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/06/dining/the-most-popular-recipes-from-the-weeknight-100.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "The Most Popular Recipes From The Weeknight 100",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/09/06/dining/the-most-popular-recipes-from-the-weeknight-100.html",
+    "content": "Tomato basil chicken breasts, a cheeseburger soup, coconutty shrimp noodles and so much more.",
+    "date": "2026-09-11T21:17:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21534-austin-symphony-orchestra-brahms-and-nordic-masterpiece",
     "feed_name": "KMFA",
     "title": "Austin Symphony Orchestra: Brahms and Nordic Masterpiece",
@@ -19988,15 +19998,5 @@
     "content": "Central banks are raising interest rates again",
     "date": "2026-09-06T15:39:54",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/06/arts/dance/jacobs-pillow-kat-sirico-accident.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In the Shadow of a Tragic Death, Jacob\u2019s Pillow Looks to Move Forward",
-    "author": "Michaela Towfighi",
-    "link": "https://www.nytimes.com/2026/09/06/arts/dance/jacobs-pillow-kat-sirico-accident.html",
-    "content": "A year after a longtime staff member was killed at the celebrated dance center in Western Massachusetts, the recovery continues.",
-    "date": "2026-09-06T15:37:17",
-    "category": "NYT"
   }
 ]
