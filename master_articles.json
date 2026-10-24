@@ -120,6 +120,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8884087#p8884087",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "Lastrun",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8884087#p8884087",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I'm wondering about the discussion of scheduled ACH transfers.  I want to be able to set up a recurring transfer out of my CMA to an external bank account (my child's).  I can do a recurring transfer to another Fidelity account, but AFAICT for outgoing to another bank, the only option is immediately.  Is there another way to do it?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>This is what I had to do:<br /><br /><a class=\"postlink\" href=\"https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/customer-service/automatic-withdrawals-non-retirement-accounts.pdf\">https://www.fidelity.com/bin-public/060 ... counts.pdf</a><br /><br />The main details are on page 3 of the form<br /><br />IIRC I did not need a medallion as I took it into the branch.  <br /><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I<em class=\"text-italics\">f the form is completed at a Fidelity Investor Center with all signers present, the Medallion signature guarantee is not required</em>. </div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote><p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=120680\">Lastrun</a> \u2014 Sat Oct 24, 2026 10:10 am</p><hr />",
+    "date": "2026-10-24T15:10:09",
+    "category": "Finance"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/24/dining/time-to-invest-in-some-stocks.html",
+    "feed_name": "NYT (Food)",
+    "title": "Time to Invest in Some Stocks",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/24/dining/time-to-invest-in-some-stocks.html",
+    "content": "Samin Nosrat\u2019s chicken stock.",
+    "date": "2026-10-24T15:00:05",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8884073#p8884073",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "AskPatient1281",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8884073#p8884073",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I'm wondering about the discussion of scheduled ACH transfers.  I want to be able to set up a recurring transfer out of my CMA to an external bank account (my child's).  I can do a recurring transfer to another Fidelity account, but AFAICT for outgoing to another bank, the only option is immediately.  Is there another way to do it?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Only if you link the account first.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=203413\">AskPatient1281</a> \u2014 Sat Oct 24, 2026 9:58 am</p><hr />",
+    "date": "2026-10-24T14:58:56",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8884056#p8884056",
     "feed_name": "Fidelity",
     "title": "Re: Fidelity as a one stop shop",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/07/arts/design/this-san-francisco-artists-walls-have-boundary-issues.html",
     "content": "Joset Medina\u2019s apartment walls are slathered in vines, branches and cacti representing his mother and grandmother\u2019s gardens in Venezuela, his circuitous emigration to California and his travels with his husband.",
     "date": "2026-09-07T09:00:42",
-    "category": "NYT"
-  },
-  {
-    "id": "6a985928eb5c97c0b1700dec",
-    "feed_name": "Wired (Science)",
-    "title": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?",
-    "author": "Joseph Winters",
-    "link": "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/",
-    "content": "The science curriculum the industry is offering to schools casts plastics as safe, recyclable, and a source of good jobs. Critics say it\u2019s propaganda.",
-    "date": "2026-09-07T09:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/07/arts/television/the-real-housewives-of-new-york-city-and-10-more-shows-to-watch-on-tv-this-week.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Real Housewives of New York City\u2019 and 10 More Shows to Watch on TV This Week",
-    "author": "Shivani Gonzalez",
-    "link": "https://www.nytimes.com/2026/09/07/arts/television/the-real-housewives-of-new-york-city-and-10-more-shows-to-watch-on-tv-this-week.html",
-    "content": "Carole Radziwill, left, and Erin Lichy in \u201cThe Real Housewives of New York City.\u201d",
-    "date": "2026-09-07T05:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/06/arts/television/rob-reiner-emmy-the-bear.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Rob Reiner Wins Posthumous Emmy for \u2018The Bear\u2019",
-    "author": "Derrick Bryson Taylor",
-    "link": "https://www.nytimes.com/2026/09/06/arts/television/rob-reiner-emmy-the-bear.html",
-    "content": "Reiner, who with his wife was found stabbed to death in Los Angeles last year, appeared in several episodes of the show\u2019s fourth season.",
-    "date": "2026-09-07T03:01:54",
     "category": "NYT"
   }
 ]
