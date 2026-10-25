@@ -120,6 +120,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/25/arts/dance/julia-stiles-dancing-with-the-stars.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Julia Stiles on \u2018Dancing With the Stars\u2019 Is Healing Millennials",
+    "author": "Margaret Fuhrer and Magdalena Wosinska",
+    "link": "https://www.nytimes.com/2026/10/25/arts/dance/julia-stiles-dancing-with-the-stars.html",
+    "content": "As a fan favorite on \u201cDancing With the Stars,\u201d Stiles is \u201cdown for anything,\u201d says her partner Ezra Sosa, including engaging with her early-career movies.",
+    "date": "2026-10-25T09:01:37",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/25/theater/curious-case-benjamin-button-musical.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How \u2018The Curious Case of Benjamin Button\u2019 Grew Up",
+    "author": "Alexis Soloski",
+    "link": "https://www.nytimes.com/2026/10/25/theater/curious-case-benjamin-button-musical.html",
+    "content": "Darren Clark, left, and Jethro Compton created the Olivier Award-winning musical \u201cThe Curious Case of Benjamin Button.\u201d",
+    "date": "2026-10-25T09:00:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
     "feed_name": "ProPublica",
     "title": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
     "content": "At 25 years, the World Trade Center is an undeniable feat of urban redevelopment. Now we can make it a real neighborhood.",
     "date": "2026-09-07T09:03:49",
-    "category": "NYT"
-  },
-  {
-    "id": "e1267c99bff64c3ba2d4b4709c2c2a97",
-    "feed_name": "LRB",
-    "title": "On Politics: The Pope and the President",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-pope-and-the-president",
-    "content": "When commenting on the power and influence of the Catholic Church, Stalin is supposed to have asked: \u2018how many divisions has the pope?\u2019 Donald Trump has yet to question how many F35s Leo XIV has, but he may as well have done in his angry response to the American pope\u2019s criticism of the US and Israel\u2019s attack on Iran. With the US president\u2019s supporters invoking the...",
-    "date": "2026-09-07T09:03:33",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/07/arts/television/sterling-point-off-campus.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Summer When TV Started to Portray Female Friendship Accurately",
-    "author": "Shivani Gonzalez",
-    "link": "https://www.nytimes.com/2026/09/07/arts/television/sterling-point-off-campus.html",
-    "content": "The creators of \u201cSterling Point\u201d and \u201cOff Campus\u201d sought to depict relationships that were far different from the soapy rivalries of earlier young adult shows.",
-    "date": "2026-09-07T09:03:29",
     "category": "NYT"
   }
 ]
