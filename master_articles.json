@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/25/dining/genevieve-kos-five-star-veggie-packed-quick-turkey-chili.html",
+    "feed_name": "NYT (Food)",
+    "title": "Genevieve Ko\u2019s Five-Star, Veggie-Packed Quick Turkey Chili",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/25/dining/genevieve-kos-five-star-veggie-packed-quick-turkey-chili.html",
+    "content": "Genevieve Ko\u2019s quick turkey chili.",
+    "date": "2026-10-25T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/25/dining/a-speedier-spoonable-lasagna.html",
     "feed_name": "Weeknight Dishes",
     "title": "A Speedier, Spoonable Lasagna",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/07/movies/france-south-korea-film-industry-hollywood.html",
     "content": "An A-list gathering in the French Riviera aimed to serve as a rallying cry for a sector threatened by YouTube, TikTok and artificial intelligence.",
     "date": "2026-09-07T15:32:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/07/dining/sardines-and-beans-add-delicious-protein-to-this-greek-salad.html",
-    "feed_name": "NYT (Food)",
-    "title": "Sardines and Beans Add Delicious Protein to This Greek Salad",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/09/07/dining/sardines-and-beans-add-delicious-protein-to-this-greek-salad.html",
-    "content": "Ali Slagle\u2019s Greek salad with sardines and beans.",
-    "date": "2026-09-07T15:00:06",
     "category": "NYT"
   }
 ]
