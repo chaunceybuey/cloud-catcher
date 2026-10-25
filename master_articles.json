@@ -130,6 +130,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=246881",
+    "feed_name": "Texas Tribune",
+    "title": "A Texas cop signed on to help ICE deport his neighbors. It tore the town apart.",
+    "author": "By\u00a0Francesca D\u2019Annunzio and McKenzie Funk,\u00a0ProPublica\u00a0| Photography by Kirsten Luce for\u00a0The New York Times",
+    "link": "https://feeds.texastribune.org/link/16799/17506217/deportations-ingram-texas-287g-jaron-alexander",
+    "content": "Jaron Alexander, of Ingram, is one of more than 29,000 local law enforcement officers on the front lines of the Trump administration&#039;s deportation campaign.",
+    "date": "2026-10-25T04:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/22986-chorus-austin-journeys",
     "feed_name": "KMFA",
     "title": "Chorus Austin: Journeys",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/07/arts/television/sterling-point-off-campus.html",
     "content": "The creators of \u201cSterling Point\u201d and \u201cOff Campus\u201d sought to depict relationships that were far different from the soapy rivalries of earlier young adult shows.",
     "date": "2026-09-07T09:03:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/07/style/reece-weaver-dcc-chicago-roxie-hart.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Reece Weaver of \u2018Dallas Cowboys Cheerleaders\u2019 Makes Her Broadway Debut",
-    "author": "Madison Malone Kircher",
-    "link": "https://www.nytimes.com/2026/09/07/style/reece-weaver-dcc-chicago-roxie-hart.html",
-    "content": "Reece Weaver, the former Dallas Cowboys cheerleader, after rehearsals for \u201cChicago.\u201d",
-    "date": "2026-09-07T09:02:41",
     "category": "NYT"
   }
 ]
