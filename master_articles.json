@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ad7ceafff9a9f0c430f7a6c",
+    "feed_name": "Wired (Science)",
+    "title": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
+    "author": "Bob Berwyn",
+    "link": "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/",
+    "content": "While oil is known to float, new research finds that over time it can permeate even extremely deep marine habitats, with animal populations declining by as much as 80 percent.",
+    "date": "2026-10-25T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6adaac0658fe17d926e679bc",
     "feed_name": "Wired (Science)",
     "title": "What the US Movement Against Data Centers Can Learn From Abroad",
@@ -19988,15 +19998,5 @@
     "content": "The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects.",
     "date": "2026-09-07T11:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/07/arts/television/fauda-netflix-oct-7.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Fauda\u2019 Braves Oct. 7, and Audiences\u2019 Attitudes Toward Israel",
-    "author": "David M. Halbfinger",
-    "link": "https://www.nytimes.com/2026/09/07/arts/television/fauda-netflix-oct-7.html",
-    "content": "The new season of the Israeli hit depicts the Hamas attacks and aftermath. It arrives as Israel\u2019s artists face resistance overseas precisely because of how the country responded to Oct. 7.",
-    "date": "2026-09-07T09:04:17",
-    "category": "NYT"
   }
 ]
