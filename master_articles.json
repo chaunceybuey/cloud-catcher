@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6adaaa0554826e3df5664a69",
+    "feed_name": "Wired (Science)",
+    "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+    "author": "Jorge Garay",
+    "link": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
+    "content": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.",
+    "date": "2026-10-25T12:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6ad7ceafff9a9f0c430f7a6c",
     "feed_name": "Wired (Science)",
     "title": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
     "content": "Dark energy might be getting weaker. Scientists are wondering if interactions with dark matter in a \u201cdark dimension\u201d may be responsible.",
     "date": "2026-09-07T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a98bd43193d67a38478e927",
-    "feed_name": "Wired (Science)",
-    "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
-    "author": "Ritsuko Kawai",
-    "link": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
-    "content": "The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects.",
-    "date": "2026-09-07T11:30:00",
     "category": "Magazines"
   }
 ]
