@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "6adaac0658fe17d926e679bc",
+    "feed_name": "Wired (Science)",
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what\u2019s happened everywhere from Ireland to New Zealand.",
+    "date": "2026-10-25T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/25/arts/dance/julia-stiles-dancing-with-the-stars.html",
     "feed_name": "NYT (Arts)",
     "title": "Julia Stiles on \u2018Dancing With the Stars\u2019 Is Healing Millennials",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/07/arts/television/fauda-netflix-oct-7.html",
     "content": "The new season of the Israeli hit depicts the Hamas attacks and aftermath. It arrives as Israel\u2019s artists face resistance overseas precisely because of how the country responded to Oct. 7.",
     "date": "2026-09-07T09:04:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
-    "feed_name": "NYT (Arts)",
-    "title": "There Is Still a Void at Ground Zero. Here\u2019s How We Fill It.",
-    "author": "Michael Kimmelman and George Etheredge",
-    "link": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
-    "content": "At 25 years, the World Trade Center is an undeniable feat of urban redevelopment. Now we can make it a real neighborhood.",
-    "date": "2026-09-07T09:03:49",
     "category": "NYT"
   }
 ]
