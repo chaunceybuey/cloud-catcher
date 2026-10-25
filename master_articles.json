@@ -120,6 +120,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/25/dining/a-speedier-spoonable-lasagna.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "A Speedier, Spoonable Lasagna",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/10/25/dining/a-speedier-spoonable-lasagna.html",
+    "content": "That, plus a feta frittata from Yotam Ottolenghi, are in this week\u2019s selection of five weeknight dishes.",
+    "date": "2026-10-25T13:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "6adaaa0554826e3df5664a69",
     "feed_name": "Wired (Science)",
     "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
@@ -19988,15 +19998,5 @@
     "content": "Ali Slagle\u2019s Greek salad with sardines and beans.",
     "date": "2026-09-07T15:00:06",
     "category": "NYT"
-  },
-  {
-    "id": "6a909e631949b5f84a671194",
-    "feed_name": "Wired (Science)",
-    "title": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
-    "author": "Steve Nadis",
-    "link": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
-    "content": "Dark energy might be getting weaker. Scientists are wondering if interactions with dark matter in a \u201cdark dimension\u201d may be responsible.",
-    "date": "2026-09-07T12:00:00",
-    "category": "Magazines"
   }
 ]
