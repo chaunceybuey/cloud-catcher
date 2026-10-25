@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Owners of Elvis Presley\u2019s Music Sue Anthropic for Copyright Infringement",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html",
+    "content": "The lawsuit contends that Anthropic infringed on 274 of Elvis Presley\u2019s songs, including \u201cAll Shook Up,\u201d \u201cCan\u2019t Help Falling in Love\u201d and \u201cReturn To Sender,\u201d and seeks damages of $150,000 per song.",
+    "date": "2026-10-25T19:08:46",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/25/arts/dance/review-adrienne-westwood-and-angelica-negron-target-margin-theater.html",
     "feed_name": "NYT (Arts)",
     "title": "Adrienne Westwood and Ang\u00e9lica Negr\u00f3n\u2019s \u2018[ ]\u2019 Review: A Promising Idea",
@@ -19986,16 +19996,6 @@
     "author": "ByBarbara Hamby",
     "link": "https://www.newyorker.com/magazine/2026/09/14/ode-to-being-born-with-teeth-and-sharpening-them-every-day-barbara-hamby-poem",
     "content": "\u201cIf you like surprises, being born has to be the best.\u201d",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "a16f9b52fae0a4c30b516d91a9902a92",
-    "feed_name": "New Yorker",
-    "title": "Cartoons from the Issue",
-    "author": "",
-    "link": "https://www.newyorker.com/gallery/cartoons-from-the-september-14-2026-issue",
-    "content": "Drawings from the September 14, 2026, magazine.",
     "date": "2026-09-07T15:34:43",
     "category": "Magazines"
   }
