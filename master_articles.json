@@ -100,6 +100,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Elizabeth Holmes Gives a Batman Villain a Run for His Money",
+    "author": "Brooks Barnes",
+    "link": "https://www.nytimes.com/2026/10/25/business/media/elizabeth-holmes-clayface-box-office.html",
+    "content": "\u201cClayface\u201d was No. 1 at the box office, but \u201cYou Can See Everything,\u201d a documentary about the disgraced Theranos founder, surged in its second weekend.",
+    "date": "2026-10-25T17:16:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/21468-austin-symphonic-band-first-indoor-concert",
     "feed_name": "KMFA",
     "title": "Austin Symphonic Band: First Indoor Concert",
@@ -19988,15 +19998,5 @@
     "content": "Today\u2019s theme: Coverups.",
     "date": "2026-09-07T15:34:43",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/07/movies/france-south-korea-film-industry-hollywood.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Film Industry Is Worried About Survival. France Wants to Save the Day.",
-    "author": "Mark Landler",
-    "link": "https://www.nytimes.com/2026/09/07/movies/france-south-korea-film-industry-hollywood.html",
-    "content": "An A-list gathering in the French Riviera aimed to serve as a rallying cry for a sector threatened by YouTube, TikTok and artificial intelligence.",
-    "date": "2026-09-07T15:32:58",
-    "category": "NYT"
   }
 ]
