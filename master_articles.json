@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Chris Brown Gets Suspended Sentence Over London Nightclub Assault",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
+    "content": "Chris Brown walked past fans and journalists as he arrived at the court in London on Monday.",
+    "date": "2026-10-26T12:41:29",
+    "category": "NYT"
+  },
+  {
     "id": "6aa1f7b8d4c0ce520e7c3f55",
     "feed_name": "Wired",
     "title": "The Tragedy of Having a Wikipedia Page\u2014and Then Losing It",
@@ -19986,16 +19996,6 @@
     "author": "ByAnna Russell",
     "link": "https://www.newyorker.com/magazine/2026/09/14/paranormal-activity-creeps-onto-broadway",
     "content": "Oren Peli, the creator of the original horror-film series, stops by the new stage production and dishes on the creaky house that spooked\u2014and inspired\u2014him back in 2005.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "494d03a239cec0ecaba47bbef62c2e78",
-    "feed_name": "New Yorker",
-    "title": "Have Conservatives Taken Sexy Back?",
-    "author": "ByJennifer Wilson",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/have-conservatives-taken-sexy-back",
-    "content": "The culture wars have come for lingerie as the right, once the advocates of promise rings and purity culture, embarks on a crusade to \u201cMake America Hot Again.\u201d",
     "date": "2026-09-07T15:34:43",
     "category": "Magazines"
   }
