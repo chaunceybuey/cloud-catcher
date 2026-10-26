@@ -180,6 +180,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Science Behind Your Reaction to Art",
+    "author": "Michael Janofsky",
+    "link": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",
+    "content": "The Honolulu Museum of Art is showing how art can influence thinking, perspective and mood, in an exhibition that is part of a trend by museums to mix science and art.",
+    "date": "2026-10-26T21:33:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/arts/design/world-war-ii-museum-new-orleans.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A World War II Museum Brings the Lessons of War to a Younger Audience",
+    "author": "Claudia Dreifus",
+    "link": "https://www.nytimes.com/2026/10/26/arts/design/world-war-ii-museum-new-orleans.html",
+    "content": "An idea sparked by the historian Stephen E. Ambrose became the National World War II Museum in New Orleans.",
+    "date": "2026-10-26T21:32:14",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=248528",
+    "feed_name": "Texas Tribune",
+    "title": "Frustration over school takeovers, vouchers could sway Texas voters in close governor\u2019s race",
+    "author": "Sneha Dey and Megan Menchaca",
+    "link": "https://feeds.texastribune.org/link/16799/17507153/greg-abbott-gina-hinojosa-education-texas-governor-election-2026",
+    "content": "Parents and students of Sinclair Elementary in Houston rally before school to protest the takeover of the Houston Independent School District by the Texas Education Agency on April 6, 2023.",
+    "date": "2026-10-26T21:16:23",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/26/arts/design/elaine-de-kooning-berry-campbell-exhibition.html",
     "feed_name": "NYT (Arts)",
     "title": "Elaine de Kooning Gets Her Time in the Spotlight",
@@ -19968,35 +19998,5 @@
     "content": "For his final year as artistic director, Antoni Cimolino directs \u201cThe Tempest,\u201d and like Prospero, he understands how to wield acts of kindness.",
     "date": "2026-09-08T16:37:50",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/08/dining/musician-eartheater.html",
-    "feed_name": "NYT (Food)",
-    "title": "This Electronic Musician Believes It\u2019s Not a Meal Without Potatoes",
-    "author": "Nikita Richardson",
-    "link": "https://www.nytimes.com/2026/09/08/dining/musician-eartheater.html",
-    "content": "\u201cA really good, creative, interesting potato gets my heart thumping\u201d says the New York-based artist Eartheater.",
-    "date": "2026-09-08T16:24:37",
-    "category": "NYT"
-  },
-  {
-    "id": "bd6c1511-ad56-4fa1-a047-465b1740fd13",
-    "feed_name": "Economist",
-    "title": "China\u2019s $54bn capital boost for banks falls far short",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/08/chinas-54bn-capital-boost-for-banks-falls-far-short",
-    "content": "Old problems bedevil balance-sheets and hold back lending",
-    "date": "2026-09-08T16:18:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "c9fd16a8dcae6e613ce1c7e0acccec8b",
-    "feed_name": "The Atlantic",
-    "title": "When Mothers Get Arrested for Mothering",
-    "author": "Elizabeth Bruenig",
-    "link": "https://www.theatlantic.com/ideas/2026/09/karyann-parkinson-children-indpendence/688541/",
-    "content": "Raising independent kids shouldn\u2019t be this hard.",
-    "date": "2026-09-08T16:17:00",
-    "category": "Magazines"
   }
 ]
