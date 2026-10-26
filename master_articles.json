@@ -160,6 +160,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Walter Koenig Has Died at 90. He Played Chekov on \u2018Star Trek.\u2019",
+    "author": "Anita Gates",
+    "link": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
+    "content": "Walter Koenig as Pavel Chekov in a 1968 episode of \u201cStar Trek.\u201d",
+    "date": "2026-10-26T17:46:52",
+    "category": "NYT"
+  },
+  {
     "id": "193aa03289da8ba354d74d9895a42969",
     "feed_name": "LRB",
     "title": "Death by Algorithm",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/08/dining/drinks/cabernet-sauvignon-red-wine.html",
     "content": "It\u2019s the most widely planted red grape in the world and the most popular red varietal wine in the U.S., so why has it fallen out of favor?",
     "date": "2026-09-08T14:22:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/08/theater/small-mouth-sounds-downstate-broadway.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Julia Roberts Will Return to Broadway in \u2018Small Mouth Sounds\u2019",
-    "author": "Michael Paulson",
-    "link": "https://www.nytimes.com/2026/09/08/theater/small-mouth-sounds-downstate-broadway.html",
-    "content": "Julia Roberts will be returning to Broadway after making her debut in 2006.",
-    "date": "2026-09-08T14:00:06",
     "category": "NYT"
   }
 ]
