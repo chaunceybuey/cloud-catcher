@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/26/arts/television/minimum-wage-and-6-more-shows-to-watch-on-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Minimum Wage,\u2019 and 6 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/10/26/arts/television/minimum-wage-and-6-more-shows-to-watch-on-tv-this-week.html",
+    "content": "This new comedy comes to Netflix. And documentaries about Matthew Perry and \u201cSCTV\u201d are on tap.",
+    "date": "2026-10-26T05:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html",
     "feed_name": "NYT (Arts)",
     "title": "Owners of Elvis Presley\u2019s Music Sue Anthropic for Copyright Infringement",
@@ -19986,16 +19996,6 @@
     "author": "ByJustin Chang",
     "link": "https://www.newyorker.com/magazine/2026/09/14/hope-movie-review",
     "content": "In Na Hong-jin\u2019s monster movie, violent small-town comedy and big-budget Hollywood imperialism collide.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "724a9a0c93c519046aafa8029842a049",
-    "feed_name": "New Yorker",
-    "title": "\u201cWorst\u201d",
-    "author": "ByDorothea Lasky",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/worst-dorothea-lasky-poem",
-    "content": "\u201cI am the worst kind of person.\u201d",
     "date": "2026-09-07T15:34:43",
     "category": "Magazines"
   }
