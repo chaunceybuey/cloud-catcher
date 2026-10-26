@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ad7ce45b80049a561ee27a5",
+    "feed_name": "Wired",
+    "title": "WIRED Ghost Stories",
+    "author": "",
+    "link": "https://www.wired.com/ghost-stories/",
+    "content": "Five hauntings from the other side of technology.",
+    "date": "2026-10-26T14:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
     "feed_name": "NYT (Arts)",
     "title": "Chris Brown Gets Suspended Sentence Over London Nightclub Assault",
@@ -19986,16 +19996,6 @@
     "author": "ByBruce Handy",
     "link": "https://www.newyorker.com/magazine/2026/09/14/the-anti-ai-ad-ad-campaign",
     "content": "The comedians Harris Alterman and Dave Ross have been putting up posters for fake tech products across the city, including a wearable grandpa, underwear that thinks, and A.I. cutlery.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "f24dd5f4105a6934a67117a0bc8e5799",
-    "feed_name": "New Yorker",
-    "title": "\u201cParanormal Activity\u201d Creeps Onto Broadway",
-    "author": "ByAnna Russell",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/paranormal-activity-creeps-onto-broadway",
-    "content": "Oren Peli, the creator of the original horror-film series, stops by the new stage production and dishes on the creaky house that spooked\u2014and inspired\u2014him back in 2005.",
     "date": "2026-09-07T15:34:43",
     "category": "Magazines"
   }
