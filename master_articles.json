@@ -110,6 +110,66 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/26/movies/wicker-movie-alexander-skarsgard-olivia-colman.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Alexander Skarsgard and Olivia Colman on the Joy of a Wicker Husband",
+    "author": "Nicole Sperling and Ariel Fisher",
+    "link": "https://www.nytimes.com/2026/10/26/movies/wicker-movie-alexander-skarsgard-olivia-colman.html",
+    "content": "Is the male love interest the answer to toxic masculinity? The actors contemplate that prospect and the challenges of creating a very adult fable.",
+    "date": "2026-10-26T09:03:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/arts/television/matthew-perry-netflix-documentary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u201cThe One About Matthew Perry\u201d Docuseries Comes to Netflix",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/10/26/arts/television/matthew-perry-netflix-documentary.html",
+    "content": "Mia Perry Bowick, speaking publicly for the first time in \u201cThe One About Matthew Perry,\u201d joins its director, Mary Robertson, to discuss her new Netflix docuseries about the \u201cFriends\u201d star.",
+    "date": "2026-10-26T09:01:48",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/arts/music/remi-wolf-mud-tour-set-list.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Remi Wolf Tests Out a Set List for a Tour",
+    "author": "Leila Sheridan and Nina Westervelt",
+    "link": "https://www.nytimes.com/2026/10/26/arts/music/remi-wolf-mud-tour-set-list.html",
+    "content": "The singer, best known for bright, rock-tinged pop, workshopped how she would perform songs from \u201cMud,\u201d her pared-back new album.",
+    "date": "2026-10-26T09:01:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/arts/music/lincoln-in-the-bardo-mazzoli-portait-of-lincoln-in-sound.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Does Abe Lincoln Sound? In \u2018Lincoln in the Bardo,\u2019 Ugly, Honest, Cathartic",
+    "author": "Jeremy Reynolds",
+    "link": "https://www.nytimes.com/2026/10/26/arts/music/lincoln-in-the-bardo-mazzoli-portait-of-lincoln-in-sound.html",
+    "content": "Peter Mattei, left, and Everett Sobers as Abraham and Willie Lincoln in the Met\u2019s production of \u201cLincoln in the Bardo.\u201d",
+    "date": "2026-10-26T09:01:04",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/arts/dance/national-ballet-canada-75-anniversary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What Is Canadian Ballet? At 75, the National Company Is Its Own Answer.",
+    "author": "Martha Schabas",
+    "link": "https://www.nytimes.com/2026/10/26/arts/dance/national-ballet-canada-75-anniversary.html",
+    "content": "Keira Sanford rehearsing John Cranko\u2019s \u201cRomeo and Juliet,\u201d which will open the National Ballet of Canada\u2019s 75th season.",
+    "date": "2026-10-26T09:00:35",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/26/movies/donnie-darko-oral-history-25-year-anniversary.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Donnie Darko\u2019 Oral History: A Mind-Twisting Cult Classic Turns 25",
+    "author": "Maya Salam",
+    "link": "https://www.nytimes.com/2026/10/26/movies/donnie-darko-oral-history-25-year-anniversary.html",
+    "content": "Jake Gyllenhaal, Seth Rogen and others explain how an audacious 2001 sci-fi indie flop overcame early disaster to become a phenomenon.",
+    "date": "2026-10-26T09:00:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/26/arts/television/eric-bauza-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Eric Bauza, Voice of \u2018Looney Toons\u2019 Characters, Dies at 46",
@@ -19936,66 +19996,6 @@
     "author": "ByVinson Cunningham",
     "link": "https://www.newyorker.com/magazine/2026/09/14/birth-of-a-culture-grandmaster-flash-and-robert-scoop-jackson-book-review",
     "content": "In his new book, \u201cBirth of a Culture,\u201d the trailblazing d.j. tells his version of how it all began.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "62cf9b39f29734fcdceece521a40a2c7",
-    "feed_name": "New Yorker",
-    "title": "The Art of American Sophistication",
-    "author": "ByAdam Gopnik",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/american-sophistication-ross-posnock-book-review",
-    "content": "How striving, self-invention, and charm became a national style.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "e85c484f93eee8075dd8e299c5a4b194",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/the-breakup-all-them-dogs-sex-dissent-we-want-to-believe",
-    "content": "\u201cThe Breakup,\u201d \u201cAll Them Dogs,\u201d \u201cSex and Dissent,\u201d and \u201cWe Want to Believe.\u201d",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "3bb1b1ea56719447612455055b610598",
-    "feed_name": "New Yorker",
-    "title": "Willem de Kooning\u2019s Excavations of Intimacy",
-    "author": "ByHilton Als",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/willem-de-koonings-excavations-of-intimacy",
-    "content": "The first major show of the artist\u2019s drawings articulates his pain and anger and the frightful era he lived in.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "228c02638b63d1443d998068b2cbdab6",
-    "feed_name": "New Yorker",
-    "title": "What Carla Lalli Cooked After Her Divorce",
-    "author": "ByHannah Goldfield",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/what-carla-lalli-cooked-after-her-divorce",
-    "content": "With \u201cFood Is a Feeling,\u201d the cookbook author joins a lineage of writers who have explored the appetites of the newly unmarried.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "4f07e681081a8fa35ac9a23e07537830",
-    "feed_name": "New Yorker",
-    "title": "The Prolific Storytelling of This Is Lorelei",
-    "author": "ByAmanda Petrusich",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/the-singer-in-my-band-nate-amos-music-review",
-    "content": "Nate Amos writes songs that both embrace and lampoon dusty singer-songwriter tropes.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "fa79c37e70538a4b24e887d11b545504",
-    "feed_name": "New Yorker",
-    "title": "Seeing It All Hang Out at the Fringe",
-    "author": "ByEmily Nussbaum",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/edinburghs-fringe-festival-theatre-review",
-    "content": "Twenty-odd shows from Edinburgh\u2019s annual avant-garde rumspringa.",
     "date": "2026-09-07T15:34:43",
     "category": "Magazines"
   }
