@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/26/dining/a-five-star-recipe-with-over-17000-reviews-built-on-canned-staples.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Five-Star Recipe With Over 17,000 Reviews Built on Canned Staples",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/26/dining/a-five-star-recipe-with-over-17000-reviews-built-on-canned-staples.html",
+    "content": "Melissa Clark\u2019s coconut curry chickpeas with pumpkin and lime.",
+    "date": "2026-10-26T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "6ad7ce45b80049a561ee27a5",
     "feed_name": "Wired",
     "title": "WIRED Ghost Stories",
@@ -19986,16 +19996,6 @@
     "author": "ByDaniel Alarc\u00f3n",
     "link": "https://www.newyorker.com/magazine/2026/09/14/can-you-feel-the-dub-tonight",
     "content": "For years, a Peruvian voice actor has tried to get Disney to sign off on his Quechuan translation of \u201cThe Lion King.\u201d The new documentary \u201cRuna Simi\u201d follows his path unwinding.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "ab7791437b75908da2c64a129b8a6f13",
-    "feed_name": "New Yorker",
-    "title": "The Anti-A.I.-Ad Ad Campaign",
-    "author": "ByBruce Handy",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/the-anti-ai-ad-ad-campaign",
-    "content": "The comedians Harris Alterman and Dave Ross have been putting up posters for fake tech products across the city, including a wearable grandpa, underwear that thinks, and A.I. cutlery.",
     "date": "2026-09-07T15:34:43",
     "category": "Magazines"
   }
