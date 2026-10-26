@@ -110,6 +110,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/26/arts/television/eric-bauza-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Eric Bauza, Voice of \u2018Looney Toons\u2019 Characters, Dies at 46",
+    "author": "Yan Zhuang",
+    "link": "https://www.nytimes.com/2026/10/26/arts/television/eric-bauza-dead.html",
+    "content": "Eric Bauza in Los Angeles last year.",
+    "date": "2026-10-26T06:30:01",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/26/arts/television/minimum-wage-and-6-more-shows-to-watch-on-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Minimum Wage,\u2019 and 6 More Shows to Watch on TV This Week",
@@ -19986,16 +19996,6 @@
     "author": "ByEmily Nussbaum",
     "link": "https://www.newyorker.com/magazine/2026/09/14/edinburghs-fringe-festival-theatre-review",
     "content": "Twenty-odd shows from Edinburgh\u2019s annual avant-garde rumspringa.",
-    "date": "2026-09-07T15:34:43",
-    "category": "Magazines"
-  },
-  {
-    "id": "ce43cdc50c998c04277a58ef1a04b1db",
-    "feed_name": "New Yorker",
-    "title": "The Blockbuster Audacity of \u201cHope\u201d",
-    "author": "ByJustin Chang",
-    "link": "https://www.newyorker.com/magazine/2026/09/14/hope-movie-review",
-    "content": "In Na Hong-jin\u2019s monster movie, violent small-town comedy and big-budget Hollywood imperialism collide.",
     "date": "2026-09-07T15:34:43",
     "category": "Magazines"
   }
