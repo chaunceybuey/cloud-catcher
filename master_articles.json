@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/27/dining/restaurant-review-noury-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Noury in New York",
+    "author": "Ryan Sutton",
+    "link": "https://www.nytimes.com/2026/10/27/dining/restaurant-review-noury-nyc.html",
+    "content": "At Noury, the chef-and-sommelier team of Alex Chang and Lina Goujjane bring sophistication and real culinary aptitude.",
+    "date": "2026-10-27T20:13:08",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/27/arts/television/margot-robbie-microdrama.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Plans to Make Microdrama Out of an Old Margot Robbie Show Stir Debate",
+    "author": "Jonathan Abrams",
+    "link": "https://www.nytimes.com/2026/10/27/arts/television/margot-robbie-microdrama.html",
+    "content": "The group that produced \u201cNeighbours\u201d more than a decade ago plans to carve some episodes into micro-bits, generating more debate around TV shows in the digital age.",
+    "date": "2026-10-27T20:10:27",
+    "category": "NYT"
+  },
+  {
     "id": "6adfca7628ba980ed3d02255",
     "feed_name": "Wired (Science)",
     "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
@@ -198,6 +218,16 @@
     "content": "In breathless press releases and posts, the company has touted its models\u2019 ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
     "date": "2026-10-27T19:39:04",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=248654",
+    "feed_name": "Texas Tribune",
+    "title": "Greg Abbott, Gina Hinojosa each post biggest fundraising hauls yet in final leg of Texas governor\u2019s race",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17507826/texas-governor-election-abbott-hinojosa-campaign-finance-fundraising",
+    "content": "Gov. Greg Abbott (left) and state Rep. Gina Hinojosa, the Democratic gubernatorial nominee.",
+    "date": "2026-10-27T19:36:43",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/arts/television/susan-st-james-dead-kate-and-allie.html",
@@ -228,6 +258,16 @@
     "content": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
     "date": "2026-10-27T18:20:28",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=248631",
+    "feed_name": "Texas Tribune",
+    "title": "Bo French, Jon Rosenthal raise more than $1M combined in second-highest fundraising haul",
+    "author": "Carlos Nogueras Ramos",
+    "link": "https://feeds.texastribune.org/link/16799/17507827/bo-french-jon-rosenthal-fundraising-railroad-commission",
+    "content": "Candidates for Texas&#039; Railroad Commission  Republican Bo French, left, and Democrat Jon Rosenthal.",
+    "date": "2026-10-27T18:16:49",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/10/27/arts/music/amplifier-playlist-world-series-doechii-violent-femmes.html",
@@ -19958,45 +19998,5 @@
     "content": "Webb Middle School in Austin on Jan. 5, 2026.",
     "date": "2026-09-09T18:57:59",
     "category": "Texas"
-  },
-  {
-    "id": "6f809618405e7f41d01f70d3088e6640",
-    "feed_name": "Outside",
-    "title": "At a Doomed Self-Help Retreat, a Sweat Lodge Ritual Turned Deadly",
-    "author": "Annette McGivneySeptember 9, 2026",
-    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/sweat-lodge-deaths/",
-    "content": "In her latest book, 'Plastic Shaman: The True Story of a Deadly Self-Help Retreat and America\u2019s Misguided Quest for Wellness,\u2019 author Annette McGivney investigates a sweat lodge ceremony that turned fatal.",
-    "date": "2026-09-09T17:39:32",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/arts/television/saturday-night-live-jalen-brunson.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018S.N.L.\u2019 Season 52: Jalen Brunson Will Host First Episode",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/09/09/arts/television/saturday-night-live-jalen-brunson.html",
-    "content": "A three-time N.B.A. all-star, Jalen Brunson was also named the M.V.P. of this year\u2019s N.B.A. finals.",
-    "date": "2026-09-09T17:36:19",
-    "category": "NYT"
-  },
-  {
-    "id": "37be061df18dc0f5bf1262f59236e789",
-    "feed_name": "The Atlantic",
-    "title": "The Inside Story of What Happened atStars and Stripes",
-    "author": "Erik Slavin",
-    "link": "https://www.theatlantic.com/ideas/2026/09/pentagon-military-newspaper-independence-supression/688547/",
-    "content": "For generations, the newspaper has served American military families without interference from the government. That work must continue. And it must remain editorially independent.",
-    "date": "2026-09-09T17:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/dining/quick-fresh-tomato-sauce.html",
-    "feed_name": "NYT (Food)",
-    "title": "Quick! Fresh Tomato Sauce!",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/09/09/dining/quick-fresh-tomato-sauce.html",
-    "content": "David Tanis\u2019s quick fresh tomato sauce.",
-    "date": "2026-09-09T15:00:07",
-    "category": "NYT"
   }
 ]
