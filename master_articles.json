@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/26/arts/music/jay-z-super-bowl-halftime-performer.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jay-Z Announced as 2027 Super Bowl Halftime Show Performer",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/10/26/arts/music/jay-z-super-bowl-halftime-performer.html",
+    "content": "Jay-Z, a billionaire rapper and producer with 25 Grammys, is one of the biggest names in the entertainment industry.",
+    "date": "2026-10-27T02:12:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=248533",
     "feed_name": "Texas Tribune",
     "title": "Feds may build border wall through South Texas refuge as original plan stalls in court",
@@ -19988,15 +19998,5 @@
     "content": "David Maxwell, former Texas Ranger and top aide to Texas Attorney General Ken Paxton, is sworn in on day four of Paxton&#039;s impeachment trial in the Texas Senate on Sept. 8, 2023.",
     "date": "2026-09-08T17:18:20",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/08/movies/elon-musk-film-alex-gibney-venice-film-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Four-Hour Elon Musk Documentary by Alex Gibney Has Venice Premiere",
-    "author": "Beatrice Loayza",
-    "link": "https://www.nytimes.com/2026/09/08/movies/elon-musk-film-alex-gibney-venice-film-festival.html",
-    "content": "\u201cMusk,\u201d the Alex Gibney documentary that premiered at the Venice Film Festival on Tuesday, is a mega-portrait of Elon Musk.",
-    "date": "2026-09-08T16:52:32",
-    "category": "NYT"
   }
 ]
