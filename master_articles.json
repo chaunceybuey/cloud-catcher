@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=248673",
+    "feed_name": "Texas Tribune",
+    "title": "Austin man shot by ICE officer pleads not guilty to federal assault charge",
+    "author": "Uriel J. Garc\u00eda and Alex Nguyen",
+    "link": "https://feeds.texastribune.org/link/16799/17507870/wilber-rafael-garces-perez-not-guilty-plea-ice-austin",
+    "content": "Kate Lincoln-Goldfinch, an immigration attorney representing Wilber Rafael Garc\u00e9s P\u00e9rez, who was shot by federal immigration agents on Sept. 20, holds a news conference following his federal bail hearing at the federal courthouse in Austin on Sept. 30, 2026.",
+    "date": "2026-10-27T20:27:42",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/27/dining/restaurant-review-noury-nyc.html",
     "feed_name": "NYT (Food)",
     "title": "Restaurant Review: Noury in New York",
@@ -19988,15 +19998,5 @@
     "content": "Astronomical dawn, dahlia season and cute names for serious things.",
     "date": "2026-09-09T20:00:35",
     "category": "NYT"
-  },
-  {
-    "id": "3a09d05c9c56f71f82b7a97343bd1399",
-    "feed_name": "The Atlantic",
-    "title": "Does Trump Want Republicans to Win the Midterms?",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/09/trump-miderm-strategy-convention/688559/",
-    "content": "Traditionally, candidates try to distance themselves from unpopular presidents. But this year, that\u2019s impossible.",
-    "date": "2026-09-09T19:15:00",
-    "category": "Magazines"
   }
 ]
