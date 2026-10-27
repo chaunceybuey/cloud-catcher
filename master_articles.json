@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "aaddb580-3640-416c-bc00-495d4e79a560",
+    "feed_name": "Economist",
+    "title": "In an AI blow-up, would insurance pay out?",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
+    "content": "Credit default swaps are back in vogue amid fears of a debt disaster",
+    "date": "2026-10-27T22:26:42",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=248673",
     "feed_name": "Texas Tribune",
     "title": "Austin man shot by ICE officer pleads not guilty to federal assault charge",
@@ -19988,15 +19998,5 @@
     "content": "Democratic U.S. Senate nominee James Talarico talks to local officials after a campaign stop in Sanderson on July 13, 2026.",
     "date": "2026-09-09T21:45:25",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/briefing/09-the-good-list-perfect-september.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Good List: 6 Things to Bring Joy to Your Day",
-    "author": "Melissa Kirsch",
-    "link": "https://www.nytimes.com/2026/09/09/briefing/09-the-good-list-perfect-september.html",
-    "content": "Astronomical dawn, dahlia season and cute names for serious things.",
-    "date": "2026-09-09T20:00:35",
-    "category": "NYT"
   }
 ]
