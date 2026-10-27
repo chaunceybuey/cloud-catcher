@@ -210,6 +210,16 @@
     "category": "NYT"
   },
   {
+    "id": "6f809618405e7f41d01f70d3088e6640",
+    "feed_name": "Outside",
+    "title": "At a Doomed Self-Help Retreat, a Sweat Lodge Ritual Turned Deadly",
+    "author": "Annette McGivneySeptember 9, 2026",
+    "link": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/sweat-lodge-deaths/",
+    "content": "In her latest book, 'Plastic Shaman: The True Story of a Deadly Self-Help Retreat and America\u2019s Misguided Quest for Wellness,\u2019 author Annette McGivney investigates a sweat lodge ceremony that turned fatal.",
+    "date": "2026-10-27T19:53:29",
+    "category": "Magazines"
+  },
+  {
     "id": "6adfca7628ba980ed3d02255",
     "feed_name": "Wired (Science)",
     "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
@@ -19988,15 +19998,5 @@
     "content": "Traditionally, candidates try to distance themselves from unpopular presidents. But this year, that\u2019s impossible.",
     "date": "2026-09-09T19:15:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242292",
-    "feed_name": "Texas Tribune",
-    "title": "Austin mayor releases plan to prevent Texas from taking over the school district",
-    "author": "By Acacia Coronado,\u00a0Austin Current",
-    "link": "https://feeds.texastribune.org/link/16799/17443724/austin-isd-school-takeover-texas-education-agency",
-    "content": "Webb Middle School in Austin on Jan. 5, 2026.",
-    "date": "2026-09-09T18:57:59",
-    "category": "Texas"
   }
 ]
