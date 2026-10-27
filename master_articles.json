@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/27/dining/say-yes-to-gnocchi.html",
+    "feed_name": "NYT (Food)",
+    "title": "Say Yes to Gnocchi",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/27/dining/say-yes-to-gnocchi.html",
+    "content": "Ali Slagle\u2019s crisp gnocchi with brussels sprouts and brown butter.",
+    "date": "2026-10-27T15:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/online/2026/10/22/natives-of-the-country-lebanon-jewish-community/",
     "feed_name": "NYRB",
     "title": "\u2018Natives of the Country\u2019",
@@ -19988,15 +19998,5 @@
     "content": "Cofertility lets women freeze their eggs for free\u2014as long as they give half of them back to the company. What happens next is anyone\u2019s guess.",
     "date": "2026-09-09T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19929",
-    "feed_name": "Stratechery",
-    "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
-    "content": "<p>OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.</p>",
-    "date": "2026-09-09T10:00:00",
-    "category": "Tech"
   }
 ]
