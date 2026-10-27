@@ -180,6 +180,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/online/2026/10/22/natives-of-the-country-lebanon-jewish-community/",
+    "feed_name": "NYRB",
+    "title": "\u2018Natives of the Country\u2019",
+    "author": "",
+    "link": "https://www.nybooks.com/online/2026/10/22/natives-of-the-country-lebanon-jewish-community/",
+    "content": "By taking up the cause of Lebanon\u2019s murdered Jewish leaders, Israel threatens to detach them from their history and absorb them into its own.\n\nDelivered by PolitePaul service",
+    "date": "2026-10-27T14:48:53",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/27/us/jodi-dinosaur-skeleton-auction-sothebys.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Skeleton of Nanotyrannus \u2018Jodi,\u2019 T. Rex\u2019s Cousin, Is Auctioned for $47.3 Million",
+    "author": "Sopan Deb",
+    "link": "https://www.nytimes.com/2026/10/27/us/jodi-dinosaur-skeleton-auction-sothebys.html",
+    "content": "Scientists long debated whether Nanotyrannus was from a separate group of Tyrannosaur species, or if they were teen specimens of T. rex. The separate group hypothesis has recently prevailed.",
+    "date": "2026-10-27T14:41:52",
+    "category": "NYT"
+  },
+  {
     "id": "b5862fb9b0ffe9e8d1d6641e65ceb380",
     "feed_name": "LRB",
     "title": "How Fredric Jameson became Fredric Jameson",
@@ -19978,25 +19998,5 @@
     "content": "<p>OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.</p>",
     "date": "2026-09-09T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242222",
-    "feed_name": "Texas Tribune",
-    "title": "Texas prisons seek $298 million for air conditioning. That\u2019s a fraction of what\u2019s needed.",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17443350/texas-prison-air-conditioning-lawsuit-legislature-budget",
-    "content": "Prison staff and inmates move through the Darrington Unit&#039;s main hallway on July 12, 2017.",
-    "date": "2026-09-09T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242242",
-    "feed_name": "Texas Tribune",
-    "title": "Cuellar and Tijerina spar over who delivers for a South Texas district redrawn to favor the GOP",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17443351/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo",
-    "content": "Webb County Judge Tano Tijerina, a Republican who is challenging Rep. Henry Cuellar in Texas&#039; 28th Congressional District, speaks during a Ken Paxton rally in McAllen on July 14, 2026.",
-    "date": "2026-09-09T10:00:00",
-    "category": "Texas"
   }
 ]
