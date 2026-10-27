@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://stratechery.com/?p=20583",
+    "feed_name": "Stratechery",
+    "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+    "content": "<p>Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.</p>",
+    "date": "2026-10-27T10:32:57",
+    "category": "Tech"
+  },
+  {
     "id": "6a91d2bb3ac8cc66a61bfa12",
     "feed_name": "Wired",
     "title": "How to Hide Your Baby From the Government",
@@ -19988,15 +19998,5 @@
     "content": "Back from his summer vacation, the late night host wondered, \u201cIs it possible to have a midlife crisis at 80 years old?\u201d",
     "date": "2026-09-09T05:56:37",
     "category": "NYT"
-  },
-  {
-    "id": "471f8397887e0a1efdceb1eb6da02da0",
-    "feed_name": "LRB",
-    "title": "Dying, or Doing Something Else: Lydia Davis on Marcus Aurelius and Other Stoics",
-    "author": "",
-    "link": "https://buytickets.at/londonreviewofbooks/2342281",
-    "content": "",
-    "date": "2026-09-08T23:54:39",
-    "category": "Magazines"
   }
 ]
