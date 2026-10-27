@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/27/obituaries/ursula-vonrydingsvard-sculptor-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ursula von Rydingsvard, Sculptor of Monumental Forms, Dies at 84",
+    "author": "Will Heinrich",
+    "link": "https://www.nytimes.com/2026/10/27/obituaries/ursula-vonrydingsvard-sculptor-dead.html",
+    "content": "Ursula von Rydingsvard in 2018.",
+    "date": "2026-10-27T12:49:43",
+    "category": "NYT"
+  },
+  {
     "id": "6adaa033d2bcaa48bb0b4f91",
     "feed_name": "Wired (Science)",
     "title": "NASA\u2019s Oldest Martian Spacecraft Have Been Running for Decades. Here\u2019s How",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/09/arts/music/suno-new-ai-model-warner-music.html",
     "content": "Mikey Shulman of Suno, right, with the research scientist Christian Steinmetz. Shulman said the newest model of Suno was \u201cstarting from scratch\u201d with only licensed content.",
     "date": "2026-09-09T09:05:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/arts/sara-bareilles-good-grief-interestings.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Sara Bareilles Confronted Grief, and Found Herself",
-    "author": "Melena Ryzik and Meghan Marin",
-    "link": "https://www.nytimes.com/2026/09/09/arts/sara-bareilles-good-grief-interestings.html",
-    "content": "Her new album, \u201cGood Grief,\u201d mourns friends including her Broadway co-star Gavin Creel, and her musical adaptation of the Meg Wolitzer novel \u201cThe Interestings\u201d is about finding a different kind of fulfillment in a creative life than you\u2019d once imagined, which Bareilles knows something about.",
-    "date": "2026-09-09T09:04:07",
     "category": "NYT"
   }
 ]
