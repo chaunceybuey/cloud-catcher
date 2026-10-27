@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "6adfcbdcf92731172397818c",
+    "feed_name": "Wired (Science)",
+    "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+    "author": "Molly Taft",
+    "link": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+    "content": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
+    "date": "2026-10-27T18:20:28",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/27/arts/music/amplifier-playlist-world-series-doechii-violent-femmes.html",
     "feed_name": "NYT (Arts)",
     "title": "Milwaukee vs. Tampa: A World Series Playlist",
@@ -19986,16 +19996,6 @@
     "author": "Ellen S. Bakalian",
     "link": "https://www.theatlantic.com/ideas/2026/09/september-11-widow-museum/688502/",
     "content": "There are some things time doesn\u2019t heal.",
-    "date": "2026-09-09T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "feeb040aa7fba4e5cd21e70c964e7e7d",
-    "feed_name": "The Atlantic",
-    "title": "Mothers for Sale",
-    "author": "Helen Lewis",
-    "link": "https://www.theatlantic.com/magazine/2026/10/usa-commercial-surrogacy-industry/688357/",
-    "content": "Most of Europe bans commercial surrogacy. The United Nations likens it to slavery. But in the United States, business is booming.",
     "date": "2026-09-09T11:00:00",
     "category": "Magazines"
   }
