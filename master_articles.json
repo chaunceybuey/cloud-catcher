@@ -180,6 +180,56 @@
     "category": "Texas"
   },
   {
+    "id": "b5862fb9b0ffe9e8d1d6641e65ceb380",
+    "feed_name": "LRB",
+    "title": "How Fredric Jameson became Fredric Jameson",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/how-fredric-jameson-became-fredric-jameson",
+    "content": "Perry Anderson once wrote that in Fredric Jameson\u2019s account of postmodernism, \u2018the vocation of Western Marxism has reached its most complete consummation.\u2019 Praising the \u2018spacious rhythms\u2019 of his \u2018complex, yet supple syntax\u2019 and \u2018sudden bursts of metaphoric intensity\u2019, Anderson also called Jameson a \u2018great writer\u2019. As Toril Moi...",
+    "date": "2026-10-27T14:06:20",
+    "category": "Magazines"
+  },
+  {
+    "id": "84590b7f2ad5af5a1830f0b7bef5f64c",
+    "feed_name": "LRB",
+    "title": "\u2018Ulysses\u2019: James Joyce\u2019s properly obscene book",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/ulysses-james-joyce-s-properly-obscene-book",
+    "content": "Tom McCarthy, writing in the London Review of Books, described James Joyce's 'Ulysses' as a \u2018heavy book, a book full of weight, a fallen book\u2019; a \u2018properly obscene book\u2019; \u2018a book in which the central stake is the coming into being of the book itself\u2019; a book for which \u2018people should desist, once and for all, from using the term \u201cinterior...",
+    "date": "2026-10-27T14:06:20",
+    "category": "Magazines"
+  },
+  {
+    "id": "590a38cf8868f5140de2f113589bec6a",
+    "feed_name": "Compact",
+    "title": "The Left\u2019s War on Men",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-lefts-war-on-men/",
+    "content": "",
+    "date": "2026-10-27T14:06:16",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/27/arts/ursula-vonrydingsvard-sculptor-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ursula von Rydingsvard, Sculptor of Monumental Forms, Dies at 84",
+    "author": "Will Heinrich",
+    "link": "https://www.nytimes.com/2026/10/27/arts/ursula-vonrydingsvard-sculptor-dead.html",
+    "content": "Ms. von Rydingsvard working on her sculpture \u201cOna\u201d in 2013.",
+    "date": "2026-10-27T14:03:46",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/27/theater/andrew-scott-sea-wall-elsinore-performance-theater.html",
+    "feed_name": "NYT (Arts)",
+    "title": "What Makes Andrew Scott So Good at Tragedy in \u2018Sea Wall\u2019 and Other Works?",
+    "author": "Jesse Green and Steven Molina Contreras",
+    "link": "https://www.nytimes.com/2026/10/27/theater/andrew-scott-sea-wall-elsinore-performance-theater.html",
+    "content": "The actor says he is no more tragic than anyone else, but in the one-man play \u201cSea Wall,\u201d he\u2019s the soul of a sadness machine.",
+    "date": "2026-10-27T14:00:14",
+    "category": "NYT"
+  },
+  {
     "id": "6adb71e137abe86dfce58bcd",
     "feed_name": "Wired",
     "title": "UK Politician Jess Asato Got Deepfaked. Now She\u2019s Taking xAI to Court",
@@ -19948,55 +19998,5 @@
     "content": "Webb County Judge Tano Tijerina, a Republican who is challenging Rep. Henry Cuellar in Texas&#039; 28th Congressional District, speaks during a Ken Paxton rally in McAllen on July 14, 2026.",
     "date": "2026-09-09T10:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/arts/television/ted-lasso-season-4-episode-6-recap.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Ted Lasso\u2019 Season 4, Episode 6 Recap: Boat Party",
-    "author": "Christopher Orr",
-    "link": "https://www.nytimes.com/2026/09/09/arts/television/ted-lasso-season-4-episode-6-recap.html",
-    "content": "Juno Temple, left, and Hannah Waddingham in \"Ted Lasso.\u201d",
-    "date": "2026-09-09T09:06:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/movies/film-festivals-studios-telluride.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Why Major Studios Are Sitting Out This Fall\u2019s Film Festivals",
-    "author": "Nicole Sperling",
-    "link": "https://www.nytimes.com/2026/09/09/movies/film-festivals-studios-telluride.html",
-    "content": "The major studios and their A-list stars are AWOL this season for a variety of reasons, forcing the festivals to scramble.",
-    "date": "2026-09-09T09:06:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/movies/ai-tv-movies-robots-science-fiction.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Film and TV Portrayals of A.I. Go Beyond Science Fiction",
-    "author": "Brooks Barnes and Matt Stevens",
-    "link": "https://www.nytimes.com/2026/09/09/movies/ai-tv-movies-robots-science-fiction.html",
-    "content": "Plots involving some kind of artificial intelligence are even part of soap operas. Here\u2019s how they\u2019ve evolved over the decades.",
-    "date": "2026-09-09T09:06:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/arts/design/young-women-artists-american-landscape.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Young Women at the Heart of American Landscape Art",
-    "author": "Celia McGee",
-    "link": "https://www.nytimes.com/2026/09/09/arts/design/young-women-artists-american-landscape.html",
-    "content": "Once dismissed as exercises in dainty femininity, the handiwork of schoolgirls is now celebrated for anticipating the art of the Hudson River School and beyond.",
-    "date": "2026-09-09T09:05:28",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/arts/dance/bill-t-jones-world-trade-center-9-11.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Bill T. Jones\u2019s Dance That Didn\u2019t Happen at the World Trade Center Plaza",
-    "author": "Brian Seibert and Guarionex Rodriguez",
-    "link": "https://www.nytimes.com/2026/09/09/arts/dance/bill-t-jones-world-trade-center-9-11.html",
-    "content": "Twenty-five years after 9/11 caused the cancellation of a Bill T. Jones group performance, he debuts a work in response.",
-    "date": "2026-09-09T09:05:15",
-    "category": "NYT"
   }
 ]
