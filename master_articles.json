@@ -420,6 +420,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html",
+    "feed_name": "NYT (Food)",
+    "title": "Where to Eat in New York City Right Now",
+    "author": "Ligaya Mishan, Luke Fortney, Mahira Rivers and Ryan Sutton",
+    "link": "https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html",
+    "content": "Our favorite restaurants of the moment in the city that never stops eating; updated monthly.",
+    "date": "2026-10-26T21:40:37",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",
     "feed_name": "NYT (Arts)",
     "title": "The Science Behind Your Reaction to Art",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/09/arts/sara-bareilles-good-grief-interestings.html",
     "content": "Her new album, \u201cGood Grief,\u201d mourns friends including her Broadway co-star Gavin Creel, and her musical adaptation of the Meg Wolitzer novel \u201cThe Interestings\u201d is about finding a different kind of fulfillment in a creative life than you\u2019d once imagined, which Bareilles knows something about.",
     "date": "2026-09-09T09:04:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/09/theater/liberation-purpose-oh-mary-mexodus-shows-in-us-2026.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Liberation,\u2019 \u2018Purpose\u2019 and 39 More Shows to See in the U.S. This Fall",
-    "author": "Laura Collins-Hughes",
-    "link": "https://www.nytimes.com/2026/09/09/theater/liberation-purpose-oh-mary-mexodus-shows-in-us-2026.html",
-    "content": "From left, Harry Lennix, Alana Arenas, Jon Michael Hill, Kara Young, Glenn Davis and LaTanya Richardson Jackson in the 2025 Broadway production of \u201cPurpose.\u201d",
-    "date": "2026-09-09T09:03:43",
     "category": "NYT"
   }
 ]
