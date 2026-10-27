@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/27/arts/television/jimmy-kimmel-trump-obama-roast.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Proposes a Battle of Wits Between Trump and Obama",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/27/arts/television/jimmy-kimmel-trump-obama-roast.html",
+    "content": "\u201cThere is only one way to settle this: roast battle on the White House lawn, live,\u201d Kimmel offered, after former President Barack Obama mocked President Trump.",
+    "date": "2026-10-27T06:51:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/26/arts/music/jay-z-super-bowl-halftime-performer.html",
     "feed_name": "NYT (Arts)",
     "title": "Jay-Z Announced as 2027 Super Bowl Halftime Show Performer",
@@ -19988,15 +19998,5 @@
     "content": "As AI erodes our attention spans and expressiveness, philosophers like Simone Weil and Arthur Schopenhauer offer profound insights on what it means to be an individual.\n\nDelivered by PolitePaul service",
     "date": "2026-09-08T17:48:52",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242158",
-    "feed_name": "Texas Tribune",
-    "title": "Ken Paxton whistleblower endorses James Talarico in Texas\u2019 U.S. Senate race",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17442869/ken-paxton-whistleblower-endorses-james-talarico-texas-senate-david-maxwell",
-    "content": "David Maxwell, former Texas Ranger and top aide to Texas Attorney General Ken Paxton, is sworn in on day four of Paxton&#039;s impeachment trial in the Texas Senate on Sept. 8, 2023.",
-    "date": "2026-09-08T17:18:20",
-    "category": "Texas"
   }
 ]
