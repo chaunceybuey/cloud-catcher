@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/27/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Restaurant With a Cart of Chicharrones? Tell Me More.",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/10/27/dining/nyc-restaurant-news.html",
+    "content": "Norte brings the pleasures of northern Mexican cuisine to the Flatiron district, Cholapink serves up Peruvian street food and more restaurant news.",
+    "date": "2026-10-27T18:54:28",
+    "category": "NYT"
+  },
+  {
     "id": "6adfcbdcf92731172397818c",
     "feed_name": "Wired (Science)",
     "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
@@ -19988,15 +19998,5 @@
     "content": "Two of American politics\u2019 most unique and least predictable voices bookend our three days of live journalism.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17443427.gif\" width=\"1\" />",
     "date": "2026-09-09T11:30:00",
     "category": "Texas"
-  },
-  {
-    "id": "e2fd0655fac572974a49c313bef732d3",
-    "feed_name": "The Atlantic",
-    "title": "What September 11 Took From Me",
-    "author": "Ellen S. Bakalian",
-    "link": "https://www.theatlantic.com/ideas/2026/09/september-11-widow-museum/688502/",
-    "content": "There are some things time doesn\u2019t heal.",
-    "date": "2026-09-09T11:00:00",
-    "category": "Magazines"
   }
 ]
