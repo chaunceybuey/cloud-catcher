@@ -190,6 +190,26 @@
     "category": "Texas"
   },
   {
+    "id": "6adfca7628ba980ed3d02255",
+    "feed_name": "Wired (Science)",
+    "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "content": "In breathless press releases and posts, the company has touted its models\u2019 ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "date": "2026-10-27T19:39:04",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/27/arts/television/susan-st-james-dead-kate-and-allie.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Susan Saint James, Emmy Winner Who Starred in \u2018Kate & Allie,\u2019 Dies at 80",
+    "author": "Christine Hauser",
+    "link": "https://www.nytimes.com/2026/10/27/arts/television/susan-st-james-dead-kate-and-allie.html",
+    "content": "Susan Saint James in 2025. Kate McArdle, her character on \u201cKate & Allie,\u201d was \u201ca free spirit caught up in the radical movement\u201d of the 1960s, a publicist said, while Allie (Jane Curtin) was a \u201ctraditionalist.\u201d",
+    "date": "2026-10-27T19:21:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/27/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "A Restaurant With a Cart of Chicharrones? Tell Me More.",
@@ -19978,25 +19998,5 @@
     "content": "David Tanis\u2019s quick fresh tomato sauce.",
     "date": "2026-09-09T15:00:07",
     "category": "NYT"
-  },
-  {
-    "id": "06bdb77ee8a4cce3310c027fdb6ca80c",
-    "feed_name": "Compact",
-    "title": "Why Fusionism Failed",
-    "author": "",
-    "link": "https://www.compactmag.com/article/why-fusionism-failed/",
-    "content": "",
-    "date": "2026-09-09T13:31:31",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242235",
-    "feed_name": "Texas Tribune",
-    "title": "John Fetterman, Marjorie Taylor Greene to close and open TribFest",
-    "author": "Matt Ewalt",
-    "link": "https://feeds.texastribune.org/link/16799/17443427/tribfest-fetterman-greene-keynotes",
-    "content": "Two of American politics\u2019 most unique and least predictable voices bookend our three days of live journalism.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17443427.gif\" width=\"1\" />",
-    "date": "2026-09-09T11:30:00",
-    "category": "Texas"
   }
 ]
