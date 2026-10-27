@@ -180,6 +180,16 @@
     "category": "Texas"
   },
   {
+    "id": "6a91d2bb3ac8cc66a61bfa12",
+    "feed_name": "Wired",
+    "title": "How to Hide Your Baby From the Government",
+    "author": "Paula Mejia",
+    "link": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
+    "content": "\u201cSovereign citizens\u201d think they can live beyond the reach of the state. Now the movement has influencers\u2014and they\u2019re selling all sorts of anarchist courses to expectant families.",
+    "date": "2026-10-27T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/27/movies/you-can-see-everything-oscars-nathan-fielder.html",
     "feed_name": "NYT (Arts)",
     "title": "Could \u2018You Can See Everything\u2019 Be Up for Best Picture but Not Documentary?",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-09-08T23:54:39",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/08/arts/music/jon-small-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jon Small, Director and Early Billy Joel Collaborator, Dies at 79",
-    "author": "Sopan Deb",
-    "link": "https://www.nytimes.com/2026/09/08/arts/music/jon-small-dead.html",
-    "content": "Jon Small, right, with Billy Joel in 1970, the year they released a self-titled heavy metal album as Attila.",
-    "date": "2026-09-08T22:35:07",
-    "category": "NYT"
   }
 ]
