@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/27/arts/music/amplifier-playlist-world-series-doechii-violent-femmes.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Milwaukee vs. Tampa: A World Series Playlist",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/10/27/arts/music/amplifier-playlist-world-series-doechii-violent-femmes.html",
+    "content": "The Milwaukee natives Violent Femmes performed ahead of Game 1 of the World Series, a win for the Brewers.",
+    "date": "2026-10-27T18:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/27/style/gilded-age-party-nyc-plaza-hotel.html",
     "feed_name": "NYT (Arts)",
     "title": "Before the Plaza\u2019s Glow-Up, One Last \u2018Gilded\u2019 Party",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/magazine/2026/10/usa-commercial-surrogacy-industry/688357/",
     "content": "Most of Europe bans commercial surrogacy. The United Nations likens it to slavery. But in the United States, business is booming.",
     "date": "2026-09-09T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6aa031b215609fd4043e4734",
-    "feed_name": "Wired",
-    "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
-    "author": "Katie Drummond",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
-    "content": "The cable news network\u2019s president, Rebecca Kutler, wants to leverage its massive online and TV audience to create a fan community. First up: letting you chat with Rachel Maddow.",
-    "date": "2026-09-09T10:30:00",
     "category": "Magazines"
   }
 ]
