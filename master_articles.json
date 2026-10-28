@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/28/theater/barbara-barrie-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Barbara Barrie, Oscar Nominee Known for Mom Roles and More, Has Died",
+    "author": "Anita Gates",
+    "link": "https://www.nytimes.com/2026/10/28/theater/barbara-barrie-dead.html",
+    "content": "Barbara Barrie in 2017.",
+    "date": "2026-10-28T19:36:41",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23912-ventana-ballet-undead-haunted-house-of-dances",
     "feed_name": "KMFA",
     "title": "Ventana Ballet: Undead Haunted House of Dances",
@@ -248,6 +258,16 @@
     "content": "VENTANA BALLET PRESENTS:\n\nUNDEAD\n\nHAUNTED HOUSE OF DANCES\n\nOcctober 22 - October 31st | Varying Showtimes | East Side Performing Arts\n\n\n\nTrick or Treat?\nUNDEAD is an immersive, adults-only Halloween show. Encounter the shadows of the night, where only the undead gather. Featuring local professional dance and theater artists.\n\nSarah Somerville of Nerd News Social calls it \u201can evening of unearthly elegance where mischief unhinges the mortal realm.\u201d\n\nUNDEAD features local professional theater and dance artists across multiple disciplines, engrossing the audience in an evening of classic Halloween creatures, suspense, comedy, and of course, ballet.\n\nBUY TICKETS!\n\nEvent Details\nDate: October 22 - October 31st\nTime: Varying Showtimes\nVenue: East Side Performing Arts \n\nTicket Information\nCost: $39.19\nPhone: \n\nPresenter Details: Ventana Ballet is a professional dance company based in Austin, TX, specializing in contemporary ballet dance performance. The word ventana, meaning window, embodies the company\u2019s organizational mission and vision, seeking to provide inspiration, accessibility, opportunity, and technical structure.",
     "date": "2026-10-28T19:30:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/briefing/the-good-list-houdini-colors.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Good List: 6 Things to Add Delight to Your Day",
+    "author": "Melissa Kirsch",
+    "link": "https://www.nytimes.com/2026/10/28/briefing/the-good-list-houdini-colors.html",
+    "content": "Make your life bigger, color stories and back-seat rock.",
+    "date": "2026-10-28T19:21:07",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=248917",
@@ -19978,25 +19998,5 @@
     "content": "Talk show host Jimmy Kimmel poses with a Peabody Award at the 86th Annual Peabody Awards in Beverly Hills, California on May 31, 2026.",
     "date": "2026-09-10T18:15:36",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/22821-ventana-ballet-and-austin-camerata-flower-shop",
-    "feed_name": "KMFA",
-    "title": "Ventana Ballet and Austin Camerata: Flower Shop",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/22821-ventana-ballet-and-austin-camerata-flower-shop",
-    "content": "VENTANA BALLET &amp; AUSTIN CAMERATA PRESENTS:\n\nFLOWER SHOP\n\nA WORLD PREMIERE BALLET\n\nSeptember 10-12 and 17-19 | 6:15 P.M. | East Side Performing Arts\n\nThis is an intimate, up-close experience \u2014 not a traditional theater setting. You'll be in the same room as the dancers and musicians, close enough to hear the breath and feel the movement. The bar (sponsored by Tito's Handmade Vodka) is open before the show, during intermission, and after the show, as well. The vibe is come-as-you-are \u2014 dress up and wear something floral &amp; bright, if you'd like! Total runtime: Approximately 1 hour and 15 minutes (including intermission)\n\nBUY TICKETS!\n\nEvent Details\nDate: September 10-19th\nTime: 6:15 P.M. - 9:00 P.M.\nVenue: East Side Performing Arts (ESPA) \n\nTicket Information\nCost: $33.85 - $55.20\nPhone: \n\nPresenter Details: Since its founding in 2016, Austin Camerata has emerged as an ensemble leading the way in innovative chamber music performances in central Texas. Hailed for its \u201cunadulterated beauty\u201d (Austin 360), Austin Camerata was nominated for \u201cBest Classical Ensemble\u201d by the 2018 Austin Critics Table. Dedicated to reimagining chamber music, Austin Camerata performs an array of repertoire, from the most revered classical masterpieces to jazz, pop, and rock. The ensemble\u2019s immersive concert experiences feature unique venues, choreography, visual art, or storytelling.",
-    "date": "2026-09-10T18:15:00",
-    "category": "Texas"
-  },
-  {
-    "id": "a8224bdc590a040a4fc77c1b4a109610",
-    "feed_name": "The Atlantic",
-    "title": "What the Failure to Convict the Alleged 9/11 Mastermind Reveals",
-    "author": "David A. Graham",
-    "link": "https://www.theatlantic.com/ideas/2026/09/9-11-lessons-bush-trump/688572/",
-    "content": "The George W. Bush administration circumvented the law to persecute alleged September 11 perpetrators. It backfired.",
-    "date": "2026-09-10T17:56:00",
-    "category": "Magazines"
   }
 ]
