@@ -190,6 +190,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/28/arts/russell-brand-trial-rape-sexual-assault.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Russell Brand Testifies in Rape Trial for First Time",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/10/28/arts/russell-brand-trial-rape-sexual-assault.html",
+    "content": "Russell Brand speaking to a reporter outside the London court on Wednesday morning.",
+    "date": "2026-10-28T10:13:31",
+    "category": "NYT"
+  },
+  {
+    "id": "https://stratechery.com/?p=20613",
+    "feed_name": "Stratechery",
+    "title": "Meta Earnings, Muse and the Frontier, Musebook",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+    "content": "<p>Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.</p>",
+    "date": "2026-10-28T10:06:13",
+    "category": "Tech"
+  },
+  {
+    "id": "6abd8c16b729f64a7100611b",
+    "feed_name": "Wired",
+    "title": "Please Let the Internet Die",
+    "author": "Miles Klee",
+    "link": "https://www.wired.com/story/let-the-internet-die/",
+    "content": "Online spaces are captured by oligarchs and saturated with slop\u2014and they\u2019re exacerbating humanity\u2019s worst impulses. It\u2019s time to start over.",
+    "date": "2026-10-28T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018One Job Away\u2019 Tries to Help Actors Keep Their Health Insurance",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/10/movies/oasis-dont-look-back-in-anger-review.html",
     "content": "The \u201990s rock band was known for the tetchy relationship between the brothers Noel and Liam Gallagher. This documentary finds them in an unexpected place.",
     "date": "2026-09-10T09:03:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/movies/practical-magic-2-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Practical Magic 2\u2019 Review: Live a Little, Live a Lot",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/09/10/movies/practical-magic-2-review.html",
-    "content": "The Owens women \u2014 and their curse \u2014 are back in the sequel to the cult classic film.",
-    "date": "2026-09-10T09:03:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/movies/call-my-agent-the-movie-review-a-billet-doux-to-cinema.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Call My Agent! The Movie\u2019 Review: A Billet-Doux to Cinema",
-    "author": "Natalia Winkelman",
-    "link": "https://www.nytimes.com/2026/09/10/movies/call-my-agent-the-movie-review-a-billet-doux-to-cinema.html",
-    "content": "The gang gets back together in this genial comedy that picks up five years after the events of the show\u2019s final season.",
-    "date": "2026-09-10T09:03:27",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/movies/black-zombie-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Black Zombie\u2019 Review: Reclaiming Horror\u2019s Haitian Roots",
-    "author": "Lisa Kennedy",
-    "link": "https://www.nytimes.com/2026/09/10/movies/black-zombie-review.html",
-    "content": "In her compelling documentary, \u201cBlack Zombie,\u201d the director Maya Annik Bedward explores the dark history of an undead genre.",
-    "date": "2026-09-10T09:03:26",
     "category": "NYT"
   }
 ]
