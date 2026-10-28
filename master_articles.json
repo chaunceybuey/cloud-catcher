@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/28/movies/halloween-documentaries-streaming.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Three Great Documentaries to Stream",
+    "author": "Ben Kenigsberg",
+    "link": "https://www.nytimes.com/2026/10/28/movies/halloween-documentaries-streaming.html",
+    "content": "These Halloween-inspired doc picks look at satanic activism, gay subtext in an \u201980s horror film and the origins of zombie lore.",
+    "date": "2026-10-28T15:00:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/28/arts/russell-brand-trial-rape-sexual-assault.html",
     "feed_name": "NYT (Arts)",
     "title": "Russell Brand Testifies in Rape Trial for First Time",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/10/movies/dont-play-with-fire-review.html",
     "content": "Aggrieved teenagers rampage in Tsui Hark\u2019s restored New Wave crime thriller that mixes bloodshed and politics.",
     "date": "2026-09-10T09:03:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/movies/the-uprising-review-andrew-garfield.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Uprising\u2019 Review: Sackcloth and Clashes",
-    "author": "Jeannette Catsoulis",
-    "link": "https://www.nytimes.com/2026/09/10/movies/the-uprising-review-andrew-garfield.html",
-    "content": "Andrew Garfield plays a traumatized serf in this action drama based on the first populist rebellion in English history.",
-    "date": "2026-09-10T09:03:37",
     "category": "NYT"
   }
 ]
