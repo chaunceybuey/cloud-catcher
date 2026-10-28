@@ -240,6 +240,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/28/arts/television/kathleen-kennedy-la-olympic-ceremonies.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Former Head of \u2018Star Wars\u2019 Studio to Lead L.A. Olympic Ceremonies",
+    "author": "Emmanuel Morgan",
+    "link": "https://www.nytimes.com/2026/10/28/arts/television/kathleen-kennedy-la-olympic-ceremonies.html",
+    "content": "Kathleen Kennedy, an eight-time Oscar nominee, stepped down from Lucasfilm earlier this year.",
+    "date": "2026-10-28T20:54:29",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=248960",
+    "feed_name": "Texas Tribune",
+    "title": "As Dems target the Texas House, GOP Speaker Dustin Burrows is campaigning like his gavel\u2019s at stake",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17510264/texas-house-elections-speaker-dustin-burrows-gop-majority-legislature",
+    "content": "House Speaker Dustin Burrows speaks at the Red River Roll Call, a Republican rally in Sherman, on July 27, 2026.",
+    "date": "2026-10-28T20:17:13",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=248946",
+    "feed_name": "Texas Tribune",
+    "title": "Trump says more FEMA aid is coming to Texas after 2026 floods",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17510265/trump-fema-flood-aid-hill-country-texas",
+    "content": "Debris caught on the Francisco Lemos Street bridge over the Guadalupe River in Kerrville on July 16, 2026. Extensive flooding again struck the Hill Country just over a year after the deadly July 4th flood in 2025.",
+    "date": "2026-10-28T20:08:56",
+    "category": "Texas"
+  },
+  {
     "id": "4027117d-3950-4cbd-b3a9-57930fbb1daf",
     "feed_name": "Economist",
     "title": "China\u2019s stock markets are the great global exception",
@@ -278,6 +308,16 @@
     "content": "Make your life bigger, color stories and back-seat rock.",
     "date": "2026-10-28T19:21:07",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=248875",
+    "feed_name": "Texas Tribune",
+    "title": "Comptroller Don Huffines did not disclose his role managing firm investing in SpaceX",
+    "author": "Taylor Goldenstein",
+    "link": "https://feeds.texastribune.org/link/16799/17510266/texas-don-huffines-spacex-personal-finance-disclosure",
+    "content": "State Comptroller and Republican nominee for the job Don Huffines waves as he is mentioned during a Texas Tribune event at the Dallas Regional Chamber in Dallas on March 24, 2026.",
+    "date": "2026-10-28T19:20:51",
+    "category": "Texas"
   },
   {
     "id": "https://www.texastribune.org/?p=248917",
@@ -19958,45 +19998,5 @@
     "content": "The artist Eric N. Mack, who\u2019s always challenged norms, has created a distinctive visual language by focusing on fabric, space and form.",
     "date": "2026-09-10T20:28:42",
     "category": "NYT"
-  },
-  {
-    "id": "6aa2f754f6535aec8afc1afe",
-    "feed_name": "Wired (Science)",
-    "title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
-    "author": "Molly Taft",
-    "link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
-    "content": "While the strengthening El Ni\u00f1o helped boost temperatures, climate change is the main culprit for making August so hot.",
-    "date": "2026-09-10T20:20:23",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/dining/barbecue-restaurants.html",
-    "feed_name": "NYT (Food)",
-    "title": "New York\u2019s Next Barbecue Wave Is Here",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/09/10/dining/barbecue-restaurants.html",
-    "content": "And it includes \u2019cue from experts by way of Texas, a self-taught New Yorker with Dominican roots and a high school coach turned pitmaster.",
-    "date": "2026-09-10T20:02:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/easy-sauce-for-fish",
-    "feed_name": "NYT (Food)",
-    "title": "The Quick Sauce That Changed How I Cook Fish",
-    "author": "Genevieve Ko",
-    "link": "https://cooking.nytimes.com/article/easy-sauce-for-fish",
-    "content": "This home-style Vietnamese classic can be used on fish, chicken, pork and all kinds of seafood, Genevieve Ko writes.",
-    "date": "2026-09-10T19:19:18",
-    "category": "NYT"
-  },
-  {
-    "id": "44442a5c13ab8fb393c283ddb7add8bc",
-    "feed_name": "The Atlantic",
-    "title": "The Thrill of Wanting AI to Destroy the World",
-    "author": "Ian Bogost",
-    "link": "https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/",
-    "content": "An Anthropic researcher quit his job because he believes AI will destroy humanity. His story is going viral because so many others want to believe too.",
-    "date": "2026-09-10T18:35:44",
-    "category": "Magazines"
   }
 ]
