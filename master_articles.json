@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ae0f8e8b1846b1aa5192467",
+    "feed_name": "Wired (Science)",
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "author": "Jake Bittle",
+    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "content": "Human beings struggle with emergency communication. Chatbots can help\u2014if people take them seriously.",
+    "date": "2026-10-28T08:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/28/arts/television/jimmy-kimmel-trump-heckler.html",
     "feed_name": "NYT (Arts)",
     "title": "Jimmy Kimmel Turns Trump Heckler\u2019s Taunt Into a T-Shirt",
@@ -19988,15 +19998,5 @@
     "content": "The Bayeux Tapestry during a press preview at the British Museum in London on Monday.",
     "date": "2026-09-10T06:00:08",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242399",
-    "feed_name": "Texas Tribune",
-    "title": "At midterm convention, Trump vows to campaign hard for Paxton after mocking his speech and looks",
-    "author": "By Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17444023/gop-midterm-convention-dallas-texas-trump-paxton-day-one",
-    "content": "President Donald Trump speaks at the Republicans&#039; midterm convention in Dallas on Wednesday, Sept. 9, 2026.",
-    "date": "2026-09-10T04:01:05",
-    "category": "Texas"
   }
 ]
