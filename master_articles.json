@@ -220,6 +220,26 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=248738",
+    "feed_name": "Texas Tribune",
+    "title": "In this high-stakes election, young Black voters could be the push Dems need to turn Texas blue",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17508483/texas-black-voting-harris-county-youth-strategy",
+    "content": "A mural encouraging people to vote was unveiled at The Breakfast Klub in the Midtown neighborhood of Houston on Oct. 25, 2026.",
+    "date": "2026-10-28T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=248768",
+    "feed_name": "Texas Tribune",
+    "title": "Six charts that explain how Texas\u2019 suburbs became a midterm battleground",
+    "author": "Apurva Mahajan and Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17508484/texas-suburbs-growth-democratic-shift-us-senate-charts",
+    "content": "Suburban development south of Austin on Oct. 2, 2024.",
+    "date": "2026-10-28T10:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018One Job Away\u2019 Tries to Help Actors Keep Their Health Insurance",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/10/movies/the-uprising-review-andrew-garfield.html",
     "content": "Andrew Garfield plays a traumatized serf in this action drama based on the first populist rebellion in English history.",
     "date": "2026-09-10T09:03:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/movies/the-uprising-review-sackcloth-and-clashes.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Uprising\u2019 Review: Sackcloth and Clashes",
-    "author": "Jeannette Catsoulis",
-    "link": "https://www.nytimes.com/2026/09/10/movies/the-uprising-review-sackcloth-and-clashes.html",
-    "content": "Andrew Garfield plays a traumatized serf in this action drama based on the first populist rebellion in English history.",
-    "date": "2026-09-10T09:03:36",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/movies/oasis-dont-look-back-in-anger-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Oasis: Don\u2019t Look Back in Anger\u2019 Review: Together Again",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/09/10/movies/oasis-dont-look-back-in-anger-review.html",
-    "content": "The \u201990s rock band was known for the tetchy relationship between the brothers Noel and Liam Gallagher. This documentary finds them in an unexpected place.",
-    "date": "2026-09-10T09:03:32",
     "category": "NYT"
   }
 ]
