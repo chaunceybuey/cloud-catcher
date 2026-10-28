@@ -190,6 +190,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/28/arts/television/jimmy-kimmel-trump-heckler.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Turns Trump Heckler\u2019s Taunt Into a T-Shirt",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/28/arts/television/jimmy-kimmel-trump-heckler.html",
+    "content": "Kimmel was inspired after the president\u2019s \u201c\u2018Tone-Deaf Comedy Jam\u2019 got tripped up by a heckler.\u201d",
+    "date": "2026-10-28T06:12:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=248829",
     "feed_name": "Texas Tribune",
     "title": "With dueling Trump-Talarico rallies, Lubbock became the center of the political universe",
@@ -19988,15 +19998,5 @@
     "content": "President Donald Trump speaks at the Republicans&#039; midterm convention in Dallas on Wednesday, Sept. 9, 2026.",
     "date": "2026-09-10T04:01:05",
     "category": "Texas"
-  },
-  {
-    "id": "d170d8411ea76996ac66741a9b118898",
-    "feed_name": "LRB",
-    "title": "On Politics: The US at 250",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-the-us-at-250",
-    "content": "Would the Founding Fathers recognise the modern United States as the republic they declared in 1776? The nation formed from Britain\u2019s North American colonies has become the most powerful and prosperous in the world, but the muted celebrations on 4 July reflected a divided country in which, for many of its citizens, the principles of the Declaration of Independence are hard to square with...",
-    "date": "2026-09-10T03:38:07",
-    "category": "Magazines"
   }
 ]
