@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "4027117d-3950-4cbd-b3a9-57930fbb1daf",
+    "feed_name": "Economist",
+    "title": "China\u2019s stock markets are the great global exception",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
+    "content": "If the country is winning the future, why are its investors so glum?",
+    "date": "2026-10-28T19:48:19",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/28/theater/barbara-barrie-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Barbara Barrie, Oscar Nominee Known for Mom Roles and More, Has Died",
@@ -19988,15 +19998,5 @@
     "content": "An Anthropic researcher quit his job because he believes AI will destroy humanity. His story is going viral because so many others want to believe too.",
     "date": "2026-09-10T18:35:44",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242436",
-    "feed_name": "Texas Tribune",
-    "title": "Jimmy Kimmel won\u2019t air interview with James Talarico after threat from FCC",
-    "author": "Kayla Guo",
-    "link": "https://feeds.texastribune.org/link/16799/17444696/jimmy-kimmel-james-talarico-fcc-interview",
-    "content": "Talk show host Jimmy Kimmel poses with a Peabody Award at the 86th Annual Peabody Awards in Beverly Hills, California on May 31, 2026.",
-    "date": "2026-09-10T18:15:36",
-    "category": "Texas"
   }
 ]
