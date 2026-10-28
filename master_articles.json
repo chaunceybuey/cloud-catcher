@@ -200,6 +200,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.kmfa.org/pages/23844-austin-film-festival-and-writer-s-conference",
+    "feed_name": "KMFA",
+    "title": "Austin Film Festival and Writer's Conference",
+    "author": "",
+    "link": "https://www.kmfa.org/pages/23844-austin-film-festival-and-writer-s-conference",
+    "content": "AUSTIN FILM FESTIVAL PRESENTS:\n\nTHE WRITER'S CONFERENCE\n\nOctober 29th - November 5th\n\n\n\nAustin Film Festival furthers the art and craft of storytelling by\u00a0inspiring\u00a0and\u00a0championing the work of writers, filmmakers, and all artists who use written and visual language to tell a story.\n\nBUY TICKETS!\n\nEvent Details\nDate: October 29th - November 5th\nTime: See website for specific event timing\nVenue: Paramount Theater (Other venues can be found on the AFF website)\n\nTicket Information\nCost: $43 - $6600\nPhone: \n\nPresenter Details: The Austin Film Festival is a year-round non-profit organization. We do events throughout the year, a Membership Program, a Young Filmmakers Program with summer camps and classes \u2013 not to mention \u2013 a TV show, radio show and MORE!",
+    "date": "2026-10-29T17:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "6ae20c0e7359ba945850d6cf",
+    "feed_name": "Wired",
+    "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+    "author": "Steven Levy",
+    "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+    "content": "An exclusive early look at Apple\u2019s new touchscreen MacBook Pro\u2014the computer Apple said would never happen.",
+    "date": "2026-10-28T17:15:16",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/arts/music/josh-johnson-animative-jazz.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Josh Johnson, a Trusted Music Producer, Has a New Jazz LP Coming Out",
+    "author": "Marcus J. Moore",
+    "link": "https://www.nytimes.com/2026/10/28/arts/music/josh-johnson-animative-jazz.html",
+    "content": "Josh Johnson became a trusted producer of Meshell Ndegeocello and Flea for knowing when to guide and when to let go. He gives himself that license on a new LP, \u201cAnimative.\u201d",
+    "date": "2026-10-28T17:00:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
     "feed_name": "NYT (Food)",
     "title": "What Does the Cheesecake Factory\u2019s Designer Think of Obama and Trump\u2019s Jabs at His D\u00e9cor?",
@@ -19968,35 +19998,5 @@
     "content": "There are better ways to fight climate change, immobility and inequality",
     "date": "2026-09-10T09:17:11",
     "category": "Magazines"
-  },
-  {
-    "id": "6aa18e1a00b33a8fe7057f24",
-    "feed_name": "Wired (Science)",
-    "title": "A Satellite Falling Out of Orbit Embarks on Its Final Mission",
-    "author": "Teruyuki Hayakawa",
-    "link": "https://www.wired.com/story/satellite-falling-out-of-space-embarks-on-final-mission/",
-    "content": "Before reentering our atmosphere, the telescopes onboard NASA\u2019s Neil Gehrels Swift Observatory have been restarted to take their last observations.",
-    "date": "2026-09-10T09:15:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/podcasts/cannonball-post-911-comedy.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How 9/11 Changed Comedy",
-    "author": "Wesley Morris and Jason Zinoman",
-    "link": "https://www.nytimes.com/2026/09/10/podcasts/cannonball-post-911-comedy.html",
-    "content": "Looking back at a time when laughter was harder to find.",
-    "date": "2026-09-10T09:05:02",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
-    "feed_name": "Interesting Times",
-    "title": "Crypto, Gold and Foreign Money: Is This What the Presidency Is Now?",
-    "author": "Christopher Caldwell and Sophia Muniz",
-    "link": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
-    "content": "And how Trump gets away with it.",
-    "date": "2026-09-10T09:04:31",
-    "category": "Uncategorized"
   }
 ]
