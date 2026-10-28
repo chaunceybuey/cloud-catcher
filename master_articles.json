@@ -19650,6 +19650,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
+    "feed_name": "Interesting Times",
+    "title": "Trump Is Getting Even Richer. Is That a Crime?",
+    "author": "Christopher Caldwell and Sophia Muniz",
+    "link": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
+    "content": "The legal murkiness of Trump\u2019s highly profitable second term.",
+    "date": "2026-09-10T20:38:39",
+    "category": "Uncategorized"
+  },
+  {
     "id": "eb592f5de25f997d50e2d36dcc8ccf57",
     "feed_name": "LRB",
     "title": "Why is Trump bombing Somalia?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.economist.com/finance-and-economics/2026/09/10/can-germanys-economic-recovery-outrun-the-afd",
     "content": "It is showing signs of life\u2014but fragile ones",
     "date": "2026-09-10T09:17:17",
-    "category": "Magazines"
-  },
-  {
-    "id": "019b08e2-1308-44f5-8cdf-7cbc07e6d991",
-    "feed_name": "Economist",
-    "title": "The economic folly of free buses",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/10/the-economic-folly-of-free-buses",
-    "content": "There are better ways to fight climate change, immobility and inequality",
-    "date": "2026-09-10T09:17:11",
     "category": "Magazines"
   }
 ]
