@@ -470,6 +470,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/eastern-black-walnut-homeowners-chefs",
+    "feed_name": "NYT (Food)",
+    "title": "How the Eastern Black Walnut Gained Fans and Foes",
+    "author": "Jed Portman",
+    "link": "https://cooking.nytimes.com/article/eastern-black-walnut-homeowners-chefs",
+    "content": "How to describe the flavor of black walnuts? \u201cThe two words to remember, if you forget everything else, are bold and wild,\u201d said Brian Hammons, chief executive of Hammons Products Company of Stockton, Mo.",
+    "date": "2026-10-29T14:35:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/t-magazine/a-few-good-men-broadway-live.html",
     "feed_name": "NYT (Arts)",
     "title": "Broadway\u2019s \u2018A Few Good Men,\u2019 Performed Live in the Office",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/12/movies/venice-film-festival-golden-lion-woman-unknown.html",
     "content": "The director May el-Toukhy receiving the Golden Lion Award for her film \u201cWoman Unknown\u201d at the 83rd Venice International Film Festival on Saturday.",
     "date": "2026-09-12T22:26:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Trump Demands Smithsonian Install \u2018Colossus\u2019 George Washington Statue",
-    "author": "Jennifer Schuessler",
-    "link": "https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html",
-    "content": "In a post on social media, President Trump also called for the Smithsonian\u2019s National Museum of American History to host a five-year exhibition about Washington\u2019s legacy \u201cbeginning now.\u201d",
-    "date": "2026-09-12T19:32:41",
     "category": "NYT"
   }
 ]
