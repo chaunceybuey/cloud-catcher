@@ -230,6 +230,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/29/arts/dance/review-oona-doherty-specky-clark.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Choreographer Oona Doherty\u2019s Haunted Belfast of Spirits and Dead Pigs",
+    "author": "Brian Seibert",
+    "link": "https://www.nytimes.com/2026/10/29/arts/dance/review-oona-doherty-specky-clark.html",
+    "content": "The Belfast choreographer Oona Doherty, who is interested in the kinetic effects of trauma, sets the story of an orphaned 10-year-old on Halloween.",
+    "date": "2026-10-29T17:14:37",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/dining/bloody-beets-ghostly-cauliflower.html",
+    "feed_name": "NYT (Food)",
+    "title": "Bloody Beets, Ghostly Cauliflower",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/10/29/dining/bloody-beets-ghostly-cauliflower.html",
+    "content": "Hetty Lui McKinnon\u2019s roasted cauliflower and lentil salad.",
+    "date": "2026-10-29T17:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23844-austin-film-festival-and-writer-s-conference",
     "feed_name": "KMFA",
     "title": "Austin Film Festival and Writer's Conference",
@@ -268,6 +288,16 @@
     "content": "\u201cI wanted a book that didn\u2019t hit over the head \u2018immigrant\u2019 or \u2018different\u2019 themes,\u201d Azie Tesfai said of her approach to her graphic novel.",
     "date": "2026-10-29T16:31:39",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=248894",
+    "feed_name": "Texas Tribune",
+    "title": "Disappointed by Trump, dubious of Talarico: This Rio Grande Valley health official mulls his midterm vote",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17510738/texas-rio-grande-valley-hispanic-voters-ivan-melendez-hidalgo-trump",
+    "content": "Hidalgo County Healthy Authority Dr. Ivan Melendez at the Hidalgo County Health and Human Services office in Edinburg on April 14, 2025. Dr. Melendez oversaw the local response when COVID-19 first spread through the region in 2020.",
+    "date": "2026-10-29T16:00:00",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/10/29/dining/drinks/american-chenin-blanc-wine-california.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/12/arts/music/music-hall-williamsburg-nyc-venues.html",
     "content": "With Music Hall of Williamsburg ending its run this year, a cartoonist and recent arrival to the city recalls the blissfully buzzed shows she saw there and elsewhere for the price of a matcha.",
     "date": "2026-09-12T09:01:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/12/t-magazine/rita-ackermann-interview.html",
-    "feed_name": "NYT (Arts)",
-    "title": "09tmag-ackermann-slide-YGG2",
-    "author": "M.H. Miller",
-    "link": "https://www.nytimes.com/2026/09/12/t-magazine/rita-ackermann-interview.html",
-    "content": "The artist, an enfant terrible of the 1990s, has embraced a quieter, more enigmatic style. Just don\u2019t ask her what it all means.",
-    "date": "2026-09-12T09:00:53",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/12/arts/kodak-film-the-odyssey.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Odyssey\u2019 Was Shot on Real Film. This Is the Only Place Left Making It.",
-    "author": "Marc Tracy and Gus Aronson",
-    "link": "https://www.nytimes.com/2026/09/12/arts/kodak-film-the-odyssey.html",
-    "content": "Christopher Nolan\u2019s epic \u201cThe Odyssey\u201d was shot on physical film, a resurgent medium that is manufactured entirely in one factory in western New York.",
-    "date": "2026-09-12T09:00:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/12/arts/television/fall-tv-shows.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Blade Runner,\u2019 \u2018A Different World,\u2019 and More Shows to Watch This Fall",
-    "author": "Mike Hale",
-    "link": "https://www.nytimes.com/2026/09/12/arts/television/fall-tv-shows.html",
-    "content": "Matthew McConaughey, left, and Woody Harrelson might be related in \u201cBrothers,\u201d a new Apple TV sitcom premiering in September.",
-    "date": "2026-09-12T09:00:25",
     "category": "NYT"
   }
 ]
