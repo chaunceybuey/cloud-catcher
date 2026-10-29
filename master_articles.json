@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Taryn Simon Fills Guggenheim With Evidence in \u2018Father Country I Do Love You\u2019",
+    "author": "Jason Farago and Daniel Terna",
+    "link": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
+    "content": "The photographer Taryn Simon spent a decade channeling an F.B.I. agent\u2019s life into pictures. Is it good art? Does it matter?",
+    "date": "2026-10-29T18:37:31",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/dining/healthy-slow-cooker-recipes.html",
     "feed_name": "NYT (Food)",
     "title": "Healthy Slow-Cooker Recipes That Make It Easy to Eat Well No Matter How Busy You Are",
@@ -19988,15 +19998,5 @@
     "content": "And if your tap water is undrinkable, you have no \u201cconstitutional right to truthful information\u201d about it.",
     "date": "2026-09-12T09:30:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/12/arts/music/tinashe-sylvan-esso-rod-wave-playlist.html",
-    "feed_name": "NYT (Arts)",
-    "title": "10 Songs We\u2019re Talking About",
-    "author": "Jon Pareles",
-    "link": "https://www.nytimes.com/2026/09/12/arts/music/tinashe-sylvan-esso-rod-wave-playlist.html",
-    "content": "Tinashe stacks up harmonies in her ballad \u201cI\u2019d Rather Be Alone.\u201d",
-    "date": "2026-09-12T09:04:15",
-    "category": "NYT"
   }
 ]
