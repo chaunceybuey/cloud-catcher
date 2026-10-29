@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/29/arts/television/late-night-trump-mar-a-lago.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Teases Trump Over His Invite to Mar-a-Lago",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/29/arts/television/late-night-trump-mar-a-lago.html",
+    "content": "\u201cWhy are you telling these people who gathered to see you in their Chinese-made, American-flag, Hawaiian shirts that they can\u2019t afford to eat at your house?\u201d Jimmy Kimmel asked.",
+    "date": "2026-10-29T06:58:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=249112",
     "feed_name": "Texas Tribune",
     "title": "Panhandle Republican group wants all Texas ballots hand counted in the Nov. 3 election",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-uses-ai-for-lip-synced-translations.html",
     "content": "The streamer released a version of a popular German series in which the actors\u2019 lip movements have been digitally altered.",
     "date": "2026-09-10T23:56:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/arts/music/d4vd-lawsuit-celeste-rivas-hernandez-murder.html",
-    "feed_name": "NYT (Arts)",
-    "title": "D4vd Is Sued by Teenage Victim\u2019s Family After Murder Charge",
-    "author": "Emmanuel Morgan and Matt Stevens",
-    "link": "https://www.nytimes.com/2026/09/10/arts/music/d4vd-lawsuit-celeste-rivas-hernandez-murder.html",
-    "content": "Celeste Rivas Hernandez\u2019s parents are seeking unspecified damages for offenses including emotional distress, false imprisonment and childhood sexual assault.",
-    "date": "2026-09-10T23:08:03",
     "category": "NYT"
   }
 ]
