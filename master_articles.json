@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/29/t-magazine/a-few-good-men-broadway-live.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Broadway\u2019s \u2018A Few Good Men,\u2019 Performed Live in the Office",
+    "author": "Nancy Coleman",
+    "link": "https://www.nytimes.com/2026/10/29/t-magazine/a-few-good-men-broadway-live.html",
+    "content": "Watch Bradley Whitford and three other actors from the Broadway revival of Aaron Sorkin\u2019s classic courtroom drama argue in an office at the New York Times Building.",
+    "date": "2026-10-29T14:21:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nybooks.com/articles/2026/11/19/back-to-the-future-andy-burnham-fintan-otoole/",
     "feed_name": "NYRB",
     "title": "Back to the Future",
@@ -19987,16 +19997,6 @@
     "link": "https://www.kmfa.org/pages/22822-austin-shakespeare-verdict-of-love",
     "content": "AUSTIN SHAKESPEARE PRESENTS:\n\nVERDICT OF LOVE\n\nSeptember 11-12 | Various Times | Austin Opera's Butler Performance Center\n\n\n\nThis significantly heightened romantic story is set in Belle \u00c9poque Rome where three young American artists become intrigued by a young Italian (Donatello) who makes the exuberance of the sculpture of a \u201cMarble Faun\u201d come to life. A stranger shadows them and becomes a dark force to content with as a surprising murder complicates their relationships.\n\nVerdict of Love is a new opera in progress. Part One will be sung while accompanied by piano. Part Two will continue our story as a staged reading.\n\nBUY TICKETS!\n\nEvent Details\nDate: September 11 - 12th\nTime: Varying Showtimes\nVenue: Austin Opera\u2019s Butler Performance Center\n\nTicket Information\nCost: $15 - $30\nPhone: \n\nPresenter Details: Austin Shakespeare is a 501 (c)(3) nonprofit organization which began in 1984 with Free Shakespeare in Zilker Park and has been a staple in Austin theater since. Originally subsidized by the City of Austin, it quickly developed its own funding sources early on, establishing itself as one of the premier nonprofit theater companies in central Texas.\n\nIn addition to Free Shakespeare in the Park, the company presents Shakespeare and other classic works along with contemporary playwrights whose work reflects classical sensibilities at the Rollins Theater of The Long Center and Austin\u2019s Scottish Rite Theater.",
     "date": "2026-09-11T19:30:00",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242580",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Supreme Court blocks Galveston County from using districts redrawn after the primaries",
-    "author": "Stephen Simpson",
-    "link": "https://feeds.texastribune.org/link/16799/17445609/texas-galveston-county-redistricting-supreme-court-maps",
-    "content": "The Galveston County Courthouse on May 16, 2024.",
-    "date": "2026-09-11T18:49:24",
     "category": "Texas"
   }
 ]
