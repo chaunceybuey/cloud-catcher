@@ -230,6 +230,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/29/arts/design/us-pavilion-venice-biennale.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Urgent Funding Sought to Retrieve U.S. \u2018Art Olympics\u2019 Sculptures",
+    "author": "Zachary Small",
+    "link": "https://www.nytimes.com/2026/10/29/arts/design/us-pavilion-venice-biennale.html",
+    "content": "The U.S. Pavilion featuring Alma Allen\u2019s \u201cCall Me the Breeze\u201d presentation at the Venice Biennale in May.",
+    "date": "2026-10-29T20:14:46",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
+    "feed_name": "NYT (Arts)",
+    "title": "7 Memorable Patrick Stewart Performances",
+    "author": "Claire Moses",
+    "link": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
+    "content": "Patrick Stewart has played many memorable roles.",
+    "date": "2026-10-29T20:12:30",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/dining/reader-questions.html",
+    "feed_name": "NYT (Food)",
+    "title": "Banana Splits, Party Omakase and More Ways To Stave Off The Winter Blues",
+    "author": "Becky Hughes",
+    "link": "https://www.nytimes.com/2026/10/29/dining/reader-questions.html",
+    "content": "Jahn\u2019s is a Queens institution that takes ice cream sundaes and banana splits very seriously.",
+    "date": "2026-10-29T19:50:02",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Patrick Stewart, Captain Picard on \u2018Star Trek: The Next Generation,\u201d Dies",
@@ -19968,35 +19998,5 @@
     "content": "Yossy Arefi\u2019s pumpkin crumb cake.",
     "date": "2026-09-12T14:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.kmfa.org/pages/22425-frohlich-featuring-works-by-juon-muczynski-henryson-and-rota",
-    "feed_name": "KMFA",
-    "title": "Frohlich: Featuring Works by Juon, Muczynski, Henryson, and Rota",
-    "author": "",
-    "link": "https://www.kmfa.org/pages/22425-frohlich-featuring-works-by-juon-muczynski-henryson-and-rota",
-    "content": "FROHLICH:\n\nFEATURING WORKS BY JUON, MUCZYNSKI, HENRYSON, AND ROTA\n\nSeptember 12 | 2 P.M. | St. Vincent De Paul Catholic Church\n\nFREE!\n\nEvent Details\nDate: Saturday, September 12\nTime: 2:00 P.M.\nVenue: St. Vincent De Paul Catholic Church - Main Church\n\nTicket Information\nCost: FREE\nPhone: \n\nPresenter Details:",
-    "date": "2026-09-12T14:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "f72c8e43c92e95a2abd7dc8f2c39d884",
-    "feed_name": "The Atlantic",
-    "title": "Trump Will Never Mail the $5,000 Checks",
-    "author": "Jonathan Chait",
-    "link": "https://www.theatlantic.com/ideas/2026/09/trump-5000-rebate-checks/688599/",
-    "content": "Deconstructing a policy proposal that makes no sense on any level",
-    "date": "2026-09-12T11:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6aa1ba6ba54f67325a26c7b9",
-    "feed_name": "Wired (Science)",
-    "title": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
-    "author": "Isabella Ward",
-    "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-    "content": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life\u2019s work.",
-    "date": "2026-09-12T10:00:00",
-    "category": "Magazines"
   }
 ]
