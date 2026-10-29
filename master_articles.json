@@ -230,6 +230,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Patrick Stewart, Captain Picard on \u2018Star Trek: The Next Generation,\u201d Dies",
+    "author": "Anita Gates and William McDonald",
+    "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "content": "Patrick Stewart was Professor X in five \u201cX-Men\u201d movies, Macbeth on Broadway and, recently, the voice of a wise ram in \u201cThe Sheep Detectives.\u201d",
+    "date": "2026-10-29T19:43:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23910-central-texas-philharmonic-a-ghostly-evening",
     "feed_name": "KMFA",
     "title": "Central Texas Philharmonic: A Ghostly Evening",
@@ -19987,16 +19997,6 @@
     "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
     "content": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life\u2019s work.",
     "date": "2026-09-12T10:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "6aa43382df908fcb665152ee",
-    "feed_name": "Wired (Science)",
-    "title": "You Don\u2019t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules",
-    "author": "Sophie Hurwitz",
-    "link": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
-    "content": "And if your tap water is undrinkable, you have no \u201cconstitutional right to truthful information\u201d about it.",
-    "date": "2026-09-12T09:30:00",
     "category": "Magazines"
   }
 ]
