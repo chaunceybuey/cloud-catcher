@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ae21edad2de52506c44911f",
+    "feed_name": "Wired (Science)",
+    "title": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
+    "author": "Isabella Ward",
+    "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+    "content": "Anthropic and OpenAI say they\u2019ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like \u201coverexcited bunnies\u201d as they look at new questions to explore.",
+    "date": "2026-10-29T10:45:00",
+    "category": "Magazines"
+  },
+  {
     "id": "679dccfb-f934-474f-a4b0-76fb5f9b07dc",
     "feed_name": "Economist",
     "title": "The task facing the new head of India\u2019s biggest private bank",
@@ -19988,15 +19998,5 @@
     "content": "Osama bin Laden wanted to eradicate faith in American power. Twenty-five years later, his dream is on the verge of coming true.",
     "date": "2026-09-11T12:20:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/11/arts/design/yayoi-kusama-retrospective-stedelijk-museum.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Lose Yourself in Yayoi Kusama\u2019s Last Show",
-    "author": "Emily LaBarge",
-    "link": "https://www.nytimes.com/2026/09/11/arts/design/yayoi-kusama-retrospective-stedelijk-museum.html",
-    "content": "\u201cInfinity Mirrored Room \u2014 \u2018The Hope of the Polka Dots Buried in Infinity Will Eternally Cover The Universe\u2019\u201d (2025) at the Stedelijk Museum in Amsterdam.",
-    "date": "2026-09-11T10:50:15",
-    "category": "NYT"
   }
 ]
