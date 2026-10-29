@@ -230,6 +230,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Patrick Stewart: A Life in Pictures",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
+    "content": "The motley mix of roles that won the British actor acclaim include a Shakespearean hero, a \u201cStar Trek\u201d captain and an \u201cX-Men\u201d mutant.",
+    "date": "2026-10-29T23:23:53",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=249243",
+    "feed_name": "Texas Tribune",
+    "title": "Texas AG\u2019s office labels get-out-the-vote ads discriminatory for focus on Black, Latino and Asian voters",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17510944/texas-attorney-general-lawsuit-harris-county-ads",
+    "content": "A volunteer and a voter exit and enter the polling location at Westbury Baptist Church during primary election day on March 3, 2026, in Houston.",
+    "date": "2026-10-29T22:19:23",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html",
     "feed_name": "NYT (Arts)",
     "title": "Patrick Stewart Brought Elegance To \u2018Star Trek\u2019 as Jean-Luc Picard",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/11/arts/design/bayeux-tapestry-british-museum.html",
     "content": "The medieval masterpiece has traveled from France to England for a once-in-a-lifetime show. It is not what our critic Jason Farago expected.",
     "date": "2026-09-13T05:42:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/13/arts/design/louvre-france-museum-robberies.html",
-    "feed_name": "NYT (Arts)",
-    "title": "After Louvre Jewel Heist, Robberies Continue at French Museums",
-    "author": "Mark Landler",
-    "link": "https://www.nytimes.com/2026/09/13/arts/design/louvre-france-museum-robberies.html",
-    "content": "The Louvre\u2019s Apollo Gallery, which housed royal jewels and crown diamonds.",
-    "date": "2026-09-13T04:01:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/12/movies/venice-film-festival-golden-lion-woman-unknown.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Woman Unknown\u2019 Takes Top Prize at Venice Film Festival",
-    "author": "Nicolas Rapold",
-    "link": "https://www.nytimes.com/2026/09/12/movies/venice-film-festival-golden-lion-woman-unknown.html",
-    "content": "The director May el-Toukhy receiving the Golden Lion Award for her film \u201cWoman Unknown\u201d at the 83rd Venice International Film Festival on Saturday.",
-    "date": "2026-09-12T22:26:03",
     "category": "NYT"
   }
 ]
