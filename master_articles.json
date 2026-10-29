@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/28/arts/television/the-lowdown-season-2-episode-4-recap-the-milk-of-human-unkindness.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Lowdown\u2019 Season 2 Episode 4 Recap: The Milk of Human Unkindness",
+    "author": "Sean T. Collins",
+    "link": "https://www.nytimes.com/2026/10/28/arts/television/the-lowdown-season-2-episode-4-recap-the-milk-of-human-unkindness.html",
+    "content": "Ethan Hawke in \u201cThe Lowdown.\u201d",
+    "date": "2026-10-29T02:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "e6a20af804889e936ab24b3b0195f372",
     "feed_name": "LRB",
     "title": "November Late Night Shopping",
@@ -19988,15 +19998,5 @@
     "content": "The leaders of the American right have embraced the false idea that the United States is at war with Islam.",
     "date": "2026-09-10T20:48:08",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
-    "feed_name": "Interesting Times",
-    "title": "Trump Is Getting Even Richer. Is That a Crime?",
-    "author": "Christopher Caldwell and Sophia Muniz",
-    "link": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
-    "content": "The legal murkiness of Trump\u2019s highly profitable second term.",
-    "date": "2026-09-10T20:38:39",
-    "category": "Uncategorized"
   }
 ]
