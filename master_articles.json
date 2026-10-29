@@ -230,6 +230,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.bogleheads.org/forum/viewtopic.php?p=8887341#p8887341",
+    "feed_name": "Fidelity",
+    "title": "Re: Fidelity as a one stop shop",
+    "author": "EightiesGeek",
+    "link": "https://www.bogleheads.org/forum/viewtopic.php?p=8887341#p8887341",
+    "content": "<blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>  I can do a recurring transfer to another Fidelity account, but AFAICT for outgoing to another bank, the only option is immediately.  Is there another way to do it?</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Only if you link the account first.</div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>It's linked, but trying to create a recurring transfer just creates a one-time transfer.  I tried linking the external account with a brokerage account instead of my CMA just now and got the same result.<br /><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div><br /><br />This is what I had to do:<br /><br /><a class=\"postlink\" href=\"https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/customer-service/automatic-withdrawals-non-retirement-accounts.pdf\">https://www.fidelity.com/bin-public/060 ... counts.pdf</a><br /><br />The main details are on page 3 of the form<br /><br />IIRC I did not need a medallion as I took it into the branch.  <br /><blockquote class=\"uncited\"><div><div class=\"imcger-quote\"><div class=\"imcger-quote-text\"><div>I<em class=\"text-italics\">f the form is completed at a Fidelity Investor Center with all signers present, the Medallion signature guarantee is not required</em>. </div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote></div><div class=\"imcger-quote-shadow\"></div></div><div class=\"imcger-quote-togglebutton\"></div></div></div></blockquote>Interesting.   That does look like the right form.   I've kept a BoA account for various reasons, one of which is to get things notarized, but now I'm usig a bank where it's trivial (via regular EFT or Zelle) to accomplish this to enable it at a place (Fidelity) where it's really hard.  I think I'm going to chalk this up as where Fidelity isn't a one stop shop, still, and just use BoA.<p>Statistics: Posted by <a href=\"https://www.bogleheads.org/forum/memberlist.php?mode=viewprofile&amp;u=219914\">EightiesGeek</a> \u2014 Thu Oct 29, 2026 12:44 pm</p><hr />",
+    "date": "2026-10-29T17:44:38",
+    "category": "Finance"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/arts/dance/review-oona-doherty-specky-clark.html",
     "feed_name": "NYT (Arts)",
     "title": "The Choreographer Oona Doherty\u2019s Haunted Belfast of Spirits and Dead Pigs",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/12/arts/television/high-value-target-joel-kinnaman-john-nixon.html",
     "content": "A series starring Joel Kinnaman tells the story of John Nixon, the first C.I.A. officer to interrogate the former Iraqi dictator after his capture.",
     "date": "2026-09-12T09:02:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/12/arts/music/music-hall-williamsburg-nyc-venues.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Best Friends and a $15 Concert: An N.Y.C. Rite of Passage",
-    "author": "Devon Blue",
-    "link": "https://www.nytimes.com/2026/09/12/arts/music/music-hall-williamsburg-nyc-venues.html",
-    "content": "With Music Hall of Williamsburg ending its run this year, a cartoonist and recent arrival to the city recalls the blissfully buzzed shows she saw there and elsewhere for the price of a matcha.",
-    "date": "2026-09-12T09:01:03",
     "category": "NYT"
   }
 ]
