@@ -240,6 +240,26 @@
     "category": "Texas"
   },
   {
+    "id": "9a480a00-ab16-4e82-9f19-925703b7d8ba",
+    "feed_name": "Economist",
+    "title": "Christine Lagarde departs at a moment of peril",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+    "content": "Her successor as ECB chief will have an unenviable job",
+    "date": "2026-10-29T11:26:26",
+    "category": "Magazines"
+  },
+  {
+    "id": "e1953d4a-141a-4a72-bca4-d7c5e0e40716",
+    "feed_name": "Economist",
+    "title": "The never-ending absurdity of global oil markets",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
+    "content": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
+    "date": "2026-10-29T11:16:13",
+    "category": "Magazines"
+  },
+  {
     "id": "6ae21edad2de52506c44911f",
     "feed_name": "Wired (Science)",
     "title": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
@@ -19977,26 +19997,6 @@
     "link": "https://www.compactmag.com/article/9-11-in-the-age-of-unreality/",
     "content": "",
     "date": "2026-09-11T14:52:28",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Trump\u2019s \u2018Midterm Convention\u2019 Tried to Reach Die-Hard Republican Voters, but Lacked Oomph",
-    "author": "James Poniewozik",
-    "link": "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html",
-    "content": "President Trump spoke on both nights of a Republican convention that wasn\u2019t technically a convention.",
-    "date": "2026-09-11T14:25:25",
-    "category": "NYT"
-  },
-  {
-    "id": "a7e9bd33ae1e3f17c1b2691efb1e5464",
-    "feed_name": "The Atlantic",
-    "title": "Rules Designed to Create Chaos",
-    "author": "Quinta Jurecic",
-    "link": "https://www.theatlantic.com/ideas/2026/09/mail-voting-usps-trump/688585/",
-    "content": "The Trump administration is hoping to put so many restrictions on mail-in balloting that people simply won\u2019t be able to vote that way at all.",
-    "date": "2026-09-11T13:12:56",
     "category": "Magazines"
   }
 ]
