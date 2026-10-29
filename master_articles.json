@@ -230,6 +230,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ae39d322fb04f3ceeb90b15",
+    "feed_name": "Wired (Science)",
+    "title": "What to Know About China\u2019s Top-Secret Spaceplane",
+    "author": "Stephen Clark, Ars Technica",
+    "link": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
+    "content": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
+    "date": "2026-10-29T20:45:36",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/video/arts/100000011218664/sexy-ai-avatars-are-coming-for-comedy.html",
     "feed_name": "NYT (Arts)",
     "title": "A.I. Avatars Are Coming for Comedy",
@@ -19988,15 +19998,5 @@
     "content": "On Tuesday, the foreign secretary, Ed Miliband, made a statement to the House of Commons in which he announced an \u2018import ban on goods.\u00a0.\u00a0.",
     "date": "2026-09-12T19:01:04",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/12/arts/starcraft-shooter-blizzard.html",
-    "feed_name": "NYT (Arts)",
-    "title": "StarCraft Is Returning, but as an Open-World Shooter",
-    "author": "Brian X. Chen",
-    "link": "https://www.nytimes.com/2026/09/12/arts/starcraft-shooter-blizzard.html",
-    "content": "The influential franchise is moving away from the real-time strategy genre with a game that\u2019s directed by a veteran of the Far Cry series.",
-    "date": "2026-09-12T18:25:05",
-    "category": "NYT"
   }
 ]
