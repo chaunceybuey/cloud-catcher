@@ -240,6 +240,36 @@
     "category": "Texas"
   },
   {
+    "id": "8286ec410045c6d714cffd0c2561a73d",
+    "feed_name": "LRB",
+    "title": "Narrative Poems: \u2018Enoch Arden\u2019 by Alfred Tennyson",
+    "author": "",
+    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/narrative-poems-enoch-arden-by-alfred-tennyson",
+    "content": "In the early 1860s, Tennyson was at the height of his celebrity. His great elegy,In Memoriam(1850), seemed to have captured the spiritual unease of the age, and the first instalment ofIdylls of the Kingcame in 1859. But in 1861 he took a break from Arthurian romance to try something different, a narrative poem based on an old yarn about a man who goes missing at sea for more than ten...",
+    "date": "2026-10-29T16:42:11",
+    "category": "Magazines"
+  },
+  {
+    "id": "4b0f75f3515d094a1f0d687bc34a57ea",
+    "feed_name": "Compact",
+    "title": "The Last Election, Forever",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-last-election-forever/",
+    "content": "",
+    "date": "2026-10-29T16:42:07",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/arts/television/azie-tesfai-supergirl-graphic-novel-superhero.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A \u2018Supergirl\u2019 Actress Writes the Children\u2019s Book She Wished for as a Kid",
+    "author": "George Gene Gustines",
+    "link": "https://www.nytimes.com/2026/10/29/arts/television/azie-tesfai-supergirl-graphic-novel-superhero.html",
+    "content": "\u201cI wanted a book that didn\u2019t hit over the head \u2018immigrant\u2019 or \u2018different\u2019 themes,\u201d Azie Tesfai said of her approach to her graphic novel.",
+    "date": "2026-10-29T16:31:39",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/dining/drinks/american-chenin-blanc-wine-california.html",
     "feed_name": "NYT (Food)",
     "title": "The Rise of American Chenin Blanc",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/12/arts/television/fall-tv-shows.html",
     "content": "Matthew McConaughey, left, and Woody Harrelson might be related in \u201cBrothers,\u201d a new Apple TV sitcom premiering in September.",
     "date": "2026-09-12T09:00:25",
-    "category": "NYT"
-  },
-  {
-    "id": "9a7cf1f0-ac1c-4716-bda1-b50c7b7ccd18",
-    "feed_name": "Economist",
-    "title": "Wanted: new business, finance and economics interns",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
-    "content": "The Economist invites applications for the Marjorie Deane internship",
-    "date": "2026-09-12T08:04:14",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/11/arts/music/lil-durk-acquitted-murder-for-hire.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Lil Durk Is Found Not Guilty in Murder-for-Hire Case",
-    "author": "Emmanuel Morgan",
-    "link": "https://www.nytimes.com/2026/09/11/arts/music/lil-durk-acquitted-murder-for-hire.html",
-    "content": "Lil Durk and associates from his Only the Family rap label are expected to stand trial in Chicago on federal racketeering charges.",
-    "date": "2026-09-12T01:15:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/06/dining/the-most-popular-recipes-from-the-weeknight-100.html",
-    "feed_name": "Weeknight Dishes",
-    "title": "The Most Popular Recipes From The Weeknight 100",
-    "author": "Emily Weinstein",
-    "link": "https://www.nytimes.com/2026/09/06/dining/the-most-popular-recipes-from-the-weeknight-100.html",
-    "content": "Tomato basil chicken breasts, a cheeseburger soup, coconutty shrimp noodles and so much more.",
-    "date": "2026-09-11T21:17:20",
     "category": "NYT"
   }
 ]
