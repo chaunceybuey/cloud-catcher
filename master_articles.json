@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=248928",
+    "feed_name": "Texas Tribune",
+    "title": "A conservative senator reshaped Texas colleges. He wants the rest of the country to follow.",
+    "author": "Jessica Priest",
+    "link": "https://feeds.texastribune.org/link/16799/17510501/texas-tech-university-brandon-creighton",
+    "content": "Texas Tech Chancellor Brandon Creighton speaks at President Donald Trumps&#039; midterm rally at the Lubbock Memorial Civic Center in Lubbock on Oct. 27, 2026.",
+    "date": "2026-10-29T08:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/arts/television/late-night-trump-mar-a-lago.html",
     "feed_name": "NYT (Arts)",
     "title": "Late Night Teases Trump Over His Invite to Mar-a-Lago",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/10/arts/television/amazon-prime-video-ai-translation-dub.html",
     "content": "The streamer released a version of a popular German series in which the actors\u2019 lip movements have been digitally altered.",
     "date": "2026-09-10T23:56:34",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-uses-ai-for-lip-synced-translations.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Amazon Prime Video Uses A.I. for Lip-Synced Translations",
-    "author": "Reggie Ugwu",
-    "link": "https://www.nytimes.com/2026/09/10/movies/amazon-prime-video-uses-ai-for-lip-synced-translations.html",
-    "content": "The streamer released a version of a popular German series in which the actors\u2019 lip movements have been digitally altered.",
-    "date": "2026-09-10T23:56:33",
     "category": "NYT"
   }
 ]
