@@ -230,6 +230,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/11/19/hull-house-on-the-hudson-a-slumless-america-mary-simkhovitch/",
+    "feed_name": "NYRB",
+    "title": "Hull House on the Hudson",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/11/19/hull-house-on-the-hudson-a-slumless-america-mary-simkhovitch/",
+    "content": "Mary K. Simkhovitch, the founder of Greenwich House, believed in the radical idea that housing should be made as livable for the working class as it was for the middle class.\n\nDelivered by PolitePaul service",
+    "date": "2026-10-30T19:18:53",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/30/movies/curry-barker-obsession-scene.html",
     "feed_name": "NYT (Arts)",
     "title": "Curry Barker Narrates a Scene From \u2018Obsession\u2019",
@@ -19987,16 +19997,6 @@
     "link": "https://www.compactmag.com/article/behind-magas-anti-colonial-turn/",
     "content": "",
     "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "6a4be46e1d12c58f2540c202",
-    "feed_name": "Wired",
-    "title": "A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work",
-    "author": "Ej Dickson",
-    "link": "https://www.wired.com/story/burnerverse-maddie-kowalski/",
-    "content": "Maddie Kowalski is one of countless young women who\u2019ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she\u2019s fighting back.",
-    "date": "2026-09-14T10:00:00",
     "category": "Magazines"
   }
 ]
