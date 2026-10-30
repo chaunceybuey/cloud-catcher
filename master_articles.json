@@ -230,6 +230,26 @@
     "category": "Texas"
   },
   {
+    "id": "6ad7a94f656c04f6d10ab036",
+    "feed_name": "Wired (Science)",
+    "title": "Crematoria Are Being Used to Heat Homes and Swimming Pools",
+    "author": "Chris Baraniuk",
+    "link": "https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools/",
+    "content": "European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.",
+    "date": "2026-10-30T10:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://stratechery.com/?p=20681",
+    "feed_name": "Stratechery",
+    "title": "Sharp Tech on Video: Anthropic\u2019s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
+    "content": "<p>Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.</p>",
+    "date": "2026-10-30T10:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/30/dining/how-i-upgraded-my-moms-roast-chicken-with-fewer-dishes.html",
     "feed_name": "NYT (Food)",
     "title": "How I Upgraded My Mom\u2019s Roast Chicken (With Fewer Dishes)",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lrb-films-interviews/eric-hobsbawm-the-consolations-of-history",
     "content": "In this feature-length documentary,\u00a0Anthony Wilks traces the connections between the events of Hobsbawm\u2019s life and the history he told, from his teenage years in Germany as Hitler came to power\u00a0and his communist membership, to the jazz clubs of 1950s Soho and the makings of New Labour, taking in Italian bandits, Peruvian peasant movements and the development of nationalism in...",
-    "date": "2026-09-14T05:54:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "cf5073aa4b806b752ff0ce4dfc4820b8",
-    "feed_name": "LRB",
-    "title": "Newsletter Preferences",
-    "author": "",
-    "link": "https://www.lrb.co.uk/newsletters",
-    "content": "In the next issue:Thomas Meaney on the West.",
-    "date": "2026-09-14T05:54:35",
-    "category": "Magazines"
-  },
-  {
-    "id": "927d641935e1fe2984bdab128d5a00e6",
-    "feed_name": "LRB",
-    "title": "Close Readings 2026",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings",
-    "content": "On the Close Readings podcast,\u00a0longstandingLRBcontributors explore a literary period or theme through a selection of key works.",
     "date": "2026-09-14T05:54:35",
     "category": "Magazines"
   }
