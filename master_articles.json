@@ -220,6 +220,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/30/nyregion/stivanello-costume-company-closing.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Century-Old Queens Costumer Says Goodbye",
+    "author": "Claire Fahy",
+    "link": "https://www.nytimes.com/2026/10/30/nyregion/stivanello-costume-company-closing.html",
+    "content": "Robert Stivanello, the owner of the Stivanello Costume Company, said it was a struggle to stay afloat as he lost money.",
+    "date": "2026-10-30T21:00:40",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=249637",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Supreme Court blocks deposition intended to identify group behind transgender mailers",
+    "author": "Ayden Runnels",
+    "link": "https://feeds.texastribune.org/link/16799/17511679/texas-trans-mailers-supreme-court-block-deposition",
+    "content": "A mailer purporting to offer guidance to trans and LBGTQ+ students was sent to Texans from an organization formed in Wyoming. The documents cite a Texas trans rights organization that had nothing to do with the pamphlets.",
+    "date": "2026-10-30T20:38:58",
+    "category": "Texas"
+  },
+  {
     "id": "e05c7f05fbdf89c2bef832c572b80051",
     "feed_name": "LRB",
     "title": "Lula continua",
@@ -19976,26 +19996,6 @@
     "author": "",
     "link": "https://www.newyorker.com/magazine/2026/09/21/dey-etna-are-they-dead-yet-unbelonging",
     "content": "\u201cD\u00e8y,\u201d \u201cEtna,\u201d \u201cAre They Dead Yet?,\u201d and \u201cUnbelonging.\u201d",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "7a4ccba486990d546f3e92f9eebfc25d",
-    "feed_name": "New Yorker",
-    "title": "Is Will Power Overrated?",
-    "author": "ByMeghan O\u2019Gieblyn",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/situated-angela-duckworth-book-review",
-    "content": "In \u201cSituated,\u201d Angela Duckworth challenges the conventional wisdom that says we shouldn\u2019t run away from our problems.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "c3d4f358a4a7c8c93e445b28400f3f14",
-    "feed_name": "New Yorker",
-    "title": "\u201cDriveway\u201d",
-    "author": "ByStephanie Horvath",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/driveway-stephanie-horvath-poem",
-    "content": "\u201cIn the gut, / In the mouth, / In the irreducible / \u2018Bile\u2019 humor.\u201d",
     "date": "2026-09-14T12:07:59",
     "category": "Magazines"
   }
