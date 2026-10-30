@@ -230,6 +230,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=249674",
+    "feed_name": "Texas Tribune",
+    "title": "El Paso ISD releases student data to state comptroller, prompting concerns over undocumented students",
+    "author": "By Claudia Lorena Silva\u00a0El Paso Matters",
+    "link": "https://feeds.texastribune.org/link/16799/17511740/el-paso-isd-texas-comptroller-undocumented-students-data",
+    "content": "El Paso state Rep. Vince Perez held a conference Oct. 29, 2026, with the League of United Latin American Citizens and the Save Our School Coalition to raise concerns that Texas Comptroller Don Huffines could use the review to target undocumented students.",
+    "date": "2026-10-30T21:52:38",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/30/nyregion/stivanello-costume-company-closing.html",
     "feed_name": "NYT (Arts)",
     "title": "A Century-Old Queens Costumer Says Goodbye",
@@ -19986,16 +19996,6 @@
     "author": "ByIsaac Chotiner",
     "link": "https://www.newyorker.com/magazine/2026/09/21/anti-zionism-benjamin-moser-book-review",
     "content": "Where Benjamin Moser replaces one story of Jewish exceptionalism with another, Omer Bartov shows what\u2019s lost when polemic takes the place of history.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "e1aadec52980989dc4f9e4e0752eb504",
-    "feed_name": "New Yorker",
-    "title": "The Wealthiest\u2014and Stealthiest\u2014Class in America",
-    "author": "ByJohn Lanchester",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/the-everywhere-millionaire-owen-zidar-and-eric-zwick-book-review",
-    "content": "America\u2019s everywhere millionaires built fortunes from hot dogs, car dealerships, medical practices, and convenience stores. Then they learned how to protect them.",
     "date": "2026-09-14T12:07:59",
     "category": "Magazines"
   }
