@@ -230,6 +230,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/30/movies/curry-barker-obsession-scene.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Curry Barker Narrates a Scene From \u2018Obsession\u2019",
+    "author": "Mekado Murphy",
+    "link": "https://www.nytimes.com/2026/10/30/movies/curry-barker-obsession-scene.html",
+    "content": "Barker, the film\u2019s writer and director, explains how lingering shots heighten the tension and awkwardness in a party scene.",
+    "date": "2026-10-30T18:01:09",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/movies/100000011226252/curry-barker-obsession-clip.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Curry Barker Makes a Sad Face Terrifying in \u2018Obsession\u2019",
+    "author": "Mekado Murphy, Gabriel Blanco, Edward Vega and Am\u00edlcar Cari\u00f1o Charlemagne",
+    "link": "https://www.nytimes.com/video/movies/100000011226252/curry-barker-obsession-clip.html",
+    "content": "Just in time for Halloween, the director Curry Barker narrates a sequence from \u201cObsession,\u201d his indie horror hit.",
+    "date": "2026-10-30T17:59:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/30/theater/patrick-stewart-shakespeare-star-trek-next-generation.html",
     "feed_name": "NYT (Arts)",
     "title": "How Patrick Stewart Brought Shakespeare to \u2018Star Trek\u2019 Fans",
@@ -19978,25 +19998,5 @@
     "content": "<p>Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.</p>",
     "date": "2026-09-14T10:00:00",
     "category": "Tech"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242476",
-    "feed_name": "Texas Tribune",
-    "title": "Texas universities limit their brands in political ads. Dan Patrick used them anyway.",
-    "author": "Jessica Priest",
-    "link": "https://feeds.texastribune.org/link/16799/17461440/texas-college-football-trademark-dan-patrick-campaigning",
-    "content": "Texas Lt. Gov. Dan Patrick at an event the grounds of The Alamo in San Antonio on March 5, 2026.",
-    "date": "2026-09-14T10:00:00",
-    "category": "Texas"
-  },
-  {
-    "id": "792e968c03a81f544c25cc77d7161b9f",
-    "feed_name": "The Atlantic",
-    "title": "Empire of Grift",
-    "author": "Anne Applebaum",
-    "link": "https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352/",
-    "content": "Far-right ideologues have transformed American foreign policy into a tool of private gain and antidemocratic reaction.",
-    "date": "2026-09-14T10:00:00",
-    "category": "Magazines"
   }
 ]
