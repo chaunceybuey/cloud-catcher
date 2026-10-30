@@ -230,6 +230,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/29/theater/the-heart-review-organ-transplant.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018The Heart\u2019 Review: A Bracing New Musical Pulses With Life",
+    "author": "Elisabeth Vincentelli",
+    "link": "https://www.nytimes.com/2026/10/29/theater/the-heart-review-organ-transplant.html",
+    "content": "The show\u2019s electronic dance-influenced music perfectly suits its story about a young man\u2019s death and the rush to carry out a heart transplant.",
+    "date": "2026-10-30T00:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
     "feed_name": "NYT (Arts)",
     "title": "Patrick Stewart: A Life in Pictures",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/13/arts/design/roy-lichtenstein-pop-art-whitney-museum-alex-da-corte.html",
     "content": "The artist Alex Da Corte and the curator Meg Onli bring fresh eyes to a survey bridging high art and mass culture. Will Lichtenstein resonate with a young audience?",
     "date": "2026-09-13T09:02:11",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/11/arts/design/bayeux-tapestry-british-museum.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Unstitching the 1,000-Year-Old Story of the Bayeux Tapestry",
-    "author": "Jason Farago",
-    "link": "https://www.nytimes.com/2026/09/11/arts/design/bayeux-tapestry-british-museum.html",
-    "content": "The medieval masterpiece has traveled from France to England for a once-in-a-lifetime show. It is not what our critic Jason Farago expected.",
-    "date": "2026-09-13T05:42:16",
     "category": "NYT"
   }
 ]
