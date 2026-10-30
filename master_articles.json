@@ -230,6 +230,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/30/arts/television/seth-meyers-obama-trump-comedy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Seth Meyers Cheers \u2018Stand-Up Obama\u2019 for Riling Republicans",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/10/30/arts/television/seth-meyers-obama-trump-comedy.html",
+    "content": "\u201cHe\u2019s working on material for his next special, \u2018Hussein in the Membrane,\u2019\u201d Meyers said after the former president ruffled feathers with jokes about the Cheesecake Factory.",
+    "date": "2026-10-30T06:44:54",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/29/theater/few-good-men-review-whitford-blyth-sorkin.html",
     "feed_name": "NYT (Arts)",
     "title": "Review: \u2018A Few Good Men,\u2019 With Bradley Whitford and Tom Blyth, Gives Up the Fight",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/13/arts/design/smithsonian-lonnie-bunch-next-secretary-selection.html",
     "content": "The Smithsonian Institution, the world\u2019s largest museum, education and research complex, was created by Congress in 1846 and operates independently of the executive branch.",
     "date": "2026-09-13T09:03:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/13/realestate/martha-graham-dance-performance-space.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Martha Graham Dance Company Finds Home in Times Square Landmark",
-    "author": "Anna Kod\u00e9 and Ashok Sinha",
-    "link": "https://www.nytimes.com/2026/09/13/realestate/martha-graham-dance-performance-space.html",
-    "content": "The Graham company, which turned 100 this year, moves into a dazzling new space, taking over 21,000 square feet of a Times Square landmark.",
-    "date": "2026-09-13T09:02:58",
     "category": "NYT"
   }
 ]
