@@ -230,6 +230,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/30/arts/dance/american-ballet-theater-fall-season-brady-farrar.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At ABT, New Ballets Fade Beside Ashton and Balanchine",
+    "author": "Gia Kourlas",
+    "link": "https://www.nytimes.com/2026/10/30/arts/dance/american-ballet-theater-fall-season-brady-farrar.html",
+    "content": "At American Ballet Theater, the fall season is a chance to steer the company away from full-length works. With one exception, the classics came out on top.",
+    "date": "2026-10-30T16:24:29",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/30/theater/little-shop-of-horrors-texas-lawsuit-title-ix.html",
     "feed_name": "NYT (Arts)",
     "title": "Female Student Sues for Gender Discrimination After Losing Male Lead Role in Play",
@@ -248,6 +258,16 @@
     "content": "",
     "date": "2026-10-30T15:39:46",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=249373",
+    "feed_name": "Texas Tribune",
+    "title": "Texas ICE agent indicted for striking fleeing Houston pedestrian with vehicle",
+    "author": "Uriel J. Garc\u00eda",
+    "link": "https://feeds.texastribune.org/link/16799/17511574/ice-agent-indictment-criminal-charges-texas",
+    "content": "Harris County District Attorney Sean Teare and officials watch body camera footage during a press conference announcing a grand jury indictment of ICE agent Mario Alberto Morales on a charge of aggravated assault with a deadly weapon on Friday, Oct. 30, 2026, in Houston. The indictment alleges Morales drove his vehicle into Miguel Parra-Hernandez.",
+    "date": "2026-10-30T15:36:39",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/10/30/arts/television/patrick-stewart-humor-comedy.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/14/arts/television/100-best-tv-shows-of-the-21st-century-sign-up.html",
     "content": "Starting Sept. 21, we\u2019ll unveil a list of 100, as voted on by more than 500 television professionals in Hollywood and around the world. Make sure you\u2019re getting updates.",
     "date": "2026-09-14T09:02:57",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/dining/danny-meyer-hospitality-book.html",
-    "feed_name": "NYT (Food)",
-    "title": "Why Is Danny Meyer, the Happy Face of Hospitality, Serving Up Regrets?",
-    "author": "Kim Severson",
-    "link": "https://www.nytimes.com/2026/09/14/dining/danny-meyer-hospitality-book.html",
-    "content": "In a new memoir, the man behind Shake Shack and a suite of influential restaurants revisits the business blunders that taught him valuable lessons.",
-    "date": "2026-09-14T09:02:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/arts/television/how-to-watch-the-2026-emmy-awards.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How to Watch the 2026 Emmy Awards",
-    "author": "John Koblin",
-    "link": "https://www.nytimes.com/2026/09/14/arts/television/how-to-watch-the-2026-emmy-awards.html",
-    "content": "The 78th Emmy Awards will honor shows that aired between June 2025 and May 2026.",
-    "date": "2026-09-14T09:02:31",
     "category": "NYT"
   }
 ]
