@@ -230,6 +230,26 @@
     "category": "Texas"
   },
   {
+    "id": "78ddd4916f8e1f151b44826f9f749a53",
+    "feed_name": "Compact",
+    "title": "The Atheist Case for Christ",
+    "author": "",
+    "link": "https://www.compactmag.com/article/the-atheist-case-for-christ/",
+    "content": "",
+    "date": "2026-10-30T15:39:46",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/30/arts/television/patrick-stewart-humor-comedy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Patrick Stewart Was Regal, Stately and Quite Hilarious",
+    "author": "Maya Phillips",
+    "link": "https://www.nytimes.com/2026/10/30/arts/television/patrick-stewart-humor-comedy.html",
+    "content": "The actor used his booming voice and Shakespearean pedigree in the service of absurd (and often lewd) comedy.",
+    "date": "2026-10-30T15:18:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
     "feed_name": "ProPublica",
     "title": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/14/arts/television/emmy-awards-how-to-watch.html",
     "content": "The 78th Emmy Awards will honor shows that aired between June 2025 and May 2026.",
     "date": "2026-09-14T09:02:31",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/magazine/taryn-simon-guggenheim-exhibition.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Taryn Simon\u2019s Giant Exhibition at the Guggenheim Tells the Story of America",
-    "author": "Sasha Weiss",
-    "link": "https://www.nytimes.com/2026/09/14/magazine/taryn-simon-guggenheim-exhibition.html",
-    "content": "Simon during the installation of her Guggenheim show. \u201cYou feel it on some cellular level,\u201d she says of the huge effort behind her photographic projects. \u201cAll these little steps. This is what makes it of value.\u201d",
-    "date": "2026-09-14T09:02:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/arts/dance/alexei-ratmansky-kyiv-ukrainian-national-ballet-balanchine.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Alexei Ratmansky Stages a Ballet in Kyiv, Between Trips to the Bomb Shelter",
-    "author": "Marina Harss",
-    "link": "https://www.nytimes.com/2026/09/14/arts/dance/alexei-ratmansky-kyiv-ukrainian-national-ballet-balanchine.html",
-    "content": "The choreographer Alexei Ratmansky and his wife, Tatiana, returned to the national ballet company at a bleak moment, bringing the gift of a difficult, sparkling work.",
-    "date": "2026-09-14T09:01:07",
     "category": "NYT"
   }
 ]
