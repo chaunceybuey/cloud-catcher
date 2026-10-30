@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
+    "author": "Rebecca Chao",
+    "link": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+    "content": "AO3, which hosts 18 million stories spun off from the likes of \u201cHarry Potter\u201d and \u201cHeated Rivalry,\u201d was taken offline after \u201can intrusion,\u201d one of its founders said.",
+    "date": "2026-10-30T22:09:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/30/nyregion/stivanello-costume-company-closing.html",
     "feed_name": "NYT (Arts)",
     "title": "A Century-Old Queens Costumer Says Goodbye",
@@ -19986,16 +19996,6 @@
     "author": "ByJohn Lanchester",
     "link": "https://www.newyorker.com/magazine/2026/09/21/the-everywhere-millionaire-owen-zidar-and-eric-zwick-book-review",
     "content": "America\u2019s everywhere millionaires built fortunes from hot dogs, car dealerships, medical practices, and convenience stores. Then they learned how to protect them.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "0e2ab87057f25687626f749836750cb1",
-    "feed_name": "New Yorker",
-    "title": "Briefly Noted",
-    "author": "",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/dey-etna-are-they-dead-yet-unbelonging",
-    "content": "\u201cD\u00e8y,\u201d \u201cEtna,\u201d \u201cAre They Dead Yet?,\u201d and \u201cUnbelonging.\u201d",
     "date": "2026-09-14T12:07:59",
     "category": "Magazines"
   }
