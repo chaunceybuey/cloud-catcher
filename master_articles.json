@@ -260,6 +260,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=249516",
+    "feed_name": "Texas Tribune",
+    "title": "Use our updated database to see what state employees in Texas are paid, as of October 2026",
+    "author": "Rob Reid",
+    "link": "https://feeds.texastribune.org/link/16799/7382318/",
+    "content": "The Texas Tribune\u2019s database of state employees\u2019 compensation has been updated to include salaries as of October 1.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/7382318.gif\" width=\"1\" />",
+    "date": "2026-10-30T17:13:26",
+    "category": "Texas"
+  },
+  {
     "id": "https://stratechery.com/?p=20650",
     "feed_name": "Stratechery",
     "title": "2026.44: At Long Last\u2026",
@@ -19988,15 +19998,5 @@
     "content": "Maddie Kowalski is one of countless young women who\u2019ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she\u2019s fighting back.",
     "date": "2026-09-14T10:00:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://stratechery.com/?p=19995",
-    "feed_name": "Stratechery",
-    "title": "Pacing the Frontier, AI\u2019s Digital Limits, AI Commissars",
-    "author": "Ben Thompson",
-    "link": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
-    "content": "<p>Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.</p>",
-    "date": "2026-09-14T10:00:00",
-    "category": "Tech"
   }
 ]
