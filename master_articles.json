@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/31/dining/this-pumpkin-chocoflan-is-actually-magic.html",
+    "feed_name": "NYT (Food)",
+    "title": "This Pumpkin Chocoflan Is Actually Magic",
+    "author": "Vaughn Vreeland",
+    "link": "https://www.nytimes.com/2026/10/31/dining/this-pumpkin-chocoflan-is-actually-magic.html",
+    "content": "Nicola Lamb\u2019s pumpkin chocoflan.",
+    "date": "2026-10-31T14:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "cb5c1d26794e73d7caf60177484ec3c1",
     "feed_name": "Outside",
     "title": "How a Group of Bigfoot Hunters Started Solving Cold Cases in the Woods",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/aftershock-the-war-on-terror/from-the-archive-the-war-on-terrorism-is-there-an-alternative",
     "content": "In May 2002, six months after the invasion of Afghanistan but before the Iraq war, theLondon Review of Booksheld a debate: \u2018The War on Terrorism: Is There an Alternative?\u2019 The panel comprised Tariq Ali, Christopher Hitchens, Jacqueline Rose, Anatol Lieven and Onora O\u2019Neill.President Bush\u2019s ultimatum set the tone: either you\u2019re with us or you\u2019re with the...",
-    "date": "2026-09-14T12:08:04",
-    "category": "Magazines"
-  },
-  {
-    "id": "3bcd876d62f4f4b3b3c8693ed723e08e",
-    "feed_name": "LRB",
-    "title": "James Lasdun\u2019s road trip to America\u2019s courts",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/james-lasdun-s-road-trip-to-america-s-courts",
-    "content": "\u2018Courtroom encounters present you with only a fragment of a person\u2019s story, from which you may or may not be inclined to infer the rest,\u2019 James Lasdun wrote recently in theLRB. Last October, he set out on a road trip across America, with the aim of attending as many different kinds of criminal and civil trials as possible in one month. His journey took him from immigration...",
     "date": "2026-09-14T12:08:04",
     "category": "Magazines"
   }
