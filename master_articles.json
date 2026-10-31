@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/31/dining/its-the-great-roasted-pumpkin-seeds.html",
+    "feed_name": "NYT (Food)",
+    "title": "It\u2019s the Great (Roasted) Pumpkin (Seeds)",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/10/31/dining/its-the-great-roasted-pumpkin-seeds.html",
+    "content": "Ali Slagle\u2019s roasted pumpkin seeds.",
+    "date": "2026-10-31T15:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/31/dining/this-pumpkin-chocoflan-is-actually-magic.html",
     "feed_name": "NYT (Food)",
     "title": "This Pumpkin Chocoflan Is Actually Magic",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/early-modern-news",
     "content": "\u2018Information in the early modern world could move no faster than the bodies that carried it,\u2019 John Gallagher wrote recently in theLRB. For a horse and rider, that was just under fifteen kilometres per hour. Yet postal systems, as pioneered by the enterprising Tassis family, were becoming ever more reliable and efficient, at first in northern Italy and then across much of...",
-    "date": "2026-09-14T12:08:04",
-    "category": "Magazines"
-  },
-  {
-    "id": "491d09a02092bd27afe5b3f1cf140251",
-    "feed_name": "LRB",
-    "title": "From the Archive: \u2018The War on Terrorism: Is There an Alternative?\u2019",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/aftershock-the-war-on-terror/from-the-archive-the-war-on-terrorism-is-there-an-alternative",
-    "content": "In May 2002, six months after the invasion of Afghanistan but before the Iraq war, theLondon Review of Booksheld a debate: \u2018The War on Terrorism: Is There an Alternative?\u2019 The panel comprised Tariq Ali, Christopher Hitchens, Jacqueline Rose, Anatol Lieven and Onora O\u2019Neill.President Bush\u2019s ultimatum set the tone: either you\u2019re with us or you\u2019re with the...",
     "date": "2026-09-14T12:08:04",
     "category": "Magazines"
   }
