@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/31/arts/kennedy-center-trump-beatty.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Court Filing Cites Internal Pressure to Close Kennedy Center",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/10/31/arts/kennedy-center-trump-beatty.html",
+    "content": "The John F. Kennedy Center for the Performing Arts has been closed temporarily for weeks. The legal fight over whether it should close for a two-year renovation is continuing.",
+    "date": "2026-10-31T13:09:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=249666",
     "feed_name": "Texas Tribune",
     "title": "This young Latino mayor went all in for John Cornyn. But Ken Paxton is a sore subject.",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/on-politics-mandelson-and-the-private-life-of-power",
     "content": "When Peter Mandelson was a minister in Gordon Brown\u2019s government he passed confidential advice to Jeffrey Epstein, who had recently been convicted of procuring a child for prostitution. This is among the many extraordinary details of Mandelson\u2019s relationship with Epstein revealed by the release of more than three million pages of documents by the US Justice Department last month....",
-    "date": "2026-09-14T12:08:04",
-    "category": "Magazines"
-  },
-  {
-    "id": "c729547ec8640e364fddc28854334f6d",
-    "feed_name": "LRB",
-    "title": "Nature in Crisis: \u2018The Light Eaters\u2019 by Zo\u00eb Schlanger",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/nature-in-crisis-the-light-eaters-by-zoe-schlanger",
-    "content": "In \u2018The Light Eaters\u2019 (2024), Zo\u00eb Schlanger reports from the frontiers of botany, where researchers are discovering forms of sensing, signalling and responding that challenge our ideas of plants as passive life forms. Meehan Crist and Peter Godfrey-Smith explore Schlanger\u2019s account of new research into plant behaviour. They examine the case for plant agency \u2013 and...",
     "date": "2026-09-14T12:08:04",
     "category": "Magazines"
   }
