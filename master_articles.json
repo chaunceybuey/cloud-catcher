@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=249918",
+    "feed_name": "Texas Tribune",
+    "title": "More than 7.4 million Texans voted early in 2026 election, nearly matching 2018 pace",
+    "author": "Colleen DeGuzman",
+    "link": "https://feeds.texastribune.org/link/16799/17512169/texas-early-voting-turnout-rate-election-2026",
+    "content": "Voters wait in line during early voting at the Como Community Center polling site in Fort Worth on Oct. 21. In-person early voting ended Friday, after more than 7.4 million Texans voted.",
+    "date": "2026-10-31T20:02:07",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/31/dining/its-the-great-roasted-pumpkin-seeds.html",
     "feed_name": "NYT (Food)",
     "title": "It\u2019s the Great (Roasted) Pumpkin (Seeds)",
@@ -19986,16 +19996,6 @@
     "author": "",
     "link": "https://www.lrb.co.uk/podcasts-and-videos/videos/lectures-events/pluralism-and-the-modern-poet",
     "content": "Many thinkers have characterised modernity by its investment in the idea of pluralism, \u2018of things being various\u2019, in Louis MacNeice\u2019s phrase. How do the virtues of plurality and difference fit with the more traditional virtues of poetic unity and imaginative order? Seamus Perry\u00a0considers the ways in which modern poets have responded to the demands of pluralism, and...",
-    "date": "2026-09-14T12:08:04",
-    "category": "Magazines"
-  },
-  {
-    "id": "1bc6fa97a177bb143886e54a0a1f8594",
-    "feed_name": "LRB",
-    "title": "Early Modern News",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/early-modern-news",
-    "content": "\u2018Information in the early modern world could move no faster than the bodies that carried it,\u2019 John Gallagher wrote recently in theLRB. For a horse and rider, that was just under fifteen kilometres per hour. Yet postal systems, as pioneered by the enterprising Tassis family, were becoming ever more reliable and efficient, at first in northern Italy and then across much of...",
     "date": "2026-09-14T12:08:04",
     "category": "Magazines"
   }
