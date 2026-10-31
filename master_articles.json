@@ -220,6 +220,46 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=249666",
+    "feed_name": "Texas Tribune",
+    "title": "This young Latino mayor went all in for John Cornyn. But Ken Paxton is a sore subject.",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17511971/texas-sabinal-mayor-erik-gomez-latino-young-paxton-cornyn",
+    "content": "Sabinal Mayor Erik Gomez greets people during National Night Out in Sabinal on Oct. 6, 2026. Sabinal is a small town about 60 miles west of San Antonio.",
+    "date": "2026-10-31T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=249807",
+    "feed_name": "Texas Tribune",
+    "title": "With U.S. Senate control at stake, Republicans fear the once-unthinkable: a blue Texas",
+    "author": "Kayla Guo and Gabby Birenbaum",
+    "link": "https://feeds.texastribune.org/link/16799/17511972/texas-us-senate-election-paxton-talarico-final-push-election-day",
+    "content": "From left: Ken Paxton and James Talarico, Republican and Democratic nominees for U.S. Senate, appear at competing rallies in Lubbock on Oct. 27, 2026.",
+    "date": "2026-10-31T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=249840",
+    "feed_name": "Texas Tribune",
+    "title": "Texas parks department fights to withhold draft agenda amid fears of Boca Chica sale to SpaceX",
+    "author": "Berenice Garcia and Alejandra Martinez",
+    "link": "https://feeds.texastribune.org/link/16799/17511973/texas-elon-musk-spacex-boca-chica-state-park-sale",
+    "content": "Members of the ENTRE Film Center, a local film center and regional archive, host a gathering at Boca Chica Beach to celebrate the beach and motivate people to fight for its preservation on Aug. 8, 2024.",
+    "date": "2026-10-31T10:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "6ae3cd3d378f1dacd59d6cc7",
+    "feed_name": "Wired (Science)",
+    "title": "An AI Agent Injected Drugs Into a Live Mouse\u2019s Brain",
+    "author": "Emily Mullin",
+    "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "content": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+    "date": "2026-10-31T10:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "6adfbb3349cde4e309050a88",
     "feed_name": "Wired (Science)",
     "title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
@@ -19957,46 +19997,6 @@
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/nature-in-crisis-the-light-eaters-by-zoe-schlanger",
     "content": "In \u2018The Light Eaters\u2019 (2024), Zo\u00eb Schlanger reports from the frontiers of botany, where researchers are discovering forms of sensing, signalling and responding that challenge our ideas of plants as passive life forms. Meehan Crist and Peter Godfrey-Smith explore Schlanger\u2019s account of new research into plant behaviour. They examine the case for plant agency \u2013 and...",
     "date": "2026-09-14T12:08:04",
-    "category": "Magazines"
-  },
-  {
-    "id": "65d29ca7ae9a2125619f55a0c2276537",
-    "feed_name": "New Yorker",
-    "title": "The Sartorial Riches of the Silent-Film Era",
-    "author": "",
-    "link": "https://www.newyorker.com/culture/goings-on/the-sartorial-riches-of-the-silent-film-era",
-    "content": "Also: the neo-soul of Erykah Badu, a festival of Indian classical dance, John Wilson\u2019s ode to concrete, and more.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "be9afaf533763826e342154c2b118828",
-    "feed_name": "New Yorker",
-    "title": "How a Skateboarder Sees Los Angeles",
-    "author": "ByHua Hsu",
-    "link": "https://www.newyorker.com/culture/photo-booth/how-a-professional-skateboarder-sees-los-angeles",
-    "content": "Jerry Hsu captures the city\u2019s manic extremes, with photographs of overturned cars, collisions, and a bank building ablaze.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "223281a41767a075d3c2ad0812e686e9",
-    "feed_name": "New Yorker",
-    "title": "How to Protect Democracy",
-    "author": "ByJoshua Yaffa",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/how-to-protect-democracy",
-    "content": "The emergence of Germany\u2019s far right as a political force represents an old dilemma.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "b2b821c16a4b32553c4ee1d8c6d53508",
-    "feed_name": "New Yorker",
-    "title": "Ric Burns, N.Y.C. Optimist",
-    "author": "ByEric Lach",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/ric-burns-nyc-optimist",
-    "content": "The director\u2014and brother of Ken Burns\u2014is releasing two new episodes of his long-running \u201cNew York: A Documentary Film,\u201d this time covering Superstorm Sandy,COVID, and Eric Adams.",
-    "date": "2026-09-14T12:07:59",
     "category": "Magazines"
   }
 ]
