@@ -220,6 +220,96 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/10/31/books/they-cant-get-enough-of-the-queen-of-fairy-smut-or-her-merch.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Fans Can\u2019t Get Enough of \u2018A Court of Thrones and Roses\u2019 (Or Its Merch)",
+    "author": "Alexandra Alter and Justin J Wee",
+    "link": "https://www.nytimes.com/2026/10/31/books/they-cant-get-enough-of-the-queen-of-fairy-smut-or-her-merch.html",
+    "content": "Most book launch events feature an author with a black Sharpie and a stack of new books on a table \u2014 but new Sarah J. Maas books are an occasion for extravaganzas.",
+    "date": "2026-10-31T09:02:24",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/arts/music/queens-of-the-stone-age-snoh-aalegra-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Queens of the Stone Age Returns, and 8 More Songs We\u2019re Talking About",
+    "author": "Jon Pareles",
+    "link": "https://www.nytimes.com/2026/10/31/arts/music/queens-of-the-stone-age-snoh-aalegra-songs.html",
+    "content": "Queens of the Stone Age is back with a new single, \u201cRun Away From the Mob.\u201d",
+    "date": "2026-10-31T09:01:47",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/arts/television/busy-philipps-cupertino.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Busy Philipps Might Be Listening to Your Outdoor Convo",
+    "author": "Addie Morfoot",
+    "link": "https://www.nytimes.com/2026/10/31/arts/television/busy-philipps-cupertino.html",
+    "content": "The \u201cCupertino\u201d star enjoys walks with a bit of eavesdropping on passers-by: \u201cI love those snippets of conversation. You hear some really great ones.\u201d",
+    "date": "2026-10-31T09:01:00",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/video/books/100000011196780/cannibalism-novels-with-a-feminist-twist.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Cannibalism Novels With a Feminist Twist",
+    "author": "Alexandra Alter, Annie Harrigan, Edward Vega and Gabby Bulgarelli",
+    "link": "https://www.nytimes.com/video/books/100000011196780/cannibalism-novels-with-a-feminist-twist.html",
+    "content": "Cannibalism has become an increasingly popular trope in contemporary fiction, with female authors leading the charge. Our reporter Alexandra Alter dives into why female authors are drawn to the taboo topic as an expression of female rage.",
+    "date": "2026-10-31T09:00:56",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/arts/lauren-leek-algorithms-culture.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why Does Culture Feel So Samey? A Walking Tour Reveals the Math.",
+    "author": "Scott Reyburn",
+    "link": "https://www.nytimes.com/2026/10/31/arts/lauren-leek-algorithms-culture.html",
+    "content": "Chain storefronts on a London street reflect what Lauren Leek calls the \u201cflattening\u201d of modern consumer culture.",
+    "date": "2026-10-31T09:00:36",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/arts/design/cleveland-rock-roll-hall-fame.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Cleveland\u2019s Rock & Roll Hall of Fame Is Reborn",
+    "author": "John Hanc",
+    "link": "https://www.nytimes.com/2026/10/31/arts/design/cleveland-rock-roll-hall-fame.html",
+    "content": "A $195 million expansion of the Rock Hall features a new entry plaza, an amphitheater and a 40-foot-tall wall of glass.",
+    "date": "2026-10-31T09:00:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/arts/design/wheelwright-museum-native-american-vietnam-veteran-exhibit.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In the Fog of War, Native American Veteran Artists Find Inspiration",
+    "author": "Janelle Conaway and Gabriela Campos",
+    "link": "https://www.nytimes.com/2026/10/31/arts/design/wheelwright-museum-native-american-vietnam-veteran-exhibit.html",
+    "content": "\u201cOutburst: Native American Art After Vietnam\u201d runs through April 17 at the Wheelwright Museum of the American Indian in Santa Fe, N.M.",
+    "date": "2026-10-31T09:00:15",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/31/arts/design/los-angeles-la-brea-tar-pits-renovation.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The La Brea Tar Pits Faces a Huge Task in its Remodel",
+    "author": "Adam Popescu",
+    "link": "https://www.nytimes.com/2026/10/31/arts/design/los-angeles-la-brea-tar-pits-renovation.html",
+    "content": "Visitors gathering around a Columbian mammoth display inside the museum at La Brea Tar Pits. A much larger Columbian mammoth, Zed, will be on view in the museum when it reopens after its major renovation.",
+    "date": "2026-10-31T09:00:06",
+    "category": "NYT"
+  },
+  {
+    "id": "6ae4df5c8b1b5cec211330c0",
+    "feed_name": "Wired (Science)",
+    "title": "White Dwarfs Aren\u2019t Just White. Scientists Discover Dying Stars Turning Pink and Green",
+    "author": "Petr Kubala",
+    "link": "https://www.wired.com/story/white-dwarfs-arent-just-white-scientists-discover-dying-stars-turning-pink-and-green/",
+    "content": "Astronomers find that a white dwarf\u2019s density and the kind of material it absorbed from its surroundings can produce a rainbow of shades in the star\u2019s atmosphere.",
+    "date": "2026-10-31T09:00:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
     "feed_name": "NYT (Arts)",
     "title": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
@@ -19906,96 +19996,6 @@
     "author": "BySarah Larson",
     "link": "https://www.newyorker.com/magazine/2026/09/21/ke-huy-quan-keeps-smiling",
     "content": "On a trip to Liberty Island, the actor chats about his new memoir, \u201cNever Say Die,\u201d which chronicles his journey from refugee to child star in \u201cIndiana Jones\u201d to winning an Oscar, for \u201cEverything Everywhere All at Once.\u201d",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "f2067d741be77fd2dadc4a01add82c14",
-    "feed_name": "New Yorker",
-    "title": "Paula Cole Doesn\u2019t Want to Wait",
-    "author": "ByRachel Syme",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/paula-cole-doesnt-want-to-wait",
-    "content": "At the Conservatory Garden, the singer reflects on her new two-album set, \u201cSonic Memoir: Demos 1989-1998\u201d; launching Lilith Fair with Sarah McLachlan; and the time Jay Leno made fun of her armpit hair.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "6503de887dc829b3ccd3ef5377257831",
-    "feed_name": "New Yorker",
-    "title": "The Hearing Aid That Plays It by Ear",
-    "author": "ByDavid Owen",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/the-hearing-aid-that-plays-it-by-ear",
-    "content": "A company called Fortell made an A.I.-powered device that tries to tune out background noise in real time. Does it work? Ask Fortell\u2019s test subject, Steve Martin.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "93cbcff2020b953ba6d35331b69597fb",
-    "feed_name": "New Yorker",
-    "title": "The Incredible Journey of a Migratory Shorebird",
-    "author": "ByRivka Galchen",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/the-incredible-journey-of-a-migratory-shorebird",
-    "content": "Godwits make the longest non-stop migration in the bird world. That might be the least of their marvels. Can they survive a changing planet?",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "83572c2278c5accdbf43c45ac9ae266b",
-    "feed_name": "New Yorker",
-    "title": "The American Religion of Self-Storage Facilities",
-    "author": "ByDavid Owen",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-    "content": "Why are we so obsessed with putting our belongings in metal boxes and then never looking at them again?",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "8663b6761e48fa3c7a2d225aea8fb9c5",
-    "feed_name": "New Yorker",
-    "title": "The Violent Feud That Shocked the Horse World",
-    "author": "ByIan Parker",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/the-violent-feud-that-shocked-the-horse-world",
-    "content": "A prominent dressage trainer shot a belligerent student\u2014and now maintains that he\u2019s the real victim.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "faa48e500db5616228b10ef76ed461b9",
-    "feed_name": "New Yorker",
-    "title": "Jared Kushner\u2019s Dollar Diplomacy",
-    "author": "ByDexter Filkins",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/jared-kushners-dollar-diplomacy",
-    "content": "Donald Trump\u2019s son-in-law represents the kind of Washington figure for whom public office serves as a means to extraordinary wealth.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "fa73d50ab112536b4e6fa19004f35415",
-    "feed_name": "New Yorker",
-    "title": "My Surefire, Can\u2019t-Lose Polymarket Bets",
-    "author": "ByShalom Auslander",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/my-surefire-cant-lose-polymarket-bets",
-    "content": "Spot on my neck: Cancer? 88% Yes. 12% More tests are needed, none of which are covered by my insurance.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "9a8478636b64f37a3159d1e3f24d12fe",
-    "feed_name": "New Yorker",
-    "title": "\u201cLost Child\u201d",
-    "author": "ByJoyce Carol Oates",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/lost-child-fiction-joyce-carol-oates",
-    "content": "It almost returned to Kit then\u2014what this place was, and who was waiting for them inside.",
-    "date": "2026-09-14T12:07:59",
-    "category": "Magazines"
-  },
-  {
-    "id": "50c7a10f5b8fc0bb0794f72ce254da81",
-    "feed_name": "New Yorker",
-    "title": "Is Zionism\u2019s Moral Crisis About Roads Not Taken\u2014or Original Sin?",
-    "author": "ByIsaac Chotiner",
-    "link": "https://www.newyorker.com/magazine/2026/09/21/anti-zionism-benjamin-moser-book-review",
-    "content": "Where Benjamin Moser replaces one story of Jewish exceptionalism with another, Omer Bartov shows what\u2019s lost when polemic takes the place of history.",
     "date": "2026-09-14T12:07:59",
     "category": "Magazines"
   }
