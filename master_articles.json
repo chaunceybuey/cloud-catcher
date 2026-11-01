@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/01/movies/michael-mann-shooting.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Michael Mann Accidentally Shoots Himself at Los Angeles Gun Range",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/11/01/movies/michael-mann-shooting.html",
+    "content": "Michael Mann at the premiere of his most recent film \u201cFerrari,\u201d in Los Angeles in 2023.",
+    "date": "2026-11-01T17:14:22",
+    "category": "NYT"
+  },
+  {
     "id": "5102ec54-e6a9-4ce8-be8b-c1bd801603ec",
     "feed_name": "Economist",
     "title": "Intensive parenting is no longer the preserve of the rich",
@@ -19988,15 +19998,5 @@
     "content": "Karl Rove, the long time Republican political strategist and former adviser to President George W. Bush, said on Monday he will vote for Democrat Jon Rosenthal in the Texas Railroad Commission race. On Sunday, the Republican candidate Bo French posted a racist tweet about South Asian students at the University of Texas at Austin.",
     "date": "2026-09-14T22:03:37",
     "category": "Texas"
-  },
-  {
-    "id": "c19008f063dfc441e2b239a69f06f78a",
-    "feed_name": "The Atlantic",
-    "title": "Trump\u2019s Kennedy Center Shakedown",
-    "author": "Tom Nichols",
-    "link": "https://www.theatlantic.com/ideas/2026/09/trump-kennedy-center/688618/",
-    "content": "The only appropriate option is to refuse to accede to his demands.",
-    "date": "2026-09-14T21:58:15",
-    "category": "Magazines"
   }
 ]
