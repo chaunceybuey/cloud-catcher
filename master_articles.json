@@ -220,6 +220,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/01/arts/television/snl-trick-or-treat-trump-interrupts-david-s-pumpkins.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018S.N.L.\u2019 Plays Trick-or-Treat When Trump Interrupts David S. Pumpkins",
+    "author": "Dave Itzkoff",
+    "link": "https://www.nytimes.com/2026/11/01/arts/television/snl-trick-or-treat-trump-interrupts-david-s-pumpkins.html",
+    "content": "Tom Hanks returned, all too briefly, to play his baffling Halloween character on a \u201cSaturday Night Live\u201d episode hosted by the \u201cObsession\u201d star Inde Navarrette.",
+    "date": "2026-11-01T14:04:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/dining/you-cant-go-wrong-with-quesadillas.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "You Can\u2019t Go Wrong With Quesadillas",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/11/01/dining/you-cant-go-wrong-with-quesadillas.html",
+    "content": "Especially these quesadillas, which go all in on kick with pickled jalape\u00f1os, spinach and feta.",
+    "date": "2026-11-01T14:00:12",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=249776",
     "feed_name": "Texas Tribune",
     "title": "In volatile Tarrant County, both political parties are on the prowl for moderate Republicans",
@@ -19978,25 +19998,5 @@
     "content": "Bo French\u2019s xenophobia should force Republicans to confront the prejudice in their ranks.",
     "date": "2026-09-14T21:13:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242717",
-    "feed_name": "Texas Tribune",
-    "title": "Gov. Greg Abbott orders Texas water agency to penalize data centers that don\u2019t report their water usage",
-    "author": "By Alejandra Martinez",
-    "link": "https://feeds.texastribune.org/link/16799/17461898/texas-data-centers-abbott-water-survey-enforcement",
-    "content": "Gov. Greg Abbott speaks at a press conference at the Texas Department of Emergency Management headquarters in Austin on Aug. 31, 2026.",
-    "date": "2026-09-14T21:03:02",
-    "category": "Texas"
-  },
-  {
-    "id": "https://cooking.nytimes.com/article/egg-dinner-salsa-de-chorizo-recipe",
-    "feed_name": "NYT (Food)",
-    "title": "Turn Eggs Into Dinner With This Salsa de Chorizo Recipe",
-    "author": "Pati Jinich",
-    "link": "https://cooking.nytimes.com/article/egg-dinner-salsa-de-chorizo-recipe",
-    "content": "Salsa de chorizo, on the other hand, has been nourishing Coahuila for generations.",
-    "date": "2026-09-14T20:35:32",
-    "category": "NYT"
   }
 ]
