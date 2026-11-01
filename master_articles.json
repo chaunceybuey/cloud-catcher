@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=249776",
+    "feed_name": "Texas Tribune",
+    "title": "In volatile Tarrant County, both political parties are on the prowl for moderate Republicans",
+    "author": "Joshua Fechter and Zach Leggio",
+    "link": "https://feeds.texastribune.org/link/16799/17512375/tarrant-county-midterm-election-moderate-republicans",
+    "content": "Voters wait in line during early voting at the Keller Town Hall polling site in Keller on Oct. 21.",
+    "date": "2026-11-01T11:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6ae100238620da29e32c576d",
     "feed_name": "Wired (Science)",
     "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
@@ -19987,16 +19997,6 @@
     "link": "https://cooking.nytimes.com/article/egg-dinner-salsa-de-chorizo-recipe",
     "content": "Salsa de chorizo, on the other hand, has been nourishing Coahuila for generations.",
     "date": "2026-09-14T20:35:32",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/arts/music/macklemore-ed-sheeran-tour-palestine-gaza.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Macklemore Dropped From Ed Sheeran Tour After \u2018Free Palestine\u2019 Remarks",
-    "author": "Ben Sisario",
-    "link": "https://www.nytimes.com/2026/09/14/arts/music/macklemore-ed-sheeran-tour-palestine-gaza.html",
-    "content": "Macklemore\u2019s 2012 track \u201cThrift Shop,\u201d released with his former producer Ryan Lewis, helped the duo win four Grammy Awards.",
-    "date": "2026-09-14T18:47:53",
     "category": "NYT"
   }
 ]
