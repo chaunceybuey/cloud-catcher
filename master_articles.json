@@ -210,6 +210,26 @@
     "category": "Texas"
   },
   {
+    "id": "5102ec54-e6a9-4ce8-be8b-c1bd801603ec",
+    "feed_name": "Economist",
+    "title": "Intensive parenting is no longer the preserve of the rich",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+    "content": "But wealthy families still come out on top",
+    "date": "2026-11-01T16:08:43",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/dining/senate-bean-soup-for-your-house.html",
+    "feed_name": "NYT (Food)",
+    "title": "Senate Bean Soup for Your House",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/11/01/dining/senate-bean-soup-for-your-house.html",
+    "content": "Sarah DiGregorio\u2019s Senate Bean Soup.",
+    "date": "2026-11-01T16:00:06",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23877-butler-school-of-music-concert-chorale",
     "feed_name": "KMFA",
     "title": "Butler School of Music: Concert Chorale",
@@ -218,6 +238,26 @@
     "content": "THE BUTLER SCHOOL OF MUSIC PRESENTS:\n\nCONCERT CHORALE\n\nNovember 1 | 4:00 P.M. | Bates Recital Hall\u00a0\n\n\n\nSoprano\nRoslyn Ackermann\nAdrienne Pedrotti Bingamon\nKory Farquhar\nEmily Furrer\nDyuti Ganesh\nFavor Ito\nRusetsa Karamagi\nMadeline Leal\nBella Madrid\nAvery McClinton\nLillian Olivo\nAngelina Saavedra\nDiane Shim\n\nAlto\nMia Benavides\nBrynn Bolton\nAbby Brooks\nAleah Burden\nEleora Franklin\nGeorgia Fuller\nFrida Hernandez Villareal\nAvery Marren\nMattie Spaulding\nVaishnavee Sundararaman\nBella Thornton\nBryshe Willis\n\nTenor\nAlex Bartee\nStevie Dugdale\nJohn Michael Manon\nPresley Mathis\nDaniel McIver\nAshton McKenzie\nJerald Mercado\nHunter Mullen\nWill Nichols\nJohathan Simon\nMichael Smith\nAnthony Yeh\n\nBass\nHudson Bell\nJason Bui\nSiyu Cao\nBen Cummings\nLuke Gosch\nJacob Gonzaba\nZach Greer\nCharles Henry\nJoey Meister\nAlex Milton\nSebastian Morales\nIsaac Moshay\nBlake Musfeldt\nColin Tuhoy\nMiller Wendorf\nEvan Yeh\n\nBUY TICKETS!\n\nEvent Details\nDate: Sunday, November 1st\nTime: 4:00 P.M.\nVenue: Bates Recital Hall\n\nTicket Information\nCost: $5 - $15\nPhone: \n\nPresenter Details: The Sarah and Ernest Butler School of Music at The University of Texas at Austin is a premier conservatory-style music school housed within the College of Fine Arts.",
     "date": "2026-11-01T16:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/style/heidi-klum-halloween-party-photos-costumes.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Inside Heidi Klum\u2019s 2026 Halloween Party: See All the Wacky Costumes",
+    "author": "Sarah Bahr and Jutharat Pinyodoonyachet",
+    "link": "https://www.nytimes.com/2026/11/01/style/heidi-klum-halloween-party-photos-costumes.html",
+    "content": "Klum, center, said she came up with the idea for her costume last year.",
+    "date": "2026-11-01T15:55:16",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/01/theater/in-the-heights-review-lin-manuel-miranda.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018In the Heights\u2019 Review: An Exuberant Revival of Lin-Manuel Miranda\u2019s Musical",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/11/01/theater/in-the-heights-review-lin-manuel-miranda.html",
+    "content": "Matte Martinez, left, as Usnavi and Ashley De La Rosa as Vanessa in the musical \u201cIn the Heights\u201d at New York City Center.",
+    "date": "2026-11-01T15:45:31",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/11/01/arts/television/snl-trick-or-treat-trump-interrupts-david-s-pumpkins.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/09/trump-kennedy-center/688618/",
     "content": "The only appropriate option is to refuse to accede to his demands.",
     "date": "2026-09-14T21:58:15",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026",
-    "feed_name": "NYT (Arts)",
-    "title": "Emmy Awards Live Updates: Stars of the Small Screen Gather Ahead of TV\u2019s Biggest Night",
-    "author": "The New York Times",
-    "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026",
-    "content": "Mariska Hargitay, host of the 78th Emmy Awards, on the blue carpet in Los Angeles, Calif., last week.",
-    "date": "2026-09-14T21:42:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/heres-the-latest",
-    "feed_name": "NYT (Arts)",
-    "title": "Here\u2019s the latest.",
-    "author": "John Koblin",
-    "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/heres-the-latest",
-    "content": "",
-    "date": "2026-09-14T21:41:04",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242715",
-    "feed_name": "Texas Tribune",
-    "title": "Trump nominates U.S. Rep. Wesley Hunt of Houston to be ambassador to Saudi Arabia",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17461897/texas-wesley-hunt-saudi-arabia-ambassador",
-    "content": "U.S. Rep. Wesley Hunt, R-Houston, speaks during a Texas Republican candidate debate at the Civic Center in Canton on Jan. 17, 2026.",
-    "date": "2026-09-14T21:18:33",
-    "category": "Texas"
-  },
-  {
-    "id": "f94b4d9908ebe984a5de2d4ae5605d91",
-    "feed_name": "The Atlantic",
-    "title": "A Bigoted Outburst Against Texas Sports Fans",
-    "author": "Conor Friedersdorf",
-    "link": "https://www.theatlantic.com/ideas/2026/09/bigoted-outburst-against-texas-sports-fans/688619/",
-    "content": "Bo French\u2019s xenophobia should force Republicans to confront the prejudice in their ranks.",
-    "date": "2026-09-14T21:13:00",
     "category": "Magazines"
   }
 ]
