@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nybooks.com/articles/2026/11/19/the-flood-of-life-in-praise-of-floods-scott/",
+    "feed_name": "NYRB",
+    "title": "The Flood of Life",
+    "author": "",
+    "link": "https://www.nybooks.com/articles/2026/11/19/the-flood-of-life-in-praise-of-floods-scott/",
+    "content": "Our desire to control a river\u2019s course always conflicts with a river\u2019s determination to shape its own.\n\nDelivered by PolitePaul service",
+    "date": "2026-11-01T18:18:51",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/01/movies/michael-mann-shooting.html",
     "feed_name": "NYT (Arts)",
     "title": "Michael Mann Accidentally Shoots Himself at Los Angeles Gun Range",
@@ -19988,15 +19998,5 @@
     "content": "Mariska Hargitay, who won an Emmys trophy earlier this month for the documentary \u201cMy Mom Jayne,\u201d is hosting Monday night\u2019s ceremony.",
     "date": "2026-09-14T23:29:14",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242731",
-    "feed_name": "Texas Tribune",
-    "title": "Karl Rove said he\u2019ll break 30 years of only supporting Republicans to vote against \u201cbigot\u201d Bo French",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17461996/bo-french-kal-rove-endorsement-jon-rosenthal",
-    "content": "Karl Rove, the long time Republican political strategist and former adviser to President George W. Bush, said on Monday he will vote for Democrat Jon Rosenthal in the Texas Railroad Commission race. On Sunday, the Republican candidate Bo French posted a racist tweet about South Asian students at the University of Texas at Austin.",
-    "date": "2026-09-14T22:03:37",
-    "category": "Texas"
   }
 ]
