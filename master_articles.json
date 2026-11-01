@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "6ae100238620da29e32c576d",
+    "feed_name": "Wired (Science)",
+    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+    "author": "Christine Peterson",
+    "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+    "content": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+    "date": "2026-11-01T10:30:00",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/01/theater/traitorz-carson-imitation-life-off-broadway-november.html",
     "feed_name": "NYT (Arts)",
     "title": "23 Off Broadway Shows to Catch This November",
@@ -19988,15 +19998,5 @@
     "content": "Macklemore\u2019s 2012 track \u201cThrift Shop,\u201d released with his former producer Ryan Lewis, helped the duo win four Grammy Awards.",
     "date": "2026-09-14T18:47:53",
     "category": "NYT"
-  },
-  {
-    "id": "0634eeb3b5a1255fd97f71ba2e5e26ad",
-    "feed_name": "LRB",
-    "title": "Anita Brookner\u2019s Edge",
-    "author": "",
-    "link": "https://www.lrb.co.uk/the-paper/v48/n17/andrew-o-hagan/omelettes-and-whisky",
-    "content": "The notion\u200b that novelists don\u2019t invent might be recent, yet George Eliot got tired of people pointing to the \u2018original\u2019 of Mr Casaubon, who was sometimes said to be Robert William Mackay, a rather pedantic associate of hers at theWestminster Review, or Dr Brabant, a pretentious family man of 62 who had wooed her decades earlier. Others said he was Mark Pattison, the...",
-    "date": "2026-09-14T18:24:22",
-    "category": "Magazines"
   }
 ]
