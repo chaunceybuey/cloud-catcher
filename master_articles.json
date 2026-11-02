@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/02/dining/funeral-venue-restaurants-bars.html",
+    "feed_name": "NYT (Food)",
+    "title": "Hosting a Funeral at a Restaurant or Bar",
+    "author": "Maggie Hennessy",
+    "link": "https://www.nytimes.com/2026/11/02/dining/funeral-venue-restaurants-bars.html",
+    "content": "After her husband died from complications of Alzheimer\u2019s disease, Angela Elkins, right, decided to hold his memorial at Perry\u2019s in Washington, with the help of its longtime general manager, Devin Sparks.",
+    "date": "2026-11-02T18:46:22",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/02/movies/pasolini-murder-investigation-rome.html",
     "feed_name": "NYT (Arts)",
     "title": "Rome Greenlights New Investigation of Pier Paolo Pasolini Murder 51 Years Ago",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-09-15T13:14:58",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/15/arts/design/otto-muehl-vienna-actionism-museum.html",
-    "feed_name": "NYT (Arts)",
-    "title": "As Museum Honors Otto Muehl\u2019s Art, Protesters Want to Focus on His Sex Crimes",
-    "author": "Valeriya Safronova",
-    "link": "https://www.nytimes.com/2026/09/15/arts/design/otto-muehl-vienna-actionism-museum.html",
-    "content": "Protesters last week outside the Vienna Actionism Museum, which is known by its German initials, W.A.M. The banner says the institution is \u201ca perpetrator\u2019s museum.\u201d",
-    "date": "2026-09-15T13:01:31",
-    "category": "NYT"
   }
 ]
