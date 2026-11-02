@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/02/arts/television/north-of-north-tv-this-week.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018North of North,\u2019 and 8 More Shows to Watch on TV This Week",
+    "author": "Shivani Gonzalez",
+    "link": "https://www.nytimes.com/2026/11/02/arts/television/north-of-north-tv-this-week.html",
+    "content": "The sitcom, set in a small Arctic community, returns for a second season. And news networks air coverage of the midterm elections.",
+    "date": "2026-11-02T06:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/01/arts/music/harry-styles-msg-residency-harryween.html",
     "feed_name": "NYT (Arts)",
     "title": "For Harry Styles and His Fans, a \u2018Harryween\u2019 Farewell to New York",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/14/dining/restaurant-moments.html",
     "content": "TK",
     "date": "2026-09-14T23:30:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/dining/chefs-dining-beverage-trends.html",
-    "feed_name": "NYT (Food)",
-    "title": "The Dining Trends Chefs Are Seeing in 2026",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/09/14/dining/chefs-dining-beverage-trends.html",
-    "content": "Early reservations, which became more popular coming out of the pandemic, are now seemingly a permanent preference among many diners, according to chefs.",
-    "date": "2026-09-14T23:30:08",
     "category": "NYT"
   }
 ]
