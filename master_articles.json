@@ -210,6 +210,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/02/arts/television/streaming-costs-readers.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How Much Do You Pay for TV Streaming Services? We Want to Know.",
+    "author": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/02/arts/television/streaming-costs-readers.html",
+    "content": "Let us know your thoughts about the costs of streaming television.",
+    "date": "2026-11-02T14:05:51",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/arts/dance/adrian-blake-mitchell-ballet.html",
+    "feed_name": "NYT (Arts)",
+    "title": "He Was the Lone Boy in Ballet Class. Now He Teaches 40.",
+    "author": "Robert Ito and Chantal Anderson",
+    "link": "https://www.nytimes.com/2026/11/02/arts/dance/adrian-blake-mitchell-ballet.html",
+    "content": "Adrian Blake Mitchell\u2019s career took him to Russia. But he has returned to Los Angeles to shepherd young dancers at his alma mater. \u201cI\u2019m teaching a lot of things I wish most adult men had.\u201d",
+    "date": "2026-11-02T13:48:50",
+    "category": "NYT"
+  },
+  {
     "id": "https://stratechery.com/?p=20740",
     "feed_name": "Stratechery",
     "title": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/coming-soon-the-100-best-tv-shows-of-the-21st-century",
     "content": "",
     "date": "2026-09-15T01:56:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/arts/television/emmys-candid-photos.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Candid Photos From the 2026 Emmys",
-    "author": "Sinna Nasseri",
-    "link": "https://www.nytimes.com/2026/09/14/arts/television/emmys-candid-photos.html",
-    "content": "Candid moments with Jean Smart, Meg Stalter, Rachel Sennott, Matthew Rhys and more.",
-    "date": "2026-09-15T01:52:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/arts/television/the-late-show-stephen-colbert-emmy-.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The Late Show With Stephen Colbert\u2019 Goes Out With an Emmy Win",
-    "author": "John Koblin and Jonathan Abrams",
-    "link": "https://www.nytimes.com/2026/09/14/arts/television/the-late-show-stephen-colbert-emmy-.html",
-    "content": "\u201cThe Late Show With Stephen Colbert\u201d was named best variety show for its final season.",
-    "date": "2026-09-15T01:39:50",
     "category": "NYT"
   }
 ]
