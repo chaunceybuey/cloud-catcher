@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/02/arts/music/kennedy-center-honors-mamet-garcia-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Paul Anka and David Mamet to Be Honored by a Kennedy Center in Turmoil",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/11/02/arts/music/kennedy-center-honors-mamet-garcia-trump.html",
+    "content": "From left, Paul Anka, Andy Garcia and Barbara Mandrell. The playwright David Mamet and the music producer David Foster will also be honored by the Kennedy Center on Dec. 7.",
+    "date": "2026-11-02T17:00:44",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/02/dining/easy-peasy-peanut-noodles-with-spicy-tofu.html",
     "feed_name": "NYT (Food)",
     "title": "Easy-Peasy Peanut Noodles With Spicy Tofu",
@@ -19988,15 +19998,5 @@
     "content": "Texas Longhorns fans and players celebrate following the NCAA football game against the Ohio State Buckeyes at Darrell K Royal-Texas Memorial Stadium in Austin on Saturday. Students said they were not surprised a Republican candidate lobbed racist attacks about South Asian students seen celebrating the win.",
     "date": "2026-09-15T02:03:13",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-emmy-best-comedy.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Widow\u2019s Bay\u2019 Dominates the Emmy Comedy Category",
-    "author": "Alexis Soloski",
-    "link": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-emmy-best-comedy.html",
-    "content": "Matthew Rhys was among the Emmy winners on Monday night for \u201cWidow\u2019s Bay.\u201d",
-    "date": "2026-09-15T02:02:59",
-    "category": "NYT"
   }
 ]
