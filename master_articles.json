@@ -210,6 +210,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Streaming Era Has Given Us Great TV, but It Comes at a Price",
+    "author": "James Poniewozik",
+    "link": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
+    "content": "The streaming era has provided viewers a lot of great things to watch. But it comes at a price.",
+    "date": "2026-11-02T10:03:13",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/theater/odets-waiting-for-lefty-awake-sing-golden-boy.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Why Is Clifford Odets Having His Best Year Since 1935?",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/11/02/theater/odets-waiting-for-lefty-awake-sing-golden-boy.html",
+    "content": "The playwright of hard-talking works like \u201cWaiting for Lefty\u201d and \u201cAwake and Sing!\u201d is again the man of the moment.",
+    "date": "2026-11-02T10:01:45",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/theater/lives-of-others-kiera-knightley-robert-icke.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Keira Knightley Is Back Onstage in a Slick, Chilling \u2018The Lives of Others\u2019",
+    "author": "Houman Barekat",
+    "link": "https://www.nytimes.com/2026/11/02/theater/lives-of-others-kiera-knightley-robert-icke.html",
+    "content": "The actress is a major draw for Robert Icke\u2019s adaptation of the Oscar-winning movie. But in this version, the secret police steal the show.",
+    "date": "2026-11-02T10:00:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/02/arts/television/north-of-north-tv-this-week.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018North of North,\u2019 and 8 More Shows to Watch on TV This Week",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/14/arts/television/jean-smart-hacks-emmys-history.html",
     "content": "An award for the final season of \u201cHacks\u201d makes Smart one of the most prolific Emmy-winning actresses in history.",
     "date": "2026-09-15T00:12:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/late-night-outstanding-variety-show-emmys",
-    "feed_name": "NYT (Arts)",
-    "title": "There could be multiple winners from late-night TV.",
-    "author": "John Koblin",
-    "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/late-night-outstanding-variety-show-emmys",
-    "content": "",
-    "date": "2026-09-14T23:56:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/widows-bay-emmys-casting-production",
-    "feed_name": "NYT (Arts)",
-    "title": "The telecast hasn\u2019t started, but \u2018Widow\u2019s Bay\u2019 already has 8 Emmys.",
-    "author": "John Koblin",
-    "link": "https://www.nytimes.com/live/2026/09/14/arts/emmy-awards-2026/widows-bay-emmys-casting-production",
-    "content": "The rookie series starring Matthew Rhys is shaping up to be a favorite, having won for best casting, historically a bellwether for best comedy.",
-    "date": "2026-09-14T23:46:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/dining/restaurant-moments.html",
-    "feed_name": "NYT (Food)",
-    "title": "These Kinds of Moments Make Us Love Restaurants",
-    "author": "The New York Times Food Desk",
-    "link": "https://www.nytimes.com/2026/09/14/dining/restaurant-moments.html",
-    "content": "TK",
-    "date": "2026-09-14T23:30:09",
     "category": "NYT"
   }
 ]
