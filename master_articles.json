@@ -1410,6 +1410,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://cooking.nytimes.com/article/how-i-upgraded-my-moms-roast-chicken-with-fewer-dishes",
+    "feed_name": "NYT (Food)",
+    "title": "How I Upgraded My Mom\u2019s Roast Chicken (With Fewer Dishes)",
+    "author": "Melissa Clark",
+    "link": "https://cooking.nytimes.com/article/how-i-upgraded-my-moms-roast-chicken-with-fewer-dishes",
+    "content": "Putting everything on a sheet pan makes the chicken legs, carrots and onions caramelized and sweet.",
+    "date": "2026-10-30T09:03:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/10/30/movies/new-movies-this-week-critics.html",
     "feed_name": "NYT (Arts)",
     "title": "6 New Movies Our Critics Are Talking About This Week",
@@ -19987,16 +19997,6 @@
     "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/nolan-v.-homer",
     "content": "It could be argued that Christopher Nolan has been remaking theOdysseyfor his whole career, and his latest film revisits many of the themes of his earlier movies, as once again a male protagonist embarks on a desperate quest to recover a female love object. But, as Emily Wilson argues, while Homer\u2019sOdysseymight seem the perfect source material for Nolan, the ancient Greek poem also...",
     "date": "2026-09-15T13:15:02",
-    "category": "Magazines"
-  },
-  {
-    "id": "8aa1c5ca801795ee5cea225138bd9b89",
-    "feed_name": "Compact",
-    "title": "Germany\u2019s China Shock Will Push Voters Right",
-    "author": "",
-    "link": "https://www.compactmag.com/article/germanys-china-shock-will-push-voters-right/",
-    "content": "",
-    "date": "2026-09-15T13:14:58",
     "category": "Magazines"
   }
 ]
