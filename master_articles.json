@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://stratechery.com/?p=20740",
+    "feed_name": "Stratechery",
+    "title": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
+    "author": "Ben Thompson",
+    "link": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
+    "content": "<p>Google's earnings miss looks a lot like Facebook's, and that's a credit to Google. The company is being more aggressive than they get credit for.</p>",
+    "date": "2026-11-02T11:00:00",
+    "category": "Tech"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
     "feed_name": "NYT (Arts)",
     "title": "The Streaming Era Has Given Us Great TV, but It Comes at a Price",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/14/arts/television/rhea-seehorn-first-emmy-pluribus.html",
     "content": "After coming up short twice for \u201cBetter Call Saul,\u201d her commanding role in Vince Gilligan\u2019s Apple sci-fi drama put her over the top.",
     "date": "2026-09-15T00:36:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/14/arts/television/mariska-hargitay-emmys-monologue.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Mariska Hargitay Gets the Night Started With a Musical Tribute to TV",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/2026/09/14/arts/television/mariska-hargitay-emmys-monologue.html",
-    "content": "The hosting gig comes as a part of a big year for the actress that has included two Emmys for her documentary about her mother, Jayne Mansfield.",
-    "date": "2026-09-15T00:18:03",
     "category": "NYT"
   }
 ]
