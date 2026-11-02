@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/02/arts/music/hey-arnold-jazz-score-tour.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The \u201990s Cartoon That Taught Millennials How to Swing",
+    "author": "Dusty Henry",
+    "link": "https://www.nytimes.com/2026/11/02/arts/music/hey-arnold-jazz-score-tour.html",
+    "content": "The titular character of \u201cHey Arnold!\u201d listened to jazz music during his adventures around the fictional city of Hillwood.",
+    "date": "2026-11-02T20:14:26",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/02/dining/funeral-venue-restaurants-bars.html",
     "feed_name": "NYT (Food)",
     "title": "Hosting a Funeral at a Restaurant or Bar",
@@ -19988,15 +19998,5 @@
     "content": "Jeffrey Zeigler grew up knowing almost nothing about his father\u2019s family. As an undergraduate he visited an older relative who provided him with stories and family lore.",
     "date": "2026-09-15T13:28:44",
     "category": "NYT"
-  },
-  {
-    "id": "6c8af32da9494b996421c2a631aa3770",
-    "feed_name": "LRB",
-    "title": "Nolan v. Homer",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-lrb-podcast/nolan-v.-homer",
-    "content": "It could be argued that Christopher Nolan has been remaking theOdysseyfor his whole career, and his latest film revisits many of the themes of his earlier movies, as once again a male protagonist embarks on a desperate quest to recover a female love object. But, as Emily Wilson argues, while Homer\u2019sOdysseymight seem the perfect source material for Nolan, the ancient Greek poem also...",
-    "date": "2026-09-15T13:15:02",
-    "category": "Magazines"
   }
 ]
