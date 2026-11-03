@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/arts/television/jimmy-kimmel-trump-midterms.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Mocks the President\u2019s \u2018Pettysburg Address\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/11/03/arts/television/jimmy-kimmel-trump-midterms.html",
+    "content": "\u201cAnd where better to reassure the public that they are in good hands than in front of a pool you\u2019ve repeatedly botched to the tune of $16 million?\u201d Kimmel said of Trump\u2019s speech before the midterms.",
+    "date": "2026-11-03T07:13:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=250286",
     "feed_name": "Texas Tribune",
     "title": "Ken Paxton and James Talarico close their Senate campaigns on home turf",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
     "content": "Nick Reiner is charged with murder under special circumstances because there were multiple killings. He has pleaded not guilty.",
     "date": "2026-09-15T15:35:42",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/15/dining/dumpling-tomato-salad-season-wont-last-forever.html",
-    "feed_name": "NYT (Food)",
-    "title": "Dumpling Tomato Salad Season Won\u2019t Last Forever",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/09/15/dining/dumpling-tomato-salad-season-wont-last-forever.html",
-    "content": "Hetty Lui McKinnon\u2019s dumpling tomato salad with chile crisp vinaigrette.",
-    "date": "2026-09-15T15:00:07",
     "category": "NYT"
   }
 ]
