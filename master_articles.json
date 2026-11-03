@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=250365",
+    "feed_name": "Texas Tribune",
+    "title": "Texas 2026 midterm elections live blog",
+    "author": "Texas Tribune Staff",
+    "link": "https://feeds.texastribune.org/link/16799/17514799/texas-midterms-2026-elections-live-blog",
+    "content": "Texas Tribune reporters will provide live updates throughout the night on key results, breaking news and what they\u2019re seeing across the state.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17514799.gif\" width=\"1\" />",
+    "date": "2026-11-03T23:19:27",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/03/books/ryu-murakami-dead.html",
     "feed_name": "NYT (Arts)",
     "title": "Ry\u016b Murakami, Writer Who Explored Japan\u2019s Dark Side, Dies at 74",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
     "content": "She found a future in the internet\u2019s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
     "date": "2026-09-16T09:03:03",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/arts/television/slow-horses-season-6-kristin-scott-thomas.html",
-    "feed_name": "NYT (Arts)",
-    "title": "On \u2018Slow Horses,\u2019 Kristin Scott Thomas\u2019s Diana Taverner Is in Charge at Last",
-    "author": "Calum Marsh",
-    "link": "https://www.nytimes.com/2026/09/16/arts/television/slow-horses-season-6-kristin-scott-thomas.html",
-    "content": "Kristin Scott Thomas gives a morally gray tinge to \u201cLady Di\u201d Taverner, who takes over as head of Britain\u2019s MI5 secret service in Season 6.",
-    "date": "2026-09-16T09:02:40",
     "category": "NYT"
   }
 ]
