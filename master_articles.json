@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/arts/television/eric-dane-memoir-book-days-highlights.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Eric Dane of \u2018Grey\u2019s Anatomy\u2019 Highlights His Struggle With A.L.S. in Memoir",
+    "author": "Johnny Diaz",
+    "link": "https://www.nytimes.com/2026/11/03/arts/television/eric-dane-memoir-book-days-highlights.html",
+    "content": "Eric Dane in Los Angeles last year. He died in February at the age of 53 from amyotrophic lateral sclerosis, or A.L.S.",
+    "date": "2026-11-03T15:32:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/03/arts/music/rachmaninoff-zurich-opera-house-dmitri-tcherniakov.html",
     "feed_name": "NYT (Arts)",
     "title": "In a Rare Evening of Rachmaninoff Operas, Megalomania and Madness",
@@ -378,6 +388,16 @@
     "content": "Harris County District Attorney Sean Teare, left, listens as Sheriff Ed Gonzalez speaks during a news conference about the Texas grand jury indictment of ICE agent Mario Alberto Morales on a charge of aggravated assault with a deadly weapon on Friday, Oct. 30, 2026, in Houston.",
     "date": "2026-11-02T22:02:07",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/02/books/review/john-thorne-appraisal.html",
+    "feed_name": "NYT (Food)",
+    "title": "John Thorne, the Writer Who Celebrated Humble Food",
+    "author": "Dwight Garner",
+    "link": "https://www.nytimes.com/2026/11/02/books/review/john-thorne-appraisal.html",
+    "content": "John Thorne, who died last week at 83, was interested in making humble things sing.",
+    "date": "2026-11-02T21:48:01",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/11/02/arts/music/hey-arnold-jazz-score-tour.html",
@@ -19978,25 +19998,5 @@
     "content": "A new generation of investors is buying up African stocks",
     "date": "2026-09-15T20:44:13",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242808",
-    "feed_name": "Texas Tribune",
-    "title": "Texas Railroad Commission 2026: What it does and who\u2019s running in the race",
-    "author": "Mar\u00eda M\u00e9ndez and Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17462916/texas-railroad-commission-election-2026-bo-french-jon-rosenthal",
-    "content": "The commission doesn't have anything to do with railroads. It regulates Texas\u2019 oil and gas industry. Here\u2019s where 2026 candidates Bo French, Jon Rosenthal and Arthur DiBianca stand.<img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17462916.gif\" width=\"1\" />",
-    "date": "2026-09-15T20:14:08",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/15/books/mrbeast-james-patterson-most-dangerous-games-novel.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Can MrBeast Get Gen Z to Read James Patterson?",
-    "author": "Ash Wu",
-    "link": "https://www.nytimes.com/2026/09/15/books/mrbeast-james-patterson-most-dangerous-games-novel.html",
-    "content": "MrBeast and James Patterson on \u201cFox & Friends\u201d earlier this month to promote their new book, \u201cThe Most Dangerous Games.\u201d",
-    "date": "2026-09-15T20:00:06",
-    "category": "NYT"
   }
 ]
