@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/arts/music/amplifier-newsletter-jimmy-webb-songs.html",
+    "feed_name": "NYT (Arts)",
+    "title": "The Sublime Songs of Jimmy Webb",
+    "author": "Lindsay Zoladz",
+    "link": "https://www.nytimes.com/2026/11/03/arts/music/amplifier-newsletter-jimmy-webb-songs.html",
+    "content": "Jimmy Webb performing in 2011.",
+    "date": "2026-11-03T19:00:03",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/03/dining/nyc-restaurant-news.html",
     "feed_name": "NYT (Food)",
     "title": "The Tartine Family Goes Bicoastal With Altbau",
@@ -19988,15 +19998,5 @@
     "content": "In the late 1870s, shortly after the publication ofAnna Karenina, Tolstoy experienced what might be described today as a midlife crisis. In his short autobiographical bookA Confession, finished in 1880, he questioned what meaning there is in life that is not annihilated by the inevitability of death. His answer was to live according to God\u2019s law, a realisation that shaped...",
     "date": "2026-09-16T05:42:55",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242909",
-    "feed_name": "Texas Tribune",
-    "title": "ERCOT CEO Pablo Vegas to make $6.4 million in 2027, nearly doubling his salary",
-    "author": "Paul Cobler",
-    "link": "https://feeds.texastribune.org/link/16799/17463038/texas-ercot-energy-grid-ceo-salary-prices",
-    "content": "Pablo Vegas, president of ERCOT, speaks as Gov. Greg Abbott holds at a press conference Monday afternoon at the Texas Department of Emergency Management headquarters in Austin on Aug. 31, 2026.",
-    "date": "2026-09-15T23:57:10",
-    "category": "Texas"
   }
 ]
