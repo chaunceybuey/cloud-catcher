@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/dining/nyc-restaurant-news.html",
+    "feed_name": "NYT (Food)",
+    "title": "The Tartine Family Goes Bicoastal With Altbau",
+    "author": "Florence Fabricant",
+    "link": "https://www.nytimes.com/2026/11/03/dining/nyc-restaurant-news.html",
+    "content": "Rosette brings more bistro offerings, Giuk riffs on Korean specialties and more restaurant news.",
+    "date": "2026-11-03T18:34:40",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/03/dining/sysco-restaurants-small-business-owners.html",
     "feed_name": "NYT (Food)",
     "title": "Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners?",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17463038/texas-ercot-energy-grid-ceo-salary-prices",
     "content": "Pablo Vegas, president of ERCOT, speaks as Gov. Greg Abbott holds at a press conference Monday afternoon at the Texas Department of Emergency Management headquarters in Austin on Aug. 31, 2026.",
     "date": "2026-09-15T23:57:10",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242900",
-    "feed_name": "Texas Tribune",
-    "title": "Texas and feds announce noncitizen voting charges against seven people",
-    "author": "By Natalia Contreras, Votebeat and The Texas Tribune",
-    "link": "https://feeds.texastribune.org/link/16799/17463039/texas-paxton-noncitizen-voter-charges-investigations",
-    "content": "Texas Attorney General Ken Paxton, seen on June 12, 2026, in Houston, announced Tuesday that charges have been filed against seven people accused of voting in federal elections while not eligible citizens.",
-    "date": "2026-09-15T23:36:16",
     "category": "Texas"
   }
 ]
