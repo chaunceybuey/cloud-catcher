@@ -210,6 +210,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/arts/trump-kennedy-center-executive-privilege.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lawyers Spar Over Trump\u2019s Executive Privilege in Kennedy Center Case",
+    "author": "Julia Jacobs",
+    "link": "https://www.nytimes.com/2026/11/03/arts/trump-kennedy-center-executive-privilege.html",
+    "content": "The latest court battle involves whether President Trump\u2019s discussions with aides about the Kennedy Center should be covered by executive privilege.",
+    "date": "2026-11-03T19:41:54",
+    "category": "NYT"
+  },
+  {
+    "id": "516047cc-8f36-4114-adf5-c2fadada186b",
+    "feed_name": "Economist",
+    "title": "America\u2019s renters are in serious trouble",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+    "content": "Several gauges of their financial health are flashing red",
+    "date": "2026-11-03T19:06:57",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/03/arts/music/amplifier-newsletter-jimmy-webb-songs.html",
     "feed_name": "NYT (Arts)",
     "title": "The Sublime Songs of Jimmy Webb",
@@ -19977,26 +19997,6 @@
     "link": "https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
     "content": "The treatment can reprogram immune cells that have been corrupted by the cancer, strengthening the body\u2019s ability to attack.",
     "date": "2026-09-16T08:30:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/arts/television/jimmy-kimmel-stephen-colbert-return.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Stephen Colbert Returns to Late Night on \u2018Jimmy Kimmel Live\u2019",
-    "author": "Trish Bendix",
-    "link": "https://www.nytimes.com/2026/09/16/arts/television/jimmy-kimmel-stephen-colbert-return.html",
-    "content": "\u201cPeople still do these shows?\u201d Colbert said as he sat down for his first late night interview since his show ended.",
-    "date": "2026-09-16T07:37:58",
-    "category": "NYT"
-  },
-  {
-    "id": "849dfadd87574f7d6207fcac3b32f20d",
-    "feed_name": "LRB",
-    "title": "Who\u2019s afraid of realism? \u2018The Death of Ivan Ilyich\u2019 by Leo Tolstoy",
-    "author": "",
-    "link": "https://www.lrb.co.uk/podcasts-and-videos/podcasts/close-readings/who-s-afraid-of-realism-the-death-of-ivan-ilyich-by-leo-tolstoy",
-    "content": "In the late 1870s, shortly after the publication ofAnna Karenina, Tolstoy experienced what might be described today as a midlife crisis. In his short autobiographical bookA Confession, finished in 1880, he questioned what meaning there is in life that is not annihilated by the inevitability of death. His answer was to live according to God\u2019s law, a realisation that shaped...",
-    "date": "2026-09-16T05:42:55",
     "category": "Magazines"
   }
 ]
