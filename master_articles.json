@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/arts/music/rachmaninoff-zurich-opera-house-dmitri-tcherniakov.html",
+    "feed_name": "NYT (Arts)",
+    "title": "In a Rare Evening of Rachmaninoff Operas, Megalomania and Madness",
+    "author": "Daniel Lewis",
+    "link": "https://www.nytimes.com/2026/11/03/arts/music/rachmaninoff-zurich-opera-house-dmitri-tcherniakov.html",
+    "content": "A trilogy of the composer\u2019s short works becomes an unsparing portrait of unhinged delusion in a new staging by Dmitri Tcherniakov.",
+    "date": "2026-11-03T14:48:59",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/propublica-approach-2026-midterm-elections",
     "feed_name": "ProPublica",
     "title": "We Can\u2019t Predict What Will Happen on Election Day. But We\u2019ll Be Here to Cover It.",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/15/books/mrbeast-james-patterson-most-dangerous-games-novel.html",
     "content": "MrBeast and James Patterson on \u201cFox & Friends\u201d earlier this month to promote their new book, \u201cThe Most Dangerous Games.\u201d",
     "date": "2026-09-15T20:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/15/dining/restaurant-review-cheburechnaya-nyc.html",
-    "feed_name": "NYT (Food)",
-    "title": "Restaurant Review: Cheburechnaya in NYC",
-    "author": "Ryan Sutton",
-    "link": "https://www.nytimes.com/2026/09/15/dining/restaurant-review-cheburechnaya-nyc.html",
-    "content": "At Cheburechnaya, specialties of Kosher Uzbek cooking, like lamb ribs and veal liver, are chargrilled and stuffed into beautiful, doughy buns.",
-    "date": "2026-09-15T20:00:05",
     "category": "NYT"
   }
 ]
