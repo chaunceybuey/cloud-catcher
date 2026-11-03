@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/books/ryu-murakami-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Ry\u016b Murakami, Writer Who Explored Japan\u2019s Dark Side, Dies at 74",
+    "author": "Clay Risen",
+    "link": "https://www.nytimes.com/2026/11/03/books/ryu-murakami-dead.html",
+    "content": "Ry\u016b Murakami in 2010. His first novel, \u201cAlmost Transparent Blue,\u201d depicted a side of Japan that ran counter to the strait-laced, socially conservative image favored by the mainstream.",
+    "date": "2026-11-03T21:48:21",
+    "category": "NYT"
+  },
+  {
     "id": "f6c5716d136dd6cf1c1d3fa48dc14255",
     "feed_name": "LRB",
     "title": "Non-Reading Rooms",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/16/arts/television/slow-horses-season-6-kristin-scott-thomas.html",
     "content": "Kristin Scott Thomas gives a morally gray tinge to \u201cLady Di\u201d Taverner, who takes over as head of Britain\u2019s MI5 secret service in Season 6.",
     "date": "2026-09-16T09:02:40",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/arts/nyc-comic-ice-know-your-rights.html",
-    "feed_name": "NYT (Arts)",
-    "title": "A New York City Comic Book Offers Tips on Rights and ICE Encounters",
-    "author": "George Gene Gustines",
-    "link": "https://www.nytimes.com/2026/09/16/arts/nyc-comic-ice-know-your-rights.html",
-    "content": "The New York City Public Schools comic book \u201cKnow Your Rights\u201d comes as the political climate around immigration remains heated.",
-    "date": "2026-09-16T09:02:17",
     "category": "NYT"
   }
 ]
