@@ -210,6 +210,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/dining/restaurant-review-graciela-steakhouse-nyc.html",
+    "feed_name": "NYT (Food)",
+    "title": "Restaurant Review: Graciela in New York",
+    "author": "Ligaya Mishan",
+    "link": "https://www.nytimes.com/2026/11/03/dining/restaurant-review-graciela-steakhouse-nyc.html",
+    "content": "Graciela channels that country\u2019s distinctive style, steeped in a deep appreciation of beef and skilled in the art of the grill.",
+    "date": "2026-11-03T10:02:59",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/arts/design/jill-magid-artist-federal-register-book.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Conceptual Artist Entwines Her Work With the State",
+    "author": "Julia Halperin and Amina Gingold",
+    "link": "https://www.nytimes.com/2026/11/03/arts/design/jill-magid-artist-federal-register-book.html",
+    "content": "\u201cI feel like my piece is a public artwork embedded in a public square,\u201d Jill Magid said of having her artwork, \u201cWith Full Consent,\u201d embedded in the Federal Register.",
+    "date": "2026-11-03T10:02:22",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/arts/music/twisted-teens-band-holy-cross-tigers.html",
+    "feed_name": "NYT (Arts)",
+    "title": "A Deluge of (Loud, Twangy) Music Puts Twisted Teens on the Map",
+    "author": "Mark Yarm",
+    "link": "https://www.nytimes.com/2026/11/03/arts/music/twisted-teens-band-holy-cross-tigers.html",
+    "content": "When R.J. Santos, left, and Caspian Hollywell started making music together as Twisted Teens, \u201cWe were like, damn, there\u2019s lightning in the bottle here,\u201d Hollywell said.",
+    "date": "2026-11-03T10:02:19",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/03/arts/television/jimmy-kimmel-trump-midterms.html",
     "feed_name": "NYT (Arts)",
     "title": "Jimmy Kimmel Mocks the President\u2019s \u2018Pettysburg Address\u2019",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/15/arts/music/trumps-name-must-stay-off-kennedy-center-judge-rules.html",
     "content": "A federal judge ruled that the Kennedy Center did not have the authority to place President Trump\u2019s name on the exterior of the building.",
     "date": "2026-09-15T16:12:09",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/15/arts/television/the-3-emmy-awards-our-readers-would-have-changed.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The 3 Emmy Awards Our Readers Would Have Changed",
-    "author": "Robin Kawakami",
-    "link": "https://www.nytimes.com/2026/09/15/arts/television/the-3-emmy-awards-our-readers-would-have-changed.html",
-    "content": "Thousands of people selected their television favorites of the season. Here\u2019s how they voted.",
-    "date": "2026-09-15T16:01:11",
-    "category": "NYT"
-  },
-  {
-    "id": "a69985202651148a969dfdc6b90c31f3",
-    "feed_name": "The Atlantic",
-    "title": "Trump\u2019s Position on AI Makes No Sense",
-    "author": "Rog\u00e9 Karma",
-    "link": "https://www.theatlantic.com/ideas/2026/09/trump-ai-china/688629/",
-    "content": "If the president is so concerned about staying ahead in the AI race, why is he letting Chinese companies buy American chips?",
-    "date": "2026-09-15T15:47:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Prosecutors Will Not Seek Death Penalty for Nick Reiner",
-    "author": "Matt Stevens and Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/09/15/movies/nick-reiner-death-penalty-murder-trial.html",
-    "content": "Nick Reiner is charged with murder under special circumstances because there were multiple killings. He has pleaded not guilty.",
-    "date": "2026-09-15T15:35:42",
     "category": "NYT"
   }
 ]
