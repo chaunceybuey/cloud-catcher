@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/03/dining/sysco-restaurants-small-business-owners.html",
+    "feed_name": "NYT (Food)",
+    "title": "Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners?",
+    "author": "Meghan McCarron",
+    "link": "https://www.nytimes.com/2026/11/03/dining/sysco-restaurants-small-business-owners.html",
+    "content": "Every day, Sysco trucks deliver wholesale food and restaurant supplies to thousands of business across the United States.",
+    "date": "2026-11-03T17:13:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/03/arts/television/netflix-new-november.html",
     "feed_name": "NYT (Arts)",
     "title": "The Best Movies and TV Shows Coming to Netflix in November",
@@ -19987,16 +19997,6 @@
     "link": "https://feeds.texastribune.org/link/16799/17463039/texas-paxton-noncitizen-voter-charges-investigations",
     "content": "Texas Attorney General Ken Paxton, seen on June 12, 2026, in Houston, announced Tuesday that charges have been filed against seven people accused of voting in federal elections while not eligible citizens.",
     "date": "2026-09-15T23:36:16",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=242884",
-    "feed_name": "Texas Tribune",
-    "title": "TribCast: Weighing the impact of Paxton\u2019s political baggage",
-    "author": "Eleanor Klibanoff",
-    "link": "https://feeds.texastribune.org/link/16799/17463040/tribcast-paxton-senate-baggage",
-    "content": "Texas Attorney General and Republican nominee for the U.S. Senate Ken Paxton speaks at a campaign stop in Corpus Christi on September 2, 2026.",
-    "date": "2026-09-15T23:21:16",
     "category": "Texas"
   }
 ]
