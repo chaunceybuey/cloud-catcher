@@ -210,6 +210,36 @@
     "category": "Texas"
   },
   {
+    "id": "f6c5716d136dd6cf1c1d3fa48dc14255",
+    "feed_name": "LRB",
+    "title": "Non-Reading Rooms",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/november/non-reading-rooms",
+    "content": "Users of the British Library received an email on 21 October with the subject line \u2018Transforming your Library\u2019. In order to adapt.\u00a0.\u00a0.",
+    "date": "2026-11-03T21:37:19",
+    "category": "Magazines"
+  },
+  {
+    "id": "65fe019f727af1099248aae5ccfa6daf",
+    "feed_name": "LRB",
+    "title": "Why Juries Still Matter",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/november/why-juries-still-matter",
+    "content": "The government\u2019s justification for its reform of the courts has shifted from clearing the backlog to modernisation and rationalisation.\u00a0.\u00a0.",
+    "date": "2026-11-03T21:37:19",
+    "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/03/arts/paris-jackson-michael-jackson-estate.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Paris Jackson Asks Father\u2019s Estate to Fund $600M to Family Trust",
+    "author": "Derrick Bryson Taylor",
+    "link": "https://www.nytimes.com/2026/11/03/arts/paris-jackson-michael-jackson-estate.html",
+    "content": "Paris Jackson appears at a gala in Paris last month.",
+    "date": "2026-11-03T21:34:24",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/03/theater/waiting-for-lefty-review-odets-pasquale.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018Waiting for Lefty\u2019 Review: Protest Songs in the Key of Life",
@@ -228,6 +258,16 @@
     "content": "The new Brooklyn spot comes to a bustling corner of Prospect Place.",
     "date": "2026-11-03T21:00:40",
     "category": "NYT"
+  },
+  {
+    "id": "e02cca84-2993-4749-bde1-e53913850aef",
+    "feed_name": "Economist",
+    "title": "China\u2019s AI stock-market struggles are a warning",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+    "content": "What happens when the supply of new tech catches up with demand?",
+    "date": "2026-11-03T20:48:59",
+    "category": "Magazines"
   },
   {
     "id": "https://www.nytimes.com/2026/11/03/arts/trump-kennedy-center-executive-privilege.html",
@@ -19957,46 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/16/arts/nyc-comic-ice-know-your-rights.html",
     "content": "The New York City Public Schools comic book \u201cKnow Your Rights\u201d comes as the political climate around immigration remains heated.",
     "date": "2026-09-16T09:02:17",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/movies/john-malkovich-sam-rockwell-wild-horse-nine.html",
-    "feed_name": "NYT (Arts)",
-    "title": "John Malkovich and Sam Rockwell on \u2018Wild Horse Nine\u2019",
-    "author": "Clarissa Cruz",
-    "link": "https://www.nytimes.com/2026/09/16/movies/john-malkovich-sam-rockwell-wild-horse-nine.html",
-    "content": "\u201cSam is an actor who isn\u2019t at all pretentious and isn\u2019t at all precious, but has a great work ethic, takes it very seriously and conversely loves to have fun doing it,\u201d Malkovich, left, said of his co-star Rockwell. \u201cAnd I think those two different facets need to go together.\u201d",
-    "date": "2026-09-16T09:00:58",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/theater/in-wanted-outlaw-sisters-pass-for-white-to-settle-the-score.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In \u2018Wanted\u2019 on Broadway, Outlaw Sisters Pass for White to Settle the Score",
-    "author": "Derrick Bryson Taylor and Myesha Evon",
-    "link": "https://www.nytimes.com/2026/09/16/theater/in-wanted-outlaw-sisters-pass-for-white-to-settle-the-score.html",
-    "content": "The new musical, set in the late 1800s in Texas, originated from the family lore of the book writer and lyricist Angelica Ch\u00e9ri. Its journey to Broadway took a dozen years.",
-    "date": "2026-09-16T09:00:54",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/insider/new-york-times-175-anniversary.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Reflecting on 175 Years of The New York Times",
-    "author": "Sarah Bahr",
-    "link": "https://www.nytimes.com/2026/09/16/insider/new-york-times-175-anniversary.html",
-    "content": "The Times\u2019s former headquarters in Times Square, seen in the 1920s.",
-    "date": "2026-09-16T09:00:44",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/arts/music/empress-of-dream-house-album-altadena.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Empress Of Rebuilds \u201cDream House\u201d After Fire",
-    "author": "Carolina Abbott Galv\u00e3o and Maiwenn Raoult",
-    "link": "https://www.nytimes.com/2026/09/16/arts/music/empress-of-dream-house-album-altadena.html",
-    "content": "\u201cI\u2019m just really proud of the resilience of my town,\u201d Rodriguez said of Altadena.",
-    "date": "2026-09-16T09:00:40",
     "category": "NYT"
   }
 ]
