@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=249366",
+    "feed_name": "Texas Tribune",
+    "title": "James Talarico leads Ken Paxton in early returns in Texas\u2019 U.S. Senate race",
+    "author": "Gabby Birenbaum and Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17514883/texas-ken-paxton-james-talarico-us-senate-elections-2026",
+    "content": "U.S. Senate candidate James Talarico speaks at the Texas Democratic Convention in Corpus Christi on June 26, 2026.",
+    "date": "2026-11-04T01:37:28",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=250365",
     "feed_name": "Texas Tribune",
     "title": "Texas 2026 midterm elections live blog",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/16/movies/toronto-international-film-festival-market.html",
     "content": "Long known as an Oscar launchpad, TIFF is hoping a new market can expand its reputation and its finances without changing its spirit.",
     "date": "2026-09-16T09:04:25",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
-    "author": "Clay Risen",
-    "link": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
-    "content": "She found a future in the internet\u2019s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
-    "date": "2026-09-16T09:03:03",
     "category": "NYT"
   }
 ]
