@@ -260,6 +260,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/04/movies/billy-evans-you-can-see-everything.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Whose Idea Was the Billy Evans Shower Scene in \u2018You Can See Everything\u2019?",
+    "author": "Malia Mendez",
+    "link": "https://www.nytimes.com/2026/11/04/movies/billy-evans-you-can-see-everything.html",
+    "content": "Billy Evans, Elizabeth Holmes\u2019s romantic partner, rebutted an account of the origins of the jaw-dropping scene by one of the documentary\u2019s directors.",
+    "date": "2026-11-04T22:16:22",
+    "category": "NYT"
+  },
+  {
     "id": "76bfc64b-6a03-4d6b-97f9-913c3b9d1a1c",
     "feed_name": "Economist",
     "title": "What markets make of the midterms",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
     "content": "The prolific producers target tech bigwigs in their newest show. \u201cThey\u2019re really the stupidest and dumbest people,\u201d Robert King said.",
     "date": "2026-09-17T09:02:35",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/movies/wicker-weta-basket-costume.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Wicker\u2019 Filmmakers on Alexander Skarsgard\u2019s Costume",
-    "author": "Nicole Sperling",
-    "link": "https://www.nytimes.com/2026/09/17/movies/wicker-weta-basket-costume.html",
-    "content": "For \u201cWicker,\u201d the tale of a 17th-century husband conjured up by a basket maker, the challenge of designing the unlikely lover required months of testing.",
-    "date": "2026-09-17T09:02:07",
     "category": "NYT"
   }
 ]
