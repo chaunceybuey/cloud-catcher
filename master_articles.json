@@ -270,6 +270,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.texastribune.org/?p=251639",
+    "feed_name": "Texas Tribune",
+    "title": "Meet Vikki Goodwin, Nathan Johnson and the other Democrats who\u2019ll run Texas",
+    "author": "Mar\u00eda M\u00e9ndez",
+    "link": "https://feeds.texastribune.org/link/16799/17515540/texas-democrats-goodwin-johnson-eckhardt-elections-2026",
+    "content": "Clearing skies over the Texas Capitol in Austin on Election Day, Nov. 3, 2026.",
+    "date": "2026-11-04T22:10:27",
+    "category": "Texas"
+  },
+  {
     "id": "76bfc64b-6a03-4d6b-97f9-913c3b9d1a1c",
     "feed_name": "Economist",
     "title": "What markets make of the midterms",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/movies/shaun-the-sheep-the-beast-of-mossy-bottom-review.html",
     "content": "Everybody\u2019s favorite woolly, wordless sheep returns in this charming, stop-motion spoof of Halloween movies, which will delight kids and adults alike.",
     "date": "2026-09-17T09:02:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
-    "feed_name": "NYT (Arts)",
-    "title": "On \u2018Cupertino,\u2019 Robert and Michelle King Go Online",
-    "author": "Alexis Soloski and Amir Hamja",
-    "link": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
-    "content": "The prolific producers target tech bigwigs in their newest show. \u201cThey\u2019re really the stupidest and dumbest people,\u201d Robert King said.",
-    "date": "2026-09-17T09:02:35",
     "category": "NYT"
   }
 ]
