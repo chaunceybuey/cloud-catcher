@@ -200,6 +200,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.kmfa.org/pages/23976-la-follia-exotic-instruments-of-the-baroque",
+    "feed_name": "KMFA",
+    "title": "La Follia: Exotic Instruments of the Baroque",
+    "author": "",
+    "link": "https://www.kmfa.org/pages/23976-la-follia-exotic-instruments-of-the-baroque",
+    "content": "LA FOLLIA AUSTIN PRESENTS:\n\nEXOTIC INSTRUMENTS OF THE BAROQUE\n\nNovember 6th at\u00a07:30 P.M. | November 7th at 3:00 P.M. | First Presbyterian Church\n\n\n\nThis may be\u00a0your only chance to hear the hurdy-gurdy and musette, as well as rarely heard cornetto, chalumeau, and sackbut. Despite what you may think, these instruments were hugely popular in the day. Find out why!\n\nNotes:\n1. You may use your ticket for either date of the performance\n2. You will also receive a link to a video recording of the performance\nroughly two weeks after the performance. So, you have the option, for\nany concert, of in-person attendance, watching the video, or both.\n\nBUY TICKETS!\n\nEvent Details\nDate: November 6th - 7th\nTime: Varying Showtimes\nVenue: First Presbyterian Church\n\nTicket Information\nCost: $25 - $60\nPhone: \n\nPresenter Details: Based in Austin, Texas, we perform music from the time of Bach, Handel, Vivaldi, Haydn and Mozart. We use instruments and performance practices appropriate to the period, so you experience the music exactly as the composers experienced it. Winner of multiple Austin Critics Table awards including Best Ensemble, La Follia is, in the words of the Austin American-Statesman, \u201cBaroque done right.\u201d",
+    "date": "2026-11-06T19:30:00",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23382-kmfa-s-midday-music-concert-series-mozart-everlasting",
     "feed_name": "KMFA",
     "title": "KMFA's Midday Music Concert Series: Mozart Everlasting",
@@ -208,6 +218,16 @@
     "content": "THE BUTLER OPERA CENTER PRESENTS:\n\nKMFA'S MIDDAY MUSIC CONCERT SERIES\n\nMOZART EVERLASTING\n\nThursday, November 5, 2026 | 12:00 PM | KMFA\u2019s Draylen Mason Music Studio\n\n\n\nKMFA\u2019s free Midday Music Concert Series welcomes the Butler Opera Center at The University of Texas at Austin back to the Draylen Mason Music Studio for a special preview of Mozart Everlasting, a program with scenes from three of Mozart\u2019s most celebrated operas.\n\nArtists from the Butler Opera Center will perform selections from Cos\u00ec fan tutte, Die Zauberfl\u00f6te (The Magic Flute), and Le nozze di Figaro (The Marriage of Figaro), offering KMFA audiences an opportunity to experience Mozart\u2019s expressive vocal writing and memorable characters ahead of the program\u2019s December performances.\n\nThis free noontime performance continues a longstanding collaboration between KMFA and the Butler Opera Center. Since 2021, the organizations have regularly partnered to present free previews of the opera center\u2019s upcoming offerings, introducing Austin audiences to emerging operatic artists.\n\nPrevious Midday Music collaborations with the Butler Opera Center have featured selections from La Boh\u00e8me, The Marriage of Figaro, Carmen, The Tales of Hoffmann, The Queen of Spades, La Traviata, Cinderella, and Il trittico.\n\nRSVP!\n\nEvent Details\nDate: Thursday, November 5th\nTime: 12:00 P.M. \nVenue: KMFA's Draylen Mason Music Studio\n\nTicket Information\nCost: Free and open to the public with an advance RSVP\nPhone: \n\nPresenter Details: The Butler Opera Center is part of The University of Texas at Austin\u2019s Butler School of Music and provides emerging opera artists with opportunities to develop their craft through fully staged productions, performances, and other operatic projects.\n\nThe Butler Opera Center is led by Dr. Tamar Sanikidze, Sarah and Ernest Butler Endowed Professor of Opera and Director, Producer, and Principal Coach of the Butler Opera Center.",
     "date": "2026-11-05T12:00:00",
     "category": "Texas"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/arts/music/juan-atkins-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Juan Atkins Has Died. He Helped Invent Techno Music.",
+    "author": "Alex Williams",
+    "link": "https://www.nytimes.com/2026/11/04/arts/music/juan-atkins-dead.html",
+    "content": "Juan Atkins performing at the Electronic Music Awards in 2017. Rolling Stone wrote that he \u201cinvented techno, full stop \u2014 he conceived it and named it.\u201d",
+    "date": "2026-11-04T17:51:07",
+    "category": "NYT"
   },
   {
     "id": "https://www.nytimes.com/2026/11/04/arts/music/herbert-blomstedt-dead.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/16/arts/television/snl-new-cast-members.html",
     "content": "The upcoming season of \u201cSaturday Night Live\u201d will feature Saidah Belo-Osagie and Grace Reiter as new faces.",
     "date": "2026-09-16T21:29:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/theater/nypl-donation-performing-arts-library.html",
-    "feed_name": "NYT (Arts)",
-    "title": "New York Performing Arts Library Gets $60 Million Gift for Preservation",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/09/16/theater/nypl-donation-performing-arts-library.html",
-    "content": "The anonymous donation, the library\u2019s largest ever, will support digitization of archival items related to theater, dance and music.",
-    "date": "2026-09-16T21:00:08",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/arts/design/nypl-donation-performing-arts-library.html",
-    "feed_name": "NYT (Arts)",
-    "title": "New York Performing Arts Library Gets $60 Million Gift for Preservation",
-    "author": "Malia Mendez",
-    "link": "https://www.nytimes.com/2026/09/16/arts/design/nypl-donation-performing-arts-library.html",
-    "content": "The anonymous donation, the library\u2019s largest ever, will support digitization of archival items related to theater, dance and music.",
-    "date": "2026-09-16T21:00:07",
     "category": "NYT"
   }
 ]
