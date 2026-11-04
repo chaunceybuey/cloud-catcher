@@ -210,6 +210,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=250488",
+    "feed_name": "Texas Tribune",
+    "title": "Democrat claims victory over Tarrant County Judge Tim O\u2019Hare in key battleground",
+    "author": "Zach Leggio",
+    "link": "https://feeds.texastribune.org/link/16799/17514929/texas-tarrant-county-results-election-2026",
+    "content": "Tarrant County Judge Tim O&#039;Hare listens to remarks during a Tarrant County Juvenile Board meeting on Oct. 15, 2025.",
+    "date": "2026-11-04T02:49:28",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=250116",
+    "feed_name": "Texas Tribune",
+    "title": "Democrat Gina Hinojosa leads Gov. Greg Abbott in early vote returns in key counties",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17514930/texas-governor-greg-abbott-gina-hinojosa-election",
+    "content": "Democratic candidate for Texas Governor Gina Hinojosa speaks at the Texas Democratic Convention in Corpus Christi on Friday, June 26, 2026.",
+    "date": "2026-11-04T02:12:47",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=249366",
     "feed_name": "Texas Tribune",
     "title": "James Talarico leads Ken Paxton in early returns in Texas\u2019 U.S. Senate race",
@@ -19978,25 +19998,5 @@
     "content": "While a bunch of sharks cruising the Maine coast may seem ominous, it\u2019s actually a sign of a conservation success story.",
     "date": "2026-09-16T09:15:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/arts/television/ted-lasso-season-4-episode-7-recap.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Ted Lasso\u2019 Season 4, Episode 7 Recap: Oily Derrick",
-    "author": "Christopher Orr",
-    "link": "https://www.nytimes.com/2026/09/16/arts/television/ted-lasso-season-4-episode-7-recap.html",
-    "content": "Jason Sudeikis, left, and Brendan Hunt in \u201cTed Lasso.\u201d",
-    "date": "2026-09-16T09:04:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/movies/toronto-international-film-festival-market.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Toronto International Film Festival Tries Adding a Market",
-    "author": "Jason T. Bailey",
-    "link": "https://www.nytimes.com/2026/09/16/movies/toronto-international-film-festival-market.html",
-    "content": "Long known as an Oscar launchpad, TIFF is hoping a new market can expand its reputation and its finances without changing its spirit.",
-    "date": "2026-09-16T09:04:25",
-    "category": "NYT"
   }
 ]
