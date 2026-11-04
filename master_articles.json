@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/04/arts/television/jimmy-kimmel-midterm-election-blue-wave.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jimmy Kimmel Rides Election Day\u2019s \u2018Blue Tsunami\u2019",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/11/04/arts/television/jimmy-kimmel-midterm-election-blue-wave.html",
+    "content": "\u201cMan, oh man, would I hate to be the DoorDash driver who delivers Trump his Papa Johns tonight,\u201d Kimmel said.",
+    "date": "2026-11-04T06:38:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=250020",
     "feed_name": "Texas Tribune",
     "title": "Texas Republicans redrew the U.S. House map to gain five seats. They could end up with a net loss.",
@@ -19988,15 +19998,5 @@
     "content": "",
     "date": "2026-09-16T16:21:50",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Face of London in the 1960s Is Living Her Best Life",
-    "author": "Rhonda Garelick",
-    "link": "https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html",
-    "content": "\u201cTwiggy: The Woman Behind the Icon,\u201d arrives in America this month.",
-    "date": "2026-09-16T16:00:09",
-    "category": "NYT"
   }
 ]
