@@ -210,6 +210,36 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/04/arts/dance/folies-bergere-benjamin-millepied-modern-dance.html",
+    "feed_name": "NYT (Arts)",
+    "title": "At the Folies Berg\u00e8re, Life Is a Cabaret (With Serious Dance)",
+    "author": "Roslyn Sulcas and Mathieu Richer Mamousse",
+    "link": "https://www.nytimes.com/2026/11/04/arts/dance/folies-bergere-benjamin-millepied-modern-dance.html",
+    "content": "Morgan Lugo rehearsing at the Folies Berg\u00e8re.",
+    "date": "2026-11-04T17:14:03",
+    "category": "NYT"
+  },
+  {
+    "id": "5776eae85b9530e8d76452b2b5cc2c5c",
+    "feed_name": "Outside",
+    "title": "My 99-Year-Old Grandmother Built an Empire Around Outdoor Apparel\u2019s Most Important Fabric",
+    "author": "Yoon KimNovember 4, 2026Comment Icon1",
+    "link": "https://www.outsideonline.com/outdoor-gear/clothing-apparel/grandmother-flannel/",
+    "content": "After hearing tales of his family\u2019s former textile business in postwar South Korea, writer Yoon Kim traced his grandmother\u2019s pathway from a war refugee to an industrial innovator. The research helped Kim understand his own place in the outdoor world.",
+    "date": "2026-11-04T17:00:58",
+    "category": "Magazines"
+  },
+  {
+    "id": "563002cd1db7c6ad95b39d1dda12366c",
+    "feed_name": "Compact",
+    "title": "How Lindsey Graham Lost the Midterms",
+    "author": "",
+    "link": "https://www.compactmag.com/article/how-lindsey-graham-lost-the-midterms/",
+    "content": "",
+    "date": "2026-11-04T17:00:56",
+    "category": "Magazines"
+  },
+  {
     "id": "6ad2670d1520d1cbab49bf6e",
     "feed_name": "Wired (Science)",
     "title": "\u2018You Don\u2019t Put Your Head in the Sand for 4 Years\u2019: Colossal CEO Ben Lamm on Working With Trump",
@@ -19968,35 +19998,5 @@
     "content": "A copy of Merriam-Webster\u2019s 12th edition of the \u201cCollegiate Dictionary.\u201d The company is adding 1,400 words to its online catalog, some of which will go in print.",
     "date": "2026-09-16T20:54:17",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/arts/music/gregor-benko-dead.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Gregor Benko, Who Resurrected a Vanished Musical World, Dies at 82",
-    "author": "Zachary Woolfe",
-    "link": "https://www.nytimes.com/2026/09/16/arts/music/gregor-benko-dead.html",
-    "content": "For over 60 years, he unearthed rare early piano recordings, illuminating an expressive, highly individual style that had fallen from favor.",
-    "date": "2026-09-16T20:06:48",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/briefing/16-the-good-list-september-migration.html",
-    "feed_name": "NYT (Arts)",
-    "title": "The Good List: 6 Things to Add Delight to Your Day",
-    "author": "Melissa Kirsch",
-    "link": "https://www.nytimes.com/2026/09/16/briefing/16-the-good-list-september-migration.html",
-    "content": "Born to party, air theremin and \u2018ba-dee-ya.\u2019",
-    "date": "2026-09-16T19:17:11",
-    "category": "NYT"
-  },
-  {
-    "id": "a375a944-3126-48bf-8983-b89635582a7f",
-    "feed_name": "Economist",
-    "title": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
-    "author": "",
-    "link": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
-    "content": "The rich world is flirting with fiscal disaster",
-    "date": "2026-09-16T18:22:11",
-    "category": "Magazines"
   }
 ]
