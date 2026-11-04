@@ -260,6 +260,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=251572",
+    "feed_name": "Texas Tribune",
+    "title": "Gina Hinojosa won the governor\u2019s race. What happens to Texas data centers now?",
+    "author": "Emily Foxhall",
+    "link": "https://feeds.texastribune.org/link/16799/17515484/data-center-texas-pause-gina-hinojosa-governor-policies",
+    "content": "Voters make their way in and out of the polling location in the Longview Community Center to cast their ballots on Tuesday, Nov. 3, 2026.",
+    "date": "2026-11-04T20:41:34",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=251553",
+    "feed_name": "Texas Tribune",
+    "title": "After supporting Trump in 2024, Texas border counties fueled Democrats\u2019 big night",
+    "author": "Alex Ford",
+    "link": "https://feeds.texastribune.org/link/16799/17515485/texas-border-counties-voter-turnout",
+    "content": "Voter turnout along the U.S.-Mexico border surged in 2026, helping Democrats like Bobby Pulido win a seat in Congress.",
+    "date": "2026-11-04T20:27:11",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.texastribune.org/?p=223203",
     "feed_name": "Texas Tribune",
     "title": "Ken Paxton survived scandal after scandal. He couldn\u2019t survive a Senate race.",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/movies/harlem-renaissance-documentary-william-greaves.html",
     "content": "After the maverick director William Greaves convened the movement\u2019s remaining members, it took 50 years and his family to bring the fireworks to the screen.",
     "date": "2026-09-17T09:02:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/theater/return-of-the-buffalo-st-anns.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Conjuring a Herd of Buffalo From Steel, Wood and Burlap",
-    "author": "Laura Collins-Hughes and Paola Chapdelaine",
-    "link": "https://www.nytimes.com/2026/09/17/theater/return-of-the-buffalo-st-anns.html",
-    "content": "\u201cReturn of the Buffalo: Tatanka Owe Akupi\u201d is a free public art spectacle that will wind through Lower Manhattan and Downtown Brooklyn this weekend.",
-    "date": "2026-09-17T09:01:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/books/review/anthony-jeselnik-book-club.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Anthony Jeselnik Explains Why He Started a Book Club",
-    "author": "",
-    "link": "https://www.nytimes.com/2026/09/17/books/review/anthony-jeselnik-book-club.html",
-    "content": "But the comedian isn\u2019t na\u00efve when he makes selections for his popular book club: \u201cMost importantly, they\u2019re short.\u201d",
-    "date": "2026-09-17T09:00:32",
     "category": "NYT"
   }
 ]
