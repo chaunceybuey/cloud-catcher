@@ -260,6 +260,16 @@
     "category": "Texas"
   },
   {
+    "id": "76bfc64b-6a03-4d6b-97f9-913c3b9d1a1c",
+    "feed_name": "Economist",
+    "title": "What markets make of the midterms",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+    "content": "Democrats triumph. Investors yawn",
+    "date": "2026-11-04T21:48:18",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.texastribune.org/?p=251572",
     "feed_name": "Texas Tribune",
     "title": "Gina Hinojosa won the governor\u2019s race. What happens to Texas data centers now?",
@@ -19986,16 +19996,6 @@
     "author": "Nicole Sperling",
     "link": "https://www.nytimes.com/2026/09/17/movies/wicker-weta-basket-costume.html",
     "content": "For \u201cWicker,\u201d the tale of a 17th-century husband conjured up by a basket maker, the challenge of designing the unlikely lover required months of testing.",
-    "date": "2026-09-17T09:02:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/movies/harlem-renaissance-documentary-william-greaves.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How William Greaves\u2019s Old Footage Led to a Documentary on Harlem Years After His Death",
-    "author": "Reggie Ugwu",
-    "link": "https://www.nytimes.com/2026/09/17/movies/harlem-renaissance-documentary-william-greaves.html",
-    "content": "After the maverick director William Greaves convened the movement\u2019s remaining members, it took 50 years and his family to bring the fireworks to the screen.",
     "date": "2026-09-17T09:02:07",
     "category": "NYT"
   }
