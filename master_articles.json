@@ -210,6 +210,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/04/arts/music/herbert-blomstedt-dead.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Herbert Blomstedt, Low-Key, Long-Performing Maestro, Dies at 99",
+    "author": "Vivien Schweitzer",
+    "link": "https://www.nytimes.com/2026/11/04/arts/music/herbert-blomstedt-dead.html",
+    "content": "Herbert Blomstedt leading the New York Philharmonic in 2012. His reputation only improved as he passed 90, then 95, well after most maestros have retired.",
+    "date": "2026-11-04T17:35:56",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/04/arts/dance/folies-bergere-benjamin-millepied-modern-dance.html",
     "feed_name": "NYT (Arts)",
     "title": "At the Folies Berg\u00e8re, Life Is a Cabaret (With Serious Dance)",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/16/arts/design/nypl-donation-performing-arts-library.html",
     "content": "The anonymous donation, the library\u2019s largest ever, will support digitization of archival items related to theater, dance and music.",
     "date": "2026-09-16T21:00:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Merriam-Webster Dictionary Is Wordsmaxxing With 1,400 New Definitions",
-    "author": "Michael Levenson",
-    "link": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
-    "content": "A copy of Merriam-Webster\u2019s 12th edition of the \u201cCollegiate Dictionary.\u201d The company is adding 1,400 words to its online catalog, some of which will go in print.",
-    "date": "2026-09-16T20:54:17",
     "category": "NYT"
   }
 ]
