@@ -260,6 +260,26 @@
     "category": "Texas"
   },
   {
+    "id": "c5831b1398f4c4d6c6ee3228e4c2d1d8",
+    "feed_name": "LRB",
+    "title": "Make America Healthy Again",
+    "author": "",
+    "link": "https://www.lrb.co.uk/blog/2026/november/make-america-healthy-again",
+    "content": "Between 1 May and 31 August, more than twenty thousand laboratory-confirmed cases of cyclosporiasis were reported to the US Centres for Disease.\u00a0.\u00a0.",
+    "date": "2026-11-04T23:20:32",
+    "category": "Magazines"
+  },
+  {
+    "id": "59807c3451ade25c2f1226eeb2b4d223",
+    "feed_name": "LRB",
+    "title": "Anne Serre & Alice Blackhurst: Virtue and Rosalind",
+    "author": "",
+    "link": "https://www.eventbrite.co.uk/e/anne-serre-alice-blackhurst-virtue-and-rosalind-tickets-2002535082338",
+    "content": "",
+    "date": "2026-11-04T23:20:32",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/04/movies/billy-evans-you-can-see-everything.html",
     "feed_name": "NYT (Arts)",
     "title": "Whose Idea Was the Billy Evans Shower Scene in \u2018You Can See Everything\u2019?",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/movies/if-i-go-will-they-miss-me-review.html",
     "content": "In this loving poem of a family drama, the writer-director Walter Thompson-Hern\u00e1ndez and his ensemble get the details of a hopeful and thwarted childhood just right.",
     "date": "2026-09-17T09:02:55",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/movies/daniel-and-the-fiery-furnace-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Daniel and the Fiery Furnace\u2019 Review: Lions, Treaties and Fire",
-    "author": "Glenn Kenny",
-    "link": "https://www.nytimes.com/2026/09/17/movies/daniel-and-the-fiery-furnace-review.html",
-    "content": "The filmmakers Daniel and Matthew Kooman use Old Testament lore as kindling for a tale that often veers into clich\u00e9.",
-    "date": "2026-09-17T09:02:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/movies/shaun-the-sheep-the-beast-of-mossy-bottom-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Shaun the Sheep: The Beast of Mossy Bottom\u2019 Review",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/09/17/movies/shaun-the-sheep-the-beast-of-mossy-bottom-review.html",
-    "content": "Everybody\u2019s favorite woolly, wordless sheep returns in this charming, stop-motion spoof of Halloween movies, which will delight kids and adults alike.",
-    "date": "2026-09-17T09:02:43",
     "category": "NYT"
   }
 ]
