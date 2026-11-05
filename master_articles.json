@@ -250,6 +250,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Russell Brand Is Found Guilty of Rape and Sexual Assault",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
+    "content": "Russell Brand arriving at the London court this week.",
+    "date": "2026-11-05T14:47:06",
+    "category": "NYT"
+  },
+  {
     "id": "246ef88a9565c285089573f0198b63df",
     "feed_name": "LRB",
     "title": "On Politics: Can the UK economy ever change?",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/dining/drinks/retail-wine-shop.html",
     "content": "Chris Leon, owner of Leon & Son Wine and Spirits in Brooklyn, N.Y., says that wine shops have to work harder and more creatively to get by. Earlier this year, Leon & Son started an auction business.",
     "date": "2026-09-17T17:42:07",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/arts/television/new-snl-cast-members.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Meet the New \u2018S.N.L.\u2019 Cast Members",
-    "author": "Maya Salam",
-    "link": "https://www.nytimes.com/2026/09/17/arts/television/new-snl-cast-members.html",
-    "content": "Grace Reiter and Saidah Belo-Osagie will begin their \u201cSaturday Night Live\u201d run next week. Here\u2019s what to know before their debuts.",
-    "date": "2026-09-17T17:38:28",
     "category": "NYT"
   }
 ]
