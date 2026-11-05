@@ -250,6 +250,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/arts/russell-brand-career-timeline.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Timeline: How Russell Brand Went From Comedy Star to Convicted Rapist",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/11/05/arts/russell-brand-career-timeline.html",
+    "content": "Russell Brand arriving at court in London with his wife, Laura Brand, on Monday.",
+    "date": "2026-11-05T15:02:13",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
     "feed_name": "NYT (Arts)",
     "title": "Russell Brand Is Found Guilty of Rape and Sexual Assault",
@@ -19988,15 +19998,5 @@
     "content": "InMiddlemarch, Tom McCarthy argues, George Eliot uses her \u2018study of provincial life\u2019 as a Trojan Horse to smuggle the continental philosophy of Spinoza and Hegel into the vicarages of middle England. In this episode, McCarthy joins Thomas Jones to discuss Eliot\u2019s radical masterpiece, which marks a revolution in English fiction as significant in its way as the political,...",
     "date": "2026-09-17T17:59:27",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/dining/drinks/retail-wine-shop.html",
-    "feed_name": "NYT (Food)",
-    "title": "So, How Are Wine Shops Doing These Days? It Depends.",
-    "author": "Eric Asimov",
-    "link": "https://www.nytimes.com/2026/09/17/dining/drinks/retail-wine-shop.html",
-    "content": "Chris Leon, owner of Leon & Son Wine and Spirits in Brooklyn, N.Y., says that wine shops have to work harder and more creatively to get by. Earlier this year, Leon & Son started an auction business.",
-    "date": "2026-09-17T17:42:07",
-    "category": "NYT"
   }
 ]
