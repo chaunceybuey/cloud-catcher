@@ -240,6 +240,26 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+    "feed_name": "NYT (Arts)",
+    "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
+    "author": "Benjamin Mullin and Lauren Hirsch",
+    "link": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+    "content": "Letterboxd attracts movie buffs who use the site to review and recommend films, curate personal filmographies and complete viewing challenges.",
+    "date": "2026-11-05T23:09:27",
+    "category": "NYT"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
+    "feed_name": "NYT (Arts)",
+    "title": "How British Law Informed Russell Brand Trial Coverage",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
+    "content": "Russell Brand heading to court on Thursday in London.",
+    "date": "2026-11-05T22:56:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/05/arts/art-gallery-shows-to-see-in-november.html",
     "feed_name": "NYT (Arts)",
     "title": "Art Gallery Shows to See in November",
@@ -268,6 +288,16 @@
     "content": "The widow of Michael Crichton has claimed that the award-winning HBO show \u201cThe Pitt\u201d is essentially a reboot of the medical drama her husband helped create.",
     "date": "2026-11-05T21:52:24",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=251985",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Democrats already angling to be the next House speaker",
+    "author": "Renzo Downey",
+    "link": "https://feeds.texastribune.org/link/16799/17516206/texas-democrats-house-speaker-senfronia-thompson-eddie-morales",
+    "content": "Bulbs light up on a roll list of the Texas House of Representatives as they vote for the next speaker of the house on the first day of the 2025 Texas Legislature in Austin on Jan. 14, 2025.",
+    "date": "2026-11-05T21:48:20",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/dining/weird-pizza.html",
@@ -19967,36 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html",
     "content": "\u201cThe Social Reckoning\u201d and other movies reflect growing discontent with Silicon Valley founders. But such films may be at the mercy of the companies themselves.",
     "date": "2026-09-18T09:00:38",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/movies/wildwood-golden-eagle-laika.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How a Golden Eagle (Slowly) Came to Life in \u2018Wildwood\u2019",
-    "author": "Carlos Aguilar",
-    "link": "https://www.nytimes.com/2026/09/18/movies/wildwood-golden-eagle-laika.html",
-    "content": "The studio Laika combined 3-D printing, motorized wings, nearly 12,000 glued feathers and years of animation to create the General.",
-    "date": "2026-09-18T09:00:16",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/movies/how-a-golden-eagle-slowly-came-to-life-in-wildwood.html",
-    "feed_name": "NYT (Arts)",
-    "title": "How a Golden Eagle (Slowly) Came to Life in \u2018Wildwood\u2019",
-    "author": "Carlos Aguilar",
-    "link": "https://www.nytimes.com/2026/09/18/movies/how-a-golden-eagle-slowly-came-to-life-in-wildwood.html",
-    "content": "The studio Laika combined 3-D printing, motorized wings, nearly 12,000 glued feathers and years of animation to create the General.",
-    "date": "2026-09-18T09:00:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/books/review/deesha-philyaw-true-confessions-of-first-lady-freeman.html",
-    "feed_name": "NYT (Arts)",
-    "title": "In Her Racy New Novel, Deesha Philyaw Takes Aim at the Black Church",
-    "author": "Joumana Khatib",
-    "link": "https://www.nytimes.com/2026/09/18/books/review/deesha-philyaw-true-confessions-of-first-lady-freeman.html",
-    "content": "In short stories and her racy new novel, Deesha Philyaw takes on women, piety and the clergymen who make, and break, the rules.",
-    "date": "2026-09-18T09:00:07",
     "category": "NYT"
   }
 ]
