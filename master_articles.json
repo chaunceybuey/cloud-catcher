@@ -260,6 +260,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.texastribune.org/?p=251795",
+    "feed_name": "Texas Tribune",
+    "title": "Rio Grande Valley celebrates daughter Gina Hinojosa\u2019s historic gubernatorial win",
+    "author": "Berenice Garcia",
+    "link": "https://feeds.texastribune.org/link/16799/17515675/gina-hinojosa-first-latina-governor-texas",
+    "content": "Gina Hinojosa speaks at a campaign event at Stubbs BBQ in Austin on Nov. 2, 2026. Hinojosa became Texas&#039; governor-elect the following night.",
+    "date": "2026-11-05T03:13:33",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/04/arts/television/the-lowdown-season-2-episode-5-recap.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018The Lowdown\u2019 Season 2 Episode 5 Recap: Have Gun, Will Gavel",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/arts/design/gordon-parks-as-his-subjects-knew-him.html",
     "content": "Isabella Rossellini, Lonnie Ali, Anderson Cooper and other relatives of those who figured in the celebrated photographer\u2019s portraiture bolster a new exhibition at the Jack Shainman Gallery.",
     "date": "2026-09-17T09:03:29",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/movies/you-had-to-be-there-godspell-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018You Had to Be There\u2019 Review: An Irresistible Documentary",
-    "author": "Jason Zinoman",
-    "link": "https://www.nytimes.com/2026/09/17/movies/you-had-to-be-there-godspell-review.html",
-    "content": "The film looks at the storied 1972 Toronto production of \u201cGodspell,\u201d a Rosetta Stone of funny people that featured Martin Short, Gilda Radner and Eugene Levy.",
-    "date": "2026-09-17T09:03:17",
     "category": "NYT"
   }
 ]
