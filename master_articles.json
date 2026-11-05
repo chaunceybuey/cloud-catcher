@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/dining/weird-pizza.html",
+    "feed_name": "NYT (Food)",
+    "title": "3 Spots for Pizza That Break the Mold",
+    "author": "Luke Fortney",
+    "link": "https://www.nytimes.com/2026/11/05/dining/weird-pizza.html",
+    "content": "In honor of our updated list of the best pizza in New York City \u2014 some off-the-beaten-path choices.",
+    "date": "2026-11-05T20:50:02",
+    "category": "NYT"
+  },
+  {
     "id": "6aeb4a45dffeb76e77122d1c",
     "feed_name": "Wired (Science)",
     "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/18/arts/music/san-francisco-orchestra-strike-ends.html",
     "content": "Further details of the agreement between the San Francisco Opera and its orchestra were not immediately released.",
     "date": "2026-09-18T05:32:59",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/arts/television/late-night-trump-ai.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Jimmy Kimmel Knows How to Get Trump to Stop A.I.",
-    "author": "Trish Bendix",
-    "link": "https://www.nytimes.com/2026/09/18/arts/television/late-night-trump-ai.html",
-    "content": "\u201cIf you want him to take the threat of A.I. seriously, it\u2019s real simple: Tell him ChatGPT is about to release the Trump-Epstein files,\u201d Kimmel said.",
-    "date": "2026-09-18T05:22:33",
     "category": "NYT"
   }
 ]
