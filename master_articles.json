@@ -250,6 +250,16 @@
     "category": "Magazines"
   },
   {
+    "id": "https://www.texastribune.org/?p=251933",
+    "feed_name": "Texas Tribune",
+    "title": "Watch: Gov.-elect Gina Hinojosa publicly discusses next steps as Democrats transition into power",
+    "author": "Kayla Guo",
+    "link": "https://feeds.texastribune.org/link/16799/17516128/texas-gina-hinojosa-press-conference",
+    "content": "Texas Governor-elect Gina Hinojosa celebrates the results of the Texas gubernatorial election during a watch party in Austin on Tuesday, Nov. 3, 2026.",
+    "date": "2026-11-05T19:43:10",
+    "category": "Texas"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23980-red-nightfall-dance-theatre-maiden-mother-crone",
     "feed_name": "KMFA",
     "title": "Red Nightfall Dance Theatre: Maiden Mother Crone",
@@ -298,6 +308,16 @@
     "content": "Hetty Lui McKinnon\u2019s crunchy brussels sprouts and apple slaw.",
     "date": "2026-11-05T18:00:05",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=251888",
+    "feed_name": "Texas Tribune",
+    "title": "Hemp-friendly candidates win in Texas, but don\u2019t expect to see THC products on shelves any time soon",
+    "author": "Stephen Simpson",
+    "link": "https://feeds.texastribune.org/link/16799/17516129/texas-democrats-hemp-thc-ban-regulations",
+    "content": "Happy Clouds Smoke Shop\u2019s last stock of THCa flower bud at its Guadalupe St. in Austin on March 30, 2026.",
+    "date": "2026-11-05T17:57:48",
+    "category": "Texas"
   },
   {
     "id": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/18/arts/television/late-night-trump-ai.html",
     "content": "\u201cIf you want him to take the threat of A.I. seriously, it\u2019s real simple: Tell him ChatGPT is about to release the Trump-Epstein files,\u201d Kimmel said.",
     "date": "2026-09-18T05:22:33",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Best of the Best\u2019 Review: They Think They Can Dance",
-    "author": "Chris Azzopardi",
-    "link": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review.html",
-    "content": "In Lena Khan\u2019s dramedy, competitive Bollywood dance becomes a way for two friends to reckon with who they were before college, and who they\u2019ve become.",
-    "date": "2026-09-17T23:00:06",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review-they-think-they-can-dance.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Best of the Best\u2019 Review: They Think They Can Dance",
-    "author": "Chris Azzopardi",
-    "link": "https://www.nytimes.com/2026/09/17/movies/best-of-the-best-review-they-think-they-can-dance.html",
-    "content": "In Lena Khan\u2019s dramedy, competitive Bollywood dance becomes a way for two friends to reckon with who they were before college, and who they\u2019ve become.",
-    "date": "2026-09-17T23:00:05",
     "category": "NYT"
   }
 ]
