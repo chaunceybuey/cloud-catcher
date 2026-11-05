@@ -250,6 +250,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-sylvester-stallone.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018I Play Rocky\u2019 Review: He\u2019s a Champion",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-sylvester-stallone.html",
+    "content": "The movie follows Sly (a charming Anthony Ippolito) from hard-scrabbling anonymity in New York to the first flush of success as a screenwriter and actor.",
+    "date": "2026-11-05T18:38:18",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/05/dining/salads-rife-with-apple-cheesy-galette-filled-with-pear.html",
     "feed_name": "NYT (Food)",
     "title": "Salads Rife With Apple, Cheesy Galette Filled With Pear",
@@ -19988,15 +19998,5 @@
     "content": "A Flock camera records drivers on the Texas 288 feeder road in Pearland on Aug. 23, 2026.",
     "date": "2026-09-17T22:10:58",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Searing Elon Musk Film Nears U.S. Release Amid Overseas Concerns",
-    "author": "Brooks Barnes",
-    "link": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
-    "content": "Alex Gibney\u2019s documentary about Elon Musk has received strong early reviews.",
-    "date": "2026-09-17T21:40:49",
-    "category": "NYT"
   }
 ]
