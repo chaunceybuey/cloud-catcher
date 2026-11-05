@@ -250,6 +250,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018I Play Rocky\u2019 Review: He\u2019s a Champion",
+    "author": "Manohla Dargis",
+    "link": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html",
+    "content": "The movie follows Sly (a charming Anthony Ippolito) from hard-scrabbling anonymity in New York to the first flush of success as a screenwriter and actor.",
+    "date": "2026-11-05T17:32:48",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/05/arts/design/kehinde-wiley-what-the-light-becomes.html",
     "feed_name": "NYT (Arts)",
     "title": "Kehinde Wiley Will Debut New Art Series",
@@ -268,6 +278,16 @@
     "content": "Plus: suggestive chocolates, a restaurant with a mythical owner and more recommendations from T Magazine.",
     "date": "2026-11-05T16:20:02",
     "category": "NYT"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=251844",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Democrats won big with little-known underdogs. Here\u2019s how they pulled it off.",
+    "author": "Eleanor Klibanoff",
+    "link": "https://feeds.texastribune.org/link/16799/17516030/texas-democrats-election-statewide-blue-wave",
+    "content": "A woman looks at campaign signs at Wheeler Avenue Baptist Church in Houston on Election Day, Tuesday, Nov. 3, 2026.",
+    "date": "2026-11-05T16:19:55",
+    "category": "Texas"
   },
   {
     "id": "https://www.nybooks.com/online/2026/11/03/oysters-high-and-low/",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/arts/music/john-coltrane-a-love-supreme-jazz.html",
     "content": "Ahead of John Coltrane\u2019s centennial, listen deeply to his 1965 spiritual jazz masterpiece as Ravi Coltrane, Lalah Hathaway and other musicians and writers reflect on its legacy.",
     "date": "2026-09-17T20:09:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=243230",
-    "feed_name": "Texas Tribune",
-    "title": "Lt. Gov. Dan Patrick calls on ERCOT to reverse 30% pay raise for board members",
-    "author": "Paul Cobler",
-    "link": "https://feeds.texastribune.org/link/16799/17464909/texas-dan-patrick-ercot-board-pay-increase",
-    "content": "The ERCOT Board of Directors convene for a meeting at the organization&#039;s headquarters in Austin on Dec. 3, 2024.",
-    "date": "2026-09-17T20:03:43",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/dining/forever-homes.html",
-    "feed_name": "NYT (Food)",
-    "title": "The Restaurants That Came in From the Cold",
-    "author": "Luke Fortney",
-    "link": "https://www.nytimes.com/2026/09/17/dining/forever-homes.html",
-    "content": "After years as a street cart, Mongolian Momo King found its permanent home in the East Village of Manhattan, where you can tuck into buuz.",
-    "date": "2026-09-17T19:50:02",
     "category": "NYT"
   }
 ]
