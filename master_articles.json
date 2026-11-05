@@ -260,6 +260,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/arts/television/latenight-midterms-blue-wave.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Gets Carried Away by the Blue Wave",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/11/05/arts/television/latenight-midterms-blue-wave.html",
+    "content": "\u201cThere\u2019s going to be so many Republicans leaving the Capitol it will look like a reverse January 6,\u201d Jimmy Fallon said after Democrats swept the midterm elections.",
+    "date": "2026-11-05T07:57:32",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/04/dining/world-50-best-restaurants.html",
     "feed_name": "NYT (Food)",
     "title": "50 Best Restaurants in the World Announced for 2026",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/arts/design/aperture-photography-center-nonprofit.html",
     "content": "The Upper West Side headquarters features a bookstore and gallery for exhibitions and discussions.",
     "date": "2026-09-17T09:04:14",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/arts/design/lucas-museum-los-angeles-star-wars.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Weird and Wonderful, the Lucas Museum Lands in L.A.",
-    "author": "Michael Kimmelman",
-    "link": "https://www.nytimes.com/2026/09/17/arts/design/lucas-museum-los-angeles-star-wars.html",
-    "content": "The Lucas Museum of Narrative Art, with its viewing port window on the gallery floor, overlooks new parkland.",
-    "date": "2026-09-17T09:03:37",
     "category": "NYT"
   }
 ]
