@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aeb4a45dffeb76e77122d1c",
+    "feed_name": "Wired (Science)",
+    "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
+    "author": "Kate Knibbs",
+    "link": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
+    "content": "More than 80 percent of congressional candidates backed by the pro-science PAC 314 Action won, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
+    "date": "2026-11-05T19:55:24",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23980-red-nightfall-dance-theatre-maiden-mother-crone",
     "feed_name": "KMFA",
     "title": "Red Nightfall Dance Theatre: Maiden Mother Crone",
@@ -19988,15 +19998,5 @@
     "content": "In Lena Khan\u2019s dramedy, competitive Bollywood dance becomes a way for two friends to reckon with who they were before college, and who they\u2019ve become.",
     "date": "2026-09-17T23:00:05",
     "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=243285",
-    "feed_name": "Texas Tribune",
-    "title": "One group has stayed mostly mum on Bo French\u2019s racist post \u2014 Texas\u2019 oil and gas industry",
-    "author": "Carlos Nogueras Ramos",
-    "link": "https://feeds.texastribune.org/link/16799/17464965/bo-french-oil-gas-industry-texas",
-    "content": "Bo French,Republican nominee for the Texas Railroad Commission, answers a question during a Texas Republican candidate forum at the Civic Center in Canton on Jan. 17, 2026.",
-    "date": "2026-09-17T22:59:26",
-    "category": "Texas"
   }
 ]
