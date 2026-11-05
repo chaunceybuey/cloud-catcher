@@ -260,6 +260,26 @@
     "category": "Texas"
   },
   {
+    "id": "6ad269f3214a8f2918b4f89d",
+    "feed_name": "Wired (Science)",
+    "title": "AI\u2019s Next Trick? Speaking Dolphin",
+    "author": "Kate Taylor",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "content": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+    "date": "2026-11-05T12:00:00",
+    "category": "Magazines"
+  },
+  {
+    "id": "d5038d2d-227d-4ef9-b284-b9414625de3f",
+    "feed_name": "Economist",
+    "title": "Indebted tycoons haunt China\u2019s banking system",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+    "content": "Lenders are feeling the hangover from years of Wild East capitalism",
+    "date": "2026-11-05T11:54:22",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.propublica.org/article/afriforum-grant-trump-white-south-africans",
     "feed_name": "ProPublica",
     "title": "Trump\u2019s State Department Is Giving $1 Million to Controversial Group to Study Crimes Against White South Africans",
@@ -19977,26 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html",
     "content": "The New York Philharmonic\u2019s season started with a barnstorming tour of Manhattan to celebrate Dudamel\u2019s arrival as music and artistic director.",
     "date": "2026-09-17T15:10:41",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/dining/now-bring-us-some-figgy-chicken.html",
-    "feed_name": "NYT (Food)",
-    "title": "Now Bring Us Some Figgy Chicken",
-    "author": "Melissa Clark",
-    "link": "https://www.nytimes.com/2026/09/17/dining/now-bring-us-some-figgy-chicken.html",
-    "content": "Cybelle Tondu\u2019s seared chicken and figs with olives.",
-    "date": "2026-09-17T15:00:15",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/arts/design/auschwitz-museum-watercolor-paintings-dina-gottliebova-babbitt.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Heirs Sue Auschwitz Museum Over Art Their Mother Made Under the Nazis",
-    "author": "Robin Pogrebin",
-    "link": "https://www.nytimes.com/2026/09/17/arts/design/auschwitz-museum-watercolor-paintings-dina-gottliebova-babbitt.html",
-    "content": "Josef Mengele, the \u201cAngel of Death\u201d doctor, ordered Dina Gottliebova Babbitt, an Auschwitz prisoner, to create watercolor paintings. Her daughters want them back.",
-    "date": "2026-09-17T15:00:13",
     "category": "NYT"
   }
 ]
