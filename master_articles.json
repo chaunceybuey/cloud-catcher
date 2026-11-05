@@ -260,6 +260,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/04/dining/world-50-best-restaurants.html",
+    "feed_name": "NYT (Food)",
+    "title": "50 Best Restaurants in the World Announced for 2026",
+    "author": "Julia Moskin",
+    "link": "https://www.nytimes.com/2026/11/04/dining/world-50-best-restaurants.html",
+    "content": "Atomix in Manhattan was the only restaurant in the United States to crack the top 50, coming in at No. 11.",
+    "date": "2026-11-05T04:54:09",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.texastribune.org/?p=251795",
     "feed_name": "Texas Tribune",
     "title": "Rio Grande Valley celebrates daughter Gina Hinojosa\u2019s historic gubernatorial win",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/arts/design/lucas-museum-los-angeles-star-wars.html",
     "content": "The Lucas Museum of Narrative Art, with its viewing port window on the gallery floor, overlooks new parkland.",
     "date": "2026-09-17T09:03:37",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/arts/design/gordon-parks-as-his-subjects-knew-him.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Gordon Parks as His Subjects Knew Him",
-    "author": "Reggie Ugwu",
-    "link": "https://www.nytimes.com/2026/09/17/arts/design/gordon-parks-as-his-subjects-knew-him.html",
-    "content": "Isabella Rossellini, Lonnie Ali, Anderson Cooper and other relatives of those who figured in the celebrated photographer\u2019s portraiture bolster a new exhibition at the Jack Shainman Gallery.",
-    "date": "2026-09-17T09:03:29",
     "category": "NYT"
   }
 ]
