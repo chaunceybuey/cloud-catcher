@@ -300,6 +300,36 @@
     "category": "Tech"
   },
   {
+    "id": "https://www.texastribune.org/?p=251732",
+    "feed_name": "Texas Tribune",
+    "title": "Texas Dems vowed seismic education change. Here\u2019s how schools could change for millions of students",
+    "author": "Megan Menchaca",
+    "link": "https://feeds.texastribune.org/link/16799/17515860/texas-dems-vowed-seismic-education-change-heres-how-schools-could-change-for-millions-of-students",
+    "content": "Democratic gubernatorial nominee Gina Hinojosa meets with Texas voters at the Austin Recreation Center on Tuesday, Nov. 3, 2026.",
+    "date": "2026-11-05T11:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=251734",
+    "feed_name": "Texas Tribune",
+    "title": "GOP state senators could emerge as last protectors of party power in Texas",
+    "author": "Alejandro Serrano",
+    "link": "https://feeds.texastribune.org/link/16799/17515861/texas-senate-republican-majority-lieutenant-governor-powers",
+    "content": "Republican legislators talk amongst themselves on the Senate floor on Aug. 6, 2025 in Austin.",
+    "date": "2026-11-05T11:00:00",
+    "category": "Texas"
+  },
+  {
+    "id": "https://www.texastribune.org/?p=251783",
+    "feed_name": "Texas Tribune",
+    "title": "Democrats inheriting Texas colleges the GOP overhauled in conservative push",
+    "author": "Sneha Dey",
+    "link": "https://feeds.texastribune.org/link/16799/17515862/texas-universities-colleges-conservative-overhaul-democrats-reverse",
+    "content": "Texas Tech students walk across campus between classes on Sept. 9, 2026.",
+    "date": "2026-11-05T11:00:00",
+    "category": "Texas"
+  },
+  {
     "id": "6aeb99b5079f98228327c10a",
     "feed_name": "Wired (Science)",
     "title": "Particle Physicists Are Getting a First Glimpse Into the \u2018Zeptoverse\u2019",
@@ -688,6 +718,16 @@
     "content": "Democrats triumph. Investors yawn",
     "date": "2026-11-04T21:48:18",
     "category": "Magazines"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Lawsuit Says the McRib Is Lacking Something You Might Expect It to Have",
+    "author": "Victor Mather",
+    "link": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
+    "content": "The McDonald\u2019s McRib sandwich has developed something of a cult following over the years, stoked by its limited availability. It is served with onions and pickles, but no actual rib meat.",
+    "date": "2026-11-04T21:24:08",
+    "category": "NYT"
   },
   {
     "id": "https://www.texastribune.org/?p=251572",
@@ -19958,45 +19998,5 @@
     "content": "The G\u00e1mez-Cu\u00e9llar Mariachi performs during the La Uni\u00f3n del Pueblo Entero biennial Cumbre de Miembros 2026 at the Pharr Development and Research Center in Pharr on Aug, 29, 2026.",
     "date": "2026-09-17T16:00:00",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Kennedy Center Defends Closure as Necessary for Public Safety",
-    "author": "Julia Jacobs",
-    "link": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
-    "content": "Matt Floca, the executive director of the Kennedy Center, has said the building has serious maintenance needs, including structural steel corroded by water infiltration.",
-    "date": "2026-09-17T15:56:24",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=243194",
-    "feed_name": "Texas Tribune",
-    "title": "$12 billion in Medicaid funds restored to Texas hospitals, ending impasse with the feds",
-    "author": "Terri Langford",
-    "link": "https://feeds.texastribune.org/link/16799/17464662/texas-medicaid-hospitals-greg-abbott-federal-impasse",
-    "content": "A demonstrator stands among battery powered candles in paper bags during a vigil in protest against potential cuts to Medicaid in Washington, D.C. on July 23, 2025.",
-    "date": "2026-09-17T15:34:53",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=243186",
-    "feed_name": "Texas Tribune",
-    "title": "ICE officer in Minnesota-Texas extradition fight arrested in Minneapolis",
-    "author": "Alex Nguyen",
-    "link": "https://feeds.texastribune.org/link/16799/17464663/texas-minnesota-extradition-ice-christian-castro-arrest",
-    "content": "File photo: An Immigration and Customs Enforcement officer raises a finger moments after detaining a man during an immigration raid in Minneapolis, Minnesota on Jan. 18, 2026.",
-    "date": "2026-09-17T15:18:08",
-    "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Gustavo Dudamel\u2019s New York Era Has Begun. Try to Keep Up.",
-    "author": "Joshua Barone and George Etheredge",
-    "link": "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html",
-    "content": "The New York Philharmonic\u2019s season started with a barnstorming tour of Manhattan to celebrate Dudamel\u2019s arrival as music and artistic director.",
-    "date": "2026-09-17T15:10:41",
-    "category": "NYT"
   }
 ]
