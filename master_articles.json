@@ -250,6 +250,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/dining/salads-rife-with-apple-cheesy-galette-filled-with-pear.html",
+    "feed_name": "NYT (Food)",
+    "title": "Salads Rife With Apple, Cheesy Galette Filled With Pear",
+    "author": "Tanya Sichynsky",
+    "link": "https://www.nytimes.com/2026/11/05/dining/salads-rife-with-apple-cheesy-galette-filled-with-pear.html",
+    "content": "Hetty Lui McKinnon\u2019s crunchy brussels sprouts and apple slaw.",
+    "date": "2026-11-05T18:00:05",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html",
     "feed_name": "NYT (Arts)",
     "title": "\u2018I Play Rocky\u2019 Review: He\u2019s a Champion",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
     "content": "Alex Gibney\u2019s documentary about Elon Musk has received strong early reviews.",
     "date": "2026-09-17T21:40:49",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/17/arts/music/john-coltrane-a-love-supreme-jazz.html",
-    "feed_name": "NYT (Arts)",
-    "title": "5 Minutes to Make You Love John Coltrane\u2019s \u2018A Love Supreme\u2019",
-    "author": "Marcus J. Moore and Giovanni Russonello",
-    "link": "https://www.nytimes.com/2026/09/17/arts/music/john-coltrane-a-love-supreme-jazz.html",
-    "content": "Ahead of John Coltrane\u2019s centennial, listen deeply to his 1965 spiritual jazz masterpiece as Ravi Coltrane, Lalah Hathaway and other musicians and writers reflect on its legacy.",
-    "date": "2026-09-17T20:09:13",
     "category": "NYT"
   }
 ]
