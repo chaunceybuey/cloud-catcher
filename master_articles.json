@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/06/arts/russell-brand-books-movies.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Some Publishers Drop Russell Brand After Rape Conviction",
+    "author": "Alex Marshall",
+    "link": "https://www.nytimes.com/2026/11/06/arts/russell-brand-books-movies.html",
+    "content": "Russell Brand is reflected in a car window as he leaves Southwark Crown Court in London on Monday.",
+    "date": "2026-11-06T19:46:47",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/06/arts/music/juan-atkins-10-essential-songs-from-the-techno-pioneer.html",
     "feed_name": "NYT (Arts)",
     "title": "Juan Atkins: 10 Essential Songs From the Techno Pioneer",
@@ -19988,15 +19998,5 @@
     "content": "Texas National Guard soldiers check concertina wire fence where migrants must cross through to turn themselves into Border Patrol in El Paso as seen from Ciudad Juarez, Chihuahua state, Mexico on June 1, 2024.",
     "date": "2026-09-18T19:48:19",
     "category": "Texas"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/theater/duncan-sheik-american-psycho-spring-awakening.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018American Psycho\u2019 Was Duncan Sheik\u2019s Darkest Work. Was It Also His Best?",
-    "author": "Elisabeth Vincentelli",
-    "link": "https://www.nytimes.com/2026/09/18/theater/duncan-sheik-american-psycho-spring-awakening.html",
-    "content": "The musical \u201cAmerican Psycho\u201d had a short Broadway run in 2016 at the Gerald Schoenfeld Theater.",
-    "date": "2026-09-18T19:31:55",
-    "category": "NYT"
   }
 ]
