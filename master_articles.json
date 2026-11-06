@@ -250,6 +250,16 @@
     "category": "NYT"
   },
   {
+    "id": "89efb8be-bd8b-4d84-95ed-2dcd9c2f5d5e",
+    "feed_name": "Economist",
+    "title": "Markets realise they hate America\u2019s blue wave",
+    "author": "",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+    "content": "Investors worry that Democratic dominance will slow down the AI boom",
+    "date": "2026-11-05T23:41:07",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
     "feed_name": "NYT (Arts)",
     "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/18/arts/music/missy-mazzoli-lincoln-in-the-bardo-met-opera.html",
     "content": "Missy Mazzoli, whose \u201cLincoln in the Bardo\u201d opens at the Metropolitan Opera this fall, writes politically urgent, musically eclectic works for a new generation of operagoers.",
     "date": "2026-09-18T09:01:01",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/arts/music/john-coltrane-centennial-spiritual-jazz.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018Spiritual Jazz\u2019 Has Turned Cozy. John Coltrane Demanded More.",
-    "author": "Hank Shteamer",
-    "link": "https://www.nytimes.com/2026/09/18/arts/music/john-coltrane-centennial-spiritual-jazz.html",
-    "content": "The term has lately become synonymous with sonic serenity (and chic merch). But the saxophone great challenged listeners with radical honesty.",
-    "date": "2026-09-18T09:00:51",
     "category": "NYT"
   }
 ]
