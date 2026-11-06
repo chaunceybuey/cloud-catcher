@@ -400,6 +400,16 @@
     "category": "NYT"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/06/movies/jordan-firstman-interview-club-kid.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Jordan Firstman, of \u2018Club Kid,\u2019 Knows How to Party",
+    "author": "Alexis Soloski and David Billet",
+    "link": "https://www.nytimes.com/2026/11/06/movies/jordan-firstman-interview-club-kid.html",
+    "content": "Jordan Firstman, the writer, director and star of the film \u201cClub Kid.\u201d",
+    "date": "2026-11-06T10:00:25",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/06/arts/music/john-luther-adams-composer.html",
     "feed_name": "NYT (Arts)",
     "title": "Forever Homesick, the Composer John Luther Adams Settles in Australia",
@@ -19988,15 +19998,5 @@
     "content": "Films by Jesse Eisenberg, Lee Chang-dong and Hirokazu Kore-eda make up for an uneven program.",
     "date": "2026-09-18T15:23:55",
     "category": "NYT"
-  },
-  {
-    "id": "571607b7824ebc847750dca7100eebf6",
-    "feed_name": "The Atlantic",
-    "title": "The Other Way AI Impairs Our Thinking",
-    "author": "Thomas Chatterton Williams",
-    "link": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/",
-    "content": "Suddenly the technology is sapping people\u2019s concentration in a new way, one that abstaining from AI won\u2019t fix.",
-    "date": "2026-09-18T15:16:00",
-    "category": "Magazines"
   }
 ]
