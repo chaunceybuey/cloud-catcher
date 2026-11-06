@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "6aee2a6ab483b13476bff947",
+    "feed_name": "Wired (Science)",
+    "title": "The Cybertruck\u2019s Death Is Actually Great News for EVs",
+    "author": "Brian Kahn",
+    "link": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+    "content": "Tesla\u2019s massive EV is the second within the last year to get the ax, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
+    "date": "2026-11-06T22:31:15",
+    "category": "Magazines"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/06/obituaries/sinclair-clark-overlooked.html",
     "feed_name": "NYT (Arts)",
     "title": "Sinclair Clark Made Museum Masterpieces. Why Was His Name Left Out?",
@@ -19988,15 +19998,5 @@
     "content": "Voters stand in line at the Cody Branch Library polling location on primary election day in San Antonio on Monday, March 3, 2026.",
     "date": "2026-09-19T01:11:30",
     "category": "Texas"
-  },
-  {
-    "id": "84ef05c18277013070fa6fdeb8ca3690",
-    "feed_name": "The Atlantic",
-    "title": "Speak at Your Own Risk",
-    "author": "Adam Serwer",
-    "link": "https://www.theatlantic.com/ideas/2026/09/trump-free-speech-media-banned/688713/",
-    "content": "Donald Trump\u2019s attacks on the First Amendment",
-    "date": "2026-09-18T23:59:57",
-    "category": "Magazines"
   }
 ]
