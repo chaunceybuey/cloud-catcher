@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/theater/rope-the-verge-review-off-broadway-silverman.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018Rope\u2019 and \u2018The Verge\u2019: The Joy of Sex and Death",
+    "author": "Helen Shaw",
+    "link": "https://www.nytimes.com/2026/11/05/theater/rope-the-verge-review-off-broadway-silverman.html",
+    "content": "Claire (Miriam Silverman), center, a botanist in pursuit of the unusual, with Adelaide, her sister (Emily Young), and Harry, her husband (Noah Brody), in \u201cThe Verge.\u201d",
+    "date": "2026-11-06T03:00:07",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/05/arts/music/dolly-parton-nephew-manager-lawsuit-dropped.html",
     "feed_name": "NYT (Arts)",
     "title": "Dolly Parton\u2019s Manager Drops Lawsuit Against Singer\u2019s Nephew",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/18/arts/television/babylon-berlin-nazi-symbols-germany.html",
     "content": "A shoot for the final season of \u201cBabylon Berlin\u201d outside the Volksb\u00fchne theater last November.",
     "date": "2026-09-18T09:02:12",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/arts/television/kadeem-hardison-a-different-world-netflix.html",
-    "feed_name": "NYT (Arts)",
-    "title": "Kadeem Hardison Is Back as Dwayne Wayne on \u201cA Different World\u201d",
-    "author": "Jonathan Abrams",
-    "link": "https://www.nytimes.com/2026/09/18/arts/television/kadeem-hardison-a-different-world-netflix.html",
-    "content": "On \u201cA Different World\u201d he helped define an era. With a Netflix reboot, he helps pass the torch to a new generation.",
-    "date": "2026-09-18T09:01:03",
     "category": "NYT"
   }
 ]
