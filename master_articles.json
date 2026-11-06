@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/06/arts/television/late-night-midterms-trump.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Late Night Finds Trump Supporters Jumping Ship",
+    "author": "Trish Bendix",
+    "link": "https://www.nytimes.com/2026/11/06/arts/television/late-night-midterms-trump.html",
+    "content": "\u201cWouldn\u2019t it be ironic if the only person who stands by Trump is Melania?\u201d Jimmy Fallon said after Republicans began distancing themselves from the president after the midterms.",
+    "date": "2026-11-06T07:26:00",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/06/books/booker-prize-readers-vote.html",
     "feed_name": "NYT (Arts)",
     "title": "Booker Prize 2026: Vote in Our Readers\u2019 Poll",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/18/arts/music/popcast-interview-audrey-hobert-whos-the-clown.html",
     "content": "The rising pop star talks songwriting with her BFF Gracie Abrams, knowing when to log off and the difference between being weird (yes!) and awkward (no way).",
     "date": "2026-09-18T09:03:13",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/movies/the-history-of-concrete-john-wilson.html",
-    "feed_name": "NYT (Arts)",
-    "title": "\u2018The History of Concrete\u2019: John Wilson\u2019s New Movie Reviewed",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/09/18/movies/the-history-of-concrete-john-wilson.html",
-    "content": "Yes, John Wilson\u2019s weird but fun movie is nominally about the stuff sidewalks are made of, but as always with his work, it\u2019s about so much more.",
-    "date": "2026-09-18T09:02:35",
     "category": "NYT"
   }
 ]
