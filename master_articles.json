@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/05/arts/design/artist-lucien-smith-cause-of-death.html",
+    "feed_name": "NYT (Arts)",
+    "title": "Lucien Smith, Art-World Star, Died From Accidental Drug Overdose",
+    "author": "Derrick Bryson Taylor and Leila Sheridan",
+    "link": "https://www.nytimes.com/2026/11/05/arts/design/artist-lucien-smith-cause-of-death.html",
+    "content": "The artist Lucien Smith in New York City in 2016.",
+    "date": "2026-11-06T00:05:21",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
     "feed_name": "NYT (Arts)",
     "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/18/arts/music/john-coltrane-centennial-spiritual-jazz.html",
     "content": "The term has lately become synonymous with sonic serenity (and chic merch). But the saxophone great challenged listeners with radical honesty.",
     "date": "2026-09-18T09:00:51",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html",
-    "feed_name": "NYT (Arts)",
-    "title": "As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker",
-    "author": "Alissa Wilkinson",
-    "link": "https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html",
-    "content": "\u201cThe Social Reckoning\u201d and other movies reflect growing discontent with Silicon Valley founders. But such films may be at the mercy of the companies themselves.",
-    "date": "2026-09-18T09:00:38",
     "category": "NYT"
   }
 ]
