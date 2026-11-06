@@ -220,6 +220,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/06/dining/a-big-pot-of-tomato-soup.html",
+    "feed_name": "NYT (Food)",
+    "title": "A Big Pot of Tomato Soup",
+    "author": "Melissa Clark",
+    "link": "https://www.nytimes.com/2026/11/06/dining/a-big-pot-of-tomato-soup.html",
+    "content": "Carolina Gelen\u2019s lentil tomato soup.",
+    "date": "2026-11-06T20:57:57",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/06/arts/russell-brand-books-movies.html",
     "feed_name": "NYT (Arts)",
     "title": "Some Publishers Drop Russell Brand After Rape Conviction",
@@ -19988,15 +19998,5 @@
     "content": "A secret 15-year effort has produced genetic evidence that one of the nation\u2019s Founders fathered children with a woman he enslaved.",
     "date": "2026-09-18T21:05:00",
     "category": "Magazines"
-  },
-  {
-    "id": "https://www.texastribune.org/?p=243467",
-    "feed_name": "Texas Tribune",
-    "title": "Feds reimburse Texas for $7.5 billion in border spending, ending delay",
-    "author": "Gabby Birenbaum",
-    "link": "https://feeds.texastribune.org/link/16799/17466347/texas-border-money-reimburse-billions",
-    "content": "Texas National Guard soldiers check concertina wire fence where migrants must cross through to turn themselves into Border Patrol in El Paso as seen from Ciudad Juarez, Chihuahua state, Mexico on June 1, 2024.",
-    "date": "2026-09-18T19:48:19",
-    "category": "Texas"
   }
 ]
