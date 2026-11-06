@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/06/arts/design/titanic-artifacts-federal-judge-maritime-law.html",
+    "feed_name": "NYT (Arts)",
+    "title": "She Commands the Sunken Titanic, From 1,000 Miles Away",
+    "author": "Marc Davis",
+    "link": "https://www.nytimes.com/2026/11/06/arts/design/titanic-artifacts-federal-judge-maritime-law.html",
+    "content": "When it sailed from Europe in 1912, the Titanic\u2019s majesty and reputation for opulence brought attention to its maiden voyage.",
+    "date": "2026-11-06T14:05:20",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
     "feed_name": "ProPublica",
     "title": "Trump Official Who Wants Data Centers on Public Lands Has Tens of Millions Invested in AI Industry",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/18/movies/international-movies-streaming.html",
     "content": "David Jonsson, left, with Tom Blyth in \u201cWasteman.\u201d",
     "date": "2026-09-18T16:00:43",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/18/movies/jesse-eisenberg-toronto-international-film-festival.html",
-    "feed_name": "NYT (Arts)",
-    "title": "At the Toronto International Film Festival, an Abundant but Mixed Bag",
-    "author": "Manohla Dargis",
-    "link": "https://www.nytimes.com/2026/09/18/movies/jesse-eisenberg-toronto-international-film-festival.html",
-    "content": "Films by Jesse Eisenberg, Lee Chang-dong and Hirokazu Kore-eda make up for an uneven program.",
-    "date": "2026-09-18T15:23:55",
     "category": "NYT"
   }
 ]
