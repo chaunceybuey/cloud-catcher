@@ -240,6 +240,16 @@
     "category": "Texas"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/06/arts/television/it-gets-worse-review.html",
+    "feed_name": "NYT (Arts)",
+    "title": "\u2018It Gets Worse\u2019 Review: Leo Reich Comedy Channels \u2018Girls\u2019",
+    "author": "Caroline Darya Framke",
+    "link": "https://www.nytimes.com/2026/11/06/arts/television/it-gets-worse-review.html",
+    "content": "Leo Reich, center, with Emily Fairn, left, and Olive Gray, wrote and starred in \u201cIt Gets Worse,\u201d now streaming on Paramount+.",
+    "date": "2026-11-06T17:00:16",
+    "category": "NYT"
+  },
+  {
     "id": "https://www.nytimes.com/2026/11/06/theater/the-unbelievers-222-a-ghost-story-review-ambrose.html",
     "feed_name": "NYT (Arts)",
     "title": "Lauren Ambrose, in \u2018Unbelievers,\u2019 and Jasmine Cephas Jones, in \u20182:22,\u2019 Are Superb",
@@ -19988,15 +19998,5 @@
     "content": "The court, in a case involving the Art Institute of Chicago, said New York investigators should not have used a penal law that they have cited in more than 100 seizure cases.",
     "date": "2026-09-18T18:35:52",
     "category": "NYT"
-  },
-  {
-    "id": "8030646ad6845986ff1a6e0250f8dc64",
-    "feed_name": "LRB",
-    "title": "In Bishkek",
-    "author": "",
-    "link": "https://www.lrb.co.uk/blog/2026/september/in-bishkek",
-    "content": "Kok-boru is a horseback sport related to polo, played with a headless goat carcass rather than a ball and mallets. The equestrian scrums are.\u00a0.\u00a0.",
-    "date": "2026-09-18T18:07:21",
-    "category": "Magazines"
   }
 ]
