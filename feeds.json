@@ -7,10 +7,6 @@
   ],
   "Texas": [
     {
-      "name": "Texas Tribune",
-      "url": "https://feeds.texastribune.org/feeds/main/"
-    },
-    {
       "name": "KMFA",
       "url": "https://www.kmfa.org/events.rss"
     }
