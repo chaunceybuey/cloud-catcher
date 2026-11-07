@@ -277,7 +277,8 @@ body {
 .article-card:active { background: #0a0a0a; }
 .article-card.swiping { transition: none; }
 .article-card.dismissed {
-    transform: translateX(100%);
+    /* Archive is a left swipe, so the card leaves to the left */
+    transform: translateX(-100%);
     opacity: 0;
     transition: transform 0.3s ease-out, opacity 0.3s ease-out;
 }
