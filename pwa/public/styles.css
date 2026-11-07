@@ -120,7 +120,26 @@ body {
 .drawer-feeds-section { flex: 1; overflow-y: auto; }
 .drawer-section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem; }
 .drawer-section-label { font-size: 0.65rem; font-weight: 700; color: #5A5F67; text-transform: uppercase; letter-spacing: 0.1em; }
-.drawer-clear-btn { background: none; border: none; color: #D94A00; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; cursor: pointer; }
+.drawer-clear-btn { background: none; border: none; color: #D94A00; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; cursor: pointer; padding: 0.35rem 0.25rem; }
+.drawer-header-actions { display: flex; gap: 0.75rem; }
+
+/* Reorder mode */
+.drawer-reorder-hint { font-size: 0.7rem; color: #5A5F67; padding: 0 0.25rem 0.5rem; line-height: 1.4; }
+.drawer-move-group { display: flex; gap: 0.25rem; }
+.drawer-move {
+    color: #8A8F98;
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 0.3rem;
+    font-size: 0.7rem;
+    line-height: 1;
+    padding: 0.45rem 0.55rem;
+    cursor: pointer;
+    user-select: none;
+}
+.drawer-move:active { color: #D94A00; border-color: #D94A00; }
+.reordering .drawer-feed-item, .reordering .drawer-cat-name { cursor: default; }
+.eink .drawer-move { background: #ddd; border-color: #bbb; color: #333; }
 
 .drawer-feed-list { display: flex; flex-direction: column; gap: 0.15rem; }
 
