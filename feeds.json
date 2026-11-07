@@ -13,10 +13,6 @@
   ],
   "Magazines": [
     {
-      "name": "ProPublica",
-      "url": "https://www.propublica.org/feeds/propublica/main"
-    },
-    {
       "name": "Wired",
       "url": "https://www.wired.com/feed/category/backchannel/latest/rss"
     },
@@ -67,6 +63,12 @@
     {
       "name": "Fidelity",
       "url": "https://www.bogleheads.org/forum/feed/topic/266538?sid=9501690e51c24849dbec5932cfad514a"
+    }
+  ],
+  "delte": [
+    {
+      "name": "ProPublica",
+      "url": "https://www.propublica.org/feeds/propublica/main"
     }
   ]
 }
