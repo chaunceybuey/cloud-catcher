@@ -13,10 +13,6 @@
   ],
   "Magazines": [
     {
-      "name": "New Yorker",
-      "url": "https://raw.githubusercontent.com/chaunceybuey/feed-maker/main/feeds/new_yorker.xml"
-    },
-    {
       "name": "NYRB",
       "url": "https://politepaul.com/fd/ONCQMCTPB65a.xml"
     },
