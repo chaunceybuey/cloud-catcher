@@ -1,10 +1,4 @@
 {
-  "Texas": [
-    {
-      "name": "KMFA",
-      "url": "https://www.kmfa.org/events.rss"
-    }
-  ],
   "Finance": [
     {
       "name": "Vanguard",
@@ -19,6 +13,10 @@
     {
       "name": "Weeknight Dishes",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
+    },
+    {
+      "name": "KMFA",
+      "url": "https://www.kmfa.org/events.rss"
     }
   ]
 }
