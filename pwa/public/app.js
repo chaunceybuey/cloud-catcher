@@ -13,7 +13,9 @@ const firebaseConfig = {
     appId: "1:30387056427:web:116cf9cfd171d14b05df6e"
 };
 
-firebase.initializeApp(firebaseConfig);
+if (!firebase.apps.length) {
+    firebase.initializeApp(firebaseConfig);
+}
 const auth = firebase.auth();
 const db = firebase.database();
 
@@ -38,13 +40,44 @@ let state = {
     _expandedCategories: {}
 };
 
+// ═══ AUTH ═════════════════════════════════════════════════════════════════
+
+function triggerGoogleLogin() {
+    const provider = new firebase.auth.GoogleAuthProvider();
+    auth.signInWithPopup(provider).catch(err => {
+        console.error("Popup login failed:", err);
+        if (err.code === "auth/popup-blocked") {
+            auth.signInWithRedirect(provider);
+        } else {
+            alert("Login failed: " + err.message);
+        }
+    });
+}
+
+window.triggerGoogleLogin = triggerGoogleLogin;
+document.getElementById("login-btn")?.addEventListener("click", triggerGoogleLogin);
+
+auth.onAuthStateChanged(user => {
+    if (user) {
+        document.getElementById("login-screen")?.classList.add("hidden");
+        loadData();
+        if (isLargeScreen()) {
+            const drawer = document.getElementById("drawer");
+            drawer?.classList.remove("hidden");
+            drawer?.classList.add("open");
+        }
+    } else {
+        document.getElementById("login-screen")?.classList.remove("hidden");
+        document.getElementById("feed-screen")?.classList.add("hidden");
+    }
+});
+
 // ═══ ARTICLE EXTRACTION ══════════════════════════════════════════════════
 
 function extractArticle(html, url) {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
     
-    // Remove fixed-width attributes from problematic tags
     doc.querySelectorAll("table, img, div, td").forEach(el => {
         el.removeAttribute("width");
         el.removeAttribute("height");
@@ -54,7 +87,6 @@ function extractArticle(html, url) {
         }
     });
     
-    // Remove non-content elements
     doc.querySelectorAll([
         "script", "style", "nav", "footer", "header", "aside", "noscript", "iframe",
         "svg", "canvas", "form", "input", "button", "select", "textarea",
@@ -71,20 +103,16 @@ function extractArticle(html, url) {
         "[id*='social']", "[id*='share']", "[id*='newsletter']",
     ].join(", ")).forEach(el => el.remove());
     
-    // Remove tiny images (icons, avatars, tracking pixels)
     doc.querySelectorAll("img").forEach(img => {
         const w = parseInt(img.getAttribute("width")) || 0;
         const h = parseInt(img.getAttribute("height")) || 0;
         if ((w > 0 && w < 80) || (h > 0 && h < 80)) img.remove();
     });
     
-    // Find main content area
     const main = doc.querySelector("article") || doc.querySelector("[role='main']") || doc.querySelector("main") || doc.querySelector(".post-content, .article-body, .entry-content, .story-body, .article__body") || doc.body;
     
-    // Strip remaining junk from within the content area
     main.querySelectorAll("svg, [class*='icon'], [class*='share'], [class*='social']").forEach(el => el.remove());
     
-    // Fix relative URLs
     try {
         const base = new URL(url);
         main.querySelectorAll("img").forEach(img => {
@@ -117,7 +145,7 @@ async function fetchFullText(url) {
 
 // ── Paste a Link ─────────────────────────────────────────────────────────
 
-document.getElementById("paste-link-btn").addEventListener("click", async () => {
+document.getElementById("paste-link-btn")?.addEventListener("click", async () => {
     const input = document.getElementById("paste-link-input");
     const status = document.getElementById("paste-link-status");
     const url = input.value.trim();
@@ -177,37 +205,13 @@ document.getElementById("paste-link-btn").addEventListener("click", async () => 
     }
 });
 
-// ═══ AUTH ═════════════════════════════════════════════════════════════════
-
-document.getElementById("login-btn").addEventListener("click", () => {
-    const provider = new firebase.auth.GoogleAuthProvider();
-    auth.signInWithPopup(provider).catch(err => {
-        console.error("Login failed:", err);
-        alert("Login failed: " + err.message);
-    });
-});
-
-auth.onAuthStateChanged(user => {
-    if (user) {
-        document.getElementById("login-screen").classList.add("hidden");
-        loadData();
-        if (isLargeScreen()) {
-            const drawer = document.getElementById("drawer");
-            drawer.classList.remove("hidden");
-            drawer.classList.add("open");
-        }
-    } else {
-        document.getElementById("login-screen").classList.remove("hidden");
-        document.getElementById("feed-screen").classList.add("hidden");
-    }
-});
-
 // ═══ DATA LOADING ════════════════════════════════════════════════════════
 
 async function loadData() {
     showScreen("feed");
-    document.getElementById("loading").classList.remove("hidden");
-    document.getElementById("article-list").innerHTML = "";
+    document.getElementById("loading")?.classList.remove("hidden");
+    const listEl = document.getElementById("article-list");
+    if (listEl) listEl.innerHTML = "";
 
     try {
         const [articlesRes, newsletterRes, feedsRes, savedLinksSnap] = await Promise.all([
@@ -218,7 +222,7 @@ async function loadData() {
         ]);
 
         let githubArticles = [];
-        if (articlesRes.ok) {
+        if (articlesRes && articlesRes.ok) {
             githubArticles = await articlesRes.json();
         }
 
@@ -242,7 +246,6 @@ async function loadData() {
 
         state.articles = [...savedArticles, ...githubArticles];
 
-        // Merge newsletters into articles
         if (newsletterRes && newsletterRes.ok) {
             try {
                 const newsletters = await newsletterRes.json();
@@ -253,7 +256,7 @@ async function loadData() {
             } catch(e) {}
         }
         
-        if (feedsRes.ok) {
+        if (feedsRes && feedsRes.ok) {
             const feedsData = await feedsRes.json();
             state.feeds = [];
             for (const [category, feedList] of Object.entries(feedsData)) {
@@ -280,7 +283,6 @@ async function loadData() {
             }
         });
 
-        // Fetch history and bookmarks from Firebase
         const [histSnap, bmSnap] = await Promise.all([
             db.ref("app_data/history").once("value"),
             db.ref("app_data/bookmarks").once("value"),
@@ -289,11 +291,10 @@ async function loadData() {
         if (histSnap.val()) state.history = new Set(JSON.parse(histSnap.val()));
         if (bmSnap.val()) state.bookmarks = JSON.parse(bmSnap.val());
 
-        // Real-time listener for history sync across devices
         db.ref("app_data/history").off();
         db.ref("app_data/history").on("value", snap => {
             if (snap.val()) state.history = new Set(JSON.parse(snap.val()));
-            if (!document.getElementById("feed-screen").classList.contains("hidden")) {
+            if (!document.getElementById("feed-screen")?.classList.contains("hidden")) {
                 renderArticles();
             }
         });
@@ -302,7 +303,7 @@ async function loadData() {
         console.error("Failed to load data:", err);
     }
 
-    document.getElementById("loading").classList.add("hidden");
+    document.getElementById("loading")?.classList.add("hidden");
     renderArticles();
 
     if (isLargeScreen()) {
@@ -352,6 +353,8 @@ function formatDate(raw) {
 function renderArticles() {
     const list = document.getElementById("article-list");
     const empty = document.getElementById("empty-state");
+    if (!list || !empty) return;
+
     const filtered = getFilteredArticles();
     state._selectedCardIdx = 0;
 
@@ -423,12 +426,14 @@ function openArticle(article) {
     requestWakeLock();
 
     const bmBtn = document.getElementById("reader-bookmark");
-    bmBtn.classList.toggle("active-action", article.id in state.bookmarks);
+    bmBtn?.classList.toggle("active-action", article.id in state.bookmarks);
 
     showScreen("reader");
 
     const contentEl = document.getElementById("reader-content");
-    contentEl.innerHTML = '<div class="reader-pages"><p style="color:#5A5F67;">Loading...</p></div>';
+    if (contentEl) {
+        contentEl.innerHTML = '<div class="reader-pages"><p style="color:#5A5F67;">Loading...</p></div>';
+    }
 
     const feedName = article.feed_name || "";
     const date = formatDate(article.date);
@@ -443,7 +448,6 @@ function openArticle(article) {
 
     const safeKey = md5(article.link || article.id);
     
-    // Newsletters and manual articles already have full content — show directly
     if (article.source === "newsletter" || article.source === "manual") {
         setupPagination(headerHtml + (article.content || ""));
         enterFullscreen();
@@ -492,6 +496,7 @@ function setupPagination(html) {
     state.currentHtml = html;
     setTimeout(() => {
         const body = document.getElementById("reader-content");
+        if (!body) return;
         
         const style = getComputedStyle(body);
         const paddingLeft = parseFloat(style.paddingLeft) || 0;
@@ -605,11 +610,10 @@ function setupPagination(html) {
     }, 50);
 }
 
-// Re-paginate cleanly on device rotation or window resize
 let _resizeTimer = null;
 window.addEventListener("resize", () => {
     if (!state.currentArticle || !state.currentHtml) return;
-    if (document.getElementById("reader-screen").classList.contains("hidden")) return;
+    if (document.getElementById("reader-screen")?.classList.contains("hidden")) return;
     clearTimeout(_resizeTimer);
     _resizeTimer = setTimeout(() => {
         setupPagination(state.currentHtml);
@@ -632,10 +636,11 @@ function goToPage(page) {
 function updatePageIndicator() {
     const p = state.pagination;
     if (!p) return;
-    document.getElementById("page-progress-bar").style.width = `${((p.current + 1) / p.total) * 100}%`;
+    const bar = document.getElementById("page-progress-bar");
+    if (bar) bar.style.width = `${((p.current + 1) / p.total) * 100}%`;
 }
 
-document.getElementById("reader-back").addEventListener("click", () => {
+document.getElementById("reader-back")?.addEventListener("click", () => {
     if (history.state?.screen === "reader") {
         history.back();
     } else {
@@ -643,14 +648,14 @@ document.getElementById("reader-back").addEventListener("click", () => {
     }
 });
 
-document.getElementById("reader-archive").addEventListener("click", () => {
+document.getElementById("reader-archive")?.addEventListener("click", () => {
     if (state.currentArticle) {
         archiveArticle(state.currentArticle.id);
         goBackToFeed();
     }
 });
 
-document.getElementById("reader-bookmark").addEventListener("click", () => {
+document.getElementById("reader-bookmark")?.addEventListener("click", () => {
     if (state.currentArticle) {
         const id = state.currentArticle.id;
         if (id in state.bookmarks) {
@@ -659,11 +664,11 @@ document.getElementById("reader-bookmark").addEventListener("click", () => {
             state.bookmarks[id] = 0;
         }
         db.ref("app_data/bookmarks").set(JSON.stringify(state.bookmarks));
-        document.getElementById("reader-bookmark").classList.toggle("active-action", id in state.bookmarks);
+        document.getElementById("reader-bookmark")?.classList.toggle("active-action", id in state.bookmarks);
     }
 });
 
-document.getElementById("reader-readwise").addEventListener("click", () => {
+document.getElementById("reader-readwise")?.addEventListener("click", () => {
     if (state.currentArticle?.link) {
         window.open(state.currentArticle.link, "_blank");
     }
@@ -727,7 +732,7 @@ function bookmarkArticle(articleId) {
 
 function showScreen(name, pushHistory = true) {
     document.querySelectorAll(".screen").forEach(s => s.classList.add("hidden"));
-    document.getElementById(`${name}-screen`).classList.remove("hidden");
+    document.getElementById(`${name}-screen`)?.classList.remove("hidden");
 
     if (pushHistory && name !== "feed") {
         if (history.state?.screen === name) {
@@ -782,6 +787,7 @@ history.replaceState({ screen: "feed" }, "");
 
 (function setupReaderGestures() {
     const readerBody = document.getElementById("reader-content");
+    if (!readerBody) return;
     
     const hammer = new Hammer(readerBody, { threshold: 40 });
     hammer.get("swipe").set({ direction: Hammer.DIRECTION_ALL });
@@ -844,8 +850,8 @@ history.replaceState({ screen: "feed" }, "");
 
 document.addEventListener("keydown", (e) => {
     const key = e.key.toLowerCase();
-    const onFeed = !document.getElementById("feed-screen").classList.contains("hidden");
-    const onReader = !document.getElementById("reader-screen").classList.contains("hidden");
+    const onFeed = !document.getElementById("feed-screen")?.classList.contains("hidden");
+    const onReader = !document.getElementById("reader-screen")?.classList.contains("hidden");
 
     if (e.target.tagName === "INPUT" || e.target.tagName === "SELECT") return;
 
@@ -906,9 +912,9 @@ document.addEventListener("keydown", (e) => {
             if (state.currentArticle) archiveArticle(state.currentArticle.id);
             goBackToFeed();
         } else if (key === "b") {
-            document.getElementById("reader-bookmark").click();
+            document.getElementById("reader-bookmark")?.click();
         } else if (key === "r" || key === "c") {
-            document.getElementById("reader-readwise").click();
+            document.getElementById("reader-readwise")?.click();
         } else if (key === "w" || key === "enter") {
             const btn = document.getElementById("fetch-full-btn");
             if (btn) btn.click();
@@ -992,6 +998,7 @@ function isLargeScreen() { return window.innerWidth >= 1100; }
 function openDrawer() {
     const drawer = document.getElementById("drawer");
     const overlay = document.getElementById("drawer-overlay");
+    if (!drawer || !overlay) return;
     drawer.classList.remove("hidden");
     if (!isLargeScreen()) {
         overlay.classList.remove("hidden");
@@ -1010,11 +1017,11 @@ function closeDrawer() {
     }
     const drawer = document.getElementById("drawer");
     const overlay = document.getElementById("drawer-overlay");
-    drawer.classList.remove("open");
-    overlay.classList.remove("open");
+    drawer?.classList.remove("open");
+    overlay?.classList.remove("open");
     setTimeout(() => {
-        drawer.classList.add("hidden");
-        overlay.classList.add("hidden");
+        drawer?.classList.add("hidden");
+        overlay?.classList.add("hidden");
     }, 300);
 }
 
@@ -1026,8 +1033,8 @@ function updateDrawerModes() {
 
 function renderDrawerFeeds() {
     const container = document.getElementById("drawer-feeds");
+    if (!container) return;
 
-    // Ensure any newly arrived newsletter senders are in state.feeds
     const allNewsletterSenders = [...new Set(state.articles.filter(a => a.source === "newsletter").map(a => a.feed_name))];
     allNewsletterSenders.forEach(senderName => {
         if (senderName && !state.feeds.some(f => f.name === senderName)) {
@@ -1052,7 +1059,6 @@ function renderDrawerFeeds() {
     base.forEach(a => { feedCounts[a.feed_name] = (feedCounts[a.feed_name] || 0) + 1; });
     const totalCount = base.length;
 
-    // Group feeds by category
     const categories = {};
     state.feeds.forEach(f => {
         const cat = f._category || "Uncategorized";
@@ -1063,7 +1069,6 @@ function renderDrawerFeeds() {
     let html = `<div class="drawer-feed-item all-feeds ${state.feedFilter === 'All Feeds' ? 'active' : ''}" data-feed="All Feeds">
         <span>All Feeds</span><span class="drawer-feed-count">${totalCount}</span></div>`;
 
-    // Uncategorized feeds (including all newsletters & saved links) show directly in the list
     const uncatKeys = Object.keys(categories).filter(k => 
         !k || k.toLowerCase() === "uncategorized" || k.toLowerCase() === "my feeds"
     );
@@ -1109,7 +1114,6 @@ function renderDrawerFeeds() {
 
     container.innerHTML = html;
 
-    // Attach handlers
     container.querySelectorAll(".drawer-feed-item").forEach(item => {
         item.addEventListener("click", () => {
             state.feedFilter = item.dataset.feed;
@@ -1165,6 +1169,7 @@ function renderDrawerFeeds() {
 function updateFeedHeader(countVal) {
     const title = document.getElementById("feed-title");
     const count = document.getElementById("feed-count");
+    if (!title || !count) return;
     const total = typeof countVal === "number" ? countVal : getFilteredArticles().length;
 
     let label = state.mode === "Bookmarks" ? "Saved" : state.mode;
@@ -1177,18 +1182,16 @@ function updateFeedHeader(countVal) {
     count.textContent = total;
 }
 
-// Hamburger button
-document.getElementById("hamburger-btn").addEventListener("click", () => {
+document.getElementById("hamburger-btn")?.addEventListener("click", () => {
     const drawer = document.getElementById("drawer");
-    if (drawer.classList.contains("open")) {
+    if (drawer?.classList.contains("open")) {
         closeDrawer();
     } else {
         openDrawer();
     }
 });
-document.getElementById("drawer-overlay").addEventListener("click", closeDrawer);
+document.getElementById("drawer-overlay")?.addEventListener("click", closeDrawer);
 
-// Mode tabs in drawer
 document.querySelectorAll(".drawer-mode").forEach(btn => {
     btn.addEventListener("click", () => {
         state.mode = btn.dataset.mode;
@@ -1200,15 +1203,13 @@ document.querySelectorAll(".drawer-mode").forEach(btn => {
     });
 });
 
-// Clear filter
-document.getElementById("drawer-clear-filter").addEventListener("click", () => {
+document.getElementById("drawer-clear-filter")?.addEventListener("click", () => {
     state.feedFilter = "All Feeds";
     closeDrawer();
     renderArticles();
 });
 
-// Font size slider
-document.getElementById("font-size-slider").addEventListener("input", (e) => {
+document.getElementById("font-size-slider")?.addEventListener("input", (e) => {
     const size = e.target.value;
     document.documentElement.style.setProperty("--reader-font-size", size + "px");
     try { localStorage.setItem("rss-font-size", size); } catch(e) {}
@@ -1217,17 +1218,19 @@ document.getElementById("font-size-slider").addEventListener("input", (e) => {
 try {
     const savedSize = localStorage.getItem("rss-font-size");
     if (savedSize) {
-        document.getElementById("font-size-slider").value = savedSize;
+        const slider = document.getElementById("font-size-slider");
+        if (slider) slider.value = savedSize;
         document.documentElement.style.setProperty("--reader-font-size", savedSize + "px");
     }
 } catch(e) {}
 
-// E-ink mode toggle
-document.getElementById("eink-toggle").addEventListener("click", () => {
+document.getElementById("eink-toggle")?.addEventListener("click", () => {
     const isEink = document.body.classList.toggle("eink");
     const toggle = document.getElementById("eink-toggle");
-    toggle.textContent = isEink ? "On" : "Off";
-    toggle.classList.toggle("active", isEink);
+    if (toggle) {
+        toggle.textContent = isEink ? "On" : "Off";
+        toggle.classList.toggle("active", isEink);
+    }
     try { localStorage.setItem("rss-eink", isEink ? "1" : "0"); } catch(e) {}
 });
 
@@ -1235,21 +1238,23 @@ try {
     if (localStorage.getItem("rss-eink") === "1") {
         document.body.classList.add("eink");
         const toggle = document.getElementById("eink-toggle");
-        toggle.textContent = "On";
-        toggle.classList.add("active");
+        if (toggle) {
+            toggle.textContent = "On";
+            toggle.classList.add("active");
+        }
     }
 } catch(e) {}
 
-// Settings toggle
-document.getElementById("settings-toggle").addEventListener("click", () => {
+document.getElementById("settings-toggle")?.addEventListener("click", () => {
     const content = document.getElementById("settings-content");
     const label = document.querySelector("#settings-toggle .drawer-section-label");
-    const isHidden = content.classList.toggle("hidden");
-    label.textContent = isHidden ? "▸ Settings" : "▾ Settings";
+    if (content && label) {
+        const isHidden = content.classList.toggle("hidden");
+        label.textContent = isHidden ? "▸ Settings" : "▾ Settings";
+    }
 });
 
-// Mark all read
-document.getElementById("drawer-mark-all").addEventListener("click", () => {
+document.getElementById("drawer-mark-all")?.addEventListener("click", () => {
     if (state.mode !== "Unread") return;
     const filtered = getFilteredArticles();
     if (filtered.length === 0) return;
@@ -1260,8 +1265,7 @@ document.getElementById("drawer-mark-all").addEventListener("click", () => {
     renderArticles();
 });
 
-// Sync
-document.getElementById("drawer-sync").addEventListener("click", () => {
+document.getElementById("drawer-sync")?.addEventListener("click", () => {
     closeDrawer();
     loadData();
 });
@@ -1287,26 +1291,29 @@ async function manageFeed(action, feedName, newCategory, currentCategory) {
     }
 }
 
-document.getElementById("add-feed-toggle").addEventListener("click", () => {
+document.getElementById("add-feed-toggle")?.addEventListener("click", () => {
     const form = document.getElementById("add-feed-form");
+    if (!form) return;
     const isHidden = form.classList.contains("hidden");
     form.classList.toggle("hidden");
     if (isHidden) {
         const select = document.getElementById("add-feed-category");
         const categories = [...new Set(state.feeds.filter(f => !f._isVirtual).map(f => f._category || "Uncategorized"))];
-        select.innerHTML = categories.map(c => `<option value="${c}">${c}</option>`).join("")
-            + '<option value="__new__">+ New Category</option>';
+        if (select) {
+            select.innerHTML = categories.map(c => `<option value="${c}">${c}</option>`).join("")
+                + '<option value="__new__">+ New Category</option>';
+        }
         document.getElementById("add-feed-name").value = "";
         document.getElementById("add-feed-url").value = "";
         document.getElementById("add-feed-status").textContent = "";
     }
 });
 
-document.getElementById("add-feed-cancel").addEventListener("click", () => {
-    document.getElementById("add-feed-form").classList.add("hidden");
+document.getElementById("add-feed-cancel")?.addEventListener("click", () => {
+    document.getElementById("add-feed-form")?.classList.add("hidden");
 });
 
-document.getElementById("add-feed-submit").addEventListener("click", async () => {
+document.getElementById("add-feed-submit")?.addEventListener("click", async () => {
     const name = document.getElementById("add-feed-name").value.trim();
     const url = document.getElementById("add-feed-url").value.trim();
     let category = document.getElementById("add-feed-category").value;
@@ -1336,7 +1343,7 @@ document.getElementById("add-feed-submit").addEventListener("click", async () =>
         if (text.includes("OK") || text.includes("Success")) {
             status.textContent = "Added! Syncing...";
             status.style.color = "#00A870";
-            document.getElementById("add-feed-form").classList.add("hidden");
+            document.getElementById("add-feed-form")?.classList.add("hidden");
             setTimeout(() => loadData(), 1000);
         } else {
             status.textContent = "Error: " + text;
@@ -1351,7 +1358,7 @@ document.getElementById("add-feed-submit").addEventListener("click", async () =>
 // ═══ SERVICE WORKER ══════════════════════════════════════════════════════
 
 if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("/sw.js").catch(err => {
+    navigator.serviceWorker.register("./sw.js").catch(err => {
         console.log("SW registration failed:", err);
     });
 }

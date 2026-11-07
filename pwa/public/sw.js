@@ -1,5 +1,5 @@
-const CACHE_NAME = "rss-triage-v43";
-const ASSETS = ["/", "/index.html", "/styles.css", "/app.js", "/manifest.json"];
+const CACHE_NAME = "rss-triage-v44";
+const ASSETS = ["./", "./index.html", "./styles.css", "./app.js", "./manifest.json"];
 
 self.addEventListener("install", (event) => {
     event.waitUntil(

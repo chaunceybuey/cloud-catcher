@@ -7,8 +7,8 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>RSS Triage</title>
-    <link rel="manifest" href="/manifest.json">
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="manifest" href="./manifest.json">
+    <link rel="stylesheet" href="./styles.css">
 
     <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
@@ -22,7 +22,7 @@
         <div class="login-container">
             <h1 class="login-title">RSS Triage</h1>
             <p class="login-subtitle">Sign in to access your feeds</p>
-            <button id="login-btn" class="login-btn">Sign in with Google</button>
+            <button id="login-btn" class="login-btn" onclick="if(window.triggerGoogleLogin) window.triggerGoogleLogin()">Sign in with Google</button>
         </div>
     </div>
 
@@ -88,4 +88,51 @@
                     </div>
                     <div id="add-feed-status" style="font-size:0.7rem;margin-top:0.4rem;"></div>
                 </div>
-                <div style="margin-top:0
+                <div style="margin-top:0.75rem;">
+                    <span class="drawer-section-label">Add Article</span>
+                    <div class="drawer-paste-row">
+                        <input type="text" id="paste-link-input" placeholder="Paste a URL" class="drawer-input" style="flex:1;">
+                        <button id="paste-link-btn" class="drawer-action-btn" style="padding:0.6rem 0.75rem;">Go</button>
+                    </div>
+                    <div id="paste-link-status" style="font-size:0.7rem;margin-top:0.4rem;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══ Feed View ═══ -->
+    <div id="feed-screen" class="screen hidden">
+        <header class="feed-header">
+            <button id="hamburger-btn" class="hamburger-btn">☰</button>
+            <h1 class="feed-title" id="feed-title">Unread</h1>
+            <span class="feed-count" id="feed-count"></span>
+        </header>
+
+        <div id="article-list" class="article-list"></div>
+
+        <div id="empty-state" class="empty-state hidden">
+            <p>You're completely caught up.</p>
+        </div>
+
+        <div id="loading" class="loading">Loading...</div>
+    </div>
+
+    <!-- ═══ Article Reader ═══ -->
+    <div id="reader-screen" class="screen hidden">
+        <header class="reader-header">
+            <button id="reader-back" class="back-btn">←</button>
+            <div class="reader-actions">
+                <button id="reader-readwise" class="action-btn" title="Open in Browser">🔗</button>
+                <button id="reader-bookmark" class="action-btn" title="Save">★</button>
+                <button id="reader-archive" class="action-btn" title="Archive">✓</button>
+            </div>
+        </header>
+        <div id="reader-content" class="reader-body"></div>
+        <div class="page-indicator" id="page-indicator">
+            <div class="page-progress"><div class="page-progress-bar" id="page-progress-bar"></div></div>
+        </div>
+    </div>
+
+    <script src="./app.js"></script>
+</body>
+</html>
