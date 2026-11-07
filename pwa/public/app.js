@@ -28,6 +28,7 @@ const PROXY_URL = "https://script.google.com/macros/s/AKfycbw2U9jgVSwbRSHicSuxYe
 let state = {
     articles: [],
     feeds: [],
+    feedOrder: [],
     history: new Set(),
     bookmarks: {},
     mode: "Unread",
@@ -39,6 +40,19 @@ let state = {
     _selectedCardIdx: 0,
     _expandedCategories: {}
 };
+
+function cleanFeedName(name) {
+    if (!name) return "Untitled Feed";
+    return String(name).replace(/["<>]/g, "").trim() || "Untitled Feed";
+}
+
+function escapeAttr(str) {
+    return String(str || "")
+        .replace(/&/g, "&amp;")
+        .replace(/"/g, "&quot;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+}
 
 // ═══ AUTH ═════════════════════════════════════════════════════════════════
 
@@ -173,7 +187,7 @@ document.getElementById("paste-link-btn")?.addEventListener("click", async () =>
 
         const ogSite = metaDoc.querySelector('meta[property="og:site_name"]')?.getAttribute("content");
         const hostname = new URL(url).hostname.replace("www.", "");
-        const siteName = ogSite || hostname;
+        const siteName = cleanFeedName(ogSite || hostname);
 
         const fullHtml = extractArticle(rawHtml, url);
 
@@ -214,12 +228,17 @@ async function loadData() {
     if (listEl) listEl.innerHTML = "";
 
     try {
-        const [articlesRes, newsletterRes, feedsRes, savedLinksSnap] = await Promise.all([
+        const [articlesRes, newsletterRes, feedsRes, savedLinksSnap, orderSnap] = await Promise.all([
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/master_articles.json?t=${Date.now()}`),
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/newsletter_articles.json?t=${Date.now()}`).catch(() => null),
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/feeds.json?t=${Date.now()}`),
-            db.ref("app_data/saved_links").once("value").catch(() => null)
+            db.ref("app_data/saved_links").once("value").catch(() => null),
+            db.ref("app_data/feed_order").once("value").catch(() => null)
         ]);
+
+        if (orderSnap && orderSnap.val()) {
+            try { state.feedOrder = JSON.parse(orderSnap.val()); } catch(e) { state.feedOrder = []; }
+        }
 
         let githubArticles = [];
         if (articlesRes && articlesRes.ok) {
@@ -231,7 +250,7 @@ async function loadData() {
             try {
                 const savedData = savedLinksSnap.val();
                 savedArticles = Object.values(savedData).map(item => ({
-                    id: item.id,
+                    id: String(item.id || "saved_" + md5(item.link || item.title || "")),
                     title: item.title,
                     link: item.link,
                     feed_name: "Saved Articles",
@@ -249,19 +268,36 @@ async function loadData() {
         if (newsletterRes && newsletterRes.ok) {
             try {
                 const newsletters = await newsletterRes.json();
-                const existingIds = new Set(state.articles.map(a => a.id));
+                const existingIds = new Set(state.articles.map(a => String(a.id)));
                 newsletters.forEach(n => {
-                    if (!existingIds.has(n.id)) state.articles.push(n);
+                    if (n && (n.title || n.content)) {
+                        const nid = String(n.id || md5((n.link || "") + (n.title || "")));
+                        if (!existingIds.has(nid)) {
+                            state.articles.push({ ...n, id: nid });
+                            existingIds.add(nid);
+                        }
+                    }
                 });
             } catch(e) {}
         }
+
+        // Normalize all article feed_names and ensure valid string IDs so nothing gets orphaned
+        state.articles = state.articles.filter(a => a && (a.title || a.content)).map(a => ({
+            ...a,
+            id: String(a.id || md5((a.link || "") + (a.title || ""))),
+            feed_name: cleanFeedName(a.feed_name)
+        }));
         
         if (feedsRes && feedsRes.ok) {
             const feedsData = await feedsRes.json();
             state.feeds = [];
             for (const [category, feedList] of Object.entries(feedsData)) {
                 for (const feed of feedList) {
-                    state.feeds.push({ ...feed, _category: category });
+                    state.feeds.push({
+                        ...feed,
+                        name: cleanFeedName(feed.name),
+                        _category: category
+                    });
                 }
             }
             
@@ -288,12 +324,12 @@ async function loadData() {
             db.ref("app_data/bookmarks").once("value"),
         ]);
 
-        if (histSnap.val()) state.history = new Set(JSON.parse(histSnap.val()));
+        if (histSnap.val()) state.history = new Set(JSON.parse(histSnap.val()).map(String));
         if (bmSnap.val()) state.bookmarks = JSON.parse(bmSnap.val());
 
         db.ref("app_data/history").off();
         db.ref("app_data/history").on("value", snap => {
-            if (snap.val()) state.history = new Set(JSON.parse(snap.val()));
+            if (snap.val()) state.history = new Set(JSON.parse(snap.val()).map(String));
             if (!document.getElementById("feed-screen")?.classList.contains("hidden")) {
                 renderArticles();
             }
@@ -314,19 +350,22 @@ async function loadData() {
 
 // ═══ ARTICLE RENDERING ═══════════════════════════════════════════════════
 
-function getFilteredArticles() {
+function getBaseArticlesForMode() {
     const activeFeedNames = new Set(state.feeds.map(f => f.name));
     const isSpecial = (a) => a.source === "newsletter" || a.source === "manual" || a.source === "mobile_catch";
     const includeArticle = (a) => activeFeedNames.has(a.feed_name) || isSpecial(a);
-    let base;
 
     if (state.mode === "Unread") {
-        base = state.articles.filter(a => !state.history.has(a.id) && includeArticle(a));
+        return state.articles.filter(a => !state.history.has(a.id) && includeArticle(a));
     } else if (state.mode === "Bookmarks") {
-        base = state.articles.filter(a => a.id in state.bookmarks && includeArticle(a));
+        return state.articles.filter(a => a.id in state.bookmarks && includeArticle(a));
     } else {
-        base = state.articles.filter(a => state.history.has(a.id) && includeArticle(a));
+        return state.articles.filter(a => state.history.has(a.id) && includeArticle(a));
     }
+}
+
+function getFilteredArticles() {
+    let base = getBaseArticlesForMode();
 
     if (state.feedFilter.startsWith("category:")) {
         const catName = state.feedFilter.slice(9);
@@ -368,7 +407,7 @@ function renderArticles() {
     empty.classList.add("hidden");
 
     list.innerHTML = filtered.map((article, idx) => `
-        <div class="article-card" data-id="${article.id}" data-idx="${idx}">
+        <div class="article-card" data-id="${escapeAttr(article.id)}" data-idx="${idx}">
             <span class="card-swipe-label left">Archive</span>
             <span class="card-swipe-label right">Save</span>
             <div class="card-feed">${article.feed_name || ""}</div>
@@ -515,10 +554,21 @@ function setupPagination(html) {
             <div class="reader-pages" id="reader-pages">${html}</div></div>`;
         const pages = document.getElementById("reader-pages");
 
-        // 1. Remove embedded <style> and <link> tags that force white boxes or fixed widths
-        pages.querySelectorAll("style, link[rel='stylesheet'], meta, title").forEach(el => el.remove());
+        // 1. Remove embedded <style>, <link>, and non-text junk
+        pages.querySelectorAll([
+            "style", "link[rel='stylesheet']", "meta", "title", "script", "svg", "iframe",
+            "button:not(#fetch-full-btn)", "form", "input",
+            ".subscription-widget-wrap", ".subscribe-widget", ".button-wrapper",
+            ".post-ufi", ".post-header", ".email-header", ".preheader",
+            "[class*='share']", "[class*='social']", "[class*='subscribe']"
+        ].join(", ")).forEach(el => el.remove());
 
-        // 2. Unwrap layout tables bottom-up into standard divs so CSS columns paginate smoothly
+        // 2. Strip photos/images from newsletters
+        if (state.currentArticle?.source === "newsletter") {
+            pages.querySelectorAll("img, picture, figure, figcaption, video").forEach(el => el.remove());
+        }
+
+        // 3. Unwrap layout tables bottom-up into standard divs so CSS columns paginate smoothly
         Array.from(pages.querySelectorAll("table, thead, tbody, tfoot, tr, td, th, center"))
             .reverse()
             .forEach(el => {
@@ -527,7 +577,25 @@ function setupPagination(html) {
                 el.replaceWith(div);
             });
 
-        // 3. Clean up empty elements and double line breaks
+        // 4. Strip newsletter top boilerplate lines ("View in browser", "Read in app", etc.)
+        pages.querySelectorAll("div, p, span, a").forEach(el => {
+            if (el.children.length > 2) return;
+            const txt = (el.textContent || "").trim().toLowerCase();
+            if (
+                txt === "view in browser" ||
+                txt === "view this email in your browser" ||
+                txt === "read in app" ||
+                txt === "open in app" ||
+                txt === "subscribe" ||
+                txt === "share" ||
+                txt === "leave a comment" ||
+                txt === "restack"
+            ) {
+                el.remove();
+            }
+        });
+
+        // 5. Clean up empty elements and double line breaks
         pages.querySelectorAll("p, div, span").forEach(el => {
             if (
                 !el.classList.contains("article-header-divider") &&
@@ -541,7 +609,7 @@ function setupPagination(html) {
             if (br.nextElementSibling && br.nextElementSibling.tagName === "BR") br.remove();
         });
 
-        // 4. Strip legacy HTML attributes and inline box-model/color styles
+        // 6. Strip legacy HTML attributes and inline box-model/color styles
         pages.querySelectorAll("*").forEach(el => {
             if (
                 el.classList.contains("article-header-meta") ||
@@ -718,9 +786,10 @@ function exitFullscreen() {
 // ═══ ACTIONS ═════════════════════════════════════════════════════════════
 
 function archiveArticle(articleId) {
-    state.history.add(articleId);
+    state.history.add(String(articleId));
     db.ref("app_data/history").set(JSON.stringify([...state.history]));
     renderArticles();
+    if (isLargeScreen()) renderDrawerFeeds();
 }
 
 function bookmarkArticle(articleId) {
@@ -748,7 +817,7 @@ function goBackToFeed() {
         let archived = 0;
         state.readThisSession.forEach(id => {
             if (!(id in state.bookmarks)) {
-                state.history.add(id);
+                state.history.add(String(id));
                 archived++;
             }
         });
@@ -770,6 +839,7 @@ function goBackToFeed() {
     releaseWakeLock();
     showScreen("feed", false);
     renderArticles();
+    if (isLargeScreen()) renderDrawerFeeds();
 }
 
 window.addEventListener("popstate", (e) => {
@@ -1026,339 +1096,4 @@ function closeDrawer() {
 }
 
 function updateDrawerModes() {
-    document.querySelectorAll(".drawer-mode").forEach(btn => {
-        btn.classList.toggle("active", btn.dataset.mode === state.mode);
-    });
-}
-
-function renderDrawerFeeds() {
-    const container = document.getElementById("drawer-feeds");
-    if (!container) return;
-
-    const allNewsletterSenders = [...new Set(state.articles.filter(a => a.source === "newsletter").map(a => a.feed_name))];
-    allNewsletterSenders.forEach(senderName => {
-        if (senderName && !state.feeds.some(f => f.name === senderName)) {
-            state.feeds.push({ name: senderName, url: "", _category: "Uncategorized", _isVirtual: true });
-        }
-    });
-
-    const activeFeedNames = new Set(state.feeds.map(f => f.name));
-    const isSpecial = (a) => a.source === "newsletter" || a.source === "manual" || a.source === "mobile_catch";
-    const include = (a) => activeFeedNames.has(a.feed_name) || isSpecial(a);
-    
-    let base;
-    if (state.mode === "Unread") {
-        base = state.articles.filter(a => !state.history.has(a.id) && include(a));
-    } else if (state.mode === "Bookmarks") {
-        base = state.articles.filter(a => a.id in state.bookmarks && include(a));
-    } else {
-        base = state.articles.filter(a => state.history.has(a.id) && include(a));
-    }
-
-    const feedCounts = {};
-    base.forEach(a => { feedCounts[a.feed_name] = (feedCounts[a.feed_name] || 0) + 1; });
-    const totalCount = base.length;
-
-    const categories = {};
-    state.feeds.forEach(f => {
-        const cat = f._category || "Uncategorized";
-        if (!categories[cat]) categories[cat] = [];
-        categories[cat].push(f);
-    });
-
-    let html = `<div class="drawer-feed-item all-feeds ${state.feedFilter === 'All Feeds' ? 'active' : ''}" data-feed="All Feeds">
-        <span>All Feeds</span><span class="drawer-feed-count">${totalCount}</span></div>`;
-
-    const uncatKeys = Object.keys(categories).filter(k => 
-        !k || k.toLowerCase() === "uncategorized" || k.toLowerCase() === "my feeds"
-    );
-    const uncategorized = uncatKeys.flatMap(k => categories[k] || []);
-    uncatKeys.forEach(k => delete categories[k]);
-    
-    for (const feed of uncategorized) {
-        const count = feedCounts[feed.name] || 0;
-        const isActive = state.feedFilter === feed.name;
-        const canEdit = !feed._isVirtual && Boolean(feed.url);
-        html += `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${feed.name}">
-            <span class="drawer-feed-name-text">${feed.name}</span>
-            <span class="drawer-feed-right">
-                ${canEdit ? `<span class="drawer-feed-edit" data-edit-feed="${feed.name}" data-edit-cat="Uncategorized">⋯</span>` : ''}
-                <span class="drawer-feed-count">${count}</span>
-            </span></div>`;
-    }
-
-    for (const [cat, feeds] of Object.entries(categories)) {
-        const catCount = feeds.reduce((sum, f) => sum + (feedCounts[f.name] || 0), 0);
-        const isExpanded = state._expandedCategories?.[cat] === true;
-        const isCatActive = state.feedFilter === "category:" + cat;
-
-        html += `<div class="drawer-category ${isCatActive ? 'active-cat' : ''}" data-category="${cat}">
-            <span class="drawer-cat-toggle" data-cat-toggle="${cat}">${isExpanded ? '▾' : '▸'}</span>
-            <span class="drawer-cat-name" data-cat-filter="${cat}">${cat}</span>
-            <span class="drawer-category-count">${catCount}</span>
-        </div>`;
-        html += `<div class="drawer-category-feeds ${isExpanded ? '' : 'collapsed'}" data-cat-feeds="${cat}">`;
-        for (const feed of feeds) {
-            const count = feedCounts[feed.name] || 0;
-            const isActive = state.feedFilter === feed.name;
-            const canEdit = !feed._isVirtual && Boolean(feed.url);
-            html += `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${feed.name}">
-                <span class="drawer-feed-name-text">${feed.name}</span>
-                <span class="drawer-feed-right">
-                    <span class="drawer-feed-count">${count}</span>
-                    ${canEdit ? `<span class="drawer-feed-edit" data-edit-feed="${feed.name}" data-edit-cat="${cat}">⋯</span>` : ''}
-                </span></div>`;
-        }
-        html += `</div>`;
-    }
-
-    container.innerHTML = html;
-
-    container.querySelectorAll(".drawer-feed-item").forEach(item => {
-        item.addEventListener("click", () => {
-            state.feedFilter = item.dataset.feed;
-            closeDrawer();
-            renderArticles();
-        });
-    });
-
-    container.querySelectorAll(".drawer-feed-edit").forEach(btn => {
-        btn.addEventListener("click", (e) => {
-            e.stopPropagation();
-            const feedName = btn.dataset.editFeed;
-            const currentCat = btn.dataset.editCat;
-            const categories = [...new Set(state.feeds.filter(f => !f._isVirtual).map(f => f._category || "Uncategorized"))];
-
-            const action = prompt(
-                `${feedName}\n\nType:\n  "delete" to remove this feed\n  A category name to move it\n\nCurrent: ${currentCat}\nCategories: ${categories.join(", ")}`
-            );
-
-            if (!action) return;
-
-            if (action.toLowerCase() === "delete") {
-                if (!confirm(`Delete "${feedName}" from ${currentCat}?`)) return;
-                manageFeed("delete_feed", feedName, "", currentCat);
-            } else {
-                manageFeed("move_feed", feedName, action.trim(), currentCat);
-            }
-        });
-    });
-
-    container.querySelectorAll(".drawer-cat-toggle").forEach(toggle => {
-        toggle.addEventListener("click", (e) => {
-            e.stopPropagation();
-            const catName = toggle.dataset.catToggle;
-            const feeds = container.querySelector(`[data-cat-feeds="${catName}"]`);
-            const isCollapsed = feeds.classList.contains("collapsed");
-            feeds.classList.toggle("collapsed");
-            state._expandedCategories[catName] = isCollapsed;
-            toggle.textContent = isCollapsed ? '▾' : '▸';
-        });
-    });
-
-    container.querySelectorAll(".drawer-cat-name").forEach(name => {
-        name.addEventListener("click", (e) => {
-            e.stopPropagation();
-            state.feedFilter = "category:" + name.dataset.catFilter;
-            closeDrawer();
-            renderArticles();
-        });
-    });
-}
-
-function updateFeedHeader(countVal) {
-    const title = document.getElementById("feed-title");
-    const count = document.getElementById("feed-count");
-    if (!title || !count) return;
-    const total = typeof countVal === "number" ? countVal : getFilteredArticles().length;
-
-    let label = state.mode === "Bookmarks" ? "Saved" : state.mode;
-    if (state.feedFilter.startsWith("category:")) {
-        label = state.feedFilter.slice(9);
-    } else if (state.feedFilter !== "All Feeds") {
-        label = state.feedFilter;
-    }
-    title.textContent = label;
-    count.textContent = total;
-}
-
-document.getElementById("hamburger-btn")?.addEventListener("click", () => {
-    const drawer = document.getElementById("drawer");
-    if (drawer?.classList.contains("open")) {
-        closeDrawer();
-    } else {
-        openDrawer();
-    }
-});
-document.getElementById("drawer-overlay")?.addEventListener("click", closeDrawer);
-
-document.querySelectorAll(".drawer-mode").forEach(btn => {
-    btn.addEventListener("click", () => {
-        state.mode = btn.dataset.mode;
-        state.feedFilter = "All Feeds";
-        updateDrawerModes();
-        renderDrawerFeeds();
-        closeDrawer();
-        renderArticles();
-    });
-});
-
-document.getElementById("drawer-clear-filter")?.addEventListener("click", () => {
-    state.feedFilter = "All Feeds";
-    closeDrawer();
-    renderArticles();
-});
-
-document.getElementById("font-size-slider")?.addEventListener("input", (e) => {
-    const size = e.target.value;
-    document.documentElement.style.setProperty("--reader-font-size", size + "px");
-    try { localStorage.setItem("rss-font-size", size); } catch(e) {}
-});
-
-try {
-    const savedSize = localStorage.getItem("rss-font-size");
-    if (savedSize) {
-        const slider = document.getElementById("font-size-slider");
-        if (slider) slider.value = savedSize;
-        document.documentElement.style.setProperty("--reader-font-size", savedSize + "px");
-    }
-} catch(e) {}
-
-document.getElementById("eink-toggle")?.addEventListener("click", () => {
-    const isEink = document.body.classList.toggle("eink");
-    const toggle = document.getElementById("eink-toggle");
-    if (toggle) {
-        toggle.textContent = isEink ? "On" : "Off";
-        toggle.classList.toggle("active", isEink);
-    }
-    try { localStorage.setItem("rss-eink", isEink ? "1" : "0"); } catch(e) {}
-});
-
-try {
-    if (localStorage.getItem("rss-eink") === "1") {
-        document.body.classList.add("eink");
-        const toggle = document.getElementById("eink-toggle");
-        if (toggle) {
-            toggle.textContent = "On";
-            toggle.classList.add("active");
-        }
-    }
-} catch(e) {}
-
-document.getElementById("settings-toggle")?.addEventListener("click", () => {
-    const content = document.getElementById("settings-content");
-    const label = document.querySelector("#settings-toggle .drawer-section-label");
-    if (content && label) {
-        const isHidden = content.classList.toggle("hidden");
-        label.textContent = isHidden ? "▸ Settings" : "▾ Settings";
-    }
-});
-
-document.getElementById("drawer-mark-all")?.addEventListener("click", () => {
-    if (state.mode !== "Unread") return;
-    const filtered = getFilteredArticles();
-    if (filtered.length === 0) return;
-    if (!confirm(`Archive ${filtered.length} articles?`)) return;
-    filtered.forEach(a => state.history.add(a.id));
-    db.ref("app_data/history").set(JSON.stringify([...state.history]));
-    closeDrawer();
-    renderArticles();
-});
-
-document.getElementById("drawer-sync")?.addEventListener("click", () => {
-    closeDrawer();
-    loadData();
-});
-
-// ── Add / Manage Feeds ───────────────────────────────────────────────────
-
-async function manageFeed(action, feedName, newCategory, currentCategory) {
-    try {
-        const res = await fetch(PROXY_URL, {
-            method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: `action=${action}&name=${encodeURIComponent(feedName)}&category=${encodeURIComponent(newCategory)}&current_category=${encodeURIComponent(currentCategory)}`
-        });
-        const text = await res.text();
-        if (text.includes("OK") || text.includes("Success")) {
-            setTimeout(() => loadData(), 1000);
-            renderDrawerFeeds();
-        } else {
-            alert("Error: " + text);
-        }
-    } catch(err) {
-        alert("Failed: " + err.message);
-    }
-}
-
-document.getElementById("add-feed-toggle")?.addEventListener("click", () => {
-    const form = document.getElementById("add-feed-form");
-    if (!form) return;
-    const isHidden = form.classList.contains("hidden");
-    form.classList.toggle("hidden");
-    if (isHidden) {
-        const select = document.getElementById("add-feed-category");
-        const categories = [...new Set(state.feeds.filter(f => !f._isVirtual).map(f => f._category || "Uncategorized"))];
-        if (select) {
-            select.innerHTML = categories.map(c => `<option value="${c}">${c}</option>`).join("")
-                + '<option value="__new__">+ New Category</option>';
-        }
-        document.getElementById("add-feed-name").value = "";
-        document.getElementById("add-feed-url").value = "";
-        document.getElementById("add-feed-status").textContent = "";
-    }
-});
-
-document.getElementById("add-feed-cancel")?.addEventListener("click", () => {
-    document.getElementById("add-feed-form")?.classList.add("hidden");
-});
-
-document.getElementById("add-feed-submit")?.addEventListener("click", async () => {
-    const name = document.getElementById("add-feed-name").value.trim();
-    const url = document.getElementById("add-feed-url").value.trim();
-    let category = document.getElementById("add-feed-category").value;
-    const status = document.getElementById("add-feed-status");
-
-    if (!name || !url) {
-        status.textContent = "Name and URL required";
-        status.style.color = "#ff4444";
-        return;
-    }
-
-    if (category === "__new__") {
-        category = prompt("New category name:");
-        if (!category) return;
-    }
-
-    status.textContent = "Adding...";
-    status.style.color = "#5A5F67";
-
-    try {
-        const res = await fetch(PROXY_URL, {
-            method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: `action=add_feed&name=${encodeURIComponent(name)}&url=${encodeURIComponent(url)}&category=${encodeURIComponent(category)}`
-        });
-        const text = await res.text();
-        if (text.includes("OK") || text.includes("Success")) {
-            status.textContent = "Added! Syncing...";
-            status.style.color = "#00A870";
-            document.getElementById("add-feed-form")?.classList.add("hidden");
-            setTimeout(() => loadData(), 1000);
-        } else {
-            status.textContent = "Error: " + text;
-            status.style.color = "#ff4444";
-        }
-    } catch(err) {
-        status.textContent = "Failed: " + err.message;
-        status.style.color = "#ff4444";
-    }
-});
-
-// ═══ SERVICE WORKER ══════════════════════════════════════════════════════
-
-if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("./sw.js").catch(err => {
-        console.log("SW registration failed:", err);
-    });
-}
+    document.querySelectorAll(".drawer
