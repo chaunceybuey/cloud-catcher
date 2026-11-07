@@ -1,10 +1,6 @@
 {
   "NYT": [
     {
-      "name": "Douthat",
-      "url": "https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
-    },
-    {
       "name": "Weeknight Dishes",
       "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
     },
