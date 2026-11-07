@@ -5,10 +5,6 @@
       "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/five-weeknight-dishes/rss.xml"
     },
     {
-      "name": "NYT (Arts)",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
-    },
-    {
       "name": "NYT (Food)",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"
     }
