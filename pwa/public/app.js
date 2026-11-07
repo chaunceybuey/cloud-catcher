@@ -3,7 +3,6 @@
 // ═══════════════════════════════════════════════════════════════════════════
 
 // ── Firebase Config ──────────────────────────────────────────────────────
-// PASTE YOUR FIREBASE CONFIG HERE (Firebase Console → Project Settings → Web App)
 const firebaseConfig = {
     apiKey: "AIzaSyBvNjSGiWQofUd3omAcBvJ-pa2pAtG2KNs",
     authDomain: "rss-triage.firebaseapp.com",
@@ -18,31 +17,44 @@ firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
 const db = firebase.database();
 
-// ── GitHub Config ────────────────────────────────────────────────────────
+// ── GitHub & Proxy Config ────────────────────────────────────────────────
 const GITHUB_USER = "chaunceybuey";
 const GITHUB_REPO = "cloud-catcher";
-
-// ── Proxy for full-text fetching ──────────────────────────────────────────
 const PROXY_URL = "https://script.google.com/macros/s/AKfycbw2U9jgVSwbRSHicSuxYeGDs1z_xeGh4bQvreP4Vsim9uFGVMFSZi-2_jAY1XI7XThc/exec";
+
+// ── App State ────────────────────────────────────────────────────────────
+let state = {
+    articles: [],
+    feeds: [],
+    history: new Set(),
+    bookmarks: {},
+    mode: "Unread",
+    feedFilter: "All Feeds",
+    currentArticle: null,
+    currentHtml: null,
+    pagination: null,
+    readThisSession: new Set(),
+    _selectedCardIdx: 0,
+    _expandedCategories: {}
+};
+
+// ═══ ARTICLE EXTRACTION ══════════════════════════════════════════════════
 
 function extractArticle(html, url) {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, "text/html");
     
-    // 1. Keep the styles (they handle the mobile responsiveness)
-    // BUT remove fixed-width attributes from problematic tags
-    const elementsToFix = doc.querySelectorAll("table, img, div, td");
-    elementsToFix.forEach(el => {
+    // Remove fixed-width attributes from problematic tags
+    doc.querySelectorAll("table, img, div, td").forEach(el => {
         el.removeAttribute("width");
         el.removeAttribute("height");
-        // Ensure images don't exceed screen width
         if (el.tagName === "IMG") {
             el.style.maxWidth = "100%";
             el.style.height = "auto";
         }
     });
     
-    // Remove non-content elements — aggressive list for cleaner output
+    // Remove non-content elements
     doc.querySelectorAll([
         "script", "style", "nav", "footer", "header", "aside", "noscript", "iframe",
         "svg", "canvas", "form", "input", "button", "select", "textarea",
@@ -69,7 +81,7 @@ function extractArticle(html, url) {
     // Find main content area
     const main = doc.querySelector("article") || doc.querySelector("[role='main']") || doc.querySelector("main") || doc.querySelector(".post-content, .article-body, .entry-content, .story-body, .article__body") || doc.body;
     
-    // Second pass — strip remaining junk from within the content area
+    // Strip remaining junk from within the content area
     main.querySelectorAll("svg, [class*='icon'], [class*='share'], [class*='social']").forEach(el => el.remove());
     
     // Fix relative URLs
@@ -120,25 +132,21 @@ document.getElementById("paste-link-btn").addEventListener("click", async () => 
     status.style.color = "#5A5F67";
 
     try {
-        // Fetch raw HTML first to get metadata
         const res = await fetch(PROXY_URL + "?url=" + encodeURIComponent(url));
         if (!res.ok) throw new Error("Proxy returned " + res.status);
         const rawHtml = await res.text();
         if (rawHtml.startsWith("ERROR:")) throw new Error(rawHtml);
         if (rawHtml.length < 200) throw new Error("Response too short");
 
-        // Extract title from page metadata
         const metaDoc = new DOMParser().parseFromString(rawHtml, "text/html");
         const ogTitle = metaDoc.querySelector('meta[property="og:title"]')?.getAttribute("content");
         const pageTitle = metaDoc.querySelector("title")?.textContent;
         const title = ogTitle || pageTitle || url;
 
-        // Extract site name
         const ogSite = metaDoc.querySelector('meta[property="og:site_name"]')?.getAttribute("content");
         const hostname = new URL(url).hostname.replace("www.", "");
         const siteName = ogSite || hostname;
 
-        // Extract article body
         const fullHtml = extractArticle(rawHtml, url);
 
         const article = {
@@ -152,13 +160,10 @@ document.getElementById("paste-link-btn").addEventListener("click", async () => 
             source: "manual"
         };
 
-        // Save full text to Firebase
         const safeKey = md5(url);
         await db.ref(`app_data/articles/${safeKey}`).set(fullHtml);
 
-        // Add to local state and render
         state.articles.unshift(article);
-        // Auto-bookmark pasted articles
         state.bookmarks[article.id] = 0;
         db.ref("app_data/bookmarks").set(JSON.stringify(state.bookmarks));
         input.value = "";
@@ -171,20 +176,6 @@ document.getElementById("paste-link-btn").addEventListener("click", async () => 
         status.style.color = "#ff4444";
     }
 });
-
-// ── App State ────────────────────────────────────────────────────────────
-let state = {
-    articles: [],
-    feeds: [],
-    history: new Set(),
-    bookmarks: {},
-    audioBin: {},
-    mode: "Unread",
-    feedFilter: "All Feeds",
-    currentArticle: null,
-    pagination: null,
-    readThisSession: new Set(),  // Articles opened — archived on return to feed
-};
 
 // ═══ AUTH ═════════════════════════════════════════════════════════════════
 
@@ -200,7 +191,6 @@ auth.onAuthStateChanged(user => {
     if (user) {
         document.getElementById("login-screen").classList.add("hidden");
         loadData();
-        // Show drawer immediately on large screens
         if (isLargeScreen()) {
             const drawer = document.getElementById("drawer");
             drawer.classList.remove("hidden");
@@ -220,7 +210,6 @@ async function loadData() {
     document.getElementById("article-list").innerHTML = "";
 
     try {
-        // Fetch GitHub files natively, but use Firebase's secure SDK for the database
         const [articlesRes, newsletterRes, feedsRes, savedLinksSnap] = await Promise.all([
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/master_articles.json?t=${Date.now()}`),
             fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/newsletter_articles.json?t=${Date.now()}`).catch(() => null),
@@ -233,7 +222,6 @@ async function loadData() {
             githubArticles = await articlesRes.json();
         }
 
-        // Process Firebase Saved Links using the secure snapshot
         let savedArticles = [];
         if (savedLinksSnap && savedLinksSnap.val()) {
             try {
@@ -252,7 +240,6 @@ async function loadData() {
             }
         }
 
-        // Merge them, placing newest mobile saves right at the top
         state.articles = [...savedArticles, ...githubArticles];
 
         // Merge newsletters into articles
@@ -275,31 +262,38 @@ async function loadData() {
                 }
             }
             
-            // Add dynamic category for mobile saves
             if (savedArticles.length > 0) {
                 state.feeds.push({
                     name: "Saved Articles",
                     url: "",
-                    _category: "Mobile Captures"
+                    _category: "Uncategorized",
+                    _isVirtual: true
                 });
             }
         }
 
-        // Fetch history, bookmarks, audio bin securely from Firebase
-        const [histSnap, bmSnap, audioSnap] = await Promise.all([
+        // Register newsletter senders directly as top-level uncategorized feeds
+        const allNewsletterSenders = [...new Set(state.articles.filter(a => a.source === "newsletter").map(a => a.feed_name))];
+        allNewsletterSenders.forEach(senderName => {
+            if (senderName && !state.feeds.some(f => f.name === senderName)) {
+                state.feeds.push({ name: senderName, url: "", _category: "Uncategorized", _isVirtual: true });
+            }
+        });
+
+        // Fetch history and bookmarks from Firebase
+        const [histSnap, bmSnap] = await Promise.all([
             db.ref("app_data/history").once("value"),
             db.ref("app_data/bookmarks").once("value"),
-            db.ref("app_data/audio_bin").once("value"),
         ]);
 
         if (histSnap.val()) state.history = new Set(JSON.parse(histSnap.val()));
         if (bmSnap.val()) state.bookmarks = JSON.parse(bmSnap.val());
-        if (audioSnap.val()) state.audioBin = JSON.parse(audioSnap.val());
 
-        // Listen for real-time updates
+        // Real-time listener for history sync across devices
+        db.ref("app_data/history").off();
         db.ref("app_data/history").on("value", snap => {
             if (snap.val()) state.history = new Set(JSON.parse(snap.val()));
-            if (document.getElementById("feed-screen").classList.contains("hidden") === false) {
+            if (!document.getElementById("feed-screen").classList.contains("hidden")) {
                 renderArticles();
             }
         });
@@ -317,40 +311,26 @@ async function loadData() {
     }
 }
 
-function populateFeedFilter() {
-    // Now handled by drawer — see renderDrawerFeeds()
-}
-
 // ═══ ARTICLE RENDERING ═══════════════════════════════════════════════════
 
 function getFilteredArticles() {
     const activeFeedNames = new Set(state.feeds.map(f => f.name));
-    const isNewsletter = (a) => a.source === "newsletter";
-    const isManual = (a) => a.source === "manual";
-    const isMobileCatch = (a) => a.source === "mobile_catch";
-    
-    // Fallback logic ensures bookmarklets aren't filtered out
-    const includeArticle = (a) => activeFeedNames.has(a.feed_name) || isNewsletter(a) || isManual(a) || isMobileCatch(a);
+    const isSpecial = (a) => a.source === "newsletter" || a.source === "manual" || a.source === "mobile_catch";
+    const includeArticle = (a) => activeFeedNames.has(a.feed_name) || isSpecial(a);
     let base;
 
     if (state.mode === "Unread") {
         base = state.articles.filter(a => !state.history.has(a.id) && includeArticle(a));
     } else if (state.mode === "Bookmarks") {
         base = state.articles.filter(a => a.id in state.bookmarks && includeArticle(a));
-    } else if (state.mode === "AudioBin") {
-        base = state.articles.filter(a => a.id in state.audioBin && includeArticle(a));
     } else {
         base = state.articles.filter(a => state.history.has(a.id) && includeArticle(a));
     }
 
     if (state.feedFilter.startsWith("category:")) {
         const catName = state.feedFilter.slice(9);
-        if (catName === "Newsletters") {
-            base = base.filter(a => a.source === "newsletter");
-        } else {
-            const catFeeds = new Set(state.feeds.filter(f => f._category === catName).map(f => f.name));
-            base = base.filter(a => catFeeds.has(a.feed_name));
-        }
+        const catFeeds = new Set(state.feeds.filter(f => f._category === catName).map(f => f.name));
+        base = base.filter(a => catFeeds.has(a.feed_name));
     } else if (state.feedFilter !== "All Feeds") {
         base = base.filter(a => a.feed_name === state.feedFilter);
     }
@@ -373,6 +353,9 @@ function renderArticles() {
     const list = document.getElementById("article-list");
     const empty = document.getElementById("empty-state");
     const filtered = getFilteredArticles();
+    state._selectedCardIdx = 0;
+
+    updateFeedHeader(filtered.length);
 
     if (filtered.length === 0) {
         list.innerHTML = "";
@@ -394,24 +377,20 @@ function renderArticles() {
         </div>
     `).join("");
 
-    // Attach tap and swipe handlers
     list.querySelectorAll(".article-card").forEach(card => {
         const articleId = card.dataset.id;
         const article = filtered[parseInt(card.dataset.idx)];
 
-        // Tap to open
-        card.addEventListener("click", (e) => {
+        card.addEventListener("click", () => {
             if (card.classList.contains("swiping")) return;
             openArticle(article);
         });
 
-        // Swipe gestures
         const hammer = new Hammer(card, { threshold: 50 });
         hammer.on("panstart", () => card.classList.add("swiping"));
         hammer.on("panmove", (e) => {
             card.style.transform = `translateX(${e.deltaX}px)`;
             card.style.opacity = Math.max(0.3, 1 - Math.abs(e.deltaX) / 300);
-            // Show swipe labels
             const leftLabel = card.querySelector(".card-swipe-label.left");
             const rightLabel = card.querySelector(".card-swipe-label.right");
             leftLabel.style.opacity = e.deltaX < -30 ? Math.min(1, (-e.deltaX - 30) / 80) : 0;
@@ -419,11 +398,9 @@ function renderArticles() {
         });
         hammer.on("panend", (e) => {
             if (e.deltaX < -120) {
-                // Swipe left → Archive
                 card.classList.add("dismissed");
                 setTimeout(() => archiveArticle(articleId), 300);
             } else if (e.deltaX > 120) {
-                // Swipe right → Bookmark
                 bookmarkArticle(articleId);
                 card.style.transform = "";
                 card.style.opacity = "";
@@ -444,7 +421,6 @@ function openArticle(article) {
     state.currentArticle = article;
     state.readThisSession.add(article.id);
     requestWakeLock();
-    requestWakeLock();
 
     const bmBtn = document.getElementById("reader-bookmark");
     bmBtn.classList.toggle("active-action", article.id in state.bookmarks);
@@ -454,7 +430,6 @@ function openArticle(article) {
     const contentEl = document.getElementById("reader-content");
     contentEl.innerHTML = '<div class="reader-pages"><p style="color:#5A5F67;">Loading...</p></div>';
 
-    // Build article header
     const feedName = article.feed_name || "";
     const date = formatDate(article.date);
     const author = article.author ? `By ${article.author}` : "";
@@ -463,41 +438,32 @@ function openArticle(article) {
     const headerHtml = `
         <div class="article-header-meta">${feedName} · ${date}</div>
         <div class="article-header-title">${title}</div>
-        ${author ? `<div class="article-header-author">${author}</div>` : '<div style="margin-bottom:1.5rem;padding-bottom:1rem;border-bottom:1px solid #1a1a1a;"></div>'}
+        ${author ? `<div class="article-header-author">${author}</div>` : '<div class="article-header-divider"></div>'}
     `;
 
-    // Check Firebase for cached full text first
     const safeKey = md5(article.link || article.id);
     
     // Newsletters and manual articles already have full content — show directly
     if (article.source === "newsletter" || article.source === "manual") {
-        setupPagination(headerHtml + (article.content || ''));
+        setupPagination(headerHtml + (article.content || ""));
         enterFullscreen();
         return;
     }
     
     db.ref(`app_data/articles/${safeKey}`).once("value").then(snap => {
         const cached = snap.val();
-        // Check that cached content isn't a login/error page
         if (cached && cached.length > 500 && !cached.includes("Sign in") && !cached.includes("to continue to Gmail")) {
-            // Full text available — show it directly
             setupPagination(headerHtml + cached);
             enterFullscreen();
         } else {
-            // Show RSS summary with "Read Full Article" button
             const summary = article.content || '<p style="color:#5A5F67;font-style:italic;">No summary available.</p>';
             const fetchButton = `
-                <div style="text-align:center;margin:3rem 0 2rem;">
-                    <button id="fetch-full-btn" style="background:#1a1a1a;color:#D94A00;border:1px solid #333;
-                        padding:0.8rem 2rem;border-radius:0.5rem;font-size:0.95rem;font-weight:700;
-                        text-transform:uppercase;letter-spacing:0.08em;cursor:pointer;">
-                        Read
-                    </button>
+                <div class="fetch-btn-wrapper">
+                    <button id="fetch-full-btn">Read</button>
                 </div>
             `;
             setupPagination(headerHtml + summary + fetchButton);
 
-            // Attach the fetch handler after pagination renders
             setTimeout(() => {
                 const btn = document.getElementById("fetch-full-btn");
                 if (btn) {
@@ -507,7 +473,6 @@ function openArticle(article) {
                         btn.style.color = "#5A5F67";
 
                         fetchFullText(article.link).then(fullHtml => {
-                            // Cache in Firebase for next time
                             db.ref(`app_data/articles/${safeKey}`).set(fullHtml).catch(() => {});
                             setupPagination(headerHtml + fullHtml);
                             enterFullscreen();
@@ -524,10 +489,10 @@ function openArticle(article) {
 }
 
 function setupPagination(html) {
+    state.currentHtml = html;
     setTimeout(() => {
         const body = document.getElementById("reader-content");
         
-        // Compute actual padding from CSS
         const style = getComputedStyle(body);
         const paddingLeft = parseFloat(style.paddingLeft) || 0;
         const paddingRight = parseFloat(style.paddingRight) || 0;
@@ -541,29 +506,71 @@ function setupPagination(html) {
         }
 
         body.style.overflowY = "hidden";
-        // Inner clip wrapper prevents column bleed into padding area on large screens
         body.innerHTML = `<div id="reader-clip" style="overflow:hidden;height:100%;position:relative;">
             <div class="reader-pages" id="reader-pages">${html}</div></div>`;
         const pages = document.getElementById("reader-pages");
 
-        // Clean up excessive whitespace
+        // 1. Remove embedded <style> and <link> tags that force white boxes or fixed widths
+        pages.querySelectorAll("style, link[rel='stylesheet'], meta, title").forEach(el => el.remove());
+
+        // 2. Unwrap layout tables bottom-up into standard divs so CSS columns paginate smoothly
+        Array.from(pages.querySelectorAll("table, thead, tbody, tfoot, tr, td, th, center"))
+            .reverse()
+            .forEach(el => {
+                const div = document.createElement("div");
+                while (el.firstChild) div.appendChild(el.firstChild);
+                el.replaceWith(div);
+            });
+
+        // 3. Clean up empty elements and double line breaks
         pages.querySelectorAll("p, div, span").forEach(el => {
-            if (!el.children.length && !el.textContent.trim()) el.remove();
+            if (
+                !el.classList.contains("article-header-divider") &&
+                !el.children.length &&
+                !el.textContent.trim()
+            ) {
+                el.remove();
+            }
         });
         pages.querySelectorAll("br").forEach(br => {
             if (br.nextElementSibling && br.nextElementSibling.tagName === "BR") br.remove();
         });
 
-        // Strip inline color/font styles (fixes newsletter email HTML)
-        pages.querySelectorAll("[style]").forEach(el => {
-            const s = el.style;
-            s.removeProperty("color");
-            s.removeProperty("background-color");
-            s.removeProperty("background");
-            s.removeProperty("font-family");
-            s.removeProperty("font-size");
-            // Remove the style attribute entirely if empty
-            if (!el.getAttribute("style")?.trim()) el.removeAttribute("style");
+        // 4. Strip legacy HTML attributes and inline box-model/color styles
+        pages.querySelectorAll("*").forEach(el => {
+            if (
+                el.classList.contains("article-header-meta") ||
+                el.classList.contains("article-header-title") ||
+                el.classList.contains("article-header-author") ||
+                el.classList.contains("article-header-divider") ||
+                el.classList.contains("fetch-btn-wrapper") ||
+                el.id === "fetch-full-btn"
+            ) return;
+
+            el.removeAttribute("bgcolor");
+            el.removeAttribute("color");
+            el.removeAttribute("width");
+            el.removeAttribute("height");
+            el.removeAttribute("align");
+            el.removeAttribute("valign");
+            el.removeAttribute("border");
+            el.removeAttribute("cellpadding");
+            el.removeAttribute("cellspacing");
+
+            if (el.hasAttribute("style")) {
+                const s = el.style;
+                [
+                    "color", "background", "background-color", "background-image",
+                    "font-family", "font-size", "line-height",
+                    "width", "max-width", "min-width",
+                    "margin", "margin-left", "margin-right", "margin-top", "margin-bottom",
+                    "padding", "padding-left", "padding-right", "padding-top", "padding-bottom",
+                    "border", "border-top", "border-bottom", "border-left", "border-right",
+                    "box-shadow", "border-radius"
+                ].forEach(prop => s.removeProperty(prop));
+
+                if (!el.getAttribute("style")?.trim()) el.removeAttribute("style");
+            }
         });
 
         pages.querySelectorAll("img, figure, video").forEach(el => {
@@ -576,20 +583,17 @@ function setupPagination(html) {
         pages.style.columnGap = "0px";
 
         setTimeout(() => {
-            // Measure the TRUE fractional column width from the browser —
-            // clientWidth is integer-rounded and causes cumulative drift
             const step = pages.getBoundingClientRect().width;
             const totalWidth = pages.scrollWidth;
             const totalPages = Math.max(1, Math.round(totalWidth / step));
 
             state.pagination = { el: pages, current: 0, total: totalPages, step: step };
             updatePageIndicator();
-            // Restore saved reading position (stored as percentage)
+
             if (state.currentArticle) {
                 db.ref(`app_data/positions/${state.currentArticle.id}`).once("value").then(snap => {
                     const saved = snap.val();
                     if (saved && saved > 0) {
-                        // Convert percentage to page number for current screen
                         const targetPage = Math.round(saved * (totalPages - 1));
                         if (targetPage > 0 && targetPage < totalPages) {
                             goToPage(targetPage);
@@ -598,9 +602,19 @@ function setupPagination(html) {
                 }).catch(() => {});
             }
         }, 50);
-        
     }, 50);
 }
+
+// Re-paginate cleanly on device rotation or window resize
+let _resizeTimer = null;
+window.addEventListener("resize", () => {
+    if (!state.currentArticle || !state.currentHtml) return;
+    if (document.getElementById("reader-screen").classList.contains("hidden")) return;
+    clearTimeout(_resizeTimer);
+    _resizeTimer = setTimeout(() => {
+        setupPagination(state.currentHtml);
+    }, 200);
+});
 
 function goToPage(page) {
     const p = state.pagination;
@@ -609,7 +623,6 @@ function goToPage(page) {
     p.current = page;
     p.el.style.transform = `translateX(-${page * p.step}px)`;
     updatePageIndicator();
-    // Save reading progress as percentage (works across screen sizes)
     if (state.currentArticle && p.total > 1) {
         const progress = page / (p.total - 1);
         try { db.ref(`app_data/positions/${state.currentArticle.id}`).set(progress); } catch(e) {}
@@ -623,8 +636,6 @@ function updatePageIndicator() {
 }
 
 document.getElementById("reader-back").addEventListener("click", () => {
-    // If we have a reader entry in history, go back through it.
-    // Otherwise go directly to feed.
     if (history.state?.screen === "reader") {
         history.back();
     } else {
@@ -652,7 +663,6 @@ document.getElementById("reader-bookmark").addEventListener("click", () => {
     }
 });
 
-// Open original article in browser
 document.getElementById("reader-readwise").addEventListener("click", () => {
     if (state.currentArticle?.link) {
         window.open(state.currentArticle.link, "_blank");
@@ -678,7 +688,6 @@ function releaseWakeLock() {
     }
 }
 
-// Re-request wake lock when returning to the app while reading
 document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "visible" && state.currentArticle) {
         requestWakeLock();
@@ -686,7 +695,6 @@ document.addEventListener("visibilitychange", () => {
 });
 
 function enterFullscreen() {
-    // Only go fullscreen on mobile — desktop doesn't need it
     if (window.innerWidth > 768) return;
     try {
         const el = document.documentElement;
@@ -715,45 +723,6 @@ function bookmarkArticle(articleId) {
     db.ref("app_data/bookmarks").set(JSON.stringify(state.bookmarks));
 }
 
-// ═══ AUDIO BIN ═══════════════════════════════════════════════════════════
-
-function renderAudioBin() {
-    const list = document.getElementById("audio-list");
-    const entries = Object.entries(state.audioBin);
-
-    if (entries.length === 0) {
-        list.innerHTML = '<div class="empty-state">No audio queued.</div>';
-        return;
-    }
-
-    // Match audio bin entries to article metadata
-    list.innerHTML = entries.map(([id, data]) => {
-        const article = state.articles.find(a => a.id === id);
-        const title = article ? article.title : "Unknown Article";
-        const feed = article ? article.feed_name : "";
-
-        let statusHtml = "";
-        if (data.status === "ready" && data.path) {
-            statusHtml = `<audio controls class="audio-player"><source src="" type="audio/wav"></audio>
-                          <p style="color:#5A5F67;font-size:0.7rem;margin-top:0.5rem;">Audio available on desktop. Drive sync coming soon.</p>`;
-        } else if (data.status === "generating") {
-            statusHtml = '<div class="audio-card-status generating">Generating...</div>';
-        } else if (data.status === "error") {
-            statusHtml = '<div class="audio-card-status error">Failed</div>';
-        } else {
-            statusHtml = '<div class="audio-card-status pending">Queued</div>';
-        }
-
-        return `
-            <div class="audio-card">
-                <div class="audio-card-feed">${feed}</div>
-                <div class="audio-card-title">${title}</div>
-                ${statusHtml}
-            </div>
-        `;
-    }).join("");
-}
-
 // ═══ NAVIGATION ══════════════════════════════════════════════════════════
 
 function showScreen(name, pushHistory = true) {
@@ -761,8 +730,6 @@ function showScreen(name, pushHistory = true) {
     document.getElementById(`${name}-screen`).classList.remove("hidden");
 
     if (pushHistory && name !== "feed") {
-        // Only push ONE history entry per screen type.
-        // If we're already in this screen, replace instead of stacking.
         if (history.state?.screen === name) {
             history.replaceState({ screen: name }, "");
         } else {
@@ -772,7 +739,6 @@ function showScreen(name, pushHistory = true) {
 }
 
 function goBackToFeed() {
-    // Archive read articles (except bookmarked ones)
     if (state.readThisSession.size > 0 && state.mode === "Unread") {
         let archived = 0;
         state.readThisSession.forEach(id => {
@@ -794,13 +760,13 @@ function goBackToFeed() {
     }
     state.readThisSession.clear();
     state.currentArticle = null;
+    state.currentHtml = null;
     exitFullscreen();
     releaseWakeLock();
     showScreen("feed", false);
     renderArticles();
 }
 
-// Handle system back button / back gesture
 window.addEventListener("popstate", (e) => {
     const targetScreen = e.state?.screen || "feed";
     if (targetScreen === "feed") {
@@ -810,24 +776,16 @@ window.addEventListener("popstate", (e) => {
     }
 });
 
-// Set initial history state
 history.replaceState({ screen: "feed" }, "");
-
-// Mode and feed filter changes — now handled by drawer
-// (old dropdown handlers removed)
 
 // ═══ PAGE TURNING IN READER ══════════════════════════════════════════════
 
 (function setupReaderGestures() {
     const readerBody = document.getElementById("reader-content");
     
-    // Enable all directions for swipe detection
-    const hammer = new Hammer(readerBody, {
-        threshold: 40,
-    });
-    hammer.get('swipe').set({ direction: Hammer.DIRECTION_ALL });
+    const hammer = new Hammer(readerBody, { threshold: 40 });
+    hammer.get("swipe").set({ direction: Hammer.DIRECTION_ALL });
 
-    // Horizontal swipes → turn pages
     hammer.on("swipeleft", () => {
         if (state.pagination) goToPage(state.pagination.current + 1);
     });
@@ -836,7 +794,6 @@ history.replaceState({ screen: "feed" }, "");
         if (state.pagination) goToPage(state.pagination.current - 1);
     });
 
-    // Vertical swipes → next/previous article
     hammer.on("swipeup", () => {
         if (!state.currentArticle) return;
         const filtered = getFilteredArticles();
@@ -855,7 +812,6 @@ history.replaceState({ screen: "feed" }, "");
         }
     });
 
-    // Tap left/right halves to turn pages
     readerBody.addEventListener("click", (e) => {
         if (!state.pagination) return;
         const x = e.clientX;
@@ -867,19 +823,16 @@ history.replaceState({ screen: "feed" }, "");
         }
     });
 
-    // Edge-swipe from left side → go back to feed
     let edgeSwipeStartX = null;
     readerBody.addEventListener("touchstart", (e) => {
         const x = e.touches[0].clientX;
-        if (x < 25) edgeSwipeStartX = x;
-        else edgeSwipeStartX = null;
+        edgeSwipeStartX = x < 25 ? x : null;
     }, { passive: true });
 
     readerBody.addEventListener("touchend", (e) => {
         if (edgeSwipeStartX !== null) {
             const endX = e.changedTouches[0].clientX;
             if (endX - edgeSwipeStartX > 80) {
-                // Edge swipe detected → go back to feed
                 goBackToFeed();
             }
         }
@@ -894,44 +847,34 @@ document.addEventListener("keydown", (e) => {
     const onFeed = !document.getElementById("feed-screen").classList.contains("hidden");
     const onReader = !document.getElementById("reader-screen").classList.contains("hidden");
 
-    // Don't capture if typing in an input
     if (e.target.tagName === "INPUT" || e.target.tagName === "SELECT") return;
 
     if (onFeed) {
-        // Feed view shortcuts
         const filtered = getFilteredArticles();
         const cards = document.querySelectorAll(".article-card");
         const selectedIdx = state._selectedCardIdx || 0;
 
         if (key === "j" && cards.length > 0) {
-            // Next article in list
             e.preventDefault();
             state._selectedCardIdx = Math.min(selectedIdx + 1, cards.length - 1);
             cards[state._selectedCardIdx].scrollIntoView({ block: "nearest" });
             cards.forEach(c => c.style.borderLeft = "");
             cards[state._selectedCardIdx].style.borderLeft = "3px solid #D94A00";
         } else if (key === "k" && cards.length > 0) {
-            // Previous article in list
             e.preventDefault();
             state._selectedCardIdx = Math.max(selectedIdx - 1, 0);
             cards[state._selectedCardIdx].scrollIntoView({ block: "nearest" });
             cards.forEach(c => c.style.borderLeft = "");
             cards[state._selectedCardIdx].style.borderLeft = "3px solid #D94A00";
         } else if (key === "enter" && cards.length > 0) {
-            // Open selected article
             e.preventDefault();
             const article = filtered[state._selectedCardIdx || 0];
             if (article) openArticle(article);
         } else if (key === "a" && cards.length > 0) {
-            // Archive selected
             e.preventDefault();
             const article = filtered[state._selectedCardIdx || 0];
-            if (article) {
-                archiveArticle(article.id);
-                renderArticles();
-            }
+            if (article) archiveArticle(article.id);
         } else if (key === "s" && cards.length > 0) {
-            // Skip (next without archiving)
             e.preventDefault();
             state._selectedCardIdx = Math.min((state._selectedCardIdx || 0) + 1, cards.length - 1);
             cards.forEach(c => c.style.borderLeft = "");
@@ -944,49 +887,32 @@ document.addEventListener("keydown", (e) => {
 
     if (onReader) {
         if (key === "arrowright" || (key === " " && !e.shiftKey)) {
-            // Next page
             e.preventDefault();
             if (state.pagination) goToPage(state.pagination.current + 1);
         } else if (key === "arrowleft" || (key === " " && e.shiftKey)) {
-            // Previous page
             e.preventDefault();
             if (state.pagination) goToPage(state.pagination.current - 1);
         } else if (key === "j" || key === "arrowdown") {
-            // Next article
             e.preventDefault();
             const filtered = getFilteredArticles();
             const idx = filtered.findIndex(a => a.id === state.currentArticle?.id);
             if (idx < filtered.length - 1) openArticle(filtered[idx + 1]);
         } else if (key === "k" || key === "arrowup") {
-            // Previous article
             e.preventDefault();
             const filtered = getFilteredArticles();
             const idx = filtered.findIndex(a => a.id === state.currentArticle?.id);
             if (idx > 0) openArticle(filtered[idx - 1]);
         } else if (key === "a") {
-            // Archive and go back
             if (state.currentArticle) archiveArticle(state.currentArticle.id);
             goBackToFeed();
         } else if (key === "b") {
-            // Toggle bookmark
             document.getElementById("reader-bookmark").click();
-        } else if (key === "l") {
-            // Queue audio
-            document.getElementById("reader-audio").click();
-        } else if (key === "r") {
-            // Open in browser
+        } else if (key === "r" || key === "c") {
             document.getElementById("reader-readwise").click();
         } else if (key === "w" || key === "enter") {
-            // Fetch full text
             const btn = document.getElementById("fetch-full-btn");
             if (btn) btn.click();
-        } else if (key === "c") {
-            // Open original article in new tab
-            if (state.currentArticle?.link) {
-                window.open(state.currentArticle.link, "_blank");
-            }
         } else if (key === "escape" || key === "backspace") {
-            // Back to feed
             e.preventDefault();
             goBackToFeed();
         }
@@ -995,9 +921,7 @@ document.addEventListener("keydown", (e) => {
 
 // ═══ UTILITIES ═══════════════════════════════════════════════════════════
 
-// Simple MD5 for Firebase article keys (matches Python hashlib.md5)
 function md5(str) {
-    // Minimal MD5 for key generation — not for security
     function rotateLeft(val, shift) { return (val << shift) | (val >>> (32 - shift)); }
     function addUnsigned(a, b) { return ((a & 0x7FFFFFFF) + (b & 0x7FFFFFFF)) ^ (a & 0x80000000) ^ (b & 0x80000000); }
     function f(x, y, z) { return (x & y) | (~x & z); }
@@ -1009,7 +933,7 @@ function md5(str) {
         return addUnsigned(rotateLeft(a, s), b);
     }
 
-    let k, AA, BB, CC, DD, a, b, c, d;
+    let AA, BB, CC, DD, a, b, c, d;
     const S = [7,12,17,22, 5,9,14,20, 4,11,16,23, 6,10,15,21];
     const words = [];
     const msg = unescape(encodeURIComponent(str));
@@ -1034,23 +958,18 @@ function md5(str) {
         const x = words.slice(block, block + 16);
         AA = a; BB = b; CC = c; DD = d;
 
-        // Round 1
         for (let i = 0; i < 16; i++) {
-            const div = Math.floor(i / 4);
             a = transform(f, a, b, c, d, x[i], S[i % 4], T[i]);
             [a, b, c, d] = [d, a, b, c];
         }
-        // Round 2
         for (let i = 0; i < 16; i++) {
             a = transform(g, a, b, c, d, x[(5*i + 1) % 16], S[4 + (i % 4)], T[16 + i]);
             [a, b, c, d] = [d, a, b, c];
         }
-        // Round 3
         for (let i = 0; i < 16; i++) {
             a = transform(h, a, b, c, d, x[(3*i + 5) % 16], S[8 + (i % 4)], T[32 + i]);
             [a, b, c, d] = [d, a, b, c];
         }
-        // Round 4
         for (let i = 0; i < 16; i++) {
             a = transform(ii, a, b, c, d, x[(7*i) % 16], S[12 + (i % 4)], T[48 + i]);
             [a, b, c, d] = [d, a, b, c];
@@ -1086,7 +1005,6 @@ function openDrawer() {
 
 function closeDrawer() {
     if (isLargeScreen()) {
-        // On large screens, drawer stays visible — just update it
         renderDrawerFeeds();
         return;
     }
@@ -1108,22 +1026,26 @@ function updateDrawerModes() {
 
 function renderDrawerFeeds() {
     const container = document.getElementById("drawer-feeds");
-    const filtered = getFilteredArticles();
-    const activeFeedNames = new Set(state.feeds.map(f => f.name));
 
-    // Count articles per feed (for current mode)
-    const allArticles = state.articles;
+    // Ensure any newly arrived newsletter senders are in state.feeds
+    const allNewsletterSenders = [...new Set(state.articles.filter(a => a.source === "newsletter").map(a => a.feed_name))];
+    allNewsletterSenders.forEach(senderName => {
+        if (senderName && !state.feeds.some(f => f.name === senderName)) {
+            state.feeds.push({ name: senderName, url: "", _category: "Uncategorized", _isVirtual: true });
+        }
+    });
+
+    const activeFeedNames = new Set(state.feeds.map(f => f.name));
     const isSpecial = (a) => a.source === "newsletter" || a.source === "manual" || a.source === "mobile_catch";
     const include = (a) => activeFeedNames.has(a.feed_name) || isSpecial(a);
+    
     let base;
     if (state.mode === "Unread") {
-        base = allArticles.filter(a => !state.history.has(a.id) && include(a));
+        base = state.articles.filter(a => !state.history.has(a.id) && include(a));
     } else if (state.mode === "Bookmarks") {
-        base = allArticles.filter(a => a.id in state.bookmarks && include(a));
-    } else if (state.mode === "AudioBin") {
-        base = allArticles.filter(a => a.id in state.audioBin && include(a));
+        base = state.articles.filter(a => a.id in state.bookmarks && include(a));
     } else {
-        base = allArticles.filter(a => state.history.has(a.id) && include(a));
+        base = state.articles.filter(a => state.history.has(a.id) && include(a));
     }
 
     const feedCounts = {};
@@ -1133,46 +1055,15 @@ function renderDrawerFeeds() {
     // Group feeds by category
     const categories = {};
     state.feeds.forEach(f => {
-        const cat = f._category || "My Feeds";
+        const cat = f._category || "Uncategorized";
         if (!categories[cat]) categories[cat] = [];
         categories[cat].push(f);
     });
 
-    // Add newsletter senders as their own category (from all articles, not just current mode)
-    const allNewsletterSenders = [...new Set(state.articles.filter(a => a.source === "newsletter").map(a => a.feed_name))];
-    if (allNewsletterSenders.length > 0) {
-        categories["Newsletters"] = allNewsletterSenders.map(name => ({ name: name, url: "", _category: "Newsletters" }));
-    }
-
     let html = `<div class="drawer-feed-item all-feeds ${state.feedFilter === 'All Feeds' ? 'active' : ''}" data-feed="All Feeds">
         <span>All Feeds</span><span class="drawer-feed-count">${totalCount}</span></div>`;
 
-    // Newsletters at the top
-    if (categories["Newsletters"]) {
-        const nlFeeds = categories["Newsletters"];
-        const nlCount = nlFeeds.reduce((sum, f) => sum + (feedCounts[f.name] || 0), 0);
-        const isExpanded = state._expandedCategories?.["Newsletters"] === true;
-        const isCatActive = state.feedFilter === "category:Newsletters";
-        html += `<div class="drawer-category ${isCatActive ? 'active-cat' : ''}" data-category="Newsletters">
-            <span class="drawer-cat-toggle" data-cat-toggle="Newsletters">${isExpanded ? '▾' : '▸'}</span>
-            <span class="drawer-cat-name" data-cat-filter="Newsletters">Newsletters</span>
-            <span class="drawer-category-count">${nlCount}</span>
-        </div>`;
-        html += `<div class="drawer-category-feeds ${isExpanded ? '' : 'collapsed'}" data-cat-feeds="Newsletters">`;
-        for (const feed of nlFeeds) {
-            const count = feedCounts[feed.name] || 0;
-            const isActive = state.feedFilter === feed.name;
-            html += `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${feed.name}">
-                <span class="drawer-feed-name-text">${feed.name}</span>
-                <span class="drawer-feed-right">
-                    <span class="drawer-feed-count">${count}</span>
-                </span></div>`;
-        }
-        html += `</div>`;
-        delete categories["Newsletters"];
-    }
-
-    // Uncategorized feeds show inline (not under a category header)
+    // Uncategorized feeds (including all newsletters & saved links) show directly in the list
     const uncatKeys = Object.keys(categories).filter(k => 
         !k || k.toLowerCase() === "uncategorized" || k.toLowerCase() === "my feeds"
     );
@@ -1182,20 +1073,20 @@ function renderDrawerFeeds() {
     for (const feed of uncategorized) {
         const count = feedCounts[feed.name] || 0;
         const isActive = state.feedFilter === feed.name;
+        const canEdit = !feed._isVirtual && Boolean(feed.url);
         html += `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${feed.name}">
             <span class="drawer-feed-name-text">${feed.name}</span>
             <span class="drawer-feed-right">
-                <span class="drawer-feed-edit" data-edit-feed="${feed.name}" data-edit-cat="Uncategorized">⋯</span>
+                ${canEdit ? `<span class="drawer-feed-edit" data-edit-feed="${feed.name}" data-edit-cat="Uncategorized">⋯</span>` : ''}
                 <span class="drawer-feed-count">${count}</span>
             </span></div>`;
     }
 
     for (const [cat, feeds] of Object.entries(categories)) {
         const catCount = feeds.reduce((sum, f) => sum + (feedCounts[f.name] || 0), 0);
-        // Categories collapsed by default
         const isExpanded = state._expandedCategories?.[cat] === true;
-
         const isCatActive = state.feedFilter === "category:" + cat;
+
         html += `<div class="drawer-category ${isCatActive ? 'active-cat' : ''}" data-category="${cat}">
             <span class="drawer-cat-toggle" data-cat-toggle="${cat}">${isExpanded ? '▾' : '▸'}</span>
             <span class="drawer-cat-name" data-cat-filter="${cat}">${cat}</span>
@@ -1205,11 +1096,12 @@ function renderDrawerFeeds() {
         for (const feed of feeds) {
             const count = feedCounts[feed.name] || 0;
             const isActive = state.feedFilter === feed.name;
+            const canEdit = !feed._isVirtual && Boolean(feed.url);
             html += `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${feed.name}">
                 <span class="drawer-feed-name-text">${feed.name}</span>
                 <span class="drawer-feed-right">
                     <span class="drawer-feed-count">${count}</span>
-                    <span class="drawer-feed-edit" data-edit-feed="${feed.name}" data-edit-cat="${cat}">⋯</span>
+                    ${canEdit ? `<span class="drawer-feed-edit" data-edit-feed="${feed.name}" data-edit-cat="${cat}">⋯</span>` : ''}
                 </span></div>`;
         }
         html += `</div>`;
@@ -1222,7 +1114,6 @@ function renderDrawerFeeds() {
         item.addEventListener("click", () => {
             state.feedFilter = item.dataset.feed;
             closeDrawer();
-            updateFeedHeader();
             renderArticles();
         });
     });
@@ -1232,7 +1123,7 @@ function renderDrawerFeeds() {
             e.stopPropagation();
             const feedName = btn.dataset.editFeed;
             const currentCat = btn.dataset.editCat;
-            const categories = [...new Set(state.feeds.map(f => f._category || "My Feeds"))];
+            const categories = [...new Set(state.feeds.filter(f => !f._isVirtual).map(f => f._category || "Uncategorized"))];
 
             const action = prompt(
                 `${feedName}\n\nType:\n  "delete" to remove this feed\n  A category name to move it\n\nCurrent: ${currentCat}\nCategories: ${categories.join(", ")}`
@@ -1253,7 +1144,6 @@ function renderDrawerFeeds() {
         toggle.addEventListener("click", (e) => {
             e.stopPropagation();
             const catName = toggle.dataset.catToggle;
-            if (!state._expandedCategories) state._expandedCategories = {};
             const feeds = container.querySelector(`[data-cat-feeds="${catName}"]`);
             const isCollapsed = feeds.classList.contains("collapsed");
             feeds.classList.toggle("collapsed");
@@ -1267,25 +1157,24 @@ function renderDrawerFeeds() {
             e.stopPropagation();
             state.feedFilter = "category:" + name.dataset.catFilter;
             closeDrawer();
-            updateFeedHeader();
             renderArticles();
         });
     });
 }
 
-function updateFeedHeader() {
+function updateFeedHeader(countVal) {
     const title = document.getElementById("feed-title");
     const count = document.getElementById("feed-count");
-    const filtered = getFilteredArticles();
+    const total = typeof countVal === "number" ? countVal : getFilteredArticles().length;
 
-    let label = state.mode === "Bookmarks" ? "Saved" : state.mode === "AudioBin" ? "Audio" : state.mode;
+    let label = state.mode === "Bookmarks" ? "Saved" : state.mode;
     if (state.feedFilter.startsWith("category:")) {
         label = state.feedFilter.slice(9);
     } else if (state.feedFilter !== "All Feeds") {
         label = state.feedFilter;
     }
     title.textContent = label;
-    count.textContent = filtered.length;
+    count.textContent = total;
 }
 
 // Hamburger button
@@ -1307,7 +1196,6 @@ document.querySelectorAll(".drawer-mode").forEach(btn => {
         updateDrawerModes();
         renderDrawerFeeds();
         closeDrawer();
-        updateFeedHeader();
         renderArticles();
     });
 });
@@ -1316,7 +1204,6 @@ document.querySelectorAll(".drawer-mode").forEach(btn => {
 document.getElementById("drawer-clear-filter").addEventListener("click", () => {
     state.feedFilter = "All Feeds";
     closeDrawer();
-    updateFeedHeader();
     renderArticles();
 });
 
@@ -1327,7 +1214,6 @@ document.getElementById("font-size-slider").addEventListener("input", (e) => {
     try { localStorage.setItem("rss-font-size", size); } catch(e) {}
 });
 
-// Restore saved font size
 try {
     const savedSize = localStorage.getItem("rss-font-size");
     if (savedSize) {
@@ -1345,7 +1231,6 @@ document.getElementById("eink-toggle").addEventListener("click", () => {
     try { localStorage.setItem("rss-eink", isEink ? "1" : "0"); } catch(e) {}
 });
 
-// Restore e-ink preference
 try {
     if (localStorage.getItem("rss-eink") === "1") {
         document.body.classList.add("eink");
@@ -1373,7 +1258,6 @@ document.getElementById("drawer-mark-all").addEventListener("click", () => {
     db.ref("app_data/history").set(JSON.stringify([...state.history]));
     closeDrawer();
     renderArticles();
-    updateFeedHeader();
 });
 
 // Sync
@@ -1382,7 +1266,7 @@ document.getElementById("drawer-sync").addEventListener("click", () => {
     loadData();
 });
 
-// ── Add Feed ─────────────────────────────────────────────────────────────
+// ── Add / Manage Feeds ───────────────────────────────────────────────────
 
 async function manageFeed(action, feedName, newCategory, currentCategory) {
     try {
@@ -1408,9 +1292,8 @@ document.getElementById("add-feed-toggle").addEventListener("click", () => {
     const isHidden = form.classList.contains("hidden");
     form.classList.toggle("hidden");
     if (isHidden) {
-        // Populate category dropdown
         const select = document.getElementById("add-feed-category");
-        const categories = [...new Set(state.feeds.map(f => f._category || "My Feeds"))];
+        const categories = [...new Set(state.feeds.filter(f => !f._isVirtual).map(f => f._category || "Uncategorized"))];
         select.innerHTML = categories.map(c => `<option value="${c}">${c}</option>`).join("")
             + '<option value="__new__">+ New Category</option>';
         document.getElementById("add-feed-name").value = "";
@@ -1454,7 +1337,6 @@ document.getElementById("add-feed-submit").addEventListener("click", async () =>
             status.textContent = "Added! Syncing...";
             status.style.color = "#00A870";
             document.getElementById("add-feed-form").classList.add("hidden");
-            // Reload feeds
             setTimeout(() => loadData(), 1000);
         } else {
             status.textContent = "Error: " + text;
@@ -1465,13 +1347,6 @@ document.getElementById("add-feed-submit").addEventListener("click", async () =>
         status.style.color = "#ff4444";
     }
 });
-
-// Update header whenever articles render
-const _origRenderArticles = renderArticles;
-renderArticles = function() {
-    _origRenderArticles();
-    updateFeedHeader();
-};
 
 // ═══ SERVICE WORKER ══════════════════════════════════════════════════════
 

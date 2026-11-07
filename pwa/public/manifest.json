@@ -1,7 +1,7 @@
 {
     "name": "RSS Triage",
     "short_name": "RSS Triage",
-    "description": "Touch-friendly RSS reader with audio",
+    "description": "Touch-friendly newsletter and RSS reader",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#050505",

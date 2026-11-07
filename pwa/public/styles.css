@@ -225,7 +225,6 @@ body {
 }
 
 /* Action buttons */
-.drawer-actions { display: flex; gap: 0.5rem; padding: 1rem 1.25rem; }
 .drawer-action-btn {
     flex: 1;
     background: #1a1a1a;
@@ -349,11 +348,6 @@ body {
 .action-btn:active { background: #222; border-color: #555; }
 .action-btn.active-action { border-color: #D94A00; background: #1a0a00; }
 
-.reader-meta { padding: 1.5rem 1.25rem 0; display: flex; gap: 0.75rem; align-items: center; }
-.reader-feed-name { font-size: 0.7rem; font-weight: 700; color: #D94A00; text-transform: uppercase; letter-spacing: 0.08em; }
-.reader-date { font-size: 0.65rem; font-weight: 700; color: #9C8B5E; text-transform: uppercase; letter-spacing: 0.06em; }
-.reader-title { font-size: 1.5rem; font-weight: 700; color: #A3A3A3; line-height: 1.3; padding: 0.75rem 1.25rem 0; }
-.reader-author { font-size: 0.85rem; color: #7A7A7A; padding: 0.4rem 1.25rem 0; }
 .reader-body {
     flex: 1;
     overflow: hidden;
@@ -363,29 +357,66 @@ body {
 }
 
 .reader-pages {
-    box-sizing: border-box; /* Crucial for keeping bottom padding within JS-calculated bounds */
+    box-sizing: border-box;
     column-fill: auto;
     font-size: var(--reader-font-size, 1.2rem);
     line-height: 1.8;
     color: #7A7A7A;
-    padding: 2.5rem 0 6rem; /* Substantially increased bottom padding */
+    padding: 2.5rem 0 6rem;
 }
 
 /* ═══ Anti-Drift & Layout Protection ═══ */
 .reader-pages * {
     overflow-wrap: break-word !important;
     word-wrap: break-word !important;
+    box-sizing: border-box !important;
+}
+
+.reader-pages *:not(#fetch-full-btn) {
+    background: transparent !important;
+    background-color: transparent !important;
 }
 
 .reader-pages p,
-.reader-pages div:not(.article-header-title):not(.article-header-meta):not(.article-header-author),
+.reader-pages div:not(.article-header-title):not(.article-header-meta):not(.article-header-author):not(.article-header-divider),
 .reader-pages blockquote,
 .reader-pages pre,
 .reader-pages section,
+.reader-pages article,
 .reader-pages header,
-.reader-pages footer,
-.reader-pages table {
+.reader-pages footer {
     max-width: 100% !important;
+    width: auto !important;
+}
+
+.reader-pages blockquote {
+    border-left: 3px solid #D94A00 !important;
+    padding-left: 1rem !important;
+    margin: 1.2em 0 !important;
+    font-style: italic;
+}
+
+.reader-pages ul,
+.reader-pages ol {
+    padding-left: 1.5rem !important;
+    margin-bottom: 1em !important;
+}
+
+.fetch-btn-wrapper {
+    text-align: center;
+    margin: 3rem 0 2rem;
+}
+#fetch-full-btn {
+    background: #1a1a1a !important;
+    color: #D94A00 !important;
+    border: 1px solid #333 !important;
+    padding: 0.8rem 2rem !important;
+    border-radius: 0.5rem !important;
+    font-size: 0.95rem !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.08em !important;
+    cursor: pointer !important;
 }
 
 /* ═══ Image & Caption Overlap Fixes ═══ */
@@ -394,8 +425,8 @@ body {
 .reader-pages video, 
 .reader-pages iframe { 
     display: block !important;
-    position: static !important; /* Strips absolute positioning that causes text overlap */
-    clear: both !important;      /* Clears any embedded floats */
+    position: static !important;
+    clear: both !important;
     max-width: 100% !important; 
     height: auto !important;
     border-radius: 0.5rem; 
@@ -432,7 +463,7 @@ body {
 /* ═══ Newsletter Inline Style Overrides ═══ */
 .reader-pages p,
 .reader-pages span,
-.reader-pages div:not(.article-header-title):not(.article-header-meta):not(.article-header-author),
+.reader-pages div:not(.article-header-title):not(.article-header-meta):not(.article-header-author):not(.article-header-divider),
 .reader-pages li {
     color: #B3B3B3 !important;
     font-size: var(--reader-font-size, 1.2rem) !important;
@@ -478,27 +509,33 @@ body {
     }
     .feed-header { position: sticky; }
 }
+
 .reader-pages .article-header-title {
-    font-size: 1.6rem;
-    font-weight: 700;
-    color: #A3A3A3;
-    line-height: 1.3;
-    margin-bottom: 0.3rem;
+    font-size: 1.6rem !important;
+    font-weight: 700 !important;
+    color: #A3A3A3 !important;
+    line-height: 1.3 !important;
+    margin-bottom: 0.3rem !important;
 }
 .reader-pages .article-header-meta {
-    font-size: 0.7rem;
-    font-weight: 700;
-    color: #D94A00;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    margin-bottom: 0.2rem;
+    font-size: 0.7rem !important;
+    font-weight: 700 !important;
+    color: #D94A00 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.08em !important;
+    margin-bottom: 0.2rem !important;
 }
 .reader-pages .article-header-author {
-    font-size: 0.9rem;
-    color: #7A7A7A;
-    margin-bottom: 1.5rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid #1a1a1a;
+    font-size: 0.9rem !important;
+    color: #7A7A7A !important;
+    margin-bottom: 1.5rem !important;
+    padding-bottom: 1rem !important;
+    border-bottom: 1px solid #1a1a1a !important;
+}
+.reader-pages .article-header-divider {
+    margin-bottom: 1.5rem !important;
+    padding-bottom: 1rem !important;
+    border-bottom: 1px solid #1a1a1a !important;
 }
 .reader-pages a { color: #D94A00 !important; text-decoration: none !important; }
 
@@ -528,20 +565,6 @@ body {
     transition: width 0.3s ease;
 }
 
-/* ═══ Audio Bin ═══ */
-.audio-card {
-    padding: 1rem 1.25rem;
-    border-bottom: 1px solid #111;
-}
-.audio-card-title { font-size: 0.95rem; font-weight: 600; color: #A3A3A3; }
-.audio-card-feed { font-size: 0.65rem; font-weight: 700; color: #D94A00; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.3rem; }
-.audio-card audio { width: 100%; margin-top: 0.75rem; height: 2.5rem; border-radius: 0.5rem; }
-.audio-card-status { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; margin-top: 0.5rem; }
-.audio-card-status.generating { color: #D94A00; }
-.audio-card-status.pending { color: #5A5F67; }
-.audio-card-status.error { color: #ff4444; }
-
-
 /* ═══ E-ink Mode ═══ */
 body.eink {
     background: #f5f5f0;
@@ -556,18 +579,19 @@ body.eink {
 .eink .reader-pages, .eink .reader-body { color: #222; }
 .eink .reader-pages p,
 .eink .reader-pages span,
-.eink .reader-pages div:not(.article-header-title):not(.article-header-meta):not(.article-header-author),
+.eink .reader-pages div:not(.article-header-title):not(.article-header-meta):not(.article-header-author):not(.article-header-divider),
 .eink .reader-pages li {
     color: #222 !important;
 }
 .eink .reader-pages a { color: #1a5276 !important; }
+.eink .reader-pages blockquote { border-left-color: #555 !important; }
 .eink .reader-pages h1,
 .eink .reader-pages h2,
 .eink .reader-pages h3,
 .eink .reader-pages h4 { color: #333 !important; }
-.eink .article-header-title { color: #111; }
-.eink .article-header-meta { color: #555; }
-.eink .article-header-author { color: #444; border-color: #ccc; }
+.eink .article-header-title { color: #111 !important; }
+.eink .article-header-meta { color: #555 !important; }
+.eink .article-header-author, .eink .article-header-divider { color: #444 !important; border-color: #ccc !important; }
 .eink .drawer-feed-item { color: #333; }
 .eink .drawer-feed-item.active { color: #111; background: #ddd; }
 .eink .drawer-mode { background: #ddd; border-color: #bbb; color: #555; }
@@ -580,20 +604,3 @@ body.eink {
 .eink .empty-state { color: #888; }
 .eink .drawer-action-btn { background: #ddd; border-color: #bbb; color: #333; }
 .eink .drawer-input { background: #fff; border-color: #bbb; color: #222; }
-
-/* ═══ Substack Inline Override Hard-Lock ═══ */
-.reader-pages img, 
-.reader-pages table, 
-.reader-pages div {
-    max-width: 100% !important;
-    height: auto !important;
-    box-sizing: border-box !important;
-}
-
-/* Force stubborn email tables to fit the screen */
-.reader-pages table {
-    width: 100% !important;
-    table-layout: fixed !important;
-    overflow-wrap: anywhere !important;
-    word-break: break-word !important;
-}

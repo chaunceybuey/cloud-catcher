@@ -1,4 +1,4 @@
-const CACHE_NAME = "rss-triage-v41";
+const CACHE_NAME = "rss-triage-v43";
 const ASSETS = ["/", "/index.html", "/styles.css", "/app.js", "/manifest.json"];
 
 self.addEventListener("install", (event) => {
@@ -23,19 +23,20 @@ self.addEventListener("fetch", (event) => {
 
     // Skip non-GET and external API calls
     if (event.request.method !== "GET") return;
-    if (url.hostname.includes("github") || url.hostname.includes("firebase") || url.hostname.includes("googleapis")) return;
+    if (
+        url.hostname.includes("github") ||
+        url.hostname.includes("firebase") ||
+        url.hostname.includes("googleapis") ||
+        url.hostname.includes("script.google.com")
+    ) return;
 
     event.respondWith(
         fetch(event.request)
             .then(response => {
-                // Cache the fresh response for offline use
                 const clone = response.clone();
                 caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
                 return response;
             })
-            .catch(() => {
-                // Offline — serve from cache
-                return caches.match(event.request);
-            })
+            .catch(() => caches.match(event.request))
     );
 });
