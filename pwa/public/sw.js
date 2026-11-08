@@ -1,4 +1,4 @@
-const CACHE_NAME = "rss-triage-v46";
+const CACHE_NAME = "rss-triage-v48";
 const ASSETS = ["./", "./index.html", "./styles.css", "./app.js", "./manifest.json"];
 
 self.addEventListener("install", (event) => {

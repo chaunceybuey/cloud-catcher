@@ -47,7 +47,10 @@
         <div class="drawer-section drawer-feeds-section">
             <div class="drawer-section-header">
                 <span class="drawer-section-label">Feeds</span>
-                <button id="drawer-clear-filter" class="drawer-clear-btn">Clear</button>
+                <span class="drawer-header-actions">
+                    <button id="drawer-reorder" class="drawer-clear-btn" title="Change the order of feeds">Reorder</button>
+                    <button id="drawer-clear-filter" class="drawer-clear-btn" title="Mark the highlighted feed as read">Clear</button>
+                </span>
             </div>
             <div id="drawer-feeds" class="drawer-feed-list">
                 <!-- Rendered by JS -->
@@ -86,6 +89,7 @@
                     </div>
                     <div id="add-feed-status" style="font-size:0.7rem;margin-top:0.4rem;"></div>
                 </div>
+                <button id="drawer-unhide" class="drawer-action-btn" style="width:100%;margin-top:0.5rem;">Unhide Feeds</button>
                 <div style="margin-top:0.75rem;">
                     <span class="drawer-section-label">Add Article</span>
                     <div class="drawer-paste-row">

@@ -33,7 +33,9 @@ const PROXY_URL = "https://script.google.com/macros/s/AKfycbw2U9jgVSwbRSHicSuxYe
 let state = {
     articles: [],
     feeds: [],
-    feedOrder: [],
+    feedOrder: [],          // sidebar order: keys like "feed:Name" / "cat:Name"
+    hiddenFeeds: new Set(), // newsletter senders the user chose to hide
+    reorderMode: false,
     history: new Set(),
     bookmarks: {},
     mode: "Unread",
@@ -161,6 +163,15 @@ function parseJsonSafe(str, fallback) {
     try { return JSON.parse(str); } catch(e) { return fallback; }
 }
 
+// Saves used to fail silently (console only), which looks like "it doesn't
+// stick" after a reload. Show the reason on screen instead.
+function reportSaveError(what, err) {
+    console.error(`Saving ${what} failed:`, err);
+    const reason = err?.code || err?.message || String(err);
+    const hint = /permission/i.test(reason) ? " — check the Realtime Database rules" : "";
+    showToast(`Couldn't save ${what} (${reason})${hint}`, 6000);
+}
+
 function addToHistory(ids) {
     const list = [...ids].map(String);
     list.forEach(id => state.history.add(id));
@@ -168,7 +179,7 @@ function addToHistory(ids) {
         const merged = new Set(parseJsonSafe(current, []).map(String));
         list.forEach(id => merged.add(id));
         return JSON.stringify([...merged]);
-    }).catch(err => console.error("History save failed:", err));
+    }).catch(err => reportSaveError("read/archived state", err));
 }
 
 function setBookmark(id, on) {
@@ -180,7 +191,7 @@ function setBookmark(id, on) {
         if (on) bms[id] = bms[id] ?? 0;
         else delete bms[id];
         return JSON.stringify(bms);
-    }).catch(err => console.error("Bookmark save failed:", err));
+    }).catch(err => reportSaveError("saved articles", err));
 }
 
 // ═══ ARTICLE EXTRACTION ══════════════════════════════════════════════════
@@ -428,13 +439,16 @@ async function loadData() {
             }
         });
 
-        const [histSnap, bmSnap] = await Promise.all([
+        const [histSnap, bmSnap, hiddenSnap] = await Promise.all([
             db.ref("app_data/history").once("value"),
             db.ref("app_data/bookmarks").once("value"),
+            db.ref("app_data/hidden_feeds").once("value").catch(() => null),
         ]);
 
         if (histSnap.val()) state.history = new Set(parseJsonSafe(histSnap.val(), []).map(String));
         if (bmSnap.val()) state.bookmarks = parseJsonSafe(bmSnap.val(), {}) || {};
+        state.hiddenFeeds = new Set(hiddenSnap?.val() ? parseJsonSafe(hiddenSnap.val(), []) : []);
+        normalizeFeedOrder();
 
         db.ref("app_data/history").off();
         db.ref("app_data/history").on("value", snap => {
@@ -462,7 +476,7 @@ async function loadData() {
 function getBaseArticlesForMode() {
     const activeFeedNames = new Set(state.feeds.map(f => f.name));
     const isSpecial = (a) => a.source === "newsletter" || a.source === "manual" || a.source === "mobile_catch";
-    const includeArticle = (a) => activeFeedNames.has(a.feed_name) || isSpecial(a);
+    const includeArticle = (a) => !state.hiddenFeeds.has(a.feed_name) && (activeFeedNames.has(a.feed_name) || isSpecial(a));
 
     if (state.mode === "Unread") {
         return state.articles.filter(a => !state.history.has(a.id) && includeArticle(a));
@@ -914,12 +928,12 @@ function bookmarkArticle(articleId) {
     setBookmark(articleId, true);
 }
 
-function showToast(message) {
+function showToast(message, duration = 2500) {
     const toast = document.createElement("div");
-    toast.style.cssText = "position:fixed;bottom:2rem;left:50%;transform:translateX(-50%);background:#E5E7EB;color:#0a0a0a;padding:0.6rem 1.2rem;border-radius:0.5rem;font-size:0.85rem;font-weight:700;z-index:200;transition:opacity 0.3s;";
+    toast.style.cssText = "position:fixed;bottom:2rem;left:50%;transform:translateX(-50%);background:#E5E7EB;color:#0a0a0a;padding:0.6rem 1.2rem;border-radius:0.5rem;font-size:0.85rem;font-weight:700;z-index:1000;max-width:90vw;text-align:center;transition:opacity 0.3s;";
     toast.textContent = message;
     document.body.appendChild(toast);
-    setTimeout(() => { toast.style.opacity = "0"; setTimeout(() => toast.remove(), 300); }, 2500);
+    setTimeout(() => { toast.style.opacity = "0"; setTimeout(() => toast.remove(), 300); }, duration);
 }
 
 // ═══ NAVIGATION ══════════════════════════════════════════════════════════
@@ -1212,6 +1226,7 @@ function closeDrawer() {
         renderDrawerFeeds();
         return;
     }
+    state.reorderMode = false;
     const drawer = document.getElementById("drawer");
     const overlay = document.getElementById("drawer-overlay");
     drawer?.classList.remove("open");
@@ -1228,6 +1243,110 @@ function updateDrawerModes() {
     });
 }
 
+// ── Sidebar order ───────────────────────────────────────────────────────
+// state.feedOrder is a list of keys ("feed:<name>" or "cat:<name>").
+// Anything not in the list keeps its original position, after the ordered ones.
+
+const feedKey = name => "feed:" + name;
+const catKey = name => "cat:" + name;
+
+function normalizeFeedOrder() {
+    // Older saved orders may be plain names — map them to prefixed keys
+    const cats = new Set(state.feeds.map(f => f._category || "Uncategorized"));
+    state.feedOrder = (Array.isArray(state.feedOrder) ? state.feedOrder : [])
+        .filter(k => typeof k === "string")
+        .map(k => (k.startsWith("feed:") || k.startsWith("cat:")) ? k : (cats.has(k) ? catKey(k) : feedKey(k)));
+}
+
+function sortByOrder(items, keyOf) {
+    const rank = key => { const i = state.feedOrder.indexOf(key); return i === -1 ? Infinity : i; };
+    return items
+        .map((item, i) => ({ item, i }))
+        .sort((a, b) => (rank(keyOf(a.item)) - rank(keyOf(b.item))) || (a.i - b.i))
+        .map(x => x.item);
+}
+
+function isUncategorized(cat) {
+    return !cat || cat.toLowerCase() === "uncategorized" || cat.toLowerCase() === "my feeds";
+}
+
+// The sidebar as an ordered tree: top-level entries are loose feeds and
+// categories (which can be interleaved); categories hold their own feeds.
+function buildSidebarModel() {
+    const categories = {};
+    const loose = [];
+    state.feeds.forEach(f => {
+        if (state.hiddenFeeds.has(f.name)) return;
+        const cat = f._category || "Uncategorized";
+        if (isUncategorized(cat)) {
+            if (!loose.some(x => x.name === f.name)) loose.push(f);
+        } else {
+            (categories[cat] = categories[cat] || []).push(f);
+        }
+    });
+
+    const top = [
+        ...loose.map(feed => ({ type: "feed", key: feedKey(feed.name), feed })),
+        ...Object.entries(categories).map(([name, feeds]) => ({
+            type: "cat", key: catKey(name), name,
+            feeds: sortByOrder(feeds, f => feedKey(f.name))
+        }))
+    ];
+    return sortByOrder(top, x => x.key);
+}
+
+function flattenSidebarModel(model) {
+    const keys = [];
+    model.forEach(entry => {
+        keys.push(entry.key);
+        if (entry.type === "cat") entry.feeds.forEach(f => keys.push(feedKey(f.name)));
+    });
+    return keys;
+}
+
+function moveSidebarItem(key, dir) {
+    const model = buildSidebarModel();
+    const swap = (list, keyOf) => {
+        const i = list.findIndex(x => keyOf(x) === key);
+        if (i === -1) return false;
+        const j = i + dir;
+        if (j < 0 || j >= list.length) return true; // already at the edge
+        [list[i], list[j]] = [list[j], list[i]];
+        return true;
+    };
+    if (!swap(model, x => x.key)) {
+        model.filter(e => e.type === "cat").some(cat => swap(cat.feeds, f => feedKey(f.name)));
+    }
+    state.feedOrder = flattenSidebarModel(model);
+    state._orderSave = db.ref("app_data/feed_order").set(JSON.stringify(state.feedOrder))
+        .then(() => true)
+        .catch(err => { reportSaveError("feed order", err); return false; });
+    renderDrawerFeeds();
+}
+
+function hideFeed(name) {
+    state.hiddenFeeds.add(name);
+    if (state.feedFilter === name) state.feedFilter = "All Feeds";
+    db.ref("app_data/hidden_feeds").transaction(current => {
+        const list = new Set(parseJsonSafe(current, []) || []);
+        list.add(name);
+        return JSON.stringify([...list]);
+    }).catch(err => reportSaveError("hidden feeds", err));
+    renderDrawerFeeds();
+    renderArticles();
+}
+
+function unhideFeed(name) {
+    state.hiddenFeeds.delete(name);
+    db.ref("app_data/hidden_feeds").transaction(current => {
+        const list = new Set(parseJsonSafe(current, []) || []);
+        list.delete(name);
+        return JSON.stringify([...list]);
+    }).catch(err => reportSaveError("hidden feeds", err));
+    renderDrawerFeeds();
+    renderArticles();
+}
+
 function renderDrawerFeeds() {
     const container = document.getElementById("drawer-feeds");
     if (!container) return;
@@ -1240,69 +1359,78 @@ function renderDrawerFeeds() {
     });
 
     const base = getBaseArticlesForMode();
-
     const feedCounts = {};
     base.forEach(a => { feedCounts[a.feed_name] = (feedCounts[a.feed_name] || 0) + 1; });
-    const totalCount = base.length;
 
-    const categories = {};
-    state.feeds.forEach(f => {
-        const cat = f._category || "Uncategorized";
-        if (!categories[cat]) categories[cat] = [];
-        categories[cat].push(f);
-    });
+    const reorder = state.reorderMode;
+    container.classList.toggle("reordering", reorder);
 
-    let html = `<div class="drawer-feed-item all-feeds ${state.feedFilter === 'All Feeds' ? 'active' : ''}" data-feed="All Feeds">
-        <span>All Feeds</span><span class="drawer-feed-count">${totalCount}</span></div>`;
+    const arrows = key => `<span class="drawer-move-group">
+            <span class="drawer-move" data-move="${escapeAttr(key)}" data-dir="-1" title="Move up">▲</span>
+            <span class="drawer-move" data-move="${escapeAttr(key)}" data-dir="1" title="Move down">▼</span>
+        </span>`;
 
-    const uncatKeys = Object.keys(categories).filter(k => 
-        !k || k.toLowerCase() === "uncategorized" || k.toLowerCase() === "my feeds"
-    );
-    const uncategorized = uncatKeys.flatMap(k => categories[k] || []);
-    uncatKeys.forEach(k => delete categories[k]);
-    
-    for (const feed of uncategorized) {
+    const feedRow = (feed, cat) => {
         const count = feedCounts[feed.name] || 0;
         const isActive = state.feedFilter === feed.name;
-        const canEdit = !feed._isVirtual && Boolean(feed.url);
-        html += `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${escapeAttr(feed.name)}">
+        const isVirtual = feed._isVirtual || !feed.url;
+        const right = reorder
+            ? arrows(feedKey(feed.name))
+            : `<span class="drawer-feed-edit" data-edit-feed="${escapeAttr(feed.name)}" data-edit-cat="${escapeAttr(cat)}" data-virtual="${isVirtual ? 1 : 0}">⋯</span>
+               <span class="drawer-feed-count">${count}</span>`;
+        return `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${escapeAttr(feed.name)}">
             <span class="drawer-feed-name-text">${escapeHtml(feed.name)}</span>
-            <span class="drawer-feed-right">
-                ${canEdit ? `<span class="drawer-feed-edit" data-edit-feed="${escapeAttr(feed.name)}" data-edit-cat="Uncategorized">⋯</span>` : ''}
-                <span class="drawer-feed-count">${count}</span>
-            </span></div>`;
-    }
+            <span class="drawer-feed-right">${right}</span></div>`;
+    };
 
-    for (const [cat, feeds] of Object.entries(categories)) {
-        const catCount = feeds.reduce((sum, f) => sum + (feedCounts[f.name] || 0), 0);
+    let html = reorder
+        ? `<div class="drawer-reorder-hint">Use ▲▼ to move feeds and categories (empty ones are shown here too). Open a category to reorder the feeds inside it.</div>`
+        : `<div class="drawer-feed-item all-feeds ${state.feedFilter === 'All Feeds' ? 'active' : ''}" data-feed="All Feeds">
+            <span>All Feeds</span><span class="drawer-feed-count">${base.length}</span></div>`;
+
+    // Outside reorder mode, feeds with nothing in the current view are hidden
+    // (the highlighted one always stays visible). Reorder mode shows everything.
+    const showFeed = feed => reorder || (feedCounts[feed.name] || 0) > 0 || state.feedFilter === feed.name;
+
+    for (const entry of buildSidebarModel()) {
+        if (entry.type === "feed") {
+            if (showFeed(entry.feed)) html += feedRow(entry.feed, "Uncategorized");
+            continue;
+        }
+        const cat = entry.name;
+        const catAttr = escapeAttr(cat);
+        const catCount = entry.feeds.reduce((sum, f) => sum + (feedCounts[f.name] || 0), 0);
         const isExpanded = state._expandedCategories?.[cat] === true;
         const isCatActive = state.feedFilter === "category:" + cat;
+        const visibleFeeds = entry.feeds.filter(showFeed);
+        if (!reorder && !isCatActive && visibleFeeds.length === 0) continue;
 
-        const catAttr = escapeAttr(cat);
         html += `<div class="drawer-category ${isCatActive ? 'active-cat' : ''}" data-category="${catAttr}">
             <span class="drawer-cat-toggle" data-cat-toggle="${catAttr}">${isExpanded ? '▾' : '▸'}</span>
             <span class="drawer-cat-name" data-cat-filter="${catAttr}">${escapeHtml(cat)}</span>
-            <span class="drawer-category-count">${catCount}</span>
+            ${reorder ? arrows(entry.key) : `<span class="drawer-category-count">${catCount}</span>`}
         </div>`;
         html += `<div class="drawer-category-feeds ${isExpanded ? '' : 'collapsed'}" data-cat-feeds="${catAttr}">`;
-        for (const feed of feeds) {
-            const count = feedCounts[feed.name] || 0;
-            const isActive = state.feedFilter === feed.name;
-            const canEdit = !feed._isVirtual && Boolean(feed.url);
-            html += `<div class="drawer-feed-item ${isActive ? 'active' : ''}" data-feed="${escapeAttr(feed.name)}">
-                <span class="drawer-feed-name-text">${escapeHtml(feed.name)}</span>
-                <span class="drawer-feed-right">
-                    <span class="drawer-feed-count">${count}</span>
-                    ${canEdit ? `<span class="drawer-feed-edit" data-edit-feed="${escapeAttr(feed.name)}" data-edit-cat="${catAttr}">⋯</span>` : ''}
-                </span></div>`;
-        }
+        visibleFeeds.forEach(feed => { html += feedRow(feed, cat); });
         html += `</div>`;
     }
 
     container.innerHTML = html;
 
+    // Reorder toggle label
+    const reorderBtn = document.getElementById("drawer-reorder");
+    if (reorderBtn) reorderBtn.textContent = reorder ? "Done" : "Reorder";
+
+    container.querySelectorAll(".drawer-move").forEach(btn => {
+        btn.addEventListener("click", (e) => {
+            e.stopPropagation();
+            moveSidebarItem(btn.dataset.move, parseInt(btn.dataset.dir, 10));
+        });
+    });
+
     container.querySelectorAll(".drawer-feed-item").forEach(item => {
         item.addEventListener("click", () => {
+            if (state.reorderMode) return;
             state.feedFilter = item.dataset.feed;
             closeDrawer();
             renderArticles();
@@ -1314,8 +1442,17 @@ function renderDrawerFeeds() {
             e.stopPropagation();
             const feedName = btn.dataset.editFeed;
             const currentCat = btn.dataset.editCat;
-            const categories = [...new Set(state.feeds.filter(f => !f._isVirtual).map(f => f._category || "Uncategorized"))];
 
+            // Newsletter senders and other virtual feeds aren't in feeds.json,
+            // so "removing" them means hiding them in the app.
+            if (btn.dataset.virtual === "1") {
+                if (confirm(`Hide "${feedName}"?\n\nIts items will no longer appear anywhere in the app, including future emails from this sender. You can bring it back under Settings → Unhide Feeds.`)) {
+                    hideFeed(feedName);
+                }
+                return;
+            }
+
+            const categories = [...new Set(state.feeds.filter(f => !f._isVirtual).map(f => f._category || "Uncategorized"))];
             const action = prompt(
                 `${feedName}\n\nType:\n  "delete" to remove this feed\n  A category name to move it\n\nCurrent: ${currentCat}\nCategories: ${categories.join(", ")}`
             );
@@ -1347,11 +1484,18 @@ function renderDrawerFeeds() {
     container.querySelectorAll(".drawer-cat-name").forEach(name => {
         name.addEventListener("click", (e) => {
             e.stopPropagation();
+            if (state.reorderMode) return;
             state.feedFilter = "category:" + name.dataset.catFilter;
             closeDrawer();
             renderArticles();
         });
     });
+}
+
+function currentFilterLabel() {
+    if (state.feedFilter.startsWith("category:")) return state.feedFilter.slice(9);
+    if (state.feedFilter !== "All Feeds") return state.feedFilter;
+    return state.mode === "Bookmarks" ? "Saved" : state.mode;
 }
 
 function updateFeedHeader(countVal) {
@@ -1360,13 +1504,7 @@ function updateFeedHeader(countVal) {
     if (!title || !count) return;
     const total = typeof countVal === "number" ? countVal : getFilteredArticles().length;
 
-    let label = state.mode === "Bookmarks" ? "Saved" : state.mode;
-    if (state.feedFilter.startsWith("category:")) {
-        label = state.feedFilter.slice(9);
-    } else if (state.feedFilter !== "All Feeds") {
-        label = state.feedFilter;
-    }
-    title.textContent = label;
+    title.textContent = currentFilterLabel();
     count.textContent = total;
 }
 
@@ -1391,10 +1529,53 @@ document.querySelectorAll(".drawer-mode").forEach(btn => {
     });
 });
 
+// Clear: mark everything unread in the highlighted feed / category as read.
+// (With "All Feeds" highlighted, that's everything — the dialog says so.)
 document.getElementById("drawer-clear-filter")?.addEventListener("click", () => {
-    state.feedFilter = "All Feeds";
-    closeDrawer();
+    if (state.mode !== "Unread") {
+        // Nothing to mark read in Saved / Archive — just reset the filter
+        state.feedFilter = "All Feeds";
+        renderDrawerFeeds();
+        renderArticles();
+        return;
+    }
+    const items = getFilteredArticles();
+    const label = state.feedFilter === "All Feeds" ? "ALL feeds" : `"${currentFilterLabel()}"`;
+    if (items.length === 0) {
+        showToast(`Nothing unread in ${label}`);
+        return;
+    }
+    const n = items.length;
+    if (!confirm(`Mark ${n} unread article${n > 1 ? "s" : ""} in ${label} as read?`)) return;
+    addToHistory(items.map(a => a.id));
+    renderDrawerFeeds();
     renderArticles();
+    showToast(`${n} article${n > 1 ? "s" : ""} marked as read`);
+});
+
+document.getElementById("drawer-reorder")?.addEventListener("click", async () => {
+    const leaving = state.reorderMode;
+    state.reorderMode = !state.reorderMode;
+    renderDrawerFeeds();
+    // Confirm the order actually reached Firebase when leaving reorder mode
+    if (leaving && state._orderSave) {
+        const saved = await state._orderSave;
+        state._orderSave = null;
+        if (saved) showToast("Order saved");
+    }
+});
+
+document.getElementById("drawer-unhide")?.addEventListener("click", () => {
+    const hidden = [...state.hiddenFeeds].sort();
+    if (hidden.length === 0) {
+        alert("No hidden feeds.");
+        return;
+    }
+    const answer = prompt(
+        `Hidden feeds:\n\n${hidden.map((n, i) => `${i + 1}. ${n}`).join("\n")}\n\nType a number to unhide it:`
+    );
+    const idx = parseInt(answer, 10) - 1;
+    if (!isNaN(idx) && hidden[idx]) unhideFeed(hidden[idx]);
 });
 
 document.getElementById("font-size-slider")?.addEventListener("input", (e) => {
@@ -1440,16 +1621,6 @@ document.getElementById("settings-toggle")?.addEventListener("click", () => {
         const isHidden = content.classList.toggle("hidden");
         label.textContent = isHidden ? "▸ Settings" : "▾ Settings";
     }
-});
-
-document.getElementById("drawer-mark-all")?.addEventListener("click", () => {
-    if (state.mode !== "Unread") return;
-    const filtered = getFilteredArticles();
-    if (filtered.length === 0) return;
-    if (!confirm(`Archive ${filtered.length} articles?`)) return;
-    addToHistory(filtered.map(a => a.id));
-    closeDrawer();
-    renderArticles();
 });
 
 document.getElementById("drawer-sync")?.addEventListener("click", () => {
