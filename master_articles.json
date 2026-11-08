@@ -210,6 +210,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/08/dining/this-recipe-is-amazing.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "\u2018This Recipe Is Amazing\u2019",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/11/08/dining/this-recipe-is-amazing.html",
+    "content": "That was me, to my editor, about this stir-fried cabbage and pork in fish sauce butter.",
+    "date": "2026-11-08T14:00:05",
+    "category": "Uncategorized"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23978-southwestern-university-dvorak-and-friends",
     "feed_name": "KMFA",
     "title": "Southwestern University: Dvorak and Friends",
@@ -19987,16 +19997,6 @@
     "link": "https://www.theatlantic.com/ideas/2026/09/college-sports-defense-football/688708/",
     "content": "The accomplishments of athletes are every bit as impressive and legitimate as those of dancers, debaters, and oboists.",
     "date": "2026-09-19T12:00:00",
-    "category": "Magazines"
-  },
-  {
-    "id": "ed962481afefee3502d2d973a3320c56",
-    "feed_name": "The Atlantic",
-    "title": "The Data-Center Debate Is Divorced From the Facts",
-    "author": "Andy Masley",
-    "link": "https://www.theatlantic.com/ideas/2026/09/data-center-facts-effects/688670/",
-    "content": "All those scary numbers aren\u2019t what they seem.",
-    "date": "2026-09-19T11:00:00",
     "category": "Magazines"
   }
 ]
