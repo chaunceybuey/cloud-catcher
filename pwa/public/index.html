@@ -71,6 +71,25 @@
                         <span class="drawer-slider-label" style="font-size:1.3em;">A</span>
                     </div>
                 </div>
+                <div class="drawer-setting">
+                    <span class="drawer-section-label">Text Brightness</span>
+                    <div class="drawer-slider-row">
+                        <span class="drawer-slider-label small">Dim</span>
+                        <input type="range" id="brightness-slider" min="110" max="225" step="5" value="168" class="drawer-slider">
+                        <span class="drawer-slider-label small">Bright</span>
+                    </div>
+                </div>
+                <div class="drawer-setting">
+                    <div class="drawer-setting-head">
+                        <span class="drawer-section-label">Margins</span>
+                        <span id="margin-auto" class="eink-pill active" title="Use the default margins for this screen size">Auto</span>
+                    </div>
+                    <div class="drawer-slider-row">
+                        <span class="drawer-slider-label small">Narrow</span>
+                        <input type="range" id="margin-slider" min="0" max="30" step="1" value="8" class="drawer-slider">
+                        <span class="drawer-slider-label small">Wide</span>
+                    </div>
+                </div>
                 <div style="margin-top:0.75rem;display:flex;align-items:center;justify-content:space-between;">
                     <span class="drawer-section-label">E-ink</span>
                     <span id="eink-toggle" class="eink-pill">Off</span>

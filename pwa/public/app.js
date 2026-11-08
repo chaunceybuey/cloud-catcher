@@ -1578,20 +1578,90 @@ document.getElementById("drawer-unhide")?.addEventListener("click", () => {
     if (!isNaN(idx) && hidden[idx]) unhideFeed(hidden[idx]);
 });
 
+// ── Reading settings (saved per device in this browser) ─────────────────
+
+// Re-flow the open article after a size or margin change so pages fit again
+let _relayoutTimer = null;
+function relayoutReader() {
+    if (!state.currentHtml) return;
+    if (document.getElementById("reader-screen")?.classList.contains("hidden")) return;
+    clearTimeout(_relayoutTimer);
+    _relayoutTimer = setTimeout(() => setupPagination(state.currentHtml), 250);
+}
+
+function saveSetting(key, value) {
+    try {
+        if (value === null) localStorage.removeItem(key);
+        else localStorage.setItem(key, value);
+    } catch(e) {}
+}
+
+function loadSetting(key) {
+    try { return localStorage.getItem(key); } catch(e) { return null; }
+}
+
+const rootStyle = document.documentElement.style;
+
+// Text size
+function applyFontSize(size) {
+    rootStyle.setProperty("--reader-font-size", size + "px");
+}
 document.getElementById("font-size-slider")?.addEventListener("input", (e) => {
-    const size = e.target.value;
-    document.documentElement.style.setProperty("--reader-font-size", size + "px");
-    try { localStorage.setItem("rss-font-size", size); } catch(e) {}
+    applyFontSize(e.target.value);
+    saveSetting("rss-font-size", e.target.value);
+    relayoutReader();
 });
 
-try {
-    const savedSize = localStorage.getItem("rss-font-size");
-    if (savedSize) {
+// Text brightness: one gray level for all article text
+function applyBrightness(level) {
+    rootStyle.setProperty("--reader-text", `rgb(${level}, ${level}, ${level})`);
+}
+document.getElementById("brightness-slider")?.addEventListener("input", (e) => {
+    applyBrightness(e.target.value);
+    saveSetting("rss-brightness", e.target.value);
+});
+
+// Margins: percent of the reading area's width on each side.
+// "Auto" uses the built-in defaults for phone / tablet / desktop.
+function applyMargin(percent) {
+    if (percent === null) rootStyle.removeProperty("--reader-margin");
+    else rootStyle.setProperty("--reader-margin", `max(0.75rem, ${percent}%)`);
+    document.getElementById("margin-auto")?.classList.toggle("active", percent === null);
+}
+document.getElementById("margin-slider")?.addEventListener("input", (e) => {
+    applyMargin(e.target.value);
+    saveSetting("rss-margin", e.target.value);
+    relayoutReader();
+});
+document.getElementById("margin-auto")?.addEventListener("click", () => {
+    applyMargin(null);
+    saveSetting("rss-margin", null);
+    relayoutReader();
+});
+
+// Restore this device's saved settings
+(function restoreReadingSettings() {
+    const size = loadSetting("rss-font-size");
+    if (size) {
         const slider = document.getElementById("font-size-slider");
-        if (slider) slider.value = savedSize;
-        document.documentElement.style.setProperty("--reader-font-size", savedSize + "px");
+        if (slider) slider.value = size;
+        applyFontSize(size);
     }
-} catch(e) {}
+    const brightness = loadSetting("rss-brightness");
+    if (brightness) {
+        const slider = document.getElementById("brightness-slider");
+        if (slider) slider.value = brightness;
+        applyBrightness(brightness);
+    }
+    const margin = loadSetting("rss-margin");
+    if (margin !== null && margin !== "") {
+        const slider = document.getElementById("margin-slider");
+        if (slider) slider.value = margin;
+        applyMargin(margin);
+    } else {
+        applyMargin(null);
+    }
+})();
 
 document.getElementById("eink-toggle")?.addEventListener("click", () => {
     const isEink = document.body.classList.toggle("eink");
