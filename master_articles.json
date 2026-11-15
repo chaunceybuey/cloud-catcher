@@ -170,6 +170,16 @@
     "category": "Uncategorized"
   },
   {
+    "id": "https://www.nytimes.com/2026/11/15/dining/a-craggy-meatball-is-a-great-meatball.html",
+    "feed_name": "Weeknight Dishes",
+    "title": "A Craggy Meatball Is a Great Meatball",
+    "author": "Emily Weinstein",
+    "link": "https://www.nytimes.com/2026/11/15/dining/a-craggy-meatball-is-a-great-meatball.html",
+    "content": "These meatballs are messy and irregularly shaped, with more bits for browning and crevasses for soaking up tomato sauce.",
+    "date": "2026-11-15T14:00:11",
+    "category": "Uncategorized"
+  },
+  {
     "id": "https://www.kmfa.org/pages/23613-arts-on-alexander-vox-luminis",
     "feed_name": "KMFA",
     "title": "Arts on Alexander: Vox Luminis",
@@ -19987,16 +19997,6 @@
     "link": "https://www.nytimes.com/2026/09/19/dining/london-fog-cookies-take-teatime-to-new-heights.html",
     "content": "Carolina Gelen\u2019s London Fog cookies.",
     "date": "2026-09-19T14:00:05",
-    "category": "NYT"
-  },
-  {
-    "id": "https://www.nytimes.com/2026/09/19/arts/design/jacques-goudstikker-art-collection-museum-dispute.html",
-    "feed_name": "NYT (Arts)",
-    "title": "New Bid to Claim Cranach Paintings Held by Norton Simon Museum",
-    "author": "Nina Siegal",
-    "link": "https://www.nytimes.com/2026/09/19/arts/design/jacques-goudstikker-art-collection-museum-dispute.html",
-    "content": "Courts have upheld the museum\u2019s title to the paintings once looted by the Nazis, but a lawsuit seeks to press forward with the claim under a new California law.",
-    "date": "2026-09-19T13:00:07",
     "category": "NYT"
   }
 ]
